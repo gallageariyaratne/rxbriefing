@@ -1,13 +1,13 @@
 name: Build and deploy RxBriefing
 
-   on:
-     schedule:
-       - cron: "*/15 * * * *"
-     workflow_dispatch:
-     repository_dispatch:
-       types: [build]
-     push:
-       branches: [main]
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+  repository_dispatch:
+    types: [build]
+  push:
+    branches: [main]
 
 permissions:
   contents: write
