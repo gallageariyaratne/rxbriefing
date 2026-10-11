@@ -157,8 +157,9 @@ def approvals(sponsor_name):
             if not name or name in seen or prod.get("marketing_status") not in ("Prescription", "Over-the-counter"):
                 continue
             seen.add(name)
-            out.append({"brand": name.title(), "generic": (prod.get("active_ingredients") or [{}])[0].get("name", "").title(),
-                        "route": prod.get("route", "").title(), "app": app.get("application_number")})
+            ingredients = prod.get("active_ingredients") or [{}]
+            out.append({"brand": str(name).title(), "generic": str(ingredients[0].get("name") or "").title(),
+                        "route": str(prod.get("route") or "").title(), "app": app.get("application_number")})
     return sorted(out, key=lambda x: x["brand"])[:60]
 
 
