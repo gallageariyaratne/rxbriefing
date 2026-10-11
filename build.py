@@ -8,7 +8,7 @@ What this does, in order:
   4. Tags each story (FDA, Clinical, M&A, Earnings, ...)
   5. Fetches today's % price change for each ticker that appears
   6. Merges with the stories we already saved (data/news.json), keeps the last 10 days
-  7. Writes site/data/news.json + site/index.html + feed.xml + sitemap.xml
+  7. Writes site/data/news.json + feed.xml + daily.xml + sitemap.xml
 
 Run it with:  python build.py
 """
@@ -253,7 +253,10 @@ def main():
         if not s["tickers"] and s["source"] not in health_sources:
             continue
         if s["id"] in merged:
-            merged[s["id"]]["tickers"] = sorted(set(merged[s["id"]]["tickers"]) | set(s["tickers"]))
+            old_s = merged[s["id"]]
+            old_s["tickers"] = sorted(set(old_s["tickers"]) | set(s["tickers"]))
+            if s["published"] < old_s["published"]:   # a real date replaced a fetch-time stamp
+                old_s["published"] = s["published"]
             continue
         s["tag"] = tag(s["headline"], s["summary"])
         s["sectors"] = sorted({tickers[t]["sector"] for t in s["tickers"] if t in tickers})
