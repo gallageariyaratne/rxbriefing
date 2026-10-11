@@ -32,7 +32,7 @@ jobs:
           git config user.email "bot@rxbriefing.com"
           git add data/companies site/company site/data/companies.json
           git diff --cached --quiet || git commit -m "companies: $(date -u +'%Y-%m-%d')"
-          git pull --rebase
+          git pull --rebase --autostash
           git push
       - uses: cloudflare/wrangler-action@v3
         with:
