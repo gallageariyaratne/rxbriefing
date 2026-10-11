@@ -131,12 +131,24 @@ def trials(sponsor_name):
 
 # ---------------------------------------------------------------- openFDA
 def approvals(sponsor_name):
-    """Approved products listed under this sponsor in Drugs@FDA."""
-    q = sponsor_name.split()[0]
-    try:
-        data = get("https://api.fda.gov/drug/drugsfda.json",
-                   params={"search": f'sponsor_name:"{q}"', "limit": 100})
-    except Exception:
+    """Approved products listed under this sponsor in Drugs@FDA (openFDA)."""
+    words = [w for w in re.split(r"[^a-z0-9]+", sponsor_name.lower()) if w and w not in ("inc", "corp", "co", "the", "plc", "ltd", "ag", "sa", "nv")]
+    queries = [f'sponsor_name:"{sponsor_name.upper()}"', f'sponsor_name:"{" ".join(words[:2]).upper()}"', f"sponsor_name:{words[0].upper()}"]
+    data = None
+    for q in queries:
+        try:
+            data = get("https://api.fda.gov/drug/drugsfda.json", params={"search": q, "limit": 99})
+            if data.get("results"):
+                break
+        except requests.HTTPError as e:
+            if e.response is not None and e.response.status_code == 404:
+                continue   # no match for this query, try the next
+            print("  openfda:", e)
+            break
+        except Exception as e:
+            print("  openfda:", e)
+            break
+    if not data:
         return []
     seen, out = set(), []
     for app in data.get("results", []):
