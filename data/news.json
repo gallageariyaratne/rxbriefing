@@ -1,10 +1,14 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-11T03:55:50.590698+00:00",
+ "updated": "2026-10-11T04:13:35.094153+00:00",
  "quotes": {
   "ABT": {
    "price": 99.6,
    "change_pct": 1.13
+  },
+  "ALNY": {
+   "price": 232.68,
+   "change_pct": 3.63
   },
   "AMGN": {
    "price": 414.87,
@@ -26,9 +30,21 @@
    "price": 282.43,
    "change_pct": 0.5
   },
+  "CLOV": {
+   "price": 4.79,
+   "change_pct": 4.59
+  },
+  "CNC": {
+   "price": 65.36,
+   "change_pct": 1.27
+  },
   "CVS": {
    "price": 86.16,
    "change_pct": -1.87
+  },
+  "ELV": {
+   "price": 412.7,
+   "change_pct": 2.93
   },
   "GSK": {
    "price": 46.5,
@@ -42,9 +58,17 @@
    "price": 431.87,
    "change_pct": 11.56
   },
+  "IONS": {
+   "price": 45.28,
+   "change_pct": 4.57
+  },
   "IQV": {
    "price": 259.88,
    "change_pct": 0.39
+  },
+  "IRTC": {
+   "price": 106.7,
+   "change_pct": 4.0
   },
   "JNJ": {
    "price": 261.44,
@@ -57,6 +81,14 @@
   "MRK": {
    "price": 145.6,
    "change_pct": 2.26
+  },
+  "MRNA": {
+   "price": 225,
+   "change_pct": 14.21
+  },
+  "NTRA": {
+   "price": 400.71,
+   "change_pct": 2.54
   },
   "NVO": {
    "price": 38.64,
@@ -1663,6 +1695,52 @@
    "sectors": []
   },
   {
+   "id": "a1229a8b2790",
+   "headline": "Moderna Now Trades 61% Above Wall Street's Average Price Target. Should You Sell?",
+   "summary": "After a few years of stagnation, this stock is soaring.",
+   "url": "https://finnhub.io/api/news?id=cfea27c2bcc3854662f95ec52871962c40ba9898021bf05594b2e427776a803f",
+   "source": "Yahoo",
+   "published": "2026-10-10T22:35:00+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "03d8c35e2650",
+   "headline": "A COVID Vaccine Stock on the S&P 500 Is Up 600% This Year",
+   "summary": "Moderna stock is up 663% in 2026, beating AI names for the S&P 500 lead. Full cancer vaccine data arrives October 24.",
+   "url": "https://finnhub.io/api/news?id=4324a077ff4a72a38f2d5f3780564f0c42d186f4763ee7da222becfe6f97e70b",
+   "source": "Yahoo",
+   "published": "2026-10-10T22:23:54+00:00",
+   "tickers": [
+    "MRK",
+    "MRNA"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "66a683b4d67f",
+   "headline": "Merck Presents One-Year Results from the Pivotal Phase 2b/3 BRUNELLO Study Evaluating Remigromig, a Tri-specific Agonist of the Wingless-related Integration Site (Wnt) Pathway, in Adults with Diabetic Macular Edema at AAO 2026",
+   "summary": "RAHWAY, N.J., October 10, 2026--Merck (NYSE: MRK), known as MSD outside of the United States and Canada, today announced the first presentation of one-year results from the pivotal Phase 2b/3 BRUNELLO trial evaluating remigromig (MK-3000,\u2026",
+   "url": "https://finnhub.io/api/news?id=4fd7305addbfeffef70f03362a44d936449c5d3346132c1cb3625ad72b2382f7",
+   "source": "Yahoo",
+   "published": "2026-10-10T22:10:00+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "8bee278c710a",
    "headline": "Veeva Systems\u2019 (VEEV) Comeback Gets Jim Cramer Talking",
    "summary": "During the October 7 episode of Mad Money, Jim Cramer discussed Veeva Systems Inc. (NYSE:VEEV) as an example of a software business that had recovered from fears about AI disruption, as he said: Take Veeva Systems, the best of its\u2026",
@@ -1671,6 +1749,7 @@
    "published": "2026-10-10T21:55:49+00:00",
    "tickers": [
     "AMGN",
+    "LLY",
     "VEEV"
    ],
    "tag": "Health AI",
@@ -1706,6 +1785,21 @@
    "tag": "Clinical",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "e969832c7395",
+   "headline": "Clover Health Investments (CLOV) Is Up 9.4% After Securing 5-Star PPO CMS Rating For 2027",
+   "summary": "Clover Health Investments recently outlined its 2027 Medicare Advantage portfolio, highlighting $0-premium PPO options, low specialist copays, broad provider choice, and Clover Assistant-powered clinical decision support across a\u2026",
+   "url": "https://finnhub.io/api/news?id=3d939b90039bcfc1c75e7a618be6ad17338534e558523d7d1de24c0de05935f6",
+   "source": "Yahoo",
+   "published": "2026-10-10T19:09:48+00:00",
+   "tickers": [
+    "CLOV"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -1814,6 +1908,81 @@
    ]
   },
   {
+   "id": "98c42ed783ed",
+   "headline": "Clover Health (CLOV) Stock Looks In Line Despite 5 Star Medicare News",
+   "summary": "Clover Health Investments has seen its stock price move sharply in recent years, which puts fresh focus on whether today's valuation lines up with the revenue the business is generating. For anyone following Clover Health, the live\u2026",
+   "url": "https://finnhub.io/api/news?id=bc025a3e88851bc4df63c1a7e1a50041e069c1e8f47988e15c6b0a58108eab65",
+   "source": "Yahoo",
+   "published": "2026-10-10T15:14:47+00:00",
+   "tickers": [
+    "CLOV"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "cd9e09852104",
+   "headline": "Is Elevance Health (ELV) Undervalued After Its Recent Share Price Rally?",
+   "summary": "Elevance Health (ELV) has been on investors\u2019 radar after a recent share price move, with the stock last closing at US$412.70. That shift now meets a business generating US$201.1b in annual revenue. Recent trading has been firm, with a\u2026",
+   "url": "https://finnhub.io/api/news?id=0b462eacaa1b53b3d169f58aae8b11b72121493db5c69853c1525d166a11c2be",
+   "source": "Yahoo",
+   "published": "2026-10-10T15:14:15+00:00",
+   "tickers": [
+    "ELV"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "99d8558dc195",
+   "headline": "How FDA Breakthrough Status For Natera\u2019s Multi\u2011Cancer Test (NTRA) Has Changed Its Investment Story",
+   "summary": "Natera, Inc. recently received U.S. FDA Breakthrough Device designation for its investigational multi-cancer early detection blood test, which analyzes cell-free DNA and was evaluated across 12 cancer types for sensitivity, specificity,\u2026",
+   "url": "https://finnhub.io/api/news?id=7ac22cd24124e53927259e6a988c8d8e50b5391f7588c7e7861aa08cace5c12c",
+   "source": "Yahoo",
+   "published": "2026-10-10T15:12:56+00:00",
+   "tickers": [
+    "NTRA"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "b19fc776b55d",
+   "headline": "Top 3 Healthcare Stocks To Watch In October 2026",
+   "summary": "AI giants are pouring hundreds of billions into new health focused tools, and hospitals, insurers and drug makers are under pressure to show they can use that firepower to cut costs and ease staffing strains. That puts high quality\u2026",
+   "url": "https://finnhub.io/api/news?id=8edb6cb57b1f62c9f364a4f5a85474838e9989355c3915ea60bb4ed899d28b51",
+   "source": "Yahoo",
+   "published": "2026-10-10T14:17:30+00:00",
+   "tickers": [
+    "IRTC"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "a263ebf03219",
+   "headline": "Natera (NTRA) Stock May Be 33% Below Fair Value Despite FDA Breakthrough News",
+   "summary": "Natera has delivered a very large 3 year share price gain, and that surge now puts a spotlight on whether the current market value lines up with the cash flows the business is expected to generate. After a string of high profile cancer\u2026",
+   "url": "https://finnhub.io/api/news?id=0f77452bf90120d07569b1501a86f8fecefcda2a1284f61b07773067aa200b07",
+   "source": "Yahoo",
+   "published": "2026-10-10T14:16:43+00:00",
+   "tickers": [
+    "NTRA"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "0c45e44c1ec4",
    "headline": "Is Pfizer (PFE) Overvalued Even After Its Oncology Progress?",
    "summary": "Pfizer has quietly put together a 22.1% one year share price gain, helped by a steady drumbeat of oncology news, and the question for you now is whether that move still lines up with what the business earns. The 22.1% one year return puts\u2026",
@@ -1841,6 +2010,21 @@
    "tag": "Policy",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "c958de1c1de3",
+   "headline": "Natera (NTRA) Could Be 33% Undervalued Following FDA Breakthrough Device Designation",
+   "summary": "Natera (NTRA) is back in focus after the US Food and Drug Administration granted Breakthrough Device designation to its multi cancer early detection blood test, a move that reshapes how investors frame the company\u2019s diagnostics pipeline.\u2026",
+   "url": "https://finnhub.io/api/news?id=9929f574acf9a25a9d3e1c33ab2c799100ca63c83276887a5670528d9cd85959",
+   "source": "Yahoo",
+   "published": "2026-10-10T13:13:41+00:00",
+   "tickers": [
+    "NTRA"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -1889,6 +2073,21 @@
    ]
   },
   {
+   "id": "1cdc13282449",
+   "headline": "Has Elevance Health (ELV) Earned Its Discount After Medicare Updates?",
+   "summary": "Elevance Health has delivered solid gains over the past year, and fresh product updates in its Medicare business keep the story moving. The open question for anyone looking at the stock now is whether that share price is adequately backed\u2026",
+   "url": "https://finnhub.io/api/news?id=e2a48c7832581119d25e337ce0e2a59c173aef0dee8e42975c0ca37eedf13e28",
+   "source": "Yahoo",
+   "published": "2026-10-10T12:16:05+00:00",
+   "tickers": [
+    "ELV"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "d6d18f21052d",
    "headline": "$12,300 a Month in Dividends and Not One Bond: Is This Portfolio Too Good to Be True?",
    "summary": "A portfolio built entirely around stocks and equity funds can generate $12,300 a month, or $147,600 a year, in income. The no-bond design stands out with the 10-year Treasury yielding 5.2%. Using a blended yield of about 7.4% based on\u2026",
@@ -1919,6 +2118,21 @@
    ]
   },
   {
+   "id": "2b85d09a8500",
+   "headline": "The 1-Minute Market Report October 10, 2026",
+   "summary": "",
+   "url": "https://finnhub.io/api/news?id=ff3b3be067a4c287f88208fb12b78c29d20a59d27d74e110fe1720f8e2fbea04",
+   "source": "SeekingAlpha",
+   "published": "2026-10-10T11:01:42+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "2f3161fede88",
    "headline": "Banking Bellwethers Kick Off Earnings, Fed Chair's Speech In Focus",
    "summary": "Preview next week\u00e2\u0080\u0099s market-moving events\u00e2\u0080\u0094CPI, retail sales, Fed talk, and big bank earnings (JPM, GS, C, MS).",
@@ -1927,7 +2141,8 @@
    "published": "2026-10-10T11:00:00+00:00",
    "tickers": [
     "ABT",
-    "JNJ"
+    "JNJ",
+    "MRNA"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -1965,6 +2180,52 @@
    ]
   },
   {
+   "id": "307623c83c52",
+   "headline": "Centene Q3 2026 Preview: The Quarter Is Easy, The 2027 Bridge Is Not",
+   "summary": "Centene Corporation has rebounded sharply, with shares up 73% in a year, but now trades near fair value. Learn why CNC stock is a hold.",
+   "url": "https://finnhub.io/api/news?id=0638d227b9475332d4504c703b6dea21c8b01425ab3df9bcd0d0c305a267effe",
+   "source": "SeekingAlpha",
+   "published": "2026-10-10T09:36:26+00:00",
+   "tickers": [
+    "CNC"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "4c072fbbebcb",
+   "headline": "Alnylam vs. Ionis: Here's the Better Bad-News Buy",
+   "summary": "The sell-offs for both of these beaten-down biotech stocks appear to be overdone.",
+   "url": "https://finnhub.io/api/news?id=c9211bd0f24213d8b7d4d4e38cee85792f129e300d1b97b91c6421426eb29816",
+   "source": "Yahoo",
+   "published": "2026-10-10T09:04:00+00:00",
+   "tickers": [
+    "ALNY",
+    "IONS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "b33efb802563",
+   "headline": "5 Relatively Secure And Cheap Dividend Stocks, Yields Up To 8% Plus (October 2026)",
+   "summary": "We highlight five large-cap, relatively safe, dividend-paying companies offering significant discounts to their historical norms. Check out the list here.",
+   "url": "https://finnhub.io/api/news?id=d4f1fad9ff4940b69bbf8baed8448ad3d1454460013668fccccbcd262f2b0de5",
+   "source": "SeekingAlpha",
+   "published": "2026-10-10T08:35:00+00:00",
+   "tickers": [
+    "SNY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "e76ff6499359",
    "headline": "Abbott (ABT) Stock Could Be 24% Overvalued After Heart Failure News",
    "summary": "Abbott Laboratories has had a rough year in the market, and the recent product news now puts a sharper spotlight on whether the current share price is properly grounded in the cash the business can generate. With a Discounted Cash Flow\u2026",
@@ -1977,6 +2238,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "ce376112ca44",
+   "headline": "Is Denali Therapeutics (DNLI) Reasonably Valued On Future Cash Flow?",
+   "summary": "Denali Therapeutics has delivered a mixed share price journey, with sharp gains over the past year sitting against a much weaker longer track record. That kind of profile puts the spotlight firmly on whether the current stock price is\u2026",
+   "url": "https://finnhub.io/api/news?id=aad91380d98d90342ce4ba7df6223018b080b79595b63df69fe3c6e1e0aeaa21",
+   "source": "Yahoo",
+   "published": "2026-10-10T03:22:52+00:00",
+   "tickers": [
+    "DNLI"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -2010,6 +2286,36 @@
    ]
   },
   {
+   "id": "fe382b07b8e5",
+   "headline": "Merck (MRK) Stock Trades Below Fair Value Despite Its 117% Run",
+   "summary": "Merck has been one of the stronger performers in big pharma over the past few years, and with the stock recently around US$145.60, the real issue for investors is whether that climb is still grounded in the cash the business can generate.\u2026",
+   "url": "https://finnhub.io/api/news?id=39a6aea63f3556d27c0aa2dd07c6cebceb5377fa500139cc0ac30c609eb4924d",
+   "source": "Yahoo",
+   "published": "2026-10-10T02:13:49+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "88a49feb743e",
+   "headline": "John Moolenaar Urges Defense Department to Add 120 Chinese Schools and Tech Labs to US Research Funding Watchlist",
+   "summary": "John Moolenaar asks the US Defense Department to add 58 Chinese schools and 62 technology labs to its research funding restrictions list.",
+   "url": "https://finnhub.io/api/news?id=2e3fc18273d0313408985b49d17e646e670649022a16be256bd517845bce243e",
+   "source": "Benzinga",
+   "published": "2026-10-10T01:54:17+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "bfe5d5f24804",
    "headline": "Stocktwits Biotech Dealmaker \u2014 Viatris And GE Healthcare Buy What They Can Sell; Biohaven And Alector Sell Rights",
    "summary": "Drugmakers this week did not purchase experimental drug candidates but invested in approved drugs and a factory that makes imaging agents.",
@@ -2033,12 +2339,29 @@
    "published": "2026-10-10T00:47:04+00:00",
    "tickers": [
     "BMY",
+    "GILD",
     "JNJ",
+    "MRK",
     "PFE"
    ],
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "7abba53eb180",
+   "headline": "U.S. IPO Weekly Recap: Biotech IPOs Keep Flowing As Data Center Developer DayOne Joins The Pipeline",
+   "summary": "While market jitters have kept some IPO candidates on the sidelines, biotechs continue to tap the public market, with two more on the calendar for the week ahead. Read more here.",
+   "url": "https://finnhub.io/api/news?id=cacb4f0185d7927a32d29366670f05a5b740f5578fd4ba9bcb267ec0872d4dd1",
+   "source": "SeekingAlpha",
+   "published": "2026-10-10T00:30:00+00:00",
+   "tickers": [
+    "TRXB"
+   ],
+   "tag": "Financing",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -2057,6 +2380,21 @@
    ]
   },
   {
+   "id": "9a9a29198c8a",
+   "headline": "Why Natera (NTRA) Stock Is Up Today",
+   "summary": "Shares of genetic testing company Natera (NASDAQ:NTRA) jumped 1.7% in the morning session after the U.S. Food and Drug Administration granted Breakthrough Device designation to its blood-based multi-cancer early detection assay.",
+   "url": "https://finnhub.io/api/news?id=eb44b103043a3bfba7ad0f717f37fffa909657d4057a485c279b135d46bd7aa1",
+   "source": "Yahoo",
+   "published": "2026-10-10T00:19:10+00:00",
+   "tickers": [
+    "NTRA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "87ff833644fa",
    "headline": "3 Biotech Stocks To Watch In October 2026",
    "summary": "Rising U.S. interest rate expectations, highlighted by the St. Louis Fed hinting at possible hikes over the next 6 to 9 months, keep pressure on expensive, story driven assets. That focus on higher borrowing costs puts a premium on\u2026",
@@ -2064,7 +2402,8 @@
    "source": "Yahoo",
    "published": "2026-10-10T00:16:42+00:00",
    "tickers": [
-    "ARWR"
+    "ARWR",
+    "LLY"
    ],
    "tag": "News",
    "sectors": [
@@ -2094,7 +2433,24 @@
    "source": "Yahoo",
    "published": "2026-10-10T00:09:24+00:00",
    "tickers": [
+    "MRK",
+    "MRNA",
     "PFE"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "7c0dda7a2ea8",
+   "headline": "Why Moderna Stock Surged Today",
+   "summary": "The biotech could play a significant role in a national effort to combat cancer.",
+   "url": "https://finnhub.io/api/news?id=f56bd64c9b264ca01fd46e7475092dc34ffa8ab476200e9a0d2c7a0ddb5ec296",
+   "source": "Yahoo",
+   "published": "2026-10-10T00:07:31+00:00",
+   "tickers": [
+    "MRNA"
    ],
    "tag": "News",
    "sectors": [
@@ -2148,6 +2504,21 @@
    ]
   },
   {
+   "id": "122ffcbbc630",
+   "headline": "Why Is Clover Health (CLOV) Stock Soaring Today",
+   "summary": "Shares of health insurance company Clover Health (NASDAQ:CLOV) jumped 10.7% in the pre-market session after the company announced that the Centers for Medicare & Medicaid Services awarded its PPO Medicare Advantage plans a 5-Star rating\u2026",
+   "url": "https://finnhub.io/api/news?id=3f137de34e1374fc740ec28b50e2097d0cd08a39bff438e6f99cd85c0af61032",
+   "source": "Yahoo",
+   "published": "2026-10-09T22:35:10+00:00",
+   "tickers": [
+    "CLOV"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "6baad84d5fd6",
    "headline": "Dividend Champion, Contender, And Challenger Highlights: Week October 11",
    "summary": "Get a weekly dividend recap for Champions, Contenders & Challengers\u00e2\u0080\u0094see dividend changes, upcoming ex-dividend dates and pay dates.",
@@ -2156,7 +2527,8 @@
    "published": "2026-10-09T22:26:01+00:00",
    "tickers": [
     "ABT",
-    "CAH"
+    "CAH",
+    "TMO"
    ],
    "tag": "News",
    "sectors": [
@@ -2174,6 +2546,21 @@
     "HUM"
    ],
    "tag": "Analyst",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "83d4004d19a9",
+   "headline": "Stocks making big moves this week: PTC, Blink Charging, Onterris, Option Care Health, and Penguin Solutions",
+   "summary": "Check out the companies making headlines this week:",
+   "url": "https://finnhub.io/api/news?id=1332afc93fb985573de29cc624cc0c3d0547af4d0747a7af4d5a0cb47cd47c99",
+   "source": "Yahoo",
+   "published": "2026-10-09T21:47:10+00:00",
+   "tickers": [
+    "OPCH"
+   ],
+   "tag": "News",
    "sectors": [
     "payers"
    ]
@@ -2235,6 +2622,21 @@
    "sectors": []
   },
   {
+   "id": "f0526ff1082a",
+   "headline": "Why DaVita HealthCare (DVA) Outpaced the Stock Market Today",
+   "summary": "In the latest trading session, DaVita HealthCare (DVA) closed at $179.25, marking a +1.26% move from the previous day.",
+   "url": "https://finnhub.io/api/news?id=3657053d8db115de479c8d3f51fbbcfb80b5785121806a88c1e6e2d224acbfb9",
+   "source": "Yahoo",
+   "published": "2026-10-09T21:00:07+00:00",
+   "tickers": [
+    "DVA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "756d708e14ad",
    "headline": "Tenet Healthcare (THC) Beats Stock Market Upswing: What Investors Need to Know",
    "summary": "Tenet Healthcare (THC) closed the most recent trading day at $263.78, moving +1.23% from the previous trading session.",
@@ -2262,6 +2664,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "fb195c892266",
+   "headline": "Gilead Sciences (GILD) Laps the Stock Market: Here's Why",
+   "summary": "Gilead Sciences (GILD) closed the most recent trading day at $151.17, moving +2.77% from the previous trading session.",
+   "url": "https://finnhub.io/api/news?id=af60f572cf52793220433c93cd385c0045a9e6799c65229ac00d8dfd2ffe59ea",
+   "source": "Yahoo",
+   "published": "2026-10-09T21:00:04+00:00",
+   "tickers": [
+    "GILD"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -2381,6 +2798,36 @@
    "sectors": []
   },
   {
+   "id": "362a3f5f464d",
+   "headline": "MRNA Stock Sets New 52-Week High As Nasdaq-100 Reentry Meets NIH Cancer-Vaccine Push",
+   "summary": "Moderna shares on Friday were driven by multiple catalysts, including a Nasdaq-100 entry, a New York Times report on a planned NIH-backed cancer-vaccine push and a price target hike.",
+   "url": "https://finnhub.io/api/news?id=32888a724310a8ebb739390192df3753f6140611aa23b6d020d6eeeaf5dfde0b",
+   "source": "Yahoo",
+   "published": "2026-10-09T20:23:08+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "9b0bc8400b99",
+   "headline": "US Equity Markets End Higher Amid Broad Rally, Strong Mega-Cap Gains",
+   "summary": "US equity indexes ended higher Friday after a broad-based rally and strong gains in mega-cap technol",
+   "url": "https://finnhub.io/api/news?id=d7d5f0fd22730d92951f2014ccb62427ee49edb1d22e29743ec0b95307cbbb76",
+   "source": "Yahoo",
+   "published": "2026-10-09T20:22:00+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "47528a01222c",
    "headline": "Coca-Cola (NYSE:KO) & Johnson & Johson (NYSE:JNJ): Buy Them For The Dividends, Says Jim Cramer",
    "summary": "Coca-Cola (NYSE:KO) and Johnson & Johnson (NYSE:JNJ), while operating in completely different industries, factored into the discussion in Cramer\u2019s October 2nd morning appearance. The CNBC TV host discussed the two as stocks that could be\u2026",
@@ -2391,6 +2838,36 @@
     "JNJ"
    ],
    "tag": "Analyst",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "88b9397cb6ac",
+   "headline": "This Stock Is Up More than 560% This Year, but It Could Drop by 38%, According to Wall Street",
+   "summary": "Have Moderna\u2019s shares risen too much, too fast?",
+   "url": "https://finnhub.io/api/news?id=743b0382a723cbdc32d43787735790af20fd09acef17e366f8d38a2214800229",
+   "source": "Yahoo",
+   "published": "2026-10-09T20:20:02+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "d7e36bf38766",
+   "headline": "Everest Medicines (SEHK:1952) Gains Fresh MRNA Firepower As Undervalued View Holds",
+   "summary": "Why Everest Medicines Stock Is Back On Investors\u2019 Radar Everest Medicines (SEHK:1952) just added two experienced mRNA cancer vaccine scientists, Lakshmi Srinivasan, PhD, and Brandon Coder, PhD, to help advance its AI+mRNA platform and\u2026",
+   "url": "https://finnhub.io/api/news?id=15826fa17b57f86c4b629b7026146c99a3f083786b9f2f3f995c106283882fad",
+   "source": "Yahoo",
+   "published": "2026-10-09T20:12:33+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "Health AI",
    "sectors": [
     "pharma"
    ]
@@ -2448,7 +2925,9 @@
    "source": "Yahoo",
    "published": "2026-10-09T19:57:09+00:00",
    "tickers": [
-    "HUM"
+    "HUM",
+    "MRK",
+    "MRNA"
    ],
    "tag": "News",
    "sectors": [
@@ -2486,6 +2965,22 @@
    ]
   },
   {
+   "id": "16433233f19e",
+   "headline": "Moderna Stock Skyrockets on Reports of U.S. Cancer Vaccine Initiative",
+   "summary": "Moderna stock gains on reports of an initiative to accelerate cancer vaccine development. Here\u2019s why caution is warranted in playing MRNA shares at current levels.",
+   "url": "https://finnhub.io/api/news?id=d751c85017e1302e416e6bb9ec54f81278330dd63ea7b9a76ca4adb0a9fcdc1a",
+   "source": "Yahoo",
+   "published": "2026-10-09T19:17:10+00:00",
+   "tickers": [
+    "MRK",
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "a156e1181217",
    "headline": "Alignment Healthcare (ALHC) Stock Looks Fairly Valued Despite Earnings Questions",
    "summary": "Alignment Healthcare has seen its share price fall sharply over 2026, even with a recent bounce, which puts fresh focus on whether the current valuation lines up with what the business earns. With the stock reacting not only to\u2026",
@@ -2510,6 +3005,7 @@
    "tickers": [
     "AMGN",
     "JNJ",
+    "MRK",
     "UNH"
    ],
    "tag": "News",
@@ -2525,7 +3021,8 @@
    "source": "ChartMill",
    "published": "2026-10-09T19:05:01+00:00",
    "tickers": [
-    "HUM"
+    "HUM",
+    "MRNA"
    ],
    "tag": "News",
    "sectors": [
@@ -2557,9 +3054,42 @@
    "tickers": [
     "BMY",
     "JNJ",
+    "LLY",
+    "MRK",
     "PFE"
    ],
    "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "e79b24714e93",
+   "headline": "Explore the S&P500 index on Friday and find out which stocks are the most active in today's session.",
+   "summary": "Stay informed about the most active stocks in the S&P500 index on Friday's session. Discover the stocks that are generating the highest trading volume and driving market activity.",
+   "url": "https://finnhub.io/api/news?id=1fa9f1c674574e0933237001e1e66d77711e406a331cd57995c1136d4894f80d",
+   "source": "ChartMill",
+   "published": "2026-10-09T18:05:02+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "e0d4a785a6b5",
+   "headline": "Novavax Soars 16%, Moderna Surges 11%, Merck Climbs 3% as Biotech Rallies",
+   "summary": "Vaccine and biotechnology names are leading a sharp sector rally, and a small protein-vaccine developer is posting the biggest gain of the group. Novavax (NASDAQ:NVAX) shares recently changed hands at $12.77, up 16%. Also rallying,\u2026",
+   "url": "https://finnhub.io/api/news?id=631b204a897242e9067909ca94cf040449d481cd1c86236d331f3a110e4b093d",
+   "source": "Yahoo",
+   "published": "2026-10-09T17:59:42+00:00",
+   "tickers": [
+    "MRK",
+    "MRNA"
+   ],
+   "tag": "News",
    "sectors": [
     "pharma"
    ]
@@ -2572,9 +3102,26 @@
    "source": "Yahoo",
    "published": "2026-10-09T17:50:25+00:00",
    "tickers": [
-    "HUM"
+    "HUM",
+    "MRK",
+    "MRNA"
    ],
    "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "d8f36e99ec74",
+   "headline": "McKesson (MCK) Joins $5.8 Billion Option Care Health (OPCH) Acquisition. Is the Valuation Justified?",
+   "summary": "McKesson Corporation (NYSE:MCK) is expanding its specialty healthcare operations through a $5.8 billion acquisition (including debt) of Option Care Health, Inc. (NASDAQ:OPCH), partnering with private equity firm Clayton, Dubilier & Rice\u2026",
+   "url": "https://finnhub.io/api/news?id=fd6a7f2f5da2fe7193f181a051c1c9f775a76cc192965320d7c5f49ddd378d57",
+   "source": "Yahoo",
+   "published": "2026-10-09T17:49:18+00:00",
+   "tickers": [
+    "OPCH"
+   ],
+   "tag": "M&A",
    "sectors": [
     "payers"
    ]
@@ -2588,7 +3135,23 @@
    "published": "2026-10-09T17:45:49+00:00",
    "tickers": [
     "BMY",
+    "MRK",
     "PFE"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "2290b653ea4a",
+   "headline": "Record Highs Beckon for Big Caps as Small Caps Lag and Deal Flow Builds",
+   "summary": "Large caps closed out the week near record territory, with the S&P 500 and Nasdaq Composite both finishing higher even after a rocky start to the week. Small caps told a different story, with the Russell 2000 slipping on the week as\u2026",
+   "url": "https://finnhub.io/api/news?id=c1c6bc50f1bb76077d171dfd002ae96bb4d4d8e5a80d9aa25071aa091aadc0da",
+   "source": "Yahoo",
+   "published": "2026-10-09T17:30:00+00:00",
+   "tickers": [
+    "LLY"
    ],
    "tag": "News",
    "sectors": [
@@ -2603,7 +3166,9 @@
    "source": "Yahoo",
    "published": "2026-10-09T17:23:42+00:00",
    "tickers": [
+    "CNC",
     "CVS",
+    "ELV",
     "HUM",
     "UNH"
    ],
@@ -2718,6 +3283,51 @@
    ]
   },
   {
+   "id": "737bf21d6241",
+   "headline": "Teva: 'Hold' On FDA Approval Of Weltruza And Pivot To Growth Strategy",
+   "summary": "",
+   "url": "https://finnhub.io/api/news?id=f307b2d1a1e83fdee2a7232a2ab96f9babb7f42a111200ba2eb0f6e82646116e",
+   "source": "SeekingAlpha",
+   "published": "2026-10-09T16:55:56+00:00",
+   "tickers": [
+    "SNY"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "54728ea4ee38",
+   "headline": "QYLG Vs. QDVO: Market Fear Is Good For These Paychecks",
+   "summary": "",
+   "url": "https://finnhub.io/api/news?id=a524689f9aa69a966b4f44e89502e1c86aa5ca5ea20a8b8e924f199f71e540ac",
+   "source": "SeekingAlpha",
+   "published": "2026-10-09T16:55:35+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "4aa8f0cd9941",
+   "headline": "argenx Meets Primary Endpoint in Phase II Celiac Disease Study",
+   "summary": "ARGX's FB102 achieves its primary endpoint in a phase II celiac disease study, paving the way for late-stage development despite a nearly 12% stock drop.",
+   "url": "https://finnhub.io/api/news?id=776b14446d4eb8093753d7f39a3520e7e05899abe38e16916ce433b14d74fce5",
+   "source": "Yahoo",
+   "published": "2026-10-09T16:55:00+00:00",
+   "tickers": [
+    "ALNY"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "47459498a2f7",
    "headline": "Stock Market Midday, Oct. 9: Stocks Edge Higher, Humana jumps 13%",
    "summary": "On Oct. 9, 2026, major benchmarks recover from earlier volatility as AI jitters and geopolitical tensions ease.",
@@ -2742,6 +3352,7 @@
    "tickers": [
     "AMGN",
     "JNJ",
+    "MRK",
     "UNH"
    ],
    "tag": "News",
@@ -2783,6 +3394,8 @@
    "source": "Yahoo",
    "published": "2026-10-09T16:14:58+00:00",
    "tickers": [
+    "MRK",
+    "MRNA",
     "PFE"
    ],
    "tag": "News",
@@ -2798,11 +3411,28 @@
    "source": "Yahoo",
    "published": "2026-10-09T16:14:58+00:00",
    "tickers": [
+    "MRK",
+    "MRNA",
     "PFE"
    ],
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "60ece3923b5d",
+   "headline": "JP Morgan Maintains Neutral on Legend Biotech, Lowers Price Target to $33",
+   "summary": "JP Morgan analyst Jessica Fye maintains Legend Biotech (NASDAQ:LEGN) with a Neutral and lowers the price target from $35 to $33.",
+   "url": "https://finnhub.io/api/news?id=0b68756de907f0dc362a673a25e53e6b85171c540fb387272c21b89132e0ef38",
+   "source": "Benzinga",
+   "published": "2026-10-09T16:01:05+00:00",
+   "tickers": [
+    "LEGN"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -2845,6 +3475,7 @@
    "source": "Yahoo",
    "published": "2026-10-09T15:48:54+00:00",
    "tickers": [
+    "MRNA",
     "PFE"
    ],
    "tag": "News",
@@ -2895,6 +3526,21 @@
    ]
   },
   {
+   "id": "ff3a2be52f1f",
+   "headline": "Stryker (SYK) Is Changing CEOs After the Stock Fell 25% Over Twelve Months",
+   "summary": "Stryker Corporation (NYSE:SYK) traded at around $275 on October 7, down 1.01% on the day and 24.85% lower over twelve months. The company said on October 6 that Kevin Lobo will become executive chairman and Spencer Stiles will become\u2026",
+   "url": "https://finnhub.io/api/news?id=d77f15b12ba449eac11464b7530156f8cac7235c83a7d21bcaf2bdec9fc07ae9",
+   "source": "Yahoo",
+   "published": "2026-10-09T15:40:21+00:00",
+   "tickers": [
+    "SYK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "d22e06ae1efe",
    "headline": "Is Vertex Stock Worth More Than Its Competitors?",
    "summary": "Vertex Pharmaceuticals (VRTX) stock trades at 29.0 times earnings. That valuation prices the company higher than Regeneron and Incyte, two of its biotech peers. Vertex does generate the highest operating margin among its group of five\u2026",
@@ -2902,6 +3548,7 @@
    "source": "Yahoo",
    "published": "2026-10-09T15:36:49+00:00",
    "tickers": [
+    "ALNY",
     "BMRN",
     "INCY",
     "VRTX"
@@ -2985,6 +3632,21 @@
    ]
   },
   {
+   "id": "e54053260364",
+   "headline": "Moderna Stock Hits New 52-Week High: What's Happening?",
+   "summary": "Moderna shares are rising Friday to a fresh 52-week high. The stock enters the Nasdaq-100 Index. Here's what you should know.",
+   "url": "https://finnhub.io/api/news?id=b99251c849f7a1c45efa6bd9815de84bb2e70dac7f936818418f006549e03647",
+   "source": "Benzinga",
+   "published": "2026-10-09T15:18:12+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "4dbde197dcf7",
    "headline": "FDA review docs spark Revolution sell-off; Zealand diabetes data underwhelm analysts",
    "summary": "The new disclosure suggested Rasonque might not be as broadly effective as previously thought. Elsewhere, Ultragenyx got a much-needed cash infusion and TCGX started a China-focused fund.",
@@ -3007,7 +3669,8 @@
    "source": "Yahoo",
    "published": "2026-10-09T15:18:00+00:00",
    "tickers": [
-    "PFE"
+    "PFE",
+    "RVMD"
    ],
    "tag": "FDA",
    "sectors": [
@@ -3061,6 +3724,36 @@
    ]
   },
   {
+   "id": "161b6d865924",
+   "headline": "Eli Lilly (LLY) As Zepbound And Retatrutide Updates Test Whether More Upside Is Priced In",
+   "summary": "Eli Lilly (LLY) has shifted back into the spotlight after a run of high profile drug updates, with fresh data on Zepbound, Foundayo and the triple agonist retatrutide resetting market attention on its pipeline. After a choppy few months\u2026",
+   "url": "https://finnhub.io/api/news?id=b488b27c7742e4894e65fd2f1fea6d85930809624c4fe6a4103b6eed0444cf66",
+   "source": "Yahoo",
+   "published": "2026-10-09T15:12:45+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "33f1280e5846",
+   "headline": "Alnylam Pharmaceuticals (ALNY) Stock Looks Pricey Despite A 51% Slide",
+   "summary": "Alnylam Pharmaceuticals has seen a steep share price reset over the past year, which puts the focus squarely on whether the current valuation lines up with what the business earns. With recent legal scrutiny adding another layer of\u2026",
+   "url": "https://finnhub.io/api/news?id=4c9a6660173d4b76948dfee4cbcc2695ee07494163ec80d6490e5799a4b16829",
+   "source": "Yahoo",
+   "published": "2026-10-09T15:11:57+00:00",
+   "tickers": [
+    "ALNY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "6c6c7babe049",
    "headline": "A New War on Cancer? NIH's Vaccine Initiative Sparks Biotech Stock Rally",
    "summary": "A new NIH-backed initiative to speed up personalized cancer vaccine development sent stocks like MRNA, BNTX, and NVAX surging Friday.",
@@ -3068,6 +3761,8 @@
    "source": "Benzinga",
    "published": "2026-10-09T15:11:12+00:00",
    "tickers": [
+    "MRK",
+    "MRNA",
     "PFE"
    ],
    "tag": "News",
@@ -3088,6 +3783,36 @@
     "UNH"
    ],
    "tag": "Analyst",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "691e9ef4eeaa",
+   "headline": "DaVita: After A 25% Drop, The Buyback Machine Is Cheap Again",
+   "summary": "DaVita Inc. is rated a Buy with a $220 12-month price target, offering 22% upside from current levels. Read more on DVA stock here.",
+   "url": "https://finnhub.io/api/news?id=25b578a19f70e71834f2aa3bcb0f7c4591460547ca7ad75701f1ccb4d15bc228",
+   "source": "SeekingAlpha",
+   "published": "2026-10-09T15:06:09+00:00",
+   "tickers": [
+    "DVA"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "9ca9a5412bad",
+   "headline": "Deal Dispatch: Uber Buys ezCater For $2.3B, Skydance Takes Over Warner Bros., True Food Kitchen Bankruptcy",
+   "summary": "Major M&A deals this week include Viatris buys Pacira BioSciences, TowneBank acquires blueharbor, Energy Transfer buys Vacquero Midstream.",
+   "url": "https://finnhub.io/api/news?id=92546e8c535001a9c91c7067dcd42374edac84cda7c9007070044664e3809f11",
+   "source": "Benzinga",
+   "published": "2026-10-09T15:03:28+00:00",
+   "tickers": [
+    "OPCH"
+   ],
+   "tag": "M&A",
    "sectors": [
     "payers"
    ]
@@ -3136,6 +3861,21 @@
    ]
   },
   {
+   "id": "3ed9cdf03408",
+   "headline": "Stryker (SYK): Near-Term Growth Concerns Overshadow Long-Term Strength",
+   "summary": "Mar Vista Investment Partners, LLC, an investment management company, released its third-quarter 2026 investor letter for \u201cMar Vista U.S. Quality Strategy\u201d. The letter can be downloaded here. During the third quarter of 2026, financial\u2026",
+   "url": "https://finnhub.io/api/news?id=7b7bab613812100f96f5d50958c58acbc270a5c4062bed876bca184874c4a1af",
+   "source": "Yahoo",
+   "published": "2026-10-09T14:57:50+00:00",
+   "tickers": [
+    "SYK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "ff03e1c3b68f",
    "headline": "Earnings Calendar and Analysis for This Week (June 8-12)",
    "summary": "Check out our earnings calendar for this week, as well as our previews and recaps of the more noteworthy reports.",
@@ -3148,6 +3888,21 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "5df40f674570",
+   "headline": "EDIT Set to Begin First-in-Human Study in Hypercholesterolemia",
+   "summary": "Editas Medicine gains approval to launch the first-in-human phase I/II study of EDIT-401 in Australia, targeting LDL cholesterol through gene editing.",
+   "url": "https://finnhub.io/api/news?id=d531453d19a6897e88193554a7c30d7c518090e2943e850d48972bec8ef1f315",
+   "source": "Yahoo",
+   "published": "2026-10-09T14:53:00+00:00",
+   "tickers": [
+    "ALNY"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -3188,6 +3943,8 @@
    "source": "Benzinga",
    "published": "2026-10-09T14:42:02+00:00",
    "tickers": [
+    "CNC",
+    "ELV",
     "UNH"
    ],
    "tag": "Policy",
@@ -3254,6 +4011,21 @@
    "sectors": []
   },
   {
+   "id": "b5e5fa2ede11",
+   "headline": "Citi Sees 60% Upside in CRISPR Therapeutics. Here's What Has to Go Right.",
+   "summary": "Most of any gains (or lack thereof) from here will be driven by just three factors.",
+   "url": "https://finnhub.io/api/news?id=9470ffd90bca07f6e228e626d02eb389c12d5a03f9c55f1a3a9b985080f21e00",
+   "source": "Yahoo",
+   "published": "2026-10-09T14:20:00+00:00",
+   "tickers": [
+    "CRSP"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "9eec4acdd1cc",
    "headline": "Could You Have Seen The Run In Tempus AI Stock Coming?",
    "summary": "Tempus AI (TEM) stock returned 56.9% in the six months from April 9 to October 8, 2026. Partway through that timeline, on July 30, the company finally reported a quarterly profit following years of losses. Yet the stock's run began more\u2026",
@@ -3261,7 +4033,9 @@
    "source": "Yahoo",
    "published": "2026-10-09T14:19:13+00:00",
    "tickers": [
-    "ILMN"
+    "ILMN",
+    "IQV",
+    "NTRA"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -3281,6 +4055,21 @@
    "tag": "FDA",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "5322b209cf45",
+   "headline": "Option Care Health (OPCH) Faces Legal Review Of Its Proposed Takeover",
+   "summary": "Option Care Health (NasdaqGS:OPCH) faces shareholder investigations into its proposed sale to Clayton, Dubilier & Rice and McKesson Corporation. Several securities law firms announced probes into whether OPCH's board secured a fair price\u2026",
+   "url": "https://finnhub.io/api/news?id=9498b5cb98287f1f74d6cf582c78552f57037c256cff903ea892d9090ca6cee7",
+   "source": "Yahoo",
+   "published": "2026-10-09T14:16:00+00:00",
+   "tickers": [
+    "OPCH"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -3326,6 +4115,36 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "fa563dd442ea",
+   "headline": "Ionis Pharmaceuticals (IONS) After The Pullback Is The Undervalued Narrative Still Intact",
+   "summary": "Ionis Pharmaceuticals (IONS) has been drawing attention after a sharp pullback, with the share price down about 24% over the past month and roughly 26% in the past 3 months. Recent trading paints a mixed picture for Ionis Pharmaceuticals.\u2026",
+   "url": "https://finnhub.io/api/news?id=b525648d2868933a6a1171764c87589ca4b976c7ef1aac9830f36d81be534f0b",
+   "source": "Yahoo",
+   "published": "2026-10-09T14:12:46+00:00",
+   "tickers": [
+    "IONS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "3ca74df574ed",
+   "headline": "1 S&P 500 Stock with Solid Fundamentals and 2 We Turn Down",
+   "summary": "The S&P 500 (^GSPC) is often seen as a benchmark for strong businesses, but that doesn\u2019t mean every stock is worth owning. Some companies face significant challenges, whether it\u2019s stagnating growth, heavy debt, or disruptive new\u2026",
+   "url": "https://finnhub.io/api/news?id=b07771190f97608a02d8db6bbf93a042cb5beb0a5a451d2c240b7277ee774909",
+   "source": "Yahoo",
+   "published": "2026-10-09T14:11:10+00:00",
+   "tickers": [
+    "SYK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -3446,6 +4265,21 @@
    ]
   },
   {
+   "id": "a1ecd2316a9f",
+   "headline": "Viatris to Buy Pacira for $1.65B to Expand Non-Opioid Pain Portfolio",
+   "summary": "VTRS is set to acquire PCRX for $1.65 billion in cash, adding two marketed pain therapies and a clinical-stage gene therapy candidate to expand its non-opioid pain portfolio.",
+   "url": "https://finnhub.io/api/news?id=2c0ab1334d76195151a435b63cd5037292573e87cb646d93ebb8b2afe58ef06c",
+   "source": "Yahoo",
+   "published": "2026-10-09T13:37:00+00:00",
+   "tickers": [
+    "ALNY"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "07e349c9f28e",
    "headline": "10 Health Care Stocks Whale Activity In Today\u2019s Session",
    "summary": "This whale alert can help traders discover the next big trading opportunities. Whales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner. Traders will",
@@ -3455,6 +4289,8 @@
    "tickers": [
     "BMY",
     "BSX",
+    "LLY",
+    "MRNA",
     "ZTS"
    ],
    "tag": "News",
@@ -3500,7 +4336,8 @@
    "source": "Benzinga",
    "published": "2026-10-09T13:27:07+00:00",
    "tickers": [
-    "HUM"
+    "HUM",
+    "MRNA"
    ],
    "tag": "News",
    "sectors": [
@@ -3520,6 +4357,21 @@
    "tag": "Policy",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "0fe2973476d0",
+   "headline": "Eli Lilly (LLY) Posted 48% Revenue Growth. Why Does the Stock Trade Below Its Average Multiple?",
+   "summary": "Eli Lilly (NYSE:LLY) reported 48% revenue growth for the second quarter of 2026 a while ago and raised its outlook for the year. Yet the stock trades at 30.94 times forward earnings, as of October 6, well below the 45.59 it has averaged\u2026",
+   "url": "https://finnhub.io/api/news?id=1864a04e9096687280b7015d86d2b7d450016c9af37cd6c1afd47ba01dfa5806",
+   "source": "Yahoo",
+   "published": "2026-10-09T13:25:35+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -3547,6 +4399,36 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "9f7ccac16614",
+   "headline": "Eli Lilly\u2019s Biggest Shareholder Just Filed to Sell $347 Million of Stock",
+   "summary": "Lilly's largest shareholder just filed to unload nearly $350 million in stock while analysts keep raising their price targets, and those two facts point in opposite directions for investors trying to read the room.",
+   "url": "https://finnhub.io/api/news?id=3555dac2014c647835f5a898f9266e50f392f4d705d5bb01eb9efc575730042f",
+   "source": "Yahoo",
+   "published": "2026-10-09T13:20:32+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "8208afcab505",
+   "headline": "Thermo Fisher Scientific's Q3 2026 Earnings: What to Expect",
+   "summary": "Thermo Fisher Scientific is poised to release its third-quarter results later this month, and analysts project a double-digit earnings rise.",
+   "url": "https://finnhub.io/api/news?id=c020d3abe82c3115a89a3cc0a2f05b93f15d4411b613658d3758e4376bdb726c",
+   "source": "Yahoo",
+   "published": "2026-10-09T13:18:23+00:00",
+   "tickers": [
+    "TMO"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
   },
   {
    "id": "5e97608d31c0",
@@ -3604,7 +4486,10 @@
    "source": "Yahoo",
    "published": "2026-10-09T13:13:59+00:00",
    "tickers": [
+    "CLOV",
+    "CNC",
     "CVS",
+    "ELV",
     "HUM",
     "UNH"
    ],
@@ -3782,6 +4667,21 @@
    ]
   },
   {
+   "id": "30d12a659a94",
+   "headline": "Should You Buy, Hold or Sell Tempus AI Stock Amid AI Boom?",
+   "summary": "TEM's strong data licensing growth, AI-driven innovations and rising shares favor holding the stock, but premium valuation and reimbursement risks warrant caution.",
+   "url": "https://finnhub.io/api/news?id=362890df5f4f5cbb970946fa0b82c7f2f834dbc1e7121e048a52e9c98afd3e38",
+   "source": "Yahoo",
+   "published": "2026-10-09T12:51:00+00:00",
+   "tickers": [
+    "IRTC"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "143eac41c4bc",
    "headline": "Quest Diagnostics (NYSE:DGX): A Dividend Quality Pick for Income Investors",
    "summary": "Quest Diagnostics (DGX) clears ChartMill's Best Dividend screen with a 2.1% yield, strong profitability, safe payout, and 10+ years of dividend growth.",
@@ -3804,6 +4704,7 @@
    "source": "Yahoo",
    "published": "2026-10-09T12:50:00+00:00",
    "tickers": [
+    "DVA",
     "GMED"
    ],
    "tag": "News",
@@ -3859,6 +4760,21 @@
    ]
   },
   {
+   "id": "3e4251e94537",
+   "headline": "Natera Receives FDA Breakthrough Device Designation for Multi-Cancer Early Detection Blood Test",
+   "summary": "Natera (NASDAQ:NTRA) has received Breakthrough Device Designation from the US Food and Drug Administration (FDA) for its investigational multi-cancer early detection (MCED) blood test, marking a regulatory milestone in the company\u2019s\u2026",
+   "url": "https://finnhub.io/api/news?id=820e6ce3ddb0f9ccb67237b36d39726ad845f26df91dd80b6150110a9e30990c",
+   "source": "Yahoo",
+   "published": "2026-10-09T12:41:04+00:00",
+   "tickers": [
+    "NTRA"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "03e87e424d5a",
    "headline": "Humana Says 95% of Medicare Advantage Members Are Enrolled in Plans Rated Four Stars or Higher for 2027",
    "summary": "Humana (NYSE:HUM) reported that 95% of its Medicare Advantage members are enrolled in plans receiving quality ratings of at least four stars from the Centers for Medicare & Medicaid Services (CMS) for 2027, marking an improvement from the\u2026",
@@ -3867,6 +4783,21 @@
    "published": "2026-10-09T12:37:18+00:00",
    "tickers": [
     "HUM"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "378d12cebd0c",
+   "headline": "Clover Health Stock Pops: What's Happening?",
+   "summary": "Clover Health Investments shares are jumping after CMS awarded the company's Medicare Advantage plans high 2027 Star ratings.",
+   "url": "https://finnhub.io/api/news?id=889dbce9c805bb54e168c62ce2f4dc7d56e36e149c2eabe7defcf1e5aeac783b",
+   "source": "Benzinga",
+   "published": "2026-10-09T12:37:02+00:00",
+   "tickers": [
+    "CLOV"
    ],
    "tag": "Policy",
    "sectors": [
@@ -3905,6 +4836,22 @@
    ]
   },
   {
+   "id": "9881fcb745ea",
+   "headline": "ARGX Stock Down on Stopping Late-Stage Autoimmune Disease Study",
+   "summary": "argenx shares tumble 12% after discontinuing its late-stage Sjogren's disease study, while positive FB102 data in celiac disease offer a contrasting pipeline development.",
+   "url": "https://finnhub.io/api/news?id=563790c3222f82e406edb5f7cc71388a7093353407156e64c2d8b757317e6cb9",
+   "source": "Yahoo",
+   "published": "2026-10-09T12:31:00+00:00",
+   "tickers": [
+    "ALNY",
+    "CRSP"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "d2b190d391e1",
    "headline": "Wall Street Left Software for Dead: 4 Stocks Institutions Are Buying Back",
    "summary": "Salesforce, CrowdStrike, Palo Alto Networks and Veeva Systems are rebounding as institutions buy software stocks that own the customer data AI now depends on.",
@@ -3928,6 +4875,7 @@
    "published": "2026-10-09T12:30:00+00:00",
    "tickers": [
     "ALHC",
+    "CLOV",
     "HUM"
    ],
    "tag": "News",
@@ -3944,12 +4892,28 @@
    "published": "2026-10-09T12:29:18+00:00",
    "tickers": [
     "ALHC",
+    "CLOV",
     "CVS",
     "HUM"
    ],
    "tag": "Analyst",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "205bcc5a4e83",
+   "headline": "IQVIA Holdings\u2019 Quarterly Earnings Preview: What You Need to Know",
+   "summary": "IQVIA Holdings is all set to post its third-quarter earnings later this month and analysts expect a high-single-digit boost in its EPS.",
+   "url": "https://finnhub.io/api/news?id=5948041bdd0d0af282f299ec0e1c9128f8a8966b45b6528df4d64df2a58d43e8",
+   "source": "Yahoo",
+   "published": "2026-10-09T12:27:25+00:00",
+   "tickers": [
+    "IQV"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -3965,6 +4929,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "0d4a1d9dd34e",
+   "headline": "1 Healthcare Stock Worth Your Attention and 2 We Turn Down",
+   "summary": "From novel pharmaceuticals to telemedicine, most healthcare companies are on a mission to drive better patient outcomes. Those leading the charge have not only realized strong financial performance but also propelled the broader\u2026",
+   "url": "https://finnhub.io/api/news?id=6dd877f3469979679087c69ce404d5a68ed6c5557e86ed84cc6f922fd9b51c70",
+   "source": "Yahoo",
+   "published": "2026-10-09T12:11:10+00:00",
+   "tickers": [
+    "HIMS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
    ]
   },
   {
@@ -3990,9 +4969,26 @@
    "source": "Yahoo",
    "published": "2026-10-09T12:00:08+00:00",
    "tickers": [
+    "LLY",
+    "MRK",
     "PFE"
    ],
    "tag": "Analyst",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "5cda236a144a",
+   "headline": "Here is What to Know Beyond Why Eli Lilly and Company (LLY) is a Trending Stock",
+   "summary": "Lilly (LLY) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
+   "url": "https://finnhub.io/api/news?id=5b087f5c5d74142f1603ff847d3e9ea6b9f49b491d94425a992b46e2550bbc41",
+   "source": "Yahoo",
+   "published": "2026-10-09T12:00:06+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "News",
    "sectors": [
     "pharma"
    ]
@@ -4023,6 +5019,21 @@
     "CRL"
    ],
    "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "1b62099236cb",
+   "headline": "FDA Grants Breakthrough Device Designation for Natera\u2019s Multi-Cancer Early Detection Assay",
+   "summary": "AUSTIN, Texas, October 09, 2026--Natera, Inc. (NASDAQ: NTRA), a global leader in cell-free DNA and precision medicine, today announced that its multi-cancer early detection (MCED) assay has been granted Breakthrough Device designation\u2026",
+   "url": "https://finnhub.io/api/news?id=33304947fdc21978c00c6ca528323471a1724c8bbc900c01174a8d12bf87ac04",
+   "source": "Yahoo",
+   "published": "2026-10-09T12:00:00+00:00",
+   "tickers": [
+    "NTRA"
+   ],
+   "tag": "FDA",
    "sectors": [
     "tools"
    ]
@@ -4070,6 +5081,21 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "9e5f91bdd84b",
+   "headline": "TRex Bio IPO raises $116.7 million, prices at bottom of range",
+   "summary": "The clinical-stage biotech sold about 8.3 million shares at $14 each, the low end of its $14-to-$16 marketed range",
+   "url": "https://finnhub.io/api/news?id=2abdf24877bb13ddc64c69ab7ac447d515c1012e9c89076f2106ad69db5b70f7",
+   "source": "Yahoo",
+   "published": "2026-10-09T11:53:50+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "Financing",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -4149,6 +5175,21 @@
    ]
   },
   {
+   "id": "026ec5fe94e0",
+   "headline": "UBS Downgrades Option Care Health to Neutral, Lowers Price Target to $32.05",
+   "summary": "UBS analyst A.J. Rice downgrades Option Care Health (NASDAQ:OPCH) from Buy to Neutral and lowers the price target from $39 to $32.05.",
+   "url": "https://finnhub.io/api/news?id=7e82d46a0bae3ba2b067422ea6482d25e5dfa8f3d50ab7b402731ad8b4121ba2",
+   "source": "Benzinga",
+   "published": "2026-10-09T11:25:12+00:00",
+   "tickers": [
+    "OPCH"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "b72a925141d3",
    "headline": "Bio-Techne opens GMP small molecule facility in Bristol, UK",
    "summary": "The purpose-built site is fully operational and produces materials to support developers working on cell therapies globally.",
@@ -4172,6 +5213,7 @@
    "published": "2026-10-09T11:00:02+00:00",
    "tickers": [
     "JNJ",
+    "MRNA",
     "PFE"
    ],
    "tag": "News",
@@ -4235,6 +5277,7 @@
    "published": "2026-10-09T10:51:05+00:00",
    "tickers": [
     "HUM",
+    "MRNA",
     "TWST"
    ],
    "tag": "Earnings",
@@ -4285,6 +5328,21 @@
    "tag": "Analyst",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "b58a5483efe7",
+   "headline": "New Phase 3b data on Lilly's Taltz (ixekizumab) and Zepbound (tirzepatide) advance understanding of the interconnected immune and metabolic biology in adults with psoriasis and obesity",
+   "summary": "Eli Lilly and Company (NYSE: LLY) today announced new exploratory data from the TOGETHER-PsO Phase 3b clinical trial evaluating the concomitant use of Taltz (ixekizumab) and Zepbound (tirzepatide) compared with Taltz alone in adults with\u2026",
+   "url": "https://finnhub.io/api/news?id=ccbf14ed235f2d8bb983bc42c2a97a577806902d1834893bef0069f54f627258",
+   "source": "Yahoo",
+   "published": "2026-10-09T10:45:00+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -4393,6 +5451,21 @@
    ]
   },
   {
+   "id": "d5e8b52761e8",
+   "headline": "Trading Halt: Halt status updated at 10:10:00 AM ET: Quotation Resumption: IPO security released for quotation",
+   "summary": "",
+   "url": "https://finnhub.io/api/news?id=2a4eec263bf8020b0e0cce6715d0e1f31054918b819aa1202582b89de66ca8d0",
+   "source": "Benzinga",
+   "published": "2026-10-09T10:10:00+00:00",
+   "tickers": [
+    "TRXB"
+   ],
+   "tag": "Financing",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "956158eed988",
    "headline": "Oppenheimer Maintains Outperform on Humana, Raises Price Target to $475",
    "summary": "Oppenheimer analyst Michael Wiederhorn maintains Humana (NYSE:HUM) with a Outperform and raises the price target from $405 to $475.",
@@ -4495,6 +5568,21 @@
     "HUM"
    ],
    "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "1c0903a07aaf",
+   "headline": "Option Care Health (OPCH) Stock May Be Undervalued Despite The $5.8 Billion Buyout",
+   "summary": "Option Care Health shares have jumped into focus after a sharp move higher and a US$5.8b buyout agreement, which raises a straightforward question for investors who care about valuation. Does the current price around the deal level make\u2026",
+   "url": "https://finnhub.io/api/news?id=49dcab10b88a6e931005c6a6946230572ef84117f1fee25d712af82f91297e10",
+   "source": "Yahoo",
+   "published": "2026-10-09T09:19:04+00:00",
+   "tickers": [
+    "OPCH"
+   ],
+   "tag": "M&A",
    "sectors": [
     "payers"
    ]
@@ -4620,6 +5708,21 @@
    "sectors": []
   },
   {
+   "id": "d7de7cdf5372",
+   "headline": "CGDV Has Been A Winner In My Portfolio, And I Think It Continues, Here's Why",
+   "summary": "",
+   "url": "https://finnhub.io/api/news?id=bd314959f8d64da519d098419b9d00b84ad9847ad11f5e4a37678077bb460a77",
+   "source": "SeekingAlpha",
+   "published": "2026-10-09T08:20:00+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "0f0b7982c031",
    "headline": "Why Is Bruker (BRKR) Getting Attention For Its Human Plasma Proteome Atlas?",
    "summary": "Bruker (NasdaqGS:BRKR) and Charit\u00e9 have released a draft atlas of the human plasma proteome at proteoform resolution. The project maps more than 179,000 distinct plasma proteoforms, using Bruker's timsTOF mass spectrometry platform as a\u2026",
@@ -4635,6 +5738,21 @@
    ]
   },
   {
+   "id": "b8b7ce249fbd",
+   "headline": "iRhythm Holdings (IRTC) Disclosed Unauthorized Access To Patient Data",
+   "summary": "iRhythm Holdings (NasdaqGS: IRTC) reported a cybersecurity incident involving unauthorized access to certain patient data that is now under investigation. The business has submitted regulatory disclosures on the breach and outlined\u2026",
+   "url": "https://finnhub.io/api/news?id=3ada9f4baf0905dfebda204b5197fee5207c6e021d16ae1739e724b82c8ef87b",
+   "source": "Yahoo",
+   "published": "2026-10-09T08:12:42+00:00",
+   "tickers": [
+    "IRTC"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "097a6125d65b",
    "headline": "12 Health Care Stocks Moving In Friday's Pre-Market Session",
    "summary": "Gainers Humana (NYSE:HUM) stock moved upwards by 16.2% to $450.0 during Friday's pre-market session. The market value of their outstanding shares is at $46.4 billion. XORTX Therapeutics (NASDAQ:XRTX) shares",
@@ -4643,11 +5761,27 @@
    "published": "2026-10-09T08:05:40+00:00",
    "tickers": [
     "ALHC",
+    "CLOV",
     "HUM"
    ],
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "ff5f0471bb4b",
+   "headline": "Natera Receives FDA's Breakthrough Device Designation For Its Multi-Cancer Early Detection Assay",
+   "summary": "Natera, Inc. (NASDAQ: NTRA), a global leader in cell-free DNA and precision medicine, today announced that its multi-cancer early detection (MCED) assay has been granted Breakthrough Device designation (BDD) by the U.S.",
+   "url": "https://finnhub.io/api/news?id=ddf5f8b683e67baee2b9decfa4f3a7a45807ee2d251f4590b38bd7b500c08d57",
+   "source": "Benzinga",
+   "published": "2026-10-09T08:02:22+00:00",
+   "tickers": [
+    "NTRA"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -4696,6 +5830,21 @@
    ]
   },
   {
+   "id": "8c0b0411829d",
+   "headline": "Eli Lilly: Weight-Loss Money Machine Isn't Slowing Down",
+   "summary": "",
+   "url": "https://finnhub.io/api/news?id=774c403eab6692bfeb5c7766ff2e41e6cdcd2b887fe617d81f12b305a01ffd81",
+   "source": "SeekingAlpha",
+   "published": "2026-10-09T07:38:44+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "3a3dbec5fb5d",
    "headline": "Humana FY2026 Adj EPS expected to be more than $9.00 vs $9.15 Est",
    "summary": "Humana (NYSE:HUM) FY2026 expected to be more than $9.00 vs $9.15 Est..",
@@ -4741,6 +5890,36 @@
    ]
   },
   {
+   "id": "1305d557990d",
+   "headline": "Is Denali Therapeutics (DNLI) Undervalued As Its Share Price Pullback Tests Fair Value?",
+   "summary": "Denali Therapeutics (DNLI) has pulled back sharply, with the share price down about 15% over the past month and 27% in the past 3 months. This decline has drawn fresh attention to its valuation. Short term momentum for Denali Therapeutics\u2026",
+   "url": "https://finnhub.io/api/news?id=9dda2aa8ba27ca3bc7a3449cfcab4439b521eff6c941c2eda9a84bce057cf067",
+   "source": "Yahoo",
+   "published": "2026-10-09T07:15:04+00:00",
+   "tickers": [
+    "DNLI"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "1845c82d0e86",
+   "headline": "How TG\u2019s MS Data Wave At MSToronto2026 At TG Therapeutics (TGTX) Has Changed Its Investment Story",
+   "summary": "TG Therapeutics, Inc. has scheduled multiple data presentations at the 10th Joint ACTRIMS-ECTRIMS Meeting (MSToronto2026), including a late-breaking oral session on initial Phase 1 results for azer-cel, an allogeneic CD19-directed CAR\u2026",
+   "url": "https://finnhub.io/api/news?id=c2ac329b1726cc9bc6c387721d3f469430afe528c513c3411ac6a604669c6fa2",
+   "source": "Yahoo",
+   "published": "2026-10-09T07:14:38+00:00",
+   "tickers": [
+    "TGTX"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "3b0e18838e90",
    "headline": "Johnson & Johnson Announces New Two-year Results From Its Phase 3 ICONIC-LEAD Study Evaluating ICOTYDE In Adults With Moderate-To-Severe Plaque Psoriasis; Data Demonstrated Consistently High Levels Of Skin Clearance And Patient-Reported Symptom Improvement At Week 112, With No New Safety Signals",
    "summary": "ICOTYDE clinical data highlights2High levels of skin clearance were observed at Week 112, with \u226572% of ICOTYDE-treated patients achieving a Psoriasis Area and Severity Index score (PASI)c of 90 and \u226570% achieving clear",
@@ -4761,6 +5940,21 @@
    "summary": "The CFO transition is part of a recent wave of leadership changes at Henry Schein, including a new CEO.",
    "url": "https://www.medtechdive.com/news/henry-schein-appoints-emmanuel-caprais-as-cfo/832584/",
    "source": "MedTech Dive",
+   "published": "2026-10-09T07:06:12+00:00",
+   "tickers": [
+    "HSIC"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
+  {
+   "id": "b2b6602ac3bc",
+   "headline": "Henry Schein appoints Emmanuel Caprais as CFO",
+   "summary": "The CFO transition is part of a recent wave of leadership changes at Henry Schein, including a new CEO.",
+   "url": "https://finnhub.io/api/news?id=b9f6be22480a39f41b95fb01a7414713081fd797f4e930f8fe7ddbe0d58e81aa",
+   "source": "Yahoo",
    "published": "2026-10-09T07:06:12+00:00",
    "tickers": [
     "HSIC"
@@ -4801,6 +5995,21 @@
    ]
   },
   {
+   "id": "1edcb21fa763",
+   "headline": "Eli Lilly Presents New Exploratory Data From The TOGETHER-PSO Phase 3B Clinical Trial Taltz And Zepbound Compared With Taltz Alone In Adults With Moderate-To-Severe Plaque Psoriasis And Obesity Or Overweight; Data Showed Broader Biomarker Changes With Taltz And Zepbound Vs Taltz Alone",
+   "summary": "The prespecified analysis, presented at the 2026 Fall Clinical Dermatology Conference in Las Vegas, provides new insights suggesting an immunometabolic relationship between psoriasis and obesity. These data showed that",
+   "url": "https://finnhub.io/api/news?id=8bd67fe5ea4ee9d198ea2ae6b48d3f39ab97b91daba22952851ad617ddb02a17",
+   "source": "Benzinga",
+   "published": "2026-10-09T06:48:04+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "a6979c4e8439",
    "headline": "Is Doximity (DOCS) Below Fair Value Following The AI Spending Surge?",
    "summary": "Doximity (DOCS) caught fresh attention after its shares moved higher on a report showing a jump in infrastructure service spending tied to artificial intelligence, prompting investors to reassess the stock\u2019s AI exposure. Short term\u2026",
@@ -4824,6 +6033,7 @@
    "published": "2026-10-09T06:11:24+00:00",
    "tickers": [
     "CVS",
+    "ELV",
     "HUM",
     "OSCR",
     "UNH"
@@ -4895,6 +6105,21 @@
    ]
   },
   {
+   "id": "84f1b14e6ac6",
+   "headline": "UBS Called Novo Nordisk a 'Value Trap.' Here's the Other Side of That Argument.",
+   "summary": "UBS analyst Michael Yee called Novo Nordisk a value trap, but still sees a turnaround playing out over time.",
+   "url": "https://finnhub.io/api/news?id=dc6bc64a67ab2b848491e6be1502ea8031047d067006764c76c115c295ada334",
+   "source": "Yahoo",
+   "published": "2026-10-09T02:35:00+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "4ebd11fa8997",
    "headline": "What is Illumina\u2019s (ILMN) Economic Moat, and is it Widening or Narrowing?",
    "summary": "Illumina, Inc. (NASDAQ:ILMN) traded at around $268 on October 7, down 2.11% on the day, though still 183.61% higher over twelve months. Revenue grew 9.40% in the most recent quarter while earnings fell 11.90%. A business selling more and\u2026",
@@ -4905,6 +6130,96 @@
     "ILMN"
    ],
    "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "ffd53c5d5300",
+   "headline": "TG Therapeutics (TGTX) Stock May Be Undervalued Despite Fresh Newsflow",
+   "summary": "TG Therapeutics has delivered a very large share price gain over the past three years, which naturally puts a spotlight on whether its current valuation is still grounded in the earnings the business produces. With fresh clinical data\u2026",
+   "url": "https://finnhub.io/api/news?id=3d7b7e2ba741f9a4980c51ad2583ca72b8b6db1b8a3d268e4c3b0b988ed3d343",
+   "source": "Yahoo",
+   "published": "2026-10-09T02:13:28+00:00",
+   "tickers": [
+    "TGTX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "215a74efc747",
+   "headline": "Everest Medicines Appoints Two Veteran mRNA Cancer Vaccine Scientists to Advance Global Clinical Development",
+   "summary": "Everest Medicines (HKEX 1952.HK, \"Everest\", or the \"Company\"), a biopharmaceutical company focused on the discovery, clinical development, manufacturing, and commercialization of innovative therapeutics, today announced the appointments\u2026",
+   "url": "https://finnhub.io/api/news?id=a66160dd6197d6881e84136ccd05fcd21e73b9f43c6526ff6dab0e556b251bc9",
+   "source": "Yahoo",
+   "published": "2026-10-09T02:13:00+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "ac417b3cf4af",
+   "headline": "Moderna (MRNA) Was Removed From the Nasdaq-100 and Is Going Back In. What Changed?",
+   "summary": "Moderna, Inc. (NASDAQ:MRNA) traded at around $196 on October 7, up 4.81% on the day and 571.42% higher over twelve months. Nasdaq said the company will rejoin the Nasdaq-100 before the open on October 9, replacing Warner Bros. Discovery.\u2026",
+   "url": "https://finnhub.io/api/news?id=17a72026cbe6ce0c10a7144d1a875f5666cdcd68f08d4a852ca83ee3857ac279",
+   "source": "Yahoo",
+   "published": "2026-10-09T01:44:46+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "a87246b91a6e",
+   "headline": "TRexBio Announces Pricing of Initial Public Offering",
+   "summary": "SOUTH SAN FRANCISCO, Calif., Oct. 08, 2026 (GLOBE NEWSWIRE) -- TRex Bio, Inc. (\u201cTRexBio\u201d) (Nasdaq: TRXB), a clinical-stage biotechnology company focused on tissue Treg biology for the discovery and development of immunoregulatory\u2026",
+   "url": "https://finnhub.io/api/news?id=29ca91b6fdcaae4a604061e0a26ce98753628b413088c792b7b4ade9bc69a664",
+   "source": "Yahoo",
+   "published": "2026-10-09T01:29:00+00:00",
+   "tickers": [
+    "TRXB"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "ed48e91e9562",
+   "headline": "Ionis Pharmaceuticals (IONS) Stock Could Still Trade At A Premium Despite A 46% Slump",
+   "summary": "Ionis Pharmaceuticals has seen its share price fall sharply this year, which naturally raises a question for holders and prospective buyers. Is the current valuation still supported by the company\u2019s sales profile, or has the market moved\u2026",
+   "url": "https://finnhub.io/api/news?id=0881a8aa011383d6a58a27461dac9cd13cd1da68254b54886fa518eb5857e72c",
+   "source": "Yahoo",
+   "published": "2026-10-09T01:15:13+00:00",
+   "tickers": [
+    "IONS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "96dcacc8a15f",
+   "headline": "PacBio (PACB) Stock Gets Fair Value Boost After UBS Starts Coverage Neutral",
+   "summary": "Pacific Biosciences of California now sits against a Fair Value estimate of US$2.40 per share, up from US$2.16, giving investors an updated anchor for how analysts see the stock\u2019s potential worth. That change comes alongside Street\u2026",
+   "url": "https://finnhub.io/api/news?id=d2d475d6629eac6dba4c4c99c3a69c034a26c7dcc4e2c6413187b0cc2f1e9d1e",
+   "source": "Yahoo",
+   "published": "2026-10-09T01:10:43+00:00",
+   "tickers": [
+    "PACB"
+   ],
+   "tag": "Analyst",
    "sectors": [
     "tools"
    ]
@@ -4936,6 +6251,8 @@
    "tickers": [
     "BMY",
     "JNJ",
+    "LLY",
+    "MRK",
     "PFE"
    ],
    "tag": "Earnings",
@@ -4953,6 +6270,7 @@
    "tickers": [
     "AMGN",
     "BMY",
+    "MRK",
     "PFE"
    ],
    "tag": "Earnings",
