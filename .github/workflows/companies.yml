@@ -1,0 +1,41 @@
+name: Build company pages (nightly)
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build
+  cancel-in-progress: false
+
+jobs:
+  companies:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Pull SEC filings, trials and approvals; build pages
+        env:
+          SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+          SITE_URL: https://rxbriefing.com
+        run: python companies.py
+      - name: Commit company pages
+        run: |
+          git config user.name "rxbriefing-bot"
+          git config user.email "bot@rxbriefing.com"
+          git add data/companies site/company site/data/companies.json
+          git diff --cached --quiet || git commit -m "companies: $(date -u +'%Y-%m-%d')"
+          git pull --rebase
+          git push
+      - uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy site --project-name=rxbriefing --branch=main
