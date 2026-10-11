@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-11T09:19:47.578621+00:00",
+ "updated": "2026-10-11T15:52:52.154157+00:00",
  "quotes": {
   "ABBV": {
    "price": 276.47,
@@ -18,10 +18,6 @@
    "price": 825.03,
    "change_pct": 0.78
   },
-  "AZN": {
-   "price": 159.2,
-   "change_pct": 0.26
-  },
   "BMY": {
    "price": 59.12,
    "change_pct": -0.77
@@ -29,6 +25,10 @@
   "BNTX": {
    "price": 96.96,
    "change_pct": 5.32
+  },
+  "CAH": {
+   "price": 237.57,
+   "change_pct": -0.58
   },
   "CERT": {
    "price": 9.13,
@@ -42,17 +42,13 @@
    "price": 4.79,
    "change_pct": 4.59
   },
-  "CNC": {
-   "price": 65.36,
-   "change_pct": 1.27
-  },
   "CVS": {
    "price": 86.16,
    "change_pct": -1.87
   },
-  "ELV": {
-   "price": 412.7,
-   "change_pct": 2.93
+  "GKOS": {
+   "price": 165.69,
+   "change_pct": 2.73
   },
   "GSK": {
    "price": 46.5,
@@ -70,10 +66,6 @@
    "price": 259.88,
    "change_pct": 0.39
   },
-  "IRTC": {
-   "price": 106.7,
-   "change_pct": 4.0
-  },
   "JNJ": {
    "price": 261.44,
    "change_pct": 1.93
@@ -89,10 +81,6 @@
   "MRNA": {
    "price": 225,
    "change_pct": 14.21
-  },
-  "NTRA": {
-   "price": 400.71,
-   "change_pct": 2.54
   },
   "NVO": {
    "price": 38.64,
@@ -137,6 +125,10 @@
   "VKTX": {
    "price": 28.51,
    "change_pct": 2.81
+  },
+  "ZTS": {
+   "price": 74.81,
+   "change_pct": 2.37
   }
  },
  "tickers": {
@@ -753,6 +745,156 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "aef089ebfc97",
+   "headline": "Pfizer Is Trading at Less Than 10 Times Earnings. But Is the Stock Actually Cheap?",
+   "summary": "Pfizer Inc. (NYSE:PFE) has barely rewarded shareholders over the past year. That underperformance has left Pfizer looking inexpensive. Based on the midpoint of the company\u2019s 2026 adjusted diluted EPS guidance range of $2.80 to $3.00, the\u2026",
+   "url": "https://finnhub.io/api/news?id=dbf939503e3ab80b0bba27508c1dd0bc54dbd212134a2f88cf5d79efca6eab28",
+   "source": "Yahoo",
+   "published": "2026-10-11T13:01:29+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "2e85630abcd6",
+   "headline": "These 4 Dividend Stocks Offer Tempting Yields. But the Warning Signs Are Getting Harder to Ignore",
+   "summary": "Kraft Heinz, Pfizer, Verizon, and Dow all flash yields above 4%, but behind each payout sits a mix of impairments, rising debt, and shrinking sales that could turn a tempting income stream into a costly trap.",
+   "url": "https://finnhub.io/api/news?id=05d0246e23feb6ea04bc875e21de3fc8bd9e69f3b71307b6021029aab29dbc24",
+   "source": "Yahoo",
+   "published": "2026-10-11T13:00:57+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "ba732c62f217",
+   "headline": "Abbott Laboratories is More than a Dividend Stock. Here\u2019s Why.",
+   "summary": "Abbott Laboratories (NYSE:ABT) offers investors access to several segments of the healthcare industry, including diabetes care, medical devices, and diagnostics. The company also boasts a long record of raising its dividends, which is why\u2026",
+   "url": "https://finnhub.io/api/news?id=5c86c156c41adc84a81e5ddd17948c611e0ebf5e89897d94e3c6fbf639a06c2b",
+   "source": "Yahoo",
+   "published": "2026-10-11T12:38:38+00:00",
+   "tickers": [
+    "ABT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "e6f3865785fc",
+   "headline": "Zoetis (ZTS) Stock May Trade At A Discount As Q2 Pressure Persists",
+   "summary": "Zoetis has seen its share price under pressure in recent years, even with a short-term bounce. This puts fresh attention on whether the current valuation is still supported by its earnings power. With the animal health group in the\u2026",
+   "url": "https://finnhub.io/api/news?id=d1ed17e76605d3bb1bc4f052951377f7b02e1277c0d41ff40c22be2f7dbd30ce",
+   "source": "Yahoo",
+   "published": "2026-10-11T12:11:42+00:00",
+   "tickers": [
+    "ZTS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "759c29887b4b",
+   "headline": "What Is GSK (LSE:GSK) Really Gaining From Its New AI Drug Discovery Deal?",
+   "summary": "GSK (LSE:GSK) announced a new collaboration with Chai Discovery to apply AI-driven protein design in its drug discovery pipeline. The partnership gives GSK access to Chai Discovery's protein folding and design models that are focused on\u2026",
+   "url": "https://finnhub.io/api/news?id=9a5018de44890d14e37db073b344d9113ffbe5db385640b18f34b340c67c641a",
+   "source": "Yahoo",
+   "published": "2026-10-11T12:11:39+00:00",
+   "tickers": [
+    "GSK"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "35c22ccbc309",
+   "headline": "Buy 9 S&P500 IDEAL \"Safer\" October Dividend Dogs",
+   "summary": "",
+   "url": "https://finnhub.io/api/news?id=2fb2b42086031751c87fed45dcdd2e8f905fa6bb37d0d501d511ce8bbee95970",
+   "source": "SeekingAlpha",
+   "published": "2026-10-11T10:35:00+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "279a836427b9",
+   "headline": "Welcome back to earnings season: What to watch this week",
+   "summary": "Earnings are back in session this week as the Big Banks open their books. We are also seeing the return of the telecom wars and a key inflation reading that may decide the Fed's next move.",
+   "url": "https://finnhub.io/api/news?id=5e8f197db47b7b6d8bd38f3b4d9fa814ebd4707c80004e6fae294f092d1c515e",
+   "source": "Yahoo",
+   "published": "2026-10-11T10:00:00+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "b9955a5a71f6",
+   "headline": "Humana's Star Ratings Progress Doesn't Erase Valuation Concerns",
+   "summary": "Humana stock: efficiency gains and better Star Ratings, but margins/cash flow pressured. Click for more on HUM stock.",
+   "url": "https://finnhub.io/api/news?id=d991bc7a346c5d852ea615a063556d870477ec3948eca14fe5cc37532ff1c7f6",
+   "source": "SeekingAlpha",
+   "published": "2026-10-11T10:00:00+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "4935b22ded31",
+   "headline": "Glaukos: Steep Premium For New Therapies And Growth",
+   "summary": "Glaukos has the iDose TR, which moves it beyond surgical devices into sustained drug delivery. Read why I lean neutral on GKOS shares right now.",
+   "url": "https://finnhub.io/api/news?id=46340c4ea8e2befaff7de7ffb552b96b3432351d9b32550e1d806619e95f9404",
+   "source": "SeekingAlpha",
+   "published": "2026-10-11T09:30:43+00:00",
+   "tickers": [
+    "GKOS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "0b87e9c68da6",
+   "headline": "AbbVie's Dividend Yield Is at Its Lowest Level Since 2018. Here's Why the Stock Is Still a Great Pick for Income Investors Anyway.",
+   "summary": "A super-high yield isn't everything.",
+   "url": "https://finnhub.io/api/news?id=8eb2871796eddfe5f570c97290281c56a93b5046ccea1995ca399dfa5b2daf53",
+   "source": "Yahoo",
+   "published": "2026-10-11T09:04:00+00:00",
+   "tickers": [
+    "ABT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
   {
    "id": "a1eb349dce5c",
    "headline": "Senators question Kennedy on 'major break' from USPSTF appointment norms",
@@ -1666,8 +1808,10 @@
    "published": "2026-10-11T02:35:00+00:00",
    "tickers": [
     "ABBV",
+    "AMGN",
     "BMY",
-    "JNJ"
+    "JNJ",
+    "PFE"
    ],
    "tag": "News",
    "sectors": [
@@ -1682,6 +1826,7 @@
    "source": "Yahoo",
    "published": "2026-10-11T02:10:20+00:00",
    "tickers": [
+    "CAH",
     "CVS"
    ],
    "tag": "News",
