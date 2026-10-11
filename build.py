@@ -57,16 +57,16 @@ RSS_FEEDS = [
 
 # Event tags. Order matters: the first rule that matches wins.
 TAG_RULES = [
-    ("FDA", r"\bfda\b|approv|pdufa|complete response letter|\bcrl\b|breakthrough (therapy|designation)|priority review|fast track|orphan drug|\bnda\b|\bbla\b|\bema\b|\bchmp\b|clearance|510\(k\)|de novo"),
-    ("M&A", r"acquir|acquisition|merger|buyout|takeover|to buy|agrees to be|all-cash|bid for|stake in"),
-    ("GLP-1", r"glp-1|glp1|obesity|weight[- ]loss|semaglutide|tirzepatide|zepbound|wegovy|ozempic|mounjaro|orforglipron|retatrutide|cagrisema"),
-    ("Clinical", r"phase [1-3i]|trial|readout|topline|top-line|endpoint|efficacy|placebo|enroll|dosed|cohort|interim data|pivotal"),
-    ("Earnings", r"earnings|\bq[1-4]\b|quarter|revenue|\beps\b|guidance|beats|misses|results|outlook"),
-    ("Analyst", r"upgrade|downgrade|initiat|price target|overweight|underweight|rating|outperform|neutral|buy rating|sell rating"),
-    ("Policy", r"medicare|medicaid|\bcms\b|\bhhs\b|tariff|drug pric|most favored nation|\bira\b|congress|senate|star rating|rfk|executive order|regulat"),
-    ("Financing", r"offering|notes due|secured notes|convertible|\bipo\b|at-the-market|\batm\b|raises \$|financing|credit facility|debt"),
-    ("Health AI", r"\bai\b|artificial intelligence|machine learning|algorithm|\bllm\b|generative|foundation model|agentic"),
-    ("Legal", r"lawsuit|settle|litigation|patent|court|injunction|verdict|doj|ftc"),
+    ("FDA", r"\bfda\b|\bapprov(es|ed|al)\b|\bpdufa\b|complete response letter|\bcrl\b|breakthrough (therapy|designation)|priority review|fast track|orphan drug|\bnda\b|\bbla\b|\bema\b|\bchmp\b|510\(k\)|\bde novo\b|fda clearance|accelerated approval"),
+    ("M&A", r"\bacquir(e|es|ed|ing)\b|\bacquisition\b|\bmerger\b|\bbuyout\b|\btakeover\b|\bto buy\b|agrees to be acquired|all-cash deal|\bbid for\b|takes? stake"),
+    ("GLP-1", r"glp-1|glp1|\bobesity\b|weight[- ]loss|semaglutide|tirzepatide|zepbound|wegovy|ozempic|mounjaro|orforglipron|retatrutide|cagrisema"),
+    ("Clinical", r"\bphase (1|2|3|i|ii|iii)\b|clinical trial|\btrial (data|results|readout)|\breadout\b|\btopline\b|top-line|primary endpoint|\bplacebo\b|\bpivotal\b|interim (data|analysis)|\bdosed\b|first patient"),
+    ("Earnings", r"\bearnings\b|\bq[1-4]\b|quarterly (results|revenue|profit)|\brevenue\b|\beps\b|(raises|cuts|lowers|reaffirms|boosts) (guidance|outlook|forecast)|\bbeats\b|\bmisses\b|full-year|fiscal (year|quarter)"),
+    ("Analyst", r"\bupgrade[sd]?\b|\bdowngrade[sd]?\b|initiates coverage|price target|\boverweight\b|\bunderweight\b|\boutperform\b|\bunderperform\b|(buy|sell|hold) rating|analyst"),
+    ("Legal", r"\blawsuit\b|\bsues?\b|\bsettle(s|d|ment)\b|\blitigation\b|\bpatent\b|\bcourt\b|\binjunction\b|\bverdict\b|\bdoj\b|\bftc\b|antitrust|\bprobe\b|\bfine[sd]?\b"),
+    ("Policy", r"\bmedicare\b|\bmedicaid\b|\bcms\b|\bhhs\b|\btariff|drug pric|most favored nation|\bira\b|\bcongress\b|\bsenate\b|senators?\b|star rating|\brfk\b|kennedy|executive order|\b340b\b|regulator"),
+    ("Financing", r"public offering|\bnotes due\b|secured notes|\bconvertible\b|\bipo\b|at-the-market|\bprices? \$|raises \$|\bbanks \$|\bfinancing\b|credit facility|\bseries [a-d]\b|venture|funding round"),
+    ("Health AI", r"\bai\b|\bai-|artificial intelligence|machine learning|\balgorithm|\bllm\b|\bgenerative\b|foundation model|\bagentic\b|\bcopilot\b"),
 ]
 
 SECTOR_LABELS = {
@@ -94,6 +94,29 @@ def clean(text, limit=None):
     if limit and len(text) > limit:
         text = text[: limit - 1].rsplit(" ", 1)[0] + "…"
     return text
+
+
+def parse_date(e):
+    """RSS feeds disagree on where the date lives; try everything, fall back to now."""
+    from email.utils import parsedate_to_datetime
+    for key in ("published_parsed", "updated_parsed", "created_parsed"):
+        when = e.get(key)
+        if when:
+            return datetime(*when[:6], tzinfo=timezone.utc).isoformat()
+    for key in ("published", "updated", "dc_date", "date", "pubDate"):
+        raw = e.get(key)
+        if raw:
+            try:
+                d = parsedate_to_datetime(raw)
+            except Exception:
+                try:
+                    d = datetime.fromisoformat(raw.replace("Z", "+00:00"))
+                except Exception:
+                    continue
+            if d.tzinfo is None:
+                d = d.replace(tzinfo=timezone.utc)
+            return d.astimezone(timezone.utc).isoformat()
+    return datetime.now(timezone.utc).isoformat()
 
 
 def story_id(url, headline):
@@ -173,8 +196,7 @@ def fetch_rss(tickers):
             for e in feed.entries:
                 headline = clean(e.get("title"))
                 summary = clean(e.get("summary") or e.get("description"), MAX_SUMMARY)
-                when = e.get("published_parsed") or e.get("updated_parsed")
-                published = (datetime(*when[:6], tzinfo=timezone.utc) if when else datetime.now(timezone.utc)).isoformat()
+                published = parse_date(e)
                 stories.append({
                     "id": story_id(e.get("link"), headline),
                     "headline": headline,
