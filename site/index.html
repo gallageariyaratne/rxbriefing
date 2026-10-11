@@ -228,8 +228,7 @@
 
   const timeLabel = (iso) => { const d = new Date(iso), n = new Date(); const t = d.toLocaleTimeString([], {hour:"numeric", minute:"2-digit"});
     if (d.toDateString() === n.toDateString()) return t; const y = new Date(n); y.setDate(n.getDate()-1);
-    if (d.toDateString() === y.toDateString()) return "Yest. " + t; return d.toLocaleDateString([], {month:"short", day:"numeric"}); };
-  const chip = (sym) => { const q = data.quotes[sym]; return `<a class="tick" href="/company/${sym}/" title="${esc(data.tickers[sym]?.name || sym)}">${sym}${q ? `<span class="chg ${q.change_pct>0?"up":q.change_pct<0?"down":""}">${q.change_pct>0?"+":""}${q.change_pct.toFixed(2)}%</span>` : ""}</a>`; };
+    if (d.toDateString() === y.toDateString()) return "Yest. " + t; return d.toLocaleDateString([], {month:"short", day:"numeric", year:"numeric"}); };  const chip = (sym) => { const q = data.quotes[sym]; return `<a class="tick" href="/company/${sym}/" title="${esc(data.tickers[sym]?.name || sym)}">${sym}${q ? `<span class="chg ${q.change_pct>0?"up":q.change_pct<0?"down":""}">${q.change_pct>0?"+":""}${q.change_pct.toFixed(2)}%</span>` : ""}</a>`; };
   const matches = (s) => { if (savedOnly && !saved.has(s.id)) return false;
     if (filter.kind === "sector" && !(s.sectors||[]).includes(filter.value)) return false;
     if (filter.kind === "tag" && s.tag !== filter.value) return false;
