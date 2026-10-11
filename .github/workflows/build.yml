@@ -1,0 +1,50 @@
+name: Build and deploy RxBriefing
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch news and build site
+        env:
+          FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
+          SITE_URL: https://rxbriefing.com
+        run: python build.py
+
+      - name: Save news history back to the repo
+        run: |
+          git config user.name "rxbriefing-bot"
+          git config user.email "bot@rxbriefing.com"
+          git add data/news.json
+          git diff --cached --quiet || git commit -m "news: $(date -u +'%Y-%m-%d %H:%M') UTC"
+          git pull --rebase
+          git push
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy site --project-name=rxbriefing --branch=main
