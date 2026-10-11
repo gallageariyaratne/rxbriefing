@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Evolent Health (EVH) — pipeline, SEC filings & news | RxBriefing</title>
+<meta name="description" content="Evolent Health (EVH): drug pipeline by phase from ClinicalTrials.gov, approved products, upcoming trial catalysts, and SEC filings (10-K, 10-Q, 8-K) — updated daily.">
+<link rel="canonical" href="https://rxbriefing.com/company/EVH/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&family=Libre+Franklin:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root { --paper:#FAF9F6; --paper2:#F1EFE9; --ink:#141414; --ink2:#3A3A38; --mute:#6B6B66; --rule:#D9D6CF; --rule2:#EAE7E0; --red:#B42318; --green:#137A3A; box-sizing:border-box; padding-top:env(safe-area-inset-top,0px); }
+  :root[data-theme="dark"] { --paper:#121212; --paper2:#1B1B1B; --ink:#EDEBE6; --ink2:#CFCCC4; --mute:#9A978F; --rule:#2E2E2C; --rule2:#232321; --red:#E5604F; --green:#4CC77A; }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--paper); color:var(--ink); font-family:"Libre Franklin",Helvetica,Arial,sans-serif; font-size:15px; line-height:1.45; -webkit-font-smoothing:antialiased; }
+  a { color:inherit; text-decoration:none; } a:hover { text-decoration:underline; text-underline-offset:2px; }
+  .wrap { max-width:1180px; margin:0 auto; padding:0 18px; }
+  .bar { display:flex; align-items:center; justify-content:space-between; padding:12px 0 10px; border-bottom:2px solid var(--ink); }
+  .brand { display:flex; align-items:center; gap:10px; font-family:"Source Serif 4",Georgia,serif; font-weight:700; font-size:22px; }
+  .brand .mark { width:30px; height:30px; background:var(--ink); color:var(--paper); display:grid; place-items:center; font-size:15px; letter-spacing:-.03em; }
+  .bar nav { display:flex; gap:18px; font-size:12px; font-weight:600; text-transform:uppercase; letter-spacing:.04em; }
+  .bar nav a.cur { box-shadow:inset 0 -3px 0 var(--red); padding-bottom:4px; }
+  h1 { font-family:"Source Serif 4",Georgia,serif; font-weight:700; font-size:clamp(28px,4.5vw,40px); letter-spacing:-.015em; line-height:1.1; margin:22px 0 6px; }
+  .kicker { font-size:11px; font-weight:700; letter-spacing:.1em; text-transform:uppercase; color:var(--red); margin-top:18px; }
+  .mono { font-family:"IBM Plex Mono",Menlo,monospace; }
+  .mute { color:var(--mute); } .up { color:var(--green); } .down { color:var(--red); }
+  section { border-top:2px solid var(--ink); padding:10px 0 18px; margin:22px 0 0; }
+  h2 { font-size:11px; letter-spacing:.1em; text-transform:uppercase; margin:0 0 12px; font-weight:700; }
+  ul.list { list-style:none; margin:0; padding:0; } ul.list li { display:flex; gap:12px; align-items:baseline; padding:7px 0; border-bottom:1px solid var(--rule2); font-size:14px; flex-wrap:wrap; }
+  .form { font-family:"IBM Plex Mono",monospace; font-size:11px; font-weight:500; border:1px solid var(--rule); background:var(--paper2); padding:1px 6px; min-width:64px; text-align:center; }
+  .date { font-family:"IBM Plex Mono",monospace; color:var(--mute); font-size:12px; min-width:86px; }
+  .note { font-size:12px; color:var(--mute); margin-top:10px; }
+  footer { border-top:1px solid var(--rule); color:var(--mute); font-size:12px; padding:16px 0 30px; margin-top:26px; } footer a { text-decoration:underline; }
+
+  .facts { color:var(--mute); font-size:13px; display:flex; flex-wrap:wrap; gap:4px 16px; }
+  .price { font-family:"IBM Plex Mono",monospace; font-size:14px; margin-top:10px; } .price b { font-size:22px; font-weight:500; margin-right:8px; }
+  .strip { display:grid; grid-template-columns:repeat(5,1fr); gap:3px; margin-bottom:14px; }
+  .stage { border:1px solid var(--rule); background:var(--paper2); color:var(--ink); cursor:pointer; padding:10px 10px 8px; font:inherit; text-align:left; border-radius:0; }
+  .stage b { display:block; font-size:11px; letter-spacing:.04em; text-transform:uppercase; color:var(--mute); } .stage span { font-family:"IBM Plex Mono",monospace; font-size:22px; }
+  .stage[aria-pressed="true"] { background:var(--ink); color:var(--paper); border-color:var(--ink); } .stage[aria-pressed="true"] b { color:var(--paper); opacity:.8; }
+  .trial { padding:9px 0; border-bottom:1px solid var(--rule2); font-size:14px; } .trial a { font-family:"Source Serif 4",Georgia,serif; font-size:16px; font-weight:600; }
+  .sub { color:var(--mute); font-size:12px; margin-top:2px; }
+  .drugs { display:grid; grid-template-columns:repeat(auto-fill,minmax(180px,1fr)); gap:0 18px; }
+  .drug { padding:7px 0; border-bottom:1px solid var(--rule2); } .drug b { display:block; font-size:14px; } .drug span { font-size:12px; color:var(--mute); }
+  .cols { display:grid; grid-template-columns:minmax(0,1fr) 320px; gap:36px; } @media (max-width:860px) { .cols { grid-template-columns:1fr; } }
+  @media (max-width:640px) { .stage { padding:8px 6px; } .stage b { font-size:9px; } .stage span { font-size:16px; } }
+</style>
+</head>
+<body>
+<div class="wrap"><div class="bar"><a class="brand" href="/"><span class="mark">Rx</span>RxBriefing</a><nav><a href="/">News</a><a href="/companies/">Companies</a><a href="/pipeline/">Pipeline 101</a></nav></div></div>
+<div class="wrap">
+  <div class="kicker">Healthit</div>
+  <h1>Evolent Health <span class="mono mute" style="font-size:.55em;font-weight:400">EVH</span></h1>
+  <div class="facts"><span>Evolent Health, Inc.</span><span>Services-Management Services</span><span>DE</span></div>
+  <div class="price" id="price"></div>
+  <div class="cols">
+    <main>
+      <section>
+        <h2>Pipeline — registered trials by phase</h2>
+        <div class="strip" id="strip"><button type="button" class="stage" data-stage="0"><b>Preclinical / Early</b><span>0</span></button><button type="button" class="stage" data-stage="1"><b>Phase 1</b><span>0</span></button><button type="button" class="stage" data-stage="2"><b>Phase 2</b><span>0</span></button><button type="button" class="stage" data-stage="3"><b>Phase 3</b><span>0</span></button><button type="button" class="stage" data-stage="4"><b>Approved</b><span>0</span></button></div>
+        <div id="panels"><div class="panel" data-stage="0" hidden><p class="mute">No registered trials in this stage.</p></div><div class="panel" data-stage="1" hidden><p class="mute">No registered trials in this stage.</p></div><div class="panel" data-stage="2" hidden><p class="mute">No registered trials in this stage.</p></div><div class="panel" data-stage="3" ><p class="mute">No registered trials in this stage.</p></div><div class="panel" data-stage="4" hidden><p class="mute">No approved products listed under this sponsor in Drugs@FDA (partnered or subsidiary products may be listed elsewhere).</p></div></div>
+        <div class="note">Source: ClinicalTrials.gov (trials where Evolent Health is lead sponsor; 0 active or completed) and Drugs@FDA (0 approved products). Registry data can include older or partnered programs; the company's own pipeline page is the official list.</div>
+      </section>
+      <section>
+        <h2>SEC filings — insider trading forms excluded</h2>
+        <ul class="list"><li><span class="form">SCHEDULE 13G/A</span><span class="date">2026-09-08</span><a href="https://www.sec.gov/Archives/edgar/data/1628908/000089542126000280/xslSCHEDULE_13G_X02/primary_doc.xml" target="_blank" rel="noopener">SCHEDULE 13G/A</a></li><li><span class="form">10-Q</span><span class="date">2026-08-06</span><a href="https://www.sec.gov/Archives/edgar/data/1628908/000162890826000086/evh-20260630.htm" target="_blank" rel="noopener">Quarterly report</a></li><li><span class="form">8-K</span><span class="date">2026-08-06</span><a href="https://www.sec.gov/Archives/edgar/data/1628908/000162890826000084/evh-20260806.htm" target="_blank" rel="noopener">Current report (material event)</a></li><li><span class="form">SCHEDULE 13G</span><span class="date">2026-07-17</span><a href="https://www.sec.gov/Archives/edgar/data/1628908/000205211326000714/xslSCHEDULE_13G_X02/primary_doc.xml" target="_blank" rel="noopener">SCHEDULE 13G</a></li><li><span class="form">S-8</span><span class="date">2026-06-10</span><a href="https://www.sec.gov/Archives/edgar/data/1628908/000162890826000064/a202606forms-8.htm" target="_blank" rel="noopener">Employee stock plan</a></li><li><span class="form">8-K</span><span class="date">2026-06-04</span><a href="https://www.sec.gov/Archives/edgar/data/1628908/000162890826000037/evh-20260604.htm" target="_blank" rel="noopener">Current report (material event)</a></li><li><span class="form">10-Q</span><span class="date">2026-05-07</span><a href="https://www.sec.gov/Archives/edgar/data/1628908/000162890826000033/evh-20260331.htm" target="_blank" rel="noopener">Quarterly report</a></li><li><span class="form">8-K</span><span class="date">2026-05-07</span><a href="https://www.sec.gov/Archives/edgar/data/1628908/000162890826000031/evh-20260507.htm" target="_blank" rel="noopener">Current report (material event)</a></li><li><span class="form">ARS</span><span class="date">2026-04-24</span><a href="https://www.sec.gov/Archives/edgar/data/1628908/000119312526177326/d23205dars.pdf" target="_blank" rel="noopener">Annual report to holders</a></li><li><span class="form">DEFA14A</span><span class="date">2026-04-24</span><a href="https://www.sec.gov/Archives/edgar/data/1628908/000119312526177275/d12503ddefa14a.htm" target="_blank" rel="noopener">DEFA14A</a></li><li><span class="form">DEF 14A</span><span class="date">2026-04-24</span><a href="https://www.sec.gov/Archives/edgar/data/1628908/000119312526177267/d27489ddef14a.htm" target="_blank" rel="noopener">Proxy statement</a></li><li><span class="form">SCHEDULE 13G/A</span><span class="date">2026-03-26</span><a href="https://www.sec.gov/Archives/edgar/data/1628908/000010290926001206/xslSCHEDULE_13G_X02/primary_doc.xml" target="_blank" rel="noopener">SCHEDULE 13G/A</a></li><li><span class="form">10-K</span><span class="date">2026-02-25</span><a href="https://www.sec.gov/Archives/edgar/data/1628908/000162890826000015/evh-20251231.htm" target="_blank" rel="noopener">Annual report</a></li><li><span class="form">8-K</span><span class="date">2026-02-24</span><a href="https://www.sec.gov/Archives/edgar/data/1628908/000162890826000014/evh-20260224.htm" target="_blank" rel="noopener">Current report (material event)</a></li><li><span class="form">SCHEDULE 13G/A</span><span class="date">2026-02-13</span><a href="https://www.sec.gov/Archives/edgar/data/1628908/000158064226001065/xslSCHEDULE_13G_X01/primary_doc.xml" target="_blank" rel="noopener">SCHEDULE 13G/A</a></li><li><span class="form">SCHEDULE 13G/A</span><span class="date">2026-02-11</span><a href="https://www.sec.gov/Archives/edgar/data/1628908/000089542126000037/xslSCHEDULE_13G_X01/primary_doc.xml" target="_blank" rel="noopener">SCHEDULE 13G/A</a></li><li><span class="form">SCHEDULE 13G/A</span><span class="date">2026-02-05</span><a href="https://www.sec.gov/Archives/edgar/data/1628908/000031506626000424/xslSCHEDULE_13G_X01/primary_doc.xml" target="_blank" rel="noopener">SCHEDULE 13G/A</a></li><li><span class="form">SCHEDULE 13G/A</span><span class="date">2026-01-30</span><a href="https://www.sec.gov/Archives/edgar/data/1628908/000010290926000153/xslSCHEDULE_13G_X01/primary_doc.xml" target="_blank" rel="noopener">SCHEDULE 13G/A</a></li><li><span class="form">S-8</span><span class="date">2026-01-02</span><a href="https://www.sec.gov/Archives/edgar/data/1628908/000119312526000955/d88022ds8.htm" target="_blank" rel="noopener">Employee stock plan</a></li><li><span class="form">8-K</span><span class="date">2025-12-08</span><a href="https://www.sec.gov/Archives/edgar/data/1628908/000162890825000145/evh-20251205.htm" target="_blank" rel="noopener">Current report (material event)</a></li><li><span class="form">8-K</span><span class="date">2025-12-02</span><a href="https://www.sec.gov/Archives/edgar/data/1628908/000162890825000141/evh-20251201.htm" target="_blank" rel="noopener">Current report (material event)</a></li><li><span class="form">SCHEDULE 13G</span><span class="date">2025-11-14</span><a href="https://www.sec.gov/Archives/edgar/data/1628908/000095010325014793/xslSCHEDULE_13G_X01/primary_doc.xml" target="_blank" rel="noopener">SCHEDULE 13G</a></li><li><span class="form">SCHEDULE 13G/A</span><span class="date">2025-11-14</span><a href="https://www.sec.gov/Archives/edgar/data/1628908/000199937125017911/xslSCHEDULE_13G_X01/primary_doc.xml" target="_blank" rel="noopener">SCHEDULE 13G/A</a></li><li><span class="form">SCHEDULE 13G/A</span><span class="date">2025-11-14</span><a href="https://www.sec.gov/Archives/edgar/data/1628908/000158064225007311/xslSCHEDULE_13G_X01/primary_doc.xml" target="_blank" rel="noopener">SCHEDULE 13G/A</a></li><li><span class="form">10-Q</span><span class="date">2025-11-07</span><a href="https://www.sec.gov/Archives/edgar/data/1628908/000162890825000133/evh-20250930.htm" target="_blank" rel="noopener">Quarterly report</a></li><li><span class="form">8-K</span><span class="date">2025-11-06</span><a href="https://www.sec.gov/Archives/edgar/data/1628908/000162890825000132/evh-20251106.htm" target="_blank" rel="noopener">Current report (material event)</a></li><li><span class="form">SCHEDULE 13G/A</span><span class="date">2025-11-05</span><a href="https://www.sec.gov/Archives/edgar/data/1628908/000031506625002742/xslSCHEDULE_13G_X01/primary_doc.xml" target="_blank" rel="noopener">SCHEDULE 13G/A</a></li><li><span class="form">8-K</span><span class="date">2025-09-23</span><a href="https://www.sec.gov/Archives/edgar/data/1628908/000162890825000124/evh-20250923.htm" target="_blank" rel="noopener">Current report (material event)</a></li><li><span class="form">8-K</span><span class="date">2025-08-21</span><a href="https://www.sec.gov/Archives/edgar/data/1628908/000119312525185388/d72742d8k.htm" target="_blank" rel="noopener">Current report (material event)</a></li><li><span class="form">8-K</span><span class="date">2025-08-19</span><a href="https://www.sec.gov/Archives/edgar/data/1628908/000119312525183075/d30469d8k.htm" target="_blank" rel="noopener">Current report (material event)</a></li><li><span class="form">8-K</span><span class="date">2025-08-18</span><a href="https://www.sec.gov/Archives/edgar/data/1628908/000119312525182692/d24921d8k.htm" target="_blank" rel="noopener">Current report (material event)</a></li><li><span class="form">SCHEDULE 13G/A</span><span class="date">2025-08-14</span><a href="https://www.sec.gov/Archives/edgar/data/1628908/000158064225005134/xslSCHEDULE_13G_X01/primary_doc.xml" target="_blank" rel="noopener">SCHEDULE 13G/A</a></li><li><span class="form">10-Q</span><span class="date">2025-08-11</span><a href="https://www.sec.gov/Archives/edgar/data/1628908/000162890825000116/evh-20250630.htm" target="_blank" rel="noopener">Quarterly report</a></li><li><span class="form">8-K</span><span class="date">2025-08-07</span><a href="https://www.sec.gov/Archives/edgar/data/1628908/000162890825000112/evh-20250807.htm" target="_blank" rel="noopener">Current report (material event)</a></li><li><span class="form">SCHEDULE 13G</span><span class="date">2025-08-06</span><a href="https://www.sec.gov/Archives/edgar/data/1628908/000089542125000473/xslSCHEDULE_13G_X01/primary_doc.xml" target="_blank" rel="noopener">SCHEDULE 13G</a></li><li><span class="form">SCHEDULE 13G</span><span class="date">2025-08-06</span><a href="https://www.sec.gov/Archives/edgar/data/1628908/000031506625002032/xslSCHEDULE_13G_X01/primary_doc.xml" target="_blank" rel="noopener">SCHEDULE 13G</a></li><li><span class="form">SCHEDULE 13G</span><span class="date">2025-07-07</span><a href="https://www.sec.gov/Archives/edgar/data/1628908/000199937125008746/xslSCHEDULE_13G_X01/primary_doc.xml" target="_blank" rel="noopener">SCHEDULE 13G</a></li><li><span class="form">SCHEDULE 13G/A</span><span class="date">2025-07-07</span><a href="https://www.sec.gov/Archives/edgar/data/1628908/000090221925000258/xslSCHEDULE_13G_X01/primary_doc.xml" target="_blank" rel="noopener">SCHEDULE 13G/A</a></li><li><span class="form">8-K</span><span class="date">2025-06-20</span><a href="https://www.sec.gov/Archives/edgar/data/1628908/000162890825000098/evh-20250619.htm" target="_blank" rel="noopener">Current report (material event)</a></li><li><span class="form">S-8</span><span class="date">2025-06-10</span><a href="https://www.sec.gov/Archives/edgar/data/1628908/000119312525138532/d946530ds8.htm" target="_blank" rel="noopener">Employee stock plan</a></li></ul>
+        <div class="note">Source: SEC EDGAR. Forms 3/4/5 and 144 (insider transactions) are intentionally left out.</div>
+      </section>
+    </main>
+    <aside>
+      <section>
+        <h2>Upcoming catalysts</h2>
+        <ul class="list"><li class="mute">No dated Phase 2/3 completions on record.</li></ul>
+        <div class="note">Estimated primary completion dates of Phase 2/3 trials.</div>
+      </section>
+      <section>
+        <h2>Recent news</h2>
+        <ul class="list"><li><a href="https://www.prnewswire.com/news-releases/evolent-to-release-third-quarter-2026-financial-results-on-thursday-november-5-2026-302903683.html" target="_blank" rel="noopener">Evolent To Release Third Quarter 2026 Financial Results on Thursday, November 5, 2026</a> <span class="mute">PR Newswire · 2026-10-09</span></li></ul>
+      </section>
+    </aside>
+  </div>
+  <footer>Updated Oct 11, 2026. Not investment advice. <a href="/">RxBriefing</a> · <a href="/pipeline/">How a drug gets made</a></footer>
+</div>
+<script>
+  try { if (localStorage.getItem("rxb-theme") === "dark") document.documentElement.dataset.theme = "dark"; } catch (e) {}
+  // price from the live news feed
+  fetch("/data/news.json", {cache:"no-store"}).then(r => r.json()).then(d => {
+    const q = d.quotes["EVH"]; if (!q) return;
+    const c = q.change_pct > 0 ? "up" : q.change_pct < 0 ? "down" : "";
+    document.getElementById("price").innerHTML = `<b>$${q.price.toFixed(2)}</b><span class="${c}" style="margin-left:4px">${q.change_pct > 0 ? "+" : ""}${q.change_pct.toFixed(2)}%</span> <span class="mute">today (delayed)</span>`;
+  }).catch(() => {});
+  // pipeline stage tabs
+  const stages = document.querySelectorAll(".stage"), panels = document.querySelectorAll(".panel");
+  const show = (i) => { stages.forEach(s => s.setAttribute("aria-pressed", String(s.dataset.stage == i))); panels.forEach(p => p.hidden = p.dataset.stage != i); };
+  stages.forEach(s => s.onclick = () => show(s.dataset.stage)); show(3);
+</script>
+</body>
+</html>

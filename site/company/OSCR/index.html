@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Oscar Health (OSCR) — pipeline, SEC filings & news | RxBriefing</title>
+<meta name="description" content="Oscar Health (OSCR): drug pipeline by phase from ClinicalTrials.gov, approved products, upcoming trial catalysts, and SEC filings (10-K, 10-Q, 8-K) — updated daily.">
+<link rel="canonical" href="https://rxbriefing.com/company/OSCR/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&family=Libre+Franklin:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root { --paper:#FAF9F6; --paper2:#F1EFE9; --ink:#141414; --ink2:#3A3A38; --mute:#6B6B66; --rule:#D9D6CF; --rule2:#EAE7E0; --red:#B42318; --green:#137A3A; box-sizing:border-box; padding-top:env(safe-area-inset-top,0px); }
+  :root[data-theme="dark"] { --paper:#121212; --paper2:#1B1B1B; --ink:#EDEBE6; --ink2:#CFCCC4; --mute:#9A978F; --rule:#2E2E2C; --rule2:#232321; --red:#E5604F; --green:#4CC77A; }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--paper); color:var(--ink); font-family:"Libre Franklin",Helvetica,Arial,sans-serif; font-size:15px; line-height:1.45; -webkit-font-smoothing:antialiased; }
+  a { color:inherit; text-decoration:none; } a:hover { text-decoration:underline; text-underline-offset:2px; }
+  .wrap { max-width:1180px; margin:0 auto; padding:0 18px; }
+  .bar { display:flex; align-items:center; justify-content:space-between; padding:12px 0 10px; border-bottom:2px solid var(--ink); }
+  .brand { display:flex; align-items:center; gap:10px; font-family:"Source Serif 4",Georgia,serif; font-weight:700; font-size:22px; }
+  .brand .mark { width:30px; height:30px; background:var(--ink); color:var(--paper); display:grid; place-items:center; font-size:15px; letter-spacing:-.03em; }
+  .bar nav { display:flex; gap:18px; font-size:12px; font-weight:600; text-transform:uppercase; letter-spacing:.04em; }
+  .bar nav a.cur { box-shadow:inset 0 -3px 0 var(--red); padding-bottom:4px; }
+  h1 { font-family:"Source Serif 4",Georgia,serif; font-weight:700; font-size:clamp(28px,4.5vw,40px); letter-spacing:-.015em; line-height:1.1; margin:22px 0 6px; }
+  .kicker { font-size:11px; font-weight:700; letter-spacing:.1em; text-transform:uppercase; color:var(--red); margin-top:18px; }
+  .mono { font-family:"IBM Plex Mono",Menlo,monospace; }
+  .mute { color:var(--mute); } .up { color:var(--green); } .down { color:var(--red); }
+  section { border-top:2px solid var(--ink); padding:10px 0 18px; margin:22px 0 0; }
+  h2 { font-size:11px; letter-spacing:.1em; text-transform:uppercase; margin:0 0 12px; font-weight:700; }
+  ul.list { list-style:none; margin:0; padding:0; } ul.list li { display:flex; gap:12px; align-items:baseline; padding:7px 0; border-bottom:1px solid var(--rule2); font-size:14px; flex-wrap:wrap; }
+  .form { font-family:"IBM Plex Mono",monospace; font-size:11px; font-weight:500; border:1px solid var(--rule); background:var(--paper2); padding:1px 6px; min-width:64px; text-align:center; }
+  .date { font-family:"IBM Plex Mono",monospace; color:var(--mute); font-size:12px; min-width:86px; }
+  .note { font-size:12px; color:var(--mute); margin-top:10px; }
+  footer { border-top:1px solid var(--rule); color:var(--mute); font-size:12px; padding:16px 0 30px; margin-top:26px; } footer a { text-decoration:underline; }
+
+  .facts { color:var(--mute); font-size:13px; display:flex; flex-wrap:wrap; gap:4px 16px; }
+  .price { font-family:"IBM Plex Mono",monospace; font-size:14px; margin-top:10px; } .price b { font-size:22px; font-weight:500; margin-right:8px; }
+  .strip { display:grid; grid-template-columns:repeat(5,1fr); gap:3px; margin-bottom:14px; }
+  .stage { border:1px solid var(--rule); background:var(--paper2); color:var(--ink); cursor:pointer; padding:10px 10px 8px; font:inherit; text-align:left; border-radius:0; }
+  .stage b { display:block; font-size:11px; letter-spacing:.04em; text-transform:uppercase; color:var(--mute); } .stage span { font-family:"IBM Plex Mono",monospace; font-size:22px; }
+  .stage[aria-pressed="true"] { background:var(--ink); color:var(--paper); border-color:var(--ink); } .stage[aria-pressed="true"] b { color:var(--paper); opacity:.8; }
+  .trial { padding:9px 0; border-bottom:1px solid var(--rule2); font-size:14px; } .trial a { font-family:"Source Serif 4",Georgia,serif; font-size:16px; font-weight:600; }
+  .sub { color:var(--mute); font-size:12px; margin-top:2px; }
+  .drugs { display:grid; grid-template-columns:repeat(auto-fill,minmax(180px,1fr)); gap:0 18px; }
+  .drug { padding:7px 0; border-bottom:1px solid var(--rule2); } .drug b { display:block; font-size:14px; } .drug span { font-size:12px; color:var(--mute); }
+  .cols { display:grid; grid-template-columns:minmax(0,1fr) 320px; gap:36px; } @media (max-width:860px) { .cols { grid-template-columns:1fr; } }
+  @media (max-width:640px) { .stage { padding:8px 6px; } .stage b { font-size:9px; } .stage span { font-size:16px; } }
+</style>
+</head>
+<body>
+<div class="wrap"><div class="bar"><a class="brand" href="/"><span class="mark">Rx</span>RxBriefing</a><nav><a href="/">News</a><a href="/companies/">Companies</a><a href="/pipeline/">Pipeline 101</a></nav></div></div>
+<div class="wrap">
+  <div class="kicker">Payers</div>
+  <h1>Oscar Health <span class="mono mute" style="font-size:.55em;font-weight:400">OSCR</span></h1>
+  <div class="facts"><span>Oscar Health, Inc.</span><span>Hospital &amp; Medical Service Plans</span><span>DE</span></div>
+  <div class="price" id="price"></div>
+  <div class="cols">
+    <main>
+      <section>
+        <h2>Pipeline — registered trials by phase</h2>
+        <div class="strip" id="strip"><button type="button" class="stage" data-stage="0"><b>Preclinical / Early</b><span>1</span></button><button type="button" class="stage" data-stage="1"><b>Phase 1</b><span>0</span></button><button type="button" class="stage" data-stage="2"><b>Phase 2</b><span>0</span></button><button type="button" class="stage" data-stage="3"><b>Phase 3</b><span>0</span></button><button type="button" class="stage" data-stage="4"><b>Approved</b><span>0</span></button></div>
+        <div id="panels"><div class="panel" data-stage="0" hidden><div class="trial"><a href="https://clinicaltrials.gov/study/NCT00904410" target="_blank" rel="noopener">Early Assessment of the Response to Neo-adjuvant Chemotherapy in Breast Cancer Patients With FDG-PET</a><div class="sub">— · Breast Cancer · Completed · est. 2007-12</div></div></div><div class="panel" data-stage="1" hidden><p class="mute">No registered trials in this stage.</p></div><div class="panel" data-stage="2" hidden><p class="mute">No registered trials in this stage.</p></div><div class="panel" data-stage="3" ><p class="mute">No registered trials in this stage.</p></div><div class="panel" data-stage="4" hidden><p class="mute">No approved products listed under this sponsor in Drugs@FDA (partnered or subsidiary products may be listed elsewhere).</p></div></div>
+        <div class="note">Source: ClinicalTrials.gov (trials where Oscar Health is lead sponsor; 1 active or completed) and Drugs@FDA (0 approved products). Registry data can include older or partnered programs; the company's own pipeline page is the official list.</div>
+      </section>
+      <section>
+        <h2>SEC filings — insider trading forms excluded</h2>
+        <ul class="list"><li><span class="form">SCHEDULE 13D/A</span><span class="date">2026-09-18</span><a href="https://www.sec.gov/Archives/edgar/data/1568651/000119312526395843/xslSCHEDULE_13D_X02/primary_doc.xml" target="_blank" rel="noopener">SCHEDULE 13D/A</a></li><li><span class="form">8-K</span><span class="date">2026-09-16</span><a href="https://www.sec.gov/Archives/edgar/data/1568651/000156865126000074/oscr-20260916.htm" target="_blank" rel="noopener">Current report (material event)</a></li><li><span class="form">10-Q</span><span class="date">2026-08-07</span><a href="https://www.sec.gov/Archives/edgar/data/1568651/000156865126000069/oscr-20260630.htm" target="_blank" rel="noopener">Quarterly report</a></li><li><span class="form">8-K</span><span class="date">2026-08-06</span><a href="https://www.sec.gov/Archives/edgar/data/1568651/000156865126000066/oscr-20260806.htm" target="_blank" rel="noopener">Current report (material event)</a></li><li><span class="form">8-K</span><span class="date">2026-06-09</span><a href="https://www.sec.gov/Archives/edgar/data/1568651/000156865126000059/oscr-20260604.htm" target="_blank" rel="noopener">Current report (material event)</a></li><li><span class="form">8-K</span><span class="date">2026-06-08</span><a href="https://www.sec.gov/Archives/edgar/data/1568651/000156865126000054/oscr-20260608.htm" target="_blank" rel="noopener">Current report (material event)</a></li><li><span class="form">8-K</span><span class="date">2026-06-02</span><a href="https://www.sec.gov/Archives/edgar/data/1568651/000156865126000048/oscr-20260529.htm" target="_blank" rel="noopener">Current report (material event)</a></li><li><span class="form">10-Q</span><span class="date">2026-05-07</span><a href="https://www.sec.gov/Archives/edgar/data/1568651/000156865126000040/oscr-20260331.htm" target="_blank" rel="noopener">Quarterly report</a></li><li><span class="form">8-K</span><span class="date">2026-05-06</span><a href="https://www.sec.gov/Archives/edgar/data/1568651/000156865126000036/oscr-20260506.htm" target="_blank" rel="noopener">Current report (material event)</a></li><li><span class="form">ARS</span><span class="date">2026-04-22</span><a href="https://www.sec.gov/Archives/edgar/data/1568651/000114036126016126/ny20059895x773_ars.pdf" target="_blank" rel="noopener">Annual report to holders</a></li><li><span class="form">DEFA14A</span><span class="date">2026-04-22</span><a href="https://www.sec.gov/Archives/edgar/data/1568651/000114036126016124/ny20059895x772_defa14a.htm" target="_blank" rel="noopener">DEFA14A</a></li><li><span class="form">DEF 14A</span><span class="date">2026-04-22</span><a href="https://www.sec.gov/Archives/edgar/data/1568651/000114036126016119/ny20059895x771_def14a.htm" target="_blank" rel="noopener">Proxy statement</a></li><li><span class="form">8-K</span><span class="date">2026-04-21</span><a href="https://www.sec.gov/Archives/edgar/data/1568651/000156865126000028/oscr-20260421.htm" target="_blank" rel="noopener">Current report (material event)</a></li><li><span class="form">SCHEDULE 13G/A</span><span class="date">2026-03-27</span><a href="https://www.sec.gov/Archives/edgar/data/1568651/000010290926001955/xslSCHEDULE_13G_X02/primary_doc.xml" target="_blank" rel="noopener">SCHEDULE 13G/A</a></li><li><span class="form">8-K</span><span class="date">2026-03-02</span><a href="https://www.sec.gov/Archives/edgar/data/1568651/000156865126000014/oscr-20260302.htm" target="_blank" rel="noopener">Current report (material event)</a></li><li><span class="form">SCHEDULE 13G/A</span><span class="date">2026-02-17</span><a href="https://www.sec.gov/Archives/edgar/data/1568651/000119312526052995/xslSCHEDULE_13G_X01/primary_doc.xml" target="_blank" rel="noopener">SCHEDULE 13G/A</a></li><li><span class="form">S-8</span><span class="date">2026-02-13</span><a href="https://www.sec.gov/Archives/edgar/data/1568651/000119312526051615/d102607ds8.htm" target="_blank" rel="noopener">Employee stock plan</a></li><li><span class="form">10-K</span><span class="date">2026-02-13</span><a href="https://www.sec.gov/Archives/edgar/data/1568651/000156865126000011/oscr-20251231.htm" target="_blank" rel="noopener">Annual report</a></li><li><span class="form">8-K</span><span class="date">2026-02-10</span><a href="https://www.sec.gov/Archives/edgar/data/1568651/000156865126000008/oscr-20260206.htm" target="_blank" rel="noopener">Current report (material event)</a></li><li><span class="form">8-K</span><span class="date">2025-12-29</span><a href="https://www.sec.gov/Archives/edgar/data/1568651/000119312525335294/d97018d8k.htm" target="_blank" rel="noopener">Current report (material event)</a></li><li><span class="form">SCHEDULE 13G/A</span><span class="date">2025-11-14</span><a href="https://www.sec.gov/Archives/edgar/data/1568651/000189761225000548/xslSCHEDULE_13G_X01/primary_doc.xml" target="_blank" rel="noopener">SCHEDULE 13G/A</a></li><li><span class="form">SCHEDULE 13G/A</span><span class="date">2025-11-13</span><a href="https://www.sec.gov/Archives/edgar/data/1568651/000119380525001582/xslSCHEDULE_13G_X01/primary_doc.xml" target="_blank" rel="noopener">SCHEDULE 13G/A</a></li><li><span class="form">10-Q</span><span class="date">2025-11-06</span><a href="https://www.sec.gov/Archives/edgar/data/1568651/000156865125000037/oscr-20250930.htm" target="_blank" rel="noopener">Quarterly report</a></li><li><span class="form">8-K</span><span class="date">2025-11-06</span><a href="https://www.sec.gov/Archives/edgar/data/1568651/000156865125000035/oscr-20251103.htm" target="_blank" rel="noopener">Current report (material event)</a></li><li><span class="form">8-K</span><span class="date">2025-09-18</span><a href="https://www.sec.gov/Archives/edgar/data/1568651/000119312525207417/d74904d8k.htm" target="_blank" rel="noopener">Current report (material event)</a></li><li><span class="form">8-K</span><span class="date">2025-09-16</span><a href="https://www.sec.gov/Archives/edgar/data/1568651/000119312525204231/d944721d8k.htm" target="_blank" rel="noopener">Current report (material event)</a></li><li><span class="form">8-K</span><span class="date">2025-09-15</span><a href="https://www.sec.gov/Archives/edgar/data/1568651/000119312525203549/d944718d8k.htm" target="_blank" rel="noopener">Current report (material event)</a></li><li><span class="form">8-K</span><span class="date">2025-09-03</span><a href="https://www.sec.gov/Archives/edgar/data/1568651/000119312525194448/d63277d8k.htm" target="_blank" rel="noopener">Current report (material event)</a></li><li><span class="form">10-Q</span><span class="date">2025-08-07</span><a href="https://www.sec.gov/Archives/edgar/data/1568651/000156865125000025/oscr-20250630.htm" target="_blank" rel="noopener">Quarterly report</a></li><li><span class="form">8-K</span><span class="date">2025-08-06</span><a href="https://www.sec.gov/Archives/edgar/data/1568651/000156865125000021/oscr-20250806.htm" target="_blank" rel="noopener">Current report (material event)</a></li><li><span class="form">SCHEDULE 13G/A</span><span class="date">2025-07-31</span><a href="https://www.sec.gov/Archives/edgar/data/1568651/000001961725000599/xslSCHEDULE_13G_X01/primary_doc.xml" target="_blank" rel="noopener">SCHEDULE 13G/A</a></li><li><span class="form">8-K</span><span class="date">2025-07-22</span><a href="https://www.sec.gov/Archives/edgar/data/1568651/000156865125000018/oscr-20250722.htm" target="_blank" rel="noopener">Current report (material event)</a></li><li><span class="form">SCHEDULE 13G/A</span><span class="date">2025-07-17</span><a href="https://www.sec.gov/Archives/edgar/data/1568651/000205211325003243/xslSCHEDULE_13G_X01/primary_doc.xml" target="_blank" rel="noopener">SCHEDULE 13G/A</a></li><li><span class="form">8-K</span><span class="date">2025-06-06</span><a href="https://www.sec.gov/Archives/edgar/data/1568651/000119312525137039/d773514d8k.htm" target="_blank" rel="noopener">Current report (material event)</a></li><li><span class="form">10-Q</span><span class="date">2025-05-08</span><a href="https://www.sec.gov/Archives/edgar/data/1568651/000156865125000015/oscr-20250331.htm" target="_blank" rel="noopener">Quarterly report</a></li><li><span class="form">8-K</span><span class="date">2025-05-07</span><a href="https://www.sec.gov/Archives/edgar/data/1568651/000156865125000012/oscr-20250507.htm" target="_blank" rel="noopener">Current report (material event)</a></li><li><span class="form">SCHEDULE 13G</span><span class="date">2025-04-29</span><a href="https://www.sec.gov/Archives/edgar/data/1568651/000001961725000412/xslSCHEDULE_13G_X01/primary_doc.xml" target="_blank" rel="noopener">SCHEDULE 13G</a></li><li><span class="form">ARS</span><span class="date">2025-04-25</span><a href="https://www.sec.gov/Archives/edgar/data/1568651/000114036125015603/ny20043707x3_ars.pdf" target="_blank" rel="noopener">Annual report to holders</a></li><li><span class="form">DEFA14A</span><span class="date">2025-04-25</span><a href="https://www.sec.gov/Archives/edgar/data/1568651/000114036125015602/ny20043707x2_defa14a.htm" target="_blank" rel="noopener">DEFA14A</a></li><li><span class="form">DEF 14A</span><span class="date">2025-04-25</span><a href="https://www.sec.gov/Archives/edgar/data/1568651/000114036125015601/ny20043707x1_def14a.htm" target="_blank" rel="noopener">Proxy statement</a></li></ul>
+        <div class="note">Source: SEC EDGAR. Forms 3/4/5 and 144 (insider transactions) are intentionally left out.</div>
+      </section>
+    </main>
+    <aside>
+      <section>
+        <h2>Upcoming catalysts</h2>
+        <ul class="list"><li class="mute">No dated Phase 2/3 completions on record.</li></ul>
+        <div class="note">Estimated primary completion dates of Phase 2/3 trials.</div>
+      </section>
+      <section>
+        <h2>Recent news</h2>
+        <ul class="list"><li><a href="https://finnhub.io/api/news?id=6bcc14b3445bfd831148fafe21fb2c9b7f3cbcf5af03cb2fb345fa997dd426fa" target="_blank" rel="noopener">2 Growth Stocks with Explosive Upside and 1 We Avoid</a> <span class="mute">Yahoo · 2026-10-09</span></li><li><a href="https://finnhub.io/api/news?id=80dab2681adca9ef49800cd3c3e36069ada4b05df98d6d39c1f05b3a872c9e99" target="_blank" rel="noopener">Best Growth Stocks to Buy for October 9th</a> <span class="mute">Yahoo · 2026-10-09</span></li><li><a href="https://finnhub.io/api/news?id=cb9edbedbe00537d122d9c8d40a8e7a359b839c23611f997b461d95140f4b065" target="_blank" rel="noopener">Humana Reaffirms FY26 Adjusted EPS Guidance Of At Least $9; Exceeding Goal Of Top Quartile Results In 2027 Medicare Advantage Star Ratings; Expects 2028 Benefit For One-Time Investments And Return To Shareholders</a> <span class="mute">Benzinga · 2026-10-09</span></li></ul>
+      </section>
+    </aside>
+  </div>
+  <footer>Updated Oct 11, 2026. Not investment advice. <a href="/">RxBriefing</a> · <a href="/pipeline/">How a drug gets made</a></footer>
+</div>
+<script>
+  try { if (localStorage.getItem("rxb-theme") === "dark") document.documentElement.dataset.theme = "dark"; } catch (e) {}
+  // price from the live news feed
+  fetch("/data/news.json", {cache:"no-store"}).then(r => r.json()).then(d => {
+    const q = d.quotes["OSCR"]; if (!q) return;
+    const c = q.change_pct > 0 ? "up" : q.change_pct < 0 ? "down" : "";
+    document.getElementById("price").innerHTML = `<b>$${q.price.toFixed(2)}</b><span class="${c}" style="margin-left:4px">${q.change_pct > 0 ? "+" : ""}${q.change_pct.toFixed(2)}%</span> <span class="mute">today (delayed)</span>`;
+  }).catch(() => {});
+  // pipeline stage tabs
+  const stages = document.querySelectorAll(".stage"), panels = document.querySelectorAll(".panel");
+  const show = (i) => { stages.forEach(s => s.setAttribute("aria-pressed", String(s.dataset.stage == i))); panels.forEach(p => p.hidden = p.dataset.stage != i); };
+  stages.forEach(s => s.onclick = () => show(s.dataset.stage)); show(3);
+</script>
+</body>
+</html>

@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Apellis (APLS) — pipeline, SEC filings & news | RxBriefing</title>
+<meta name="description" content="Apellis (APLS): drug pipeline by phase from ClinicalTrials.gov, approved products, upcoming trial catalysts, and SEC filings (10-K, 10-Q, 8-K) — updated daily.">
+<link rel="canonical" href="https://rxbriefing.com/company/APLS/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&family=Libre+Franklin:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root { --paper:#FAF9F6; --paper2:#F1EFE9; --ink:#141414; --ink2:#3A3A38; --mute:#6B6B66; --rule:#D9D6CF; --rule2:#EAE7E0; --red:#B42318; --green:#137A3A; box-sizing:border-box; padding-top:env(safe-area-inset-top,0px); }
+  :root[data-theme="dark"] { --paper:#121212; --paper2:#1B1B1B; --ink:#EDEBE6; --ink2:#CFCCC4; --mute:#9A978F; --rule:#2E2E2C; --rule2:#232321; --red:#E5604F; --green:#4CC77A; }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--paper); color:var(--ink); font-family:"Libre Franklin",Helvetica,Arial,sans-serif; font-size:15px; line-height:1.45; -webkit-font-smoothing:antialiased; }
+  a { color:inherit; text-decoration:none; } a:hover { text-decoration:underline; text-underline-offset:2px; }
+  .wrap { max-width:1180px; margin:0 auto; padding:0 18px; }
+  .bar { display:flex; align-items:center; justify-content:space-between; padding:12px 0 10px; border-bottom:2px solid var(--ink); }
+  .brand { display:flex; align-items:center; gap:10px; font-family:"Source Serif 4",Georgia,serif; font-weight:700; font-size:22px; }
+  .brand .mark { width:30px; height:30px; background:var(--ink); color:var(--paper); display:grid; place-items:center; font-size:15px; letter-spacing:-.03em; }
+  .bar nav { display:flex; gap:18px; font-size:12px; font-weight:600; text-transform:uppercase; letter-spacing:.04em; }
+  .bar nav a.cur { box-shadow:inset 0 -3px 0 var(--red); padding-bottom:4px; }
+  h1 { font-family:"Source Serif 4",Georgia,serif; font-weight:700; font-size:clamp(28px,4.5vw,40px); letter-spacing:-.015em; line-height:1.1; margin:22px 0 6px; }
+  .kicker { font-size:11px; font-weight:700; letter-spacing:.1em; text-transform:uppercase; color:var(--red); margin-top:18px; }
+  .mono { font-family:"IBM Plex Mono",Menlo,monospace; }
+  .mute { color:var(--mute); } .up { color:var(--green); } .down { color:var(--red); }
+  section { border-top:2px solid var(--ink); padding:10px 0 18px; margin:22px 0 0; }
+  h2 { font-size:11px; letter-spacing:.1em; text-transform:uppercase; margin:0 0 12px; font-weight:700; }
+  ul.list { list-style:none; margin:0; padding:0; } ul.list li { display:flex; gap:12px; align-items:baseline; padding:7px 0; border-bottom:1px solid var(--rule2); font-size:14px; flex-wrap:wrap; }
+  .form { font-family:"IBM Plex Mono",monospace; font-size:11px; font-weight:500; border:1px solid var(--rule); background:var(--paper2); padding:1px 6px; min-width:64px; text-align:center; }
+  .date { font-family:"IBM Plex Mono",monospace; color:var(--mute); font-size:12px; min-width:86px; }
+  .note { font-size:12px; color:var(--mute); margin-top:10px; }
+  footer { border-top:1px solid var(--rule); color:var(--mute); font-size:12px; padding:16px 0 30px; margin-top:26px; } footer a { text-decoration:underline; }
+
+  .facts { color:var(--mute); font-size:13px; display:flex; flex-wrap:wrap; gap:4px 16px; }
+  .price { font-family:"IBM Plex Mono",monospace; font-size:14px; margin-top:10px; } .price b { font-size:22px; font-weight:500; margin-right:8px; }
+  .strip { display:grid; grid-template-columns:repeat(5,1fr); gap:3px; margin-bottom:14px; }
+  .stage { border:1px solid var(--rule); background:var(--paper2); color:var(--ink); cursor:pointer; padding:10px 10px 8px; font:inherit; text-align:left; border-radius:0; }
+  .stage b { display:block; font-size:11px; letter-spacing:.04em; text-transform:uppercase; color:var(--mute); } .stage span { font-family:"IBM Plex Mono",monospace; font-size:22px; }
+  .stage[aria-pressed="true"] { background:var(--ink); color:var(--paper); border-color:var(--ink); } .stage[aria-pressed="true"] b { color:var(--paper); opacity:.8; }
+  .trial { padding:9px 0; border-bottom:1px solid var(--rule2); font-size:14px; } .trial a { font-family:"Source Serif 4",Georgia,serif; font-size:16px; font-weight:600; }
+  .sub { color:var(--mute); font-size:12px; margin-top:2px; }
+  .drugs { display:grid; grid-template-columns:repeat(auto-fill,minmax(180px,1fr)); gap:0 18px; }
+  .drug { padding:7px 0; border-bottom:1px solid var(--rule2); } .drug b { display:block; font-size:14px; } .drug span { font-size:12px; color:var(--mute); }
+  .cols { display:grid; grid-template-columns:minmax(0,1fr) 320px; gap:36px; } @media (max-width:860px) { .cols { grid-template-columns:1fr; } }
+  @media (max-width:640px) { .stage { padding:8px 6px; } .stage b { font-size:9px; } .stage span { font-size:16px; } }
+</style>
+</head>
+<body>
+<div class="wrap"><div class="bar"><a class="brand" href="/"><span class="mark">Rx</span>RxBriefing</a><nav><a href="/">News</a><a href="/companies/">Companies</a><a href="/pipeline/">Pipeline 101</a></nav></div></div>
+<div class="wrap">
+  <div class="kicker">Biotech</div>
+  <h1>Apellis <span class="mono mute" style="font-size:.55em;font-weight:400">APLS</span></h1>
+  <div class="facts"><span>Apellis</span><span></span><span></span></div>
+  <div class="price" id="price"></div>
+  <div class="cols">
+    <main>
+      <section>
+        <h2>Pipeline — registered trials by phase</h2>
+        <div class="strip" id="strip"><button type="button" class="stage" data-stage="0"><b>Preclinical / Early</b><span>2</span></button><button type="button" class="stage" data-stage="1"><b>Phase 1</b><span>4</span></button><button type="button" class="stage" data-stage="2"><b>Phase 2</b><span>8</span></button><button type="button" class="stage" data-stage="3"><b>Phase 3</b><span>10</span></button><button type="button" class="stage" data-stage="4"><b>Approved</b><span>0</span></button></div>
+        <div id="panels"><div class="panel" data-stage="0" hidden><div class="trial"><a href="https://clinicaltrials.gov/study/NCT06499571" target="_blank" rel="noopener">Geographic Atrophy Long-Terms Outcomes Study</a><div class="sub">— · Geographic Atrophy · Completed · est. 2023-07-31</div></div><div class="trial"><a href="https://clinicaltrials.gov/study/NCT06161584" target="_blank" rel="noopener">A Prospective, Multicenter, Open-Label, Observational Phase 4 Study to Evaluate Real-World Safety, Tolerability, and Treatment Patterns of Pegcetacoplan (Syfovre) in Patients With Geographic Atrophy Secondary to Age-Related Macular Degeneration</a><div class="sub">— · Geographic Atrophy · Active Not Recruiting · est. 2027-06</div></div></div><div class="panel" data-stage="1" hidden><div class="trial"><a href="https://clinicaltrials.gov/study/NCT02588833" target="_blank" rel="noopener">Pilot Study to Assess Safety, Preliminary Efficacy and Pharmacokinetics of S.C. Pegcetacoplan (APL-2) in PNH Subjects.</a><div class="sub">— · Paroxysmal Nocturnal Hemoglobinuria · Completed · est. 2019-08-26</div></div><div class="trial"><a href="https://clinicaltrials.gov/study/NCT03777332" target="_blank" rel="noopener">Study to Evaluate the Safety of Intravitreal APL-2 in Patients Diagnosed With Geographic Atrophy</a><div class="sub">— · Geographic Atrophy · Completed · est. 2021-04-01</div></div><div class="trial"><a href="https://clinicaltrials.gov/study/NCT02461771" target="_blank" rel="noopener">Assessment of Safety, Tolerability and Pharmacokinetics of Intravitreal Pegcetacoplan (APL-2) for Patients With Wet AMD</a><div class="sub">— · Neovascular Age-Related Macular Degeneration · Completed · est. 2016-03-08</div></div><div class="trial"><a href="https://clinicaltrials.gov/study/NCT02264639" target="_blank" rel="noopener">A Phase I Study to Assess the Safety of Pegcetacoplan (APL-2) as an Add-On to Standard of Care in Subjects With PNH</a><div class="sub">— · Paroxysmal Nocturnal Hemoglobinuria (PNH) · Completed · est. 2018-10-22</div></div></div><div class="panel" data-stage="2" hidden><div class="trial"><a href="https://clinicaltrials.gov/study/NCT03593200" target="_blank" rel="noopener">A Phase IIa Study to Assess the Safety, Efficacy, and Pharmacokinetics of Subcutaneously Administered Pegcetacoplan (APL-2) in Subjects With PNH</a><div class="sub">— · PNH · Completed · est. 2019-10-22</div></div><div class="trial"><a href="https://clinicaltrials.gov/study/NCT03453619" target="_blank" rel="noopener">Phase II Study Assessing Safety and Efficacy of APL-2 in Glomerulopathies</a><div class="sub">— · IgA Nephropathy, Lupus Nephritis, Membranous Nephropathy · Completed · est. 2020-04-16</div></div><div class="trial"><a href="https://clinicaltrials.gov/study/NCT02503332" target="_blank" rel="noopener">Study of Pegcetacoplan (APL-2) Therapy in Patients With Geographic Atrophy</a><div class="sub">— · Geographic Atrophy · Completed · est. 2017-07-14</div></div><div class="trial"><a href="https://clinicaltrials.gov/study/NCT04901936" target="_blank" rel="noopener">A Study of Pegcetacoplan in Pediatric Patients With Paroxysmal Nocturnal Hemoglobinuria (PNH)</a><div class="sub">— · Paroxysmal Nocturnal Hemoglobinuria (PNH), Paroxysmal Hemoglobinuria · Recruiting · est. 2028-12</div></div><div class="trial"><a href="https://clinicaltrials.gov/study/NCT07215390" target="_blank" rel="noopener">A Phase 2, Randomized, Placebo Controlled, Multicenter, Masked Study to Evaluate the Efficacy, Safety, Tolerability, and Pharmacodynamics of Multidose APL 3007 in Combination With Syfovre/Pegcetacoplan (APL-2) in Patients Diagnosed With Geographic Atrophy Secondary to Age Related Macular Degeneratio</a><div class="sub">— · Geographic Atrophy Secondary to Age-related Macular Degeneration · Recruiting · est. 2027-06-25</div></div><div class="trial"><a href="https://clinicaltrials.gov/study/NCT04402060" target="_blank" rel="noopener">A Study of APL-9 in Adults With Mild to Moderate ARDS Due to COVID-19</a><div class="sub">— · COVID, Covid-19, Coronavirus · Completed · est. 2021-02-13</div></div><div class="trial"><a href="https://clinicaltrials.gov/study/NCT04572854" target="_blank" rel="noopener">Study Assessing the Safety and Efficacy of Pegcetacoplan in Post-Transplant Recurrence of C3G or IC-MPGN</a><div class="sub">— · C3G, IC-MPGN, Renal Transplant · Completed · est. 2023-02-27</div></div><div class="trial"><a href="https://clinicaltrials.gov/study/NCT03226678" target="_blank" rel="noopener">Study to Assess the Safety, Tolerability, Efficacy and PK of APL-2 in Patients With Warm Type Autoimmune Hemolytic Anemia (wAIHA) or Cold Agglutinin Disease (CAD)</a><div class="sub">— · Warm Autoimmune Hemolytic Anemia, Cold Agglutinin Disease · Completed · est. 2022-09-12</div></div></div><div class="panel" data-stage="3" ><div class="trial"><a href="https://clinicaltrials.gov/study/NCT07214740" target="_blank" rel="noopener">Study to Evaluate a Pegcetacoplan (Syfovre®) Prefilled Syringe</a><div class="sub">— · Geographic Atrophy Secondary to Age-related Macular Degeneration · Completed · est. 2025-12-12</div></div><div class="trial"><a href="https://clinicaltrials.gov/study/NCT03525613" target="_blank" rel="noopener">A Study to Compare the Efficacy and Safety of Intravitreal APL-2 Therapy With Sham Injections in Patients With Geographic Atrophy (GA) Secondary to Age-Related Macular Degeneration</a><div class="sub">— · Geographic Atrophy · Completed · est. 2021-06-28</div></div><div class="trial"><a href="https://clinicaltrials.gov/study/NCT05809531" target="_blank" rel="noopener">An Open-Label, Nonrandomized, Multicenter Extension Study to Evaluate the Long-term Safety and Efficacy of Pegcetacoplan in Participants With C3 Glomerulopathy or Immune-Complex Membranoproliferative Glomerulonephritis</a><div class="sub">— · C3G, IC-MPGN, C3 Glomerulopathy · Active Not Recruiting · est. 2027-07</div></div><div class="trial"><a href="https://clinicaltrials.gov/study/NCT07213960" target="_blank" rel="noopener">A Sequential Phase 2/3 Study of APL2 in Patients With Focal Segmental Glomerulosclerosis</a><div class="sub">— · FSGS · Recruiting · est. 2029-10</div></div><div class="trial"><a href="https://clinicaltrials.gov/study/NCT03525600" target="_blank" rel="noopener">Study to Compare the Efficacy and Safety of Intravitreal APL-2 Therapy With Sham Injections in Patients With Geographic Atrophy (GA) Secondary to Age-Related Macular Degeneration</a><div class="sub">— · Geographic Atrophy · Completed · est. 2021-06-21</div></div><div class="trial"><a href="https://clinicaltrials.gov/study/NCT05067127" target="_blank" rel="noopener">Phase III Study Assessing the Efficacy and Safety of Pegcetacoplan in Patients With C3 Glomerulopathy or Immune-Complex Membranoproliferative Glomerulonephritis</a><div class="sub">— · C3G, IC-MPGN, C3 Glomerulopathy · Completed · est. 2024-06-26</div></div><div class="trial"><a href="https://clinicaltrials.gov/study/NCT04085601" target="_blank" rel="noopener">A Study to Evaluate the Efficacy and Safety of Pegcetacoplan in Patients With PNH</a><div class="sub">— · Paroxysmal Nocturnal Hemoglobinuria · Completed · est. 2021-06-23</div></div><div class="trial"><a href="https://clinicaltrials.gov/study/NCT03531255" target="_blank" rel="noopener">Pegcetacoplan Long Term Safety and Efficacy Extension Study</a><div class="sub">— · PNH · Completed · est. 2025-09-04</div></div><div class="trial"><a href="https://clinicaltrials.gov/study/NCT04770545" target="_blank" rel="noopener">An Extension Study to Evaluate the Long-term Safety and Efficacy of Pegcetacoplan (APL-2) in Subjects With Geographic Atrophy Secondary to AMD</a><div class="sub">— · Geographic Atrophy Secondary to Age-related Macular Degeneration · Completed · est. 2025-09-05</div></div><div class="trial"><a href="https://clinicaltrials.gov/study/NCT03500549" target="_blank" rel="noopener">Study to Evaluate the Efficacy and Safety of APL-2 in Patients With Paroxysmal Nocturnal Hemoglobinuria (PNH)</a><div class="sub">— · Paroxysmal Nocturnal Hemoglobinuria · Completed · est. 2019-11-14</div></div></div><div class="panel" data-stage="4" hidden><p class="mute">No approved products listed under this sponsor in Drugs@FDA (partnered or subsidiary products may be listed elsewhere).</p></div></div>
+        <div class="note">Source: ClinicalTrials.gov (trials where Apellis is lead sponsor; 24 active or completed) and Drugs@FDA (0 approved products). Registry data can include older or partnered programs; the company's own pipeline page is the official list.</div>
+      </section>
+      <section>
+        <h2>SEC filings — insider trading forms excluded</h2>
+        <ul class="list"><li class="mute">No filings found.</li></ul>
+        <div class="note">Source: SEC EDGAR. Forms 3/4/5 and 144 (insider transactions) are intentionally left out.</div>
+      </section>
+    </main>
+    <aside>
+      <section>
+        <h2>Upcoming catalysts</h2>
+        <ul class="list"><li><span class="date">2027-06-25</span> <a href="https://clinicaltrials.gov/study/NCT07215390" target="_blank" rel="noopener">A Phase 2, Randomized, Placebo Controlled, Multicenter, Masked Study to Evaluate the Efficacy, Safety, Tolerability, and Pharmacodynamics of Multidose APL 3007 in Combination With Syfovre/Pegcetacoplan (APL-2) in Patients Diagnosed With Geographic Atrophy Secondary to Age Related Macular Degeneratio</a> <span class="mute">(Phase 2)</span></li><li><span class="date">2027-07</span> <a href="https://clinicaltrials.gov/study/NCT05809531" target="_blank" rel="noopener">An Open-Label, Nonrandomized, Multicenter Extension Study to Evaluate the Long-term Safety and Efficacy of Pegcetacoplan in Participants With C3 Glomerulopathy or Immune-Complex Membranoproliferative Glomerulonephritis</a> <span class="mute">(Phase 3)</span></li><li><span class="date">2028-12</span> <a href="https://clinicaltrials.gov/study/NCT04901936" target="_blank" rel="noopener">A Study of Pegcetacoplan in Pediatric Patients With Paroxysmal Nocturnal Hemoglobinuria (PNH)</a> <span class="mute">(Phase 2)</span></li><li><span class="date">2029-10</span> <a href="https://clinicaltrials.gov/study/NCT07213960" target="_blank" rel="noopener">A Sequential Phase 2/3 Study of APL2 in Patients With Focal Segmental Glomerulosclerosis</a> <span class="mute">(Phase 3)</span></li></ul>
+        <div class="note">Estimated primary completion dates of Phase 2/3 trials.</div>
+      </section>
+      <section>
+        <h2>Recent news</h2>
+        <ul class="list"><li class="mute">No recent stories.</li></ul>
+      </section>
+    </aside>
+  </div>
+  <footer>Updated Oct 11, 2026. Not investment advice. <a href="/">RxBriefing</a> · <a href="/pipeline/">How a drug gets made</a></footer>
+</div>
+<script>
+  try { if (localStorage.getItem("rxb-theme") === "dark") document.documentElement.dataset.theme = "dark"; } catch (e) {}
+  // price from the live news feed
+  fetch("/data/news.json", {cache:"no-store"}).then(r => r.json()).then(d => {
+    const q = d.quotes["APLS"]; if (!q) return;
+    const c = q.change_pct > 0 ? "up" : q.change_pct < 0 ? "down" : "";
+    document.getElementById("price").innerHTML = `<b>$${q.price.toFixed(2)}</b><span class="${c}" style="margin-left:4px">${q.change_pct > 0 ? "+" : ""}${q.change_pct.toFixed(2)}%</span> <span class="mute">today (delayed)</span>`;
+  }).catch(() => {});
+  // pipeline stage tabs
+  const stages = document.querySelectorAll(".stage"), panels = document.querySelectorAll(".panel");
+  const show = (i) => { stages.forEach(s => s.setAttribute("aria-pressed", String(s.dataset.stage == i))); panels.forEach(p => p.hidden = p.dataset.stage != i); };
+  stages.forEach(s => s.onclick = () => show(s.dataset.stage)); show(3);
+</script>
+</body>
+</html>
