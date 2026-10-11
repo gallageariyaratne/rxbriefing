@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>How a drug gets made — timelines, costs and odds at every stage | RxBriefing</title>
+<meta name="description" content="From target discovery to FDA approval: how long each stage takes, what it costs, and how often it fails. A plain-English guide for investors in pharma and biotech stocks.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&family=Libre+Franklin:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root { --paper:#FAF9F6; --paper2:#F1EFE9; --ink:#141414; --ink2:#3A3A38; --mute:#6B6B66; --rule:#D9D6CF; --rule2:#EAE7E0; --red:#B42318; --green:#137A3A; box-sizing:border-box; padding-top:env(safe-area-inset-top,0px); }
+  :root[data-theme="dark"] { --paper:#121212; --paper2:#1B1B1B; --ink:#EDEBE6; --ink2:#CFCCC4; --mute:#9A978F; --rule:#2E2E2C; --rule2:#232321; --red:#E5604F; --green:#4CC77A; }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--paper); color:var(--ink); font-family:"Libre Franklin",Helvetica,Arial,sans-serif; font-size:15px; line-height:1.45; -webkit-font-smoothing:antialiased; }
+  a { color:inherit; text-decoration:none; } a:hover { text-decoration:underline; text-underline-offset:2px; }
+  .wrap { max-width:1180px; margin:0 auto; padding:0 18px; }
+  .bar { display:flex; align-items:center; justify-content:space-between; padding:12px 0 10px; border-bottom:2px solid var(--ink); }
+  .brand { display:flex; align-items:center; gap:10px; font-family:"Source Serif 4",Georgia,serif; font-weight:700; font-size:22px; }
+  .brand .mark { width:30px; height:30px; background:var(--ink); color:var(--paper); display:grid; place-items:center; font-size:15px; letter-spacing:-.03em; }
+  .bar nav { display:flex; gap:18px; font-size:12px; font-weight:600; text-transform:uppercase; letter-spacing:.04em; }
+  .bar nav a.cur { box-shadow:inset 0 -3px 0 var(--red); padding-bottom:4px; }
+  h1 { font-family:"Source Serif 4",Georgia,serif; font-weight:700; font-size:clamp(28px,4.5vw,40px); letter-spacing:-.015em; line-height:1.1; margin:22px 0 6px; }
+  .kicker { font-size:11px; font-weight:700; letter-spacing:.1em; text-transform:uppercase; color:var(--red); margin-top:18px; }
+  .mono { font-family:"IBM Plex Mono",Menlo,monospace; }
+  .mute { color:var(--mute); } .up { color:var(--green); } .down { color:var(--red); }
+  section { border-top:2px solid var(--ink); padding:10px 0 18px; margin:22px 0 0; }
+  h2 { font-size:11px; letter-spacing:.1em; text-transform:uppercase; margin:0 0 12px; font-weight:700; }
+  ul.list { list-style:none; margin:0; padding:0; } ul.list li { display:flex; gap:12px; align-items:baseline; padding:7px 0; border-bottom:1px solid var(--rule2); font-size:14px; flex-wrap:wrap; }
+  .form { font-family:"IBM Plex Mono",monospace; font-size:11px; font-weight:500; border:1px solid var(--rule); background:var(--paper2); padding:1px 6px; min-width:64px; text-align:center; }
+  .date { font-family:"IBM Plex Mono",monospace; color:var(--mute); font-size:12px; min-width:86px; }
+  .note { font-size:12px; color:var(--mute); margin-top:10px; }
+  footer { border-top:1px solid var(--rule); color:var(--mute); font-size:12px; padding:16px 0 30px; margin-top:26px; } footer a { text-decoration:underline; }
+
+  .lede { font-family:"Source Serif 4",Georgia,serif; font-size:18px; color:var(--ink2); max-width:680px; margin:0; }
+  .stats { display:flex; gap:28px; flex-wrap:wrap; margin:16px 0 4px; border-top:1px solid var(--rule); border-bottom:1px solid var(--rule); padding:12px 0; }
+  .stats div { font-size:12px; color:var(--mute); } .stats b { display:block; font-family:"IBM Plex Mono",monospace; font-size:22px; color:var(--ink); font-weight:500; }
+  .strip { display:grid; grid-template-columns:repeat(9,1fr); gap:3px; margin:18px 0 6px; }
+  .stage { padding:10px 7px; font-size:11px; font-weight:600; line-height:1.2; border:1px solid var(--rule); background:var(--paper2); }
+  .stage:nth-child(n+6):nth-child(-n+8) { background:var(--ink); color:var(--paper); border-color:var(--ink); } .stage:nth-child(9) { border-color:var(--green); color:var(--green); }
+  table { width:100%; border-collapse:collapse; font-size:14px; margin:8px 0; } th, td { text-align:left; padding:9px 8px; border-bottom:1px solid var(--rule2); vertical-align:top; }
+  th { color:var(--mute); font-weight:700; font-size:11px; text-transform:uppercase; letter-spacing:.06em; } td:first-child { font-weight:600; white-space:nowrap; } td:nth-child(-n+4) { font-family:"IBM Plex Mono",monospace; font-size:13px; }
+  .overflow { overflow-x:auto; } section p { font-family:"Source Serif 4",Georgia,serif; font-size:16px; line-height:1.5; max-width:760px; } section p a { text-decoration:underline; }
+  @media (max-width:640px) { .strip { grid-template-columns:repeat(3,1fr); } }
+</style>
+</head>
+<body>
+<div class="wrap"><div class="bar"><a class="brand" href="/"><span class="mark">Rx</span>RxBriefing</a><nav><a href="/">News</a><a href="/companies/">Companies</a><a href="/pipeline/" class="cur">Pipeline 101</a></nav></div></div><div class="wrap">
+  <div class="kicker">Reference</div>
+  <h1>How a drug gets made</h1>
+  <p class="lede">What each stage means when you see it on a company page — how long it takes, what it costs, and how often it fails. Industry averages; real programs vary a lot by disease and modality.</p>
+  <div class="stats"><div><b>10–15 yrs</b>discovery to approval</div><div><b>$1–2.5B</b>cost per approved drug, failures included</div><div><b>~5–10%</b>of preclinical programs reach approval</div></div>
+</div></div>
+<main>
+  <div class="strip">
+    <div class="stage">Target ID & validation</div><div class="stage">Hit discovery</div><div class="stage">Hit-to-lead</div><div class="stage">Lead optimization</div>
+    <div class="stage">Preclinical (IND-enabling)</div><div class="stage">Phase 1 — safety</div><div class="stage">Phase 2 — dose & efficacy</div><div class="stage">Phase 3 — confirm</div><div class="stage">FDA review → approved</div>
+  </div>
+  <section><h2>Stage by stage</h2><div class="overflow"><table>
+    <tr><th>Stage</th><th>Typical time</th><th>Odds of advancing</th><th>Typical cost</th><th>What happens</th><th>Output</th></tr>
+    <tr><td>Target ID & validation</td><td>0.5–2 yrs</td><td>60–80%</td><td>$10–50M</td><td>Pick a protein or pathway that causes the disease; prove hitting it should help.</td><td>Validated target</td></tr>
+    <tr><td>Hit discovery</td><td>1–2 yrs</td><td>~50%</td><td>$50–100M</td><td>Screen large libraries or design molecules (increasingly with AI) that act on the target.</td><td>Hit compounds</td></tr>
+    <tr><td>Hit-to-lead</td><td>1–2 yrs</td><td>~50%</td><td>$50–100M</td><td>Improve potency and selectivity; early drug-likeness checks.</td><td>Lead compounds</td></tr>
+    <tr><td>Lead optimization</td><td>1–2 yrs</td><td>~30%</td><td>$100–250M</td><td>Tune efficacy, pharmacokinetics and safety; pick one candidate.</td><td>Preclinical candidate</td></tr>
+    <tr><td>Preclinical</td><td>1–2 yrs</td><td>60–70%</td><td>$100–250M</td><td>Animal toxicology, PK, manufacturing. Ends with an IND filing asking FDA permission to test in humans.</td><td>IND submission</td></tr>
+    <tr><td>Phase 1</td><td>~1 yr</td><td>60–70%</td><td>$50–100M</td><td>First in humans, usually 20–100 volunteers. Is it safe? How is it absorbed and cleared?</td><td>Phase 1 data</td></tr>
+    <tr><td>Phase 2</td><td>~2 yrs</td><td>30–50%</td><td>$100–300M</td><td>100–300 patients. Does it work, and at what dose? Most failures happen here.</td><td>Phase 2 data</td></tr>
+    <tr><td>Phase 3</td><td>3–4 yrs</td><td>50–70%</td><td>$300–600M</td><td>300–3,000+ patients vs. standard of care. The pivotal, expensive trial.</td><td>Phase 3 data</td></tr>
+    <tr><td>Regulatory review</td><td>1–2 yrs</td><td>~90%</td><td>$50–100M</td><td>NDA/BLA submitted; FDA reviews (the PDUFA date is the decision deadline); sometimes an advisory committee.</td><td>Approved label</td></tr>
+  </table></div>
+  </section>
+  <section><h2>Why this matters for the stock</h2>
+    <p>A Phase 2 readout is the single most common make-or-break event for a small biotech: fail and the stock can lose 50–80% in a day; succeed and it can double. Phase 3 readouts and PDUFA dates are the next biggest. Big pharma is diversified across dozens of programs, so one failure matters far less. On each <a href="/companies/">company page</a> we list registered trials by phase and their estimated completion dates so you can see these events coming.</p>
+    <p>Sources: DiMasi et al. (2016), <em>Nature Reviews Drug Discovery</em>, BIO clinical development success rate reports, FDA. Figures are rounded industry averages.</p>
+  </section>
+  <footer><a href="/">← All news</a> · <a href="/companies/">All companies</a> · Not investment advice.</footer>
+</main></div>
+<script>try{var t=localStorage.getItem("rxb-theme");if(t==="dark")document.documentElement.dataset.theme="dark"}catch(e){}</script>
+</body></html>
