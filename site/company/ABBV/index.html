@@ -6,40 +6,37 @@
 <title>AbbVie (ABBV) — pipeline, SEC filings & news | RxBriefing</title>
 <meta name="description" content="AbbVie (ABBV): drug pipeline by phase from ClinicalTrials.gov, approved products, upcoming trial catalysts, and SEC filings (10-K, 10-Q, 8-K) — updated daily.">
 <link rel="canonical" href="https://rxbriefing.com/company/ABBV/">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&family=Libre+Franklin:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
   :root { --paper:#FAF9F6; --paper2:#F1EFE9; --ink:#141414; --ink2:#3A3A38; --mute:#6B6B66; --rule:#D9D6CF; --rule2:#EAE7E0; --red:#B42318; --green:#137A3A; box-sizing:border-box; padding-top:env(safe-area-inset-top,0px); }
   :root[data-theme="dark"] { --paper:#121212; --paper2:#1B1B1B; --ink:#EDEBE6; --ink2:#CFCCC4; --mute:#9A978F; --rule:#2E2E2C; --rule2:#232321; --red:#E5604F; --green:#4CC77A; }
   * { box-sizing:border-box; }
-  body { margin:0; background:var(--paper); color:var(--ink); font-family:"Libre Franklin",Helvetica,Arial,sans-serif; font-size:15px; line-height:1.45; -webkit-font-smoothing:antialiased; }
+  body { margin:0; background:var(--paper); color:var(--ink); font-family:Arial,Helvetica,sans-serif; font-size:15px; line-height:1.45; -webkit-font-smoothing:antialiased; }
   a { color:inherit; text-decoration:none; } a:hover { text-decoration:underline; text-underline-offset:2px; }
   .wrap { max-width:1180px; margin:0 auto; padding:0 18px; }
   .bar { display:flex; align-items:center; justify-content:space-between; padding:12px 0 10px; border-bottom:2px solid var(--ink); }
-  .brand { display:flex; align-items:center; gap:10px; font-family:"Source Serif 4",Georgia,serif; font-weight:700; font-size:22px; }
+  .brand { display:flex; align-items:center; gap:10px; font-family:Arial,Helvetica,sans-serif; font-weight:700; font-size:22px; }
   .brand .mark { width:30px; height:30px; background:var(--ink); color:var(--paper); display:grid; place-items:center; font-size:15px; letter-spacing:-.03em; }
   .bar nav { display:flex; gap:18px; font-size:12px; font-weight:600; text-transform:uppercase; letter-spacing:.04em; }
   .bar nav a.cur { box-shadow:inset 0 -3px 0 var(--red); padding-bottom:4px; }
-  h1 { font-family:"Source Serif 4",Georgia,serif; font-weight:700; font-size:clamp(28px,4.5vw,40px); letter-spacing:-.015em; line-height:1.1; margin:22px 0 6px; }
+  h1 { font-family:Arial,Helvetica,sans-serif; font-weight:700; font-size:clamp(28px,4.5vw,40px); letter-spacing:-.015em; line-height:1.1; margin:22px 0 6px; }
   .kicker { font-size:11px; font-weight:700; letter-spacing:.1em; text-transform:uppercase; color:var(--red); margin-top:18px; }
-  .mono { font-family:"IBM Plex Mono",Menlo,monospace; }
+  .mono { font-family:Arial,Helvetica,sans-serif; }
   .mute { color:var(--mute); } .up { color:var(--green); } .down { color:var(--red); }
   section { border-top:2px solid var(--ink); padding:10px 0 18px; margin:22px 0 0; }
   h2 { font-size:11px; letter-spacing:.1em; text-transform:uppercase; margin:0 0 12px; font-weight:700; }
   ul.list { list-style:none; margin:0; padding:0; } ul.list li { display:flex; gap:12px; align-items:baseline; padding:7px 0; border-bottom:1px solid var(--rule2); font-size:14px; flex-wrap:wrap; }
-  .form { font-family:"IBM Plex Mono",monospace; font-size:11px; font-weight:500; border:1px solid var(--rule); background:var(--paper2); padding:1px 6px; min-width:64px; text-align:center; }
-  .date { font-family:"IBM Plex Mono",monospace; color:var(--mute); font-size:12px; min-width:86px; }
+  .form { font-family:Arial,Helvetica,sans-serif; font-size:11px; font-weight:500; border:1px solid var(--rule); background:var(--paper2); padding:1px 6px; min-width:64px; text-align:center; }
+  .date { font-family:Arial,Helvetica,sans-serif; color:var(--mute); font-size:12px; min-width:86px; }
   .note { font-size:12px; color:var(--mute); margin-top:10px; }
   footer { border-top:1px solid var(--rule); color:var(--mute); font-size:12px; padding:16px 0 30px; margin-top:26px; } footer a { text-decoration:underline; }
 
   .facts { color:var(--mute); font-size:13px; display:flex; flex-wrap:wrap; gap:4px 16px; }
-  .price { font-family:"IBM Plex Mono",monospace; font-size:14px; margin-top:10px; } .price b { font-size:22px; font-weight:500; margin-right:8px; }
+  .price { font-family:Arial,Helvetica,sans-serif; font-size:14px; margin-top:10px; } .price b { font-size:22px; font-weight:500; margin-right:8px; }
   .strip { display:grid; grid-template-columns:repeat(5,1fr); gap:3px; margin-bottom:14px; }
   .stage { border:1px solid var(--rule); background:var(--paper2); color:var(--ink); cursor:pointer; padding:10px 10px 8px; font:inherit; text-align:left; border-radius:0; }
-  .stage b { display:block; font-size:11px; letter-spacing:.04em; text-transform:uppercase; color:var(--mute); } .stage span { font-family:"IBM Plex Mono",monospace; font-size:22px; }
+  .stage b { display:block; font-size:11px; letter-spacing:.04em; text-transform:uppercase; color:var(--mute); } .stage span { font-family:Arial,Helvetica,sans-serif; font-size:22px; }
   .stage[aria-pressed="true"] { background:var(--ink); color:var(--paper); border-color:var(--ink); } .stage[aria-pressed="true"] b { color:var(--paper); opacity:.8; }
-  .trial { padding:9px 0; border-bottom:1px solid var(--rule2); font-size:14px; } .trial a { font-family:"Source Serif 4",Georgia,serif; font-size:16px; font-weight:600; }
+  .trial { padding:9px 0; border-bottom:1px solid var(--rule2); font-size:14px; } .trial a { font-family:Arial,Helvetica,sans-serif; font-size:16px; font-weight:600; }
   .sub { color:var(--mute); font-size:12px; margin-top:2px; }
   .drugs { display:grid; grid-template-columns:repeat(auto-fill,minmax(180px,1fr)); gap:0 18px; }
   .drug { padding:7px 0; border-bottom:1px solid var(--rule2); } .drug b { display:block; font-size:14px; } .drug span { font-size:12px; color:var(--mute); }
@@ -76,7 +73,7 @@
       </section>
       <section>
         <h2>Recent news</h2>
-        <ul class="list"><li class="mute">No recent stories.</li></ul>
+        <ul class="list"><li><a href="https://finnhub.io/api/news?id=d0e4c844dfa87ed4f53dd4d26660626a03de6fc78fae246c12d12553264f870b" target="_blank" rel="noopener">How Much Would You Need to Invest in These 5 Pharma Stocks to Earn $1,000 a Month in Dividends?</a> <span class="mute">Yahoo · 2026-10-11</span></li><li><a href="https://finnhub.io/api/news?id=11a786498782afaccf0262d5570d06ee18a18ddd114c981cf9f7594cc7351290" target="_blank" rel="noopener">Banking Bellwethers Kick Off Earnings, Fed Chair&#x27;s Speech In Focus</a> <span class="mute">SeekingAlpha · 2026-10-10</span></li><li><a href="https://finnhub.io/api/news?id=0314de4f307d014e1b059754bc12bdca5f4e1c709e1220dd2844e54000f68bd4" target="_blank" rel="noopener">What Does AbbVie (ABBV) Winning Two FDA Breakthrough Tags Mean For Its Oncology Pipeline?</a> <span class="mute">Yahoo · 2026-10-10</span></li><li><a href="https://finnhub.io/api/news?id=2e3fc18273d0313408985b49d17e646e670649022a16be256bd517845bce243e" target="_blank" rel="noopener">John Moolenaar Urges Defense Department to Add 120 Chinese Schools and Tech Labs to US Research Funding Watchlist</a> <span class="mute">Benzinga · 2026-10-10</span></li><li><a href="https://finnhub.io/api/news?id=d7341b07311e0a7aadb936df0d126442fa321eed83f51e517867f131ac1fb044" target="_blank" rel="noopener">Why Is Everyone Ignoring Gilead Stock&#x27;s High Cash Yield?</a> <span class="mute">Yahoo · 2026-10-10</span></li><li><a href="https://finnhub.io/api/news?id=6ecf61a08d4e89e309d2bc77c13f5e7c620f7c06baba3507c179f7718a35d78e" target="_blank" rel="noopener">Dividend Champion, Contender, And Challenger Highlights: Week October 11</a> <span class="mute">SeekingAlpha · 2026-10-09</span></li><li><a href="https://finnhub.io/api/news?id=8ec035baab86cf7792f8c473ed9d920f88a6b869215a9474bf070dbaea0125ad" target="_blank" rel="noopener">Does The Move In Merck Stock Change Anything?</a> <span class="mute">Yahoo · 2026-10-09</span></li><li><a href="https://finnhub.io/api/news?id=9a92b71644171d20646a52ed44965c3d73e78a9bdef706023c48ec9b1e685fcd" target="_blank" rel="noopener">Here’s How Much You Would Have Made Owning AbbVie Stock In The Last 5 Years</a> <span class="mute">Benzinga · 2026-10-09</span></li><li><a href="https://finnhub.io/api/news?id=6fdf316f2d5ebe8c061465fe438ca485dfe8aabf63f03dc5c9d92f0f44f43b9e" target="_blank" rel="noopener">A Stock Market Crash Is Coming By the End of 2027, According to Some Economists. Here Are 2 Stocks to Buy Before That Happens</a> <span class="mute">Yahoo · 2026-10-09</span></li><li><a href="https://finnhub.io/api/news?id=1d6ce00c721ad1924f83cd4763ba8a3c72a5f8b8e821088d4602014b0a5ec596" target="_blank" rel="noopener">Treasury Bills or Dividend Stocks? The Retirement Income Math May Surprise You</a> <span class="mute">Yahoo · 2026-10-09</span></li><li><a href="https://finnhub.io/api/news?id=6241482d4670bb6f2d789158b7ebcd3d68f4b48589cd9e9642a3ae4bc086e46c" target="_blank" rel="noopener">Cancer Stocks to Consider as Oncology Innovation Accelerates</a> <span class="mute">Yahoo · 2026-10-09</span></li><li><a href="https://finnhub.io/api/news?id=aabf954f38432e37912390298b903621b43349d000a25b427d0e6de1ad0f4710" target="_blank" rel="noopener">AbbVie (ABBV) Outgrew Humira’s Collapse. Is its Forward P/E Fair for What Comes Next?</a> <span class="mute">Yahoo · 2026-10-09</span></li><li><a href="https://finnhub.io/api/news?id=dac28b3748f2eb337bdde00dc47ba0bedd5c6eea64bc1a19104fa1438a7bf8c4" target="_blank" rel="noopener">Cantor Fitzgerald Lifts Price Targets on Four Pharma Giants Amid Mixed Growth Outlooks</a> <span class="mute">Yahoo · 2026-10-09</span></li><li><a href="https://finnhub.io/api/news?id=f3a823dcaa1ad46254a0aaf4916bded17927ba986aa3a9285a4b9b916b36836d" target="_blank" rel="noopener">UBS Maintains Neutral on AbbVie, Raises Price Target to $275</a> <span class="mute">Benzinga · 2026-10-09</span></li><li><a href="https://finnhub.io/api/news?id=ed23d7cec3f658bac0371cf92d89a162432240c7d2a84e75fed44e5f48a6a8dc" target="_blank" rel="noopener">2 Cash-Producing Stocks on Our Watchlist and 1 We Avoid</a> <span class="mute">Yahoo · 2026-10-09</span></li></ul>
       </section>
     </aside>
   </div>
