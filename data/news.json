@@ -1,7 +1,11 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-11T04:13:35.094153+00:00",
+ "updated": "2026-10-11T04:19:04.462099+00:00",
  "quotes": {
+  "ABBV": {
+   "price": 276.47,
+   "change_pct": 1.49
+  },
   "ABT": {
    "price": 99.6,
    "change_pct": 1.13
@@ -18,9 +22,17 @@
    "price": 825.03,
    "change_pct": 0.78
   },
+  "AZN": {
+   "price": 159.2,
+   "change_pct": 0.26
+  },
   "BMY": {
    "price": 59.12,
    "change_pct": -0.77
+  },
+  "BNTX": {
+   "price": 96.96,
+   "change_pct": 5.32
   },
   "CERT": {
    "price": 9.13,
@@ -73,6 +85,10 @@
   "JNJ": {
    "price": 261.44,
    "change_pct": 1.93
+  },
+  "KRYS": {
+   "price": 331.61,
+   "change_pct": 1.32
   },
   "LLY": {
    "price": 1179.27,
@@ -1654,6 +1670,21 @@
    "sectors": []
   },
   {
+   "id": "fde46b6cbafd",
+   "headline": "How Much Would You Need to Invest in These 5 Pharma Stocks to Earn $1,000 a Month in Dividends?",
+   "summary": "You'll need to generate $12,000 a year in dividends to average $1k per month from Amgen, Pfizer, J&J, AbbVie, and Bristol Myers Squibb.",
+   "url": "https://finnhub.io/api/news?id=d0e4c844dfa87ed4f53dd4d26660626a03de6fc78fae246c12d12553264f870b",
+   "source": "Yahoo",
+   "published": "2026-10-11T02:35:00+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "fb941302927f",
    "headline": "Certara (CERT) Stock Fair Value Edges Higher As Analysts Weigh Turnaround Progress",
    "summary": "Price targets for Certara are clustering in the mid to high single digits, with recent moves centering around the US$9 to US$10 range. These shifts reflect mixed analyst views as models are refreshed ahead of upcoming results, with some\u2026",
@@ -1848,6 +1879,21 @@
    ]
   },
   {
+   "id": "e536317cbe0f",
+   "headline": "Why Did BioNTech (BNTX) Move Today?",
+   "summary": "BioNTech (NasdaqGS:BNTX) last closed at US$96.96, leaving investors weighing how current pricing aligns with recent trading returns and the company\u2019s evolving mix of oncology candidates and infectious disease programs. Recent trading has\u2026",
+   "url": "https://finnhub.io/api/news?id=795c87ff42b65905f1a95e5372955ca21cb6ebf14d0e8d099278a5681de12cf5",
+   "source": "Yahoo",
+   "published": "2026-10-10T17:10:54+00:00",
+   "tickers": [
+    "BNTX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "40bed02bb372",
    "headline": "Viking Therapeutics' Oral Obesity Drug Advances to Phase 3 Testing. Is Now the Time to Buy This Biotech Stock?",
    "summary": "Viking's weight loss pill program has a couple of issues, including the fierce competitors who have a big head start.",
@@ -1870,7 +1916,8 @@
    "source": "Yahoo",
    "published": "2026-10-10T16:33:02+00:00",
    "tickers": [
-    "BMY"
+    "BMY",
+    "NVO"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -2058,6 +2105,21 @@
    ]
   },
   {
+   "id": "15b2d5e3f365",
+   "headline": "argenx (ENXTBR:ARGX) Stock May Be Fully Priced After Its 185% Run",
+   "summary": "argenx has been through a volatile spell after a long run, and the recent swings now put a simple question in front of you as an investor: Is the current share price still in line with what the company's earnings can reasonably support?\u2026",
+   "url": "https://finnhub.io/api/news?id=2a098d224028a70363f6e597a50b773fdf32229f5cf9b3999820d319882af723",
+   "source": "Yahoo",
+   "published": "2026-10-10T12:18:07+00:00",
+   "tickers": [
+    "ARGX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "4970be202d19",
    "headline": "Why Ramsay G\u00e9n\u00e9rale de Sant\u00e9 (ENXTPA:GDS) Is Back In The Spotlight",
    "summary": "Ramsay G\u00e9n\u00e9rale de Sant\u00e9 (ENXTPA:GDS) has called a board meeting for 6 October 2026 to review the auditors\u2019 certification report on its consolidated accounts, a routine governance step that remains important for equity holders. Against\u2026",
@@ -2085,6 +2147,21 @@
    "tag": "Policy",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "03799df3f579",
+   "headline": "AstraZeneca (LSE:AZN) Puts AI Into Biologics Labs With New Discovery Tie Up",
+   "summary": "AstraZeneca (LSE:AZN) has launched a new AI-driven biologics discovery collaboration with Carterra, announced ahead of trading on 9 October 2026. The partnership links AstraZeneca's AI models with Carterra's high-throughput biosensor\u2026",
+   "url": "https://finnhub.io/api/news?id=e13f0714775fc8d895727a51591335c1aa92340764ec03a4ec3b9061c1edb046",
+   "source": "Yahoo",
+   "published": "2026-10-10T12:10:00+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -2140,6 +2217,7 @@
    "source": "SeekingAlpha",
    "published": "2026-10-10T11:00:00+00:00",
    "tickers": [
+    "ABBV",
     "ABT",
     "JNJ",
     "MRNA"
@@ -2195,6 +2273,21 @@
    ]
   },
   {
+   "id": "c57b3b6af7e1",
+   "headline": "Krystal Biotech: Vyjuvek's Success Is Becoming Its Growth Problem (Downgrade)",
+   "summary": "Krystal Biotech is downgraded from Buy to Hold as U.S. VYJUVEK sales plateau and growth shifts ex-U.S. Read more on KRYS stock here.",
+   "url": "https://finnhub.io/api/news?id=5f906a574b72e2ae3e6ba833c47837a5dafb9ea7c8a475ea8bb6d9939f60a0e7",
+   "source": "SeekingAlpha",
+   "published": "2026-10-10T09:08:20+00:00",
+   "tickers": [
+    "KRYS"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "4c072fbbebcb",
    "headline": "Alnylam vs. Ionis: Here's the Better Bad-News Buy",
    "summary": "The sell-offs for both of these beaten-down biotech stocks appear to be overdone.",
@@ -2238,6 +2331,36 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "84aefa9fd3fb",
+   "headline": "What Does AbbVie (ABBV) Winning Two FDA Breakthrough Tags Mean For Its Oncology Pipeline?",
+   "summary": "AbbVie (NYSE:ABBV) received two FDA Breakthrough Therapy Designations for its experimental cancer drug telisotuzumab adizutecan in colorectal and non small cell lung cancer. The designations apply to biomarker defined patient groups in\u2026",
+   "url": "https://finnhub.io/api/news?id=0314de4f307d014e1b059754bc12bdca5f4e1c709e1220dd2844e54000f68bd4",
+   "source": "Yahoo",
+   "published": "2026-10-10T07:11:53+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "97147f9c71e6",
+   "headline": "Krystal Biotech: My Analysis Suggests Stock Has Not Yet Reached Peak Value",
+   "summary": "Krystal Biotech is rated a 'Buy' due to strong Vyjuvek sales, robust profitability, and a promising pipeline. Read more on KRYS stock here.",
+   "url": "https://finnhub.io/api/news?id=eee6437eb699234f6f504f759209894eb5c2e946847f17947671906cb873f9cf",
+   "source": "SeekingAlpha",
+   "published": "2026-10-10T06:33:17+00:00",
+   "tickers": [
+    "KRYS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -2308,6 +2431,7 @@
    "source": "Benzinga",
    "published": "2026-10-10T01:54:17+00:00",
    "tickers": [
+    "ABBV",
     "MRK"
    ],
    "tag": "News",
@@ -2323,6 +2447,7 @@
    "source": "Yahoo",
    "published": "2026-10-10T01:12:20+00:00",
    "tickers": [
+    "NVO",
     "NVS"
    ],
    "tag": "FDA",
@@ -2338,6 +2463,7 @@
    "source": "Yahoo",
    "published": "2026-10-10T00:47:04+00:00",
    "tickers": [
+    "ABBV",
     "BMY",
     "GILD",
     "JNJ",
@@ -2362,6 +2488,21 @@
    "tag": "Financing",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "7c9b66257c3b",
+   "headline": "Why Are 10x Genomics (TXG) Shares Soaring Today",
+   "summary": "Shares of biotech company 10x Genomics (NASDAQ:TXG) jumped 6.1% in the morning session after Bank of America raised its price target on the stock to $80 from $50 while keeping a Neutral rating.",
+   "url": "https://finnhub.io/api/news?id=127fec635ecf8055a476362aedee1425d7fd3285dccdab9ccdd529cc5303b959",
+   "source": "Yahoo",
+   "published": "2026-10-10T00:27:10+00:00",
+   "tickers": [
+    "TXG"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -2526,8 +2667,10 @@
    "source": "SeekingAlpha",
    "published": "2026-10-09T22:26:01+00:00",
    "tickers": [
+    "ABBV",
     "ABT",
     "CAH",
+    "MDT",
     "TMO"
    ],
    "tag": "News",
@@ -2593,6 +2736,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "95f49e26b39a",
+   "headline": "Medtronic (MDT) Stock Could Be A Bargain Despite Its 36% Run",
+   "summary": "Medtronic has delivered a 35.8% gain over the past three years, yet recent share price softness raises a straightforward question for investors who care about fundamentals. Are the cash flows from its medical technology portfolio enough\u2026",
+   "url": "https://finnhub.io/api/news?id=ff627bf187eb84bf80e0040daa4c4650f23c89bf8ba61d37686e5f10d32c9137",
+   "source": "Yahoo",
+   "published": "2026-10-09T21:15:42+00:00",
+   "tickers": [
+    "MDT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -2782,6 +2940,21 @@
     "EVH"
    ],
    "tag": "Earnings",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
+   "id": "59daf6dfb80c",
+   "headline": "Evolent To Release Third Quarter 2026 Financial Results on Thursday, November 5, 2026",
+   "summary": "Evolent Health, Inc. (NYSE: EVH), a company focused on achieving better health outcomes for people with complex conditions, today announced it will release its third quarter 2026 financial results on Thursday, November 5, 2026, before\u2026",
+   "url": "https://finnhub.io/api/news?id=411e7a2bd535c6d9224fd6cf35e3264c7aa15d9fc748eb00bdbecfd53b61dcc1",
+   "source": "Yahoo",
+   "published": "2026-10-09T20:30:00+00:00",
+   "tickers": [
+    "EVH"
+   ],
+   "tag": "News",
    "sectors": [
     "healthit"
    ]
@@ -3052,6 +3225,7 @@
    "source": "Yahoo",
    "published": "2026-10-09T18:12:18+00:00",
    "tickers": [
+    "ABBV",
     "BMY",
     "JNJ",
     "LLY",
@@ -3119,6 +3293,7 @@
    "source": "Yahoo",
    "published": "2026-10-09T17:49:18+00:00",
    "tickers": [
+    "MCK",
     "OPCH"
    ],
    "tag": "M&A",
@@ -3170,6 +3345,7 @@
     "CVS",
     "ELV",
     "HUM",
+    "MOH",
     "UNH"
    ],
    "tag": "Analyst",
@@ -3320,7 +3496,8 @@
    "source": "Yahoo",
    "published": "2026-10-09T16:55:00+00:00",
    "tickers": [
-    "ALNY"
+    "ALNY",
+    "ARGX"
    ],
    "tag": "Clinical",
    "sectors": [
@@ -3385,6 +3562,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "5075fa042594",
+   "headline": "Here\u2019s How Much You Would Have Made Owning AbbVie Stock In The Last 5 Years",
+   "summary": "AbbVie (NYSE:ABBV) has outperformed the market over the past 5 years by 8.13% on an annualized basis producing an average annual return of 20.55%. Currently, AbbVie has a market capitalization of $481.85 billion.",
+   "url": "https://finnhub.io/api/news?id=9a92b71644171d20646a52ed44965c3d73e78a9bdef706023c48ec9b1e685fcd",
+   "source": "Benzinga",
+   "published": "2026-10-09T16:15:20+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "6dbbd137cf9f",
@@ -3475,6 +3667,7 @@
    "source": "Yahoo",
    "published": "2026-10-09T15:48:54+00:00",
    "tickers": [
+    "BNTX",
     "MRNA",
     "PFE"
    ],
@@ -3518,6 +3711,7 @@
    "source": "Yahoo",
    "published": "2026-10-09T15:40:54+00:00",
    "tickers": [
+    "CI",
     "CVS"
    ],
    "tag": "M&A",
@@ -3541,6 +3735,21 @@
    ]
   },
   {
+   "id": "64e626d1684e",
+   "headline": "Grail (GRAL) vs Guardant Health (GH): Which is a Better Stock to Buy?",
+   "summary": "GRAIL, Inc. (NASDAQ:GRAL) traded at around $133 on October 7, down 3.19% on the day, though still 93.00% higher over twelve months. Guardant Health, Inc. (NASDAQ:GH) traded near $168 over the same session, up 161.55% across the year. Both\u2026",
+   "url": "https://finnhub.io/api/news?id=98522e1cd57d0410bf0c8e27a592366a72cebcf836a5513d407d966cefd72ab3",
+   "source": "Yahoo",
+   "published": "2026-10-09T15:38:34+00:00",
+   "tickers": [
+    "GH"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "d22e06ae1efe",
    "headline": "Is Vertex Stock Worth More Than Its Competitors?",
    "summary": "Vertex Pharmaceuticals (VRTX) stock trades at 29.0 times earnings. That valuation prices the company higher than Regeneron and Incyte, two of its biotech peers. Vertex does generate the highest operating margin among its group of five\u2026",
@@ -3551,6 +3760,7 @@
     "ALNY",
     "BMRN",
     "INCY",
+    "REGN",
     "VRTX"
    ],
    "tag": "Earnings",
@@ -3670,6 +3880,7 @@
    "published": "2026-10-09T15:18:00+00:00",
    "tickers": [
     "PFE",
+    "RARE",
     "RVMD"
    ],
    "tag": "FDA",
@@ -3724,6 +3935,21 @@
    ]
   },
   {
+   "id": "e16aa74444d4",
+   "headline": "European Equities Traded in the US as American Depositary Receipts Rise in Friday Trading; Flat for Week",
+   "summary": "European equities traded in the US as American depositary receipts were tracking higher late Friday",
+   "url": "https://finnhub.io/api/news?id=bf6113749f6374da7b2a0d75a8d72e4dd0dae6273795e28c09ef2b1545702c63",
+   "source": "Yahoo",
+   "published": "2026-10-09T15:15:00+00:00",
+   "tickers": [
+    "ARGX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "161b6d865924",
    "headline": "Eli Lilly (LLY) As Zepbound And Retatrutide Updates Test Whether More Upside Is Priced In",
    "summary": "Eli Lilly (LLY) has shifted back into the spotlight after a run of high profile drug updates, with fresh data on Zepbound, Foundayo and the triple agonist retatrutide resetting market attention on its pipeline. After a choppy few months\u2026",
@@ -3761,6 +3987,7 @@
    "source": "Benzinga",
    "published": "2026-10-09T15:11:12+00:00",
    "tickers": [
+    "BNTX",
     "MRK",
     "MRNA",
     "PFE"
@@ -3768,6 +3995,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "f66d894eeede",
+   "headline": "Will Becton Dickinson (BDX) Beat Estimates Again in Its Next Earnings Report?",
+   "summary": "Becton Dickinson (BDX) has an impressive earnings surprise history and currently possesses the right combination of the two key ingredients for a likely beat in its next quarterly report.",
+   "url": "https://finnhub.io/api/news?id=a2d04249e0cfb03122812ff45d246ca95db70a23c5a4af99161ab54176ce3cf0",
+   "source": "Yahoo",
+   "published": "2026-10-09T15:10:03+00:00",
+   "tickers": [
+    "BDX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -3810,6 +4052,7 @@
    "source": "Benzinga",
    "published": "2026-10-09T15:03:28+00:00",
    "tickers": [
+    "MCK",
     "OPCH"
    ],
    "tag": "M&A",
@@ -3913,6 +4156,7 @@
    "source": "Yahoo",
    "published": "2026-10-09T14:50:02+00:00",
    "tickers": [
+    "ABBV",
     "AMGN"
    ],
    "tag": "M&A",
@@ -4033,9 +4277,11 @@
    "source": "Yahoo",
    "published": "2026-10-09T14:19:13+00:00",
    "tickers": [
+    "GH",
     "ILMN",
     "IQV",
-    "NTRA"
+    "NTRA",
+    "TEM"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -4065,11 +4311,27 @@
    "source": "Yahoo",
    "published": "2026-10-09T14:16:00+00:00",
    "tickers": [
+    "MCK",
     "OPCH"
    ],
    "tag": "M&A",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "a8f165ed0e77",
+   "headline": "Treasury Bills or Dividend Stocks? The Retirement Income Math May Surprise You",
+   "summary": "Three of these six income stocks beat current Treasury bill yields, but a higher number on the label does not settle the argument once taxes, reinvestment risk, and dividend safety enter the picture.",
+   "url": "https://finnhub.io/api/news?id=1d6ce00c721ad1924f83cd4763ba8a3c72a5f8b8e821088d4602014b0a5ec596",
+   "source": "Yahoo",
+   "published": "2026-10-09T14:15:53+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -4166,7 +4428,9 @@
    "source": "Yahoo",
    "published": "2026-10-09T14:03:00+00:00",
    "tickers": [
+    "ABBV",
     "ABT",
+    "AZN",
     "JNJ",
     "NVS",
     "PFE"
@@ -4289,11 +4553,27 @@
    "tickers": [
     "BMY",
     "BSX",
+    "DHR",
     "LLY",
     "MRNA",
     "ZTS"
    ],
    "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "7100528eb6f4",
+   "headline": "AbbVie (ABBV) Outgrew Humira\u2019s Collapse. Is its Forward P/E Fair for What Comes Next?",
+   "summary": "Humira, the drug that built AbbVie (NYSE:ABBV), sold $756 million last quarter, down 35.9%. And yet total revenue still climbed 10.2% to $16.99 billion. That\u2019s what replacing a blockbuster looks like when the replacements actually show\u2026",
+   "url": "https://finnhub.io/api/news?id=aabf954f38432e37912390298b903621b43349d000a25b427d0e6de1ad0f4710",
+   "source": "Yahoo",
+   "published": "2026-10-09T13:33:47+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "Earnings",
    "sectors": [
     "pharma"
    ]
@@ -4314,6 +4594,21 @@
    ]
   },
   {
+   "id": "92e629d5d8cb",
+   "headline": "Novo Nordisk (NVO) Raised Its Outlook, Then Aimed for Average Growth",
+   "summary": "Novo Nordisk (NYSE:NVO) did something this year that usually pleases investors: it raised its full-year outlook. The shares fell anyway, with investors fixated on pricing pressure and the quality of the beat. Then, at a strategy day in\u2026",
+   "url": "https://finnhub.io/api/news?id=acc8ee1264813342f32f3fb58a9b87de501e01b515677ffd66bf42c74576fd98",
+   "source": "Yahoo",
+   "published": "2026-10-09T13:28:22+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "3470067bfe56",
    "headline": "4 CNS Drug Stocks Worth Watching This World Mental Health Day",
    "summary": "AXSM, NBIX, ALKS and ACAD are advancing CNS treatments for mental health disorders, with growing product sales, pipeline progress and new growth opportunities.",
@@ -4321,7 +4616,9 @@
    "source": "Yahoo",
    "published": "2026-10-09T13:28:00+00:00",
    "tickers": [
-    "AXSM"
+    "ACAD",
+    "AXSM",
+    "NBIX"
    ],
    "tag": "News",
    "sectors": [
@@ -4476,6 +4773,21 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "3b3cb5740471",
+   "headline": "1 Profitable Stock to Target This Week and 2 We Ignore",
+   "summary": "Not all profitable companies are built to last - some rely on outdated models or unsustainable advantages. Just because a business is in the green today doesn\u2019t mean it will thrive tomorrow.",
+   "url": "https://finnhub.io/api/news?id=d2a3386c33af3eec6ee08a56e07e84c07a8081335d4b6fb1d7fd87dec46ff8b8",
+   "source": "Yahoo",
+   "published": "2026-10-09T13:15:10+00:00",
+   "tickers": [
+    "MCK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharmacy"
    ]
   },
   {
@@ -4674,7 +4986,8 @@
    "source": "Yahoo",
    "published": "2026-10-09T12:51:00+00:00",
    "tickers": [
-    "IRTC"
+    "IRTC",
+    "TEM"
    ],
    "tag": "Health AI",
    "sectors": [
@@ -4836,6 +5149,21 @@
    ]
   },
   {
+   "id": "9f24b88a6d25",
+   "headline": "Evercore ISI Group Maintains Outperform on argenx, Lowers Price Target to $1078",
+   "summary": "Evercore ISI Group analyst Gavin Clark-Gartner maintains argenx (NASDAQ:ARGX) with a Outperform and lowers the price target from $1175 to $1078.",
+   "url": "https://finnhub.io/api/news?id=4c9a7e44214057dfcea28f378b2a04d569ad86531cdc361e8b0cc9c29161f8fa",
+   "source": "Benzinga",
+   "published": "2026-10-09T12:32:29+00:00",
+   "tickers": [
+    "ARGX"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "9881fcb745ea",
    "headline": "ARGX Stock Down on Stopping Late-Stage Autoimmune Disease Study",
    "summary": "argenx shares tumble 12% after discontinuing its late-stage Sjogren's disease study, while positive FB102 data in celiac disease offer a contrasting pipeline development.",
@@ -4844,6 +5172,7 @@
    "published": "2026-10-09T12:31:00+00:00",
    "tickers": [
     "ALNY",
+    "ARGX",
     "CRSP"
    ],
    "tag": "News",
@@ -4932,6 +5261,21 @@
    ]
   },
   {
+   "id": "3605f71ac9c2",
+   "headline": "argenx (ENXTBR:ARGX) Gets Mixed Trial News, Is It Still Overvalued?",
+   "summary": "Argenx (ENXTBR:ARGX) is back in focus after twin clinical updates. The company reported positive Phase 2 data for FB102 in celiac disease while deciding to halt its Phase 3 UNITY trial in Sj\u00f6gren's disease. Over the past month argenx\u2019s\u2026",
+   "url": "https://finnhub.io/api/news?id=b025b0375d85610ce2d036e88ba3cf87dc0ce4d3b9a5f4bb13b75a1fc3423a70",
+   "source": "Yahoo",
+   "published": "2026-10-09T12:13:15+00:00",
+   "tickers": [
+    "ARGX"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "0d4a1d9dd34e",
    "headline": "1 Healthcare Stock Worth Your Attention and 2 We Turn Down",
    "summary": "From novel pharmaceuticals to telemedicine, most healthcare companies are on a mission to drive better patient outcomes. Those leading the charge have not only realized strong financial performance but also propelled the broader\u2026",
@@ -4969,6 +5313,7 @@
    "source": "Yahoo",
    "published": "2026-10-09T12:00:08+00:00",
    "tickers": [
+    "ABBV",
     "LLY",
     "MRK",
     "PFE"
@@ -5160,6 +5505,21 @@
    ]
   },
   {
+   "id": "bbcdd18b8877",
+   "headline": "If You Invested $1000 in McKesson a Decade Ago, This is How Much It'd Be Worth Now",
+   "summary": "Why investing for the long run, especially if you buy certain popular stocks, could reap huge rewards.",
+   "url": "https://finnhub.io/api/news?id=d38ba1ffb6808cdfa5bc887612cb2d66457921416a2b8302e9702c841cb61e6e",
+   "source": "Yahoo",
+   "published": "2026-10-09T11:30:03+00:00",
+   "tickers": [
+    "MCK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
+  {
    "id": "6f84eb647ec3",
    "headline": "UBS Maintains Buy on Amgen, Raises Price Target to $470",
    "summary": "UBS analyst Michael Yee maintains Amgen (NASDAQ:AMGN) with a Buy and raises the price target from $430 to $470.",
@@ -5168,6 +5528,21 @@
    "published": "2026-10-09T11:29:26+00:00",
    "tickers": [
     "AMGN"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "9ec605f5e3ed",
+   "headline": "UBS Maintains Neutral on AbbVie, Raises Price Target to $275",
+   "summary": "UBS analyst Michael Yee maintains AbbVie (NYSE:ABBV) with a Neutral and raises the price target from $260 to $275.",
+   "url": "https://finnhub.io/api/news?id=f3a823dcaa1ad46254a0aaf4916bded17927ba986aa3a9285a4b9b916b36836d",
+   "source": "Benzinga",
+   "published": "2026-10-09T11:28:14+00:00",
+   "tickers": [
+    "ABBV"
    ],
    "tag": "Analyst",
    "sectors": [
@@ -5187,6 +5562,21 @@
    "tag": "Analyst",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "d0f5cb3a4bf9",
+   "headline": "How Investors Are Reacting To Medtronic (MDT) Advancing Altaviva, Symplicity Spyral And Spinning Off MiniMed",
+   "summary": "In early October 2026, Medtronic announced new clinical evidence and program updates for its Altaviva\u2122 tibial neuromodulation device, AMA-approved Category I CPT\u00ae codes for both Altaviva\u2122 and the Symplicity Spyral\u2122 renal denervation\u2026",
+   "url": "https://finnhub.io/api/news?id=33d3bad27deccee3142c328e554d290f632bfce37c139fbb0df1f96bd17200b2",
+   "source": "Yahoo",
+   "published": "2026-10-09T11:13:28+00:00",
+   "tickers": [
+    "MDT"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -5212,6 +5602,8 @@
    "source": "Benzinga",
    "published": "2026-10-09T11:00:02+00:00",
    "tickers": [
+    "AZN",
+    "BNTX",
     "JNJ",
     "MRNA",
     "PFE"
@@ -5269,6 +5661,21 @@
    ]
   },
   {
+   "id": "a208e213b51a",
+   "headline": "Citi Cuts Novo Nordisk Price Target to DKK 296 on Limited Margin Growth Outlook",
+   "summary": "Citi Research has lowered its price target for Danish pharmaceutical company Novo Nordisk (NYSE:NVO) to DKK 296 from DKK 310, citing limited opportunities for operating margin expansion through 2030 despite improving expectations for\u2026",
+   "url": "https://finnhub.io/api/news?id=c2703226019cba62e3371434a07409eee39f6bc3ea9f31646a3fade3057f9e72",
+   "source": "Yahoo",
+   "published": "2026-10-09T10:52:54+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "449ec9de5202",
    "headline": "Humana, Evolution Metals & Technologies, Fastly And Other Big Stocks Moving Higher On Friday",
    "summary": "U.S. stocks rose Friday; Humana jumped 12.3% after improved 2027 Medicare Advantage ratings and reaffirmed FY26 EPS guidance.",
@@ -5276,9 +5683,11 @@
    "source": "Benzinga",
    "published": "2026-10-09T10:51:05+00:00",
    "tickers": [
+    "ABSI",
     "HUM",
     "MRNA",
-    "TWST"
+    "TWST",
+    "TXG"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -5296,6 +5705,21 @@
     "HALO"
    ],
    "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "58a63414e5e6",
+   "headline": "Intellia Therapeutics (NTLA) Soars 7.6%: Is Further Upside Left in the Stock?",
+   "summary": "Intellia Therapeutics (NTLA) witnessed a jump in share price last session on above-average trading volume. The latest trend in earnings estimate revisions for the stock doesn't suggest further strength down the road.",
+   "url": "https://finnhub.io/api/news?id=72033bf40e35a3db8eab1c91183d46c8c4315464b18dcf5b54341389d3b7de96",
+   "source": "Yahoo",
+   "published": "2026-10-09T10:51:00+00:00",
+   "tickers": [
+    "NTLA"
+   ],
+   "tag": "Earnings",
    "sectors": [
     "biotech"
    ]
@@ -5421,6 +5845,36 @@
    ]
   },
   {
+   "id": "b9b42177cfaf",
+   "headline": "Medtronic (MDT) Commits $700 Million To Robotics As 2026 Impact Report Lands",
+   "summary": "Medtronic (NYSE:MDT) outlined a transformation into a multi-platform medtech group, centered on digital health, robotics and data-driven care. The company committed around US$700 million to its surgical robotics platform, signaling a\u2026",
+   "url": "https://finnhub.io/api/news?id=6e533d3ff6bd5b01ff16f3c75ee0d30875654c65ef8d9f5c7995772fadbd865d",
+   "source": "Yahoo",
+   "published": "2026-10-09T10:12:19+00:00",
+   "tickers": [
+    "MDT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "16e7a022ecbb",
+   "headline": "2 Cash-Producing Stocks on Our Watchlist and 1 We Avoid",
+   "summary": "While strong cash flow is a key indicator of stability, it doesn\u2019t always translate to superior returns. Some cash-heavy businesses struggle with inefficient spending, slowing demand, or weak competitive positioning.",
+   "url": "https://finnhub.io/api/news?id=ed23d7cec3f658bac0371cf92d89a162432240c7d2a84e75fed44e5f48a6a8dc",
+   "source": "Yahoo",
+   "published": "2026-10-09T10:11:10+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "7578a57fbbdc",
    "headline": "Market Open: October 9, 2026",
    "summary": "CNBC brings you fast, accurate, and actionable business news and market updates.",
@@ -5476,6 +5930,36 @@
     "HUM"
    ],
    "tag": "Analyst",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "06fc7824b087",
+   "headline": "argenx: The Sj\u00f6gren's Selloff Looks Overdone",
+   "summary": "argenx shares fell after halting its Phase 3 Sj\u00c3\u00b6gren's trial, but the selloff appears to overstate the lost opportunity. Read more on ARGX stock here.",
+   "url": "https://finnhub.io/api/news?id=ce1e51832ed045e2db16490615d7dfe99422cb017b299bc9868b6babbf67900b",
+   "source": "SeekingAlpha",
+   "published": "2026-10-09T10:00:00+00:00",
+   "tickers": [
+    "ARGX"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "87247d313237",
+   "headline": "The Cigna Group's Third Quarter 2026 Earnings Release Details",
+   "summary": "Global health company The Cigna Group (NYSE:CI) will release its third quarter 2026 financial results on Thursday, November 5, 2026, and will host a conference call the same day.",
+   "url": "https://finnhub.io/api/news?id=1817fe41a145dc28b74a23b850d6d737860e2d5b2ed224fdacfdaaa3c43eed4c",
+   "source": "Yahoo",
+   "published": "2026-10-09T10:00:00+00:00",
+   "tickers": [
+    "CI"
+   ],
+   "tag": "Earnings",
    "sectors": [
     "payers"
    ]
@@ -5558,6 +6042,21 @@
    ]
   },
   {
+   "id": "21bc57b1e8b9",
+   "headline": "Baird Maintains Neutral on argenx, Lowers Price Target to $823",
+   "summary": "Baird analyst Colleen Kusy maintains argenx (NASDAQ:ARGX) with a Neutral and lowers the price target from $932 to $823.",
+   "url": "https://finnhub.io/api/news?id=64cc3a704a27d0277a5d46ceac63542e74cc60a0b899f63c2ffd1d419ccfd59a",
+   "source": "Benzinga",
+   "published": "2026-10-09T09:29:40+00:00",
+   "tickers": [
+    "ARGX"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "37a6fd80d77a",
    "headline": "Stock Market Today: S&P 500, Dow Jones, Nasdaq 100 Futures Gain as Scott Bessent Says US Is Starving Iran's 'Tyrannical Regime'\u2014 PKE, HUM, RENX in Focus (UPDATED)",
    "summary": "U.S. stock futures were higher on Friday, as the Dow Jones, S&P 500 and Nasdaq 100 indices rose, following Thursday's mixed close.",
@@ -5573,6 +6072,21 @@
    ]
   },
   {
+   "id": "d9949ecf6813",
+   "headline": "Guggenheim Reiterates Buy on AbbVie, Maintains $288 Price Target",
+   "summary": "Guggenheim analyst Vamil Divan reiterates AbbVie (NYSE:ABBV) with a Buy and maintains $288 price target.",
+   "url": "https://finnhub.io/api/news?id=d626c8c3007104bd568779ab4ab391c7ce954fe3b59d56a42ef059dcbbc34d01",
+   "source": "Benzinga",
+   "published": "2026-10-09T09:21:07+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "1c0903a07aaf",
    "headline": "Option Care Health (OPCH) Stock May Be Undervalued Despite The $5.8 Billion Buyout",
    "summary": "Option Care Health shares have jumped into focus after a sharp move higher and a US$5.8b buyout agreement, which raises a straightforward question for investors who care about valuation. Does the current price around the deal level make\u2026",
@@ -5580,11 +6094,27 @@
    "source": "Yahoo",
    "published": "2026-10-09T09:19:04+00:00",
    "tickers": [
+    "MCK",
     "OPCH"
    ],
    "tag": "M&A",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "44e869f605bb",
+   "headline": "Is 10x Genomics (TXG) Using Its Fred Hutch Oncology Alliance To Redefine Its Clinical Moat?",
+   "summary": "In early October 2026, 10x Genomics announced a multi-project research collaboration with Fred Hutchinson Cancer Center to apply its Flex Apex, Xenium and, later, Atera platforms to biomarker discovery in advanced bladder cancer and\u2026",
+   "url": "https://finnhub.io/api/news?id=1243522901d81cea4f21497cd288544950d0834d1a4b55a981d19347b901d93a",
+   "source": "Yahoo",
+   "published": "2026-10-09T09:17:22+00:00",
+   "tickers": [
+    "TXG"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -5750,6 +6280,21 @@
    "tag": "Policy",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "dd81e8f1ca82",
+   "headline": "Novo Nordisk (CPSE:NOVO B) Gets FDA Review Update As New EASD Data Land",
+   "summary": "Novo Nordisk (CPSE:NOVO B) reported an FDA review update for haemophilia A therapy denecimig, including manufacturing related feedback, in October 2026. The pharmaceutical group presented new CagriSema data on brain and metabolic pathway\u2026",
+   "url": "https://finnhub.io/api/news?id=c885a468f9c7fa6f13046fe6e1a9f5bb30972a82e98d932305ab99f5177de49d",
+   "source": "Yahoo",
+   "published": "2026-10-09T08:12:10+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -6010,6 +6555,21 @@
    ]
   },
   {
+   "id": "eb4be07fe7da",
+   "headline": "Novo Nordisk stock target cut at Citi on lack of margin growth",
+   "summary": "Investing.com -- Citi Research cut its price target on Danish drugmaker Novo Nordisk to 296 Danish crowns from 310 because the company\u2019s guidance for \"broadly stable\" margins through 2030 leaves little room for margin growth, Citi\u2026",
+   "url": "https://finnhub.io/api/news?id=bcd050abe9b7c6a0148b1b75a48399bd3837207830ab076222c7516afedae32b",
+   "source": "Yahoo",
+   "published": "2026-10-09T06:36:13+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "a6979c4e8439",
    "headline": "Is Doximity (DOCS) Below Fair Value Following The AI Spending Surge?",
    "summary": "Doximity (DOCS) caught fresh attention after its shares moved higher on a report showing a jump in infrastructure service spending tied to artificial intelligence, prompting investors to reassess the stock\u2019s AI exposure. Short term\u2026",
@@ -6032,9 +6592,11 @@
    "source": "Benzinga",
    "published": "2026-10-09T06:11:24+00:00",
    "tickers": [
+    "CI",
     "CVS",
     "ELV",
     "HUM",
+    "MOH",
     "OSCR",
     "UNH"
    ],
@@ -6090,6 +6652,21 @@
    ]
   },
   {
+   "id": "78334896316d",
+   "headline": "VYM And HDV: Two Dividend ETFs That Complement Each Other",
+   "summary": "VYM's diversified portfolio positions it to benefit from the AI momentum, while HDV appeals to retirees seeking monthly income. Read more on VYM and HDV ETFs here.",
+   "url": "https://finnhub.io/api/news?id=6d82d1f29b37c668501acad8a62716f96f7f57203f4aeb6c68105387e0eca70d",
+   "source": "SeekingAlpha",
+   "published": "2026-10-09T02:54:45+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "1d6e2a7b28c5",
    "headline": "GE HealthCare: M&A And Execution To Drive A Value Re-Rating",
    "summary": "GE HealthCare is positioned for a valuation re-rating. The SOFIE Biosciences acquisition enhances its precision medicine supply chain. I rate GEHC stock as a buy.",
@@ -6112,7 +6689,8 @@
    "source": "Yahoo",
    "published": "2026-10-09T02:35:00+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "Analyst",
    "sectors": [
@@ -6195,6 +6773,21 @@
    ]
   },
   {
+   "id": "05f27e820d6b",
+   "headline": "Becton Dickinson (BDX) Posts Strong AGILITY Trial Results, Is The Stock Still Below Fair Value?",
+   "summary": "Becton Dickinson (BDX) just put fresh clinical data in front of investors. Nine-month results from the AGILITY trial for its Revello Vascular Covered Stent showed the study hit its primary endpoint in iliac artery disease. Recent clinical\u2026",
+   "url": "https://finnhub.io/api/news?id=2b05c180fd0a81a8369f996c181556de6e23cca40b3dd270e5f8d59a11a60c21",
+   "source": "Yahoo",
+   "published": "2026-10-09T01:17:18+00:00",
+   "tickers": [
+    "BDX"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "ed48e91e9562",
    "headline": "Ionis Pharmaceuticals (IONS) Stock Could Still Trade At A Premium Despite A 46% Slump",
    "summary": "Ionis Pharmaceuticals has seen its share price fall sharply this year, which naturally raises a question for holders and prospective buyers. Is the current valuation still supported by the company\u2019s sales profile, or has the market moved\u2026",
@@ -6249,6 +6842,7 @@
    "source": "Yahoo",
    "published": "2026-10-09T00:36:07+00:00",
    "tickers": [
+    "ABBV",
     "BMY",
     "JNJ",
     "LLY",
@@ -6261,6 +6855,21 @@
    ]
   },
   {
+   "id": "30765f2447f9",
+   "headline": "Did Danaher\u2019s (DHR) New AI-Powered Autonomous Lab at Abcam Just Redefine Its Innovation Edge?",
+   "summary": "In early October 2026, Danaher announced it had launched its first AI-powered autonomous lab at Abcam, combining artificial intelligence, robotics and connected workflows to accelerate the design, building and testing of custom antibodies\u2026",
+   "url": "https://finnhub.io/api/news?id=eb41835c75d868b0078b17ddeef9a4193007563b6713bf017014769be755bab3",
+   "source": "Yahoo",
+   "published": "2026-10-09T00:23:29+00:00",
+   "tickers": [
+    "DHR"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "67c4269abaed",
    "headline": "What Is Going On With Regeneron Stock?",
    "summary": "Regeneron Pharmaceuticals (REGN) stock currently trades at 17.6 times earnings. That represents a notable discount to the 21.5 multiple of the median S&P 500 company. The shares have lost 4.1% over the past six months, trailing the 15.7%\u2026",
@@ -6268,10 +6877,12 @@
    "source": "Yahoo",
    "published": "2026-10-09T00:19:25+00:00",
    "tickers": [
+    "ABBV",
     "AMGN",
     "BMY",
     "MRK",
-    "PFE"
+    "PFE",
+    "REGN"
    ],
    "tag": "Earnings",
    "sectors": [
