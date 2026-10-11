@@ -1,7 +1,15 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-11T03:35:04.838744+00:00",
+ "updated": "2026-10-11T03:46:16.772786+00:00",
  "quotes": {
+  "ABT": {
+   "price": 99.6,
+   "change_pct": 1.13
+  },
+  "AMGN": {
+   "price": 414.87,
+   "change_pct": 1.82
+  },
   "ARGX": {
    "price": 825.03,
    "change_pct": 0.78
@@ -62,6 +70,10 @@
    "price": 28.28,
    "change_pct": 1.65
   },
+  "PRVA": {
+   "price": 20.85,
+   "change_pct": 3.27
+  },
   "RVMD": {
    "price": 189.76,
    "change_pct": 0.87
@@ -77,6 +89,10 @@
   "TRXB": {
    "price": 14,
    "change_pct": 0
+  },
+  "UNH": {
+   "price": 379.3,
+   "change_pct": 2.25
   },
   "VEEV": {
    "price": 296.13,
@@ -1621,6 +1637,21 @@
    ]
   },
   {
+   "id": "de6a8e46ebb9",
+   "headline": "Abbott Laboratories (ABT) Debuts Ensure Max Protein Powder With Creatine And HMB",
+   "summary": "Abbott Laboratories (NYSE:ABT) introduced Ensure Max Protein 3-in-1 Muscle Support, a combined protein, creatine, and HMB powder. The product is NSF certified and targets muscle building, recovery, and preservation for everyday active\u2026",
+   "url": "https://finnhub.io/api/news?id=1bf6336cfe92f497aadb18a705e47a4993c53879ac04fb46e98643370c4b69fb",
+   "source": "Yahoo",
+   "published": "2026-10-11T00:15:30+00:00",
+   "tickers": [
+    "ABT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "ec528c375bc0",
    "headline": "Americans trust science more than peers around the world, survey shows",
    "summary": "Just 40 percent of Americans reported a lot of confidence in U.S. hospitals and health clinics, the same proportion as in Portugal and Uruguay.",
@@ -1639,7 +1670,23 @@
    "source": "Yahoo",
    "published": "2026-10-10T21:55:49+00:00",
    "tickers": [
+    "AMGN",
     "VEEV"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
+   "id": "4302d2893db4",
+   "headline": "3 US Healthcare Automation Stocks Riding The Push To Cut Admin Costs",
+   "summary": "AI spending is exploding, and healthcare is right in the crosshairs. Big Tech is pouring hundreds of billions into infrastructure while hospitals and insurers test AI to strip out some of the roughly US$1t in administrative cost. That\u2026",
+   "url": "https://finnhub.io/api/news?id=29e1b14e9dd5e93c14345280e8ccc5427a6f4a844978c58e5afbfef6ca4e8380",
+   "source": "Yahoo",
+   "published": "2026-10-10T20:14:30+00:00",
+   "tickers": [
+    "PRVA"
    ],
    "tag": "Health AI",
    "sectors": [
@@ -1662,6 +1709,21 @@
    ]
   },
   {
+   "id": "21e966ef59cb",
+   "headline": "History Says Abbott Stock Could More Than Double by 2036. Here\u2019s Why I Just Added It to My Portfolio.",
+   "summary": "Abbott has a low-risk profile with significant upside potential.",
+   "url": "https://finnhub.io/api/news?id=859e82577547b18a243a9ac7014dac846a9d2e786648027974aab72ad1d9852e",
+   "source": "Yahoo",
+   "published": "2026-10-10T18:35:01+00:00",
+   "tickers": [
+    "ABT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "bd57e6444255",
    "headline": "How New Pharmacy Formats And Aetna Star Ratings At CVS Health (CVS) Have Changed Its Investment Story",
    "summary": "In early October 2026, CVS Health opened its first pharmacy-focused CVS Pharmacy in the Boston area and outlined plans for nearly 20 smaller neighborhood pharmacies nationwide in 2026, while also continuing to realign its retail footprint\u2026",
@@ -1674,6 +1736,21 @@
    "tag": "Analyst",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "540dfcd1ad22",
+   "headline": "Pfizer And 2 Other Top AI Healthcare Stocks",
+   "summary": "Big Tech is pouring an estimated US$700b into AI infrastructure this year, and healthcare is where that spending will really be tested. Hospitals and drugmakers are under pressure to prove that algorithms can cut costs, reduce burnout,\u2026",
+   "url": "https://finnhub.io/api/news?id=20b3ec64a00e8590d74770048a062e3b52c4c2001e38317bd6f31864e59c2ea0",
+   "source": "Yahoo",
+   "published": "2026-10-10T18:14:09+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1707,6 +1784,21 @@
    ]
   },
   {
+   "id": "a841fe85893e",
+   "headline": "Four Analysts Raised Their Pfizer Targets in One Week Without an Upgrade. Here\u2019s Where the Stock Could Go By 2030",
+   "summary": "Key Stats for Pfizer StockCurrent Price: $28. 28Target Price (Mid): ~$29Street Target: ~$29Potential Total Return: ~4%Annualized IRR: ~1% / yearWhat Happened?Four Wall Street firms raised their Pfizer (PFE) price targets between October 6\u2026",
+   "url": "https://finnhub.io/api/news?id=e2c044a3edad802302c5463361bfdb5979a012f165f167acec0090fcb6fc51bf",
+   "source": "Yahoo",
+   "published": "2026-10-10T16:06:40+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "a0df3b4a219f",
    "headline": "Jim Cramer Breaks Down the Complicated Story Behind CVS Health\u2019s (CVS) Decline",
    "summary": "During the October 6 episode of Mad Money, Jim Cramer examined whether CVS Health Corporation\u2019s (NYSE:CVS) turnaround still has room to run after the stock\u2019s sharp retreat from its summer highs. CVS ranked ninth among 10 stocks screened\u2026",
@@ -1719,6 +1811,51 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "0c45e44c1ec4",
+   "headline": "Is Pfizer (PFE) Overvalued Even After Its Oncology Progress?",
+   "summary": "Pfizer has quietly put together a 22.1% one year share price gain, helped by a steady drumbeat of oncology news, and the question for you now is whether that move still lines up with what the business earns. The 22.1% one year return puts\u2026",
+   "url": "https://finnhub.io/api/news?id=72849dd58b628746f7751b46cb2554c7ebd0f02450f3e12b925fb01281b2eaf8",
+   "source": "Yahoo",
+   "published": "2026-10-10T14:15:28+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "e74d1a736274",
+   "headline": "How Much More Dividend Income a Roth IRA Keeps on a Half-Million-Dollar Portfolio",
+   "summary": "Six dividend stocks in a $500,000 portfolio sound like a solid income plan, but where you hold them decides how much of that income you actually keep, and the difference compounds into a number most investors never calculate.",
+   "url": "https://finnhub.io/api/news?id=97371cf754bec6351a4b79af870a8da732ba9eb407fd85cb89a34a39d5305481",
+   "source": "Yahoo",
+   "published": "2026-10-10T14:00:39+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "4c4f690f5f31",
+   "headline": "CDs vs. Dividend Stocks: The Income Gap Could Be Bigger Than Retirees Think",
+   "summary": "Retirees chasing income face a choice that looks simple on paper but hides a tax trap, a reinvestment problem, and a dividend cut risk that most income comparisons never mention.",
+   "url": "https://finnhub.io/api/news?id=cb8f75d075716826545a36eb0c4cb1c4d638f20281ad352a52b6f3da268df4bd",
+   "source": "Yahoo",
+   "published": "2026-10-10T13:00:32+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1752,6 +1889,36 @@
    ]
   },
   {
+   "id": "d6d18f21052d",
+   "headline": "$12,300 a Month in Dividends and Not One Bond: Is This Portfolio Too Good to Be True?",
+   "summary": "A portfolio built entirely around stocks and equity funds can generate $12,300 a month, or $147,600 a year, in income. The no-bond design stands out with the 10-year Treasury yielding 5.2%. Using a blended yield of about 7.4% based on\u2026",
+   "url": "https://finnhub.io/api/news?id=9d635d8ef3b271a9abb45085bdfba90c4a04689755407997c6a39eb1b4f62fab",
+   "source": "Yahoo",
+   "published": "2026-10-10T11:59:11+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "210654a4529f",
+   "headline": "How UnitedHealth\u2019s 2027 Medicare Advantage Overhaul Could Reshape the Investment Case for UNH",
+   "summary": "In early October 2026, UnitedHealthcare unveiled its 2027 Medicare Advantage lineup, emphasizing $0 primary and preventive care, broad geographic reach and updates to its UCard program to simplify access to benefits and medications for\u2026",
+   "url": "https://finnhub.io/api/news?id=391410f514d68d52584f5a15115b70f543384408dacb45f3bff88bb9a1716f49",
+   "source": "Yahoo",
+   "published": "2026-10-10T11:12:37+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "2f3161fede88",
    "headline": "Banking Bellwethers Kick Off Earnings, Fed Chair's Speech In Focus",
    "summary": "Preview next week\u00e2\u0080\u0099s market-moving events\u00e2\u0080\u0094CPI, retail sales, Fed talk, and big bank earnings (JPM, GS, C, MS).",
@@ -1759,6 +1926,7 @@
    "source": "SeekingAlpha",
    "published": "2026-10-10T11:00:00+00:00",
    "tickers": [
+    "ABT",
     "JNJ"
    ],
    "tag": "Earnings",
@@ -1797,6 +1965,21 @@
    ]
   },
   {
+   "id": "e76ff6499359",
+   "headline": "Abbott (ABT) Stock Could Be 24% Overvalued After Heart Failure News",
+   "summary": "Abbott Laboratories has had a rough year in the market, and the recent product news now puts a sharper spotlight on whether the current share price is properly grounded in the cash the business can generate. With a Discounted Cash Flow\u2026",
+   "url": "https://finnhub.io/api/news?id=0f7bf76a8a6c64e173e5aef7e87f7a9177b4830420639d2c285ece77ef63a0d8",
+   "source": "Yahoo",
+   "published": "2026-10-10T08:13:54+00:00",
+   "tickers": [
+    "ABT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "0968638be210",
    "headline": "CVS Says Its Star Ratings Are Strong. TD Cowen Sees a $0.41 Earnings Hit",
    "summary": "CVS Health (CVS:NYSE) shares fell about 2% on Friday to close at $86. 16 after the new 2027 Medicare Advantage star ratings left its Aetna unit with fewer top-rated plans.",
@@ -1805,6 +1988,21 @@
    "published": "2026-10-10T03:13:13+00:00",
    "tickers": [
     "CVS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "b65cc8fe2fc4",
+   "headline": "UnitedHealth\u2019s 4-Star Medicare Enrollment Share Falls to 67%, J.P. Morgan Estimates: What It Means Before Earnings",
+   "summary": "Friday\u2019s gain suggests investors are treating the ratings as a 2028 problem. Tuesday\u2019s call gives management an opportunity to clarify how many members are in downgraded plans and discuss the potential financial impact.",
+   "url": "https://finnhub.io/api/news?id=52a33c242d4bc20f2e265f3da76df80f7034b2ceb6196d0b009f2687b53f2b3a",
+   "source": "Yahoo",
+   "published": "2026-10-10T02:55:06+00:00",
+   "tickers": [
+    "UNH"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -1835,11 +2033,27 @@
    "published": "2026-10-10T00:47:04+00:00",
    "tickers": [
     "BMY",
-    "JNJ"
+    "JNJ",
+    "PFE"
    ],
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "b6c3314655f3",
+   "headline": "Should Teladoc\u2019s New AI Tools for Solo Platform Require Action From Teladoc Health (TDOC) Investors?",
+   "summary": "In early October 2026, Teladoc Health announced two new AI-powered tools, SoloVitals and SoloScribe, embedding contactless vital-sign monitoring and ambient documentation directly into its Solo enterprise virtual care platform for\u2026",
+   "url": "https://finnhub.io/api/news?id=45215d28ed82a9ad0cb79bc870f62bfb32b5724e4b1c2d73282b06bbcab52224",
+   "source": "Yahoo",
+   "published": "2026-10-10T00:20:12+00:00",
+   "tickers": [
+    "TDOC"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "healthit"
    ]
   },
   {
@@ -1858,6 +2072,66 @@
    ]
   },
   {
+   "id": "382757681d51",
+   "headline": "Humana (HUM) Deepens MA Neuromodulation Coverage: A Clue to Its Margin Recovery Strategy?",
+   "summary": "In early October 2026, BlueWind Medical announced that Humana began covering implantable tibial neuromodulation therapy for urgency urinary incontinence, including BlueWind\u2019s Revi System, across its Medicare Advantage membership of about\u2026",
+   "url": "https://finnhub.io/api/news?id=baacacd7f6627bbc95e2292de15e100e01688f41649edba643a5ca47e1b12cc2",
+   "source": "Yahoo",
+   "published": "2026-10-10T00:14:48+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "157d5b434152",
+   "headline": "BNTX, NVAX, MRNA Lead Vaccine Rally After Report Of An NIH Cancer-Vaccine Push",
+   "summary": "National Cancer Institute\u2019s director, Dr. Anthony Letai, wants a national effort behind the vaccines, The New York Times reported on Friday.",
+   "url": "https://finnhub.io/api/news?id=9d3295f3bb1adffe88e68237811e5227ae5d48cec72684a1c0f63434b017580a",
+   "source": "Yahoo",
+   "published": "2026-10-10T00:09:24+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "bf6c83c12626",
+   "headline": "Glaukos: The Second J-Code Rewrites The Risk Math",
+   "summary": "Glaukos (GKOS) Q2 sales +50% as iDose TR & Epioxa drive 85% gross margin; 2026 guide raised. Read here for a detailed investment analysis.",
+   "url": "https://finnhub.io/api/news?id=46906800e3c4d423c405d853606af97f2190898bf67f83cc31c01983bd67ca10",
+   "source": "SeekingAlpha",
+   "published": "2026-10-09T23:42:31+00:00",
+   "tickers": [
+    "GKOS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "bb2afeeb4c1c",
+   "headline": "Why Alignment Healthcare (ALHC) Shares Are Trading Lower Today",
+   "summary": "Shares of health insurance company Alignment Healthcare (NASDAQ:ALHC) fell 19.2% in the pre-market session after William Blair downgraded the company to Market Perform from Outperform following a regulatory filing detailing lower quality\u2026",
+   "url": "https://finnhub.io/api/news?id=b21ac914688ca6bc0e64e8522de83f0393900bd23948a2ea37e71e403b728cb6",
+   "source": "Yahoo",
+   "published": "2026-10-09T22:51:10+00:00",
+   "tickers": [
+    "ALHC"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "6a6c06926f48",
    "headline": "Estimates Keep Rising as Q3 Earnings Season Takes Center Stage",
    "summary": "Upcoming reports from the big banks next week will shift the Q3 earnings season into a higher gear, with a total of 29 S&P 500 members on the week's reporting docket. Estimates remain positive, with S&P 500 earnings expected to grow 24.3%\u2026",
@@ -1865,11 +2139,43 @@
    "source": "Yahoo",
    "published": "2026-10-09T22:37:00+00:00",
    "tickers": [
-    "JNJ"
+    "JNJ",
+    "UNH"
    ],
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "6baad84d5fd6",
+   "headline": "Dividend Champion, Contender, And Challenger Highlights: Week October 11",
+   "summary": "Get a weekly dividend recap for Champions, Contenders & Challengers\u00e2\u0080\u0094see dividend changes, upcoming ex-dividend dates and pay dates.",
+   "url": "https://finnhub.io/api/news?id=6ecf61a08d4e89e309d2bc77c13f5e7c620f7c06baba3507c179f7718a35d78e",
+   "source": "SeekingAlpha",
+   "published": "2026-10-09T22:26:01+00:00",
+   "tickers": [
+    "ABT",
+    "CAH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "91526c9b8a79",
+   "headline": "Humana (HUM) Stock Trades Up, Here Is Why",
+   "summary": "Shares of health insurance company Humana (NYSE:HUM) jumped 16.8% in the pre-market session after Robert W. Baird upgraded the company to Outperform from Neutral and raised its price target to $596 from $390, following an operational\u2026",
+   "url": "https://finnhub.io/api/news?id=1cab6596c18b84afa417c87209d7f9bd1c6eb2fb19b06bb0b97418f5368caea9",
+   "source": "Yahoo",
+   "published": "2026-10-09T22:19:10+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -1885,6 +2191,36 @@
    "tag": "Financing",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "1f7a348dfd7a",
+   "headline": "Amgen (AMGN) Stock Could Be 40% Undervalued On KRAS Market Growth News",
+   "summary": "Amgen has climbed to a recent close of US$407.44 after a strong multi year run, which puts fresh focus on whether that price is properly anchored in the cash the business can generate over time. With the stock now carrying solid trailing\u2026",
+   "url": "https://finnhub.io/api/news?id=64c4c353d4dca7f19b43aa1f78f7fd13c5876b99064e30741b21ea8fb1d6964d",
+   "source": "Yahoo",
+   "published": "2026-10-09T21:17:40+00:00",
+   "tickers": [
+    "AMGN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "f1841bea41f2",
+   "headline": "Zoetis (ZTS) Outpaces Stock Market Gains: What You Should Know",
+   "summary": "In the most recent trading session, Zoetis (ZTS) closed at $74.81, indicating a +2.37% shift from the previous trading day.",
+   "url": "https://finnhub.io/api/news?id=65831ba99049f7d1895ce78c619d1859917817b1e920d945eff4668248b0f4fe",
+   "source": "Yahoo",
+   "published": "2026-10-09T21:15:05+00:00",
+   "tickers": [
+    "ZTS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1929,6 +2265,21 @@
    ]
   },
   {
+   "id": "880e5a4dcff0",
+   "headline": "Amgen (AMGN) Laps the Stock Market: Here's Why",
+   "summary": "In the closing of the recent trading day, Amgen (AMGN) stood at $414.87, denoting a +1.82% move from the preceding trading day.",
+   "url": "https://finnhub.io/api/news?id=a14612d40f72e892a86222f2ee1f4dffa607a081f8f31f80c5d54a467da5f2cc",
+   "source": "Yahoo",
+   "published": "2026-10-09T20:50:04+00:00",
+   "tickers": [
+    "AMGN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "7aef5c4d680e",
    "headline": "Vertex Pharmaceuticals (VRTX) Beats Stock Market Upswing: What Investors Need to Know",
    "summary": "In the latest trading session, Vertex Pharmaceuticals (VRTX) closed at $510.08, marking a +1.36% move from the previous day.",
@@ -1944,6 +2295,21 @@
    ]
   },
   {
+   "id": "89e104396016",
+   "headline": "Intuitive Surgical, Inc. (ISRG) Exceeds Market Returns: Some Facts to Consider",
+   "summary": "Intuitive Surgical, Inc. (ISRG) concluded the recent trading session at $423.96, signifying a +2.06% move from its prior day's close.",
+   "url": "https://finnhub.io/api/news?id=c2ad58dfcffc67be42d9aee482b6541acc4da1f113f0f04758dc0e01fbfb8e0f",
+   "source": "Yahoo",
+   "published": "2026-10-09T20:50:02+00:00",
+   "tickers": [
+    "ISRG"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "8339545881c1",
    "headline": "Viking Therapeutics, Inc. (VKTX) Exceeds Market Returns: Some Facts to Consider",
    "summary": "The latest trading day saw Viking Therapeutics, Inc. (VKTX) settling at $28.53, representing a +2.88% change from its previous close.",
@@ -1956,6 +2322,36 @@
    "tag": "News",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "a91f847c8642",
+   "headline": "UnitedHealth Group (UNH) Beats Stock Market Upswing: What Investors Need to Know",
+   "summary": "UnitedHealth Group (UNH) reached $378.81 at the closing of the latest trading day, reflecting a +2.12% change compared to its last close.",
+   "url": "https://finnhub.io/api/news?id=76a5e6878f5c8803e03a85312ec6d66e03ee309d188c12a9d79e13a83ffaf43a",
+   "source": "Yahoo",
+   "published": "2026-10-09T20:45:07+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "601f8fb65014",
+   "headline": "Reflecting On Vertical Software Stocks\u2019 Q2 Earnings: Doximity (NYSE:DOCS)",
+   "summary": "Earnings results often indicate what direction a company will take in the months ahead. With Q2 behind us, let\u2019s have a look at Doximity (NYSE:DOCS) and its peers.",
+   "url": "https://finnhub.io/api/news?id=a2607690a6e717d2790bdf66224c1e0046218e77555df3f11d31f42647720804",
+   "source": "Yahoo",
+   "published": "2026-10-09T20:43:10+00:00",
+   "tickers": [
+    "DOCS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
    ]
   },
   {
@@ -2000,6 +2396,111 @@
    ]
   },
   {
+   "id": "57aa9041190f",
+   "headline": "Alignment Healthcare (ALHC) Is Up 12.5% After Mixed California Star Rating And Network Expansion News",
+   "summary": "In early October 2026, Alignment Health Plan said it would expand into Kern, Kings and Tulare counties and add Hoag and Astrana Health to its California Medicare Advantage provider network from 2027, increasing its reach to 25 counties\u2026",
+   "url": "https://finnhub.io/api/news?id=dc1e3c22c484918db1de5fff8c8e98da4d1630b9c3413f7bdf22e96942fe1642",
+   "source": "Yahoo",
+   "published": "2026-10-09T20:10:26+00:00",
+   "tickers": [
+    "ALHC"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "659840fb9291",
+   "headline": "A Once-in-a-Decade Opportunity: 2 Magnificent Dividend Stocks Down 34% to 52% I'm Buying Right Now",
+   "summary": "Whether you want a higher 3% dividend yield or a quickly growing dividend that yields 1.2%, these two stocks look like rare opportunities.",
+   "url": "https://finnhub.io/api/news?id=3d2ed8994bf06290bae931b73a6a13db796ca6fce85a100a435a5bc0dcd6e13f",
+   "source": "Yahoo",
+   "published": "2026-10-09T20:05:00+00:00",
+   "tickers": [
+    "ZTS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "4d15dea4fcfa",
+   "headline": "Universal Health Services, Inc. Announces Date and Time Change for Third Quarter 2026 Earnings Release and Conference Call",
+   "summary": "KING OF PRUSSIA, Pa., Oct. 09, 2026 (GLOBE NEWSWIRE) -- Universal Health Services, Inc. (NYSE: UHS) announced today that it will now report results for its third quarter ended September 30, 2026, after the market closes on Tuesday,\u2026",
+   "url": "https://finnhub.io/api/news?id=936282c0dc31036ede5aba581271adc1c8dd08e093113197d107de63c5077e46",
+   "source": "Yahoo",
+   "published": "2026-10-09T20:05:00+00:00",
+   "tickers": [
+    "UHS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "4391d968d15c",
+   "headline": "Sector Update: Healthcare Stocks Gain Late Afternoon",
+   "summary": "Healthcare stocks rose late Friday afternoon, with the NYSE Healthcare Index up 1.2% and the State S",
+   "url": "https://finnhub.io/api/news?id=317e2a4ac9bd7cae9e89e143d2b9dc3ccea939aa2979a3895e46147f424bc6e3",
+   "source": "Yahoo",
+   "published": "2026-10-09T19:57:09+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "465830e4edb0",
+   "headline": "Humana Shares Surge Following Significant Medicare Advantage Star Ratings Improvement",
+   "summary": "US health insurance and managed care stocks were mostly advancing Friday, with Humana (HUM) surging",
+   "url": "https://finnhub.io/api/news?id=612d38a2cd3650db57493c5fd2f75e23054041ae80e897b8c7b95d2d173e8119",
+   "source": "Yahoo",
+   "published": "2026-10-09T19:51:59+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "a2df457350dc",
+   "headline": "Top Research Reports for JPMorgan, ASML & Chevron",
+   "summary": "JPMorgan, ASML and Chevron stand out in today's research, with earnings strength, AI-driven demand and record production shaping their investment outlooks.",
+   "url": "https://finnhub.io/api/news?id=181708a4069b6b1d934b21ddf54a53c5069c5b84640b68e4f23345e8d83044b8",
+   "source": "Yahoo",
+   "published": "2026-10-09T19:39:00+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "a156e1181217",
+   "headline": "Alignment Healthcare (ALHC) Stock Looks Fairly Valued Despite Earnings Questions",
+   "summary": "Alignment Healthcare has seen its share price fall sharply over 2026, even with a recent bounce, which puts fresh focus on whether the current valuation lines up with what the business earns. With the stock reacting not only to\u2026",
+   "url": "https://finnhub.io/api/news?id=b2242d09f94c0345dea7a5d2883e0cd0380bf382519df86b4c54588d58422cde",
+   "source": "Yahoo",
+   "published": "2026-10-09T19:14:41+00:00",
+   "tickers": [
+    "ALHC"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "7d4bc8684219",
    "headline": "Friday's session: top gainers and losers in the dow jones index",
    "summary": "Uncover the latest developments among dow jones stocks in today's session. Stay tuned to the dow jones index's top gainers and losers on Friday.",
@@ -2007,11 +2508,43 @@
    "source": "ChartMill",
    "published": "2026-10-09T19:10:08+00:00",
    "tickers": [
-    "JNJ"
+    "AMGN",
+    "JNJ",
+    "UNH"
    ],
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "1352dc0d011a",
+   "headline": "Discover which S&P500 stocks are making waves on Friday.",
+   "summary": "Stay updated with the movements of the S&P500 index one hour before the close of the markets on Friday. Discover which stocks are leading as top gainers and losers in today's session.",
+   "url": "https://finnhub.io/api/news?id=fa69fc8000049deee244f45ce89b56b001c6c1c2df31ee60616bdbf8d43bd682",
+   "source": "ChartMill",
+   "published": "2026-10-09T19:05:01+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "57972509955d",
+   "headline": "2 Nasdaq 100 Stocks to Own for Decades and 1 We Question",
+   "summary": "The Nasdaq 100 (^NDX) is home to some of the biggest success stories in tech and growth investing. However, certain stocks in the index face challenges like profitability concerns, rising costs, or shifts in market trends.",
+   "url": "https://finnhub.io/api/news?id=65c0d216677029f69b39ae03fcade21b4a110468623573609c837a4e3752a28f",
+   "source": "Yahoo",
+   "published": "2026-10-09T18:59:10+00:00",
+   "tickers": [
+    "GEHC"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -2023,11 +2556,27 @@
    "published": "2026-10-09T18:12:18+00:00",
    "tickers": [
     "BMY",
-    "JNJ"
+    "JNJ",
+    "PFE"
    ],
    "tag": "FDA",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "9d2fa43de8ce",
+   "headline": "Sector Update: Healthcare Stocks Gain Friday Afternoon",
+   "summary": "Healthcare stocks rose Friday afternoon, with the NYSE Healthcare Index up 1.2% and the State Street",
+   "url": "https://finnhub.io/api/news?id=bbe1f2ebcbdec19b2d3d7a9225e75ca95b9ff0d43fd56d4c93f423c792c747fa",
+   "source": "Yahoo",
+   "published": "2026-10-09T17:50:25+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -2038,7 +2587,8 @@
    "source": "Yahoo",
    "published": "2026-10-09T17:45:49+00:00",
    "tickers": [
-    "BMY"
+    "BMY",
+    "PFE"
    ],
    "tag": "News",
    "sectors": [
@@ -2053,7 +2603,9 @@
    "source": "Yahoo",
    "published": "2026-10-09T17:23:42+00:00",
    "tickers": [
-    "CVS"
+    "CVS",
+    "HUM",
+    "UNH"
    ],
    "tag": "Analyst",
    "sectors": [
@@ -2091,6 +2643,21 @@
    ]
   },
   {
+   "id": "ca1f7fa6b70b",
+   "headline": "The Tax Math That Makes These High-Yield Dividend Stocks Worth Much More Annually Inside a Roth",
+   "summary": "Every dividend dollar sitting in a taxable account quietly hands a portion of itself to the IRS year after year, and after two decades that quiet cost compounds into a number most investors never bother to calculate until it is too late.",
+   "url": "https://finnhub.io/api/news?id=78d7d56937e35fb72a555ebcdde33f1c83b79495175690cec5b685b66b4b1abd",
+   "source": "Yahoo",
+   "published": "2026-10-09T17:15:03+00:00",
+   "tickers": [
+    "AMGN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "c9ea46a9f647",
    "headline": "Vertex to Present New Data on ALYFTREK\u00ae at the North American Cystic Fibrosis Conference",
    "summary": "BOSTON, October 09, 2026--Vertex Pharmaceuticals Incorporated (Nasdaq: VRTX) today announced new interim data from the ALYFTREK\u00ae (vanzacaftor/tezacaftor/deutivacaftor) 2 to 5 years old open-label extension study, highlighting recovery of\u2026",
@@ -2106,6 +2673,66 @@
    ]
   },
   {
+   "id": "9697aeb86c4a",
+   "headline": "Alumis snags set of Phase III psoriasis pill victories, but analysts lukewarm on impact",
+   "summary": "If envudeucitinib gains approval, it will join an increasingly competitive market flanked by drugs like J&J\u2019s Icotyde, Amgen\u2019s Otezla and BMS\u2019 Sotyktu.",
+   "url": "https://finnhub.io/api/news?id=450bd746f6107068467344271d2c19332b14377bb6d85805eb7b1026032d6153",
+   "source": "Yahoo",
+   "published": "2026-10-09T17:11:39+00:00",
+   "tickers": [
+    "AMGN"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "a3d7480dc427",
+   "headline": "Humana Surges On 2027 CMS Ratings, Technical Breakout, Shares Fairly Priced",
+   "summary": "Humana surged after its main Medicare Advantage contract regained a 4-star CMS rating for 2027, a major profit catalyst. Read more on HUM stock here.",
+   "url": "https://finnhub.io/api/news?id=dc6fe86535528a99884f6b0d58de61bd029043fe1794826110f6b931d25e9787",
+   "source": "SeekingAlpha",
+   "published": "2026-10-09T17:11:10+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "dbb175d6ed7c",
+   "headline": "Which S&P500 stocks have an unusual volume on Friday?",
+   "summary": "Let's have a look at the S&P500 stocks with an unusual volume in today's session.",
+   "url": "https://finnhub.io/api/news?id=95482707e72d2d971bc9d095a74ac57ded6f10fa73640163075db599299cdd21",
+   "source": "ChartMill",
+   "published": "2026-10-09T17:05:00+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "47459498a2f7",
+   "headline": "Stock Market Midday, Oct. 9: Stocks Edge Higher, Humana jumps 13%",
+   "summary": "On Oct. 9, 2026, major benchmarks recover from earlier volatility as AI jitters and geopolitical tensions ease.",
+   "url": "https://finnhub.io/api/news?id=e2913beaadf1db3f33833ef61fbced7dc4133c9337ea40b3444fbd6e500ae4fe",
+   "source": "Yahoo",
+   "published": "2026-10-09T16:44:48+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "451a8ef62a07",
    "headline": "Top dow jones movers in Friday's session",
    "summary": "Join us in exploring the top gainers and losers within the dow jones index in the middle of the day on Friday as we examine the latest happenings in today's session.",
@@ -2113,11 +2740,28 @@
    "source": "ChartMill",
    "published": "2026-10-09T16:40:11+00:00",
    "tickers": [
-    "JNJ"
+    "AMGN",
+    "JNJ",
+    "UNH"
    ],
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "30f915bb8cbc",
+   "headline": "William Blair Downgrades Alignment Healthcare to Market Perform",
+   "summary": "William Blair analyst Ryan Daniels downgrades Alignment Healthcare (NASDAQ:ALHC) from Outperform to Market Perform.",
+   "url": "https://finnhub.io/api/news?id=0d9886274f0f22154b326a6c4d697e6130c0a0acc0f840e009476c5d1b40d1d4",
+   "source": "Benzinga",
+   "published": "2026-10-09T16:38:49+00:00",
+   "tickers": [
+    "ALHC"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -2132,6 +2776,36 @@
    "sectors": []
   },
   {
+   "id": "6dbbd137cf9f",
+   "headline": "Moderna stock hits 4-year high on planned national cancer vaccine effort",
+   "summary": "Moderna stock popped 9% on Friday after the New York Times reported new details about an effort to speed up cancer vaccine development. Investors saw the mRNA biotech company, in particular, as a beneficiary.",
+   "url": "https://finnhub.io/api/news?id=26ef6d462271e20560d857d34bb2b7d1b91d3c0bed8b86406e36dfb355f69c39",
+   "source": "Yahoo",
+   "published": "2026-10-09T16:14:58+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "98aa195c959e",
+   "headline": "Moderna stock jumps on planned national cancer vaccine effort",
+   "summary": "Moderna stock popped 9% on Friday after the New York Times reported new details about an effort to speed up cancer vaccine development. Investors saw the mRNA biotech company, in particular, as a beneficiary.",
+   "url": "https://finnhub.io/api/news?id=b511a432760eaf585dcbace8a10945d149a4dcfeb9e406c5b84325a24f8870a5",
+   "source": "Yahoo",
+   "published": "2026-10-09T16:14:58+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "4635e46a83e8",
    "headline": "CVS Stock Dips After Drop in Medicare Advantage Plan Ratings",
    "summary": "Aetna, the insurance arm of CVS Health, saw its four-star or higher plans lose ground in the latest federal ratings.",
@@ -2139,7 +2813,9 @@
    "source": "Yahoo",
    "published": "2026-10-09T15:59:00+00:00",
    "tickers": [
-    "CVS"
+    "CVS",
+    "HUM",
+    "UNH"
    ],
    "tag": "Analyst",
    "sectors": [
@@ -2157,6 +2833,37 @@
     "HUM"
    ],
    "tag": "Analyst",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "ba48320809f6",
+   "headline": "Moderna Climbs 5% on NASDAQ 100 Entry; Pfizer Inches Higher, BioNTech Ticks Up",
+   "summary": "Moderna's NASDAQ 100 debut triggered a surge in buying, but the real question is whether the rally holds once index funds finish their mechanical purchases and attention shifts back to the pipeline.",
+   "url": "https://finnhub.io/api/news?id=548ea96d85965d4231150ac723e0b762e14ae359a530daca3345e608b530e44e",
+   "source": "Yahoo",
+   "published": "2026-10-09T15:48:54+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "60c8e88a89c4",
+   "headline": "UnitedHealth vs. Humana: Which Healthcare Giant Has the Edge?",
+   "summary": "UNH's diversified healthcare platform, improving Medicare Advantage profitability and lower valuation give it an edge over HUM.",
+   "url": "https://finnhub.io/api/news?id=e5e35a8b3c0ded3348c1b0f24165566586631a0c99a7b4d3b4d36dd1cff38ba8",
+   "source": "Yahoo",
+   "published": "2026-10-09T15:46:00+00:00",
+   "tickers": [
+    "HUM",
+    "UNH"
+   ],
+   "tag": "Policy",
    "sectors": [
     "payers"
    ]
@@ -2196,9 +2903,25 @@
    "published": "2026-10-09T15:36:49+00:00",
    "tickers": [
     "BMRN",
+    "INCY",
     "VRTX"
    ],
    "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "6ff28c9c28ef",
+   "headline": "JP Morgan Maintains Neutral on Pfizer, Raises Price Target to $30",
+   "summary": "JP Morgan analyst Chris Schott maintains Pfizer (NYSE:PFE) with a Neutral and raises the price target from $28 to $30.",
+   "url": "https://finnhub.io/api/news?id=d27a1092d3f8ca576571024bb2b791e1e3cce8b13e5eed26a39337bf8b852e1a",
+   "source": "Benzinga",
+   "published": "2026-10-09T15:36:32+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "Analyst",
    "sectors": [
     "pharma"
    ]
@@ -2211,7 +2934,9 @@
    "source": "Yahoo",
    "published": "2026-10-09T15:33:09+00:00",
    "tickers": [
-    "CVS"
+    "CVS",
+    "HUM",
+    "UNH"
    ],
    "tag": "News",
    "sectors": [
@@ -2230,6 +2955,36 @@
    "sectors": []
   },
   {
+   "id": "c8caff40b483",
+   "headline": "Can Pfizer (PFE) Turn a Forward P/E Discount into Real Returns?",
+   "summary": "Pfizer Inc. (NYSE:PFE) is up 11.4% year-to-date and leads to a classic value-versus-risk setup. The stock\u2019s forward price-to-earnings multiple appears attractive, along with its healthy operating margin, and strong cash flow generation\u2026",
+   "url": "https://finnhub.io/api/news?id=c0be8f9acb56797d2b915b09861811e349660a285ed16e2dacad7452b1a0b2ea",
+   "source": "Yahoo",
+   "published": "2026-10-09T15:24:52+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "ae5903d36db0",
+   "headline": "Does UnitedHealth (UNH) Present a Case for Patience in a Margin-Repair Story?",
+   "summary": "The investment case for UnitedHealth Group Inc. (NYSE:UNH) rests on how management can restore the company\u2019s profitability margins and reignite its topline expansion to justify an earnings turnaround, which the current forward P/E\u2026",
+   "url": "https://finnhub.io/api/news?id=79084aa210e26e535689ef16226e54f4e61a72d1e8b7b97e652fc6560352153c",
+   "source": "Yahoo",
+   "published": "2026-10-09T15:22:40+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "4dbde197dcf7",
    "headline": "FDA review docs spark Revolution sell-off; Zealand diabetes data underwhelm analysts",
    "summary": "The new disclosure suggested Rasonque might not be as broadly effective as previously thought. Elsewhere, Ultragenyx got a much-needed cash infusion and TCGX started a China-focused fund.",
@@ -2242,6 +2997,36 @@
    "tag": "FDA",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "d577fb9a9fc3",
+   "headline": "FDA review docs spark Revolution sell-off; Zealand diabetes data underwhelm analysts",
+   "summary": "The new disclosure suggested Rasonque might not be as broadly effective as previously thought. Elsewhere, Ultragenyx got a much-needed cash infusion and TCGX started a China-focused fund.",
+   "url": "https://finnhub.io/api/news?id=5303042f76b11e46fe69ae362144922a3b9f39443320de2aceb8efca12f0eca6",
+   "source": "Yahoo",
+   "published": "2026-10-09T15:18:00+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "e419ff8437c5",
+   "headline": "JP Morgan Maintains Overweight on Alignment Healthcare, Lowers Price Target to $10",
+   "summary": "JP Morgan analyst John Stansel maintains Alignment Healthcare (NASDAQ:ALHC) with a Overweight and lowers the price target from $22 to $10.",
+   "url": "https://finnhub.io/api/news?id=f81e203d5a84fa4f9bae0da02b8ec7383c9009249e4ac05a2b82302ec1030cbc",
+   "source": "Benzinga",
+   "published": "2026-10-09T15:15:37+00:00",
+   "tickers": [
+    "ALHC"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -2267,11 +3052,27 @@
    "source": "Yahoo",
    "published": "2026-10-09T15:15:00+00:00",
    "tickers": [
+    "GKOS",
     "GMED"
    ],
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "6c6c7babe049",
+   "headline": "A New War on Cancer? NIH's Vaccine Initiative Sparks Biotech Stock Rally",
+   "summary": "A new NIH-backed initiative to speed up personalized cancer vaccine development sent stocks like MRNA, BNTX, and NVAX surging Friday.",
+   "url": "https://finnhub.io/api/news?id=10b61961f7807912d26796789297a2d0c536581d343ea6718415855d204068b8",
+   "source": "Benzinga",
+   "published": "2026-10-09T15:11:12+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -2282,11 +3083,28 @@
    "source": "Yahoo",
    "published": "2026-10-09T15:08:45+00:00",
    "tickers": [
-    "CVS"
+    "CVS",
+    "HUM",
+    "UNH"
    ],
    "tag": "Analyst",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "a5ca9c6c85a7",
+   "headline": "Why GE HealthCare (GEHC) Is Doubling Down on Pharmaceutical Diagnostics?",
+   "summary": "Following its spinoff from General Electric, GE HealthCare Technologies Inc. (NASDAQ:GEHC) has evolved from an established hardware developer into an AI-led, high-margin medtech player. The company offers strong revenue visibility with\u2026",
+   "url": "https://finnhub.io/api/news?id=6aae940e17e9bcb606fb564372b920c111ae882ebf42a3223d7a03879eef0687",
+   "source": "Yahoo",
+   "published": "2026-10-09T15:01:59+00:00",
+   "tickers": [
+    "GEHC"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -2308,7 +3126,9 @@
    "source": "Yahoo",
    "published": "2026-10-09T14:58:30+00:00",
    "tickers": [
-    "CVS"
+    "CVS",
+    "HUM",
+    "UNH"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -2331,6 +3151,21 @@
    ]
   },
   {
+   "id": "d8aa718f788e",
+   "headline": "A Stock Market Crash Is Coming By the End of 2027, According to Some Economists. Here Are 2 Stocks to Buy Before That Happens",
+   "summary": "These companies might bend during a downturn, but they won\u2019t break.",
+   "url": "https://finnhub.io/api/news?id=6fdf316f2d5ebe8c061465fe438ca485dfe8aabf63f03dc5c9d92f0f44f43b9e",
+   "source": "Yahoo",
+   "published": "2026-10-09T14:50:02+00:00",
+   "tickers": [
+    "AMGN"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "485b1cd9dfcc",
    "headline": "1 Unpopular Stock That Should Get More Attention and 2 We Question",
    "summary": "Wall Street has issued downbeat forecasts for the stocks in this article. These predictions are rare - financial institutions typically hesitate to say bad things about a company because it can jeopardize their other revenue-generating\u2026",
@@ -2343,6 +3178,36 @@
    "tag": "Earnings",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "eb6fe0a9fb83",
+   "headline": "Clover Health Investments shares are trading higher after the company reported a year-over-year increase in Membership Growth in its Medicare Advantage PPO plans. The company expects to achieve its first-ever FY GAAP net income profitability.",
+   "summary": "",
+   "url": "https://finnhub.io/api/news?id=b65d92b30dc8bcb64c42e6a9ac02633199b4afcddbe7d040ef199608517343ef",
+   "source": "Benzinga",
+   "published": "2026-10-09T14:42:02+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "189bf8465889",
+   "headline": "These S&P500 stocks are gapping in today's session",
+   "summary": "Let's take a look at the S&P500 stocks that are experiencing notable price gaps in today's session on Friday. Discover the gap up and gap down stocks in the S&P500 index.",
+   "url": "https://finnhub.io/api/news?id=bf3d21624633bc9ad99ba28bdeef279504f7de1ef429b79bd5d07d797459ef36",
+   "source": "ChartMill",
+   "published": "2026-10-09T14:35:02+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -2362,6 +3227,22 @@
    ]
   },
   {
+   "id": "32d286303749",
+   "headline": "Gapping stocks in Friday's session",
+   "summary": "The session on Friday is off to an intriguing start with several stocks showing significant price gaps. Let's examine the gap up and gap down stocks in today's session.",
+   "url": "https://finnhub.io/api/news?id=4ba6faa54aeae86cd69686eb99446787aeed25e8fac8408f5f1797664b3f643a",
+   "source": "ChartMill",
+   "published": "2026-10-09T14:30:00+00:00",
+   "tickers": [
+    "ALHC",
+    "HUM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "4a4369ccbbd0",
    "headline": "This week in charts: What\u2019s driving biotech\u2019s recent pullback?",
    "summary": "The latest installment in BioPharma Dive\u2019s data visualization series features a look at the factors pressuring biotech stocks of late and the frenetic pace of startup buyouts this year.",
@@ -2371,6 +3252,81 @@
    "tickers": [],
    "tag": "M&A",
    "sectors": []
+  },
+  {
+   "id": "9eec4acdd1cc",
+   "headline": "Could You Have Seen The Run In Tempus AI Stock Coming?",
+   "summary": "Tempus AI (TEM) stock returned 56.9% in the six months from April 9 to October 8, 2026. Partway through that timeline, on July 30, the company finally reported a quarterly profit following years of losses. Yet the stock's run began more\u2026",
+   "url": "https://finnhub.io/api/news?id=3b3344f74bcb61c4bd0118651c3f64969cb03c062ec7f3b9717f18bd5f79bca6",
+   "source": "Yahoo",
+   "published": "2026-10-09T14:19:13+00:00",
+   "tickers": [
+    "ILMN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "16717e29a633",
+   "headline": "Frontline TUKYSA Maintenance Approval Could Be A Game Changer For Pfizer (PFE)",
+   "summary": "Pfizer recently received U.S. FDA approval for TUKYSA (tucatinib) in combination with trastuzumab and pertuzumab as a chemotherapy-free maintenance treatment for adults with unresectable locally advanced or metastatic HER2-positive breast\u2026",
+   "url": "https://finnhub.io/api/news?id=5e5e761beb5938e44ca5f23b527254c0189bdfccfe581a0cb4a1e5ec7c5fa50e",
+   "source": "Yahoo",
+   "published": "2026-10-09T14:16:03+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "7aec7d35a774",
+   "headline": "Humana (HUM) Stock Fair Value Edges Higher After Analyst Target Revisions",
+   "summary": "Humana\u2019s assessed fair value has shifted from US$419.04 to US$430.70 per share, giving investors an updated price anchor to compare with current trading levels. This adjustment aligns with recently more active research coverage, as\u2026",
+   "url": "https://finnhub.io/api/news?id=4d437e08fe466ed541bd5eef3750781e68f087ceaed459ad89e1ceddd5089ffb",
+   "source": "Yahoo",
+   "published": "2026-10-09T14:14:06+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "99673742b3d8",
+   "headline": "Humana Soars 15% on Medicare Star Ratings: \u201c95% of Members in Four-Star Plans\u201d",
+   "summary": "Humana (HUM:NYSE) shares are up about 15% this morning (trading at about $447) after the insurer said 95% of its Medicare Advantage members will be in plans rated four stars or higher for 2027. A year ago, that figure was just 20%.",
+   "url": "https://finnhub.io/api/news?id=2bcca589a783a3365f697cbba751f98c4285a8e2e765616abc99c2e4e6755b05",
+   "source": "Yahoo",
+   "published": "2026-10-09T14:13:28+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "ac988ffde179",
+   "headline": "Commonwealth Of Pennsylvania: Governor Shapiro Secures Over $800M Investment From GSK To Expand Operations, Creating Over 300 New Jobs; GSK Is Expanding Its Facilities In Upper Merion Township, With Construction Planned To Begin In 2027",
+   "summary": "- Reuters",
+   "url": "https://finnhub.io/api/news?id=4ed3b47c3937273c40f1914ee146251e38dac51eb731414452d90bc6408d7f1a",
+   "source": "Benzinga",
+   "published": "2026-10-09T14:13:00+00:00",
+   "tickers": [
+    "GSK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "3750766455b6",
@@ -2391,8 +3347,10 @@
    "source": "Yahoo",
    "published": "2026-10-09T14:03:00+00:00",
    "tickers": [
+    "ABT",
     "JNJ",
-    "NVS"
+    "NVS",
+    "PFE"
    ],
    "tag": "News",
    "sectors": [
@@ -2433,11 +3391,42 @@
    "source": "Yahoo",
    "published": "2026-10-09T13:52:00+00:00",
    "tickers": [
+    "AMGN",
     "JNJ"
    ],
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "3f1a13ccbde4",
+   "headline": "SpaceX initiated, Humana upgraded: Wall Street's top analyst calls",
+   "summary": "SpaceX initiated, Humana upgraded: Wall Street's top analyst calls",
+   "url": "https://finnhub.io/api/news?id=8019c880fe0c4a00f7e9abe7cfb5f19d0f21c3d8f821c1d3a92e1d163987cecd",
+   "source": "Yahoo",
+   "published": "2026-10-09T13:45:18+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "0617fe08ed44",
+   "headline": "Humana Stock Jumps on Raised Medicare Advantage Ratings",
+   "summary": "Humana shares are soaring after the health insurer said it received improved star ratings for a number of its Medicare Advantage plans.",
+   "url": "https://finnhub.io/api/news?id=22a2ec5da2a9666a2ef770e87e34ca21b6a9fe7b1033cd4bd952d0b7c6134c29",
+   "source": "Yahoo",
+   "published": "2026-10-09T13:44:33+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -2465,11 +3454,27 @@
    "published": "2026-10-09T13:35:10+00:00",
    "tickers": [
     "BMY",
-    "BSX"
+    "BSX",
+    "ZTS"
    ],
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "11e059159d85",
+   "headline": "Alignment Healthcare: CMS Ratings Exacerbate Its Challenges",
+   "summary": "Alignment Healthcare hit by a sub-4-star CMS rating, risking MA bonuses, enrollment, and margins amid rising costs. Click here to read this ALHC stock update.",
+   "url": "https://finnhub.io/api/news?id=d0c43a72b090a42fb191d84d7d108d35f25e24c0b03a235ef8c23ae2a21db3f6",
+   "source": "SeekingAlpha",
+   "published": "2026-10-09T13:28:49+00:00",
+   "tickers": [
+    "ALHC"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -2485,6 +3490,51 @@
    "tag": "News",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "6f642ac02378",
+   "headline": "Stock Market Today: Nasdaq 100 Rebounds From OpenAI Scare, T-Mobile Tumbles 12%",
+   "summary": "The Nasdaq 100 recovers from Thursday's OpenAI-driven selloff while T-Mobile sinks 12% on SpaceX's spectrum deal and the 10-year yield holds near 5.26%.",
+   "url": "https://finnhub.io/api/news?id=6d6a7f613588e29781ea47aa1622e652afe48f306894f204f475dfe565f02ff3",
+   "source": "Benzinga",
+   "published": "2026-10-09T13:27:07+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "097866e643fa",
+   "headline": "Humana stock rises 15% after Medicare star ratings jump",
+   "summary": "The health insurer said 95% of its Medicare Advantage members will be in plans rated 4 stars or higher in 2027, up from 20% in 2026",
+   "url": "https://finnhub.io/api/news?id=4c3a81f75d33d8c661da1f5214a3734781c46ff75eabc35496a2e49d3c660b79",
+   "source": "Yahoo",
+   "published": "2026-10-09T13:25:48+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "cd2e15e1b5ea",
+   "headline": "Roche Gets FDA Approval for Another Label Expansion of Tecentriq",
+   "summary": "Roche wins FDA approval for Tecentriq in stage III dMMR colon cancer, with trial data showing a 50% lower risk of recurrence or death.",
+   "url": "https://finnhub.io/api/news?id=02cdd7e218180e1ef8c43c5d4ebf47f999556f4b012901882002fd3f4f5802e8",
+   "source": "Yahoo",
+   "published": "2026-10-09T13:24:00+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -2531,6 +3581,22 @@
    ]
   },
   {
+   "id": "b5f11ca8e1b9",
+   "headline": "Gold Rises Over 1%; US Consumer Sentiment Falls",
+   "summary": "U.S. stocks rose Friday, led by the Dow and Nasdaq; sentiment hit a five-month low, while Veea and WF Holding surged and T-Mobile fell.",
+   "url": "https://finnhub.io/api/news?id=2b02ae29377f30278e4ddcc4362138d9dd5e2ab1d4086c3a52956994f67691ce",
+   "source": "Benzinga",
+   "published": "2026-10-09T13:17:18+00:00",
+   "tickers": [
+    "ALHC",
+    "HUM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "f5e110bc682e",
    "headline": "Is Clover Health Stock Too Dependent On One Group Of Members?",
    "summary": "During an August 5, 2026 call, management at Clover Health Investments (CLOV) noted that nearly half of its Medicare Advantage members joined the company in 2025 or 2026. That matters because Clover typically earns less gross profit on a\u2026",
@@ -2538,9 +3604,72 @@
    "source": "Yahoo",
    "published": "2026-10-09T13:13:59+00:00",
    "tickers": [
-    "CVS"
+    "CVS",
+    "HUM",
+    "UNH"
    ],
    "tag": "Policy",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "fbf8157b8d15",
+   "headline": "Humana raises Medicare Advantage ratings as 95% of members qualify for 4-star plans",
+   "summary": "Humana (NYSE:HUM) shares were up nearly 15% on Friday after the company improved its Medicare Advantage quality ratings for 2027. Around 95% of members enrolled in plans rated at least four stars, strengthening its position ahead of the\u2026",
+   "url": "https://finnhub.io/api/news?id=33741abb4054391c93ab4a7458ea3e6f1d561b1b92821e2c98dd1c137bd38710",
+   "source": "Yahoo",
+   "published": "2026-10-09T13:12:00+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "c687faf3e391",
+   "headline": "Alignment Healthcare Sinks 20% as Medicare Plan Downgraded (Humana and Clover Soar)",
+   "summary": "Key TakeawaysAlignment Healthcare shares fell 20% after its California HMO contract, which serves about 75% of its health plan members, dropped to 3. 5 stars from 4.",
+   "url": "https://finnhub.io/api/news?id=5bf7ac9cea3953537b3ed21e6e9d284e970fd05a2e698dd21d66c798a89bd23a",
+   "source": "Yahoo",
+   "published": "2026-10-09T13:11:47+00:00",
+   "tickers": [
+    "ALHC",
+    "HUM"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "11f76ffd79b2",
+   "headline": "Final Trades: Hewlett Packard, Wells Fargo, Arista Networks and UnitedHealth",
+   "summary": "The Investment Committee gives you their top stocks to watch for the second half.",
+   "url": "https://finnhub.io/api/news?id=332c12d6feea9c49edce0058b29892c6e74f564c522db44463ca304da4ff2455",
+   "source": "CNBC",
+   "published": "2026-10-09T13:11:01+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "b89d8944cfdd",
+   "headline": "SpaceX, AT&T, Crown Castle, Delta, Humana, and More Stocks That Explain Today\u2019s Market",
+   "summary": "SpaceX rises after the company places its bets on potentially becoming a major mobile carrier in the U.S.",
+   "url": "https://finnhub.io/api/news?id=a09c265d8156e27c505ea916b11533d9e7442cd4cce7ef8aca6e9a6930bb3b21",
+   "source": "Yahoo",
+   "published": "2026-10-09T13:07:00+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "News",
    "sectors": [
     "payers"
    ]
@@ -2556,6 +3685,21 @@
     "HUM"
    ],
    "tag": "Analyst",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "f4a0d75dd162",
+   "headline": "Humana soars, Alignment plummets in 2027 Medicare Advantage star ratings",
+   "summary": "A Healthcare Dive analysis of highly anticipated stars data shows a mixed bag of winners and losers, though \u2014 as expected \u2014 the quality scores slipped overall. See how major carriers fared for 2027.",
+   "url": "https://finnhub.io/api/news?id=95ad9e370f4ea8dd63a9fa48da124324fdf73243f0f07b4d0f7b77b941d9a27c",
+   "source": "Yahoo",
+   "published": "2026-10-09T13:05:19+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "Policy",
    "sectors": [
     "payers"
    ]
@@ -2583,11 +3727,27 @@
    "source": "Yahoo",
    "published": "2026-10-09T13:05:00+00:00",
    "tickers": [
+    "ABT",
     "GMED"
    ],
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "d7fe751669ef",
+   "headline": "Shares of companies within the broader tech sector are trading higher amid market strength and may be in reaction to Microsoft's plan to invest approximately $80 billion into AI data center development in FY25.",
+   "summary": "",
+   "url": "https://finnhub.io/api/news?id=c39216bcce8a6a799fa149f0f116e47bb5edd530c8873ec9014bf245dd059465",
+   "source": "Benzinga",
+   "published": "2026-10-09T13:00:58+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -2598,7 +3758,8 @@
    "source": "CNBC",
    "published": "2026-10-09T13:00:40+00:00",
    "tickers": [
-    "CVS"
+    "CVS",
+    "HUM"
    ],
    "tag": "News",
    "sectors": [
@@ -2651,6 +3812,36 @@
    ]
   },
   {
+   "id": "f0e4cace3929",
+   "headline": "Alignment Healthcare Stock Hit by Bearish Outlook After Costly Medicare Advantage Rating Downgrade",
+   "summary": "Alignment Healthcare Inc. (NASDAQ:ALHC) confronts potential stock pressure following the release of the Centers for Medicare & Medicaid Services\u2019 2027 Medicare Advantage Star Ratings. The company provides partners and patients with\u2026",
+   "url": "https://finnhub.io/api/news?id=45c3147ff9b0bd783ef1ab28ed130592ee8d8dbc984a9bb0596a6bb20940bd17",
+   "source": "Yahoo",
+   "published": "2026-10-09T12:49:10+00:00",
+   "tickers": [
+    "ALHC"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "5d012657cc88",
+   "headline": "Glaukos Reveals Superior Intraocular Pressure Reduction With Novel Eye Therapy",
+   "summary": "Glaukos reports positive Phase 4 results for its iDose TR therapy, demonstrating superior efficacy over standalone cataract surgery.",
+   "url": "https://finnhub.io/api/news?id=26ab3e649c59159de1bf808d648b4349a5faf903250051190c1e69a236b76a58",
+   "source": "Benzinga",
+   "published": "2026-10-09T12:49:03+00:00",
+   "tickers": [
+    "GKOS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "881de9a09b22",
    "headline": "Humana Soars 16% on Improved Medicare Advantage Star Ratings; CVS Slides 3%, UnitedHealth Holds Steady",
    "summary": "A single Medicare quality ratings release sent one major insurer soaring while dragging a rival into the red, and the gap between winners and losers points to something deeper than a routine scoring update.",
@@ -2658,11 +3849,43 @@
    "source": "Yahoo",
    "published": "2026-10-09T12:42:02+00:00",
    "tickers": [
-    "CVS"
+    "CVS",
+    "HUM",
+    "UNH"
    ],
    "tag": "Analyst",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "03e87e424d5a",
+   "headline": "Humana Says 95% of Medicare Advantage Members Are Enrolled in Plans Rated Four Stars or Higher for 2027",
+   "summary": "Humana (NYSE:HUM) reported that 95% of its Medicare Advantage members are enrolled in plans receiving quality ratings of at least four stars from the Centers for Medicare & Medicaid Services (CMS) for 2027, marking an improvement from the\u2026",
+   "url": "https://finnhub.io/api/news?id=b5a9e1d54f00f43dcaf5198b9005e75a98640cf5da4dc3d609e87031b6b11569",
+   "source": "Yahoo",
+   "published": "2026-10-09T12:37:18+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "299a45a16304",
+   "headline": "Robotics Stocks Diverge as AI and Semiconductor Automation Leaders Pull Ahead",
+   "summary": "Robotics and automation stocks are splitting: AI, semiconductor, and healthcare robotics lead while traditional industrial and software automation lag.",
+   "url": "https://finnhub.io/api/news?id=27e8d3f00645503716d12005bb437ba0b6b20dbe570fc2a96917ce4cb616786e",
+   "source": "ChartMill",
+   "published": "2026-10-09T12:36:15+00:00",
+   "tickers": [
+    "ISRG"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -2673,7 +3896,8 @@
    "source": "ChartMill",
    "published": "2026-10-09T12:35:02+00:00",
    "tickers": [
-    "CVS"
+    "CVS",
+    "HUM"
    ],
    "tag": "News",
    "sectors": [
@@ -2696,6 +3920,22 @@
    ]
   },
   {
+   "id": "66e2db1a4425",
+   "headline": "These stocks are moving in today's pre-market session",
+   "summary": "The US market is yet to commence its session on Friday, but let's get a preview of the pre-market session and explore the top gainers and losers driving the early market movements.",
+   "url": "https://finnhub.io/api/news?id=c970fbe5a697f3f44e82cb6e83e5c0608d464bfe6fed78f2fcb8568448e196fd",
+   "source": "ChartMill",
+   "published": "2026-10-09T12:30:00+00:00",
+   "tickers": [
+    "ALHC",
+    "HUM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "ab04d6003241",
    "headline": "Humana, Clover Soar On Medicare Advantage Star Rating; These Stocks Sink",
    "summary": "Humana and Clover soared after their Medicare Advantage plans earned higher Star Ratings. CVS Health and Alignment Healthcare tanked on Friday after their plans got downgraded.",
@@ -2703,7 +3943,9 @@
    "source": "Yahoo",
    "published": "2026-10-09T12:29:18+00:00",
    "tickers": [
-    "CVS"
+    "ALHC",
+    "CVS",
+    "HUM"
    ],
    "tag": "Analyst",
    "sectors": [
@@ -2726,6 +3968,156 @@
    ]
   },
   {
+   "id": "acdc90d63abc",
+   "headline": "Premarket movers: Humana rallies; SpaceX deal sends telco stocks down",
+   "summary": "Investing.com - U.S. stock futures were broadly higher on Friday as investors weighed debate over OpenAI\u2019s revenue outlook, while oil prices eased after President Donald Trump said the U.S. would not launch new attacks on Iran before the\u2026",
+   "url": "https://finnhub.io/api/news?id=58362ebaacc8d7431ddc8c23d552140738174c706d57c61b103a6cc22c25f1bc",
+   "source": "Yahoo",
+   "published": "2026-10-09T12:08:02+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "bb992ded46b6",
+   "headline": "Cantor Fitzgerald Lifts Price Targets on Four Pharma Giants Amid Mixed Growth Outlooks",
+   "summary": "Cantor Fitzgerald just bumped price targets on Eli Lilly, AbbVie, Merck, and Pfizer, but higher targets do not mean equal conviction. The firm's split between Overweight and Neutral ratings reveals a sharp divide in where analysts see\u2026",
+   "url": "https://finnhub.io/api/news?id=dac28b3748f2eb337bdde00dc47ba0bedd5c6eea64bc1a19104fa1438a7bf8c4",
+   "source": "Yahoo",
+   "published": "2026-10-09T12:00:08+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "8ff83b7cd37f",
+   "headline": "Investors Heavily Search Pfizer Inc. (PFE): Here is What You Need to Know",
+   "summary": "Zacks.com users have recently been watching Pfizer (PFE) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
+   "url": "https://finnhub.io/api/news?id=1ed2ca07c5999096b54aa3eda6960a89753276ac08c505d4afde711efa569ef7",
+   "source": "Yahoo",
+   "published": "2026-10-09T12:00:03+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "48a6101210c8",
+   "headline": "Charles River Laboratories Schedules Third-Quarter 2026 Earnings Release and Conference Call",
+   "summary": "WILMINGTON, Mass., October 09, 2026--Charles River Laboratories Schedules Third-Quarter 2026 Earnings Release and Conference Call",
+   "url": "https://finnhub.io/api/news?id=9c7afb02e7e9d7abcc03d3cb0a983871d3e7356993eb8a452fb378da3b71b958",
+   "source": "Yahoo",
+   "published": "2026-10-09T12:00:00+00:00",
+   "tickers": [
+    "CRL"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "70d6c580ba98",
+   "headline": "Baird Upgrades Humana to Outperform from Neutral",
+   "summary": "",
+   "url": "https://finnhub.io/api/news?id=f438f40a3e864814c234eabb487fb1de7c34ce9141e20db7bb9a7f4ea6adfdca",
+   "source": "Fintel",
+   "published": "2026-10-09T11:57:23+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "87347a69090f",
+   "headline": "TD Cowen Maintains Hold on UnitedHealth Group, Lowers Price Target to $402",
+   "summary": "TD Cowen analyst Ryan Langston maintains UnitedHealth Group (NYSE:UNH) with a Hold and lowers the price target from $430 to $402.",
+   "url": "https://finnhub.io/api/news?id=78cd2afbc35e254635c5a597d18b9ff6521fa88403dac70b98028ade80c5d304",
+   "source": "Benzinga",
+   "published": "2026-10-09T11:56:34+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "b32c6c17f7e0",
+   "headline": "Humana Gets Bullish Calls From Baird, Barclays On Medicare Advantage Recovery",
+   "summary": "Humana\u2019s improved Medicare Advantage star ratings strengthen its eligibility for 2028 quality bonus payments, while analysts see potential for an earnings recovery.",
+   "url": "https://finnhub.io/api/news?id=f04e8e2a3f671a8880cf7ea6eae3ff7f5c137e20b602d3f0d326ff128cd40255",
+   "source": "Yahoo",
+   "published": "2026-10-09T11:54:10+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "d15f8cc0851a",
+   "headline": "4 Household Name Stocks With Dividends in Danger",
+   "summary": "Four household names are dangling yields above 5% at a moment when their earnings, cash flow, and debt levels raise serious questions about whether those payouts can last. Retirees counting on that income should look carefully before the\u2026",
+   "url": "https://finnhub.io/api/news?id=1a5084106507caaec52a9a5a7a3d996225674d910531b6c335c7daf8f20b788b",
+   "source": "Yahoo",
+   "published": "2026-10-09T11:40:59+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "cd194380d66a",
+   "headline": "AI Stocks Are Roaring Back but They\u2019ve Rarely Looked So Vulnerable",
+   "summary": "Tech stocks are rebounding helped by falling oil prices but the AI trade is exposed.",
+   "url": "https://finnhub.io/api/news?id=b2e24e9becfec1d249f3abe894eb88f2f1a372a49c3948db0d1e7b10b5723679",
+   "source": "Yahoo",
+   "published": "2026-10-09T11:38:00+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "a49615405f46",
+   "headline": "UBS Maintains Buy on Biogen, Raises Price Target to $270",
+   "summary": "UBS analyst Michael Yee maintains Biogen (NASDAQ:BIIB) with a Buy and raises the price target from $240 to $270.",
+   "url": "https://finnhub.io/api/news?id=9b65622705e3e362c7d28e05ef0dad0df47d77c3014d499293dee044acee525e",
+   "source": "Benzinga",
+   "published": "2026-10-09T11:37:51+00:00",
+   "tickers": [
+    "BIIB"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "9100f3943632",
    "headline": "CVS Stock: TD Cowen Warns Of Bottom-Line Pressure For CVS Health Amid Star Ratings Setback",
    "summary": "CVS\u2019 share of Medicare Advantage members in plans rated at least 4.5 stars is expected to drop sharply to 35% from 63%, TD Cowen said.",
@@ -2733,11 +4125,27 @@
    "source": "Yahoo",
    "published": "2026-10-09T11:37:13+00:00",
    "tickers": [
-    "CVS"
+    "CVS",
+    "HUM"
    ],
    "tag": "Analyst",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "6f84eb647ec3",
+   "headline": "UBS Maintains Buy on Amgen, Raises Price Target to $470",
+   "summary": "UBS analyst Michael Yee maintains Amgen (NASDAQ:AMGN) with a Buy and raises the price target from $430 to $470.",
+   "url": "https://finnhub.io/api/news?id=e37451e7b985e0bda0de9215eea6d5f9963eff684b972d13c2f428b5c6b68d18",
+   "source": "Benzinga",
+   "published": "2026-10-09T11:29:26+00:00",
+   "tickers": [
+    "AMGN"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -2763,7 +4171,8 @@
    "source": "Benzinga",
    "published": "2026-10-09T11:00:02+00:00",
    "tickers": [
-    "JNJ"
+    "JNJ",
+    "PFE"
    ],
    "tag": "News",
    "sectors": [
@@ -2786,6 +4195,21 @@
    ]
   },
   {
+   "id": "0e973900e02b",
+   "headline": "Glaukos Announces Positive Topline Results from Phase 4 Prospective Randomized Controlled Clinical Trial Evaluating iDose\u00ae TR in Combination with Cataract Surgery",
+   "summary": "ALISO VIEJO, Calif., October 09, 2026--Glaukos Corporation (NYSE: GKOS), an ophthalmic pharmaceutical and medical technology company focused on novel therapies for the treatment of glaucoma, corneal disorders, and retinal diseases, today\u2026",
+   "url": "https://finnhub.io/api/news?id=d73a8cee41d0762254cc2c4a0c9f63b9567fcc94d6a81bfc2705307563660137",
+   "source": "Yahoo",
+   "published": "2026-10-09T11:00:00+00:00",
+   "tickers": [
+    "GKOS"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "b7abba98f028",
    "headline": "TRex Bio prices $117M IPO to support immune drug work",
    "summary": "Eli Lilly is the largest equity holder in TRex, which is developing drugs that treat immunological conditions by activating \u201cTreg\u201d cells.",
@@ -2800,6 +4224,22 @@
    "sectors": [
     "biotech",
     "pharma"
+   ]
+  },
+  {
+   "id": "449ec9de5202",
+   "headline": "Humana, Evolution Metals & Technologies, Fastly And Other Big Stocks Moving Higher On Friday",
+   "summary": "U.S. stocks rose Friday; Humana jumped 12.3% after improved 2027 Medicare Advantage ratings and reaffirmed FY26 EPS guidance.",
+   "url": "https://finnhub.io/api/news?id=e8a33e2e34eb5ad9a85389b5450190ce06b03de47ad677f6b29818663259167f",
+   "source": "Benzinga",
+   "published": "2026-10-09T10:51:05+00:00",
+   "tickers": [
+    "HUM",
+    "TWST"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -2818,6 +4258,51 @@
    ]
   },
   {
+   "id": "277315db76bc",
+   "headline": "Alignment Healthcare Sees Lowered Federal Rating for California Health Plan; Shares Fall Pre-Bell",
+   "summary": "Alignment Healthcare (ALHC) said Thursday that it expects its California HMO plan, which provides he",
+   "url": "https://finnhub.io/api/news?id=1ad14057a9ab867f6a303acb588792b42da107958195577608aa3221912d7fd2",
+   "source": "Yahoo",
+   "published": "2026-10-09T10:46:56+00:00",
+   "tickers": [
+    "ALHC"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "f15a5cf9ff7f",
+   "headline": "Barclays Maintains Overweight on Humana, Raises Price Target to $582",
+   "summary": "Barclays analyst Andrew Mok maintains Humana (NYSE:HUM) with a Overweight and raises the price target from $515 to $582.",
+   "url": "https://finnhub.io/api/news?id=26fdd23a8454592b9179ad1b74c73d96d89f41aaa0bbc2ae6b003ef3f9b7c714",
+   "source": "Benzinga",
+   "published": "2026-10-09T10:46:22+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "1c1f1d8ef220",
+   "headline": "What to Expect From Incyte\u2019s Next Quarterly Earnings Report",
+   "summary": "Incyte will report its third-quarter earnings soon, with analysts forecasting a steep triple-digit plunge in its bottom line compared with the year-ago quarter.",
+   "url": "https://finnhub.io/api/news?id=36685ffd3e97ab8486e6f47bfc46d2ef5b32cd0ec6791a1304605903a25a0dcc",
+   "source": "Yahoo",
+   "published": "2026-10-09T10:42:18+00:00",
+   "tickers": [
+    "INCY"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "3d5a9ed1ebf6",
    "headline": "Jazz Pharmaceuticals (NASDAQ:JAZZ): An Undervalued Biopharma Value Stock",
    "summary": "Jazz Pharmaceuticals looks undervalued on earnings and cash flow with strong profitability and decent growth, per the Decent Value screen.",
@@ -2828,6 +4313,21 @@
     "JAZZ"
    ],
    "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "56c05328e061",
+   "headline": "RBC Capital Maintains Sector Perform on Exelixis, Raises Price Target to $51",
+   "summary": "RBC Capital analyst Leonid Timashev maintains Exelixis (NASDAQ:EXEL) with a Sector Perform and raises the price target from $45 to $51.",
+   "url": "https://finnhub.io/api/news?id=e9cadd03e0387c1321cad938c919a8ffecc7a54600a05da9d08fad844d3b8a0d",
+   "source": "Benzinga",
+   "published": "2026-10-09T10:39:40+00:00",
+   "tickers": [
+    "EXEL"
+   ],
+   "tag": "Analyst",
    "sectors": [
     "biotech"
    ]
@@ -2863,6 +4363,51 @@
    ]
   },
   {
+   "id": "7578a57fbbdc",
+   "headline": "Market Open: October 9, 2026",
+   "summary": "CNBC brings you fast, accurate, and actionable business news and market updates.",
+   "url": "https://finnhub.io/api/news?id=0a3f3699c836610c17552d7e2dddb0e06a41e7e99eb2a3f2dde5510206523f9b",
+   "source": "CNBC",
+   "published": "2026-10-09T10:10:47+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "5c6e03a83099",
+   "headline": "Humana Announces Improved CMS Star Ratings with 95 Percent of Medicare Advantage Members in 4-Star or Above Plans for 2027",
+   "summary": "LOUISVILLE, Ky., October 09, 2026--Humana Inc. (NYSE: HUM), a leading consumer healthcare company focused on helping people achieve their best health, today announced improved Star Ratings for 2027, highlighted by 95% of its Medicare\u2026",
+   "url": "https://finnhub.io/api/news?id=86583c81e871292bbf2d8be5e5e7a942e6460edb2b232edaaab88ce8ea165e1e",
+   "source": "Yahoo",
+   "published": "2026-10-09T10:10:00+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "956158eed988",
+   "headline": "Oppenheimer Maintains Outperform on Humana, Raises Price Target to $475",
+   "summary": "Oppenheimer analyst Michael Wiederhorn maintains Humana (NYSE:HUM) with a Outperform and raises the price target from $405 to $475.",
+   "url": "https://finnhub.io/api/news?id=82e0b46371accdb6a35eafa9fd97e0f5b70d12f9199d39effca2ceea9b35e7b2",
+   "source": "Benzinga",
+   "published": "2026-10-09T10:04:58+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "063fd259fa7a",
    "headline": "CVS Health's Aetna Says Strong Medicare Star Ratings Boost Confidence in Return to Appropriate Margins",
    "summary": "CVS Health reports 69%+ of Aetna's 2027 Medicare Advantage enrollees are in 4-star or higher plans, reflecting high clinical quality.",
@@ -2885,11 +4430,89 @@
    "source": "Yahoo",
    "published": "2026-10-09T09:51:00+00:00",
    "tickers": [
-    "CVS"
+    "ALHC",
+    "CVS",
+    "UNH"
    ],
    "tag": "Analyst",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "efa7ed091683",
+   "headline": "UnitedHealth: A Beat Is Priced In, But There's Room For Surprise",
+   "summary": "",
+   "url": "https://finnhub.io/api/news?id=2b30647c883fe5d3a23744487f45d1c4957af11e18b77a953c01eb585a7ae99b",
+   "source": "SeekingAlpha",
+   "published": "2026-10-09T09:44:12+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "1f9ff1156afe",
+   "headline": "Zoetis (NYSE:ZTS): A Quality Dividend Stock for Income Investors With Room to Grow",
+   "summary": "Zoetis is a dividend stock with strong profitability, low payout ratio, and 20.56% dividend growth, but slower earnings remain a risk.",
+   "url": "https://finnhub.io/api/news?id=4baa07edb0173cb3c6df8828e8bb1501f402c4c9b2b857651a7bc282ce58221e",
+   "source": "ChartMill",
+   "published": "2026-10-09T09:40:36+00:00",
+   "tickers": [
+    "ZTS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "fd588ed00219",
+   "headline": "Humana Stock Hits 52-Week High After Medicare Ratings Boost",
+   "summary": "Humana\u2019s 2027 Medicare Advantage Star Ratings jump, with 95% of members in 4+ star plans. HUM shares surge in premarket trading.",
+   "url": "https://finnhub.io/api/news?id=08e57d86273ff960371a40e18389e8b7e946cb0a91a8d68150887730127b5937",
+   "source": "Benzinga",
+   "published": "2026-10-09T09:37:39+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "37a6fd80d77a",
+   "headline": "Stock Market Today: S&P 500, Dow Jones, Nasdaq 100 Futures Gain as Scott Bessent Says US Is Starving Iran's 'Tyrannical Regime'\u2014 PKE, HUM, RENX in Focus (UPDATED)",
+   "summary": "U.S. stock futures were higher on Friday, as the Dow Jones, S&P 500 and Nasdaq 100 indices rose, following Thursday's mixed close.",
+   "url": "https://finnhub.io/api/news?id=456464d1145ca9b8194cd0a4c28b62e3afa7a2f7d4836eed58c833c24d595c4b",
+   "source": "Benzinga",
+   "published": "2026-10-09T09:21:41+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "a4dea27d50e7",
+   "headline": "CrowdStrike To Rally Around 18%? Here Are 10 Top Analyst Forecasts For Friday",
+   "summary": "Analysts raised targets for HOOD, SAIL, U and CRWD; cut targets for BULL, ALGN and PCRX, with PCRX downgraded to Neutral.",
+   "url": "https://finnhub.io/api/news?id=d2532159d2519f8a84debe6570d937118d333e71b3f68bc98a08ed16d50e1662",
+   "source": "Benzinga",
+   "published": "2026-10-09T09:11:44+00:00",
+   "tickers": [
+    "ALGN",
+    "HUM"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -2908,6 +4531,21 @@
    ]
   },
   {
+   "id": "7f8851d68e55",
+   "headline": "Keybanc Maintains Overweight on Alignment Healthcare, Lowers Price Target to $12",
+   "summary": "Keybanc analyst Matthew Gillmor maintains Alignment Healthcare (NASDAQ:ALHC) with a Overweight and lowers the price target from $28 to $12.",
+   "url": "https://finnhub.io/api/news?id=fc3bef7883ef694096f4587a9be7210e8095ddf764562ce8080115d281e34e2e",
+   "source": "Benzinga",
+   "published": "2026-10-09T09:04:27+00:00",
+   "tickers": [
+    "ALHC"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "f7c2987e8eda",
    "headline": "Best Growth Stocks to Buy for October 9th",
    "summary": "WOOF, FIVE and OSCR made it to the Zacks Rank #1 (Strong Buy) growth stocks list on October 9th, 2026.",
@@ -2918,6 +4556,21 @@
     "OSCR"
    ],
    "tag": "M&A",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "6806f9d3fd9f",
+   "headline": "This Humana Analyst Turns Bullish; Here Are Top 5 Upgrades For Friday",
+   "summary": "Analysts upgraded Humana, Cboe, Jack Henry, Fastly, raising ratings and targets, including HUM to $596 and CBOE to $358.",
+   "url": "https://finnhub.io/api/news?id=5c05dce0932f537f7771ef0add981c7ff467d92ba9a49900a69ffbd05859376a",
+   "source": "Benzinga",
+   "published": "2026-10-09T08:34:59+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "Analyst",
    "sectors": [
     "payers"
    ]
@@ -2967,6 +4620,52 @@
    "sectors": []
   },
   {
+   "id": "0f0b7982c031",
+   "headline": "Why Is Bruker (BRKR) Getting Attention For Its Human Plasma Proteome Atlas?",
+   "summary": "Bruker (NasdaqGS:BRKR) and Charit\u00e9 have released a draft atlas of the human plasma proteome at proteoform resolution. The project maps more than 179,000 distinct plasma proteoforms, using Bruker's timsTOF mass spectrometry platform as a\u2026",
+   "url": "https://finnhub.io/api/news?id=87eb79f605bb33cbeee250b7bd2f5eae54b233a1a19a6c95d10e1127e76f6826",
+   "source": "Yahoo",
+   "published": "2026-10-09T08:15:52+00:00",
+   "tickers": [
+    "BRKR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "097a6125d65b",
+   "headline": "12 Health Care Stocks Moving In Friday's Pre-Market Session",
+   "summary": "Gainers Humana (NYSE:HUM) stock moved upwards by 16.2% to $450.0 during Friday's pre-market session. The market value of their outstanding shares is at $46.4 billion. XORTX Therapeutics (NASDAQ:XRTX) shares",
+   "url": "https://finnhub.io/api/news?id=cdf863a062aea1491c801100873531d2846bb86cc5045687a32fe1a61b587f14",
+   "source": "Benzinga",
+   "published": "2026-10-09T08:05:40+00:00",
+   "tickers": [
+    "ALHC",
+    "HUM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "380afa2fa4dc",
+   "headline": "Alignment Healthcare, RenX Enterprises And Other Big Stocks Moving Lower In Friday\u2019s Pre-Market Session",
+   "summary": "U.S. futures rose, but Alignment Healthcare plunged 24% after a Medicare contract downgrade; telecom and other stocks also fell premarket.",
+   "url": "https://finnhub.io/api/news?id=f4ce9984f500bca2fec7b0bab81048fd720efc49db5381aebbf2e86c2cf26b2b",
+   "source": "Benzinga",
+   "published": "2026-10-09T08:01:15+00:00",
+   "tickers": [
+    "ALHC"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "2e647a64e7cf",
    "headline": "Suominen\u2019s financial reporting in 2027",
    "summary": "Suominen Corporation\u2019s stock exchange release on October 9, 2026, at 11:00 a.m. (EEST) Suominen Corporation will publish its financial reports in 2027 as follows: March 2, 2027 \u2013 Financial Statements Bulletin for 2026Week commencing April\u2026",
@@ -2982,6 +4681,36 @@
    ]
   },
   {
+   "id": "9550b8f2497a",
+   "headline": "Stifel Maintains Buy on Align Technology, Lowers Price Target to $175",
+   "summary": "Stifel analyst Jonathan Block maintains Align Technology (NASDAQ:ALGN) with a Buy and lowers the price target from $210 to $175.",
+   "url": "https://finnhub.io/api/news?id=fe57226ea8a261b0369c9f50e74a62db22e63416f24f6ff30693ca3960a7be93",
+   "source": "Benzinga",
+   "published": "2026-10-09T07:46:55+00:00",
+   "tickers": [
+    "ALGN"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "3a3dbec5fb5d",
+   "headline": "Humana FY2026 Adj EPS expected to be more than $9.00 vs $9.15 Est",
+   "summary": "Humana (NYSE:HUM) FY2026 expected to be more than $9.00 vs $9.15 Est..",
+   "url": "https://finnhub.io/api/news?id=42f9e1bceebbd0966676fbafd87be687ced840ce5c6d0a016b6395a3dc8adfdf",
+   "source": "Benzinga",
+   "published": "2026-10-09T07:37:28+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "c8c43456d723",
    "headline": "Barclays downgrades 2 European airline stocks into September quarter results",
    "summary": "Investing.com -- Barclays downgraded Ryanair and Norwegian Air Shuttle to Equal Weight from Overweight, saying persistently high fuel prices threaten fourth-quarter and 2027 profits across European airlines.",
@@ -2992,6 +4721,21 @@
     "NVS"
    ],
    "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "749bb8fb50af",
+   "headline": "Pfizer: Previously Bearish, I'm Converting To A Cautious Bull (Rating Upgrade)",
+   "summary": "Pfizer outlook improves beyond COVID as cost cuts target $2.7B by 2029, though patents and pricing pose risks.",
+   "url": "https://finnhub.io/api/news?id=0da536174a6d05ce0f1a81bbb471d82d66a38669eda3ae33afcdd255a4d34d57",
+   "source": "SeekingAlpha",
+   "published": "2026-10-09T07:25:44+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "Analyst",
    "sectors": [
     "pharma"
    ]
@@ -3012,6 +4756,21 @@
    ]
   },
   {
+   "id": "297d1810df12",
+   "headline": "Glaukos Announces Topline Results From Its Phase 4 Trial Evaluating iDose TR With Cataract Surgery In Patients With Open-Angle Glaucoma Or Ocular Hypertension; Study Met Primary Efficacy Endpoint, Demonstrating Statistically Significant Superiority And Clinically Meaningful IOP Reduction Vs Cataract Surgery Alone",
+   "summary": "Glaukos Corporation (NYSE:GKOS), an ophthalmic pharmaceutical and medical technology company focused on novel therapies for the treatment of glaucoma, corneal disorders, and retinal diseases, today announced positive",
+   "url": "https://finnhub.io/api/news?id=194c5ef7e41af835d121c079564de3732eb2697bc89bd06608f31720af5ba9ad",
+   "source": "Benzinga",
+   "published": "2026-10-09T07:06:11+00:00",
+   "tickers": [
+    "GKOS"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "3e873c79ada8",
    "headline": "For the final 10% of cystic fibrosis patients, the breakthrough still hasn't come",
    "summary": "For the final 10% of cystic fibrosis patients who cannot benefit from breakthrough drugs, Emily's Entourage is funding research to find treatments.",
@@ -3027,6 +4786,21 @@
    ]
   },
   {
+   "id": "a6979c4e8439",
+   "headline": "Is Doximity (DOCS) Below Fair Value Following The AI Spending Surge?",
+   "summary": "Doximity (DOCS) caught fresh attention after its shares moved higher on a report showing a jump in infrastructure service spending tied to artificial intelligence, prompting investors to reassess the stock\u2019s AI exposure. Short term\u2026",
+   "url": "https://finnhub.io/api/news?id=5eeeb9b5f3b930fe0221d4d120c031b3fca5483d2e06798bfcb639bff769a1fd",
+   "source": "Yahoo",
+   "published": "2026-10-09T06:14:13+00:00",
+   "tickers": [
+    "DOCS"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "571ee08d2112",
    "headline": "Humana Reaffirms FY26 Adjusted EPS Guidance Of At Least $9; Exceeding Goal Of Top Quartile Results In 2027 Medicare Advantage Star Ratings; Expects 2028 Benefit For One-Time Investments And Return To Shareholders",
    "summary": "Humana affirms its guidance of at least $9.00 in adjusted earnings per common share (\"Adjusted EPS\"), for the year ending December 31, 2026 (\"FY 2026\"). This guidance is consistent with the guidance",
@@ -3035,9 +4809,42 @@
    "published": "2026-10-09T06:11:24+00:00",
    "tickers": [
     "CVS",
-    "OSCR"
+    "HUM",
+    "OSCR",
+    "UNH"
    ],
    "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "60da9590f88a",
+   "headline": "Baird Upgrades Humana to Outperform, Raises Price Target to $596",
+   "summary": "Baird analyst Michael Ha upgrades Humana (NYSE:HUM) from Neutral to Outperform and raises the price target from $390 to $596.",
+   "url": "https://finnhub.io/api/news?id=b26edc221d172062abcc52a8aa13f2d4c705d37d06c3cd17eda88cad349972be",
+   "source": "Benzinga",
+   "published": "2026-10-09T05:19:25+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "04e613b90d3d",
+   "headline": "Why Veea Shares Are Trading Higher By Around 34%; Here Are 20 Stocks Moving Premarket",
+   "summary": "Veea jumps 34% after regaining Nasdaq compliance; Freight Technologies leads gainers, while Alignment Healthcare plunges 24% among premarket losers.",
+   "url": "https://finnhub.io/api/news?id=aba370274d7078cb51e31849577996130a06b21cb5520bf5a1c2579ad8d06a25",
+   "source": "Benzinga",
+   "published": "2026-10-09T04:32:08+00:00",
+   "tickers": [
+    "ALHC",
+    "HUM"
+   ],
+   "tag": "News",
    "sectors": [
     "payers"
    ]
@@ -3058,6 +4865,36 @@
    ]
   },
   {
+   "id": "1d6e2a7b28c5",
+   "headline": "GE HealthCare: M&A And Execution To Drive A Value Re-Rating",
+   "summary": "GE HealthCare is positioned for a valuation re-rating. The SOFIE Biosciences acquisition enhances its precision medicine supply chain. I rate GEHC stock as a buy.",
+   "url": "https://finnhub.io/api/news?id=b603dc6f9cd188e10525007d711c520d7107f6e9e9569bfde008fc3aa191c6bf",
+   "source": "SeekingAlpha",
+   "published": "2026-10-09T02:50:41+00:00",
+   "tickers": [
+    "GEHC"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "4ebd11fa8997",
+   "headline": "What is Illumina\u2019s (ILMN) Economic Moat, and is it Widening or Narrowing?",
+   "summary": "Illumina, Inc. (NASDAQ:ILMN) traded at around $268 on October 7, down 2.11% on the day, though still 183.61% higher over twelve months. Revenue grew 9.40% in the most recent quarter while earnings fell 11.90%. A business selling more and\u2026",
+   "url": "https://finnhub.io/api/news?id=edc14684f3cf0363f36c21c0b418ab18d69707584494fc319896a92daa48f7ad",
+   "source": "Yahoo",
+   "published": "2026-10-09T02:14:54+00:00",
+   "tickers": [
+    "ILMN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "4bff147da58e",
    "headline": "Bristol Myers Squibb vs. Pfizer: Which Healthcare Stock Is a Better Buy in 2026?",
    "summary": "Both face patent cliffs and regulatory headwinds, but their balance sheets and cash generation tell starkly different stories.",
@@ -3066,7 +4903,8 @@
    "published": "2026-10-09T01:03:12+00:00",
    "tickers": [
     "BMY",
-    "JNJ"
+    "JNJ",
+    "PFE"
    ],
    "tag": "Policy",
    "sectors": [
@@ -3082,7 +4920,8 @@
    "published": "2026-10-09T00:36:07+00:00",
    "tickers": [
     "BMY",
-    "JNJ"
+    "JNJ",
+    "PFE"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -3097,7 +4936,9 @@
    "source": "Yahoo",
    "published": "2026-10-09T00:19:25+00:00",
    "tickers": [
-    "BMY"
+    "AMGN",
+    "BMY",
+    "PFE"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -3112,7 +4953,9 @@
    "source": "Yahoo",
    "published": "2026-10-09T00:05:38+00:00",
    "tickers": [
-    "CVS"
+    "ALHC",
+    "CVS",
+    "HUM"
    ],
    "tag": "Analyst",
    "sectors": [
