@@ -1,0 +1,2178 @@
+{
+ "site": "RxBriefing",
+ "updated": "2026-10-11T03:12:14.808820+00:00",
+ "quotes": {},
+ "tickers": {
+  "LLY": {
+   "name": "Eli Lilly",
+   "sector": "pharma"
+  },
+  "NVO": {
+   "name": "Novo Nordisk",
+   "sector": "pharma"
+  },
+  "JNJ": {
+   "name": "Johnson & Johnson",
+   "sector": "pharma"
+  },
+  "PFE": {
+   "name": "Pfizer",
+   "sector": "pharma"
+  },
+  "MRK": {
+   "name": "Merck",
+   "sector": "pharma"
+  },
+  "ABBV": {
+   "name": "AbbVie",
+   "sector": "pharma"
+  },
+  "BMY": {
+   "name": "Bristol Myers Squibb",
+   "sector": "pharma"
+  },
+  "AMGN": {
+   "name": "Amgen",
+   "sector": "pharma"
+  },
+  "GILD": {
+   "name": "Gilead",
+   "sector": "pharma"
+  },
+  "AZN": {
+   "name": "AstraZeneca",
+   "sector": "pharma"
+  },
+  "NVS": {
+   "name": "Novartis",
+   "sector": "pharma"
+  },
+  "GSK": {
+   "name": "GSK",
+   "sector": "pharma"
+  },
+  "SNY": {
+   "name": "Sanofi",
+   "sector": "pharma"
+  },
+  "REGN": {
+   "name": "Regeneron",
+   "sector": "pharma"
+  },
+  "VRTX": {
+   "name": "Vertex",
+   "sector": "pharma"
+  },
+  "BIIB": {
+   "name": "Biogen",
+   "sector": "pharma"
+  },
+  "MRNA": {
+   "name": "Moderna",
+   "sector": "pharma"
+  },
+  "BNTX": {
+   "name": "BioNTech",
+   "sector": "pharma"
+  },
+  "TAK": {
+   "name": "Takeda",
+   "sector": "pharma"
+  },
+  "ZTS": {
+   "name": "Zoetis",
+   "sector": "pharma"
+  },
+  "ALNY": {
+   "name": "Alnylam",
+   "sector": "biotech"
+  },
+  "ARGX": {
+   "name": "argenx",
+   "sector": "biotech"
+  },
+  "BMRN": {
+   "name": "BioMarin",
+   "sector": "biotech"
+  },
+  "INCY": {
+   "name": "Incyte",
+   "sector": "biotech"
+  },
+  "SRPT": {
+   "name": "Sarepta",
+   "sector": "biotech"
+  },
+  "NBIX": {
+   "name": "Neurocrine",
+   "sector": "biotech"
+  },
+  "UTHR": {
+   "name": "United Therapeutics",
+   "sector": "biotech"
+  },
+  "EXEL": {
+   "name": "Exelixis",
+   "sector": "biotech"
+  },
+  "IONS": {
+   "name": "Ionis",
+   "sector": "biotech"
+  },
+  "ACAD": {
+   "name": "Acadia",
+   "sector": "biotech"
+  },
+  "HALO": {
+   "name": "Halozyme",
+   "sector": "biotech"
+  },
+  "INSM": {
+   "name": "Insmed",
+   "sector": "biotech"
+  },
+  "MDGL": {
+   "name": "Madrigal",
+   "sector": "biotech"
+  },
+  "CYTK": {
+   "name": "Cytokinetics",
+   "sector": "biotech"
+  },
+  "ARWR": {
+   "name": "Arrowhead",
+   "sector": "biotech"
+  },
+  "BEAM": {
+   "name": "Beam Therapeutics",
+   "sector": "biotech"
+  },
+  "CRSP": {
+   "name": "CRISPR Therapeutics",
+   "sector": "biotech"
+  },
+  "NTLA": {
+   "name": "Intellia",
+   "sector": "biotech"
+  },
+  "VKTX": {
+   "name": "Viking Therapeutics",
+   "sector": "biotech"
+  },
+  "SMMT": {
+   "name": "Summit Therapeutics",
+   "sector": "biotech"
+  },
+  "RVMD": {
+   "name": "Revolution Medicines",
+   "sector": "biotech"
+  },
+  "KRYS": {
+   "name": "Krystal Biotech",
+   "sector": "biotech"
+  },
+  "APLS": {
+   "name": "Apellis",
+   "sector": "biotech"
+  },
+  "ROIV": {
+   "name": "Roivant",
+   "sector": "biotech"
+  },
+  "LEGN": {
+   "name": "Legend Biotech",
+   "sector": "biotech"
+  },
+  "IMVT": {
+   "name": "Immunovant",
+   "sector": "biotech"
+  },
+  "AXSM": {
+   "name": "Axsome",
+   "sector": "biotech"
+  },
+  "PTCT": {
+   "name": "PTC Therapeutics",
+   "sector": "biotech"
+  },
+  "DNLI": {
+   "name": "Denali",
+   "sector": "biotech"
+  },
+  "RARE": {
+   "name": "Ultragenyx",
+   "sector": "biotech"
+  },
+  "ASND": {
+   "name": "Ascendis",
+   "sector": "biotech"
+  },
+  "BPMC": {
+   "name": "Blueprint Medicines",
+   "sector": "biotech"
+  },
+  "TGTX": {
+   "name": "TG Therapeutics",
+   "sector": "biotech"
+  },
+  "NUVL": {
+   "name": "Nuvalent",
+   "sector": "biotech"
+  },
+  "JAZZ": {
+   "name": "Jazz Pharmaceuticals",
+   "sector": "biotech"
+  },
+  "CLDX": {
+   "name": "Celldex",
+   "sector": "biotech"
+  },
+  "TRXB": {
+   "name": "TRex Bio",
+   "sector": "biotech"
+  },
+  "ALT": {
+   "name": "Altimmune",
+   "sector": "biotech"
+  },
+  "TERN": {
+   "name": "Terns Pharmaceuticals",
+   "sector": "biotech"
+  },
+  "ISRG": {
+   "name": "Intuitive Surgical",
+   "sector": "medtech"
+  },
+  "SYK": {
+   "name": "Stryker",
+   "sector": "medtech"
+  },
+  "MDT": {
+   "name": "Medtronic",
+   "sector": "medtech"
+  },
+  "BSX": {
+   "name": "Boston Scientific",
+   "sector": "medtech"
+  },
+  "ABT": {
+   "name": "Abbott",
+   "sector": "medtech"
+  },
+  "EW": {
+   "name": "Edwards Lifesciences",
+   "sector": "medtech"
+  },
+  "DXCM": {
+   "name": "Dexcom",
+   "sector": "medtech"
+  },
+  "PODD": {
+   "name": "Insulet",
+   "sector": "medtech"
+  },
+  "GEHC": {
+   "name": "GE HealthCare",
+   "sector": "medtech"
+  },
+  "ZBH": {
+   "name": "Zimmer Biomet",
+   "sector": "medtech"
+  },
+  "BDX": {
+   "name": "Becton Dickinson",
+   "sector": "medtech"
+  },
+  "RMD": {
+   "name": "ResMed",
+   "sector": "medtech"
+  },
+  "ALGN": {
+   "name": "Align Technology",
+   "sector": "medtech"
+  },
+  "IDXX": {
+   "name": "IDEXX",
+   "sector": "medtech"
+  },
+  "HOLX": {
+   "name": "Hologic",
+   "sector": "medtech"
+  },
+  "GMED": {
+   "name": "Globus Medical",
+   "sector": "medtech"
+  },
+  "PEN": {
+   "name": "Penumbra",
+   "sector": "medtech"
+  },
+  "IRTC": {
+   "name": "iRhythm",
+   "sector": "medtech"
+  },
+  "TMDX": {
+   "name": "TransMedics",
+   "sector": "medtech"
+  },
+  "IART": {
+   "name": "Integra LifeSciences",
+   "sector": "medtech"
+  },
+  "GKOS": {
+   "name": "Glaukos",
+   "sector": "medtech"
+  },
+  "TMO": {
+   "name": "Thermo Fisher",
+   "sector": "tools"
+  },
+  "DHR": {
+   "name": "Danaher",
+   "sector": "tools"
+  },
+  "A": {
+   "name": "Agilent",
+   "sector": "tools"
+  },
+  "ILMN": {
+   "name": "Illumina",
+   "sector": "tools"
+  },
+  "NTRA": {
+   "name": "Natera",
+   "sector": "tools"
+  },
+  "GH": {
+   "name": "Guardant Health",
+   "sector": "tools"
+  },
+  "EXAS": {
+   "name": "Exact Sciences",
+   "sector": "tools"
+  },
+  "TWST": {
+   "name": "Twist Bioscience",
+   "sector": "tools"
+  },
+  "PACB": {
+   "name": "PacBio",
+   "sector": "tools"
+  },
+  "TXG": {
+   "name": "10x Genomics",
+   "sector": "tools"
+  },
+  "QGEN": {
+   "name": "Qiagen",
+   "sector": "tools"
+  },
+  "BRKR": {
+   "name": "Bruker",
+   "sector": "tools"
+  },
+  "WAT": {
+   "name": "Waters",
+   "sector": "tools"
+  },
+  "RGEN": {
+   "name": "Repligen",
+   "sector": "tools"
+  },
+  "TECH": {
+   "name": "Bio-Techne",
+   "sector": "tools"
+  },
+  "CRL": {
+   "name": "Charles River",
+   "sector": "tools"
+  },
+  "IQV": {
+   "name": "IQVIA",
+   "sector": "tools"
+  },
+  "MEDP": {
+   "name": "Medpace",
+   "sector": "tools"
+  },
+  "ICLR": {
+   "name": "ICON",
+   "sector": "tools"
+  },
+  "UNH": {
+   "name": "UnitedHealth",
+   "sector": "payers"
+  },
+  "ELV": {
+   "name": "Elevance",
+   "sector": "payers"
+  },
+  "CI": {
+   "name": "Cigna",
+   "sector": "payers"
+  },
+  "CVS": {
+   "name": "CVS Health",
+   "sector": "payers"
+  },
+  "HUM": {
+   "name": "Humana",
+   "sector": "payers"
+  },
+  "CNC": {
+   "name": "Centene",
+   "sector": "payers"
+  },
+  "MOH": {
+   "name": "Molina",
+   "sector": "payers"
+  },
+  "OSCR": {
+   "name": "Oscar Health",
+   "sector": "payers"
+  },
+  "ALHC": {
+   "name": "Alignment Healthcare",
+   "sector": "payers"
+  },
+  "CLOV": {
+   "name": "Clover Health",
+   "sector": "payers"
+  },
+  "HCA": {
+   "name": "HCA Healthcare",
+   "sector": "payers"
+  },
+  "THC": {
+   "name": "Tenet",
+   "sector": "payers"
+  },
+  "UHS": {
+   "name": "Universal Health Services",
+   "sector": "payers"
+  },
+  "DVA": {
+   "name": "DaVita",
+   "sector": "payers"
+  },
+  "LH": {
+   "name": "Labcorp",
+   "sector": "payers"
+  },
+  "DGX": {
+   "name": "Quest Diagnostics",
+   "sector": "payers"
+  },
+  "ENSG": {
+   "name": "Ensign Group",
+   "sector": "payers"
+  },
+  "OPCH": {
+   "name": "Option Care Health",
+   "sector": "payers"
+  },
+  "MCK": {
+   "name": "McKesson",
+   "sector": "pharmacy"
+  },
+  "COR": {
+   "name": "Cencora",
+   "sector": "pharmacy"
+  },
+  "CAH": {
+   "name": "Cardinal Health",
+   "sector": "pharmacy"
+  },
+  "HSIC": {
+   "name": "Henry Schein",
+   "sector": "pharmacy"
+  },
+  "GDRX": {
+   "name": "GoodRx",
+   "sector": "pharmacy"
+  },
+  "VEEV": {
+   "name": "Veeva Systems",
+   "sector": "healthit"
+  },
+  "DOCS": {
+   "name": "Doximity",
+   "sector": "healthit"
+  },
+  "HIMS": {
+   "name": "Hims & Hers",
+   "sector": "healthit"
+  },
+  "TEM": {
+   "name": "Tempus AI",
+   "sector": "healthai"
+  },
+  "RXST": {
+   "name": "RxSight",
+   "sector": "medtech"
+  },
+  "SDGR": {
+   "name": "Schrodinger",
+   "sector": "healthai"
+  },
+  "RXRX": {
+   "name": "Recursion",
+   "sector": "healthai"
+  },
+  "ABSI": {
+   "name": "Absci",
+   "sector": "healthai"
+  },
+  "CERT": {
+   "name": "Certara",
+   "sector": "healthai"
+  },
+  "PHR": {
+   "name": "Phreesia",
+   "sector": "healthit"
+  },
+  "HQY": {
+   "name": "HealthEquity",
+   "sector": "healthit"
+  },
+  "EVH": {
+   "name": "Evolent Health",
+   "sector": "healthit"
+  },
+  "PINC": {
+   "name": "Premier",
+   "sector": "healthit"
+  },
+  "TDOC": {
+   "name": "Teladoc",
+   "sector": "healthit"
+  },
+  "AMWL": {
+   "name": "Amwell",
+   "sector": "healthit"
+  },
+  "LFST": {
+   "name": "LifeStance",
+   "sector": "healthit"
+  },
+  "TALK": {
+   "name": "Talkspace",
+   "sector": "healthit"
+  },
+  "OMCL": {
+   "name": "Omnicell",
+   "sector": "healthit"
+  },
+  "WAY": {
+   "name": "Waystar",
+   "sector": "healthit"
+  },
+  "HCAT": {
+   "name": "Health Catalyst",
+   "sector": "healthai"
+  },
+  "DH": {
+   "name": "Definitive Healthcare",
+   "sector": "healthit"
+  },
+  "PRVA": {
+   "name": "Privia Health",
+   "sector": "healthit"
+  },
+  "SOPH": {
+   "name": "SOPHiA Genetics",
+   "sector": "healthai"
+  },
+  "XLV": {
+   "name": "Health Care Select SPDR",
+   "sector": "etf"
+  },
+  "XBI": {
+   "name": "SPDR S&P Biotech",
+   "sector": "etf"
+  },
+  "IBB": {
+   "name": "iShares Biotech",
+   "sector": "etf"
+  },
+  "IHI": {
+   "name": "iShares Medical Devices",
+   "sector": "etf"
+  },
+  "ARKG": {
+   "name": "ARK Genomic Revolution",
+   "sector": "etf"
+  }
+ },
+ "sector_labels": {
+  "pharma": "Pharma",
+  "biotech": "Biotech",
+  "medtech": "Medtech",
+  "tools": "Tools & Dx",
+  "payers": "Payers & Providers",
+  "pharmacy": "Pharmacy & Dist.",
+  "healthit": "Health IT",
+  "healthai": "Health AI",
+  "etf": "ETFs"
+ },
+ "stories": [
+  {
+   "id": "a1eb349dce5c",
+   "headline": "Senators question Kennedy on 'major break' from USPSTF appointment norms",
+   "summary": "The lawmakers expressed concerns over the panel\u2019s ability to make recommendations, the transparency of the application process and more.",
+   "url": "https://www.fiercehealthcare.com/regulatory/senators-express-concerns-over-new-uspstf-appointments-seek-information-rfk-jr",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-11T03:12:13.241871+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "82a1b85c1286",
+   "headline": "Utah expands healthcare AI sandbox with August AI, Nolla Health pilots, adds third-party evaluators",
+   "summary": "Utah is expanding the state's AI regulatory sandbox program with new pilots to test AI-supported prescription renewals, dermatology and physical therapy, while adding physician oversight and independent third-party evaluators.",
+   "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/utah-taps-august-ai-nolla-health-healthcare-ai-sandbox-program-adds-third",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-11T03:12:13.241168+00:00",
+   "tickers": [],
+   "tag": "Policy",
+   "sectors": []
+  },
+  {
+   "id": "66bcb2e965bf",
+   "headline": "General Medicine banks $120M backed by a16z, Eli Lilly and Mercy Health to build out healthcare storefront",
+   "summary": "General Medicine, started by the founding team that built PillPack and Amazon Pharmacy, is an online marketplace where customers can search, compare and buy care, see insurance and cash prices before deciding, and get guidance from a\u2026",
+   "url": "https://www.fiercehealthcare.com/health-tech/general-medicine-banks-120m-backed-a16z-eli-lilly-and-mercy-health",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-11T03:12:13.240414+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "1149a2e4b76e",
+   "headline": "Cigna unveils new customer experience platform, Health Sense",
+   "summary": "Cigna is rolling out a new patient experience platform that aims to harness the power of data to drive greater personalization.",
+   "url": "https://www.fiercehealthcare.com/payers/cigna-unveils-new-customer-experience-platform-health-sense",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-11T03:12:13.239905+00:00",
+   "tickers": [
+    "CI"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "7908936adaac",
+   "headline": "After ICE raids, hospitals saw fewer ED visits, more admissions among foreign-born: study",
+   "summary": "Studies published this week outline changes in care-seeking behavior tied to heightened federal immigration policy and rhetoric, with ramifications for patient outcomes and healthcare spending.",
+   "url": "https://www.fiercehealthcare.com/providers/after-ice-raids-hospitals-saw-fewer-ed-visits-more-admissions-among-foreign-born-study",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-11T03:12:13.239261+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "f48d39b018ba",
+   "headline": "Kaiser Permanente to repay nurses 'potentially tens of millions' in mistakenly withheld wages",
+   "summary": "Following an arbitration agreement, more than 1,000 nurses will be compensated for a payment error that began in 2021, the California Nurses Association said. The major nonprofit confirmed the plans but did not comment on the total amount.",
+   "url": "https://www.fiercehealthcare.com/providers/kaiser-permanente-repay-nurses-potentially-tens-millions-mistakenly-withheld-wages",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-11T03:12:13.238541+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "7be579e8ecca",
+   "headline": "PhRMA launches new legal challenge as CMS brings 'most favored nation' pricing to Medicare Part B",
+   "summary": "As the Trump administration advances plans to bring its \u201cmost favored nation\u201d drug pricing model to Medicare Part B, the pharmaceutical industry\u2019s top lobbying group is pushing back in court.",
+   "url": "https://www.fiercehealthcare.com/pharma/phrma-launches-new-legal-challenge-cms-brings-most-favored-nation-pricing-medicare-part-b",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-11T03:12:13.237857+00:00",
+   "tickers": [],
+   "tag": "Policy",
+   "sectors": []
+  },
+  {
+   "id": "a8ee73d0e6f5",
+   "headline": "Healthleap banks $38M for AI screening platform that catches undiagnosed conditions",
+   "summary": "Healthleap says its platform is the first and only validated AI malnutrition screening tool that contains EHR-integrated screening layers, executives say.",
+   "url": "https://www.fiercehealthcare.com/finance/healthleap-banks-38m-funding-backed-sequoia-capital-first-round-capital-and-hummingbird",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-11T03:12:13.237282+00:00",
+   "tickers": [],
+   "tag": "Health AI",
+   "sectors": []
+  },
+  {
+   "id": "362b5fdee4c4",
+   "headline": "Suki launches \u2018Ask\u2019 feature for clinical decision support driven by Wolters Kluwer UpToDate AI API",
+   "summary": "Ask integrates evidence-based clinical reasoning directly into workflows and can provide answers grounded in UpToDate\u2019s proprietary content.",
+   "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/suki-launches-ask-feature-clinical-decision-support-driven-wolters-kluwer",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-11T03:12:13.236696+00:00",
+   "tickers": [],
+   "tag": "Health AI",
+   "sectors": []
+  },
+  {
+   "id": "94e71ae2762b",
+   "headline": "Fierce Healthcare Fundraising Tracker '26: Outro clinches $7M for deprescribing; Rightway pulls in $155M to expand pharmacy benefits tech",
+   "summary": "Keep up with all the venture capital dollars being funneled into the health tech and digital health industries.",
+   "url": "https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-11T03:12:13.236090+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "b877811122f8",
+   "headline": "'Blue Conspiracy'\u2014Michigan attorney general hits BCBSM with antitrust suit",
+   "summary": "Michigan Attorney General Dana Nessel has filed suit against Blue Cross Blue Shield of Michigan, alleging that the insurer operated as a monopoly in the state.",
+   "url": "https://www.fiercehealthcare.com/payers/michigan-ag-hits-bcbsm-antitrust-suit",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-11T03:12:13.235498+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "1c76bd9fe64f",
+   "headline": "Chutes & Ladders\u2014WellSpan, Beth Israel Lahey unveil next CEOs",
+   "summary": "Welcome to this week's Chutes & Ladders, our roundup of hirings, firings and retirings throughout the industry. Please submit the good news\u2014or the bad\u2014from your shop, and we will feature it here at the end of each week.",
+   "url": "https://www.fiercehealthcare.com/providers/chutes-ladders-2026-hires-departures-firings-retirements-ceo-executives-healthcare",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-11T03:12:13.234807+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "8e0985111175",
+   "headline": "HHS: 340B 'expanded beyond its original intent,' incentivizes consolidation",
+   "summary": "A new brief lays out the administration's views and critiques of the controversial hospital subsidy program, and includes a data analysis suggesting that a proposed reimbursement cut will limit spending growth.",
+   "url": "https://www.fiercehealthcare.com/regulatory/hhs-340b-expanded-beyond-its-original-intent-incentivizes-consolidation",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-11T03:12:13.234149+00:00",
+   "tickers": [],
+   "tag": "Policy",
+   "sectors": []
+  },
+  {
+   "id": "39b7ec1c0f31",
+   "headline": "HHS launches 4 new vaccine injury research, reporting initiatives",
+   "summary": "The U.S. Department of Health and Human Services (HHS) on Thursday announced a series of actions aimed at strengthening the federal government's response to vaccine-related health concerns.",
+   "url": "https://www.fiercehealthcare.com/regulatory/hhs-launches-4-new-vaccine-injury-research-reporting-initiatives",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-11T03:12:13.233549+00:00",
+   "tickers": [],
+   "tag": "Analyst",
+   "sectors": []
+  },
+  {
+   "id": "6f996067c778",
+   "headline": "CMS: About 71% of MAPD plan enrollees in coverage with four or more stars for 2027",
+   "summary": "The Trump administration has released the 2027 Medicare Advantage star ratings, with many enrollees in plans that earned at least four stars.",
+   "url": "https://www.fiercehealthcare.com/payers/cms-about-71-mapd-plan-enrollees-coverage-four-or-more-stars-2027",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-11T03:12:13.232982+00:00",
+   "tickers": [],
+   "tag": "Clinical",
+   "sectors": []
+  },
+  {
+   "id": "ca02f690737a",
+   "headline": "Little room for stakeholder consensus among potential Medicare Advantage reforms",
+   "summary": "A survey of 52 experts spanning researchers, the Medicare Advantage industry, patient advocates and policymakers wasn't able to identify a single policy proposal that would be received wholeheartedly by all three groups.",
+   "url": "https://www.fiercehealthcare.com/regulatory/look-stakeholder-perspectives-medicare-advantage-reform",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-11T03:12:13.232316+00:00",
+   "tickers": [],
+   "tag": "Policy",
+   "sectors": []
+  },
+  {
+   "id": "a6b1e84b9134",
+   "headline": "Urban hospitals face closure rates similar to rural facilities, study finds",
+   "summary": "There were 432 acute hospital closures and 216 openings across the country from 2010 through 2025, with the former accelerating over time and the latter slowing, according to a new study. Closure rates were statistically similar between\u2026",
+   "url": "https://www.fiercehealthcare.com/providers/hospital-closures-accelerated-2010-rates-similar-among-rural-urban-facilities",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-11T03:12:13.231599+00:00",
+   "tickers": [],
+   "tag": "Analyst",
+   "sectors": []
+  },
+  {
+   "id": "560eaf76c10f",
+   "headline": "Humana rebounds, Aetna slips: Winners and losers in the 2027 MA star ratings",
+   "summary": "Federal regulators released the hotly anticipated star ratings for the 2027 Medicare Advantage plan year, and winners and losers emerged in the data.",
+   "url": "https://www.fiercehealthcare.com/payers/humana-rebounds-aetna-slips-winners-and-losers-2027-ma-star-ratings",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-11T03:12:13.231029+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "135defc7c0ac",
+   "headline": "Hospital industry sues to block HHS' 340B rebate pilot (again)",
+   "summary": "The American Hospital Association and others have launched a legal rematch with the federal government over the second iteration of a pilot program swapping out safety-net hospitals\u2019 upfront drug discounts for after-the-fact rebates.",
+   "url": "https://www.fiercehealthcare.com/providers/hospital-industry-files-lawsuit-block-hhs-340b-rebate-pilot-again",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-11T03:12:13.230328+00:00",
+   "tickers": [],
+   "tag": "Policy",
+   "sectors": []
+  },
+  {
+   "id": "683d574aabbb",
+   "headline": "Abridge, University of Texas System enter enterprise-wide agreement for expanded AI-enabled care",
+   "summary": "The partnership establishes a systemwide framework for the eight UT health institutions to access Abridge.",
+   "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/abridge-university-texas-system-enter-enterprise-wide-agreement-expanded-ai",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-11T03:12:13.229811+00:00",
+   "tickers": [],
+   "tag": "Health AI",
+   "sectors": []
+  },
+  {
+   "id": "9f79860ff66c",
+   "headline": "Weekly Rundown: Nextech taps Assort Health, EliseAI for agentic AI; Elsevier rolls out clinical AI tool for nurses",
+   "summary": "The latest news from Nextech, Assort Health, EliseAI, Elsevier, Arcadia, Solera Health and more.",
+   "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-hhs-awards-15m-ai-projects-arcadia-launches-portfolio-solutions",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-11T03:12:13.229273+00:00",
+   "tickers": [],
+   "tag": "Health AI",
+   "sectors": []
+  },
+  {
+   "id": "40485064a721",
+   "headline": "Fierce Healthcare Regulatory Recap: CMS releases 2027 MA star ratings; HHS awards $28M for falls prevention",
+   "summary": "The latest news from CMS, HHS and more across Washington, D.C.",
+   "url": "https://www.fiercehealthcare.com/regulatory/fierce-healthcare-regulatory-recap-cms-releases-2027-ma-star-ratings-hhs-launches",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-11T03:12:13.228804+00:00",
+   "tickers": [],
+   "tag": "Analyst",
+   "sectors": []
+  },
+  {
+   "id": "d8874697108b",
+   "headline": "Industry Voices\u2014Why health system CFOs can't budget their way out of coverage disruption",
+   "summary": "Semi-annual redeterminations and work requirements will test payer-mix assumptions across the industry over the next two years. Now is the time for health systems to prepare, writes Ensemble SVP Matthew Ennen.",
+   "url": "https://www.fiercehealthcare.com/finance/industry-voices-why-health-system-cfos-cant-budget-their-way-out-coverage-disruption",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-11T03:12:13.228111+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "a2b4c9333823",
+   "headline": "Oracle Health data breach in 2025 compromised data of 20M people: report",
+   "summary": "In a report issued October 2, the Texas attorney general said the company disclosed that Social Security numbers, addresses and medical information of almost 20 million people, including about 3 million Texans, Bloomberg reported.",
+   "url": "https://www.fiercehealthcare.com/health-tech/oracle-health-data-breach-2025-compromised-data-20m-people-report",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-11T03:12:13.227429+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "6c0e3876acad",
+   "headline": "Rep. Pallone introduces bill replacing No Surprises Act's arbitration process",
+   "summary": "One of the No Surprises Act\u2019s chief authors wants to replace the \"broken\" system for settling out-of-network pay disputes with market-based benchmarks.",
+   "url": "https://www.fiercehealthcare.com/regulatory/rep-pallone-introduces-bill-replacing-no-surprises-acts-arbitration-process",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-11T03:12:13.226819+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "367d4641c603",
+   "headline": "Scaling psychedelics comes with uncertainty \u2018baked into the sauce\u2019",
+   "summary": "The possibility of psychedelic therapies for PTSD or treatment-resistant depression in the U.S. has never been greater. But even as the industry inches closer to an FDA go-ahead, the realities of approved psychedelic medicine are far from\u2026",
+   "url": "https://www.fiercepharma.com/pharma/psychedelics-scale-uncertainty-baked-sauce-developers-experts-opine",
+   "source": "Fierce Pharma",
+   "published": "2026-10-11T03:12:13.020820+00:00",
+   "tickers": [],
+   "tag": "FDA",
+   "sectors": []
+  },
+  {
+   "id": "f9406352900b",
+   "headline": "How drugmakers are tapping into the GLP-1 frenzy's unprecedented 'consumer overlay'",
+   "summary": "With the advent of powerful GLP-1 medications from Novo and Eli Lilly, the conversation about obesity as a chronic disease has begun to shift, along with the understanding of how tackling weight can trigger a multitude of downstream\u2026",
+   "url": "https://www.fiercepharma.com/pharma/how-drugmakers-are-tapping-glp-1-frenzys-unprecedented-consumer-overlay",
+   "source": "Fierce Pharma",
+   "published": "2026-10-11T03:12:13.020095+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "a8cb38113e43",
+   "headline": "New API Innovation Center index spotlights supply chain stress points",
+   "summary": "The National Fragility Index, launched by the API Innovation Center, warned that more than 550 million prescriptions filled in the U.S. in 2023 were categorized as being highly or severely vulnerable to supply chain interruptions.",
+   "url": "https://www.fiercepharma.com/manufacturing/national-fragility-index-spotlights-prescriptions-vulnerable-supply-chain-problems",
+   "source": "Fierce Pharma",
+   "published": "2026-10-11T03:12:13.019435+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "4d6c9f41f87d",
+   "headline": "Halozyme stymies subcutaneous Keytruda launch in select European countries as Merck vows to fight patent claims",
+   "summary": "After facing a setback in Germany late last year, Merck & Co.\u2019s European marketing plans for its below-the-skin Keytruda SC are growing more complicated.",
+   "url": "https://www.fiercepharma.com/pharma/halozyme-stymies-subq-keytruda-launch-select-european-countries-merck-vows-fight-patent",
+   "source": "Fierce Pharma",
+   "published": "2026-10-11T03:12:13.018797+00:00",
+   "tickers": [
+    "MRK",
+    "HALO"
+   ],
+   "tag": "Legal",
+   "sectors": [
+    "biotech",
+    "pharma"
+   ]
+  },
+  {
+   "id": "268e45896d8a",
+   "headline": "Novartis' Rhapsido tackles 2 most common forms of chronic hives with swift FDA expansion",
+   "summary": "A little over a year after landing its flagship approval in chronic hives, Novartis\u2019 oral BTK inhibitor Rhapsido is expanding its reach with a new FDA nod that comes with a notable \u2018first\u2019 for the field.",
+   "url": "https://www.fiercepharma.com/pharma/novartis-rhapsido-tackles-2-most-common-forms-chronic-swift-fda-expansion",
+   "source": "Fierce Pharma",
+   "published": "2026-10-11T03:12:13.018106+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "7c34e2be24d4",
+   "headline": "Sanofi drafts NY Knicks star Karl-Anthony Towns for COVID, Nuvaxovid awareness push",
+   "summary": "New York Knicks champ Karl-Anthony Towns is sharing his personal experience with COVID to encourage others to talk with their doctors about vaccination options.",
+   "url": "https://www.fiercepharma.com/marketing/sanofi-drafts-ny-knicks-star-karl-anthony-towns-covid-nuvaxovid-awareness-push",
+   "source": "Fierce Pharma",
+   "published": "2026-10-11T03:12:13.017524+00:00",
+   "tickers": [
+    "SNY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "1848c39accea",
+   "headline": "PhRMA launches new legal challenge as CMS brings 'most favored nation' pricing to Medicare Part B",
+   "summary": "As the Trump administration advances plans to bring its \u201cmost favored nation\u201d drug pricing model to Medicare Part B, the pharmaceutical industry\u2019s top lobbying group is pushing back in court.",
+   "url": "https://www.fiercepharma.com/pharma/phrma-launches-new-legal-challenge-cms-brings-most-favored-nation-pricing-medicare-part-b",
+   "source": "Fierce Pharma",
+   "published": "2026-10-11T03:12:13.016845+00:00",
+   "tickers": [],
+   "tag": "Policy",
+   "sectors": []
+  },
+  {
+   "id": "d5e53c368476",
+   "headline": "Theramex pays up to $250M for Asieris' novel cervical lesion treatment",
+   "summary": "Should an EU approval go through, the deal allows Asieris to piggyback its global expansion on Theramex\u2019s established women\u2019s health infrastructure across Europe.",
+   "url": "https://www.fiercepharma.com/pharma/theramex-pays-250m-rights-asieris-first-kind-cervical-lesion-treatment",
+   "source": "Fierce Pharma",
+   "published": "2026-10-11T03:12:13.016250+00:00",
+   "tickers": [],
+   "tag": "FDA",
+   "sectors": []
+  },
+  {
+   "id": "a85217937561",
+   "headline": "Melissa explains it all in menopause team up with Bayer",
+   "summary": "Bayer is teaming up with American actress and director Melissa Joan Hart to boost awareness about hot flashes treatment Lynkuet by tapping her personal experiences.",
+   "url": "https://www.fiercepharma.com/marketing/melissa-explains-it-all-menopause-team-bayer",
+   "source": "Fierce Pharma",
+   "published": "2026-10-11T03:12:13.015708+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "8df7aa9b190e",
+   "headline": "CSL Seqirus blasted for \u2018multiple and prolonged deficiencies\u2019",
+   "summary": "A U.K. drug marketing watchdog has slammed CSL Seqirus for \u201cmultiple and prolonged deficiencies\u201d in its systems, governance and oversight.",
+   "url": "https://www.fiercepharma.com/marketing/csl-seqirus-blasted-multiple-and-prolonged-deficiencies",
+   "source": "Fierce Pharma",
+   "published": "2026-10-11T03:12:13.015170+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "4887bbbea72e",
+   "headline": "Argenx walks away from Vyvgart Sj\u00f6gren's disease trial after futility flag",
+   "summary": "Just shy of two months after teeing up its FcRn blocker Vyvgart Hytrulo for entry into another potential immunology niche, argenx has stumbled in a late-stage trial testing the drug against a separate target.",
+   "url": "https://www.fiercepharma.com/pharma/argenx-walks-away-vyvgart-sjogrens-disease-trial-after-futility-flag",
+   "source": "Fierce Pharma",
+   "published": "2026-10-11T03:12:13.014532+00:00",
+   "tickers": [
+    "ARGX"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "40af162d8945",
+   "headline": "Viatris to snap up Pacira's non-opioid pain pipeline for $1.65B",
+   "summary": "In a push to up its investments in patent-protected medicines, Viatris is set to acquire Pacira BioSciences, including two high-margin non-opioid pain therapies.",
+   "url": "https://www.fiercepharma.com/pharma/viatris-buyout-paciras-pain-pipeline-165b",
+   "source": "Fierce Pharma",
+   "published": "2026-10-11T03:12:13.013965+00:00",
+   "tickers": [],
+   "tag": "M&A",
+   "sectors": []
+  },
+  {
+   "id": "6b49cc18975e",
+   "headline": "Pfizer's Tukysa snags first-line approval in HER2+ breast cancer maintenance",
+   "summary": "Pfizer bagged a coveted first-line maintenance approval for Tukysa. In combination with HER2 antibody drugs, the treatment can significantly delay disease progression for patients with advanced breast cancer.",
+   "url": "https://www.fiercepharma.com/pharma/pfizers-tukysa-snags-first-line-approval-her2-breast-cancer",
+   "source": "Fierce Pharma",
+   "published": "2026-10-11T03:12:13.013322+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "5e3982af61e4",
+   "headline": "BMS fills out Zenbexus picture with post-approval PFS victory in multiple myeloma",
+   "summary": "BMS has put up the progression-free survival numbers on its recently approved Zenbexus regimen, more than doubling the score over a control cocktail of daratumumab, bortezomib and dexamethasone.",
+   "url": "https://www.fiercepharma.com/pharma/bms-fills-out-zenbexus-picture-post-approval-pfs-victory-multiple-myeloma",
+   "source": "Fierce Pharma",
+   "published": "2026-10-11T03:12:13.012694+00:00",
+   "tickers": [],
+   "tag": "FDA",
+   "sectors": []
+  },
+  {
+   "id": "ead21c2b42c5",
+   "headline": "HHS launches 4 new vaccine injury research, reporting initiatives",
+   "summary": "The U.S. Department of Health and Human Services (HHS) on Thursday announced a series of actions aimed at strengthening the federal government's response to vaccine-related health concerns.",
+   "url": "https://www.fiercepharma.com/regulatory/hhs-launches-4-new-vaccine-injury-research-reporting-initiatives",
+   "source": "Fierce Pharma",
+   "published": "2026-10-11T03:12:13.012089+00:00",
+   "tickers": [],
+   "tag": "Analyst",
+   "sectors": []
+  },
+  {
+   "id": "87ad4068ab92",
+   "headline": "Pharma\u2019s free lunches for clinicians bloat prescription bills: Cochrane review",
+   "summary": "Promotional interactions between clinicians and pharmaceutical companies are probably associated with harmful outcomes, according to a Cochrane review that assessed free meals, ads and other dealings.",
+   "url": "https://www.fiercepharma.com/marketing/pharmas-free-lunches-clinicians-bloat-prescription-bills-cochrane-review",
+   "source": "Fierce Pharma",
+   "published": "2026-10-11T03:12:13.011446+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "1d170a49dad8",
+   "headline": "Fierce Pharma Asia\u2014Novartis\u2019 $7.8B mRNA deal; Shionogi\u2019s $2B buy; ArriVent\u2019s phase 3 flop",
+   "summary": "Novartis bought an mRNA-coded autoimmune T-cell engager candidate for up to $7.8 billion, as Shionogi offered $2 billion to acquire rare disease drugmaker IntraBio. ArriVent's EGFR inhibitor flunked a first-line phase 3 test in lung\u2026",
+   "url": "https://www.fiercepharma.com/pharma/novartis-78b-mrna-deal-shionogi-2b-buy-arrivent-phase-3-flop",
+   "source": "Fierce Pharma",
+   "published": "2026-10-11T03:12:13.010698+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "8976864cab70",
+   "headline": "Teva debuts Weltruza in schizophrenia as much-hyped FDA nod for long-acting olanzapine arrives",
+   "summary": "With a Friday go-ahead from the FDA, another key piece of Teva\u2019s innovation revamp strategy has fallen into place, further bolstering the drugmaker\u2019s footing in schizophrenia.",
+   "url": "https://www.fiercepharma.com/pharma/teva-debuts-weltruza-schizophrenia-much-hyped-fda-nod-long-acting-olanzapine-arrives",
+   "source": "Fierce Pharma",
+   "published": "2026-10-11T03:12:13.010044+00:00",
+   "tickers": [],
+   "tag": "FDA",
+   "sectors": []
+  },
+  {
+   "id": "d8edc0b0f4ba",
+   "headline": "Quince relaunches as IRulya, going all in on lung disease after Hail Mary merger",
+   "summary": "To close the book on a tumultuous year, San Francisco's Quince will now operate under the name IRulya Therapeutics, becoming laser-focused on advancing LAM-001, an investigational inhaled formulation of rapamycin being tested in multiple\u2026",
+   "url": "https://www.fiercepharma.com/pharma/quince-relaunches-irulya-going-all-lung-disease-after-hail-mary-merger",
+   "source": "Fierce Pharma",
+   "published": "2026-10-11T03:12:13.009313+00:00",
+   "tickers": [],
+   "tag": "M&A",
+   "sectors": []
+  },
+  {
+   "id": "08373ac688b3",
+   "headline": "Hospital industry sues to block HHS' 340B rebate pilot (again)",
+   "summary": "The American Hospital Association and others have launched a legal rematch with the federal government over the second iteration of a pilot program swapping out safety-net hospitals\u2019 upfront drug discounts for after-the-fact rebates.",
+   "url": "https://www.fiercepharma.com/providers/hospital-industry-files-lawsuit-block-hhs-340b-rebate-pilot-again",
+   "source": "Fierce Pharma",
+   "published": "2026-10-11T03:12:13.008629+00:00",
+   "tickers": [],
+   "tag": "Policy",
+   "sectors": []
+  },
+  {
+   "id": "683da01937d8",
+   "headline": "FDA\u2019s Rasonque review documents pressure RevMed as investors jitter over KRAS subgroup data",
+   "summary": "Revolution Medicines\u2019 stock slid Thursday after newly released FDA review documents sparked investor unease around Rasonque\u2019s market position in a key KRAS subgroup.",
+   "url": "https://www.fiercepharma.com/pharma/fda-rasonque-review-documents-pressure-revmed-investors-jitter-over-kras-subgroup-data",
+   "source": "Fierce Pharma",
+   "published": "2026-10-11T03:12:13.008008+00:00",
+   "tickers": [
+    "RVMD"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "12f3086c234c",
+   "headline": "The Oral GLP-1 Tracker: Prescriptions edge down for Novo, Lilly",
+   "summary": "Fierce Pharma is launching the weekly Oral GLP-1 Tracker, leveraging analysts\u2019 notes and IQVIA data to monitor prescription trends and shifting market shares as Novo Nordisk's Wegovy pill and Eli Lilly's Foundayo vie to become the go-to\u2026",
+   "url": "https://www.fiercepharma.com/pharma/oral-glp-1-tracker-launch-trajectories-lilly-foundayo-novo-wegovy-pill",
+   "source": "Fierce Pharma",
+   "published": "2026-10-11T03:12:13.007306+00:00",
+   "tickers": [
+    "LLY",
+    "NVO",
+    "IQV"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma",
+    "tools"
+   ]
+  },
+  {
+   "id": "31ea1caa5157",
+   "headline": "Regulatory tracker: FDA clears Tecentriq in colon cancer; Ixchiq axed in UK",
+   "summary": "In this tracker, Fierce Pharma is recording the regulatory progress of in-market products, including expansions into key geographies and new indications. Some of these updates may not meet the bar for standalone stories, but we think they\u2026",
+   "url": "https://www.fiercepharma.com/pharma/fierce-pharma-regulatory-tracker-2026-h2",
+   "source": "Fierce Pharma",
+   "published": "2026-10-11T03:12:13.006588+00:00",
+   "tickers": [],
+   "tag": "FDA",
+   "sectors": []
+  },
+  {
+   "id": "fb4189d58bf6",
+   "headline": "GSK commits $800M to R&D, manufacturing hub, as Pennsylvania bonds deepen",
+   "summary": "As GSK works on a nearly $1 billion expansion at one wing of its Pennsylvania operations, the U.K.-headquartered Big Pharma is unveiling a similarly sized outlay to soup up another site across the state.",
+   "url": "https://www.fiercepharma.com/pharma/gsk-commits-800m-rd-manufacturing-hub-pennsylvania-bonds-deepen",
+   "source": "Fierce Pharma",
+   "published": "2026-10-11T03:12:13.005943+00:00",
+   "tickers": [
+    "GSK"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "98e02a1602ab",
+   "headline": "Arcutis' Zoryve sticks the landing with gymnast Simone Biles in new awareness campaign",
+   "summary": "World Champion gymnast Simone Biles is a Zoryve user herself, advocating for long-term treatment for conditions such as seborrheic dermatitis and atopic dermatitis.",
+   "url": "https://www.fiercepharma.com/pharma/arcutis-zoryve-sticks-landing-gymnast-simone-biles-joining-new-awareness-campaign",
+   "source": "Fierce Pharma",
+   "published": "2026-10-11T03:12:13.005327+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "8a8d63acaf46",
+   "headline": "Big Pharma-backed Nuvig halts development of lead fusion protein in rare autoimmune disease",
+   "summary": "Big Pharma-backed Nuvig Therapeutics has halted one of the two trials for its sole clinical asset after determining the program wouldn\u2019t be able to advance quickly enough.",
+   "url": "https://www.fiercebiotech.com/biotech/big-pharma-backed-nuvig-halts-development-lead-fusion-protein-rare-autoimmune-disease",
+   "source": "Fierce Biotech",
+   "published": "2026-10-11T03:12:12.785649+00:00",
+   "tickers": [],
+   "tag": "Clinical",
+   "sectors": []
+  },
+  {
+   "id": "e41227b48c53",
+   "headline": "Stryker strikes up a new CEO in Spencer Stiles as Kevin Lobo moves upstairs",
+   "summary": "Stryker veteran Spencer Stiles will take up the chief executive role as its former CEO Kevin Lobo will move into the boardroom.",
+   "url": "https://www.fiercebiotech.com/medtech/stryker-strikes-new-ceo-spencer-stiles-kevin-lobo-moves-upstairs",
+   "source": "Fierce Biotech",
+   "published": "2026-10-11T03:12:12.785117+00:00",
+   "tickers": [
+    "SYK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "3ee93bc2d6e1",
+   "headline": "CAR-T biotech Caribou makes \u2018heartbreaking\u2019 call to shrink headcount, halt pipeline",
+   "summary": "The Bay Area biotech is discontinuing all clinical development activities and implementing a \"substantial reduction in workforce.\"",
+   "url": "https://www.fiercebiotech.com/biotech/caribou-cuts-staff-halts-pipeline-board-explores-potential-paths-car-t-candidates",
+   "source": "Fierce Biotech",
+   "published": "2026-10-11T03:12:12.784564+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "a55dbc0fea09",
+   "headline": "Fierce Biotech Fundraising Tracker '26: Matchpoint makes $150M; KymaThera corrals $80M",
+   "summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs.",
+   "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
+   "source": "Fierce Biotech",
+   "published": "2026-10-11T03:12:12.784037+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "a5d47e129313",
+   "headline": "MimiVax\u2019s cancer vaccine fails phase 2 glioblastoma study, but CEO still sees data as \u2018inspiring\u2019",
+   "summary": "MimiVax has reports a phase 2b miss in newly diagnosed glioblastoma patients, but remains positive about a significant survival benefit in a subset of patients 65 years and under.",
+   "url": "https://www.fiercebiotech.com/biotech/mimivaxs-ph-2-glioblastoma-vaccine-trial-misses-primary-endpoint-gleams-hope-subset-newly",
+   "source": "Fierce Biotech",
+   "published": "2026-10-11T03:12:12.783369+00:00",
+   "tickers": [],
+   "tag": "Clinical",
+   "sectors": []
+  },
+  {
+   "id": "1795501d3615",
+   "headline": "Matchpoint nets $150M series B to take covalent med into clinic",
+   "summary": "Matchpoint Therapeutics has aced its series B round, serving up $150 million to advance the Sanofi-backed biotech\u2019s pipeline of precision covalent medicines.",
+   "url": "https://www.fiercebiotech.com/biotech/matchpoint-nets-150m-series-b-take-covalent-med-clinic",
+   "source": "Fierce Biotech",
+   "published": "2026-10-11T03:12:12.782796+00:00",
+   "tickers": [
+    "SNY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "d49f1c967d79",
+   "headline": "Atsena\u2019s Lighthouse gene therapy readout illuminates eye disease efficacy",
+   "summary": "Atsena Therapeutics has reported evidence of efficacy in a clinical trial of an eye disease gene therapy, encouraging the biotech to forge ahead with a study that could support a filing for approval in 2028.",
+   "url": "https://www.fiercebiotech.com/biotech/atsenas-lighthouse-gene-therapy-readout-illuminates-eye-disease-efficacy",
+   "source": "Fierce Biotech",
+   "published": "2026-10-11T03:12:12.782132+00:00",
+   "tickers": [],
+   "tag": "FDA",
+   "sectors": []
+  },
+  {
+   "id": "eb36bddaf2de",
+   "headline": "Cerevance rescues its Parkinson's drug with phase 3 win",
+   "summary": "Cerevance's oral non-dopaminergic therapy has redeemed itself by improving both motor and non-motor symptoms in a phase 3 Parkinson's disease study.",
+   "url": "https://www.fiercebiotech.com/biotech/cerevance-rescues-its-parkinsons-drug-phase-3-win",
+   "source": "Fierce Biotech",
+   "published": "2026-10-11T03:12:12.781601+00:00",
+   "tickers": [],
+   "tag": "Clinical",
+   "sectors": []
+  },
+  {
+   "id": "e6033d22e449",
+   "headline": "TCGX launches $600M fund to bankroll Asian biotechs",
+   "summary": "Investment firm TCGX is expanding in Asia, raising $600 million to funnel into biotechs emerging from a burgeoning drug discovery hotspot.",
+   "url": "https://www.fiercebiotech.com/biotech/tcgx-launches-600m-fund-bankroll-asian-biotechs",
+   "source": "Fierce Biotech",
+   "published": "2026-10-11T03:12:12.781088+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "1d3ecded564b",
+   "headline": "ARPA-H unveils Surpass program to accelerate and expand clinical trials",
+   "summary": "The U.S. Department of Health and Human Services announced the launch of a new program aimed at removing barriers that slow clinical development and transforming how clinical trials are designed and conducted.",
+   "url": "https://www.fiercebiotech.com/cro/arpa-h-unveils-surpass-program-accelerate-and-expand-clinical-trials",
+   "source": "Fierce Biotech",
+   "published": "2026-10-11T03:12:12.780454+00:00",
+   "tickers": [],
+   "tag": "Clinical",
+   "sectors": []
+  },
+  {
+   "id": "5acc421dca2c",
+   "headline": "Fierce Biotech Layoff Tracker 2026: Caribou cuts staff, halts pipeline; Foghorn reduces workforce by 40%",
+   "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
+   "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+   "source": "Fierce Biotech",
+   "published": "2026-10-11T03:12:12.779898+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "75e951ce381f",
+   "headline": "Cadrenal launches strategic review for late-stage cardiology pipeline",
+   "summary": "Cadrenal Therapeutics, a heart-focused biotech that recently reached an agreement with the FDA on the design of a pivotal trial for its lead candidate, is now instead looking to offload its pipeline or potentially the entire company.",
+   "url": "https://www.fiercebiotech.com/biotech/cadrenal-launches-strategic-review-late-stage-cardiology-pipeline",
+   "source": "Fierce Biotech",
+   "published": "2026-10-11T03:12:12.779221+00:00",
+   "tickers": [],
+   "tag": "FDA",
+   "sectors": []
+  },
+  {
+   "id": "87764a90ed44",
+   "headline": "Argenx digests phase 2 celiac win for $2.2B drug, preps pivotal run",
+   "summary": "A phase 2 celiac disease trial of argenx\u2019s FB102 has hit its primary endpoint, delivering a boost to a drug candidate that the biotech acquired in its $2.2 billion takeover of Forte Biosciences.",
+   "url": "https://www.fiercebiotech.com/biotech/argenx-digests-phase-2-celiac-win-22b-drug-preps-pivotal-run",
+   "source": "Fierce Biotech",
+   "published": "2026-10-11T03:12:12.778579+00:00",
+   "tickers": [
+    "ARGX"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "04b75f59cc96",
+   "headline": "Zealand, Roche\u2019s \u2018intriguing\u2019 weight loss for amylin drug soured by blood sugar data",
+   "summary": "Zealand Pharma has reported more phase 2 data on its Roche-partnered amylin analog, linking the drug candidate to competitive weight loss but a lackluster effect on blood sugar.",
+   "url": "https://www.fiercebiotech.com/biotech/zealand-roches-intriguing-weight-loss-soured-blood-sugar-data",
+   "source": "Fierce Biotech",
+   "published": "2026-10-11T03:12:12.777932+00:00",
+   "tickers": [],
+   "tag": "GLP-1",
+   "sectors": []
+  },
+  {
+   "id": "eff38fd67eba",
+   "headline": "Ono pays $80M for regional rights to trio of Biohaven IgG degraders, including phase 3 Grave\u2019s asset",
+   "summary": "Japan\u2019s Ono Pharmaceutical is paying $80 million upfront for the regional rights to a trio of Biohaven\u2019s IgG degraders, led by a phase 3-stage Grave\u2019s disease prospect.",
+   "url": "https://www.fiercebiotech.com/biotech/ono-pays-80m-regional-rights-trio-biohaven-igg-degraders-including-phase-3-graves-asset",
+   "source": "Fierce Biotech",
+   "published": "2026-10-11T03:12:12.777267+00:00",
+   "tickers": [],
+   "tag": "Clinical",
+   "sectors": []
+  },
+  {
+   "id": "c689255b6f4b",
+   "headline": "\u2018It\u2019s just survival now\u2019: Why is almost a third of Boston\u2019s life sciences lab space sitting vacant?",
+   "summary": "Vacancy rates for lab and manufacturing spaces in Massachusetts increased 11-fold to 31% between 2021 and 2026. So what's gone wrong?",
+   "url": "https://www.fiercebiotech.com/biotech/its-just-survival-now-why-third-bostons-lab-space-vacant",
+   "source": "Fierce Biotech",
+   "published": "2026-10-11T03:12:12.776663+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "696eef25f896",
+   "headline": "AI biotech Iambic aims for $135M IPO to push cancer drugs through clinic",
+   "summary": "Iambic Therapeutics is aiming to raise $135 million in net proceeds from an IPO as the AI biotech looks to fund the clinical development of its lead cancer drug.",
+   "url": "https://www.fiercebiotech.com/biotech/ai-biotech-iambic-aims-135m-ipo-push-cancer-drugs-through-clinic",
+   "source": "Fierce Biotech",
+   "published": "2026-10-11T03:12:12.776077+00:00",
+   "tickers": [],
+   "tag": "Financing",
+   "sectors": []
+  },
+  {
+   "id": "206b6174f61c",
+   "headline": "Endeavor\u2019s threat to IPF incumbents increases after phase 2 win for Hedgehog inhibitor",
+   "summary": "Endeavor BioMedicines solidified its potential threat to Big Pharma with a phase 2b readout suggesting its Hedgehog inhibitor could become the first drug to reduce lung fibrosis while increasing total lung capacity.",
+   "url": "https://www.fiercebiotech.com/biotech/endeavors-threat-ipf-incumbents-increases-after-phase-2-win-hedgehog-inhibitor",
+   "source": "Fierce Biotech",
+   "published": "2026-10-11T03:12:12.775395+00:00",
+   "tickers": [],
+   "tag": "Clinical",
+   "sectors": []
+  },
+  {
+   "id": "77455f02ea99",
+   "headline": "Lilly-backed TRex rakes in $117M IPO, while hypertension biotech Retension reveals $45M listing",
+   "summary": "Eli Lilly-backed TRex Bio and hypertension-focused Retension Pharmaceuticals brought in $116.7 million and $45 million from their respective IPOs, continuing a bumper year for biotech listings.",
+   "url": "https://www.fiercebiotech.com/biotech/lilly-backed-trex-rakes-117m-ipo-while-retension-reveals-45m-listing",
+   "source": "Fierce Biotech",
+   "published": "2026-10-11T03:12:12.774742+00:00",
+   "tickers": [
+    "LLY",
+    "TRXB"
+   ],
+   "tag": "Financing",
+   "sectors": [
+    "biotech",
+    "pharma"
+   ]
+  },
+  {
+   "id": "b8119d85dfdd",
+   "headline": "How we picked the Fierce 15",
+   "summary": "What does it mean to be a Fierce 15 biotech in 2026? With this year\u2019s list unveiled, the Fierce Biotech team gets together to discuss what the winners tell us about the state of the sector.",
+   "url": "https://www.fiercebiotech.com/biotech/how-we-picked-fierce-15",
+   "source": "Fierce Biotech",
+   "published": "2026-10-11T03:12:12.774161+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "3aabe472ab7d",
+   "headline": "Chutes & Ladders\u2014Vir looks to Liu to lead late-stage push",
+   "summary": "As Vir pushes its lead hepatitis D combo through phase 3 development, the biotech has tapped an experienced medical expert to light the way. David Liu, M.D., Ph.D., is now Vir\u2019s chief medical officer, after most recently serving in the\u2026",
+   "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-vir-looks-liu-lead-late-stage-push",
+   "source": "Fierce Biotech",
+   "published": "2026-10-11T03:12:12.773466+00:00",
+   "tickers": [],
+   "tag": "Clinical",
+   "sectors": []
+  },
+  {
+   "id": "a2a8e07c7fbc",
+   "headline": "\u2018We\u2019re making a lot of progress\u2019: How Nobel-winning optogenetics is being harnessed by biotechs",
+   "summary": "As a notorious night owl, it was already very early in the morning of October 5 when Karl Deisseroth, M.D., Ph.D., finally laid down to get some shuteye. Not long after, the phone of the Stanford psychiatrist and bioengineer lit up with\u2026",
+   "url": "https://www.fiercebiotech.com/biotech/how-nobel-winning-optogenetics-went-pond-potential-treatments-vision-loss-and-schizophrenia",
+   "source": "Fierce Biotech",
+   "published": "2026-10-11T03:12:12.772695+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "e7e1f9ed6a73",
+   "headline": "GSK drinks in Chai Discovery\u2019s AI models after wet-lab validation",
+   "summary": "GSK has joined Chai Discovery\u2019s growing roster of Big Pharma clients, signing up to access protein-folding and design models.",
+   "url": "https://www.fiercebiotech.com/biotech/gsk-drinks-chai-discoverys-ai-models-after-wet-lab-validation",
+   "source": "Fierce Biotech",
+   "published": "2026-10-11T03:12:12.772159+00:00",
+   "tickers": [
+    "GSK"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "d9a99739a60c",
+   "headline": "Ferass Abuzaina named Worldwide President of Surgery at BD",
+   "summary": "Becton, Dickinson and Company has named Ferass Abuzaina as its new Worldwide President of its Surgery business unit.",
+   "url": "https://www.fiercebiotech.com/medtech/ferass-abuzaina-named-worldwide-president-surgery-bd",
+   "source": "Fierce Biotech",
+   "published": "2026-10-11T03:12:12.771676+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "52c7a7e7c64f",
+   "headline": "Parkinson\u2019s-focused Aspen and bispecific biotech Bambusa plan IPOs",
+   "summary": "Parkinson\u2019s disease cell therapy-focused Aspen Neuroscience and bispecific biotech Bambusa Therapeutics are the latest drug developers to eye up a public listing.",
+   "url": "https://www.fiercebiotech.com/biotech/parkinsons-focused-aspen-and-bispecific-biotech-aspen-plan-ipos",
+   "source": "Fierce Biotech",
+   "published": "2026-10-11T03:12:12.771074+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "ec528c375bc0",
+   "headline": "Americans trust science more than peers around the world, survey shows",
+   "summary": "Just 40 percent of Americans reported a lot of confidence in U.S. hospitals and health clinics, the same proportion as in Portugal and Uruguay.",
+   "url": "https://www.statnews.com/2026/10/10/u-s-trust-science-higher-than-other-nations-wellcome-survey/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-10T23:01:00+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "b5f43b1080bc",
+   "headline": "STAT+: Biotech leader, leading lab leak theorist no longer in consideration for top infectious disease role",
+   "summary": "Steven Quay, a biopharmaceutical executive with no background in infectious diseases, is no longer being considered for director of the National Institute for Allergy and Infectious Diseases.",
+   "url": "https://www.statnews.com/2026/10/09/steven-quay-no-longer-in-consideration-for-top-infectious-disease-role/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-09T21:03:52+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "3a616ea7d0cb",
+   "headline": "Evolent To Release Third Quarter 2026 Financial Results on Thursday, November 5, 2026",
+   "summary": "WASHINGTON, Oct. 9, 2026 /PRNewswire/ -- Evolent Health, Inc. (NYSE: EVH), a company focused on achieving better health outcomes for people with complex conditions, today announced it will release its third quarter 2026 financial results\u2026",
+   "url": "https://www.prnewswire.com/news-releases/evolent-to-release-third-quarter-2026-financial-results-on-thursday-november-5-2026-302903683.html",
+   "source": "PR Newswire",
+   "published": "2026-10-09T20:30:00+00:00",
+   "tickers": [
+    "EVH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
+   "id": "b5176bf31b61",
+   "headline": "STAT+: Hospitals sue \u2013 again \u2013 to halt Trump administration\u2019s 340B rebate pilot",
+   "summary": "The AHA is once again suing the Trump administration over its plan to revamp a federal drug discount program into one that provides after-the-fact rebates instead of upfront discounts.",
+   "url": "https://www.statnews.com/2026/10/09/hospitals-sue-to-halt-340b-rebate-pilot-trump/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-09T20:27:27+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "628451be9dec",
+   "headline": "STAT+: Pharma\u2019s free lunches for doctors boost inappropriate prescribing, analysis finds",
+   "summary": "The gifts and payments that doctors receive from drugmakers increased inappropriate prescribing, likely leading to rising health care costs, according to a new review.",
+   "url": "https://www.statnews.com/pharmalot/2026/10/09/pharma-free-lunches-to-doctors-boost-inappropriate-prescribing/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-09T16:33:55+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "4ce2fecbc81d",
+   "headline": "STAT+: Medicare Advantage star ratings trigger new bonuses, and uncertainty",
+   "summary": "The federal government has released new quality ratings for Medicare Advantage insurers for 2027, with Humana emerging as the biggest winner.",
+   "url": "https://www.statnews.com/2026/10/09/medicare-advantage-insurers-star-ratings-2027-humana-alignment/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-09T15:55:47+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "b54c506d5e30",
+   "headline": "STAT+: Life Biosciences share glaucoma study updates for its cellular reprogramming drug",
+   "summary": "Life Biosciences said yesterday that three glaucoma patients have now received a single injection of its experimental cellular reprogramming drug, with no serious adverse events.",
+   "url": "https://www.statnews.com/2026/10/09/biotech-news-life-biosciences-share-glaucoma-cellular-reprogramming-drug-update/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-09T15:41:39+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "ed138c16da29",
+   "headline": "Medtech lobby seeks broader device eligibility for CMS\u2019 proposed RAPID pathway",
+   "summary": "AdvaMed called for more breakthrough devices, including diagnostics, to be eligible for the pathway, and for set timelines for national coverage determinations.",
+   "url": "https://www.medtechdive.com/news/medtech-lobby-seeks-broader-device-eligibility-for-cms-proposed-rapid-path/832622/",
+   "source": "MedTech Dive",
+   "published": "2026-10-09T15:26:48+00:00",
+   "tickers": [],
+   "tag": "Policy",
+   "sectors": []
+  },
+  {
+   "id": "4dbde197dcf7",
+   "headline": "FDA review docs spark Revolution sell-off; Zealand diabetes data underwhelm analysts",
+   "summary": "The new disclosure suggested Rasonque might not be as broadly effective as previously thought. Elsewhere, Ultragenyx got a much-needed cash infusion and TCGX started a China-focused fund.",
+   "url": "https://www.biopharmadive.com/news/rasonque-fda-zealand-tukysa-ultragenyx-tcgx-china/832492/",
+   "source": "BioPharma Dive",
+   "published": "2026-10-09T15:18:00+00:00",
+   "tickers": [
+    "RARE"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "fbb04175c27e",
+   "headline": "Healthcare organizations are underprepared for quantum computing threats",
+   "summary": "Once scientists are able to develop practical quantum computers, the technology could quickly break the encryption methods protecting patient data. Experts say healthcare leaders should start preparing for that reality today.",
+   "url": "https://www.medtechdive.com/news/healthcare-organizations-are-underprepared-for-quantum-computing-threats/832528/",
+   "source": "MedTech Dive",
+   "published": "2026-10-09T15:00:00+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "4a4369ccbbd0",
+   "headline": "This week in charts: What\u2019s driving biotech\u2019s recent pullback?",
+   "summary": "The latest installment in BioPharma Dive\u2019s data visualization series features a look at the factors pressuring biotech stocks of late and the frenetic pace of startup buyouts this year.",
+   "url": "https://www.biopharmadive.com/news/biotech-charts-xbi-private-public-merger-acquisition-deals/832398/",
+   "source": "BioPharma Dive",
+   "published": "2026-10-09T14:28:00+00:00",
+   "tickers": [],
+   "tag": "M&A",
+   "sectors": []
+  },
+  {
+   "id": "3750766455b6",
+   "headline": "MMI raises $125M to scale up in robotic microsurgery",
+   "summary": "The Symani surgical robot maker said the financing will help broaden adoption of the system in the U.S. and global markets and support a clinical trial for Alzheimer\u2019s disease.",
+   "url": "https://www.medtechdive.com/news/mmi-raises-125m-to-scale-up-in-robotic-microsurgery/832607/",
+   "source": "MedTech Dive",
+   "published": "2026-10-09T14:06:16+00:00",
+   "tickers": [],
+   "tag": "Clinical",
+   "sectors": []
+  },
+  {
+   "id": "875185acd829",
+   "headline": "STAT+: Up and down the ladder: The latest comings and goings",
+   "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
+   "url": "https://www.statnews.com/pharmalot/2026/10/09/up-and-down-ladder-latest-comings-and-goings-jobs/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-09T13:59:35+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "462d9a189aca",
+   "headline": "How these census changes could threaten public health",
+   "summary": "The Trump administration wants to make three big changes to the U.S. Census, including eliminating questions about race, ethnicity, and sexual orientation and excluding anyone who is not a citizen\u2026",
+   "url": "https://www.statnews.com/2026/10/09/health-news-census-changes-threaten-public-data-collection/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-09T13:23:29+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "5c30f3757763",
+   "headline": "STAT+: Pharmalittle: We\u2019re reading about a setback for Argenx, Lilly suits over copycat versions of an obesity drug, and more",
+   "summary": "The FDA flagged a potential safety signal after four patient deaths in a trial testing a schizophrenia drug, Argenx faces an unusual setback, and more pharma news.",
+   "url": "https://www.statnews.com/pharmalot/2026/10/09/pharmalittle-were-reading-about-a-setback-for-argenx-lilly-suits-over-copycat-versions-of-an-obesity-drug-and-more/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-09T13:17:20+00:00",
+   "tickers": [
+    "LLY",
+    "ARGX"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "biotech",
+    "pharma"
+   ]
+  },
+  {
+   "id": "17b4af94db83",
+   "headline": "Humana soars, Alignment plummets in 2027 Medicare Advantage star ratings",
+   "summary": "A Healthcare Dive analysis of highly anticipated stars data for next year shows a potpourri of winners and losers, though \u2014 as expected \u2014 the quality scores slipped overall. See how major carriers fared for 2027.",
+   "url": "https://www.healthcaredive.com/news/medicare-advantage-stars-2027-winners-losers/832582/",
+   "source": "Healthcare Dive",
+   "published": "2026-10-09T13:05:19+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "b7abba98f028",
+   "headline": "TRex Bio prices $117M IPO to support immune drug work",
+   "summary": "Eli Lilly is the largest equity holder in TRex, which is developing drugs that treat immunological conditions by activating \u201cTreg\u201d cells.",
+   "url": "https://www.biopharmadive.com/news/trex-bio-ipo-pricing-autoimmune-tregs/832297/",
+   "source": "BioPharma Dive",
+   "published": "2026-10-09T10:59:00+00:00",
+   "tickers": [
+    "LLY",
+    "TRXB"
+   ],
+   "tag": "Financing",
+   "sectors": [
+    "biotech",
+    "pharma"
+   ]
+  },
+  {
+   "id": "16bdd7f127fb",
+   "headline": "STAT+: Will MAHA survive the midterms?",
+   "summary": "As the midterm elections draw near, the MAHA movement is nearly invisible on the campaign trail and struggling to find a financial or messaging foothold in key races.",
+   "url": "https://www.statnews.com/2026/10/09/maha-movement-rfk-jr-campaign-trail-midterm-elections/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-09T08:30:00+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "41dcb417c93c",
+   "headline": "Opinion: Proposed U.S. census changes could be catastrophic for public health",
+   "summary": "\u201cErasing data does not erase need or harm,\u201d writes social epidemiologist Nancy Krieger.",
+   "url": "https://www.statnews.com/2026/10/09/2030-census-public-health-data-equity-morbidity-mortality/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-09T08:30:00+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "70821b9e0435",
+   "headline": "Opinion: 50 years ago, my colleagues and I pursued basic research science that became revolutionary",
+   "summary": "\u201cBasic studies led to clinical and translational advances that no one could have predicted,\u201d Robert Gallo writes of his work with interleukin-2.",
+   "url": "https://www.statnews.com/2026/10/09/robert-gallo-interleukin-2-human-retroviruses-immunotherapy-basic-science/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-09T08:30:00+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "217322f20592",
+   "headline": "The fall of Roe dramatically changed abortion access. This researcher used Reddit to capture how",
+   "summary": "With research on abortion access barriers, STAT Wunderkind Betsy Pleasants is defining a framework for using AI tools without losing sight of the people behind the data.",
+   "url": "https://www.statnews.com/2026/10/09/betsy-pleasants-stat-wunderkind-abortion-access-reddit-nlp/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-09T08:30:00+00:00",
+   "tickers": [],
+   "tag": "Health AI",
+   "sectors": []
+  },
+  {
+   "id": "4cd39217dbe3",
+   "headline": "Trump administration investigates 9 universities for alleged visa fraud",
+   "summary": "This story has been updated. The Trump administration announced Thursday that it is investigating nine universities for alleged fraud related to visas commonly used by postdoctoral researchers, a core part\u2026",
+   "url": "https://www.statnews.com/2026/10/08/trump-administration-investigates-universities-j1-visa-fraud/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-08T23:09:27+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "16ab5b6fe2d5",
+   "headline": "STAT+: House Democrat seeks to scrap No Surprises Act\u2019s costly arbitration process",
+   "summary": "A new proposal in Congress to scrap a surprise billing ban\u2019s controversial arbitration system will need to to survive an onslaught of attacks from provider groups.",
+   "url": "https://www.statnews.com/2026/10/08/house-democrat-proposes-change-to-no-surprises-act-arbitration-process/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-08T21:44:05+00:00",
+   "tickers": [],
+   "tag": "Policy",
+   "sectors": []
+  },
+  {
+   "id": "726245b75300",
+   "headline": "HHS launches new plan to strengthen vaccine injury research, reporting",
+   "summary": "Spearheaded by vaccine skeptic Robert F. Kennedy Jr., the initiative will involve a new NIH clinic, an updated monitoring system and reimbursements for doctors who report suspected side effects.",
+   "url": "https://www.biopharmadive.com/news/hhs-vaccine-injury-reporting-research-rfk/832532/",
+   "source": "BioPharma Dive",
+   "published": "2026-10-08T20:57:00+00:00",
+   "tickers": [],
+   "tag": "Analyst",
+   "sectors": []
+  },
+  {
+   "id": "ea4da91e3b78",
+   "headline": "NIH funding uncertainty thwarts U.S. researchers",
+   "summary": "How has the NIH been spending its budget? And why are biotech investors feeling gloomy? Find out on this week's episode of \"The Readout LOUD\" podcast.",
+   "url": "https://www.statnews.com/2026/10/08/readout-loud-podcast-nih-funding-research-biotech-caribou-nobel-prize/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-08T18:50:54+00:00",
+   "tickers": [],
+   "tag": "Clinical",
+   "sectors": []
+  },
+  {
+   "id": "9d21d1918bb7",
+   "headline": "Healthcare organizations are underprepared for quantum computing threats",
+   "summary": "Once scientists are able to develop practical quantum computers, the technology could quickly break the encryption methods protecting patient data. Experts say healthcare leaders should start preparing for that reality today.",
+   "url": "https://www.healthcaredive.com/news/healthcare-organizations-are-underprepared-for-quantum-computing-threats/832516/",
+   "source": "Healthcare Dive",
+   "published": "2026-10-08T17:24:00+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "f4100b372b08",
+   "headline": "Viatris boosts pain drug portfolio with $1.7B buyout of Pacira",
+   "summary": "The deal hands Viatris two non-opioid pain treatments that booked nearly $700 million in 2025 but could soon lose patent protection. Viatris vowed to use its \u201cintellectual property expertise\u201d to sustain sales.",
+   "url": "https://www.biopharmadive.com/news/viatris-pacira-acquire-pain-drug-zilretto-exparel/832481/",
+   "source": "BioPharma Dive",
+   "published": "2026-10-08T16:00:00+00:00",
+   "tickers": [],
+   "tag": "M&A",
+   "sectors": []
+  },
+  {
+   "id": "b231a269ebfb",
+   "headline": "STAT+: AI for breast cancer risk prediction goes DTC, regulatory cloud over Utah sandbox, and AI psychosis",
+   "summary": "In this edition of STAT's Health Tech: The story of a startup taking its algorithm for breast cancer risk prediction directly to patients, and more.",
+   "url": "https://www.statnews.com/2026/10/08/breast-cancer-ai-goes-dtc-utah-sandbox-ai-psychosis-health-tech/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-08T15:43:59+00:00",
+   "tickers": [],
+   "tag": "Policy",
+   "sectors": []
+  },
+  {
+   "id": "ec043494245e",
+   "headline": "Argenx falls as Sj\u00f6gren\u2019s setback offsets celiac drug progress",
+   "summary": "A monitoring board\u2019s recommendation to stop the study for futility took Wall Street by surprise, removing one more \u2018blockbuster expansion opportunity\u2019 for Vyvgart.",
+   "url": "https://www.biopharmadive.com/news/argenx-sjogrens-vyvgart-celiac-forte-study-results/832463/",
+   "source": "BioPharma Dive",
+   "published": "2026-10-08T15:38:00+00:00",
+   "tickers": [
+    "ARGX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "85ba04783413",
+   "headline": "STAT+: The fresh faces that may shake up key Senate committees ahead of midterms",
+   "summary": "Dozens of Democrats are vying for seats on the House Energy and Commerce and Ways and Means committees, with several members from both parties either leaving or in close races.",
+   "url": "https://www.statnews.com/2026/10/08/health-policy-news-fresh-faces-shake-up-senate-committees-2026-midterms/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-08T15:31:38+00:00",
+   "tickers": [],
+   "tag": "Policy",
+   "sectors": []
+  },
+  {
+   "id": "683c79999b3b",
+   "headline": "In the hunt for reverse merger targets, Caribou could be prized game",
+   "summary": "The struggling cell therapy developer is exploring strategic alternatives, which, among other characteristics, make it a likely candidate to receive reverse merger interest.",
+   "url": "https://www.biopharmadive.com/news/caribou-reverse-merger-prospects-cell-therapy-private-public/832494/",
+   "source": "BioPharma Dive",
+   "published": "2026-10-08T15:23:00+00:00",
+   "tickers": [],
+   "tag": "M&A",
+   "sectors": []
+  },
+  {
+   "id": "f2ddf2cf5f74",
+   "headline": "STAT+: Roche goes beyond licensing in deal with Chinese biotech",
+   "summary": "Roche is partnering with Chinese startup Defand Therapeutics to discover new medicines.",
+   "url": "https://www.statnews.com/2026/10/08/biotech-news-roche-goes-beyond-licensing-in-deal-with-chinese-biotech/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-08T15:18:05+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "a922e2ae7ce9",
+   "headline": "FDA says its safety review of abortion pill will continue into next year",
+   "summary": "The FDA says its ongoing safety review of the nation's main abortion pill will continue into next year, a timeline that was quickly condemned by abortion opponents.",
+   "url": "https://www.statnews.com/2026/10/08/fda-mifepristone-abortion-pill-safety-review-continue-into-2027/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-08T15:02:53+00:00",
+   "tickers": [],
+   "tag": "FDA",
+   "sectors": []
+  },
+  {
+   "id": "cd4b15efafaf",
+   "headline": "Outpatient shift accelerates as hospital margins rebound",
+   "summary": "Patient demand and payer pressures have been nudging procedures out of expensive inpatient settings, according to a new report.",
+   "url": "https://www.healthcaredive.com/news/outpatient-shift-accelerates-hospital-margins-rebound-strata/832490/",
+   "source": "Healthcare Dive",
+   "published": "2026-10-08T14:10:53+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "014b734b9bea",
+   "headline": "Medicare penalizes more hospitals for readmissions",
+   "summary": "About 80% of hospitals are having their Medicare payments shaved down over high readmission rates this fiscal year, compared with 78% the year prior, according to new CMS data. It continues a worrying trend.",
+   "url": "https://www.healthcaredive.com/news/hospital-readmission-reduction-program-penalties-rise-2027-cms/832473/",
+   "source": "Healthcare Dive",
+   "published": "2026-10-08T13:14:37+00:00",
+   "tickers": [],
+   "tag": "Policy",
+   "sectors": []
+  },
+  {
+   "id": "aef3d3da9e19",
+   "headline": "Boston Scientific names Joseph Fitzgerald as chief operating officer",
+   "summary": "Fitzgerald will oversee three newly established reportable segments as Boston Scientific works to bounce back from guidance cuts.",
+   "url": "https://www.medtechdive.com/news/boston-scientific-names-joseph-fitzgerald-as-chief-operating-officer/832461/",
+   "source": "MedTech Dive",
+   "published": "2026-10-08T10:55:48+00:00",
+   "tickers": [
+    "BSX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "4c1913fb60d7",
+   "headline": "Medtronic names Felicia Kurz as cardiac ablation VP, GM",
+   "summary": "Kurz\u2019s appointment comes as Medtronic enjoys strong growth in electrophysiology therapies thanks to demand for its pulsed field ablation devices.",
+   "url": "https://www.medtechdive.com/news/medtronic-names-felicia-kurz-as-cardiac-ablation-vp-gm/832420/",
+   "source": "MedTech Dive",
+   "published": "2026-10-07T19:27:36+00:00",
+   "tickers": [
+    "MDT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "8f73d78277dd",
+   "headline": "UK backs continuous oversight of AI medical devices",
+   "summary": "The Medicines and Healthcare Products Regulatory Agency adopted 44 recommendations, including a call for AI-enabled devices to be monitored throughout their working life.",
+   "url": "https://www.medtechdive.com/news/uk-backs-continuous-oversight-of-ai-medical-devices/832413/",
+   "source": "MedTech Dive",
+   "published": "2026-10-07T19:08:15+00:00",
+   "tickers": [],
+   "tag": "Policy",
+   "sectors": []
+  },
+  {
+   "id": "5668e4d9a4f8",
+   "headline": "Caribou to halt CAR-T work, lay off staff amid \u2018challenging\u2019 funding climate",
+   "summary": "Despite having an allogeneic cell therapy prospect that\u2019s ready for late-stage testing in lymphoma, Caribou couldn\u2019t secure funding to support the effort and will now pursue \u201cstrategic alternatives\u201d instead.",
+   "url": "https://www.biopharmadive.com/news/caribou-layoffs-strategic-alternatives-allogeneic-cell-therapy-vispacel/832343/",
+   "source": "BioPharma Dive",
+   "published": "2026-10-07T15:37:00+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "59ceec38416d",
+   "headline": "Halozyme prevails in patent fight with Merck; Enliven readies anticipated leukemia trial",
+   "summary": "A Dutch court barred Merck from selling subcutaneous Keytruda in several European countries. Elsewhere, an Insmed executive ended a seven-year run and two startups secured venture cash.",
+   "url": "https://www.biopharmadive.com/news/halozyme-merck-europe-enliven-insmed-rougetx-kymathera/832282/",
+   "source": "BioPharma Dive",
+   "published": "2026-10-07T15:21:00+00:00",
+   "tickers": [
+    "MRK",
+    "HALO",
+    "INSM"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech",
+    "pharma"
+   ]
+  },
+  {
+   "id": "31a7c9874c26",
+   "headline": "Abbott gets FDA nod for updates to heart failure monitoring system",
+   "summary": "Patients can view their pulmonary artery pressure readings on their phone with the CardioMEMS updates, giving them a more active role in their care.",
+   "url": "https://www.medtechdive.com/news/abbott-gets-fda-nod-for-updates-to-heart-failure-monitoring-system/832370/",
+   "source": "MedTech Dive",
+   "published": "2026-10-07T14:52:16+00:00",
+   "tickers": [
+    "ABT"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "171314e09be7",
+   "headline": "Apple ordered to pay Masimo $184M in interest on patent damages",
+   "summary": "A U.S. district court ruled that Apple owes prejudgment interest on the $634 million in damages it incurred for infringing Masimo\u2019s pulse oximetry patent.",
+   "url": "https://www.medtechdive.com/news/apple-ordered-to-pay-masimo-184m-in-interest-on-patent-damages/832340/",
+   "source": "MedTech Dive",
+   "published": "2026-10-07T14:00:00+00:00",
+   "tickers": [],
+   "tag": "Legal",
+   "sectors": []
+  },
+  {
+   "id": "ad00ca692807",
+   "headline": "Texas attorney general investigates UnitedHealth over care denials",
+   "summary": "Ken Paxton is on the hunt for evidence that UnitedHealth is breaking the Deceptive Trade Practices Act and other Texas laws, citing \u201calarming reports\u201d of denied care.",
+   "url": "https://www.healthcaredive.com/news/texas-ken-paxton-unitedhealth-investigation-care-denials/832221/",
+   "source": "Healthcare Dive",
+   "published": "2026-10-07T13:08:40+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "343ce8e2c776",
+   "headline": "Highmark Health taps Karen Hanlon as CEO",
+   "summary": "Hanlon, who has worked in a variety of leadership roles at Highmark during nearly three decades with the company, will be the organization\u2019s first-ever woman CEO.",
+   "url": "https://www.healthcaredive.com/news/highmark-health-karen-hanlon-ceo/832350/",
+   "source": "Healthcare Dive",
+   "published": "2026-10-07T12:48:44+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "2a0dbfed9057",
+   "headline": "A Takeda spinout builds case for its Parkinson\u2019s drug",
+   "summary": "Cerevance plans to meet with the FDA to determine next steps for a new kind of medicine known as solengepras, now that it has Phase 3 data in hand.",
+   "url": "https://www.biopharmadive.com/news/cerevance-solengepras-parkinsons-study-results/832324/",
+   "source": "BioPharma Dive",
+   "published": "2026-10-07T12:01:00+00:00",
+   "tickers": [
+    "TAK"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "ad20d5821db3",
+   "headline": "A health insurance agency\u2019s journey from pilot to full-time voice AI agent",
+   "summary": "After struggling with high call volume \u2014 especially during Medicare open enrollment \u2014 eHealth turned to voice AI agents for help.",
+   "url": "https://www.healthcaredive.com/news/a-health-insurance-agencys-journey-from-pilot-to-full-time-voice-ai-agent/832382/",
+   "source": "Healthcare Dive",
+   "published": "2026-10-07T11:00:00+00:00",
+   "tickers": [],
+   "tag": "Clinical",
+   "sectors": []
+  },
+  {
+   "id": "76f2445e531c",
+   "headline": "Teladoc unveils remote monitoring, ambient AI features",
+   "summary": "The company has integrated artificial intelligence scribing and camera-based vitals monitoring into its virtual care platform for hospitals as it works to recover from significant financial setbacks.",
+   "url": "https://www.healthcaredive.com/news/teladoc-unveils-remote-monitoring-ambient-ai-features/832328/",
+   "source": "Healthcare Dive",
+   "published": "2026-10-07T10:02:00+00:00",
+   "tickers": [
+    "TDOC"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
+   "id": "c592681d220c",
+   "headline": "Utah approves slew of health AI pilots for drug management, women\u2019s health",
+   "summary": "The state has expanded its controversial healthcare AI program with three new pilots that could ultimately see the technology provide care plans and medications without human review.",
+   "url": "https://www.healthcaredive.com/news/utah-approves-health-ai-pilots-drug-management-womens-health/832318/",
+   "source": "Healthcare Dive",
+   "published": "2026-10-06T20:17:52+00:00",
+   "tickers": [],
+   "tag": "FDA",
+   "sectors": []
+  },
+  {
+   "id": "d306eb04f84d",
+   "headline": "Zenflow raises $52M, inks distribution deal with Cook Medical",
+   "summary": "Cook Medical has become Zenflow\u2019s U.S. distributor in a urology device market targeted by Boston Scientific, Olympus and Teleflex.",
+   "url": "https://www.medtechdive.com/news/zenflow-raises-52m-inks-distribution-deal-with-cook-medical/832212/",
+   "source": "MedTech Dive",
+   "published": "2026-10-06T18:00:00+00:00",
+   "tickers": [
+    "BSX"
+   ],
+   "tag": "Financing",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "aaf6a716f480",
+   "headline": "Stryker CEO Kevin Lobo to resign",
+   "summary": "Lobo will step down on Dec. 31 as CEO after more than 15 years at Stryker. Chief operating officer Spencer Stiles will lead the company.",
+   "url": "https://www.medtechdive.com/news/stryker-ceo-kevin-lobo-to-resign/832258/",
+   "source": "MedTech Dive",
+   "published": "2026-10-06T15:36:44+00:00",
+   "tickers": [
+    "SYK"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "aa2524e7d4f8",
+   "headline": "FTC escalates price transparency crackdown with warning letters to hospitals",
+   "summary": "Regulators warned two dozen hospital systems that incomplete or misleading pricing disclosures could violate federal consumer protection laws.",
+   "url": "https://www.healthcaredive.com/news/ftc-escalates-price-transparency-crackdown-with-warning-letters-to-hospital/832247/",
+   "source": "Healthcare Dive",
+   "published": "2026-10-06T14:51:10+00:00",
+   "tickers": [],
+   "tag": "Policy",
+   "sectors": []
+  },
+  {
+   "id": "ce788f79c971",
+   "headline": "FDA Seeks Public Input to Support Ibogaine Research",
+   "summary": "The U.S. Food and Drug Administration today announced a request for information (RFI) describing approaches the agency is considering for the design of early-phase clinical trials of ibogaine drug products and seeking public input on\u2026",
+   "url": "http://www.fda.gov/news-events/press-announcements/fda-seeks-public-input-support-ibogaine-research",
+   "source": "FDA",
+   "published": "2026-10-05T13:02:06+00:00",
+   "tickers": [],
+   "tag": "FDA",
+   "sectors": []
+  },
+  {
+   "id": "e2b180179d60",
+   "headline": "FDA Approves First Heart Valve Designed to Grow with Children",
+   "summary": "The U.S. Food and Drug Administration today approved the Autus Size-Adjustable Valve, a surgically implanted pulmonary heart valve for pediatric patients with congenital pulmonary valve disease.",
+   "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-heart-valve-designed-grow-children",
+   "source": "FDA",
+   "published": "2026-10-01T19:02:08+00:00",
+   "tickers": [],
+   "tag": "FDA",
+   "sectors": []
+  }
+ ]
+}
