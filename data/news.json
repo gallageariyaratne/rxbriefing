@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-11T19:52:20.673895+00:00",
+ "updated": "2026-10-11T23:23:21.954789+00:00",
  "quotes": {
   "ABBV": {
    "price": 276.47,
@@ -17,6 +17,10 @@
   "ARGX": {
    "price": 825.03,
    "change_pct": 0.78
+  },
+  "AZN": {
+   "price": 159.2,
+   "change_pct": 0.26
   },
   "BMY": {
    "price": 59.12,
@@ -50,6 +54,10 @@
    "price": 110.42,
    "change_pct": 0.53
   },
+  "HCA": {
+   "price": 451.09,
+   "change_pct": 1.37
+  },
   "HUM": {
    "price": 431.87,
    "change_pct": 11.56
@@ -66,13 +74,13 @@
    "price": 1179.27,
    "change_pct": 0.83
   },
+  "MDT": {
+   "price": 88.48,
+   "change_pct": 0.83
+  },
   "MRK": {
    "price": 145.6,
    "change_pct": 2.26
-  },
-  "MRNA": {
-   "price": 225,
-   "change_pct": 14.21
   },
   "NVO": {
    "price": 38.64,
@@ -89,10 +97,6 @@
   "PFE": {
    "price": 28.28,
    "change_pct": 1.65
-  },
-  "PRVA": {
-   "price": 20.85,
-   "change_pct": 3.27
   },
   "RVMD": {
    "price": 189.76,
@@ -113,10 +117,6 @@
   "UNH": {
    "price": 379.3,
    "change_pct": 2.25
-  },
-  "VEEV": {
-   "price": 296.13,
-   "change_pct": 3.96
   },
   "ZTS": {
    "price": 74.81,
@@ -738,6 +738,51 @@
  },
  "stories": [
   {
+   "id": "340827f13140",
+   "headline": "Jim Cramer Has Very Different Views on MiniMed (MMED) and Medtronic (MDT)",
+   "summary": "Starting the lightning round of Mad Money on October 7, a caller mentioned MiniMed Group, Inc. (NASDAQ:MMED). Jim Cramer quickly responded: Oh, Medtronic got rid of it, and I don\u2019t want anything to do with it. I do like Medtronic, but I\u2026",
+   "url": "https://finnhub.io/api/news?id=8c21353f514b255a7e9f687d565821c80f759e05a6a2dadc21e1bb62d84b0191",
+   "source": "Yahoo",
+   "published": "2026-10-11T19:53:13+00:00",
+   "tickers": [
+    "MDT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "d1998839cfa0",
+   "headline": "New SKYRIZI\u00ae (risankizumab-rzaa) and RINVOQ\u00ae (upadacitinib) Data Demonstrate Disease Control for Patients Living With Inflammatory Bowel Disease",
+   "summary": "AbbVie today announced the presentation of 22 scientific abstracts from its market-leading inflammatory bowel disease (IBD) portfolio at the American College of Gastroenterology (ACG) 2026 Annual Scientific Meeting in Nashville,\u2026",
+   "url": "https://finnhub.io/api/news?id=4d40487850fb8d85fc5a9177b3bcd59eda072ffb6c305e7184f052ddd4527cef",
+   "source": "Yahoo",
+   "published": "2026-10-11T17:00:00+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "469a44cc3293",
+   "headline": "Medtronic\u2019s Modest Valuation Meets an Improving Growth Outlook",
+   "summary": "Medtronic plc (NYSE:MDT) has taken a very different path from the broader market over the past year. The stock has declined by over 7% in the past 12 months, compared with a 17% gain for the broader market. That underperformance raises a\u2026",
+   "url": "https://finnhub.io/api/news?id=8a07ba60ede7b1b5941089102eacb2381d7fb0d4f1f1fcaf3305787b41d27d7b",
+   "source": "Yahoo",
+   "published": "2026-10-11T16:42:20+00:00",
+   "tickers": [
+    "MDT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "3a0d9cd33087",
    "headline": "SHAREHOLDER ALERT: The M&A Class Action Firm Announces An Investigation of Option Care Health, Inc. (NASDAQ: OPCH)",
    "summary": "NEW YORK, Oct. 11, 2026 /PRNewswire/ -- Class Action Attorney Juan Monteverde with Monteverde & Associates PC (the \"M&A Class Action Firm\"), has recovered millions of dollars for shareholders and is recognized as a Top 50 Firm in the 2025\u2026",
@@ -753,6 +798,21 @@
    ]
   },
   {
+   "id": "f1ff75ed7361",
+   "headline": "5 Dividend Stocks for Retirees Who Want More Than Just a Big Yield",
+   "summary": "A 5% Treasury yield raises the bar for every dividend stock in a retirement portfolio, and not every high-yielder clears it. These five names span telecom, real estate, consumer staples, utilities, and pharma, and safety comes before\u2026",
+   "url": "https://finnhub.io/api/news?id=b5477af582e703213b9d7e38c403cb77159443130daf402eac041f3c05debced",
+   "source": "Yahoo",
+   "published": "2026-10-11T16:00:44+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "b1c239bcdc08",
    "headline": "Wall Street Brunch: Start Your Earnings Engines",
    "summary": "JPMorgan, Goldman Sachs and other big banks launch earnings season. CPI hits as yields hit two-decade highs. Trump announces an energy ceasefire between Russia and Ukraine.",
@@ -760,6 +820,7 @@
    "source": "SeekingAlpha",
    "published": "2026-10-11T13:29:00+00:00",
    "tickers": [
+    "ABBV",
     "ABT",
     "UNH"
    ],
@@ -806,6 +867,7 @@
    "source": "SeekingAlpha",
    "published": "2026-10-11T12:46:56+00:00",
    "tickers": [
+    "HCA",
     "ZTS"
    ],
    "tag": "News",
@@ -926,11 +988,27 @@
    "source": "Yahoo",
    "published": "2026-10-11T09:04:00+00:00",
    "tickers": [
+    "ABBV",
     "ABT"
    ],
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "979ecd7ecaa0",
+   "headline": "3 British AI Healthcare Stocks With At Least 4% Revenue Growth",
+   "summary": "Big Tech is pouring an estimated $700b into AI infrastructure this year, and global healthcare is a key proving ground for whether that spend pays off. UK investors are watching closely because hospitals, drug makers and software\u2026",
+   "url": "https://finnhub.io/api/news?id=f15e5a292a7980da7b06c6c6fe4acccec643b89d9ff486cfc9cecf086b08b81b",
+   "source": "Yahoo",
+   "published": "2026-10-11T07:10:08+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
    ]
   },
   {
