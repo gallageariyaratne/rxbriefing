@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-12T00:16:46.261322+00:00",
+ "updated": "2026-10-12T00:31:45.040009+00:00",
  "quotes": {
   "ABBV": {
    "price": 276.47,
@@ -25,6 +25,10 @@
   "BMY": {
    "price": 59.12,
    "change_pct": -0.77
+  },
+  "BSX": {
+   "price": 42.73,
+   "change_pct": 1.64
   },
   "CAH": {
    "price": 237.57,
@@ -757,6 +761,22 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "b5ed4c6eaacb",
+   "headline": "Is Johnson & Johnson (JNJ) Facing New MedTech Risk After A Patent Lawsuit?",
+   "summary": "Johnson & Johnson (NYSE: JNJ) subsidiary Atraverse Medical has been sued by Boston Scientific over alleged patent infringement tied to a cardiology device. The complaint focuses on technology used in a key heart procedure tool that Boston\u2026",
+   "url": "https://finnhub.io/api/news?id=64d8530632a1b2730bcee39b079b5edd6fc2aaec9cb38acae1124001bb5184cd",
+   "source": "Yahoo",
+   "published": "2026-10-11T22:10:46+00:00",
+   "tickers": [
+    "BSX",
+    "JNJ"
+   ],
+   "tag": "Legal",
+   "sectors": [
+    "pharma"
+   ]
+  },
   {
    "id": "340827f13140",
    "headline": "Jim Cramer Has Very Different Views on MiniMed (MMED) and Medtronic (MDT)",
