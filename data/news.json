@@ -1,22 +1,22 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-12T20:02:39.906437+00:00",
+ "updated": "2026-10-12T20:17:36.500311+00:00",
  "quotes": {
   "A": {
-   "price": 171.32,
+   "price": 171.33,
    "change_pct": 0.46
   },
   "ABBV": {
-   "price": 281.04,
-   "change_pct": 1.65
+   "price": 281.12,
+   "change_pct": 1.68
   },
   "ABSI": {
    "price": 9.67,
    "change_pct": -4.82
   },
   "ABT": {
-   "price": 101.83,
-   "change_pct": 2.24
+   "price": 101.82,
+   "change_pct": 2.23
   },
   "ALHC": {
    "price": 8.09,
@@ -75,8 +75,8 @@
    "change_pct": -0.19
   },
   "DHR": {
-   "price": 221.29,
-   "change_pct": 0.67
+   "price": 221.2,
+   "change_pct": 0.63
   },
   "DNLI": {
    "price": 18.95,
@@ -131,7 +131,7 @@
    "change_pct": -0.91
   },
   "HUM": {
-   "price": 433.51,
+   "price": 433.5,
    "change_pct": 0.38
   },
   "IDXX": {
@@ -162,6 +162,10 @@
    "price": 263.73,
    "change_pct": 0.88
   },
+  "LH": {
+   "price": 315.52,
+   "change_pct": 1.08
+  },
   "LLY": {
    "price": 1182.62,
    "change_pct": 0.28
@@ -186,6 +190,10 @@
    "price": 213.74,
    "change_pct": -5.0
   },
+  "NBIX": {
+   "price": 141.37,
+   "change_pct": -0.75
+  },
   "NTRA": {
    "price": 397.77,
    "change_pct": -0.73
@@ -199,8 +207,8 @@
    "change_pct": 0.1
   },
   "PFE": {
-   "price": 28.41,
-   "change_pct": 0.46
+   "price": 28.4,
+   "change_pct": 0.42
   },
   "PHR": {
    "price": 10.82,
@@ -231,8 +239,8 @@
    "change_pct": -2.56
   },
   "SYK": {
-   "price": 282.65,
-   "change_pct": 1.92
+   "price": 282.6,
+   "change_pct": 1.9
   },
   "TAK": {
    "price": 18.68,
@@ -275,8 +283,8 @@
    "change_pct": 3.4
   },
   "ZTS": {
-   "price": 75.64,
-   "change_pct": 1.11
+   "price": 75.65,
+   "change_pct": 1.12
   }
  },
  "tickers": {
@@ -894,6 +902,21 @@
  },
  "stories": [
   {
+   "id": "07ace14475d2",
+   "headline": "Neurocrine Biosciences Announces Conference Call and Webcast of Third Quarter 2026 Financial Results",
+   "summary": "Conference Call and Webcast Scheduled for Monday, November 2 SAN DIEGO, Oct. 12, 2026 /PRNewswire/ -- Neurocrine Biosciences, Inc. (Nasdaq: NBIX) announced today that it has scheduled its third quarter 2026 financial results conference\u2026",
+   "url": "https://www.prnewswire.com/news-releases/neurocrine-biosciences-announces-conference-call-and-webcast-of-third-quarter-2026-financial-results-302906096.html",
+   "source": "PR Newswire",
+   "published": "2026-10-12T20:01:00+00:00",
+   "tickers": [
+    "NBIX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "98d09e9a0de4",
    "headline": "Alignment Healthcare sues CMS over its 2027 Medicare Advantage star ratings",
    "summary": "Alignment Healthcare sued federal regulators, alleging that its 2027 Medicare Advantage star ratings were determined \"in flagrant violation\" of statute.",
@@ -934,6 +957,7 @@
    "tickers": [
     "BIIB",
     "GEHC",
+    "MDT",
     "MRNA",
     "ZBH"
    ],
@@ -954,6 +978,21 @@
    "sectors": []
   },
   {
+   "id": "be88b0cc11bb",
+   "headline": "Labcorp (LH): Is Its Earnings Discount Worth the Growing Investment Bill?",
+   "summary": "Labcorp Holdings Inc. (NYSE:LH) earns fees from routine and specialty medical tests and laboratory services supporting drug development. Physicians, hospitals, and pharmaceutical companies provide different sources of demand, while\u2026",
+   "url": "https://finnhub.io/api/news?id=ad666a9d8ce474aecb716a215046443d84cf1dca9d4edddca50d373c693188e5",
+   "source": "Yahoo",
+   "published": "2026-10-12T18:08:18+00:00",
+   "tickers": [
+    "LH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "5badd7e92576",
    "headline": "Ascensia leads $36M funding round for glucose sensor startup",
    "summary": "Ascensia also struck an exclusive sales agreement with Sava, which is making a wearable to continuously monitor glucose and other biomarkers.",
@@ -963,6 +1002,21 @@
    "tickers": [],
    "tag": "Financing",
    "sectors": []
+  },
+  {
+   "id": "b0877235f154",
+   "headline": "Ascensia leads $36M funding round for glucose sensor startup",
+   "summary": "Ascensia also struck an exclusive sales agreement with Sava, which is making a wearable to continuously monitor glucose and other biomarkers.",
+   "url": "https://finnhub.io/api/news?id=e3819c91fe7811c283e452fd9b1368d8c6b09375e90df6db0a0e8e1bb69d3588",
+   "source": "Yahoo",
+   "published": "2026-10-12T18:07:49+00:00",
+   "tickers": [
+    "DXCM"
+   ],
+   "tag": "Financing",
+   "sectors": [
+    "medtech"
+   ]
   },
   {
    "id": "c0ad921e7bc7",
