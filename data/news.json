@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-12T11:16:44.071829+00:00",
+ "updated": "2026-10-12T11:31:42.166744+00:00",
  "quotes": {
   "ABBV": {
    "price": 276.47,
@@ -106,6 +106,10 @@
    "price": 28.28,
    "change_pct": 1.65
   },
+  "PODD": {
+   "price": 135.28,
+   "change_pct": 0.6
+  },
   "RMD": {
    "price": 230.05,
    "change_pct": 1.46
@@ -117,6 +121,10 @@
   "SYK": {
    "price": 277.33,
    "change_pct": 0.13
+  },
+  "TAK": {
+   "price": 18.73,
+   "change_pct": 1.13
   },
   "TDOC": {
    "price": 5.77,
@@ -750,6 +758,21 @@
  },
  "stories": [
   {
+   "id": "695f76155bb7",
+   "headline": "Insulet Announces Omnipod Discover Now Available in U.S.",
+   "summary": "ACTON, Mass., October 12, 2026--Insulet Corporation (NASDAQ: PODD), the global leader in tubeless insulin pump technology with its Omnipod\u00ae brand of products, today announced the U.S. full market release of Omnipod Discover\u2122, a web-based\u2026",
+   "url": "https://finnhub.io/api/news?id=42b67c9c898505d0fa1ba0ab5aa457b3d3dfa64893b6866b061a43d5e82cc520",
+   "source": "Yahoo",
+   "published": "2026-10-12T11:00:00+00:00",
+   "tickers": [
+    "PODD"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "56cd31e06901",
    "headline": "Abbott Laboratories (NYSE:ABT): A Quality Stock With Durable Fundamentals",
    "summary": "Abbott passes key quality investing filters with strong ROIC, cash-backed earnings, and steady growth, though valuation and liquidity risks remain.",
@@ -1056,7 +1079,8 @@
     "MRK",
     "NVS",
     "PFE",
-    "SNY"
+    "SNY",
+    "TAK"
    ],
    "tag": "M&A",
    "sectors": [
