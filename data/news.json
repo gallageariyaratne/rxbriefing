@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-11T23:46:46.060111+00:00",
+ "updated": "2026-10-12T00:01:55.825055+00:00",
  "quotes": {
   "ABBV": {
    "price": 276.47,
@@ -38,9 +38,17 @@
    "price": 282.43,
    "change_pct": 0.5
   },
+  "CNC": {
+   "price": 65.36,
+   "change_pct": 1.27
+  },
   "CVS": {
    "price": 86.16,
    "change_pct": -1.87
+  },
+  "GILD": {
+   "price": 151.17,
+   "change_pct": 2.77
   },
   "GKOS": {
    "price": 165.69,
@@ -57,6 +65,10 @@
   "HCA": {
    "price": 451.09,
    "change_pct": 1.37
+  },
+  "HIMS": {
+   "price": 30.92,
+   "change_pct": 10.19
   },
   "HUM": {
    "price": 431.87,
@@ -81,6 +93,10 @@
   "MRK": {
    "price": 145.6,
    "change_pct": 2.26
+  },
+  "MRNA": {
+   "price": 225,
+   "change_pct": 14.21
   },
   "NVO": {
    "price": 38.64,
@@ -113,6 +129,10 @@
   "SYK": {
    "price": 277.33,
    "change_pct": 0.13
+  },
+  "TMO": {
+   "price": 658.02,
+   "change_pct": 0.93
   },
   "TRXB": {
    "price": 14,
@@ -779,6 +799,7 @@
    "source": "Yahoo",
    "published": "2026-10-11T18:33:00+00:00",
    "tickers": [
+    "CNC",
     "CVS",
     "HUM",
     "UNH"
@@ -801,6 +822,21 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "2d7a3fb2bb7c",
+   "headline": "Barclays Says MedTech Stocks Are at Their Cheapest in a Decade \u2014 and Names 2 Stocks to Buy",
+   "summary": "Medical technology has been changing human life for centuries. This is especially true for patients dealing with the long-term lifestyle impacts of acute and chronic conditions. Diseases such as diabetes, Crohn\u2019s, and cancer, or severe\u2026",
+   "url": "https://finnhub.io/api/news?id=47724d32315e5abb82abbe9df96df4b7a5f7292ea1268fcfc000fd71e130cc10",
+   "source": "Yahoo",
+   "published": "2026-10-11T18:00:00+00:00",
+   "tickers": [
+    "SYK"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -834,6 +870,21 @@
    ]
   },
   {
+   "id": "c02ee2217be4",
+   "headline": "Thermo Fisher Stock Trades at a Premium. Can Its Earnings Keep Up?",
+   "summary": "Thermo Fisher Scientific, Inc. (NYSE:TMO) is having a good year, with shares surging by over 11% so far. The stock\u2019s outperformance has come as the life-sciences tools market shows signs of recovery. But after the rally, the more\u2026",
+   "url": "https://finnhub.io/api/news?id=ab85cb453d5792cc1f3fcbd550d3d37f3b07eae51d3d165b3996ab36589fe187",
+   "source": "Yahoo",
+   "published": "2026-10-11T16:32:53+00:00",
+   "tickers": [
+    "TMO"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "3a0d9cd33087",
    "headline": "SHAREHOLDER ALERT: The M&A Class Action Firm Announces An Investigation of Option Care Health, Inc. (NASDAQ: OPCH)",
    "summary": "NEW YORK, Oct. 11, 2026 /PRNewswire/ -- Class Action Attorney Juan Monteverde with Monteverde & Associates PC (the \"M&A Class Action Firm\"), has recovered millions of dollars for shareholders and is recognized as a Top 50 Firm in the 2025\u2026",
@@ -857,6 +908,51 @@
    "published": "2026-10-11T16:00:44+00:00",
    "tickers": [
     "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "685b7eb6ac21",
+   "headline": "Hims & Hers Stock Jumped 10% in a Day as Volume Hit 15.9 Million Shares. Here\u2019s Where the Stock Could Go by 2030",
+   "summary": "Key Stats for Hims & Hers StockCurrent Price: $30. 92Target Price (Mid): ~$27Street Target: ~$31Potential Total Return: ~(13%)Annualized IRR: ~(3%) / yearWhat Happened?Hims & Hers Health (HIMS) closed at $30.",
+   "url": "https://finnhub.io/api/news?id=39dea5fceb3f64c484d9eafc9864dfca89ec53c7fe3f667ea6e0905a4a080324",
+   "source": "Yahoo",
+   "published": "2026-10-11T15:04:22+00:00",
+   "tickers": [
+    "HIMS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
+   "id": "a78b466d8c71",
+   "headline": "Merck Stock Is Up 38% in 2026 as Investors Pay More for Flat Near-Term Earnings. Here\u2019s Where the Stock Could Go by 2030",
+   "summary": "Key Stats for Merck StockCurrent Price: $145. 60Target Price (Mid): ~$164Street Target: ~$158Potential Total Return: ~13%Annualized IRR: ~3% / yearWhat Happened?Merck (MRK) closed at $145.",
+   "url": "https://finnhub.io/api/news?id=750e4840a1e14a004c765e5b1dc9defbcde64a331db5bdcdbb9bed1c4b5d1a5b",
+   "source": "Yahoo",
+   "published": "2026-10-11T15:00:51+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "c10b10d8a8e6",
+   "headline": "Moderna (MRNA) Is Up 18.4% After Cancer Vaccine Milestone And Nasdaq-100 Return Has The Bull Case Changed?",
+   "summary": "Moderna, Inc. was added back to the Nasdaq-100 index and earlier announced that former manufacturing leader Juan Andres would return as Chief Operating Officer to oversee scaling for its personalized cancer vaccine candidate, intismeran\u2026",
+   "url": "https://finnhub.io/api/news?id=f878fb480560c54695b440396708c4874208ab84ae6a77ef66a66f1a2b97bd9b",
+   "source": "Yahoo",
+   "published": "2026-10-11T14:12:47+00:00",
+   "tickers": [
+    "MRNA"
    ],
    "tag": "News",
    "sectors": [
@@ -894,6 +990,21 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "f1369c0185bc",
+   "headline": "Gilead Has Outperformed the S&P 500. But is its Valuation Still Attractive?",
+   "summary": "Gilead Sciences, Inc. (NASDAQ:GILD) has had a considerably better year than the broader market. The stock has surged by over 24% since the start of the year, compared with a 14% return for the S&P 500. The rally has changed the valuation\u2026",
+   "url": "https://finnhub.io/api/news?id=018c09de44fa21b891968fbffafbc07e0dd112a55fd397ec10cf1709e1997a4a",
+   "source": "Yahoo",
+   "published": "2026-10-11T13:16:56+00:00",
+   "tickers": [
+    "GILD"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -950,6 +1061,7 @@
    "published": "2026-10-11T12:46:56+00:00",
    "tickers": [
     "HCA",
+    "LLY",
     "RMD",
     "ZTS"
    ],
@@ -971,6 +1083,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "f5379696bc23",
+   "headline": "Moderna (MRNA) Stock Looks Expensive Following Its 7x One Year Run",
+   "summary": "Moderna has surged back into the spotlight after a powerful share price run, which puts a fresh focus on whether the current US$225.00 level can be supported by the sales the business is generating. After that kind of move, the key issue\u2026",
+   "url": "https://finnhub.io/api/news?id=e83de194b1b87aaf442967a3482ff32a937dde1a527eb9cc5476c72769b7f1b1",
+   "source": "Yahoo",
+   "published": "2026-10-11T12:13:44+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -999,6 +1126,21 @@
     "GSK"
    ],
    "tag": "Health AI",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "e4cb44e6bd5c",
+   "headline": "Moderna (MRNA) Stock Sees Modest Fair Value Lift After Cancer Vaccine Analyst Revisions",
+   "summary": "Moderna\u2019s updated modelling now points to a slightly higher fair value estimate, with the figure moving from US$119.56 to US$122.67 per share. That shift lines up with recent analyst commentary that treats the intismeran cancer vaccine\u2026",
+   "url": "https://finnhub.io/api/news?id=e93b52c82892cafc250ab1f7952c55d1c3fc90c2321615b065e2ab862300d30d",
+   "source": "Yahoo",
+   "published": "2026-10-11T11:09:40+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "Analyst",
    "sectors": [
     "pharma"
    ]
@@ -1104,6 +1246,21 @@
    "published": "2026-10-11T06:57:52+00:00",
    "tickers": [
     "JNJ"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "c6f84cfd0668",
+   "headline": "Is Gilead Sciences (GILD) Undervalued After Strong Q2 Sales?",
+   "summary": "Gilead Sciences stock has delivered a strong multi year run, which puts a spotlight on whether the current share price still lines up with the company\u2019s sales base. With fresh headlines on earnings, partnerships and pipeline progress, the\u2026",
+   "url": "https://finnhub.io/api/news?id=c8aa46e1dffb5aa548e1d5eb4f7927364c339382e45bda6fd9b4941975c85a4f",
+   "source": "Yahoo",
+   "published": "2026-10-11T06:12:37+00:00",
+   "tickers": [
+    "GILD"
    ],
    "tag": "Earnings",
    "sectors": [
