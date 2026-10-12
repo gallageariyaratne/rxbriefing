@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-12T09:03:24.005506+00:00",
+ "updated": "2026-10-12T09:16:36.997786+00:00",
  "quotes": {
   "ABBV": {
    "price": 276.47,
@@ -17,6 +17,10 @@
   "ARWR": {
    "price": 62.75,
    "change_pct": 3.31
+  },
+  "AZN": {
+   "price": 159.2,
+   "change_pct": 0.26
   },
   "BMY": {
    "price": 59.12,
@@ -77,6 +81,10 @@
   "MDT": {
    "price": 88.48,
    "change_pct": 0.83
+  },
+  "MOH": {
+   "price": 196.93,
+   "change_pct": 0.6
   },
   "MRK": {
    "price": 145.6,
@@ -827,7 +835,8 @@
    "source": "Yahoo",
    "published": "2026-10-12T07:19:03+00:00",
    "tickers": [
-    "ALHC"
+    "ALHC",
+    "MOH"
    ],
    "tag": "News",
    "sectors": [
@@ -917,6 +926,7 @@
    "published": "2026-10-12T01:22:12+00:00",
    "tickers": [
     "ABBV",
+    "AZN",
     "BMY",
     "LLY",
     "MRK",
