@@ -1,10 +1,66 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-12T12:31:48.744990+00:00",
+ "updated": "2026-10-12T12:46:48.638059+00:00",
  "quotes": {
+  "ABBV": {
+   "price": 276.47,
+   "change_pct": 1.49
+  },
+  "ABT": {
+   "price": 99.6,
+   "change_pct": 1.13
+  },
+  "ALHC": {
+   "price": 7.54,
+   "change_pct": -13.38
+  },
+  "ARWR": {
+   "price": 62.75,
+   "change_pct": 3.31
+  },
+  "AZN": {
+   "price": 159.2,
+   "change_pct": 0.26
+  },
+  "BIIB": {
+   "price": 225.71,
+   "change_pct": 3.33
+  },
+  "BMY": {
+   "price": 59.12,
+   "change_pct": -0.77
+  },
+  "BSX": {
+   "price": 42.73,
+   "change_pct": 1.64
+  },
+  "CAH": {
+   "price": 237.57,
+   "change_pct": -0.58
+  },
+  "CNC": {
+   "price": 65.36,
+   "change_pct": 1.27
+  },
+  "CVS": {
+   "price": 86.16,
+   "change_pct": -1.87
+  },
+  "CYTK": {
+   "price": 62.91,
+   "change_pct": 1.45
+  },
+  "DHR": {
+   "price": 219.81,
+   "change_pct": 1.08
+  },
   "DVA": {
    "price": 179.25,
    "change_pct": 1.26
+  },
+  "EXEL": {
+   "price": 59.86,
+   "change_pct": 1.42
   },
   "GILD": {
    "price": 151.17,
@@ -96,6 +152,10 @@
   },
   "TMO": {
    "price": 658.02,
+   "change_pct": 0.93
+  },
+  "UHS": {
+   "price": 177.35,
    "change_pct": 0.93
   },
   "UNH": {
@@ -741,6 +801,21 @@
    ]
   },
   {
+   "id": "3f6f112b52d4",
+   "headline": "Exelixis (NASDAQ:EXEL): A Quality Stock With Durable Returns on Capital",
+   "summary": "Exelixis clears quality investing filters with strong ROIC, no debt and high margins. See how EXEL stacks up on growth, valuation and risk.",
+   "url": "https://finnhub.io/api/news?id=2a8115b26ab7c1bb1059d36c25e1b22c51b357bde9fae1bb61cde732546b250c",
+   "source": "ChartMill",
+   "published": "2026-10-12T12:21:34+00:00",
+   "tickers": [
+    "EXEL"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "66b718309a2c",
    "headline": "AI-Powered Brand Sites Are Changing Patient Engagement",
    "summary": "Compliant AI helps brands answer patient questions in real time and turn conversations into actionable insights.",
@@ -976,9 +1051,25 @@
    "source": "Yahoo",
    "published": "2026-10-12T11:53:05+00:00",
    "tickers": [
-    "JNJ"
+    "JNJ",
+    "UNH"
    ],
    "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "22bcb3516b58",
+   "headline": "JPMorgan gets bullish on Biogen ahead of 2027 catalysts",
+   "summary": "Investing.com -- JPMorgan lifted its rating for Biogen to Overweight from Neutral on Monday, pointing to a stronger run of clinical catalysts in 2027 and an improved long-term growth outlook.",
+   "url": "https://finnhub.io/api/news?id=471dbe8e44ee052eb30f6c569e370934be3284f5b7ba0d58c5ba598bcbe43d12",
+   "source": "Yahoo",
+   "published": "2026-10-12T11:51:33+00:00",
+   "tickers": [
+    "BIIB"
+   ],
+   "tag": "Analyst",
    "sectors": [
     "pharma"
    ]
@@ -1006,9 +1097,25 @@
    "source": "Yahoo",
    "published": "2026-10-12T11:35:15+00:00",
    "tickers": [
-    "JNJ"
+    "JNJ",
+    "UNH"
    ],
    "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "a6f307c5b0f0",
+   "headline": "BIIB Stock: JPMorgan Sees \u2018Increasingly Compelling Catalyst Path\u2019 For Biogen, Raises Price Target To $300",
+   "summary": "According to The Fly, JPMorgan sees a potential market opportunity of more than $2 billion for Biogen\u2019s felzartamab in antibody-mediated rejection.",
+   "url": "https://finnhub.io/api/news?id=197cda554926ff4bffb812a468f6f11289dc392b1557e6f58842bb3211238b12",
+   "source": "Yahoo",
+   "published": "2026-10-12T11:33:38+00:00",
+   "tickers": [
+    "BIIB"
+   ],
+   "tag": "Analyst",
    "sectors": [
     "pharma"
    ]
@@ -1036,9 +1143,26 @@
    "source": "Yahoo",
    "published": "2026-10-12T11:29:00+00:00",
    "tickers": [
-    "JNJ"
+    "HUM",
+    "JNJ",
+    "UNH"
    ],
    "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "5ebf6ee1803f",
+   "headline": "2 Surging Stocks for Long-Term Investors and 1 We Brush Off",
+   "summary": "The stocks in this article are all trading near their 52-week highs. This strength often reflects positive developments such as new product launches, favorable industry trends, or improved financial performance.",
+   "url": "https://finnhub.io/api/news?id=bf55334356bfe7e1144b5fcce0e6e447dc280a1bcb47e2c450075116711cad84",
+   "source": "Yahoo",
+   "published": "2026-10-12T11:19:03+00:00",
+   "tickers": [
+    "BIIB"
+   ],
+   "tag": "News",
    "sectors": [
     "pharma"
    ]
@@ -1056,6 +1180,21 @@
    "tag": "FDA",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "a86873a2e46c",
+   "headline": "3 Momentum Stocks to Target This Week",
+   "summary": "Each stock in this article is trading near its 52-week high. These elevated prices usually indicate some degree of investor confidence, business improvements, or favorable market conditions.",
+   "url": "https://finnhub.io/api/news?id=b7d310c02badcba6b5491cdf01827cd87d65bc4f68e94038d857b7107ee5ec73",
+   "source": "Yahoo",
+   "published": "2026-10-12T11:11:03+00:00",
+   "tickers": [
+    "CAH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharmacy"
    ]
   },
   {
@@ -1081,7 +1220,8 @@
    "source": "Yahoo",
    "published": "2026-10-12T11:03:42+00:00",
    "tickers": [
-    "JNJ"
+    "JNJ",
+    "UNH"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -1146,6 +1286,21 @@
    "tag": "Clinical",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "df745bfca9e4",
+   "headline": "1 Profitable Stock with Exciting Potential and 2 We Turn Down",
+   "summary": "While profitability is essential, it doesn\u2019t guarantee long-term success. Some companies that rest on their margins will lose ground as competition intensifies \u2014 as Jeff Bezos said, \u201cYour margin is my opportunity\u201d.",
+   "url": "https://finnhub.io/api/news?id=7b2f4774c3722d18a3b16952579bffa6714ec2e934d125fa6b0d6d8af22d6a4b",
+   "source": "Yahoo",
+   "published": "2026-10-12T10:47:03+00:00",
+   "tickers": [
+    "UHS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
    ]
   },
   {
