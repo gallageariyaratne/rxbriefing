@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-12T12:02:08.456525+00:00",
+ "updated": "2026-10-12T12:16:46.608071+00:00",
  "quotes": {
   "ABBV": {
    "price": 276.47,
@@ -54,10 +54,6 @@
    "price": 151.17,
    "change_pct": 2.77
   },
-  "GSK": {
-   "price": 46.5,
-   "change_pct": -0.09
-  },
   "HCA": {
    "price": 451.09,
    "change_pct": 1.37
@@ -69,6 +65,10 @@
   "HUM": {
    "price": 431.87,
    "change_pct": 11.56
+  },
+  "IQV": {
+   "price": 259.88,
+   "change_pct": 0.39
   },
   "JNJ": {
    "price": 261.44,
@@ -105,6 +105,10 @@
   "PFE": {
    "price": 28.28,
    "change_pct": 1.65
+  },
+  "PHR": {
+   "price": 10.81,
+   "change_pct": 1.41
   },
   "PODD": {
    "price": 135.28,
@@ -762,6 +766,234 @@
  },
  "stories": [
   {
+   "id": "66b718309a2c",
+   "headline": "AI-Powered Brand Sites Are Changing Patient Engagement",
+   "summary": "Compliant AI helps brands answer patient questions in real time and turn conversations into actionable insights.",
+   "url": "https://www.fiercepharma.com/sponsored/ai-powered-brand-sites-are-changing-patient-engagement",
+   "source": "Fierce Pharma",
+   "published": "2026-10-12T12:15:19.349520+00:00",
+   "tickers": [],
+   "tag": "Health AI",
+   "sectors": []
+  },
+  {
+   "id": "6057242da218",
+   "headline": "Media OS is designed to tackle healthcare advertising's identity challenge",
+   "summary": "IQVIA Digital's Jerrad Rickard explains identity, transparency and AI's evolving role in healthcare advertising.",
+   "url": "https://www.fiercepharma.com/sponsored/mediaos-tackles-healthcare-advertisings-identity-challenge",
+   "source": "Fierce Pharma",
+   "published": "2026-10-12T12:15:19.349027+00:00",
+   "tickers": [
+    "IQV"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "49f80f270e59",
+   "headline": "Why Medical Affairs Is Becoming Biopharma\u2019s Third Pillar",
+   "summary": "CMI Media Group\u2019s Eugene Lee discusses medical affairs, omnichannel scientific engagement and the role of AI in compliant communications.",
+   "url": "https://www.fiercepharma.com/sponsored/why-medical-affairs-becoming-biopharmas-third-pillar",
+   "source": "Fierce Pharma",
+   "published": "2026-10-12T12:15:19.348513+00:00",
+   "tickers": [],
+   "tag": "Health AI",
+   "sectors": []
+  },
+  {
+   "id": "11a216635e4c",
+   "headline": "RevHealth\u2019s Chris Cullmann on AI and Human-Centered Pharma",
+   "summary": "AI can accelerate commercialization, but human creativity, judgment and trust will define success.",
+   "url": "https://www.fiercepharma.com/sponsored/revhealths-chris-cullmann-ai-and-human-centered-pharma",
+   "source": "Fierce Pharma",
+   "published": "2026-10-12T12:15:19.348042+00:00",
+   "tickers": [],
+   "tag": "Health AI",
+   "sectors": []
+  },
+  {
+   "id": "7fe42810a098",
+   "headline": "Why Timing Has Become HCP Marketing's Biggest Challenge",
+   "summary": "Phreesia's ProviderConnect lets teams reach the right clinicians at the right time based on cases they are likely to see in upcoming practice.",
+   "url": "https://www.fiercepharma.com/sponsored/why-timing-has-become-hcp-marketings-biggest-challenge",
+   "source": "Fierce Pharma",
+   "published": "2026-10-12T12:15:19.347536+00:00",
+   "tickers": [
+    "PHR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
+   "id": "e0127b331db1",
+   "headline": "How advanced AI can improve clinical trial decision-making",
+   "summary": "Life science foundation models can help teams anticipate patient outcomes and pressure-test trial designs.",
+   "url": "https://www.fiercepharma.com/sponsored/how-advanced-ai-can-improve-clinical-trial-decision-making",
+   "source": "Fierce Pharma",
+   "published": "2026-10-12T12:15:19.346638+00:00",
+   "tickers": [],
+   "tag": "Clinical",
+   "sectors": []
+  },
+  {
+   "id": "c07063be44b4",
+   "headline": "Why Patient Voice Must Shape Pharma Strategy",
+   "summary": "Data alone isn't enough. Connecting patient voice, measurement and AI can improve commercial decision-making.",
+   "url": "https://www.fiercepharma.com/sponsored/why-patient-voice-must-shape-pharma-strategy",
+   "source": "Fierce Pharma",
+   "published": "2026-10-12T12:15:19.346189+00:00",
+   "tickers": [],
+   "tag": "Health AI",
+   "sectors": []
+  },
+  {
+   "id": "e11bceef9ee2",
+   "headline": "Beyond the Pharmacy Counter: Inmar's Data Advantage",
+   "summary": "Emily Welker explains how retail and healthcare data reveal new opportunities to engage GLP-1 consumers more effectively.",
+   "url": "https://www.fiercepharma.com/sponsored/beyond-pharmacy-counter-inmars-data-advantage",
+   "source": "Fierce Pharma",
+   "published": "2026-10-12T12:15:19.345721+00:00",
+   "tickers": [],
+   "tag": "GLP-1",
+   "sectors": []
+  },
+  {
+   "id": "aabb61f5c21b",
+   "headline": "Why AI and Precision Matter in Pharma Commercialization",
+   "summary": "DeepIntent CMO Ian Colley explains why AI, data and transparency are reshaping pharma commercialization.",
+   "url": "https://www.fiercepharma.com/sponsored/why-ai-and-precision-matter-pharma-commercialization",
+   "source": "Fierce Pharma",
+   "published": "2026-10-12T12:15:19.345272+00:00",
+   "tickers": [],
+   "tag": "Health AI",
+   "sectors": []
+  },
+  {
+   "id": "728c7946df94",
+   "headline": "AI, Data and the New Rules of HCP Marketing",
+   "summary": "Doceree's Kamya Elawadhi explores AI, measurement, data recency and why point of care is becoming central to pharma marketing.",
+   "url": "https://www.fiercepharma.com/sponsored/ai-data-and-new-rules-hcp-marketing",
+   "source": "Fierce Pharma",
+   "published": "2026-10-12T12:15:19.344800+00:00",
+   "tickers": [],
+   "tag": "Health AI",
+   "sectors": []
+  },
+  {
+   "id": "f5ee5ef21cbc",
+   "headline": "Why MRC Accreditation Is Just the First Step",
+   "summary": "CheckedUp's COO explains how MRC accreditation strengthens trust, scalability and accountability in healthcare media.",
+   "url": "https://www.fiercepharma.com/sponsored/why-mrc-accreditation-just-first-step",
+   "source": "Fierce Pharma",
+   "published": "2026-10-12T12:15:19.344349+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "5f03e14819dd",
+   "headline": "Executive Interviews at Fierce Pharma Week 2026",
+   "summary": "Join Fierce Pharma as we sit down with industry innovators to explore the most impactful strategies, cutting-edge insights, and collaborative approaches shaping the future of pharma engagement.",
+   "url": "https://www.fiercepharma.com/sponsored/fierce-pharma-week-2026-executive-interviews",
+   "source": "Fierce Pharma",
+   "published": "2026-10-12T12:15:19.343784+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "474f04b1a0fc",
+   "headline": "Why AI\u2019s Biggest Value in Pharma Is Confidence",
+   "summary": "/prompt CEO Paul Dyer explains why AI drives confidence, not just efficiency, and what that means for pharma marketing.",
+   "url": "https://www.fiercepharma.com/sponsored/why-ais-biggest-value-pharma-confidence",
+   "source": "Fierce Pharma",
+   "published": "2026-10-12T12:15:19.343297+00:00",
+   "tickers": [],
+   "tag": "Health AI",
+   "sectors": []
+  },
+  {
+   "id": "64e2ba3ce0cc",
+   "headline": "Fullspan Health on Winning the AI Search Revolution",
+   "summary": "Learn how Fullspan Health is helping brands improve AI visibility, build trust and engage patients across the healthcare journey.",
+   "url": "https://www.fiercepharma.com/sponsored/fullspan-health-winning-ai-search-revolution",
+   "source": "Fierce Pharma",
+   "published": "2026-10-12T12:15:19.342819+00:00",
+   "tickers": [],
+   "tag": "Health AI",
+   "sectors": []
+  },
+  {
+   "id": "f4054dc0fa1f",
+   "headline": "Why Medical Teams Must Lead DOL Strategy",
+   "summary": "Medical, marketing and commercial teams must unite to make digital opinion leader engagement effective in the AI era.",
+   "url": "https://www.fiercepharma.com/sponsored/why-medical-teams-must-lead-dol-strategy",
+   "source": "Fierce Pharma",
+   "published": "2026-10-12T12:15:19.342371+00:00",
+   "tickers": [],
+   "tag": "Health AI",
+   "sectors": []
+  },
+  {
+   "id": "306ccca7b6a2",
+   "headline": "Beyond Data: Understanding the \u201cWhy\u201d Behind HCP Decisions",
+   "summary": "AI delivers information. Peer validation delivers confidence. Learn how HCP conversations reveal the \u201cwhy\u201d behind clinical decisions.",
+   "url": "https://www.fiercepharma.com/sponsored/beyond-data-understanding-why-behind-hcp-decisions",
+   "source": "Fierce Pharma",
+   "published": "2026-10-12T12:15:19.341853+00:00",
+   "tickers": [],
+   "tag": "Health AI",
+   "sectors": []
+  },
+  {
+   "id": "2654fa33db76",
+   "headline": "How Predictive Modeling Uncovers Blind Spots in the Patient Journey",
+   "summary": "Predictive modeling helps pharma marketers reach patients before diagnosis and measure impact beyond traditional audience metrics.",
+   "url": "https://www.fiercepharma.com/sponsored/how-predictive-modeling-uncovers-blind-spots-patient-journey",
+   "source": "Fierce Pharma",
+   "published": "2026-10-12T12:15:19.341354+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "1350f2e61b29",
+   "headline": "How Ohio Is Building a Biopharma Growth Engine",
+   "summary": "Discover how Ohio is investing in talent, manufacturing and research to attract the next wave of biopharma growth.",
+   "url": "https://www.fiercepharma.com/sponsored/how-ohio-building-biopharma-growth-engine",
+   "source": "Fierce Pharma",
+   "published": "2026-10-12T12:15:19.340883+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "69f18af30353",
+   "headline": "Data Precision Is Healthcare Marketing\u2019s Growth Engine",
+   "summary": "Butler/Till\u2019s Michael Deichmiller explains why precision, not scale, will define healthcare marketing success.",
+   "url": "https://www.fiercepharma.com/sponsored/data-precision-healthcare-marketings-growth-engine",
+   "source": "Fierce Pharma",
+   "published": "2026-10-12T12:15:19.340314+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "14f48c3126ff",
+   "headline": "iRegene Therapeutics\u2019s NouvSight001 Cleared for Clinical Trials in the U.S. and China for Retinitis Pigmentosa",
+   "summary": "Following its Parkinson\u2019s disease program, iRegene advances another off-the-shelf cell therapy into clinical development in the U.S. and China.",
+   "url": "https://www.fiercebiotech.com/sponsored/iregene-therapeuticss-nouvsight001-cleared-clinical-trials-us-and-china-retinitis",
+   "source": "Fierce Biotech",
+   "published": "2026-10-12T12:15:19.119421+00:00",
+   "tickers": [],
+   "tag": "Clinical",
+   "sectors": []
+  },
+  {
    "id": "91cfd9b2a2a9",
    "headline": "TG Therapeutics Announces Publication of Five-Year Comparative Analysis of BRIUMVI Versus Ocrelizumab and Ofatumumab in Relapsing Multiple Sclerosis",
    "summary": "NEW YORK, October 12, 2026--TG Therapeutics, Inc. (NASDAQ: TGTX), today announced the publication of results from a five-year matching-adjusted indirect comparison (MAIC) evaluating long-term relapse activity and disability progression\u2026",
@@ -774,6 +1006,36 @@
    "tag": "News",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "19402480cec1",
+   "headline": "Prediction: AbbVie\u2019s Next Billion-Dollar Opportunity Is Taking Shape",
+   "summary": "Skyrizi and Rinvoq are growing fast, a blockbuster acquisition just closed, and the FDA handed AbbVie a fresh approval, yet the stock sits just shy of a price target that has Wall Street divided between a $297 bull case and a $246 bear\u2026",
+   "url": "https://finnhub.io/api/news?id=01dff681fb097544aea2c0c9b86433efdb69ea47efd735d0cf701250b550a029",
+   "source": "Yahoo",
+   "published": "2026-10-12T11:15:09+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "6b8cc1cd78b2",
+   "headline": "REGENXBIO to Host Investor Event Highlighting Surabgene Lomparvovec (Sura-vec) in Wet AMD on October 20",
+   "summary": "REGENXBIO Inc. (Nasdaq: RGNX) today announced it will host an investor event at 1:00 p.m. ET on Tuesday, October 20, 2026 to review the surabgene lomparvovec (sura-vec, ABBV-RGX-314) clinical program in wet age-related macular\u2026",
+   "url": "https://finnhub.io/api/news?id=6604f99421e23532e5a5850e2123a4af7ebb3e36d79acf162b43bce529295078",
+   "source": "Yahoo",
+   "published": "2026-10-12T11:05:00+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
