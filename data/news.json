@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-12T12:46:48.638059+00:00",
+ "updated": "2026-10-12T13:02:14.333391+00:00",
  "quotes": {
   "ABBV": {
    "price": 276.47,
@@ -66,10 +66,6 @@
    "price": 151.17,
    "change_pct": 2.77
   },
-  "HCA": {
-   "price": 451.09,
-   "change_pct": 1.37
-  },
   "HIMS": {
    "price": 30.92,
    "change_pct": 10.19
@@ -125,10 +121,6 @@
   "PODD": {
    "price": 135.28,
    "change_pct": 0.6
-  },
-  "RMD": {
-   "price": 230.05,
-   "change_pct": 1.46
   },
   "SNY": {
    "price": 40.07,
@@ -786,6 +778,32 @@
  },
  "stories": [
   {
+   "id": "f223fd25187b",
+   "headline": "UCB\u2019s Bimzelx takes top drug ad spending spot as streaming data come to the fore",
+   "summary": "UCB\u2019s immunology drug Bimzelx has once again become the highest ranked drug in iSpot.TV\u2019s pharma ad spending league, topping the charts for September.",
+   "url": "https://www.fiercepharma.com/marketing/ucbs-bimzelx-take-drug-ad-spending-top-spot-streaming-data-comes-fore",
+   "source": "Fierce Pharma",
+   "published": "2026-10-12T13:00:30.025590+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "f88238bf2c55",
+   "headline": "Medtronic Announces Preliminary Results of MiniMed Group, Inc. Exchange Offer",
+   "summary": "GALWAY, Ireland, Oct. 12, 2026 /PRNewswire/ -- Medtronic plc (Medtronic; NYSE: MDT) today announced that, based on preliminary results, its previously announced offer to exchange shares of common stock of MiniMed Group, Inc. (MiniMed;\u2026",
+   "url": "https://www.prnewswire.com/news-releases/medtronic-announces-preliminary-results-of-minimed-group-inc-exchange-offer-302905650.html",
+   "source": "PR Newswire",
+   "published": "2026-10-12T12:45:00+00:00",
+   "tickers": [
+    "MDT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "54ce300c7cfa",
    "headline": "BMS doubles up with pivotal wins in lung disease, solid tumor that offer hope for post-patent cliff growth",
    "summary": "Bristol Myers Squibb has reported phase 3 wins in a lung disease and a solid tumor, taking two steps on its path toward post-patent cliff growth.",
@@ -1067,7 +1085,8 @@
    "source": "Yahoo",
    "published": "2026-10-12T11:51:33+00:00",
    "tickers": [
-    "BIIB"
+    "BIIB",
+    "LLY"
    ],
    "tag": "Analyst",
    "sectors": [
@@ -1175,7 +1194,9 @@
    "source": "Yahoo",
    "published": "2026-10-12T11:15:09+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "LLY",
+    "MRK"
    ],
    "tag": "FDA",
    "sectors": [
@@ -1208,6 +1229,21 @@
     "ABBV"
    ],
    "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "73bd7ee0d826",
+   "headline": "Lilly reports Phase IIIb data on Taltz and Zepbound combination",
+   "summary": "By week 36, dual therapy shifted 482 proteins and 467 genes, compared with 140 proteins and 16 genes.",
+   "url": "https://finnhub.io/api/news?id=9c51c6234c65917188dfed1b0c51ae6a61eb12397d0e2ace0458a414536dd6d5",
+   "source": "Yahoo",
+   "published": "2026-10-12T11:04:52+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "GLP-1",
    "sectors": [
     "pharma"
    ]
@@ -1301,6 +1337,21 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "5e83878a44e9",
+   "headline": "2 Growth Stocks Set to Flourish and 1 Facing Headwinds",
+   "summary": "Growth boosts valuation multiples, but it doesn\u2019t always last forever. Companies that cannot maintain it are often penalized with large declines in market value, a lesson ingrained in investors who lost money in tech stocks during 2022.",
+   "url": "https://finnhub.io/api/news?id=357aef9e3c7a0db7de312201309fbf674244d1688ef499839cddefcb20923084",
+   "source": "Yahoo",
+   "published": "2026-10-12T10:39:03+00:00",
+   "tickers": [
+    "HIMS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
    ]
   },
   {
