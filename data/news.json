@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-12T22:32:35.941481+00:00",
+ "updated": "2026-10-12T22:47:30.843408+00:00",
  "quotes": {
   "A": {
    "price": 171.33,
@@ -41,6 +41,10 @@
   "BMY": {
    "price": 57.58,
    "change_pct": -2.6
+  },
+  "BRKR": {
+   "price": 56.25,
+   "change_pct": -4.4
   },
   "BSX": {
    "price": 43.84,
@@ -285,10 +289,6 @@
   "ZBH": {
    "price": 92.17,
    "change_pct": 3.4
-  },
-  "ZTS": {
-   "price": 75.65,
-   "change_pct": 1.12
   }
  },
  "tickers": {
@@ -928,6 +928,21 @@
    "sectors": []
   },
   {
+   "id": "1739cdf7af92",
+   "headline": "What Biogen (BIIB)'s 52-Week Litifilimab CLE Data Means For Shareholders",
+   "summary": "Biogen Inc. recently reported 52-week Phase 2 results from the AMETHYST study of litifilimab in cutaneous lupus erythematosus, showing sustained improvements in skin disease activity and a generally well tolerated safety profile in\u2026",
+   "url": "https://finnhub.io/api/news?id=5c5da9a40564805d54d1dc343a21338d71aaf0825323ce7c37fed45388edb71c",
+   "source": "Yahoo",
+   "published": "2026-10-12T21:10:01+00:00",
+   "tickers": [
+    "BIIB"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "993d3650d4e7",
    "headline": "Discover the top S&P500 movers in Monday's after-hours session.",
    "summary": "After the closing bell on Monday, let's take a glimpse of the US markets and explore the top S&P500 gainers and losers in today's after-hours session.",
@@ -940,6 +955,36 @@
    "tag": "News",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "2a8a4d379695",
+   "headline": "Where Could Moderna's Next Growth Come From?",
+   "summary": "Moderna (MRNA) stock has returned 621% over the past twelve months, easily outpacing the S&P 500's 17.0% return. Yet the company's sales have fallen for three consecutive years, and nearly all of that revenue still comes from COVID\u2026",
+   "url": "https://finnhub.io/api/news?id=44630c809357e2f07010f9d4cdb465c71d19dd1f54e2d65b83653012ff28c8ed",
+   "source": "Yahoo",
+   "published": "2026-10-12T21:01:42+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "cc3968eeb206",
+   "headline": "3 Reasons BRKR is Risky and 1 Stock to Buy Instead",
+   "summary": "Bruker has been on fire lately. In the past six months alone, the company\u2019s stock price has rocketed 50.7%, reaching $58.84 per share. This run-up might have investors contemplating their next move.",
+   "url": "https://finnhub.io/api/news?id=9e5222af7dece194a33adf22209cca772fd491a828b8d6c627e7f1af44c36a87",
+   "source": "Yahoo",
+   "published": "2026-10-12T20:47:03+00:00",
+   "tickers": [
+    "BRKR"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -970,6 +1015,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "2276de71746f",
+   "headline": "Humana Inc. to Release Third Quarter 2026 Results on November 6, 2026",
+   "summary": "LOUISVILLE, Ky., October 12, 2026--Humana Inc. (NYSE: HUM) will release its financial results for the third quarter 2026 (3Q26), as well as prepared management remarks (in PDF format), at 6:00 a.m. Eastern time on November 6, 2026. The\u2026",
+   "url": "https://finnhub.io/api/news?id=24972eb42372f8d2043a41f92db5ec599632f42f62852b088e3a888295d3712f",
+   "source": "Yahoo",
+   "published": "2026-10-12T20:30:00+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -1041,6 +1101,21 @@
    "published": "2026-10-12T20:05:00+00:00",
    "tickers": [
     "JNJ"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "17a7f53110c2",
+   "headline": "Nurix Therapeutics Reports Third Quarter 2026 Financial Results and Provides Corporate Update",
+   "summary": "Dosed first patient in registrational Phase 3 DAYBreak CLL-306 trial comparing bexobrutideg with pirtobrutinib in relapsed/refractory CLL/SLL Advanced bexobrutideg combination strategy with initiation of recruiting for the Phase 1b/2\u2026",
+   "url": "https://finnhub.io/api/news?id=4ada72fac9123a59143a240d812a2ab69d3c89f7ae6796e066c81830e7e4ce67",
+   "source": "Yahoo",
+   "published": "2026-10-12T20:05:00+00:00",
+   "tickers": [
+    "PFE"
    ],
    "tag": "Clinical",
    "sectors": [
@@ -1951,6 +2026,21 @@
    "tickers": [
     "BMY",
     "MRK",
+    "PFE"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "fd7b3f2c01e7",
+   "headline": "How to Play PFE Stock as Pfizer Cuts 300 Jobs",
+   "summary": "Pfizer is set to cut 330 jobs at its Catania plant as it restructures its business.",
+   "url": "https://finnhub.io/api/news?id=fab176c327cb9dccc903ff0e731ac2c1189f74af8e844d3a1b549b7443445648",
+   "source": "Yahoo",
+   "published": "2026-10-12T14:47:50+00:00",
+   "tickers": [
     "PFE"
    ],
    "tag": "News",
