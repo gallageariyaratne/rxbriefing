@@ -1,51 +1,7 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-12T12:16:46.608071+00:00",
+ "updated": "2026-10-12T12:31:48.744990+00:00",
  "quotes": {
-  "ABBV": {
-   "price": 276.47,
-   "change_pct": 1.49
-  },
-  "ABT": {
-   "price": 99.6,
-   "change_pct": 1.13
-  },
-  "ALHC": {
-   "price": 7.54,
-   "change_pct": -13.38
-  },
-  "ARWR": {
-   "price": 62.75,
-   "change_pct": 3.31
-  },
-  "AZN": {
-   "price": 159.2,
-   "change_pct": 0.26
-  },
-  "BMY": {
-   "price": 59.12,
-   "change_pct": -0.77
-  },
-  "BSX": {
-   "price": 42.73,
-   "change_pct": 1.64
-  },
-  "CNC": {
-   "price": 65.36,
-   "change_pct": 1.27
-  },
-  "CVS": {
-   "price": 86.16,
-   "change_pct": -1.87
-  },
-  "CYTK": {
-   "price": 62.91,
-   "change_pct": 1.45
-  },
-  "DHR": {
-   "price": 219.81,
-   "change_pct": 1.08
-  },
   "DVA": {
    "price": 179.25,
    "change_pct": 1.26
@@ -145,6 +101,10 @@
   "UNH": {
    "price": 379.3,
    "change_pct": 2.25
+  },
+  "VRTX": {
+   "price": 510.08,
+   "change_pct": 1.36
   },
   "ZTS": {
    "price": 74.81,
@@ -766,6 +726,21 @@
  },
  "stories": [
   {
+   "id": "54ce300c7cfa",
+   "headline": "BMS doubles up with pivotal wins in lung disease, solid tumor that offer hope for post-patent cliff growth",
+   "summary": "Bristol Myers Squibb has reported phase 3 wins in a lung disease and a solid tumor, taking two steps on its path toward post-patent cliff growth.",
+   "url": "https://www.fiercebiotech.com/biotech/bristol-myers-doubles-pivotal-wins-lung-disease-and-solid-tumor",
+   "source": "Fierce Biotech",
+   "published": "2026-10-12T12:30:22.691357+00:00",
+   "tickers": [
+    "BMY"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "66b718309a2c",
    "headline": "AI-Powered Brand Sites Are Changing Patient Engagement",
    "summary": "Compliant AI helps brands answer patient questions in real time and turn conversations into actionable insights.",
@@ -994,6 +969,51 @@
    "sectors": []
   },
   {
+   "id": "3a65548e9b12",
+   "headline": "Stocks Mostly Up Pre-Bell as Traders Await Latest Earnings, Key Inflation Data",
+   "summary": "The benchmark US stock measures were mostly pointing higher before the opening bell Monday as trader",
+   "url": "https://finnhub.io/api/news?id=c90725692a4a00d579f74c9c926c9e0d4ea2ca5676e0f87549d99e7a5c99f2c8",
+   "source": "Yahoo",
+   "published": "2026-10-12T11:53:05+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "dbdc0db67d71",
+   "headline": "Bristol Myers Squibb stock surges on dual phase 3 clinical trial successes",
+   "summary": "Investing.com -- Bristol Myers Squibb (NYSE: BMY) shares surged 6.5% on Monday following the announcement of positive top-line results from two separate Phase 3 clinical trials evaluating targeted therapies for neuroendocrine tumors and\u2026",
+   "url": "https://finnhub.io/api/news?id=72a02883f80ffed0e7dfe9e9fe245bc2b6d032b558a236ea282aecb0b8f227b9",
+   "source": "Yahoo",
+   "published": "2026-10-12T11:36:53+00:00",
+   "tickers": [
+    "BMY"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "3bdedf26310a",
+   "headline": "Johnson & Johnson and UnitedHealth Report the Same Morning. Here\u2019s What Matters.",
+   "summary": "Two healthcare giants drop their third-quarter numbers on the same morning, and what each reveals about drug costs, insurance margins, and guidance ranges will set the tone for the entire sector heading into 2027.",
+   "url": "https://finnhub.io/api/news?id=54736cbeaefed46bba02a4ac86fc29f9f94b9a209d2a5a517bddbdd098ff970f",
+   "source": "Yahoo",
+   "published": "2026-10-12T11:35:15+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "91cfd9b2a2a9",
    "headline": "TG Therapeutics Announces Publication of Five-Year Comparative Analysis of BRIUMVI Versus Ocrelizumab and Ofatumumab in Relapsing Multiple Sclerosis",
    "summary": "NEW YORK, October 12, 2026--TG Therapeutics, Inc. (NASDAQ: TGTX), today announced the publication of results from a five-year matching-adjusted indirect comparison (MAIC) evaluating long-term relapse activity and disability progression\u2026",
@@ -1006,6 +1026,21 @@
    "tag": "News",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "f24f522ba091",
+   "headline": "After a Record-Setting Week, Wall Street Turns to Inflation Data and the First Big Earnings Reports",
+   "summary": "American News Group News Commentary - The S&P 500 set an all-time high on Tuesday, October 6, and finished the week at 7,811.54 after a Friday gain of 0.6%, with the Dow Jones Industrial Average closing at 51,654.95 and the Nasdaq\u2026",
+   "url": "https://finnhub.io/api/news?id=a0322560b8e7f90c21b9ad6b298aad238f6dff74eb86d9dc9103144495942531",
+   "source": "Yahoo",
+   "published": "2026-10-12T11:29:00+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1039,6 +1074,21 @@
    ]
   },
   {
+   "id": "8458489dd571",
+   "headline": "Earnings Season, Oil, Bonds Pressure Wall Street Pre-Bell; Asia Mixed, Europe Up",
+   "summary": "Wall Street futures were mixed and muted pre-bell Monday as traders awaited the start of earnings se",
+   "url": "https://finnhub.io/api/news?id=e212ee45f002682a5b81167a762d407d5a582da310cd6269c53276f8953207c7",
+   "source": "Yahoo",
+   "published": "2026-10-12T11:03:42+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "695f76155bb7",
    "headline": "Insulet Announces Omnipod Discover Now Available in U.S.",
    "summary": "ACTON, Mass., October 12, 2026--Insulet Corporation (NASDAQ: PODD), the global leader in tubeless insulin pump technology with its Omnipod\u00ae brand of products, today announced the U.S. full market release of Omnipod Discover\u2122, a web-based\u2026",
@@ -1051,6 +1101,66 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "fce3236040ce",
+   "headline": "From Brooklyn to Home Depot, Walmart and Amazon: Mitch Gould's Retail Journey",
+   "summary": "The third-generation retail distribution veteran reflects on a career helping consumer brands reach America's largest retailers and bringing products from manufacturers to consumers nationwide.BOCA RATON, FL / ACCESS Newswire / October\u2026",
+   "url": "https://finnhub.io/api/news?id=7236ca2e62050d6d09a64f4d69524934757f8221193b554985ab06e51f9ed9a5",
+   "source": "Yahoo",
+   "published": "2026-10-12T11:00:00+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "80463a2c1431",
+   "headline": "Bristol Myers Squibb Announces Positive Topline Results from the Interim Analysis of Phase 3 ACTION-1 for RYZ101, RayzeBio\u2019s Radiopharmaceutical Therapy, in Patients with GEP-NETs",
+   "summary": "PRINCETON, N.J., October 12, 2026--BMS Announces Positive Topline Results from the Interim Analysis of Phase 3 ACTION-1 for RYZ101",
+   "url": "https://finnhub.io/api/news?id=cee10ddcf20697816ec2b96482a4a6365766ca954c28a75418268657516bde20",
+   "source": "Yahoo",
+   "published": "2026-10-12T10:55:00+00:00",
+   "tickers": [
+    "BMY"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "aa5cce4264fc",
+   "headline": "Bristol Myers Squibb Announces Phase 3 ALOFT-IPF Trial Evaluating Admilparant in Adults with Idiopathic Pulmonary Fibrosis Met Primary Endpoint",
+   "summary": "PRINCETON, N.J., October 12, 2026--Bristol Myers Squibb Announces Phase 3 ALOFT-IPF Trial Evaluating Admilparant in Adults with Idiopathic Pulmonary Fibrosis Met Primary Endpoint",
+   "url": "https://finnhub.io/api/news?id=9bae07c5edfb89b59f8e0165f194bdf91ab7a4248324545f7d7b72321a40822c",
+   "source": "Yahoo",
+   "published": "2026-10-12T10:50:00+00:00",
+   "tickers": [
+    "BMY"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "bfa1bd1ff7f4",
+   "headline": "2 High-Flying Stocks on Our Watchlist and 1 We Question",
+   "summary": "\u201cYou get what you pay for\u201d often applies to expensive stocks with best-in-class business models and execution. While their quality can sometimes justify the premium, they typically experience elevated volatility during market downturns\u2026",
+   "url": "https://finnhub.io/api/news?id=9202fe518a488cc7029f2456af0fc3ba7be6c9d583a9d1306d3305f451800fcb",
+   "source": "Yahoo",
+   "published": "2026-10-12T10:31:03+00:00",
+   "tickers": [
+    "VRTX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
