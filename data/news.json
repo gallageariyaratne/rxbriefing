@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-12T20:32:45.291058+00:00",
+ "updated": "2026-10-12T20:47:36.868664+00:00",
  "quotes": {
   "A": {
    "price": 171.33,
@@ -954,6 +954,7 @@
    "source": "Yahoo",
    "published": "2026-10-12T19:51:12+00:00",
    "tickers": [
+    "BIIB",
     "BMY"
    ],
    "tag": "News",
@@ -969,7 +970,9 @@
    "source": "Yahoo",
    "published": "2026-10-12T19:45:44+00:00",
    "tickers": [
-    "CVS"
+    "CVS",
+    "HUM",
+    "UNH"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -989,6 +992,21 @@
    "tag": "Legal",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "810bc22c282c",
+   "headline": "Biogen (BIIB) Could Be 5% Undervalued After 52 Week Lupus Data",
+   "summary": "Biogen (BIIB) is back in focus after releasing 52 week Phase 2 data for litifilimab in cutaneous lupus erythematosus, reporting sustained improvements in skin activity and a safety profile described as consistent with earlier studies. For\u2026",
+   "url": "https://finnhub.io/api/news?id=677e3129c524cac7324c3c367bb91446ce3bb59dfccd4015298516546df7e2f4",
+   "source": "Yahoo",
+   "published": "2026-10-12T19:11:18+00:00",
+   "tickers": [
+    "BIIB"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1038,6 +1056,22 @@
    "sectors": []
   },
   {
+   "id": "012a76c17325",
+   "headline": "Abbott Laboratories vs. Intuitive Surgical: Which Healthcare Stock Is a Better Buy in 2026?",
+   "summary": "Abbott trades at a 18x forward P/E with $7.4B in free cash flow, while Intuitive Surgical commands a 39x multiple backed by zero debt and 20% revenue growth.",
+   "url": "https://finnhub.io/api/news?id=07f64436b15bb515cf5704a99d822bb9995517764231539e379bbadc26ca483a",
+   "source": "Yahoo",
+   "published": "2026-10-12T19:00:01+00:00",
+   "tickers": [
+    "ABT",
+    "ISRG"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "ae5e244e0972",
    "headline": "Bristol Myers Stock Tumbles on \u2018Confounding\u2019 Trial Results",
    "summary": "Bristol Myers Squibb is making a $4.1 billion bet on radiopharmaceutical cancer drugs ahead of a major patent cliff in 2028.",
@@ -1045,11 +1079,43 @@
    "source": "Yahoo",
    "published": "2026-10-12T18:46:00+00:00",
    "tickers": [
-    "BMY"
+    "BMY",
+    "GEHC",
+    "PFE"
    ],
    "tag": "Clinical",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "e529f3322f08",
+   "headline": "Humana (HUM) Gets a Major Ratings Boost. Can Earnings Justify the Valuation?",
+   "summary": "On October 9, Humana Inc. (NYSE:HUM) gained more than 11% after analysts named it the biggest potential beneficiary of the new Medicare Advantage star ratings for 2027. Earlier this year, the stock also ranked 5th on our list of the 7\u2026",
+   "url": "https://finnhub.io/api/news?id=a43a22a16072cca6c4d59306f0111e72c743c74abf96ea1b7bf78760e3178f70",
+   "source": "Yahoo",
+   "published": "2026-10-12T18:39:09+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "865131bcf389",
+   "headline": "Wall Street Is Shedding Risk Ahead of Earnings, Inflation Data",
+   "summary": "Traders were shedding risk and buying value stocks ahead of a major stretch of earnings reports and inflation data in the days and weeks ahead.",
+   "url": "https://finnhub.io/api/news?id=d662550ff908f7ce69d41f89a95795b1e5b32172c6bc7360d749aab494b55fde",
+   "source": "Yahoo",
+   "published": "2026-10-12T18:33:30+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -1086,6 +1152,7 @@
    "source": "Yahoo",
    "published": "2026-10-12T18:07:49+00:00",
    "tickers": [
+    "ABT",
     "DXCM"
    ],
    "tag": "Financing",
@@ -1157,6 +1224,36 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "d6f6b7ebfb5b",
+   "headline": "Biogen Upgraded to Buy at J.P. Morgan. How the Stock Could Rise 28%.",
+   "summary": "Biogen stock is upgraded to Overweight from Neutral at J.P. Morgan ahead of a slate of data readouts for compelling pipeline candidates.",
+   "url": "https://finnhub.io/api/news?id=d7b89a9724b6684eca2328ec43aa70627caa9eab7fbe881eb5a41bc920aa007e",
+   "source": "Yahoo",
+   "published": "2026-10-12T17:15:00+00:00",
+   "tickers": [
+    "BIIB"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "b8259e04d8a4",
+   "headline": "Strength Seen in Humana (HUM): Can Its 11.6% Jump Turn into More Strength?",
+   "summary": "Humana (HUM) saw its shares surge in the last session with trading volume being higher than average. The latest trend in earnings estimate revisions may not translate into further price increase in the near term.",
+   "url": "https://finnhub.io/api/news?id=c38a1fd70c073e2aa7ff4cca514382b82259cdbb678f2719e82c423d41ad1616",
+   "source": "Yahoo",
+   "published": "2026-10-12T17:12:00+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -3228,7 +3325,8 @@
    "source": "Yahoo",
    "published": "2026-10-12T10:50:32+00:00",
    "tickers": [
-    "JNJ"
+    "JNJ",
+    "UNH"
    ],
    "tag": "Earnings",
    "sectors": [
