@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-12T21:32:37.300299+00:00",
+ "updated": "2026-10-12T21:47:24.513293+00:00",
  "quotes": {
   "A": {
    "price": 171.33,
@@ -141,6 +141,10 @@
   "ILMN": {
    "price": 276.67,
    "change_pct": -0.54
+  },
+  "INCY": {
+   "price": 111.36,
+   "change_pct": -1.27
   },
   "INSM": {
    "price": 98.56,
@@ -901,6 +905,32 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "ae335bd7c36b",
+   "headline": "First Tracks climbs on \u2018impressive\u2019 celiac study data",
+   "summary": "Initial study findings strengthened some analysts\u2019 belief that First Tracks\u2019 drug, one of a few in development aimed at the protein CD122, might have \u201cpipeline-in-a-product\u201d potential.",
+   "url": "https://www.biopharmadive.com/news/first-tracks-celiac-study-results-cd122/832726/",
+   "source": "BioPharma Dive",
+   "published": "2026-10-12T21:26:00+00:00",
+   "tickers": [],
+   "tag": "Analyst",
+   "sectors": []
+  },
+  {
+   "id": "993d3650d4e7",
+   "headline": "Discover the top S&P500 movers in Monday's after-hours session.",
+   "summary": "After the closing bell on Monday, let's take a glimpse of the US markets and explore the top S&P500 gainers and losers in today's after-hours session.",
+   "url": "https://finnhub.io/api/news?id=bacaa0760479e8077018a44bda1ddb5821f5553ec0790d93f15b431d02fb26f7",
+   "source": "ChartMill",
+   "published": "2026-10-12T21:05:01+00:00",
+   "tickers": [
+    "INCY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
   {
    "id": "f892f5d66e79",
    "headline": "Danaher Announces Appointments of Daniel Comas and Robert Hershberg to Board of Directors",
