@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-12T22:47:30.843408+00:00",
+ "updated": "2026-10-12T23:02:46.007341+00:00",
  "quotes": {
   "A": {
    "price": 171.33,
@@ -21,6 +21,10 @@
   "ALHC": {
    "price": 8.09,
    "change_pct": 7.22
+  },
+  "ALNY": {
+   "price": 227.02,
+   "change_pct": -2.43
   },
   "AMGN": {
    "price": 417.57,
@@ -906,6 +910,21 @@
  },
  "stories": [
   {
+   "id": "96adbc9e1019",
+   "headline": "3 Reasons Investors Watch Stryker (SYK)",
+   "summary": "Over the past six months, Stryker\u2019s shares (currently trading at $277.82) have posted a disappointing 20% loss, well below the S&P 500\u2019s 12.8% gain. This may have investors wondering how to approach the situation.",
+   "url": "https://finnhub.io/api/news?id=6a60ea074c00e5df8d31cf5348c92cade79d3807dbc4a357f8f8a8f1f6a66687",
+   "source": "Yahoo",
+   "published": "2026-10-12T21:51:03+00:00",
+   "tickers": [
+    "SYK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "ae335bd7c36b",
    "headline": "First Tracks climbs on \u2018impressive\u2019 celiac study data",
    "summary": "Initial study findings strengthened some analysts\u2019 belief that First Tracks\u2019 drug, one of a few in development aimed at the protein CD122, might have \u201cpipeline-in-a-product\u201d potential.",
@@ -965,9 +984,27 @@
    "source": "Yahoo",
    "published": "2026-10-12T21:01:42+00:00",
    "tickers": [
+    "ALNY",
+    "MRK",
+    "MRNA",
     "PFE"
    ],
    "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "39479fec307f",
+   "headline": "Here's Why Moderna (MRNA) Fell More Than Broader Market",
+   "summary": "In the closing of the recent trading day, Moderna (MRNA) stood at $213.63, denoting a -5.05% move from the preceding trading day.",
+   "url": "https://finnhub.io/api/news?id=43df23e601f4825f694952c4d6c8d28928860c31593421aec5e57e82831752db",
+   "source": "Yahoo",
+   "published": "2026-10-12T20:50:03+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "News",
    "sectors": [
     "pharma"
    ]
@@ -1115,6 +1152,7 @@
    "source": "Yahoo",
    "published": "2026-10-12T20:05:00+00:00",
    "tickers": [
+    "GILD",
     "PFE"
    ],
    "tag": "Clinical",
