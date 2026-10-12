@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-12T08:16:35.812948+00:00",
+ "updated": "2026-10-12T08:31:41.656805+00:00",
  "quotes": {
   "ABBV": {
    "price": 276.47,
@@ -77,6 +77,10 @@
   "MRNA": {
    "price": 225,
    "change_pct": 14.21
+  },
+  "NVS": {
+   "price": 143.75,
+   "change_pct": 0.45
   },
   "OPCH": {
    "price": 31.07,
@@ -756,6 +760,21 @@
    ]
   },
   {
+   "id": "5eaa07bbf2eb",
+   "headline": "Two major long-term leases for Gecina\u2019s portfolio in La D\u00e9fense",
+   "summary": "PARIS, October 12, 2026--Regulatory News: Gecina (Paris:GFC):",
+   "url": "https://finnhub.io/api/news?id=80ea0728b18454c57e9315113f93f0f476436e8e29b9cf9e041792684ea83d5a",
+   "source": "Yahoo",
+   "published": "2026-10-12T06:41:00+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "45aa8b2ebfba",
    "headline": "From Data Rich to Decision Ready in Life Sciences",
    "summary": "Within3 leaders discuss why ownership, insight sharing and human judgment are critical to faster decisions.",
@@ -826,6 +845,7 @@
     "BMY",
     "LLY",
     "MRK",
+    "NVS",
     "PFE",
     "SNY"
    ],
