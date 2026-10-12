@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-12T10:31:42.795478+00:00",
+ "updated": "2026-10-12T10:46:41.964479+00:00",
  "quotes": {
   "ABBV": {
    "price": 276.47,
@@ -117,6 +117,10 @@
   "SYK": {
    "price": 277.33,
    "change_pct": 0.13
+  },
+  "TDOC": {
+   "price": 5.77,
+   "change_pct": 4.15
   },
   "TMO": {
    "price": 658.02,
@@ -746,6 +750,36 @@
  },
  "stories": [
   {
+   "id": "56cd31e06901",
+   "headline": "Abbott Laboratories (NYSE:ABT): A Quality Stock With Durable Fundamentals",
+   "summary": "Abbott passes key quality investing filters with strong ROIC, cash-backed earnings, and steady growth, though valuation and liquidity risks remain.",
+   "url": "https://finnhub.io/api/news?id=b74d5c1034e35949a9e32b0a729fcbe2cc5c2b6d86a4c4c511ddcaec4db8da65",
+   "source": "ChartMill",
+   "published": "2026-10-12T10:21:14+00:00",
+   "tickers": [
+    "ABT"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "2c3a078cc0f0",
+   "headline": "DataMEDS SI Announces Helomics Receives Medicaid Coverage Policy For Chemofx(R) Assay In Gynecologic Cancers",
+   "summary": "Humana adds ChemoFx\u00ae to its Medicaid Pharmacogenomics Testing coverage policyTAMPA, FL / ACCESS Newswire / October 12, 2026 / DataMeds AI, Inc. Medical Coverage Policies were reviewed by Humana's Medicaid Coverage Policy Adoption (MCPA)\u2026",
+   "url": "https://finnhub.io/api/news?id=ee739bf84a4f715b2d21a66a356c59d38db333346ac973fc897977f53461d1d9",
+   "source": "Yahoo",
+   "published": "2026-10-12T10:00:00+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "e7bbc9ca8a5b",
    "headline": "3 Cash-Producing Stocks with Warning Signs",
    "summary": "Generating cash is essential for any business, but not all cash-rich companies are great investments. Some produce plenty of cash but fail to allocate it effectively, leading to missed opportunities.",
@@ -781,6 +815,36 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "6214bb57ebef",
+   "headline": "1 Cash-Producing Stock with Competitive Advantages and 2 We Question",
+   "summary": "A company that generates cash isn\u2019t automatically a winner. Some businesses stockpile cash but fail to reinvest wisely, limiting their ability to expand.",
+   "url": "https://finnhub.io/api/news?id=e3db08dc093c88b1318b80c9255bc0868e3ccaecde26b0828764de95aeeb7808",
+   "source": "Yahoo",
+   "published": "2026-10-12T08:39:03+00:00",
+   "tickers": [
+    "TDOC"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
+   "id": "ebbd0ddfd6d0",
+   "headline": "Starlink Goes Mobile, and Wall Street Rewrites the Telecom Map Overnight",
+   "summary": "SpaceX\u2019s spectrum deal wiped double digits off T-Mobile, AT&T and Verizon while tower stocks soared. Stocks still closed a volatile week higher, despite 24-year highs in long-term yields, weaker consumer sentiment, Apple\u2019s iPhone order\u2026",
+   "url": "https://finnhub.io/api/news?id=92f35ca77b3b4365a34648301d4adb104b1a0e13ec54e6107426ad61520ac1a5",
+   "source": "ChartMill",
+   "published": "2026-10-12T08:22:17+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
   },
   {
    "id": "3a923c7c0fad",
