@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-13T00:02:34.131115+00:00",
+ "updated": "2026-10-13T00:17:27.477468+00:00",
  "quotes": {
   "A": {
    "price": 171.33,
@@ -46,6 +46,10 @@
    "price": 57.58,
    "change_pct": -2.6
   },
+  "BNTX": {
+   "price": 95.84,
+   "change_pct": -1.16
+  },
   "BRKR": {
    "price": 56.25,
    "change_pct": -4.4
@@ -57,6 +61,10 @@
   "CAH": {
    "price": 238.08,
    "change_pct": 0.21
+  },
+  "CI": {
+   "price": 283.34,
+   "change_pct": 0.32
   },
   "CLDX": {
    "price": 29.43,
@@ -909,6 +917,32 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "2e58573b2ac1",
+   "headline": "How data is reshaping rare disease media strategy",
+   "summary": "Addressable Health's Steve Kimm explains how data-driven omnichannel planning is helping rare disease brands maximize media impact.",
+   "url": "https://www.fiercepharma.com/sponsored/how-data-reshaping-rare-disease-media-strategy",
+   "source": "Fierce Pharma",
+   "published": "2026-10-13T00:15:21.317593+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "aef2ebd2e983",
+   "headline": "Should You Trim Or Add To Your Hims & Hers Position Now?",
+   "summary": "Investors holding Hims & Hers Health (HIMS) face a stark contradiction. The stock has lost 52% in twelve months, while the S&P 500 returned 17.0%. Following that decline, shares now trade at 2.8 times sales, against 3.1 for the index. Yet\u2026",
+   "url": "https://finnhub.io/api/news?id=666239ff6707a01d9f688b18c57311f416bab30f6f16b2df1992840c04dfca3d",
+   "source": "Yahoo",
+   "published": "2026-10-12T22:53:46+00:00",
+   "tickers": [
+    "CI"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
   {
    "id": "96adbc9e1019",
    "headline": "3 Reasons Investors Watch Stryker (SYK)",
@@ -2248,6 +2282,7 @@
    "source": "Yahoo",
    "published": "2026-10-12T14:12:00+00:00",
    "tickers": [
+    "BNTX",
     "MRK",
     "MRNA"
    ],
