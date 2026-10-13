@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-13T01:32:30.385506+00:00",
+ "updated": "2026-10-13T01:47:44.366668+00:00",
  "quotes": {
   "A": {
    "price": 171.33,
@@ -310,6 +310,10 @@
    "price": 662.24,
    "change_pct": 0.64
   },
+  "TWST": {
+   "price": 151.86,
+   "change_pct": -4.96
+  },
   "UHS": {
    "price": 178.83,
    "change_pct": 0.83
@@ -317,10 +321,6 @@
   "UNH": {
    "price": 378.52,
    "change_pct": -0.21
-  },
-  "VEEV": {
-   "price": 295.85,
-   "change_pct": -0.09
   }
  },
  "tickers": {
@@ -2603,6 +2603,21 @@
    "sectors": []
   },
   {
+   "id": "d6f113cc1696",
+   "headline": "Biofoundry-as-a-Service Global Market Report 2026 | Capitalize on 21.6% CAGR with GenScript, Ginkgo Bioworks, Twist Bioscience and Codexis Driving AI Automation",
+   "summary": "Boost ROI with modular, automated biofoundries and AI/cloud-based DBTL workflows to cut manual work, speed development, improve reproducibility, and scale production.Dublin, Oct. 12, 2026 (GLOBE NEWSWIRE) -- \"Biofoundry-as-a-Service\u2026",
+   "url": "https://finnhub.io/api/news?id=314a3f35e3002163dfabd243db341b3836aff486411f57614817e7fd57d0baa9",
+   "source": "Yahoo",
+   "published": "2026-10-12T14:02:00+00:00",
+   "tickers": [
+    "TWST"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "ee3c6c670c33",
    "headline": "Trump administration proposes new $70,000 fee for F-1 student visa workers",
    "summary": "The proposed monetary barrier on hiring foreign students would further narrow the path to employment at hospitals and health systems.",
@@ -2632,7 +2647,8 @@
    "source": "Yahoo",
    "published": "2026-10-12T14:00:00+00:00",
    "tickers": [
-    "CRL"
+    "CRL",
+    "TWST"
    ],
    "tag": "Health AI",
    "sectors": [
