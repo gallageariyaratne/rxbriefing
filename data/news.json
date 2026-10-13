@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-13T00:17:27.477468+00:00",
+ "updated": "2026-10-13T00:32:33.967194+00:00",
  "quotes": {
   "A": {
    "price": 171.33,
@@ -78,6 +78,10 @@
    "price": 67.02,
    "change_pct": 2.54
   },
+  "COR": {
+   "price": 325.06,
+   "change_pct": 0.37
+  },
   "CRL": {
    "price": 301.86,
    "change_pct": 0.02
@@ -89,6 +93,10 @@
   "CYTK": {
    "price": 62.79,
    "change_pct": -0.19
+  },
+  "DGX": {
+   "price": 232.63,
+   "change_pct": 0.72
   },
   "DHR": {
    "price": 221.2,
@@ -149,6 +157,10 @@
   "HUM": {
    "price": 433.5,
    "change_pct": 0.38
+  },
+  "ICLR": {
+   "price": 164.4,
+   "change_pct": 0.14
   },
   "IDXX": {
    "price": 523.94,
@@ -929,6 +941,36 @@
    "sectors": []
   },
   {
+   "id": "3a1c0970210d",
+   "headline": "Earnings from banks and J&J and home sales data: What to Watch",
+   "summary": "Market Domination Overtime host Brooke DiPalma takes a closer look at the top stories for investors to watch on Tuesday, October 13, including earnings reports from JPMorgan Chase (JPM), The Goldman Sachs Group (GS), Wells Fargo & Company\u2026",
+   "url": "https://finnhub.io/api/news?id=0ed83cae897d5328a440303c15e0d102a8864a028c818d7dfc195d227dedb301",
+   "source": "Yahoo",
+   "published": "2026-10-13T00:00:00+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "311dc146bf70",
+   "headline": "AbbVie vs. Eli Lilly: Which Healthcare Stock Is a Better Buy in 2026?",
+   "summary": "AbbVie trades at a 40% valuation discount but faces revenue concentration risk, while Eli Lilly's cardiometabolic dominance commands a premium.",
+   "url": "https://finnhub.io/api/news?id=5c26291ca92708763cb3875dc9ab591493dcebb54023a277eefc0cab5d20c7fa",
+   "source": "Yahoo",
+   "published": "2026-10-12T23:51:01+00:00",
+   "tickers": [
+    "COR"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
+  {
    "id": "aef2ebd2e983",
    "headline": "Should You Trim Or Add To Your Hims & Hers Position Now?",
    "summary": "Investors holding Hims & Hers Health (HIMS) face a stark contradiction. The stock has lost 52% in twelve months, while the S&P 500 returned 17.0%. Following that decline, shares now trade at 2.8 times sales, against 3.1 for the index. Yet\u2026",
@@ -936,11 +978,28 @@
    "source": "Yahoo",
    "published": "2026-10-12T22:53:46+00:00",
    "tickers": [
-    "CI"
+    "CI",
+    "CVS",
+    "DGX"
    ],
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "aaa747d4b710",
+   "headline": "Vertical Software Stocks Q2 Results: Benchmarking Veeva Systems (NYSE:VEEV)",
+   "summary": "Earnings results often indicate what direction a company will take in the months ahead. With Q2 behind us, let\u2019s have a look at Veeva Systems (NYSE:VEEV) and its peers.",
+   "url": "https://finnhub.io/api/news?id=da53681d82b18841c3433feea8f3857b3b435b7b8c3d2f02f2ea960b489d09ec",
+   "source": "Yahoo",
+   "published": "2026-10-12T22:15:03+00:00",
+   "tickers": [
+    "VEEV"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
    ]
   },
   {
@@ -2004,6 +2063,21 @@
    "tag": "Clinical",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "6115113b52c9",
+   "headline": "Icon's 2027 Outlook Supported by Strong Bookings as Growth Questions Persist, RBC Says",
+   "summary": "Icon (ICLR) should benefit from a strong order backlog that supports growth in 2027, while questions",
+   "url": "https://finnhub.io/api/news?id=da261f92170c76f23da2aab2dadf51e8433bbf7485207cfcc1cf200108979aad",
+   "source": "Yahoo",
+   "published": "2026-10-12T15:10:47+00:00",
+   "tickers": [
+    "ICLR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
    ]
   },
   {
