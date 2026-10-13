@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-13T10:47:37.073495+00:00",
+ "updated": "2026-10-13T11:02:42.542340+00:00",
  "quotes": {
   "A": {
    "price": 171.33,
@@ -246,10 +246,6 @@
    "price": 10.82,
    "change_pct": 0.09
   },
-  "PODD": {
-   "price": 139.81,
-   "change_pct": 3.35
-  },
   "REGN": {
    "price": 762.81,
    "change_pct": 2.18
@@ -285,10 +281,6 @@
   "TWST": {
    "price": 151.86,
    "change_pct": -4.96
-  },
-  "UHS": {
-   "price": 178.83,
-   "change_pct": 0.83
   },
   "UNH": {
    "price": 378.52,
@@ -956,6 +948,21 @@
    ]
   },
   {
+   "id": "4c1c2bcc803d",
+   "headline": "Eli Lilly Expects Up to $87 Billion in 2026 Revenue. Here's Why the Stock Still Looks Undervalued.",
+   "summary": "This pharma stock has climbed in the triple digits in recent years.",
+   "url": "https://finnhub.io/api/news?id=27fe6a6c0ffc73d7fbae71f2d4474784813cf52a1bb26805c081c0845a548648",
+   "source": "Yahoo",
+   "published": "2026-10-13T09:30:00+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "9ed8e9e1598a",
    "headline": "BIOMARIN PHARMACEUTICAL INC (NASDAQ:BMRN) Screens as a Decent Value Stock on Cheap Forward Earnings",
    "summary": "BioMarin (BMRN) trades cheap on forward earnings and cash flow with strong margins, but health and growth risks keep it a decent value watch.",
@@ -990,6 +997,21 @@
    "published": "2026-10-13T09:11:45+00:00",
    "tickers": [
     "JNJ"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "bc386e638a20",
+   "headline": "Moderna Is Now Worth More Than 3X as Much as BioNTech. Which Biotech Stock Is the Smarter Pick?",
+   "summary": "Is bigger always better? Not necessarily.",
+   "url": "https://finnhub.io/api/news?id=f26ca8df2edfe36d48bbd35dad4514614cc7a7b79061094506f25b8be0158498",
+   "source": "Yahoo",
+   "published": "2026-10-13T09:04:00+00:00",
+   "tickers": [
+    "MRNA"
    ],
    "tag": "News",
    "sectors": [
@@ -1098,6 +1120,7 @@
    "source": "Yahoo",
    "published": "2026-10-13T08:12:00+00:00",
    "tickers": [
+    "MRK",
     "TMO"
    ],
    "tag": "News",
@@ -1113,6 +1136,7 @@
    "source": "Yahoo",
    "published": "2026-10-13T08:11:00+00:00",
    "tickers": [
+    "MRK",
     "TMO"
    ],
    "tag": "News",
@@ -1145,6 +1169,7 @@
    "published": "2026-10-13T08:09:00+00:00",
    "tickers": [
     "DHR",
+    "MRK",
     "TMO"
    ],
    "tag": "News",
@@ -1194,6 +1219,7 @@
    "published": "2026-10-13T08:06:00+00:00",
    "tickers": [
     "DHR",
+    "MRK",
     "TMO"
    ],
    "tag": "News",
@@ -1243,6 +1269,7 @@
    "published": "2026-10-13T08:02:00+00:00",
    "tickers": [
     "DHR",
+    "MRK",
     "TMO"
    ],
    "tag": "News",
@@ -1291,6 +1318,22 @@
     "PFE"
    ],
    "tag": "GLP-1",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "951cabe6ab65",
+   "headline": "S&P Hits All-Time Highs, AI Trade Does All The Work",
+   "summary": "From June we saw money rotate out of tech into reflationary sectors, also software, explains Amrita Roy and Uttam Dey. Now, money is moving back into tech.",
+   "url": "https://finnhub.io/api/news?id=66560ff9f3f37bf54fdf7009dcfee55437ea1d91b6ce9ebd018012482868e7b8",
+   "source": "SeekingAlpha",
+   "published": "2026-10-13T06:30:00+00:00",
+   "tickers": [
+    "MRK",
+    "MRNA"
+   ],
+   "tag": "Health AI",
    "sectors": [
     "pharma"
    ]
