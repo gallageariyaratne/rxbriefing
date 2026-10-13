@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-13T20:47:34.152915+00:00",
+ "updated": "2026-10-13T21:03:24.370911+00:00",
  "quotes": {
   "A": {
    "price": 171.6,
@@ -58,10 +58,6 @@
    "price": 89.01,
    "change_pct": -7.13
   },
-  "BRKR": {
-   "price": 56.19,
-   "change_pct": -0.11
-  },
   "BSX": {
    "price": 43.31,
    "change_pct": -1.21
@@ -85,10 +81,6 @@
   "CRL": {
    "price": 299.02,
    "change_pct": -0.94
-  },
-  "CRSP": {
-   "price": 50.1,
-   "change_pct": -2.81
   },
   "CVS": {
    "price": 87.55,
@@ -254,14 +246,6 @@
    "price": 235.04,
    "change_pct": 0.19
   },
-  "RXRX": {
-   "price": 3.83,
-   "change_pct": -4.36
-  },
-  "SNY": {
-   "price": 39.12,
-   "change_pct": -1.56
-  },
   "SRPT": {
    "price": 16.51,
    "change_pct": -5.33
@@ -321,6 +305,10 @@
   "ZBH": {
    "price": 92.08,
    "change_pct": -0.1
+  },
+  "ZTS": {
+   "price": 74.3,
+   "change_pct": -1.78
   }
  },
  "tickers": {
@@ -938,6 +926,43 @@
  },
  "stories": [
   {
+   "id": "48895b95e0e3",
+   "headline": "CVS, DOJ reach $315M settlement in opioid prescription case",
+   "summary": "CVS Health has reached a $315 million settlement with the Department of Justice that resolves allegations the pharmacy giant knowingly filled unlawful opioid prescriptions.",
+   "url": "https://www.fiercehealthcare.com/payers/cvs-doj-reach-315m-settlement-opioid-prescription-case",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-13T21:00:29.483618+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "tag": "Legal",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "a47f559f9fa5",
+   "headline": "Measles update: US passes 4,000 cases, Pennsylvania reports sixth death",
+   "summary": "Experts have pointed to sagging vaccination rates and friction between federal health leadership and the broader public health community as contributor to this year\u2019s outbreaks of the vaccine-preventable disease.",
+   "url": "https://www.fiercehealthcare.com/providers/measles-update-us-passes-4000-cases-pennsylvania-reports-sixth-death",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-13T21:00:29.482447+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "99c1bd2fa9bc",
+   "headline": "Another Paragon spinout goes public through reverse merger",
+   "summary": "One lawyer involved in the deal noted how it's yet another example of Paragon and key investor Fairmount \u2014 which have helped transform the once-unsavory reputation for reverse mergers \u2014 quickly executing on a complicated transaction.",
+   "url": "https://www.biopharmadive.com/news/velaris-alaunos-paragon-reverse-merger-acquisition-fairmount/832869/",
+   "source": "BioPharma Dive",
+   "published": "2026-10-13T20:35:00+00:00",
+   "tickers": [],
+   "tag": "M&A",
+   "sectors": []
+  },
+  {
    "id": "676265150fae",
    "headline": "STAT+: BlackRock to buy majority stake in Humana\u2019s CenterWell clinics for $2.8 billion",
    "summary": "Humana is swapping out private equity sponsors for its CenterWell Senior Primary Care clinics. Good bye, Welsh, Carson, Anderson & Stowe. Hello, BlackRock.",
@@ -1055,6 +1080,8 @@
     "ABBV",
     "AMGN",
     "JNJ",
+    "LLY",
+    "MRK",
     "PFE"
    ],
    "tag": "Earnings",
@@ -1180,6 +1207,21 @@
     "PFE"
    ],
    "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "30a04fd9056b",
+   "headline": "The Five Largest Holdings in the RANK ETF After Its Latest Rebalance",
+   "summary": "The Defiance KSM TipRanks Analyst ETF (RANK) has completed its latest quarterly reconstitution and rebalance, which took effect after the close on September 21, 2026 with notable changes among its largest holdings. RANK seeks to track the\u2026",
+   "url": "https://finnhub.io/api/news?id=567de157dc5959bc72fbaf24453fcb5b90c56837a4b89a235c014dfebf7272d6",
+   "source": "Yahoo",
+   "published": "2026-10-13T19:00:00+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "Analyst",
    "sectors": [
     "pharma"
    ]
@@ -1369,7 +1411,8 @@
    "published": "2026-10-13T17:41:35+00:00",
    "tickers": [
     "AMGN",
-    "JNJ"
+    "JNJ",
+    "MRK"
    ],
    "tag": "News",
    "sectors": [
@@ -1399,6 +1442,7 @@
    "source": "Yahoo",
    "published": "2026-10-13T17:20:00+00:00",
    "tickers": [
+    "ELV",
     "UNH"
    ],
    "tag": "Earnings",
@@ -1414,6 +1458,7 @@
    "source": "Yahoo",
    "published": "2026-10-13T17:18:00+00:00",
    "tickers": [
+    "ELV",
     "UNH"
    ],
    "tag": "Earnings",
@@ -1444,6 +1489,7 @@
    "source": "Yahoo",
    "published": "2026-10-13T17:12:00+00:00",
    "tickers": [
+    "ELV",
     "UNH"
    ],
    "tag": "News",
