@@ -1,7 +1,43 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-13T12:32:39.548528+00:00",
+ "updated": "2026-10-13T12:47:38.950472+00:00",
  "quotes": {
+  "A": {
+   "price": 171.33,
+   "change_pct": 0.46
+  },
+  "ABBV": {
+   "price": 281.12,
+   "change_pct": 1.68
+  },
+  "ABSI": {
+   "price": 9.67,
+   "change_pct": -4.82
+  },
+  "ABT": {
+   "price": 101.82,
+   "change_pct": 2.23
+  },
+  "ALHC": {
+   "price": 8.09,
+   "change_pct": 7.22
+  },
+  "ALNY": {
+   "price": 227.02,
+   "change_pct": -2.43
+  },
+  "AMGN": {
+   "price": 417.57,
+   "change_pct": 0.65
+  },
+  "AXSM": {
+   "price": 166,
+   "change_pct": -1.4
+  },
+  "AZN": {
+   "price": 158.33,
+   "change_pct": -0.55
+  },
   "BIIB": {
    "price": 229.41,
    "change_pct": 1.64
@@ -265,6 +301,10 @@
   "ZBH": {
    "price": 92.17,
    "change_pct": 3.4
+  },
+  "ZTS": {
+   "price": 75.65,
+   "change_pct": 1.12
   }
  },
  "tickers": {
@@ -967,6 +1007,21 @@
    ]
   },
   {
+   "id": "8017ce28b69e",
+   "headline": "Charles River Collaborates with Magellan Stem Cells to Advance Stem Cell and Regenerative Medicine Development",
+   "summary": "WILMINGTON, Mass., October 13, 2026--Charles River Laboratories International, Inc. (NYSE: CRL) and Magellan Stem Cells, a private Australian biotech and cell-therapy firm, announce their collaboration to support Magellan in the\u2026",
+   "url": "https://finnhub.io/api/news?id=cddde621353a46d82cf197be60342f9be17dd2d28c88a4b6ef3b00fae32ed5d7",
+   "source": "Yahoo",
+   "published": "2026-10-13T12:00:00+00:00",
+   "tickers": [
+    "CRL"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "4926a2539ec4",
    "headline": "Earnings live updates: JPMorgan, Goldman Sachs stocks rise as big banks kick off Q3 earnings season",
    "summary": "Big bank results kick off Q3 earnings season on Tuesday.",
@@ -974,7 +1029,8 @@
    "source": "Yahoo",
    "published": "2026-10-13T11:51:35+00:00",
    "tickers": [
-    "JNJ"
+    "JNJ",
+    "UNH"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -989,7 +1045,8 @@
    "source": "Yahoo",
    "published": "2026-10-13T11:49:00+00:00",
    "tickers": [
-    "JNJ"
+    "JNJ",
+    "UNH"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -1008,6 +1065,21 @@
    "sectors": []
   },
   {
+   "id": "67ad73520e08",
+   "headline": "Premarket movers: UnitedHealth jumps, chip stocks slide",
+   "summary": "Investing.com - U.S. stock futures were mixed on Tuesday as investors assessed quarterly results from major banks, while a selloff in chip stocks weighed on Nasdaq futures amid growing concerns about the sustainability of artificial\u2026",
+   "url": "https://finnhub.io/api/news?id=1e51195b3167196e1c76fc41d27765aea8b59de6a9882c162cbcbd756fcb48f5",
+   "source": "Yahoo",
+   "published": "2026-10-13T11:46:23+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "287c69dbdb2f",
    "headline": "Thoreau-backed Ensemble, Penelope Health partner to bring payer policy intelligence into RCM",
    "summary": "Two Thoreau-backed healthcare companies are partnering to bring real-time payer policy intelligence into revenue cycle workflows. The aim is to move claims denial management upstream into denial prevention, the companies said.",
@@ -1017,6 +1089,21 @@
    "tickers": [],
    "tag": "Earnings",
    "sectors": []
+  },
+  {
+   "id": "0b5e3e02b5cd",
+   "headline": "UnitedHealth Stock Climbs After a Q3 Beat: \u201cDiscipline and Execution\u201d Drive the Rebound",
+   "summary": "UnitedHealth Group (UNH:NYSE) shares are up about 4. 5% in premarket trading on Tuesday, October 13 (at about $396), after the insurer beat third-quarter profit estimates and raised its 2026 outlook.",
+   "url": "https://finnhub.io/api/news?id=efd4c8c672284eaf5d70a195773fb6b4867aa026b8b79b7fb2ab85bcdd08c613",
+   "source": "Yahoo",
+   "published": "2026-10-13T11:31:15+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
   },
   {
    "id": "2fdddc1db5f7",
@@ -1031,6 +1118,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "d9ec7fcb207d",
+   "headline": "Zoetis Appoints Iris Knobloch to its Board of Directors",
+   "summary": "PARSIPPANY, N.J., October 13, 2026--Zoetis Inc. (NYSE:ZTS) today announced the appointment of Iris Knobloch to its Board of Directors, effective as of December 1, 2026. With decades of experience across global media and consumer\u2026",
+   "url": "https://finnhub.io/api/news?id=22036da91f6405ab60c990d7250a0fdacf2ec6d0382b00144f92ac4554a519ad",
+   "source": "Yahoo",
+   "published": "2026-10-13T11:30:00+00:00",
+   "tickers": [
+    "ZTS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1189,6 +1291,21 @@
    ]
   },
   {
+   "id": "f139b478e67d",
+   "headline": "Mammogen Appoints Diagnostics Industry Leader, Dr. Robert S. Epstein, to Board of Directors",
+   "summary": "Accomplished diagnostics and precision medicine leader brings decades of experience shaping the scientific, commercial and market success of category-defining companies across genomics, oncology and women's health NEWPORT BEACH, Calif.,\u2026",
+   "url": "https://finnhub.io/api/news?id=d54b22e722b141e744e058e7c16fb7b2955c64056b24094c4010687dd24e8779",
+   "source": "Yahoo",
+   "published": "2026-10-13T11:02:00+00:00",
+   "tickers": [
+    "ILMN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "780bbf4a4565",
    "headline": "UnitedHealth Rises As Earnings, Medical Costs Beat Forecasts",
    "summary": "The Dow giant's profits have recovered as medical membership has fallen.",
@@ -1197,7 +1314,8 @@
    "published": "2026-10-13T11:01:58+00:00",
    "tickers": [
     "CI",
-    "CVS"
+    "CVS",
+    "UNH"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -1265,6 +1383,36 @@
    ]
   },
   {
+   "id": "16776ef34acf",
+   "headline": "Enodia Therapeutics Announces Research Collaboration and License Agreement with Pfizer to Develop Sec61-Targeting Small Molecules",
+   "summary": "PARIS, October 13, 2026--Enodia Therapeutics, a biotechnology company developing novel small-molecule therapies for targeted protein degradation at the point of synthesis, today announced it has entered into a research collaboration and\u2026",
+   "url": "https://finnhub.io/api/news?id=8e94570cbc97a1189243b8aba385febec5dc7c0cb32879f41c18971c6b6f945e",
+   "source": "Yahoo",
+   "published": "2026-10-13T11:00:00+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "25166d0c588f",
+   "headline": "Humana Forms Joint Venture With BlackRock for 150 Senior Care Clinics",
+   "summary": "Humana (HUM) said Tuesday that it has agreed to form a joint venture with funds managed by BlackRock",
+   "url": "https://finnhub.io/api/news?id=eec09f31d904397965fda99708f419d78db259c5f22148d9149b02c985cd4486",
+   "source": "Yahoo",
+   "published": "2026-10-13T10:55:09+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "Financing",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "f86ef006f0a6",
    "headline": "UnitedHealth gains on Q3 earnings beat, raised 2026 profit guidance",
    "summary": "Investing.com -- UnitedHealth Group shares rose more than 2% in Tuesday premarket trading after the health insurer reported third-quarter earnings that beat Wall Street estimates and raised its full-year profit outlook.",
@@ -1295,6 +1443,21 @@
    ]
   },
   {
+   "id": "11ec2a7ac349",
+   "headline": "UnitedHealth Group Raises 2026 Profit Outlook After Third-Quarter Earnings Beat",
+   "summary": "UnitedHealth Group (NYSE:UNH) increased its full-year 2026 earnings guidance on Tuesday after reporting third-quarter adjusted profit above market expectations, supported by tighter medical cost controls and improved operating performance\u2026",
+   "url": "https://finnhub.io/api/news?id=498f73573ef92080c6d251b57996f59d70434735b906ce758767e5dd3156a953",
+   "source": "Yahoo",
+   "published": "2026-10-13T10:44:10+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "c8d408052a80",
    "headline": "TG Therapeutics (NASDAQ:TGTX) Pairs Strong Growth With a High-Quality Breakout Setup",
    "summary": "TGTX pairs an 8/10 growth rating with an 8/10 technical setup, showing strong biotech fundamentals and a breakout-ready chart.",
@@ -1317,7 +1480,8 @@
    "source": "Yahoo",
    "published": "2026-10-13T10:40:49+00:00",
    "tickers": [
-    "JNJ"
+    "JNJ",
+    "UNH"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -1382,6 +1546,52 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "f4e0af00838c",
+   "headline": "UnitedHealth, JPMorgan, Sandisk, Six Flags, SK Hynix, and More Stocks That Explain Today\u2019s Market",
+   "summary": "AI stocks drop as investors lock in some profit ahead of earnings season while UnitedHealth rallies following strong third-quarter earnings.",
+   "url": "https://finnhub.io/api/news?id=fb0d8b8e8e92893f2cc0f59f595051be3f7b324924f22fe7de617932900d708b",
+   "source": "Yahoo",
+   "published": "2026-10-13T10:19:00+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "5aa82fa587a2",
+   "headline": "UnitedHealth\u2019s (NYSE:UNH) Q3 2026 Sales Top Estimates",
+   "summary": "Health insurance company UnitedHealth (NYSE:UNH) reported Q3 2026 results beating Wall Street\u2019s revenue expectations, but sales were flat year on year at $112.7 billion. Its non-GAAP profit of $4.69 per share was 13.3% above analysts\u2019\u2026",
+   "url": "https://finnhub.io/api/news?id=8600586bd2e8df1751aba8288bc197b4a400e226aa2455993f43fcccd6052f63",
+   "source": "Yahoo",
+   "published": "2026-10-13T10:06:42+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "39f7a548ea38",
+   "headline": "UnitedHealth Group (UNH) Q3 Earnings and Revenues Top Estimates",
+   "summary": "UnitedHealth (UNH) delivered earnings and revenue surprises of +13.84% and +1.18%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=f0427855a084fa46afb0d647861623136af4746969ce5593a6ff292a265f2fa5",
+   "source": "Yahoo",
+   "published": "2026-10-13T10:05:02+00:00",
+   "tickers": [
+    "HUM",
+    "UNH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
    ]
   },
   {
