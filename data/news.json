@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-13T12:02:54.640493+00:00",
+ "updated": "2026-10-13T12:17:32.763411+00:00",
  "quotes": {
   "A": {
    "price": 171.33,
@@ -9,6 +9,10 @@
   "ABBV": {
    "price": 281.12,
    "change_pct": 1.68
+  },
+  "ABSI": {
+   "price": 9.67,
+   "change_pct": -4.82
   },
   "ABT": {
    "price": 101.82,
@@ -241,10 +245,6 @@
   "PFE": {
    "price": 28.4,
    "change_pct": 0.42
-  },
-  "PHR": {
-   "price": 10.82,
-   "change_pct": 0.09
   },
   "REGN": {
    "price": 762.81,
@@ -918,6 +918,17 @@
  },
  "stories": [
   {
+   "id": "05798ef41a8b",
+   "headline": "Johns Hopkins Medicine taps OpenEvidence to bring AI into medical education, clinical care",
+   "summary": "Johns Hopkins Medicine is teaming up with OpenEvidence to advance the use of artificial intelligence in medical education and clinical care.",
+   "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/johns-hopkins-medicine-taps-openevidence-design-ai-tools-medical-training",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-13T12:15:21.647280+00:00",
+   "tickers": [],
+   "tag": "Health AI",
+   "sectors": []
+  },
+  {
    "id": "1b9f62183a15",
    "headline": "Roche inks $1.2B deal with China's Rona to enter emerging ALK7 obesity race",
    "summary": "Roche has committed $100 million in upfront and near-term payments to license Rona Therapeutics\u2019 ALK7 drug candidate, joining Alnylam, Arrowhead, GSK and Novo Nordisk in an emerging obesity niche.",
@@ -925,14 +936,44 @@
    "source": "Fierce Biotech",
    "published": "2026-10-13T12:00:26.534113+00:00",
    "tickers": [
-    "NVO",
+    "ALNY",
     "GSK",
-    "ALNY"
+    "NVO"
    ],
    "tag": "GLP-1",
    "sectors": [
     "biotech",
     "pharma"
+   ]
+  },
+  {
+   "id": "900b4b56728a",
+   "headline": "Absci to Report Business Updates and Third Quarter 2026 Financial and Operating Results on November 12, 2026",
+   "summary": "VANCOUVER, Wash. and NEW YORK, Oct. 13, 2026 (GLOBE NEWSWIRE) -- Absci Corporation (Nasdaq: ABSI), a clinical-stage biopharmaceutical company advancing breakthrough therapeutics designed with generative AI, today announced the company\u2026",
+   "url": "https://www.globenewswire.com/news-release/2026/10/13/3379640/0/en/absci-to-report-business-updates-and-third-quarter-2026-financial-and-operating-results-on-november-12-2026.html",
+   "source": "GlobeNewswire",
+   "published": "2026-10-13T12:00:00+00:00",
+   "tickers": [
+    "ABSI"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "healthai"
+   ]
+  },
+  {
+   "id": "945ad0551bb8",
+   "headline": "Labcorp and Arianna Huffington's Thrive Global Collaborate to Launch Thrive 5 Health Test",
+   "summary": "Labcorp (NYSE: LH), a global leader of innovative and comprehensive laboratory services, today announced the launch of the Thrive 5 Health Test, the first lab test offered in collaboration with Arianna Huffington's behavior change\u2026",
+   "url": "https://finnhub.io/api/news?id=6fe31cfd0e993b1ae12145b19436f114bf522c4589f9be7690499d0e1f76238f",
+   "source": "Yahoo",
+   "published": "2026-10-13T12:00:00+00:00",
+   "tickers": [
+    "LH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -988,6 +1029,21 @@
    ]
   },
   {
+   "id": "e97577374972",
+   "headline": "DexCom (NASDAQ:DXCM): Affordable Growth at a Reasonable Valuation",
+   "summary": "DexCom (DXCM) offers affordable growth with strong EPS outlook, high profitability, and reasonable peer valuation\u2014making it a quality growth pick.",
+   "url": "https://finnhub.io/api/news?id=0ee1d790ccd5098af623c3ed88bba15b9275f4278cb312b8c59a33d19b6a039b",
+   "source": "ChartMill",
+   "published": "2026-10-13T11:21:44+00:00",
+   "tickers": [
+    "DXCM"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "292b6decd4a9",
    "headline": "Pfizer inks $500M Enodia pact to join Lilly in emerging protein degrader field",
    "summary": "Pfizer has followed Eli Lilly into the Sec61 space, inking a $500 million deal with Enodia Therapeutics days after its Big Pharma peer formed an $870 million pact with Gate Bioscience.",
@@ -1035,6 +1091,21 @@
    "sectors": [
     "healthit",
     "tools"
+   ]
+  },
+  {
+   "id": "780bbf4a4565",
+   "headline": "UnitedHealth Rises As Earnings, Medical Costs Beat Forecasts",
+   "summary": "The Dow giant's profits have recovered as medical membership has fallen.",
+   "url": "https://finnhub.io/api/news?id=84f0847317e5ee02cd284c956d4a1b41540bd15ed4567b865724537fc9b5b0d3",
+   "source": "Yahoo",
+   "published": "2026-10-13T11:01:58+00:00",
+   "tickers": [
+    "CI"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
    ]
   },
   {
