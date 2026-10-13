@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-13T02:03:03.399510+00:00",
+ "updated": "2026-10-13T02:17:30.775881+00:00",
  "quotes": {
   "A": {
    "price": 171.33,
@@ -206,6 +206,10 @@
    "price": 263.73,
    "change_pct": 0.88
   },
+  "LFST": {
+   "price": 12.48,
+   "change_pct": 0.48
+  },
   "LH": {
    "price": 315.52,
    "change_pct": 1.08
@@ -241,6 +245,10 @@
   "NTRA": {
    "price": 397.77,
    "change_pct": -0.73
+  },
+  "NVO": {
+   "price": 38.58,
+   "change_pct": -0.16
   },
   "NVS": {
    "price": 143.84,
@@ -313,14 +321,6 @@
   "TWST": {
    "price": 151.86,
    "change_pct": -4.96
-  },
-  "UHS": {
-   "price": 178.83,
-   "change_pct": 0.83
-  },
-  "UNH": {
-   "price": 378.52,
-   "change_pct": -0.21
   }
  },
  "tickers": {
@@ -937,6 +937,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "674409e7540e",
+   "headline": "Cytokinetics (CYTK) Reports Phase 3 Aficamten Gains In Non Obstructive HCM",
+   "summary": "Cytokinetics (NasdaqGS: CYTK) reported new Phase 3 ACACIA-HCM data showing aficamten improved exercise performance in non-obstructive HCM patients. The company said the trial readout included statistically significant gains across several\u2026",
+   "url": "https://finnhub.io/api/news?id=13921d902e052283d74762a2be56984915b992851c85a8477f76c05590f53e97",
+   "source": "Yahoo",
+   "published": "2026-10-13T01:31:50+00:00",
+   "tickers": [
+    "CYTK"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
+   ]
+  },
   {
    "id": "96c50f548295",
    "headline": "Biogen (BIIB) vs Amgen (AMGN) and Gilead (GILD): Which Big Pharma Stock is a Better Buy?",
@@ -2123,7 +2138,8 @@
    "tickers": [
     "ISRG",
     "LLY",
-    "MDT"
+    "MDT",
+    "NVO"
    ],
    "tag": "News",
    "sectors": [
@@ -2194,7 +2210,8 @@
    "source": "Yahoo",
    "published": "2026-10-12T15:24:00+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "News",
    "sectors": [
@@ -2464,7 +2481,8 @@
     "MRK",
     "MRNA",
     "NTRA",
-    "RXRX"
+    "RXRX",
+    "TEM"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -3057,7 +3075,8 @@
    "source": "Yahoo",
    "published": "2026-10-12T13:10:00+00:00",
    "tickers": [
-    "HCA"
+    "HCA",
+    "LFST"
    ],
    "tag": "News",
    "sectors": [
@@ -3161,6 +3180,7 @@
    "published": "2026-10-12T12:53:00+00:00",
    "tickers": [
     "LLY",
+    "NVO",
     "PFE"
    ],
    "tag": "M&A",
@@ -4170,6 +4190,21 @@
    "tickers": [
     "CLOV",
     "VRTX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "bde7a2247ae1",
+   "headline": "Novo Nordisk A/S - share repurchase programme",
+   "summary": "Bagsv\u00e6rd, Denmark, 12 October 2026 \u2013 On 6 May 2026, Novo Nordisk initiated a share repurchase programme in accordance with Article 5 of Regulation No 596/2014 of the European Parliament and Council of 16 April 2014 (MAR) and the\u2026",
+   "url": "https://finnhub.io/api/news?id=c3990a3fb856cbb4b61844e16cef4e1afd992b5e17c2c1fbaf5e2b7bd4016bfa",
+   "source": "Yahoo",
+   "published": "2026-10-12T10:29:00+00:00",
+   "tickers": [
+    "NVO"
    ],
    "tag": "News",
    "sectors": [
