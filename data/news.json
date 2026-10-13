@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-13T22:47:23.672008+00:00",
+ "updated": "2026-10-13T23:02:32.543786+00:00",
  "quotes": {
   "A": {
    "price": 171.6,
@@ -89,10 +89,6 @@
   "CYTK": {
    "price": 61.62,
    "change_pct": -1.86
-  },
-  "DGX": {
-   "price": 230.46,
-   "change_pct": -0.93
   },
   "DHR": {
    "price": 222.84,
@@ -1022,9 +1018,25 @@
    "source": "Yahoo",
    "published": "2026-10-13T21:12:02+00:00",
    "tickers": [
-    "BMY"
+    "BMY",
+    "LLY"
    ],
    "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "568f15a6af31",
+   "headline": "How Early Taltz and Zepbound Biomarker Synergies At Eli Lilly (LLY) Have Changed Its Investment Story",
+   "summary": "Eli Lilly recently reported exploratory Phase 3b data from the TOGETHER-PsO trial showing that combining Taltz with Zepbound in adults with moderate-to-severe plaque psoriasis and obesity or overweight altered far more immune and\u2026",
+   "url": "https://finnhub.io/api/news?id=8f910a8d322aaff83d4aec5635894f4b73792284154ceb571de12260593cb0b6",
+   "source": "Yahoo",
+   "published": "2026-10-13T21:10:35+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "GLP-1",
    "sectors": [
     "pharma"
    ]
@@ -1035,6 +1047,21 @@
    "summary": "MECHANICSBURG, Pa., Oct. 13, 2026 /PRNewswire/ -- PA Health & Wellness, a leading managed care organization in Pennsylvania and a company of Centene Corporation (NYSE: CNC), today announced that it has been recognized among the top 17\u2026",
    "url": "https://www.prnewswire.com/news-releases/pa-health--wellness-earns-national-recognition-among-top-medicaid-health-plans-for-second-consecutive-year-302907651.html",
    "source": "PR Newswire",
+   "published": "2026-10-13T21:10:00+00:00",
+   "tickers": [
+    "CNC"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "5b0f791b8caa",
+   "headline": "PA Health & Wellness Earns National Recognition Among Top Medicaid Health Plans for Second Consecutive Year",
+   "summary": "PA Health & Wellness, a leading managed care organization in Pennsylvania and a company of Centene Corporation (NYSE: CNC), today announced that it has been recognized among the top 17 Medicaid health plans in the United States by the\u2026",
+   "url": "https://finnhub.io/api/news?id=9cb28c87cf536e5435c277cb3e5b839f5241763bd0a6210869e4b7cf2ee51e35",
+   "source": "Yahoo",
    "published": "2026-10-13T21:10:00+00:00",
    "tickers": [
     "CNC"
@@ -1112,6 +1139,51 @@
    ]
   },
   {
+   "id": "4394583fbbac",
+   "headline": "Merck (MRK) Dips More Than Broader Market: What You Should Know",
+   "summary": "Merck (MRK) concluded the recent trading session at $141.98, signifying a -2.39% move from its prior day's close.",
+   "url": "https://finnhub.io/api/news?id=46d3388160bf922ff28dc0ffdfea7cf4af9cc49f84ba05a23f08b315ba443b2b",
+   "source": "Yahoo",
+   "published": "2026-10-13T20:50:03+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "28c6efda7836",
+   "headline": "Here's Why Eli Lilly (LLY) Fell More Than Broader Market",
+   "summary": "Eli Lilly (LLY) reached $1 at the closing of the latest trading day, reflecting a -1.04% change compared to its last close.",
+   "url": "https://finnhub.io/api/news?id=7c92c7b639a881a5e97148fd05b6feba1ce74b6704081315148fbe9ba7e0ff1b",
+   "source": "Yahoo",
+   "published": "2026-10-13T20:45:04+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "0312e5dcd826",
+   "headline": "3 Dividend Growth Stocks That Have Doubled Their Payouts in 5 Years",
+   "summary": "These stocks have rewarded their shareholders with significant dividend increases in recent years and are likely to continue doing so in the future.",
+   "url": "https://finnhub.io/api/news?id=94aaf4a5aa46132e2455565c0f97ecfdeace0e3cb5e4b6b3491ceaed790d0721",
+   "source": "Yahoo",
+   "published": "2026-10-13T20:40:02+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "ddec9ed63bb4",
    "headline": "Veeva Systems (VEEV) Stock Trades Up, Here Is Why",
    "summary": "Shares of life sciences cloud software provider Veeva Systems (NYSE:VEEV) jumped 2.8% in the afternoon session after the company expanded its partnership with IQVIA, which selected Veeva clinical operations software as enterprise standard\u2026",
@@ -1136,6 +1208,21 @@
    "tickers": [],
    "tag": "M&A",
    "sectors": []
+  },
+  {
+   "id": "f3f057fa338f",
+   "headline": "Centene (CNC) Stock Trades Up, Here Is Why",
+   "summary": "Shares of health coverage company Centene (NYSE:CNC) jumped 3.5% in the afternoon session after the company announced plans to launch its National Performance-Based Gold Card Program in November 2026 to simplify the prior authorization\u2026",
+   "url": "https://finnhub.io/api/news?id=0442de0438aff471348e72a8edcc51ba6bd9bc98849c328f7fd209532a5d91f5",
+   "source": "Yahoo",
+   "published": "2026-10-13T20:31:07+00:00",
+   "tickers": [
+    "CNC"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
   },
   {
    "id": "676265150fae",
@@ -1198,6 +1285,21 @@
    ]
   },
   {
+   "id": "b284df317dac",
+   "headline": "Sangamo Therapeutics Launches Auction Process for Clinical-Stage Chronic Neuropathic Pain Program",
+   "summary": "Auction process initiated for ST-503 program for chronic neuropathic pain, expected to be completed in fourth quarter of 2026 Previously announced asset sale transactions with PTC and Lilly have closed, generating $163.55 million in gross\u2026",
+   "url": "https://finnhub.io/api/news?id=36cc876640c68bb70f021ddbd0611ef8964c3c69fcc26ae3341acdafa07949cb",
+   "source": "Yahoo",
+   "published": "2026-10-13T20:01:00+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "8ddfddeaa62b",
    "headline": "Russell Investments Canada Limited Announces Monthly Distributions for Exchange Traded Fund Series (\"ETF Series\") and Exchange Traded Funds (\"ETFs\")",
    "summary": "TORONTO, October 13, 2026--Russell Investments Canada Limited (\"Russell Investments Canada\") today announced cash distributions for the ETF Series and ETFs for the months of October, and November. Unitholders of record of the ETF Series\u2026",
@@ -1223,6 +1325,7 @@
     "ABBV",
     "BMY",
     "JNJ",
+    "MRK",
     "PFE"
    ],
    "tag": "M&A",
@@ -2357,6 +2460,21 @@
    ]
   },
   {
+   "id": "9141e938cff1",
+   "headline": "How to Play TRXB Stock After the TRex Bio IPO",
+   "summary": "TRex Bio has Eli Lilly\u2019s backing, but its IPO didn't really impress Wall Street. Is this biotech newcomer worth a shot, or should investors let the dust settle first?",
+   "url": "https://finnhub.io/api/news?id=b71df1b65a192dc47851f3c2f184647ed07bf1a851953ff15d41eb8447068c8f",
+   "source": "Yahoo",
+   "published": "2026-10-13T15:29:41+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "Financing",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "845448c937e0",
    "headline": "PacBio Teams With TychoBio to Advance AI-Driven RNA Therapeutics",
    "summary": "PACB partners with TychoBio to harness AI and long-read RNA sequencing for rare disease therapies, aiming to improve drug efficacy and safety through advanced data models.",
@@ -2733,6 +2851,21 @@
     "JNJ"
    ],
    "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "753dc95442ae",
+   "headline": "Here's What to Expect From Merck & Co.'s Next Earnings Report",
+   "summary": "Merck & Co. is set to release its third-quarter earnings in a couple of weeks, and analysts are expecting its EPS to grow by a single digit.",
+   "url": "https://finnhub.io/api/news?id=90699db26ee41ba519a3ebf20113b59d1fa32059d45a9e62184305dd4a5815bf",
+   "source": "Yahoo",
+   "published": "2026-10-13T14:04:09+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "Earnings",
    "sectors": [
     "pharma"
    ]
