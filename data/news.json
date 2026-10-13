@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-13T20:20:04.813374+00:00",
+ "updated": "2026-10-13T20:34:36.831731+00:00",
  "quotes": {
   "A": {
    "price": 171.6,
@@ -138,6 +138,10 @@
    "price": 76.32,
    "change_pct": 0.1
   },
+  "GSK": {
+   "price": 46.27,
+   "change_pct": -1.39
+  },
   "HALO": {
    "price": 109.62,
    "change_pct": -1.31
@@ -266,6 +270,10 @@
    "price": 282.55,
    "change_pct": -0.02
   },
+  "TAK": {
+   "price": 18.52,
+   "change_pct": -0.86
+  },
   "TEM": {
    "price": 68.22,
    "change_pct": 0.34
@@ -313,10 +321,6 @@
   "ZBH": {
    "price": 92.08,
    "change_pct": -0.1
-  },
-  "ZTS": {
-   "price": 74.3,
-   "change_pct": -1.78
   }
  },
  "tickers": {
@@ -934,6 +938,21 @@
  },
  "stories": [
   {
+   "id": "676265150fae",
+   "headline": "STAT+: BlackRock to buy majority stake in Humana\u2019s CenterWell clinics for $2.8 billion",
+   "summary": "Humana is swapping out private equity sponsors for its CenterWell Senior Primary Care clinics. Good bye, Welsh, Carson, Anderson & Stowe. Hello, BlackRock.",
+   "url": "https://www.statnews.com/2026/10/13/blackrock-humana-centerwell-deal-senior-care-medicare-clinics/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-13T20:25:40+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "302351ac6555",
    "headline": "10x Genomics to Report Third Quarter 2026 Financial Results on November 5, 2026",
    "summary": "PLEASANTON, Calif., Oct. 13, 2026 /PRNewswire/ -- 10x Genomics, Inc. (Nasdaq: TXG), the life science technology leader focused on accelerating science and advancing human health, announced it will report financial results for the third\u2026",
@@ -946,6 +965,67 @@
    "tag": "News",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "8ddfddeaa62b",
+   "headline": "Russell Investments Canada Limited Announces Monthly Distributions for Exchange Traded Fund Series (\"ETF Series\") and Exchange Traded Funds (\"ETFs\")",
+   "summary": "TORONTO, October 13, 2026--Russell Investments Canada Limited (\"Russell Investments Canada\") today announced cash distributions for the ETF Series and ETFs for the months of October, and November. Unitholders of record of the ETF Series\u2026",
+   "url": "https://finnhub.io/api/news?id=61b08b08b00dbe20a7dae5bc9c0c8b99aa6ee71777bf1a53d864773cf202db99",
+   "source": "Yahoo",
+   "published": "2026-10-13T20:00:00+00:00",
+   "tickers": [
+    "HALO"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "86d0304cff88",
+   "headline": "CVS Agrees to $315M Settlement in Department of Justice Opioid Lawsuit Without Admitting Fault",
+   "summary": "CVS Pharmacy Inc. has agreed to pay $315 million to settle the Justice Department\u2019s opioid lawsuit, but is denying it did anything wrong. \u201cToday\u2019s settlement is a significant milestone in the Justice Department\u2019s efforts to combat the\u2026",
+   "url": "https://finnhub.io/api/news?id=1232b1ecfef85d3fb9eeb42344619e213332c7e7f45b9f147051f3459507d5cd",
+   "source": "Yahoo",
+   "published": "2026-10-13T19:50:18+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "tag": "Legal",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "be471d9bb69b",
+   "headline": "Sector Update: Healthcare Stocks Fall Late Afternoon",
+   "summary": "Healthcare stocks were lower late Tuesday afternoon, with the NYSE Healthcare Index and the State St",
+   "url": "https://finnhub.io/api/news?id=006e35c542e5af0d0e245a224630268b9a4f84a5ff8cad6e9c0eb2da96c5d9de",
+   "source": "Yahoo",
+   "published": "2026-10-13T19:47:53+00:00",
+   "tickers": [
+    "CVS",
+    "JNJ"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "ac276a538759",
+   "headline": "CVS agrees to $315M DOJ settlement, enhanced DEA prescription oversight",
+   "summary": "Investing.com -- CVS (NYSE:CVS) Pharmacy Inc. and its corporate entities have agreed to pay $315 million to resolve allegations that the chain illegally dispensed controlled substances and fraudulently billed federal healthcare programs\u2026",
+   "url": "https://finnhub.io/api/news?id=758b0c95c009e2cf32b6f45dbc1e3c1f08f46fcaf0d2787bfeeb746d146aa753",
+   "source": "Yahoo",
+   "published": "2026-10-13T19:47:16+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "tag": "Legal",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -971,7 +1051,8 @@
    "source": "Yahoo",
    "published": "2026-10-13T19:24:23+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "JNJ"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -1032,11 +1113,57 @@
    "published": "2026-10-13T19:10:16+00:00",
    "tickers": [
     "AMGN",
+    "JNJ",
     "MRK"
    ],
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "b2247288ffe1",
+   "headline": "These S&P500 stocks are moving in today's session",
+   "summary": "Join us in exploring the top gainers and losers within the S&P500 index one hour before the close of the markets on Tuesday as we examine the latest happenings in today's session.",
+   "url": "https://finnhub.io/api/news?id=3a18440b38bccb051232c611a647e6916b791c40ac5821e8ef45ae23e92a6764",
+   "source": "ChartMill",
+   "published": "2026-10-13T19:05:01+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "c49dbfc72460",
+   "headline": "Update: CVS to Pay $315 Million to Settle Opioid-Prescription Allegations, DOJ Says",
+   "summary": "(Updates to add CVS' comment in paragraph five) CVS Health (CVS) and related entities agreed to p",
+   "url": "https://finnhub.io/api/news?id=6ca2ec27f1a24a0da84f5c37e776e787fa9a18960d62df9d913763ad770ad54e",
+   "source": "Yahoo",
+   "published": "2026-10-13T18:52:24+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "tag": "Legal",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "c2e7b4c32a82",
+   "headline": "Aetna Supports GENYOUth to Help End Student Hunger and Get Kids Moving at 40 Schools Across Six States",
+   "summary": "GENYOUth, the national nonprofit organization dedicated to helping schoolchildren thrive by living well-nourished and physically active lives, today announced a $240,000 donation from Aetna\u00ae, a CVS Health\u00ae company, to help end student\u2026",
+   "url": "https://finnhub.io/api/news?id=a06879449020b872bbbfe772c817c975c5b0866fb1c29f1c9a67e579c40bc444",
+   "source": "Yahoo",
+   "published": "2026-10-13T18:31:00+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -1141,6 +1268,21 @@
    ]
   },
   {
+   "id": "f5c8045e1655",
+   "headline": "Here\u2019s What\u2019s Dragging Down the Dow",
+   "summary": "A decent day for the Dow has completely flipped on its head.",
+   "url": "https://finnhub.io/api/news?id=f00b1416751b9b599ae572eb41364da8c22e0580d73153052166dba042a60169",
+   "source": "Yahoo",
+   "published": "2026-10-13T17:41:35+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "3ef11bf3706c",
    "headline": "Merck (MRK) Reports a Negative Operating Margin and Pays Out 266% of Earnings. What Explains Both?",
    "summary": "Merck & Co., Inc. (NYSE:MRK) closed at $145.45 on October 12. The stock has returned 21% during the last six months, compared to a 21.25% return for the Insider Monkey Billionaire Index and 14% for State Street SPDR S&P 500 ETF Trust. A\u2026",
@@ -1222,6 +1364,21 @@
    "url": "https://finnhub.io/api/news?id=11d6a2d25a848f4d9c13c5fbbda7602d172acc73e07876725fb84e34cd79a066",
    "source": "Yahoo",
    "published": "2026-10-13T17:09:36+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "4b8ebba827a9",
+   "headline": "JPMorgan Chase, Goldman, Micron, J&J, UnitedHealth, Six Flags, Fermi, and More Stocks That Explain Today\u2019s Market",
+   "summary": "JPMorgan Chase rises slightly as the bank generates $15.3 billion in net income in the third quarter, up 6% from a year earlier.",
+   "url": "https://finnhub.io/api/news?id=4edddfecd097c36311f51f264ae0f247e4d9c73a7a3aea3c43334f4a47ace7e1",
+   "source": "Yahoo",
+   "published": "2026-10-13T17:05:00+00:00",
    "tickers": [
     "JNJ"
    ],
@@ -1634,6 +1791,21 @@
    "sectors": []
   },
   {
+   "id": "9613e966cb96",
+   "headline": "Takeda Remains A Buy, Boosted By Recent Narcolepsy Drug Approval And Robust Pipeline",
+   "summary": "Takeda is rated a buy, reflecting recent drug approval, a robust future pipeline, global reach & an investment-grade rating. Click for more on TAK stock.",
+   "url": "https://finnhub.io/api/news?id=01aca2f1352121261ab7bf804fad537cb037ec1167f833ad4c4ea561fd09a27e",
+   "source": "SeekingAlpha",
+   "published": "2026-10-13T15:48:06+00:00",
+   "tickers": [
+    "TAK"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "e0faed516aa2",
    "headline": "UNMC, Nebraska Medicine teaching hospital project upgrades to $2.75B planned investment",
    "summary": "The project\u2019s new scope reflects an approximate $500 million increase from its initial estimate.",
@@ -1758,6 +1930,21 @@
    "tag": "Health AI",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "7f0ac4f44e4b",
+   "headline": "Wall Street Lunch: Bank Earnings Nothing To Write Home About",
+   "summary": "JPMorgan misses earnings forecasts as big banks kick off reporting. UnitedHealth raises its full-year outlook for the third time. Fund managers pile into tech stocks.",
+   "url": "https://finnhub.io/api/news?id=9a894c7153c7c5a5dc9fc1509910af2be7ed4f705868ee5b7142cb34ac249826",
+   "source": "SeekingAlpha",
+   "published": "2026-10-13T15:28:00+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
    ]
   },
   {
