@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-13T03:02:48.627020+00:00",
+ "updated": "2026-10-13T03:18:05.221294+00:00",
  "quotes": {
   "A": {
    "price": 171.33,
@@ -137,6 +137,10 @@
   "GEHC": {
    "price": 67.74,
    "change_pct": 3.04
+  },
+  "GH": {
+   "price": 162.79,
+   "change_pct": -2.79
   },
   "GILD": {
    "price": 150.43,
@@ -317,10 +321,6 @@
   "TMO": {
    "price": 662.24,
    "change_pct": 0.64
-  },
-  "TWST": {
-   "price": 151.86,
-   "change_pct": -4.96
   }
  },
  "tickers": {
@@ -1072,6 +1072,7 @@
    "source": "SeekingAlpha",
    "published": "2026-10-12T22:41:49+00:00",
    "tickers": [
+    "GH",
     "NTRA"
    ],
    "tag": "News",
