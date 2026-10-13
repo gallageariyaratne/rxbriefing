@@ -1,43 +1,7 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-13T12:17:32.763411+00:00",
+ "updated": "2026-10-13T12:32:39.548528+00:00",
  "quotes": {
-  "A": {
-   "price": 171.33,
-   "change_pct": 0.46
-  },
-  "ABBV": {
-   "price": 281.12,
-   "change_pct": 1.68
-  },
-  "ABSI": {
-   "price": 9.67,
-   "change_pct": -4.82
-  },
-  "ABT": {
-   "price": 101.82,
-   "change_pct": 2.23
-  },
-  "ALHC": {
-   "price": 8.09,
-   "change_pct": 7.22
-  },
-  "ALNY": {
-   "price": 227.02,
-   "change_pct": -2.43
-  },
-  "AMGN": {
-   "price": 417.57,
-   "change_pct": 0.65
-  },
-  "AXSM": {
-   "price": 166,
-   "change_pct": -1.4
-  },
-  "AZN": {
-   "price": 158.33,
-   "change_pct": -0.55
-  },
   "BIIB": {
    "price": 229.41,
    "change_pct": 1.64
@@ -117,10 +81,6 @@
   "ELV": {
    "price": 422.09,
    "change_pct": 2.28
-  },
-  "EXEL": {
-   "price": 59.82,
-   "change_pct": -0.07
   },
   "GEHC": {
    "price": 67.74,
@@ -285,6 +245,10 @@
   "UNH": {
    "price": 378.52,
    "change_pct": -0.21
+  },
+  "UTHR": {
+   "price": 550.1,
+   "change_pct": 0.17
   },
   "VEEV": {
    "price": 295.85,
@@ -918,6 +882,32 @@
  },
  "stories": [
   {
+   "id": "1e91d2eb8683",
+   "headline": "UnitedHealth Group beats the Street with $4.1B in profit for Q3",
+   "summary": "Another round of healthcare industry earnings reports kicked off Tuesday morning, with UnitedHealth Group reporting $4.1 billion in profit for the third quarter.",
+   "url": "https://www.fiercehealthcare.com/payers/unitedhealth-group-beats-street-41b-profit-q3",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-13T12:30:24.416787+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "b35c5b126abc",
+   "headline": "ARPA-H program manager talks 'first-shoring' philosophy behind $125M RNA manufacturing network challenge",
+   "summary": "Rather than another instance of on-shoring enthusiasm, ARPA-H\u2019s personalized RNA drug production network project should be viewed as more akin to a \u201cfirst-shoring program,\u201d said John Schiel, Ph.D., program manager for GIVE at ARPA-H.",
+   "url": "https://www.fiercepharma.com/pharma/arpa-h-program-manager-talks-first-shoring-philosophy-behind-125m-rna-manufacturing-network",
+   "source": "Fierce Pharma",
+   "published": "2026-10-13T12:30:24.265348+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
    "id": "05798ef41a8b",
    "headline": "Johns Hopkins Medicine taps OpenEvidence to bring AI into medical education, clinical care",
    "summary": "Johns Hopkins Medicine is teaming up with OpenEvidence to advance the use of artificial intelligence in medical education and clinical care.",
@@ -977,6 +967,36 @@
    ]
   },
   {
+   "id": "4926a2539ec4",
+   "headline": "Earnings live updates: JPMorgan, Goldman Sachs stocks rise as big banks kick off Q3 earnings season",
+   "summary": "Big bank results kick off Q3 earnings season on Tuesday.",
+   "url": "https://finnhub.io/api/news?id=015e7383933811c6d811368ba6c824d515f24833a2b9918d49387afb3a742407",
+   "source": "Yahoo",
+   "published": "2026-10-13T11:51:35+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "d22c71fc31c4",
+   "headline": "Tech Selloff Deepens as Bank Earnings Fuel Stock Market Rotation",
+   "summary": "The stock market is reacting to big bank earnings, Micron gets a warning from Elon Musk about Chinese memory chips, and more news to start your day.",
+   "url": "https://finnhub.io/api/news?id=9328fa0cab3286cc651f7448b00e2e8188e5e7ff7ac8ffa01eda5c724ff2fe91",
+   "source": "Yahoo",
+   "published": "2026-10-13T11:49:00+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "ca118a09fe26",
    "headline": "How many ways can the Trump administration clamp down on international researchers?",
    "summary": "In the span of two days last week, the Trump administration issued two sweeping announcements meant to crack down on international students and scholars, who make up a sizable portion\u2026",
@@ -1014,6 +1034,21 @@
    ]
   },
   {
+   "id": "9bdcef551355",
+   "headline": "Johnson & Johnson Hikes Earnings Guidance but Pharma Growth Masks a MedTech Stumble. Stock Falls.",
+   "summary": "Johnson & Johnson says it is working to improve results in its medical-device business, where surgery revenue fell for the latest quarter.",
+   "url": "https://finnhub.io/api/news?id=5ca427a413013f1310f27e9da9e339f0b0d66ee91b221c2ffe3c120e660d15d5",
+   "source": "Yahoo",
+   "published": "2026-10-13T11:29:00+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "9bc676de7a7b",
    "headline": "UnitedHealth Group Inc (NYSE:UNH) Q3 2026 Earnings Beat on Cost Control and Raised Guidance",
    "summary": "UnitedHealth Q3 2026 earnings beat estimates as medical costs tightened; revenue was in line, guidance raised, and shares rose in premarket trading.",
@@ -1029,6 +1064,21 @@
    ]
   },
   {
+   "id": "672825713c81",
+   "headline": "Johnson & Johnson (NYSE:JNJ) Q3 2026: In-Line Results and Raised Guidance Offset by MedTech Weakness",
+   "summary": "Johnson & Johnson Q3 2026 earnings in line, revenue slightly misses; MedTech lags, full-year guidance raised, shares fall premarket.",
+   "url": "https://finnhub.io/api/news?id=01842588225a0075aa72ecd6ed31cc56adcfc8b349540f3e23caace88b45fe80",
+   "source": "ChartMill",
+   "published": "2026-10-13T11:21:49+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "e97577374972",
    "headline": "DexCom (NASDAQ:DXCM): Affordable Growth at a Reasonable Valuation",
    "summary": "DexCom (DXCM) offers affordable growth with strong EPS outlook, high profitability, and reasonable peer valuation\u2014making it a quality growth pick.",
@@ -1041,6 +1091,36 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "dc868bbc3662",
+   "headline": "Bank Bank Earnings, Chip Drama Roil Wall Street Pre-Bell; Asia Mixed, Europe Up",
+   "summary": "Wall Street futures were mixed on the downside pre-bell Tuesday as traders digested big bank earning",
+   "url": "https://finnhub.io/api/news?id=7904d19df5d22d641515a8b1eab78ffbecd1c0110d5f88c730c01a7a90d8567e",
+   "source": "Yahoo",
+   "published": "2026-10-13T11:18:02+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "8fe8e53e442c",
+   "headline": "4 Dividend Kings Retirees Can Buy and Hold Forever: Safe Income for the Next 60 Years",
+   "summary": "Four Dividend Kings have raised their payouts for decades, but a closer look at their cash flows reveals one payout hanging by a thread while another faces a looming tax battle that could shake retiree income.",
+   "url": "https://finnhub.io/api/news?id=097c3dc1cbe8fd0f8242e78c2cfb4ce3729c30536a1a976b8017597485cc95d8",
+   "source": "Yahoo",
+   "published": "2026-10-13T11:15:46+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1094,6 +1174,21 @@
    ]
   },
   {
+   "id": "50f0cb9d5d43",
+   "headline": "IQVIA Selects Veeva Clinical Operations Applications",
+   "summary": "IQVIA (NYSE: IQV) and Veeva Systems (NYSE: VEEV) today announced an expansion of their partnership with the selection of Veeva CTMS, eTMF, Study Startup, and Site Connect as enterprise standard applications that will be used across IQVIA\u2026",
+   "url": "https://finnhub.io/api/news?id=a4265a6fb5eebafeaa746c37d3732806536e4e5b746338dc571e28fba7aaf16b",
+   "source": "Yahoo",
+   "published": "2026-10-13T11:03:00+00:00",
+   "tickers": [
+    "VEEV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "780bbf4a4565",
    "headline": "UnitedHealth Rises As Earnings, Medical Costs Beat Forecasts",
    "summary": "The Dow giant's profits have recovered as medical membership has fallen.",
@@ -1101,11 +1196,27 @@
    "source": "Yahoo",
    "published": "2026-10-13T11:01:58+00:00",
    "tickers": [
-    "CI"
+    "CI",
+    "CVS"
    ],
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "b47da8adf332",
+   "headline": "Johnson & Johnson beats estimates, raises 2026 guidance",
+   "summary": "Investing.com -- Johnson & Johnson (NYSE: JNJ) reported its latest quarterly results ahead of the open on Tuesday, exceeding analyst expectations.",
+   "url": "https://finnhub.io/api/news?id=d2ce8c34f048852c9a505645e115466792f4b8414f2d7c8bbbe0b9617c0a2f83",
+   "source": "Yahoo",
+   "published": "2026-10-13T11:00:03+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1139,6 +1250,21 @@
    ]
   },
   {
+   "id": "5a611a49f982",
+   "headline": "United Therapeutics Presents New Data at the CHEST 2026 Annual Meeting",
+   "summary": "SILVER SPRING, Md. & RESEARCH TRIANGLE PARK, N.C., October 13, 2026--United Therapeutics Corporation (Nasdaq: UTHR), a public benefit corporation, today announced that two oral and five poster presentations will be presented across its\u2026",
+   "url": "https://finnhub.io/api/news?id=b35f13496689ab15ef8e63f555a9c45fdac914713b0afb4a054364337e889f89",
+   "source": "Yahoo",
+   "published": "2026-10-13T11:00:00+00:00",
+   "tickers": [
+    "UTHR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "f86ef006f0a6",
    "headline": "UnitedHealth gains on Q3 earnings beat, raised 2026 profit guidance",
    "summary": "Investing.com -- UnitedHealth Group shares rose more than 2% in Tuesday premarket trading after the health insurer reported third-quarter earnings that beat Wall Street estimates and raised its full-year profit outlook.",
@@ -1151,6 +1277,21 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "7d35dffc421c",
+   "headline": "Johnson & Johnson (JNJ) Q3 Earnings Surpass Estimates",
+   "summary": "Johnson & Johnson (JNJ) delivered earnings and revenue surprises of +2.37% and -0.15%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=262c13b238ce81163c22a26f3f6904aabad4e33a7e58302516fa88e16ef4eacb",
+   "source": "Yahoo",
+   "published": "2026-10-13T10:45:02+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1169,6 +1310,51 @@
    ]
   },
   {
+   "id": "493e342692f3",
+   "headline": "Stock Market Today: Futures Mixed on Busy Earnings Day; Dow Lifted by UnitedHealth; Memory Stocks Weigh on Nasdaq",
+   "summary": "Stock futures were mixed Tuesday as several big banks and other notable companies reported quarterly results, with shares of memory chip makers falling for a second straight day on worries about Chinese competition.",
+   "url": "https://finnhub.io/api/news?id=32cae84453534a6865f31465092e580c4896eeb8d4d304824204388d8001859f",
+   "source": "Yahoo",
+   "published": "2026-10-13T10:40:49+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "8702c85d50ea",
+   "headline": "Johnson & Johnson: Q3 Earnings Snapshot",
+   "summary": "(AP) \u2014 Johnson & Johnson (JNJ) on Tuesday reported third-quarter profit of $210 million.On a per-share basis, the New Brunswick, New Jersey-based company said it had profit of 9 cents.",
+   "url": "https://finnhub.io/api/news?id=1e4e2e4ef24859df579eec5c2b3c2b016d2b723c19b1d29281877f3e2814f966",
+   "source": "Yahoo",
+   "published": "2026-10-13T10:37:23+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "ab13f21499a3",
+   "headline": "Johnson & Johnson Announces Quarterly Dividend for Fourth Quarter 2026",
+   "summary": "NEW BRUNSWICK, N.J., October 13, 2026--Johnson & Johnson (NYSE: JNJ) today announced that its Board of Directors has declared a cash dividend for the fourth quarter of 2026 of $1.34 per share on the company\u2019s common stock. The dividend is\u2026",
+   "url": "https://finnhub.io/api/news?id=80743ca7ccc20ed71a425aa116b3ae8099a98e928dc1db1f7c36a9dd7657a02e",
+   "source": "Yahoo",
+   "published": "2026-10-13T10:25:00+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "34b087867cb7",
    "headline": "Humana Announces New Strategic Joint Venture with BlackRock to Manage CenterWell Senior Primary Care Clinics",
    "summary": "LOUISVILLE, Ky., October 13, 2026--Humana Inc. (NYSE: HUM) today announced it has entered into a new joint venture agreement with funds and accounts managed by HPS Investment Partners, a part of BlackRock (\"BlackRock\"), to manage and\u2026",
@@ -1181,6 +1367,21 @@
    "tag": "Financing",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "28116f36169d",
+   "headline": "Genmab Announces Net Sales of DARZALEX\u00ae (daratumumab) for Third Quarter of 2026",
+   "summary": "Company Announcement Net sales of DARZALEX\u00ae in the third quarter of 2026 totaled USD 4,239 millionGenmab receives royalties on worldwide net sales from Johnson & Johnson (J&J, legal entity Janssen Biotech, Inc.) COPENHAGEN, Denmark;\u2026",
+   "url": "https://finnhub.io/api/news?id=4ee0f4a73220fbeb6090dc2b77490e7665a6355c980d2cc87235cca14ad23f67",
+   "source": "Yahoo",
+   "published": "2026-10-13T10:22:00+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1539,6 +1740,21 @@
    ]
   },
   {
+   "id": "90652ddb6290",
+   "headline": "The Most Important Dividend Investing Lesson I've Ever Learned",
+   "summary": "Dividend Aristocrats and Dividend Kings are popular for good reason, but their impressive track records can create a dangerous false sense of security.",
+   "url": "https://finnhub.io/api/news?id=e78dc583ae84fcd0893ea6e05db8e4597c5370b14ff10c0ed039b866b7ed0385",
+   "source": "SeekingAlpha",
+   "published": "2026-10-13T08:05:00+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "8b9e29abc89c",
    "headline": "Global Chromosomal Microarray Reflex Testing Market Report 2026-2030 | Capitalize on 9.1% CAGR as Thermo Fisher, LabCorp, Illumina, Agilent, and Natera Scale Precision Genomics",
    "summary": "Dublin, Oct. 13, 2026 (GLOBE NEWSWIRE) -- \"Chromosomal Microarray Reflex Testing Global Market Report 2026\" has been added to ResearchAndMarkets.com's offering. The global chromosomal microarray reflex testing market is experiencing\u2026",
@@ -1698,6 +1914,21 @@
    ]
   },
   {
+   "id": "de0af7724320",
+   "headline": "Melexis: Transparency declaration by Invesco Ltd.",
+   "summary": "Melexis NV (Euronext Brussels: MELE)Press release \u2013 Regulated informationTessenderlo (BE), 13 October 2026 \u2013 07:00 CET Disclosure of transparency notification (article 14, first paragraph, of the Law of 2 May 2007) Notification by Invesco\u2026",
+   "url": "https://finnhub.io/api/news?id=a14055b129cd118864ce4290c9088e584f70099f8c1bfbc329f57a7ceca33905",
+   "source": "Yahoo",
+   "published": "2026-10-13T05:00:00+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "ac5870dfe7ab",
    "headline": "Doximity and U.S. News & World Report Extend Partnership to Connect Patients with Hospitals and Doctors",
    "summary": "Doximity helps to power U.S. News' Doctor Finder, Patient Connect appointment booking tools used by over 65 million Americans annually to find and schedule care SAN FRANCISCO and WASHINGTON, Oct. 13, 2026 /PRNewswire/ -- Doximity (NYSE:\u2026",
@@ -1785,6 +2016,21 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "826f185d7a2b",
+   "headline": "South Korea's Kospi index sinks more than 7% on semiconductor share sell-off over AI boom worries",
+   "summary": "HONG KONG (AP) \u2014 South Korea\u2019s benchmark Kospi index dropped more than 7% on Tuesday on a sell-off of chip shares, and Asian shares mostly declined after U. futures were also mixed, and oil prices fell as escalating tensions in the Middle\u2026",
+   "url": "https://finnhub.io/api/news?id=daa5ba8aa9b20902d5ae142ea94e15b7ed22a1a8ab9871e0907d8d97a477985c",
+   "source": "Yahoo",
+   "published": "2026-10-13T02:56:06+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "pharma"
    ]
   },
   {
