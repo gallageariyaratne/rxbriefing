@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-13T07:47:30.207559+00:00",
+ "updated": "2026-10-13T08:02:45.024589+00:00",
  "quotes": {
   "A": {
    "price": 171.33,
@@ -102,17 +102,9 @@
    "price": 221.2,
    "change_pct": 0.63
   },
-  "DNLI": {
-   "price": 18.95,
-   "change_pct": -2.57
-  },
   "DOCS": {
    "price": 30.58,
    "change_pct": 0.26
-  },
-  "DVA": {
-   "price": 181.78,
-   "change_pct": 1.41
   },
   "DXCM": {
    "price": 85.92,
@@ -321,6 +313,14 @@
   "VKTX": {
    "price": 28.34,
    "change_pct": -0.6
+  },
+  "VRTX": {
+   "price": 507,
+   "change_pct": -0.6
+  },
+  "ZBH": {
+   "price": 92.17,
+   "change_pct": 3.4
   }
  },
  "tickers": {
@@ -980,6 +980,36 @@
    "tag": "News",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "373e57582e03",
+   "headline": "Hims & Hers Health: The Bullish Case Is Hard To Forecast, But It Is Asymmetrical",
+   "summary": "Hims & Hers Health is rated a buy, with a fair value estimate of $41 per share versus the current $29.81. Read more on HIMS stock here.",
+   "url": "https://finnhub.io/api/news?id=65ac9ae6afee653c388263ea629767d77a3d4094e264661c29234dcd45bf78bd",
+   "source": "SeekingAlpha",
+   "published": "2026-10-13T03:12:52+00:00",
+   "tickers": [
+    "HIMS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
+   "id": "e0574d977c42",
+   "headline": "Stryker: Q2 Recovery And Portfolio Expansion Strengthen The Operating Story",
+   "summary": "Stryker rebounded in 2Q26, with operating momentum restored after the prior quarter\u00e2\u0080\u0099s cybersecurity disruption. Learn why SYK stock is a buy.",
+   "url": "https://finnhub.io/api/news?id=5e9bd1d3a553f04d98648a12ff5ba5d4e6b86cd544fd5e6d7d5106a7fe17ce7f",
+   "source": "SeekingAlpha",
+   "published": "2026-10-13T03:11:59+00:00",
+   "tickers": [
+    "SYK"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
    ]
   },
   {
