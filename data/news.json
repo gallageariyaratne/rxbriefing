@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-13T10:17:26.992111+00:00",
+ "updated": "2026-10-13T10:32:34.581494+00:00",
  "quotes": {
   "A": {
    "price": 171.33,
@@ -37,6 +37,10 @@
   "BIIB": {
    "price": 229.41,
    "change_pct": 1.64
+  },
+  "BMRN": {
+   "price": 55.39,
+   "change_pct": 1.09
   },
   "BMY": {
    "price": 57.58,
@@ -137,6 +141,10 @@
   "GSK": {
    "price": 46.92,
    "change_pct": 0.9
+  },
+  "HALO": {
+   "price": 111.08,
+   "change_pct": 0.6
   },
   "HCA": {
    "price": 458.6,
@@ -296,10 +304,6 @@
   },
   "VKTX": {
    "price": 28.34,
-   "change_pct": -0.6
-  },
-  "VRTX": {
-   "price": 507,
    "change_pct": -0.6
   },
   "WAY": {
@@ -926,6 +930,36 @@
  },
  "stories": [
   {
+   "id": "1d135c7075f2",
+   "headline": "1 Unpopular Stock That Deserves a Second Chance and 2 We Brush Off",
+   "summary": "Wall Street has issued downbeat forecasts for the stocks in this article. These predictions are rare - financial institutions typically hesitate to say bad things about a company because it can jeopardize their other revenue-generating\u2026",
+   "url": "https://finnhub.io/api/news?id=e4d243f3521e0ab659b12c7afbf448d132928bc4acdb5d0d120b56d3b3af8b5a",
+   "source": "Yahoo",
+   "published": "2026-10-13T09:39:04+00:00",
+   "tickers": [
+    "HALO"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "9ed8e9e1598a",
+   "headline": "BIOMARIN PHARMACEUTICAL INC (NASDAQ:BMRN) Screens as a Decent Value Stock on Cheap Forward Earnings",
+   "summary": "BioMarin (BMRN) trades cheap on forward earnings and cash flow with strong margins, but health and growth risks keep it a decent value watch.",
+   "url": "https://finnhub.io/api/news?id=614a3124ce50e6cf1c470b1903720498d06f83040582b15d34c587cf64b40d5f",
+   "source": "ChartMill",
+   "published": "2026-10-13T09:20:52+00:00",
+   "tickers": [
+    "BMRN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "e6cb36c03566",
    "headline": "Galderma sculpts new narrative around menopausal skin changes to fill awareness gap",
    "summary": "One in two women is unaware that hormonal fluctuations during perimenopause and menopause can affect their skin, a Galderma survey found.",
@@ -935,6 +969,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "aadd834abaa0",
+   "headline": "Johnson & Johnson (JNJ) Stock May Be 28% Undervalued As TREMFYA Data Impresses",
+   "summary": "Johnson & Johnson has delivered strong returns in recent years, and the question now is whether the cash the business can generate is enough to support where the stock trades today. Recent drug data and pipeline headlines keep attention\u2026",
+   "url": "https://finnhub.io/api/news?id=96f2a79e932212352dcef0bbfe0318e632bad9a4b86bc98d14953455d773f360",
+   "source": "Yahoo",
+   "published": "2026-10-13T09:11:45+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "a1252c3c45ba",
@@ -1099,6 +1148,7 @@
    "source": "Yahoo",
    "published": "2026-10-13T08:08:00+00:00",
    "tickers": [
+    "BSX",
     "MDT"
    ],
    "tag": "News",
@@ -1146,6 +1196,7 @@
    "source": "Yahoo",
    "published": "2026-10-13T08:03:00+00:00",
    "tickers": [
+    "A",
     "ILMN",
     "TMO"
    ],
