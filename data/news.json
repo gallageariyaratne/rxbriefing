@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-13T00:47:42.088155+00:00",
+ "updated": "2026-10-13T01:03:16.599189+00:00",
  "quotes": {
   "A": {
    "price": 171.33,
@@ -85,6 +85,10 @@
   "CRL": {
    "price": 301.86,
    "change_pct": 0.02
+  },
+  "CRSP": {
+   "price": 51.55,
+   "change_pct": -3.45
   },
   "CVS": {
    "price": 87.74,
@@ -266,6 +270,10 @@
    "price": 34.59,
    "change_pct": -2.4
   },
+  "RXRX": {
+   "price": 4.01,
+   "change_pct": -8.03
+  },
   "SNY": {
    "price": 39.74,
    "change_pct": -0.82
@@ -273,6 +281,10 @@
   "SOPH": {
    "price": 7.22,
    "change_pct": -2.56
+  },
+  "SRPT": {
+   "price": 17.44,
+   "change_pct": -2.3
   },
   "SYK": {
    "price": 282.6,
@@ -309,14 +321,6 @@
   "VEEV": {
    "price": 295.85,
    "change_pct": -0.09
-  },
-  "VRTX": {
-   "price": 507,
-   "change_pct": -0.6
-  },
-  "ZBH": {
-   "price": 92.17,
-   "change_pct": 3.4
   }
  },
  "tickers": {
@@ -934,6 +938,21 @@
  },
  "stories": [
   {
+   "id": "96c50f548295",
+   "headline": "Biogen (BIIB) vs Amgen (AMGN) and Gilead (GILD): Which Big Pharma Stock is a Better Buy?",
+   "summary": "Biogen Inc. (NASDAQ:BIIB) closed at $225.71 on October 9. The stock has returned 30.5% during the last six months, compared to a 24.3% return for the Insider Monkey Billionaire Index and 15.1% for the State Street SPDR S&P 500 ETF Trust.\u2026",
+   "url": "https://finnhub.io/api/news?id=c51779d3d7df77a8032713ac011bce19574478f7f4bfa06d8b2b04781d1ee56c",
+   "source": "Yahoo",
+   "published": "2026-10-13T00:31:10+00:00",
+   "tickers": [
+    "GILD"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "2e58573b2ac1",
    "headline": "How data is reshaping rare disease media strategy",
    "summary": "Addressable Health's Steve Kimm explains how data-driven omnichannel planning is helping rare disease brands maximize media impact.",
@@ -983,7 +1002,8 @@
    "source": "Yahoo",
    "published": "2026-10-12T23:03:03+00:00",
    "tickers": [
-    "BIIB"
+    "BIIB",
+    "LLY"
    ],
    "tag": "Analyst",
    "sectors": [
@@ -1000,7 +1020,8 @@
    "tickers": [
     "CI",
     "CVS",
-    "DGX"
+    "DGX",
+    "HIMS"
    ],
    "tag": "News",
    "sectors": [
@@ -1035,6 +1056,21 @@
    "tag": "Earnings",
    "sectors": [
     "healthit"
+   ]
+  },
+  {
+   "id": "9e5e496d3d10",
+   "headline": "Surgical Equipment & Consumables - Diversified Stocks Q2 Results: Benchmarking Zimmer Biomet (NYSE:ZBH)",
+   "summary": "As the Q2 earnings season comes to a close, it\u2019s time to take stock of this quarter\u2019s best and worst performers in the surgical equipment & consumables - diversified industry, including Zimmer Biomet (NYSE:ZBH) and its peers.",
+   "url": "https://finnhub.io/api/news?id=924cd790c17265658e3b859c19d5ab2dbd56405fa00d7bb4ce3ea3e0fda9274b",
+   "source": "Yahoo",
+   "published": "2026-10-12T22:07:03+00:00",
+   "tickers": [
+    "ZBH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -1115,11 +1151,27 @@
     "ALNY",
     "MRK",
     "MRNA",
-    "PFE"
+    "PFE",
+    "SRPT"
    ],
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "1f1a15c48875",
+   "headline": "CRISPR Therapeutics AG (CRSP) Dips More Than Broader Market: What You Should Know",
+   "summary": "CRISPR Therapeutics AG (CRSP) closed at $51.55 in the latest trading session, marking a -3.45% move from the prior day.",
+   "url": "https://finnhub.io/api/news?id=ee7b5f099596b656e31397851346399d9cb824c74d5ca16fd07977b986efcb89",
+   "source": "Yahoo",
+   "published": "2026-10-12T21:00:05+00:00",
+   "tickers": [
+    "CRSP"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -1135,6 +1187,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "9aa36fdd94c6",
+   "headline": "Recursion Pharmaceuticals (RXRX) Registers a Bigger Fall Than the Market: Important Facts to Note",
+   "summary": "Recursion Pharmaceuticals (RXRX) closed the most recent trading day at $4.01, moving 8.03% from the previous trading session.",
+   "url": "https://finnhub.io/api/news?id=401b1b96175813a2cef11092a63969f267f0b7fc33f673d04408762bd8c57440",
+   "source": "Yahoo",
+   "published": "2026-10-12T20:50:04+00:00",
+   "tickers": [
+    "RXRX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthai"
    ]
   },
   {
@@ -2176,6 +2243,21 @@
    ]
   },
   {
+   "id": "66e9b673c3c9",
+   "headline": "TEVA Gets FDA Nod for Weltruza as Once-Monthly LAI in Schizophrenia",
+   "summary": "Teva wins FDA approval for Weltruza, the first once-monthly subcutaneous olanzapine injection for adults with schizophrenia, with a U.S. launch expected soon.",
+   "url": "https://finnhub.io/api/news?id=6453b40ee6ac1f907480f867e65f08a7882c75430308a57660d64eeb34423d4c",
+   "source": "Yahoo",
+   "published": "2026-10-12T15:07:00+00:00",
+   "tickers": [
+    "CRSP"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "27c3a20af8ef",
    "headline": "Asahi Kasei buyout yields novel FDA herpes nod in immunocompromised patients",
    "summary": "Roughly half a year after the close of its deal to acquire Bayer spinout AiCurus, Asahi Kasei\u2019s $920 million bet has paid off with an FDA green light.",
@@ -2284,7 +2366,8 @@
    "tickers": [
     "DOCS",
     "MRK",
-    "MRNA"
+    "MRNA",
+    "RXRX"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -2315,6 +2398,21 @@
    "tag": "Clinical",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "a5b2de136515",
+   "headline": "Roche Reports Positive Phase III Data on Eye Drug, FDA Accepts BLA",
+   "summary": "Roche advances vamikibart toward potential US approval after phase III trials show sustained vision improvements, reduced retreatment needs and a favorable safety profile.",
+   "url": "https://finnhub.io/api/news?id=fd6e03be7076568e90ed709c16e51db9454a9a9647ec5136c6049519c76f941d",
+   "source": "Yahoo",
+   "published": "2026-10-12T14:40:00+00:00",
+   "tickers": [
+    "CRSP"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -2476,6 +2574,21 @@
    "tag": "Health AI",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "7027d9e4725d",
+   "headline": "Global Capsid Tropism Screening Platforms Market Report 2026 | Capitalize on 14.4% CAGR to $1.45B by 2030 as Sarepta, Voyager, REGENXBIO and Dyno Scale AI and NGS Screening",
+   "summary": "Boost ROI via partnerships, acquisitions, AI-enabled high-throughput screening, broader product portfolios, and local production to cut costs and accelerate commercialization.Dublin, Oct. 12, 2026 (GLOBE NEWSWIRE) -- \"Capsid Tropism\u2026",
+   "url": "https://finnhub.io/api/news?id=f99a784db4f905f103198f52e86cfbea1db11a29fdcd5c7e73d0f99e1d46e3bd",
+   "source": "Yahoo",
+   "published": "2026-10-12T13:59:00+00:00",
+   "tickers": [
+    "SRPT"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -3488,6 +3601,21 @@
    ]
   },
   {
+   "id": "27d260fa7e9f",
+   "headline": "Here is What to Know Beyond Why CRISPR Therapeutics AG (CRSP) is a Trending Stock",
+   "summary": "Zacks.com users have recently been watching CRISPR Therapeutics (CRSP) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
+   "url": "https://finnhub.io/api/news?id=59e1da5bb86a2faef90cd596ac0373685d0c135ef97b5370a68868e0399b2ca6",
+   "source": "Yahoo",
+   "published": "2026-10-12T12:00:02+00:00",
+   "tickers": [
+    "CRSP"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "167c89fd54b9",
    "headline": "Here\u2019s How Much Johnson & Johnson Stock Is Expected to Move After Earnings",
    "summary": "Johnson & Johnson is due to report earnings Tuesday morning, with traders expecting a move that could bring the stock back near its recent record.",
@@ -3911,6 +4039,7 @@
    "source": "Yahoo",
    "published": "2026-10-12T10:31:03+00:00",
    "tickers": [
+    "CLOV",
     "VRTX"
    ],
    "tag": "News",
