@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-13T10:32:34.581494+00:00",
+ "updated": "2026-10-13T10:47:37.073495+00:00",
  "quotes": {
   "A": {
    "price": 171.33,
@@ -69,10 +69,6 @@
   "CLDX": {
    "price": 29.43,
    "change_pct": -1.54
-  },
-  "CLOV": {
-   "price": 4.78,
-   "change_pct": -0.21
   },
   "CNC": {
    "price": 67.02,
@@ -930,6 +926,21 @@
  },
  "stories": [
   {
+   "id": "a739aa51bb0f",
+   "headline": "UnitedHealth Group Reports Third Quarter 2026 Results",
+   "summary": "October 13, 2026--UnitedHealth Group (NYSE: UNH) today reported third quarter 2026 results and raised guidance for full year 2026.",
+   "url": "https://finnhub.io/api/news?id=5f229453db43a2c433028dc65e199891de9ffd2471e2f9dd390865d0ef4fc950",
+   "source": "Yahoo",
+   "published": "2026-10-13T09:55:00+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "1d135c7075f2",
    "headline": "1 Unpopular Stock That Deserves a Second Chance and 2 We Brush Off",
    "summary": "Wall Street has issued downbeat forecasts for the stocks in this article. These predictions are rare - financial institutions typically hesitate to say bad things about a company because it can jeopardize their other revenue-generating\u2026",
@@ -1008,7 +1019,8 @@
    "source": "Yahoo",
    "published": "2026-10-13T08:37:30+00:00",
    "tickers": [
-    "JNJ"
+    "JNJ",
+    "UNH"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -1148,6 +1160,7 @@
    "source": "Yahoo",
    "published": "2026-10-13T08:08:00+00:00",
    "tickers": [
+    "ABT",
     "BSX",
     "MDT"
    ],
