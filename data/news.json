@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-13T13:02:49.870920+00:00",
+ "updated": "2026-10-13T13:17:53.751048+00:00",
  "quotes": {
   "A": {
    "price": 171.33,
@@ -70,10 +70,6 @@
    "price": 283.34,
    "change_pct": 0.32
   },
-  "CLDX": {
-   "price": 29.43,
-   "change_pct": -1.54
-  },
   "CNC": {
    "price": 67.02,
    "change_pct": 2.54
@@ -142,10 +138,6 @@
    "price": 111.08,
    "change_pct": 0.6
   },
-  "HCA": {
-   "price": 458.6,
-   "change_pct": 1.66
-  },
   "HIMS": {
    "price": 30.64,
    "change_pct": -0.91
@@ -181,10 +173,6 @@
   "JNJ": {
    "price": 263.73,
    "change_pct": 0.88
-  },
-  "LFST": {
-   "price": 12.48,
-   "change_pct": 0.48
   },
   "LH": {
    "price": 315.52,
@@ -245,6 +233,10 @@
   "REGN": {
    "price": 762.81,
    "change_pct": 2.18
+  },
+  "RGEN": {
+   "price": 172.51,
+   "change_pct": -0.79
   },
   "RXRX": {
    "price": 4.01,
@@ -926,6 +918,43 @@
  },
  "stories": [
   {
+   "id": "cac12f9f810d",
+   "headline": "Suki secures $90M in series E funding to accelerate growth, expand AI capabilities",
+   "summary": "The funding announcement comes less than a week after the company launched its newest AI capability.",
+   "url": "https://www.fiercehealthcare.com/finance/suki-secures-90m-series-e-funding-accelerate-growth-expand-ai-capabilities",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-13T13:15:22.578810+00:00",
+   "tickers": [],
+   "tag": "Health AI",
+   "sectors": []
+  },
+  {
+   "id": "38e0359c51e8",
+   "headline": "BioNTech\u2019s mRNA cancer vaccine fails phase 3 test, significantly denting analysts\u2019 confidence",
+   "summary": "A phase 2/3 clinical trial of BioNTech\u2019s mRNA cancer immunotherapy BNT113 has missed one of its dual primary endpoints. But with immature overall survival data offering a path to redemption, the German biotech is continuing to track\u2026",
+   "url": "https://www.fiercebiotech.com/biotech/biontechs-mrna-cancer-vaccine-fails-phase-3-test-significantly-denting-analysts-confidence",
+   "source": "Fierce Biotech",
+   "published": "2026-10-13T13:15:21.934560+00:00",
+   "tickers": [
+    "BNTX"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "ae6577049e7f",
+   "headline": "STAT+: Takeaways from an evaluation of Google\u2019s diagnostic chatbot, AMIE",
+   "summary": "In this edition of STAT Health Tech: A look at a study recently published in The Lancet about Google's diagnostic chatbot, AMIE.",
+   "url": "https://www.statnews.com/2026/10/13/google-amie-diagnostic-chatbot-study-lancet-health-tech/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-13T13:13:25+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
    "id": "87ea4ce38e99",
    "headline": "UCB fashions \u2018Wear It Out\u2019 project with empowering t-shirts, community for inflammatory disease patients",
    "summary": "The t-shirts let those with hidradenitis suppurativa (HS), plaque psoriasis and psoriatic arthritis (PsA) reclaim clothes they may avoid due to their disease.",
@@ -1181,6 +1210,21 @@
    ]
   },
   {
+   "id": "dfe605332661",
+   "headline": "Repligen to Report Third Quarter 2026 Financial Results",
+   "summary": "Webcast and Conference Call to Be Held Tuesday, October 27, 2026, at 8:00 a.m. ETWALTHAM, Mass., Oct. 13, 2026 (GLOBE NEWSWIRE) -- Repligen Corporation (NASDAQ:RGEN), today announced that the Company will report its third quarter 2026\u2026",
+   "url": "https://finnhub.io/api/news?id=31472007ed4cf7ba49aa80ae3932e4965adce7399cf5b3fafbfd209812bf46a6",
+   "source": "Yahoo",
+   "published": "2026-10-13T11:30:00+00:00",
+   "tickers": [
+    "RGEN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "9bdcef551355",
    "headline": "Johnson & Johnson Hikes Earnings Guidance but Pharma Growth Masks a MedTech Stumble. Stock Falls.",
    "summary": "Johnson & Johnson says it is working to improve results in its medical-device business, where surgery revenue fell for the latest quarter.",
@@ -1409,6 +1453,21 @@
    "published": "2026-10-13T11:01:00+00:00",
    "tickers": [
     "LLY"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "e45ff7979ae3",
+   "headline": "Regeneron reports 84-week Phase III data for Pasatru in adult FOP",
+   "summary": "The trial showed that Pasatru prevented new heterotopic ossification lesions, compared to nine in the placebo cohort.",
+   "url": "https://finnhub.io/api/news?id=08b7af3fc403da7b33bf4caa37f8c24d79b7e441c76506d5e0a00d60781d5931",
+   "source": "Yahoo",
+   "published": "2026-10-13T11:00:37+00:00",
+   "tickers": [
+    "REGN"
    ],
    "tag": "Clinical",
    "sectors": [
