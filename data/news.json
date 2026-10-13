@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-13T01:03:16.599189+00:00",
+ "updated": "2026-10-13T01:18:09.913559+00:00",
  "quotes": {
   "A": {
    "price": 171.33,
@@ -986,8 +986,10 @@
    "source": "Yahoo",
    "published": "2026-10-12T23:51:01+00:00",
    "tickers": [
+    "ABBV",
     "CAH",
-    "COR"
+    "COR",
+    "MCK"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -1021,7 +1023,8 @@
     "CI",
     "CVS",
     "DGX",
-    "HIMS"
+    "HIMS",
+    "LH"
    ],
    "tag": "News",
    "sectors": [
@@ -1526,6 +1529,21 @@
     "ZBH"
    ],
    "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "f902c50f87cf",
+   "headline": "AstraZeneca HPP Drug Shows Gains Despite Missing Key Phase III Endpoint",
+   "summary": "Astrazeneca (NYSE:AZN) presented Phase III data for efzimfotase alfa, an investigational enzyme replacement therapy for hypophosphatasia (HPP), at the American Society for Bone and Mineral Research annual meeting in Boston. The company\u2026",
+   "url": "https://finnhub.io/api/news?id=1552678c41ca5c664526a2b673596408b62900c025f5e84e722dfc925e43238d",
+   "source": "Yahoo",
+   "published": "2026-10-12T19:02:19+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "Clinical",
    "sectors": [
     "pharma"
    ]
@@ -2255,6 +2273,21 @@
    "tag": "FDA",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "2ee51f852472",
+   "headline": "AstraZeneca's efzimfotase alfa adult data point to $4.4bn peak sales potential, says Citi",
+   "summary": "Citi has maintained its 'buy' rating on AstraZeneca PLC (LSE:AZN, NASDAQ:AZN) with a target price of \u00a3186, arguing that detailed trial data for its rare disease drug efzimfotase alfa support a peak sales scenario almost double its current\u2026",
+   "url": "https://finnhub.io/api/news?id=33e0704055fa6f7abe9bbffe8f8b8f954a5de5cee01df8fb401f8c97cd193cfd",
+   "source": "Yahoo",
+   "published": "2026-10-12T15:02:00+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -3578,6 +3611,7 @@
    "published": "2026-10-12T12:09:00+00:00",
    "tickers": [
     "AMGN",
+    "AZN",
     "MRK"
    ],
    "tag": "M&A",
@@ -3735,6 +3769,21 @@
     "UNH"
    ],
    "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "155d8401c41b",
+   "headline": "AstraZeneca pins bone disease drug\u2019s Phase III failure on high placebo response",
+   "summary": "Despite the primary endpoint miss, AstraZeneca hopes to bring efzimfotase alfa to patients with hypophosphatasia.",
+   "url": "https://finnhub.io/api/news?id=b358778595beec8abed7cee8ce798657ee133c0031b2ec33173a394bbb231062",
+   "source": "Yahoo",
+   "published": "2026-10-12T11:42:34+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "Clinical",
    "sectors": [
     "pharma"
    ]
