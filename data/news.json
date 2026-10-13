@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-13T12:47:38.950472+00:00",
+ "updated": "2026-10-13T13:02:49.870920+00:00",
  "quotes": {
   "A": {
    "price": 171.33,
@@ -293,6 +293,10 @@
   "VKTX": {
    "price": 28.34,
    "change_pct": -0.6
+  },
+  "WAT": {
+   "price": 432.1,
+   "change_pct": -0.39
   },
   "WAY": {
    "price": 26.65,
@@ -922,6 +926,17 @@
  },
  "stories": [
   {
+   "id": "87ea4ce38e99",
+   "headline": "UCB fashions \u2018Wear It Out\u2019 project with empowering t-shirts, community for inflammatory disease patients",
+   "summary": "The t-shirts let those with hidradenitis suppurativa (HS), plaque psoriasis and psoriatic arthritis (PsA) reclaim clothes they may avoid due to their disease.",
+   "url": "https://www.fiercepharma.com/marketing/ucb-fashions-wear-it-out-project-empowering-t-shirts-community-inflammatory-disease",
+   "source": "Fierce Pharma",
+   "published": "2026-10-13T13:00:28.014736+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
    "id": "1e91d2eb8683",
    "headline": "UnitedHealth Group beats the Street with $4.1B in profit for Q3",
    "summary": "Another round of healthcare industry earnings reports kicked off Tuesday morning, with UnitedHealth Group reporting $4.1 billion in profit for the third quarter.",
@@ -1017,6 +1032,21 @@
     "CRL"
    ],
    "tag": "FDA",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "9656aff689b4",
+   "headline": "Waters Launches AI Link, Advancing AI-Enabled LC-MS Workflows from Research to Release",
+   "summary": "Waters Corporation (NYSE: WAT) today announced that it has launched Waters AI Link, a software capability that brings Anthropic's Model Context Protocol (MCP) to its informatics platform and has joined Anthropic's Model Hardware Standard\u2026",
+   "url": "https://finnhub.io/api/news?id=01388ef40f6500fb256b5baa695fa8e9322677fe3a4e9e975e28e3b224af8755",
+   "source": "Yahoo",
+   "published": "2026-10-13T12:00:00+00:00",
+   "tickers": [
+    "WAT"
+   ],
+   "tag": "Health AI",
    "sectors": [
     "tools"
    ]
@@ -1136,6 +1166,21 @@
    ]
   },
   {
+   "id": "335283d9d05e",
+   "headline": "ZIMMER BIOMET AND THINK SURGICAL EXTEND EXCLUSIVE DISTRIBUTION AGREEMENT",
+   "summary": "Zimmer Biomet Holdings, Inc. (NYSE and SIX: ZBH), a global medical technology leader, and THINK Surgical, Inc., an innovator in the field of orthopedic surgical robots, today announced a multi-year extension of its Limited Exclusive\u2026",
+   "url": "https://finnhub.io/api/news?id=3d915e2d62f3f56617a484f36b21cf0ebc8ff6b481063d9c71461280e4f515e3",
+   "source": "Yahoo",
+   "published": "2026-10-13T11:30:00+00:00",
+   "tickers": [
+    "ZBH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "9bdcef551355",
    "headline": "Johnson & Johnson Hikes Earnings Guidance but Pharma Growth Masks a MedTech Stumble. Stock Falls.",
    "summary": "Johnson & Johnson says it is working to improve results in its medical-device business, where surgery revenue fell for the latest quarter.",
@@ -1143,7 +1188,8 @@
    "source": "Yahoo",
    "published": "2026-10-13T11:29:00+00:00",
    "tickers": [
-    "JNJ"
+    "JNJ",
+    "MRK"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -1242,6 +1288,21 @@
    ]
   },
   {
+   "id": "8c14666ba687",
+   "headline": "Thermo Fisher (TMO) Stock Trades Near Fair Value On Digital CMC Launch",
+   "summary": "Thermo Fisher Scientific has delivered a solid share price run in recent years, which puts a spotlight on whether the current US$662.24 level lines up with the cash it can generate over time. With fresh partnerships and industry\u2026",
+   "url": "https://finnhub.io/api/news?id=5cfb9dfdea22a5616bda9ba5452120ce1fd0d290e0b159c54bde33664ca63ea8",
+   "source": "Yahoo",
+   "published": "2026-10-13T11:14:18+00:00",
+   "tickers": [
+    "TMO"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "02973d339c57",
    "headline": "IQVIA Selects Veeva Clinical Operations Applications",
    "summary": "RESEARCH TRIANGLE PARK, N.C. and PLEASANTON, Calif., Oct. 13, 2026 /PRNewswire/ -- IQVIA (NYSE: IQV) and Veeva Systems (NYSE: VEEV) today announced an expansion of their partnership with the selection of Veeva CTMS, eTMF, Study Startup,\u2026",
@@ -1283,6 +1344,7 @@
    "source": "Yahoo",
    "published": "2026-10-13T11:03:00+00:00",
    "tickers": [
+    "IQV",
     "VEEV"
    ],
    "tag": "News",
@@ -1306,6 +1368,21 @@
    ]
   },
   {
+   "id": "0e51b23ad516",
+   "headline": "Paul J. Diaz Elected to Merck & Co., Inc., Rahway, N.J., USA Board of Directors",
+   "summary": "RAHWAY, N.J., October 13, 2026--Paul J. Diaz Elected to Merck & Co., Inc., Rahway, N.J., USA Board of Directors",
+   "url": "https://finnhub.io/api/news?id=739ec2644fea5e42215f3479376942385b828c9d5f31007cdd88ea280b160599",
+   "source": "Yahoo",
+   "published": "2026-10-13T11:02:00+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "780bbf4a4565",
    "headline": "UnitedHealth Rises As Earnings, Medical Costs Beat Forecasts",
    "summary": "The Dow giant's profits have recovered as medical membership has fallen.",
@@ -1314,12 +1391,28 @@
    "published": "2026-10-13T11:01:58+00:00",
    "tickers": [
     "CI",
+    "CNC",
     "CVS",
     "UNH"
    ],
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "1064db163868",
+   "headline": "Prelude Announces Clinical Trial Collaboration and Supply Agreement with Lilly to Evaluate KAT6A Selective Degrader PRT13722 in Combination with Verzenio\u00ae and Inluriyo\u00ae in Patients with HR+/HER2- Breast Cancer",
+   "summary": "Combination cohorts are part of Prelude\u2019s Phase 1 trial evaluating PRT13722 in patients with HR+/HER2- breast cancer, on track to initiate enrollment in the fourth quarter of 2026 The collaboration is underpinned by pre-clinical data that\u2026",
+   "url": "https://finnhub.io/api/news?id=5f1d44ee9040cebe4a76a89e50cae884c71ec8c68ec1998c091446bcf93be2b2",
+   "source": "Yahoo",
+   "published": "2026-10-13T11:01:00+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1398,6 +1491,36 @@
    ]
   },
   {
+   "id": "c5a38ca39339",
+   "headline": "Moderna to Report Third Quarter 2026 Financial Results on Friday, November 6, 2026",
+   "summary": "CAMBRIDGE, MA / ACCESS Newswire / October 13, 2026 / (NASDAQ:MRNA), today announced that it will host a live conference call and webcast at 8:00 a. ET on Friday, November 6, 2026 to report its third quarter 2026 financial results, and\u2026",
+   "url": "https://finnhub.io/api/news?id=2f0115d035c32c47a669478e2f0a61b88dc4f37e834405d995eea48d7da51293",
+   "source": "Yahoo",
+   "published": "2026-10-13T11:00:00+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "718ce04bfc4c",
+   "headline": "Centene to Launch Nationwide Gold Card Program for Qualifying Providers",
+   "summary": "Centene Corporation (NYSE: CNC) today announced it will launch its National Performance-Based Gold Card Program in November 2026. The program, which will initially be available to more than 160,000 qualifying providers nationwide for\u2026",
+   "url": "https://finnhub.io/api/news?id=0595e8e9171b44d0bc9c2e21e2235af012875d03ec580ab02497d98d1daccc54",
+   "source": "Yahoo",
+   "published": "2026-10-13T11:00:00+00:00",
+   "tickers": [
+    "CNC"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "25166d0c588f",
    "headline": "Humana Forms Joint Venture With BlackRock for 150 Senior Care Clinics",
    "summary": "Humana (HUM) said Tuesday that it has agreed to form a joint venture with funds managed by BlackRock",
@@ -1435,9 +1558,25 @@
    "source": "Yahoo",
    "published": "2026-10-13T10:45:02+00:00",
    "tickers": [
-    "JNJ"
+    "JNJ",
+    "MRK"
    ],
    "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "84dab5f0c5d3",
+   "headline": "Merck Showcases First-Time Pivotal Phase 3 Results From Oncology Pipeline and Continued Innovative Potential of Existing Portfolio at ESMO 2026",
+   "summary": "RAHWAY, N.J., October 13, 2026--Merck (NYSE: MRK), known as MSD outside of the United States and Canada, today announced that first-time results from three pivotal clinical trials will be presented during late-breaking Presidential\u2026",
+   "url": "https://finnhub.io/api/news?id=3821e00c82972b755e611b671b06a10f68f3ab3b9ef5d049856faf7ea1ef9bac",
+   "source": "Yahoo",
+   "published": "2026-10-13T10:45:00+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "Clinical",
    "sectors": [
     "pharma"
    ]
