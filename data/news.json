@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-13T00:32:33.967194+00:00",
+ "updated": "2026-10-13T00:47:42.088155+00:00",
  "quotes": {
   "A": {
    "price": 171.33,
@@ -145,6 +145,10 @@
   "GMED": {
    "price": 76.24,
    "change_pct": 2.13
+  },
+  "GSK": {
+   "price": 46.92,
+   "change_pct": 0.9
   },
   "HCA": {
    "price": 458.6,
@@ -963,11 +967,27 @@
    "source": "Yahoo",
    "published": "2026-10-12T23:51:01+00:00",
    "tickers": [
+    "CAH",
     "COR"
    ],
    "tag": "Earnings",
    "sectors": [
     "pharmacy"
+   ]
+  },
+  {
+   "id": "6f8e2a20fef2",
+   "headline": "Biogen (BIIB) Stock Is Up, What You Need To Know",
+   "summary": "Shares of biotech company Biogen (NASDAQ:BIIB) jumped 3.5% in the pre-market session after JPMorgan upgraded the stock to Overweight from Neutral with a $300 price target, raised from $210.",
+   "url": "https://finnhub.io/api/news?id=db2d71f668cfe165e13f89cb01429985e98f0c46c6e9c5d7c7e8c751d51658d0",
+   "source": "Yahoo",
+   "published": "2026-10-12T23:03:03+00:00",
+   "tickers": [
+    "BIIB"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -985,6 +1005,21 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "b88b9a584732",
+   "headline": "Biogen (BIIB) Stock May Be 49% Below Fair Value As Lupus Data Loom",
+   "summary": "Biogen has bounced back on the market over the past year, and that kind of recovery puts fresh focus on a simple question for you as a shareholder or potential buyer: Is the current share price aligned with what the business may\u2026",
+   "url": "https://finnhub.io/api/news?id=2475f1deb3835cbd3a0765fb299f01eb86bba1652dad585ca19f2fb448e6f863",
+   "source": "Yahoo",
+   "published": "2026-10-12T22:17:02+00:00",
+   "tickers": [
+    "BIIB"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1085,6 +1120,21 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "95af3bc202d2",
+   "headline": "Abbott (ABT) Gains As Market Dips: What You Should Know",
+   "summary": "Abbott (ABT) closed the most recent trading day at $101.82, moving +2.23% from the previous trading session.",
+   "url": "https://finnhub.io/api/news?id=4370ac08cd7adc27155f55c19d4acf5161fdd1eb5b744e4a142e40329f7ae68b",
+   "source": "Yahoo",
+   "published": "2026-10-12T21:00:03+00:00",
+   "tickers": [
+    "ABT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -2263,6 +2313,21 @@
     "BMY"
    ],
    "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "64eb6fb21f90",
+   "headline": "Is the Options Market Predicting a Spike in GSK Plc Stock?",
+   "summary": "Investors need to pay close attention to GSK stock based on the movements in the options market lately.",
+   "url": "https://finnhub.io/api/news?id=bce5bf6090ce6b03f7f2ba9287dac0718684465f0faa4d38b6f83a60f6a83de0",
+   "source": "Yahoo",
+   "published": "2026-10-12T14:36:00+00:00",
+   "tickers": [
+    "GSK"
+   ],
+   "tag": "News",
    "sectors": [
     "pharma"
    ]
