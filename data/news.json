@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-14T03:03:20.554012+00:00",
+ "updated": "2026-10-14T03:17:44.679362+00:00",
  "quotes": {
   "A": {
    "price": 171.6,
@@ -150,10 +150,6 @@
    "price": 460.75,
    "change_pct": 0.47
   },
-  "HIMS": {
-   "price": 29.71,
-   "change_pct": -3.04
-  },
   "HUM": {
    "price": 420.38,
    "change_pct": -3.03
@@ -218,6 +214,10 @@
    "price": 135.13,
    "change_pct": -4.41
   },
+  "NTLA": {
+   "price": 11.91,
+   "change_pct": -5.33
+  },
   "NTRA": {
    "price": 395.65,
    "change_pct": -0.53
@@ -274,10 +274,6 @@
    "price": 39.12,
    "change_pct": -1.56
   },
-  "SYK": {
-   "price": 282.55,
-   "change_pct": -0.02
-  },
   "TAK": {
    "price": 18.52,
    "change_pct": -0.86
@@ -321,6 +317,10 @@
   "VEEV": {
    "price": 301.63,
    "change_pct": 1.95
+  },
+  "VKTX": {
+   "price": 26.65,
+   "change_pct": -5.96
   }
  },
  "tickers": {
@@ -1198,7 +1198,8 @@
    "source": "Yahoo",
    "published": "2026-10-13T21:42:01+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "NVO"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -1278,6 +1279,21 @@
    "tag": "News",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "3512ae1e9f5c",
+   "headline": "What Does BioNTech (BNTX) Trial Miss Mean For Its Oncology Pipeline?",
+   "summary": "BioNTech (NasdaqGS:BNTX) reported that its Phase 2/3 trial of BNT113 in head and neck cancer did not meet the progression-free survival primary endpoint. The company is keeping the trial active to continue evaluating overall survival as a\u2026",
+   "url": "https://finnhub.io/api/news?id=eadadac5631d2bba70e973643ca4e22abfcbe2f0c8e9a3208db9828362734abf",
+   "source": "Yahoo",
+   "published": "2026-10-13T21:14:41+00:00",
+   "tickers": [
+    "BNTX"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1462,6 +1478,21 @@
    "published": "2026-10-13T20:45:04+00:00",
    "tickers": [
     "LLY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "e2eb90ebaa74",
+   "headline": "Why Novo Nordisk (NVO) Dipped More Than Broader Market Today",
+   "summary": "In the latest trading session, Novo Nordisk (NVO) closed at $38.06, marking a -1.35% move from the previous day.",
+   "url": "https://finnhub.io/api/news?id=9cb5b206aa08fffb0dcd833fb66c10b3e28e381742f424508e095681488c4388",
+   "source": "Yahoo",
+   "published": "2026-10-13T20:45:04+00:00",
+   "tickers": [
+    "NVO"
    ],
    "tag": "News",
    "sectors": [
@@ -1723,6 +1754,21 @@
    "tag": "Legal",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "de191456148c",
+   "headline": "Top Analyst Reports for Walmart, Visa & Novo Nordisk",
+   "summary": "Walmart, Visa and Novo Nordisk headline today's analyst reports, with digital growth, payment innovation and obesity-drug demand offset by rising costs and competition.",
+   "url": "https://finnhub.io/api/news?id=550075e6dfb15dd128f757f65ee436bf0a160f8f818e3674390e48b9539c76ad",
+   "source": "Yahoo",
+   "published": "2026-10-13T19:38:00+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -2476,7 +2522,8 @@
    "published": "2026-10-13T16:30:14+00:00",
    "tickers": [
     "ABBV",
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -2758,7 +2805,8 @@
    "source": "Yahoo",
    "published": "2026-10-13T15:36:59+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -3022,6 +3070,7 @@
    "source": "Yahoo",
    "published": "2026-10-13T15:01:00+00:00",
    "tickers": [
+    "BNTX",
     "MRK",
     "MRNA",
     "PFE"
@@ -4277,6 +4326,21 @@
    ]
   },
   {
+   "id": "ee4eb8b4e404",
+   "headline": "BioNTech stock falls after cancer trial misses key endpoint",
+   "summary": "Investing.com --BioNTech (NASDAQ: BNTX) shares fell 5% on Tuesday after the company announced that a mid-to-late-stage clinical trial for its experimental mRNA cancer drug, BNT113, missed its first major goal.",
+   "url": "https://finnhub.io/api/news?id=7d94bf9870aa7272ed266c074910b85dd0e49afb8ffcb5bdcf5de6ff22ab1a82",
+   "source": "Yahoo",
+   "published": "2026-10-13T12:19:46+00:00",
+   "tickers": [
+    "BNTX"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "383f128895e9",
    "headline": "UnitedHealth's Q3 Is Proving My Bullish Takes Right (Review)",
    "summary": "UnitedHealth Group delivered Q3 2026 beats on both top and bottom lines, raising full-year guidance and reaffirming a turnaround. Click for more on UNH.",
@@ -4375,6 +4439,7 @@
     "BMY",
     "LLY",
     "MRK",
+    "NVO",
     "REGN"
    ],
    "tag": "News",
@@ -4707,6 +4772,21 @@
    "tag": "News",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "69fe738007c0",
+   "headline": "Intellia Therapeutics Appoints Jing L. Marantz, M.D., Ph.D., as Chief Medical Officer",
+   "summary": "CAMBRIDGE, Mass., Oct. 13, 2026 (GLOBE NEWSWIRE) -- Intellia Therapeutics, Inc. (Nasdaq: NTLA), a leading biopharmaceutical company focused on revolutionizing medicine leveraging CRISPR gene editing and other core technologies, today\u2026",
+   "url": "https://finnhub.io/api/news?id=108997524e2cd99ac404c39acb49847fcedf79d92a969be212c6740bdc011fa3",
+   "source": "Yahoo",
+   "published": "2026-10-13T11:30:00+00:00",
+   "tickers": [
+    "NTLA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -5237,6 +5317,21 @@
    ]
   },
   {
+   "id": "407e5874dc0b",
+   "headline": "BioNTech Provides Update on Phase 2/3 Clinical Trial for mRNA Cancer Immunotherapy Candidate BNT113 in Metastatic HPV16-positive Head and Neck Cancer",
+   "summary": "AHEAD-MERIT Phase 2/3 clinical trial did not meet its first dual primary endpoint of progression-free survival for the mRNA cancer immunotherapy candidate BNT113 plus pembrolizumab compared with pembrolizumab alone The trial will continue\u2026",
+   "url": "https://finnhub.io/api/news?id=96d1fad20eda56440990084a4b405941b3fe6914d40ebb5c64db132dafd9a549",
+   "source": "Yahoo",
+   "published": "2026-10-13T10:45:00+00:00",
+   "tickers": [
+    "BNTX"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "11ec2a7ac349",
    "headline": "UnitedHealth Group Raises 2026 Profit Outlook After Third-Quarter Earnings Beat",
    "summary": "UnitedHealth Group (NYSE:UNH) increased its full-year 2026 earnings guidance on Tuesday after reporting third-quarter adjusted profit above market expectations, supported by tighter medical cost controls and improved operating performance\u2026",
@@ -5561,7 +5656,8 @@
    "source": "Yahoo",
    "published": "2026-10-13T09:30:00+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "Earnings",
    "sectors": [
