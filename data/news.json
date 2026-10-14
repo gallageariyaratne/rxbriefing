@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-14T02:47:41.217491+00:00",
+ "updated": "2026-10-14T03:03:20.554012+00:00",
  "quotes": {
   "A": {
    "price": 171.6,
@@ -266,6 +266,10 @@
    "price": 235.04,
    "change_pct": 0.19
   },
+  "RXRX": {
+   "price": 3.83,
+   "change_pct": -4.36
+  },
   "SNY": {
    "price": 39.12,
    "change_pct": -1.56
@@ -317,10 +321,6 @@
   "VEEV": {
    "price": 301.63,
    "change_pct": 1.95
-  },
-  "VKTX": {
-   "price": 26.65,
-   "change_pct": -5.96
   }
  },
  "tickers": {
@@ -2608,6 +2608,7 @@
    "source": "Yahoo",
    "published": "2026-10-13T16:06:00+00:00",
    "tickers": [
+    "TGTX",
     "UNH"
    ],
    "tag": "Earnings",
@@ -3476,6 +3477,21 @@
    ]
   },
   {
+   "id": "674461909438",
+   "headline": "TGTX Stock Rises 60% in 6 Months: Here's What You Should Know",
+   "summary": "TG Therapeutics shares climb 59.9% in six months on strong Briumvi sales uptake, higher 2026 revenue guidance and studies targeting additional indications.",
+   "url": "https://finnhub.io/api/news?id=a58a7b2dc9652dc02ccc970f0e7765c3d7f8a782a220de64177693d4feb5213b",
+   "source": "Yahoo",
+   "published": "2026-10-13T13:47:00+00:00",
+   "tickers": [
+    "TGTX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "b6fd17cf6fc7",
    "headline": "UnitedHealth Group Stock Gains on Strong Earnings",
    "summary": "UnitedHealth Group shares are on the rise after a better-than-expected earnings report.",
@@ -3623,6 +3639,7 @@
    "source": "Yahoo",
    "published": "2026-10-13T13:25:00+00:00",
    "tickers": [
+    "TGTX",
     "TMO"
    ],
    "tag": "Earnings",
@@ -3638,6 +3655,7 @@
    "source": "Yahoo",
    "published": "2026-10-13T13:23:04+00:00",
    "tickers": [
+    "RXRX",
     "TWST"
    ],
    "tag": "Legal",
@@ -4670,6 +4688,21 @@
    "published": "2026-10-13T11:30:00+00:00",
    "tickers": [
     "RGEN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "9b949357d1de",
+   "headline": "Natera and TransCode Therapeutics to Collaborate on Phase 2a Trial of TTX-MC138 in Colorectal Cancer",
+   "summary": "AUSTIN, Texas, & BOSTON, October 13, 2026--Natera, Inc. (Nasdaq: NTRA), a global leader in cell-free DNA and precision medicine, and TransCode Therapeutics, Inc. (Nasdaq: RNAZ), a clinical stage company pioneering immuno-oncology and\u2026",
+   "url": "https://finnhub.io/api/news?id=f5d3445b2bbf8f26931a27b4e359240d9a6ae257e3fd8bf678bab44aadd0fa10",
+   "source": "Yahoo",
+   "published": "2026-10-13T11:30:00+00:00",
+   "tickers": [
+    "NTRA"
    ],
    "tag": "News",
    "sectors": [
