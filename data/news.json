@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-14T12:47:30.810688+00:00",
+ "updated": "2026-10-14T13:02:55.539006+00:00",
  "quotes": {
   "A": {
    "price": 171.6,
@@ -229,6 +229,10 @@
   "SNY": {
    "price": 39.12,
    "change_pct": -1.56
+  },
+  "SYK": {
+   "price": 282.55,
+   "change_pct": -0.02
   },
   "TAK": {
    "price": 18.52,
@@ -902,6 +906,21 @@
  },
  "stories": [
   {
+   "id": "796c925167d1",
+   "headline": "Stryker pens deal with CMR Surgical to advance robotic-assisted surgery",
+   "summary": "Stryker will funnel around $400 million (\u00a3300 million) in a \u201cstrategic\u201d investment in CMR Surgical and its robot surgery tech.",
+   "url": "https://www.fiercebiotech.com/medtech/stryker-pens-deal-cmr-surgical-advance-robotic-assisted-surgery",
+   "source": "Fierce Biotech",
+   "published": "2026-10-14T13:00:29.748567+00:00",
+   "tickers": [
+    "SYK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "650a4b4e96cb",
    "headline": "Vir CEO sees \u2018opportunity to do more deals\u2019 after striking $1.9B Gilead pact for dual-masked TCEs",
    "summary": "Looking to expand its oncology portfolio, Gilead has tapped Vir Biotechnology\u2019s masked T-cell engager tech in a potential $1.9 billion biobucks deal.",
@@ -1129,6 +1148,7 @@
    "published": "2026-10-14T11:15:59+00:00",
    "tickers": [
     "JNJ",
+    "LLY",
     "PFE"
    ],
    "tag": "Earnings",
@@ -1147,6 +1167,7 @@
     "ABBV",
     "AMGN",
     "BMY",
+    "GILD",
     "JNJ"
    ],
    "tag": "News",
@@ -1372,7 +1393,8 @@
    "source": "Yahoo",
    "published": "2026-10-14T10:00:00+00:00",
    "tickers": [
-    "JNJ"
+    "JNJ",
+    "MRNA"
    ],
    "tag": "Health AI",
    "sectors": [
@@ -5058,6 +5080,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "3d4efdb568e6",
+   "headline": "Veedma Introduces a $59 Men's Lab Panel With 65 Biomarkers and a Doctor's Video Visit",
+   "summary": "Veedma, a preventive telehealth clinic for hormone and sexual health, has introduced two men's lab panels and a flat-price membership: a new patient's first 65-biomarker panel costs $59, including the Quest Diagnostics blood draw, a\u2026",
+   "url": "https://www.prnewswire.com/news-releases/veedma-introduces-a-59-mens-lab-panel-with-65-biomarkers-and-a-doctors-video-visit-302903423.html",
+   "source": "PR Newswire",
+   "published": "2026-10-13T13:00:00+00:00",
+   "tickers": [
+    "DGX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
    ]
   },
   {
