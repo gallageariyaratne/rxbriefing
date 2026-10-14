@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-14T02:32:35.977050+00:00",
+ "updated": "2026-10-14T02:47:41.217491+00:00",
  "quotes": {
   "A": {
    "price": 171.6,
@@ -21,6 +21,10 @@
   "ACAD": {
    "price": 18.62,
    "change_pct": -4.07
+  },
+  "ALHC": {
+   "price": 8.3,
+   "change_pct": 2.6
   },
   "ALNY": {
    "price": 223.82,
@@ -126,6 +130,10 @@
    "price": 147.92,
    "change_pct": -1.67
   },
+  "GKOS": {
+   "price": 165.5,
+   "change_pct": -1.5
+  },
   "GMED": {
    "price": 76.32,
    "change_pct": 0.1
@@ -222,6 +230,10 @@
    "price": 142.41,
    "change_pct": -0.99
   },
+  "OMCL": {
+   "price": 36.45,
+   "change_pct": -1.14
+  },
   "OSCR": {
    "price": 33.79,
    "change_pct": -0.65
@@ -266,6 +278,10 @@
    "price": 18.52,
    "change_pct": -0.86
   },
+  "TDOC": {
+   "price": 6,
+   "change_pct": 1.35
+  },
   "TEM": {
    "price": 68.22,
    "change_pct": 0.34
@@ -281,6 +297,10 @@
   "TRXB": {
    "price": 13.6,
    "change_pct": -3.06
+  },
+  "TWST": {
+   "price": 151.33,
+   "change_pct": -0.35
   },
   "TXG": {
    "price": 71.79,
@@ -301,26 +321,6 @@
   "VKTX": {
    "price": 26.65,
    "change_pct": -5.96
-  },
-  "VRTX": {
-   "price": 485.22,
-   "change_pct": -4.3
-  },
-  "WAT": {
-   "price": 429.17,
-   "change_pct": -0.68
-  },
-  "WAY": {
-   "price": 26.3,
-   "change_pct": -1.31
-  },
-  "ZBH": {
-   "price": 92.08,
-   "change_pct": -0.1
-  },
-  "ZTS": {
-   "price": 74.3,
-   "change_pct": -1.78
   }
  },
  "tickers": {
@@ -938,6 +938,36 @@
  },
  "stories": [
   {
+   "id": "7a6fff17243e",
+   "headline": "Abbott Laboratories (ABT) Is A Key Player In Closed Loop Neurostimulation",
+   "summary": "Abbott Laboratories (NYSE:ABT) has been identified as a leading group advancing closed-loop neurostimulation in bioelectronic medicine devices. The company is highlighted for closed-loop neurostimulation systems that interact with neural\u2026",
+   "url": "https://finnhub.io/api/news?id=ec5ce711d799b4bbd8022d7b5d7c77caf960b2e2520bef962b741d13ba2dea8f",
+   "source": "Yahoo",
+   "published": "2026-10-14T01:16:43+00:00",
+   "tickers": [
+    "ABT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "a7cc396d0b32",
+   "headline": "Is Illumina (ILMN) Fully Valued Following Its Recall And AI Push?",
+   "summary": "Illumina recall and security risk in focus Illumina (ILMN) has drawn fresh attention after initiating a voluntary Class II recall of certain NovaSeq 6000Dx and NextSeq 550Dx diagnostic systems due to a security vulnerability in associated\u2026",
+   "url": "https://finnhub.io/api/news?id=93bc4a3fb24ed5505c54e3bfd164f0f4f2dce33559b66b73bf2918ffd7ba8721",
+   "source": "Yahoo",
+   "published": "2026-10-14T01:16:37+00:00",
+   "tickers": [
+    "ILMN"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "70bfc3dee44c",
    "headline": "Did Illumina\u2019s (ILMN) New SpliceAI2 Genomic Model Just Reframe Its Clinical Genomics Narrative?",
    "summary": "In October 2026, Illumina announced SpliceAI2, a new genomic AI model that helps researchers better identify disease-relevant splice variants across rare disease, hereditary cancer, and drug discovery applications. By improving detection\u2026",
@@ -1021,9 +1051,11 @@
    "published": "2026-10-13T23:48:51+00:00",
    "tickers": [
     "ABBV",
+    "AMGN",
     "BMY",
     "JNJ",
-    "MRK"
+    "MRK",
+    "PFE"
    ],
    "tag": "News",
    "sectors": [
@@ -1216,6 +1248,21 @@
    "tag": "News",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "0a85fa1ae2e6",
+   "headline": "Teladoc (TDOC) Rises As Market Takes a Dip: Key Facts",
+   "summary": "In the closing of the recent trading day, Teladoc (TDOC) stood at $6, denoting a +1.35% move from the preceding trading day.",
+   "url": "https://finnhub.io/api/news?id=831a31290177ac46dc189a3958cc408bd74025b329580d8f544bdf6d8a2a4a8d",
+   "source": "Yahoo",
+   "published": "2026-10-13T21:15:06+00:00",
+   "tickers": [
+    "TDOC"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
    ]
   },
   {
@@ -2300,6 +2347,7 @@
    "published": "2026-10-13T16:41:00+00:00",
    "tickers": [
     "DXCM",
+    "GKOS",
     "GMED"
    ],
    "tag": "News",
@@ -3115,6 +3163,21 @@
    ]
   },
   {
+   "id": "5e67ebdb2a92",
+   "headline": "GSK third quarter likely to be in line as RBC sees vaccine headwinds offset by HIV strength",
+   "summary": "GSK PLC (LSE:GSK, NYSE:GSK) is expected to deliver a broadly in-line third quarter as weaker vaccine sales are offset by strength in HIV treatments and respiratory drug Nucala, according to RBC Capital Markets. The broker reiterated its\u2026",
+   "url": "https://finnhub.io/api/news?id=c42979263e9fa3f5e8ed9ce06dca4cc035293f713660bb53a373fc5d3399ba82",
+   "source": "Yahoo",
+   "published": "2026-10-13T14:24:00+00:00",
+   "tickers": [
+    "GSK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "d903c34a2d62",
    "headline": "Eli Lilly Reports Earnings on Oct. 29. Here's Why the Retatrutide Story Matters More Than the Quarter.",
    "summary": "Eli Lilly's next big growth driver could be bigger than Zepbound.",
@@ -3229,6 +3292,21 @@
    "tickers": [],
    "tag": "Legal",
    "sectors": []
+  },
+  {
+   "id": "1489e731de41",
+   "headline": "Alignment sues CMS over 2027 Medicare Advantage star ratings crash",
+   "summary": "The lawsuit isn\u2019t a surprise, after Alignment told investors it would take all available actions to improve its quality scores.",
+   "url": "https://finnhub.io/api/news?id=9cbc8d8a14387fc0a2577b99f271fe844976aeac6018db0141494d1d31484511",
+   "source": "Yahoo",
+   "published": "2026-10-13T14:03:33+00:00",
+   "tickers": [
+    "ALHC"
+   ],
+   "tag": "Legal",
+   "sectors": [
+    "payers"
+   ]
   },
   {
    "id": "6798c90f0dd8",
@@ -3548,6 +3626,21 @@
     "TMO"
    ],
    "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "e5a522fec565",
+   "headline": "FTC seeks contempt finding against Martin Shkreli for alleged pharma ban violation",
+   "summary": "Investing.com -- The Federal Trade Commission and seven states are seeking to hold Martin Shkreli in contempt of court, alleging that the former pharmaceutical executive violated a lifetime ban on participating in the drug industry.",
+   "url": "https://finnhub.io/api/news?id=7aab33836494d3f34f6dfb7bccf160663edebabd070a5dd1958a40bca0262319",
+   "source": "Yahoo",
+   "published": "2026-10-13T13:23:04+00:00",
+   "tickers": [
+    "TWST"
+   ],
+   "tag": "Legal",
    "sectors": [
     "tools"
    ]
@@ -4142,7 +4235,8 @@
    "published": "2026-10-13T12:23:00+00:00",
    "tickers": [
     "ABT",
-    "GMED"
+    "GMED",
+    "OMCL"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -4406,6 +4500,21 @@
    "tag": "Health AI",
    "sectors": [
     "healthai"
+   ]
+  },
+  {
+   "id": "3dbfacfd3518",
+   "headline": "Alignment Health Expands Medicare Advantage Coverage to Four New Charlotte-Area Counties for 2027",
+   "summary": "Expansion brings Alignment's coordinated care model, access to Novant Health and Tryon Medical Partners, and new Medicare Advantage plan options to more than 295,000 additional Medicare beneficiariesCHARLOTTE, N.C., Oct. 13, 2026 (GLOBE\u2026",
+   "url": "https://finnhub.io/api/news?id=3f25798852b948f996aad7804c68b5cebe7ce655afe43b304ec9f3f054762a36",
+   "source": "Yahoo",
+   "published": "2026-10-13T12:00:00+00:00",
+   "tickers": [
+    "ALHC"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "payers"
    ]
   },
   {
