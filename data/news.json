@@ -1,7 +1,31 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-14T12:32:35.696140+00:00",
+ "updated": "2026-10-14T12:47:30.810688+00:00",
  "quotes": {
+  "A": {
+   "price": 171.6,
+   "change_pct": 0.16
+  },
+  "ABBV": {
+   "price": 274.36,
+   "change_pct": -2.4
+  },
+  "ABT": {
+   "price": 102.61,
+   "change_pct": 0.78
+  },
+  "ACAD": {
+   "price": 18.62,
+   "change_pct": -4.07
+  },
+  "ALGN": {
+   "price": 143.54,
+   "change_pct": 2.22
+  },
+  "ALHC": {
+   "price": 8.3,
+   "change_pct": 2.6
+  },
   "AMGN": {
    "price": 412.84,
    "change_pct": -1.13
@@ -33,10 +57,6 @@
   "BNTX": {
    "price": 89.01,
    "change_pct": -7.13
-  },
-  "CAH": {
-   "price": 239.72,
-   "change_pct": 0.69
   },
   "CI": {
    "price": 282.53,
@@ -81,6 +101,10 @@
   "GEHC": {
    "price": 68.79,
    "change_pct": 1.55
+  },
+  "GILD": {
+   "price": 147.92,
+   "change_pct": -1.67
   },
   "GKOS": {
    "price": 165.5,
@@ -878,6 +902,36 @@
  },
  "stories": [
   {
+   "id": "650a4b4e96cb",
+   "headline": "Vir CEO sees \u2018opportunity to do more deals\u2019 after striking $1.9B Gilead pact for dual-masked TCEs",
+   "summary": "Looking to expand its oncology portfolio, Gilead has tapped Vir Biotechnology\u2019s masked T-cell engager tech in a potential $1.9 billion biobucks deal.",
+   "url": "https://www.fiercebiotech.com/biotech/gilead-strikes-19b-oncology-deal-vir-dual-masked-t-cell-engager-technology",
+   "source": "Fierce Biotech",
+   "published": "2026-10-14T12:45:19.442969+00:00",
+   "tickers": [
+    "GILD"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "7c475b0f5781",
+   "headline": "Beckman Coulter Diagnostics Names Catherine Jennings as President",
+   "summary": "Experienced global healthcare leader to accelerate innovation and expand its impact for laboratories, clinicians and patients. BREA, Calif., Oct. 14, 2026 /PRNewswire/ -- Beckman Coulter Diagnostics, a Danaher company and a global leader\u2026",
+   "url": "https://www.prnewswire.com/news-releases/beckman-coulter-diagnostics-names-catherine-jennings-as-president-302907828.html",
+   "source": "PR Newswire",
+   "published": "2026-10-14T12:31:00+00:00",
+   "tickers": [
+    "DHR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "1f50e39a96ea",
    "headline": "STAT+: Sanofi avoids fine as EU accepts offer to end antitrust probe over disparaging rival vaccine",
    "summary": "E.U. antitrust regulators accepted concessions from Sanofi to settle a probe into an allegedly \u201cmisleading\u201d campaign that disparaged a rival flu vaccine.",
@@ -1012,6 +1066,8 @@
    "source": "Yahoo",
    "published": "2026-10-14T11:30:40+00:00",
    "tickers": [
+    "AMGN",
+    "EXEL",
     "HALO"
    ],
    "tag": "News",
@@ -1072,7 +1128,8 @@
    "source": "Yahoo",
    "published": "2026-10-14T11:15:59+00:00",
    "tickers": [
-    "JNJ"
+    "JNJ",
+    "PFE"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -1088,6 +1145,7 @@
    "published": "2026-10-14T11:15:02+00:00",
    "tickers": [
     "ABBV",
+    "AMGN",
     "BMY",
     "JNJ"
    ],
@@ -1187,6 +1245,21 @@
    ]
   },
   {
+   "id": "1f0e300790ef",
+   "headline": "AngioDynamics Announces Humana Medicare Advantage Coverage Policy Supporting Broader Access to NanoKnife\u00ae IRE for Prostate and Liver Cancer",
+   "summary": "LATHAM, N.Y., October 14, 2026--AngioDynamics, Inc. (NASDAQ: ANGO), a leading and transformative medical technology company focused on restoring healthy blood flow in the body\u2019s vascular system, expanding cancer treatment options, and\u2026",
+   "url": "https://finnhub.io/api/news?id=7c405d788c403ec23637028d359b2452358708b1c0d1bda90f7cf0d3f15a7c00",
+   "source": "Yahoo",
+   "published": "2026-10-14T11:00:00+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "89ed92029b44",
    "headline": "Danaher Teams Up With NVIDIA, Aims To Bring Accelerated Computing, Physical AI Into Labs",
    "summary": "Danaher CEO Julie Sawyer Montgomery said AI is transforming science, emphasizing the collaboration\u2019s vision for more connected, adaptive and accessible innovation.",
@@ -1217,6 +1290,21 @@
    ]
   },
   {
+   "id": "42b7feb4f47c",
+   "headline": "Pfizer Showcases Clinical Advancements Across Infectious Diseases at IDWeek 2026",
+   "summary": "NEW YORK, October 14, 2026--Pfizer Inc. (NYSE: PFE) will present data from more than 50 company-sponsored, investigator-sponsored and collaborative research abstracts across its infectious disease pipeline and portfolio at the upcoming\u2026",
+   "url": "https://finnhub.io/api/news?id=6ccf6d528dd3146319a13cb3036ac47272d8d5b5185fa9327a697824488b6a43",
+   "source": "Yahoo",
+   "published": "2026-10-14T10:45:00+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "e6fd93d2dd90",
    "headline": "4 High-Risk Stocks Built for Big Returns",
    "summary": "These speculative investments could turbocharge a portfolio to market-beating returns.",
@@ -1229,6 +1317,36 @@
    "tag": "News",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "955772053813",
+   "headline": "Charles River partners with Magellan Stem Cells on cell therapy",
+   "summary": "The partnership focuses on biologics quality control as well as viral and release testing under cGMP standards.",
+   "url": "https://finnhub.io/api/news?id=d92b840d57c7cf26fe9122c59c96eb5effa81ac8761ad4ac4bb9f698ce01fff4",
+   "source": "Yahoo",
+   "published": "2026-10-14T10:25:42+00:00",
+   "tickers": [
+    "CRL"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "5ac920831695",
+   "headline": "U.S. Digital Dentistry Market to Top $1.6B by 2032 as Clear Aligners and DSOs Drive Intraoral Scanner and 3D Printer Adoption",
+   "summary": "Report Ranks Dentsply Sirona, Align Technology and Ivoclar, With Unit Sales, Average Selling Prices and 2025 Market Share as Low-Cost Entrants Push Prices DownDublin, Oct. 14, 2026 (GLOBE NEWSWIRE) -- \"Digital Dentistry Market Size, Share\u2026",
+   "url": "https://finnhub.io/api/news?id=0f9c4ab5f84b8a353a7405e533661d4fe214a7ef082cc4ddcda0d5b5bc83f0fc",
+   "source": "Yahoo",
+   "published": "2026-10-14T10:10:00+00:00",
+   "tickers": [
+    "ALGN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -1368,6 +1486,21 @@
    "headline": "Pfizer partners with Enodia Therapeutics in $500m drug deal",
    "summary": "Enodia Therapeutics will handle initial discovery work to identify, refine, and advance small-molecule candidates directed at multiple targets.",
    "url": "https://finnhub.io/api/news?id=22004b8cf3625a91916537b499b28871ca2ba823e2115fd91746881a09837576",
+   "source": "Yahoo",
+   "published": "2026-10-14T08:40:41+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "1d72bb120f87",
+   "headline": "Pfizer partners with Enodia Therapeutics in $500m drug deal",
+   "summary": "Enodia Therapeutics will handle initial discovery work to identify, refine, and advance small-molecule candidates directed at multiple targets.",
+   "url": "https://finnhub.io/api/news?id=671c9d1870e02b00e72aba19a1cefbc2aa89841531c55bdc8adc214e3abe8e15",
    "source": "Yahoo",
    "published": "2026-10-14T08:40:41+00:00",
    "tickers": [
