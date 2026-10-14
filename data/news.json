@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-14T02:02:38.149168+00:00",
+ "updated": "2026-10-14T02:17:30.754005+00:00",
  "quotes": {
   "A": {
    "price": 171.6,
@@ -17,6 +17,10 @@
   "ABT": {
    "price": 102.61,
    "change_pct": 0.78
+  },
+  "ACAD": {
+   "price": 18.62,
+   "change_pct": -4.07
   },
   "ALNY": {
    "price": 223.82,
@@ -105,6 +109,10 @@
   "ELV": {
    "price": 425.27,
    "change_pct": 0.75
+  },
+  "EVH": {
+   "price": 4.6,
+   "change_pct": 8.24
   },
   "EXEL": {
    "price": 59.51,
@@ -1856,6 +1864,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "9c1dcff416d4",
+   "headline": "Top Midday Decliners",
+   "summary": "UBS downgraded Acadia Pharmaceuticals' (ACAD) shares one notch to neutral and set a $23 price target",
+   "url": "https://finnhub.io/api/news?id=57f01988ed2a20ad639786c5a938328d21dfd0bbe471c5b80d47c42d552aa832",
+   "source": "Yahoo",
+   "published": "2026-10-13T18:01:29+00:00",
+   "tickers": [
+    "ACAD"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -3706,6 +3729,7 @@
    "source": "Yahoo",
    "published": "2026-10-13T13:01:00+00:00",
    "tickers": [
+    "ACAD",
     "AXSM"
    ],
    "tag": "Earnings",
@@ -4006,6 +4030,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "75576d0e23e4",
+   "headline": "1 Cash-Producing Stock to Target This Week and 2 Facing Headwinds",
+   "summary": "A company that generates cash isn\u2019t automatically a winner. Some businesses stockpile cash but fail to reinvest wisely, limiting their ability to expand.",
+   "url": "https://finnhub.io/api/news?id=5aa89dfa1d5fa38a825b535ae0a531450c62a316e860baa5b5f610eea219b4bb",
+   "source": "Yahoo",
+   "published": "2026-10-13T12:27:04+00:00",
+   "tickers": [
+    "EVH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
    ]
   },
   {
