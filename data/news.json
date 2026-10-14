@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-14T01:17:32.608285+00:00",
+ "updated": "2026-10-14T01:32:38.346187+00:00",
  "quotes": {
   "A": {
    "price": 171.6,
@@ -25,6 +25,10 @@
   "AMGN": {
    "price": 412.84,
    "change_pct": -1.13
+  },
+  "AXSM": {
+   "price": 156.32,
+   "change_pct": -5.83
   },
   "AZN": {
    "price": 155.82,
@@ -213,6 +217,10 @@
   "OPCH": {
    "price": 31.1,
    "change_pct": 0
+  },
+  "OSCR": {
+   "price": 33.79,
+   "change_pct": -0.65
   },
   "PFE": {
    "price": 28.37,
@@ -918,11 +926,27 @@
    "published": "2026-10-13T23:48:51+00:00",
    "tickers": [
     "ABBV",
+    "BMY",
     "MRK"
    ],
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "839691a861b2",
+   "headline": "LQDA Explodes After Hours On Deal Ending Years Of Patent Fight, Keeping YUTREPIA On Market",
+   "summary": "The agreement resolves all six ongoing lawsuits between Liquidia, United Therapeutics and related parties.",
+   "url": "https://finnhub.io/api/news?id=1b97503e58fe3f32fdb12354a0712abd3cd97f926b01e0374e0fbf42239f34bd",
+   "source": "Yahoo",
+   "published": "2026-10-13T23:39:53+00:00",
+   "tickers": [
+    "UTHR"
+   ],
+   "tag": "Legal",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -953,6 +977,21 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "e95b086bc2ec",
+   "headline": "Liquidia stock surges 40% on $380.7M litigation settlement with UTHR",
+   "summary": "Investing.com -- Liquidia Corporation (NASDAQ:LQDA) shares jumped around 40% in after-hours trading Tuesday following the announcement of a global settlement agreement with United Therapeutics Corporation (NASDAQ:UTHR) that resolves all\u2026",
+   "url": "https://finnhub.io/api/news?id=e107e25d18174d78e52c3274cdbd91e64ac6294fe3d9731ac6e1c12b6428dc3b",
+   "source": "Yahoo",
+   "published": "2026-10-13T22:26:58+00:00",
+   "tickers": [
+    "UTHR"
+   ],
+   "tag": "Legal",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -1823,6 +1862,7 @@
    "source": "Yahoo",
    "published": "2026-10-13T17:42:11+00:00",
    "tickers": [
+    "AXSM",
     "NBIX"
    ],
    "tag": "News",
@@ -1871,6 +1911,7 @@
    "published": "2026-10-13T17:20:00+00:00",
    "tickers": [
     "ELV",
+    "OSCR",
     "UNH"
    ],
    "tag": "Earnings",
@@ -1887,6 +1928,7 @@
    "published": "2026-10-13T17:18:00+00:00",
    "tickers": [
     "ELV",
+    "OSCR",
     "UNH"
    ],
    "tag": "Earnings",
@@ -1918,6 +1960,7 @@
    "published": "2026-10-13T17:12:00+00:00",
    "tickers": [
     "ELV",
+    "OSCR",
     "UNH"
    ],
    "tag": "News",
@@ -2620,6 +2663,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "574fc1af79d5",
+   "headline": "Aon Expands Ukraine War Risk Insurance Facility With EBRD Support",
+   "summary": "AON expands its Ukraine war risk insurance facility with EBRD support, raising guarantee capacity and broadening coverage for critical assets.",
+   "url": "https://finnhub.io/api/news?id=c08c4ed71e5d05af9a86806a69e8b8697a8468ba52dbd4892587211d7422143a",
+   "source": "Yahoo",
+   "published": "2026-10-13T15:23:00+00:00",
+   "tickers": [
+    "OSCR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -3555,6 +3613,21 @@
     "EXEL"
    ],
    "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "b8b59b6b94d7",
+   "headline": "Can Nuplazid and Daybue Strengthen Acadia's Growth Prospects?",
+   "summary": "ACAD's Nuplazid and Daybue drive revenue growth, with rising demand, new formulations and European expansion offering opportunities amid growing competition.",
+   "url": "https://finnhub.io/api/news?id=d3d14635655955d57c540a056ebbe42b8bb92e91460fb70fe34f91a33a9c161d",
+   "source": "Yahoo",
+   "published": "2026-10-13T13:01:00+00:00",
+   "tickers": [
+    "AXSM"
+   ],
+   "tag": "Earnings",
    "sectors": [
     "biotech"
    ]
@@ -5248,6 +5321,21 @@
    "tag": "News",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "f83448a082c2",
+   "headline": "Best Growth Stocks to Buy for October 13th",
+   "summary": "WOOF, FIVE, and OSCR it to the Zacks Rank #1 (Strong Buy) growth stocks list on October 13, 2026.",
+   "url": "https://finnhub.io/api/news?id=89320843c9701384843a7dc81b6122ce2b464bc220cd2d4aa3b942c8d10f7e39",
+   "source": "Yahoo",
+   "published": "2026-10-13T09:15:00+00:00",
+   "tickers": [
+    "OSCR"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "payers"
    ]
   },
   {
