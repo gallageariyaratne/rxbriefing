@@ -1,18 +1,18 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-14T20:02:38.364720+00:00",
+ "updated": "2026-10-14T20:17:56.318437+00:00",
  "quotes": {
   "A": {
-   "price": 174.04,
-   "change_pct": 1.42
+   "price": 174,
+   "change_pct": 1.4
   },
   "ABBV": {
-   "price": 283.61,
-   "change_pct": 3.37
+   "price": 283.48,
+   "change_pct": 3.32
   },
   "ABT": {
-   "price": 102.98,
-   "change_pct": 0.36
+   "price": 102.97,
+   "change_pct": 0.35
   },
   "ALGN": {
    "price": 144.44,
@@ -87,11 +87,11 @@
    "change_pct": 3.24
   },
   "DGX": {
-   "price": 233.58,
-   "change_pct": 1.35
+   "price": 233.43,
+   "change_pct": 1.29
   },
   "DHR": {
-   "price": 224.7,
+   "price": 224.69,
    "change_pct": 0.83
   },
   "ELV": {
@@ -131,8 +131,8 @@
    "change_pct": -6.7
   },
   "HUM": {
-   "price": 427.82,
-   "change_pct": 1.77
+   "price": 427.4,
+   "change_pct": 1.67
   },
   "ILMN": {
    "price": 271.76,
@@ -147,8 +147,8 @@
    "change_pct": 1.03
   },
   "IQV": {
-   "price": 262.15,
-   "change_pct": 0.56
+   "price": 262.01,
+   "change_pct": 0.51
   },
   "ISRG": {
    "price": 420.24,
@@ -163,8 +163,8 @@
    "change_pct": 2.13
   },
   "LLY": {
-   "price": 1211.57,
-   "change_pct": 3.86
+   "price": 1208.74,
+   "change_pct": 3.62
   },
   "MDT": {
    "price": 94.23,
@@ -199,12 +199,8 @@
    "change_pct": 1.57
   },
   "PFE": {
-   "price": 29.22,
-   "change_pct": 3.0
-  },
-  "QGEN": {
-   "price": 45.56,
-   "change_pct": 0.26
+   "price": 29.21,
+   "change_pct": 2.96
   },
   "REGN": {
    "price": 778.36,
@@ -223,7 +219,7 @@
    "change_pct": 1.66
   },
   "SYK": {
-   "price": 281.63,
+   "price": 281.62,
    "change_pct": -0.33
   },
   "TDOC": {
@@ -237,10 +233,6 @@
   "TRXB": {
    "price": 13.5,
    "change_pct": -0.74
-  },
-  "TXG": {
-   "price": 73.1,
-   "change_pct": 1.82
   },
   "UNH": {
    "price": 395.62,
@@ -267,8 +259,8 @@
    "change_pct": -0.34
   },
   "ZTS": {
-   "price": 75.34,
-   "change_pct": 1.4
+   "price": 75.29,
+   "change_pct": 1.33
   }
  },
  "tickers": {
@@ -886,10 +878,66 @@
  },
  "stories": [
   {
+   "id": "a39e0c716944",
+   "headline": "Centene unveils national provider gold card program",
+   "summary": "Centene is aiming to simplify the prior authorization process with the launch of a new nationwide gold card program.",
+   "url": "https://www.fiercehealthcare.com/payers/centene-unveils-national-provider-gold-card-program",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-14T20:15:20.511293+00:00",
+   "tickers": [
+    "CNC"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "988a31d0f1bd",
+   "headline": "Teladoc Health to Announce Third Quarter 2026 Financial Results",
+   "summary": "NEW YORK, Oct. 14, 2026 (GLOBE NEWSWIRE) -- Teladoc Health Inc. (NYSE: TDOC), the global leader in virtual care, announced that it will release third quarter 2026 results on Wednesday, October 28, 2026, after the market closes. In\u2026",
+   "url": "https://www.globenewswire.com/news-release/2026/10/14/3381136/0/en/teladoc-health-to-announce-third-quarter-2026-financial-results.html",
+   "source": "GlobeNewswire",
+   "published": "2026-10-14T20:05:00+00:00",
+   "tickers": [
+    "TDOC"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
+   "id": "6b2399cf6d1b",
+   "headline": "Veeva to Host Virtual Investor Day on November 5, 2026",
+   "summary": "PLEASANTON, Calif., Oct. 14, 2026 /PRNewswire/ -- Veeva Systems (NYSE: VEEV) will host its investor day virtually on Thursday, November 5, 2026. The event will begin at 1:30 p.m. PT and will conclude at approximately 3:30 p.m. PT. Veeva\u2026",
+   "url": "https://www.prnewswire.com/news-releases/veeva-to-host-virtual-investor-day-on-november-5-2026-302907886.html",
+   "source": "PR Newswire",
+   "published": "2026-10-14T20:05:00+00:00",
+   "tickers": [
+    "VEEV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "87fa08dee05e",
    "headline": "Trump administration boots 189K deceased, duplicate enrollees off ACA subsidies",
    "summary": "It comes amid a broader crackdown on the ACA exchanges as the Trump administration continues its efforts to identify \u201cfraud, waste and abuse\u201d in federal programs.",
    "url": "https://www.healthcaredive.com/news/trump-administration-boots-189k-deceased-duplicate-enrollees-off-aca-subsi/833037/",
+   "source": "Healthcare Dive",
+   "published": "2026-10-14T19:40:27+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "66eac81162ed",
+   "headline": "Trump administration boots 189,000 deceased, duplicate enrollees off ACA subsidies",
+   "summary": "It comes amid a broader crackdown on the ACA exchanges as the Trump administration continues its efforts to identify \u201cfraud, waste and abuse\u201d in federal programs.",
+   "url": "https://www.healthcaredive.com/news/trump-administration-boots-189000-deceased-duplicate-enrollees-off-aca-su/833037/",
    "source": "Healthcare Dive",
    "published": "2026-10-14T19:40:27+00:00",
    "tickers": [],
@@ -921,10 +969,12 @@
    "source": "ChartMill",
    "published": "2026-10-14T19:05:01+00:00",
    "tickers": [
+    "ABBV",
     "GILD",
     "LLY",
     "MRK",
     "MRNA",
+    "REGN",
     "UNH"
    ],
    "tag": "News",
@@ -1047,6 +1097,21 @@
    "published": "2026-10-14T17:39:00+00:00",
    "tickers": [
     "LLY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "6919a5da37e4",
+   "headline": "Lilly, Merck, AbbVie Stocks Surge. Why Healthcare Is Rallying Today.",
+   "summary": "Shares of Lilly, the world\u2019s largest pharmaceutical company by market value, rallied above their 50-day moving average to mark their best level since August.",
+   "url": "https://finnhub.io/api/news?id=19b85bc72b748e5c4f9df4d280603355fd2cbda4b56f2bfe016353e892bc2ed5",
+   "source": "Yahoo",
+   "published": "2026-10-14T17:33:00+00:00",
+   "tickers": [
+    "ABBV"
    ],
    "tag": "News",
    "sectors": [
