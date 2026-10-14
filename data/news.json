@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-14T22:02:25.955880+00:00",
+ "updated": "2026-10-14T22:17:27.640066+00:00",
  "quotes": {
   "A": {
    "price": 174,
@@ -93,6 +93,10 @@
   "DHR": {
    "price": 224.69,
    "change_pct": 0.83
+  },
+  "DXCM": {
+   "price": 83.47,
+   "change_pct": -1.87
   },
   "ELV": {
    "price": 428.09,
@@ -878,6 +882,17 @@
  },
  "stories": [
   {
+   "id": "d246a164bb8e",
+   "headline": "As White House shifts focus toward AI and tech, U.S. science leaders defend role of the American university",
+   "summary": "White House planned shift of research funding from universities to industry risks creating a drought in basic research, science leaders say",
+   "url": "https://www.statnews.com/2026/10/14/american-science-funding-university-industry-shift-stat-summit-boston-2026/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-14T22:13:33+00:00",
+   "tickers": [],
+   "tag": "Health AI",
+   "sectors": []
+  },
+  {
    "id": "ff26572e99f6",
    "headline": "FDA clears ImmunityBio\u2019s Anktiva expansion in bladder cancer after regulatory whiplash",
    "summary": "To expand Anktiva\u2019s label, the FDA adopted a new approach to how it evaluates treatments for BCG-unresponsive NMIBC. The new regulatory path essentially allowed ImmunityBio to bypass an expensive phase 3 trial that competitor Johnson &\u2026",
@@ -898,6 +913,21 @@
    "tickers": [],
    "tag": "Earnings",
    "sectors": []
+  },
+  {
+   "id": "508affc659c8",
+   "headline": "Landmark Dexcom CONNECT Study Published in The New England Journal of Medicine, Redefining the Standard of Care for People with Type 2 Diabetes Not on Insulin",
+   "summary": "SAN DIEGO, October 14, 2026--DexCom, Inc. (NASDAQ: DXCM), the global leader in glucose biosensing, today announced that results from the landmark CONNECT randomized controlled trial have been published in The New England Journal of\u2026",
+   "url": "https://finnhub.io/api/news?id=cdd4ce3b33fa5fdc6d3866d2bda3d93869e7bbb137ac24183cb3cba5411619bc",
+   "source": "Yahoo",
+   "published": "2026-10-14T21:10:00+00:00",
+   "tickers": [
+    "DXCM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
   },
   {
    "id": "e6f2d6382305",
@@ -923,6 +953,22 @@
    "tag": "FDA",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "a88ed479f6bf",
+   "headline": "What Could BSX Stock Be Worth In Three Years?",
+   "summary": "Boston Scientific (BSX) stock currently trades at 17.2 times earnings. This compares to an average multiple of 55.9 over the last twelve quarter-ends, excluding readings above a hundred. Investors evaluating the stock must look ahead to\u2026",
+   "url": "https://finnhub.io/api/news?id=ef7c7029bef1f6c640c65a25788aafde6dcff4633ad4476372e4ff68562445ff",
+   "source": "Yahoo",
+   "published": "2026-10-14T20:55:29+00:00",
+   "tickers": [
+    "BDX",
+    "MDT"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
    ]
   },
   {
