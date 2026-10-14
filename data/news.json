@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-14T00:47:25.237231+00:00",
+ "updated": "2026-10-14T01:02:33.108324+00:00",
  "quotes": {
   "A": {
    "price": 171.6,
@@ -89,6 +89,10 @@
   "DHR": {
    "price": 222.84,
    "change_pct": 0.74
+  },
+  "DNLI": {
+   "price": 18.4,
+   "change_pct": -2.9
   },
   "DOCS": {
    "price": 30.55,
@@ -909,6 +913,36 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "6e9e9e7e080e",
+   "headline": "Is Amgen Stock Worth More Than Its Competitors?",
+   "summary": "Amgen (AMGN) competes in a tight peer group of six large drugmakers alongside AbbVie, Johnson & Johnson, Merck, Pfizer, and Bristol-Myers Squibb. The company ranks second within this group for both sales growth and operating margin. Its\u2026",
+   "url": "https://finnhub.io/api/news?id=19ddbf443d05e538002ed8fb8a4b92ac9ed26efb14a4416a1787066e2d586672",
+   "source": "Yahoo",
+   "published": "2026-10-13T23:48:51+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "308153fec614",
+   "headline": "BNTX Stock Selloff Deepens Doubts: BMO Ties BNT113 Miss To Wider mRNA Cancer Vaccine Struggles",
+   "summary": "BMO Capital Markets analyst Evan David Seigerman said that the PFS miss for BNT113 \u201cadds to a growing list of recent mRNA cancer vaccine setbacks\u201d and is likely to pressure the stock.",
+   "url": "https://finnhub.io/api/news?id=709e4c1c56db9af26929fee270729dc8a764c0444d13b548cf0efc9a894e3fac",
+   "source": "Yahoo",
+   "published": "2026-10-13T23:14:31+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "pharma"
+   ]
+  },
   {
    "id": "8beef5a240e0",
    "headline": "Humana (HUM) Will Have 95% of Its Members in Four-Star Plans, Up From 20%. What Changed?",
@@ -2790,6 +2824,21 @@
    "tickers": [],
    "tag": "Legal",
    "sectors": []
+  },
+  {
+   "id": "3f49102c7092",
+   "headline": "Pompe Disease Market Set for Expansion During the Forecast Period (2026-2036) as Growth is Fueled by Next-Generation ERTs, Newborn Screening, and Pipeline Innovation | DelveInsight",
+   "summary": "Recently published Pompe Disease Market Insights report includes a comprehensive understanding of current treatment practices, Pompe disease emerging drugs, market share of individual therapies, and current and forecasted market size from\u2026",
+   "url": "https://finnhub.io/api/news?id=d6338e88ad9ab9c55191c58288ca6a84f4a83061ae943787d48799221d5fd2cd",
+   "source": "Yahoo",
+   "published": "2026-10-13T14:31:00+00:00",
+   "tickers": [
+    "DNLI"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
   },
   {
    "id": "79ca553e949a",
