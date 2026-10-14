@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-14T08:02:39.043082+00:00",
+ "updated": "2026-10-14T08:17:38.510031+00:00",
  "quotes": {
   "A": {
    "price": 171.6,
@@ -61,10 +61,6 @@
   "BNTX": {
    "price": 89.01,
    "change_pct": -7.13
-  },
-  "BSX": {
-   "price": 43.31,
-   "change_pct": -1.21
   },
   "CAH": {
    "price": 239.72,
@@ -321,6 +317,10 @@
   "WAY": {
    "price": 26.3,
    "change_pct": -1.31
+  },
+  "ZBH": {
+   "price": 92.08,
+   "change_pct": -0.1
   }
  },
  "tickers": {
@@ -938,6 +938,21 @@
  },
  "stories": [
   {
+   "id": "6e73d8c2143b",
+   "headline": "Cancer Drug Spending Is Headed Past $400 Billion as Colorectal and Pancreatic Cancers Move Up the Research Agenda",
+   "summary": "SAN DIEGO, Oct. 14, 2026 /PRNewswire/ -- Equity Insider News Commentary - Global spending on cancer medicines reached $252 billion in 2024 and is forecast to exceed $400 billion by 2028, according to the IQVIA Institute, with the United\u2026",
+   "url": "https://www.prnewswire.com/news-releases/cancer-drug-spending-is-headed-past-400-billion-as-colorectal-and-pancreatic-cancers-move-up-the-research-agenda-302908253.html",
+   "source": "PR Newswire",
+   "published": "2026-10-14T08:07:00+00:00",
+   "tickers": [
+    "IQV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "9907fc4741d7",
    "headline": "Agilent spends $240M upfront to buy digital pathology specialist Proscia",
    "summary": "Agilent Technologies is buying up the digital pathology software company Proscia in an all-cash transaction valued at $240 million with an additional $30 million on the cards for future performance milestones.",
@@ -958,6 +973,21 @@
    "summary": "Collaboration will bring together NVIDIA AI technologies and Danaher's scientific instruments, laboratory workflows and data WASHINGTON, Oct. 14, 2026 /PRNewswire/ -- Danaher Corporation (NYSE: DHR) today announced a collaboration with\u2026",
    "url": "https://www.prnewswire.com/news-releases/danaher-collaborates-with-nvidia-to-advance-autonomous-science-302907891.html",
    "source": "PR Newswire",
+   "published": "2026-10-14T06:00:00+00:00",
+   "tickers": [
+    "DHR"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "ddebfb242100",
+   "headline": "Danaher Collaborates with NVIDIA to Advance Autonomous Science",
+   "summary": "Danaher Corporation (NYSE: DHR) today announced a collaboration with NVIDIA to advance autonomous science and help accelerate the pace of scientific discovery. As part of Danaher's broader effort to shape the future of AI-enabled science,\u2026",
+   "url": "https://finnhub.io/api/news?id=d8429ba735712e5cec37fa1fafa6aa152751407075bcc29bd361085ab0d3bc04",
+   "source": "Yahoo",
    "published": "2026-10-14T06:00:00+00:00",
    "tickers": [
     "DHR"
