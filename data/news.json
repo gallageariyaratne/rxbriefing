@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-14T11:32:25.810631+00:00",
+ "updated": "2026-10-14T11:47:32.379898+00:00",
  "quotes": {
   "A": {
    "price": 171.6,
@@ -229,6 +229,10 @@
   "RXRX": {
    "price": 3.83,
    "change_pct": -4.36
+  },
+  "SDGR": {
+   "price": 25.89,
+   "change_pct": -0.08
   },
   "SNY": {
    "price": 39.12,
@@ -910,6 +914,21 @@
  },
  "stories": [
   {
+   "id": "5c55edfc25a0",
+   "headline": "Sanofi dodges EU fine over alleged disparagement of CSL flu vaccine",
+   "summary": "Sanofi has avoided a European Union fine after antitrust regulators accepted its commitments to address the alleged disparagement of CSL Seqirus\u2019 rival flu vaccine.",
+   "url": "https://www.fiercepharma.com/marketing/sanofi-dodges-eu-fine-over-alleged-disparagement-csl-flu-vaccine",
+   "source": "Fierce Pharma",
+   "published": "2026-10-14T11:45:23.617293+00:00",
+   "tickers": [
+    "SNY"
+   ],
+   "tag": "Legal",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "cccc0f674e9a",
    "headline": "GSK to lay off over 1,200 roles in Belgium as cost-saving program picks up steam",
    "summary": "Up to 1,217 GSK employees in Belgium are at risk of losing their jobs as the Big Pharma rolls out it its global cost-saving plans.",
@@ -920,6 +939,21 @@
     "GSK"
    ],
    "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "c797b754cd18",
+   "headline": "Zoetis (NYSE:ZTS): A Quality Investing Case Study in Animal Health",
+   "summary": "Zoetis quality investing analysis: high ROIC, strong cash flow, low debt, reasonable valuation, but revenue growth lags Caviar Cruise screen criteria.",
+   "url": "https://finnhub.io/api/news?id=47a3c5af87fff42cbf2c3fd786c9b2e35bfb402cdd1c726fb407d6b7543344ef",
+   "source": "ChartMill",
+   "published": "2026-10-14T11:21:06+00:00",
+   "tickers": [
+    "ZTS"
+   ],
+   "tag": "Earnings",
    "sectors": [
     "pharma"
    ]
@@ -1380,6 +1414,21 @@
    ]
   },
   {
+   "id": "2b7da669432d",
+   "headline": "Longleaf Partners Fund Q3 2026 Portfolio Review",
+   "summary": "The market is regaining confidence in Avantor\u00e2\u0080\u0099s ability to grow organically and in Emmanuel Ligner\u00e2\u0080\u0099s turnaround plan.",
+   "url": "https://finnhub.io/api/news?id=3d81aef4afb7edd2d60e3c81f1f561bc77f0f09163647dc78f5bc8452a6df2dd",
+   "source": "SeekingAlpha",
+   "published": "2026-10-14T07:02:00+00:00",
+   "tickers": [
+    "ABT"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "419b13cef34d",
    "headline": "This U.S. healthcare stock is Mizuho\u2019s top pick after strong Q3 results",
    "summary": "Investing.com -- Unitedhealth Group (NYSE:UNH) remains Mizuho Securities' top pick in the U.S. healthcare sector, with stronger-than-expected third-quarter results reinforcing confidence in the insurer's recovery in profitability.",
@@ -1515,6 +1564,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "007aeee82f6f",
+   "headline": "Schr\u00f6dinger (SDGR) Stock Fair Value Edges Higher As Analyst Views Split On AI Growth",
+   "summary": "Schr\u00f6dinger\u2019s updated fair value estimate has shifted from US$20.88 to US$22.29 per share, putting fresh attention on how the stock\u2019s story is evolving. This change sits alongside a split analyst view, with more optimistic voices pointing\u2026",
+   "url": "https://finnhub.io/api/news?id=e7a4c0a7b0df98a08585811a1f2967254b60f38c9f2a69b689a84c8eaf37d83f",
+   "source": "Yahoo",
+   "published": "2026-10-14T02:13:28+00:00",
+   "tickers": [
+    "SDGR"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "healthai"
    ]
   },
   {
