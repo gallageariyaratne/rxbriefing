@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-14T22:32:31.858402+00:00",
+ "updated": "2026-10-14T22:47:27.262631+00:00",
  "quotes": {
   "A": {
    "price": 174,
@@ -893,21 +893,6 @@
    "sectors": []
   },
   {
-   "id": "9fa193b4ec06",
-   "headline": "Dow Jones Futures: Dell, AMD, CoreWeave Lead Market Sell-Off On AI Fears; Taiwan Semiconductor Due",
-   "summary": "The stock market tested key levels on Fed and AI fears. Dell, AMD, CoreWeave were big losers. Taiwan Semiconductor earnings loom.",
-   "url": "https://finnhub.io/api/news?id=e1a55a659c9fcf8681b74636abc17536f30cfc993dedc919509f215b84e95fb8",
-   "source": "Yahoo",
-   "published": "2026-10-14T22:08:47+00:00",
-   "tickers": [
-    "HALO"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
    "id": "ff26572e99f6",
    "headline": "FDA clears ImmunityBio\u2019s Anktiva expansion in bladder cancer after regulatory whiplash",
    "summary": "To expand Anktiva\u2019s label, the FDA adopted a new approach to how it evaluates treatments for BCG-unresponsive NMIBC. The new regulatory path essentially allowed ImmunityBio to bypass an expensive phase 3 trial that competitor Johnson &\u2026",
@@ -945,6 +930,22 @@
    ]
   },
   {
+   "id": "9fa193b4ec06",
+   "headline": "Dow Jones Futures: Dell, AMD, CoreWeave Lead Market Sell-Off On AI Fears; Taiwan Semiconductor Due",
+   "summary": "The stock market tested key levels on Fed and AI fears. Dell, AMD, CoreWeave were big losers. Taiwan Semiconductor earnings loom.",
+   "url": "https://finnhub.io/api/news?id=e1a55a659c9fcf8681b74636abc17536f30cfc993dedc919509f215b84e95fb8",
+   "source": "Yahoo",
+   "published": "2026-10-14T21:09:25+00:00",
+   "tickers": [
+    "HALO",
+    "HUM"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "e6f2d6382305",
    "headline": "Walmart to expand health benefits for employees, including $0 prescriptions, rare disease care",
    "summary": "The new offerings include \u201czero cost\u201d prescriptions, expanded Centers of Excellence for rare conditions and paid NICU leave.",
@@ -978,6 +979,7 @@
    "source": "Yahoo",
    "published": "2026-10-14T20:55:29+00:00",
    "tickers": [
+    "ABT",
     "BDX",
     "BSX",
     "JNJ",
@@ -986,6 +988,21 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "743151885126",
+   "headline": "Pfizer (PFE) Gains As Market Dips: What You Should Know",
+   "summary": "The latest trading day saw Pfizer (PFE) settling at $29.21, representing a +2.96% change from its previous close.",
+   "url": "https://finnhub.io/api/news?id=30968c24443e8adac169e6499d5170bb4ec0b066c47f0edd1601090ab47ea410",
+   "source": "Yahoo",
+   "published": "2026-10-14T20:45:05+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
