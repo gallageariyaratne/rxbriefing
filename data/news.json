@@ -1,30 +1,14 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-14T12:17:37.606044+00:00",
+ "updated": "2026-10-14T12:32:35.696140+00:00",
  "quotes": {
-  "A": {
-   "price": 171.6,
-   "change_pct": 0.16
-  },
-  "ABBV": {
-   "price": 274.36,
-   "change_pct": -2.4
-  },
-  "ABT": {
-   "price": 102.61,
-   "change_pct": 0.78
-  },
-  "ACAD": {
-   "price": 18.62,
-   "change_pct": -4.07
-  },
-  "ALHC": {
-   "price": 8.3,
-   "change_pct": 2.6
-  },
   "AMGN": {
    "price": 412.84,
    "change_pct": -1.13
+  },
+  "ARWR": {
+   "price": 58.13,
+   "change_pct": -4.28
   },
   "AXSM": {
    "price": 156.32,
@@ -89,10 +73,6 @@
   "ELV": {
    "price": 425.27,
    "change_pct": 0.75
-  },
-  "EVH": {
-   "price": 4.6,
-   "change_pct": 8.24
   },
   "EXEL": {
    "price": 59.51,
@@ -185,10 +165,6 @@
   "NVS": {
    "price": 142.41,
    "change_pct": -0.99
-  },
-  "OMCL": {
-   "price": 36.45,
-   "change_pct": -1.14
   },
   "OSCR": {
    "price": 33.79,
@@ -902,6 +878,21 @@
  },
  "stories": [
   {
+   "id": "1f50e39a96ea",
+   "headline": "STAT+: Sanofi avoids fine as EU accepts offer to end antitrust probe over disparaging rival vaccine",
+   "summary": "E.U. antitrust regulators accepted concessions from Sanofi to settle a probe into an allegedly \u201cmisleading\u201d campaign that disparaged a rival flu vaccine.",
+   "url": "https://www.statnews.com/pharmalot/2026/10/14/sanofi-avoids-fine-as-eu-accepts-offer-ends-antitrust-probe-over-disparaging-rival-vaccine/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-14T12:17:35+00:00",
+   "tickers": [
+    "SNY"
+   ],
+   "tag": "Legal",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "4524f787e6eb",
    "headline": "NantWorks' Soon-Shiong puts chips behind manufacturing disruptors in new rounds for Prolific Machines, Multiply Labs",
    "summary": "With demand for advanced manufacturing solutions mounting across the industry, the moment is ripe to capitalize on investor interest and build out toward a potential production paradigm shift.",
@@ -958,6 +949,36 @@
    ]
   },
   {
+   "id": "01de92e42a2d",
+   "headline": "1cBio Received Shareholder Proceeds Upon Closing of BioMarin Pharmaceutical Inc.'s Acquisition of Alesta Therapeutics",
+   "summary": "1cBio, a biopharmaceutical company focused on discovering and developing innovative therapies for serious and underserved diseases including oncology and metabolic disorders, today highlighted BioMarin Pharmaceutical Inc.'s completed\u2026",
+   "url": "https://finnhub.io/api/news?id=bf7dc323a2759e594ce933a0c740e1284b4b6c922d9240c6934669e5a68da2e8",
+   "source": "Yahoo",
+   "published": "2026-10-14T12:00:00+00:00",
+   "tickers": [
+    "BMRN"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "c5110bd4f404",
+   "headline": "Globus Medical to Showcase SCRIPT\u2122 Patient-Specific Implants and New XLIF\u2122 Prone Procedural Solution at NASS 2026",
+   "summary": "New Innovations Designed to Advance Patient-Specific Planning and Connected Surgical WorkflowsAUDUBON, Pa., Oct. 14, 2026 (GLOBE NEWSWIRE) -- Globus Medical, Inc. (NYSE: GMED), a leading musculoskeletal technology company, today announced\u2026",
+   "url": "https://finnhub.io/api/news?id=c48663ee1d073b292aeb682de1a5bb1c0d5657105c3ac4ce0c5fc8ee7c3123ad",
+   "source": "Yahoo",
+   "published": "2026-10-14T12:00:00+00:00",
+   "tickers": [
+    "GMED"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "8d95df0aba03",
    "headline": "New study examines GLP-1 impact on interactions with criminal justice system, employment, housing stability",
    "summary": "A wave of clinical trials have begun to test the ability of GLP-1 weight loss drugs to quell various substance use disorders, with some promising results. A new trial announced\u2026",
@@ -984,6 +1005,21 @@
    ]
   },
   {
+   "id": "ccecd697354c",
+   "headline": "Biotech Stocks To Watch: Regeneron Partner Has Breakout In Sight",
+   "summary": "Boosted by its exclusive agreement with Regeneron, Kiniksa Pharmaceuticals stands among the top biotech stocks to watch.",
+   "url": "https://finnhub.io/api/news?id=a3f2fab0fe8cf0c3c08140592360ce9c537164de8862f41573d4d377aedba88f",
+   "source": "Yahoo",
+   "published": "2026-10-14T11:30:40+00:00",
+   "tickers": [
+    "HALO"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "cccc0f674e9a",
    "headline": "GSK to lay off over 1,200 roles in Belgium as cost-saving program picks up steam",
    "summary": "Up to 1,217 GSK employees in Belgium are at risk of losing their jobs as the Big Pharma rolls out it its global cost-saving plans.",
@@ -996,6 +1032,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "a59975bbd830",
+   "headline": "Arrowhead Pharmaceuticals Announces ARO-MAPT Interim Phase 1/2a Clinical Data Demonstrating Deep and Durable Tau Reductions in Healthy Volunteers",
+   "summary": "PASADENA, Calif., October 14, 2026--Arrowhead Pharmaceuticals, Inc. (NASDAQ: ARWR) today announced interim results from an ongoing Phase 1/2a study of ARO-MAPT, the company\u2019s investigational RNA interference (RNAi) therapeutic being\u2026",
+   "url": "https://finnhub.io/api/news?id=7559454f2f6e1e8bfcb8388b97a079c90aff4c3c29e9725baab2a5735b97a035",
+   "source": "Yahoo",
+   "published": "2026-10-14T11:30:00+00:00",
+   "tickers": [
+    "ARWR"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -1014,6 +1065,21 @@
    ]
   },
   {
+   "id": "f6bb9cca1ed3",
+   "headline": "J&J Beat and Raised. The Stock Fell Anyway. Here\u2019s What the Target Says",
+   "summary": "Johnson and Johnson crushed earnings, raised guidance, and still watched its stock crater nearly 6% in a single session. Understanding what spooked investors reveals whether Tuesday's selloff is a trap or a warning.",
+   "url": "https://finnhub.io/api/news?id=e763de698418aec47744b120467a490b683d9828a9163494ff75c2b553ce7a01",
+   "source": "Yahoo",
+   "published": "2026-10-14T11:15:59+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "cc729d956d2e",
    "headline": "Blockbuster Drugs Come and Go. These 5 Pharma Dividend Stocks Keep Paying",
    "summary": "Every big pharma company eventually watches its best-selling drug go generic, yet some keep raising their dividends anyway. The five names on this list have already replaced their fading blockbusters with something bigger, and the math\u2026",
@@ -1021,7 +1087,39 @@
    "source": "Yahoo",
    "published": "2026-10-14T11:15:02+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "BMY",
+    "JNJ"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "11b21b89a41c",
+   "headline": "Agilent acquires Proscia in deal worth up to $270m",
+   "summary": "The transaction, which is expected to close in Agilent\u2019s fiscal year 2027, follows its $950m acquisition of Biocare Medical in March 2026.",
+   "url": "https://finnhub.io/api/news?id=f59fb84a1dddc2400f63f414be29dad3e7429ba4db920560f5af7615a7d1d9b4",
+   "source": "Yahoo",
+   "published": "2026-10-14T11:11:56+00:00",
+   "tickers": [
+    "A"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "40dd8ae23363",
+   "headline": "3 Top Quality Value Stocks To Watch In October 2026",
+   "summary": "Rising gasoline and diesel costs are pushing US inflation higher, and that puts steady cash generation and conservative balance sheets back in the spotlight. When borrowing stays expensive and prices keep climbing, investors often pay\u2026",
+   "url": "https://finnhub.io/api/news?id=72e7c9e44734b50cdef94c88faa680defd3c10cc3071502c03fa5b38fac7847a",
+   "source": "Yahoo",
+   "published": "2026-10-14T11:11:23+00:00",
+   "tickers": [
+    "VRTX"
    ],
    "tag": "News",
    "sectors": [
@@ -1034,6 +1132,21 @@
    "summary": "SUNRISE -1 and SUNRISE-2 Studies to Evaluate Oral VK2735 in Obese Adults with and without Type 2 Diabetes SAN DIEGO, Oct. 14, 2026 /PRNewswire/ -- Viking Therapeutics, Inc. (Viking) (NASDAQ: VKTX), a clinical-stage biopharmaceutical\u2026",
    "url": "https://www.prnewswire.com/news-releases/viking-therapeutics-announces-initiation-of-vk2735-oral-phase-3-clinical-program-in-patients-with-obesity-302907849.html",
    "source": "PR Newswire",
+   "published": "2026-10-14T11:05:00+00:00",
+   "tickers": [
+    "VKTX"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "6d907ac5b4af",
+   "headline": "Viking Therapeutics Announces Initiation of VK2735 Oral Phase 3 Clinical Program in Patients with Obesity",
+   "summary": "Viking Therapeutics, Inc. (Viking) (NASDAQ: VKTX), a clinical-stage biopharmaceutical company focused on the development of novel therapies for metabolic and endocrine disorders, today announced the initiation of the SUNRISE Phase 3\u2026",
+   "url": "https://finnhub.io/api/news?id=2825a9ab16e8265cd1dff85e881c300127794ef9796066af219184ac9f2b5a21",
+   "source": "Yahoo",
    "published": "2026-10-14T11:05:00+00:00",
    "tickers": [
     "VKTX"
@@ -1104,6 +1217,21 @@
    ]
   },
   {
+   "id": "e6fd93d2dd90",
+   "headline": "4 High-Risk Stocks Built for Big Returns",
+   "summary": "These speculative investments could turbocharge a portfolio to market-beating returns.",
+   "url": "https://finnhub.io/api/news?id=639be6a0f3174334bb9ffe394872e0c881fed35ed38bfe334c29264dcdc64e55",
+   "source": "Yahoo",
+   "published": "2026-10-14T10:28:00+00:00",
+   "tickers": [
+    "VKTX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "add66df2e2e0",
    "headline": "Update: European Commission Accepts Sanofi's Offer to Address Potential Anticompetitive Disparagement of Competing Flu Vaccine",
    "summary": "(Updates with the Sanofi statement in the last two paragraphs.) The European Commission has resol",
@@ -1114,6 +1242,21 @@
     "SNY"
    ],
    "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "4070a0bda3a1",
+   "headline": "What the interest rate danger zone means for your money",
+   "summary": "Gabelli Funds Portfolio Manager Justin Bergner and NYSE Senior Market Strategist Michael Reinking break down how the AI boom, rising interest rates, and geopolitical tensions are fundamentally reshaping the stock market.",
+   "url": "https://finnhub.io/api/news?id=ee485ffa353f95fe16ec1c801f3480957cdbc1614c6525f24ae2c64f26aed4b9",
+   "source": "Yahoo",
+   "published": "2026-10-14T10:00:00+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "Health AI",
    "sectors": [
     "pharma"
    ]
@@ -1572,6 +1715,21 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "5e2e5fdb6de4",
+   "headline": "Viking Therapeutics (VKTX) Stock Dropped, So What Is Driving Attention Now?",
+   "summary": "Viking Therapeutics (VKTX) is back in focus after the company kicked off an exploratory oral maintenance dosing study for VK2735 and highlighted progress in two large Phase 3 obesity trials. Recent price action has cooled enthusiasm\u2026",
+   "url": "https://finnhub.io/api/news?id=039705c488deee8217761357b1b539f281f4fcedb8a5a0c84700f3eab0b714c3",
+   "source": "Yahoo",
+   "published": "2026-10-14T05:20:37+00:00",
+   "tickers": [
+    "VKTX"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "biotech"
    ]
   },
   {
