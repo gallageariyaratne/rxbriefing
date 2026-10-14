@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-14T12:02:33.946915+00:00",
+ "updated": "2026-10-14T12:17:37.606044+00:00",
  "quotes": {
   "A": {
    "price": 171.6,
@@ -37,6 +37,10 @@
   "BIIB": {
    "price": 228.9,
    "change_pct": -0.22
+  },
+  "BMRN": {
+   "price": 54.38,
+   "change_pct": -1.82
   },
   "BMY": {
    "price": 56.67,
@@ -150,10 +154,6 @@
    "price": 248.61,
    "change_pct": -5.73
   },
-  "LH": {
-   "price": 313.64,
-   "change_pct": -0.6
-  },
   "LLY": {
    "price": 1166.51,
    "change_pct": -1.36
@@ -209,6 +209,10 @@
   "QGEN": {
    "price": 45.44,
    "change_pct": 0.29
+  },
+  "REGN": {
+   "price": 753.12,
+   "change_pct": -1.27
   },
   "RMD": {
    "price": 235.04,
@@ -898,6 +902,62 @@
  },
  "stories": [
   {
+   "id": "4524f787e6eb",
+   "headline": "NantWorks' Soon-Shiong puts chips behind manufacturing disruptors in new rounds for Prolific Machines, Multiply Labs",
+   "summary": "With demand for advanced manufacturing solutions mounting across the industry, the moment is ripe to capitalize on investor interest and build out toward a potential production paradigm shift.",
+   "url": "https://www.fiercepharma.com/pharma/nantworks-soon-shiong-puts-chips-behind-manufacturing-disruptors-new-rounds-prolific",
+   "source": "Fierce Pharma",
+   "published": "2026-10-14T12:15:28.704991+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "ecb6e62ecbc5",
+   "headline": "Veeva Summit Platinum Sponsor Spotline to Showcase AI-Powered Validation Automation",
+   "summary": "Live demonstrations of V-Assure AI and V-Assist will highlight validation automation and contextual user guidance within Veeva Vault BOSTON, Oct. 14, 2026 /PRNewswire/ -- Spotline Inc., a provider of AI, automation, validation, and\u2026",
+   "url": "https://www.prnewswire.com/news-releases/veeva-summit-platinum-sponsor-spotline-to-showcase-ai-powered-validation-automation-302906972.html",
+   "source": "PR Newswire",
+   "published": "2026-10-14T12:00:00+00:00",
+   "tickers": [
+    "VEEV"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
+   "id": "35638bf2c3d7",
+   "headline": "Medtronic Announces Final Results of MiniMed Group, Inc. Exchange Offer",
+   "summary": "GALWAY, Ireland, Oct. 14, 2026 /PRNewswire/ -- Medtronic plc (Medtronic; NYSE: MDT) today announced the final results of its previously announced offer to exchange shares of common stock of MiniMed Group, Inc. (MiniMed; Nasdaq: MMED) for\u2026",
+   "url": "https://www.prnewswire.com/news-releases/medtronic-announces-final-results-of-minimed-group-inc-exchange-offer-302908450.html",
+   "source": "PR Newswire",
+   "published": "2026-10-14T12:00:00+00:00",
+   "tickers": [
+    "MDT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "1629271cb821",
+   "headline": "1cBio Received Shareholder Proceeds Upon Closing of BioMarin Pharmaceutical Inc.'s Acquisition of Alesta Therapeutics",
+   "summary": "ALE1 advanced by 1cBio prior to its worldwide licensing agreement with Alesta Therapeutics 1cBio retains future economic interest in the ALE1 program for hypophosphatasia under the Alesta license agreement assumed by BioMarin SAN\u2026",
+   "url": "https://www.prnewswire.com/news-releases/1cbio-received-shareholder-proceeds-upon-closing-of-biomarin-pharmaceutical-incs-acquisition-of-alesta-therapeutics-302908026.html",
+   "source": "PR Newswire",
+   "published": "2026-10-14T12:00:00+00:00",
+   "tickers": [
+    "BMRN"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "8d95df0aba03",
    "headline": "New study examines GLP-1 impact on interactions with criminal justice system, employment, housing stability",
    "summary": "A wave of clinical trials have begun to test the ability of GLP-1 weight loss drugs to quell various substance use disorders, with some promising results. A new trial announced\u2026",
@@ -954,6 +1014,21 @@
    ]
   },
   {
+   "id": "cc729d956d2e",
+   "headline": "Blockbuster Drugs Come and Go. These 5 Pharma Dividend Stocks Keep Paying",
+   "summary": "Every big pharma company eventually watches its best-selling drug go generic, yet some keep raising their dividends anyway. The five names on this list have already replaced their fading blockbusters with something bigger, and the math\u2026",
+   "url": "https://finnhub.io/api/news?id=7fea1d49ce468ac5cda1986cdec52c42bb30275066096747e2bcadca75f062b6",
+   "source": "Yahoo",
+   "published": "2026-10-14T11:15:02+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "4ee614c455b3",
    "headline": "Viking Therapeutics Announces Initiation of VK2735 Oral Phase 3 Clinical Program in Patients with Obesity",
    "summary": "SUNRISE -1 and SUNRISE-2 Studies to Evaluate Oral VK2735 in Obese Adults with and without Type 2 Diabetes SAN DIEGO, Oct. 14, 2026 /PRNewswire/ -- Viking Therapeutics, Inc. (Viking) (NASDAQ: VKTX), a clinical-stage biopharmaceutical\u2026",
@@ -996,6 +1071,21 @@
    "tag": "News",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "89ed92029b44",
+   "headline": "Danaher Teams Up With NVIDIA, Aims To Bring Accelerated Computing, Physical AI Into Labs",
+   "summary": "Danaher CEO Julie Sawyer Montgomery said AI is transforming science, emphasizing the collaboration\u2019s vision for more connected, adaptive and accessible innovation.",
+   "url": "https://finnhub.io/api/news?id=099635a00dd8a37fe83a991b111352c53b9a4fea8f4b82e482c18b393b16eb2d",
+   "source": "Yahoo",
+   "published": "2026-10-14T10:57:15+00:00",
+   "tickers": [
+    "DHR"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -1416,7 +1506,8 @@
    "source": "SeekingAlpha",
    "published": "2026-10-14T07:02:00+00:00",
    "tickers": [
-    "ABT"
+    "ABT",
+    "REGN"
    ],
    "tag": "Earnings",
    "sectors": [
