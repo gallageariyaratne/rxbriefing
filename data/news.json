@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-14T20:47:25.248488+00:00",
+ "updated": "2026-10-14T21:02:38.482500+00:00",
  "quotes": {
   "A": {
    "price": 174,
@@ -202,6 +202,10 @@
    "price": 29.21,
    "change_pct": 2.96
   },
+  "RARE": {
+   "price": 14.9,
+   "change_pct": -0.13
+  },
   "REGN": {
    "price": 778.36,
    "change_pct": 3.35
@@ -229,10 +233,6 @@
   "TMO": {
    "price": 673.2,
    "change_pct": 1.53
-  },
-  "TRXB": {
-   "price": 13.5,
-   "change_pct": -0.74
   },
   "UNH": {
    "price": 395.62,
@@ -882,6 +882,32 @@
  },
  "stories": [
   {
+   "id": "e6f2d6382305",
+   "headline": "Walmart to expand health benefits for employees, including $0 prescriptions, rare disease care",
+   "summary": "The new offerings include \u201czero cost\u201d prescriptions, expanded Centers of Excellence for rare conditions and paid NICU leave.",
+   "url": "https://www.fiercehealthcare.com/retail/walmart-expand-health-benefits-employees-including-over-250-zero-dollar-prescriptions",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-14T21:00:33.198335+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "3efcab701e25",
+   "headline": "Ultragenyx makes swift $413M return on FDA review vouchers after summer of gene therapy nods",
+   "summary": "Hot off a pair of key FDA approvals this summer, rare disease specialist Ultragenyx has wasted little time cashing in on the priority review vouchers it earned from the green lights.",
+   "url": "https://www.fiercepharma.com/pharma/ultragenyx-makes-swift-413m-return-fda-review-vouchers-after-summer-gene-therapy-nods",
+   "source": "Fierce Pharma",
+   "published": "2026-10-14T21:00:33.036898+00:00",
+   "tickers": [
+    "RARE"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "90e2b6fa6354",
    "headline": "Zodoc acquires health tech company Sohar Health for automated benefits eligibility checks",
    "summary": "Zocdoc acquired insurance technology company Sohar Health as it pushes to evolve beyond an appointment-booking marketplace into broader healthcare access infrastructure.",
@@ -1289,7 +1315,9 @@
    "source": "Yahoo",
    "published": "2026-10-14T17:33:00+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "LLY",
+    "MRK"
    ],
    "tag": "News",
    "sectors": [
@@ -3208,6 +3236,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "2e654d40185c",
+   "headline": "Eli Lilly and Company Earnings Preview: What to Expect",
+   "summary": "Eli Lilly and Company is set to report its Q3 results soon, with analysts anticipating single-digit EPS growth alongside continued earnings growth.",
+   "url": "https://finnhub.io/api/news?id=614f647ec81d03d85f0b1dd7ade012acc027a18caf0daac5b44a485930501a4a",
+   "source": "Yahoo",
+   "published": "2026-10-14T11:58:33+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
    ]
   },
   {
