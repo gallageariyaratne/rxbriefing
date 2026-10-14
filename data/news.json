@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-14T13:02:55.539006+00:00",
+ "updated": "2026-10-14T13:17:32.981521+00:00",
  "quotes": {
   "A": {
    "price": 171.6,
@@ -42,10 +42,6 @@
    "price": 187.37,
    "change_pct": -0.8
   },
-  "BIIB": {
-   "price": 228.9,
-   "change_pct": -0.22
-  },
   "BMRN": {
    "price": 54.38,
    "change_pct": -1.82
@@ -73,10 +69,6 @@
   "CVS": {
    "price": 87.55,
    "change_pct": -0.22
-  },
-  "CYTK": {
-   "price": 61.62,
-   "change_pct": -1.86
   },
   "DHR": {
    "price": 222.84,
@@ -169,6 +161,10 @@
   "MEDP": {
    "price": 609.89,
    "change_pct": -1.64
+  },
+  "MOH": {
+   "price": 209.5,
+   "change_pct": 2.52
   },
   "MRK": {
    "price": 141.98,
@@ -906,6 +902,32 @@
  },
  "stories": [
   {
+   "id": "abf127065381",
+   "headline": "Confido Health nabs $12.5M to scale agentic AI across PE-backed medical groups",
+   "summary": "The company secured a $12.5 million series A extension following its $10 million series A round announced in September to continue scaling an AI platform for end-to-end healthcare operations.",
+   "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/confido-health-expands-beyond-voice-ai-agentic-platform-medical-practices",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-14T13:15:24.602601+00:00",
+   "tickers": [],
+   "tag": "Financing",
+   "sectors": []
+  },
+  {
+   "id": "a06535604371",
+   "headline": "Stryker launches Sonopet\u00ae 3, delivering greater power and precision in ultrasonic tissue removal",
+   "summary": "Stryker has received FDA 510(k) clearance for Sonopet\u00ae 3 , the latest evolution of its ultrasonic bone and soft tissue removal platform. Developed in collaboration with surgeons, Sonopet 3 delivers enhanced power, precision and\u2026",
+   "url": "https://www.prnewswire.com/news-releases/stryker-launches-sonopet-3-delivering-greater-power-and-precision-in-ultrasonic-tissue-removal-302907566.html",
+   "source": "PR Newswire",
+   "published": "2026-10-14T13:03:00+00:00",
+   "tickers": [
+    "SYK"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "796c925167d1",
    "headline": "Stryker pens deal with CMR Surgical to advance robotic-assisted surgery",
    "summary": "Stryker will funnel around $400 million (\u00a3300 million) in a \u201cstrategic\u201d investment in CMR Surgical and its robot surgery tech.",
@@ -918,6 +940,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "ea622b74ec48",
+   "headline": "MinuteClinic earns seventh consecutive Joint Commission accreditation, including first evaluation under Medical Center standards",
+   "summary": "Approximately 80 percent of surveyed locations offer primary care, now available at more than 65 percent of MinuteClinic locations. WOONSOCKET, R.I., Oct 14, 2026 /PRNewswire/ -- CVS Health\u00ae (NYSE: CVS) today announced that MinuteClinic\u00ae,\u2026",
+   "url": "https://www.prnewswire.com/news-releases/minuteclinic-earns-seventh-consecutive-joint-commission-accreditation-including-first-evaluation-under-medical-center-standards-302907613.html",
+   "source": "PR Newswire",
+   "published": "2026-10-14T13:00:00+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -1087,7 +1124,8 @@
    "tickers": [
     "AMGN",
     "EXEL",
-    "HALO"
+    "HALO",
+    "REGN"
    ],
    "tag": "News",
    "sectors": [
@@ -1493,6 +1531,21 @@
    ]
   },
   {
+   "id": "281fe962aa13",
+   "headline": "Molina Healthcare: Paying 21x For A Recovery That Hasn't Happened Yet",
+   "summary": "Molina Healthcare (MOH) stock is rated Hold with a $217 target. 2027 guidance and January Medicaid rate updates are pivotal. See more details here.",
+   "url": "https://finnhub.io/api/news?id=8a65eb664784c1b0f4c84b9a3acdb6d14285fdf6fa700f05aa65c8d6baa663c1",
+   "source": "SeekingAlpha",
+   "published": "2026-10-14T08:50:54+00:00",
+   "tickers": [
+    "MOH"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "60caafd0aa90",
    "headline": "Zealand inks $1.2B Generate pact to add multispecific proteins to obesity pipeline",
    "summary": "Zealand Pharma is paying Generate Biomedicines $30 million upfront to collaborate on multispecific drug candidates for metabolic diseases. Milestones could bring the total value of the deal above $1 billion.",
@@ -1531,6 +1584,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "da4f3f10c04e",
+   "headline": "Medpace Holdings: Strong Bookings, But Pass-Through Flatters Growth And The Valuation Leaves Little Room",
+   "summary": "Medpace (MEDP) HOLD rating: bookings and backlog improve, but valuation is full and pass-through revenue distorts growth. Read here for more details.",
+   "url": "https://finnhub.io/api/news?id=452d39118e020ca3e561179be494ed73b004438b92d911c034148d4feea7d101",
+   "source": "SeekingAlpha",
+   "published": "2026-10-14T08:39:52+00:00",
+   "tickers": [
+    "MEDP"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
    ]
   },
   {
