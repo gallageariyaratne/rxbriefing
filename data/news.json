@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-14T07:02:45.551825+00:00",
+ "updated": "2026-10-14T07:17:31.243810+00:00",
  "quotes": {
   "A": {
    "price": 171.6,
@@ -182,10 +182,6 @@
    "price": 1166.51,
    "change_pct": -1.36
   },
-  "MCK": {
-   "price": 961.88,
-   "change_pct": 0.64
-  },
   "MDT": {
    "price": 93.01,
    "change_pct": 1.17
@@ -321,6 +317,10 @@
   "WAT": {
    "price": 429.17,
    "change_pct": -0.68
+  },
+  "WAY": {
+   "price": 26.3,
+   "change_pct": -1.31
   }
  },
  "tickers": {
@@ -980,6 +980,21 @@
    "tag": "News",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "dadebf70ae03",
+   "headline": "BioNTech (BNTX) Is Down 7.0% After mRNA Cancer Trial Misses PFS Goal Has The Bull Case Changed?",
+   "summary": "In October 2026, BioNTech reported that its AHEAD-MERIT Phase 2/3 trial of mRNA cancer candidate BNT113 plus pembrolizumab in advanced HPV-linked head and neck cancer did not meet its first primary endpoint of improving progression-free\u2026",
+   "url": "https://finnhub.io/api/news?id=1c9c540172d5963b036703a84d699f0a0c8b7521c3f0cd9a378e48325c25bb75",
+   "source": "Yahoo",
+   "published": "2026-10-14T03:22:41+00:00",
+   "tickers": [
+    "BNTX"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
    ]
   },
   {
