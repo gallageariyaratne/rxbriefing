@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-15T22:47:29.607623+00:00",
+ "updated": "2026-10-15T23:02:45.118133+00:00",
  "quotes": {
   "ABBV": {
    "price": 283.4,
@@ -1003,7 +1003,8 @@
     "BSX",
     "ISRG",
     "JNJ",
-    "MDT"
+    "MDT",
+    "SYK"
    ],
    "tag": "News",
    "sectors": [
@@ -1101,7 +1102,9 @@
    "published": "2026-10-15T20:30:00+00:00",
    "tickers": [
     "ABBV",
-    "CAH"
+    "CAH",
+    "GILD",
+    "TMO"
    ],
    "tag": "News",
    "sectors": [
@@ -1121,6 +1124,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "8167713bb87b",
+   "headline": "AI Stocks Are Hurting. Look at These Other Sectors for Protection.",
+   "summary": "Investors are fleeing tech stocks due to artificial-intelligence worries. But many other sectors of the market look like a good bet.",
+   "url": "https://finnhub.io/api/news?id=1acfb8f181fa92d06970adec64ca819ba0b9d8103d77fe0fefad6234be53ccb8",
+   "source": "Yahoo",
+   "published": "2026-10-15T20:13:00+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1169,6 +1187,21 @@
    ]
   },
   {
+   "id": "692c87a6b622",
+   "headline": "Gilead Sciences to Release Third Quarter 2026 Financial Results on Thursday, October 29, 2026",
+   "summary": "FOSTER CITY, Calif., October 15, 2026--Gilead Sciences, Inc. (Nasdaq: GILD) announced today that its third quarter 2026 financial results and guidance will be released on Thursday, October 29, 2026 after the market closes. At 4:30 p.m.\u2026",
+   "url": "https://finnhub.io/api/news?id=4d1ad6ec7707de8e29d58ab0250725d7d5f845364c7f4ff591298f56c7f59007",
+   "source": "Yahoo",
+   "published": "2026-10-15T20:05:00+00:00",
+   "tickers": [
+    "GILD"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "898c4632209f",
    "headline": "Better Dividend Stock: Pfizer vs. GSK",
    "summary": "Key TakeawaysPfizer yields 6. 3% and GSK yields 4.",
@@ -1210,6 +1243,8 @@
     "ABBV",
     "BMY",
     "JNJ",
+    "LLY",
+    "MRK",
     "PFE"
    ],
    "tag": "Earnings",
