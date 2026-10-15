@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-15T22:17:39.398455+00:00",
+ "updated": "2026-10-15T22:32:32.857595+00:00",
  "quotes": {
   "ABBV": {
    "price": 283.4,
@@ -129,10 +129,6 @@
   "GMED": {
    "price": 78.84,
    "change_pct": 3.32
-  },
-  "GSK": {
-   "price": 49.02,
-   "change_pct": 2.4
   },
   "HALO": {
    "price": 121.51,
@@ -1003,6 +999,8 @@
    "source": "Yahoo",
    "published": "2026-10-15T21:01:11+00:00",
    "tickers": [
+    "BSX",
+    "JNJ",
     "MDT"
    ],
    "tag": "News",
@@ -1022,6 +1020,21 @@
    "sectors": []
   },
   {
+   "id": "4ada982e74cf",
+   "headline": "Vortex Energy Corp. Announces Extension of Marketing Program",
+   "summary": "VANCOUVER, British Columbia, Oct. 15, 2026 (GLOBE NEWSWIRE) -- Vortex Energy Corp. (CSE: VRTX) (OTC: VTECF) (FSE: AA3) (\u201cVortex\u201d or the \u201cCompany\u201d) is pleased to announce, further to its news release on July 24, 2026, that it has extended\u2026",
+   "url": "https://finnhub.io/api/news?id=0e48348bc22a684c8a5a23abf82aeaab9b4850204e500088437e94878636b06e",
+   "source": "Yahoo",
+   "published": "2026-10-15T21:00:00+00:00",
+   "tickers": [
+    "VRTX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "72c0aa9838e7",
    "headline": "Trump administration advances plan for peptide drugs favored by RFK Jr.",
    "summary": "U.S. health officials are moving ahead with a plan to allow specialty pharmacies to produce certain peptides, a class of largely unregulated injections favored by health secretary Robert F. Kennedy\u2026",
@@ -1031,6 +1044,21 @@
    "tickers": [],
    "tag": "Policy",
    "sectors": []
+  },
+  {
+   "id": "adc15a07a453",
+   "headline": "CVS Health (CVS) Exceeds Market Returns: Some Facts to Consider",
+   "summary": "The latest trading day saw CVS Health (CVS) settling at $92.17, representing a +1.97% change from its previous close.",
+   "url": "https://finnhub.io/api/news?id=9df98fb3aeb332667245f5ba4c70d3da403b2be3dc1a0b03e4babfdcda8d072a",
+   "source": "Yahoo",
+   "published": "2026-10-15T20:45:03+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
   },
   {
    "id": "0478f23a279d",
@@ -1146,7 +1174,9 @@
    "source": "Yahoo",
    "published": "2026-10-15T19:46:29+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "BMY",
+    "JNJ"
    ],
    "tag": "Earnings",
    "sectors": [
