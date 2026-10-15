@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-15T01:47:48.484553+00:00",
+ "updated": "2026-10-15T02:02:49.113014+00:00",
  "quotes": {
   "A": {
    "price": 174,
@@ -90,6 +90,10 @@
    "price": 302,
    "change_pct": 1.0
   },
+  "CRSP": {
+   "price": 50.22,
+   "change_pct": 0.24
+  },
   "CVS": {
    "price": 90.39,
    "change_pct": 3.24
@@ -170,6 +174,10 @@
    "price": 97.79,
    "change_pct": 1.03
   },
+  "IONS": {
+   "price": 42.7,
+   "change_pct": 0.76
+  },
   "IQV": {
    "price": 262.01,
    "change_pct": 0.51
@@ -225,6 +233,10 @@
   "OSCR": {
    "price": 34.32,
    "change_pct": 1.57
+  },
+  "PACB": {
+   "price": 1.99,
+   "change_pct": -2.93
   },
   "PFE": {
    "price": 29.21,
@@ -1081,7 +1093,8 @@
     "BMY",
     "MRK",
     "PFE",
-    "REGN"
+    "REGN",
+    "SNY"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -1100,6 +1113,21 @@
    "sectors": []
   },
   {
+   "id": "13d8c7a6350d",
+   "headline": "Is CRISPR Therapeutics (CRSP) Undervalued As CASGEVY Hopes Face Market Doubts?",
+   "summary": "CRISPR Therapeutics (CRSP) recently saw its stock decline 3.45%, trailing the broader market, after fresh attention on expectations for an upcoming quarterly loss and a modest revenue base. Viewed over a longer stretch, CRISPR\u2026",
+   "url": "https://finnhub.io/api/news?id=fcfcdc4bb40aeec3298fc03aa099357a04d39f22b7279cfb1f1bcb849a954ef6",
+   "source": "Yahoo",
+   "published": "2026-10-14T21:15:50+00:00",
+   "tickers": [
+    "CRSP"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "947d9e057d0e",
    "headline": "Big-ticket hospital deals are becoming the M&A story of 2026",
    "summary": "For a third consecutive quarter, the hospital industry has hosted multiple new transactions in which the smaller party's annual revenue exceeds $1 billion, per Kaufman Hall's quarterly report. The news comes alongside signs of worsening\u2026",
@@ -1109,6 +1137,21 @@
    "tickers": [],
    "tag": "Earnings",
    "sectors": []
+  },
+  {
+   "id": "4b631fdf8b45",
+   "headline": "Pacific Biosciences of California (PACB) Declines More Than Market: Some Information for Investors",
+   "summary": "In the most recent trading session, Pacific Biosciences of California (PACB) closed at $1.99, indicating a -2.93% shift from the previous trading day.",
+   "url": "https://finnhub.io/api/news?id=742bddd9947e172eab24c425ac8053c2e9cd633622dd45df359f36c47440dcab",
+   "source": "Yahoo",
+   "published": "2026-10-14T21:15:04+00:00",
+   "tickers": [
+    "PACB"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
   },
   {
    "id": "e43997063e1c",
@@ -1332,6 +1375,21 @@
    ]
   },
   {
+   "id": "ce6147b3b70b",
+   "headline": "CRISPR Therapeutics (CRSP) Stock Looks Rich On Upcoming CTX310 Trial Data",
+   "summary": "CRISPR Therapeutics has seen its share price under pressure in recent years, even as fresh clinical data like the planned CTX310 presentation in November 2026 keeps interest in its gene editing pipeline alive. With the stock closing at\u2026",
+   "url": "https://finnhub.io/api/news?id=82b136e7fc32dba9a1910f89287ce565087a627e417a6a77ab8f9d41e96a24b7",
+   "source": "Yahoo",
+   "published": "2026-10-14T20:13:48+00:00",
+   "tickers": [
+    "CRSP"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "988a31d0f1bd",
    "headline": "Teladoc Health to Announce Third Quarter 2026 Financial Results",
    "summary": "NEW YORK, Oct. 14, 2026 (GLOBE NEWSWIRE) -- Teladoc Health Inc. (NYSE: TDOC), the global leader in virtual care, announced that it will release third quarter 2026 results on Wednesday, October 28, 2026, after the market closes. In\u2026",
@@ -1374,6 +1432,21 @@
    "tag": "News",
    "sectors": [
     "healthit"
+   ]
+  },
+  {
+   "id": "ae10ec78a622",
+   "headline": "PacBio to Report Third Quarter 2026 Financial Results on November 4, 2026",
+   "summary": "MENLO PARK, Calif., Oct. 14, 2026 (GLOBE NEWSWIRE) -- PacBio (NASDAQ: PACB) announced today that it will hold its quarterly conference call to discuss its third quarter 2026 financial results on Wednesday, November 4, 2026, at 4:30 p.m.\u2026",
+   "url": "https://finnhub.io/api/news?id=3f32e2838cb602752cb7a480b6cbe216bbb6c24cc1a0a355a078f1a8935e4b33",
+   "source": "Yahoo",
+   "published": "2026-10-14T20:05:00+00:00",
+   "tickers": [
+    "PACB"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -1914,7 +1987,8 @@
    "published": "2026-10-14T16:43:07+00:00",
    "tickers": [
     "ALNY",
-    "ARWR"
+    "ARWR",
+    "IONS"
    ],
    "tag": "M&A",
    "sectors": [
@@ -2270,7 +2344,8 @@
    "tickers": [
     "MRK",
     "MRNA",
-    "PFE"
+    "PFE",
+    "RVMD"
    ],
    "tag": "News",
    "sectors": [
@@ -2317,7 +2392,8 @@
    "tickers": [
     "ABBV",
     "JNJ",
-    "REGN"
+    "REGN",
+    "SNY"
    ],
    "tag": "Analyst",
    "sectors": [
@@ -4150,6 +4226,22 @@
    ]
   },
   {
+   "id": "f6ac6aa2251b",
+   "headline": "Matchpoint Therapeutics Expands Leadership Team with Appointment of John O\u2019Malley, M.D., Ph.D., as Chief Medical Officer",
+   "summary": "Dr. O\u2019Malley brings deep immunology clinical development expertise, with previous leadership roles at CRISPR Therapeutics and Sanofi Appointment follows Matchpoint\u2019s recent $150M Series B financing to advance pipeline of first-in-class\u2026",
+   "url": "https://finnhub.io/api/news?id=433e399ebfe10a3ce021a3d38c0cc2487e3b2826001ae9503d5fb1bded732656",
+   "source": "Yahoo",
+   "published": "2026-10-14T11:00:00+00:00",
+   "tickers": [
+    "CRSP",
+    "SNY"
+   ],
+   "tag": "Financing",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "89ed92029b44",
    "headline": "Danaher Teams Up With NVIDIA, Aims To Bring Accelerated Computing, Physical AI Into Labs",
    "summary": "Danaher CEO Julie Sawyer Montgomery said AI is transforming science, emphasizing the collaboration\u2019s vision for more connected, adaptive and accessible innovation.",
@@ -4838,7 +4930,8 @@
    "published": "2026-10-14T08:07:00+00:00",
    "tickers": [
     "EXEL",
-    "LLY"
+    "LLY",
+    "RVMD"
    ],
    "tag": "News",
    "sectors": [
