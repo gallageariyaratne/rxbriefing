@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-15T13:02:44.659948+00:00",
+ "updated": "2026-10-15T13:17:30.761588+00:00",
  "quotes": {
   "ABBV": {
    "price": 283.48,
@@ -137,6 +137,10 @@
   "JNJ": {
    "price": 253.91,
    "change_pct": 2.13
+  },
+  "KRYS": {
+   "price": 330.69,
+   "change_pct": 2.97
   },
   "LH": {
    "price": 317.34,
@@ -878,6 +882,54 @@
  },
  "stories": [
   {
+   "id": "77c570c6efa7",
+   "headline": "As prior auth becomes an AI \u2018arms race,\u2019 Otter Health raises $8M for a different approach",
+   "summary": "The company built an AI-powered real-time clinical quality platform to better manage healthcare utilization by influencing care decisions rather than requiring clinicians to get permission for them.",
+   "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/otter-health-launches-8m-take-prior-authorization",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-15T13:15:22.949548+00:00",
+   "tickers": [],
+   "tag": "Financing",
+   "sectors": []
+  },
+  {
+   "id": "afbde1730878",
+   "headline": "American Academy of Family Physicians joins physician social network Roon",
+   "summary": "AAFP members will be able to use the platform to connect with peers as part of the collaboration.",
+   "url": "https://www.fiercehealthcare.com/providers/american-academy-family-physicians-joins-physician-social-network-roon",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-15T13:15:22.948649+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "9718b1703b47",
+   "headline": "Elevance Health Foundation launched a prize program for patient safety initiatives. Here's why",
+   "summary": "The Elevance Health Foundation has launched a new prize program aimed at supporting solutions aimed at improving patient safety, with the first crop of winners targeting challenges like health literacy, fall prevention and medication\u2026",
+   "url": "https://www.fiercehealthcare.com/payers/elevance-health-foundation-launched-prize-program-patient-safety-initiatives-heres-why",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-15T13:15:22.947218+00:00",
+   "tickers": [
+    "ELV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "9d18f777a3d1",
+   "headline": "STAT+: \u2018AI sandboxes\u2019 are all the rage. Advocates scramble to control their future",
+   "summary": "In this edition of STAT's Health Tech newsletter: The groups vying to shape regulations that'd govern state AI sandboxes, and more.",
+   "url": "https://www.statnews.com/2026/10/15/scramble-to-shape-regulations-around-state-ai-sandboxes-health-tech/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-15T13:14:37+00:00",
+   "tickers": [],
+   "tag": "Health AI",
+   "sectors": []
+  },
+  {
    "id": "7a241a0ad41a",
    "headline": "DaVita Brings New Clinical Research to ASN Kidney Week 2026, Advancing Evidence for the Next Era of Kidney Care",
    "summary": "Seven studies spanning middle molecule clearance, home dialysis and patient experience highlight DaVita's commitment to translating innovation into better care DENVER, Oct. 15, 2026 /PRNewswire/ -- DaVita will present seven studies at the\u2026",
@@ -890,6 +942,21 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "aba428ea87fc",
+   "headline": "These S&P500 stocks that are showing activity before the opening bell on Thursday.",
+   "summary": "Stay updated with the S&P500 stocks that are on the move in today's pre-market session.",
+   "url": "https://finnhub.io/api/news?id=45e466476d944aaa59304ce5e17b91f9de13abdc33bda39579f837d9a3c671e3",
+   "source": "ChartMill",
+   "published": "2026-10-15T12:35:01+00:00",
+   "tickers": [
+    "DXCM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -954,6 +1021,21 @@
    "tickers": [],
    "tag": "Clinical",
    "sectors": []
+  },
+  {
+   "id": "f145395c4385",
+   "headline": "Here Are Thursday\u2019s Top Wall Street Analyst Research Calls: AngloGold Ashanti, Bank of America, Cirrus Logic, Crocs, Diamondback Energy, Devon Energy, Netflix, PayPal, Spotify Technolgy , and More",
+   "summary": "Pre-Market Stock Futures: Futures are trading mixed, but the Nasdaq is down sharply Thursday morning as worries about AI overspending continue to emerge. Wall Street\u2019s worst fears materialized yesterday, as the Consumer Price Index (CPI)\u2026",
+   "url": "https://finnhub.io/api/news?id=24216ce278600124de9e90b6ea830cf3a494fd282df6011d3f1cd37a0fdabd81",
+   "source": "Yahoo",
+   "published": "2026-10-15T12:10:11+00:00",
+   "tickers": [
+    "REGN"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "a22e389f87a2",
@@ -1118,6 +1200,21 @@
    "tag": "Clinical",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "e56b3c0d6f30",
+   "headline": "Krystal Biotech Announces Positive Clinical Data for New Dermatology Program KB113 Demonstrating Broad Basal Cell Carcinoma Regression in Patients with Gorlin Syndrome",
+   "summary": "Over 80% of assessed basal cell carcinoma lesions regressed across three Gorlin syndrome patients treated with KB113 Substantial regression was observed in lesions not directly injected with KB113, consistent with abscopal effect KB113\u2026",
+   "url": "https://finnhub.io/api/news?id=fb3daa88ff4a33105d18d20e59684ed37234974d2393f06ca1727dad09986820",
+   "source": "Yahoo",
+   "published": "2026-10-15T11:00:00+00:00",
+   "tickers": [
+    "KRYS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -25198,17 +25295,6 @@
    "published": "2026-10-06T14:51:10+00:00",
    "tickers": [],
    "tag": "Policy",
-   "sectors": []
-  },
-  {
-   "id": "ce788f79c971",
-   "headline": "FDA Seeks Public Input to Support Ibogaine Research",
-   "summary": "The U.S. Food and Drug Administration today announced a request for information (RFI) describing approaches the agency is considering for the design of early-phase clinical trials of ibogaine drug products and seeking public input on\u2026",
-   "url": "http://www.fda.gov/news-events/press-announcements/fda-seeks-public-input-support-ibogaine-research",
-   "source": "FDA",
-   "published": "2026-10-05T13:02:06+00:00",
-   "tickers": [],
-   "tag": "FDA",
    "sectors": []
   }
  ]
