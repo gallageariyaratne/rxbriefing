@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-15T11:47:33.871004+00:00",
+ "updated": "2026-10-15T12:02:38.136110+00:00",
  "quotes": {
   "ABBV": {
    "price": 283.48,
@@ -10,10 +10,6 @@
    "price": 102.97,
    "change_pct": 0.35
   },
-  "ALHC": {
-   "price": 8.23,
-   "change_pct": -0.84
-  },
   "ALNY": {
    "price": 224.47,
    "change_pct": 0.29
@@ -21,10 +17,6 @@
   "AMGN": {
    "price": 426.11,
    "change_pct": 3.21
-  },
-  "AMWL": {
-   "price": 12.15,
-   "change_pct": -0.16
   },
   "ARGX": {
    "price": 818.3,
@@ -45,10 +37,6 @@
   "BDX": {
    "price": 188.89,
    "change_pct": 0.81
-  },
-  "BMRN": {
-   "price": 55.14,
-   "change_pct": 1.4
   },
   "BMY": {
    "price": 59.28,
@@ -193,10 +181,6 @@
   "MRNA": {
    "price": 226.3,
    "change_pct": 4.65
-  },
-  "NTRA": {
-   "price": 394.75,
-   "change_pct": -0.23
   },
   "NVO": {
    "price": 38.12,
@@ -910,6 +894,17 @@
  },
  "stories": [
   {
+   "id": "e5e57b0a43d1",
+   "headline": "Kenya reports second Ebola case",
+   "summary": "Kenya reports a second Ebola case. Meanwhile, the situation in Congo is still quite dire. Authorities have confirmed more than 4,000 deaths and 9,000 cases as officials have struggled to\u2026",
+   "url": "https://www.statnews.com/2026/10/15/health-news-kenya-reports-second-ebola-case/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-15T11:55:17+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
    "id": "a300570818ee",
    "headline": "Labcorp Enters into Agreement with OPKO Health to Acquire Select Assets of BioReference Health",
    "summary": "Acquisition will expand access to clinical laboratory services, including a broad specialty testing menu for patients and providers nationwide BURLINGTON, N.C. and MIAMI, Fla., Oct. 15, 2026 /PRNewswire/ -- Labcorp (NYSE: LH), a global\u2026",
@@ -1098,6 +1093,21 @@
     "OSCR"
    ],
    "tag": "M&A",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "026c282d4615",
+   "headline": "Centene: The Turnaround Has More Room To Run",
+   "summary": "Centene Corp. raised full-year adjusted EPS guidance to over $4.80, driven by improved Marketplace and Medicare Part D margins. Read why CNC stock is a buy.",
+   "url": "https://finnhub.io/api/news?id=fd5f3d50af05c90cf7511213496666117e4d79345f4bbcf0b7ce3036d9a17d65",
+   "source": "SeekingAlpha",
+   "published": "2026-10-15T07:34:04+00:00",
+   "tickers": [
+    "CNC"
+   ],
+   "tag": "Earnings",
    "sectors": [
     "payers"
    ]
