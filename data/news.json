@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-15T09:02:42.197063+00:00",
+ "updated": "2026-10-15T09:17:38.449468+00:00",
  "quotes": {
   "A": {
    "price": 174,
@@ -61,10 +61,6 @@
   "BMY": {
    "price": 59.28,
    "change_pct": 4.61
-  },
-  "BRKR": {
-   "price": 55.6,
-   "change_pct": -1.05
   },
   "BSX": {
    "price": 43,
@@ -321,6 +317,10 @@
   "WAY": {
    "price": 26.87,
    "change_pct": 2.17
+  },
+  "ZTS": {
+   "price": 75.29,
+   "change_pct": 1.33
   }
  },
  "tickers": {
@@ -1019,6 +1019,7 @@
    "source": "ChartMill",
    "published": "2026-10-15T07:55:32+00:00",
    "tickers": [
+    "ABBV",
     "LLY",
     "MRK"
    ],
