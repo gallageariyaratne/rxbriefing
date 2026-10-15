@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-15T10:47:34.742769+00:00",
+ "updated": "2026-10-15T11:02:41.185022+00:00",
  "quotes": {
   "A": {
    "price": 174,
@@ -149,10 +149,6 @@
   "ILMN": {
    "price": 271.76,
    "change_pct": 0.22
-  },
-  "INSM": {
-   "price": 97.79,
-   "change_pct": 1.03
   },
   "IONS": {
    "price": 42.7,
@@ -955,6 +951,7 @@
    "source": "Yahoo",
    "published": "2026-10-15T09:09:06+00:00",
    "tickers": [
+    "MRK",
     "UNH"
    ],
    "tag": "Health AI",
@@ -1151,6 +1148,36 @@
    "sectors": []
   },
   {
+   "id": "62baae0ce154",
+   "headline": "Polen Focus Growth Portfolio Q3 2026 Portfolio Update",
+   "summary": "In Q3 2026, we initiated new positions in Adyen, ASML, Quanta Services, and Seagate Technology, while selling MSCI and Rollins. Read more here.",
+   "url": "https://finnhub.io/api/news?id=c8ef5653b5295604d783fe54d49e184a527f62574a75821de06ae2f4c1087851",
+   "source": "SeekingAlpha",
+   "published": "2026-10-15T06:15:00+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "c169c6a9a1f4",
+   "headline": "Centene Remains A Buy Heading Into Q3",
+   "summary": "Centene remains a Buy, supported by operational improvements, disciplined capital management, and a discounted valuation vs. sector averages. Learn more about CNC stock here.",
+   "url": "https://finnhub.io/api/news?id=217c11ba14a6c1b25f6a3133b102bd38325f8ff39f5ddcf6aa65a6a6d6c2436c",
+   "source": "SeekingAlpha",
+   "published": "2026-10-15T05:12:52+00:00",
+   "tickers": [
+    "CNC"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "b3d7c7c32635",
    "headline": "How To Invest In AI Drug Discovery",
    "summary": "While AI can design prospective drug molecules in seconds, validating whether they work still depends on slow physical wet-lab testing and custom testing tools.",
@@ -1159,6 +1186,7 @@
    "published": "2026-10-15T05:04:00+00:00",
    "tickers": [
     "DHR",
+    "TMO",
     "TWST"
    ],
    "tag": "Health AI",
