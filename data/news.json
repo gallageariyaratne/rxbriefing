@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-15T20:47:34.293566+00:00",
+ "updated": "2026-10-15T21:02:51.532511+00:00",
  "quotes": {
   "ABBV": {
    "price": 283.4,
@@ -146,6 +146,10 @@
    "price": 432.2,
    "change_pct": 1.12
   },
+  "IDXX": {
+   "price": 547.18,
+   "change_pct": 3.43
+  },
   "ILMN": {
    "price": 267.93,
    "change_pct": -1.41
@@ -245,10 +249,6 @@
   "PTCT": {
    "price": 60.99,
    "change_pct": 2.21
-  },
-  "RARE": {
-   "price": 15.17,
-   "change_pct": 1.81
   },
   "REGN": {
    "price": 796.34,
@@ -930,6 +930,28 @@
  },
  "stories": [
   {
+   "id": "7d6f7fdfe279",
+   "headline": "Millie to open first of several joint clinics with El Camino Health in the Bay Area",
+   "summary": "The clinic will combine Millie\u2019s midwifery care model with El Camino\u2019s labor and delivery services and broader specialist network. The goal is to offer an integrated pregnancy, birth and postpartum experience.",
+   "url": "https://www.fiercehealthcare.com/providers/millie-unveil-first-several-joint-clinics-el-camino-health-bay-area",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-15T21:00:29.235213+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "72c0aa9838e7",
+   "headline": "Trump administration advances plan for peptide drugs favored by RFK Jr.",
+   "summary": "U.S. health officials are moving ahead with a plan to allow specialty pharmacies to produce certain peptides, a class of largely unregulated injections favored by health secretary Robert F. Kennedy\u2026",
+   "url": "https://www.statnews.com/2026/10/15/trump-administration-advances-plan-peptides-rfk-jr/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-15T20:46:09+00:00",
+   "tickers": [],
+   "tag": "Policy",
+   "sectors": []
+  },
+  {
    "id": "0478f23a279d",
    "headline": "Medtronic Named to TIME Best Inventions of 2026 List for Stealth AXiS\u2122 surgical system and Corsano\u2122* multi-parameter wearable",
    "summary": "Annual list recognizes inventions making the world better and smarter GALWAY, Ireland, Oct. 15, 2026 /PRNewswire/ -- Medtronic plc (NYSE: MDT), a global leader in healthcare technology, today announced that the Stealth AXiS\u2122 surgical\u2026",
@@ -991,6 +1013,38 @@
    ]
   },
   {
+   "id": "54d443b8cb28",
+   "headline": "As chip stocks fall, investors are turning elsewhere in the market: Chart of the Day",
+   "summary": "Yahoo Finance Markets and Data Editor Jared Blikre takes a closer look at the latest market and sector action, highlighting what the sell-off in CoreWeave (CRWV) and chip stocks means for the rest of the market.",
+   "url": "https://finnhub.io/api/news?id=d354ceae5bd17c60de9d2be01a6d7f7ab88d2948dad79a1837d27e89a76c5d33",
+   "source": "Yahoo",
+   "published": "2026-10-15T19:46:25+00:00",
+   "tickers": [
+    "LLY",
+    "MRK",
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "6bbc9f93b7e7",
+   "headline": "MRNA Stock Hits Fresh 52-Week Highs As Goldman Raises Target Ahead Of Melanoma Data",
+   "summary": "Goldman Sachs analyst Salveen Richter raised the firm\u2019s price target on Moderna to $137 from $120 while maintaining a Neutral rating.",
+   "url": "https://finnhub.io/api/news?id=8c3da465e9e0bdb90c7940172faecbe1878e4269fe6803587001c2961d490742",
+   "source": "Yahoo",
+   "published": "2026-10-15T19:42:42+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "8f16626f5365",
    "headline": "Is Boston Scientific Stock Riskier Than It Was A Year Ago?",
    "summary": "Investors in Boston Scientific (BSX) hold stakes in a medical device maker that grew revenue 13.5% over the twelve months to June 2026. Yet the shares have lost 54.7% over the past year, trailing a 17.3% gain for the S&P 500. In August, a\u2026",
@@ -1002,11 +1056,27 @@
     "BDX",
     "BSX",
     "JNJ",
-    "MDT"
+    "MDT",
+    "SYK"
    ],
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "157950f12a95",
+   "headline": "What Could Merck (MRK) Reveal At ESMO 2026 About Its Oncology Pipeline?",
+   "summary": "Merck (NYSE:MRK) plans to unveil first-time pivotal Phase 3 oncology data at ESMO 2026, including melanoma and endometrial cancer trials. The company will share late-breaking results from multiple oncology pipeline programs that extend\u2026",
+   "url": "https://finnhub.io/api/news?id=8f0d78d8d5689e7fbdbb1090314c843e5e4db03b72a98e036f4960d0e46006f5",
+   "source": "Yahoo",
+   "published": "2026-10-15T19:11:58+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1025,6 +1095,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "e7108030a279",
+   "headline": "Is FDA-Cleared Sonopet 3 Transforming the Investment Case for Stryker\u2019s Surgical Platform Strategy (SYK)?",
+   "summary": "Earlier this month, Stryker received FDA 510(k) clearance for Sonopet 3, its new ultrasonic bone and soft tissue removal platform, incorporating surgeon-driven enhancements in power, precision, workflow integration and connectivity ahead\u2026",
+   "url": "https://finnhub.io/api/news?id=851e534a5e6a03f15fee92299f9d1ab986b20b247aa02d056261b277eaa2bea7",
+   "source": "Yahoo",
+   "published": "2026-10-15T19:09:20+00:00",
+   "tickers": [
+    "SYK"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -1052,6 +1137,36 @@
    "tag": "M&A",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "5591ae474fb8",
+   "headline": "Why Healthcare Stocks Are Hot When the AI Trade Runs Cold",
+   "summary": "Healthcare\u2014particularly equipment and services and pharmaceuticals\u2014offers investors diversification from AI, according to one report.",
+   "url": "https://finnhub.io/api/news?id=81b254992898a9e4132d7630e84ee5558946533c83c364e55f85fdf8c479a470",
+   "source": "Yahoo",
+   "published": "2026-10-15T18:14:00+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "1721717cf38d",
+   "headline": "Eli Lilly (LLY) Reported One Year Steroid Free Control In Difficult IBD",
+   "summary": "Eli Lilly (NYSE: LLY) reported new clinical analyses showing its Omvoh therapy achieved corticosteroid free disease control at one year in ulcerative colitis and Crohn's disease. The data include patients with difficult to treat\u2026",
+   "url": "https://finnhub.io/api/news?id=8a8d14698120ff9b579a9d1d38ac89767f5a86c587f8ad1f4127df9a3242bcfb",
+   "source": "Yahoo",
+   "published": "2026-10-15T18:13:33+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1188,7 +1303,8 @@
    "source": "Yahoo",
    "published": "2026-10-15T17:17:00+00:00",
    "tickers": [
-    "BMY"
+    "BMY",
+    "GILD"
    ],
    "tag": "News",
    "sectors": [
@@ -1357,6 +1473,22 @@
     "BMY"
    ],
    "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "342558e274f8",
+   "headline": "Recursion: Maintaining 'Hold' On REC-4881 End 2026 Program Update And Collaboration Candidates In Play",
+   "summary": "Recursion Pharmaceuticals is maintained at a \"Hold\" rating. Read the latest analysis here on RXRX stock.",
+   "url": "https://finnhub.io/api/news?id=4124338b463f936d6687120a613ce1c3d8011f7d64c322ae176150e7753da466",
+   "source": "SeekingAlpha",
+   "published": "2026-10-15T16:09:45+00:00",
+   "tickers": [
+    "RXRX",
+    "SNY"
+   ],
+   "tag": "News",
    "sectors": [
     "pharma"
    ]
@@ -2370,6 +2502,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "767e605a0bf4",
+   "headline": "IDEXX Laboratories\u2019 Q3 2026 Earnings: What to Expect",
+   "summary": "IDEXX Laboratories is set to report its Q3 results next month, with analysts expecting single-digit year-over-year EPS growth.",
+   "url": "https://finnhub.io/api/news?id=365623aeec17f10dbfe574f9c669d348f2a52d20204521f065fbb56c98328562",
+   "source": "Yahoo",
+   "published": "2026-10-15T12:51:57+00:00",
+   "tickers": [
+    "IDXX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -4941,6 +5088,21 @@
    "headline": "Nasdaq Sheds 1.65% as Russell 2000 Sinks to RSI 28, Oil Climbs While Gold and Silver Slide",
    "summary": "Stocks skidded midweek as the Nasdaq Composite dropped 449 points, or 1.65%, to 26,755.24, pulling its weekly loss to 2.23%. The S&P 500 fell 1.10% on the day and 1.18% for the week, while the Russell 2000 tumbled 1.70% and now carries an\u2026",
    "url": "https://finnhub.io/api/news?id=bba9e704787248022ab3a825a38de7555bdc9574246e03fa902039829411d491",
+   "source": "Yahoo",
+   "published": "2026-10-14T17:39:00+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "38a84abdcbed",
+   "headline": "Nasdaq Sheds 1.65% as Russell 2000 Sinks to RSI 28, Oil Climbs While Gold and Silver Slide",
+   "summary": "Stocks skidded midweek as the Nasdaq Composite dropped 449 points, or 1.65%, to 26,755.24, pulling its weekly loss to 2.23%. The S&P 500 fell 1.10% on the day and 1.18% for the week, while the Russell 2000 tumbled 1.70% and now carries an\u2026",
+   "url": "https://finnhub.io/api/news?id=010b0ef8e51dd6241f03da3a42ad6fbd10616bd535775dc83ec3fb6057b03481",
    "source": "Yahoo",
    "published": "2026-10-14T17:39:00+00:00",
    "tickers": [
