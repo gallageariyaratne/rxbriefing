@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-15T12:47:17.910913+00:00",
+ "updated": "2026-10-15T13:02:44.659948+00:00",
  "quotes": {
   "ABBV": {
    "price": 283.48,
@@ -46,10 +46,6 @@
    "price": 43,
    "change_pct": -0.72
   },
-  "CAH": {
-   "price": 247.74,
-   "change_pct": 3.35
-  },
   "CI": {
    "price": 289.58,
    "change_pct": 2.5
@@ -73,6 +69,10 @@
   "DNLI": {
    "price": 17.87,
    "change_pct": -2.88
+  },
+  "DVA": {
+   "price": 180.7,
+   "change_pct": -0.76
   },
   "DXCM": {
    "price": 83.47,
@@ -157,10 +157,6 @@
   "MEDP": {
    "price": 616.63,
    "change_pct": 1.11
-  },
-  "MOH": {
-   "price": 209.19,
-   "change_pct": -0.15
   },
   "MRK": {
    "price": 147.37,
@@ -261,10 +257,6 @@
   "VEEV": {
    "price": 297.35,
    "change_pct": -1.42
-  },
-  "VKTX": {
-   "price": 25.47,
-   "change_pct": -4.43
   },
   "WAY": {
    "price": 26.87,
@@ -886,6 +878,36 @@
  },
  "stories": [
   {
+   "id": "7a241a0ad41a",
+   "headline": "DaVita Brings New Clinical Research to ASN Kidney Week 2026, Advancing Evidence for the Next Era of Kidney Care",
+   "summary": "Seven studies spanning middle molecule clearance, home dialysis and patient experience highlight DaVita's commitment to translating innovation into better care DENVER, Oct. 15, 2026 /PRNewswire/ -- DaVita will present seven studies at the\u2026",
+   "url": "https://www.prnewswire.com/news-releases/davita-brings-new-clinical-research-to-asn-kidney-week-2026-advancing-evidence-for-the-next-era-of-kidney-care-302909490.html",
+   "source": "PR Newswire",
+   "published": "2026-10-15T13:00:00+00:00",
+   "tickers": [
+    "DVA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "52402a70bc48",
+   "headline": "Moderna Stock Is Soaring on Cancer Vaccine Buzz. Is It Too Late to Get In?",
+   "summary": "Moderna has surged more than 650% this year on cancer vaccine excitement, but analyst targets sit far below the current share price. Before you chase the rally, there are some uncomfortable numbers you need to see first.",
+   "url": "https://finnhub.io/api/news?id=8050d0fb56e874bfe36f92adcec961a5cef1c04ef7a04d0718b18aa317f99178",
+   "source": "Yahoo",
+   "published": "2026-10-15T12:20:48+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "d011df7b9dc7",
    "headline": "Compass puts treatment-resistant depression on the map with first awareness day",
    "summary": "Compass Pathways has partnered with mental health organizations on the first-ever awareness day for treatment-resistant depression.",
@@ -986,7 +1008,8 @@
    "source": "Yahoo",
    "published": "2026-10-15T11:57:45+00:00",
    "tickers": [
-    "CVS"
+    "CVS",
+    "OPCH"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -1013,7 +1036,8 @@
    "published": "2026-10-15T11:52:35+00:00",
    "tickers": [
     "HALO",
-    "HUM"
+    "HUM",
+    "LLY"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -1058,6 +1082,7 @@
    "source": "Yahoo",
    "published": "2026-10-15T11:02:20+00:00",
    "tickers": [
+    "MRK",
     "UNH"
    ],
    "tag": "Health AI",
@@ -1078,6 +1103,21 @@
    "tag": "Clinical",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "5045ac66d1ba",
+   "headline": "Adlai Nortye Enters into Clinical Collaboration with Lilly and Merck KGaA, Darmstadt, Germany to Evaluate Combination of AN4035 and Cetuximab",
+   "summary": "AN4035, a first-in-class investigational pan-RAS(ON) inhibitor-based ADC, will be evaluated as monotherapy and in combination with cetuximab in the ongoing global Phase I trial Cetuximab will be supplied by Lilly for the U.S. trial sites\u2026",
+   "url": "https://finnhub.io/api/news?id=c226dcd8710ae2f164ce9ec2d5902a8f1cc4053c9c102e09628c78a16d3f64d0",
+   "source": "Yahoo",
+   "published": "2026-10-15T11:00:00+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1146,6 +1186,21 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "a2bf784f5e98",
+   "headline": "Arrowhead Pharmaceuticals: ARO-MAPT Results Unlock A New Platform",
+   "summary": "",
+   "url": "https://finnhub.io/api/news?id=9b328f3a9cf99637ab5347e872d1909f863d081eb03e438f7e2ad16fa8f84749",
+   "source": "SeekingAlpha",
+   "published": "2026-10-15T08:38:34+00:00",
+   "tickers": [
+    "IONS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
