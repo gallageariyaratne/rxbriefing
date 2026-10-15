@@ -1,19 +1,7 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-15T12:17:16.606516+00:00",
+ "updated": "2026-10-15T12:32:36.469348+00:00",
  "quotes": {
-  "ABBV": {
-   "price": 283.48,
-   "change_pct": 3.32
-  },
-  "ABT": {
-   "price": 102.97,
-   "change_pct": 0.35
-  },
-  "ALNY": {
-   "price": 224.47,
-   "change_pct": 0.29
-  },
   "AMGN": {
    "price": 426.11,
    "change_pct": 3.21
@@ -214,6 +202,10 @@
    "price": 178.2,
    "change_pct": 1.58
   },
+  "RMD": {
+   "price": 235.29,
+   "change_pct": 0.11
+  },
   "RVMD": {
    "price": 193.52,
    "change_pct": 2.7
@@ -225,10 +217,6 @@
   "SNY": {
    "price": 39.77,
    "change_pct": 1.66
-  },
-  "SRPT": {
-   "price": 16.83,
-   "change_pct": 1.94
   },
   "SYK": {
    "price": 281.62,
@@ -938,6 +926,21 @@
    "sectors": []
   },
   {
+   "id": "72af27afb64f",
+   "headline": "Dow Jones Futures Rise, But AI Sell-Off Continues On Anthropic News; Taiwan Semiconductor Earnings Strong",
+   "summary": "Dow Jones futures rose but the AI sell-off continues following Anthropic revenue figures. Taiwan Semiconductor earnings beat.",
+   "url": "https://finnhub.io/api/news?id=7bd625a98ecd006df283abd676950d910f0b8ff67434299ef1236ee5fdcd9f1a",
+   "source": "Yahoo",
+   "published": "2026-10-15T12:07:12+00:00",
+   "tickers": [
+    "HALO"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "a22e389f87a2",
    "headline": "New composite outcomes data show patients treated with Lilly's Omvoh (mirikizumab-mrkz) achieved comprehensive corticosteroid-free disease control in ulcerative colitis and corticosteroid-free deep remission in Crohn's disease at one year",
    "summary": "In LUCENT-2, more than one in four (27.7%) Omvoh-treated patients with ulcerative colitis achieved comprehensive disease control, a novel composite outcome defined by simultaneous symptomatic, endoscopic and histologic remission,\u2026",
@@ -965,6 +968,21 @@
    "tag": "News",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "e1650311d52c",
+   "headline": "TD Cowen Picks 4 Pharmacy Stocks With Attractive Q3 Setups",
+   "summary": "Investing.com -- TD Cowen maintains a positive outlook on the pharmacy benefit manager (PBM) and pharmacy sector heading into the third quarter, citing healthy specialty pharmacy trends and favorable managed care organization commentary\u2026",
+   "url": "https://finnhub.io/api/news?id=82c3a20c3e939a7db532dffeef549726185e2b56da959de67396e8fa4a9f4647",
+   "source": "Yahoo",
+   "published": "2026-10-15T11:57:45+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -1356,6 +1374,21 @@
     "GMED"
    ],
    "tag": "FDA",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "8308da9280fb",
+   "headline": "ResMed\u2019s Quarterly Earnings Preview: What You Need to Know",
+   "summary": "ResMed is expected to release its fiscal Q1 earnings later this month, and analysts project a modest EPS rise.",
+   "url": "https://finnhub.io/api/news?id=47843a74e13b1e1a75a1fd177bd7441e5caf90dba56449207bb3529d94fe9f01",
+   "source": "Yahoo",
+   "published": "2026-10-15T04:04:41+00:00",
+   "tickers": [
+    "RMD"
+   ],
+   "tag": "Earnings",
    "sectors": [
     "medtech"
    ]
