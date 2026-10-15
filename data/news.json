@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-15T01:32:33.334088+00:00",
+ "updated": "2026-10-15T01:47:48.484553+00:00",
  "quotes": {
   "A": {
    "price": 174,
@@ -17,6 +17,10 @@
   "ALGN": {
    "price": 144.44,
    "change_pct": 0.63
+  },
+  "ALHC": {
+   "price": 8.23,
+   "change_pct": -0.84
   },
   "ALNY": {
    "price": 224.47,
@@ -129,6 +133,10 @@
   "GILD": {
    "price": 153.54,
    "change_pct": 3.8
+  },
+  "GKOS": {
+   "price": 167.89,
+   "change_pct": 1.44
   },
   "GMED": {
    "price": 76.31,
@@ -936,6 +944,21 @@
    "sectors": []
   },
   {
+   "id": "ea18a8b83bfc",
+   "headline": "Iambic, an AI drug discovery specialist, banks $150M in an IPO",
+   "summary": "Part of a wave of young biotechs employing AI to accelerate research, the company claimed in regulatory filings that its approach has the potential to \u201cdisrupt legacy drug discovery paradigms.\u201d",
+   "url": "https://finnhub.io/api/news?id=2345baf9c8a491b271a7e516d4064310a4eece764da12200d1e1f845ece6ce42",
+   "source": "Yahoo",
+   "published": "2026-10-15T00:08:00+00:00",
+   "tickers": [
+    "ILMN"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "65b8bfb4b4ac",
    "headline": "Compass Pathways CEO: Psychedelics company will \u2018go slow before we go fast\u2019",
    "summary": "The CEO of Compass Pathways said the company, whose psychedelic therapy is set for regulatory review this year, is prepared to \u201cgo slow before we go fast.\u201d",
@@ -955,6 +978,7 @@
    "published": "2026-10-14T23:48:45+00:00",
    "tickers": [
     "HALO",
+    "HUM",
     "LLY"
    ],
    "tag": "Earnings",
@@ -1019,6 +1043,21 @@
    ]
   },
   {
+   "id": "54c3c57e07b6",
+   "headline": "Global Restructuring And US Biologics Bet Could Be A Game Changer For GSK (LSE:GSK)",
+   "summary": "In recent weeks, GSK has begun implementing large-scale job cuts in Belgium and closing a German vaccine site as part of a broader US$2.50 billion global restructuring to streamline operations and refocus capital on its late-stage\u2026",
+   "url": "https://finnhub.io/api/news?id=14ba0c800ade2e518edfcb1f4931d0059c72db58170f440c0105c6d6f0141bb5",
+   "source": "Yahoo",
+   "published": "2026-10-14T22:16:16+00:00",
+   "tickers": [
+    "GSK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "d246a164bb8e",
    "headline": "As White House shifts focus toward AI and tech, U.S. science leaders defend role of the American university",
    "summary": "White House planned shift of research funding from universities to industry risks creating a drought in basic research, science leaders say",
@@ -1038,8 +1077,10 @@
    "published": "2026-10-14T21:45:48+00:00",
    "tickers": [
     "ABBV",
+    "AMGN",
     "BMY",
     "MRK",
+    "PFE",
     "REGN"
    ],
    "tag": "Earnings",
@@ -1587,6 +1628,21 @@
    ]
   },
   {
+   "id": "26151274f68e",
+   "headline": "GSK (LSE:GSK) Following Its ADS Filing And The Case For Undervaluation",
+   "summary": "GSK (LSE:GSK) has put fresh capital plans on the table, filing a US shelf registration for up to $3.0498b of American Depositary Shares tied to its employee share ownership plans. GSK shares trade at \u00a318.16 after a 1-day share price\u2026",
+   "url": "https://finnhub.io/api/news?id=98f4b6811cc8bda11e983af35c99f0b57d2b7155b32b1b2ad88c6afda7b7bfbb",
+   "source": "Yahoo",
+   "published": "2026-10-14T18:11:59+00:00",
+   "tickers": [
+    "GSK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "94bf1d5f6a08",
    "headline": "Most active S&P500 stocks in Wednesday's session",
    "summary": "Looking for the most active S&P500 stocks in today's session? Join us as we dive into the US markets on Wednesday and discover the stocks that are dominating the trading activity and setting the pace for the market.",
@@ -1802,6 +1858,21 @@
    ]
   },
   {
+   "id": "ecbc4973a1d4",
+   "headline": "GSK (LSE:GSK) Plans $800 Million Pennsylvania Expansion",
+   "summary": "GSK (LSE:GSK) plans a US$800 million expansion of its biopharmaceutical manufacturing campus in Pennsylvania, announced in October 2026. The project is expected to add over 300 permanent roles, focused on high-skill biopharmaceutical\u2026",
+   "url": "https://finnhub.io/api/news?id=ae2fc51d211eb232dfce5261a4dc799ae14cf7410362c65b73cfea984ae76fd8",
+   "source": "Yahoo",
+   "published": "2026-10-14T17:10:38+00:00",
+   "tickers": [
+    "GSK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "f1b41527ecca",
    "headline": "What Does Gilead Sciences (GILD) Gain From Its New Solid Tumor Partnership?",
    "summary": "Gilead Sciences (NasdaqGS:GILD) announced a collaboration with Vir Biotechnology to develop novel T cell engagers for solid tumors. The agreement grants Gilead exclusive rights to further develop and commercialize T cell engager\u2026",
@@ -1906,6 +1977,7 @@
    "source": "Yahoo",
    "published": "2026-10-14T16:36:00+00:00",
    "tickers": [
+    "GKOS",
     "GMED"
    ],
    "tag": "News",
@@ -3758,6 +3830,21 @@
    ]
   },
   {
+   "id": "48d8716313c4",
+   "headline": "Alignment Healthcare to Announce Third Quarter 2026 Financial Results and Host Conference Call Thursday, Oct. 29, 2026",
+   "summary": "ORANGE, Calif., Oct. 14, 2026 (GLOBE NEWSWIRE) -- Alignment Healthcare, Inc. (NASDAQ: ALHC), will release its third quarter 2026 financial results on Thursday, Oct. 29, 2026, after market close. Following the release, the company will\u2026",
+   "url": "https://finnhub.io/api/news?id=bb5c27762f82c65754e6d1273d3342b761a699699a762c57f8090e72db455f2c",
+   "source": "Yahoo",
+   "published": "2026-10-14T12:00:00+00:00",
+   "tickers": [
+    "ALHC"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "2e654d40185c",
    "headline": "Eli Lilly and Company Earnings Preview: What to Expect",
    "summary": "Eli Lilly and Company is set to report its Q3 results soon, with analysts anticipating single-digit EPS growth alongside continued earnings growth.",
@@ -4045,6 +4132,21 @@
    "tag": "Policy",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "c8de8d85b19c",
+   "headline": "Insmed to Present New Data Across Its Respiratory Portfolio at CHEST 2026 and IDWeek 2026",
+   "summary": "Insmed Incorporated (Nasdaq: INSM), a people-first global biopharmaceutical company striving to deliver first- and best-in-class therapies to transform the lives of patients facing serious diseases, today announced new data from its\u2026",
+   "url": "https://finnhub.io/api/news?id=81adc8b20d93f0679c30de92bc2893c3dc71a0ca9dcf09f29ea0ecc76db0a9fb",
+   "source": "Yahoo",
+   "published": "2026-10-14T11:00:00+00:00",
+   "tickers": [
+    "INSM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
