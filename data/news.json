@@ -1,7 +1,19 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-15T12:32:36.469348+00:00",
+ "updated": "2026-10-15T12:47:17.910913+00:00",
  "quotes": {
+  "ABBV": {
+   "price": 283.48,
+   "change_pct": 3.32
+  },
+  "ABT": {
+   "price": 102.97,
+   "change_pct": 0.35
+  },
+  "ALNY": {
+   "price": 224.47,
+   "change_pct": 0.29
+  },
   "AMGN": {
    "price": 426.11,
    "change_pct": 3.21
@@ -69,10 +81,6 @@
   "ELV": {
    "price": 428.09,
    "change_pct": 0.66
-  },
-  "GEHC": {
-   "price": 68.47,
-   "change_pct": -0.47
   },
   "GH": {
    "price": 162.99,
@@ -926,21 +934,6 @@
    "sectors": []
   },
   {
-   "id": "72af27afb64f",
-   "headline": "Dow Jones Futures Rise, But AI Sell-Off Continues On Anthropic News; Taiwan Semiconductor Earnings Strong",
-   "summary": "Dow Jones futures rose but the AI sell-off continues following Anthropic revenue figures. Taiwan Semiconductor earnings beat.",
-   "url": "https://finnhub.io/api/news?id=7bd625a98ecd006df283abd676950d910f0b8ff67434299ef1236ee5fdcd9f1a",
-   "source": "Yahoo",
-   "published": "2026-10-15T12:07:12+00:00",
-   "tickers": [
-    "HALO"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
    "id": "a22e389f87a2",
    "headline": "New composite outcomes data show patients treated with Lilly's Omvoh (mirikizumab-mrkz) achieved comprehensive corticosteroid-free disease control in ulcerative colitis and corticosteroid-free deep remission in Crohn's disease at one year",
    "summary": "In LUCENT-2, more than one in four (27.7%) Omvoh-treated patients with ulcerative colitis achieved comprehensive disease control, a novel composite outcome defined by simultaneous symptomatic, endoscopic and histologic remission,\u2026",
@@ -961,6 +954,21 @@
    "summary": "WARREN, N.J., Oct. 15, 2026 /PRNewswire/ -- PTC Therapeutics, Inc. (NASDAQ: PTCT) announced today that the company will host a webcast conference call to report its third quarter 2026 financial results and provide a business update on\u2026",
    "url": "https://www.prnewswire.com/news-releases/ptc-therapeutics-to-report-third-quarter-2026-financial-results-on-thursday-oct-29-2026-302909259.html",
    "source": "PR Newswire",
+   "published": "2026-10-15T12:00:00+00:00",
+   "tickers": [
+    "PTCT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "9f694facf38d",
+   "headline": "PTC Therapeutics to Report Third Quarter 2026 Financial Results on Thursday, Oct. 29, 2026",
+   "summary": "PTC Therapeutics, Inc. (NASDAQ: PTCT) announced today that the company will host a webcast conference call to report its third quarter 2026 financial results and provide a business update on Thursday, Oct. 29, 2026, at 4:30 p.m. ET.",
+   "url": "https://finnhub.io/api/news?id=339ba8c09a331c9cd87ff176adc88f97bc0a30f0abae46a69f39e680bf18fe42",
+   "source": "Yahoo",
    "published": "2026-10-15T12:00:00+00:00",
    "tickers": [
     "PTCT"
@@ -997,6 +1005,22 @@
    "sectors": []
   },
   {
+   "id": "72af27afb64f",
+   "headline": "Dow Jones Futures Rise, But AI Sell-Off Continues On Anthropic News; Taiwan Semiconductor Earnings Strong",
+   "summary": "Dow Jones futures rose but the AI sell-off continues following Anthropic revenue figures. Taiwan Semiconductor earnings beat.",
+   "url": "https://finnhub.io/api/news?id=7bd625a98ecd006df283abd676950d910f0b8ff67434299ef1236ee5fdcd9f1a",
+   "source": "Yahoo",
+   "published": "2026-10-15T11:52:35+00:00",
+   "tickers": [
+    "HALO",
+    "HUM"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "a300570818ee",
    "headline": "Labcorp Enters into Agreement with OPKO Health to Acquire Select Assets of BioReference Health",
    "summary": "Acquisition will expand access to clinical laboratory services, including a broad specialty testing menu for patients and providers nationwide BURLINGTON, N.C. and MIAMI, Fla., Oct. 15, 2026 /PRNewswire/ -- Labcorp (NYSE: LH), a global\u2026",
@@ -1022,6 +1046,21 @@
     "LH"
    ],
    "tag": "M&A",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "b4f8833c3cf1",
+   "headline": "AI Fears Grip Markets as Tech Rotation Accelerates",
+   "summary": "As we enter the spooky season markets got an early fright as the tech stocks rotation accelerated alongside the fallout from a hot inflation reading.",
+   "url": "https://finnhub.io/api/news?id=d805b7dc131780ee28881ee734acf8fc6197a6217c18c94c705090899557bd20",
+   "source": "Yahoo",
+   "published": "2026-10-15T11:02:20+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "tag": "Health AI",
    "sectors": [
     "payers"
    ]
