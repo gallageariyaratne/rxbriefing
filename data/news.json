@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-15T01:02:31.080013+00:00",
+ "updated": "2026-10-15T01:17:33.123423+00:00",
  "quotes": {
   "A": {
    "price": 174,
@@ -122,6 +122,10 @@
    "price": 68.47,
    "change_pct": -0.47
   },
+  "GH": {
+   "price": 162.99,
+   "change_pct": 0.56
+  },
   "GILD": {
    "price": 153.54,
    "change_pct": 3.8
@@ -177,6 +181,10 @@
   "LLY": {
    "price": 1208.74,
    "change_pct": 3.62
+  },
+  "MCK": {
+   "price": 976.57,
+   "change_pct": 1.53
   },
   "MDT": {
    "price": 94.23,
@@ -1001,7 +1009,8 @@
    "tickers": [
     "ABBV",
     "BMY",
-    "MRK"
+    "MRK",
+    "REGN"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -1104,6 +1113,21 @@
    ]
   },
   {
+   "id": "f47394af3b34",
+   "headline": "McKesson (MCK) Ascends While Market Falls: Some Facts to Note",
+   "summary": "McKesson (MCK) reached $976.57 at the closing of the latest trading day, reflecting a +1.53% change compared to its last close.",
+   "url": "https://finnhub.io/api/news?id=8e9f1a1670e3f0040a3860261c4bc58ee6d6df9dac8210fb321220847b0976f9",
+   "source": "Yahoo",
+   "published": "2026-10-14T21:00:03+00:00",
+   "tickers": [
+    "MCK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
+  {
    "id": "a88ed479f6bf",
    "headline": "What Could BSX Stock Be Worth In Three Years?",
    "summary": "Boston Scientific (BSX) stock currently trades at 17.2 times earnings. This compares to an average multiple of 55.9 over the last twelve quarter-ends, excluding readings above a hundred. Investors evaluating the stock must look ahead to\u2026",
@@ -1187,6 +1211,7 @@
    "source": "Yahoo",
    "published": "2026-10-14T20:28:00+00:00",
    "tickers": [
+    "AZN",
     "HALO"
    ],
    "tag": "Health AI",
@@ -2136,6 +2161,21 @@
    ]
   },
   {
+   "id": "a1c5402094a2",
+   "headline": "European Equities Traded in the US as American Depositary Receipts Edge Lower in Wednesday Trading",
+   "summary": "European equities traded in the US as American depositary receipts were marginally lower late Wednes",
+   "url": "https://finnhub.io/api/news?id=b2f92006b700d69808e37e7dd0f48d4d1b29e3c38679b314b58f7b1c8fba7a1a",
+   "source": "Yahoo",
+   "published": "2026-10-14T15:10:05+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "751043f6a5e1",
    "headline": "Will Danaher (DHR) Beat Estimates Again in Its Next Earnings Report?",
    "summary": "Danaher (DHR) has an impressive earnings surprise history and currently possesses the right combination of the two key ingredients for a likely beat in its next quarterly report.",
@@ -2227,6 +2267,7 @@
    "source": "Yahoo",
    "published": "2026-10-14T15:00:00+00:00",
    "tickers": [
+    "AZN",
     "UNH"
    ],
    "tag": "Health AI",
@@ -2455,6 +2496,21 @@
    ]
   },
   {
+   "id": "80fd9d6cd458",
+   "headline": "ALF Celebrates Five Decades of Impact at 50th Anniversary National Legacy Gala",
+   "summary": "American Liver Foundation (ALF) will commemorate five decades of service to patients and families as well as medical professionals and leading organizations at its 50th Anniversary National Legacy Gala on Wednesday, Oct. 28, at Gotham\u2026",
+   "url": "https://finnhub.io/api/news?id=448c0accbd9a3ed019526c893adfde7bed930ad1976a3fc197ad3e667000c1c4",
+   "source": "Yahoo",
+   "published": "2026-10-14T14:22:00+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "cae2dc4b2763",
    "headline": "LQDA Stock Rockets 40% Today \u2013 BTIG Calls United Therapeutics Settlement \u2018Better Than Best-Case Scenario\u2019",
    "summary": "LifeSci Capital said the agreement removes a major obstacle that could have discouraged potential buyers from pursuing an acquisition of Liquidia.",
@@ -2488,7 +2544,8 @@
    "source": "Yahoo",
    "published": "2026-10-14T14:14:50+00:00",
    "tickers": [
-    "AMGN"
+    "AMGN",
+    "AZN"
    ],
    "tag": "Clinical",
    "sectors": [
@@ -2561,6 +2618,21 @@
    "tickers": [],
    "tag": "Legal",
    "sectors": []
+  },
+  {
+   "id": "eb7d7ee3500d",
+   "headline": "Liquid Biopsy Market Research to Reach USD 27.42 Billion by 2035 as Cancer Blood Tests, AI Diagnostics and Precision Oncology Advance",
+   "summary": "Latest Market Data and Industry News: Guardant Health Expands Companion Diagnostics, While Grail's Galleri Moves Closer to a Potential FDA Decision by Towards Healthcare, a sister firm of Precedence ResearchOttawa, Oct. 14, 2026 (GLOBE\u2026",
+   "url": "https://finnhub.io/api/news?id=56824418124aeacecfe0cc8cd93f6259901e89a6137f8cda8a8e44259dd3b466",
+   "source": "Yahoo",
+   "published": "2026-10-14T14:00:00+00:00",
+   "tickers": [
+    "GH"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "tools"
+   ]
   },
   {
    "id": "7b18b5812729",
@@ -2663,6 +2735,7 @@
    "source": "Yahoo",
    "published": "2026-10-14T13:46:00+00:00",
    "tickers": [
+    "AZN",
     "BMY",
     "MRK",
     "PFE"
