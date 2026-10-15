@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-15T08:47:34.912767+00:00",
+ "updated": "2026-10-15T09:02:42.197063+00:00",
  "quotes": {
   "A": {
    "price": 174,
@@ -234,6 +234,10 @@
    "price": 146.88,
    "change_pct": 3.14
   },
+  "OPCH": {
+   "price": 31.12,
+   "change_pct": 0.06
+  },
   "OSCR": {
    "price": 34.32,
    "change_pct": 1.57
@@ -317,10 +321,6 @@
   "WAY": {
    "price": 26.87,
    "change_pct": 2.17
-  },
-  "ZBH": {
-   "price": 91.77,
-   "change_pct": -0.34
   }
  },
  "tickers": {
@@ -938,6 +938,47 @@
  },
  "stories": [
   {
+   "id": "52b487eb45f2",
+   "headline": "Rebranded Galapagos finally finds buyer for unwanted cell therapy pipeline",
+   "summary": "Lakefront Biotherapeutics\u2014the new name for Belgium\u2019s Galapagos Therapeutics\u2014has found a buyer for its unwanted cell therapy pipeline.",
+   "url": "https://www.fiercebiotech.com/biotech/rebranded-galapagos-finally-finds-buyer-unwanted-cell-therapy-pipeline",
+   "source": "Fierce Biotech",
+   "published": "2026-10-15T09:00:29.450705+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "db6178324a4c",
+   "headline": "Option Care Health (NASDAQ:OPCH): A Quality Investing Stock With Durable Growth and Strong Cash Generation",
+   "summary": "Option Care Health (OPCH) passes a quality screen with strong ROIC, EBIT growth and cash flow. See the full fundamental breakdown and risks.",
+   "url": "https://finnhub.io/api/news?id=1a401962d22161232b221ab1bae21c593fbdd57684adb29a04d311c58bb663f9",
+   "source": "ChartMill",
+   "published": "2026-10-15T08:41:09+00:00",
+   "tickers": [
+    "OPCH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "36518b548b6a",
+   "headline": "Merck & Co. (NYSE:MRK): A Quality Investing Case With Strong ROIC but Revenue Growth Concerns",
+   "summary": "Merck & Co. (MRK) quality investing analysis: strong ROIC, cash conversion, low debt/FCF, but revenue growth misses Caviar Cruise screen.",
+   "url": "https://finnhub.io/api/news?id=7d8c4f5e9906d8daf56691e3b6df0f1fb2257add117c1a699f2860e2809ea2c2",
+   "source": "ChartMill",
+   "published": "2026-10-15T08:31:26+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "bde9fa16f261",
    "headline": "Forty percent of high school students report binge eating in new CDC survey",
    "summary": "About 40% of high school students reported binge-eating in the past month in a new CDC survey, highlighting how widespread this form of disordered eating is among young people.",
@@ -969,6 +1010,22 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "508b3815b302",
+   "headline": "Stock Market Today: Hot Inflation and a Neocloud Shakeout Sink the Nasdaq",
+   "summary": "Hotter September inflation revived Fed hike bets and a Gartner warning crushed AI neoclouds. Pharma caught a bid, BlackRock hit a record, BofA got fined.",
+   "url": "https://finnhub.io/api/news?id=2207e6c4cebd8214810f97bad4d72147d15d8cfb1d750d8531729e492dec4984",
+   "source": "ChartMill",
+   "published": "2026-10-15T07:55:32+00:00",
+   "tickers": [
+    "LLY",
+    "MRK"
+   ],
+   "tag": "Legal",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "e2606e30a57e",
@@ -1107,7 +1164,8 @@
    "published": "2026-10-15T02:02:46+00:00",
    "tickers": [
     "ABBV",
-    "LLY"
+    "LLY",
+    "MRK"
    ],
    "tag": "News",
    "sectors": [
