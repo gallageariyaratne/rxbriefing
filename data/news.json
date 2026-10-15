@@ -1,11 +1,7 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-15T11:02:41.185022+00:00",
+ "updated": "2026-10-15T11:17:23.386794+00:00",
  "quotes": {
-  "A": {
-   "price": 174,
-   "change_pct": 1.4
-  },
   "ABBV": {
    "price": 283.48,
    "change_pct": 3.32
@@ -150,6 +146,10 @@
    "price": 271.76,
    "change_pct": 0.22
   },
+  "INSM": {
+   "price": 97.79,
+   "change_pct": 1.03
+  },
   "IONS": {
    "price": 42.7,
    "change_pct": 0.76
@@ -289,10 +289,6 @@
   "VKTX": {
    "price": 25.47,
    "change_pct": -4.43
-  },
-  "VRTX": {
-   "price": 498.5,
-   "change_pct": 2.74
   },
   "WAY": {
    "price": 26.87,
@@ -917,6 +913,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "cc3f5d30670c",
+   "headline": "Insmed Features the Global Phase 3 PALM Clinical Development Program Evaluating Treprostinil Palmitil Inhalation Powder (TPIP) at CHEST 2026",
+   "summary": "\u2014Insmed's Largest Parallel-Running Clinical Effort to Date With Four Pivotal Phase 3 Studies Advancing Across Four Progressive Pulmonary Diseases: PALM-PAH, PALM-ILD, PALM-PPF, and PALM-IPF\u2014 \u2014One of the Broadest Active Global Clinical\u2026",
+   "url": "https://www.prnewswire.com/news-releases/insmed-features-the-global-phase-3-palm-clinical-development-program-evaluating-treprostinil-palmitil-inhalation-powder-tpip-at-chest-2026-302909246.html",
+   "source": "PR Newswire",
+   "published": "2026-10-15T11:00:00+00:00",
+   "tickers": [
+    "INSM"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
+   ]
+  },
   {
    "id": "e6b2baa0d9fe",
    "headline": "STAT+: On Wall Street, there\u2019s trouble stirring for biotech",
