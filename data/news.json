@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-15T21:02:51.532511+00:00",
+ "updated": "2026-10-15T21:17:44.903185+00:00",
  "quotes": {
   "ABBV": {
    "price": 283.4,
@@ -81,10 +81,6 @@
   "COR": {
    "price": 341.41,
    "change_pct": 1.56
-  },
-  "CRSP": {
-   "price": 51.52,
-   "change_pct": 2.59
   },
   "CVS": {
    "price": 92.58,
@@ -233,10 +229,6 @@
   "OSCR": {
    "price": 33.47,
    "change_pct": -2.48
-  },
-  "PACB": {
-   "price": 1.96,
-   "change_pct": -1.51
   },
   "PEN": {
    "price": 321.2,
@@ -930,6 +922,17 @@
  },
  "stories": [
   {
+   "id": "a7246bc64aaa",
+   "headline": "Clasp launches national marketplace for loan-linked hiring",
+   "summary": "Healthcare students can use the Clasp Marketplace to compare jobs by what each one pays toward their student loans, plus salaries. In order to post a job, an employer must commit money toward a student\u2019s debt.",
+   "url": "https://www.fiercehealthcare.com/providers/clasp-launches-national-marketplace-loan-linked-hiring",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-15T21:15:21.301921+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
    "id": "7d6f7fdfe279",
    "headline": "Millie to open first of several joint clinics with El Camino Health in the Bay Area",
    "summary": "The clinic will combine Millie\u2019s midwifery care model with El Camino\u2019s labor and delivery services and broader specialist network. The goal is to offer an integrated pregnancy, birth and postpartum experience.",
@@ -1147,6 +1150,7 @@
    "source": "Yahoo",
    "published": "2026-10-15T18:14:00+00:00",
    "tickers": [
+    "MOH",
     "MRK"
    ],
    "tag": "Health AI",
