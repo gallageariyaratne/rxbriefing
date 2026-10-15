@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-15T08:17:40.791388+00:00",
+ "updated": "2026-10-15T08:32:44.607126+00:00",
  "quotes": {
   "A": {
    "price": 174,
@@ -54,10 +54,6 @@
    "price": 188.89,
    "change_pct": 0.81
   },
-  "BEAM": {
-   "price": 23.65,
-   "change_pct": -3.19
-  },
   "BMRN": {
    "price": 55.14,
    "change_pct": 1.4
@@ -65,10 +61,6 @@
   "BMY": {
    "price": 59.28,
    "change_pct": 4.61
-  },
-  "BNTX": {
-   "price": 88.66,
-   "change_pct": -0.39
   },
   "BRKR": {
    "price": 55.6,
@@ -321,6 +313,14 @@
   "VRTX": {
    "price": 498.5,
    "change_pct": 2.74
+  },
+  "WAY": {
+   "price": 26.87,
+   "change_pct": 2.17
+  },
+  "ZBH": {
+   "price": 91.77,
+   "change_pct": -0.34
   }
  },
  "tickers": {
@@ -938,6 +938,54 @@
  },
  "stories": [
   {
+   "id": "bde9fa16f261",
+   "headline": "Forty percent of high school students report binge eating in new CDC survey",
+   "summary": "About 40% of high school students reported binge-eating in the past month in a new CDC survey, highlighting how widespread this form of disordered eating is among young people.",
+   "url": "https://www.statnews.com/2026/10/15/teenage-binge-eating-cdc-survey-finds-alarming-rate/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-15T08:30:00+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "521ebb105485",
+   "headline": "Opinion: MyChart said I could opt out of sharing my health data. Figuring out how was maddening",
+   "summary": "Want to opt out of sharing your personal health data? You may need a notary, writes Alex Rosenblat.",
+   "url": "https://www.statnews.com/2026/10/15/health-data-privacy-medical-record-opt-out-barriers-investigated/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-15T08:30:00+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "1bc019c99b3a",
+   "headline": "Opinion: My daughter\u2019s death changed how I understood the nursing shortage",
+   "summary": "Health systems invest in training, but lose early-career nurses within a few years.",
+   "url": "https://www.statnews.com/2026/10/15/nursing-shortage-workforce-direct-support-home-care-workers-group-home/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-15T08:30:00+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "e2606e30a57e",
+   "headline": "iOnctura appoints Paul Sekhri as Chair of its Board of Directors",
+   "summary": "Paul Sekhri is a life science executive with more than 35 years of experience building and leading companies from early development through commercializationAppointment comes as iOnctura prepares for late-stage development of roginolisib,\u2026",
+   "url": "https://finnhub.io/api/news?id=bb766b8ba219487182c42b09794d03a595b5a07678a1a20bbc7dfdd44b22478f",
+   "source": "Yahoo",
+   "published": "2026-10-15T07:30:00+00:00",
+   "tickers": [
+    "VEEV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "070ab2b9bac1",
    "headline": "Vanda pauses social anxiety program after ex-Novartis asset flunks phase 3 study",
    "summary": "A phase 3 trial of Vanda Pharmaceuticals\u2019 social anxiety disorder drug candidate has missed its primary endpoint, prompting the company to put the program on hold.",
@@ -962,6 +1010,21 @@
    "tickers": [],
    "tag": "Financing",
    "sectors": []
+  },
+  {
+   "id": "e40d6654399c",
+   "headline": "Is Globus Medical (GMED) Cheap On Its Spine Platform Reveal?",
+   "summary": "Globus Medical (GMED) is back in the spotlight after using the 41st Annual North American Spine Society Meeting to unveil its SCRIPT patient specific spinal implant platform and XLIF Prone Procedural Solution. Against that product\u2026",
+   "url": "https://finnhub.io/api/news?id=749d56c24490facbbd41893256eb20b77bb82cdd5ddc6f79a64faa0101b3ba92",
+   "source": "Yahoo",
+   "published": "2026-10-15T06:18:06+00:00",
+   "tickers": [
+    "GMED"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
   },
   {
    "id": "0d8650fec87a",
