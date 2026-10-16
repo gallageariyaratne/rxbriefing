@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-16T01:02:58.531209+00:00",
+ "updated": "2026-10-16T01:17:36.700361+00:00",
  "quotes": {
   "ABBV": {
    "price": 283.4,
@@ -138,6 +138,10 @@
    "price": 121.51,
    "change_pct": 4.01
   },
+  "HCAT": {
+   "price": 1.8,
+   "change_pct": 3.45
+  },
   "HUM": {
    "price": 432.2,
    "change_pct": 1.12
@@ -181,6 +185,10 @@
   "LEGN": {
    "price": 19.8,
    "change_pct": 3.99
+  },
+  "LFST": {
+   "price": 12.37,
+   "change_pct": -1.2
   },
   "LH": {
    "price": 325.07,
@@ -250,6 +258,10 @@
    "price": 60.99,
    "change_pct": 2.21
   },
+  "RARE": {
+   "price": 15.17,
+   "change_pct": 1.81
+  },
   "REGN": {
    "price": 796.34,
    "change_pct": 2.31
@@ -278,6 +290,10 @@
    "price": 19.45,
    "change_pct": 2.31
   },
+  "TEM": {
+   "price": 71.13,
+   "change_pct": 4.11
+  },
   "THC": {
    "price": 275.13,
    "change_pct": 1.3
@@ -305,10 +321,6 @@
   "VRTX": {
    "price": 508.75,
    "change_pct": 2.06
-  },
-  "ZTS": {
-   "price": 78.42,
-   "change_pct": 4.16
   }
  },
  "tickers": {
@@ -926,6 +938,21 @@
  },
  "stories": [
   {
+   "id": "70873545aa97",
+   "headline": "Regeneron Pharmaceuticals (REGN) Reports 84 Week Phase III Efficacy For FOP Treatment",
+   "summary": "Regeneron Pharmaceuticals (NasdaqGS:REGN) reported new Phase III OPTIMA data showing Pasatru maintained efficacy out to 84 weeks in adults with FOP. The 84 week results indicate Pasatru prevented new bone formation and cut disease flare\u2026",
+   "url": "https://finnhub.io/api/news?id=fbc077e9a4ab3360613f77d02ffb0a458b5c50bd11e5f78d0ee990db60c52855",
+   "source": "Yahoo",
+   "published": "2026-10-15T23:22:51+00:00",
+   "tickers": [
+    "REGN"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "80f52fd2cea9",
    "headline": "AbbVie (ABBV) Stock Could Be 44% Undervalued As Cancer Trial News Lands",
    "summary": "AbbVie has delivered strong share price gains in recent years, and the latest drug updates keep the story in the spotlight. The key issue for anyone looking at the stock today is whether that rally is still grounded in the cash it can\u2026",
@@ -1001,6 +1028,7 @@
    "source": "Yahoo",
    "published": "2026-10-15T22:11:58+00:00",
    "tickers": [
+    "REGN",
     "SNY"
    ],
    "tag": "Earnings",
@@ -1424,6 +1452,21 @@
    ]
   },
   {
+   "id": "fb0ba026d763",
+   "headline": "LifeStance to Host Third Quarter 2026 Earnings Conference Call on November 5, 2026",
+   "summary": "SCOTTSDALE, Ariz., Oct. 15, 2026 (GLOBE NEWSWIRE) -- LifeStance Health Group, Inc. (NASDAQ: LFST), one of the nation\u2019s largest providers of outpatient mental healthcare, will issue its third quarter 2026 earnings release before the market\u2026",
+   "url": "https://finnhub.io/api/news?id=380718e2f585769ebb1289d618d28ed890f19bcdd1287e510a2743b0ae9f05b1",
+   "source": "Yahoo",
+   "published": "2026-10-15T20:10:00+00:00",
+   "tickers": [
+    "LFST"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "ae8b975e7c06",
    "headline": "Exelixis to Release Third Quarter 2026 Financial Results on Thursday, October 29, 2026",
    "summary": "ALAMEDA, Calif., October 15, 2026--Exelixis, Inc. (Nasdaq: EXEL) announced today that its third quarter 2026 financial results will be released on Thursday, October 29, 2026, after the markets close. At 5:00 p.m. ET / 2:00 p.m. PT,\u2026",
@@ -1481,6 +1524,21 @@
    "tag": "News",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "93015abfa983",
+   "headline": "Tempus to Report Third Quarter 2026 Financial Results on November 2",
+   "summary": "CHICAGO, October 15, 2026--Tempus AI, Inc. (NASDAQ: TEM), a technology company leading the adoption of AI to advance precision medicine, today announced it will report financial results for the third quarter ended September 30, 2026,\u2026",
+   "url": "https://finnhub.io/api/news?id=ec8d111896682f21b47a54150466d20524b32c95839340a8285a5c95e9bfb0c0",
+   "source": "Yahoo",
+   "published": "2026-10-15T20:01:00+00:00",
+   "tickers": [
+    "TEM"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "healthai"
    ]
   },
   {
@@ -2134,6 +2192,21 @@
    "tag": "News",
    "sectors": [
     "healthit"
+   ]
+  },
+  {
+   "id": "62e6cadafadd",
+   "headline": "Data Analytics Stocks Q2 Results: Benchmarking Health Catalyst (NASDAQ:HCAT)",
+   "summary": "Let\u2019s dig into the relative performance of Health Catalyst (NASDAQ:HCAT) and its peers as we unravel the now-completed Q2 data analytics earnings season.",
+   "url": "https://finnhub.io/api/news?id=ed77dea44b037760e21d5181c62fb51cefd790217aa28ce914f2f9640b13c431",
+   "source": "Yahoo",
+   "published": "2026-10-15T16:00:27+00:00",
+   "tickers": [
+    "HCAT"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthai"
    ]
   },
   {
@@ -2845,6 +2918,21 @@
    "tag": "Health AI",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "a94906cf46a5",
+   "headline": "RARE's Fayuvi Approval Spurs Second PRV Sale Worth $203M in a Week",
+   "summary": "Ultragenyx agrees to sell its Fayuvi-linked PRV for $203 million, marking its second voucher sale in one week and adding non-dilutive funding for rare-disease programs.",
+   "url": "https://finnhub.io/api/news?id=165e17addfd6c1d8685ef1c9be403f201c5fa5cf85e8b665326658487f48646a",
+   "source": "Yahoo",
+   "published": "2026-10-15T13:33:00+00:00",
+   "tickers": [
+    "RARE"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "biotech"
    ]
   },
   {
