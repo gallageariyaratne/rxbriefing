@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-16T06:02:45.560472+00:00",
+ "updated": "2026-10-16T06:17:37.885563+00:00",
  "quotes": {
   "ABBV": {
    "price": 283.4,
@@ -45,10 +45,6 @@
   "BDX": {
    "price": 193.76,
    "change_pct": 2.58
-  },
-  "BEAM": {
-   "price": 24.73,
-   "change_pct": 4.57
   },
   "BIIB": {
    "price": 235.35,
@@ -321,6 +317,10 @@
   "VEEV": {
    "price": 313.03,
    "change_pct": 5.27
+  },
+  "VKTX": {
+   "price": 27.37,
+   "change_pct": 7.46
   }
  },
  "tickers": {
@@ -937,6 +937,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "85c87ee5bebe",
+   "headline": "Did Earnings Beat Just Shift Regeneron Stock Investment Narrative?",
+   "summary": "Regeneron Pharmaceuticals reported Q2 revenue of US$4.29b, up 16.7% year on year, alongside positive 84 week Phase 3 OPTIMA data for Pasatru in adults with fibrodysplasia ossificans progressiva. The data supports its recently approved use\u2026",
+   "url": "https://finnhub.io/api/news?id=015a003ea7d295b3c3f35a4431963d7727eae52994b410cb65d924e7fa632317",
+   "source": "Yahoo",
+   "published": "2026-10-16T05:20:03+00:00",
+   "tickers": [
+    "REGN"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
   {
    "id": "24c746499780",
    "headline": "Is Spine Tech Unveiling Altering The Investment Case For Globus Medical Stock?",
