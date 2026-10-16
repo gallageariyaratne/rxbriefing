@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-16T10:47:35.615854+00:00",
+ "updated": "2026-10-16T11:02:47.395360+00:00",
  "quotes": {
   "A": {
    "price": 175.55,
@@ -157,10 +157,6 @@
   "ILMN": {
    "price": 267.93,
    "change_pct": -1.41
-  },
-  "INSM": {
-   "price": 99.21,
-   "change_pct": 1.45
   },
   "IQV": {
    "price": 271.04,
@@ -321,6 +317,10 @@
   "VRTX": {
    "price": 508.75,
    "change_pct": 2.06
+  },
+  "ZTS": {
+   "price": 78.42,
+   "change_pct": 4.16
   }
  },
  "tickers": {
@@ -983,7 +983,8 @@
    "published": "2026-10-16T09:43:00+00:00",
    "tickers": [
     "A",
-    "ILMN"
+    "ILMN",
+    "TMO"
    ],
    "tag": "News",
    "sectors": [
@@ -1003,6 +1004,21 @@
    "tag": "Analyst",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "7cb20117133f",
+   "headline": "1 Stock Under $50 with Solid Fundamentals and 2 We Avoid",
+   "summary": "Stocks in the $10-50 range offer a sweet spot between affordability and stability as they\u2019re typically more established than penny stocks. But their headline prices don\u2019t guarantee quality, and investors should exercise caution as some\u2026",
+   "url": "https://finnhub.io/api/news?id=b67cec91e3aabee5fd12598223a026eec0944cb926fccaa67dec41ae6dc2481c",
+   "source": "Yahoo",
+   "published": "2026-10-16T09:23:39+00:00",
+   "tickers": [
+    "HIMS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
    ]
   },
   {
@@ -1044,11 +1060,27 @@
    "published": "2026-10-16T08:54:00+00:00",
    "tickers": [
     "DHR",
-    "ILMN"
+    "ILMN",
+    "TMO"
    ],
    "tag": "News",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "1da4a5901e8f",
+   "headline": "3 Inflated Stocks Walking a Fine Line",
+   "summary": "Each stock in this article is trading near its 52-week high. These elevated prices usually indicate some degree of investor confidence, business improvements, or favorable market conditions.",
+   "url": "https://finnhub.io/api/news?id=91c03800fd69a1ef7a8a63a2d2f767a6a3574c738dbfeb317100076099b272c1",
+   "source": "Yahoo",
+   "published": "2026-10-16T08:43:39+00:00",
+   "tickers": [
+    "GILD"
+   ],
+   "tag": "Legal",
+   "sectors": [
+    "pharma"
    ]
   },
   {
