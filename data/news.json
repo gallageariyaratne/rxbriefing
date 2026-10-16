@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-16T02:47:41.727427+00:00",
+ "updated": "2026-10-16T03:02:56.058584+00:00",
  "quotes": {
   "ABBV": {
    "price": 283.4,
@@ -145,6 +145,10 @@
   "HCAT": {
    "price": 1.8,
    "change_pct": 3.45
+  },
+  "HIMS": {
+   "price": 29.38,
+   "change_pct": 5.99
   },
   "HUM": {
    "price": 432.2,
@@ -317,10 +321,6 @@
   "TXG": {
    "price": 72.39,
    "change_pct": -0.97
-  },
-  "UNH": {
-   "price": 406.67,
-   "change_pct": 2.79
   }
  },
  "tickers": {
@@ -947,6 +947,21 @@
    "tickers": [],
    "tag": "Policy",
    "sectors": []
+  },
+  {
+   "id": "b4c8d985b697",
+   "headline": "HIMS Stock Snaps 3-Day Slump On Peptide Hopes: Trump Administration Reviews Plan That Could Unlock $2.2B Market",
+   "summary": "The plan would apparently temporarily allow specialty pharmacies to compound certain unapproved peptides, including BPC-157.",
+   "url": "https://finnhub.io/api/news?id=185f8cbc66d6fabc6c86ef2da5fc85f355bb6740131be50ae528c279bbc2cb8c",
+   "source": "Yahoo",
+   "published": "2026-10-16T02:04:19+00:00",
+   "tickers": [
+    "HIMS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
+   ]
   },
   {
    "id": "e15cee162088",
