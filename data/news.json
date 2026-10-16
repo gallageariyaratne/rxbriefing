@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-16T02:02:51.158773+00:00",
+ "updated": "2026-10-16T02:17:50.191444+00:00",
  "quotes": {
   "ABBV": {
    "price": 283.4,
@@ -57,6 +57,10 @@
   "BMY": {
    "price": 60.57,
    "change_pct": 2.18
+  },
+  "BNTX": {
+   "price": 90.2,
+   "change_pct": 1.74
   },
   "BSX": {
    "price": 44.14,
@@ -310,17 +314,13 @@
    "price": 144.49,
    "change_pct": -2.48
   },
+  "TXG": {
+   "price": 72.39,
+   "change_pct": -0.97
+  },
   "UNH": {
    "price": 406.67,
    "change_pct": 2.79
-  },
-  "VEEV": {
-   "price": 313.03,
-   "change_pct": 5.27
-  },
-  "VRTX": {
-   "price": 508.75,
-   "change_pct": 2.06
   }
  },
  "tickers": {
@@ -938,6 +938,21 @@
  },
  "stories": [
   {
+   "id": "e15cee162088",
+   "headline": "Labcorp (LH) Stock Looks In Step With Its Cash Flow Outlook",
+   "summary": "Labcorp Holdings has delivered a strong share price run in recent years, so the key issue now is whether the current US$325.07 level is properly supported by the cash it can generate. With investors already sitting on sizeable gains, the\u2026",
+   "url": "https://finnhub.io/api/news?id=b3b6b829857bedfcd9e84d185005325194c4788fb14eb827248ae76412b9348f",
+   "source": "Yahoo",
+   "published": "2026-10-16T01:15:19+00:00",
+   "tickers": [
+    "LH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "70873545aa97",
    "headline": "Regeneron Pharmaceuticals (REGN) Reports 84 Week Phase III Efficacy For FOP Treatment",
    "summary": "Regeneron Pharmaceuticals (NasdaqGS:REGN) reported new Phase III OPTIMA data showing Pasatru maintained efficacy out to 84 weeks in adults with FOP. The 84 week results indicate Pasatru prevented new bone formation and cut disease flare\u2026",
@@ -1162,6 +1177,21 @@
    "tag": "News",
    "sectors": [
     "pharmacy"
+   ]
+  },
+  {
+   "id": "f1dcc4b85678",
+   "headline": "Astrazeneca (AZN) Rises Higher Than Market: Key Facts",
+   "summary": "Astrazeneca (AZN) closed the most recent trading day at $166.68, moving +2.87% from the previous trading session.",
+   "url": "https://finnhub.io/api/news?id=7548d29f6093c38fd0d1f237ed65498e3da115a74e059f876db40dd4a7aac651",
+   "source": "Yahoo",
+   "published": "2026-10-15T21:15:03+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1587,6 +1617,21 @@
    ]
   },
   {
+   "id": "f9919361a847",
+   "headline": "TwinStrand Biosciences Announces Second U.S. Patent Trial and Appeal Board Decision Upholding All Claims of TwinStrand\u2019s \u2018127 Patent",
+   "summary": "SEATTLE, October 15, 2026--TwinStrand Biosciences (TwinStrand), the pioneer in Duplex Sequencing\u00ae technology, today announced that the U.S. Patent and Trademark Office\u2019s Patent Trial and Appeal Board (PTAB) has again rejected Guardant\u2026",
+   "url": "https://finnhub.io/api/news?id=cc16f30f08fbcbc3371ae16b550f0501ade54a71a437f70bf36b5c5be0f0bf13",
+   "source": "Yahoo",
+   "published": "2026-10-15T20:01:00+00:00",
+   "tickers": [
+    "GH"
+   ],
+   "tag": "Legal",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "898c4632209f",
    "headline": "Better Dividend Stock: Pfizer vs. GSK",
    "summary": "Key TakeawaysPfizer yields 6. 3% and GSK yields 4.",
@@ -1625,6 +1670,7 @@
    "source": "Yahoo",
    "published": "2026-10-15T19:57:16+00:00",
    "tickers": [
+    "AZN",
     "SNY"
    ],
    "tag": "News",
@@ -1770,6 +1816,21 @@
    ]
   },
   {
+   "id": "a52e6b6f781a",
+   "headline": "AstraZeneca (LSE:AZN) Enters AI Drug Discovery Partnership In MASH And Cardiomyopathies",
+   "summary": "AstraZeneca (LSE:AZN) has signed an exclusive worldwide research collaboration with insitro focused on MASH and cardiomyopathies. The agreement will use insitro's machine learning and high throughput biology platforms to identify new\u2026",
+   "url": "https://finnhub.io/api/news?id=36d31499f1dd63616da8a28bd048ab1fbef9ddb1520427ed88cdb364659d92a5",
+   "source": "Yahoo",
+   "published": "2026-10-15T19:09:24+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "e7108030a279",
    "headline": "Is FDA-Cleared Sonopet 3 Transforming the Investment Case for Stryker\u2019s Surgical Platform Strategy (SYK)?",
    "summary": "Earlier this month, Stryker received FDA 510(k) clearance for Sonopet 3, its new ultrasonic bone and soft tissue removal platform, incorporating surgeon-driven enhancements in power, precision, workflow integration and connectivity ahead\u2026",
@@ -1892,6 +1953,7 @@
    "source": "Yahoo",
    "published": "2026-10-15T17:54:07+00:00",
    "tickers": [
+    "AZN",
     "LH",
     "LLY"
    ],
@@ -1993,6 +2055,7 @@
    "source": "Yahoo",
    "published": "2026-10-15T17:17:00+00:00",
    "tickers": [
+    "AZN",
     "BMY",
     "GILD"
    ],
@@ -2024,6 +2087,7 @@
    "source": "Yahoo",
    "published": "2026-10-15T16:55:05+00:00",
    "tickers": [
+    "BNTX",
     "MRK",
     "MRNA",
     "PFE"
@@ -2031,6 +2095,21 @@
    "tag": "Health AI",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "fa54a27dd4fc",
+   "headline": "Best 3 Non-AI Stocks to Buy Now on the Dip Amid the AI Stock Selloff",
+   "summary": "Diving into three great stocks to buy at a discount and hold that are posting impressive earnings and revenue growth outside of the AI boom.",
+   "url": "https://finnhub.io/api/news?id=92854b4728918aed1f760040887d13f254e134cf10c12ba8b6b64ac5909b4869",
+   "source": "Yahoo",
+   "published": "2026-10-15T16:52:00+00:00",
+   "tickers": [
+    "ARGX"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -2495,6 +2574,21 @@
    ]
   },
   {
+   "id": "d3f8a091dc7e",
+   "headline": "European Equities Traded in the US as American Depositary Receipts Rise Sharply in Thursday Trading",
+   "summary": "European equities traded in the US as American depositary receipts were sharply higher late Thursday",
+   "url": "https://finnhub.io/api/news?id=8e0a8ef954c016e7bdd7ff12fa974f4ae0921a58795ddda7059a72c7b363b69e",
+   "source": "Yahoo",
+   "published": "2026-10-15T15:19:51+00:00",
+   "tickers": [
+    "ARGX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "0abece4ec48f",
    "headline": "Labcorp to buy BioReference assets for up to $872M",
    "summary": "Labcorp will pick up specialty testing in women\u2019s health as well as a blood test that assesses the likelihood of finding aggressive prostate cancer before a biopsy decision.",
@@ -2764,6 +2858,21 @@
    ]
   },
   {
+   "id": "ec2d8f89343f",
+   "headline": "RBC keeps AstraZeneca at \u2018outperform\u2019 ahead of AVANZAR lung cancer trial",
+   "summary": "RBC Capital Markets has maintained its 'outperform' rating on AstraZeneca PLC (LSE:AZN, NYSE:AZN), the FTSE 100 pharmaceutical group, with a 14,500p target price, expecting a quiet third quarter before results on Friday 30 October. It\u2026",
+   "url": "https://finnhub.io/api/news?id=2fabf34416dd4194b1fdf63171bcf8b9468a45932c8964f6b3c0a23b7b5f4cad",
+   "source": "Yahoo",
+   "published": "2026-10-15T14:30:00+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "aae086dfb89b",
    "headline": "Moderna: Best S&P 500 Stock YTD Could Rally Into YE, But Valuation Is Uncertain",
    "summary": "Moderna stock is a \"Hold\" due to persistent unprofitability, negative free cash flow, and a valuation highly dependent on pipeline execution. Read the full analysis here.",
@@ -2937,6 +3046,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "cf9e157e7569",
+   "headline": "3 Reasons to Sell TXG and 1 Stock to Buy Instead",
+   "summary": "What a fantastic six months it\u2019s been for 10x Genomics. Shares of the company have skyrocketed 187%, hitting $72.70. This was partly thanks to its solid quarterly results, and the performance may have investors wondering how to approach\u2026",
+   "url": "https://finnhub.io/api/news?id=0c0f93898985b8d32c0f2dc799b2b348b86e5ff15d9b837f5b4ba0e1dcd29cf2",
+   "source": "Yahoo",
+   "published": "2026-10-15T13:52:27+00:00",
+   "tickers": [
+    "TXG"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "tools"
    ]
   },
   {
