@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-16T00:32:42.539088+00:00",
+ "updated": "2026-10-16T00:47:35.073776+00:00",
  "quotes": {
   "ABBV": {
    "price": 283.4,
@@ -129,6 +129,10 @@
   "GMED": {
    "price": 78.84,
    "change_pct": 3.32
+  },
+  "GSK": {
+   "price": 49.02,
+   "change_pct": 2.4
   },
   "HALO": {
    "price": 121.51,
@@ -977,7 +981,8 @@
    "source": "Yahoo",
    "published": "2026-10-15T22:12:46+00:00",
    "tickers": [
-    "CVS"
+    "CVS",
+    "HUM"
    ],
    "tag": "News",
    "sectors": [
@@ -1005,6 +1010,21 @@
    "summary": "Humana, Devoted Health, Aetna, Alignment Health Among Leading Multi-State Medicare Advantage Plans COLUMBUS, Ohio, Oct. 15, 2026 /PRNewswire/ -- Medicare Advantage+Part D plans in 45 states and Puerto Rico will be recognized for\u2026",
    "url": "https://www.prnewswire.com/news-releases/healthmetrix-research-selects-2027-medicare-advantage-plans-for-exceptional-benefit-value--overall-performance-302910661.html",
    "source": "PR Newswire",
+   "published": "2026-10-15T22:06:00+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "d8939690257b",
+   "headline": "HealthMetrix Research Selects 2027 Medicare Advantage Plans for Exceptional Benefit Value & Overall Performance",
+   "summary": "Medicare Advantage+Part D plans in 45 states and Puerto Rico will be recognized for exceptional value in the design of their medical and Part D prescription drug benefits available effective January 1. The 2027 Senior Choice Gold Award\u2026",
+   "url": "https://finnhub.io/api/news?id=3c98082829c27d700257e07d9e740587c2a7d54a047ce8b17ee0a8ea7f2cf2d0",
+   "source": "Yahoo",
    "published": "2026-10-15T22:06:00+00:00",
    "tickers": [
     "HUM"
@@ -1048,7 +1068,8 @@
    "source": "Yahoo",
    "published": "2026-10-15T21:23:00+00:00",
    "tickers": [
-    "JNJ"
+    "JNJ",
+    "UNH"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -1065,6 +1086,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "df53f46a65e2",
+   "headline": "Cardinal Health (CAH) Laps the Stock Market: Here's Why",
+   "summary": "Cardinal Health (CAH) closed at $253.71 in the latest trading session, marking a +2.41% move from the prior day.",
+   "url": "https://finnhub.io/api/news?id=c5e505b7c7f28218e59da95c1e8d84be3e71d09e57886ca6e6af559f37bc590a",
+   "source": "Yahoo",
+   "published": "2026-10-15T21:15:03+00:00",
+   "tickers": [
+    "CAH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharmacy"
+   ]
   },
   {
    "id": "a95d4def8aa4",
@@ -1128,6 +1164,21 @@
    ]
   },
   {
+   "id": "e9d452d1cce7",
+   "headline": "Intuitive Surgical, Inc. (ISRG) Beats Stock Market Upswing: What Investors Need to Know",
+   "summary": "Intuitive Surgical, Inc. (ISRG) reached $427.86 at the closing of the latest trading day, reflecting a +1.81% change compared to its last close.",
+   "url": "https://finnhub.io/api/news?id=c969885b70ca41332cfbf314e1cf31e7e87f8235cbb197b7d18e9c3bab308752",
+   "source": "Yahoo",
+   "published": "2026-10-15T21:00:04+00:00",
+   "tickers": [
+    "ISRG"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "06c6df080ac2",
    "headline": "Boston Scientific (BSX) Rises Higher Than Market: Key Facts",
    "summary": "Boston Scientific (BSX) closed at $44.14 in the latest trading session, marking a +2.65% move from the prior day.",
@@ -1151,6 +1202,21 @@
    "published": "2026-10-15T21:00:00+00:00",
    "tickers": [
     "VRTX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "a25891f8e770",
+   "headline": "Amgen (AMGN) Exceeds Market Returns: Some Facts to Consider",
+   "summary": "The latest trading day saw Amgen (AMGN) settling at $434.03, representing a +1.86% change from its previous close.",
+   "url": "https://finnhub.io/api/news?id=00c6c29cc16d7b03ff19880b96b7b8fa827700084fa24fe072030ad3a300a5ab",
+   "source": "Yahoo",
+   "published": "2026-10-15T20:50:02+00:00",
+   "tickers": [
+    "AMGN"
    ],
    "tag": "News",
    "sectors": [
@@ -1289,6 +1355,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "14aa0861a0ec",
+   "headline": "Bioscience Association Manitoba Welcomes New Board Members and Executive Members at Annual General Meeting",
+   "summary": "WINNIPEG, Manitoba, October 15, 2026--The Bioscience Association Manitoba (BAM) is pleased to announce the appointment of new members to its Board of Directors and Executive Board, following the organization\u2019s Annual General Meeting held\u2026",
+   "url": "https://finnhub.io/api/news?id=d7f09f08e850bdd4f7534147a2b955a31a231966703da56d1eca8f7d9dc7b05d",
+   "source": "Yahoo",
+   "published": "2026-10-15T20:10:00+00:00",
+   "tickers": [
+    "GSK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
