@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-16T01:47:42.972560+00:00",
+ "updated": "2026-10-16T02:02:51.158773+00:00",
  "quotes": {
   "ABBV": {
    "price": 283.4,
@@ -166,6 +166,10 @@
    "price": 271.04,
    "change_pct": 3.45
   },
+  "IRTC": {
+   "price": 109.35,
+   "change_pct": 3.11
+  },
   "ISRG": {
    "price": 427.86,
    "change_pct": 1.81
@@ -309,10 +313,6 @@
   "UNH": {
    "price": 406.67,
    "change_pct": 2.79
-  },
-  "UTHR": {
-   "price": 541.51,
-   "change_pct": 0.27
   },
   "VEEV": {
    "price": 313.03,
@@ -1212,6 +1212,21 @@
    "sectors": []
   },
   {
+   "id": "c02bc6169327",
+   "headline": "VSTM Stock Clocks Best Day In 11 Months After Positive Cancer Drug Trial Update And Multiple Price-Target Hikes",
+   "summary": "On Wednesday, Verastem said that in its ongoing early-stage TARGET-D 101 trial, VS-7375 produced a 50% confirmed overall response rate in second-line metastatic pancreatic ductal adenocarcinoma at the 900 mg daily dose.",
+   "url": "https://finnhub.io/api/news?id=82e6231734189009e356875b342bc1e6b2c9d975f0b2e7d56e214552c1c234be",
+   "source": "Yahoo",
+   "published": "2026-10-15T21:00:12+00:00",
+   "tickers": [
+    "RVMD"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "b71cf05115a1",
    "headline": "Vertex Pharmaceuticals (VRTX) Rises Higher Than Market: Key Facts",
    "summary": "Vertex Pharmaceuticals (VRTX) reached $508.75 at the closing of the latest trading day, reflecting a +2.06% change compared to its last close.",
@@ -1542,6 +1557,21 @@
    ]
   },
   {
+   "id": "c139b6fcdd71",
+   "headline": "iRhythm Holdings to Report Third Quarter 2026 Financial Results on November 5, 2026",
+   "summary": "SAN FRANCISCO, Oct. 15, 2026 (GLOBE NEWSWIRE) -- iRhythm Holdings, Inc. (NASDAQ:IRTC), a leading digital health care company focused on creating trusted solutions that detect, predict, and prevent disease, today announced that it will\u2026",
+   "url": "https://finnhub.io/api/news?id=e604f3acda848cad03cffac0200c3366493466246aea99624639d984c4237155",
+   "source": "Yahoo",
+   "published": "2026-10-15T20:05:00+00:00",
+   "tickers": [
+    "IRTC"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "93015abfa983",
    "headline": "Tempus to Report Third Quarter 2026 Financial Results on November 2",
    "summary": "CHICAGO, October 15, 2026--Tempus AI, Inc. (NASDAQ: TEM), a technology company leading the adoption of AI to advance precision medicine, today announced it will report financial results for the third quarter ended September 30, 2026,\u2026",
@@ -1662,6 +1692,7 @@
    "source": "Yahoo",
    "published": "2026-10-15T19:36:15+00:00",
    "tickers": [
+    "RXRX",
     "SNY"
    ],
    "tag": "News",
@@ -1712,6 +1743,7 @@
    "source": "Yahoo",
    "published": "2026-10-15T19:10:45+00:00",
    "tickers": [
+    "RXRX",
     "SNY"
    ],
    "tag": "Health AI",
@@ -1844,6 +1876,7 @@
    "source": "Yahoo",
    "published": "2026-10-15T17:59:15+00:00",
    "tickers": [
+    "RXRX",
     "SNY"
    ],
    "tag": "News",
@@ -1998,6 +2031,21 @@
    "tag": "Health AI",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "a40da5905911",
+   "headline": "Natera\u2019s Signatera\u2122 MRD Test Named to TIME\u2019s List of the Best Inventions of 2026",
+   "summary": "AUSTIN, Texas, October 15, 2026--Natera, Inc. (NASDAQ: NTRA), a global leader in cell-free DNA and precision medicine, today announced that its Signatera molecular residual disease (MRD) test has been named to TIME\u2019s Best Inventions of\u2026",
+   "url": "https://finnhub.io/api/news?id=a4d6fbc88a056d4d72a69ab3c9503840f9e05254ee13021408caa32a9607972a",
+   "source": "Yahoo",
+   "published": "2026-10-15T16:46:00+00:00",
+   "tickers": [
+    "NTRA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -3403,6 +3451,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "16023f9010e5",
+   "headline": "Natera Gains 118.1% in a Year: What's Driving the Rally?",
+   "summary": "NTRA shares surge 118.1% in a year, fueled by robust Signatera adoption, expanding test volumes and improving margins, despite competition and rising costs.",
+   "url": "https://finnhub.io/api/news?id=bc92da6c93cd7eee654f999e41094f83622641681392b00ad0bc647dcaa827fe",
+   "source": "Yahoo",
+   "published": "2026-10-15T12:28:00+00:00",
+   "tickers": [
+    "NTRA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
    ]
   },
   {
