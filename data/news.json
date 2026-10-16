@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-16T10:32:40.143630+00:00",
+ "updated": "2026-10-16T10:47:35.615854+00:00",
  "quotes": {
   "A": {
    "price": 175.55,
@@ -49,6 +49,10 @@
   "BDX": {
    "price": 193.76,
    "change_pct": 2.58
+  },
+  "BIIB": {
+   "price": 235.35,
+   "change_pct": 1.08
   },
   "BMY": {
    "price": 60.57,
@@ -317,10 +321,6 @@
   "VRTX": {
    "price": 508.75,
    "change_pct": 2.06
-  },
-  "ZTS": {
-   "price": 78.42,
-   "change_pct": 4.16
   }
  },
  "tickers": {
@@ -938,6 +938,43 @@
  },
  "stories": [
   {
+   "id": "7a2ea389738e",
+   "headline": "Estuary flows out of stealth with $103M to propel kidney disease gene therapies into clinic",
+   "summary": "Estuary Biotherapeutics has swum out of stealth with $103 million in funding to power a pair of gene therapies into clinical trials for an inherited kidney disorder.",
+   "url": "https://www.fiercebiotech.com/biotech/estuary-emerges-stealth-103m-its-gene-therapies-kidney-disease",
+   "source": "Fierce Biotech",
+   "published": "2026-10-16T10:45:20.025700+00:00",
+   "tickers": [],
+   "tag": "Clinical",
+   "sectors": []
+  },
+  {
+   "id": "b2bbc3a69170",
+   "headline": "Next-gen RNAi drugmaker City prices $200M IPO",
+   "summary": "The offering will support a trio of medicines in or nearing clinical testing, as well as earlier research into RNAi treatments that get into tissues outside the liver.",
+   "url": "https://www.biopharmadive.com/news/city-therapeutics-ipo-price-rnai-drugs/832945/",
+   "source": "BioPharma Dive",
+   "published": "2026-10-16T10:33:00+00:00",
+   "tickers": [],
+   "tag": "Financing",
+   "sectors": []
+  },
+  {
+   "id": "245aaecf1dcb",
+   "headline": "Biogen-backed Estuary nabs $93M for liver disease gene therapy",
+   "summary": "The Series A round, which was led by RA Capital, will help fund the development of two genetic medicines designed to treat an inherited kidney disorder known as \"ADPKD.\"",
+   "url": "https://www.biopharmadive.com/news/estuary-kidney-disease-gene-therapy-launch-emerged-biogen-biotech-startup/833114/",
+   "source": "BioPharma Dive",
+   "published": "2026-10-16T10:30:00+00:00",
+   "tickers": [
+    "BIIB"
+   ],
+   "tag": "Financing",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "9c930ae89781",
    "headline": "Immuno-Oncology Diagnostics Market to Reach $11.1B by 2030 as Checkpoint Inhibitor and Cell Therapy Pipelines Drive Demand for Companion Tests",
    "summary": "Report Tracks Roche Diagnostics, Thermo Fisher, Illumina, Agilent and Guardant Health Among 132 Companies, With Forecasts by Assay Type, Technology, Customer and CountryDublin, Oct. 16, 2026 (GLOBE NEWSWIRE) -- \"Immuno-Oncology\u2026",
@@ -945,7 +982,8 @@
    "source": "Yahoo",
    "published": "2026-10-16T09:43:00+00:00",
    "tickers": [
-    "A"
+    "A",
+    "ILMN"
    ],
    "tag": "News",
    "sectors": [
@@ -965,6 +1003,21 @@
    "tag": "Analyst",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "4ba900e03c3d",
+   "headline": "GE HealthCare secures CE mark for MINItrace Magni cyclotron",
+   "summary": "MINItrace Magni is an automated, self-shielded cyclotron developed for in-house radioisotope manufacturing.",
+   "url": "https://finnhub.io/api/news?id=017d650e46a8d92f9ac1c1dea9c022467284fedaf6f8b80e8ed2ae2cbfe33e70",
+   "source": "Yahoo",
+   "published": "2026-10-16T09:14:51+00:00",
+   "tickers": [
+    "GEHC"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -990,7 +1043,8 @@
    "source": "Yahoo",
    "published": "2026-10-16T08:54:00+00:00",
    "tickers": [
-    "DHR"
+    "DHR",
+    "ILMN"
    ],
    "tag": "News",
    "sectors": [
