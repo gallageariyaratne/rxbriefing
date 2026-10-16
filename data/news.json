@@ -1,7 +1,43 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-16T12:32:31.641244+00:00",
+ "updated": "2026-10-16T12:47:29.083020+00:00",
  "quotes": {
+  "A": {
+   "price": 175.55,
+   "change_pct": 0.89
+  },
+  "ABBV": {
+   "price": 283.4,
+   "change_pct": -0.03
+  },
+  "ABT": {
+   "price": 104.68,
+   "change_pct": 1.66
+  },
+  "ALHC": {
+   "price": 8.15,
+   "change_pct": -0.97
+  },
+  "AMGN": {
+   "price": 434.03,
+   "change_pct": 1.86
+  },
+  "ARGX": {
+   "price": 846.27,
+   "change_pct": 3.42
+  },
+  "ARWR": {
+   "price": 58.5,
+   "change_pct": 0.22
+  },
+  "AXSM": {
+   "price": 161.79,
+   "change_pct": -0.27
+  },
+  "AZN": {
+   "price": 166.68,
+   "change_pct": 2.87
+  },
   "BDX": {
    "price": 193.76,
    "change_pct": 2.58
@@ -173,6 +209,10 @@
   "MRNA": {
    "price": 236.5,
    "change_pct": 4.51
+  },
+  "NBIX": {
+   "price": 136.95,
+   "change_pct": 0.77
   },
   "NTRA": {
    "price": 404.79,
@@ -878,6 +918,47 @@
  },
  "stories": [
   {
+   "id": "238cb9530333",
+   "headline": "Chutes & Ladders\u2014Bausch + Lomb's returning CEO Saunders exits again",
+   "summary": "Bausch + Lomb CEO Brent Saunders is making a second exit from the eye health company, as the president of parent Bausch Health steps in temporarily. Plus, Paragon Labs is buying out Apogee talent after its acquisition by AbbVie.",
+   "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-bausch-lombs-return-ceo-saunders-exits-again",
+   "source": "Fierce Biotech",
+   "published": "2026-10-16T12:45:19.426590+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "072e2e81b254",
+   "headline": "What to read before you go see that new documentary on Elizabeth Holmes",
+   "summary": "Ahead of \"You Can See Everything\" hitting theaters, let's rewind the last decade and review some of the most significant news tied to Elizabeth Holmes, who was convicted in 2022\u2026",
+   "url": "https://www.statnews.com/2026/10/16/health-news-what-to-read-before-elizabeth-holmes-you-can-see-everything/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-16T12:34:03+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "79dcbe9787dd",
+   "headline": "Neurocrine Biosciences Presents Real-World Evidence Mapping the Lifelong, Evolving Impact of Classic Congenital Adrenal Hyperplasia",
+   "summary": "Decades of real-world medical records highlight the diverse challenges of living with classic congenital adrenal hyperplasia and how needs evolve from childhood through adulthood Patient records showed growth and bone-age monitoring in\u2026",
+   "url": "https://www.prnewswire.com/news-releases/neurocrine-biosciences-presents-real-world-evidence-mapping-the-lifelong-evolving-impact-of-classic-congenital-adrenal-hyperplasia-302910704.html",
+   "source": "PR Newswire",
+   "published": "2026-10-16T12:30:00+00:00",
+   "tickers": [
+    "NBIX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "f5dc4dec40e9",
    "headline": "Fierce Pharma Asia\u2014Roche\u2019s $1.2B obesity deal; Asahi Kasei\u2019s FDA nod; Verastem\u2019s KRAS boon",
    "summary": "Roche extended its China shopping spree with a $1 billion-plus obesity deal. Asahi Kasei's Hovilpri became the first HSV drug with a novel mechanism approved in nearly 30 years. Verastem's China-licensed KRAS G12D inhibitor showed strong\u2026",
@@ -901,6 +982,21 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "a577f6f2fbdd",
+   "headline": "Why SCHD\u2019s Income Is Unshakable This Year: 6 Dividend Aristocrats Doing the Heavy Lifting",
+   "summary": "Six Dividend Aristocrats shoulder a big chunk of SCHD's 3.8% yield, but two of them are paying dividends that their earnings barely cover. Here is how close to the edge each one actually sits.",
+   "url": "https://finnhub.io/api/news?id=2a602f756776837e1b02d9e1009fde51bd70e47748a803ad4a88e8448803d1f0",
+   "source": "Yahoo",
+   "published": "2026-10-16T11:50:38+00:00",
+   "tickers": [
+    "ABT"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -967,6 +1063,7 @@
    "source": "Yahoo",
    "published": "2026-10-16T10:56:00+00:00",
    "tickers": [
+    "ABT",
     "GMED"
    ],
    "tag": "Policy",
@@ -1032,6 +1129,21 @@
    "summary": "The Series A round, which was led by RA Capital, will help fund the development of two genetic medicines designed to treat an inherited kidney disorder known as \"ADPKD.\"",
    "url": "https://www.biopharmadive.com/news/estuary-kidney-disease-gene-therapy-launch-emerged-biogen-biotech-startup/833114/",
    "source": "BioPharma Dive",
+   "published": "2026-10-16T10:30:00+00:00",
+   "tickers": [
+    "BIIB"
+   ],
+   "tag": "Financing",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "0992ae69a9ef",
+   "headline": "Biogen-backed Estuary nabs $93M for kidney disease gene therapy",
+   "summary": "The Series A round, which was led by RA Capital, will help fund the development of two genetic medicines designed to treat an inherited kidney disorder known as \"ADPKD.\"",
+   "url": "https://finnhub.io/api/news?id=9d0c8c9629cbfe7d9c78c8a89266ac9138c21201484802bea94c0a2c6af6bdc4",
+   "source": "Yahoo",
    "published": "2026-10-16T10:30:00+00:00",
    "tickers": [
     "BIIB"
@@ -4099,6 +4211,21 @@
    "tag": "Health AI",
    "sectors": [
     "healthai"
+   ]
+  },
+  {
+   "id": "2f312b6fbd60",
+   "headline": "State Street Corporation Q3 2026 Earnings Call Summary",
+   "summary": "Moby summary of State Street Corporation's Q3 2026 earnings call",
+   "url": "https://finnhub.io/api/news?id=5421d801a102802a5e484c0529471ffad3f61138737e42180b93aaa13d80796c",
+   "source": "Yahoo",
+   "published": "2026-10-15T12:30:00+00:00",
+   "tickers": [
+    "CRL"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
    ]
   },
   {
