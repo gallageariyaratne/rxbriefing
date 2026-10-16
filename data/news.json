@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-16T12:47:29.083020+00:00",
+ "updated": "2026-10-16T13:02:44.535212+00:00",
  "quotes": {
   "A": {
    "price": 175.55,
@@ -14,9 +14,9 @@
    "price": 104.68,
    "change_pct": 1.66
   },
-  "ALHC": {
-   "price": 8.15,
-   "change_pct": -0.97
+  "ALNY": {
+   "price": 234.03,
+   "change_pct": 4.26
   },
   "AMGN": {
    "price": 434.03,
@@ -86,10 +86,6 @@
    "price": 31.5,
    "change_pct": 5.28
   },
-  "DVA": {
-   "price": 189.16,
-   "change_pct": 4.68
-  },
   "DXCM": {
    "price": 87.71,
    "change_pct": 5.08
@@ -138,13 +134,13 @@
    "price": 432.2,
    "change_pct": 1.12
   },
-  "IDXX": {
-   "price": 547.18,
-   "change_pct": 3.43
-  },
   "ILMN": {
    "price": 267.93,
    "change_pct": -1.41
+  },
+  "IONS": {
+   "price": 44.12,
+   "change_pct": 3.33
   },
   "IQV": {
    "price": 271.04,
@@ -933,6 +929,21 @@
    ]
   },
   {
+   "id": "d0281f540b1a",
+   "headline": "Which S&P500 stocks are moving before the opening bell on Friday?",
+   "summary": "Wondering what's happening in today's pre-market session? Stay tuned for the latest updates on S&P500 stock movements.",
+   "url": "https://finnhub.io/api/news?id=1be597016230dcc6ba391c3113a096c01eebf1818b2bfa757921088a17d36176",
+   "source": "ChartMill",
+   "published": "2026-10-16T12:35:00+00:00",
+   "tickers": [
+    "ELV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "072e2e81b254",
    "headline": "What to read before you go see that new documentary on Elizabeth Holmes",
    "summary": "Ahead of \"You Can See Everything\" hitting theaters, let's rewind the last decade and review some of the most significant news tied to Elizabeth Holmes, who was convicted in 2022\u2026",
@@ -1012,6 +1023,21 @@
    "tag": "News",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "31028ba26b1c",
+   "headline": "Eli Lilly's Biggest Shareholder Is Selling $347 Million of Stock. Should You Sell Too?",
+   "summary": "The Lilly Foundation is unloading 300,000 shares of the stock.",
+   "url": "https://finnhub.io/api/news?id=d7be3314dadc14805af8f7f3dca2671179965deeda890367e511cbcb80583265",
+   "source": "Yahoo",
+   "published": "2026-10-16T11:30:00+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1102,6 +1128,21 @@
    ]
   },
   {
+   "id": "412544df9357",
+   "headline": "Jefferies Highlights Top Mid-Cap Biotech Stocks Ahead of Earnings",
+   "summary": "Investing.com -- Jefferies analysts identified their preferred mid-cap biotechnology stocks ahead of third-quarter earnings, with Oncorus (ONC) emerging as their top commercial pick, followed by Revolution Medicines (RVMD) and Alnylam\u2026",
+   "url": "https://finnhub.io/api/news?id=64241bf6a9c0e0444becb0c9f3d56ab4af30f191010ac3c6a8e4953bb66ac02d",
+   "source": "Yahoo",
+   "published": "2026-10-16T10:50:54+00:00",
+   "tickers": [
+    "ALNY"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "7a2ea389738e",
    "headline": "Estuary flows out of stealth with $103M to propel kidney disease gene therapies into clinic",
    "summary": "Estuary Biotherapeutics has swum out of stealth with $103 million in funding to power a pair of gene therapies into clinical trials for an inherited kidney disorder.",
@@ -1113,6 +1154,21 @@
    "sectors": []
   },
   {
+   "id": "f1f73ed3670f",
+   "headline": "TRYNGOLZA\u00ae (olezarsen) recommended for approval in the EU by CHMP for severe hypertriglyceridemia (sHTG)",
+   "summary": "CARLSBAD, Calif., October 16, 2026--Ionis Pharmaceuticals, Inc. (Nasdaq: IONS) today announced that the Committee for Medicinal Products for Human Use (CHMP) of the European Medicines Agency (EMA) has adopted a positive opinion\u2026",
+   "url": "https://finnhub.io/api/news?id=c1b7eddee72216448ce680ee25563a794d94898f03af668fe5803426cb79d00d",
+   "source": "Yahoo",
+   "published": "2026-10-16T10:45:00+00:00",
+   "tickers": [
+    "IONS"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "b2bbc3a69170",
    "headline": "Next-gen RNAi drugmaker City prices $200M IPO",
    "summary": "The offering will support a trio of medicines in or nearing clinical testing, as well as earlier research into RNAi treatments that get into tissues outside the liver.",
@@ -1122,6 +1178,21 @@
    "tickers": [],
    "tag": "Financing",
    "sectors": []
+  },
+  {
+   "id": "0f5bffc4a625",
+   "headline": "Next-gen RNAi drugmaker City prices $200M IPO",
+   "summary": "The offering will support a trio of medicines in or nearing clinical testing, as well as earlier research into RNAi treatments that get into tissues outside the liver.",
+   "url": "https://finnhub.io/api/news?id=1d023870f4009542ceb0d4f83ff93e1b232602c3f61853baf2ebb15c1e6892b9",
+   "source": "Yahoo",
+   "published": "2026-10-16T10:33:00+00:00",
+   "tickers": [
+    "ALNY"
+   ],
+   "tag": "Financing",
+   "sectors": [
+    "biotech"
+   ]
   },
   {
    "id": "245aaecf1dcb",
@@ -1353,6 +1424,36 @@
    ]
   },
   {
+   "id": "7625dcd0df9e",
+   "headline": "Biogen: The Bull Case Is Extending Beyond Alzheimer's (Rating Upgrade)",
+   "summary": "Biogen's Q3 earnings are due Oct 28. Explore FY2026 EPS guidance, Alzheimer\u00e2\u0080\u0099s revenue growth, and key risk/reward drivers\u00e2\u0080\u0094read now. Click for this BIIB update.",
+   "url": "https://finnhub.io/api/news?id=f91f403f3ffc3a12e9d0386f0f23990216287021ab63ad0404ebea0e9b7ed963",
+   "source": "SeekingAlpha",
+   "published": "2026-10-16T08:28:45+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "b3e889203dbc",
+   "headline": "IQVIA: A $34.2 Billion Backlog Does Not Guarantee Faster Earnings Growth",
+   "summary": "IQVIA Holdings (IQV) reported robust Q2 2026 results, with 8.7% revenue growth and a 19% increase in Research & Development Solutions bookings.",
+   "url": "https://finnhub.io/api/news?id=c519c7554eb32755c5657c83921c21b82c985fea2d77fb3678ba1744c7f4e4e0",
+   "source": "SeekingAlpha",
+   "published": "2026-10-16T08:06:06+00:00",
+   "tickers": [
+    "IQV"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "9cd46821025e",
    "headline": "City goes public with $200M IPO, while Frazier Life Sciences takes biotech-focused SPAC to Nasdaq",
    "summary": "City Therapeutics has gone public with an upsized $200 million IPO, on the same day that Frazier Life Sciences listed its second biotech-focused shell company.",
@@ -1362,6 +1463,21 @@
    "tickers": [],
    "tag": "Financing",
    "sectors": []
+  },
+  {
+   "id": "107683f7c6a3",
+   "headline": "Thermo Fisher: Strong Growth, Even Higher Stock Price",
+   "summary": "Thermo Fisher Scientific remains overvalued despite strong Q2/26 results and a 30% stock rally since the last review. I rate the TMO stock a Hold. Read my analysis now.",
+   "url": "https://finnhub.io/api/news?id=31734275923b228cd01cb8f5d4fa2f4d1ea40727bd8b84cfcb8f74f9854d835e",
+   "source": "SeekingAlpha",
+   "published": "2026-10-16T07:45:49+00:00",
+   "tickers": [
+    "TMO"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
   },
   {
    "id": "6d6aedb3ca35",
