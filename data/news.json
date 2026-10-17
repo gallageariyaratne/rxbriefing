@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-17T03:02:41.607818+00:00",
+ "updated": "2026-10-17T03:17:40.796334+00:00",
  "quotes": {
   "A": {
    "price": 172.97,
@@ -61,6 +61,10 @@
   "BMY": {
    "price": 59.75,
    "change_pct": -1.35
+  },
+  "BNTX": {
+   "price": 87.71,
+   "change_pct": -2.76
   },
   "BSX": {
    "price": 44.39,
@@ -317,10 +321,6 @@
   "UNH": {
    "price": 401.43,
    "change_pct": -1.29
-  },
-  "UTHR": {
-   "price": 533.12,
-   "change_pct": -1.55
   }
  },
  "tickers": {
@@ -2467,6 +2467,7 @@
    "source": "Yahoo",
    "published": "2026-10-16T14:49:23+00:00",
    "tickers": [
+    "BNTX",
     "MRK",
     "MRNA",
     "PFE"
