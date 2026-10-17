@@ -1,59 +1,7 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-17T12:17:30.348012+00:00",
+ "updated": "2026-10-17T12:32:20.627478+00:00",
  "quotes": {
-  "A": {
-   "price": 172.97,
-   "change_pct": -1.47
-  },
-  "ABBV": {
-   "price": 285.42,
-   "change_pct": 0.71
-  },
-  "ABSI": {
-   "price": 8.25,
-   "change_pct": -7.09
-  },
-  "ABT": {
-   "price": 104.89,
-   "change_pct": 0.2
-  },
-  "ALGN": {
-   "price": 147.31,
-   "change_pct": -1.36
-  },
-  "ALHC": {
-   "price": 8.28,
-   "change_pct": 1.6
-  },
-  "ALNY": {
-   "price": 231.83,
-   "change_pct": -0.94
-  },
-  "AMGN": {
-   "price": 432.49,
-   "change_pct": -0.35
-  },
-  "ARGX": {
-   "price": 819.14,
-   "change_pct": -3.21
-  },
-  "ASND": {
-   "price": 225.25,
-   "change_pct": -0.6
-  },
-  "AXSM": {
-   "price": 157.14,
-   "change_pct": -2.87
-  },
-  "AZN": {
-   "price": 165.41,
-   "change_pct": -0.76
-  },
-  "BIIB": {
-   "price": 232.65,
-   "change_pct": -1.15
-  },
   "BMY": {
    "price": 59.75,
    "change_pct": -1.35
@@ -177,10 +125,6 @@
   "ISRG": {
    "price": 426.7,
    "change_pct": -0.27
-  },
-  "JAZZ": {
-   "price": 210.23,
-   "change_pct": -1.95
   },
   "JNJ": {
    "price": 255.56,
@@ -905,6 +849,66 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "4a4b713f9cdb",
+   "headline": "AbbVie\u2019s Dividend Keeps Climbing. Is It Still a Buy for Income Investors?",
+   "summary": "AbbVie's stock has surged nearly 29% this year, but a rising share price compresses the yield even as the dividend keeps growing. Before adding shares for income, consider what the pending Apogee deal and lingering debt load could mean\u2026",
+   "url": "https://finnhub.io/api/news?id=3cd6b334dacd22b1da54c95de7946c5985810e696ccdc4478ddbe6dac4398fb7",
+   "source": "Yahoo",
+   "published": "2026-10-17T12:00:20+00:00",
+   "tickers": [
+    "BMY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "7e6e4d6e1db7",
+   "headline": "When the Stock Market Gets Dangerous, These 6 Investments Have a History of Holding Up",
+   "summary": "These companies generate resilient revenues, which help make their stocks less volatile during market downturns.",
+   "url": "https://finnhub.io/api/news?id=c3bb8900b1fbc403ac7002346e83167ebd87153a0b81791527a07965c14cc25b",
+   "source": "Yahoo",
+   "published": "2026-10-17T11:20:00+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "0de601cfc76f",
+   "headline": "Johnson & Johnson Just Raised Its Sales Outlook Again. Here's Why the Dividend King Is Still a Buy.",
+   "summary": "The guidance bump doesn't matter nearly as much as investors' response to the company's Q3 report suggests.",
+   "url": "https://finnhub.io/api/news?id=98dbf11664a7e95ce7d8b907a772c2066444e9ac53c83fc391c4f9a1d650e0c2",
+   "source": "Yahoo",
+   "published": "2026-10-17T10:35:00+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "dd3a69c9bf05",
+   "headline": "Tenet Healthcare (THC) Lifts 2026 Outlook, Is The Upside Already Priced In?",
+   "summary": "Tenet Healthcare (THC) reset the conversation around its stock after management lifted the outlook for 2026 adjusted EBITDA and free cash flow, citing stronger operations across its hospitals and ambulatory care network. That guidance\u2026",
+   "url": "https://finnhub.io/api/news?id=2aa121df1964df228144989c091fb867f493333a3421896d5fadde08f42f63e6",
+   "source": "Yahoo",
+   "published": "2026-10-17T10:16:14+00:00",
+   "tickers": [
+    "THC"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
   {
    "id": "ad4989cf86e5",
    "headline": "Glaukos (NYSE:GKOS): High Growth Momentum Meets a Breakout Setup",
