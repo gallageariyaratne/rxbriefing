@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-17T12:47:24.751885+00:00",
+ "updated": "2026-10-17T13:02:25.881895+00:00",
  "quotes": {
   "A": {
    "price": 172.97,
@@ -229,10 +229,6 @@
   "PFE": {
    "price": 29.58,
    "change_pct": 0.48
-  },
-  "PODD": {
-   "price": 141.1,
-   "change_pct": 1.68
   },
   "RGEN": {
    "price": 175.42,
@@ -898,6 +894,21 @@
  },
  "stories": [
   {
+   "id": "81a99040cb16",
+   "headline": "Apple, Salesforce Lead Five Stocks Near Buy Points",
+   "summary": "Apple and Salesforce are doing well while the AI buildout sector reels. Consumer and healthcare names are coming to the fore.",
+   "url": "https://finnhub.io/api/news?id=53a55220f905a01a13aebe28c0e17e961ca5baaea49729d0b827fa8c8a3a40eb",
+   "source": "Yahoo",
+   "published": "2026-10-17T12:00:51+00:00",
+   "tickers": [
+    "TGTX"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "4a4b713f9cdb",
    "headline": "AbbVie\u2019s Dividend Keeps Climbing. Is It Still a Buy for Income Investors?",
    "summary": "AbbVie's stock has surged nearly 29% this year, but a rising share price compresses the yield even as the dividend keeps growing. Before adding shares for income, consider what the pending Apogee deal and lingering debt load could mean\u2026",
@@ -921,6 +932,21 @@
    "published": "2026-10-17T11:20:00+00:00",
    "tickers": [
     "JNJ"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "da59f5fa8998",
+   "headline": "Could Vir Biotechnology (VIR) Be Above Fair Value After Recent Pipeline News?",
+   "summary": "Vir Biotechnology has seen sharp swings over the past few years, which puts fresh focus on a simple question for anyone looking at the stock today: Does the current share price line up with what the business is generating from its sales?\u2026",
+   "url": "https://finnhub.io/api/news?id=bcde5100326a48e2cb1d004f46f3b64592b8f6b95564b91c97d9d86a8e7149f8",
+   "source": "Yahoo",
+   "published": "2026-10-17T11:10:29+00:00",
+   "tickers": [
+    "GILD"
    ],
    "tag": "News",
    "sectors": [
@@ -33429,17 +33455,6 @@
    "sectors": [
     "payers"
    ]
-  },
-  {
-   "id": "343ce8e2c776",
-   "headline": "Highmark Health taps Karen Hanlon as CEO",
-   "summary": "Hanlon, who has worked in a variety of leadership roles at Highmark during nearly three decades with the company, will be the organization\u2019s first-ever woman CEO.",
-   "url": "https://www.healthcaredive.com/news/highmark-health-karen-hanlon-ceo/832350/",
-   "source": "Healthcare Dive",
-   "published": "2026-10-07T12:48:44+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
   }
  ]
 }
