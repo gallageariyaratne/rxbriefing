@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-17T00:32:48.228121+00:00",
+ "updated": "2026-10-17T00:47:28.172127+00:00",
  "quotes": {
   "A": {
    "price": 172.97,
@@ -89,6 +89,10 @@
   "DHR": {
    "price": 229.04,
    "change_pct": -1.06
+  },
+  "DOCS": {
+   "price": 30.97,
+   "change_pct": -1.68
   },
   "DVA": {
    "price": 187.31,
@@ -906,6 +910,36 @@
  },
  "stories": [
   {
+   "id": "ac0de6367788",
+   "headline": "Review & Preview: AI Bloodbath",
+   "summary": "Tech had a brutal week as investors worried about the AI buildout.",
+   "url": "https://finnhub.io/api/news?id=6e360dbe8240c530a1b3dea8c6f947726d680634b72fe4083419c677cf26113e",
+   "source": "Yahoo",
+   "published": "2026-10-16T23:55:00+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "02ce58676aa3",
+   "headline": "Berkshire\u2019s Mind-Bender",
+   "summary": "Why is Berkshire Hathaway betting on richly valued Bending Spoons?",
+   "url": "https://finnhub.io/api/news?id=c6a9b17f60c29c9d3068cbf922fc36c67cd93fe26e3f548df2dda19426184833",
+   "source": "Yahoo",
+   "published": "2026-10-16T23:29:00+00:00",
+   "tickers": [
+    "ABT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "d8a75bcbf6ca",
    "headline": "Absci (ABSI) Stock Seems Rich Against Its Book Value Backdrop",
    "summary": "Absci has posted very strong multi year share gains, and the jump in market value now raises a simple question for you as an investor. Is the current price still grounded in what the business has built on its balance sheet, or has it\u2026",
@@ -988,6 +1022,21 @@
    "sectors": []
   },
   {
+   "id": "16f09079e729",
+   "headline": "Why Doximity (DOCS) Dipped More Than Broader Market Today",
+   "summary": "Doximity (DOCS) closed the most recent trading day at $30.71, moving 2.51% from the previous trading session.",
+   "url": "https://finnhub.io/api/news?id=aedf75f7e9432169a31ffea4af52192d0efb1764a3a4ac3b80f60664de9f84dd",
+   "source": "Yahoo",
+   "published": "2026-10-16T21:15:06+00:00",
+   "tickers": [
+    "DOCS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "af1ada4ac168",
    "headline": "DaVita HealthCare (DVA) Stock Moves -1.01%: What You Should Know",
    "summary": "DaVita HealthCare (DVA) closed at $187.25 in the latest trading session, marking a -1.01% move from the prior day.",
@@ -1000,6 +1049,21 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "f101913afdb1",
+   "headline": "Moderna Stock Slumps, but It\u2019s Too Early to Panic",
+   "summary": "Moderna and Revolution Medicines have upcoming catalysts that could help sustain their gains, even as biotech stocks retreat.",
+   "url": "https://finnhub.io/api/news?id=a6ec6823402e68ad6ddd5bb35f18a9ec64b21a46ee6a9622a167015e67770089",
+   "source": "Yahoo",
+   "published": "2026-10-16T20:49:00+00:00",
+   "tickers": [
+    "AMGN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
