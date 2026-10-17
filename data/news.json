@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-17T14:32:20.169334+00:00",
+ "updated": "2026-10-17T14:47:12.473272+00:00",
  "quotes": {
   "ABBV": {
    "price": 285.42,
@@ -17,10 +17,6 @@
   "ALGN": {
    "price": 147.31,
    "change_pct": -1.36
-  },
-  "ALNY": {
-   "price": 231.83,
-   "change_pct": -0.94
   },
   "AMGN": {
    "price": 432.49,
@@ -117,10 +113,6 @@
   "GKOS": {
    "price": 164.84,
    "change_pct": -0.46
-  },
-  "GMED": {
-   "price": 76.71,
-   "change_pct": -2.7
   },
   "HALO": {
    "price": 121.84,
@@ -221,10 +213,6 @@
   "SNY": {
    "price": 40.61,
    "change_pct": 0.79
-  },
-  "SRPT": {
-   "price": 17.1,
-   "change_pct": -3.88
   },
   "TGTX": {
    "price": 53.97,
@@ -896,6 +884,21 @@
    ]
   },
   {
+   "id": "15af64256e21",
+   "headline": "GE HealthCare Technologies (GEHC) Could Be 19% Undervalued As Imaging Push Gains Ground",
+   "summary": "GE HealthCare Technologies (GEHC) has put molecular imaging in focus after securing CE Mark approval for its MINItrace Magni cyclotron and widening PETtrace Solid Target capabilities to include Copper-64 production. GE HealthCare\u2026",
+   "url": "https://finnhub.io/api/news?id=cb9493c251a1d8f1a2e7efdf2ab5394956edd4735889d505ef366c74f7d41a83",
+   "source": "Yahoo",
+   "published": "2026-10-17T12:17:37+00:00",
+   "tickers": [
+    "GEHC"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "81a99040cb16",
    "headline": "Apple, Salesforce Lead Five Stocks Near Buy Points",
    "summary": "Apple and Salesforce are doing well while the AI buildout sector reels. Consumer and healthcare names are coming to the fore.",
@@ -920,6 +923,7 @@
    "published": "2026-10-17T12:00:20+00:00",
    "tickers": [
     "ABBV",
+    "ABT",
     "BMY",
     "JNJ"
    ],
@@ -1259,6 +1263,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "3babf1f68b76",
+   "headline": "JD Vance Touts TrumpRx Drug Price Push, Trump Accounts as \u2018Economic Nationalism\u2019 Wins Ahead Of Midterms",
+   "summary": "JD Vance touted TrumpRx and Trump Accounts as key economic wins, highlighting prescription drug savings ahead of the midterm elections.",
+   "url": "https://finnhub.io/api/news?id=7f53e7e201129acaa174985f4cf5a99b4f5661557e3655f0da6542c22d807f31",
+   "source": "Benzinga",
+   "published": "2026-10-17T02:22:23+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "9d3c3a54f3e6",
@@ -2598,7 +2617,8 @@
    "source": "Benzinga",
    "published": "2026-10-16T15:30:09+00:00",
    "tickers": [
-    "DHR"
+    "DHR",
+    "ISRG"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -3200,6 +3220,21 @@
    ]
   },
   {
+   "id": "4980c7dab9f6",
+   "headline": "UBS Maintains Buy on Cardinal Health, Raises Price Target to $295",
+   "summary": "UBS analyst Kevin Caliendo maintains Cardinal Health (NYSE:CAH) with a Buy and raises the price target from $280 to $295.",
+   "url": "https://finnhub.io/api/news?id=b61774a049ee249e14d75bd0960ba07c7b622a8c32eb0e8f9d7c51c43bbb3310",
+   "source": "Benzinga",
+   "published": "2026-10-16T13:40:17+00:00",
+   "tickers": [
+    "CAH"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
+  {
    "id": "adc710a9c539",
    "headline": "STAT+: RevMed\u2019s pancreatic cancer drug nears European approval",
    "summary": "Following a green light from the FDA, European regulators have now recommended the approval of Revolution Medicines' Rasonque for pancreatic cancer.",
@@ -3340,6 +3375,21 @@
    "tag": "News",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "4c26f385b24a",
+   "headline": "Bernstein Maintains Outperform on UnitedHealth Group, Lowers Price Target to $500",
+   "summary": "Bernstein analyst Lance Wilkes maintains UnitedHealth Group (NYSE:UNH) with a Outperform and lowers the price target from $512 to $500.",
+   "url": "https://finnhub.io/api/news?id=bdd95ab28ad3393a74ffef0c39de55230307969900d33f879bab6f94ebce76c7",
+   "source": "Benzinga",
+   "published": "2026-10-16T13:05:26+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -3884,6 +3934,36 @@
    ]
   },
   {
+   "id": "6c6d288b7c0c",
+   "headline": "JP Morgan Maintains Overweight on UnitedHealth Group, Raises Price Target to $524",
+   "summary": "JP Morgan analyst Lisa Gill maintains UnitedHealth Group (NYSE:UNH) with a Overweight and raises the price target from $516 to $524.",
+   "url": "https://finnhub.io/api/news?id=56e5c9fd5acb97f06b1bd27d1fe26c00ae3d0b98829802821c72e004d5c873c1",
+   "source": "Benzinga",
+   "published": "2026-10-16T11:30:45+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "5f399e224dc6",
+   "headline": "Here's How Much $100 Invested In Amgen 15 Years Ago Would Be Worth Today",
+   "summary": "Amgen (NASDAQ:AMGN) has outperformed the market over the past 15 years by 1.45% on an annualized basis producing an average annual return of 14.3%. Currently, Amgen has a market capitalization of $230.37 billion.",
+   "url": "https://finnhub.io/api/news?id=4e3a5bc5c0a78c73d698f6130bc0bb938c93a492703cbb6590ee62454ca1ab13",
+   "source": "Benzinga",
+   "published": "2026-10-16T11:30:43+00:00",
+   "tickers": [
+    "AMGN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "63d05c9cdf0b",
    "headline": "If You Invested $1000 in Thermo Fisher Scientific a Decade Ago, This is How Much It'd Be Worth Now",
    "summary": "Why investing for the long run, especially if you buy certain popular stocks, could reap huge rewards.",
@@ -3983,6 +4063,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "4691557e67a3",
+   "headline": "If You Invested $1000 In Intuitive Surgical Stock 10 Years Ago, You Would Have This Much Today",
+   "summary": "Intuitive Surgical (NASDAQ:ISRG) has outperformed the market over the past 10 years by 5.33% on an annualized basis producing an average annual return of 19.01%. Currently, Intuitive Surgical has a market capitalization",
+   "url": "https://finnhub.io/api/news?id=fa72cb3245fcd9f096b3cb13fb9be590cf550e63bf7899f73e583275c352c9cf",
+   "source": "Benzinga",
+   "published": "2026-10-16T11:15:18+00:00",
+   "tickers": [
+    "ISRG"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
   },
   {
    "id": "90da77987369",
