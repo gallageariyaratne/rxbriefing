@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-17T02:17:36.571747+00:00",
+ "updated": "2026-10-17T02:32:42.102668+00:00",
  "quotes": {
   "A": {
    "price": 172.97,
@@ -162,6 +162,10 @@
    "price": 413.16,
    "change_pct": -4.41
   },
+  "IART": {
+   "price": 13.21,
+   "change_pct": -2.37
+  },
   "ILMN": {
    "price": 262.54,
    "change_pct": -2.01
@@ -317,10 +321,6 @@
   "VRTX": {
    "price": 499.74,
    "change_pct": -1.77
-  },
-  "WAY": {
-   "price": 27.36,
-   "change_pct": -3.12
   }
  },
  "tickers": {
@@ -938,6 +938,21 @@
  },
  "stories": [
   {
+   "id": "9d3c3a54f3e6",
+   "headline": "3 Great Biotech Stocks To Watch In October 2026",
+   "summary": "High energy costs are pushing inflation concerns back into focus after crude oil moved above US$100, and that kind of pressure often pushes investors toward higher risk, higher potential areas like biotechnology. Volatile times can create\u2026",
+   "url": "https://finnhub.io/api/news?id=32f01879d65f189bc0378db39879d27c143e76f50df0c70eda8c6055ddf5fef4",
+   "source": "Yahoo",
+   "published": "2026-10-17T01:13:41+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "7d7fa2dc19b3",
    "headline": "Hims And Hers Health (HIMS) Stock May Trade At A Discount Despite Australia Launch",
    "summary": "Hims & Hers Health has been a dramatic ride for shareholders over the past few years, yet recent share price weakness now has investors asking whether the current valuation is still supported by its sales base. With fresh product launches\u2026",
@@ -953,6 +968,22 @@
    ]
   },
   {
+   "id": "48af0a916fe9",
+   "headline": "Bristol-Myers Squibb vs. Johnson & Johnson: Which Healthcare Stock Is a Better Buy in 2026?",
+   "summary": "Bristol-Myers trades at a significant valuation discount, but its higher leverage and patent risks contrast sharply with Johnson & Johnson's diversified stability.",
+   "url": "https://finnhub.io/api/news?id=0936d03373bb17e263e876ceb2e2b2190733d790f2fa4fc4d26706b91436d608",
+   "source": "Yahoo",
+   "published": "2026-10-17T01:10:02+00:00",
+   "tickers": [
+    "BMY",
+    "JNJ"
+   ],
+   "tag": "Legal",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "2f62982b2d93",
    "headline": "When Amgen's Forecast And Chart Say The Same Thing, Pay Attention",
    "summary": "Amgen (AMGN) raised its revenue forecast for fiscal 2026 on August 4. Since the market close before that release, the stock has gained 15.2%, outpacing the 1.9% return of the S&P 500. A higher forecast or a climbing share price means\u2026",
@@ -961,6 +992,8 @@
    "published": "2026-10-17T00:53:09+00:00",
    "tickers": [
     "ABBV",
+    "BMY",
+    "JNJ",
     "MRK"
    ],
    "tag": "Earnings",
@@ -977,6 +1010,8 @@
    "published": "2026-10-17T00:37:58+00:00",
    "tickers": [
     "ABBV",
+    "BMY",
+    "JNJ",
     "MRK"
    ],
    "tag": "Earnings",
@@ -994,6 +1029,8 @@
    "tickers": [
     "ABBV",
     "AMGN",
+    "BMY",
+    "JNJ",
     "MRK",
     "PFE"
    ],
@@ -2995,6 +3032,21 @@
    ]
   },
   {
+   "id": "0366a00ce101",
+   "headline": "Integra LifeSciences to Highlight ENT and Instruments Portfolios and Sponsor New Clinical Research Presentations at AAO-HNSF 2026 Annual Meeting",
+   "summary": "ACCLARENT AERA\u00ae Eustachian Tube Treatment Simulation of a minimally invasive ear procedure using the ACCLARENT AERA\u00ae Eustachian Tube Treatment. PRINCETON, N.J., Oct. 16, 2026 (GLOBE NEWSWIRE) -- Integra LifeSciences Holdings Corporation\u2026",
+   "url": "https://finnhub.io/api/news?id=5761d582371c736621c5db7d8c2292c092d05693fd1fc7641aee04d71a19c2ab",
+   "source": "Yahoo",
+   "published": "2026-10-16T12:39:00+00:00",
+   "tickers": [
+    "IART"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "d0281f540b1a",
    "headline": "Which S&P500 stocks are moving before the opening bell on Friday?",
    "summary": "Wondering what's happening in today's pre-market session? Stay tuned for the latest updates on S&P500 stock movements.",
@@ -3309,6 +3361,7 @@
    "source": "Yahoo",
    "published": "2026-10-16T11:31:39+00:00",
    "tickers": [
+    "IART",
     "JAZZ"
    ],
    "tag": "News",
