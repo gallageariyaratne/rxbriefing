@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-17T01:47:37.488650+00:00",
+ "updated": "2026-10-17T02:02:36.166630+00:00",
  "quotes": {
   "A": {
    "price": 172.97,
@@ -277,6 +277,10 @@
   "SNY": {
    "price": 40.61,
    "change_pct": 0.79
+  },
+  "SRPT": {
+   "price": 17.1,
+   "change_pct": -3.88
   },
   "SYK": {
    "price": 294.66,
@@ -934,6 +938,36 @@
  },
  "stories": [
   {
+   "id": "7d7fa2dc19b3",
+   "headline": "Hims And Hers Health (HIMS) Stock May Trade At A Discount Despite Australia Launch",
+   "summary": "Hims & Hers Health has been a dramatic ride for shareholders over the past few years, yet recent share price weakness now has investors asking whether the current valuation is still supported by its sales base. With fresh product launches\u2026",
+   "url": "https://finnhub.io/api/news?id=6e05179f2cce3452c76e7c056f70c877b5fd8424a46ba0f0e2a73185d2a99338",
+   "source": "Yahoo",
+   "published": "2026-10-17T01:13:19+00:00",
+   "tickers": [
+    "HIMS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
+   "id": "2f62982b2d93",
+   "headline": "When Amgen's Forecast And Chart Say The Same Thing, Pay Attention",
+   "summary": "Amgen (AMGN) raised its revenue forecast for fiscal 2026 on August 4. Since the market close before that release, the stock has gained 15.2%, outpacing the 1.9% return of the S&P 500. A higher forecast or a climbing share price means\u2026",
+   "url": "https://finnhub.io/api/news?id=ddb56e3c9661675f49062aebfa86d5d29be9a5e9841df1481875ad51a4717ce5",
+   "source": "Yahoo",
+   "published": "2026-10-17T00:53:09+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "1de36024c8f4",
    "headline": "Gilead\u2019s HIV Prevention Business Just Topped $1 Billion A Quarter. What Comes Next?",
    "summary": "Gilead Sciences (GILD) built its foundation on HIV treatment. Biktarvy alone accounted for $14.3 billion of the company's $29.4 billion in fiscal 2025 revenue. Yet another segment of the HIV business is growing at a much faster pace, and\u2026",
@@ -941,7 +975,8 @@
    "source": "Yahoo",
    "published": "2026-10-17T00:37:58+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "MRK"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -958,6 +993,7 @@
    "tickers": [
     "ABBV",
     "AMGN",
+    "MRK",
     "PFE"
    ],
    "tag": "News",
@@ -2327,7 +2363,8 @@
     "ALNY",
     "MRK",
     "MRNA",
-    "PFE"
+    "PFE",
+    "SRPT"
    ],
    "tag": "News",
    "sectors": [
@@ -3511,7 +3548,8 @@
    "source": "Yahoo",
    "published": "2026-10-16T10:50:54+00:00",
    "tickers": [
-    "ALNY"
+    "ALNY",
+    "RVMD"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -6771,7 +6809,8 @@
    "tickers": [
     "AZN",
     "MRK",
-    "MRNA"
+    "MRNA",
+    "RVMD"
    ],
    "tag": "Clinical",
    "sectors": [
