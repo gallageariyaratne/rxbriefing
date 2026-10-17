@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-17T20:01:58.299451+00:00",
+ "updated": "2026-10-17T20:16:45.171631+00:00",
  "quotes": {
   "A": {
    "price": 172.97,
@@ -129,6 +129,10 @@
   "PFE": {
    "price": 29.58,
    "change_pct": 0.48
+  },
+  "REGN": {
+   "price": 790.74,
+   "change_pct": -0.7
   },
   "RGEN": {
    "price": 175.42,
@@ -773,6 +777,36 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "272e7d7ae50b",
+   "headline": "Forget Eylea: Regeneron's Real Value May Be Hiding in Its Dupixent Profit Share",
+   "summary": "Regeneron's biggest growth driver still has plenty of fuel left in the tank.",
+   "url": "https://finnhub.io/api/news?id=72476d04b1d43b4f80713712e58f62aa5de07856a666161f94f1b60a49c04ee2",
+   "source": "Yahoo",
+   "published": "2026-10-17T19:44:00+00:00",
+   "tickers": [
+    "REGN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "85672f8282e4",
+   "headline": "OPKO Health (OPK) Sells BioReference Assets On A Valuation Story That Still Divides",
+   "summary": "OPKO Health (OPK) drew fresh attention after agreeing to sell select BioReference Health assets to Labcorp in a deal valued at up to US$872 million, a move that could reshape its diagnostics footprint and capital allocation priorities.\u2026",
+   "url": "https://finnhub.io/api/news?id=e20118b395c1fcab44866a321e7779c08eee6a67d07be0aaff04f641386c736e",
+   "source": "Yahoo",
+   "published": "2026-10-17T18:14:04+00:00",
+   "tickers": [
+    "LH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
   {
    "id": "5b2d8f075e94",
    "headline": "Move Aside, Moderna: This mRNA Stock Is Sitting on a Cash Pile and a Deep Cancer Pipeline",
