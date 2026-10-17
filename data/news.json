@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-17T00:58:06.581521+00:00",
+ "updated": "2026-10-17T01:02:31.651993+00:00",
  "quotes": {
   "A": {
    "price": 172.97,
@@ -73,6 +73,10 @@
   "CRL": {
    "price": 300.15,
    "change_pct": -1.99
+  },
+  "CRSP": {
+   "price": 49.25,
+   "change_pct": -4.41
   },
   "CVS": {
    "price": 92.36,
@@ -225,6 +229,10 @@
   "OSCR": {
    "price": 31.89,
    "change_pct": -4.72
+  },
+  "PACB": {
+   "price": 1.73,
+   "change_pct": -11.73
   },
   "PFE": {
    "price": 29.58,
@@ -925,6 +933,21 @@
    ]
   },
   {
+   "id": "1c52198bbf9a",
+   "headline": "Stocktwits Biotech Dealmaker: Gilead, AstraZeneca And Roche Chase Pipeline Expansion Over Buyouts",
+   "summary": "Deals for AI discovery platforms and differentiated experimental candidates for obesity and solid tumors dominated the week.",
+   "url": "https://finnhub.io/api/news?id=c24a387ce048982c54643c18cf27e41d68dbbc08e17c53f7eae6a385af68f2ee",
+   "source": "Yahoo",
+   "published": "2026-10-16T23:57:18+00:00",
+   "tickers": [
+    "GILD"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "ac0de6367788",
    "headline": "Review & Preview: AI Bloodbath",
    "summary": "Tech had a brutal week as investors worried about the AI buildout.",
@@ -1067,6 +1090,21 @@
    ]
   },
   {
+   "id": "e9daeda42f94",
+   "headline": "CRISPR Therapeutics AG (CRSP) Falls More Steeply Than Broader Market: What Investors Need to Know",
+   "summary": "CRISPR Therapeutics AG (CRSP) concluded the recent trading session at $49.21, signifying a -4.48% move from its prior day's close.",
+   "url": "https://finnhub.io/api/news?id=f66af2c78665601df87273b3391a518200e78165817f698e9013ed8b7ba98aaf",
+   "source": "Yahoo",
+   "published": "2026-10-16T20:50:05+00:00",
+   "tickers": [
+    "CRSP"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "f101913afdb1",
    "headline": "Moderna Stock Slumps, but It\u2019s Too Early to Panic",
    "summary": "Moderna and Revolution Medicines have upcoming catalysts that could help sustain their gains, even as biotech stocks retreat.",
@@ -1074,7 +1112,10 @@
    "source": "Yahoo",
    "published": "2026-10-16T20:49:00+00:00",
    "tickers": [
-    "AMGN"
+    "AMGN",
+    "LLY",
+    "MRK",
+    "MRNA"
    ],
    "tag": "News",
    "sectors": [
@@ -1105,6 +1146,7 @@
    "published": "2026-10-16T20:43:39+00:00",
    "tickers": [
     "MRNA",
+    "PACB",
     "RGEN"
    ],
    "tag": "News",
@@ -1137,6 +1179,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "d858a1fe9411",
+   "headline": "Tough Trading Leaves Indices In The Red",
+   "summary": "Nasdaq loses 4% on the week. WTI crude settles over $101 per barrel. Inflation worries climb but FedWatch tool stays steady",
+   "url": "https://finnhub.io/api/news?id=5922d94a3abed12c8a3406d8ca67edcda453c5c0dbf98dc4e8c91e66fad73146",
+   "source": "SeekingAlpha",
+   "published": "2026-10-16T20:20:00+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "Legal",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "62439868a980",
@@ -1657,6 +1714,21 @@
    "tickers": [],
    "tag": "Financing",
    "sectors": []
+  },
+  {
+   "id": "00cef3ee3858",
+   "headline": "Iambic CEO on taking an AI drug company public",
+   "summary": "Fresh off a $150 million IPO, Tom Miller spoke to BioPharma Dive about the roadshow process and how he sees AI\u2019s role in drug development evolving.",
+   "url": "https://finnhub.io/api/news?id=d0b86ebea3bcef4b63c4d948f5715ec1523e0cbd65ecafe575cc4090cb7495e6",
+   "source": "Yahoo",
+   "published": "2026-10-16T16:10:00+00:00",
+   "tickers": [
+    "RXRX"
+   ],
+   "tag": "Financing",
+   "sectors": [
+    "healthai"
+   ]
   },
   {
    "id": "0aacd8d7f1a1",
