@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-17T15:16:58.710956+00:00",
+ "updated": "2026-10-17T15:32:01.764578+00:00",
  "quotes": {
   "ABBV": {
    "price": 285.42,
@@ -209,10 +209,6 @@
   "VKTX": {
    "price": 25.17,
    "change_pct": -8.04
-  },
-  "ZTS": {
-   "price": 79.38,
-   "change_pct": 1.22
   }
  },
  "tickers": {
@@ -936,6 +932,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "bae42f26bb8f",
+   "headline": "Meta, Tesla Headline Earnings In Busy Week For Markets",
+   "summary": "Wall Street Week Ahead: key earnings (Meta, Tesla, Netflix), IPOs & economic data. Read here for more details.",
+   "url": "https://finnhub.io/api/news?id=3dcbe5a8689c76a628f51ae4c5084970467aab6b7f0f374e353ded8fe09592d4",
+   "source": "SeekingAlpha",
+   "published": "2026-10-17T11:00:00+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -3158,6 +3169,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "7f976d6e6ed4",
+   "headline": "UBS Maintains Buy on Cencora, Lowers Price Target to $400",
+   "summary": "UBS analyst Kevin Caliendo maintains Cencora (NYSE:COR) with a Buy and lowers the price target from $430 to $400.",
+   "url": "https://finnhub.io/api/news?id=7f5aa537edf957e5ae129b21b7bb6acbdb98451671dbdce532f28031683d4453",
+   "source": "Benzinga",
+   "published": "2026-10-16T13:55:03+00:00",
+   "tickers": [
+    "COR"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "pharmacy"
+   ]
   },
   {
    "id": "e831f7ba59d8",
@@ -33655,24 +33681,6 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
-  },
-  {
-   "id": "59ceec38416d",
-   "headline": "Halozyme prevails in patent fight with Merck; Enliven readies anticipated leukemia trial",
-   "summary": "A Dutch court barred Merck from selling subcutaneous Keytruda in several European countries. Elsewhere, an Insmed executive ended a seven-year run and two startups secured venture cash.",
-   "url": "https://www.biopharmadive.com/news/halozyme-merck-europe-enliven-insmed-rougetx-kymathera/832282/",
-   "source": "BioPharma Dive",
-   "published": "2026-10-07T15:21:00+00:00",
-   "tickers": [
-    "HALO",
-    "INSM",
-    "MRK"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "biotech",
-    "pharma"
-   ]
   }
  ]
 }
