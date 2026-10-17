@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-17T01:02:31.651993+00:00",
+ "updated": "2026-10-17T01:17:33.036311+00:00",
  "quotes": {
   "A": {
    "price": 172.97,
@@ -41,6 +41,10 @@
   "AXSM": {
    "price": 157.14,
    "change_pct": -2.87
+  },
+  "AZN": {
+   "price": 165.41,
+   "change_pct": -0.76
   },
   "BIIB": {
    "price": 232.65,
@@ -277,6 +281,10 @@
   "TMO": {
    "price": 690,
    "change_pct": -0.93
+  },
+  "TXG": {
+   "price": 69.86,
+   "change_pct": -3.5
   },
   "UNH": {
    "price": 401.43,
@@ -918,6 +926,21 @@
  },
  "stories": [
   {
+   "id": "1de36024c8f4",
+   "headline": "Gilead\u2019s HIV Prevention Business Just Topped $1 Billion A Quarter. What Comes Next?",
+   "summary": "Gilead Sciences (GILD) built its foundation on HIV treatment. Biktarvy alone accounted for $14.3 billion of the company's $29.4 billion in fiscal 2025 revenue. Yet another segment of the HIV business is growing at a much faster pace, and\u2026",
+   "url": "https://finnhub.io/api/news?id=4ceb14cf168e6a03b7c306392042043ca662a3e864ad75e2c2967d3eb042758f",
+   "source": "Yahoo",
+   "published": "2026-10-17T00:37:58+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "987da3486a47",
    "headline": "Is Amgen Stock Increasing Your Market Risk?",
    "summary": "Investors holding shares of Amgen (AMGN), the $234 billion maker of drugs such as Repatha and Prolia, likely pair that position with broad exposure to the S&P 500. As the broader market rises and falls each day, the pharmaceutical stock's\u2026",
@@ -925,6 +948,7 @@
    "source": "Yahoo",
    "published": "2026-10-17T00:13:53+00:00",
    "tickers": [
+    "ABBV",
     "PFE"
    ],
    "tag": "News",
@@ -940,6 +964,7 @@
    "source": "Yahoo",
    "published": "2026-10-16T23:57:18+00:00",
    "tickers": [
+    "AZN",
     "GILD"
    ],
    "tag": "GLP-1",
@@ -975,6 +1000,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "cda63cf8dbea",
+   "headline": "Neurocrine Biosciences (NBIX) Stock Trades Below Fair Value On Earnings",
+   "summary": "Neurocrine Biosciences shares have pulled back in recent weeks after a multi year climb, which puts a spotlight on whether the current price around US$135 still lines up with what the business is earning. For anyone tracking the stock,\u2026",
+   "url": "https://finnhub.io/api/news?id=af81d8ec1f76ea5afaf444a9932d00e7a4b80ee6553d83f27f14be111f8825f1",
+   "source": "Yahoo",
+   "published": "2026-10-16T23:16:10+00:00",
+   "tickers": [
+    "NBIX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -1912,6 +1952,21 @@
    "sectors": []
   },
   {
+   "id": "006adc9e81b3",
+   "headline": "AstraZeneca\u2019s Shares Have Fallen, but Is 14.6x Forward Earnings a Buying Opportunity?",
+   "summary": "AstraZeneca PLC (NYSE:AZN) is lagging the broader market this year so far, with shares declining by over 8%. The underperformance is significant for investors to consider because AstraZeneca\u2019s operating results have remained relatively\u2026",
+   "url": "https://finnhub.io/api/news?id=2f8e0ad23e801caa31238a5c0aae9266c29741fad8e875ece0ed294ad3fda687",
+   "source": "Yahoo",
+   "published": "2026-10-16T15:33:54+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "fe67899b4556",
    "headline": "AbbVie is Outperforming the Market this Year So Far. Is Its 16.4x Valuation Attractive?",
    "summary": "AbbVie Inc. (NYSE:ABBV) is delivering strong returns this year, with shares surging by over 23% year-to-date. In comparison, the broader market has returned nearly 13% in the same period. Yahoo Finance\u2019s latest data puts AbbVie\u2019s forward\u2026",
@@ -2738,6 +2793,21 @@
    ]
   },
   {
+   "id": "9c67c812e794",
+   "headline": "4 Breast Cancer Stocks to Watch During Breast Cancer Awareness Month",
+   "summary": "AZN, RHHBY, PBYI and OLMA offer exposure to breast cancer drug sales growth, expanded treatment approvals and clinical milestones that could shape prospects.",
+   "url": "https://finnhub.io/api/news?id=ad928b3e3c882003c729a7158ee6b1ac08c41ea755cfbe8e44d118c6205a42fb",
+   "source": "Yahoo",
+   "published": "2026-10-16T12:45:00+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "ef4b7b378a14",
    "headline": "MiniMed Announces Board of Directors for its Next Chapter as an Independent Company",
    "summary": "MiniMed (Nasdaq: MMED), a global leader in diabetes technology, today announced the composition of its Board of Directors following the completion of the company's separation from Medtronic. This new Board composition reflects MiniMed's\u2026",
@@ -3106,6 +3176,21 @@
    ]
   },
   {
+   "id": "f7f50be9cc07",
+   "headline": "AstraZeneca and insitro forge $1.5bn AI-powered cardiometabolic partnership",
+   "summary": "This deal with insitro sees AstraZeneca double down on its intention to enter the growing MASH market.",
+   "url": "https://finnhub.io/api/news?id=dc1a9e232ff7204f6d5695f12fb8d5e3a93cfab7c6790f9669c30ae60bbfff27",
+   "source": "Yahoo",
+   "published": "2026-10-16T11:24:37+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "29c3e6f362ec",
    "headline": "1 Nasdaq 100 Stock on Our Watchlist and 2 That Underwhelm",
    "summary": "The Nasdaq 100 (^NDX) is home to some of the biggest success stories in tech and growth investing. However, certain stocks in the index face challenges like profitability concerns, rising costs, or shifts in market trends.",
@@ -3118,6 +3203,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "20f93b68f9f0",
+   "headline": "10x Genomics (TXG) Stock Fair Value Rises After Analysts Back AI And Atera Demand",
+   "summary": "Analysts have lifted their Fair Value estimate for 10x Genomics from about US$62.13 to about US$75.67, a change of roughly 22% in the latest round of models. Much of this reset in price targets ties back to Street commentary around AI\u2026",
+   "url": "https://finnhub.io/api/news?id=992793168c029983868a820cd0d26b8061e45111e82d518807c900cc38e54099",
+   "source": "Yahoo",
+   "published": "2026-10-16T11:20:19+00:00",
+   "tickers": [
+    "TXG"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -6525,6 +6625,7 @@
    "source": "Yahoo",
    "published": "2026-10-15T13:47:46+00:00",
    "tickers": [
+    "AZN",
     "MRK",
     "MRNA"
    ],
