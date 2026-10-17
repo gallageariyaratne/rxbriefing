@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-17T00:17:30.379495+00:00",
+ "updated": "2026-10-17T00:32:48.228121+00:00",
  "quotes": {
   "A": {
    "price": 172.97,
@@ -37,6 +37,10 @@
   "ASND": {
    "price": 225.25,
    "change_pct": -0.6
+  },
+  "AXSM": {
+   "price": 157.14,
+   "change_pct": -2.87
   },
   "BIIB": {
    "price": 232.65,
@@ -214,6 +218,10 @@
    "price": 31.2,
    "change_pct": -0.06
   },
+  "OSCR": {
+   "price": 31.89,
+   "change_pct": -4.72
+  },
   "PFE": {
    "price": 29.58,
    "change_pct": 0.48
@@ -265,6 +273,10 @@
   "UTHR": {
    "price": 533.12,
    "change_pct": -1.55
+  },
+  "VKTX": {
+   "price": 25.17,
+   "change_pct": -8.04
   },
   "VRTX": {
    "price": 499.74,
@@ -988,6 +1000,21 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "b32c11b730ca",
+   "headline": "Viking Therapeutics, Inc. (VKTX) Falls More Steeply Than Broader Market: What Investors Need to Know",
+   "summary": "Viking Therapeutics, Inc. (VKTX) reached $25.11 at the closing of the latest trading day, reflecting a -8.26% change compared to its last close.",
+   "url": "https://finnhub.io/api/news?id=756dacff2b5dbf5fbdaff9559df3e3adb4fe3fb30a4aee4016fd6b777c471843",
+   "source": "Yahoo",
+   "published": "2026-10-16T20:45:04+00:00",
+   "tickers": [
+    "VKTX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -2096,6 +2123,7 @@
    "source": "Yahoo",
    "published": "2026-10-16T14:28:02+00:00",
    "tickers": [
+    "AXSM",
     "EXEL"
    ],
    "tag": "M&A",
@@ -2203,7 +2231,8 @@
    "source": "Yahoo",
    "published": "2026-10-16T14:19:00+00:00",
    "tickers": [
-    "MOH"
+    "MOH",
+    "OSCR"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -2218,7 +2247,8 @@
    "source": "Yahoo",
    "published": "2026-10-16T14:11:39+00:00",
    "tickers": [
-    "A"
+    "A",
+    "OSCR"
    ],
    "tag": "News",
    "sectors": [
@@ -2430,6 +2460,21 @@
    "sectors": []
   },
   {
+   "id": "ada8c9353095",
+   "headline": "Does Axsome Therapeutics (AXSM) Trade Above Fair Value On Sales?",
+   "summary": "Axsome Therapeutics has delivered a very strong multi\u2011year share price run, yet recent pullbacks have many investors asking whether the current valuation can still be supported by its sales. With the stock now well above where it traded\u2026",
+   "url": "https://finnhub.io/api/news?id=dac97d7ce3b0a25ff4b8dab5a208c5dc963f8b044ee1b8b9cae6b03049479dde",
+   "source": "Yahoo",
+   "published": "2026-10-16T13:09:41+00:00",
+   "tickers": [
+    "AXSM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "dfba4564fa42",
    "headline": "AMA releases governance framework for agentic AI in healthcare",
    "summary": "Industry groups have worked to release guidance on artificial intelligence-backed agents in the absence of federal regulation.",
@@ -2570,6 +2615,21 @@
    "tag": "Earnings",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "626cb12afd64",
+   "headline": "Are Finance Stocks Lagging ASX Limited - Unsponsored ADR (ASXFY) This Year?",
+   "summary": "Here is how ASX Limited - Unsponsored ADR (ASXFY) and Oscar Health, Inc. (OSCR) have performed compared to their sector so far this year.",
+   "url": "https://finnhub.io/api/news?id=9bc1c54266b5002adcc999ed6053ddbd81cc3aa181c1a61024e823b591f600b8",
+   "source": "Yahoo",
+   "published": "2026-10-16T12:40:04+00:00",
+   "tickers": [
+    "OSCR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -2877,6 +2937,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "84ca754a42b1",
+   "headline": "Zacks Investment Ideas feature highlights: CoreWeave, Cinemark, Oscar Health and Heico",
+   "summary": "Cinemark, Oscar Health and Heico stand out amid market turmoil, with rising earnings estimates, strong fundamentals and constructive price action.",
+   "url": "https://finnhub.io/api/news?id=0fe8c8f697e8c6a0676481ba4ccda67f5359f49d6c68537801487eb0949d5865",
+   "source": "Yahoo",
+   "published": "2026-10-16T11:30:00+00:00",
+   "tickers": [
+    "OSCR"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
    ]
   },
   {
