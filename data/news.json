@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-17T14:17:20.186451+00:00",
+ "updated": "2026-10-17T14:32:20.169334+00:00",
  "quotes": {
   "ABBV": {
    "price": 285.42,
@@ -33,10 +33,6 @@
   "ASND": {
    "price": 225.25,
    "change_pct": -0.6
-  },
-  "AXSM": {
-   "price": 157.14,
-   "change_pct": -2.87
   },
   "AZN": {
    "price": 165.41,
@@ -110,10 +106,6 @@
    "price": 86.6,
    "change_pct": -1.7
   },
-  "EXEL": {
-   "price": 62.23,
-   "change_pct": -0.95
-  },
   "GEHC": {
    "price": 69.57,
    "change_pct": -1.11
@@ -154,10 +146,6 @@
    "price": 262.54,
    "change_pct": -2.01
   },
-  "INCY": {
-   "price": 113.07,
-   "change_pct": -0.18
-  },
   "ISRG": {
    "price": 426.7,
    "change_pct": -0.27
@@ -165,10 +153,6 @@
   "JNJ": {
    "price": 255.56,
    "change_pct": 0.9
-  },
-  "KRYS": {
-   "price": 316.58,
-   "change_pct": -4.07
   },
   "LH": {
    "price": 317.95,
@@ -209,10 +193,6 @@
   "NVS": {
    "price": 150.62,
    "change_pct": 0.16
-  },
-  "OSCR": {
-   "price": 31.89,
-   "change_pct": -4.72
   },
   "PACB": {
    "price": 1.73,
@@ -923,7 +903,8 @@
    "source": "Yahoo",
    "published": "2026-10-17T12:00:51+00:00",
    "tickers": [
-    "TGTX"
+    "TGTX",
+    "THC"
    ],
    "tag": "Health AI",
    "sectors": [
@@ -939,7 +920,8 @@
    "published": "2026-10-17T12:00:20+00:00",
    "tickers": [
     "ABBV",
-    "BMY"
+    "BMY",
+    "JNJ"
    ],
    "tag": "News",
    "sectors": [
@@ -3149,6 +3131,21 @@
    "sectors": []
   },
   {
+   "id": "e831f7ba59d8",
+   "headline": "Ascentage Pharma Stock Could More Than Double: Analyst",
+   "summary": "William Blair sees major upside for Ascentage Pharma stock as the cancer drug developer approaches three pivotal trial results in 2027.",
+   "url": "https://finnhub.io/api/news?id=5fb691990ab4b2992f63cbc257a86fd60475176427b57a7c1774316c0e919c2a",
+   "source": "Benzinga",
+   "published": "2026-10-16T13:52:24+00:00",
+   "tickers": [
+    "TAK"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "0ac122dde915",
    "headline": "STAT+: Pharmalittle: We\u2019re reading about an HHS peptide push, Trump\u2019s pharma stock holdings, and more",
    "summary": "The Trump administration is proceeding with a plan to allow compounding pharmacies to produce certain peptides",
@@ -3722,6 +3719,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "9c18d6e4bdec",
+   "headline": "Wells Fargo Maintains Overweight on Johnson & Johnson, Raises Price Target to $287",
+   "summary": "Wells Fargo analyst Larry Biegelsen maintains Johnson & Johnson (NYSE:JNJ) with a Overweight and raises the price target from $275 to $287.",
+   "url": "https://finnhub.io/api/news?id=29037aa047eedc5b98872c652d439977c9ae88de2776d706c687b411e7103793",
+   "source": "Benzinga",
+   "published": "2026-10-16T12:07:44+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "pharma"
    ]
   },
   {
