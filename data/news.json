@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-17T08:47:37.733306+00:00",
+ "updated": "2026-10-17T09:02:38.474932+00:00",
  "quotes": {
   "A": {
    "price": 172.97,
@@ -174,6 +174,10 @@
    "price": 13.21,
    "change_pct": -2.37
   },
+  "IDXX": {
+   "price": 560.36,
+   "change_pct": 2.41
+  },
   "ILMN": {
    "price": 262.54,
    "change_pct": -2.01
@@ -245,10 +249,6 @@
   "NVS": {
    "price": 150.62,
    "change_pct": 0.16
-  },
-  "OPCH": {
-   "price": 31.2,
-   "change_pct": -0.06
   },
   "OSCR": {
    "price": 31.89,
@@ -937,6 +937,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "f7875fee1a06",
+   "headline": "Hims & Hers Health (HIMS) Dropped, So What Is Driving Attention Now?",
+   "summary": "Hims & Hers Health (HIMS) is back in focus after fresh product news, with Hers Hair now rolling out in the UK as a clinician-led subscription hair loss service for women. Recent price action tells a mixed story for Hims & Hers Health,\u2026",
+   "url": "https://finnhub.io/api/news?id=1092bc94bd3dd046bc54677bdaf7652762e03d99458c8597d43e647ca59d94d6",
+   "source": "Yahoo",
+   "published": "2026-10-17T07:12:00+00:00",
+   "tickers": [
+    "HIMS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
+   ]
+  },
   {
    "id": "b1438ad561ce",
    "headline": "SKYRIZI\u00ae (risankizumab) and RINVOQ\u00ae (upadacitinib) Data Highlight Long-Term Clinical and Endoscopic Outcomes Across Inflammatory Bowel Disease (IBD) at UEGW 2026",
@@ -1724,6 +1739,21 @@
    ]
   },
   {
+   "id": "c60520f274de",
+   "headline": "S&P 500 Top Movers: Today's Gainers and Losers",
+   "summary": "Today's S&P 500 top movers include FANG, EOG, EQT, APA, NI, HONA, TRGP, KMI, RTX and NOC among gainers, while TWLO, MRNA, SMCI, DDOG and PANW lead decliners.",
+   "url": "https://finnhub.io/api/news?id=1623819f3bfa1555899d10dbc1cb3e08c5703c2ee3ac84cc9b6bc50bda3f12b0",
+   "source": "ChartMill",
+   "published": "2026-10-16T19:06:38+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "83181b5ed5a6",
    "headline": "Edwards recall of Sapien mitral delivery systems tied to 1 death",
    "summary": "Edwards is asking customers to return some of the delivery systems used with its Sapien M3 devices after receiving three reports of balloons bursting when inflated during the procedure.",
@@ -1854,6 +1884,7 @@
    "source": "ChartMill",
    "published": "2026-10-16T18:06:16+00:00",
    "tickers": [
+    "MRNA",
     "PFE"
    ],
    "tag": "News",
@@ -2070,6 +2101,22 @@
    "published": "2026-10-16T16:41:01+00:00",
    "tickers": [
     "MRK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "981bf231542c",
+   "headline": "S&P 500 Top Movers Today: HONA Tops Gainers, TWLO Tops Decliners",
+   "summary": "S&P 500 top movers today: HONA, EOG, EXE, NI, EQT, MSI, BKR, KMI, IDXX and SLB gained, while TWLO, MRNA, SMCI, CRWD, FTNT, DDOG, PLTR, COHR, FLEX and STX declined.",
+   "url": "https://finnhub.io/api/news?id=71b17cbd30cf9aa4ef3c77c0f458131845b037c6290603b9f3dd4fe992b04de2",
+   "source": "ChartMill",
+   "published": "2026-10-16T16:36:43+00:00",
+   "tickers": [
+    "IDXX",
+    "MRNA"
    ],
    "tag": "News",
    "sectors": [
@@ -2706,6 +2753,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "59655154e462",
+   "headline": "S&P 500 Gap Downs on October 16: MRNA, TWLO and COHR Lead Declines",
+   "summary": "S&P 500 gap downs on October 16 include MRNA, TWLO, COHR, STX, SMCI, WDC, SNDK, P, FLEX and PANW, with declines carrying into the session.",
+   "url": "https://finnhub.io/api/news?id=35d2528b6f45127bfd2262dd5afe7c59219686e8daef1a82ac77cbc7871d0c8e",
+   "source": "ChartMill",
+   "published": "2026-10-16T14:36:40+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
