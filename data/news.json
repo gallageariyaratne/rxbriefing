@@ -1,7 +1,55 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-17T12:32:20.627478+00:00",
+ "updated": "2026-10-17T12:47:24.751885+00:00",
  "quotes": {
+  "A": {
+   "price": 172.97,
+   "change_pct": -1.47
+  },
+  "ABBV": {
+   "price": 285.42,
+   "change_pct": 0.71
+  },
+  "ABSI": {
+   "price": 8.25,
+   "change_pct": -7.09
+  },
+  "ABT": {
+   "price": 104.89,
+   "change_pct": 0.2
+  },
+  "ALGN": {
+   "price": 147.31,
+   "change_pct": -1.36
+  },
+  "ALNY": {
+   "price": 231.83,
+   "change_pct": -0.94
+  },
+  "AMGN": {
+   "price": 432.49,
+   "change_pct": -0.35
+  },
+  "ARGX": {
+   "price": 819.14,
+   "change_pct": -3.21
+  },
+  "ASND": {
+   "price": 225.25,
+   "change_pct": -0.6
+  },
+  "AXSM": {
+   "price": 157.14,
+   "change_pct": -2.87
+  },
+  "AZN": {
+   "price": 165.41,
+   "change_pct": -0.76
+  },
+  "BIIB": {
+   "price": 232.65,
+   "change_pct": -1.15
+  },
   "BMY": {
    "price": 59.75,
    "change_pct": -1.35
@@ -102,10 +150,6 @@
    "price": 413.16,
    "change_pct": -4.41
   },
-  "IART": {
-   "price": 13.21,
-   "change_pct": -2.37
-  },
   "IDXX": {
    "price": 560.36,
    "change_pct": 2.41
@@ -201,6 +245,10 @@
   "RXRX": {
    "price": 3.46,
    "change_pct": -16.71
+  },
+  "SMMT": {
+   "price": 14.63,
+   "change_pct": -4.81
   },
   "SNY": {
    "price": 40.61,
@@ -970,6 +1018,21 @@
    ]
   },
   {
+   "id": "408f95337075",
+   "headline": "Summit Therapeutics (SMMT) Stock Fair Value Edges Higher After AstraZeneca Deal And Trial Focus",
+   "summary": "The fair value estimate for Summit Therapeutics has shifted slightly, from about US$29.21 per share to about US$30.07 per share, putting fresh focus on how analysts are framing the stock today. Recent research ties that move to the US$2b\u2026",
+   "url": "https://finnhub.io/api/news?id=ea5b4940fb7607b4779efc931bc8d5302fcf1971a6c3324227e56ba2ae3e9d30",
+   "source": "Yahoo",
+   "published": "2026-10-17T07:12:30+00:00",
+   "tickers": [
+    "SMMT"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "f7875fee1a06",
    "headline": "Hims & Hers Health (HIMS) Dropped, So What Is Driving Attention Now?",
    "summary": "Hims & Hers Health (HIMS) is back in focus after fresh product news, with Hers Hair now rolling out in the UK as a clinician-led subscription hair loss service for women. Recent price action tells a mixed story for Hims & Hers Health,\u2026",
@@ -1072,6 +1135,21 @@
    "tag": "FDA",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "705016825c94",
+   "headline": "Amgen's Q3 2026 Earnings: What to Expect",
+   "summary": "Amgen is scheduled to report its third-quarter results next month, and analysts expect a single-digit earnings rise.",
+   "url": "https://finnhub.io/api/news?id=aaac2ce878fbbecbdb3c56b87a08086dc2008dd01fe01680be3a23d94f641b66",
+   "source": "Yahoo",
+   "published": "2026-10-17T04:46:14+00:00",
+   "tickers": [
+    "AMGN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
    ]
   },
   {
