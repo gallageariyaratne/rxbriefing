@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-17T14:47:12.473272+00:00",
+ "updated": "2026-10-17T15:02:19.066498+00:00",
  "quotes": {
   "ABBV": {
    "price": 285.42,
@@ -42,17 +42,9 @@
    "price": 59.75,
    "change_pct": -1.35
   },
-  "BNTX": {
-   "price": 87.71,
-   "change_pct": -2.76
-  },
   "BSX": {
    "price": 44.39,
    "change_pct": 0.57
-  },
-  "CI": {
-   "price": 302.3,
-   "change_pct": 1.17
   },
   "CNC": {
    "price": 69.16,
@@ -125,10 +117,6 @@
   "HIMS": {
    "price": 28.07,
    "change_pct": -4.46
-  },
-  "HUM": {
-   "price": 413.16,
-   "change_pct": -4.41
   },
   "IDXX": {
    "price": 560.36,
@@ -225,6 +213,10 @@
   "TMO": {
    "price": 690,
    "change_pct": -0.93
+  },
+  "TRXB": {
+   "price": 14.01,
+   "change_pct": -1.06
   },
   "UNH": {
    "price": 401.43,
@@ -1272,9 +1264,25 @@
    "source": "Benzinga",
    "published": "2026-10-17T02:22:23+00:00",
    "tickers": [
+    "LLY",
     "PFE"
    ],
    "tag": "Policy",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "f722ff842951",
+   "headline": "Robotics Remains In Its \u2018Lego Era,\u2019 Says Former Nvidia Leader Turned VC as Physical AI Awaits Its ChatGPT Moment",
+   "summary": "Robotics remains in its Lego era as developers work to improve simulation, safety standards and hardware despite rising investment.",
+   "url": "https://finnhub.io/api/news?id=5912a49943b41eb68f736af61e6d3bd3094ccd83f6da90fdc287a3017191919d",
+   "source": "Benzinga",
+   "published": "2026-10-17T01:38:59+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "Health AI",
    "sectors": [
     "pharma"
    ]
@@ -2284,6 +2292,22 @@
    ]
   },
   {
+   "id": "af658e21ef5d",
+   "headline": "Eli Lilly Takes 19.9% Stake In TRex Bio With 5.48M Shares, Investing $12.3M In IPO",
+   "summary": "The Reporting Person beneficially owns an aggregate of 5,480,872 shares of Common Stock of the Issuer, consisting of (a) 2,510,411 shares of Common Stock that were issued to the Reporting Person upon conversion of",
+   "url": "https://finnhub.io/api/news?id=66a2c8b7031c41e0040a7c989ae66cc761db5e2d1f4856edb11dadfaa2c0a60a",
+   "source": "Benzinga",
+   "published": "2026-10-16T16:23:40+00:00",
+   "tickers": [
+    "LLY",
+    "TRXB"
+   ],
+   "tag": "Financing",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "7abbd76d99df",
    "headline": "Danaher\u2019s Stock Is Pricing in a Recovery. Can Its Earnings Deliver?",
    "summary": "Danaher Corporation (NYSE:DHR) has built its reputation on acquiring businesses with durable market positions and improving their performance through its Danaher Business System, a framework for operational efficiency and continuous\u2026",
@@ -2618,7 +2642,8 @@
    "published": "2026-10-16T15:30:09+00:00",
    "tickers": [
     "DHR",
-    "ISRG"
+    "ISRG",
+    "TMO"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -3378,6 +3403,21 @@
    ]
   },
   {
+   "id": "96edec5287ad",
+   "headline": "Revolution Medicines Stock Has Surged 124% This Year \u2014 Analyst Sees More Room to Grow",
+   "summary": "William Blair sets $226 price target for Revolution Medicines (RVMD) following Rasonque approval and major oncology expansion plans.",
+   "url": "https://finnhub.io/api/news?id=594a763855793adc71a85d355a72896bc8fa7aac016bdba2f914882954e2194e",
+   "source": "Benzinga",
+   "published": "2026-10-16T13:06:11+00:00",
+   "tickers": [
+    "RVMD"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "4c26f385b24a",
    "headline": "Bernstein Maintains Outperform on UnitedHealth Group, Lowers Price Target to $500",
    "summary": "Bernstein analyst Lance Wilkes maintains UnitedHealth Group (NYSE:UNH) with a Outperform and lowers the price target from $512 to $500.",
@@ -3620,6 +3660,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "b9a2bb0da829",
+   "headline": "Nasdaq 100 Slides As Micron, SanDisk, CoreWeave Sink: Stock Market Today",
+   "summary": "The Nasdaq 100 fell 1.5% at midday Friday as memory chips and AI-debt names sold off, while Fed Chair Warsh declined to rule out an October hike after hot CPI and PPI. WTI held near $96, the 10-year yield hovered around 5.1%, gold bounced\u2026",
+   "url": "https://finnhub.io/api/news?id=c5926a8a854f428679082b9816725c53cdafe5c734def83695422491bdeefea2",
+   "source": "Benzinga",
+   "published": "2026-10-16T12:33:06+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "79dcbe9787dd",
@@ -3870,6 +3925,21 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "124df9317af5",
+   "headline": "JP Morgan Maintains Overweight on IDEXX Laboratories, Lowers Price Target to $750",
+   "summary": "JP Morgan analyst Chris Schott maintains IDEXX Laboratories (NASDAQ:IDXX) with a Overweight and lowers the price target from $775 to $750.",
+   "url": "https://finnhub.io/api/news?id=265b302afede83b1c08e059b0ef308f526a917a77812946f139e524f916bf006",
+   "source": "Benzinga",
+   "published": "2026-10-16T11:55:57+00:00",
+   "tickers": [
+    "IDXX"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -4156,6 +4226,36 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "b880989f4dfc",
+   "headline": "Eli Lilly's GLP-1 Pill Wins Key European Backing for Obesity and Diabetes",
+   "summary": "Eli Lilly gains positive CHMP opinion for Foundayo (orforglipron), a new oral GLP-1 tablet for weight loss and type 2 diabetes.",
+   "url": "https://finnhub.io/api/news?id=f3b1936ea6095e7bb0bf5fa324671b60fbf442209ca69852b0af2662815a72d8",
+   "source": "Benzinga",
+   "published": "2026-10-16T11:04:31+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "85a694161263",
+   "headline": "William Blair Initiates Coverage On Revolution Medicines with Outperform Rating",
+   "summary": "William Blair analyst Alethia Young initiates coverage on Revolution Medicines (NASDAQ:RVMD) with a Outperform rating.",
+   "url": "https://finnhub.io/api/news?id=9b2b05696be20881b9ee010a76c2b799ec33512175a9ef3e45dd28529fe419f7",
+   "source": "Benzinga",
+   "published": "2026-10-16T11:02:49+00:00",
+   "tickers": [
+    "RVMD"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -33588,21 +33688,6 @@
    "sectors": [
     "biotech",
     "pharma"
-   ]
-  },
-  {
-   "id": "31a7c9874c26",
-   "headline": "Abbott gets FDA nod for updates to heart failure monitoring system",
-   "summary": "Patients can view their pulmonary artery pressure readings on their phone with the CardioMEMS updates, giving them a more active role in their care.",
-   "url": "https://www.medtechdive.com/news/abbott-gets-fda-nod-for-updates-to-heart-failure-monitoring-system/832370/",
-   "source": "MedTech Dive",
-   "published": "2026-10-07T14:52:16+00:00",
-   "tickers": [
-    "ABT"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
