@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-17T20:16:45.171631+00:00",
+ "updated": "2026-10-17T20:31:53.257565+00:00",
  "quotes": {
   "A": {
    "price": 172.97,
@@ -25,10 +25,6 @@
   "AMGN": {
    "price": 432.49,
    "change_pct": -0.35
-  },
-  "ASND": {
-   "price": 225.25,
-   "change_pct": -0.6
   },
   "AZN": {
    "price": 165.41,
@@ -161,6 +157,10 @@
   "VKTX": {
    "price": 25.17,
    "change_pct": -8.04
+  },
+  "VRTX": {
+   "price": 499.74,
+   "change_pct": -1.77
   }
  },
  "tickers": {
@@ -786,6 +786,21 @@
    "published": "2026-10-17T19:44:00+00:00",
    "tickers": [
     "REGN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "0785955e38d8",
+   "headline": "Vertex Pharmaceuticals (VRTX) Pancreatic Function Data Puts Its Undervalued Narrative In Focus",
+   "summary": "Vertex Pharmaceuticals (VRTX) stepped into the spotlight after new interim ALYFTREK data at the North American Cystic Fibrosis Conference suggested some young children regained pancreatic function and were able to stop enzyme replacement\u2026",
+   "url": "https://finnhub.io/api/news?id=d458f85fe45cebc4fcb8879f931134b5c1576acb47bc906b063a31c95c7dc32f",
+   "source": "Yahoo",
+   "published": "2026-10-17T19:14:46+00:00",
+   "tickers": [
+    "VRTX"
    ],
    "tag": "News",
    "sectors": [
