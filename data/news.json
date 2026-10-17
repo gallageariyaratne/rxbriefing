@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-17T02:47:27.704567+00:00",
+ "updated": "2026-10-17T03:02:41.607818+00:00",
  "quotes": {
   "A": {
    "price": 172.97,
@@ -298,6 +298,10 @@
    "price": 294.66,
    "change_pct": 0.49
   },
+  "TGTX": {
+   "price": 53.97,
+   "change_pct": -3.62
+  },
   "THC": {
    "price": 267.25,
    "change_pct": -2.86
@@ -317,10 +321,6 @@
   "UTHR": {
    "price": 533.12,
    "change_pct": -1.55
-  },
-  "VKTX": {
-   "price": 25.17,
-   "change_pct": -8.04
   }
  },
  "tickers": {
@@ -956,7 +956,8 @@
    "source": "Yahoo",
    "published": "2026-10-17T01:13:41+00:00",
    "tickers": [
-    "JNJ"
+    "JNJ",
+    "LLY"
    ],
    "tag": "News",
    "sectors": [
@@ -1039,6 +1040,7 @@
    "tickers": [
     "ABBV",
     "BMY",
+    "GILD",
     "JNJ",
     "MRK",
     "PFE"
@@ -1071,6 +1073,7 @@
    "source": "Yahoo",
    "published": "2026-10-17T00:14:27+00:00",
    "tickers": [
+    "ELV",
     "UNH"
    ],
    "tag": "News",
@@ -1879,7 +1882,8 @@
    "published": "2026-10-16T16:44:10+00:00",
    "tickers": [
     "MRNA",
-    "PFE"
+    "PFE",
+    "SNY"
    ],
    "tag": "News",
    "sectors": [
@@ -2540,6 +2544,7 @@
    "source": "Yahoo",
    "published": "2026-10-16T14:31:17+00:00",
    "tickers": [
+    "TGTX",
     "THC"
    ],
    "tag": "Earnings",
