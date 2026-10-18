@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-18T12:46:29.152785+00:00",
+ "updated": "2026-10-18T13:01:36.534636+00:00",
  "quotes": {
   "A": {
    "price": 172.97,
@@ -13,6 +13,10 @@
   "BEAM": {
    "price": 23.47,
    "change_pct": -5.09
+  },
+  "CRSP": {
+   "price": 49.25,
+   "change_pct": -4.41
   },
   "DXCM": {
    "price": 86.04,
@@ -724,6 +728,7 @@
    "source": "Yahoo",
    "published": "2026-10-18T11:10:00+00:00",
    "tickers": [
+    "CRSP",
     "VRTX"
    ],
    "tag": "News",
