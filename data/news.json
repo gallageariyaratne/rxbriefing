@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-18T16:01:36.409387+00:00",
+ "updated": "2026-10-18T16:16:26.248108+00:00",
  "quotes": {
   "A": {
    "price": 172.97,
@@ -13,6 +13,10 @@
   "CRSP": {
    "price": 49.25,
    "change_pct": -4.41
+  },
+  "DHR": {
+   "price": 229.04,
+   "change_pct": -1.06
   },
   "DXCM": {
    "price": 86.04,
@@ -53,10 +57,6 @@
   "NVS": {
    "price": 150.62,
    "change_pct": 0.16
-  },
-  "PFE": {
-   "price": 29.58,
-   "change_pct": 0.48
   },
   "REGN": {
    "price": 790.74,
@@ -697,6 +697,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "908dae4f3d64",
+   "headline": "Roper Technologies (ROP) vs. Danaher (DHR): Which Is the Better Long-Term Capital Allocator?",
+   "summary": "Roper Technologies, Inc. (NASDAQ:ROP) and Danaher Corporation (NYSE:DHR) have returned 4.01% and 18.97%, respectively, over the last six months, as of October 15. This compares to a 21.5% return for the Insider Monkey Billionaire Index\u2026",
+   "url": "https://finnhub.io/api/news?id=791ca2cf93c7a2d3213304eef5d0a285107390a49ff4c69f39aa9ab8b82530fe",
+   "source": "Yahoo",
+   "published": "2026-10-18T14:48:52+00:00",
+   "tickers": [
+    "DHR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
   {
    "id": "517049570fcb",
    "headline": "European Union Regulators Recommend Approval For Eli Lilly Weight Loss Pill",
