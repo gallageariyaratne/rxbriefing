@@ -1,11 +1,7 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-18T16:31:32.891953+00:00",
+ "updated": "2026-10-18T16:46:23.911974+00:00",
  "quotes": {
-  "A": {
-   "price": 172.97,
-   "change_pct": -1.47
-  },
   "BEAM": {
    "price": 23.47,
    "change_pct": -5.09
@@ -57,6 +53,10 @@
   "NVS": {
    "price": 150.62,
    "change_pct": 0.16
+  },
+  "PFE": {
+   "price": 29.58,
+   "change_pct": 0.48
   },
   "REGN": {
    "price": 790.74,
@@ -708,6 +708,21 @@
     "VRTX"
    ],
    "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "67edad49b819",
+   "headline": "Here's What $10,000 in Each of These 5 High-Yield Dividend Stocks Could Pay You in a Year",
+   "summary": "These five high-yield dividend stocks are paying yields of 5.88% to 16.72% -- but beware of a few key risks.",
+   "url": "https://finnhub.io/api/news?id=42e7d468911e976f80f6212ff5d4374b2d00c1c529f55a2aad659d0fade6032a",
+   "source": "Yahoo",
+   "published": "2026-10-18T14:50:00+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "News",
    "sectors": [
     "pharma"
    ]
