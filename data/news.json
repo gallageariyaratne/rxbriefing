@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-18T20:16:23.878356+00:00",
+ "updated": "2026-10-18T20:31:30.194492+00:00",
  "quotes": {
   "BEAM": {
    "price": 23.47,
@@ -9,6 +9,10 @@
   "CRSP": {
    "price": 49.25,
    "change_pct": -4.41
+  },
+  "CVS": {
+   "price": 92.36,
+   "change_pct": -0.24
   },
   "DHR": {
    "price": 229.04,
@@ -728,6 +732,21 @@
    "tag": "GLP-1",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "77917e755d7e",
+   "headline": "Wall Street Brunch: SpaceX, Tesla, Meta On The Earnings Card",
+   "summary": "SpaceX, Tesla and Meta earnings put AI spending in focus. Anthropic\u00e2\u0080\u0099s AI oversight plan. Elon Musk promises a \u00e2\u0080\u0098sentient\u00e2\u0080\u0099 Roadster.",
+   "url": "https://finnhub.io/api/news?id=94735cc9488b6d03b181b6d9b142678f324e171f33ae8a31f1c1a4def85acc55",
+   "source": "SeekingAlpha",
+   "published": "2026-10-18T15:35:00+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
    ]
   },
   {
