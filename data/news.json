@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-18T15:01:30.765293+00:00",
+ "updated": "2026-10-18T15:16:30.523207+00:00",
  "quotes": {
   "A": {
    "price": 172.97,
@@ -34,10 +34,6 @@
    "price": 108.66,
    "change_pct": -0.63
   },
-  "JNJ": {
-   "price": 255.56,
-   "change_pct": 0.9
-  },
   "LH": {
    "price": 317.95,
    "change_pct": -2.19
@@ -45,6 +41,14 @@
   "LLY": {
    "price": 1257.03,
    "change_pct": 0.43
+  },
+  "MEDP": {
+   "price": 618.47,
+   "change_pct": -1.61
+  },
+  "MOH": {
+   "price": 207.36,
+   "change_pct": -2.42
   },
   "MRNA": {
    "price": 218.01,
@@ -771,6 +775,22 @@
    "tag": "M&A",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "bf4465cc250c",
+   "headline": "Earnings Volatility Watch: Bloom Energy and Other 11 Stocks Are Priced For Double-Digit Swings",
+   "summary": "Options price moves above 10% in 12 stocks next week, from TTM Technologies at 20.73% to Stifel Financial at 10.03%. The reports land after a chip and memory selloff that also hit CoreWeave",
+   "url": "https://finnhub.io/api/news?id=5c78bcce8cd0cc2226cc7783c6eead9b62cb211292a3c27b37fb45d52b6b91ab",
+   "source": "Benzinga",
+   "published": "2026-10-18T08:30:16+00:00",
+   "tickers": [
+    "MEDP",
+    "MOH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -34055,17 +34075,6 @@
    "published": "2026-10-08T15:18:05+00:00",
    "tickers": [],
    "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "a922e2ae7ce9",
-   "headline": "FDA says its safety review of abortion pill will continue into next year",
-   "summary": "The FDA says its ongoing safety review of the nation's main abortion pill will continue into next year, a timeline that was quickly condemned by abortion opponents.",
-   "url": "https://www.statnews.com/2026/10/08/fda-mifepristone-abortion-pill-safety-review-continue-into-2027/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-10-08T15:02:53+00:00",
-   "tickers": [],
-   "tag": "FDA",
    "sectors": []
   }
  ]
