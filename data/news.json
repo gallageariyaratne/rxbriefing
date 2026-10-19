@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-19T22:17:20.351431+00:00",
+ "updated": "2026-10-19T22:32:23.492926+00:00",
  "quotes": {
   "A": {
    "price": 169.9,
@@ -161,6 +161,10 @@
   "ISRG": {
    "price": 433.18,
    "change_pct": 1.52
+  },
+  "JAZZ": {
+   "price": 208.43,
+   "change_pct": -0.86
   },
   "JNJ": {
    "price": 253.79,
@@ -909,6 +913,52 @@
    "sectors": []
   },
   {
+   "id": "57c2c05c6a64",
+   "headline": "Better Dividend Stock: Merck vs. Bristol Myers Squibb",
+   "summary": "Key TakeawaysBristol Myers Squibb yields 4. 3% and Merck yields 2.",
+   "url": "https://finnhub.io/api/news?id=73907174e59d10a50f3876040c78a9ce5e2dfc7c2fc5f6c594d7fb6a75bb57f4",
+   "source": "Yahoo",
+   "published": "2026-10-19T21:31:49+00:00",
+   "tickers": [
+    "BMY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "bf9348cfda5c",
+   "headline": "Better Dividend Stock for Retirees: Bristol Myers Squibb vs. CVS Health",
+   "summary": "Key TakeawaysBristol Myers Squibb yields 4. 3% and CVS Health yields 3.",
+   "url": "https://finnhub.io/api/news?id=b6d3477caef86eb97f74d8e69b68a7968e7e2e7818298f50207f2cce9f70dda9",
+   "source": "Yahoo",
+   "published": "2026-10-19T21:12:01+00:00",
+   "tickers": [
+    "BMY",
+    "CVS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "96474e2b3f38",
+   "headline": "Bristol Myers Squibb (BMY) Heads To ESMO 2026 With New Oncology Data",
+   "summary": "Bristol-Myers Squibb (NYSE:BMY) plans to present late-breaking oncology data at ESMO 2026, including new results for pumitamig. The company will also share milestone findings for izalontamab brengitecan (iza bren) that focus on\u2026",
+   "url": "https://finnhub.io/api/news?id=f83bcbb6accb0077c656af33982a29b8e416ae1cd341cf2170e2e901c1ffe701",
+   "source": "Yahoo",
+   "published": "2026-10-19T21:08:42+00:00",
+   "tickers": [
+    "BMY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "bac139ea2cbd",
    "headline": "What Are Hims & Hers Health Stock Bears Missing?",
    "summary": "The June closing of the Eucalyptus acquisition transformed Hims & Hers Health (HIMS) into what the company now calls a global consumer health platform. Bears may be overlooking this shift. Investors probably still view the firm as a U.S.\u2026",
@@ -917,11 +967,28 @@
    "published": "2026-10-19T20:24:43+00:00",
    "tickers": [
     "CI",
+    "CVS",
+    "DGX",
     "LH"
    ],
    "tag": "M&A",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "78a0a595b804",
+   "headline": "Jazz Pharmaceuticals to Report Third Quarter Financial Results on November 2, 2026",
+   "summary": "Jazz Pharmaceuticals plc (Nasdaq: JAZZ) today announced it will report its 2026 third quarter financial results on Monday, November 2, 2026, after the close of the U.S. financial markets. Company management will host a webcast at 4:30\u2026",
+   "url": "https://finnhub.io/api/news?id=a48a22a7fb7a855833838cb16615a37f8c66c391f54c33e802233f5ce861411f",
+   "source": "Yahoo",
+   "published": "2026-10-19T20:15:00+00:00",
+   "tickers": [
+    "JAZZ"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -33607,40 +33674,6 @@
     "CLOV"
    ],
    "tag": "Policy",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "6baad84d5fd6",
-   "headline": "Dividend Champion, Contender, And Challenger Highlights: Week October 11",
-   "summary": "Get a weekly dividend recap for Champions, Contenders & Challengers\u00e2\u0080\u0094see dividend changes, upcoming ex-dividend dates and pay dates.",
-   "url": "https://finnhub.io/api/news?id=6ecf61a08d4e89e309d2bc77c13f5e7c620f7c06baba3507c179f7718a35d78e",
-   "source": "SeekingAlpha",
-   "published": "2026-10-09T22:26:01+00:00",
-   "tickers": [
-    "ABBV",
-    "ABT",
-    "CAH",
-    "MDT",
-    "TMO"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "91526c9b8a79",
-   "headline": "Humana (HUM) Stock Trades Up, Here Is Why",
-   "summary": "Shares of health insurance company Humana (NYSE:HUM) jumped 16.8% in the pre-market session after Robert W. Baird upgraded the company to Outperform from Neutral and raised its price target to $596 from $390, following an operational\u2026",
-   "url": "https://finnhub.io/api/news?id=1cab6596c18b84afa417c87209d7f9bd1c6eb2fb19b06bb0b97418f5368caea9",
-   "source": "Yahoo",
-   "published": "2026-10-09T22:19:10+00:00",
-   "tickers": [
-    "HUM"
-   ],
-   "tag": "Analyst",
    "sectors": [
     "payers"
    ]
