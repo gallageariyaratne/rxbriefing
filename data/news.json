@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-19T02:16:26.215842+00:00",
+ "updated": "2026-10-19T02:31:38.791278+00:00",
  "quotes": {
   "ABBV": {
    "price": 285.42,
@@ -70,6 +70,10 @@
    "price": 38.83,
    "change_pct": -0.99
   },
+  "NVS": {
+   "price": 150.62,
+   "change_pct": 0.16
+  },
   "PFE": {
    "price": 29.58,
    "change_pct": 0.48
@@ -89,6 +93,10 @@
   "UNH": {
    "price": 401.43,
    "change_pct": -1.29
+  },
+  "VKTX": {
+   "price": 25.17,
+   "change_pct": -8.04
   },
   "VRTX": {
    "price": 499.74,
@@ -768,6 +776,21 @@
    ]
   },
   {
+   "id": "fcbb7c0bc890",
+   "headline": "Viking Therapeutics Just Raised $575 Million. Here's What It Means for the Obesity Stock's Next Chapter.",
+   "summary": "Viking Therapeutics raised $575 million to fund major obesity drug trials, develop its pipeline, and support commercial development of any approvals for VK2735.",
+   "url": "https://finnhub.io/api/news?id=a22867852d6c8ee2105cceb6005f37d1300d097320f051adf2d4b1c839b41daa",
+   "source": "Yahoo",
+   "published": "2026-10-18T22:50:00+00:00",
+   "tickers": [
+    "VKTX"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "b83985df9777",
    "headline": "AbbVie to Present Data at the 2026 European Society for Medical Oncology (ESMO) Congress Highlighting Progress Across its Expanding Solid Tumor Portfolio",
    "summary": "New and updated data across seven assets in lung, colorectal, ovarian, prostate and gastric cancers underscore the potential of AbbVie's oncology portfolio to address diverse patient needs through next-generation ADCs, combination\u2026",
@@ -885,6 +908,21 @@
    "tag": "News",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "c3b03e85010b",
+   "headline": "Caltagirone (BIT:CALT) Stock May Still Be A Bargain After A 158% Run",
+   "summary": "Caltagirone has delivered a very strong 157.7% share price gain over the past three years, which naturally raises a question for anyone looking at the stock today. Are you now paying a price that is fully backed by the company\u2019s earnings,\u2026",
+   "url": "https://finnhub.io/api/news?id=864d45737f851bdf0fd1fafe85d3826526740d16cb01be0dda16556b9ead0c65",
+   "source": "Yahoo",
+   "published": "2026-10-18T19:11:18+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1128,6 +1166,21 @@
     "VRTX"
    ],
    "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "ca22eb06a254",
+   "headline": "Dormakaba Holding (SWX:DOKA) Stock May Trade At A Premium As Earnings Face Scrutiny",
+   "summary": "dormakaba Holding has delivered a 66.9% share price gain over the past three years, which puts fresh focus on whether that climb is supported by its current earnings power. With the stock most recently closing at CHF 66.10, the key issue\u2026",
+   "url": "https://finnhub.io/api/news?id=129e9ecc1d73de1f3f097caf68dc452bcc39daa84cad8752cb2484bcef20f32c",
+   "source": "Yahoo",
+   "published": "2026-10-18T09:14:37+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "Earnings",
    "sectors": [
     "pharma"
    ]
