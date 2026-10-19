@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-19T11:01:50.379569+00:00",
+ "updated": "2026-10-19T11:16:38.984813+00:00",
  "quotes": {
   "ABBV": {
    "price": 285.42,
@@ -49,6 +49,10 @@
   "INCY": {
    "price": 113.07,
    "change_pct": -0.18
+  },
+  "INSM": {
+   "price": 96.27,
+   "change_pct": -2.96
   },
   "ISRG": {
    "price": 426.7,
@@ -745,6 +749,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "dfc650ce919b",
+   "headline": "Insmed Launches BRINSUPRI\u00ae Tablets 25 mg (brensocatib hydrate) for the Treatment of Non-Cystic Fibrosis Bronchiectasis in Japan",
+   "summary": "\u2014BRINSUPRI, a First-in-Disease and First-in-Class Treatment for Patients With Non-Cystic Fibrosis Bronchiectasis (NCFB), Is Now Available by Prescription in Japan\u2014 BRIDGEWATER, N.J., Oct. 19, 2026 /PRNewswire/ -- Insmed Incorporated\u2026",
+   "url": "https://www.prnewswire.com/news-releases/insmed-launches-brinsupri-tablets-25-mg-brensocatib-hydrate-for-the-treatment-of-non-cystic-fibrosis-bronchiectasis-in-japan-302911560.html",
+   "source": "PR Newswire",
+   "published": "2026-10-19T11:00:00+00:00",
+   "tickers": [
+    "INSM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
   {
    "id": "023abf9505da",
    "headline": "AbbVie\u2019s next-gen Crohn\u2019s disease combo beats Skyrizi in phase 2 trial",
@@ -33588,36 +33607,6 @@
    "tag": "Analyst",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "d0f5cb3a4bf9",
-   "headline": "How Investors Are Reacting To Medtronic (MDT) Advancing Altaviva, Symplicity Spyral And Spinning Off MiniMed",
-   "summary": "In early October 2026, Medtronic announced new clinical evidence and program updates for its Altaviva\u2122 tibial neuromodulation device, AMA-approved Category I CPT\u00ae codes for both Altaviva\u2122 and the Symplicity Spyral\u2122 renal denervation\u2026",
-   "url": "https://finnhub.io/api/news?id=33d3bad27deccee3142c328e554d290f632bfce37c139fbb0df1f96bd17200b2",
-   "source": "Yahoo",
-   "published": "2026-10-09T11:13:28+00:00",
-   "tickers": [
-    "MDT"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "b72a925141d3",
-   "headline": "Bio-Techne opens GMP small molecule facility in Bristol, UK",
-   "summary": "The purpose-built site is fully operational and produces materials to support developers working on cell therapies globally.",
-   "url": "https://finnhub.io/api/news?id=faefeed0730560c3361c4dffd5733b8aaf9c5b1bea0f759e1766341a03f5d04a",
-   "source": "Yahoo",
-   "published": "2026-10-09T11:02:07+00:00",
-   "tickers": [
-    "TECH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
    ]
   }
  ]
