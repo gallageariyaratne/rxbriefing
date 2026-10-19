@@ -1,14 +1,18 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-19T20:03:36.424680+00:00",
+ "updated": "2026-10-19T20:17:29.462530+00:00",
  "quotes": {
+  "A": {
+   "price": 169.9,
+   "change_pct": -1.77
+  },
   "ABBV": {
-   "price": 282.78,
-   "change_pct": -0.93
+   "price": 282.68,
+   "change_pct": -0.96
   },
   "ABT": {
-   "price": 104.05,
-   "change_pct": -0.8
+   "price": 104.06,
+   "change_pct": -0.79
   },
   "ACAD": {
    "price": 19.8,
@@ -83,8 +87,8 @@
    "change_pct": -0.04
   },
   "DHR": {
-   "price": 224.38,
-   "change_pct": -2.03
+   "price": 224.43,
+   "change_pct": -2.01
   },
   "DOCS": {
    "price": 31.45,
@@ -131,8 +135,8 @@
    "change_pct": 0.28
   },
   "HUM": {
-   "price": 415.19,
-   "change_pct": 0.49
+   "price": 414.98,
+   "change_pct": 0.44
   },
   "IDXX": {
    "price": 555.8,
@@ -175,8 +179,8 @@
    "change_pct": -2.09
   },
   "MRK": {
-   "price": 143.65,
-   "change_pct": -1.58
+   "price": 143.63,
+   "change_pct": -1.59
   },
   "MRNA": {
    "price": 226.89,
@@ -239,8 +243,8 @@
    "change_pct": -2.56
   },
   "SYK": {
-   "price": 298.2,
-   "change_pct": 1.2
+   "price": 297.94,
+   "change_pct": 1.11
   },
   "TAK": {
    "price": 19.61,
@@ -893,6 +897,36 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "e0e3835dd3c8",
+   "headline": "Eloxx Pharmaceuticals Appoints Biopharmaceutical Industry Veteran Geno Germano to its Board of Directors",
+   "summary": "Mr. Germano brings more than 35 years of biopharmaceutical leadership experience, including as Group President of Pfizer's Global Innovative Pharmaceutical business Extensive public company board experience, including current service as\u2026",
+   "url": "https://www.prnewswire.com/news-releases/eloxx-pharmaceuticals-appoints-biopharmaceutical-industry-veteran-geno-germano-to-its-board-of-directors-302913021.html",
+   "source": "PR Newswire",
+   "published": "2026-10-19T20:05:00+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "23670a700fe2",
+   "headline": "8 Stocks That Are Much Riskier Plays Than They Look",
+   "summary": "Some low beta stocks are more volatile on big down days for the market, including RTX, Charles Schwab, Union Pacific, Danaher, and Starbucks.",
+   "url": "https://finnhub.io/api/news?id=f54f5e2939d395a9dc68d1bb4f5357149dd55969bd7bf4f91298ac5d5f2a6c3d",
+   "source": "Yahoo",
+   "published": "2026-10-19T19:20:00+00:00",
+   "tickers": [
+    "DHR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
   {
    "id": "11c5feab460d",
    "headline": "Nest Health, Creator of Whole-Family In-Home Care for Medicaid, Names Peter Morrison First Chief Growth Officer to Lead Multistate Expansion",
@@ -33769,66 +33803,6 @@
    "tag": "News",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "d7e36bf38766",
-   "headline": "Everest Medicines (SEHK:1952) Gains Fresh MRNA Firepower As Undervalued View Holds",
-   "summary": "Why Everest Medicines Stock Is Back On Investors\u2019 Radar Everest Medicines (SEHK:1952) just added two experienced mRNA cancer vaccine scientists, Lakshmi Srinivasan, PhD, and Brandon Coder, PhD, to help advance its AI+mRNA platform and\u2026",
-   "url": "https://finnhub.io/api/news?id=15826fa17b57f86c4b629b7026146c99a3f083786b9f2f3f995c106283882fad",
-   "source": "Yahoo",
-   "published": "2026-10-09T20:12:33+00:00",
-   "tickers": [
-    "MRNA"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "57aa9041190f",
-   "headline": "Alignment Healthcare (ALHC) Is Up 12.5% After Mixed California Star Rating And Network Expansion News",
-   "summary": "In early October 2026, Alignment Health Plan said it would expand into Kern, Kings and Tulare counties and add Hoag and Astrana Health to its California Medicare Advantage provider network from 2027, increasing its reach to 25 counties\u2026",
-   "url": "https://finnhub.io/api/news?id=dc1e3c22c484918db1de5fff8c8e98da4d1630b9c3413f7bdf22e96942fe1642",
-   "source": "Yahoo",
-   "published": "2026-10-09T20:10:26+00:00",
-   "tickers": [
-    "ALHC"
-   ],
-   "tag": "Policy",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "659840fb9291",
-   "headline": "A Once-in-a-Decade Opportunity: 2 Magnificent Dividend Stocks Down 34% to 52% I'm Buying Right Now",
-   "summary": "Whether you want a higher 3% dividend yield or a quickly growing dividend that yields 1.2%, these two stocks look like rare opportunities.",
-   "url": "https://finnhub.io/api/news?id=3d2ed8994bf06290bae931b73a6a13db796ca6fce85a100a435a5bc0dcd6e13f",
-   "source": "Yahoo",
-   "published": "2026-10-09T20:05:00+00:00",
-   "tickers": [
-    "ZTS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "4d15dea4fcfa",
-   "headline": "Universal Health Services, Inc. Announces Date and Time Change for Third Quarter 2026 Earnings Release and Conference Call",
-   "summary": "KING OF PRUSSIA, Pa., Oct. 09, 2026 (GLOBE NEWSWIRE) -- Universal Health Services, Inc. (NYSE: UHS) announced today that it will now report results for its third quarter ended September 30, 2026, after the market closes on Tuesday,\u2026",
-   "url": "https://finnhub.io/api/news?id=936282c0dc31036ede5aba581271adc1c8dd08e093113197d107de63c5077e46",
-   "source": "Yahoo",
-   "published": "2026-10-09T20:05:00+00:00",
-   "tickers": [
-    "UHS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
    ]
   }
  ]
