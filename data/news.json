@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-19T07:46:37.392055+00:00",
+ "updated": "2026-10-19T08:01:46.414275+00:00",
  "quotes": {
   "ABBV": {
    "price": 285.42,
@@ -33,6 +33,10 @@
   "DHR": {
    "price": 229.04,
    "change_pct": -1.06
+  },
+  "ELV": {
+   "price": 428.26,
+   "change_pct": -0.04
   },
   "GILD": {
    "price": 156.19,
@@ -793,6 +797,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "b120693922ec",
+   "headline": "Elevance Health: Why I Don't Believe In The Stock At This Price",
+   "summary": "Elevance Health faces structural headwinds, with rising medical costs outpacing reimbursement and government program pressures eroding margin stability. I rate ELV stock a Hold.",
+   "url": "https://finnhub.io/api/news?id=7cd83443785513a266b2f5555d862f2f755620df819581da6f41f0af773edd70",
+   "source": "SeekingAlpha",
+   "published": "2026-10-19T03:05:02+00:00",
+   "tickers": [
+    "ELV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -33941,36 +33960,6 @@
    "tag": "Analyst",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "2e647a64e7cf",
-   "headline": "Suominen\u2019s financial reporting in 2027",
-   "summary": "Suominen Corporation\u2019s stock exchange release on October 9, 2026, at 11:00 a.m. (EEST) Suominen Corporation will publish its financial reports in 2027 as follows: March 2, 2027 \u2013 Financial Statements Bulletin for 2026Week commencing April\u2026",
-   "url": "https://finnhub.io/api/news?id=4798f97da23785826ad211858afaab840a29e72bfe13397cbf26a89c7c830ace",
-   "source": "Yahoo",
-   "published": "2026-10-09T08:00:00+00:00",
-   "tickers": [
-    "NVS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "9550b8f2497a",
-   "headline": "Stifel Maintains Buy on Align Technology, Lowers Price Target to $175",
-   "summary": "Stifel analyst Jonathan Block maintains Align Technology (NASDAQ:ALGN) with a Buy and lowers the price target from $210 to $175.",
-   "url": "https://finnhub.io/api/news?id=fe57226ea8a261b0369c9f50e74a62db22e63416f24f6ff30693ca3960a7be93",
-   "source": "Benzinga",
-   "published": "2026-10-09T07:46:55+00:00",
-   "tickers": [
-    "ALGN"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
