@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-19T00:46:32.774920+00:00",
+ "updated": "2026-10-19T01:01:36.347328+00:00",
  "quotes": {
   "ABBV": {
    "price": 285.42,
@@ -61,6 +61,14 @@
   "PFE": {
    "price": 29.58,
    "change_pct": 0.48
+  },
+  "RXRX": {
+   "price": 3.46,
+   "change_pct": -16.71
+  },
+  "SNY": {
+   "price": 40.61,
+   "change_pct": 0.79
   },
   "UNH": {
    "price": 401.43,
@@ -686,6 +694,33 @@
  },
  "stories": [
   {
+   "id": "1f7e434fda09",
+   "headline": "STAT+: Cambridge scientist David Sabatini speaks out after courtroom victory: \u2018The hardest years of my life\u2019",
+   "summary": "\"The hardest years of my life,\" is how Cambridge scientist David Sabatini describes the time since his downfall from MIT.",
+   "url": "https://www.statnews.com/2026/10/18/david-sabatini-speaks-out-after-courtroom-win-metoo-trial/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-19T00:54:03+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "eda50047621a",
+   "headline": "Recursion Pharmaceuticals (RXRX) Reached A $10 Million Immunology Milestone",
+   "summary": "Recursion Pharmaceuticals (NasdaqGS:RXRX) said Sanofi has exercised its option on the first immunology candidate in their collaboration, triggering a milestone payment. The option exercise moves the partnered immunology program into phase\u2026",
+   "url": "https://finnhub.io/api/news?id=f99e572d2ddd5a0f650700a7240acaa596a687367eb077efd4e3bbe8a20d9220",
+   "source": "Yahoo",
+   "published": "2026-10-18T23:18:45+00:00",
+   "tickers": [
+    "RXRX",
+    "SNY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "3bc584221a32",
    "headline": "Tamboran Resources appoints Todd Abbott managing director as Beetaloo moves into development",
    "summary": "Tamboran Resources Corporation (NYSE:TBN, ASX:TBN, OTC:TBNRL, FRA:O8R) has appointed chief executive officer (CEO) Todd Abbott as managing director as the company moves from appraisal into development of its Beetaloo Basin gas assets in\u2026",
@@ -756,6 +791,36 @@
     "INCY"
    ],
    "tag": "Policy",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "a4a0e6310afe",
+   "headline": "Lilly to showcase advances across its oncology pipeline at the 2026 European Society for Medical Oncology (ESMO) Congress",
+   "summary": "Eli Lilly and Company (NYSE: LLY) today announced that new data from across its oncology portfolio will be presented at the European Society for Medical Oncology (ESMO) Congress, taking place October 23\u201327 in Madrid, Spain. Highlights\u2026",
+   "url": "https://finnhub.io/api/news?id=8e2b041f8f13ec3c0aee7567da8a4aec0ac89e3ea25827e065cd44cf32223dd7",
+   "source": "Yahoo",
+   "published": "2026-10-18T22:05:00+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "88e6a59245f2",
+   "headline": "Where Will CRISPR Therapeutics Stock Be in 2030?",
+   "summary": "The company's expertise in gene editing could lead to more breakthroughs.",
+   "url": "https://finnhub.io/api/news?id=8ae1de6b77f1f2be62e02ddf0d9e22e7d0ebc2669ad0c16e08ae042407132ad9",
+   "source": "Yahoo",
+   "published": "2026-10-18T21:33:00+00:00",
+   "tickers": [
+    "CRSP"
+   ],
+   "tag": "News",
    "sectors": [
     "biotech"
    ]
