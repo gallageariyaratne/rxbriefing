@@ -1,7 +1,15 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-19T12:32:02.166318+00:00",
+ "updated": "2026-10-19T12:46:48.423342+00:00",
  "quotes": {
+  "ABBV": {
+   "price": 285.42,
+   "change_pct": 0.71
+  },
+  "ABT": {
+   "price": 104.89,
+   "change_pct": 0.2
+  },
   "ALNY": {
    "price": 231.83,
    "change_pct": -0.94
@@ -9,6 +17,10 @@
   "AMGN": {
    "price": 432.49,
    "change_pct": -0.35
+  },
+  "BIIB": {
+   "price": 232.65,
+   "change_pct": -1.15
   },
   "BMY": {
    "price": 59.75,
@@ -896,6 +908,21 @@
    ]
   },
   {
+   "id": "38ae4fa5c7c6",
+   "headline": "Biogen to Present New Data Across Nephrology Portfolio, Including Long-term EMPAVELI\u00ae (pegcetacoplan) Phase 3 Results, at American Society of Nephrology (ASN) Kidney Week",
+   "summary": "Two oral presentations to highlight new 76-week data showing sustained proteinuria reduction and continued eGFR stabilization with a consistent long-term safety profileAdditional presentations to highlight nephrologist perspectives on\u2026",
+   "url": "https://finnhub.io/api/news?id=4ee66815d7416467592281892f43dbf5a66333fe7e9a275b9718728c2bd720d7",
+   "source": "Yahoo",
+   "published": "2026-10-19T11:30:00+00:00",
+   "tickers": [
+    "BIIB"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "443b8c6805f0",
    "headline": "Johnson & Johnson Stock Could Be a Defensive Play for the Years Ahead",
    "summary": "Johnson & Johnson just posted a quarter that sent shares sliding despite a headline beat, yet analysts keep piling into the bull camp with price targets well above current levels. Here is what the numbers actually say about whether this\u2026",
@@ -909,6 +936,21 @@
    "tag": "Analyst",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "28d667ed20e3",
+   "headline": "Investors fleeing AI find an unlikely new favorite",
+   "summary": "The S&P 500 has grown overreliant on a few mega-cap firms. A real rotation into other key sectors would benefit the average investor.",
+   "url": "https://finnhub.io/api/news?id=536040481cc5aae3d4e38b9bb10adc5ee2c6bd5dc020fd7f76709b4c8416f4d7",
+   "source": "Yahoo",
+   "published": "2026-10-19T11:03:00+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -1017,6 +1059,21 @@
    ]
   },
   {
+   "id": "c99f1b62af28",
+   "headline": "Objections to ICE and OKX\u2019s Tokenized Stock Venue Climb to Nine as Broadcom, Verizon Opt Out",
+   "summary": "The ICE and OKX joint venture\u2019s Oct. 15 notice to the public shows the roster of companies refusing tokenized trading on its pools is rising quickly.",
+   "url": "https://finnhub.io/api/news?id=bca012de5ecd32d01dc42e0fdcd54b83444df57889c4ed6d608df881eb680bf5",
+   "source": "Yahoo",
+   "published": "2026-10-19T10:15:50+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "tag": "Financing",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "023abf9505da",
    "headline": "AbbVie\u2019s next-gen Crohn\u2019s disease combo beats Skyrizi in phase 2 trial",
    "summary": "AbbVie\u2019s next-generation Crohn\u2019s disease combination candidate has beaten Skyrizi in a midphase clinical trial.",
@@ -1044,6 +1101,21 @@
    "tag": "Clinical",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "886fc8cf6f59",
+   "headline": "Global Clinical Trials Market Size, Share, Trends, and Forecast, 2026-2033 | Market to Reach USD 158.4 Billion at 7.7% CAGR as Decentralized Trials and R&D Outsourcing Accelerate",
+   "summary": "New Report puts the global market at $89bn in 2025, with chronic and rare disease, precision medicine and outsourcing to contract researchers driving growth \u2014 and IQVIA, ICON, Parexel, Pfizer and Roche among the 20 companies\u2026",
+   "url": "https://finnhub.io/api/news?id=1354b4b2b6bda26e04876ec271c536c32fcddbfc47b748c1f48b67bf09f4a17b",
+   "source": "Yahoo",
+   "published": "2026-10-19T10:01:00+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1342,6 +1414,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "3fa40deb6161",
+   "headline": "UnitedHealth: My Thesis Has Played Out, I Wouldn't Chase Here (Rating Downgrade)",
+   "summary": "UnitedHealth Group's Q3 earnings beat estimates, with revenue of $112.7B and EPS of $4.69. Find out why UNH stock is downgraded from Strong Buy to Buy.",
+   "url": "https://finnhub.io/api/news?id=0b40e5f45739275a25f653013c345f63643e49d3ab8600fe662c1e4b43988548",
+   "source": "SeekingAlpha",
+   "published": "2026-10-19T07:30:00+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -33442,114 +33529,6 @@
    "tag": "News",
    "sectors": [
     "medtech"
-   ]
-  },
-  {
-   "id": "881de9a09b22",
-   "headline": "Humana Soars 16% on Improved Medicare Advantage Star Ratings; CVS Slides 3%, UnitedHealth Holds Steady",
-   "summary": "A single Medicare quality ratings release sent one major insurer soaring while dragging a rival into the red, and the gap between winners and losers points to something deeper than a routine scoring update.",
-   "url": "https://finnhub.io/api/news?id=71d042b9ca9a3a4f155550a980d49c6070304e06cfb993f6d63bf0d3f75833c1",
-   "source": "Yahoo",
-   "published": "2026-10-09T12:42:02+00:00",
-   "tickers": [
-    "CVS",
-    "HUM",
-    "UNH"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "3e4251e94537",
-   "headline": "Natera Receives FDA Breakthrough Device Designation for Multi-Cancer Early Detection Blood Test",
-   "summary": "Natera (NASDAQ:NTRA) has received Breakthrough Device Designation from the US Food and Drug Administration (FDA) for its investigational multi-cancer early detection (MCED) blood test, marking a regulatory milestone in the company\u2019s\u2026",
-   "url": "https://finnhub.io/api/news?id=820e6ce3ddb0f9ccb67237b36d39726ad845f26df91dd80b6150110a9e30990c",
-   "source": "Yahoo",
-   "published": "2026-10-09T12:41:04+00:00",
-   "tickers": [
-    "NTRA"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "03e87e424d5a",
-   "headline": "Humana Says 95% of Medicare Advantage Members Are Enrolled in Plans Rated Four Stars or Higher for 2027",
-   "summary": "Humana (NYSE:HUM) reported that 95% of its Medicare Advantage members are enrolled in plans receiving quality ratings of at least four stars from the Centers for Medicare & Medicaid Services (CMS) for 2027, marking an improvement from the\u2026",
-   "url": "https://finnhub.io/api/news?id=b5a9e1d54f00f43dcaf5198b9005e75a98640cf5da4dc3d609e87031b6b11569",
-   "source": "Yahoo",
-   "published": "2026-10-09T12:37:18+00:00",
-   "tickers": [
-    "HUM"
-   ],
-   "tag": "Policy",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "378d12cebd0c",
-   "headline": "Clover Health Stock Pops: What's Happening?",
-   "summary": "Clover Health Investments shares are jumping after CMS awarded the company's Medicare Advantage plans high 2027 Star ratings.",
-   "url": "https://finnhub.io/api/news?id=889dbce9c805bb54e168c62ce2f4dc7d56e36e149c2eabe7defcf1e5aeac783b",
-   "source": "Benzinga",
-   "published": "2026-10-09T12:37:02+00:00",
-   "tickers": [
-    "CLOV"
-   ],
-   "tag": "Policy",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "299a45a16304",
-   "headline": "Robotics Stocks Diverge as AI and Semiconductor Automation Leaders Pull Ahead",
-   "summary": "Robotics and automation stocks are splitting: AI, semiconductor, and healthcare robotics lead while traditional industrial and software automation lag.",
-   "url": "https://finnhub.io/api/news?id=27e8d3f00645503716d12005bb437ba0b6b20dbe570fc2a96917ce4cb616786e",
-   "source": "ChartMill",
-   "published": "2026-10-09T12:36:15+00:00",
-   "tickers": [
-    "ISRG"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "57b33f2d2728",
-   "headline": "Get insights into the top movers in the S&P500 index of Friday's pre-market session.",
-   "summary": "Stay updated with the S&P500 stocks that are on the move in today's pre-market session.",
-   "url": "https://finnhub.io/api/news?id=778ceffa164e9c35d0e2b24a8f102c642d824f901e9fc3094deeb6e3b2074f5a",
-   "source": "ChartMill",
-   "published": "2026-10-09T12:35:02+00:00",
-   "tickers": [
-    "CVS",
-    "HUM"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "9f24b88a6d25",
-   "headline": "Evercore ISI Group Maintains Outperform on argenx, Lowers Price Target to $1078",
-   "summary": "Evercore ISI Group analyst Gavin Clark-Gartner maintains argenx (NASDAQ:ARGX) with a Outperform and lowers the price target from $1175 to $1078.",
-   "url": "https://finnhub.io/api/news?id=4c9a7e44214057dfcea28f378b2a04d569ad86531cdc361e8b0cc9c29161f8fa",
-   "source": "Benzinga",
-   "published": "2026-10-09T12:32:29+00:00",
-   "tickers": [
-    "ARGX"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
    ]
   }
  ]
