@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-19T04:31:41.294557+00:00",
+ "updated": "2026-10-19T04:46:35.655030+00:00",
  "quotes": {
   "ABBV": {
    "price": 285.42,
@@ -45,6 +45,10 @@
   "IRTC": {
    "price": 108.66,
    "change_pct": -0.63
+  },
+  "ISRG": {
+   "price": 426.7,
+   "change_pct": -0.27
   },
   "LLY": {
    "price": 1257.03,
@@ -742,6 +746,21 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "18cdb2547dfd",
+   "headline": "Intuitive Surgical Earnings: What To Look For From ISRG",
+   "summary": "Medical technology company Intuitive Surgical (NASDAQ:ISRG) will be announcing earnings results this Tuesday after market hours. Here\u2019s what investors should know.",
+   "url": "https://finnhub.io/api/news?id=a14703401b8c841024958b2e7c0ae42360175dc567c76473a8868605fc607639",
+   "source": "Yahoo",
+   "published": "2026-10-19T03:50:17+00:00",
+   "tickers": [
+    "ISRG"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -34149,22 +34168,6 @@
     "HUM"
    ],
    "tag": "Analyst",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "04e613b90d3d",
-   "headline": "Why Veea Shares Are Trading Higher By Around 34%; Here Are 20 Stocks Moving Premarket",
-   "summary": "Veea jumps 34% after regaining Nasdaq compliance; Freight Technologies leads gainers, while Alignment Healthcare plunges 24% among premarket losers.",
-   "url": "https://finnhub.io/api/news?id=aba370274d7078cb51e31849577996130a06b21cb5520bf5a1c2579ad8d06a25",
-   "source": "Benzinga",
-   "published": "2026-10-09T04:32:08+00:00",
-   "tickers": [
-    "ALHC",
-    "HUM"
-   ],
-   "tag": "News",
    "sectors": [
     "payers"
    ]
