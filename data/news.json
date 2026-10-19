@@ -1,10 +1,14 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-19T00:31:26.736341+00:00",
+ "updated": "2026-10-19T00:46:32.774920+00:00",
  "quotes": {
   "ABBV": {
    "price": 285.42,
    "change_pct": 0.71
+  },
+  "ABT": {
+   "price": 104.89,
+   "change_pct": 0.2
   },
   "BEAM": {
    "price": 23.47,
@@ -29,6 +33,10 @@
   "GSK": {
    "price": 49.51,
    "change_pct": 1.0
+  },
+  "INCY": {
+   "price": 113.07,
+   "change_pct": -0.18
   },
   "IRTC": {
    "price": 108.66,
@@ -678,6 +686,21 @@
  },
  "stories": [
   {
+   "id": "3bc584221a32",
+   "headline": "Tamboran Resources appoints Todd Abbott managing director as Beetaloo moves into development",
+   "summary": "Tamboran Resources Corporation (NYSE:TBN, ASX:TBN, OTC:TBNRL, FRA:O8R) has appointed chief executive officer (CEO) Todd Abbott as managing director as the company moves from appraisal into development of its Beetaloo Basin gas assets in\u2026",
+   "url": "https://finnhub.io/api/news?id=11b1e9f2bed21d44828f9bedbfccb92c4ceb416752797006c08e8a3e12acb59b",
+   "source": "Yahoo",
+   "published": "2026-10-18T22:52:00+00:00",
+   "tickers": [
+    "ABT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "b83985df9777",
    "headline": "AbbVie to Present Data at the 2026 European Society for Medical Oncology (ESMO) Congress Highlighting Progress Across its Expanding Solid Tumor Portfolio",
    "summary": "New and updated data across seven assets in lung, colorectal, ovarian, prostate and gastric cancers underscore the potential of AbbVie's oncology portfolio to address diverse patient needs through next-generation ADCs, combination\u2026",
@@ -720,6 +743,21 @@
    "tag": "Clinical",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "6fcdcdd31c03",
+   "headline": "Incyte to Highlight Key Oncology Data Presentations at the European Society for Medical Oncology (ESMO) Congress 2026",
+   "summary": "WILMINGTON, Del., October 18, 2026--Incyte to Highlight Key Oncology Data Presentations at the European Society for Medical Oncology (ESMO) Congress 2026",
+   "url": "https://finnhub.io/api/news?id=93a8c9119aaa67ffa3172ec07711b3b51ab2b33c5e500d92b0e633bb72ab4416",
+   "source": "Yahoo",
+   "published": "2026-10-18T22:05:00+00:00",
+   "tickers": [
+    "INCY"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -34052,26 +34090,6 @@
     "PFE"
    ],
    "tag": "Policy",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "8e3adc467224",
-   "headline": "Should You Be Worried About Pfizer Stock?",
-   "summary": "Pfizer (PFE) stock has returned 17.5% over the past three months, easily outpacing the 3.7% return for the S&P 500. The board also just declared its 352nd quarterly dividend in a row. That reliable payout may be why many investors hold\u2026",
-   "url": "https://finnhub.io/api/news?id=f75e26b0729c5bff9494c60706fdff46e2e8753e7576109a0837be7c38c177d7",
-   "source": "Yahoo",
-   "published": "2026-10-09T00:36:07+00:00",
-   "tickers": [
-    "ABBV",
-    "BMY",
-    "JNJ",
-    "LLY",
-    "MRK",
-    "PFE"
-   ],
-   "tag": "Earnings",
    "sectors": [
     "pharma"
    ]
