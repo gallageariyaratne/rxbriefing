@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-19T22:47:32.392431+00:00",
+ "updated": "2026-10-19T23:02:43.912525+00:00",
  "quotes": {
   "A": {
    "price": 169.9,
@@ -89,6 +89,10 @@
   "DOCS": {
    "price": 31.45,
    "change_pct": 1.55
+  },
+  "DVA": {
+   "price": 187,
+   "change_pct": -0.17
   },
   "DXCM": {
    "price": 85.98,
@@ -277,10 +281,6 @@
   "UTHR": {
    "price": 543.15,
    "change_pct": 1.88
-  },
-  "VKTX": {
-   "price": 25.05,
-   "change_pct": -0.48
   },
   "WAT": {
    "price": 434.27,
@@ -902,6 +902,21 @@
  },
  "stories": [
   {
+   "id": "b0f745a6ce15",
+   "headline": "Moderna, Progyny, Azenta, Oscar Health, and agilon health Shares Skyrocket, What You Need To Know",
+   "summary": "A number of stocks jumped in the afternoon session after investors rotated into defensive assets and priced in rising expectations that midterm election outcomes could reverse recent federal spending cuts.",
+   "url": "https://finnhub.io/api/news?id=10c4037b3f6f104f99d09839a8c3778e12c0fa7c38338132c3f43a56b7735375",
+   "source": "Yahoo",
+   "published": "2026-10-19T22:00:55+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "9569cea2c69c",
    "headline": "Pfizer's Stock Is Finally Showing Signs of Life. Could This Be the Start of a Much Bigger Rally?",
    "summary": "The stock has outperformed the market this year, and it still looks heavily undervalued.",
@@ -935,11 +950,27 @@
    "source": "Yahoo",
    "published": "2026-10-19T21:39:55+00:00",
    "tickers": [
-    "AMGN"
+    "AMGN",
+    "MRK"
    ],
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "8ddfb709e4a3",
+   "headline": "DaVita Inc. Schedules 3rd Quarter 2026 Investor Conference Call",
+   "summary": "DaVita Inc. (NYSE: DVA), announced today that it will hold its quarterly conference call to discuss third quarter results on Thursday, October 29, 2026, at 5:00 p.m. Eastern Time. The company plans to release its results after market\u2026",
+   "url": "https://finnhub.io/api/news?id=91d5f512d88a0c71d1b4cf60719283afbe770be96948864760ac12146c7e7541",
+   "source": "Yahoo",
+   "published": "2026-10-19T21:37:00+00:00",
+   "tickers": [
+    "DVA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -950,11 +981,27 @@
    "source": "Yahoo",
    "published": "2026-10-19T21:31:49+00:00",
    "tickers": [
-    "BMY"
+    "BMY",
+    "MRK"
    ],
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "94f69be2a534",
+   "headline": "CENTENE CORPORATION TO HOST 2026 THIRD QUARTER FINANCIAL RESULTS EARNINGS CALL",
+   "summary": "Centene Corporation (NYSE: CNC), a leading healthcare enterprise committed to helping people live healthier lives, shared today that it will release its 2026 third quarter financial results at approximately 6:00 a.m. ET on Tuesday,\u2026",
+   "url": "https://finnhub.io/api/news?id=c9bfbd20a0296ce08597365c36a66344270a1c8a4739a902068366e339d14626",
+   "source": "Yahoo",
+   "published": "2026-10-19T21:30:00+00:00",
+   "tickers": [
+    "CNC"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -1004,6 +1051,21 @@
    ]
   },
   {
+   "id": "d49773b665a3",
+   "headline": "Eli Lilly (LLY) Stock Dips While Market Gains: Key Facts",
+   "summary": "In the latest trading session, Eli Lilly (LLY) closed at $1, marking a -1.33% move from the previous day.",
+   "url": "https://finnhub.io/api/news?id=34863766794a65a2de2c9d320fac605b239543c6eacf6d4cd5ffb86069519778",
+   "source": "Yahoo",
+   "published": "2026-10-19T20:45:02+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "a28caded65d1",
    "headline": "Stock Market Today: Dow Dips As Oil Jumps, Nasdaq Pops; Amazon Stock Rallies On This",
    "summary": "The Dow Jones index slips even as tech stocks climb on stock market today. Amazon and Nvidia rebound while a biotech stock tests a buy point.",
@@ -1029,6 +1091,7 @@
     "CI",
     "CVS",
     "DGX",
+    "HIMS",
     "LH"
    ],
    "tag": "M&A",
@@ -33721,21 +33784,6 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
-   ]
-  },
-  {
-   "id": "bb2afeeb4c1c",
-   "headline": "Why Alignment Healthcare (ALHC) Shares Are Trading Lower Today",
-   "summary": "Shares of health insurance company Alignment Healthcare (NASDAQ:ALHC) fell 19.2% in the pre-market session after William Blair downgraded the company to Market Perform from Outperform following a regulatory filing detailing lower quality\u2026",
-   "url": "https://finnhub.io/api/news?id=b21ac914688ca6bc0e64e8522de83f0393900bd23948a2ea37e71e403b728cb6",
-   "source": "Yahoo",
-   "published": "2026-10-09T22:51:10+00:00",
-   "tickers": [
-    "ALHC"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "payers"
    ]
   }
  ]
