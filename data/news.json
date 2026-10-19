@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-19T12:06:42.890516+00:00",
+ "updated": "2026-10-19T12:16:48.406362+00:00",
  "quotes": {
   "ABBV": {
    "price": 285.42,
@@ -17,6 +17,10 @@
   "AMGN": {
    "price": 432.49,
    "change_pct": -0.35
+  },
+  "CI": {
+   "price": 302.3,
+   "change_pct": 1.17
   },
   "CRL": {
    "price": 300.15,
@@ -766,6 +770,39 @@
  },
  "stories": [
   {
+   "id": "fd38a50a5f12",
+   "headline": "Closing the gap between approval and treatment",
+   "summary": "Lauren Boyer, CEO of Underscore, on why patient finding is a marketing job, and how to reach the people traditional data can't see.",
+   "url": "https://www.fiercepharma.com/sponsored/closing-gap-between-approval-and-treatment",
+   "source": "Fierce Pharma",
+   "published": "2026-10-19T12:15:20.800561+00:00",
+   "tickers": [],
+   "tag": "FDA",
+   "sectors": []
+  },
+  {
+   "id": "923ca45ce32f",
+   "headline": "Roche returns to China\u2019s ADC powerhouse Hansoh for $15B biobucks pact",
+   "summary": "A year after their first antibody-drug conjugate team-up, Roche has returned to Hansoh Pharmaceutical for a mammoth $15 billion biobucks pact.",
+   "url": "https://www.fiercebiotech.com/biotech/roche-returns-chinas-adc-powerhouse-hansoh-15b-biobucks-pact",
+   "source": "Fierce Biotech",
+   "published": "2026-10-19T12:15:20.669468+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "e1803cfbc9a8",
+   "headline": "Siemens Healthineers partners with Paradromics to build out new imaging system to support BCIs",
+   "summary": "Paradromics has announced a new collaboration with Siemens Healthineers to construct an advanced multimodal imaging platform to support the growing clinical use of implantable brain-computer interfaces (BCIs).",
+   "url": "https://www.fiercebiotech.com/medtech/siemens-healthineers-partners-paradromics-build-out-new-imaging-system-support-bcis",
+   "source": "Fierce Biotech",
+   "published": "2026-10-19T12:15:20.668827+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
    "id": "cadb52aac698",
    "headline": "Saudi Arabia takes actionable steps to build its biotech sector after 46 agreements in Riyadh",
    "summary": "Riyadh\u2019s biotech summit closed with 46 agreements. Its chairman explains how Saudi Arabia plans to turn them into working programs.",
@@ -829,6 +866,36 @@
    ]
   },
   {
+   "id": "2d1766b3ba65",
+   "headline": "Masimo\u2019s vitals monitor scoops FDA clearance for AFib detection",
+   "summary": "PPG AFib\u2019s clearance follows Masimo\u2019s FDA clearance for opioid-induced respiratory depression (OIRD) detection, also via Radius VSM, in June 2026.",
+   "url": "https://finnhub.io/api/news?id=a0eac7cd8fd05eb83719ef3ce6fdb58855f9fb84e2a095e32068a9ebea87bc65",
+   "source": "Yahoo",
+   "published": "2026-10-19T11:39:48+00:00",
+   "tickers": [
+    "DHR"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "443b8c6805f0",
+   "headline": "Johnson & Johnson Stock Could Be a Defensive Play for the Years Ahead",
+   "summary": "Johnson & Johnson just posted a quarter that sent shares sliding despite a headline beat, yet analysts keep piling into the bull camp with price targets well above current levels. Here is what the numbers actually say about whether this\u2026",
+   "url": "https://finnhub.io/api/news?id=f5a6cd78c15e0515c9af271b1393a8bd926823a0d1d656706a815f9318c4b707",
+   "source": "Yahoo",
+   "published": "2026-10-19T11:15:21+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "776255a75ae9",
    "headline": "Eli Lilly & Co (NYSE:LLY) Offers Dividend Quality for Growth-Focused Income Investors",
    "summary": "Eli Lilly passes a quality dividend screen on strong profitability and payout growth, but low yield, rich valuation, and leverage are risks.",
@@ -886,6 +953,21 @@
    "tag": "Clinical",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "8613bd475234",
+   "headline": "1 Large-Cap Stock to Research Further and 2 We Avoid",
+   "summary": "Large-cap stocks usually command their industries because they have the scale to drive market trends. The flip side though is that their sheer size can limit growth as expanding further becomes an increasingly challenging task.",
+   "url": "https://finnhub.io/api/news?id=c8ed0fc7bb83262d8f415b8ec68c76a0cf1bac3e98bee31285b4f56aefdb1e2c",
+   "source": "Yahoo",
+   "published": "2026-10-19T10:16:55+00:00",
+   "tickers": [
+    "CI"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -33519,51 +33601,6 @@
    "tag": "News",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "3605f71ac9c2",
-   "headline": "argenx (ENXTBR:ARGX) Gets Mixed Trial News, Is It Still Overvalued?",
-   "summary": "Argenx (ENXTBR:ARGX) is back in focus after twin clinical updates. The company reported positive Phase 2 data for FB102 in celiac disease while deciding to halt its Phase 3 UNITY trial in Sj\u00f6gren's disease. Over the past month argenx\u2019s\u2026",
-   "url": "https://finnhub.io/api/news?id=b025b0375d85610ce2d036e88ba3cf87dc0ce4d3b9a5f4bb13b75a1fc3423a70",
-   "source": "Yahoo",
-   "published": "2026-10-09T12:13:15+00:00",
-   "tickers": [
-    "ARGX"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "0d4a1d9dd34e",
-   "headline": "1 Healthcare Stock Worth Your Attention and 2 We Turn Down",
-   "summary": "From novel pharmaceuticals to telemedicine, most healthcare companies are on a mission to drive better patient outcomes. Those leading the charge have not only realized strong financial performance but also propelled the broader\u2026",
-   "url": "https://finnhub.io/api/news?id=6dd877f3469979679087c69ce404d5a68ed6c5557e86ed84cc6f922fd9b51c70",
-   "source": "Yahoo",
-   "published": "2026-10-09T12:11:10+00:00",
-   "tickers": [
-    "HIMS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "acdc90d63abc",
-   "headline": "Premarket movers: Humana rallies; SpaceX deal sends telco stocks down",
-   "summary": "Investing.com - U.S. stock futures were broadly higher on Friday as investors weighed debate over OpenAI\u2019s revenue outlook, while oil prices eased after President Donald Trump said the U.S. would not launch new attacks on Iran before the\u2026",
-   "url": "https://finnhub.io/api/news?id=58362ebaacc8d7431ddc8c23d552140738174c706d57c61b103a6cc22c25f1bc",
-   "source": "Yahoo",
-   "published": "2026-10-09T12:08:02+00:00",
-   "tickers": [
-    "HUM"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
    ]
   }
  ]
