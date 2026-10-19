@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-19T01:42:16.285614+00:00",
+ "updated": "2026-10-19T01:46:25.115620+00:00",
  "quotes": {
   "ABBV": {
    "price": 285.42,
@@ -61,6 +61,10 @@
   "PFE": {
    "price": 29.58,
    "change_pct": 0.48
+  },
+  "ROIV": {
+   "price": 33.53,
+   "change_pct": -1.5
   },
   "RXRX": {
    "price": 3.46,
@@ -703,6 +707,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "240ea68a3926",
+   "headline": "Roivant Sciences (ROIV) Stock Looks Fully Priced After A 393% Run",
+   "summary": "Roivant Sciences has delivered a very strong multi year share price run, which now puts a spotlight on whether the current market value lines up with what its balance sheet actually supports. With that backdrop, the live question for you\u2026",
+   "url": "https://finnhub.io/api/news?id=72a381499b808a00216df9a7b830934afd347818d96ba9c1ce2e8eaadba820a9",
+   "source": "Yahoo",
+   "published": "2026-10-19T00:20:12+00:00",
+   "tickers": [
+    "ROIV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
   },
   {
    "id": "eda50047621a",
@@ -34077,21 +34096,6 @@
    "url": "https://finnhub.io/api/news?id=a66160dd6197d6881e84136ccd05fcd21e73b9f43c6526ff6dab0e556b251bc9",
    "source": "Yahoo",
    "published": "2026-10-09T02:13:00+00:00",
-   "tickers": [
-    "MRNA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "ac417b3cf4af",
-   "headline": "Moderna (MRNA) Was Removed From the Nasdaq-100 and Is Going Back In. What Changed?",
-   "summary": "Moderna, Inc. (NASDAQ:MRNA) traded at around $196 on October 7, up 4.81% on the day and 571.42% higher over twelve months. Nasdaq said the company will rejoin the Nasdaq-100 before the open on October 9, replacing Warner Bros. Discovery.\u2026",
-   "url": "https://finnhub.io/api/news?id=17a72026cbe6ce0c10a7144d1a875f5666cdcd68f08d4a852ca83ee3857ac279",
-   "source": "Yahoo",
-   "published": "2026-10-09T01:44:46+00:00",
    "tickers": [
     "MRNA"
    ],
