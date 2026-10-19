@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-19T01:01:36.347328+00:00",
+ "updated": "2026-10-19T01:16:29.394931+00:00",
  "quotes": {
   "ABBV": {
    "price": 285.42,
@@ -57,6 +57,10 @@
   "MRNA": {
    "price": 218.01,
    "change_pct": -7.82
+  },
+  "NVO": {
+   "price": 38.83,
+   "change_pct": -0.99
   },
   "PFE": {
    "price": 29.58,
@@ -864,7 +868,8 @@
    "source": "Yahoo",
    "published": "2026-10-18T17:20:35+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "FDA",
    "sectors": [
@@ -894,7 +899,8 @@
    "source": "Yahoo",
    "published": "2026-10-18T16:13:42+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -977,6 +983,21 @@
    ]
   },
   {
+   "id": "9016e5139cce",
+   "headline": "Novo Trades at Less Than 12 Times Earnings. Is This the Buying Opportunity of the Decade?",
+   "summary": "Novo is facing some headwinds, but it has a plan to overcome them.",
+   "url": "https://finnhub.io/api/news?id=010f7315863687708115e756900707be1abee4e46ceed0a50704dd651d8898ff",
+   "source": "Yahoo",
+   "published": "2026-10-18T14:20:00+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "517049570fcb",
    "headline": "European Union Regulators Recommend Approval For Eli Lilly Weight Loss Pill",
    "summary": "Key Stats for Eli Lilly StockPrice change for Eli Lilly stock in the last 6 months: 37%$LLY Stock Price as of Oct. 17: $125752-Week High: $1293$LLY Stock Price Target: $1328What Happened?The European Medicines Agency\u2019s committee\u2026",
@@ -984,7 +1005,8 @@
    "source": "Yahoo",
    "published": "2026-10-18T13:30:12+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "FDA",
    "sectors": [
@@ -34110,53 +34132,6 @@
    "tag": "Clinical",
    "sectors": [
     "medtech"
-   ]
-  },
-  {
-   "id": "ed48e91e9562",
-   "headline": "Ionis Pharmaceuticals (IONS) Stock Could Still Trade At A Premium Despite A 46% Slump",
-   "summary": "Ionis Pharmaceuticals has seen its share price fall sharply this year, which naturally raises a question for holders and prospective buyers. Is the current valuation still supported by the company\u2019s sales profile, or has the market moved\u2026",
-   "url": "https://finnhub.io/api/news?id=0881a8aa011383d6a58a27461dac9cd13cd1da68254b54886fa518eb5857e72c",
-   "source": "Yahoo",
-   "published": "2026-10-09T01:15:13+00:00",
-   "tickers": [
-    "IONS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "96dcacc8a15f",
-   "headline": "PacBio (PACB) Stock Gets Fair Value Boost After UBS Starts Coverage Neutral",
-   "summary": "Pacific Biosciences of California now sits against a Fair Value estimate of US$2.40 per share, up from US$2.16, giving investors an updated anchor for how analysts see the stock\u2019s potential worth. That change comes alongside Street\u2026",
-   "url": "https://finnhub.io/api/news?id=d2d475d6629eac6dba4c4c99c3a69c034a26c7dcc4e2c6413187b0cc2f1e9d1e",
-   "source": "Yahoo",
-   "published": "2026-10-09T01:10:43+00:00",
-   "tickers": [
-    "PACB"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "4bff147da58e",
-   "headline": "Bristol Myers Squibb vs. Pfizer: Which Healthcare Stock Is a Better Buy in 2026?",
-   "summary": "Both face patent cliffs and regulatory headwinds, but their balance sheets and cash generation tell starkly different stories.",
-   "url": "https://finnhub.io/api/news?id=ff2eadf86d47af8338f0f782fe2d50e7e67c0aa90a27adc58e9343384e4eb3d3",
-   "source": "Yahoo",
-   "published": "2026-10-09T01:03:12+00:00",
-   "tickers": [
-    "BMY",
-    "JNJ",
-    "PFE"
-   ],
-   "tag": "Policy",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
