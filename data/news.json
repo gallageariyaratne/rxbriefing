@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-19T12:46:48.423342+00:00",
+ "updated": "2026-10-19T13:02:18.582454+00:00",
  "quotes": {
   "ABBV": {
    "price": 285.42,
@@ -74,6 +74,10 @@
    "price": 96.27,
    "change_pct": -2.96
   },
+  "IQV": {
+   "price": 266.9,
+   "change_pct": -1.53
+  },
   "ISRG": {
    "price": 426.7,
    "change_pct": -0.27
@@ -145,6 +149,10 @@
   "THC": {
    "price": 267.25,
    "change_pct": -2.86
+  },
+  "TMO": {
+   "price": 690,
+   "change_pct": -0.93
   },
   "UNH": {
    "price": 401.43,
@@ -782,6 +790,21 @@
  },
  "stories": [
   {
+   "id": "6d6e55fd7995",
+   "headline": "Eli Lilly's Omvoh takes phase 3 win in pediatric UC, fueling expansion ambitions",
+   "summary": "A new positive phase 3 readout in kids with ulcerative colitis could help Lilly's Omvoh gain a competitive edge against its IL-23 rivals.",
+   "url": "https://www.fiercepharma.com/pharma/eli-lillys-omvoh-takes-ph3-win-pediatric-uc",
+   "source": "Fierce Pharma",
+   "published": "2026-10-19T13:00:29.676735+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "fd38a50a5f12",
    "headline": "Closing the gap between approval and treatment",
    "summary": "Lauren Boyer, CEO of Underscore, on why patient finding is a marketing job, and how to reach the people traditional data can't see.",
@@ -931,7 +954,8 @@
    "published": "2026-10-19T11:15:21+00:00",
    "tickers": [
     "ABBV",
-    "JNJ"
+    "JNJ",
+    "MRK"
    ],
    "tag": "Analyst",
    "sectors": [
@@ -946,6 +970,7 @@
    "source": "Yahoo",
    "published": "2026-10-19T11:03:00+00:00",
    "tickers": [
+    "LLY",
     "UNH"
    ],
    "tag": "Health AI",
@@ -1029,6 +1054,21 @@
    ]
   },
   {
+   "id": "fed6ecdadd77",
+   "headline": "Stocks Rise Pre-Bell as Traders Prepare for Busy Week of Corporate Earnings",
+   "summary": "The benchmark US stock measures were tracking in the green before the opening bell Monday as traders",
+   "url": "https://finnhub.io/api/news?id=4f17a53fd1c00385f662f74a49f2a3d6e2326e860e6d54e4044444e5fad68c46",
+   "source": "Yahoo",
+   "published": "2026-10-19T10:26:15+00:00",
+   "tickers": [
+    "TMO"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "fc8855c79c77",
    "headline": "Jefferies backs GSK with 2,500p target after positive lung cancer drug results",
    "summary": "Jefferies rates GSK PLC (LSE:GSK, NYSE:GSK), the FTSE 100 pharmaceutical company, 'buy' with a 2,500p price target, implying 34% upside from Friday\u2019s close of 1,862.50p, after global trial results for its experimental cancer drug ris-rez\u2026",
@@ -1051,7 +1091,8 @@
    "source": "Yahoo",
    "published": "2026-10-19T10:16:55+00:00",
    "tickers": [
-    "CI"
+    "CI",
+    "IQV"
    ],
    "tag": "News",
    "sectors": [
@@ -1116,6 +1157,21 @@
    "tag": "Clinical",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "d090e0ae23b1",
+   "headline": "Clinical Trial Supplies Market Forecasts Growth from $5.7 Billion (2025) to $10.7 Billion by 2033, Profiling Thermo Fisher Scientific, Catalent, Almac Group, UPS Healthcare & 6 Other Key Players",
+   "summary": "120-Page Report Examines How Biologics, Personalized Medicine and Decentralized Trials Are Raising Demand for Cold-Chain and Just-in-Time Logistics as Sponsors Outsource to CROs, CMOs and Third-Party ProvidersDublin, Oct. 19, 2026 (GLOBE\u2026",
+   "url": "https://finnhub.io/api/news?id=eddc0c45af44d28d76c9a615cc70ad2b038ffcb2aa471a43166a80953dbc3193",
+   "source": "Yahoo",
+   "published": "2026-10-19T10:00:00+00:00",
+   "tickers": [
+    "TMO"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -33402,129 +33458,6 @@
    "tickers": [
     "ABT",
     "GMED"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "d7fe751669ef",
-   "headline": "Shares of companies within the broader tech sector are trading higher amid market strength and may be in reaction to Microsoft's plan to invest approximately $80 billion into AI data center development in FY25.",
-   "summary": "",
-   "url": "https://finnhub.io/api/news?id=c39216bcce8a6a799fa149f0f116e47bb5edd530c8873ec9014bf245dd059465",
-   "source": "Benzinga",
-   "published": "2026-10-09T13:00:58+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "d90daa25cd08",
-   "headline": "Insurers on the move: Here's what you need to know",
-   "summary": "CNBC's Annika Kim Constantino joins 'Halftime Report' to report on Humana and other insurance companies.",
-   "url": "https://finnhub.io/api/news?id=be6d0aae3c502dca51f77ac1b7c6e4cfaae019e2214c34345accaf3643ef70a8",
-   "source": "CNBC",
-   "published": "2026-10-09T13:00:40+00:00",
-   "tickers": [
-    "CVS",
-    "HUM"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "4ece044739f7",
-   "headline": "CVS Health - Fall Into Wellness: Preventive Health Tips for Older Adults, a Q&A With Jean Reidy",
-   "summary": "WOONSOCKET, RI / ACCESS Newswire / October 9, 2026 / Originally published on Company NewsroomAs the weather cools and the year begins to wind down, fall is a good time for older adults to check in on their health. From scheduling\u2026",
-   "url": "https://finnhub.io/api/news?id=c8b9c8a785ef398459ee70b123bb33082d723c10f65cf597507a9c77d43a3bc5",
-   "source": "Yahoo",
-   "published": "2026-10-09T13:00:00+00:00",
-   "tickers": [
-    "CVS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "30d12a659a94",
-   "headline": "Should You Buy, Hold or Sell Tempus AI Stock Amid AI Boom?",
-   "summary": "TEM's strong data licensing growth, AI-driven innovations and rising shares favor holding the stock, but premium valuation and reimbursement risks warrant caution.",
-   "url": "https://finnhub.io/api/news?id=362890df5f4f5cbb970946fa0b82c7f2f834dbc1e7121e048a52e9c98afd3e38",
-   "source": "Yahoo",
-   "published": "2026-10-09T12:51:00+00:00",
-   "tickers": [
-    "IRTC",
-    "TEM"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "143eac41c4bc",
-   "headline": "Quest Diagnostics (NYSE:DGX): A Dividend Quality Pick for Income Investors",
-   "summary": "Quest Diagnostics (DGX) clears ChartMill's Best Dividend screen with a 2.1% yield, strong profitability, safe payout, and 10+ years of dividend growth.",
-   "url": "https://finnhub.io/api/news?id=1676261a65a438a7a3a61ceabcb8696ce8ba7f0cdb4111761a736fa3785ce588",
-   "source": "ChartMill",
-   "published": "2026-10-09T12:50:52+00:00",
-   "tickers": [
-    "DGX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "b2c6eeb7e2cd",
-   "headline": "Here's Why You Should Retain DaVita Stock in Your Portfolio for Now",
-   "summary": "DaVita gains from IKC growth, improving treatment economics and stronger formulary adoption, but payer-mix pressures and costs remain concerns.",
-   "url": "https://finnhub.io/api/news?id=37d9951dde8b5beedd7275bfc9f18f1d145f1fc77af72e233d50b33a0bcd3165",
-   "source": "Yahoo",
-   "published": "2026-10-09T12:50:00+00:00",
-   "tickers": [
-    "DVA",
-    "GMED"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "f0e4cace3929",
-   "headline": "Alignment Healthcare Stock Hit by Bearish Outlook After Costly Medicare Advantage Rating Downgrade",
-   "summary": "Alignment Healthcare Inc. (NASDAQ:ALHC) confronts potential stock pressure following the release of the Centers for Medicare & Medicaid Services\u2019 2027 Medicare Advantage Star Ratings. The company provides partners and patients with\u2026",
-   "url": "https://finnhub.io/api/news?id=45c3147ff9b0bd783ef1ab28ed130592ee8d8dbc984a9bb0596a6bb20940bd17",
-   "source": "Yahoo",
-   "published": "2026-10-09T12:49:10+00:00",
-   "tickers": [
-    "ALHC"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "5d012657cc88",
-   "headline": "Glaukos Reveals Superior Intraocular Pressure Reduction With Novel Eye Therapy",
-   "summary": "Glaukos reports positive Phase 4 results for its iDose TR therapy, demonstrating superior efficacy over standalone cataract surgery.",
-   "url": "https://finnhub.io/api/news?id=26ab3e649c59159de1bf808d648b4349a5faf903250051190c1e69a236b76a58",
-   "source": "Benzinga",
-   "published": "2026-10-09T12:49:03+00:00",
-   "tickers": [
-    "GKOS"
    ],
    "tag": "News",
    "sectors": [
