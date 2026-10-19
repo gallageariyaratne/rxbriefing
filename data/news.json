@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-19T08:16:39.064836+00:00",
+ "updated": "2026-10-19T08:31:45.347878+00:00",
  "quotes": {
   "ABBV": {
    "price": 285.42,
@@ -57,14 +57,6 @@
   "LLY": {
    "price": 1257.03,
    "change_pct": 0.43
-  },
-  "MEDP": {
-   "price": 618.47,
-   "change_pct": -1.61
-  },
-  "MOH": {
-   "price": 207.36,
-   "change_pct": -2.42
   },
   "MRK": {
    "price": 145.95,
@@ -737,6 +729,61 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "292caceb30c9",
+   "headline": "STAT+: Top immunology association divided over $8.4-billion California ballot measure to fund the field, emails show",
+   "summary": "Internal emails obtained by STAT show that the American Association of Immunologists is sharply divided over California's Proposition 38, even though it would provide $8.4 billion in taxpayer dollars for\u2026",
+   "url": "https://www.statnews.com/2026/10/19/california-prop-38-immunology-research-bond-oddly-specific-earmark/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-19T08:30:00+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "38289d6cec68",
+   "headline": "STAT+: Does Isomorphic Labs have what it takes to revolutionize drugmaking?",
+   "summary": "Isomorphic Labs wants to turn its technology into an engine for new medicines. The question now is whether \u2014 and how \u2014 it can deliver on that promise.",
+   "url": "https://www.statnews.com/2026/10/19/can-isomorphic-labs-revolutionize-drugmaking/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-19T08:30:00+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "5dee72e82de4",
+   "headline": "Opinion: My mother killed herself. I wish assisted suicide had been an option",
+   "summary": "\u201cSometimes mental illness is terminal,\u201d Torie Bosch writes in a personal essay about medical aid in dying for psychiatric reasons.",
+   "url": "https://www.statnews.com/2026/10/19/medical-aid-in-dying-mental-illness-canada/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-19T08:30:00+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "918234e228fb",
+   "headline": "Opinion: Measles is back \u2014 and becoming a midterm liability for Republicans",
+   "summary": "\u201cSilence on vaccines is becoming a dealbreaker for voters who would otherwise vote Republican,\u201d write physicians and former GOP Reps. Larry Buchson and Michael Burgess.",
+   "url": "https://www.statnews.com/2026/10/19/measles-2026-midterms-vaccine-hesitancy-liability-republicans/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-19T08:30:00+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "c49a0c7a5436",
+   "headline": "STAT+: How the No Surprises Act\u2019s nonprofit arbitrators are operating like \u2018mini gods\u2019 and getting rich doing it",
+   "summary": "A STAT investigation found that several nonprofits are raking in massive sums by acting as arbitrators in a program that helps protect patients from surprise medical bills.",
+   "url": "https://www.statnews.com/2026/10/19/no-surprises-act-billing-arbitration-profits-stat-investigation/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-19T08:30:00+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
   {
    "id": "97c3a754cc1d",
    "headline": "AbbVie Presents Data for ABBV-466, a Novel Dual-Targeting Therapy Demonstrating Higher Endoscopic Remission Rates Than Either Anti-IL-23 or Anti-\u03b14\u03b27 Monotherapy in Moderate to Severe Crohn's Disease",
@@ -33820,65 +33867,6 @@
    "tag": "Analyst",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "16bdd7f127fb",
-   "headline": "STAT+: Will MAHA survive the midterms?",
-   "summary": "As the midterm elections draw near, the MAHA movement is nearly invisible on the campaign trail and struggling to find a financial or messaging foothold in key races.",
-   "url": "https://www.statnews.com/2026/10/09/maha-movement-rfk-jr-campaign-trail-midterm-elections/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-10-09T08:30:00+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "41dcb417c93c",
-   "headline": "Opinion: Proposed U.S. census changes could be catastrophic for public health",
-   "summary": "\u201cErasing data does not erase need or harm,\u201d writes social epidemiologist Nancy Krieger.",
-   "url": "https://www.statnews.com/2026/10/09/2030-census-public-health-data-equity-morbidity-mortality/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-10-09T08:30:00+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "70821b9e0435",
-   "headline": "Opinion: 50 years ago, my colleagues and I pursued basic research science that became revolutionary",
-   "summary": "\u201cBasic studies led to clinical and translational advances that no one could have predicted,\u201d Robert Gallo writes of his work with interleukin-2.",
-   "url": "https://www.statnews.com/2026/10/09/robert-gallo-interleukin-2-human-retroviruses-immunotherapy-basic-science/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-10-09T08:30:00+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "217322f20592",
-   "headline": "The fall of Roe dramatically changed abortion access. This researcher used Reddit to capture how",
-   "summary": "With research on abortion access barriers, STAT Wunderkind Betsy Pleasants is defining a framework for using AI tools without losing sight of the people behind the data.",
-   "url": "https://www.statnews.com/2026/10/09/betsy-pleasants-stat-wunderkind-abortion-access-reddit-nlp/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-10-09T08:30:00+00:00",
-   "tickers": [],
-   "tag": "Health AI",
-   "sectors": []
-  },
-  {
-   "id": "d7de7cdf5372",
-   "headline": "CGDV Has Been A Winner In My Portfolio, And I Think It Continues, Here's Why",
-   "summary": "",
-   "url": "https://finnhub.io/api/news?id=bd314959f8d64da519d098419b9d00b84ad9847ad11f5e4a37678077bb460a77",
-   "source": "SeekingAlpha",
-   "published": "2026-10-09T08:20:00+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
