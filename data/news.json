@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-19T10:01:50.172433+00:00",
+ "updated": "2026-10-19T10:16:35.380833+00:00",
  "quotes": {
   "ABBV": {
    "price": 285.42,
@@ -29,6 +29,10 @@
   "DHR": {
    "price": 229.04,
    "change_pct": -1.06
+  },
+  "DXCM": {
+   "price": 86.04,
+   "change_pct": -1.9
   },
   "ELV": {
    "price": 428.26,
@@ -81,6 +85,10 @@
   "PFE": {
    "price": 29.58,
    "change_pct": 0.48
+  },
+  "REGN": {
+   "price": 790.74,
+   "change_pct": -0.7
   },
   "ROIV": {
    "price": 33.53,
@@ -734,6 +742,36 @@
  },
  "stories": [
   {
+   "id": "023abf9505da",
+   "headline": "AbbVie\u2019s next-gen Crohn\u2019s disease combo beats Skyrizi in phase 2 trial",
+   "summary": "AbbVie\u2019s next-generation Crohn\u2019s disease combination candidate has beaten Skyrizi in a midphase clinical trial.",
+   "url": "https://www.fiercebiotech.com/biotech/abbvies-next-gen-crohns-combination-beats-skyrizi-phase-2-trial",
+   "source": "Fierce Biotech",
+   "published": "2026-10-19T10:15:20.378219+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "b941de699bde",
+   "headline": "Global Wearable Electronics Market Report 2026-2036 | AI, Extended Reality, and Digital Health Drive New Growth and Investment Opportunities",
+   "summary": "Dublin, Oct. 19, 2026 (GLOBE NEWSWIRE) -- \"The Global Wearable Electronics Market 2026-2036\" has been added to ResearchAndMarkets.com's offering. The global wearable electronics market is undergoing a structural transformation as the\u2026",
+   "url": "https://finnhub.io/api/news?id=f7c66dc28354acd25be69a90309b2a1e8c203a3e912a99dff08afa1a90670372",
+   "source": "Yahoo",
+   "published": "2026-10-19T09:29:00+00:00",
+   "tickers": [
+    "DXCM"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "c8309f890b1d",
    "headline": "From strategy to scale: How Saudi Arabia is building a biotech ecosystem",
    "summary": "Saudi Arabia\u2019s biotech strategy now has named partners, sites and capital behind it.",
@@ -896,6 +934,21 @@
    "sectors": []
   },
   {
+   "id": "9bb6802b9703",
+   "headline": "Sensorion Announces the Appointment of Peter Weber, MD, MBA, as Chief Medical Officer",
+   "summary": "MONTPELLIER, France & CAMBRIDGE, Mass., October 19, 2026--Regulatory News: Sensorion (FR001401A9Z0 \u2013 ALSEN) (\"the Company\"), a pioneering clinical-stage biotechnology company that develops novel therapies to restore hearing and to treat\u2026",
+   "url": "https://finnhub.io/api/news?id=caad6472ce665fb06df714f2b69df29b7626efe910c4543c093c572668429ba1",
+   "source": "Yahoo",
+   "published": "2026-10-19T08:28:00+00:00",
+   "tickers": [
+    "REGN"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "97c3a754cc1d",
    "headline": "AbbVie Presents Data for ABBV-466, a Novel Dual-Targeting Therapy Demonstrating Higher Endoscopic Remission Rates Than Either Anti-IL-23 or Anti-\u03b14\u03b27 Monotherapy in Moderate to Severe Crohn's Disease",
    "summary": "In a Phase 2a study, ABBV-466 achieved higher endoscopic remission rates in patients with Crohn's disease than either anti-IL-23 p19 or anti-\u03b14\u03b27 monotherapy at Week 12, the primary endpoint. The treatment difference between ABBV-466 and\u2026",
@@ -906,6 +959,21 @@
     "ABBV"
    ],
    "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "345cc332a2c3",
+   "headline": "AbbVie Presents Data for ABBV-466, a Novel Dual-Targeting Therapy Demonstrating Higher Endoscopic Remission Rates Than Either Anti-IL-23 or Anti-\u03b14\u03b27 Monotherapy in Moderate to Severe Crohn's Disease",
+   "summary": "AbbVie (NYSE: ABBV) today announced that its investigational ABBV-466, a novel dual-targeting therapy against IL-23 p19 and integrin \u03b14\u03b27, demonstrated higher rates of endoscopic remissiona at Week 12 than either monotherapy in patients\u2026",
+   "url": "https://finnhub.io/api/news?id=d06b65f833a91e459cf70b016be92fb549f147c666cf3a81ffd957e6c178d086",
+   "source": "Yahoo",
+   "published": "2026-10-19T08:00:00+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
    "sectors": [
     "pharma"
    ]
@@ -33690,96 +33758,6 @@
    "tag": "Analyst",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "b9b42177cfaf",
-   "headline": "Medtronic (MDT) Commits $700 Million To Robotics As 2026 Impact Report Lands",
-   "summary": "Medtronic (NYSE:MDT) outlined a transformation into a multi-platform medtech group, centered on digital health, robotics and data-driven care. The company committed around US$700 million to its surgical robotics platform, signaling a\u2026",
-   "url": "https://finnhub.io/api/news?id=6e533d3ff6bd5b01ff16f3c75ee0d30875654c65ef8d9f5c7995772fadbd865d",
-   "source": "Yahoo",
-   "published": "2026-10-09T10:12:19+00:00",
-   "tickers": [
-    "MDT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "16e7a022ecbb",
-   "headline": "2 Cash-Producing Stocks on Our Watchlist and 1 We Avoid",
-   "summary": "While strong cash flow is a key indicator of stability, it doesn\u2019t always translate to superior returns. Some cash-heavy businesses struggle with inefficient spending, slowing demand, or weak competitive positioning.",
-   "url": "https://finnhub.io/api/news?id=ed23d7cec3f658bac0371cf92d89a162432240c7d2a84e75fed44e5f48a6a8dc",
-   "source": "Yahoo",
-   "published": "2026-10-09T10:11:10+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "7578a57fbbdc",
-   "headline": "Market Open: October 9, 2026",
-   "summary": "CNBC brings you fast, accurate, and actionable business news and market updates.",
-   "url": "https://finnhub.io/api/news?id=0a3f3699c836610c17552d7e2dddb0e06a41e7e99eb2a3f2dde5510206523f9b",
-   "source": "CNBC",
-   "published": "2026-10-09T10:10:47+00:00",
-   "tickers": [
-    "HUM"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "5c6e03a83099",
-   "headline": "Humana Announces Improved CMS Star Ratings with 95 Percent of Medicare Advantage Members in 4-Star or Above Plans for 2027",
-   "summary": "LOUISVILLE, Ky., October 09, 2026--Humana Inc. (NYSE: HUM), a leading consumer healthcare company focused on helping people achieve their best health, today announced improved Star Ratings for 2027, highlighted by 95% of its Medicare\u2026",
-   "url": "https://finnhub.io/api/news?id=86583c81e871292bbf2d8be5e5e7a942e6460edb2b232edaaab88ce8ea165e1e",
-   "source": "Yahoo",
-   "published": "2026-10-09T10:10:00+00:00",
-   "tickers": [
-    "HUM"
-   ],
-   "tag": "Policy",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "d5e8b52761e8",
-   "headline": "Trading Halt: Halt status updated at 10:10:00 AM ET: Quotation Resumption: IPO security released for quotation",
-   "summary": "",
-   "url": "https://finnhub.io/api/news?id=2a4eec263bf8020b0e0cce6715d0e1f31054918b819aa1202582b89de66ca8d0",
-   "source": "Benzinga",
-   "published": "2026-10-09T10:10:00+00:00",
-   "tickers": [
-    "TRXB"
-   ],
-   "tag": "Financing",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "956158eed988",
-   "headline": "Oppenheimer Maintains Outperform on Humana, Raises Price Target to $475",
-   "summary": "Oppenheimer analyst Michael Wiederhorn maintains Humana (NYSE:HUM) with a Outperform and raises the price target from $405 to $475.",
-   "url": "https://finnhub.io/api/news?id=82e0b46371accdb6a35eafa9fd97e0f5b70d12f9199d39effca2ceea9b35e7b2",
-   "source": "Benzinga",
-   "published": "2026-10-09T10:04:58+00:00",
-   "tickers": [
-    "HUM"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "payers"
    ]
   }
  ]
