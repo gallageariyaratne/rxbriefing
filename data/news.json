@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-19T02:01:34.408855+00:00",
+ "updated": "2026-10-19T02:16:26.215842+00:00",
  "quotes": {
   "ABBV": {
    "price": 285.42,
@@ -9,6 +9,10 @@
   "ABT": {
    "price": 104.89,
    "change_pct": 0.2
+  },
+  "AZN": {
+   "price": 165.41,
+   "change_pct": -0.76
   },
   "CRSP": {
    "price": 49.25,
@@ -53,6 +57,10 @@
   "MRNA": {
    "price": 218.01,
    "change_pct": -7.82
+  },
+  "NTLA": {
+   "price": 11.42,
+   "change_pct": 0.71
   },
   "NTRA": {
    "price": 393.44,
@@ -805,6 +813,21 @@
    ]
   },
   {
+   "id": "1a710844e872",
+   "headline": "/C O R R E C T I O N - AbbVie/",
+   "summary": "AbbVie (NYSE: ABBV) today announced that new and updated data from its broad solid tumor portfolio will be presented at the 2026 European Society for Medical Oncology (ESMO) Congress, taking place October 23-27 in Madrid, Spain. Spanning\u2026",
+   "url": "https://finnhub.io/api/news?id=09701ea5be45e810444839bc54903c67304650515cd36dc48d4d6fb281596c53",
+   "source": "Yahoo",
+   "published": "2026-10-18T22:10:00+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "00a1fe1c5a0f",
    "headline": "Lilly to showcase advances across its oncology pipeline at the 2026 European Society for Medical Oncology (ESMO) Congress",
    "summary": "First Phase 1 data for sofetabart mipitecan, Lilly's investigational FR\u03b1-targeting ADC, in platinum-sensitive ovarian cancer to be featured in a rapid oral presentation Updated first-line data for olomorasib, an investigational therapy\u2026",
@@ -1049,6 +1072,21 @@
    ]
   },
   {
+   "id": "0ab9a8c5eff5",
+   "headline": "Intellia Therapeutics (NTLA) Stock Looks Overvalued As Launch Preparations Advance",
+   "summary": "Intellia Therapeutics has seen its stock fall sharply over several years, even as the business moves closer to potential commercialization of its gene editing therapies. This raises a clear question about whether the current share price\u2026",
+   "url": "https://finnhub.io/api/news?id=0191a73d03ea2ee414d8a1d5cb1772e9aca5bd1a988faccd0a8557bd2af3b3c0",
+   "source": "Yahoo",
+   "published": "2026-10-18T13:13:00+00:00",
+   "tickers": [
+    "NTLA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "cdf3f93f7d42",
    "headline": "Moderna Just Joined the Nasdaq-100. Here's What That Means for Investors.",
    "summary": "It was a head-turning headline. Here's why the market was buzzing.",
@@ -1138,6 +1176,21 @@
    "tag": "Earnings",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "2d3a67e1a672",
+   "headline": "Haleon And 2 British AI Healthcare Stocks To Watch",
+   "summary": "America\u2019s vast AI infrastructure build is starting to look more fragile, and that matters for UK investors watching where the real value sits in artificial intelligence. Hardware projects can stall when financing or public support\u2026",
+   "url": "https://finnhub.io/api/news?id=9c6c08bc21ed5f9f3b22c3198b90eb8a49e3377212afc05a513811f2a382a344",
+   "source": "Yahoo",
+   "published": "2026-10-18T08:09:00+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "Financing",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -34075,51 +34128,6 @@
     "NVO"
    ],
    "tag": "Analyst",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "4ebd11fa8997",
-   "headline": "What is Illumina\u2019s (ILMN) Economic Moat, and is it Widening or Narrowing?",
-   "summary": "Illumina, Inc. (NASDAQ:ILMN) traded at around $268 on October 7, down 2.11% on the day, though still 183.61% higher over twelve months. Revenue grew 9.40% in the most recent quarter while earnings fell 11.90%. A business selling more and\u2026",
-   "url": "https://finnhub.io/api/news?id=edc14684f3cf0363f36c21c0b418ab18d69707584494fc319896a92daa48f7ad",
-   "source": "Yahoo",
-   "published": "2026-10-09T02:14:54+00:00",
-   "tickers": [
-    "ILMN"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "ffd53c5d5300",
-   "headline": "TG Therapeutics (TGTX) Stock May Be Undervalued Despite Fresh Newsflow",
-   "summary": "TG Therapeutics has delivered a very large share price gain over the past three years, which naturally puts a spotlight on whether its current valuation is still grounded in the earnings the business produces. With fresh clinical data\u2026",
-   "url": "https://finnhub.io/api/news?id=3d7b7e2ba741f9a4980c51ad2583ca72b8b6db1b8a3d268e4c3b0b988ed3d343",
-   "source": "Yahoo",
-   "published": "2026-10-09T02:13:28+00:00",
-   "tickers": [
-    "TGTX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "215a74efc747",
-   "headline": "Everest Medicines Appoints Two Veteran mRNA Cancer Vaccine Scientists to Advance Global Clinical Development",
-   "summary": "Everest Medicines (HKEX 1952.HK, \"Everest\", or the \"Company\"), a biopharmaceutical company focused on the discovery, clinical development, manufacturing, and commercialization of innovative therapeutics, today announced the appointments\u2026",
-   "url": "https://finnhub.io/api/news?id=a66160dd6197d6881e84136ccd05fcd21e73b9f43c6526ff6dab0e556b251bc9",
-   "source": "Yahoo",
-   "published": "2026-10-09T02:13:00+00:00",
-   "tickers": [
-    "MRNA"
-   ],
-   "tag": "News",
    "sectors": [
     "pharma"
    ]
