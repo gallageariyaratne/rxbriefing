@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-19T01:46:25.115620+00:00",
+ "updated": "2026-10-19T02:01:34.408855+00:00",
  "quotes": {
   "ABBV": {
    "price": 285.42,
@@ -53,6 +53,10 @@
   "MRNA": {
    "price": 218.01,
    "change_pct": -7.82
+  },
+  "NTRA": {
+   "price": 393.44,
+   "change_pct": -2.8
   },
   "NVO": {
    "price": 38.83,
@@ -716,6 +720,7 @@
    "source": "Yahoo",
    "published": "2026-10-19T00:20:12+00:00",
    "tickers": [
+    "MRNA",
     "ROIV"
    ],
    "tag": "News",
@@ -782,6 +787,21 @@
    "tag": "Policy",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "a4f7d76182a6",
+   "headline": "ESMO 2026 Presentations Deepen the Evidence Base for Natera\u2019s Oncology Portfolio and Leadership in Ultrasensitive MRD Technology",
+   "summary": "AUSTIN, Texas, October 18, 2026--Natera, Inc. (NASDAQ: NTRA), a global leader in cell-free DNA and precision medicine, today announced that 20 abstracts featuring its technology will be presented at the 2026 European Society for Medical\u2026",
+   "url": "https://finnhub.io/api/news?id=2be7d5a2d405fc3598fd11401c2a3b517bcdd7bf1d41fce5b53db10a9bcde13f",
+   "source": "Yahoo",
+   "published": "2026-10-18T22:10:00+00:00",
+   "tickers": [
+    "NTRA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
    ]
   },
   {
