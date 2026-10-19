@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-19T08:46:32.580683+00:00",
+ "updated": "2026-10-19T09:01:43.065143+00:00",
  "quotes": {
   "ABBV": {
    "price": 285.42,
@@ -98,6 +98,10 @@
    "price": 40.61,
    "change_pct": 0.79
   },
+  "TGTX": {
+   "price": 53.97,
+   "change_pct": -3.62
+  },
   "THC": {
    "price": 267.25,
    "change_pct": -2.86
@@ -113,6 +117,10 @@
   "VRTX": {
    "price": 499.74,
    "change_pct": -1.77
+  },
+  "WAT": {
+   "price": 436.95,
+   "change_pct": -1.62
   }
  },
  "tickers": {
@@ -830,6 +838,36 @@
    ]
   },
   {
+   "id": "3563f420a594",
+   "headline": "IMU and UK Biobank to generate the world\u2019s most detailed, large-scale picture of the human immune system for advancing research into health and disease",
+   "summary": "LONDON, October 19, 2026--IMU Biosciences (\u2018IMU or the \u2018Company\u2019), a biotechnology company using its High Definition Immunology\u2122 platform to better understand the immune system and drive a shift in how we understand, diagnose, and treat\u2026",
+   "url": "https://finnhub.io/api/news?id=ab33f6812a39173b4bbf8ed1420620525807eec66531b4c62963c1ee560e41ed",
+   "source": "Yahoo",
+   "published": "2026-10-19T07:08:00+00:00",
+   "tickers": [
+    "WAT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "43816571e755",
+   "headline": "Ultima Genomics Selected for Landmark Large-Scale Immune Profiling Study with IMU Biosciences, UK Biobank and Waters Corporation",
+   "summary": "Ultima Genomics, Inc., developer of ultra-high-throughput next-generation sequencing (NGS) platforms, today announced that its recently launched UG200 Sequencing Platform has been selected to power a new large-scale immune profiling study\u2026",
+   "url": "https://finnhub.io/api/news?id=808170f23fc379497c6b8a60ecfb66493710c5f63b2904675d23968f8632c6b4",
+   "source": "Yahoo",
+   "published": "2026-10-19T07:05:00+00:00",
+   "tickers": [
+    "WAT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "b3eee600c003",
    "headline": "GSK lung cancer drug shows 61% response rate in early global trial",
    "summary": "GSK PLC (LSE:GSK, NYSE:GSK) said its experimental lung cancer treatment risvutatug rezetecan produced a 61% confirmed response rate at the higher dose tested in an early-stage global trial of patients with relapsed extensive-stage small\u2026",
@@ -895,7 +933,8 @@
    "tickers": [
     "ALNY",
     "MRK",
-    "MRNA"
+    "MRNA",
+    "TGTX"
    ],
    "tag": "News",
    "sectors": [
@@ -907,6 +946,21 @@
    "headline": "Elevance Health: Why I Don't Believe In The Stock At This Price",
    "summary": "Elevance Health faces structural headwinds, with rising medical costs outpacing reimbursement and government program pressures eroding margin stability. I rate ELV stock a Hold.",
    "url": "https://finnhub.io/api/news?id=7cd83443785513a266b2f5555d862f2f755620df819581da6f41f0af773edd70",
+   "source": "SeekingAlpha",
+   "published": "2026-10-19T03:05:02+00:00",
+   "tickers": [
+    "ELV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "823be15eae32",
+   "headline": "Elevance Health: Why I Don't Believe In The Stock At This Price",
+   "summary": "Elevance Health faces structural headwinds, with rising medical costs outpacing reimbursement and government program pressures eroding margin stability. I rate ELV stock a Hold.",
+   "url": "https://finnhub.io/api/news?id=b86f87b038a0a58a6260b1a9e4d556ce7b4b8230680902a3f1ddb64b8b0e3889",
    "source": "SeekingAlpha",
    "published": "2026-10-19T03:05:02+00:00",
    "tickers": [
