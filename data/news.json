@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-19T04:46:35.655030+00:00",
+ "updated": "2026-10-19T05:01:51.616431+00:00",
  "quotes": {
   "ABBV": {
    "price": 285.42,
@@ -9,6 +9,10 @@
   "ABT": {
    "price": 104.89,
    "change_pct": 0.2
+  },
+  "ALNY": {
+   "price": 231.83,
+   "change_pct": -0.94
   },
   "AMGN": {
    "price": 432.49,
@@ -761,6 +765,23 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "649046dccad9",
+   "headline": "Stocktwits Pharma Pulse: Moderna-Merck Cancer Vaccine Grabs Spotlight As Kidney-Cancer And MS Data Pour In",
+   "summary": "Humacyte, Vera, Maze and Climb Bio will present dialysis-access and kidney-disease findings at ASN Kidney Week.",
+   "url": "https://finnhub.io/api/news?id=76496f81480358631a4fdb5349265ccf7219ba4e626da0d1745c468f7b418512",
+   "source": "Yahoo",
+   "published": "2026-10-19T03:15:13+00:00",
+   "tickers": [
+    "ALNY",
+    "MRK",
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
