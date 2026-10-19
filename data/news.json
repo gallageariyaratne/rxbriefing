@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-19T03:31:38.250617+00:00",
+ "updated": "2026-10-19T03:46:35.053422+00:00",
  "quotes": {
   "ABBV": {
    "price": 285.42,
@@ -9,6 +9,10 @@
   "ABT": {
    "price": 104.89,
    "change_pct": 0.2
+  },
+  "AMGN": {
+   "price": 432.49,
+   "change_pct": -0.35
   },
   "AZN": {
    "price": 165.41,
@@ -742,6 +746,23 @@
    "tag": "News",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "55ffa33977a7",
+   "headline": "The Winners Inside SCHD - October 2026",
+   "summary": "",
+   "url": "https://finnhub.io/api/news?id=338e046f3cae53ba7d15e9918dd078db2c4d26bc477673975dbc84454a9e73f7",
+   "source": "SeekingAlpha",
+   "published": "2026-10-18T23:27:20+00:00",
+   "tickers": [
+    "ABT",
+    "AMGN",
+    "UNH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
