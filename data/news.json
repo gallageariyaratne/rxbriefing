@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-19T11:46:45.194945+00:00",
+ "updated": "2026-10-19T12:06:42.890516+00:00",
  "quotes": {
   "ABBV": {
    "price": 285.42,
@@ -62,6 +62,10 @@
    "price": 426.7,
    "change_pct": -0.27
   },
+  "JNJ": {
+   "price": 255.56,
+   "change_pct": 0.9
+  },
   "LLY": {
    "price": 1257.03,
    "change_pct": 0.43
@@ -105,6 +109,10 @@
   "RXRX": {
    "price": 3.46,
    "change_pct": -16.71
+  },
+  "SMMT": {
+   "price": 14.63,
+   "change_pct": -4.81
   },
   "SNY": {
    "price": 40.61,
@@ -758,6 +766,84 @@
  },
  "stories": [
   {
+   "id": "cadb52aac698",
+   "headline": "Saudi Arabia takes actionable steps to build its biotech sector after 46 agreements in Riyadh",
+   "summary": "Riyadh\u2019s biotech summit closed with 46 agreements. Its chairman explains how Saudi Arabia plans to turn them into working programs.",
+   "url": "https://www.fiercebiotech.com/sponsored/saudi-arabia-takes-actionable-steps-build-its-biotech-sector-after-46-agreements-riyadh",
+   "source": "Fierce Biotech",
+   "published": "2026-10-19T12:05:07.250648+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "b10d659c3e53",
+   "headline": "From Scientific Hypothesis to Clinical Practice: The Next Chapter for CLDN18.2",
+   "summary": "Astellas reflects on a decade of progress in CLDN18.2 and the opportunities ahead in patient identification, testing and innovation",
+   "url": "https://www.fiercebiotech.com/sponsored/scientific-hypothesis-clinical-practice-next-chapter-cldn182",
+   "source": "Fierce Biotech",
+   "published": "2026-10-19T12:05:07.248842+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "e736f1aa4fa0",
+   "headline": "Immune Boost Capital Invests in Orthrus Therapeutics to Advance Antigen-Specific Immune Tolerance for Autoimmune Disease",
+   "summary": "Immune Boost Capital (IBC), the venture investment arm of the Arthritis National Research Foundation (ANRF), today announced its investment in Orthrus Therapeutics, a company developing a new class of precision therapies for autoimmune\u2026",
+   "url": "https://www.fiercebiotech.com/sponsored/immune-boost-capital-invests-orthrus-therapeutics-advance-antigen-specific-immune",
+   "source": "Fierce Biotech",
+   "published": "2026-10-19T12:05:07.247501+00:00",
+   "tickers": [],
+   "tag": "Financing",
+   "sectors": []
+  },
+  {
+   "id": "6449f63f1909",
+   "headline": "Johnson & Johnson announces new data showing TREMFYA\u00ae (guselkumab) is the only IL-23 to deliver durable fistula remission through 48 weeks in Crohn's disease with perianal fistula",
+   "summary": "TREMFYA maintained combined fistula remission through Week 48 across both maintenance dose regimens, including an increase from 28% at Week 24 to 35% at Week 48 in the 100 mg dose group These findings build on the Phase 3 clinical\u2026",
+   "url": "https://www.prnewswire.com/news-releases/johnson--johnson-announces-new-data-showing-tremfya-guselkumab-is-the-only-il-23-to-deliver-durable-fistula-remission-through-48-weeks-in-crohns-disease-with-perianal-fistula-302911458.html",
+   "source": "PR Newswire",
+   "published": "2026-10-19T12:00:00+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "270e5625abf1",
+   "headline": "Akeso Announces Opening of Global Phase II Study of Ivonescimab in First-Line Clear Cell Renal Cell Carcinoma, Including Combination with Cadonilimab",
+   "summary": "HONG KONG, Oct. 19, 2026 /PRNewswire/ -- Akeso, Inc. (9926.HK) (\"Akeso\" or the \"Company\") and its partner Summit Therapeutics Inc. jointly announced an international multicenter Phase II clinical study (SMT112-216 / AK112-216 /\u2026",
+   "url": "https://www.prnewswire.com/news-releases/akeso-announces-opening-of-global-phase-ii-study-of-ivonescimab-in-first-line-clear-cell-renal-cell-carcinoma-including-combination-with-cadonilimab-302912557.html",
+   "source": "PR Newswire",
+   "published": "2026-10-19T11:59:00+00:00",
+   "tickers": [
+    "SMMT"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "776255a75ae9",
+   "headline": "Eli Lilly & Co (NYSE:LLY) Offers Dividend Quality for Growth-Focused Income Investors",
+   "summary": "Eli Lilly passes a quality dividend screen on strong profitability and payout growth, but low yield, rich valuation, and leverage are risks.",
+   "url": "https://finnhub.io/api/news?id=363226ec9a6be298596d14d1c5a79a61b009be77ad409ac3afa96ef085d270af",
+   "source": "ChartMill",
+   "published": "2026-10-19T11:00:56+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "dfc650ce919b",
    "headline": "Insmed Launches BRINSUPRI\u00ae Tablets 25 mg (brensocatib hydrate) for the Treatment of Non-Cystic Fibrosis Bronchiectasis in Japan",
    "summary": "\u2014BRINSUPRI, a First-in-Disease and First-in-Class Treatment for Patients With Non-Cystic Fibrosis Bronchiectasis (NCFB), Is Now Available by Prescription in Japan\u2014 BRIDGEWATER, N.J., Oct. 19, 2026 /PRNewswire/ -- Insmed Incorporated\u2026",
@@ -770,6 +856,36 @@
    "tag": "News",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "02caea356080",
+   "headline": "Press Release: Sanofi breaks ground on new state-of-the-art insulin manufacturing facility in Germany",
+   "summary": "Sanofi breaks ground on new state-of-the-art insulin manufacturing facility in Germany Paris and Frankfurt, October 19, 2026. Sanofi today broke ground on a new state-of-the-art insulin manufacturing facility at its BioCampus in\u2026",
+   "url": "https://finnhub.io/api/news?id=a4b320bba4b2e4eb257c58fd6219f94e1afdb9e5dcf50a3fd2d57f6a54184dcc",
+   "source": "Yahoo",
+   "published": "2026-10-19T10:30:00+00:00",
+   "tickers": [
+    "SNY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "fc8855c79c77",
+   "headline": "Jefferies backs GSK with 2,500p target after positive lung cancer drug results",
+   "summary": "Jefferies rates GSK PLC (LSE:GSK, NYSE:GSK), the FTSE 100 pharmaceutical company, 'buy' with a 2,500p price target, implying 34% upside from Friday\u2019s close of 1,862.50p, after global trial results for its experimental cancer drug ris-rez\u2026",
+   "url": "https://finnhub.io/api/news?id=62f202afe9e99f318bca174d48f2b9a2028479c757534e77d9e0cb8ddbe33fcc",
+   "source": "Yahoo",
+   "published": "2026-10-19T10:23:00+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1217,6 +1333,22 @@
    ]
   },
   {
+   "id": "6ed673924fec",
+   "headline": "Has Recursion Pharmaceuticals (RXRX) Fallen Far Enough on Sales?",
+   "summary": "Recursion Pharmaceuticals has had a rough ride on the market lately, and the slide raises a simple question for investors who still like the story around its platform and partnerships. Is the current share price adequately grounded in\u2026",
+   "url": "https://finnhub.io/api/news?id=7cab8bb6f2a892b85b83b9a279df69b51efadd6a6dac9774bf58bfe654fb25a4",
+   "source": "Yahoo",
+   "published": "2026-10-19T03:16:57+00:00",
+   "tickers": [
+    "RXRX",
+    "SNY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "649046dccad9",
    "headline": "Stocktwits Pharma Pulse: Moderna-Merck Cancer Vaccine Grabs Spotlight As Kidney-Cancer And MS Data Pour In",
    "summary": "Humacyte, Vera, Maze and Climb Bio will present dialysis-access and kidney-disease findings at ASN Kidney Week.",
@@ -1265,6 +1397,22 @@
    ]
   },
   {
+   "id": "affab7bd9c77",
+   "headline": "Why Recursion Pharmaceuticals Stock Is In Focus After Drug Data And Sanofi Milestone",
+   "summary": "Recursion Pharmaceuticals reported past pipeline and collaboration progress, including positive REC-4881 and REC-1245 trial updates and Sanofi optioning a development candidate that triggered a US$10 million milestone within a broader\u2026",
+   "url": "https://finnhub.io/api/news?id=0f717f08d34ee9c1e145116718642f1e2778ff41cd38e1156778673b8ed4f09a",
+   "source": "Yahoo",
+   "published": "2026-10-19T02:12:41+00:00",
+   "tickers": [
+    "RXRX",
+    "SNY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "b3d95733801f",
    "headline": "3 European Space Stocks Exposed to Satellite Spectrum Trade Threats",
    "summary": "Trade threats around European satellite spectrum have turned a niche policy debate into a real money question for anyone watching space communications stocks. Regulatory friction can shut doors for some players while opening them for\u2026",
@@ -1277,6 +1425,21 @@
    "tag": "Policy",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "d214e9e9af99",
+   "headline": "Is Recursion Pharmaceuticals (RXRX) Undervalued Following Sanofi\u2019s First Option Milestone?",
+   "summary": "Recursion Pharmaceuticals (RXRX) just moved onto many investors\u2019 radar after Sanofi optioned the first development candidate from their collaboration, triggering a US$10 million milestone payment and shifting future economics for that\u2026",
+   "url": "https://finnhub.io/api/news?id=5df054e15f5fff07730a33201077579d456dc6745a39df29de33933686c485f6",
+   "source": "Yahoo",
+   "published": "2026-10-19T01:11:15+00:00",
+   "tickers": [
+    "RXRX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthai"
    ]
   },
   {
@@ -1303,6 +1466,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "da1c03909a16",
+   "headline": "Recursion Pharmaceuticals (RXRX) Stock Sees Modest Fair Value Lift After Analyst Target Revisions",
+   "summary": "Recursion Pharmaceuticals is back in focus after analysts adjusted their price target to US$5.90, following earlier updates at US$5.50 and US$5.30. Recent research frames this as a fine tuning of expectations around execution and\u2026",
+   "url": "https://finnhub.io/api/news?id=c63a631f36b2b1fd91187aa07ded769598c5c9774b4d7edf4409a9755c2abfdc",
+   "source": "Yahoo",
+   "published": "2026-10-19T00:20:51+00:00",
+   "tickers": [
+    "RXRX"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "healthai"
    ]
   },
   {
@@ -33386,144 +33564,6 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "bb992ded46b6",
-   "headline": "Cantor Fitzgerald Lifts Price Targets on Four Pharma Giants Amid Mixed Growth Outlooks",
-   "summary": "Cantor Fitzgerald just bumped price targets on Eli Lilly, AbbVie, Merck, and Pfizer, but higher targets do not mean equal conviction. The firm's split between Overweight and Neutral ratings reveals a sharp divide in where analysts see\u2026",
-   "url": "https://finnhub.io/api/news?id=dac28b3748f2eb337bdde00dc47ba0bedd5c6eea64bc1a19104fa1438a7bf8c4",
-   "source": "Yahoo",
-   "published": "2026-10-09T12:00:08+00:00",
-   "tickers": [
-    "ABBV",
-    "LLY",
-    "MRK",
-    "PFE"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "5cda236a144a",
-   "headline": "Here is What to Know Beyond Why Eli Lilly and Company (LLY) is a Trending Stock",
-   "summary": "Lilly (LLY) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
-   "url": "https://finnhub.io/api/news?id=5b087f5c5d74142f1603ff847d3e9ea6b9f49b491d94425a992b46e2550bbc41",
-   "source": "Yahoo",
-   "published": "2026-10-09T12:00:06+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "8ff83b7cd37f",
-   "headline": "Investors Heavily Search Pfizer Inc. (PFE): Here is What You Need to Know",
-   "summary": "Zacks.com users have recently been watching Pfizer (PFE) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
-   "url": "https://finnhub.io/api/news?id=1ed2ca07c5999096b54aa3eda6960a89753276ac08c505d4afde711efa569ef7",
-   "source": "Yahoo",
-   "published": "2026-10-09T12:00:03+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "48a6101210c8",
-   "headline": "Charles River Laboratories Schedules Third-Quarter 2026 Earnings Release and Conference Call",
-   "summary": "WILMINGTON, Mass., October 09, 2026--Charles River Laboratories Schedules Third-Quarter 2026 Earnings Release and Conference Call",
-   "url": "https://finnhub.io/api/news?id=9c7afb02e7e9d7abcc03d3cb0a983871d3e7356993eb8a452fb378da3b71b958",
-   "source": "Yahoo",
-   "published": "2026-10-09T12:00:00+00:00",
-   "tickers": [
-    "CRL"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "1b62099236cb",
-   "headline": "FDA Grants Breakthrough Device Designation for Natera\u2019s Multi-Cancer Early Detection Assay",
-   "summary": "AUSTIN, Texas, October 09, 2026--Natera, Inc. (NASDAQ: NTRA), a global leader in cell-free DNA and precision medicine, today announced that its multi-cancer early detection (MCED) assay has been granted Breakthrough Device designation\u2026",
-   "url": "https://finnhub.io/api/news?id=33304947fdc21978c00c6ca528323471a1724c8bbc900c01174a8d12bf87ac04",
-   "source": "Yahoo",
-   "published": "2026-10-09T12:00:00+00:00",
-   "tickers": [
-    "NTRA"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "70d6c580ba98",
-   "headline": "Baird Upgrades Humana to Outperform from Neutral",
-   "summary": "",
-   "url": "https://finnhub.io/api/news?id=f438f40a3e864814c234eabb487fb1de7c34ce9141e20db7bb9a7f4ea6adfdca",
-   "source": "Fintel",
-   "published": "2026-10-09T11:57:23+00:00",
-   "tickers": [
-    "HUM"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "87347a69090f",
-   "headline": "TD Cowen Maintains Hold on UnitedHealth Group, Lowers Price Target to $402",
-   "summary": "TD Cowen analyst Ryan Langston maintains UnitedHealth Group (NYSE:UNH) with a Hold and lowers the price target from $430 to $402.",
-   "url": "https://finnhub.io/api/news?id=78cd2afbc35e254635c5a597d18b9ff6521fa88403dac70b98028ade80c5d304",
-   "source": "Benzinga",
-   "published": "2026-10-09T11:56:34+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "b32c6c17f7e0",
-   "headline": "Humana Gets Bullish Calls From Baird, Barclays On Medicare Advantage Recovery",
-   "summary": "Humana\u2019s improved Medicare Advantage star ratings strengthen its eligibility for 2028 quality bonus payments, while analysts see potential for an earnings recovery.",
-   "url": "https://finnhub.io/api/news?id=f04e8e2a3f671a8880cf7ea6eae3ff7f5c137e20b602d3f0d326ff128cd40255",
-   "source": "Yahoo",
-   "published": "2026-10-09T11:54:10+00:00",
-   "tickers": [
-    "HUM"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "9e5f91bdd84b",
-   "headline": "TRex Bio IPO raises $116.7 million, prices at bottom of range",
-   "summary": "The clinical-stage biotech sold about 8.3 million shares at $14 each, the low end of its $14-to-$16 marketed range",
-   "url": "https://finnhub.io/api/news?id=2abdf24877bb13ddc64c69ab7ac447d515c1012e9c89076f2106ad69db5b70f7",
-   "source": "Yahoo",
-   "published": "2026-10-09T11:53:50+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "Financing",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
