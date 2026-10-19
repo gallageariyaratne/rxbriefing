@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-19T08:01:46.414275+00:00",
+ "updated": "2026-10-19T08:16:39.064836+00:00",
  "quotes": {
   "ABBV": {
    "price": 285.42,
@@ -17,10 +17,6 @@
   "AMGN": {
    "price": 432.49,
    "change_pct": -0.35
-  },
-  "AZN": {
-   "price": 165.41,
-   "change_pct": -0.76
   },
   "CRSP": {
    "price": 49.25,
@@ -741,6 +737,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "97c3a754cc1d",
+   "headline": "AbbVie Presents Data for ABBV-466, a Novel Dual-Targeting Therapy Demonstrating Higher Endoscopic Remission Rates Than Either Anti-IL-23 or Anti-\u03b14\u03b27 Monotherapy in Moderate to Severe Crohn's Disease",
+   "summary": "In a Phase 2a study, ABBV-466 achieved higher endoscopic remission rates in patients with Crohn's disease than either anti-IL-23 p19 or anti-\u03b14\u03b27 monotherapy at Week 12, the primary endpoint. The treatment difference between ABBV-466 and\u2026",
+   "url": "https://www.prnewswire.com/news-releases/abbvie-presents-data-for-abbv-466-a-novel-dual-targeting-therapy-demonstrating-higher-endoscopic-remission-rates-than-either-anti-il-23-or-anti-47-monotherapy-in-moderate-to-severe-crohns-disease-302911816.html",
+   "source": "PR Newswire",
+   "published": "2026-10-19T08:00:00+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
   {
    "id": "3dfe35748df8",
    "headline": "Nouscom raises $135M for pivotal trial of cancer-preventing vaccine candidate",
@@ -33868,98 +33879,6 @@
    "tag": "News",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "0f0b7982c031",
-   "headline": "Why Is Bruker (BRKR) Getting Attention For Its Human Plasma Proteome Atlas?",
-   "summary": "Bruker (NasdaqGS:BRKR) and Charit\u00e9 have released a draft atlas of the human plasma proteome at proteoform resolution. The project maps more than 179,000 distinct plasma proteoforms, using Bruker's timsTOF mass spectrometry platform as a\u2026",
-   "url": "https://finnhub.io/api/news?id=87eb79f605bb33cbeee250b7bd2f5eae54b233a1a19a6c95d10e1127e76f6826",
-   "source": "Yahoo",
-   "published": "2026-10-09T08:15:52+00:00",
-   "tickers": [
-    "BRKR"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "b8b7ce249fbd",
-   "headline": "iRhythm Holdings (IRTC) Disclosed Unauthorized Access To Patient Data",
-   "summary": "iRhythm Holdings (NasdaqGS: IRTC) reported a cybersecurity incident involving unauthorized access to certain patient data that is now under investigation. The business has submitted regulatory disclosures on the breach and outlined\u2026",
-   "url": "https://finnhub.io/api/news?id=3ada9f4baf0905dfebda204b5197fee5207c6e021d16ae1739e724b82c8ef87b",
-   "source": "Yahoo",
-   "published": "2026-10-09T08:12:42+00:00",
-   "tickers": [
-    "IRTC"
-   ],
-   "tag": "Policy",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "dd81e8f1ca82",
-   "headline": "Novo Nordisk (CPSE:NOVO B) Gets FDA Review Update As New EASD Data Land",
-   "summary": "Novo Nordisk (CPSE:NOVO B) reported an FDA review update for haemophilia A therapy denecimig, including manufacturing related feedback, in October 2026. The pharmaceutical group presented new CagriSema data on brain and metabolic pathway\u2026",
-   "url": "https://finnhub.io/api/news?id=c885a468f9c7fa6f13046fe6e1a9f5bb30972a82e98d932305ab99f5177de49d",
-   "source": "Yahoo",
-   "published": "2026-10-09T08:12:10+00:00",
-   "tickers": [
-    "NVO"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "097a6125d65b",
-   "headline": "12 Health Care Stocks Moving In Friday's Pre-Market Session",
-   "summary": "Gainers Humana (NYSE:HUM) stock moved upwards by 16.2% to $450.0 during Friday's pre-market session. The market value of their outstanding shares is at $46.4 billion. XORTX Therapeutics (NASDAQ:XRTX) shares",
-   "url": "https://finnhub.io/api/news?id=cdf863a062aea1491c801100873531d2846bb86cc5045687a32fe1a61b587f14",
-   "source": "Benzinga",
-   "published": "2026-10-09T08:05:40+00:00",
-   "tickers": [
-    "ALHC",
-    "CLOV",
-    "HUM"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "ff5f0471bb4b",
-   "headline": "Natera Receives FDA's Breakthrough Device Designation For Its Multi-Cancer Early Detection Assay",
-   "summary": "Natera, Inc. (NASDAQ: NTRA), a global leader in cell-free DNA and precision medicine, today announced that its multi-cancer early detection (MCED) assay has been granted Breakthrough Device designation (BDD) by the U.S.",
-   "url": "https://finnhub.io/api/news?id=ddf5f8b683e67baee2b9decfa4f3a7a45807ee2d251f4590b38bd7b500c08d57",
-   "source": "Benzinga",
-   "published": "2026-10-09T08:02:22+00:00",
-   "tickers": [
-    "NTRA"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "380afa2fa4dc",
-   "headline": "Alignment Healthcare, RenX Enterprises And Other Big Stocks Moving Lower In Friday\u2019s Pre-Market Session",
-   "summary": "U.S. futures rose, but Alignment Healthcare plunged 24% after a Medicare contract downgrade; telecom and other stocks also fell premarket.",
-   "url": "https://finnhub.io/api/news?id=f4ce9984f500bca2fec7b0bab81048fd720efc49db5381aebbf2e86c2cf26b2b",
-   "source": "Benzinga",
-   "published": "2026-10-09T08:01:15+00:00",
-   "tickers": [
-    "ALHC"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "payers"
    ]
   }
  ]
