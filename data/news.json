@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-20T02:00:03.807665+00:00",
+ "updated": "2026-10-20T02:03:55.805502+00:00",
  "quotes": {
   "A": {
    "price": 169.9,
@@ -70,6 +70,10 @@
    "price": 298.5,
    "change_pct": -1.26
   },
+  "CLOV": {
+   "price": 4.44,
+   "change_pct": -0.89
+  },
   "CNC": {
    "price": 68.63,
    "change_pct": -0.77
@@ -77,6 +81,10 @@
   "CRL": {
    "price": 300.02,
    "change_pct": -0.04
+  },
+  "CRSP": {
+   "price": 50.04,
+   "change_pct": 1.6
   },
   "CVS": {
    "price": 92.68,
@@ -170,6 +178,10 @@
    "price": 265.88,
    "change_pct": -0.38
   },
+  "IRTC": {
+   "price": 109.6,
+   "change_pct": 0.87
+  },
   "ISRG": {
    "price": 433.18,
    "change_pct": 1.52
@@ -189,6 +201,10 @@
   "LLY": {
    "price": 1240.34,
    "change_pct": -1.33
+  },
+  "MDGL": {
+   "price": 447.09,
+   "change_pct": -0.59
   },
   "MDT": {
    "price": 92.77,
@@ -305,14 +321,6 @@
   "VEEV": {
    "price": 316.8,
    "change_pct": 2.08
-  },
-  "VKTX": {
-   "price": 25.05,
-   "change_pct": -0.48
-  },
-  "WAT": {
-   "price": 434.27,
-   "change_pct": -0.61
   }
  },
  "tickers": {
@@ -1260,6 +1268,21 @@
    ]
   },
   {
+   "id": "bd419d262c4c",
+   "headline": "Clover Health Earns Top Honors in U.S. News & World Report's 2027 Medicare Advantage Ratings Across Three States",
+   "summary": "Clover Health plans are named Best Medicare Advantage Plans in New Jersey, Georgia, and South Carolina, scoring highest in all three states for Best for Care Continuity.WILMINGTON, Del., Oct. 19, 2026 (GLOBE NEWSWIRE) -- Clover Health\u2026",
+   "url": "https://finnhub.io/api/news?id=a1333b047573952e202bd0234132c422580e86f44672d3ed3a44e04c83669f83",
+   "source": "Yahoo",
+   "published": "2026-10-19T20:30:00+00:00",
+   "tickers": [
+    "CLOV"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "bac139ea2cbd",
    "headline": "What Are Hims & Hers Health Stock Bears Missing?",
    "summary": "The June closing of the Eucalyptus acquisition transformed Hims & Hers Health (HIMS) into what the company now calls a global consumer health platform. Bears may be overlooking this shift. Investors probably still view the firm as a U.S.\u2026",
@@ -1336,6 +1359,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "514ee7dfa845",
+   "headline": "CRISPR Therapeutics Announces Chief Financial Officer Transition",
+   "summary": "ZUG, Switzerland and BOSTON, Oct. 19, 2026 (GLOBE NEWSWIRE) -- CRISPR Therapeutics (Nasdaq: CRSP) today announced that its Chief Financial Officer, Raju Prasad, Ph.D., will be stepping down from the Company to pursue external\u2026",
+   "url": "https://finnhub.io/api/news?id=d1390fc572be48a2835888528e1253c2e6dbd24611287983ff3e53efcfb1e570",
+   "source": "Yahoo",
+   "published": "2026-10-19T20:05:00+00:00",
+   "tickers": [
+    "CRSP"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -1956,7 +1994,8 @@
    "source": "Yahoo",
    "published": "2026-10-19T15:42:33+00:00",
    "tickers": [
-    "CYTK"
+    "CYTK",
+    "MDGL"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -2829,6 +2868,21 @@
     "GEHC"
    ],
    "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "0f29f77f4eaf",
+   "headline": "Here's How Tempus AI Demonstrates Improving Operating Leverage",
+   "summary": "TEM shows improving operating leverage as Q2 revenues jump 22%, adjusted EBITDA turns positive and lower interest costs support its free cash flow goal.",
+   "url": "https://finnhub.io/api/news?id=ddb706307f7d4b104d45604e5b7afde3a68e4f2e5167134a09d4d7df4521533f",
+   "source": "Yahoo",
+   "published": "2026-10-19T13:00:00+00:00",
+   "tickers": [
+    "IRTC"
+   ],
+   "tag": "Earnings",
    "sectors": [
     "medtech"
    ]
