@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-20T02:18:15.554045+00:00",
+ "updated": "2026-10-20T02:33:09.266659+00:00",
  "quotes": {
   "A": {
    "price": 169.9,
@@ -158,6 +158,10 @@
    "price": 414.98,
    "change_pct": 0.44
   },
+  "IART": {
+   "price": 13.45,
+   "change_pct": 1.82
+  },
   "IDXX": {
    "price": 555.8,
    "change_pct": -0.81
@@ -274,6 +278,10 @@
    "price": 3.61,
    "change_pct": 4.18
   },
+  "RXST": {
+   "price": 4.69,
+   "change_pct": 3.99
+  },
   "SMMT": {
    "price": 15.57,
    "change_pct": 6.43
@@ -313,14 +321,6 @@
   "UNH": {
    "price": 406.88,
    "change_pct": 1.36
-  },
-  "UTHR": {
-   "price": 543.15,
-   "change_pct": 1.88
-  },
-  "VEEV": {
-   "price": 316.8,
-   "change_pct": 2.08
   }
  },
  "tickers": {
@@ -1374,6 +1374,21 @@
    "tag": "News",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "0416e63e0320",
+   "headline": "Integra Announces Completion of Refinancing Transactions",
+   "summary": "PRINCETON, N.J., Oct. 19, 2026 (GLOBE NEWSWIRE) -- Integra LifeSciences Holdings Corporation (NASDAQ:IART) today announced that it has closed a private offering of $450.0 million aggregate principal amount of 9.500% senior secured notes\u2026",
+   "url": "https://finnhub.io/api/news?id=35d4174d69f4ec85d6423f29bd95d582d9b9b7d28a252a1faa07e0a95e1fdc63",
+   "source": "Yahoo",
+   "published": "2026-10-19T20:05:00+00:00",
+   "tickers": [
+    "IART"
+   ],
+   "tag": "Financing",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -2883,6 +2898,21 @@
     "IRTC"
    ],
    "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "23fe05e2b74a",
+   "headline": "RxSight Appoints Eye Care Industry Leaders to Drive Commercial Transformation",
+   "summary": "ALISO VIEJO, Calif., Oct. 19, 2026 (GLOBE NEWSWIRE) -- RxSight, Inc. (NASDAQ: RXST) today announced the appointments of Taryn Conway as Chief Commercial Officer and Frank Shields as Executive Vice President of Sales and Commercial\u2026",
+   "url": "https://finnhub.io/api/news?id=bd405f57aa96b5f16829860e245b4f850cb6ecbfdd4bb07069f1f4eb83123293",
+   "source": "Yahoo",
+   "published": "2026-10-19T13:00:00+00:00",
+   "tickers": [
+    "RXST"
+   ],
+   "tag": "News",
    "sectors": [
     "medtech"
    ]
