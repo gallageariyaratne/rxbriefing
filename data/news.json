@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-20T03:02:49.813641+00:00",
+ "updated": "2026-10-20T03:17:43.975257+00:00",
  "quotes": {
   "A": {
    "price": 169.9,
@@ -306,10 +306,6 @@
    "price": 64.34,
    "change_pct": -0.59
   },
-  "TGTX": {
-   "price": 53.3,
-   "change_pct": -1.24
-  },
   "THC": {
    "price": 266.39,
    "change_pct": -0.32
@@ -321,6 +317,10 @@
   "TXG": {
    "price": 69.89,
    "change_pct": 0.04
+  },
+  "UNH": {
+   "price": 406.88,
+   "change_pct": 1.36
   }
  },
  "tickers": {
@@ -1513,6 +1513,21 @@
    ]
   },
   {
+   "id": "337af1f9665e",
+   "headline": "Tempus Presents Data Demonstrating AI-Enabled Pre-Screening Can Help Identify Patients for Biomarker Testing in NSCLC",
+   "summary": "CHICAGO, October 19, 2026--Tempus AI, Inc. (NASDAQ: TEM) today announced results from a study evaluating an AI-enabled pre-screening panel for patients with advanced non-small cell lung cancer (NSCLC). The panel achieved greater than 80%\u2026",
+   "url": "https://finnhub.io/api/news?id=d87580e390eea321f099f43d4a2696ca0cbde19bdfca2f3ff4722643958b6c8b",
+   "source": "Yahoo",
+   "published": "2026-10-19T19:03:00+00:00",
+   "tickers": [
+    "TEM"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "healthai"
+   ]
+  },
+  {
    "id": "a271f7550df3",
    "headline": "Why Some of America\u2019s Biggest Companies Are Objecting to Tokenized Shares",
    "summary": "Nine companies, including Verizon, Broadcom and UnitedHealth, have objected to having their shares traded on the planned OKX-ICE tokenized stock venue.",
@@ -1626,7 +1641,8 @@
    "source": "Yahoo",
    "published": "2026-10-19T17:52:37+00:00",
    "tickers": [
-    "NVS"
+    "NVS",
+    "RARE"
    ],
    "tag": "News",
    "sectors": [
@@ -2732,6 +2748,7 @@
    "published": "2026-10-19T13:25:00+00:00",
    "tickers": [
     "BMY",
+    "BNTX",
     "MRK",
     "PFE"
    ],
@@ -2955,7 +2972,8 @@
    "source": "Yahoo",
    "published": "2026-10-19T13:00:00+00:00",
    "tickers": [
-    "IRTC"
+    "IRTC",
+    "TEM"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -3852,6 +3870,21 @@
    "tag": "News",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "d97ef059f01c",
+   "headline": "BioNTech to Showcase Oncology Late-Stage Pipeline Progress and Pumitamig Novel-Novel Combination Data at ESMO 2026",
+   "summary": "Late-breaking oral presentation will feature first data from the global ROSETTA Lung-107 Phase 2 clinical trial evaluating pumitamig, a PD-L1\u00d7VEGF-A bispecific immunomodulator, plus docetaxel in patients with metastatic non-small cell\u2026",
+   "url": "https://finnhub.io/api/news?id=d6d7745c13b31a3496ddf213e9f39a46c2e7b0b9fc885cfb29a46c8273e969f4",
+   "source": "Yahoo",
+   "published": "2026-10-19T10:45:00+00:00",
+   "tickers": [
+    "BNTX"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -34240,21 +34273,6 @@
    "tag": "News",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "0968638be210",
-   "headline": "CVS Says Its Star Ratings Are Strong. TD Cowen Sees a $0.41 Earnings Hit",
-   "summary": "CVS Health (CVS:NYSE) shares fell about 2% on Friday to close at $86. 16 after the new 2027 Medicare Advantage star ratings left its Aetna unit with fewer top-rated plans.",
-   "url": "https://finnhub.io/api/news?id=751748aec66fce9999fac6dff7d699ffe1ce10c268c48d5d5320b2b03b1b3abd",
-   "source": "Yahoo",
-   "published": "2026-10-10T03:13:13+00:00",
-   "tickers": [
-    "CVS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
    ]
   }
  ]
