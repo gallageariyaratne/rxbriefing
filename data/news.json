@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-20T08:02:49.207455+00:00",
+ "updated": "2026-10-20T08:17:39.717681+00:00",
  "quotes": {
   "A": {
    "price": 169.9,
@@ -166,6 +166,10 @@
    "price": 262.66,
    "change_pct": 0.05
   },
+  "IMVT": {
+   "price": 27.62,
+   "change_pct": 3.33
+  },
   "INCY": {
    "price": 113.25,
    "change_pct": 0.16
@@ -317,10 +321,6 @@
   "VEEV": {
    "price": 316.8,
    "change_pct": 2.08
-  },
-  "VKTX": {
-   "price": 25.05,
-   "change_pct": -0.48
   }
  },
  "tickers": {
@@ -995,6 +995,21 @@
    "tag": "FDA",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "3ed324558671",
+   "headline": "Immunovant: Batoclimab 2.0 Bull Case Flawed By Mixed Data, Competitive Threats",
+   "summary": "Immunovant's IMVT-1402 aims to deliver best-in-class FcRn inhibition, but mixed data tempers confidence in its superiority. See why IMVT stock is a Hold.",
+   "url": "https://finnhub.io/api/news?id=bcbf2e60bfb00d962152357bfa155fec4be06cf99a42a85492786861086a3177",
+   "source": "SeekingAlpha",
+   "published": "2026-10-20T03:48:32+00:00",
+   "tickers": [
+    "IMVT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -34337,21 +34352,6 @@
    "tag": "News",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "e76ff6499359",
-   "headline": "Abbott (ABT) Stock Could Be 24% Overvalued After Heart Failure News",
-   "summary": "Abbott Laboratories has had a rough year in the market, and the recent product news now puts a sharper spotlight on whether the current share price is properly grounded in the cash the business can generate. With a Discounted Cash Flow\u2026",
-   "url": "https://finnhub.io/api/news?id=0f7bf76a8a6c64e173e5aef7e87f7a9177b4830420639d2c285ece77ef63a0d8",
-   "source": "Yahoo",
-   "published": "2026-10-10T08:13:54+00:00",
-   "tickers": [
-    "ABT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
