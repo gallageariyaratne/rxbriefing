@@ -1,18 +1,18 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-20T20:02:53.411336+00:00",
+ "updated": "2026-10-20T20:17:47.852317+00:00",
  "quotes": {
   "A": {
-   "price": 173.11,
-   "change_pct": 1.89
+   "price": 173.01,
+   "change_pct": 1.83
   },
   "ABBV": {
-   "price": 288.98,
-   "change_pct": 2.23
+   "price": 289.08,
+   "change_pct": 2.26
   },
   "ABT": {
-   "price": 102.7,
-   "change_pct": -1.31
+   "price": 102.45,
+   "change_pct": -1.55
   },
   "ALGN": {
    "price": 150.5,
@@ -71,28 +71,24 @@
    "change_pct": 8.11
   },
   "CNC": {
-   "price": 70.84,
-   "change_pct": 3.22
+   "price": 70.81,
+   "change_pct": 3.18
   },
   "COR": {
    "price": 343.27,
    "change_pct": 0.96
-  },
-  "CRSP": {
-   "price": 49.88,
-   "change_pct": -0.32
   },
   "CVS": {
    "price": 94.75,
    "change_pct": 2.23
   },
   "DGX": {
-   "price": 236.89,
-   "change_pct": 0.84
+   "price": 237.12,
+   "change_pct": 0.94
   },
   "DHR": {
-   "price": 224.01,
-   "change_pct": -0.19
+   "price": 224.24,
+   "change_pct": -0.08
   },
   "DOCS": {
    "price": 33.35,
@@ -151,8 +147,8 @@
    "change_pct": 0.85
   },
   "HUM": {
-   "price": 427.46,
-   "change_pct": 3.01
+   "price": 427.38,
+   "change_pct": 2.99
   },
   "IART": {
    "price": 13.33,
@@ -189,10 +185,6 @@
   "ISRG": {
    "price": 438,
    "change_pct": 1.11
-  },
-  "JAZZ": {
-   "price": 213.76,
-   "change_pct": 2.56
   },
   "JNJ": {
    "price": 259.36,
@@ -263,8 +255,8 @@
    "change_pct": 0.6
   },
   "PFE": {
-   "price": 30.13,
-   "change_pct": 2.34
+   "price": 30.11,
+   "change_pct": 2.28
   },
   "PODD": {
    "price": 142.64,
@@ -299,8 +291,8 @@
    "change_pct": 6.78
   },
   "SYK": {
-   "price": 304.47,
-   "change_pct": 2.19
+   "price": 304.4,
+   "change_pct": 2.17
   },
   "TDOC": {
    "price": 6.21,
@@ -321,6 +313,14 @@
   "UHS": {
    "price": 185.61,
    "change_pct": 1.82
+  },
+  "UNH": {
+   "price": 419.26,
+   "change_pct": 3.04
+  },
+  "UTHR": {
+   "price": 553.88,
+   "change_pct": 1.98
   }
  },
  "tickers": {
@@ -937,6 +937,47 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "83e739fb6c06",
+   "headline": "STAT+: State regulators move to seize licenses from nursing home chain that was focus of Boston Globe investigation",
+   "summary": "A Boston Globe investigation found that RegalCare acquired nursing homes across Massachusetts, then gutted the quality of care.",
+   "url": "https://www.statnews.com/2026/10/20/massachusetts-regulators-move-to-seize-regal-care-nursing-home-licenses-boston-globe-investigation/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-20T20:14:29+00:00",
+   "tickers": [],
+   "tag": "M&A",
+   "sectors": []
+  },
+  {
+   "id": "db2dbcef52cf",
+   "headline": "Illumina To Webcast Upcoming Investor Conference",
+   "summary": "SAN DIEGO, Oct. 20, 2026 /PRNewswire/ -- Illumina, Inc. (NASDAQ: ILMN) today announced that members of its management team will participate at the following investor conference: Upcoming Investor Conference UBS Global Healthcare\u2026",
+   "url": "https://www.prnewswire.com/news-releases/illumina-to-webcast-upcoming-investor-conference-302914574.html",
+   "source": "PR Newswire",
+   "published": "2026-10-20T20:05:00+00:00",
+   "tickers": [
+    "ILMN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "7bf52eb33512",
+   "headline": "Sector Update: Healthcare Stocks Gain Late Afternoon",
+   "summary": "Healthcare stocks rose late Tuesday afternoon with the NYSE Healthcare Index gaining 2.2% and the St",
+   "url": "https://finnhub.io/api/news?id=61323e53dcc376ee8afad37c6ac1326db41dbc4901bd67f1ae117ca1b38c2a10",
+   "source": "Yahoo",
+   "published": "2026-10-20T19:53:31+00:00",
+   "tickers": [
+    "LH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
   {
    "id": "42dbac7634d3",
    "headline": "CDMO Samsung Bio wins temporary reprieve from strike threat after Seoul court ruling",
@@ -37157,21 +37198,6 @@
     "AMGN",
     "LLY",
     "VEEV"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "4302d2893db4",
-   "headline": "3 US Healthcare Automation Stocks Riding The Push To Cut Admin Costs",
-   "summary": "AI spending is exploding, and healthcare is right in the crosshairs. Big Tech is pouring hundreds of billions into infrastructure while hospitals and insurers test AI to strip out some of the roughly US$1t in administrative cost. That\u2026",
-   "url": "https://finnhub.io/api/news?id=29e1b14e9dd5e93c14345280e8ccc5427a6f4a844978c58e5afbfef6ca4e8380",
-   "source": "Yahoo",
-   "published": "2026-10-10T20:14:30+00:00",
-   "tickers": [
-    "PRVA"
    ],
    "tag": "Health AI",
    "sectors": [
