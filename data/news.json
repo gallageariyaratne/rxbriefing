@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-20T21:32:48.001713+00:00",
+ "updated": "2026-10-20T21:47:47.674503+00:00",
  "quotes": {
   "A": {
    "price": 173.01,
@@ -78,6 +78,10 @@
    "price": 343.27,
    "change_pct": 0.96
   },
+  "CRL": {
+   "price": 315.45,
+   "change_pct": 5.14
+  },
   "CVS": {
    "price": 94.75,
    "change_pct": 2.23
@@ -93,10 +97,6 @@
   "DOCS": {
    "price": 33.35,
    "change_pct": 6.04
-  },
-  "DVA": {
-   "price": 175.35,
-   "change_pct": -6.23
   },
   "DXCM": {
    "price": 85.74,
@@ -960,6 +960,21 @@
    "sectors": []
   },
   {
+   "id": "54a6acf3b8ac",
+   "headline": "After-Hours Movers: Postmarket Gainers and Losers",
+   "summary": "After the US close, SHFS, GFAI, SPHL and NCPL led after-hours gainers, while TKNO, RFAIR, PRSO and INLF led postmarket losers.",
+   "url": "https://finnhub.io/api/news?id=99a696fb28c0788ceb543b5c88db7d2f7170ae356ff2e0ee5490fe6b0212ef86",
+   "source": "ChartMill",
+   "published": "2026-10-20T21:00:31+00:00",
+   "tickers": [
+    "ISRG"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "36368a616646",
    "headline": "DOJ streamlines voluntary self-disclosure of healthcare fraud",
    "summary": "A policy change directs healthcare organizations seeking lighter repercussions from potentially criminal fraud activity to disclose to DOJ alone, rather than separately between law enforcement and Department of Health and Human Services\u2026",
@@ -984,6 +999,21 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "1f09fc228aa6",
+   "headline": "Zoetis Receives FDA Approval for Convenia\u00ae RTU for Dogs (cefovecin injectable suspension), Helping More Medium and Large Dogs Access Single-Injection Treatment",
+   "summary": "PARSIPPANY, N.J., October 20, 2026--Convenia RTU for Dogs provides up to 14 days of antibiotic treatment in a single dose for susceptible bacterial skin infections",
+   "url": "https://finnhub.io/api/news?id=0fd1e70c60074b521420666410d81e6607e9d5b754914a886d52f0c680c029a5",
+   "source": "Yahoo",
+   "published": "2026-10-20T20:42:00+00:00",
+   "tickers": [
+    "ZTS"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1116,6 +1146,22 @@
    ]
   },
   {
+   "id": "950133cedd9b",
+   "headline": "Dow Jones Top Gainers in Today's Session: 3M Leads",
+   "summary": "Dow Jones top gainers in today's session included 3M, Merck, UnitedHealth, Amgen, Nike, Travelers and Home Depot, with 3M leading the advance at 5.08%.",
+   "url": "https://finnhub.io/api/news?id=e847f5497219a6ee5fb3303bc66bd6264ef463d03cfa7aef6fad9b678cc7ee61",
+   "source": "ChartMill",
+   "published": "2026-10-20T19:10:51+00:00",
+   "tickers": [
+    "AMGN",
+    "UNH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "d5dd599ab794",
    "headline": "Abbott Laboratories (ABT) Secures Europe CE Mark For Colorectal Cancer Test",
    "summary": "Abbott Laboratories (NYSE:ABT) received CE Mark for its Cologuard Plus colorectal cancer test under the EU In Vitro Diagnostic Regulation. The approval clears Abbott to offer the noninvasive stool based screening test in select European\u2026",
@@ -1126,6 +1172,22 @@
     "ABT"
    ],
    "tag": "FDA",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "fef49d821476",
+   "headline": "S&P 500 Top Movers: EFX and HAS Lead Today's Gainers, GM and DVA Fall",
+   "summary": "S&P 500 top movers today: Equifax and Hasbro gained over 10%, while General Motors and DaVita fell more than 7% in a mixed session.",
+   "url": "https://finnhub.io/api/news?id=9767c866ea027121f6e583a1c9d55c71caf1930dcf32f3011cf51a1089f09880",
+   "source": "ChartMill",
+   "published": "2026-10-20T19:06:04+00:00",
+   "tickers": [
+    "ABT",
+    "CRL"
+   ],
+   "tag": "News",
    "sectors": [
     "medtech"
    ]
@@ -1155,6 +1217,21 @@
    "tickers": [],
    "tag": "Legal",
    "sectors": []
+  },
+  {
+   "id": "a1630ad70b67",
+   "headline": "Most Active S&P 500 Stocks in Today's Session",
+   "summary": "Intel leads today's most-active S&P 500 scan by volume as price moves are mixed and most names trade below their 50-day average volume.",
+   "url": "https://finnhub.io/api/news?id=7a8988392bd2d135c2ac2c92d98b1a5b3a99249e4b33855c229ecd63766a3596",
+   "source": "ChartMill",
+   "published": "2026-10-20T18:05:58+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "83447945bb54",
@@ -1207,6 +1284,21 @@
    "tag": "News",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "4b5da9d7e653",
+   "headline": "Zoetis: Weakening Fundamentals Overshadow The Discount",
+   "summary": "Zoetis (ZTS) rated sell as growth slows and guidance falls. Read the latest analysis on the stock here.",
+   "url": "https://finnhub.io/api/news?id=1c8e4d8fb875d44021fbfe8b9ccac9f0bbceb42075708d6aeb607d5511862993",
+   "source": "SeekingAlpha",
+   "published": "2026-10-20T17:22:24+00:00",
+   "tickers": [
+    "ZTS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1389,7 +1481,9 @@
    "source": "ChartMill",
    "published": "2026-10-20T16:40:55+00:00",
    "tickers": [
-    "JNJ"
+    "AMGN",
+    "JNJ",
+    "UNH"
    ],
    "tag": "News",
    "sectors": [
@@ -1450,7 +1544,9 @@
    "source": "ChartMill",
    "published": "2026-10-20T16:36:01+00:00",
    "tickers": [
-    "BMY"
+    "BIIB",
+    "BMY",
+    "CRL"
    ],
    "tag": "News",
    "sectors": [
