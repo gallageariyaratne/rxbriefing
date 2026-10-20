@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-20T02:33:09.266659+00:00",
+ "updated": "2026-10-20T02:47:30.768341+00:00",
  "quotes": {
   "A": {
    "price": 169.9,
@@ -298,6 +298,10 @@
    "price": 19.61,
    "change_pct": -0.3
   },
+  "TDOC": {
+   "price": 5.73,
+   "change_pct": 1.06
+  },
   "TEM": {
    "price": 64.34,
    "change_pct": -0.59
@@ -317,10 +321,6 @@
   "TXG": {
    "price": 69.89,
    "change_pct": 0.04
-  },
-  "UNH": {
-   "price": 406.88,
-   "change_pct": 1.36
   }
  },
  "tickers": {
@@ -1114,6 +1114,21 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "027c9fa1128a",
+   "headline": "Teladoc (TDOC) Outperforms Broader Market: What You Need to Know",
+   "summary": "Teladoc (TDOC) closed at $5.73 in the latest trading session, marking a +1.06% move from the prior day.",
+   "url": "https://finnhub.io/api/news?id=1b6bdcaf1ba8bf3f61ecb93da5120c8bcb3a4fc561d052a300e1c88b83ed6dcb",
+   "source": "Yahoo",
+   "published": "2026-10-19T21:15:04+00:00",
+   "tickers": [
+    "TDOC"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
    ]
   },
   {
@@ -3747,6 +3762,21 @@
    "tag": "Clinical",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "97013e712fd8",
+   "headline": "Insmed Launches BRINSUPRI\u00ae Tablets 25 mg (brensocatib hydrate) for the Treatment of Non-Cystic Fibrosis Bronchiectasis in Japan",
+   "summary": "Insmed Incorporated (Nasdaq: INSM), a people-first global biopharmaceutical company striving to deliver first- and best-in-class therapies to transform the lives of patients facing serious diseases, today announced the commercial launch\u2026",
+   "url": "https://finnhub.io/api/news?id=871db023bec67bd54e43cf6345221075347c4db864950b3716951f2365c238a9",
+   "source": "Yahoo",
+   "published": "2026-10-19T11:00:00+00:00",
+   "tickers": [
+    "INSM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
