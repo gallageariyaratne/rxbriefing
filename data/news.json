@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-20T12:45:54.151088+00:00",
+ "updated": "2026-10-20T13:02:43.623752+00:00",
  "quotes": {
   "A": {
    "price": 169.9,
@@ -34,10 +34,6 @@
    "price": 163.95,
    "change_pct": -0.88
   },
-  "BMRN": {
-   "price": 54.67,
-   "change_pct": -0.02
-  },
   "BMY": {
    "price": 58.83,
    "change_pct": -1.54
@@ -45,10 +41,6 @@
   "BNTX": {
    "price": 89.21,
    "change_pct": 1.71
-  },
-  "CAH": {
-   "price": 252.65,
-   "change_pct": -0.56
   },
   "CI": {
    "price": 298.5,
@@ -98,10 +90,6 @@
    "price": 173.05,
    "change_pct": -2.03
   },
-  "GEHC": {
-   "price": 69.76,
-   "change_pct": 0.27
-  },
   "GILD": {
    "price": 153.07,
    "change_pct": -2.0
@@ -122,10 +110,6 @@
    "price": 83.97,
    "change_pct": -2.79
   },
-  "HUM": {
-   "price": 414.98,
-   "change_pct": 0.44
-  },
   "IART": {
    "price": 13.45,
    "change_pct": 1.82
@@ -145,10 +129,6 @@
   "IQV": {
    "price": 265.88,
    "change_pct": -0.38
-  },
-  "IRTC": {
-   "price": 109.6,
-   "change_pct": 0.87
   },
   "ISRG": {
    "price": 433.18,
@@ -238,17 +218,21 @@
    "price": 782.04,
    "change_pct": -1.1
   },
+  "RMD": {
+   "price": 239.77,
+   "change_pct": 0.33
+  },
   "RVMD": {
    "price": 182.15,
    "change_pct": 2.35
   },
-  "RXST": {
-   "price": 4.69,
-   "change_pct": 3.99
-  },
   "SNY": {
    "price": 39.57,
    "change_pct": -2.56
+  },
+  "SOPH": {
+   "price": 6.49,
+   "change_pct": -3.57
   },
   "SYK": {
    "price": 297.94,
@@ -910,6 +894,32 @@
  },
  "stories": [
   {
+   "id": "8f97ff56326f",
+   "headline": "How voters feel about trans rights and abortion access will soon be put to the test",
+   "summary": "How do voters feel about trans students participating in school sports teams? Or abortion access? The U.S. is about to find out.",
+   "url": "https://www.statnews.com/2026/10/20/health-news-how-voters-feel-about-trans-rights-abortion-access-2026-midterms/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-20T12:55:52+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "56449c22268e",
+   "headline": "Cybersecurity in focus for top medtech lobby",
+   "summary": "ResMed CEO Mick Farrell, chair of AdvaMed\u2019s board, said the group plans to come up with standards around privacy, cybersecurity and interoperability.",
+   "url": "https://www.medtechdive.com/news/cybersecurity-in-focus-for-top-medtech-lobby/833422/",
+   "source": "MedTech Dive",
+   "published": "2026-10-20T12:48:00+00:00",
+   "tickers": [
+    "RMD"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "251bb181c7ba",
    "headline": "Medtech execs share secrets to building resilient supply chains",
    "summary": "At AdvaMed\u2019s The MedTech Conference, company executives said they\u2019re bracing for disruption by investing in inventory, scenario planning and their relationships with chip suppliers.",
@@ -969,6 +979,21 @@
    "sectors": []
   },
   {
+   "id": "aa513a58b1a5",
+   "headline": "Peach State Health Plan Releases 2025 Community Impact Report",
+   "summary": "Peach State Health Plan, a care management organization serving Georgians, has released the 2025 Community Impact Report, Removing Barriers to Better Health, highlighting continued efforts to improve health outcomes and build stronger\u2026",
+   "url": "https://finnhub.io/api/news?id=fbe6b0d3d85a84c41ec13883787fb6240ce9618f837fc8c1048e39c43c096d96",
+   "source": "Yahoo",
+   "published": "2026-10-20T12:05:00+00:00",
+   "tickers": [
+    "CNC"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "ee7a298a9aab",
    "headline": "QIAGEN N.V. (NYSE:QGEN) Sets Up for a Technical Breakout",
    "summary": "QIAGEN passes ChartMill technical breakout screen with an 8 technical rating, 8 setup score, a 46.57 breakout trigger, and defined risk at 43.64.",
@@ -993,6 +1018,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "a095f22b7a7e",
+   "headline": "SOPHiA GENETICS to Announce Financial Results for Third Quarter 2026 on November 3, 2026",
+   "summary": "SOPHiA GENETICS (Nasdaq: SOPH), a global leader in AI-driven precision medicine, today announced it will release its financial results for the third quarter 2026 before U.S. markets open on Tuesday, November 3, 2026. On that day, SOPHiA\u2026",
+   "url": "https://finnhub.io/api/news?id=5db6ceafa74ceb706fec52fe979bde5c4fa514cc5e4d04ff9d254a43c12c9c27",
+   "source": "Yahoo",
+   "published": "2026-10-20T12:00:00+00:00",
+   "tickers": [
+    "SOPH"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "healthai"
+   ]
   },
   {
    "id": "621394b4d13f",
@@ -1055,6 +1095,21 @@
    ]
   },
   {
+   "id": "31675eb77ce8",
+   "headline": "Merck KGaA spends $1.3bn to buy siRNA specialist Silence Therapeutics",
+   "summary": "Buying the UK-based biotech will add a siRNA drug candidate with high sales potential to Merck\u2019s portfolio.",
+   "url": "https://finnhub.io/api/news?id=c0eb97afa5fce9f91a8b0e2078228723e7d7f014f6dbf181695fd2180935be06",
+   "source": "Yahoo",
+   "published": "2026-10-20T11:28:43+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "5550b87bf835",
    "headline": "Israeli biotech\u2019s inhaled exosome therapy reduces respiratory failure in phase 2 study",
    "summary": "Nano24\u2019s inhaled exosome therapy reduced respiratory failure in patients with acute respiratory distress syndrome (ARDS), hitting the main goal of a phase 2b study.",
@@ -1066,6 +1121,21 @@
    "sectors": []
   },
   {
+   "id": "a32d87b383a2",
+   "headline": "Should You Be Worried About Tempus AI Stock?",
+   "summary": "Tempus AI (TEM) stock has lost 17.3% over the past month, while the S&P 500 gained 0.6%. The company still grew sales 22% in its latest quarter, but the risk worth your attention lies with the few drugmakers that license its data. One of\u2026",
+   "url": "https://finnhub.io/api/news?id=af538dfcc97471b773c0a98f306b8165f5d21902ddab715372966219658fcc87",
+   "source": "Yahoo",
+   "published": "2026-10-20T11:03:00+00:00",
+   "tickers": [
+    "IQV"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "a0f8aacdd365",
    "headline": "Is Eli Lilly Stock Too Dependent On Two Drugs?",
    "summary": "Two drugs, Mounjaro and Zepbound, accounted for $14.9 billion of Eli Lilly's (LLY) $23.0 billion in revenue during fiscal Q2 2026. This leaves Eli Lilly relying on two medicines for most of its sales at a time when the price it gets for\u2026",
@@ -1074,11 +1144,28 @@
    "published": "2026-10-20T11:02:57+00:00",
    "tickers": [
     "ABBV",
-    "JNJ"
+    "JNJ",
+    "LLY",
+    "MRK"
    ],
    "tag": "GLP-1",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "c9a1a847a95a",
+   "headline": "Ambetter Health Announces 2027 Marketplace Offerings, Including Enhanced Condition-Specific Coverage Options",
+   "summary": "Ambetter Health, the Health Insurance Marketplace product of Centene Corporation (NYSE: CNC), today announced its 2027 Marketplace offerings, including new and enhanced condition-specific plans. Ambetter Health currently serves more than\u2026",
+   "url": "https://finnhub.io/api/news?id=20342956ff901588b9fe50aeff1179b35e85c9e15cd36f7df5ca86b0224bfa56",
+   "source": "Yahoo",
+   "published": "2026-10-20T11:01:00+00:00",
+   "tickers": [
+    "CNC"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -1136,6 +1223,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "490f875e6d83",
+   "headline": "Henry Schein to Webcast Third Quarter 2026 Conference Call on Tuesday, November 3, 2026, at 8:00 a.m. ET",
+   "summary": "MELVILLE, N.Y., October 20, 2026--Henry Schein, Inc. (Nasdaq: HSIC), the world\u2019s largest provider of healthcare solutions to office-based dental and medical practitioners, announced today that it will release its third quarter 2026\u2026",
+   "url": "https://finnhub.io/api/news?id=3a078023e48e38f72b55b14866636afa92498281a77c2ad257d1211267a2e713",
+   "source": "Yahoo",
+   "published": "2026-10-20T10:30:00+00:00",
+   "tickers": [
+    "HSIC"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharmacy"
+   ]
   },
   {
    "id": "67e9f2050d63",
@@ -34571,21 +34673,6 @@
    "tag": "FDA",
    "sectors": [
     "tools"
-   ]
-  },
-  {
-   "id": "4c4f690f5f31",
-   "headline": "CDs vs. Dividend Stocks: The Income Gap Could Be Bigger Than Retirees Think",
-   "summary": "Retirees chasing income face a choice that looks simple on paper but hides a tax trap, a reinvestment problem, and a dividend cut risk that most income comparisons never mention.",
-   "url": "https://finnhub.io/api/news?id=cb8f75d075716826545a36eb0c4cb1c4d638f20281ad352a52b6f3da268df4bd",
-   "source": "Yahoo",
-   "published": "2026-10-10T13:00:32+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
