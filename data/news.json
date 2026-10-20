@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-20T21:47:47.674503+00:00",
+ "updated": "2026-10-20T22:02:53.785566+00:00",
  "quotes": {
   "A": {
    "price": 173.01,
@@ -97,6 +97,10 @@
   "DOCS": {
    "price": 33.35,
    "change_pct": 6.04
+  },
+  "DVA": {
+   "price": 175.35,
+   "change_pct": -6.23
   },
   "DXCM": {
    "price": 85.74,
@@ -317,10 +321,6 @@
   "UTHR": {
    "price": 553.88,
    "change_pct": 1.98
-  },
-  "WAT": {
-   "price": 442.83,
-   "change_pct": 1.97
   }
  },
  "tickers": {
@@ -1154,6 +1154,7 @@
    "published": "2026-10-20T19:10:51+00:00",
    "tickers": [
     "AMGN",
+    "MRK",
     "UNH"
    ],
    "tag": "News",
@@ -1185,7 +1186,9 @@
    "published": "2026-10-20T19:06:04+00:00",
    "tickers": [
     "ABT",
-    "CRL"
+    "CRL",
+    "DVA",
+    "MRNA"
    ],
    "tag": "News",
    "sectors": [
@@ -1377,6 +1380,21 @@
    ]
   },
   {
+   "id": "5b0fd543f6e6",
+   "headline": "S&P 500 Unusual Volume Movers for October 20",
+   "summary": "Ten S&P 500 stocks traded above their 50-day average volume on October 20, with gains in MSCI, Hasbro, Northrop, Hilton, 3M and Equifax and declines in GE, GM, DaVita and Baxter.",
+   "url": "https://finnhub.io/api/news?id=0cf2c5fe188493d656c8faf31d4633f820dfe5e9bbce24414fcde57b91bba2bd",
+   "source": "ChartMill",
+   "published": "2026-10-20T17:05:39+00:00",
+   "tickers": [
+    "DVA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "6200dc424a0f",
    "headline": "LLY Stock Hits New Record, Eli Lilly Valuation Pushes Past Berkshire Hathaway Ahead Of Q3 Earnings",
    "summary": "According to The Fly, Goldman Sachs expects Lilly to beat Q3 earnings estimates and raise its outlook, citing stronger-than-expected Mounjaro growth outside the U.S. and Zepbound volume gains supported by Medicare\u2019s GLP-1 Bridge program.",
@@ -1483,6 +1501,7 @@
    "tickers": [
     "AMGN",
     "JNJ",
+    "MRK",
     "UNH"
    ],
    "tag": "News",
@@ -1546,7 +1565,9 @@
    "tickers": [
     "BIIB",
     "BMY",
-    "CRL"
+    "CRL",
+    "DVA",
+    "LLY"
    ],
    "tag": "News",
    "sectors": [
@@ -37509,23 +37530,6 @@
    "tag": "Clinical",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "8bee278c710a",
-   "headline": "Veeva Systems\u2019 (VEEV) Comeback Gets Jim Cramer Talking",
-   "summary": "During the October 7 episode of Mad Money, Jim Cramer discussed Veeva Systems Inc. (NYSE:VEEV) as an example of a software business that had recovered from fears about AI disruption, as he said: Take Veeva Systems, the best of its\u2026",
-   "url": "https://finnhub.io/api/news?id=fa88cdfd74ccb3980dd29d4c2cc501cf78fdf54e2897ef5e1a8793016dcd4e94",
-   "source": "Yahoo",
-   "published": "2026-10-10T21:55:49+00:00",
-   "tickers": [
-    "AMGN",
-    "LLY",
-    "VEEV"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "healthit"
    ]
   }
  ]
