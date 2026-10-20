@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-20T20:32:42.626358+00:00",
+ "updated": "2026-10-20T20:47:39.640904+00:00",
  "quotes": {
   "A": {
    "price": 173.01,
@@ -53,6 +53,10 @@
   "BNTX": {
    "price": 91.17,
    "change_pct": 2.2
+  },
+  "BRKR": {
+   "price": 55.93,
+   "change_pct": 1.01
   },
   "BSX": {
    "price": 45.58,
@@ -317,10 +321,6 @@
   "UTHR": {
    "price": 553.88,
    "change_pct": 1.98
-  },
-  "VEEV": {
-   "price": 318.67,
-   "change_pct": 0.59
   }
  },
  "tickers": {
@@ -938,6 +938,33 @@
  },
  "stories": [
   {
+   "id": "36368a616646",
+   "headline": "DOJ streamlines voluntary self-disclosure of healthcare fraud",
+   "summary": "A policy change directs healthcare organizations seeking lighter repercussions from potentially criminal fraud activity to disclose to DOJ alone, rather than separately between law enforcement and Department of Health and Human Services\u2026",
+   "url": "https://www.fiercehealthcare.com/regulatory/doj-streamlines-voluntary-self-disclosure-healthcare-fraud",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-20T20:45:21.195901+00:00",
+   "tickers": [],
+   "tag": "Legal",
+   "sectors": []
+  },
+  {
+   "id": "16f2f46e5124",
+   "headline": "Centene, Oscar Health outline 2027 ACA marketplace plans",
+   "summary": "Open enrollment for the Affordable Care Act's marketplaces begins on Nov. 1, and with more turbulence on deck, insurers are offering a look at their plans for the coming year.",
+   "url": "https://www.fiercehealthcare.com/payers/centene-oscar-health-outline-2027-aca-marketplace-plans",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-20T20:45:21.195099+00:00",
+   "tickers": [
+    "CNC",
+    "OSCR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "b57d0e95b9f1",
    "headline": "AMGEN TO PRESENT AT THE EUROPEAN SOCIETY OF MEDICAL ONCOLOGY CONGRESS 2026",
    "summary": "THOUSAND OAKS, Calif., Oct. 20, 2026 /PRNewswire/ -- Amgen (NASDAQ:AMGN) will host a webcast call for the investment community in conjunction with the European Society of Medical Oncology Congress (ESMO) 2026 on Saturday, October 24, 2026\u2026",
@@ -979,6 +1006,21 @@
    ]
   },
   {
+   "id": "745c4f4db48a",
+   "headline": "Bruker Announces Date and Time of Third Quarter 2026 Earnings Release and Webcast",
+   "summary": "BILLERICA, Mass., October 20, 2026--Bruker Corporation (Nasdaq: BRKR) today announced it will report third quarter 2026 financial results before market opening on Wednesday, November 4, 2026. The Company will host a conference call and\u2026",
+   "url": "https://finnhub.io/api/news?id=a3bc4118a0f31aaa97074de7f99d21a7c18093a9fcc42cc7b54eb1e6343bebca",
+   "source": "Yahoo",
+   "published": "2026-10-20T20:01:00+00:00",
+   "tickers": [
+    "BRKR"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "7bf52eb33512",
    "headline": "Sector Update: Healthcare Stocks Gain Late Afternoon",
    "summary": "Healthcare stocks rose late Tuesday afternoon with the NYSE Healthcare Index gaining 2.2% and the St",
@@ -987,6 +1029,21 @@
    "published": "2026-10-20T19:53:31+00:00",
    "tickers": [
     "LH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "f3f63ccc3527",
+   "headline": "Stock Market Today: Dow Pops, Oil Falls On U.S.-Iran Hopes; Hasbro Rockets, Toys With An Entry (Live Coverage)",
+   "summary": "Stock Market Today: The Dow Jones index and other indexes gain Tuesday on U.S.-Iran peace hopes. Biotech and software stocks show strength.",
+   "url": "https://finnhub.io/api/news?id=10fb269e33b023d8073c62e1faebefa902225f99bb0b26c309d18defaf3718a0",
+   "source": "Yahoo",
+   "published": "2026-10-20T19:46:38+00:00",
+   "tickers": [
+    "UNH"
    ],
    "tag": "News",
    "sectors": [
@@ -1003,6 +1060,36 @@
    "tickers": [],
    "tag": "FDA",
    "sectors": []
+  },
+  {
+   "id": "45bfc3538893",
+   "headline": "RBC Capital names top healthcare stocks as sector upgraded to overweight",
+   "summary": "Investing.com -- RBC Capital has upgraded the Healthcare sector to Overweight from Market Weight, identifying 11 high-conviction stock ideas across therapeutics and non-therapeutics segments. The upgrade is supported by improving flows,\u2026",
+   "url": "https://finnhub.io/api/news?id=644dd6ec18767427693e2fe0f20c8e8cc753f3fb6de07218e5f1d48be6f44f23",
+   "source": "Yahoo",
+   "published": "2026-10-20T19:27:04+00:00",
+   "tickers": [
+    "BIIB"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "d5dd599ab794",
+   "headline": "Abbott Laboratories (ABT) Secures Europe CE Mark For Colorectal Cancer Test",
+   "summary": "Abbott Laboratories (NYSE:ABT) received CE Mark for its Cologuard Plus colorectal cancer test under the EU In Vitro Diagnostic Regulation. The approval clears Abbott to offer the noninvasive stool based screening test in select European\u2026",
+   "url": "https://finnhub.io/api/news?id=cb60ffbbba39e2bd85db9289973fdaed3c8e4ce438f8b44046158cd966778464",
+   "source": "Yahoo",
+   "published": "2026-10-20T19:09:49+00:00",
+   "tickers": [
+    "ABT"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "medtech"
+   ]
   },
   {
    "id": "42dbac7634d3",
@@ -3232,6 +3319,22 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "f1e30e05e7cd",
+   "headline": "Older Americans brace for higher healthcare costs ahead of midterms",
+   "summary": "US insurers including UnitedHealth and Humana are cutting healthcare services for elderly clients and increasing the price of prescription drugs...",
+   "url": "https://finnhub.io/api/news?id=a3c3bac2c3c4503491e8868baf2c230de639974f5189e40aec297bee79b47a5f",
+   "source": "Yahoo",
+   "published": "2026-10-20T10:10:01+00:00",
+   "tickers": [
+    "HUM",
+    "UNH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
    ]
   },
   {
