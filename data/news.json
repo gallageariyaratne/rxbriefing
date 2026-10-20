@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-20T13:02:43.623752+00:00",
+ "updated": "2026-10-20T13:17:20.379806+00:00",
  "quotes": {
   "A": {
    "price": 169.9,
@@ -89,6 +89,10 @@
   "ENSG": {
    "price": 173.05,
    "change_pct": -2.03
+  },
+  "GDRX": {
+   "price": 3.37,
+   "change_pct": 0.3
   },
   "GILD": {
    "price": 153.07,
@@ -194,10 +198,6 @@
    "price": 32.54,
    "change_pct": 2.04
   },
-  "PACB": {
-   "price": 1.84,
-   "change_pct": 6.36
-  },
   "PFE": {
    "price": 29.44,
    "change_pct": -0.47
@@ -221,10 +221,6 @@
   "RMD": {
    "price": 239.77,
    "change_pct": 0.33
-  },
-  "RVMD": {
-   "price": 182.15,
-   "change_pct": 2.35
   },
   "SNY": {
    "price": 39.57,
@@ -269,10 +265,6 @@
   "VEEV": {
    "price": 316.8,
    "change_pct": 2.08
-  },
-  "VKTX": {
-   "price": 25.05,
-   "change_pct": -0.48
   },
   "WAT": {
    "price": 434.27,
@@ -894,6 +886,33 @@
  },
  "stories": [
   {
+   "id": "9f6b7cd04c13",
+   "headline": "Amgen, AZ dive deep into Tezspire's Dupixent-challenging victory in EoE phase 3",
+   "summary": "With little time elapsed since AstraZeneca and Amgen unveiled a topline win for Tezspire over the summer, the partners are upping the stakes with a detailed look at their inflammation-fighting antibody\u2019s prowess in eosinophilic esophagitis.",
+   "url": "https://www.fiercepharma.com/pharma/amgen-az-dive-deep-tezspires-dupixent-challenging-victory-eoe-phase-3",
+   "source": "Fierce Pharma",
+   "published": "2026-10-20T13:15:20.334992+00:00",
+   "tickers": [
+    "AMGN",
+    "AZN"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "d8b2dd5e6ae5",
+   "headline": "FDA Issues Final Guidance on Prescription Drug Apps and Software",
+   "summary": "The U.S. Food and Drug Administration today released final guidance establishing a clear framework for how drug companies can develop, distribute, and label apps used alongside their prescription medicines.",
+   "url": "http://www.fda.gov/news-events/press-announcements/fda-issues-final-guidance-prescription-drug-apps-and-software",
+   "source": "FDA",
+   "published": "2026-10-20T13:03:14+00:00",
+   "tickers": [],
+   "tag": "FDA",
+   "sectors": []
+  },
+  {
    "id": "8f97ff56326f",
    "headline": "How voters feel about trans rights and abortion access will soon be put to the test",
    "summary": "How do voters feel about trans students participating in school sports teams? Or abortion access? The U.S. is about to find out.",
@@ -1075,6 +1094,21 @@
     "JNJ"
    ],
    "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "fa6d4dc5531c",
+   "headline": "EyePoint halves workforce and ends Phase III trial early after endpoint miss",
+   "summary": "The biotech is now hoping that duravyu will have more success in DME, with pivotal readouts expected late next year.",
+   "url": "https://finnhub.io/api/news?id=d9391795cb1cb4756518a26decb79a6ab1a95c9f284a69587d2d5fec01437beb",
+   "source": "Yahoo",
+   "published": "2026-10-20T11:37:37+00:00",
+   "tickers": [
+    "REGN"
+   ],
+   "tag": "Clinical",
    "sectors": [
     "pharma"
    ]
@@ -1485,6 +1519,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "33e43d6d1306",
+   "headline": "GoodRx Holdings And 2 Penny Stocks With Strong Balance Sheets",
+   "summary": "Nvidia\u2019s nearly US$10b push into European AI gives smaller, financially disciplined businesses fresh ways to plug into powerful tech without building it all themselves. That matters for low priced shares where every dollar of capital\u2026",
+   "url": "https://finnhub.io/api/news?id=0eba2a20338cb934e45eb6b42611f6b7f6a56c5cab22b788a4cb7628c36f12ca",
+   "source": "Yahoo",
+   "published": "2026-10-20T06:13:43+00:00",
+   "tickers": [
+    "GDRX"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "pharmacy"
    ]
   },
   {
@@ -34658,21 +34707,6 @@
    "tag": "Policy",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "c958de1c1de3",
-   "headline": "Natera (NTRA) Could Be 33% Undervalued Following FDA Breakthrough Device Designation",
-   "summary": "Natera (NTRA) is back in focus after the US Food and Drug Administration granted Breakthrough Device designation to its multi cancer early detection blood test, a move that reshapes how investors frame the company\u2019s diagnostics pipeline.\u2026",
-   "url": "https://finnhub.io/api/news?id=9929f574acf9a25a9d3e1c33ab2c799100ca63c83276887a5670528d9cd85959",
-   "source": "Yahoo",
-   "published": "2026-10-10T13:13:41+00:00",
-   "tickers": [
-    "NTRA"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "tools"
    ]
   }
  ]
