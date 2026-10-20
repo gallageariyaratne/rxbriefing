@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-20T01:17:39.777992+00:00",
+ "updated": "2026-10-20T01:32:42.498721+00:00",
  "quotes": {
   "A": {
    "price": 169.9,
@@ -210,6 +210,10 @@
    "price": 150.2,
    "change_pct": -0.28
   },
+  "OSCR": {
+   "price": 32.54,
+   "change_pct": 2.04
+  },
   "PACB": {
    "price": 1.84,
    "change_pct": 6.36
@@ -293,6 +297,10 @@
   "VEEV": {
    "price": 316.8,
    "change_pct": 2.08
+  },
+  "VKTX": {
+   "price": 25.05,
+   "change_pct": -0.48
   },
   "WAT": {
    "price": 434.27,
@@ -951,7 +959,8 @@
    "source": "Yahoo",
    "published": "2026-10-19T22:00:55+00:00",
    "tickers": [
-    "MRNA"
+    "MRNA",
+    "OSCR"
    ],
    "tag": "News",
    "sectors": [
@@ -1075,6 +1084,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "dfe38ee59dea",
+   "headline": "S&P 500 After-Hours Losers on Oct. 19: DGX, COP, STLD, WRB",
+   "summary": "S&P 500 after-hours losers on Oct. 19 included DGX down 12.78%, COP down 12.73%, STLD down 6.64% and WRB down 2.71%.",
+   "url": "https://finnhub.io/api/news?id=170b14657112d832ad6ac41f7e9d1733a96332019d84943a745a00d36ec1db6c",
+   "source": "ChartMill",
+   "published": "2026-10-19T21:05:48+00:00",
+   "tickers": [
+    "DGX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -2312,7 +2336,8 @@
    "source": "Yahoo",
    "published": "2026-10-19T13:59:52+00:00",
    "tickers": [
-    "MRK"
+    "MRK",
+    "TAK"
    ],
    "tag": "M&A",
    "sectors": [
@@ -2631,7 +2656,8 @@
    "published": "2026-10-19T13:15:00+00:00",
    "tickers": [
     "LLY",
-    "NVO"
+    "NVO",
+    "VKTX"
    ],
    "tag": "GLP-1",
    "sectors": [
