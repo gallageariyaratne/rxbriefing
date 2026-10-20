@@ -1,23 +1,7 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-20T12:17:32.067774+00:00",
+ "updated": "2026-10-20T12:32:35.056416+00:00",
  "quotes": {
-  "ABBV": {
-   "price": 282.68,
-   "change_pct": -0.96
-  },
-  "ABT": {
-   "price": 104.06,
-   "change_pct": -0.79
-  },
-  "ALGN": {
-   "price": 149,
-   "change_pct": 1.15
-  },
-  "ALHC": {
-   "price": 8.4,
-   "change_pct": 1.45
-  },
   "ALNY": {
    "price": 233.29,
    "change_pct": 0.63
@@ -222,6 +206,10 @@
    "price": 141.96,
    "change_pct": 0.61
   },
+  "QGEN": {
+   "price": 46.55,
+   "change_pct": 0.91
+  },
   "RARE": {
    "price": 15.07,
    "change_pct": 3.65
@@ -269,6 +257,10 @@
   "UNH": {
    "price": 406.88,
    "change_pct": 1.36
+  },
+  "UTHR": {
+   "price": 543.15,
+   "change_pct": 1.88
   },
   "VEEV": {
    "price": 316.8,
@@ -935,6 +927,21 @@
    "sectors": []
   },
   {
+   "id": "ee7a298a9aab",
+   "headline": "QIAGEN N.V. (NYSE:QGEN) Sets Up for a Technical Breakout",
+   "summary": "QIAGEN passes ChartMill technical breakout screen with an 8 technical rating, 8 setup score, a 46.57 breakout trigger, and defined risk at 43.64.",
+   "url": "https://finnhub.io/api/news?id=85945138d1c6d2f0f78e382f2a91a75e64e7b3c013b5cddf34ad2b8fead111d5",
+   "source": "ChartMill",
+   "published": "2026-10-20T12:01:10+00:00",
+   "tickers": [
+    "QGEN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "c3c2d0e4a447",
    "headline": "Hype vs. reality: What pharma\u2019s hottest R&D bets have actually proved",
    "summary": "New types of bispecifics, antibod-drug conjugates and cell therapies haven\u2019t yet themselves in the clinic. Pharmaceutical companies are betting billions anyway.",
@@ -944,6 +951,66 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "621394b4d13f",
+   "headline": "Agilent Technologies (NYSE:A) Stands Out as a Quality Stock on Strong Returns and Cash Flow",
+   "summary": "Agilent clears the Caviar Cruise quality screen with high ROIC, cash-backed profits, low debt, and forward growth, though valuation is a risk.",
+   "url": "https://finnhub.io/api/news?id=3ad55fe22e10dbf442c563e643580ea7c6ecd728baf15eb322caeea0425aba95",
+   "source": "ChartMill",
+   "published": "2026-10-20T11:50:54+00:00",
+   "tickers": [
+    "A"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "ce5808a4ad76",
+   "headline": "4 Dividend Kings Retirees Can Buy and Hold Forever: Safe Income for the Next 60 Years",
+   "summary": "Four companies have raised their dividends every single year for decades, but one of them is now paying out nearly every dollar it earns, leaving almost no room for error if business gets worse.",
+   "url": "https://finnhub.io/api/news?id=b5d5c4ea62f15cf3379a9ee2becf9b9f7905015aa3949c87ed364628265c86f1",
+   "source": "Yahoo",
+   "published": "2026-10-20T11:45:52+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "65f102d11057",
+   "headline": "Johnson & Johnson Launches Next-Generation Shockwave\u2122 C2 Aero Fly Coronary IVL Catheter, Cutting IVL Treatment Time in Half",
+   "summary": "SANTA CLARA, Calif., October 20, 2026--Next-generation IVL catheter delivers pulses at 2 Hz, improving efficiency in calcium modification treatment of coronary artery disease.",
+   "url": "https://finnhub.io/api/news?id=5d0267e9c9e531a0acee49dbb20dbb564c19e8ed06a9ab60ca8e045010b219d0",
+   "source": "Yahoo",
+   "published": "2026-10-20T11:45:00+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "a0d6fd22fbe6",
+   "headline": "Have $1,000 to Invest? This Dirt Cheap Pharma Stock Pays You 4.2% to Wait.",
+   "summary": "Consider this pharma company's turnaround, not its dividend, its main appeal.",
+   "url": "https://finnhub.io/api/news?id=d76f0331219c48ef73ff897500799a784c9ecb0a902e8aa7cd922de69e742438",
+   "source": "Yahoo",
+   "published": "2026-10-20T11:36:00+00:00",
+   "tickers": [
+    "BMY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "5550b87bf835",
@@ -964,7 +1031,8 @@
    "source": "Yahoo",
    "published": "2026-10-20T11:02:57+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "JNJ"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -984,6 +1052,21 @@
    "tag": "Financing",
    "sectors": [
     "pharmacy"
+   ]
+  },
+  {
+   "id": "e75e9687dad3",
+   "headline": "United Therapeutics Expands Organ Manufacturing Capabilities with Opening of Third Designated Pathogen-Free Xenograft Production Facility",
+   "summary": "SILVER SPRING, Md. & RESEARCH TRIANGLE PARK, N.C., October 20, 2026--United Therapeutics Corporation (Nasdaq: UTHR), a public benefit corporation, today announced the opening of its third Designated Pathogen-Free (DPF) facility, The Dr.\u2026",
+   "url": "https://finnhub.io/api/news?id=c059f8661626745ae139421b010937ecd275743cd9911f705ae0db21d13bbb07",
+   "source": "Yahoo",
+   "published": "2026-10-20T11:00:00+00:00",
+   "tickers": [
+    "UTHR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -4138,6 +4221,21 @@
    "tag": "FDA",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "809fd89d040d",
+   "headline": "What a Mixed Midterm Result Could Mean for These 2 Health Care ETFs",
+   "summary": "Polls suggest a divided government after the midterms, a scenario that historically benefits healthcare stocks. Here's how the XLV and IHF ETFs compare for investors eyeing the sector.",
+   "url": "https://finnhub.io/api/news?id=c4a58a72ce76dc86996fa8a13febc9ed457febae477028581aa7529a5e560d62",
+   "source": "Yahoo",
+   "published": "2026-10-19T11:30:00+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -34442,51 +34540,6 @@
    "published": "2026-10-10T13:00:32+00:00",
    "tickers": [
     "PFE"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "06f13d9718ee",
-   "headline": "Johnson & Johnson (NYSE:JNJ): Dividend Quality Makes It a Durable Income Pick",
-   "summary": "JNJ dividend analysis: 3.12% yield, 8/10 dividend rating, strong profitability, and moderate health support a durable payout for income investors.",
-   "url": "https://finnhub.io/api/news?id=06a7731bb4826c72095cad1c75f0333420ac83a0394b3d16b3be7911c41049b5",
-   "source": "ChartMill",
-   "published": "2026-10-10T12:20:55+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "15b2d5e3f365",
-   "headline": "argenx (ENXTBR:ARGX) Stock May Be Fully Priced After Its 185% Run",
-   "summary": "argenx has been through a volatile spell after a long run, and the recent swings now put a simple question in front of you as an investor: Is the current share price still in line with what the company's earnings can reasonably support?\u2026",
-   "url": "https://finnhub.io/api/news?id=2a098d224028a70363f6e597a50b773fdf32229f5cf9b3999820d319882af723",
-   "source": "Yahoo",
-   "published": "2026-10-10T12:18:07+00:00",
-   "tickers": [
-    "ARGX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "4970be202d19",
-   "headline": "Why Ramsay G\u00e9n\u00e9rale de Sant\u00e9 (ENXTPA:GDS) Is Back In The Spotlight",
-   "summary": "Ramsay G\u00e9n\u00e9rale de Sant\u00e9 (ENXTPA:GDS) has called a board meeting for 6 October 2026 to review the auditors\u2019 certification report on its consolidated accounts, a routine governance step that remains important for equity holders. Against\u2026",
-   "url": "https://finnhub.io/api/news?id=9eb2ac121a4a07cd084b6d69d91653f7dff3f352c32b1138e4d3e4ec9be56b9a",
-   "source": "Yahoo",
-   "published": "2026-10-10T12:17:18+00:00",
-   "tickers": [
-    "NVS"
    ],
    "tag": "News",
    "sectors": [
