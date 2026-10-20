@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-20T20:54:58.868088+00:00",
+ "updated": "2026-10-20T21:02:56.225294+00:00",
  "quotes": {
   "A": {
    "price": 173.01,
@@ -1043,6 +1043,7 @@
    "source": "Yahoo",
    "published": "2026-10-20T19:46:38+00:00",
    "tickers": [
+    "LLY",
     "UNH"
    ],
    "tag": "News",
@@ -1069,9 +1070,25 @@
    "source": "Yahoo",
    "published": "2026-10-20T19:27:04+00:00",
    "tickers": [
-    "BIIB"
+    "BIIB",
+    "LLY"
    ],
    "tag": "Analyst",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "0f48a502e502",
+   "headline": "Dow Jones Leader Coca-Cola Breaks Out As Stock Market Volatility Ramps Up",
+   "summary": "Dow Jones stock Coca-Cola is breaking out past a new buy point with stock market volatility ramping up in recent sessions.",
+   "url": "https://finnhub.io/api/news?id=5a9637f12560feeea55e2195b9ee4be8c6f4272d6d036d8bae58d7fe8ded850e",
+   "source": "Yahoo",
+   "published": "2026-10-20T19:22:09+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "News",
    "sectors": [
     "pharma"
    ]
@@ -1089,6 +1106,21 @@
    "tag": "FDA",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "48f947c6396a",
+   "headline": "OpenAI acquires Orchestra Bio to boost drug development AI, Axios reports",
+   "summary": "Investing.com -- OpenAI has acquired Orchestra Bio, a startup that builds AI agents to help pharmaceutical companies manage drug development, Axios reported on Tuesday .",
+   "url": "https://finnhub.io/api/news?id=c73fde257ce933701e64d302334df56883dce8baee224a95a5f24da1e2b346cc",
+   "source": "Yahoo",
+   "published": "2026-10-20T18:35:44+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1557,6 +1589,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "1783ce232204",
+   "headline": "Madrigal Pharmaceuticals: The Market Is Grading A Launch, Not A Self-Funding Franchise",
+   "summary": "Madrigal (MDGL) shifts to self-funding as Rezdiffra drives 71% sales growth, ~89% margins and low penetration.",
+   "url": "https://finnhub.io/api/news?id=55cd6c48c148177fd705af387360750b788c2ca4afaf45ac6e6799cd3017d40b",
+   "source": "SeekingAlpha",
+   "published": "2026-10-20T15:48:24+00:00",
+   "tickers": [
+    "MDGL"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
   },
   {
    "id": "165c8081d43c",
