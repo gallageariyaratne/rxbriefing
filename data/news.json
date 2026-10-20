@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-20T00:02:48.555606+00:00",
+ "updated": "2026-10-20T00:17:22.113430+00:00",
  "quotes": {
   "A": {
    "price": 169.9,
@@ -21,6 +21,10 @@
   "ALNY": {
    "price": 233.29,
    "change_pct": 0.63
+  },
+  "ALT": {
+   "price": 2.23,
+   "change_pct": 1.36
   },
   "AMGN": {
    "price": 424.94,
@@ -901,6 +905,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "055d13a15825",
+   "headline": "GPIX Out-Yielded JEPI and Returned 17.37% to Its 9.33%. JEPI Is Still 9.5 Times Bigger",
+   "summary": "Two option-income ETFs sell calls against the same index, pay nearly identical yields, and yet one nearly doubled the other's total return over the past year. The way each fund is built explains why.",
+   "url": "https://finnhub.io/api/news?id=474d8c1a04257bccad1db173261e20deb67dc3db0abecc7bc43f02656bded33a",
+   "source": "Yahoo",
+   "published": "2026-10-19T22:03:37+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
   {
    "id": "b0f745a6ce15",
    "headline": "Moderna, Progyny, Azenta, Oscar Health, and agilon health Shares Skyrocket, What You Need To Know",
@@ -2938,6 +2957,36 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "36bc0aa743cd",
+   "headline": "argenx to Present Phase 3 ALKIVIA Results in Autoimmune Myositis as a Late-Breaking Oral Presentation at ACR Convergence 2026",
+   "summary": "Results from the global Phase 3 ALKIVIA study, the first registrational study investigating an FcRn blocker in autoimmune myositis, show efgartigimod provides clinically meaningful improvements in IMNM and DMPatient improvements observed\u2026",
+   "url": "https://finnhub.io/api/news?id=43be27be6355c260d75f548ddbaf1ae2cb6e3f4605ded2822a583042470130ef",
+   "source": "Yahoo",
+   "published": "2026-10-19T12:00:00+00:00",
+   "tickers": [
+    "ARGX"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "4726757af897",
+   "headline": "Altimmune to Present New Data on Pemvidutide in Serious Liver Diseases at AASLD The Liver Meeting\u00ae 2026",
+   "summary": "Clinical highlights from the IMPACT Phase 2b study of pemvidutide in MASH demonstrated improvements in liver fibrosis and inflammation with generally favorable gastrointestinal tolerability Oral presentation to feature new pre-clinical\u2026",
+   "url": "https://finnhub.io/api/news?id=dc029d04195adb5f785b32991dcd7058108a86dd4638861dec46154c69c52bbc",
+   "source": "Yahoo",
+   "published": "2026-10-19T12:00:00+00:00",
+   "tickers": [
+    "ALT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -33722,53 +33771,6 @@
    "tag": "News",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "382757681d51",
-   "headline": "Humana (HUM) Deepens MA Neuromodulation Coverage: A Clue to Its Margin Recovery Strategy?",
-   "summary": "In early October 2026, BlueWind Medical announced that Humana began covering implantable tibial neuromodulation therapy for urgency urinary incontinence, including BlueWind\u2019s Revi System, across its Medicare Advantage membership of about\u2026",
-   "url": "https://finnhub.io/api/news?id=baacacd7f6627bbc95e2292de15e100e01688f41649edba643a5ca47e1b12cc2",
-   "source": "Yahoo",
-   "published": "2026-10-10T00:14:48+00:00",
-   "tickers": [
-    "HUM"
-   ],
-   "tag": "Policy",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "157d5b434152",
-   "headline": "BNTX, NVAX, MRNA Lead Vaccine Rally After Report Of An NIH Cancer-Vaccine Push",
-   "summary": "National Cancer Institute\u2019s director, Dr. Anthony Letai, wants a national effort behind the vaccines, The New York Times reported on Friday.",
-   "url": "https://finnhub.io/api/news?id=9d3295f3bb1adffe88e68237811e5227ae5d48cec72684a1c0f63434b017580a",
-   "source": "Yahoo",
-   "published": "2026-10-10T00:09:24+00:00",
-   "tickers": [
-    "MRK",
-    "MRNA",
-    "PFE"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "7c0dda7a2ea8",
-   "headline": "Why Moderna Stock Surged Today",
-   "summary": "The biotech could play a significant role in a national effort to combat cancer.",
-   "url": "https://finnhub.io/api/news?id=f56bd64c9b264ca01fd46e7475092dc34ffa8ab476200e9a0d2c7a0ddb5ec296",
-   "source": "Yahoo",
-   "published": "2026-10-10T00:07:31+00:00",
-   "tickers": [
-    "MRNA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
