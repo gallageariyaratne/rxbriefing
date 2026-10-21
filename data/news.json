@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-21T12:17:37.181727+00:00",
+ "updated": "2026-10-21T12:32:50.034168+00:00",
  "quotes": {
   "A": {
    "price": 173.01,
@@ -210,10 +210,6 @@
    "price": 242.08,
    "change_pct": 6.69
   },
-  "NBIX": {
-   "price": 142,
-   "change_pct": 3.66
-  },
   "NTLA": {
    "price": 11.84,
    "change_pct": 2.25
@@ -321,6 +317,10 @@
   "WAY": {
    "price": 28.81,
    "change_pct": 2.93
+  },
+  "ZBH": {
+   "price": 96,
+   "change_pct": 1.06
   }
  },
  "tickers": {
@@ -938,6 +938,21 @@
  },
  "stories": [
   {
+   "id": "6c9cc8410d07",
+   "headline": "Elevance Health posts $1.4B in profit in Q3 earnings beat",
+   "summary": "Elevance Health is boosting its outlook for the year as it beat Wall Street analysts' expectations for both profit and revenue in the third quarter.",
+   "url": "https://www.fiercehealthcare.com/payers/elevance-health-posts-14b-profit-q3-earnings-beat",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-21T12:30:31.877003+00:00",
+   "tickers": [
+    "ELV"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "abcdba70c9e2",
    "headline": "Epic launches Connectors to link its AI tools with third-party apps",
    "summary": "Through \"Connectors,\" developers can connect their apps to Epic's AI tools\u2014Emmie, Art and Penny\u2014as well as custom AI agents organizations create through Agent Factory.",
@@ -1016,6 +1031,21 @@
    ]
   },
   {
+   "id": "35ab8f6619f3",
+   "headline": "Cencora to Acquire American Oncology Network to Strengthen Support of Community Oncology",
+   "summary": "CONSHOHOCKEN, Pa. & FORT MYERS, Fla., October 21, 2026--Cencora, Inc. (NYSE: COR) today announced it has signed a definitive agreement to acquire American Oncology Network, Inc. (\"AON\") (OTCQX: AONC), a physician-led network of more than\u2026",
+   "url": "https://finnhub.io/api/news?id=5b6b8c8559f3d51f02d762c22910a4f456d323012de4dd671db3ba22be4ee11d",
+   "source": "Yahoo",
+   "published": "2026-10-21T11:30:00+00:00",
+   "tickers": [
+    "COR"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
+  {
    "id": "73b875b79349",
    "headline": "Abbott announces its intention to separate its global Nutrition business into an independent, publicly traded company",
    "summary": "Separation will unlock potential of both companies to pursue distinct growth and value-creation strategies The new Nutrition company will be a global leader in the rapidly growing healthy nutrition market, with a portfolio of iconic,\u2026",
@@ -1058,6 +1088,36 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "507bf1568f39",
+   "headline": "Oscar Health (NYSE:OSCR) Pairs High Growth Momentum With a Breakout Setup",
+   "summary": "OSCR pairs strong earnings growth and technical strength, with an 8/10 setup and 9/10 technical rating. See key levels, risks, and breakout potential.",
+   "url": "https://finnhub.io/api/news?id=a5ef5e9e25f9d4b37beabc4399367fac09b97b88b7badd1a110c04e3a9d8d27a",
+   "source": "ChartMill",
+   "published": "2026-10-21T11:20:43+00:00",
+   "tickers": [
+    "OSCR"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "958c3804389f",
+   "headline": "Johnson & Johnson\u2019s Profit Fell 96% Year-Over-Year. But the Dividend Has Risen for 64 Years in a Row",
+   "summary": "Johnson and Johnson just posted a 96% profit collapse, yet on the same day raised its full-year guidance and extended a dividend streak most companies only dream about. The reason the headline number is almost completely misleading tells\u2026",
+   "url": "https://finnhub.io/api/news?id=fd016f3b6ba6c124f3281acaef8fb917556c7ae5c4332b4518ed516d807ef3b2",
+   "source": "Yahoo",
+   "published": "2026-10-21T11:15:14+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1560,7 +1620,10 @@
    "published": "2026-10-21T07:45:10+00:00",
    "tickers": [
     "AZN",
-    "CYTK"
+    "BMY",
+    "CYTK",
+    "JNJ",
+    "NVS"
    ],
    "tag": "Earnings",
    "sectors": [
