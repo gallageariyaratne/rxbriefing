@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-21T22:17:42.020602+00:00",
+ "updated": "2026-10-21T22:32:29.033380+00:00",
  "quotes": {
   "A": {
    "price": 177.75,
@@ -229,10 +229,6 @@
   "PFE": {
    "price": 29.85,
    "change_pct": -0.86
-  },
-  "QGEN": {
-   "price": 50,
-   "change_pct": 2.25
   },
   "REGN": {
    "price": 805.67,
@@ -984,7 +980,8 @@
    "source": "Yahoo",
    "published": "2026-10-21T21:18:41+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "BMY"
    ],
    "tag": "News",
    "sectors": [
@@ -1022,6 +1019,36 @@
    ]
   },
   {
+   "id": "7521d13b1550",
+   "headline": "CVS Health (CVS) Stock Sinks As Market Gains: What You Should Know",
+   "summary": "In the latest trading session, CVS Health (CVS) closed at $93.45, marking a -1.37% move from the previous day.",
+   "url": "https://finnhub.io/api/news?id=9c0887ba82e8571d9ae8345a15abd4b6f8c40f6016feb124224ceebabb4f87f0",
+   "source": "Yahoo",
+   "published": "2026-10-21T20:45:04+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "ea6cd03243ad",
+   "headline": "Stock Market Today: Dow Pops; Nasdaq Charges Higher As SpaceX Soars On Earnings, Tesla Talks",
+   "summary": "The Nasdaq rallies Wednesday as SpaceX stock surges on earnings. Meta Platforms and Tesla post earnings late.",
+   "url": "https://finnhub.io/api/news?id=aec8495c2e3c296a8d0ed64027764e3326cca21730a58e6ce7a0425044b98801",
+   "source": "Yahoo",
+   "published": "2026-10-21T20:41:18+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "4cf81687f9fa",
    "headline": "Is One Older Drug The Biggest Risk To Bristol Myers Squibb Stock?",
    "summary": "For questions about this article or underlying research, email help@trefis.com.",
@@ -1029,7 +1056,9 @@
    "source": "Yahoo",
    "published": "2026-10-21T20:26:11+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "BMY",
+    "JNJ"
    ],
    "tag": "News",
    "sectors": [
