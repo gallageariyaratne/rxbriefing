@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-21T12:47:30.425771+00:00",
+ "updated": "2026-10-21T13:02:59.098576+00:00",
  "quotes": {
   "A": {
    "price": 173.01,
@@ -62,10 +62,6 @@
    "price": 257.55,
    "change_pct": 1.94
   },
-  "CI": {
-   "price": 306.6,
-   "change_pct": 2.71
-  },
   "CNC": {
    "price": 70.81,
    "change_pct": 3.18
@@ -118,6 +114,10 @@
    "price": 162.59,
    "change_pct": 2.98
   },
+  "GILD": {
+   "price": 156.51,
+   "change_pct": 2.25
+  },
   "GSK": {
    "price": 50.63,
    "change_pct": 2.37
@@ -137,10 +137,6 @@
   "IART": {
    "price": 13.33,
    "change_pct": -0.89
-  },
-  "ICLR": {
-   "price": 174.19,
-   "change_pct": 3.6
   },
   "IDXX": {
    "price": 557.93,
@@ -226,10 +222,6 @@
    "price": 33.66,
    "change_pct": 3.44
   },
-  "PEN": {
-   "price": 324.34,
-   "change_pct": 0.6
-  },
   "PFE": {
    "price": 30.11,
    "change_pct": 2.28
@@ -245,10 +237,6 @@
   "REGN": {
    "price": 807.48,
    "change_pct": 3.25
-  },
-  "RMD": {
-   "price": 245.5,
-   "change_pct": 2.39
   },
   "ROIV": {
    "price": 34.92,
@@ -290,10 +278,6 @@
    "price": 687.37,
    "change_pct": 1.18
   },
-  "UHS": {
-   "price": 185.61,
-   "change_pct": 1.82
-  },
   "UNH": {
    "price": 419.26,
    "change_pct": 3.04
@@ -321,6 +305,10 @@
   "ZBH": {
    "price": 96,
    "change_pct": 1.06
+  },
+  "ZTS": {
+   "price": 80.04,
+   "change_pct": 0.57
   }
  },
  "tickers": {
@@ -938,6 +926,17 @@
  },
  "stories": [
   {
+   "id": "25f98997dda4",
+   "headline": "Expect more tuck-in M&A, portfolio pruning in medtech, execs say",
+   "summary": "As medical device makers face \u201cfinite\u201d capital, portfolio reshaping will likely remain a focus in the sector.",
+   "url": "https://www.medtechdive.com/news/expect-more-tuck-in-ma-portfolio-pruning-in-medtech-execs-say/833547/",
+   "source": "MedTech Dive",
+   "published": "2026-10-21T12:53:00+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
    "id": "3b2834d3bf0a",
    "headline": "Akeso Announces Summit Therapeutics and ECOG-ACRIN Cancer Research Group Enter into Phase II/III Clinical Trial Collaboration to Evaluate Ivonescimab in First-Line Biliary Tract Cancer",
    "summary": "Becomes the 7th International Registrational Clinical Trial for Ivonescimab Clinical Trial Site Activations in the United States Expected to Begin Q4 2026 HONG KONG, Oct. 21, 2026 /PRNewswire/ -- Akeso, Inc. (HKEX: 9926.HK) today\u2026",
@@ -1121,6 +1120,21 @@
    ]
   },
   {
+   "id": "c06f770741f1",
+   "headline": "Elevance Health Names Jeff Park President of Carelon",
+   "summary": "INDIANAPOLIS, October 21, 2026--Elevance Health (NYSE: ELV) today announced the appointment of Jeff Park as President of Carelon, effective December 1, 2026. In this role, Park will lead Carelon through its next phase of growth, building\u2026",
+   "url": "https://finnhub.io/api/news?id=b24af0271a3e7634dd875d733555ee1ec7205e02b9f80db11b1b83652797789e",
+   "source": "Yahoo",
+   "published": "2026-10-21T11:30:00+00:00",
+   "tickers": [
+    "ELV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "73b875b79349",
    "headline": "Abbott announces its intention to separate its global Nutrition business into an independent, publicly traded company",
    "summary": "Separation will unlock potential of both companies to pursue distinct growth and value-creation strategies The new Nutrition company will be a global leader in the rapidly growing healthy nutrition market, with a portfolio of iconic,\u2026",
@@ -1234,7 +1248,9 @@
    "published": "2026-10-21T11:12:52+00:00",
    "tickers": [
     "ABT",
-    "DHR"
+    "DHR",
+    "ELV",
+    "TMO"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -1334,6 +1350,21 @@
    ]
   },
   {
+   "id": "d7c111ccec36",
+   "headline": "European Commission Approves KEYTRUDA\u00ae (pembrolizumab) Plus Padcev\u00ae (enfortumab vedotin-ejfv) as Perioperative Treatment for Adults With Resectable Muscle-Invasive Bladder Cancer (MIBC)",
+   "summary": "RAHWAY, N.J., October 21, 2026--Merck (NYSE: MRK), known as MSD outside of the United States and Canada, today announced the European Commission (EC) has approved KEYTRUDA\u00ae (pembrolizumab), Merck\u2019s anti-PD-1 therapy, in combination with\u2026",
+   "url": "https://finnhub.io/api/news?id=81668e804a25f1852d7daad2eceb72e8db88ba41661992294fb97c069926e9c0",
+   "source": "Yahoo",
+   "published": "2026-10-21T10:45:00+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "28bc0689c8f4",
    "headline": "Amgen and AstraZeneca report Phase III Tezspire data for EoE",
    "summary": "The trial evaluated 368 participants aged 12 to 80 years who were permitted to continue stable background therapies.",
@@ -1364,6 +1395,36 @@
    ]
   },
   {
+   "id": "acbe542f7a8e",
+   "headline": "Thermo Fisher beats profit, revenue expectations in Q3",
+   "summary": "Investing.com -- Thermo Fisher Scientific on Wednesday reported third-quarter profit and revenue above analyst estimates.",
+   "url": "https://finnhub.io/api/news?id=8e4e165040b6c991edd03f529f67a2420fa189f37ea2d48fd7710fe7aaa45fbf",
+   "source": "Yahoo",
+   "published": "2026-10-21T10:41:20+00:00",
+   "tickers": [
+    "TMO"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "2954319dc4fe",
+   "headline": "Elevance Health beats estimates, raises guidance",
+   "summary": "Investing.com -- Elevance Health Inc. (NYSE: ELV) reported third-quarter results before the open on Wednesday, exceeding analyst expectations.",
+   "url": "https://finnhub.io/api/news?id=495fb2f1a8e480b80eccb706710bd918de2fcf936d44bb366f4e3b3bb2ad9e34",
+   "source": "Yahoo",
+   "published": "2026-10-21T10:40:33+00:00",
+   "tickers": [
+    "ELV"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "671c2fd845d7",
    "headline": "Danaher (DHR) Tops Q3 Earnings and Revenue Estimates",
    "summary": "Danaher (DHR) delivered earnings and revenue surprises of +9.90% and +0.10%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
@@ -1380,6 +1441,21 @@
    ]
   },
   {
+   "id": "8e9250603dbb",
+   "headline": "Elevance Health (ELV) Surpasses Q3 Earnings and Revenue Estimates",
+   "summary": "Elevance Health (ELV) delivered earnings and revenue surprises of +50.00% and +4.01%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=1149434f25090c0c8e0a9ee1a52f691db1647c8e0af60199fe1acd0be49e7528",
+   "source": "Yahoo",
+   "published": "2026-10-21T10:25:02+00:00",
+   "tickers": [
+    "ELV"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "ce6a66da6883",
    "headline": "Why Is Intuitive Surgical Stock Falling in Pre-Market Trading?",
    "summary": "Intuitive Surgical (NASDAQ:ISRG) shares declined 7. 5% to $404.",
@@ -1392,6 +1468,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "ed58d8dffcd0",
+   "headline": "Thermo Fisher (NYSE:TMO) Exceeds Q3 2026 Expectations",
+   "summary": "Life sciences company Thermo Fisher (NYSE:TMO) reported Q3 2026 results beating Wall Street\u2019s revenue expectations, with sales up 9.1% year on year to $12.14 billion. Its non-GAAP profit of $6.68 per share was 4.3% above analysts\u2019\u2026",
+   "url": "https://finnhub.io/api/news?id=e7721c7adc96bd6792c0f7ff967f161574436c50300e24afee130079ecec525b",
+   "source": "Yahoo",
+   "published": "2026-10-21T10:13:24+00:00",
+   "tickers": [
+    "TMO"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -1425,6 +1516,21 @@
    ]
   },
   {
+   "id": "2ede91cc17c5",
+   "headline": "Thermo Fisher Scientific (TMO) Tops Q3 Earnings and Revenue Estimates",
+   "summary": "Thermo Fisher (TMO) delivered earnings and revenue surprises of +4.38% and +1.81%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=75946a4ddc42c01a7e683ad0d9d5e866cf937b17a703a822863f7deb26a7c16d",
+   "source": "Yahoo",
+   "published": "2026-10-21T10:10:03+00:00",
+   "tickers": [
+    "TMO"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "5bedc317097c",
    "headline": "Danaher: Q3 Earnings Snapshot",
    "summary": "WASHINGTON (AP) \u2014 WASHINGTON (AP) \u2014 Danaher Corp. (DHR) on Wednesday reported third-quarter earnings of $1.",
@@ -1437,6 +1543,36 @@
    "tag": "Earnings",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "cb94e062e44d",
+   "headline": "Thermo Fisher: Q3 Earnings Snapshot",
+   "summary": "(AP) \u2014 Thermo Fisher Scientific Inc. (TMO) on Wednesday reported third-quarter net income of $1.",
+   "url": "https://finnhub.io/api/news?id=11a2e3e4dea6be85f8889aa14389c7125f608973c2552cdfc593d90855e04fe7",
+   "source": "Yahoo",
+   "published": "2026-10-21T10:08:21+00:00",
+   "tickers": [
+    "TMO"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "ba2ac2652df2",
+   "headline": "Elevance Health: Q3 Earnings Snapshot",
+   "summary": "INDIANAPOLIS (AP) \u2014 INDIANAPOLIS (AP) \u2014 Elevance Health Inc. (ELV) on Wednesday reported third-quarter earnings of $1.",
+   "url": "https://finnhub.io/api/news?id=a505218db8e9b0bec5895e5e829d71ca769113e7997d0f77482bdd99e0d54263",
+   "source": "Yahoo",
+   "published": "2026-10-21T10:07:03+00:00",
+   "tickers": [
+    "ELV"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -1482,6 +1618,51 @@
    "tag": "News",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "7c681142fdbd",
+   "headline": "Thermo Fisher Scientific Reports Third Quarter 2026 Results",
+   "summary": "WALTHAM, Mass., October 21, 2026--Thermo Fisher Scientific Inc. (NYSE: TMO), the world leader in serving science, today reported its financial results for the third quarter ended September 26, 2026.",
+   "url": "https://finnhub.io/api/news?id=39eaca9ff14fbb0c97fa58214db5a3bf001af97ed883be29303f1f8d7a97b962",
+   "source": "Yahoo",
+   "published": "2026-10-21T10:00:00+00:00",
+   "tickers": [
+    "TMO"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "818f91348490",
+   "headline": "Elevance Tops Earnings Expectations and Lifts Guidance",
+   "summary": "Investors are continuing to watch how the insurer navigates costs in its Medicare Advantage and Medicaid portfolios.",
+   "url": "https://finnhub.io/api/news?id=03c2ec1d5a0f49d945cf937412a1929a4d96eca7d295a4c387218e98c6f0fc75",
+   "source": "Yahoo",
+   "published": "2026-10-21T10:00:00+00:00",
+   "tickers": [
+    "ELV"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "4be4806c5c70",
+   "headline": "Elevance Health Reports Third Quarter 2026 Results; Raises Full-Year Guidance",
+   "summary": "INDIANAPOLIS, October 21, 2026--Elevance Health, Inc. (NYSE: ELV) reported third quarter 2026 results ahead of expectations.",
+   "url": "https://finnhub.io/api/news?id=bec415dedf0679f8cbaf7542a3b64c7f282fa0f4f0116ef6e0b248a94c06127e",
+   "source": "Yahoo",
+   "published": "2026-10-21T10:00:00+00:00",
+   "tickers": [
+    "ELV"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -1848,7 +2029,9 @@
     "AZN",
     "BMY",
     "CYTK",
+    "GILD",
     "JNJ",
+    "MRK",
     "NVS",
     "PFE"
    ],
@@ -38629,39 +38812,6 @@
     "PFE"
    ],
    "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "2e85630abcd6",
-   "headline": "These 4 Dividend Stocks Offer Tempting Yields. But the Warning Signs Are Getting Harder to Ignore",
-   "summary": "Kraft Heinz, Pfizer, Verizon, and Dow all flash yields above 4%, but behind each payout sits a mix of impairments, rising debt, and shrinking sales that could turn a tempting income stream into a costly trap.",
-   "url": "https://finnhub.io/api/news?id=05d0246e23feb6ea04bc875e21de3fc8bd9e69f3b71307b6021029aab29dbc24",
-   "source": "Yahoo",
-   "published": "2026-10-11T13:00:57+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "b2c75a5d81db",
-   "headline": "Top 50 High-Quality Dividend Growth Stocks For October 2026",
-   "summary": "Track 50 top dividend growth stocks: AMAT, DHI & HD climb as valuations shift.",
-   "url": "https://finnhub.io/api/news?id=88a74baf83fffd8b419bb6c42be37ea4daa59b2aa69282ceb6e60f787cf3393b",
-   "source": "SeekingAlpha",
-   "published": "2026-10-11T12:46:56+00:00",
-   "tickers": [
-    "HCA",
-    "LLY",
-    "RMD",
-    "ZTS"
-   ],
-   "tag": "News",
    "sectors": [
     "pharma"
    ]
