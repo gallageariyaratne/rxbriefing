@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-21T02:02:52.717228+00:00",
+ "updated": "2026-10-21T02:17:33.833079+00:00",
  "quotes": {
   "A": {
    "price": 173.01,
@@ -206,6 +206,10 @@
    "price": 19.01,
    "change_pct": 1.93
   },
+  "LFST": {
+   "price": 12.22,
+   "change_pct": 3.82
+  },
   "LH": {
    "price": 323.13,
    "change_pct": 1.35
@@ -245,6 +249,10 @@
   "NBIX": {
    "price": 142,
    "change_pct": 3.66
+  },
+  "NTLA": {
+   "price": 11.84,
+   "change_pct": 2.25
   },
   "NTRA": {
    "price": 405.92,
@@ -313,14 +321,6 @@
   "SYK": {
    "price": 304.4,
    "change_pct": 2.17
-  },
-  "TEM": {
-   "price": 66.75,
-   "change_pct": 3.75
-  },
-  "THC": {
-   "price": 272.32,
-   "change_pct": 2.23
   }
  },
  "tickers": {
@@ -2546,7 +2546,8 @@
    "source": "Yahoo",
    "published": "2026-10-20T16:11:25+00:00",
    "tickers": [
-    "AZN"
+    "AZN",
+    "GH"
    ],
    "tag": "FDA",
    "sectors": [
@@ -2790,6 +2791,21 @@
    ]
   },
   {
+   "id": "8d0bfeba7a0f",
+   "headline": "European Equities Traded in the US as American Depositary Receipts Advance in Tuesday Trading",
+   "summary": "European equities traded in the US as American depositary receipts were tracking higher late Tuesday",
+   "url": "https://finnhub.io/api/news?id=17624dd680104ef72e0588ddac6685820bd3fe1a8fc6d6bf3979d1589c10be92",
+   "source": "Yahoo",
+   "published": "2026-10-20T15:10:36+00:00",
+   "tickers": [
+    "ARGX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "36e646d7f1c7",
    "headline": "Will Idexx (IDXX) Beat Estimates Again in Its Next Earnings Report?",
    "summary": "Idexx (IDXX) has an impressive earnings surprise history and currently possesses the right combination of the two key ingredients for a likely beat in its next quarterly report.",
@@ -2958,6 +2974,21 @@
    "tickers": [],
    "tag": "Clinical",
    "sectors": []
+  },
+  {
+   "id": "e82b93fe657f",
+   "headline": "Immunovant (IMVT) Stock Looks Stretched On Book Value Alone",
+   "summary": "Immunovant has delivered a striking 5 year return, yet the recent pullback and legal questions around its governance put fresh focus on whether the current share price still lines up with what its balance sheet supports. For investors,\u2026",
+   "url": "https://finnhub.io/api/news?id=7143340ffdf1ba5149ec7a8d0a9d8af80a0dc62ec1d9064f2c6093875fe266c3",
+   "source": "Yahoo",
+   "published": "2026-10-20T14:14:13+00:00",
+   "tickers": [
+    "IMVT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
   },
   {
    "id": "1ea58c806a42",
@@ -3149,6 +3180,7 @@
    "published": "2026-10-20T13:30:00+00:00",
    "tickers": [
     "BIIB",
+    "NTLA",
     "VKTX"
    ],
    "tag": "FDA",
@@ -3281,6 +3313,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "7abb28700c3d",
+   "headline": "3 Small-Cap Stocks We Think Twice About",
+   "summary": "Many small-cap stocks have limited Wall Street coverage, giving savvy investors the chance to act before everyone else catches on. But the flip side is that these businesses have increased downside risk because they lack the scale and\u2026",
+   "url": "https://finnhub.io/api/news?id=7ce0afc4c45d73ca058fe9d8c630c772ea19c300c897d96df06996cf61329733",
+   "source": "Yahoo",
+   "published": "2026-10-20T13:09:50+00:00",
+   "tickers": [
+    "LFST"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
    ]
   },
   {
@@ -6999,6 +7046,7 @@
    "source": "Yahoo",
    "published": "2026-10-19T14:30:00+00:00",
    "tickers": [
+    "GH",
     "ILMN",
     "LLY",
     "MDT",
@@ -38369,22 +38417,6 @@
    "tag": "News",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "9bcfe49b0ddb",
-   "headline": "CVS Health (CVS) Opens New Pharmacy Sites As Undervalued Narrative Holds",
-   "summary": "CVS Health (CVS) is expanding its pharmacy-focused format by opening nearly 20 smaller neighborhood locations across the US in 2026, including a new Roxbury site in the Boston area. Recent headlines around CVS Health have mixed signals\u2026",
-   "url": "https://finnhub.io/api/news?id=9216952c4c5e90fa2b3d1e936ea6ee1b87f485b130df536bba452535a29d7a4f",
-   "source": "Yahoo",
-   "published": "2026-10-11T02:10:20+00:00",
-   "tickers": [
-    "CAH",
-    "CVS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
    ]
   }
  ]
