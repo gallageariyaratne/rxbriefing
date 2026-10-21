@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-21T06:02:53.888086+00:00",
+ "updated": "2026-10-21T06:17:31.145017+00:00",
  "quotes": {
   "A": {
    "price": 173.01,
@@ -117,10 +117,6 @@
   "ELV": {
    "price": 440.18,
    "change_pct": 2.31
-  },
-  "GDRX": {
-   "price": 3.52,
-   "change_pct": 4.45
   },
   "GEHC": {
    "price": 70.23,
@@ -321,6 +317,10 @@
   "SYK": {
    "price": 304.4,
    "change_pct": 2.17
+  },
+  "TAK": {
+   "price": 20.08,
+   "change_pct": 2.4
   }
  },
  "tickers": {
@@ -964,6 +964,21 @@
    ]
   },
   {
+   "id": "a325c9326747",
+   "headline": "Should CE Mark Pacemakers Require Action From Medtronic Stock Investors?",
+   "summary": "Medtronic secured European CE mark approval for its Vitalis portfolio of five next generation pacemakers tailored to conduction system pacing therapy, while also pushing structural cost reductions through SKU rationalization,\u2026",
+   "url": "https://finnhub.io/api/news?id=f87721ea9947ec2106569b0bba0c285e84c6096bf2f7d81ff45a0ae8e021cdda",
+   "source": "Yahoo",
+   "published": "2026-10-21T04:32:13+00:00",
+   "tickers": [
+    "MDT"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "94e71ae2762b",
    "headline": "Fierce Healthcare Fundraising Tracker '26: Abby Care secures $82M for family-led care; Allswell nabs $7M to expand LGBTQ therapy",
    "summary": "Keep up with all the venture capital dollars being funneled into the health tech and digital health industries.",
@@ -1115,6 +1130,22 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "7bcb59339ac1",
+   "headline": "Omeros: The Trade After European Rejection",
+   "summary": "Omeros Corporation is positioned to dominate the TM-TMA market with Yartemlea, the only FDA-approved therapy for this indication. See why I rate OMER stock a hold.",
+   "url": "https://finnhub.io/api/news?id=fd5ba99fd80c2f63d5ba2736deadddec116ab1f52109c506b1d683ac9b2233b5",
+   "source": "SeekingAlpha",
+   "published": "2026-10-21T01:24:58+00:00",
+   "tickers": [
+    "AZN",
+    "NVO"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "8cff1f6522c7",
@@ -37729,21 +37760,6 @@
    "published": "2026-10-11T06:57:52+00:00",
    "tickers": [
     "JNJ"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "c6f84cfd0668",
-   "headline": "Is Gilead Sciences (GILD) Undervalued After Strong Q2 Sales?",
-   "summary": "Gilead Sciences stock has delivered a strong multi year run, which puts a spotlight on whether the current share price still lines up with the company\u2019s sales base. With fresh headlines on earnings, partnerships and pipeline progress, the\u2026",
-   "url": "https://finnhub.io/api/news?id=c8aa46e1dffb5aa548e1d5eb4f7927364c339382e45bda6fd9b4941975c85a4f",
-   "source": "Yahoo",
-   "published": "2026-10-11T06:12:37+00:00",
-   "tickers": [
-    "GILD"
    ],
    "tag": "Earnings",
    "sectors": [
