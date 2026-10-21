@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-21T01:17:58.413220+00:00",
+ "updated": "2026-10-21T01:32:35.524826+00:00",
  "quotes": {
   "A": {
    "price": 173.01,
@@ -33,6 +33,10 @@
   "ARGX": {
    "price": 869.72,
    "change_pct": 5.34
+  },
+  "ASND": {
+   "price": 234.33,
+   "change_pct": 1.9
   },
   "AZN": {
    "price": 168.82,
@@ -282,6 +286,10 @@
    "price": 196.55,
    "change_pct": 7.91
   },
+  "RXST": {
+   "price": 4.88,
+   "change_pct": 4.05
+  },
   "SDGR": {
    "price": 23.4,
    "change_pct": 1.21
@@ -313,14 +321,6 @@
   "UHS": {
    "price": 185.61,
    "change_pct": 1.82
-  },
-  "UNH": {
-   "price": 419.26,
-   "change_pct": 3.04
-  },
-  "UTHR": {
-   "price": 553.88,
-   "change_pct": 1.98
   }
  },
  "tickers": {
@@ -1019,6 +1019,21 @@
    ]
   },
   {
+   "id": "931bea27f810",
+   "headline": "Qiagen (QGEN) Stock Looks Like A Bargain On Cash Flow",
+   "summary": "Qiagen shares have delivered a 32.3% return over the past three years, which puts a spotlight on a simple question for anyone looking at the stock today. Is the current price tag in line with the cash flows the business is expected to\u2026",
+   "url": "https://finnhub.io/api/news?id=b0544bd2241c46f44a43ad120638c85de524f87f36b9d8ae50ef015e2916800b",
+   "source": "Yahoo",
+   "published": "2026-10-20T22:16:52+00:00",
+   "tickers": [
+    "QGEN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "25b3decf7f0a",
    "headline": "Democrats demand tougher standards for companies running Medicaid systems",
    "summary": "A group of Democratic senators is demanding that the federal agency overseeing Medicaid institute tougher standards for government contractors running complex computer systems that millions of people rely on to get benefits.",
@@ -1057,6 +1072,7 @@
    "published": "2026-10-20T22:03:25+00:00",
    "tickers": [
     "LLY",
+    "NVS",
     "PFE"
    ],
    "tag": "News",
@@ -1238,6 +1254,21 @@
    "tickers": [
     "AMGN",
     "JNJ"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "eb429dbac493",
+   "headline": "Vertex Pharmaceuticals (VRTX) Outpaces Stock Market Gains: What You Should Know",
+   "summary": "Vertex Pharmaceuticals (VRTX) closed at $514.7 in the latest trading session, marking a +2.54% move from the prior day.",
+   "url": "https://finnhub.io/api/news?id=59314c7ab71cb22d75b313016495700c4c5d175bb0a4e388ad53dbc7407cf9d2",
+   "source": "Yahoo",
+   "published": "2026-10-20T20:50:03+00:00",
+   "tickers": [
+    "VRTX"
    ],
    "tag": "News",
    "sectors": [
@@ -1465,6 +1496,21 @@
    ]
   },
   {
+   "id": "ee058b1c52ca",
+   "headline": "Viking Therapeutics (VKTX) Stock Looks Overvalued Next To Its Book Value",
+   "summary": "Viking Therapeutics has seen its share price move sharply over recent years, and the recent pullback puts fresh focus on whether that journey still lines up with what its balance sheet can support. With the company pushing ahead in\u2026",
+   "url": "https://finnhub.io/api/news?id=5c09b4717a799b8b7a0f26c7591e3290cf81d5111f9048c44e33637b3b0ed5cc",
+   "source": "Yahoo",
+   "published": "2026-10-20T20:06:38+00:00",
+   "tickers": [
+    "VKTX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "db2dbcef52cf",
    "headline": "Illumina To Webcast Upcoming Investor Conference",
    "summary": "SAN DIEGO, Oct. 20, 2026 /PRNewswire/ -- Illumina, Inc. (NASDAQ: ILMN) today announced that members of its management team will participate at the following investor conference: Upcoming Investor Conference UBS Global Healthcare\u2026",
@@ -1526,6 +1572,21 @@
    ]
   },
   {
+   "id": "63633d6b571b",
+   "headline": "RxSight, Inc. to Report Third Quarter 2026 Financial Results on November 3",
+   "summary": "ALISO VIEJO, Calif., Oct. 20, 2026 (GLOBE NEWSWIRE) -- (NASDAQ: RXST) \u2013 RxSight, Inc., today announced that it will report financial results for the third quarter of 2026 after the market close on Tuesday, November 3, 2026. The company\u2019s\u2026",
+   "url": "https://finnhub.io/api/news?id=1ace1f87639f5fd3cec5af5658cba53cd2b56a87cc4e285eff4cb01d751decd9",
+   "source": "Yahoo",
+   "published": "2026-10-20T20:05:00+00:00",
+   "tickers": [
+    "RXST"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "745c4f4db48a",
    "headline": "Bruker Announces Date and Time of Third Quarter 2026 Earnings Release and Webcast",
    "summary": "BILLERICA, Mass., October 20, 2026--Bruker Corporation (Nasdaq: BRKR) today announced it will report third quarter 2026 financial results before market opening on Wednesday, November 4, 2026. The Company will host a conference call and\u2026",
@@ -1565,7 +1626,8 @@
    "tickers": [
     "AMGN",
     "AZN",
-    "LH"
+    "LH",
+    "QGEN"
    ],
    "tag": "News",
    "sectors": [
@@ -1607,6 +1669,7 @@
    "source": "Yahoo",
    "published": "2026-10-20T19:27:04+00:00",
    "tickers": [
+    "ASND",
     "BIIB",
     "LLY"
    ],
@@ -1739,6 +1802,21 @@
    "sectors": []
   },
   {
+   "id": "fb97fdff3813",
+   "headline": "Viking Therapeutics Stock What SUNRISE Phase 3 Start Means For VK2735",
+   "summary": "Viking Therapeutics recently started the SUNRISE Phase 3 program for oral VK2735 in obesity and type 2 diabetes, building on earlier Phase 2 data that linked once daily dosing to weight loss and a gastrointestinal safety profile\u2026",
+   "url": "https://finnhub.io/api/news?id=9653739dea15419755f03490e89aa366296b9a9c332893e5357a37ec9a197cd0",
+   "source": "Yahoo",
+   "published": "2026-10-20T18:10:54+00:00",
+   "tickers": [
+    "VKTX"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "a1630ad70b67",
    "headline": "Most Active S&P 500 Stocks in Today's Session",
    "summary": "Intel leads today's most-active S&P 500 scan by volume as price moves are mixed and most names trade below their 50-day average volume.",
@@ -1849,6 +1927,21 @@
    "tag": "Clinical",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "c8d7f7f68704",
+   "headline": "Qiagen shares surge on report of advanced EQT takeover talks",
+   "summary": "Investing.com -- Qiagen NV (NYSE: QGEN) shares jumped over 7% on Tuesday following a Bloomberg report that Swedish private equity firm EQT AB is in advanced negotiations to acquire the European molecular diagnostics provider.",
+   "url": "https://finnhub.io/api/news?id=929ffaeb25b9882819da335d5f7f8fd321e04fba6401e04eb4c36d465b817d62",
+   "source": "Yahoo",
+   "published": "2026-10-20T17:12:25+00:00",
+   "tickers": [
+    "QGEN"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -1972,6 +2065,21 @@
    ]
   },
   {
+   "id": "232979c021eb",
+   "headline": "3 Big Reasons to Love Oscar Health (OSCR)",
+   "summary": "The past six months have been a windfall for Oscar Health\u2019s shareholders. The company\u2019s stock price has jumped 97.9%, hitting $32.54 per share. This was partly thanks to its solid quarterly results, and the run-up might have investors\u2026",
+   "url": "https://finnhub.io/api/news?id=0fbe85ebec87b7387c5ad7e765511bdd731d10a8c93d6e85dc1590925df85ab2",
+   "source": "Yahoo",
+   "published": "2026-10-20T16:45:50+00:00",
+   "tickers": [
+    "OSCR"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "8ae10cd41b63",
    "headline": "Industry at a \u2018turning point\u2019 with growth dominated by commercial leaders: EY report",
    "summary": "A new report has found that in 2025 through the first half of 2026, innovation increased dealmaking and R&D investment, AI heavily influenced the future of value creation, and that industry growth continued to expand into alternative care\u2026",
@@ -2020,6 +2128,21 @@
     "JNJ",
     "MRK",
     "UNH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "2fe238b8573a",
+   "headline": "Just One in Ten Rheumatologists Satisfied with Current Systemic Sclerosis Treatments as Emerging Therapies Raise Expectations, According to Spherix Global Insights",
+   "summary": "New research highlights growing optimism for disease-modifying therapies, even as physicians weigh the transformative potential of cell therapy against safety and practical considerations; Novartis' ianalumab emerges as a leading non-cell\u2026",
+   "url": "https://finnhub.io/api/news?id=8160e531762b4f0224716934cad79b96990e2d3663b4d965aedec5be30ffab86",
+   "source": "Yahoo",
+   "published": "2026-10-20T16:40:00+00:00",
+   "tickers": [
+    "NVS"
    ],
    "tag": "News",
    "sectors": [
@@ -2664,6 +2787,21 @@
    ]
   },
   {
+   "id": "e1a472d46f8a",
+   "headline": "Prediction: $1,000 Invested in Viking Therapeutics Today Will Be Worth This Much in 5 Years",
+   "summary": "Viking Therapeutics has a lot riding on its leading pipeline candidate.",
+   "url": "https://finnhub.io/api/news?id=bba4aac5f8846c09eeff44550bbfbd035d988f5272a5584e9e6734a0ab3575db",
+   "source": "Yahoo",
+   "published": "2026-10-20T14:20:00+00:00",
+   "tickers": [
+    "VKTX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "4ebf7048a3e6",
    "headline": "Veradermics' hot streak continues with another phase 3 win in hair loss",
    "summary": "Topline results show the biotech's lead asset, VDPHL01, cleared all primary and secondary endpoints in a study of more than 500 men with mild to moderate pattern hair loss.",
@@ -2673,6 +2811,21 @@
    "tickers": [],
    "tag": "Clinical",
    "sectors": []
+  },
+  {
+   "id": "1ea58c806a42",
+   "headline": "Oil Stocks Worth Watching As High Crude Prices Test Cash Flow Plans",
+   "summary": "Oil is back in the spotlight, with Brent crude above $111 and the IEA flagging that tight energy markets may persist well beyond 2026. That kind of strain can punish energy hungry businesses, yet it can also tip capital towards companies\u2026",
+   "url": "https://finnhub.io/api/news?id=2700ccea1a3977edadb86930ad36a1fbe98c79d197245da566101590d5468a92",
+   "source": "Yahoo",
+   "published": "2026-10-20T14:10:53+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "ad2f304e1efc",
@@ -2848,7 +3001,8 @@
    "source": "Yahoo",
    "published": "2026-10-20T13:30:00+00:00",
    "tickers": [
-    "BIIB"
+    "BIIB",
+    "VKTX"
    ],
    "tag": "FDA",
    "sectors": [
@@ -2884,6 +3038,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "759a3c232793",
+   "headline": "Viking Therapeutics Initiates Pivotal Phase 3 Trial: Here's Why Investors Have Reason for Optimism After a Disappointing Phase 2",
+   "summary": "Nothing is certain in clinical trials, but investors have reason to expect a better outcome in the oral VK2735 trials.",
+   "url": "https://finnhub.io/api/news?id=6bf0e45776a9b049bca51d68578b98cc232c32b6461a9c27ba8df6cbaaff4965",
+   "source": "Yahoo",
+   "published": "2026-10-20T13:22:00+00:00",
+   "tickers": [
+    "VKTX"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -3406,7 +3575,8 @@
    "published": "2026-10-20T12:15:00+00:00",
    "tickers": [
     "LLY",
-    "NVO"
+    "NVO",
+    "VKTX"
    ],
    "tag": "GLP-1",
    "sectors": [
