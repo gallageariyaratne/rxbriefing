@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-21T06:32:49.338082+00:00",
+ "updated": "2026-10-21T06:47:40.660448+00:00",
  "quotes": {
   "A": {
    "price": 173.01,
@@ -113,10 +113,6 @@
   "DXCM": {
    "price": 85.74,
    "change_pct": -0.28
-  },
-  "ELV": {
-   "price": 440.18,
-   "change_pct": 2.31
   },
   "GEHC": {
    "price": 70.23,
@@ -321,6 +317,10 @@
   "TAK": {
    "price": 20.08,
    "change_pct": 2.4
+  },
+  "TEM": {
+   "price": 66.75,
+   "change_pct": 3.75
   }
  },
  "tickers": {
@@ -964,6 +964,21 @@
    ]
   },
   {
+   "id": "385a115e770c",
+   "headline": "How Clinic JV Funding At Humana (HUM) Has Changed Its Investment Story",
+   "summary": "Humana announced a joint venture with HPS Investment Partners, part of BlackRock, to manage nearly 150 CenterWell Senior Primary Care clinics, with BlackRock acquiring WCAS\u2019s equity stake valued at about US$2.8b and Humana expecting\u2026",
+   "url": "https://finnhub.io/api/news?id=cb17384df5319893499af10feac2f7bccb77eb7552338747eea380eb6d8eae82",
+   "source": "Yahoo",
+   "published": "2026-10-21T05:15:40+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "651045effa93",
    "headline": "Dow Jones Futures: SpaceX, Supermicro Revive AI Stocks; Tesla, Meta On Deck",
    "summary": "The Dow and S&P 500 reclaimed their 50-day line. SpaceX crushed earnings views and is mulling a Tesla merger. Meta looms.",
@@ -971,6 +986,7 @@
    "source": "Yahoo",
    "published": "2026-10-21T04:40:13+00:00",
    "tickers": [
+    "HUM",
     "LLY"
    ],
    "tag": "M&A",
@@ -991,6 +1007,21 @@
    "tag": "FDA",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "cda48d37c4b3",
+   "headline": "Humana (HUM) Recasts CenterWell Clinics With New Joint Venture And Fresh Capital",
+   "summary": "Humana (NYSE:HUM) has formed a new joint venture with BlackRock's HPS Investment Partners to operate CenterWell senior primary care clinics. The HPS Investment Partners vehicle becomes the new majority owner of the CenterWell clinics\u2026",
+   "url": "https://finnhub.io/api/news?id=bde51c85cc7ccd7b900f0b0c8c9f88003a1f8548da60b8876591db146ca13553",
+   "source": "Yahoo",
+   "published": "2026-10-21T04:29:34+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "Financing",
+   "sectors": [
+    "payers"
    ]
   },
   {
