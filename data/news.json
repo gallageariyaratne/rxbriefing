@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-21T11:47:36.289263+00:00",
+ "updated": "2026-10-21T12:02:50.439698+00:00",
  "quotes": {
   "A": {
    "price": 173.01,
@@ -13,10 +13,6 @@
   "ABT": {
    "price": 102.45,
    "change_pct": -1.55
-  },
-  "ALHC": {
-   "price": 8.51,
-   "change_pct": 1.31
   },
   "ALNY": {
    "price": 230.71,
@@ -105,6 +101,10 @@
   "DXCM": {
    "price": 85.74,
    "change_pct": -0.28
+  },
+  "ELV": {
+   "price": 440.18,
+   "change_pct": 2.31
   },
   "GEHC": {
    "price": 70.23,
@@ -274,10 +274,6 @@
    "price": 41.4,
    "change_pct": 4.62
   },
-  "SOPH": {
-   "price": 6.93,
-   "change_pct": 6.78
-  },
   "SYK": {
    "price": 304.4,
    "change_pct": 2.17
@@ -321,6 +317,10 @@
   "WAY": {
    "price": 28.81,
    "change_pct": 2.93
+  },
+  "ZBH": {
+   "price": 96,
+   "change_pct": 1.06
   }
  },
  "tickers": {
@@ -938,6 +938,17 @@
  },
  "stories": [
   {
+   "id": "aa529cf3dcd5",
+   "headline": "Nigeria identifies travel-related Ebola case",
+   "summary": "Nigeria has confirmed an imported Ebola case tied to the ongoing outbreak centered in the Democratic Republic of the Congo, becoming the fifth country to identify a related infection, health\u2026",
+   "url": "https://www.statnews.com/2026/10/21/health-news-nigeria-travel-related-ebola-case-outbreak/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-21T11:54:47+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
    "id": "c85ccd141177",
    "headline": "Abbott Reports Third-Quarter 2026 Results and Reaffirms Full-Year EPS Guidance",
    "summary": "Third-quarter reported sales growth of 14.5 percent; comparable sales growth of 7.0 percent Third-quarter GAAP diluted EPS of $0.53; adjusted diluted EPS of $1.42 Expands portfolio with key new product approvals ABBOTT PARK, Ill., Oct.\u2026",
@@ -965,6 +976,36 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "b8407efdf2ca",
+   "headline": "Thermo Fisher Scientific (NYSE:TMO) Posts Q3 Earnings Beat With In-Line Revenue",
+   "summary": "Thermo Fisher Q3 2026 results: adjusted EPS beat consensus, revenue in line; margin expansion and strong free cash flow support a solid operating quarter.",
+   "url": "https://finnhub.io/api/news?id=b5e3ec1e215f906f9adc8377974f592311a112eeee18879573b88b76ae1c5a46",
+   "source": "ChartMill",
+   "published": "2026-10-21T11:23:27+00:00",
+   "tickers": [
+    "TMO"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "25dedc5eed38",
+   "headline": "Elevance Health (NYSE:ELV) Shares Rise as Q3 Earnings Beat and Raised Outlook Offset Inline Revenue",
+   "summary": "Elevance Health (ELV) Q3 2026 EPS beat consensus while revenue stayed inline; raised 2026 outlook and strong profitability lifted shares premarket.",
+   "url": "https://finnhub.io/api/news?id=c6513551287079790c88a0f854f4e0720b00c8788795bd3403ac3fae6dc47c3a",
+   "source": "ChartMill",
+   "published": "2026-10-21T11:21:39+00:00",
+   "tickers": [
+    "ELV"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
    ]
   },
   {
