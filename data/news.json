@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-21T12:02:50.439698+00:00",
+ "updated": "2026-10-21T12:17:37.181727+00:00",
  "quotes": {
   "A": {
    "price": 173.01,
@@ -81,6 +81,10 @@
   "CVS": {
    "price": 94.75,
    "change_pct": 2.23
+  },
+  "CYTK": {
+   "price": 63.95,
+   "change_pct": 2.08
   },
   "DGX": {
    "price": 237.12,
@@ -198,10 +202,6 @@
    "price": 94.63,
    "change_pct": 2.0
   },
-  "MOH": {
-   "price": 219.72,
-   "change_pct": 4.53
-  },
   "MRK": {
    "price": 148.3,
    "change_pct": 3.25
@@ -257,6 +257,10 @@
   "RMD": {
    "price": 245.5,
    "change_pct": 2.39
+  },
+  "ROIV": {
+   "price": 34.92,
+   "change_pct": 0.63
   },
   "RVMD": {
    "price": 196.55,
@@ -317,10 +321,6 @@
   "WAY": {
    "price": 28.81,
    "change_pct": 2.93
-  },
-  "ZBH": {
-   "price": 96,
-   "change_pct": 1.06
   }
  },
  "tickers": {
@@ -938,6 +938,43 @@
  },
  "stories": [
   {
+   "id": "abcdba70c9e2",
+   "headline": "Epic launches Connectors to link its AI tools with third-party apps",
+   "summary": "Through \"Connectors,\" developers can connect their apps to Epic's AI tools\u2014Emmie, Art and Penny\u2014as well as custom AI agents organizations create through Agent Factory.",
+   "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/epic-launches-connectors-link-its-ai-tools-third-party-apps",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-21T12:15:25.380760+00:00",
+   "tickers": [],
+   "tag": "Health AI",
+   "sectors": []
+  },
+  {
+   "id": "08a1d5340b68",
+   "headline": "\u2018We\u2019re getting back to stability\u2019: CBER Director Karim Mikhail shares his strategy with Fierce",
+   "summary": "The FDA's Center for Biologics Evaluation and Research (CBER) is recovering from the most turbulent period in its recent history. The captain tasked with steadying the ship is Karim Mikhail, who was appointed as the center's director on a\u2026",
+   "url": "https://www.fiercebiotech.com/biotech/cber-director-karim-mikhail-tells-fierce-he-feels-people-deserve-leader-whos-present",
+   "source": "Fierce Biotech",
+   "published": "2026-10-21T12:15:25.155120+00:00",
+   "tickers": [],
+   "tag": "FDA",
+   "sectors": []
+  },
+  {
+   "id": "143fe40bc614",
+   "headline": "STAT+: Roivant says closely watched immune drug succeeded in new eye disease",
+   "summary": "An immune drug from Roivant could be headed to a new market, after the company reported positive trials in the eye disease non-infectious uveitis.",
+   "url": "https://www.statnews.com/2026/10/21/roivant-immune-drug-lisraya-noninfectious-uveitis-trial-results/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-21T12:05:54+00:00",
+   "tickers": [
+    "ROIV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "aa529cf3dcd5",
    "headline": "Nigeria identifies travel-related Ebola case",
    "summary": "Nigeria has confirmed an imported Ebola case tied to the ongoing outbreak centered in the Democratic Republic of the Congo, becoming the fifth country to identify a related infection, health\u2026",
@@ -947,6 +984,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "7eb20eee716c",
+   "headline": "AbbVie races into F1 as pharma companies continue push into sport",
+   "summary": "AbbVie is just one of several pharmaceutical companies to pen sponsorship deals in sport, blurring the commercial line between the two industries.",
+   "url": "https://finnhub.io/api/news?id=f8fcea11c063a0afd71845c816f48c6b31412dc9e77d6cbb50d0ae32a497562b",
+   "source": "Yahoo",
+   "published": "2026-10-21T11:40:34+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "c85ccd141177",
@@ -1009,6 +1061,36 @@
    ]
   },
   {
+   "id": "10d2aecc8d7b",
+   "headline": "Stocks Rise Pre-Bell as Traders Await Meta, Tesla Earnings",
+   "summary": "The main US stock measures were moving higher in Wednesday's premarket activity as traders await the",
+   "url": "https://finnhub.io/api/news?id=23739d33ff5a05b518c946212e3e306b7ec75f880ccbdfbad7e8445e837da725",
+   "source": "Yahoo",
+   "published": "2026-10-21T11:12:52+00:00",
+   "tickers": [
+    "DHR"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "151b821abbef",
+   "headline": "AbbVie reaches agreement with the pan-Canadian Pharmaceutical Alliance (pCPA) for ELAHERE\u00ae in Platinum-Resistant Ovarian Cancer",
+   "summary": "AbbVie is pleased to announce that negotiations with the pan-Canadian Pharmaceutical Alliance (pCPA) have successfully been completed for ELAHERE\u00ae (mirvetuximab soravtansine for injection), and that a Letter of Intent (LOI) has been\u2026",
+   "url": "https://finnhub.io/api/news?id=20443806c3227bceafb1e7d2c31cb7717d5c026d5f075cc268794c51ac7a358a",
+   "source": "Yahoo",
+   "published": "2026-10-21T11:01:00+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "25d7f62c91f3",
    "headline": "GSK brings promise of 'functional cure' to hepatitis B finish line with FDA nod for Hibsago",
    "summary": "With the FDA\u2019s green light in hepatitis B, GSK and its Ionis-licensed medicine bepirovirsen have racked up several notable distinctions, bringing the antisense oligonucleotide class to bear against the virus for the first time alongside\u2026",
@@ -1041,6 +1123,67 @@
    ]
   },
   {
+   "id": "10ada9f9192f",
+   "headline": "Danaher shares rise in premarket trade as Q3 earnings beat estimates",
+   "summary": "Investing.com \u2013 Danaher Corporation (NYSE:DHR) shares rose in premarket trading on Wednesday after the life sciences and diagnostics company reported third-quarter adjusted earnings of $2.11 per share, beating analyst expectations of\u2026",
+   "url": "https://finnhub.io/api/news?id=cd97e804833cfcb32b254157d7fc993101a47ada52b8b8834aa996db59b078d9",
+   "source": "Yahoo",
+   "published": "2026-10-21T10:41:53+00:00",
+   "tickers": [
+    "DHR"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "671c2fd845d7",
+   "headline": "Danaher (DHR) Tops Q3 Earnings and Revenue Estimates",
+   "summary": "Danaher (DHR) delivered earnings and revenue surprises of +9.90% and +0.10%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=c3dff006de90f6f06bcb17cc006001318a390286b8207bb11e2501c6c2b189f0",
+   "source": "Yahoo",
+   "published": "2026-10-21T10:25:02+00:00",
+   "tickers": [
+    "DHR",
+    "HCA"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "b4d0edd29ea4",
+   "headline": "Healthcare and Life Sciences Leaders Build on NVIDIA to Advance Drug Discovery and Expand Patient Care",
+   "summary": "Healthcare and Life Sciences Leader Build on NVIDIA NVIDIA today announced collaborations with leading global healthcare and research organizations to advance protein design \u2014 including through a newly released open model, RFD4-Proteina \u2014\u2026",
+   "url": "https://finnhub.io/api/news?id=6c5cda667438230288c7f8682afc3f36ab36313f536fc7b0e086aed59c36deca",
+   "source": "Yahoo",
+   "published": "2026-10-21T10:13:00+00:00",
+   "tickers": [
+    "DHR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "5bedc317097c",
+   "headline": "Danaher: Q3 Earnings Snapshot",
+   "summary": "WASHINGTON (AP) \u2014 WASHINGTON (AP) \u2014 Danaher Corp. (DHR) on Wednesday reported third-quarter earnings of $1.",
+   "url": "https://finnhub.io/api/news?id=fec23bd2d6942b9def3ebc1fc0b6432f6744f39b3db8fde2dd10564bb10da082",
+   "source": "Yahoo",
+   "published": "2026-10-21T10:09:12+00:00",
+   "tickers": [
+    "DHR"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "feaccd0421b6",
    "headline": "Integra LifeSciences Reports Third Quarter 2026 Financial Results",
    "summary": "PRINCETON, N.J., Oct. 21, 2026 (GLOBE NEWSWIRE) -- Integra LifeSciences Holdings Corporation (Nasdaq: IART), a leading global medical technology company, today reported financial results for the third quarter ending September 30, 2026.",
@@ -1061,6 +1204,21 @@
    "summary": "WASHINGTON, Oct. 21, 2026 /PRNewswire/ -- Danaher Corporation (NYSE: DHR) today announced results for the third quarter 2026. All results in this release reflect only continuing operations and period-to-period comparisons are\u2026",
    "url": "https://www.prnewswire.com/news-releases/danaher-reports-third-quarter-2026-results-302914824.html",
    "source": "PR Newswire",
+   "published": "2026-10-21T10:00:00+00:00",
+   "tickers": [
+    "DHR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "3a95a2fbedb9",
+   "headline": "Danaher Reports Third Quarter 2026 Results",
+   "summary": "Danaher Corporation (NYSE: DHR) today announced results for the third quarter 2026. All results in this release reflect only continuing operations and period-to-period comparisons are year-over-year unless otherwise noted.",
+   "url": "https://finnhub.io/api/news?id=834bdc203ece8e2b6729c804dedd15f1fbcbf10792c1565548188eab441e8596",
+   "source": "Yahoo",
    "published": "2026-10-21T10:00:00+00:00",
    "tickers": [
     "DHR"
@@ -1391,6 +1549,22 @@
    "tag": "News",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "d18909ea4434",
+   "headline": "Bristol-Myers Squibb: Why I'm Bullish Ahead Of Q3 Earnings",
+   "summary": "Bristol-Myers Squibb yields about 4.3% and trades at 9.1x forward EV/EBIT. Read why BMY stock offers an attractive risk/reward profile.",
+   "url": "https://finnhub.io/api/news?id=7e1de78f5891215345dfd6d2e5515ee4c53718422c4da052c229550a4da162b6",
+   "source": "SeekingAlpha",
+   "published": "2026-10-21T07:45:10+00:00",
+   "tickers": [
+    "AZN",
+    "CYTK"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -38215,51 +38389,6 @@
    "tag": "News",
    "sectors": [
     "medtech"
-   ]
-  },
-  {
-   "id": "f5379696bc23",
-   "headline": "Moderna (MRNA) Stock Looks Expensive Following Its 7x One Year Run",
-   "summary": "Moderna has surged back into the spotlight after a powerful share price run, which puts a fresh focus on whether the current US$225.00 level can be supported by the sales the business is generating. After that kind of move, the key issue\u2026",
-   "url": "https://finnhub.io/api/news?id=e83de194b1b87aaf442967a3482ff32a937dde1a527eb9cc5476c72769b7f1b1",
-   "source": "Yahoo",
-   "published": "2026-10-11T12:13:44+00:00",
-   "tickers": [
-    "MRNA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "e6f3865785fc",
-   "headline": "Zoetis (ZTS) Stock May Trade At A Discount As Q2 Pressure Persists",
-   "summary": "Zoetis has seen its share price under pressure in recent years, even with a short-term bounce. This puts fresh attention on whether the current valuation is still supported by its earnings power. With the animal health group in the\u2026",
-   "url": "https://finnhub.io/api/news?id=d1ed17e76605d3bb1bc4f052951377f7b02e1277c0d41ff40c22be2f7dbd30ce",
-   "source": "Yahoo",
-   "published": "2026-10-11T12:11:42+00:00",
-   "tickers": [
-    "ZTS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "759c29887b4b",
-   "headline": "What Is GSK (LSE:GSK) Really Gaining From Its New AI Drug Discovery Deal?",
-   "summary": "GSK (LSE:GSK) announced a new collaboration with Chai Discovery to apply AI-driven protein design in its drug discovery pipeline. The partnership gives GSK access to Chai Discovery's protein folding and design models that are focused on\u2026",
-   "url": "https://finnhub.io/api/news?id=9a5018de44890d14e37db073b344d9113ffbe5db385640b18f34b340c67c641a",
-   "source": "Yahoo",
-   "published": "2026-10-11T12:11:39+00:00",
-   "tickers": [
-    "GSK"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
