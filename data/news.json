@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-21T01:02:50.378296+00:00",
+ "updated": "2026-10-21T01:17:58.413220+00:00",
  "quotes": {
   "A": {
    "price": 173.01,
@@ -37,6 +37,10 @@
   "AZN": {
    "price": 168.82,
    "change_pct": 2.97
+  },
+  "BDX": {
+   "price": 193.8,
+   "change_pct": 1.6
   },
   "BIIB": {
    "price": 243.1,
@@ -317,10 +321,6 @@
   "UTHR": {
    "price": 553.88,
    "change_pct": 1.98
-  },
-  "VRTX": {
-   "price": 514.65,
-   "change_pct": 2.53
   }
  },
  "tickers": {
@@ -992,8 +992,10 @@
    "published": "2026-10-20T23:05:26+00:00",
    "tickers": [
     "ABT",
+    "BDX",
     "BSX",
     "JNJ",
+    "MDT",
     "TMO"
    ],
    "tag": "News",
@@ -1038,7 +1040,8 @@
     "AMGN",
     "BMY",
     "CAH",
-    "COR"
+    "COR",
+    "MCK"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -1196,6 +1199,21 @@
    ]
   },
   {
+   "id": "53346ecb0471",
+   "headline": "McKesson (MCK) Outperforms Broader Market: What You Need to Know",
+   "summary": "In the latest trading session, McKesson (MCK) closed at $1, marking a +1.95% move from the previous day.",
+   "url": "https://finnhub.io/api/news?id=3d62cd685fa62fd67dcb9d9002ac9f60107da94b2401bdf94825982ab7906c8d",
+   "source": "Yahoo",
+   "published": "2026-10-20T21:00:04+00:00",
+   "tickers": [
+    "MCK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
+  {
    "id": "1c8a2d601555",
    "headline": "Cardinal Health (CAH) Laps the Stock Market: Here's Why",
    "summary": "Cardinal Health (CAH) concluded the recent trading session at $257.55, signifying a +1.94% move from its prior day's close.",
@@ -1250,7 +1268,8 @@
    "published": "2026-10-20T20:46:00+00:00",
    "tickers": [
     "ISRG",
-    "JNJ"
+    "JNJ",
+    "MDT"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -1545,6 +1564,7 @@
    "published": "2026-10-20T19:53:31+00:00",
    "tickers": [
     "AMGN",
+    "AZN",
     "LH"
    ],
    "tag": "News",
@@ -2164,6 +2184,21 @@
    ]
   },
   {
+   "id": "b35e50d8663d",
+   "headline": "AstraZeneca (AZN) Adds Oncology Catalysts. Is the Pipeline Worth Its Earnings Multiple?",
+   "summary": "Several Oncology Catalysts, One Earnings Question AstraZeneca PLC (NYSE:AZN) enters the October 23-27 European Society for Medical Oncology congress with multiple late-stage oncology updates, including a survival-benefit announcement for\u2026",
+   "url": "https://finnhub.io/api/news?id=29f61f04d2eec803fe5af1fd07edc0c176bda4e6173e68a29e046bc1658ff5b0",
+   "source": "Yahoo",
+   "published": "2026-10-20T16:30:30+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "298d5edee303",
    "headline": "Rapport\u2019s epilepsy drug finds surprising success in bipolar trial",
    "summary": "Despite what some analysts described as low expectations, RAP-219 narrowly hit the main goal of a mid-stage study, results that could help it tap a billion-dollar-plus market opportunity.",
@@ -2205,6 +2240,21 @@
    ]
   },
   {
+   "id": "a2d9381c6442",
+   "headline": "Oracle (ORCL) Expands Its AI Healthcare Push With A New Drugmaker Partnership",
+   "summary": "Oracle (NYSE: ORCL) and AstraZeneca announced a partnership to advance AI-enabled healthcare solutions focused on real-world data and clinical research. The collaboration aims to improve identification of eligible patients for clinical\u2026",
+   "url": "https://finnhub.io/api/news?id=9deffecb0b309742ae93c8101e3125a8864e6c1fe78c207c71d198c6aa1cd39d",
+   "source": "Yahoo",
+   "published": "2026-10-20T16:13:46+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "ca6a1497b650",
    "headline": "Johnson & Johnson (JNJ) Debuts New Coronary Catheter In The U.S.",
    "summary": "Johnson & Johnson (NYSE:JNJ) introduced the Shockwave C2 Aero Fly Coronary IVL Catheter in the U.S. for calcified coronary lesions. The new catheter is described by the company as a next generation device intended to improve procedural\u2026",
@@ -2230,6 +2280,21 @@
     "JNJ"
    ],
    "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "d39efed66aa2",
+   "headline": "Guardant Health (GH) Wins a New Breast Cancer Role. Can Its Growth Justify the Price?",
+   "summary": "A Cancer Test Approval Meets a High Valuation Guardant Health, Inc. (NASDAQ:GH) is moving beyond identifying mutations at diagnosis toward testing patients repeatedly as their cancer changes. Recent FDA approval of Guardant360 CDx as a\u2026",
+   "url": "https://finnhub.io/api/news?id=8551d13e0461bfaef8b70713ef5a82a1df3dc3917967609aabdc821a5c3e67b2",
+   "source": "Yahoo",
+   "published": "2026-10-20T16:11:25+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "FDA",
    "sectors": [
     "pharma"
    ]
@@ -2813,6 +2878,7 @@
    "source": "Yahoo",
    "published": "2026-10-20T13:25:00+00:00",
    "tickers": [
+    "AZN",
     "MRK"
    ],
    "tag": "News",
@@ -4198,6 +4264,21 @@
    "tag": "Analyst",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "ef2a0df1ca44",
+   "headline": "Oracle Joins Forces With AstraZeneca to Put AI to Work in Drug Research",
+   "summary": "Oracle Corp. (NYSE:ORCL) announced Tuesday a nonbinding agreement with AstraZeneca Plc (NYSE:AZN) to explore using artificial intelligence and real-world data to improve clinical-trial recruitment and connect research findings with\u2026",
+   "url": "https://finnhub.io/api/news?id=65d8917935ae95c771f40cb572aa38f09ab3a94bda2bd7e7b37a9ab63c19c304",
+   "source": "Yahoo",
+   "published": "2026-10-20T09:29:23+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "pharma"
    ]
   },
   {
