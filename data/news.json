@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-21T02:17:33.833079+00:00",
+ "updated": "2026-10-21T02:32:45.870428+00:00",
  "quotes": {
   "A": {
    "price": 173.01,
@@ -118,10 +118,6 @@
    "price": 440.18,
    "change_pct": 2.31
   },
-  "ENSG": {
-   "price": 176,
-   "change_pct": 1.7
-  },
   "GDRX": {
    "price": 3.52,
    "change_pct": 4.45
@@ -165,6 +161,10 @@
   "IART": {
    "price": 13.33,
    "change_pct": -0.89
+  },
+  "ICLR": {
+   "price": 174.19,
+   "change_pct": 3.6
   },
   "IDXX": {
    "price": 557.93,
@@ -949,6 +949,22 @@
    "sectors": []
   },
   {
+   "id": "0356c788fda4",
+   "headline": "Why Should You Think About Vertex Differently Now?",
+   "summary": "Vertex Pharmaceuticals (VRTX) stock trades at 28.9 times earnings, compared with 22.9 for the S&P 500, a price at which buyers appear to expect its growth to last. Before paying that price, you want to know what you own, and the company's\u2026",
+   "url": "https://finnhub.io/api/news?id=30f63c6b342f081d573a977ff03988b6c8ab2d7237b1dd6dd44ca651ef06d703",
+   "source": "Yahoo",
+   "published": "2026-10-21T00:56:12+00:00",
+   "tickers": [
+    "BMRN",
+    "VRTX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "246751f1859b",
    "headline": "What Intuitive Surgical (ISRG) Said on Its Q3 Earnings Call",
    "summary": "Intuitive Surgical (NASDAQ:ISRG) reported third-quarter 2026 revenue growth of 22% to just over $3 billion as procedure growth, system placements and adoption of newer platforms supported results. The company said 84% of quarterly revenue\u2026",
@@ -1129,7 +1145,8 @@
    "tickers": [
     "LLY",
     "NVS",
-    "PFE"
+    "PFE",
+    "TAK"
    ],
    "tag": "News",
    "sectors": [
@@ -2555,6 +2572,21 @@
    ]
   },
   {
+   "id": "9429b024e3fa",
+   "headline": "Disease Clearance Data Might Change The Case For Investing In Takeda (TSE:4502)",
+   "summary": "Takeda Pharmaceutical reported new Phase 4 VERDICT data showing that intravenous ENTYVIO achieved corticosteroid free disease clearance in moderate to severe ulcerative colitis and was associated with a lower risk of UC related\u2026",
+   "url": "https://finnhub.io/api/news?id=3c3588c3b3752cd1d78bcfb6f22a37e5e4aabb0f1580a6ac3fe8a96d5ebc5dab",
+   "source": "Yahoo",
+   "published": "2026-10-20T16:09:52+00:00",
+   "tickers": [
+    "TAK"
+   ],
+   "tag": "Legal",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "fb96352278a3",
    "headline": "FDA Approves Once-Weekly Generic Hormone Therapy Patch for Women",
    "summary": "Today, the U.S. Food and Drug Administration approved the first generic of Climara Pro (estradiol and levonorgestrel transdermal system, 0.045 mg per day/0.015 mg), a transdermal hormone therapy patch for women with an intact uterus\u2026",
@@ -2860,6 +2892,21 @@
    "tickers": [],
    "tag": "Financing",
    "sectors": []
+  },
+  {
+   "id": "11c5dd6b5f6a",
+   "headline": "Asian Equities Traded in the US as American Depositary Receipts Rise in Tuesday Trading",
+   "summary": "Asian equities traded in the US as American depositary receipts were tracking higher Tuesday morning",
+   "url": "https://finnhub.io/api/news?id=22926ee73facd096447a42cefeafa197a36f31088f1e08770bf6b051ceb8a81a",
+   "source": "Yahoo",
+   "published": "2026-10-20T14:40:54+00:00",
+   "tickers": [
+    "TAK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "0dbf127b0871",
@@ -3383,6 +3430,21 @@
     "GH"
    ],
    "tag": "Policy",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "425631566020",
+   "headline": "Analysts Estimate Icon PLC (ICLR) to Report a Decline in Earnings: What to Look Out for",
+   "summary": "Icon PLC (ICLR) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+   "url": "https://finnhub.io/api/news?id=9e7653b79a74aa7a8c6da3e2318d26ddd0308a2b30ed2e8139bf7af2d20928f9",
+   "source": "Yahoo",
+   "published": "2026-10-20T13:00:19+00:00",
+   "tickers": [
+    "ICLR"
+   ],
+   "tag": "Earnings",
    "sectors": [
     "tools"
    ]
