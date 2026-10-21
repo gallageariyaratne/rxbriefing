@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-21T01:32:35.524826+00:00",
+ "updated": "2026-10-21T01:48:00.597763+00:00",
  "quotes": {
   "A": {
    "price": 173.01,
@@ -137,6 +137,10 @@
   "GILD": {
    "price": 156.51,
    "change_pct": 2.25
+  },
+  "GSK": {
+   "price": 50.63,
+   "change_pct": 2.37
   },
   "HALO": {
    "price": 124.37,
@@ -317,10 +321,6 @@
   "TMO": {
    "price": 687.37,
    "change_pct": 1.18
-  },
-  "UHS": {
-   "price": 185.61,
-   "change_pct": 1.82
   }
  },
  "tickers": {
@@ -938,6 +938,62 @@
  },
  "stories": [
   {
+   "id": "ebfe49453295",
+   "headline": "Bullying among nurses is a 'pervasive' threat to patients, clinicians\u2014here's what employers can do",
+   "summary": "The American Nurses Association's latest position statement on incivility and bullying includes recommendations for nurses and healthcare employers alike, including an argument against zero-tolerance policies in favor of \"restorative and\u2026",
+   "url": "https://www.fiercehealthcare.com/providers/bullying-among-nurses-pervasive-threat-patients-clinicians-heres-what-employers-can-do",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-21T01:45:23.474186+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "246751f1859b",
+   "headline": "What Intuitive Surgical (ISRG) Said on Its Q3 Earnings Call",
+   "summary": "Intuitive Surgical (NASDAQ:ISRG) reported third-quarter 2026 revenue growth of 22% to just over $3 billion as procedure growth, system placements and adoption of newer platforms supported results. The company said 84% of quarterly revenue\u2026",
+   "url": "https://finnhub.io/api/news?id=b22afae0c7b66cb0cf7b8159629cff5bf27006fad471cbc040e73210fa6b7226",
+   "source": "Yahoo",
+   "published": "2026-10-21T00:02:58+00:00",
+   "tickers": [
+    "ISRG"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "0448f07f84ad",
+   "headline": "HUTCHMED Announces Closing of KRAS-EGFR-Antibody Conjugate Therapy License to GSK Outside China",
+   "summary": "HONG KONG, SHANGHAI and FLORHAM PARK, N.J., Oct. 20, 2026 (GLOBE NEWSWIRE) -- HUTCHMED (China) Limited (\u201cHUTCHMED\u201d or the \u201cCompany\u201d) (Nasdaq/AIM:HCM; HKEX:13) today announces that further to its announcement on September 3, 2026 and\u2026",
+   "url": "https://finnhub.io/api/news?id=663fb6ad02db1111515acba91b0bb31f3482f7bc6ce5078aaca62ca0aa48abc7",
+   "source": "Yahoo",
+   "published": "2026-10-21T00:00:00+00:00",
+   "tickers": [
+    "GSK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "d005898e7837",
+   "headline": "Hibsago (bepirovirsen) Approved in the US for the Treatment of Chronic Hepatitis B (CHB)",
+   "summary": "PHILADELPHIA, October 20, 2026--GSK plc (LSE/NYSE: GSK) today announced that the US Food and Drug Administration (FDA) has approved Hibsago (bepirovirsen) for the treatment of chronic hepatitis B (CHB) virus infection in combination with\u2026",
+   "url": "https://finnhub.io/api/news?id=7921597a768e56b8041ec30b07557dc9c8e6427d98a8ede6d57b8b0857fe3b6a",
+   "source": "Yahoo",
+   "published": "2026-10-20T23:58:00+00:00",
+   "tickers": [
+    "GSK"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "089154c813ba",
    "headline": "DaVita Responds to HHS Kidney Care National Plan, Reaffirms Commitment to Innovation, Access and Patient Choice",
    "summary": "DENVER, Oct. 20, 2026 /PRNewswire/ -- DaVita today issued the following statement in response to the U.S. Department of Health and Human Services' Kidney Care National Plan and related remarks regarding the future of kidney care: DaVita\u2026",
@@ -1141,6 +1197,21 @@
    "tickers": [],
    "tag": "M&A",
    "sectors": []
+  },
+  {
+   "id": "f14e711b35f3",
+   "headline": "Intuitive Surgical, Inc. (ISRG) Q3 2026 Earnings Call Transcript",
+   "summary": "Intuitive Surgical, Inc. (ISRG) Q3 2026 Earnings Call October 20, 2026 4:30 PM EDTCompany ParticipantsDaniel Connally - VP & Head of Investor...",
+   "url": "https://finnhub.io/api/news?id=37a30b17e2f372c1014599769302ec40abcd3210860e4ab8e70c1380dd125c4f",
+   "source": "SeekingAlpha",
+   "published": "2026-10-20T21:24:08+00:00",
+   "tickers": [
+    "ISRG"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
   },
   {
    "id": "9e684205fb1b",
@@ -3033,6 +3104,7 @@
    "published": "2026-10-20T13:25:00+00:00",
    "tickers": [
     "AZN",
+    "GSK",
     "MRK"
    ],
    "tag": "News",
