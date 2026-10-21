@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-21T10:32:42.809935+00:00",
+ "updated": "2026-10-21T10:47:29.191260+00:00",
  "quotes": {
   "A": {
    "price": 173.01,
@@ -53,10 +53,6 @@
   "BMY": {
    "price": 61.68,
    "change_pct": 4.84
-  },
-  "BNTX": {
-   "price": 91.17,
-   "change_pct": 2.2
   },
   "BRKR": {
    "price": 55.93,
@@ -321,6 +317,10 @@
   "VKTX": {
    "price": 26.71,
    "change_pct": 6.63
+  },
+  "VRTX": {
+   "price": 514.65,
+   "change_pct": 2.53
   }
  },
  "tickers": {
@@ -975,10 +975,26 @@
    "source": "Yahoo",
    "published": "2026-10-21T09:03:00+00:00",
    "tickers": [
+    "ABT",
     "JNJ",
     "MDT"
    ],
    "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "bf5cef3702bf",
+   "headline": "Body Composition Analyzers Market Size and Global Forecast to 2031 | Obesity and Preventive Care Fuel Demand for Body Composition Analyzers",
+   "summary": "The global body composition analyzers market is projected to grow from $0.99 billion in 2026 to $1.39 billion by 2031, a new report finds, with bioimpedance devices growing fastest; GE HealthCare, Omron, InBody and Tanita are among the\u2026",
+   "url": "https://finnhub.io/api/news?id=450d8ff28916d59abbf4720ba2f1c88af0a70a99e609af4d8810420f7ebba892",
+   "source": "Yahoo",
+   "published": "2026-10-21T09:02:00+00:00",
+   "tickers": [
+    "GEHC"
+   ],
+   "tag": "GLP-1",
    "sectors": [
     "medtech"
    ]
@@ -1057,7 +1073,8 @@
    "source": "Yahoo",
    "published": "2026-10-21T08:22:00+00:00",
    "tickers": [
-    "MRNA"
+    "MRNA",
+    "PFE"
    ],
    "tag": "News",
    "sectors": [
@@ -1102,7 +1119,8 @@
    "source": "Yahoo",
    "published": "2026-10-21T08:12:00+00:00",
    "tickers": [
-    "JNJ"
+    "JNJ",
+    "PFE"
    ],
    "tag": "Health AI",
    "sectors": [
@@ -38050,21 +38068,6 @@
     "MRNA"
    ],
    "tag": "Analyst",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "35c22ccbc309",
-   "headline": "Buy 9 S&P500 IDEAL \"Safer\" October Dividend Dogs",
-   "summary": "",
-   "url": "https://finnhub.io/api/news?id=2fb2b42086031751c87fed45dcdd2e8f905fa6bb37d0d501d511ce8bbee95970",
-   "source": "SeekingAlpha",
-   "published": "2026-10-11T10:35:00+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "News",
    "sectors": [
     "pharma"
    ]
