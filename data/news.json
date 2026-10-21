@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-21T10:47:29.191260+00:00",
+ "updated": "2026-10-21T11:02:47.083762+00:00",
  "quotes": {
   "A": {
    "price": 173.01,
@@ -157,10 +157,6 @@
   "INCY": {
    "price": 116.61,
    "change_pct": 2.97
-  },
-  "INSM": {
-   "price": 95.67,
-   "change_pct": 0.4
   },
   "IONS": {
    "price": 45.4,
@@ -321,6 +317,10 @@
   "VRTX": {
    "price": 514.65,
    "change_pct": 2.53
+  },
+  "WAT": {
+   "price": 442.83,
+   "change_pct": 1.97
   }
  },
  "tickers": {
@@ -938,6 +938,38 @@
  },
  "stories": [
   {
+   "id": "25d7f62c91f3",
+   "headline": "GSK brings promise of 'functional cure' to hepatitis B finish line with FDA nod for Hibsago",
+   "summary": "With the FDA\u2019s green light in hepatitis B, GSK and its Ionis-licensed medicine bepirovirsen have racked up several notable distinctions, bringing the antisense oligonucleotide class to bear against the virus for the first time alongside\u2026",
+   "url": "https://www.fiercepharma.com/pharma/gsk-brings-promise-functional-cure-hepatitis-b-finish-line-fda-nod-hibsago",
+   "source": "Fierce Pharma",
+   "published": "2026-10-21T11:00:28.114548+00:00",
+   "tickers": [
+    "GSK",
+    "IONS"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "biotech",
+    "pharma"
+   ]
+  },
+  {
+   "id": "ececf5e96c07",
+   "headline": "Labcorp Declares Quarterly Dividend",
+   "summary": "BURLINGTON, N.C., Oct. 21, 2026 /PRNewswire/ -- Labcorp Holdings Inc. (NYSE: LH), a global leader of innovative and comprehensive laboratory services, announced today that its Board of Directors has declared a cash dividend of $0.72 per\u2026",
+   "url": "https://www.prnewswire.com/news-releases/labcorp-declares-quarterly-dividend-302914707.html",
+   "source": "PR Newswire",
+   "published": "2026-10-21T10:50:00+00:00",
+   "tickers": [
+    "LH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "feaccd0421b6",
    "headline": "Integra LifeSciences Reports Third Quarter 2026 Financial Results",
    "summary": "PRINCETON, N.J., Oct. 21, 2026 (GLOBE NEWSWIRE) -- Integra LifeSciences Holdings Corporation (Nasdaq: IART), a leading global medical technology company, today reported financial results for the third quarter ending September 30, 2026.",
@@ -965,6 +997,21 @@
    "tag": "News",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "b42fd12d5151",
+   "headline": "Alnylam Is Now Solidly Profitable. Why Are Investors Treating It Like a Broken Biotech?",
+   "summary": "This beaten-down biotech has a better story than its stock chart suggests.",
+   "url": "https://finnhub.io/api/news?id=2ad3397771e99d98a2b4e42769c76bc407e8262d3207fed9d0932ba533dbbae6",
+   "source": "Yahoo",
+   "published": "2026-10-21T09:04:00+00:00",
+   "tickers": [
+    "ALNY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -1089,11 +1136,44 @@
    "source": "Yahoo",
    "published": "2026-10-21T08:16:00+00:00",
    "tickers": [
-    "DHR"
+    "DHR",
+    "TMO"
    ],
    "tag": "Health AI",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "6ef36304c638",
+   "headline": "Global Bioprocessing Support Services Market Report 2026 | Capitalize on $4.13B by 2030 as Thermo Fisher, Merck, Sartorius and Samsung Biologics Scale Single-Use Solutions",
+   "summary": "Boost ROI by outsourcing services, adopting single-use integrated platforms, and standardizing scale-up, optimization and compliance to cut costs and speed production.Dublin, Oct. 21, 2026 (GLOBE NEWSWIRE) -- \"Bioprocessing Support\u2026",
+   "url": "https://finnhub.io/api/news?id=d1c45c2e91d82139d7444c4ef74b54a54b0353732d9b9ca624aca651ac43067f",
+   "source": "Yahoo",
+   "published": "2026-10-21T08:15:00+00:00",
+   "tickers": [
+    "MRK",
+    "TMO"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "465a47599dc3",
+   "headline": "Global Cell Culture Media and Single-Use Reagents Market Report 2026 | Capitalize on 13.6% CAGR to $8.34B by 2030 with Thermo Fisher, Merck, Sartorius and Lonza",
+   "summary": "Boost ROI with integrated single-use bioreactors that reduce contamination, setup time, cleaning, footprint and operating costs while improving scalability.Dublin, Oct. 21, 2026 (GLOBE NEWSWIRE) -- \"Cell Culture Media and Single-Use\u2026",
+   "url": "https://finnhub.io/api/news?id=92dbf964fe6957e2a70666b0dd5b037e7d20a888bacabd2ee4efee79c35c3b93",
+   "source": "Yahoo",
+   "published": "2026-10-21T08:14:00+00:00",
+   "tickers": [
+    "MRK",
+    "TMO"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1104,7 +1184,9 @@
    "source": "Yahoo",
    "published": "2026-10-21T08:13:00+00:00",
    "tickers": [
-    "DHR"
+    "DHR",
+    "MRK",
+    "TMO"
    ],
    "tag": "News",
    "sectors": [
@@ -1136,7 +1218,9 @@
    "published": "2026-10-21T08:11:00+00:00",
    "tickers": [
     "A",
-    "DHR"
+    "DHR",
+    "MRK",
+    "TMO"
    ],
    "tag": "News",
    "sectors": [
@@ -1151,11 +1235,59 @@
    "source": "Yahoo",
    "published": "2026-10-21T08:10:00+00:00",
    "tickers": [
-    "DHR"
+    "DHR",
+    "MRK",
+    "TMO"
    ],
    "tag": "News",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "98f2e702da45",
+   "headline": "Global Human Osteoblasts Market Report 2026 | Capitalize on $53.09 Billion Revenue Share by 2030 as Merck KGaA, Thermo Fisher Scientific, Lonza and STEMCELL Lead the Industry",
+   "summary": "Dublin, Oct. 21, 2026 (GLOBE NEWSWIRE) -- \"Human Osteoblasts Market Report 2026\" has been added to ResearchAndMarkets.com's offering. The global human osteoblasts market is experiencing strong growth, supported by the rising prevalence of\u2026",
+   "url": "https://finnhub.io/api/news?id=8fdb628f83eed3e82b0cd7f45c704fd4e71ca6c09b0b0be463dbf594ed7b5ca2",
+   "source": "Yahoo",
+   "published": "2026-10-21T08:09:00+00:00",
+   "tickers": [
+    "TMO"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "f3e919967f7d",
+   "headline": "Human Plasma Like Medium Market Global Report 2026 | Capitalize on 8.6% CAGR as Thermo Fisher Scientific, Sartorius, Sigma Aldrich and HiMedia Advance IVD and Gene Therapy",
+   "summary": "Dublin, Oct. 21, 2026 (GLOBE NEWSWIRE) -- \"Human Plasma Like Medium Market Report 2026\" has been added to ResearchAndMarkets.com's offering. The global human plasma-like medium market is experiencing strong growth as biomedical research\u2026",
+   "url": "https://finnhub.io/api/news?id=682a74320ae910a3639fd3dee0fdfd4336c8dbf3b54a5881ebaf7cb752b82bad",
+   "source": "Yahoo",
+   "published": "2026-10-21T08:08:00+00:00",
+   "tickers": [
+    "TMO"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "f510d551cc80",
+   "headline": "Large-Surface-Area Microcarrier Bioreactor Market Forecast 2026-2030 | Capitalize on 15.5% CAGR as Thermo Fisher, Merck, Corning, Lonza and Cytiva Scale Automation",
+   "summary": "Dublin, Oct. 21, 2026 (GLOBE NEWSWIRE) -- \"Large-Surface-Area Microcarrier Bioreactor Market Report 2026\" has been added to ResearchAndMarkets.com's offering. The global large-surface-area microcarrier bioreactor market is experiencing\u2026",
+   "url": "https://finnhub.io/api/news?id=a465f678f9b5ba99d4434a252ee7f1b7a39679accc05e45d47936583d3d873ee",
+   "source": "Yahoo",
+   "published": "2026-10-21T08:07:00+00:00",
+   "tickers": [
+    "MRK",
+    "TMO"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1166,7 +1298,8 @@
    "source": "Yahoo",
    "published": "2026-10-21T08:05:00+00:00",
    "tickers": [
-    "CAH"
+    "CAH",
+    "TMO"
    ],
    "tag": "News",
    "sectors": [
@@ -1181,7 +1314,8 @@
    "source": "Yahoo",
    "published": "2026-10-21T08:04:00+00:00",
    "tickers": [
-    "DHR"
+    "DHR",
+    "TMO"
    ],
    "tag": "News",
    "sectors": [
