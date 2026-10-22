@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-22T09:02:55.694147+00:00",
+ "updated": "2026-10-22T09:17:31.872778+00:00",
  "quotes": {
   "A": {
    "price": 177.75,
@@ -26,13 +26,13 @@
    "price": 8.44,
    "change_pct": -0.82
   },
-  "ALNY": {
-   "price": 225.1,
-   "change_pct": -2.43
-  },
   "AMGN": {
    "price": 438.34,
    "change_pct": -0.14
+  },
+  "ARGX": {
+   "price": 890.05,
+   "change_pct": 2.34
   },
   "ASND": {
    "price": 238.9,
@@ -934,6 +934,17 @@
  },
  "stories": [
   {
+   "id": "8d1efe6d3adc",
+   "headline": "KFF: Employer family premiums up 5% to $28K in 2026",
+   "summary": "Employer family premiums grew yet again in 2026, increasing by 5% to $28,303 on average, according to a new report from KFF.",
+   "url": "https://www.fiercehealthcare.com/payers/kff-employer-family-premiums-5-28k-2026",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-22T09:15:21.546763+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
    "id": "05b90f0ed507",
    "headline": "Roche\u2019s CEO has \u2018absolutely not\u2019 changed tune on Poseida despite scrapping CAR-T from the buyout",
    "summary": "Roche\u2019s CEO has insisted to Fierce that the company\u2019s view on its $1.5 billion Poseida buyout has \u201cabsolutely not\u201d changed, even as the Swiss pharma scraps one of the CAR-T therapy\u2019s from the acquisition.",
@@ -987,6 +998,21 @@
    "tickers": [],
    "tag": "FDA",
    "sectors": []
+  },
+  {
+   "id": "6db63a2824be",
+   "headline": "DHR Q3 deep dive: execution focus and AI strategy underpin improved outlook",
+   "summary": "Diversified science and technology company Danaher (NYSE:DHR) met Wall Street\u2019s revenue expectations in Q3 2026, with sales up 8.3% year on year to $6.55 billion. Its non-GAAP profit of $2.11 per share was 10% above analysts\u2019 consensus\u2026",
+   "url": "https://finnhub.io/api/news?id=2f5969c47fb6bd9d8b36ab7017488eb6a5896df76ecf1e4949871e156be38166",
+   "source": "Yahoo",
+   "published": "2026-10-22T08:14:27+00:00",
+   "tickers": [
+    "DHR"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
   },
   {
    "id": "167182dc0c79",
@@ -1057,6 +1083,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "eee09c74f6c2",
+   "headline": "argenx Reports Third Quarter 2026 Financial Results and Provides Business Update",
+   "summary": "Continued strong VYVGART performance drives $1.7 billion in global product net sales, representing 54% year-over-year growth and 13% quarter-over-quarter growth sBLA for VYVGART Hytrulo in IMNM on track for submission by year-end;\u2026",
+   "url": "https://finnhub.io/api/news?id=dd730b4a94e4891c86130649ed05e69661b1b3924aff759793b5f85359d107ab",
+   "source": "Yahoo",
+   "published": "2026-10-22T05:00:00+00:00",
+   "tickers": [
+    "ARGX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -43029,67 +43070,6 @@
    "tag": "Analyst",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "e7bbc9ca8a5b",
-   "headline": "3 Cash-Producing Stocks with Warning Signs",
-   "summary": "Generating cash is essential for any business, but not all cash-rich companies are great investments. Some produce plenty of cash but fail to allocate it effectively, leading to missed opportunities.",
-   "url": "https://finnhub.io/api/news?id=f5376e9072682bc442573f3e55fb1a0c02ff4c4344b448a1d5183e99bfc482bf",
-   "source": "Yahoo",
-   "published": "2026-10-12T09:11:03+00:00",
-   "tickers": [
-    "DHR"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "240b2b444a85",
-   "headline": "Dr. Scott Gottlieb on push to fast-track cancer vaccines, flu season and AI integration in hospitals",
-   "summary": "Former FDA Commissioner Dr. Scott Gottlieb joins 'Squawk Box' to discuss the public-private push to accelerate cancer vaccine development, his thoughts on the current flu season, AI integration in hospitals, and more.",
-   "url": "https://finnhub.io/api/news?id=6a9b5a81416b333cfcb565f96c7c45b8def604f362c6a7ebf08f6f14592ed8fb",
-   "source": "CNBC",
-   "published": "2026-10-12T09:06:39+00:00",
-   "tickers": [
-    "MRNA"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "0b8053b2483d",
-   "headline": "These 3 Stocks Are Crushing the \"Magnificent Seven\" This Year -- Are They Still Buys?",
-   "summary": "Forget the \"Magnificent Seven\" in favor of the \"Tremendous Three\"?",
-   "url": "https://finnhub.io/api/news?id=330fbaf9b5174030e308e65d940a51f4bcbe56e9b042ae7e7722b12c2bf35252",
-   "source": "Yahoo",
-   "published": "2026-10-12T09:04:00+00:00",
-   "tickers": [
-    "MRNA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "1fd6d7cf41e6",
-   "headline": "This Insmed Analyst Is No Longer Bullish; Here Are Top 5 Downgrades For Monday",
-   "summary": "Analysts downgraded UWMC, ACT, ROIV, INSM; ACT\u2019s target fell to $44.",
-   "url": "https://finnhub.io/api/news?id=19035c9ae1c9d5f42560101adeeba5cccc07ea7f2d938468e651843298f1c5b3",
-   "source": "Benzinga",
-   "published": "2026-10-12T09:03:39+00:00",
-   "tickers": [
-    "INSM",
-    "ROIV"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
    ]
   }
  ]
