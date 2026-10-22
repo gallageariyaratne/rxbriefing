@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-22T01:47:46.326873+00:00",
+ "updated": "2026-10-22T02:02:40.015827+00:00",
  "quotes": {
   "A": {
    "price": 177.75,
@@ -77,6 +77,10 @@
   "COR": {
    "price": 340.43,
    "change_pct": -0.83
+  },
+  "CRSP": {
+   "price": 50.5,
+   "change_pct": 1.24
   },
   "CVS": {
    "price": 93.45,
@@ -270,6 +274,10 @@
    "price": 297.6,
    "change_pct": -2.23
   },
+  "TGTX": {
+   "price": 53.2,
+   "change_pct": -2.44
+  },
   "THC": {
    "price": 269.13,
    "change_pct": -1.17
@@ -309,14 +317,6 @@
   "WAY": {
    "price": 28.84,
    "change_pct": 0.1
-  },
-  "ZBH": {
-   "price": 94.86,
-   "change_pct": -1.19
-  },
-  "ZTS": {
-   "price": 79.62,
-   "change_pct": -0.52
   }
  },
  "tickers": {
@@ -2281,6 +2281,21 @@
    ]
   },
   {
+   "id": "7b3d69ddf595",
+   "headline": "GSK, Ionis win US approval for first-of-its-kind hepatitis B drug",
+   "summary": "Hibsago is viewed as a potential \u201cfunctional cure\u201d for chronic infections and an important part of the British drugmaker\u2019s goal of reaching \u00a340 billion in annual revenue by 2031.",
+   "url": "https://finnhub.io/api/news?id=f8dca6d0aca28051591554ff155dd63fd6a197ee3c31606f1fc95823a60666eb",
+   "source": "Yahoo",
+   "published": "2026-10-21T16:03:00+00:00",
+   "tickers": [
+    "IONS"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "65d2d7ed867e",
    "headline": "Intuitive Surgical to Face Potential Risks in 2027 Procedure Momentum From Pricing Actions, RBC Says",
    "summary": "Intuitive Surgical (ISRG) will face potential risks to its 2027 procedure momentum from pricing acti",
@@ -3597,6 +3612,21 @@
    ]
   },
   {
+   "id": "b42c27f8d02e",
+   "headline": "TG Therapeutics Highlights New Clinical Data Across Multiple Sclerosis Portfolio at MSToronto2026",
+   "summary": "NEW YORK, October 21, 2026--TG Therapeutics, Inc. (NASDAQ: TGTX), today announced several updated poster presentations at MSToronto2026, the 10th Joint ACTRIMS-ECTRIMS Meeting. The presentations include seven-year follow up data from the\u2026",
+   "url": "https://finnhub.io/api/news?id=f0e06cd2112e6dd58e967665c4162883f19d418805a310490d0073ed57f492f2",
+   "source": "Yahoo",
+   "published": "2026-10-21T12:52:00+00:00",
+   "tickers": [
+    "TGTX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "ef1ce2030868",
    "headline": "Abbott Laboratories Reports Third-Quarter 2026 Results",
    "summary": "",
@@ -3871,6 +3901,21 @@
    ]
   },
   {
+   "id": "e4fc17a995a5",
+   "headline": "Brokers Suggest Investing in CRISPR Therapeutics (CRSP): Read This Before Placing a Bet",
+   "summary": "The average brokerage recommendation (ABR) for CRISPR Therapeutics (CRSP) is equivalent to a Buy. The overly optimistic recommendations of Wall Street analysts make the effectiveness of this highly sought-after metric questionable. So, is\u2026",
+   "url": "https://finnhub.io/api/news?id=1ce10ab7363569e53b525ea554a348e69963f576109453531b13702725dd33e6",
+   "source": "Yahoo",
+   "published": "2026-10-21T12:30:03+00:00",
+   "tickers": [
+    "CRSP"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "879ad21f34ea",
    "headline": "Intuitive Surgical, Inc. (ISRG) Crossed Above the 200-Day Moving Average: What That Means for Investors",
    "summary": "Good things could be on the horizon when a stock surpasses the 200-day simple moving average. How should investors react?",
@@ -3971,7 +4016,8 @@
    "source": "Yahoo",
    "published": "2026-10-21T12:28:00+00:00",
    "tickers": [
-    "LH"
+    "LH",
+    "TGTX"
    ],
    "tag": "Earnings",
    "sectors": [
