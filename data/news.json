@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-22T13:03:06.927775+00:00",
+ "updated": "2026-10-22T13:17:27.354928+00:00",
  "quotes": {
   "ABBV": {
    "price": 284.8,
@@ -110,10 +110,6 @@
    "price": 69.01,
    "change_pct": -1.74
   },
-  "GH": {
-   "price": 166.66,
-   "change_pct": 2.5
-  },
   "GILD": {
    "price": 153.57,
    "change_pct": -1.88
@@ -218,10 +214,6 @@
    "price": 153.93,
    "change_pct": 0.19
   },
-  "OSCR": {
-   "price": 33.45,
-   "change_pct": -0.62
-  },
   "PFE": {
    "price": 29.85,
    "change_pct": -0.86
@@ -257,10 +249,6 @@
   "TDOC": {
    "price": 6.3,
    "change_pct": 1.45
-  },
-  "TEM": {
-   "price": 67.76,
-   "change_pct": 1.51
   },
   "THC": {
    "price": 269.13,
@@ -914,6 +902,32 @@
  },
  "stories": [
   {
+   "id": "6746a80cb880",
+   "headline": "FDA rebukes Baxter over 'repeated' production stumbles in new warning letter",
+   "summary": "The FDA rebuked Baxter in a lengthy warning letter that outlined a series of production violations that led to a trio of recalls earlier this year.",
+   "url": "https://www.fiercepharma.com/manufacturing/fda-rebukes-baxter-warning-letter-ongoing-production-problems",
+   "source": "Fierce Pharma",
+   "published": "2026-10-22T13:15:22.611420+00:00",
+   "tickers": [],
+   "tag": "FDA",
+   "sectors": []
+  },
+  {
+   "id": "324e136ecd19",
+   "headline": "Cannabis Stocks\u2019 Rally Is Narrow as Profitable Healthcare and Consumer Names Do the Heavy Lifting",
+   "summary": "Cannabis stocks show narrow leadership: cap-weighted returns are positive while the average stock falls, led by profitable healthcare and consumer names.",
+   "url": "https://finnhub.io/api/news?id=e48ba4d3577200759641af302735cf47b8018d7c37d160d7c2a5ba52704e9210",
+   "source": "ChartMill",
+   "published": "2026-10-22T12:35:51+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "66b718309a2c",
    "headline": "AI-Powered Brand Sites Are Changing Patient Engagement",
    "summary": "Compliant AI helps brands answer patient questions in real time and turn conversations into actionable insights.",
@@ -992,6 +1006,21 @@
    ]
   },
   {
+   "id": "27dd24ad3aea",
+   "headline": "Krystal Biotech to Report Third Quarter 2026 Financial Results on November 2, 2026",
+   "summary": "PITTSBURGH, Oct. 22, 2026 (GLOBE NEWSWIRE) -- Krystal Biotech, Inc. (the \u201cCompany\u201d) (NASDAQ: KRYS) announced today that it will report its third quarter 2026 financial results on Monday, November 2, 2026, prior to the open of U.S.\u2026",
+   "url": "https://finnhub.io/api/news?id=d6df7af86b5b44e503963a9bac91f9fd14f398523e86915c00a17629585dcc0d",
+   "source": "Yahoo",
+   "published": "2026-10-22T12:00:00+00:00",
+   "tickers": [
+    "KRYS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "38027968487f",
    "headline": "Can Boston Scientific Stock Jump 30%?",
    "summary": "For questions about this article or underlying research, email help@trefis.com.",
@@ -1003,6 +1032,7 @@
     "BDX",
     "BSX",
     "JNJ",
+    "MDT",
     "SYK"
    ],
    "tag": "News",
@@ -1063,7 +1093,8 @@
    "source": "Yahoo",
    "published": "2026-10-22T11:30:01+00:00",
    "tickers": [
-    "BMY"
+    "BMY",
+    "NVO"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -1097,6 +1128,7 @@
     "GMED",
     "ISRG",
     "JNJ",
+    "MDT",
     "SYK",
     "ZBH"
    ],
@@ -1178,6 +1210,21 @@
    "tag": "News",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "a15048eacfec",
+   "headline": "Medtronic announces positive results from real-world registries for the Sphere-9\u2122 catheter and PulseSelect\u2122 PFA System at APHRS 2026",
+   "summary": "Medtronic plc (NYSE: MDT), a global leader in healthcare technology, today announced positive real-world registry results for the Affera\u2122 Mapping and Ablation System with the Sphere-9\u2122 Catheter and the PulseSelect\u2122 Pulsed Field Ablation\u2026",
+   "url": "https://finnhub.io/api/news?id=4691064af0842286354ae0f2e3fa3bd3395db6249dad7fc8e00feb5335beccf7",
+   "source": "Yahoo",
+   "published": "2026-10-22T11:00:00+00:00",
+   "tickers": [
+    "MDT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -42018,158 +42065,6 @@
    "tag": "GLP-1",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "2116faae8696",
-   "headline": "Pharma\u2019s $500B patent problem will come in waves \u2014 not as a cliff",
-   "summary": "Merck is the most vulnerable to generic competition in the short term, but AbbVie, Johnson & Johnson, Sanofi and others will also grapple with patent losses in the years to come.",
-   "url": "https://www.biopharmadive.com/news/pharma-patent-cliff-merck-abbvie-dealmaking/832700/",
-   "source": "BioPharma Dive",
-   "published": "2026-10-12T13:16:00+00:00",
-   "tickers": [
-    "ABBV",
-    "JNJ",
-    "MRK",
-    "SNY"
-   ],
-   "tag": "Legal",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "709b08510c7e",
-   "headline": "Par Health recalls more IV bags on cellulose risk weeks after similar action",
-   "summary": "Par Health issued a voluntary recall of two lots of the IV barbiturate Brevital sodium that may be tainted with cellulose.",
-   "url": "https://www.fiercepharma.com/manufacturing/par-health-recalls-more-iv-bags-presence-cellulose-weeks-after-similar-action",
-   "source": "Fierce Pharma",
-   "published": "2026-10-12T13:15:20.444914+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "ada27c87c53a",
-   "headline": "4 Blue Chip Giants That May Have to Cut Their Dividends",
-   "summary": "Four household names are paying dividend yields above 5%, but their earnings, cash flow, and balance sheets tell a different story than their press releases. Before you count on those checks arriving, there are some serious warning signs\u2026",
-   "url": "https://finnhub.io/api/news?id=83c338dc19e7d70757ae0d10e1dc4e343531b4f837a7c4fd35cb4d713845c54c",
-   "source": "Yahoo",
-   "published": "2026-10-12T13:15:14+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "140c4272a889",
-   "headline": "Does New CVS and EPIC Deals Reshape McKesson\u2019s Pharmacy Distribution Narrative (MCK)?",
-   "summary": "In October 2026, EPIC Pharmacies introduced a new wholesale distribution model naming McKesson as one of two primary partners, while McKesson separately announced an agreement in principle to extend its pharmaceutical distribution\u2026",
-   "url": "https://finnhub.io/api/news?id=4d051ea3729c9315fed5c13a05a00acf939426a9cf648456066898182aabec20",
-   "source": "Yahoo",
-   "published": "2026-10-12T13:14:44+00:00",
-   "tickers": [
-    "CVS",
-    "MCK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharmacy"
-   ]
-  },
-  {
-   "id": "0ab0a9cb76c0",
-   "headline": "Big Week of Data: Inflation & Q3 Earnings",
-   "summary": "It's the biggest week for market news in more than a month: Q3 earnings and both CPI and PPI inflation reports for September.",
-   "url": "https://finnhub.io/api/news?id=b1e5da76f8d31fddfef9b45f7d575c9268ebad0db9030f31463f4e83b2048c1b",
-   "source": "Yahoo",
-   "published": "2026-10-12T13:11:00+00:00",
-   "tickers": [
-    "JNJ",
-    "UNH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "c6a8b61a2e5f",
-   "headline": "SHAREHOLDER ALERT: Purcell & Lefkowitz LLP Announces Shareholder Investigation of Celldex Therapeutics, Inc. (NASDAQ: CLDX)",
-   "summary": "NEW YORK, Oct. 12, 2026 /PRNewswire/ -- Purcell & Lefkowitz LLP announces that it is investigating Celldex Therapeutics, Inc. (NASDAQ: CLDX) on behalf of the company's shareholders. The investigation seeks to determine whether Celldex\u2026",
-   "url": "https://www.prnewswire.com/news-releases/shareholder-alert-purcell--lefkowitz-llp-announces-shareholder-investigation-of-celldex-therapeutics-inc-nasdaq-cldx-302905157.html",
-   "source": "PR Newswire",
-   "published": "2026-10-12T13:10:00+00:00",
-   "tickers": [
-    "CLDX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "a72393960268",
-   "headline": "Take the Zacks Approach to Beat the Markets: HF Sinclair, Accenture & FirstCash in Focus",
-   "summary": "HF Sinclair, Accenture and FirstCash post impressive gains as Zacks research portfolios highlight standout performers amid market uncertainty and shifting investor sentiment.",
-   "url": "https://finnhub.io/api/news?id=45bd8e6060825f9da73b03c4b563ab130d5d696ea249dcda5ce90ea846e2a3d3",
-   "source": "Yahoo",
-   "published": "2026-10-12T13:10:00+00:00",
-   "tickers": [
-    "HCA",
-    "LFST"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "ebd18aaf3c3f",
-   "headline": "Canaccord Genuity Maintains Buy on 10x Genomics, Raises Price Target to $100",
-   "summary": "Canaccord Genuity analyst Kyle Mikson maintains 10x Genomics (NASDAQ:TXG) with a Buy and raises the price target from $60 to $100.",
-   "url": "https://finnhub.io/api/news?id=cd8b3926ce3260ed7612259cd70bf5cebd0eca01f5a11859a606346af8c0b27c",
-   "source": "Benzinga",
-   "published": "2026-10-12T13:07:52+00:00",
-   "tickers": [
-    "TXG"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "44c3c36d1cde",
-   "headline": "Canaccord Genuity Maintains Buy on Twist Bioscience, Raises Price Target to $205",
-   "summary": "Canaccord Genuity analyst Kyle Mikson maintains Twist Bioscience (NASDAQ:TWST) with a Buy and raises the price target from $120 to $205.",
-   "url": "https://finnhub.io/api/news?id=ff522b53e1c7447230b206ff2d0e9b172a4864bda7429bf45e8f29fd7d918c9f",
-   "source": "Benzinga",
-   "published": "2026-10-12T13:05:43+00:00",
-   "tickers": [
-    "TWST"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "270dddcd7907",
-   "headline": "Canaccord Genuity Maintains Buy on Tempus AI, Raises Price Target to $95",
-   "summary": "Canaccord Genuity analyst Kyle Mikson maintains Tempus AI (NASDAQ:TEM) with a Buy and raises the price target from $80 to $95.",
-   "url": "https://finnhub.io/api/news?id=5edd74c81ef7d82aeffa63a167d6fc310b756ef1d8f3eda25b276c681aec7d72",
-   "source": "Benzinga",
-   "published": "2026-10-12T13:04:49+00:00",
-   "tickers": [
-    "TEM"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "healthai"
    ]
   }
  ]
