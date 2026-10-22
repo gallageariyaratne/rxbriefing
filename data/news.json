@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-22T08:32:47.991593+00:00",
+ "updated": "2026-10-22T08:47:40.524663+00:00",
  "quotes": {
   "A": {
    "price": 177.75,
@@ -81,6 +81,10 @@
   "COR": {
    "price": 340.43,
    "change_pct": -0.83
+  },
+  "CRL": {
+   "price": 344.87,
+   "change_pct": 9.33
   },
   "CRSP": {
    "price": 50.5,
@@ -313,10 +317,6 @@
   "UHS": {
    "price": 182.87,
    "change_pct": -1.48
-  },
-  "UNH": {
-   "price": 417,
-   "change_pct": -0.54
   }
  },
  "tickers": {
@@ -2121,7 +2121,10 @@
    "source": "ChartMill",
    "published": "2026-10-21T19:06:09+00:00",
    "tickers": [
-    "DXCM"
+    "ABT",
+    "CRL",
+    "DXCM",
+    "ILMN"
    ],
    "tag": "FDA",
    "sectors": [
@@ -2484,7 +2487,9 @@
    "source": "ChartMill",
    "published": "2026-10-21T17:05:53+00:00",
    "tickers": [
-    "DHR"
+    "ABT",
+    "DHR",
+    "ISRG"
    ],
    "tag": "News",
    "sectors": [
@@ -2691,7 +2696,10 @@
    "source": "ChartMill",
    "published": "2026-10-21T16:36:42+00:00",
    "tickers": [
-    "DXCM"
+    "ABT",
+    "CRL",
+    "DXCM",
+    "ILMN"
    ],
    "tag": "News",
    "sectors": [
@@ -3241,7 +3249,8 @@
    "source": "ChartMill",
    "published": "2026-10-21T14:36:03+00:00",
    "tickers": [
-    "DHR"
+    "DHR",
+    "ISRG"
    ],
    "tag": "Health AI",
    "sectors": [
@@ -4358,7 +4367,9 @@
    "source": "ChartMill",
    "published": "2026-10-21T12:36:06+00:00",
    "tickers": [
+    "ABT",
     "DHR",
+    "ISRG",
     "VRTX"
    ],
    "tag": "Health AI",
@@ -43124,36 +43135,6 @@
    "tag": "News",
    "sectors": [
     "medtech"
-   ]
-  },
-  {
-   "id": "5360377955bc",
-   "headline": "Eli Lilly Stock Has Pulled Back 8%. History Says This Is What Happens Next.",
-   "summary": "Lilly's recent retreat isn't a sign of a broken investment thesis.",
-   "url": "https://finnhub.io/api/news?id=7bca6145c5ef05f89ba71eba6b6045589db957f58d7468ff098e6cff1fdf3154",
-   "source": "Yahoo",
-   "published": "2026-10-12T08:46:00+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "6214bb57ebef",
-   "headline": "1 Cash-Producing Stock with Competitive Advantages and 2 We Question",
-   "summary": "A company that generates cash isn\u2019t automatically a winner. Some businesses stockpile cash but fail to reinvest wisely, limiting their ability to expand.",
-   "url": "https://finnhub.io/api/news?id=e3db08dc093c88b1318b80c9255bc0868e3ccaecde26b0828764de95aeeb7808",
-   "source": "Yahoo",
-   "published": "2026-10-12T08:39:03+00:00",
-   "tickers": [
-    "TDOC"
-   ],
-   "tag": "News",
-   "sectors": [
-    "healthit"
    ]
   }
  ]
