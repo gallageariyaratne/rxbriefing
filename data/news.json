@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-22T05:47:39.762884+00:00",
+ "updated": "2026-10-22T06:02:50.993294+00:00",
  "quotes": {
   "A": {
    "price": 177.75,
@@ -32,10 +32,6 @@
   },
   "AMGN": {
    "price": 438.34,
-   "change_pct": -0.14
-  },
-  "ARWR": {
-   "price": 58.84,
    "change_pct": -0.14
   },
   "ASND": {
@@ -182,10 +178,6 @@
    "price": 28.38,
    "change_pct": -0.73
   },
-  "INSM": {
-   "price": 94.04,
-   "change_pct": -1.7
-  },
   "IONS": {
    "price": 44.27,
    "change_pct": -2.49
@@ -317,6 +309,14 @@
   "TMO": {
    "price": 694.02,
    "change_pct": 0.97
+  },
+  "UHS": {
+   "price": 182.87,
+   "change_pct": -1.48
+  },
+  "UNH": {
+   "price": 417,
+   "change_pct": -0.54
   }
  },
  "tickers": {
@@ -933,6 +933,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "3669a26b5af1",
+   "headline": "Elevance: 3 Key Takeaways for Long-Term Investors",
+   "summary": "Clinical efficiency gains and integrated pharmacy benefits are lengthening the runway for margin expansion beyond 2026.",
+   "url": "https://finnhub.io/api/news?id=a556faa144a1f8bf40228c8b2059a8f73caa46a508b7e6fc4f5b907f0b90e95c",
+   "source": "Yahoo",
+   "published": "2026-10-22T04:09:16+00:00",
+   "tickers": [
+    "ELV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
   {
    "id": "68301e67f2ed",
    "headline": "How Unusual Is Zoetis's Latest Sales Growth?",
@@ -43347,66 +43362,6 @@
     "ISRG"
    ],
    "tag": "Analyst",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "87d76469036e",
-   "headline": "BTIG Maintains Buy on Glaukos, Raises Price Target to $205",
-   "summary": "BTIG analyst Ryan Zimmerman maintains Glaukos (NYSE:GKOS) with a Buy and raises the price target from $202 to $205.",
-   "url": "https://finnhub.io/api/news?id=5f9f68598e1b9086d845b5db82ae62ba592775bd2723c3eaeaf63263843efe56",
-   "source": "Benzinga",
-   "published": "2026-10-12T05:59:30+00:00",
-   "tickers": [
-    "GKOS"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "c38b4b7a47e8",
-   "headline": "BTIG Maintains Buy on GE HealthCare Techs, Lowers Price Target to $75",
-   "summary": "BTIG analyst Ryan Zimmerman maintains GE HealthCare Techs (NASDAQ:GEHC) with a Buy and lowers the price target from $79 to $75.",
-   "url": "https://finnhub.io/api/news?id=d232c614cd33bfe4c7427811fa178af602ca4ab2ddd5391636b5c35812ad2fa9",
-   "source": "Benzinga",
-   "published": "2026-10-12T05:58:33+00:00",
-   "tickers": [
-    "GEHC"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "970fec58138e",
-   "headline": "BTIG Maintains Buy on DexCom, Raises Price Target to $96",
-   "summary": "BTIG analyst Ryan Zimmerman maintains DexCom (NASDAQ:DXCM) with a Buy and raises the price target from $90 to $96.",
-   "url": "https://finnhub.io/api/news?id=62d54c018ab8df0fc2a00e552f8bc8a027542428bf17eefaa01aba67a5c6137e",
-   "source": "Benzinga",
-   "published": "2026-10-12T05:57:30+00:00",
-   "tickers": [
-    "DXCM"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "c674c99f669e",
-   "headline": "Globus Medical Q2 2026 Earnings Call Transcript",
-   "summary": "On Thursday, Globus Medical (NYSE:GMED) discussed second-quarter financial results during its earnings call. The full transcript is provided below. This content is powered by Benzinga APIs. For comprehensive financial",
-   "url": "https://finnhub.io/api/news?id=f54f369ab74905770d360344ec327defcd09759a1f9ec27ee55a466f351951ce",
-   "source": "Benzinga",
-   "published": "2026-10-12T05:56:55+00:00",
-   "tickers": [
-    "GMED"
-   ],
-   "tag": "Earnings",
    "sectors": [
     "medtech"
    ]
