@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-22T02:47:40.203741+00:00",
+ "updated": "2026-10-22T03:02:47.688430+00:00",
  "quotes": {
   "A": {
    "price": 177.75,
@@ -246,6 +246,10 @@
    "price": 11.65,
    "change_pct": -1.6
   },
+  "NTRA": {
+   "price": 413.38,
+   "change_pct": 1.84
+  },
   "NVO": {
    "price": 39.06,
    "change_pct": -0.74
@@ -313,10 +317,6 @@
   "TMO": {
    "price": 694.02,
    "change_pct": 0.97
-  },
-  "UHS": {
-   "price": 182.87,
-   "change_pct": -1.48
   }
  },
  "tickers": {
@@ -945,11 +945,27 @@
     "BDX",
     "BSX",
     "JNJ",
-    "MDT"
+    "MDT",
+    "SYK"
    ],
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "0d8f0960c325",
+   "headline": "Foghorn Therapeutics (FHTX) Stock Fair Value Moves Lower After Pipeline And Lilly Reset",
+   "summary": "The fair value estimate for Foghorn Therapeutics has been reset from US$6.00 to about US$4.17, reflecting a meaningful change in how the stock is currently modeled. This move lines up with recent Street commentary that factors in the\u2026",
+   "url": "https://finnhub.io/api/news?id=903c9cd5cbf0bc586521b646f03a89798a8302c7ea8483817193ecfb22af501e",
+   "source": "Yahoo",
+   "published": "2026-10-22T01:24:15+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -962,6 +978,7 @@
    "tickers": [
     "CI",
     "CVS",
+    "HIMS",
     "TDOC",
     "UNH"
    ],
@@ -2386,7 +2403,8 @@
    "tickers": [
     "DGX",
     "ILMN",
-    "LH"
+    "LH",
+    "NTRA"
    ],
    "tag": "News",
    "sectors": [
@@ -3457,6 +3475,7 @@
    "tickers": [
     "GH",
     "LH",
+    "NTRA",
     "TEM"
    ],
    "tag": "News",
