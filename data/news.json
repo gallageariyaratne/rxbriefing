@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-22T02:32:42.194879+00:00",
+ "updated": "2026-10-22T02:47:40.203741+00:00",
  "quotes": {
   "A": {
    "price": 177.75,
@@ -294,6 +294,10 @@
    "price": 297.6,
    "change_pct": -2.23
   },
+  "TDOC": {
+   "price": 6.3,
+   "change_pct": 1.45
+  },
   "TEM": {
    "price": 67.76,
    "change_pct": 1.51
@@ -313,10 +317,6 @@
   "UHS": {
    "price": 182.87,
    "change_pct": -1.48
-  },
-  "UNH": {
-   "price": 417,
-   "change_pct": -0.54
   }
  },
  "tickers": {
@@ -941,6 +941,7 @@
    "source": "Yahoo",
    "published": "2026-10-22T01:29:48+00:00",
    "tickers": [
+    "ABT",
     "BDX",
     "BSX",
     "JNJ",
@@ -960,7 +961,9 @@
    "published": "2026-10-22T01:19:32+00:00",
    "tickers": [
     "CI",
-    "CVS"
+    "CVS",
+    "TDOC",
+    "UNH"
    ],
    "tag": "News",
    "sectors": [
@@ -980,6 +983,36 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "cf12284e0a9d",
+   "headline": "SPHQ, QUAL, and MOAT Define Quality Differently. Those Rules Decide What You Own",
+   "summary": "Three ETFs all claim to own quality businesses, yet only four companies appear in all three portfolios. The definition of quality turns out to matter enormously for what ends up in your account.",
+   "url": "https://finnhub.io/api/news?id=039ece311b2c8f2cb63abfd53bafea68e72dfa3fd4df5cb6ea2ab89ef021790b",
+   "source": "Yahoo",
+   "published": "2026-10-22T01:03:04+00:00",
+   "tickers": [
+    "ZTS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "2d23e568e3a8",
+   "headline": "UnitedHealth's Earnings Jumped 60%. Is the Comeback Stock a Buy, Sell, or Hold?",
+   "summary": "UnitedHealth's third-quarter results beat estimates and lifted its outlook. Can tighter cost control and an Optum rebound keep the recovery going?",
+   "url": "https://finnhub.io/api/news?id=cd3d78b25a6bd9003697455d0e28122a5ea2127c694ba387e40c6fb53576191d",
+   "source": "Yahoo",
+   "published": "2026-10-22T00:20:00+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -43329,21 +43362,6 @@
    "tickers": [
     "HUM",
     "MRNA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "ba1d0aca7fc1",
-   "headline": "Dow Jumps Over 400 Points, Records Weekly Gain: Investor Sentiment Improves, Fear & Greed Index Moves yo \u2018Neutral\u2019 Zone",
-   "summary": "CNN Fear & Greed Index rose to Neutral at 45 as U.S. stocks gained Friday; Dow jumped 423 points, while consumer sentiment weakened.",
-   "url": "https://finnhub.io/api/news?id=9af20342499f6ff34a8e09367e2326336d883082053912c86a76fa32149875c3",
-   "source": "Benzinga",
-   "published": "2026-10-12T02:42:46+00:00",
-   "tickers": [
-    "HUM"
    ],
    "tag": "News",
    "sectors": [
