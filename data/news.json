@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-22T23:02:39.774032+00:00",
+ "updated": "2026-10-22T23:17:31.517085+00:00",
  "quotes": {
   "A": {
    "price": 173.89,
@@ -229,6 +229,10 @@
   "QGEN": {
    "price": 50.22,
    "change_pct": 0.44
+  },
+  "REGN": {
+   "price": 819.09,
+   "change_pct": 1.67
   },
   "RMD": {
    "price": 253.06,
@@ -906,6 +910,21 @@
  },
  "stories": [
   {
+   "id": "37822ab35ee2",
+   "headline": "STAT+: Gilead to pay $45 million to settle kickback charges filed by Texas attorney general",
+   "summary": "Gilead Sciences agreed to pay $45 million to settle allegations of paying kickbacks that improperly influenced prescriptions paid for by the Texas Medicaid program",
+   "url": "https://www.statnews.com/pharmalot/2026/10/22/gilead-settles-kickback-lawsuit-texas-attorney-general/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-22T23:12:17+00:00",
+   "tickers": [
+    "GILD"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "aa17e3e200bd",
    "headline": "Dow Jones Futures: Moderna Crashes, Meta Fuels AI Meltdown, But Warren Buffett Market Thriving",
    "summary": "The S&P 500 and Nasdaq tumbled below 50-day lines as Meta led an AI stock rout. But the Warren Buffett market is thriving.",
@@ -913,6 +932,7 @@
    "source": "Yahoo",
    "published": "2026-10-22T21:53:23+00:00",
    "tickers": [
+    "MEDP",
     "MRK",
     "MRNA"
    ],
@@ -1033,6 +1053,21 @@
    "tag": "Clinical",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "85ca69a6a903",
+   "headline": "Molina Healthcare Q3 Earnings Call Highlights",
+   "summary": "Molina Healthcare (NYSE:MOH) reaffirmed its full-year 2026 adjusted earnings outlook while outlining preliminary 2027 earnings building blocks exceeding $9.50 per share, supported by anticipated rate increases, the maturation of new\u2026",
+   "url": "https://finnhub.io/api/news?id=1dcf952027cb8c58e41c88cece0ba78abfbebf33e72484ad089142ada6c8c78d",
+   "source": "Yahoo",
+   "published": "2026-10-22T21:04:34+00:00",
+   "tickers": [
+    "MOH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -1174,6 +1209,7 @@
    "tickers": [
     "AMGN",
     "GILD",
+    "REGN",
     "VRTX"
    ],
    "tag": "M&A",
@@ -1287,6 +1323,21 @@
    "tag": "Clinical",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "717fcd4b008f",
+   "headline": "Medpace Slumps On Solid Report \u2014 Where Are The 'Holes?'",
+   "summary": "Medpace stock fell Thursday after beating third-quarter forecasts and issuing an above-Street view for 2026 earnings.",
+   "url": "https://finnhub.io/api/news?id=aa60aad2c753c3977cf070602c3fafb1a78edec16610a766403a5e0d3204b7d9",
+   "source": "Yahoo",
+   "published": "2026-10-22T20:18:26+00:00",
+   "tickers": [
+    "MEDP"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -43590,22 +43641,6 @@
    "tag": "Earnings",
    "sectors": [
     "pharmacy"
-   ]
-  },
-  {
-   "id": "6f8e2a20fef2",
-   "headline": "Biogen (BIIB) Stock Is Up, What You Need To Know",
-   "summary": "Shares of biotech company Biogen (NASDAQ:BIIB) jumped 3.5% in the pre-market session after JPMorgan upgraded the stock to Overweight from Neutral with a $300 price target, raised from $210.",
-   "url": "https://finnhub.io/api/news?id=db2d71f668cfe165e13f89cb01429985e98f0c46c6e9c5d7c7e8c751d51658d0",
-   "source": "Yahoo",
-   "published": "2026-10-12T23:03:03+00:00",
-   "tickers": [
-    "BIIB",
-    "LLY"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
