@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-22T08:02:55.296208+00:00",
+ "updated": "2026-10-22T08:17:37.491892+00:00",
  "quotes": {
   "A": {
    "price": 177.75,
@@ -1027,7 +1027,8 @@
    "source": "Yahoo",
    "published": "2026-10-22T04:30:38+00:00",
    "tickers": [
-    "AMGN"
+    "AMGN",
+    "AZN"
    ],
    "tag": "Clinical",
    "sectors": [
@@ -1483,6 +1484,36 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "b82a25ec932a",
+   "headline": "Molina Healthcare Inc (NYSE:MOH) Q3 EPS Beats but Shares Fall on Forward Headwinds",
+   "summary": "Molina Health Q3 2026 mixed: EPS beat, revenue in line, shares fell on Q4 headwinds and cautious Medicaid margin recovery outlook.",
+   "url": "https://finnhub.io/api/news?id=d327f6afeb925fd4b1d7059ae2f86455bebbcaa3343572067c2ddb0ab53b7998",
+   "source": "ChartMill",
+   "published": "2026-10-21T21:10:44+00:00",
+   "tickers": [
+    "MOH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "5b68c54cbaf3",
+   "headline": "Medpace (NASDAQ:MEDP) Q3 Revenue In Line and EPS Beat Offset by Cautious Sales Guidance",
+   "summary": "Medpace Q3 2026 revenue matched estimates and EPS topped consensus, but shares dipped after hours as full-year sales guidance missed expectations.",
+   "url": "https://finnhub.io/api/news?id=b190b6e3f9e1fe1838ac4a5a6572f99f91b5045bf55a40de159d390477598589",
+   "source": "ChartMill",
+   "published": "2026-10-21T21:09:34+00:00",
+   "tickers": [
+    "MEDP"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -2050,6 +2081,21 @@
    "sectors": []
   },
   {
+   "id": "366349eb2ce5",
+   "headline": "S&P 500 Top Movers: Oct. 21, 2026 US Session",
+   "summary": "S&P 500 top movers on Oct. 21, 2026: CRL, SMCI and BE led gainers, while T, CMG and DXCM led decliners in the US session.",
+   "url": "https://finnhub.io/api/news?id=03f1395faaf1ce153aa8663ed2fb43ca91d55ee324ae7eadc3091391898f4941",
+   "source": "ChartMill",
+   "published": "2026-10-21T19:06:09+00:00",
+   "tickers": [
+    "DXCM"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "896ae76ae74e",
    "headline": "Thermo Fisher Scientific: 3 Key Takeaways for Long-Term Investors",
    "summary": "Strategic acquisitions are deepening customer relationships while AI integration boosts lab productivity, positioning the company for durable margin expansion.",
@@ -2398,6 +2444,21 @@
    ]
   },
   {
+   "id": "deff9c23f467",
+   "headline": "S&P 500 Unusual Volume Movers: Oct. 21, 2026",
+   "summary": "S&P 500 unusual volume on Oct. 21, 2026: TDY, ISRG, UAL, WAB, DHR, SMCI and ABT traded above 50-day average volume with mixed price moves.",
+   "url": "https://finnhub.io/api/news?id=c9cf727a246b152a00660c20a0577d9c0405b8fd777b29322d1c98d6a286a404",
+   "source": "ChartMill",
+   "published": "2026-10-21T17:05:53+00:00",
+   "tickers": [
+    "DHR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "527e1af4f39a",
    "headline": "What Abbott Laboratories (ABT) Said on Its Q3 Earnings Call",
    "summary": "Abbott Laboratories (NYSE:ABT) reported third-quarter sales growth of 7% and adjusted earnings-per-share growth of 9%, while announcing plans to separate its nutrition business into an independent publicly traded company through a\u2026",
@@ -2585,6 +2646,21 @@
     "IART"
    ],
    "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "db0ed01f3c06",
+   "headline": "S&P 500 Top Movers on Oct. 21, 2026: Supermicro Leads Gainers, Dexcom Leads Losers",
+   "summary": "S&P 500 top movers for Oct. 21, 2026: Supermicro rose 9.18% among gainers, while Dexcom fell 6.22% among losers.",
+   "url": "https://finnhub.io/api/news?id=e2c12db8e0def243d28efc6e5dc8649bede831bd251ec679d9ab82d85e6f4247",
+   "source": "ChartMill",
+   "published": "2026-10-21T16:36:42+00:00",
+   "tickers": [
+    "DXCM"
+   ],
+   "tag": "News",
    "sectors": [
     "medtech"
    ]
@@ -3122,6 +3198,21 @@
    "tag": "News",
    "sectors": [
     "healthit"
+   ]
+  },
+  {
+   "id": "760a61d08cdf",
+   "headline": "S&P 500 Gap Movers: Oct. 21, 2026 Session",
+   "summary": "S&P 500 gap movers on Oct. 21, 2026: SMCI, DELL, VRT and HPE rose on data-center AI news, while PM, T, CMG, NFLX and CHTR fell.",
+   "url": "https://finnhub.io/api/news?id=d74c0b1d6183970ddb0214699a48237d62e527c352455b0eeb268c354bcfe056",
+   "source": "ChartMill",
+   "published": "2026-10-21T14:36:03+00:00",
+   "tickers": [
+    "DHR"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -4224,6 +4315,21 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "7ca1aa6505ac",
+   "headline": "S&P 500 Premarket Movers on Oct. 21: Tech Hardware and AI Suppliers Gain, Health Care Declines",
+   "summary": "S&P 500 premarket movers on Oct. 21: SMCI, DELL, VRT, LITE, BE and HPE led gainers, while ISRG, NFLX, T, ABT and DHR led declines.",
+   "url": "https://finnhub.io/api/news?id=eba9a293516889b9db11cf3881c5665bd9e741fb9e36f87cf455c1d1c54b430a",
+   "source": "ChartMill",
+   "published": "2026-10-21T12:36:06+00:00",
+   "tickers": [
+    "DHR"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -43059,81 +43165,6 @@
    "tag": "Analyst",
    "sectors": [
     "medtech"
-   ]
-  },
-  {
-   "id": "87c4db6047df",
-   "headline": "Wolfe Research Downgrades Insmed to Peer Perform",
-   "summary": "Wolfe Research analyst Andy Chen downgrades Insmed (NASDAQ:INSM) from Outperform to Peer Perform.",
-   "url": "https://finnhub.io/api/news?id=cde2ea0444fae330e327c171e5f5a150d09fdd77d0e07c4234730daead364cf3",
-   "source": "Benzinga",
-   "published": "2026-10-12T08:11:27+00:00",
-   "tickers": [
-    "INSM"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "efb824889296",
-   "headline": "Wolfe Research Downgrades Roivant Sciences to Peer Perform",
-   "summary": "Wolfe Research analyst Andy Chen downgrades Roivant Sciences (NASDAQ:ROIV) from Outperform to Peer Perform.",
-   "url": "https://finnhub.io/api/news?id=c6a7ebacad212532dde31ed5ee27878ecb36f8ba498827512c509aefd855ad86",
-   "source": "Benzinga",
-   "published": "2026-10-12T08:10:23+00:00",
-   "tickers": [
-    "ROIV"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "3a923c7c0fad",
-   "headline": "On the 12th Edition of Global Patient Week Bristol Myers Squibb and Saudi Schizophrenia Association 'Ehtiwaa' Collaborate to Support People Living with Schizophrenia Through the 'Small Wins' Initiative",
-   "summary": "More than 70 personalized 'Small Wins' toolkits, assembled by Bristol Myers Squibb employees, were designed to encourage everyday engagement, self-recognition and emotional well-being among people living with schizophrenia in Saudi\u2026",
-   "url": "https://www.prnewswire.com/news-releases/on-the-12th-edition-of-global-patient-week-bristol-myers-squibb-and-saudi-schizophrenia-association-ehtiwaa-collaborate-to-support-people-living-with-schizophrenia-through-the-small-wins-initiative-302905500.html",
-   "source": "PR Newswire",
-   "published": "2026-10-12T08:10:00+00:00",
-   "tickers": [
-    "BMY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "1fe761d0a248",
-   "headline": "JP Morgan Upgrades Biogen to Overweight, Raises Price Target to $300",
-   "summary": "JP Morgan analyst Chris Schott upgrades Biogen (NASDAQ:BIIB) from Neutral to Overweight and raises the price target from $210 to $300.",
-   "url": "https://finnhub.io/api/news?id=9f18d7df53934337e115b97a5d65f47d70dca4bebe046ca327085a633ed5600c",
-   "source": "Benzinga",
-   "published": "2026-10-12T08:08:40+00:00",
-   "tickers": [
-    "BIIB"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "ce23784f5bec",
-   "headline": "Why Is Bristol Myers Squibb Stock Gaining Monday?",
-   "summary": "Bristol Myers Squibb stock jumped over 4% after positive Phase 3 results for neuroendocrine tumors and pulmonary fibrosis treatments.",
-   "url": "https://finnhub.io/api/news?id=1a29b3f23b798ef3d3884f77620c2607b7b6a8dc231e90c08aaab75fed87c022",
-   "source": "Benzinga",
-   "published": "2026-10-12T08:02:45+00:00",
-   "tickers": [
-    "BMY"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
