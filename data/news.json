@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-22T00:47:33.739907+00:00",
+ "updated": "2026-10-22T01:02:56.536373+00:00",
  "quotes": {
   "A": {
    "price": 177.75,
@@ -45,10 +45,6 @@
   "BIIB": {
    "price": 240.98,
    "change_pct": -0.87
-  },
-  "BMRN": {
-   "price": 55.21,
-   "change_pct": -2.18
   },
   "BMY": {
    "price": 61.12,
@@ -154,10 +150,6 @@
    "price": 282.86,
    "change_pct": 5.57
   },
-  "INCY": {
-   "price": 113.44,
-   "change_pct": -2.72
-  },
   "INSM": {
    "price": 94.04,
    "change_pct": -1.7
@@ -242,6 +234,10 @@
    "price": 36.8,
    "change_pct": 5.38
   },
+  "RVMD": {
+   "price": 194.28,
+   "change_pct": -1.15
+  },
   "SDGR": {
    "price": 23.9,
    "change_pct": 2.14
@@ -249,6 +245,10 @@
   "SMMT": {
    "price": 15.83,
    "change_pct": -1.62
+  },
+  "SNY": {
+   "price": 40.97,
+   "change_pct": -1.04
   },
   "SYK": {
    "price": 297.6,
@@ -1087,6 +1087,21 @@
    ]
   },
   {
+   "id": "9938c7f17dd6",
+   "headline": "Gilead Sciences (GILD) Stock Drops Despite Market Gains: Important Facts to Note",
+   "summary": "Gilead Sciences (GILD) concluded the recent trading session at $153.57, signifying a -1.88% move from its prior day's close.",
+   "url": "https://finnhub.io/api/news?id=c598bdd96cafb7dbdafb67217b1b7dd1bdd7c924ab3ce5a1894c239a21f3a0ba",
+   "source": "Yahoo",
+   "published": "2026-10-21T21:00:02+00:00",
+   "tickers": [
+    "GILD"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "fa30e72da362",
    "headline": "Boston Scientific (BSX) Stock Declines While Market Improves: Some Information for Investors",
    "summary": "Boston Scientific (BSX) closed at $44.51 in the latest trading session, marking a -2.35% move from the prior day.",
@@ -1129,6 +1144,21 @@
    "tag": "Earnings",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "c8f61747e468",
+   "headline": "Moderna (MRNA) Rises Higher Than Market: Key Facts",
+   "summary": "The latest trading day saw Moderna (MRNA) settling at $245.81, representing a +1.54% change from its previous close.",
+   "url": "https://finnhub.io/api/news?id=c373207e6655f976d7bd7d32d83951b8754ddcdee276fabf8220881d3f418589",
+   "source": "Yahoo",
+   "published": "2026-10-21T20:50:01+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1356,6 +1386,21 @@
    "published": "2026-10-21T20:05:00+00:00",
    "tickers": [
     "VKTX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "32fac0225da5",
+   "headline": "Revolution Medicines to Report Financial Results for Third Quarter 2026 After Market Close on November 4, 2026",
+   "summary": "REDWOOD CITY, Calif., Oct. 21, 2026 (GLOBE NEWSWIRE) -- Revolution Medicines, Inc. (Nasdaq: RVMD), a global, commercial-stage oncology company dedicated to discovering, developing and delivering innovative medicines for patients with\u2026",
+   "url": "https://finnhub.io/api/news?id=011edf5be81e51d47381eb1c19afac56c5d99addd36e043c76fefe35c909fb53",
+   "source": "Yahoo",
+   "published": "2026-10-21T20:05:00+00:00",
+   "tickers": [
+    "RVMD"
    ],
    "tag": "News",
    "sectors": [
@@ -1882,7 +1927,8 @@
     "JNJ",
     "LLY",
     "MRK",
-    "MRNA"
+    "MRNA",
+    "RVMD"
    ],
    "tag": "News",
    "sectors": [
@@ -1983,7 +2029,8 @@
    "source": "Yahoo",
    "published": "2026-10-21T16:30:00+00:00",
    "tickers": [
-    "CYTK"
+    "CYTK",
+    "RVMD"
    ],
    "tag": "Analyst",
    "sectors": [
@@ -3778,6 +3825,21 @@
    ]
   },
   {
+   "id": "48ed578e8272",
+   "headline": "Sanofi & Teva\u2019s IBD drug prompts long-term clinical remission in Phase IIb trial",
+   "summary": "Analysts say that duvakitug could be differentiated from other pipeline TL1A candidates as the race to market heats up.",
+   "url": "https://finnhub.io/api/news?id=fad7a46098b2f3daab3e3354c8f462b63833a959c9ed0271fab0ed977d5fafe5",
+   "source": "Yahoo",
+   "published": "2026-10-21T12:19:20+00:00",
+   "tickers": [
+    "SNY"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "abcdba70c9e2",
    "headline": "Epic launches Connectors to link its AI tools with third-party apps",
    "summary": "Through \"Connectors,\" developers can connect their apps to Epic's AI tools\u2014Emmie, Art and Penny\u2014as well as custom AI agents organizations create through Agent Factory.",
@@ -4990,6 +5052,21 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "ee6b2920fb96",
+   "headline": "Sanofi and ScionxBio partner on mRNA therapies",
+   "summary": "ScionxBio will direct optimisation programmes through to in vivo validation.",
+   "url": "https://finnhub.io/api/news?id=bd007d2eb4c47cdba215a8584253f621e7973f42eba8b7e323551fa04d46197e",
+   "source": "Yahoo",
+   "published": "2026-10-21T09:37:03+00:00",
+   "tickers": [
+    "SNY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
