@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-22T01:17:37.104658+00:00",
+ "updated": "2026-10-22T01:32:42.665039+00:00",
  "quotes": {
   "A": {
    "price": 177.75,
@@ -29,6 +29,10 @@
   "ARWR": {
    "price": 58.84,
    "change_pct": -0.14
+  },
+  "ASND": {
+   "price": 238.9,
+   "change_pct": 1.95
   },
   "AXSM": {
    "price": 156.31,
@@ -1141,6 +1145,21 @@
    ]
   },
   {
+   "id": "8a3cc6be2fcc",
+   "headline": "Tenet Healthcare (THC) Stock Dips While Market Gains: Key Facts",
+   "summary": "In the most recent trading session, Tenet Healthcare (THC) closed at $269.13, indicating a -1.17% shift from the previous trading day.",
+   "url": "https://finnhub.io/api/news?id=38633855517d437ddeb6587f04c84512ff96a64382091b18a392713e84b4c664",
+   "source": "Yahoo",
+   "published": "2026-10-21T21:00:02+00:00",
+   "tickers": [
+    "THC"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "fa30e72da362",
    "headline": "Boston Scientific (BSX) Stock Declines While Market Improves: Some Information for Investors",
    "summary": "Boston Scientific (BSX) closed at $44.51 in the latest trading session, marking a -2.35% move from the prior day.",
@@ -1470,6 +1489,21 @@
    "published": "2026-10-21T20:05:00+00:00",
    "tickers": [
     "RVMD"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "10c9dbc8f78e",
+   "headline": "Viking Therapeutics to Report Financial Results for Third Quarter 2026 on October 28, 2026",
+   "summary": "Viking Therapeutics, Inc. (\"Viking\") (NASDAQ: VKTX), a clinical-stage biopharmaceutical company focused on the development of novel therapies for metabolic and endocrine disorders, today announced that the company will release financial\u2026",
+   "url": "https://finnhub.io/api/news?id=3359ed7e04f04a48e9e72a4c5b8ed1ee87486c45c9bbb85fe9d3a32f9115ab58",
+   "source": "Yahoo",
+   "published": "2026-10-21T20:05:00+00:00",
+   "tickers": [
+    "VKTX"
    ],
    "tag": "News",
    "sectors": [
@@ -1820,6 +1854,21 @@
    "tag": "Policy",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "cd888f9faa3e",
+   "headline": "Novartis (NVS) Grew Sales Again as Entresto Fell 50%, Can Remibrutinib Carry It?",
+   "summary": "Earlier this month, Novartis (NYSE:NVS) won a second US approval for Rhapsido, the drug also known as remibrutinib, this time for symptomatic dermographism, a form of chronic hives. In a late-stage trial, twice as many adults on the drug\u2026",
+   "url": "https://finnhub.io/api/news?id=b90e4063d4be5a9936868d00601466089291c81dd4006b2356fb80aed4d4735a",
+   "source": "Yahoo",
+   "published": "2026-10-21T17:29:50+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -2269,6 +2318,21 @@
    "sectors": []
   },
   {
+   "id": "35a7f87c9248",
+   "headline": "Highco: Q3 2026 Gross Profit",
+   "summary": "Aix-en-Provence, 21 October 2026 (6:00 p.m.) HIGHCO: BUSINESS GROWTH IN Q3 2026 IN LINE WITH EXPECTATIONS, WITH REPORTED GROSS PROFIT OF \u20ac19.16 M (UP 22.5%) AND \u20ac15.88 M LFL (UP 1.6%); 2026 GUIDANCE REFINED Rise in business activity in Q3\u2026",
+   "url": "https://finnhub.io/api/news?id=76778269a4bcce458ce5f8f283422d914b2dfa6ced0a486e7e2adb33beeb3c27",
+   "source": "Yahoo",
+   "published": "2026-10-21T16:00:00+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "e1622445a8d5",
    "headline": "Intuitive Surgical: 3 Key Takeaways for Long-Term Investors",
    "summary": "Resolving a major litigation settlement while expanding into cost-sensitive outpatient centers positions the company for sustained procedure growth.",
@@ -2478,6 +2542,21 @@
    "tickers": [],
    "tag": "FDA",
    "sectors": []
+  },
+  {
+   "id": "87ecc285561a",
+   "headline": "Novartis receives European Commission approval for Cosentyx\u00ae in polymyalgia rheumatica (PMR)",
+   "summary": "Cosentyx\u00ae (secukinumab) becomes first and only IL-17A inhibitor approved in Europe for adults with PMR,1 a common inflammatory rheumatic disease with limited advanced treatment options2-6Approval based on Phase III REPLENISH trial showing\u2026",
+   "url": "https://finnhub.io/api/news?id=21300112e19c29840ebe7c07032cf1724a3f93ba05f864bd9d697e8bb32e6d65",
+   "source": "Yahoo",
+   "published": "2026-10-21T15:00:00+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "a049b2e0b19e",
@@ -3076,7 +3155,8 @@
    "published": "2026-10-21T13:20:00+00:00",
    "tickers": [
     "LLY",
-    "NVO"
+    "NVO",
+    "VKTX"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -3238,7 +3318,8 @@
    "source": "Yahoo",
    "published": "2026-10-21T13:09:58+00:00",
    "tickers": [
-    "CNC"
+    "CNC",
+    "OSCR"
    ],
    "tag": "News",
    "sectors": [
@@ -4003,7 +4084,8 @@
    "published": "2026-10-21T12:06:00+00:00",
    "tickers": [
     "BIIB",
-    "NTLA"
+    "NTLA",
+    "VKTX"
    ],
    "tag": "Clinical",
    "sectors": [
@@ -4575,6 +4657,7 @@
    "source": "Yahoo",
    "published": "2026-10-21T11:00:00+00:00",
    "tickers": [
+    "ASND",
     "LLY",
     "NVO"
    ],
@@ -42935,29 +43018,6 @@
     "JNJ"
    ],
    "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "f007f0deff92",
-   "headline": "SLS Stock Jumps Overnight: Retail Sees Big Pharma Buyout Clues In 'M&A Negotiation Lounge' Booth At ASH",
-   "summary": "The ASH meeting runs Dec. 12-Dec. 15 in New Orleans. Sellas is listed at Booth 138, and more than 275 exhibitors are expected.",
-   "url": "https://finnhub.io/api/news?id=98c661ed0ff45874a7168ff5b1c6dc60fcb3a928f3e7f81d04a689c19ab0abc4",
-   "source": "Yahoo",
-   "published": "2026-10-12T01:22:12+00:00",
-   "tickers": [
-    "ABBV",
-    "AZN",
-    "BMY",
-    "LLY",
-    "MRK",
-    "NVS",
-    "PFE",
-    "SNY",
-    "TAK"
-   ],
-   "tag": "M&A",
    "sectors": [
     "pharma"
    ]
