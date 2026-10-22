@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-22T02:17:30.505046+00:00",
+ "updated": "2026-10-22T02:32:42.194879+00:00",
  "quotes": {
   "A": {
    "price": 177.75,
@@ -262,6 +262,10 @@
    "price": 29.85,
    "change_pct": -0.86
   },
+  "QGEN": {
+   "price": 50,
+   "change_pct": 2.25
+  },
   "REGN": {
    "price": 805.67,
    "change_pct": -0.22
@@ -313,10 +317,6 @@
   "UNH": {
    "price": 417,
    "change_pct": -0.54
-  },
-  "UTHR": {
-   "price": 563.49,
-   "change_pct": 1.74
   }
  },
  "tickers": {
@@ -942,6 +942,8 @@
    "published": "2026-10-22T01:29:48+00:00",
    "tickers": [
     "BDX",
+    "BSX",
+    "JNJ",
     "MDT"
    ],
    "tag": "News",
@@ -957,7 +959,8 @@
    "source": "Yahoo",
    "published": "2026-10-22T01:19:32+00:00",
    "tickers": [
-    "CI"
+    "CI",
+    "CVS"
    ],
    "tag": "News",
    "sectors": [
@@ -1022,6 +1025,21 @@
    ]
   },
   {
+   "id": "4c5190e513f5",
+   "headline": "QIAGEN and EQT Private Equity announce agreement on a recommended voluntary all-cash public takeover offer",
+   "summary": "With this investment, EQT XI (target fund size of EUR 23 billion and hard cap of EUR 24 billion) will be 10-15 percent invested based on its target fund size.",
+   "url": "https://finnhub.io/api/news?id=3c0c33735e4f3bcee65e5d7f718532c62ac7aad0f32231dae0a25dac8abdb118",
+   "source": "Yahoo",
+   "published": "2026-10-21T22:46:00+00:00",
+   "tickers": [
+    "QGEN"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "a152eeabdd21",
    "headline": "How To Earn $500 A Month From Abbott Stock Ahead Of Q3 Earnings",
    "summary": "Abbott Laboratories will release its third-quarter earnings report before the opening bell on Wednesday, Oct. 21. Analysts expect the company to report quarterly earnings of $1.41 per share, up from $1.30 per share in the year-ago period.\u2026",
@@ -1049,6 +1067,21 @@
    "tag": "Health AI",
    "sectors": [
     "healthit"
+   ]
+  },
+  {
+   "id": "21aec8c95c71",
+   "headline": "QIAGEN reports preliminary Q3 2026 results",
+   "summary": "VENLO, Netherlands & GERMANTOWN, Md., October 21, 2026--QIAGEN N.V. (NYSE: QGEN; Frankfurt Prime Standard: QIA) today announced preliminary third-quarter 2026 financial results. Net sales were $548 million at both reported and constant\u2026",
+   "url": "https://finnhub.io/api/news?id=4b66101f0cf6f6c528b358e4a2f82155ee633b3d84b7406be0c738d2637c0206",
+   "source": "Yahoo",
+   "published": "2026-10-21T21:44:00+00:00",
+   "tickers": [
+    "QGEN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -1112,6 +1145,21 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "9e3bc550764b",
+   "headline": "Why Integra LifeSciences (IART) stock is falling today",
+   "summary": "Shares of medical device company Integra LifeSciences (NASDAQ:IART) fell 7.3% in the afternoon session after the company reported third-quarter financial results featuring operational disruptions from plant flooding and projected a\u2026",
+   "url": "https://finnhub.io/api/news?id=3fa4508490060d2ef4f321c79df53ef76a98e62ea7aef08ffe5d92fbbd55af1e",
+   "source": "Yahoo",
+   "published": "2026-10-21T21:26:39+00:00",
+   "tickers": [
+    "IART"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -1804,6 +1852,21 @@
    ]
   },
   {
+   "id": "8e35d7cd546b",
+   "headline": "Integra: 3 Key Takeaways for Long-Term Investors",
+   "summary": "Operating cash flow hit a record even as the company navigates supply disruptions, a sign of underlying business resilience.",
+   "url": "https://finnhub.io/api/news?id=4b22e0f09e19eb0d6325e03d67c7dc4dad07c0a747664c47e34f6d61c96d230b",
+   "source": "Yahoo",
+   "published": "2026-10-21T18:11:12+00:00",
+   "tickers": [
+    "IART"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "728a0b65d048",
    "headline": "5 Strong Buy Growth Stocks With High Margins to Grab Before Earnings",
    "summary": "Five Strong Buy stocks stand out ahead of earnings, combining high operating margins, revenue growth and exposure to AI, healthcare, energy and digital payments.",
@@ -1964,6 +2027,21 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "fb272bf019cd",
+   "headline": "Integra (IART) Q3 2026 Earnings Call Transcript",
+   "summary": "Cincinnati flooding hit revenue, but neurosurgery growth and refinancing support recovery.",
+   "url": "https://finnhub.io/api/news?id=7674687aa8daf468b65793c41ed70ba2e85eee26fc848e3e30be9bb59df43603",
+   "source": "Yahoo",
+   "published": "2026-10-21T17:17:54+00:00",
+   "tickers": [
+    "IART"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -2194,6 +2272,21 @@
    ]
   },
   {
+   "id": "fbaf598f62be",
+   "headline": "Integra LifeSciences Holdings Corporation Q3 2026 Earnings Call Summary",
+   "summary": "Moby summary of Integra LifeSciences Holdings Corporation's Q3 2026 earnings call",
+   "url": "https://finnhub.io/api/news?id=b8ca1afe04d980862417da3c72aa0227e9aef816d7cd17fe5bc1ab81d237604b",
+   "source": "Yahoo",
+   "published": "2026-10-21T16:44:37+00:00",
+   "tickers": [
+    "IART"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "96978df33575",
    "headline": "St. Luke\u2019s Health System Selects hellocare.ai for Enterprise AI Assisted Virtual Care Deployment in Southern Idaho",
    "summary": "Clearwater, FL \u2014 hellocare.ai, a leading provider of AI assisted virtual care and intelligent hospital room technology, today announced that St. Luke\u2019s Health System has selected hellocare.ai for an enterprise-wide utilization of AI\u2026",
@@ -2322,6 +2415,21 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "0ac1bdd427ec",
+   "headline": "What Integra LifeSciences (IART) Said on Its Q3 Earnings Call",
+   "summary": "Integra LifeSciences (NASDAQ:IART) reported third-quarter revenue at the low end of its guidance range as a flooding-related disruption at its Cincinnati facility and slower-than-expected Tissue Reconstruction performance weighed on\u2026",
+   "url": "https://finnhub.io/api/news?id=b2a8deb417fc1ca0d020091cc9cd945caef2ea0b079c17c6d398851251efae6f",
+   "source": "Yahoo",
+   "published": "2026-10-21T16:04:39+00:00",
+   "tickers": [
+    "IART"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -2991,6 +3099,7 @@
    "published": "2026-10-21T14:00:00+00:00",
    "tickers": [
     "ACAD",
+    "AXSM",
     "JAZZ"
    ],
    "tag": "Clinical",
@@ -3931,6 +4040,21 @@
    "tag": "Earnings",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "06de499af02d",
+   "headline": "Integra (IART) Q3 Earnings: Taking a Look at Key Metrics Versus Estimates",
+   "summary": "Although the revenue and EPS for Integra (IART) give a sense of how its business performed in the quarter ended September 2026, it might be worth considering how some key metrics compare with Wall Street estimates and the year-ago numbers.",
+   "url": "https://finnhub.io/api/news?id=87f041ff69e397947ffc3da3c91859003a67be6494d0ee1c7d18fd762f8cb756",
+   "source": "Yahoo",
+   "published": "2026-10-21T12:30:04+00:00",
+   "tickers": [
+    "IART"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -5133,6 +5257,21 @@
    ]
   },
   {
+   "id": "d8e83610eb30",
+   "headline": "Integra LifeSciences (NASDAQ:IART) Posts Q3 2026 Sales In Line With Estimates But Quarterly Revenue Guidance Misses Expectations",
+   "summary": "Medical device company Integra LifeSciences (NASDAQ:IART) met Wall Street\u2019s revenue expectations in Q3 2026, with sales up 2.3% year on year to $411.2 million. On the other hand, next quarter\u2019s revenue guidance of $423 million was less\u2026",
+   "url": "https://finnhub.io/api/news?id=f73a84dae69ef5bc901c5879fe2fc10e762b2d26c6d1aa58e96f42a17a5d1fc4",
+   "source": "Yahoo",
+   "published": "2026-10-21T10:10:22+00:00",
+   "tickers": [
+    "IART"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "2ede91cc17c5",
    "headline": "Thermo Fisher Scientific (TMO) Tops Q3 Earnings and Revenue Estimates",
    "summary": "Thermo Fisher (TMO) delivered earnings and revenue surprises of +4.38% and +1.81%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
@@ -5145,6 +5284,21 @@
    "tag": "Earnings",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "e451aa06bea5",
+   "headline": "Integra LifeSciences (IART) Surpasses Q3 Earnings Estimates",
+   "summary": "Integra (IART) delivered earnings and revenue surprises of +5.36% and -0.81%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=d0aeb7d91bb8c1bf40589420dee94da2c2dc5a003ff68375b774b07973d268f8",
+   "source": "Yahoo",
+   "published": "2026-10-21T10:10:02+00:00",
+   "tickers": [
+    "IART"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -5175,6 +5329,21 @@
    "tag": "Earnings",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "b692aaa1d530",
+   "headline": "Integra: Q3 Earnings Snapshot",
+   "summary": "(AP) \u2014 Integra LifeSciences Holdings Corp. (IART) on Wednesday reported third-quarter net income of $14.",
+   "url": "https://finnhub.io/api/news?id=79059316a5ed873ba4ae024d8810467d7c0e5719ef54ef66c245b8ebd18ba328",
+   "source": "Yahoo",
+   "published": "2026-10-21T10:08:20+00:00",
+   "tickers": [
+    "IART"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -5325,6 +5494,21 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "8786b7b434d1",
+   "headline": "Integra LifeSciences Reports Third Quarter 2026 Financial Results",
+   "summary": "PRINCETON, N.J., Oct. 21, 2026 (GLOBE NEWSWIRE) -- Integra LifeSciences Holdings Corporation (Nasdaq: IART), a leading global medical technology company, today reported financial results for the third quarter ending September 30, 2026.\u2026",
+   "url": "https://finnhub.io/api/news?id=8600335219f76a4defce0c464773d7838029f0553b2b8651cbbe6d6439eadbdb",
+   "source": "Yahoo",
+   "published": "2026-10-21T10:00:00+00:00",
+   "tickers": [
+    "IART"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -43164,23 +43348,6 @@
    "tag": "News",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "bcc987a33ec7",
-   "headline": "Stocktwits Pharma Pulse: JNJ Earnings, Cancer Updates And Two FDA Target Dates \u2014 The Week\u2019s Biotech Watchlist",
-   "summary": "JNJ reports third-quarter results on Tuesday, and Koyfin analysts expect modest revenue growth and lower earnings.",
-   "url": "https://finnhub.io/api/news?id=cbf7f6a75403cd98f115fef65569d3af6e7184cb8fd8be23303f58292f27882c",
-   "source": "Yahoo",
-   "published": "2026-10-12T02:17:14+00:00",
-   "tickers": [
-    "ARWR",
-    "CYTK",
-    "JNJ"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
