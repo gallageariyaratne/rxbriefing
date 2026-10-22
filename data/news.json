@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-22T20:47:33.711031+00:00",
+ "updated": "2026-10-22T21:02:48.853399+00:00",
  "quotes": {
   "A": {
    "price": 173.89,
@@ -189,10 +189,6 @@
   "LLY": {
    "price": 1306.69,
    "change_pct": 2.83
-  },
-  "MCK": {
-   "price": 1012.34,
-   "change_pct": -0.31
   },
   "MDT": {
    "price": 96.59,
@@ -914,6 +910,17 @@
  },
  "stories": [
   {
+   "id": "f2c7d081eb0a",
+   "headline": "Uninsured rate climbs to 11.2% in 2026: Commonwealth Fund",
+   "summary": "The uninsured rate has climbed over the past two years as Medicaid work requirements\u2014which are expected to drive their own coverage losses\u2014loom at the beginning of 2027.",
+   "url": "https://www.fiercehealthcare.com/payers/uninsured-rate-climbs-112-2026-commonwealth-fund",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-22T21:00:37.763983+00:00",
+   "tickers": [],
+   "tag": "Policy",
+   "sectors": []
+  },
+  {
    "id": "79b2c0465aa3",
    "headline": "Redesign Health, ARC Global merge in $2B deal to accelerate health system innovation",
    "summary": "The three organizations\u2014Redesign Health, ARC Global and AVIA\u2014work with more than 100 health systems on five continents, and the companies and products built across their networks have reached more than 100 million patients worldwide.",
@@ -985,6 +992,22 @@
    ]
   },
   {
+   "id": "640f65c8718d",
+   "headline": "Details of Moderna's Breakthrough Cancer Vaccine Got Leaked. Its Stock is Plunging.",
+   "summary": "The stock fell up to 25% even though the data that was leaked was positive in relation to Wall Street's expectations.",
+   "url": "https://finnhub.io/api/news?id=23391686c3b47b3974db762157e719e0f3235f591dd70745cc64423e7a54aed0",
+   "source": "Yahoo",
+   "published": "2026-10-22T19:33:13+00:00",
+   "tickers": [
+    "MRK",
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "d7925fdb5c22",
    "headline": "Molina Healthcare highlights Medicaid bright spots in Q3",
    "summary": "Molina Healthcare is seeing some bright spots in the Medicaid market heading into 2027, echoing commentary from other payers through several third quarter earnings calls so far.",
@@ -1016,6 +1039,38 @@
    ]
   },
   {
+   "id": "3b1597424607",
+   "headline": "Moderna, Merck shares fall on eagerly anticipated cancer vaccine results",
+   "summary": "A combination of the shot and the immunotherapy Keytruda cut the risk of relapse or death by 42% in a landmark melanoma study that met Wall Street expectations but triggered a \u201csell-the-news reaction,\u201d one analyst wrote.",
+   "url": "https://finnhub.io/api/news?id=f4dc7eda199a290b72237300bcb145f84898ed83b121b89fdae3030985175fcd",
+   "source": "Yahoo",
+   "published": "2026-10-22T19:27:00+00:00",
+   "tickers": [
+    "MRK",
+    "MRNA"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "52dbca967418",
+   "headline": "Merck, Moderna Unveil Cancer Vaccine Data \u2014 After A Leak Stole Their Thunder",
+   "summary": "Moderna stock crashed Thursday after a third-party leaked the cancer vaccine data ahead of a hotly anticipated presentation.",
+   "url": "https://finnhub.io/api/news?id=d8c6dc87b4f16ba025a5da0f00169299df8b421bc161edb562cb18403fd42ede",
+   "source": "Yahoo",
+   "published": "2026-10-22T19:22:50+00:00",
+   "tickers": [
+    "MRK",
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "2dc10f843f29",
    "headline": "Boston Scientific (BSX) Stock May Be 44% Undervalued As Neuromodulation Growth Builds",
    "summary": "Boston Scientific has seen its share price fall sharply over the past year, even as the business pushes deeper into higher end medical devices like neuromodulation. That slide raises a simple question for you as an investor: does the\u2026",
@@ -1031,6 +1086,37 @@
    ]
   },
   {
+   "id": "a4e50e58134d",
+   "headline": "UBS portfolio manager: S&P 500 could hit 9,500 by June 2027 on AI, longevity, energy boom",
+   "summary": "A UBS portfolio manager sees three technology waves pushing stocks far beyond Wall Street's consensus, but his bullish case runs straight through two more Fed rate hikes that most investors are not pricing in.",
+   "url": "https://finnhub.io/api/news?id=10676d383b0f1ee8c764b7a1ca8e5d42cb0dc60e93732b81133aa8a5d1937c1a",
+   "source": "Yahoo",
+   "published": "2026-10-22T19:15:31+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "c5c06cfb548c",
+   "headline": "Moderna stock crashes as leaked melanoma data threatens its record August rally",
+   "summary": "Leaked results from Moderna's melanoma vaccine trial have the stock challenging its worst day ever, while the rest of healthcare rallies.",
+   "url": "https://finnhub.io/api/news?id=8cde765708a69d3d9598dbeac3a340b74cc35061bbf604e8cdcf412cbd28310c",
+   "source": "Yahoo",
+   "published": "2026-10-22T19:14:47+00:00",
+   "tickers": [
+    "MRK",
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "a97e596b2014",
    "headline": "STAT+: Detailed data confirm Moderna and Merck cancer vaccine met key endpoints in melanoma trial",
    "summary": "A Moderna and Merck personalized mRNA cancer vaccine reduced the risk of disease recurrence in patients with melanoma by 42% compared to standard treatment",
@@ -1042,6 +1128,54 @@
     "MRNA"
    ],
    "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "d8392a1a1cf6",
+   "headline": "Merck and Moderna Will Present Results From Landmark Phase 3 INTerpath-001 Trial for Intismeran Autogene Plus KEYTRUDA\u00ae (pembrolizumab) at ESMO 2026 Presidential Symposium",
+   "summary": "RAHWAY, N.J. & CAMBRIDGE, Mass., October 22, 2026--Merck (NYSE: MRK), known as MSD outside of the United States and Canada, and Moderna, Inc. (NASDAQ: MRNA) today announced detailed positive recurrence-free survival (RFS) and distant\u2026",
+   "url": "https://finnhub.io/api/news?id=f17944ab83b94bc7f38923ff5899df1cd9edb7bf4e7404bb906dbb1fdee70742",
+   "source": "Yahoo",
+   "published": "2026-10-22T18:59:00+00:00",
+   "tickers": [
+    "MRK",
+    "MRNA"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "8041bc750faa",
+   "headline": "Moderna Stock Plummets 25% After Cancer-Vaccine Data Leak",
+   "summary": "Moderna shares tumbled as reported results for its cancer vaccine with Merck circulated ahead of a planned conference presentation.",
+   "url": "https://finnhub.io/api/news?id=739b052c328647d4a60b81449d735c7a3a09da1800918f50429e5d41dcb0f8da",
+   "source": "Yahoo",
+   "published": "2026-10-22T18:52:00+00:00",
+   "tickers": [
+    "MRK",
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "240ebe7c75cc",
+   "headline": "Moderna Stock Plunges as Apparent Leak Reveals Phase 3 Melanoma Vaccine Data",
+   "summary": "Key TakeawaysModerna Inc. (NASDAQ:MRNA) sank as much as roughly 25% intraday after apparent Phase 3 results for its personalized melanoma vaccine surfaced online ahead of an embargoed medical-conference presentation.",
+   "url": "https://finnhub.io/api/news?id=58eee505c45ec41ea6a19aa70b132d975f5bafe4788214879e5064bdde7c107c",
+   "source": "Yahoo",
+   "published": "2026-10-22T18:36:07+00:00",
+   "tickers": [
+    "MRK",
+    "MRNA"
+   ],
+   "tag": "Clinical",
    "sectors": [
     "pharma"
    ]
@@ -1238,11 +1372,28 @@
    "source": "Yahoo",
    "published": "2026-10-22T17:38:00+00:00",
    "tickers": [
+    "DVA",
+    "EW",
     "GMED"
    ],
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "66f9f7bf3ae1",
+   "headline": "Roche's 9M 2026 Sales Rise on Strong Drug Demand, Pipeline Advances",
+   "summary": "Roche's sales rise 6% at constant exchange rates in the first nine months of 2026, as key drug growth offsets legacy product declines and pipeline advances.",
+   "url": "https://finnhub.io/api/news?id=d787031d6be6c16c8c78cf7101f79071b33533ca32343cacb44a671affb0f047",
+   "source": "Yahoo",
+   "published": "2026-10-22T17:35:00+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1292,6 +1443,22 @@
    ]
   },
   {
+   "id": "8dc6976becd8",
+   "headline": "Moderna, Merck Shares Fall After Possible Melanoma Data Leak",
+   "summary": "Shares of Moderna Inc. and Merck & Co. fell after reports emerged about the results of the companies\u2019 widely anticipated personalized melanoma vaccine, suggesting a possible leak of the data that\u2019s slated to be released this weekend.",
+   "url": "https://finnhub.io/api/news?id=c1c0061510f1fe115d1e117efb11b43804433284bcd128036ad37f445582d96b",
+   "source": "Yahoo",
+   "published": "2026-10-22T17:24:54+00:00",
+   "tickers": [
+    "MRK",
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "dc18e9fe94af",
    "headline": "BDX Stock Gains 25.5% in Six Months: What's Behind the Rally?",
    "summary": "BD's 25.5% rally reflects stronger execution, portfolio reshaping, product innovation and U.S. manufacturing investments despite tariffs and cost pressures.",
@@ -1300,6 +1467,7 @@
    "published": "2026-10-22T17:21:00+00:00",
    "tickers": [
     "BDX",
+    "EW",
     "GMED"
    ],
    "tag": "Policy",
@@ -2215,6 +2383,21 @@
     "DGX"
    ],
    "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "f8c2611ade69",
+   "headline": "DaVita Earnings Preview: What to Expect",
+   "summary": "DaVita is set to announce its third-quarter earnings next week, and analysts expect the company's bottom line to expand by double digits.",
+   "url": "https://finnhub.io/api/news?id=6779e9c95450a0e30c61214b9ceac4cfbd40387a272e6be21a2afc0e8c38dcf1",
+   "source": "Yahoo",
+   "published": "2026-10-22T13:27:32+00:00",
+   "tickers": [
+    "DVA"
+   ],
+   "tag": "Earnings",
    "sectors": [
     "payers"
    ]
@@ -43045,96 +43228,6 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "1f1a15c48875",
-   "headline": "CRISPR Therapeutics AG (CRSP) Dips More Than Broader Market: What You Should Know",
-   "summary": "CRISPR Therapeutics AG (CRSP) closed at $51.55 in the latest trading session, marking a -3.45% move from the prior day.",
-   "url": "https://finnhub.io/api/news?id=ee7b5f099596b656e31397851346399d9cb824c74d5ca16fd07977b986efcb89",
-   "source": "Yahoo",
-   "published": "2026-10-12T21:00:05+00:00",
-   "tickers": [
-    "CRSP"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "95af3bc202d2",
-   "headline": "Abbott (ABT) Gains As Market Dips: What You Should Know",
-   "summary": "Abbott (ABT) closed the most recent trading day at $101.82, moving +2.23% from the previous trading session.",
-   "url": "https://finnhub.io/api/news?id=4370ac08cd7adc27155f55c19d4acf5161fdd1eb5b744e4a142e40329f7ae68b",
-   "source": "Yahoo",
-   "published": "2026-10-12T21:00:03+00:00",
-   "tickers": [
-    "ABT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "9eabfe300f87",
-   "headline": "Nurix Therapeutics falls 2% following Q3 earnings as operating expenses up",
-   "summary": "Investing.com -- Nurix Therapeutics Inc (NASDAQ:NRIX) reported third quarter fiscal 2026 financial results on Monday, with revenue of $673.1 million, up significantly from $7.9 million in the same quarter last year. The company posted\u2026",
-   "url": "https://finnhub.io/api/news?id=69ec22efbcc5e9e2b538b30afbb2c7ce8f2e0e049b2ce99a2f83c31a769b5788",
-   "source": "Yahoo",
-   "published": "2026-10-12T20:59:08+00:00",
-   "tickers": [
-    "SNY"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "9aa36fdd94c6",
-   "headline": "Recursion Pharmaceuticals (RXRX) Registers a Bigger Fall Than the Market: Important Facts to Note",
-   "summary": "Recursion Pharmaceuticals (RXRX) closed the most recent trading day at $4.01, moving 8.03% from the previous trading session.",
-   "url": "https://finnhub.io/api/news?id=401b1b96175813a2cef11092a63969f267f0b7fc33f673d04408762bd8c57440",
-   "source": "Yahoo",
-   "published": "2026-10-12T20:50:04+00:00",
-   "tickers": [
-    "RXRX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "healthai"
-   ]
-  },
-  {
-   "id": "39479fec307f",
-   "headline": "Here's Why Moderna (MRNA) Fell More Than Broader Market",
-   "summary": "In the closing of the recent trading day, Moderna (MRNA) stood at $213.63, denoting a -5.05% move from the preceding trading day.",
-   "url": "https://finnhub.io/api/news?id=43df23e601f4825f694952c4d6c8d28928860c31593421aec5e57e82831752db",
-   "source": "Yahoo",
-   "published": "2026-10-12T20:50:03+00:00",
-   "tickers": [
-    "MRNA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "cc3968eeb206",
-   "headline": "3 Reasons BRKR is Risky and 1 Stock to Buy Instead",
-   "summary": "Bruker has been on fire lately. In the past six months alone, the company\u2019s stock price has rocketed 50.7%, reaching $58.84 per share. This run-up might have investors contemplating their next move.",
-   "url": "https://finnhub.io/api/news?id=9e5222af7dece194a33adf22209cca772fd491a828b8d6c627e7f1af44c36a87",
-   "source": "Yahoo",
-   "published": "2026-10-12T20:47:03+00:00",
-   "tickers": [
-    "BRKR"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "tools"
    ]
   }
  ]
