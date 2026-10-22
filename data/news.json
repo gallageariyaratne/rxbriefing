@@ -1,7 +1,19 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-22T12:32:48.745313+00:00",
+ "updated": "2026-10-22T12:47:43.952035+00:00",
  "quotes": {
+  "ABBV": {
+   "price": 284.8,
+   "change_pct": -1.48
+  },
+  "ABT": {
+   "price": 100.51,
+   "change_pct": -1.89
+  },
+  "ACAD": {
+   "price": 20.19,
+   "change_pct": -1.22
+  },
   "ALGN": {
    "price": 151.37,
    "change_pct": 0.58
@@ -113,10 +125,6 @@
   "GILD": {
    "price": 153.57,
    "change_pct": -1.88
-  },
-  "GKOS": {
-   "price": 176.85,
-   "change_pct": 1.97
   },
   "GMED": {
    "price": 78.68,
@@ -274,10 +282,6 @@
    "price": 694.02,
    "change_pct": 0.97
   },
-  "UHS": {
-   "price": 182.87,
-   "change_pct": -1.48
-  },
   "UNH": {
    "price": 417,
    "change_pct": -0.54
@@ -298,13 +302,13 @@
    "price": 524.52,
    "change_pct": 1.92
   },
-  "WAT": {
-   "price": 457.47,
-   "change_pct": 3.31
-  },
   "ZBH": {
    "price": 94.86,
    "change_pct": -1.19
+  },
+  "ZTS": {
+   "price": 79.62,
+   "change_pct": -0.52
   }
  },
  "tickers": {
@@ -933,6 +937,21 @@
    "sectors": []
   },
   {
+   "id": "be809695519e",
+   "headline": "Halozyme to Report Third Quarter 2026 Financial and Operating Results",
+   "summary": "SAN DIEGO, Oct. 22, 2026 /PRNewswire/ -- Halozyme Therapeutics, Inc. (Nasdaq: HALO) (\"Halozyme\") today announced it will release its third quarter 2026 financial and operating results on Thursday, November 5, 2026, following the close of\u2026",
+   "url": "https://www.prnewswire.com/news-releases/halozyme-to-report-third-quarter-2026-financial-and-operating-results-302916279.html",
+   "source": "PR Newswire",
+   "published": "2026-10-22T12:30:00+00:00",
+   "tickers": [
+    "HALO"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "a1578607f344",
    "headline": "Health insurance premiums jump 9%, and more Americans don\u2019t have access to coverage",
    "summary": "Working-age U.S. adults without health insurance rose in 2026. Half of all uninsured people did not seek needed care because of cost concerns, according to a new survey.",
@@ -992,6 +1011,7 @@
    "source": "Yahoo",
    "published": "2026-10-22T11:45:56+00:00",
    "tickers": [
+    "ABT",
     "BDX",
     "BSX",
     "JNJ"
@@ -1085,6 +1105,7 @@
    "published": "2026-10-22T11:08:46+00:00",
    "tickers": [
     "GMED",
+    "ISRG",
     "JNJ"
    ],
    "tag": "News",
@@ -1237,6 +1258,21 @@
    "tickers": [],
    "tag": "FDA",
    "sectors": []
+  },
+  {
+   "id": "5dc18313ca0d",
+   "headline": "Intuitive Surgical (ISRG) Stock Faces A Q3 Earnings Valuation Reality Check",
+   "summary": "Intuitive Surgical stock came into Thursday with strong recent momentum, then slipped about 2% after the market had its first clean look at Q3 2026 numbers. The initial reaction focused on the headline gap between rich expectations and\u2026",
+   "url": "https://finnhub.io/api/news?id=762c77612a0876132157b10f3a76f519103ca734b917bf560d75db8ae7917fe3",
+   "source": "Yahoo",
+   "published": "2026-10-22T10:10:37+00:00",
+   "tickers": [
+    "ISRG"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
   },
   {
    "id": "a00f8d38d995",
@@ -5126,6 +5162,21 @@
    "tag": "News",
    "sectors": [
     "healthai"
+   ]
+  },
+  {
+   "id": "31f29900492c",
+   "headline": "Intuitive Surgical, Inc. Q3 2026 Earnings Call Summary",
+   "summary": "Moby summary of Intuitive Surgical, Inc.'s Q3 2026 earnings call",
+   "url": "https://finnhub.io/api/news?id=11f7cfdcd56d71b96db1822c9dd1510be3dcda7483c3c23217d8cb58b7c36500",
+   "source": "Yahoo",
+   "published": "2026-10-21T12:30:00+00:00",
+   "tickers": [
+    "ISRG"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -42199,157 +42250,6 @@
     "PFE"
    ],
    "tag": "M&A",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "f88238bf2c55",
-   "headline": "Medtronic Announces Preliminary Results of MiniMed Group, Inc. Exchange Offer",
-   "summary": "GALWAY, Ireland, Oct. 12, 2026 /PRNewswire/ -- Medtronic plc (Medtronic; NYSE: MDT) today announced that, based on preliminary results, its previously announced offer to exchange shares of common stock of MiniMed Group, Inc. (MiniMed;\u2026",
-   "url": "https://www.prnewswire.com/news-releases/medtronic-announces-preliminary-results-of-minimed-group-inc-exchange-offer-302905650.html",
-   "source": "PR Newswire",
-   "published": "2026-10-12T12:45:00+00:00",
-   "tickers": [
-    "MDT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "1af857d7f42f",
-   "headline": "Medtronic Announces Preliminary Results of MiniMed Group, Inc. Exchange Offer",
-   "summary": "Medtronic plc (Medtronic; NYSE: MDT) today announced that, based on preliminary results, its previously announced offer to exchange shares of common stock of MiniMed Group, Inc. (MiniMed; Nasdaq: MMED) for outstanding Medtronic ordinary\u2026",
-   "url": "https://finnhub.io/api/news?id=18774bc28a90fca59cb2fc8fccf5007ca14c4031dd5ae77d32c0ff3b22ea1028",
-   "source": "Yahoo",
-   "published": "2026-10-12T12:45:00+00:00",
-   "tickers": [
-    "MDT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "d29f90a5f878",
-   "headline": "Contineum Therapeutics Shares Surge 27% After Bristol Myers Squibb Reports Positive Phase 3 Trial Results",
-   "summary": "Contineum Therapeutics (NASDAQ:CTNM) shares climbed 27% in premarket trading on Monday after Bristol Myers Squibb (NYSE:BMY) reported positive Phase 3 clinical trial results for a pulmonary fibrosis treatment targeting the same biological\u2026",
-   "url": "https://finnhub.io/api/news?id=5cf74187f5674558278ec275c85d5852d76f4d453ddd54d5631a4eabe717d9c6",
-   "source": "Yahoo",
-   "published": "2026-10-12T12:42:47+00:00",
-   "tickers": [
-    "BMY"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "bf7867f6dd48",
-   "headline": "UnitedHealth shares are doing something unusual ahead of earnings",
-   "summary": "The only thing more expensive than health insurance is perhaps the costs of insuring shares of health insurers",
-   "url": "https://finnhub.io/api/news?id=6bd3d758d522a47e2b216d99ef0015af5b7847709046c312e3bec71d673dce92",
-   "source": "CNBC",
-   "published": "2026-10-12T12:42:13+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "93246d7a209a",
-   "headline": "Bristol Myers Squibb Shares Jump 6.5% Following Positive Phase 3 Trial Results for Two Therapies",
-   "summary": "Bristol Myers Squibb (NYSE:BMY) shares rose 6. 5% on Monday after the pharmaceutical company announced positive results from two Phase 3 clinical trials evaluating treatments for neuroendocrine tumours and idiopathic pulmonary fibrosis.",
-   "url": "https://finnhub.io/api/news?id=b962cea5c14be645a6848d3e0dfafcd69d2ea7c6f100619f56e5f3d650fbe206",
-   "source": "Yahoo",
-   "published": "2026-10-12T12:40:34+00:00",
-   "tickers": [
-    "BMY"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "b0c1b5a52853",
-   "headline": "Should Value Investors Buy Zimmer Biomet (ZBH) Stock?",
-   "summary": "Here at Zacks, our focus is on the proven Zacks Rank system, which emphasizes earnings estimates and estimate revisions to find great stocks. Nevertheless, we are always paying attention to the latest value, growth, and momentum trends to\u2026",
-   "url": "https://finnhub.io/api/news?id=53897d88055e752ec8d1fdbde62b01673e26ae8082abd463731b4bc26733e42e",
-   "source": "Yahoo",
-   "published": "2026-10-12T12:40:03+00:00",
-   "tickers": [
-    "ZBH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "0b02f31ef716",
-   "headline": "Is Agilent Technologies (A) Outperforming Other Medical Stocks This Year?",
-   "summary": "Here is how Agilent Technologies (A) and Concentra Group (CON) have performed compared to their sector so far this year.",
-   "url": "https://finnhub.io/api/news?id=e5b5228a892afb854995ba185b865f6af7d31e47c95767cdc2d37e77e167926f",
-   "source": "Yahoo",
-   "published": "2026-10-12T12:40:02+00:00",
-   "tickers": [
-    "A"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "327717bc41cc",
-   "headline": "Options traders could take advantage of UnitedHealth's unusual moves ahead of earnings",
-   "summary": "Mike Khouw, strategist at YieldMaxETFs, discusses how options traders can play UnitedHealth's stock ahead of the company's earnings.",
-   "url": "https://finnhub.io/api/news?id=ccef4c5c8e03324f3fefaf6f47ea7c22036836b4576e3db4c84306379216983a",
-   "source": "CNBC",
-   "published": "2026-10-12T12:37:48+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "a4355c1e0ebd",
-   "headline": "Johnson & Johnson (JNJ) Survived the Stelara Cliff. Is 23.6 Times Earnings Too Much?",
-   "summary": "Replacing a blockbuster is the hardest job in the drug business. Johnson & Johnson (NYSE:JNJ) is in the middle of it, and the scoreboard looks oddly calm. In the second quarter of 2026, Stelara, its psoriasis and Crohn\u2019s disease drug now\u2026",
-   "url": "https://finnhub.io/api/news?id=aff5febfc500b546b673c5e39ae588b0b0b883fcb9dd6e3921c5969b0ee4d723",
-   "source": "Yahoo",
-   "published": "2026-10-12T12:36:08+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "90286de313ba",
-   "headline": "Stay updated with the S&P500 stocks that are on the move in today's pre-market session.",
-   "summary": "Get insights into the top gainers and losers in the S&P500 index of Monday's pre-market session.",
-   "url": "https://finnhub.io/api/news?id=07790595272c5552eeb9761d5fde2990c182b228c2dfe7de944815e11443ca2d",
-   "source": "ChartMill",
-   "published": "2026-10-12T12:35:01+00:00",
-   "tickers": [
-    "BIIB",
-    "BMY"
-   ],
-   "tag": "News",
    "sectors": [
     "pharma"
    ]
