@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-22T12:02:46.604506+00:00",
+ "updated": "2026-10-22T12:17:38.344902+00:00",
  "quotes": {
   "A": {
    "price": 177.75,
@@ -230,10 +230,6 @@
    "price": 245.81,
    "change_pct": 1.54
   },
-  "NTLA": {
-   "price": 11.65,
-   "change_pct": -1.6
-  },
   "NTRA": {
    "price": 413.38,
    "change_pct": 1.84
@@ -317,6 +313,10 @@
   "VEEV": {
    "price": 320.55,
    "change_pct": 0.59
+  },
+  "VKTX": {
+   "price": 26.38,
+   "change_pct": -1.24
   }
  },
  "tickers": {
@@ -934,6 +934,62 @@
  },
  "stories": [
   {
+   "id": "fe716789810b",
+   "headline": "Talkiatry takes therapy nationwide as it builds out behavioral health platform",
+   "summary": "Talkiatry is expanding virtual therapy services nationwide as part of a broader push to provide comprehensive behavioral health services across the acuity spectrum, from low to high.",
+   "url": "https://www.fiercehealthcare.com/health-tech/talkiatry-takes-therapy-nationwide-it-builds-out-behavioral-health-platform",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-22T12:15:21.548270+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "8770d438a0e3",
+   "headline": "Home State Health, McCormack Baron Salazar and Urban Strategies, Inc. Announce Preservation Square Community Partnership to Support Families with Services, Economic Opportunity",
+   "summary": "Local collaboration builds on the Centene Foundation's predevelopment loan partnership with MBS to connect housing with health. ST. LOUIS, Oct. 22, 2026 /PRNewswire/ -- Home State Health, McCormack Baron Salazar (MBS), and Urban\u2026",
+   "url": "https://www.prnewswire.com/news-releases/home-state-health-mccormack-baron-salazar-and-urban-strategies-inc-announce-preservation-square-community-partnership-to-support-families-with-services-economic-opportunity-302915347.html",
+   "source": "PR Newswire",
+   "published": "2026-10-22T12:00:00+00:00",
+   "tickers": [
+    "CNC"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "38027968487f",
+   "headline": "Can Boston Scientific Stock Jump 30%?",
+   "summary": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://finnhub.io/api/news?id=483a5ac1a6d1017d1cd471e104d161ec1269851f07ea46c502c297327a06448d",
+   "source": "Yahoo",
+   "published": "2026-10-22T11:45:56+00:00",
+   "tickers": [
+    "BDX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "4a9d25afc563",
+   "headline": "These 3 Dividend Stocks Paid Out Over 90% of Free Cash Flow, but 1 Has Raised Its Dividend 54 Years in a Row",
+   "summary": "Three popular dividend stocks are paying out well above their free cash flow, and the gap between what each one earns and what it sends to shareholders reveals very different risks hiding behind familiar, trusted names.",
+   "url": "https://finnhub.io/api/news?id=ea72c92ac42f266ee082dfa07d104cd41fa9a89e38b009bc33e6441ea29c0ba6",
+   "source": "Yahoo",
+   "published": "2026-10-22T11:30:20+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "e80e109283ff",
    "headline": "Abbott to spin-off nutrition into standalone business",
    "summary": "The US group said the decision addresses \u201cdifferent investment identities and requirements, growth profiles, and innovation cycles\u201d.",
@@ -1017,6 +1073,21 @@
    "tag": "Policy",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "fae2eb63e356",
+   "headline": "Company News for Oct 22, 2026",
+   "summary": "Companies In The News Are: COF, OZK, TMO, DHR.",
+   "url": "https://finnhub.io/api/news?id=94e0bcb8dfe9354bc98975c0c8684d258ada717f95f162c7244c1db62b74aa7f",
+   "source": "Yahoo",
+   "published": "2026-10-22T09:47:00+00:00",
+   "tickers": [
+    "DHR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -42194,326 +42265,6 @@
    "tag": "News",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "ba054f1c67e4",
-   "headline": "Treasury Bills vs Dividend Stocks: Which Income Stream Actually Fits Your Retirement",
-   "summary": "Treasury bills guarantee your rate until maturity while Johnson and Johnson has raised its dividend for 64 straight years, but depending on your tax state and timeline, one of these income streams quietly keeps far more money in your\u2026",
-   "url": "https://finnhub.io/api/news?id=1b28cb067f28d3d31b340807fba53b09f6606edf6d9a520d5da66eef5568fff7",
-   "source": "Yahoo",
-   "published": "2026-10-12T12:15:54+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "66b718309a2c",
-   "headline": "AI-Powered Brand Sites Are Changing Patient Engagement",
-   "summary": "Compliant AI helps brands answer patient questions in real time and turn conversations into actionable insights.",
-   "url": "https://www.fiercepharma.com/sponsored/ai-powered-brand-sites-are-changing-patient-engagement",
-   "source": "Fierce Pharma",
-   "published": "2026-10-12T12:15:19.349520+00:00",
-   "tickers": [],
-   "tag": "Health AI",
-   "sectors": []
-  },
-  {
-   "id": "6057242da218",
-   "headline": "Media OS is designed to tackle healthcare advertising's identity challenge",
-   "summary": "IQVIA Digital's Jerrad Rickard explains identity, transparency and AI's evolving role in healthcare advertising.",
-   "url": "https://www.fiercepharma.com/sponsored/mediaos-tackles-healthcare-advertisings-identity-challenge",
-   "source": "Fierce Pharma",
-   "published": "2026-10-12T12:15:19.349027+00:00",
-   "tickers": [
-    "IQV"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "49f80f270e59",
-   "headline": "Why Medical Affairs Is Becoming Biopharma\u2019s Third Pillar",
-   "summary": "CMI Media Group\u2019s Eugene Lee discusses medical affairs, omnichannel scientific engagement and the role of AI in compliant communications.",
-   "url": "https://www.fiercepharma.com/sponsored/why-medical-affairs-becoming-biopharmas-third-pillar",
-   "source": "Fierce Pharma",
-   "published": "2026-10-12T12:15:19.348513+00:00",
-   "tickers": [],
-   "tag": "Health AI",
-   "sectors": []
-  },
-  {
-   "id": "11a216635e4c",
-   "headline": "RevHealth\u2019s Chris Cullmann on AI and Human-Centered Pharma",
-   "summary": "AI can accelerate commercialization, but human creativity, judgment and trust will define success.",
-   "url": "https://www.fiercepharma.com/sponsored/revhealths-chris-cullmann-ai-and-human-centered-pharma",
-   "source": "Fierce Pharma",
-   "published": "2026-10-12T12:15:19.348042+00:00",
-   "tickers": [],
-   "tag": "Health AI",
-   "sectors": []
-  },
-  {
-   "id": "7fe42810a098",
-   "headline": "Why Timing Has Become HCP Marketing's Biggest Challenge",
-   "summary": "Phreesia's ProviderConnect lets teams reach the right clinicians at the right time based on cases they are likely to see in upcoming practice.",
-   "url": "https://www.fiercepharma.com/sponsored/why-timing-has-become-hcp-marketings-biggest-challenge",
-   "source": "Fierce Pharma",
-   "published": "2026-10-12T12:15:19.347536+00:00",
-   "tickers": [
-    "PHR"
-   ],
-   "tag": "News",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "e0127b331db1",
-   "headline": "How advanced AI can improve clinical trial decision-making",
-   "summary": "Life science foundation models can help teams anticipate patient outcomes and pressure-test trial designs.",
-   "url": "https://www.fiercepharma.com/sponsored/how-advanced-ai-can-improve-clinical-trial-decision-making",
-   "source": "Fierce Pharma",
-   "published": "2026-10-12T12:15:19.346638+00:00",
-   "tickers": [],
-   "tag": "Clinical",
-   "sectors": []
-  },
-  {
-   "id": "c07063be44b4",
-   "headline": "Why Patient Voice Must Shape Pharma Strategy",
-   "summary": "Data alone isn't enough. Connecting patient voice, measurement and AI can improve commercial decision-making.",
-   "url": "https://www.fiercepharma.com/sponsored/why-patient-voice-must-shape-pharma-strategy",
-   "source": "Fierce Pharma",
-   "published": "2026-10-12T12:15:19.346189+00:00",
-   "tickers": [],
-   "tag": "Health AI",
-   "sectors": []
-  },
-  {
-   "id": "e11bceef9ee2",
-   "headline": "Beyond the Pharmacy Counter: Inmar's Data Advantage",
-   "summary": "Emily Welker explains how retail and healthcare data reveal new opportunities to engage GLP-1 consumers more effectively.",
-   "url": "https://www.fiercepharma.com/sponsored/beyond-pharmacy-counter-inmars-data-advantage",
-   "source": "Fierce Pharma",
-   "published": "2026-10-12T12:15:19.345721+00:00",
-   "tickers": [],
-   "tag": "GLP-1",
-   "sectors": []
-  },
-  {
-   "id": "aabb61f5c21b",
-   "headline": "Why AI and Precision Matter in Pharma Commercialization",
-   "summary": "DeepIntent CMO Ian Colley explains why AI, data and transparency are reshaping pharma commercialization.",
-   "url": "https://www.fiercepharma.com/sponsored/why-ai-and-precision-matter-pharma-commercialization",
-   "source": "Fierce Pharma",
-   "published": "2026-10-12T12:15:19.345272+00:00",
-   "tickers": [],
-   "tag": "Health AI",
-   "sectors": []
-  },
-  {
-   "id": "728c7946df94",
-   "headline": "AI, Data and the New Rules of HCP Marketing",
-   "summary": "Doceree's Kamya Elawadhi explores AI, measurement, data recency and why point of care is becoming central to pharma marketing.",
-   "url": "https://www.fiercepharma.com/sponsored/ai-data-and-new-rules-hcp-marketing",
-   "source": "Fierce Pharma",
-   "published": "2026-10-12T12:15:19.344800+00:00",
-   "tickers": [],
-   "tag": "Health AI",
-   "sectors": []
-  },
-  {
-   "id": "f5ee5ef21cbc",
-   "headline": "Why MRC Accreditation Is Just the First Step",
-   "summary": "CheckedUp's COO explains how MRC accreditation strengthens trust, scalability and accountability in healthcare media.",
-   "url": "https://www.fiercepharma.com/sponsored/why-mrc-accreditation-just-first-step",
-   "source": "Fierce Pharma",
-   "published": "2026-10-12T12:15:19.344349+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "5f03e14819dd",
-   "headline": "Executive Interviews at Fierce Pharma Week 2026",
-   "summary": "Join Fierce Pharma as we sit down with industry innovators to explore the most impactful strategies, cutting-edge insights, and collaborative approaches shaping the future of pharma engagement.",
-   "url": "https://www.fiercepharma.com/sponsored/fierce-pharma-week-2026-executive-interviews",
-   "source": "Fierce Pharma",
-   "published": "2026-10-12T12:15:19.343784+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "474f04b1a0fc",
-   "headline": "Why AI\u2019s Biggest Value in Pharma Is Confidence",
-   "summary": "/prompt CEO Paul Dyer explains why AI drives confidence, not just efficiency, and what that means for pharma marketing.",
-   "url": "https://www.fiercepharma.com/sponsored/why-ais-biggest-value-pharma-confidence",
-   "source": "Fierce Pharma",
-   "published": "2026-10-12T12:15:19.343297+00:00",
-   "tickers": [],
-   "tag": "Health AI",
-   "sectors": []
-  },
-  {
-   "id": "64e2ba3ce0cc",
-   "headline": "Fullspan Health on Winning the AI Search Revolution",
-   "summary": "Learn how Fullspan Health is helping brands improve AI visibility, build trust and engage patients across the healthcare journey.",
-   "url": "https://www.fiercepharma.com/sponsored/fullspan-health-winning-ai-search-revolution",
-   "source": "Fierce Pharma",
-   "published": "2026-10-12T12:15:19.342819+00:00",
-   "tickers": [],
-   "tag": "Health AI",
-   "sectors": []
-  },
-  {
-   "id": "f4054dc0fa1f",
-   "headline": "Why Medical Teams Must Lead DOL Strategy",
-   "summary": "Medical, marketing and commercial teams must unite to make digital opinion leader engagement effective in the AI era.",
-   "url": "https://www.fiercepharma.com/sponsored/why-medical-teams-must-lead-dol-strategy",
-   "source": "Fierce Pharma",
-   "published": "2026-10-12T12:15:19.342371+00:00",
-   "tickers": [],
-   "tag": "Health AI",
-   "sectors": []
-  },
-  {
-   "id": "306ccca7b6a2",
-   "headline": "Beyond Data: Understanding the \u201cWhy\u201d Behind HCP Decisions",
-   "summary": "AI delivers information. Peer validation delivers confidence. Learn how HCP conversations reveal the \u201cwhy\u201d behind clinical decisions.",
-   "url": "https://www.fiercepharma.com/sponsored/beyond-data-understanding-why-behind-hcp-decisions",
-   "source": "Fierce Pharma",
-   "published": "2026-10-12T12:15:19.341853+00:00",
-   "tickers": [],
-   "tag": "Health AI",
-   "sectors": []
-  },
-  {
-   "id": "2654fa33db76",
-   "headline": "How Predictive Modeling Uncovers Blind Spots in the Patient Journey",
-   "summary": "Predictive modeling helps pharma marketers reach patients before diagnosis and measure impact beyond traditional audience metrics.",
-   "url": "https://www.fiercepharma.com/sponsored/how-predictive-modeling-uncovers-blind-spots-patient-journey",
-   "source": "Fierce Pharma",
-   "published": "2026-10-12T12:15:19.341354+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "1350f2e61b29",
-   "headline": "How Ohio Is Building a Biopharma Growth Engine",
-   "summary": "Discover how Ohio is investing in talent, manufacturing and research to attract the next wave of biopharma growth.",
-   "url": "https://www.fiercepharma.com/sponsored/how-ohio-building-biopharma-growth-engine",
-   "source": "Fierce Pharma",
-   "published": "2026-10-12T12:15:19.340883+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "69f18af30353",
-   "headline": "Data Precision Is Healthcare Marketing\u2019s Growth Engine",
-   "summary": "Butler/Till\u2019s Michael Deichmiller explains why precision, not scale, will define healthcare marketing success.",
-   "url": "https://www.fiercepharma.com/sponsored/data-precision-healthcare-marketings-growth-engine",
-   "source": "Fierce Pharma",
-   "published": "2026-10-12T12:15:19.340314+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "14f48c3126ff",
-   "headline": "iRegene Therapeutics\u2019s NouvSight001 Cleared for Clinical Trials in the U.S. and China for Retinitis Pigmentosa",
-   "summary": "Following its Parkinson\u2019s disease program, iRegene advances another off-the-shelf cell therapy into clinical development in the U.S. and China.",
-   "url": "https://www.fiercebiotech.com/sponsored/iregene-therapeuticss-nouvsight001-cleared-clinical-trials-us-and-china-retinitis",
-   "source": "Fierce Biotech",
-   "published": "2026-10-12T12:15:19.119421+00:00",
-   "tickers": [],
-   "tag": "Clinical",
-   "sectors": []
-  },
-  {
-   "id": "4d58fa169aa4",
-   "headline": "Here Are Monday\u2019s Top Wall Street Analyst Research Calls: Adobe, Biogen, First Solar, GoDaddy, Hubspot, Palantir Technologies, Robinhood Markets, Snowflake, TeraWulf, T-Mobile US and More",
-   "summary": "Big banks kick off third-quarter earnings season tomorrow, and Wall Street analysts are already reshuffling their bets with a wave of surprise upgrades, downgrades, and fresh initiations across some of the market's most closely watched\u2026",
-   "url": "https://finnhub.io/api/news?id=07f905e4227277833637cc9692fb32fd055a9623d4c589916ec427d9029892db",
-   "source": "Yahoo",
-   "published": "2026-10-12T12:14:48+00:00",
-   "tickers": [
-    "BIIB"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "58baafb62430",
-   "headline": "Regeneron Pharmaceuticals Announces Data From Its Phase 3 OPTIMA Study Of Pasatru To Treat Fibrodysplasia Ossificans Progressiva Shows Efficacy In Stopping New Bone Growth; Trial Meets Primary Endpoint By Reducing 90% New Heterotopic Ossification Lesions",
-   "summary": "Regeneron Pharmaceuticals, Inc. (NASDAQ: REGN) today announced positive 84-week results from the Phase 3 OPTIMA trial evaluating Pasatru\u2122 (garetosmab-grts) in adults with fibrodysplasia ossificans progressiva (FOP).",
-   "url": "https://finnhub.io/api/news?id=d12ac31a0b3f52bee3d9d7dff72f0ac812603f16c0b279045890a86966ee336a",
-   "source": "Benzinga",
-   "published": "2026-10-12T12:10:41+00:00",
-   "tickers": [
-    "REGN"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "a41aff4ac59f",
-   "headline": "Bausch + Lomb swaps CEOs; Merck reveals anticipated eye drug data",
-   "summary": "Bausch and Brent Saunders \u201cmutually agreed\u201d on his exit from the company, according to a statement. Elsewhere, Tezspire could have a new edge on Dupixent and a recent buyout deal paid dividends.",
-   "url": "https://www.biopharmadive.com/news/bausch-lomb-saunders-remigromig-tezpire-eoe-hovilpri/832495/",
-   "source": "BioPharma Dive",
-   "published": "2026-10-12T12:09:00+00:00",
-   "tickers": [
-    "MRK"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "b1b9c9a38e5c",
-   "headline": "Bausch + Lomb swaps CEOs; Merck reveals anticipated eye drug data",
-   "summary": "Bausch and Brent Saunders \u201cmutually agreed\u201d on his exit from the company, according to a statement. Elsewhere, Tezspire could have a new edge on Dupixent and a recent buyout deal paid dividends.",
-   "url": "https://finnhub.io/api/news?id=4ee58cafef99d236ad14db8eda9642068fbbd06b5a1ed8694ad2ed1c57121250",
-   "source": "Yahoo",
-   "published": "2026-10-12T12:09:00+00:00",
-   "tickers": [
-    "AMGN",
-    "AZN",
-    "MRK"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "046f7b1e636a",
-   "headline": "1 Value Stock Worth Your Attention and 2 We Avoid",
-   "summary": "Value investing has produced some of the world\u2019s most famous investing billionaires, including Warren Buffett, David Einhorn, and Seth Klarman, who built their fortunes by purchasing wonderful businesses at reasonable prices. But these\u2026",
-   "url": "https://finnhub.io/api/news?id=9159625e8590dd9d75c14c905d23764bdde9b8ed42ba4e5f84bc37ee2a3f63f5",
-   "source": "Yahoo",
-   "published": "2026-10-12T12:07:03+00:00",
-   "tickers": [
-    "HCA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
    ]
   }
  ]
