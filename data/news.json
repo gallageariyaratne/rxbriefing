@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-22T12:47:43.952035+00:00",
+ "updated": "2026-10-22T13:03:06.927775+00:00",
  "quotes": {
   "ABBV": {
    "price": 284.8,
@@ -13,10 +13,6 @@
   "ACAD": {
    "price": 20.19,
    "change_pct": -1.22
-  },
-  "ALGN": {
-   "price": 151.37,
-   "change_pct": 0.58
   },
   "ALHC": {
    "price": 8.44,
@@ -41,10 +37,6 @@
   "BDX": {
    "price": 194.34,
    "change_pct": 0.28
-  },
-  "BIIB": {
-   "price": 240.98,
-   "change_pct": -0.87
   },
   "BMY": {
    "price": 61.12,
@@ -269,10 +261,6 @@
   "TEM": {
    "price": 67.76,
    "change_pct": 1.51
-  },
-  "TGTX": {
-   "price": 53.2,
-   "change_pct": -2.44
   },
   "THC": {
    "price": 269.13,
@@ -1014,7 +1002,8 @@
     "ABT",
     "BDX",
     "BSX",
-    "JNJ"
+    "JNJ",
+    "SYK"
    ],
    "tag": "News",
    "sectors": [
@@ -1089,7 +1078,8 @@
    "source": "Yahoo",
    "published": "2026-10-22T11:13:02+00:00",
    "tickers": [
-    "BMY"
+    "BMY",
+    "LLY"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -1106,7 +1096,9 @@
    "tickers": [
     "GMED",
     "ISRG",
-    "JNJ"
+    "JNJ",
+    "SYK",
+    "ZBH"
    ],
    "tag": "News",
    "sectors": [
@@ -1204,6 +1196,21 @@
    ]
   },
   {
+   "id": "0758542d2fa6",
+   "headline": "Elanco Animal Health Appoints Jamie Preston as Chief People Officer",
+   "summary": "Elanco Animal Health Incorporated (NYSE: ELAN) today announced the appointment of Jamie Preston as Executive Vice President and Chief People Officer, effective November 3rd. Preston's appointment follows an extensive and competitive\u2026",
+   "url": "https://finnhub.io/api/news?id=10523da769e6571dafdbc025759a15b3b4b66cb263bb7e5cf839e68282b7148d",
+   "source": "Yahoo",
+   "published": "2026-10-22T10:53:00+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "68c3739231f4",
    "headline": "Quest Diagnostics Reports Third Quarter 2026 Financial Results; Raises Revenue and EPS Guidance for Full Year 2026",
    "summary": "Third quarter revenues of $3.10 billion, up 10.0% from 2025, on strong organic revenue growth Third quarter reported diluted earnings per share (\"EPS\") of $2.78, up 28.7% from 2025; and adjusted diluted EPS of $3.00, up 15.4% from 2025\u2026",
@@ -1249,6 +1256,21 @@
    ]
   },
   {
+   "id": "1565372ae017",
+   "headline": "BioNTech Advances Phase 3 Clinical Trial of Pumitamig in Combination with Gilead\u2019s TROP2-Directed ADC Sacituzumab Govitecan in Triple-Negative Breast Cancer",
+   "summary": "BioNTech enters a clinical trial collaboration with Gilead Sciences with the aim of improving outcomes in patients with PD-L1 low or negative triple-negative breast cancerThe global Phase 3 ROSETTA Breast-01 trial will evolve to evaluate\u2026",
+   "url": "https://finnhub.io/api/news?id=1d3176daf8d1a9c5b78d817212335db71792aaafa014ed244d9500a8807ad4d2",
+   "source": "Yahoo",
+   "published": "2026-10-22T10:45:00+00:00",
+   "tickers": [
+    "GILD"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "380e667fbbde",
    "headline": "Rebranded NodThera plans IPO to fund NLRP3 inhibitor\u2019s push toward approval",
    "summary": "NodThera\u2014under its new name Rezera\u2014is planning an IPO as the biotech steps up its ambitions to get its NLRP3 inhibitor to market.",
@@ -1258,6 +1280,21 @@
    "tickers": [],
    "tag": "FDA",
    "sectors": []
+  },
+  {
+   "id": "071d9e7eea76",
+   "headline": "Moderna (MRNA) Starts Late Stage Trial For mRNA Bird Flu Vaccine",
+   "summary": "Moderna (NasdaqGS:MRNA) has advanced its mRNA-based bird flu vaccine into a late-stage clinical trial, the first of its kind in pandemic influenza. The study focuses on an mRNA shot targeting highly pathogenic avian influenza, aiming to\u2026",
+   "url": "https://finnhub.io/api/news?id=e15365b58a8ec28c9fa97e540b7c8d3b25d2dd5ebcbc877ae365f22cc7456baa",
+   "source": "Yahoo",
+   "published": "2026-10-22T10:14:19+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "5dc18313ca0d",
@@ -1297,7 +1334,8 @@
    "source": "Yahoo",
    "published": "2026-10-22T09:47:00+00:00",
    "tickers": [
-    "DHR"
+    "DHR",
+    "TMO"
    ],
    "tag": "News",
    "sectors": [
@@ -42132,126 +42170,6 @@
    "tag": "Analyst",
    "sectors": [
     "healthai"
-   ]
-  },
-  {
-   "id": "48a62a3e9ba2",
-   "headline": "AstraZeneca PLC (AZN) Presents at American Society for Bone and Mineral Research (ASBMR) 2026 Annual Meeting - Slideshow",
-   "summary": "2026-10-12. The following slide deck was published by AstraZeneca PLC in conjunction with this event.",
-   "url": "https://finnhub.io/api/news?id=c812ebe7cc5857f498981a287a5d2abd3bfbc96dc94c930d4ad86c66f8387562",
-   "source": "SeekingAlpha",
-   "published": "2026-10-12T13:01:05+00:00",
-   "tickers": [
-    "AZN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "f223fd25187b",
-   "headline": "UCB\u2019s Bimzelx takes top drug ad spending spot as streaming data come to the fore",
-   "summary": "UCB\u2019s immunology drug Bimzelx has once again become the highest ranked drug in iSpot.TV\u2019s pharma ad spending league, topping the charts for September.",
-   "url": "https://www.fiercepharma.com/marketing/ucbs-bimzelx-take-drug-ad-spending-top-spot-streaming-data-comes-fore",
-   "source": "Fierce Pharma",
-   "published": "2026-10-12T13:00:30.025590+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "089378295a68",
-   "headline": "Phoenix Children's Names Wanda Shoer Senior Vice President, Chief People Officer",
-   "summary": "Former Sanofi and Johnson & Johnson executive brings more than 25 years of global experience to the growing pediatric health system PHOENIX, Oct. 12, 2026 /PRNewswire/ -- Phoenix Children's has appointed Wanda Shoer, MBA, as Senior Vice\u2026",
-   "url": "https://www.prnewswire.com/news-releases/phoenix-childrens-names-wanda-shoer-senior-vice-president-chief-people-officer-302902994.html",
-   "source": "PR Newswire",
-   "published": "2026-10-12T13:00:00+00:00",
-   "tickers": [
-    "JNJ",
-    "SNY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "eb00d3a694e1",
-   "headline": "Greater San Diego Science and Engineering Fair Students Win 8 Awards at the 76th Regeneron International Science and Engineering Fair",
-   "summary": "SAN DIEGO, Oct. 12, 2026 /PRNewswire/ -- The 76th Regeneron International Science and Engineering Fair (ISEF), the world's largest precollege science and engineering competition, concluded on May 15 with the Grand Awards ceremony in host\u2026",
-   "url": "https://www.prnewswire.com/news-releases/greater-san-diego-science-and-engineering-fair-students-win-8-awards-at-the-76th-regeneron-international-science-and-engineering-fair-302905409.html",
-   "source": "PR Newswire",
-   "published": "2026-10-12T13:00:00+00:00",
-   "tickers": [
-    "REGN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "10b98fb61d64",
-   "headline": "MinuteClinic Is Helping Connect More Americans To Care",
-   "summary": "WOONSOCKET, RI / ACCESS Newswire / October 12, 2026 / Originally published on Company NewsroomKey points * Long waits, rising out-of-pocket costs and primary care shortages can make it difficult for people to get the care they need. *\u2026",
-   "url": "https://finnhub.io/api/news?id=e13f0761ecd3b45838b42ffae10918fb28c6563ec56ea6ae06358d3151dbaa23",
-   "source": "Yahoo",
-   "published": "2026-10-12T13:00:00+00:00",
-   "tickers": [
-    "CVS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "cc478e0c6e2a",
-   "headline": "Why Is Contineum Therapeutics Stock Falling Monday?",
-   "summary": "BMS trial results trigger a 29% drop in Contineum (CTNM), but analysts highlight long-term potential for PIPE-791 in IPF.",
-   "url": "https://finnhub.io/api/news?id=293321bcb15f65e23f43b15ce81a3084b29292761ddd742ced7bb84a1a1f11fe",
-   "source": "Benzinga",
-   "published": "2026-10-12T12:59:42+00:00",
-   "tickers": [
-    "BMY"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "02adee5fa8ba",
-   "headline": "Update: US Equity Futures Mostly Flat Pre-Bell Ahead of Week of Earnings, Economic Data",
-   "summary": "(Updates with economic data, recent oil price movement, world markets' overview and corporate stock",
-   "url": "https://finnhub.io/api/news?id=ff4531aaa4b116b1965b2521a16585e36eb4fee64b87909dc3dccf7207f5fb04",
-   "source": "Yahoo",
-   "published": "2026-10-12T12:54:24+00:00",
-   "tickers": [
-    "JNJ",
-    "UNH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "ccd4ee68ebc8",
-   "headline": "Pfizer Moves Past 50-Day SMA: Time to Buy, Hold or Exit the Stock?",
-   "summary": "PFE moves above its 50-day SMA as newer drugs, oncology and obesity treatments fuel growth prospects, but declining COVID sales and patent expirations pose challenges.",
-   "url": "https://finnhub.io/api/news?id=ea45af680e879736f052cc3e056d4f3d54a04e72978df2b6c3a14f74a948875f",
-   "source": "Yahoo",
-   "published": "2026-10-12T12:53:00+00:00",
-   "tickers": [
-    "LLY",
-    "NVO",
-    "PFE"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
