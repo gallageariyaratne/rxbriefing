@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-22T21:17:37.881349+00:00",
+ "updated": "2026-10-22T21:32:37.853022+00:00",
  "quotes": {
   "A": {
    "price": 173.89,
@@ -229,10 +229,6 @@
   "QGEN": {
    "price": 50.22,
    "change_pct": 0.44
-  },
-  "REGN": {
-   "price": 819.09,
-   "change_pct": 1.67
   },
   "RMD": {
    "price": 253.06,
@@ -1185,6 +1181,21 @@
    ]
   },
   {
+   "id": "d2cc9ca7650a",
+   "headline": "Dow Jones Top Movers Today: PG and JNJ Lead Gainers, CAT and AMZN Lead Losers",
+   "summary": "Dow Jones session movers: PG rose 6.01% and JNJ 4.3% to lead 10 gainers, while CAT fell 5.39%, AMZN 4.98% and NVDA 4.37% to lead 8 losers.",
+   "url": "https://finnhub.io/api/news?id=6ba6eb21e59fd6c1286d6cd915cb82479246b421181b0793bf608366b363e3b8",
+   "source": "ChartMill",
+   "published": "2026-10-22T19:11:14+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "a97e596b2014",
    "headline": "STAT+: Detailed data confirm Moderna and Merck cancer vaccine met key endpoints in melanoma trial",
    "summary": "A Moderna and Merck personalized mRNA cancer vaccine reduced the risk of disease recurrence in patients with melanoma by 42% compared to standard treatment",
@@ -1638,6 +1649,21 @@
     "ABBV"
    ],
    "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "02179eaea4e9",
+   "headline": "Dow Jones Top Movers: Gainers and Losers on October 22, 2026",
+   "summary": "Dow Jones top movers for October 22, 2026: Johnson & Johnson, Salesforce, Home Depot and P&G led gains, while Caterpillar, Nvidia and Amazon led declines.",
+   "url": "https://finnhub.io/api/news?id=dd0e716c087c296a435bd07e6976db52212f11256849c06f4d99a4595e759e09",
+   "source": "ChartMill",
+   "published": "2026-10-22T16:41:16+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "News",
    "sectors": [
     "pharma"
    ]
@@ -43226,28 +43252,6 @@
    "sectors": [
     "medtech"
    ]
-  },
-  {
-   "id": "ae335bd7c36b",
-   "headline": "First Tracks climbs on \u2018impressive\u2019 celiac study data",
-   "summary": "Initial study findings strengthened some analysts\u2019 belief that First Tracks\u2019 drug, one of a few in development aimed at the protein CD122, might have \u201cpipeline-in-a-product\u201d potential.",
-   "url": "https://www.biopharmadive.com/news/first-tracks-celiac-study-results-cd122/832726/",
-   "source": "BioPharma Dive",
-   "published": "2026-10-12T21:26:00+00:00",
-   "tickers": [],
-   "tag": "Analyst",
-   "sectors": []
-  },
-  {
-   "id": "5180f226b432",
-   "headline": "First Tracks climbs on \u2018impressive\u2019 celiac study data",
-   "summary": "Initial study findings strengthened some analysts\u2019 belief that First Tracks\u2019 drug, one of a few in development aimed at the protein CD122, might have \u201cpipeline-in-a-product\u201d potential.",
-   "url": "https://www.biopharmadive.com/news/first-tracks-biotherapeutics-scores-on-celiac-disease-study/832726/",
-   "source": "BioPharma Dive",
-   "published": "2026-10-12T21:26:00+00:00",
-   "tickers": [],
-   "tag": "Analyst",
-   "sectors": []
   }
  ]
 }
