@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-23T00:47:40.431478+00:00",
+ "updated": "2026-10-23T01:02:49.418350+00:00",
  "quotes": {
   "A": {
    "price": 173.89,
@@ -926,6 +926,21 @@
  },
  "stories": [
   {
+   "id": "abc02c7cd2fc",
+   "headline": "Moderna stock\u2019s 17% slump was a \u2018sell the news\u2019 event, analyst says",
+   "summary": "Moderna shares tumbled after leaked cancer vaccine trial data showed promising results for its treatment developed with Merck.",
+   "url": "https://finnhub.io/api/news?id=0d7ffdcf4427521e05413591a8631472cb0162192a6e2e7685c51bc24ce4d641",
+   "source": "Yahoo",
+   "published": "2026-10-23T00:18:35+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "37822ab35ee2",
    "headline": "STAT+: Gilead to pay $45 million to settle kickback charges filed by Texas attorney general",
    "summary": "Gilead Sciences agreed to pay $45 million to settle allegations of paying kickbacks that improperly influenced prescriptions paid for by the Texas Medicaid program",
@@ -950,11 +965,27 @@
    "tickers": [
     "AMGN",
     "CAH",
-    "COR"
+    "COR",
+    "LLY"
    ],
    "tag": "GLP-1",
    "sectors": [
     "pharmacy"
+   ]
+  },
+  {
+   "id": "aaf9211a3755",
+   "headline": "Merck (MRK) Wins EU Approval For KEYTRUDA Plus Padcev In Bladder Cancer",
+   "summary": "Merck (NYSE:MRK) received European Commission approval for KEYTRUDA plus Padcev as a perioperative therapy for resectable muscle-invasive bladder cancer in the EU. The decision covers patients regardless of cisplatin eligibility, widening\u2026",
+   "url": "https://finnhub.io/api/news?id=734d6ca537437ca5c47b739ad48e9c49cff90d1623c62abc6428a3f8aa0aa03e",
+   "source": "Yahoo",
+   "published": "2026-10-22T22:10:54+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1170,6 +1201,22 @@
     "BIIB"
    ],
    "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "f1e658286dd4",
+   "headline": "Moderna Stock Sinks Nearly 20% After Leak of Cancer-Vaccine Data",
+   "summary": "Moderna shares are taking a hit after the leak of highly anticipated details about the company\u2019s vaccine for the skin cancer melanoma.",
+   "url": "https://finnhub.io/api/news?id=cbbc4fe71d7bc1211341125ce96f01ab5f2c67857a1ad98b015940eb3f471a5a",
+   "source": "Yahoo",
+   "published": "2026-10-22T20:50:54+00:00",
+   "tickers": [
+    "MRK",
+    "MRNA"
+   ],
+   "tag": "News",
    "sectors": [
     "pharma"
    ]
