@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-23T20:32:32.943089+00:00",
+ "updated": "2026-10-23T20:47:29.757011+00:00",
  "quotes": {
   "A": {
    "price": 173.07,
@@ -85,6 +85,10 @@
   "ELV": {
    "price": 439.95,
    "change_pct": -1.2
+  },
+  "ENSG": {
+   "price": 175.59,
+   "change_pct": -1.55
   },
   "EVH": {
    "price": 4.8,
@@ -261,10 +265,6 @@
   "TMO": {
    "price": 673.82,
    "change_pct": -0.4
-  },
-  "TWST": {
-   "price": 139.92,
-   "change_pct": 3.28
   },
   "UNH": {
    "price": 418.09,
@@ -917,6 +917,21 @@
    "sectors": []
   },
   {
+   "id": "9628804f9118",
+   "headline": "The Ensign Group Schedules Third Quarter 2026 Earnings Call for Wednesday, October 28, 2026",
+   "summary": "SAN JUAN CAPISTRANO, Calif., Oct. 23, 2026 (GLOBE NEWSWIRE) -- The Ensign Group, Inc. (Nasdaq: ENSG), the parent company of the Ensign\u2122 group of companies, which invest in and provide skilled nursing and senior living services, physical,\u2026",
+   "url": "https://finnhub.io/api/news?id=69fabe8b07911603c4aa9657a591309b213be17327fb70c36292945f66527691",
+   "source": "Yahoo",
+   "published": "2026-10-23T20:01:00+00:00",
+   "tickers": [
+    "ENSG"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "562a4ee81562",
    "headline": "Technology That Personalizes Healthcare Hospitality",
    "summary": "See how robotics, culinary expertise and human-centered design are expanding personalized nutrition in healthcare.",
@@ -966,6 +981,8 @@
    "source": "Yahoo",
    "published": "2026-10-23T19:44:39+00:00",
    "tickers": [
+    "CRL",
+    "ENSG",
     "UTHR"
    ],
    "tag": "News",
@@ -1068,7 +1085,8 @@
    "source": "Yahoo",
    "published": "2026-10-23T19:15:59+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "AMGN"
    ],
    "tag": "Legal",
    "sectors": [
@@ -1144,6 +1162,21 @@
    "tickers": [],
    "tag": "Health AI",
    "sectors": []
+  },
+  {
+   "id": "0267964c8b65",
+   "headline": "UnitedHealth Soars 11% in a Week After a Beat-and-Raise Quarter: \u201cDiscipline and Execution\u201d",
+   "summary": "Key TakeawaysUnitedHealth stock is up 11% in the past week (through Tuesday\u2019s close), after a third-quarter beat and a raised 2026 outlook for adjusted EPS of at least $20. 50.",
+   "url": "https://finnhub.io/api/news?id=71fcce5a578d4cfc37f3f7ebd082656aa130478a51cb39a9c542cfcc890173bc",
+   "source": "Yahoo",
+   "published": "2026-10-23T17:53:21+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
   },
   {
    "id": "0312fa4f6fbd",
@@ -42383,77 +42416,6 @@
    "sectors": [
     "biotech"
    ]
-  },
-  {
-   "id": "28c6efda7836",
-   "headline": "Here's Why Eli Lilly (LLY) Fell More Than Broader Market",
-   "summary": "Eli Lilly (LLY) reached $1 at the closing of the latest trading day, reflecting a -1.04% change compared to its last close.",
-   "url": "https://finnhub.io/api/news?id=7c92c7b639a881a5e97148fd05b6feba1ce74b6704081315148fbe9ba7e0ff1b",
-   "source": "Yahoo",
-   "published": "2026-10-13T20:45:04+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "e2eb90ebaa74",
-   "headline": "Why Novo Nordisk (NVO) Dipped More Than Broader Market Today",
-   "summary": "In the latest trading session, Novo Nordisk (NVO) closed at $38.06, marking a -1.35% move from the previous day.",
-   "url": "https://finnhub.io/api/news?id=9cb5b206aa08fffb0dcd833fb66c10b3e28e381742f424508e095681488c4388",
-   "source": "Yahoo",
-   "published": "2026-10-13T20:45:04+00:00",
-   "tickers": [
-    "NVO"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "0312e5dcd826",
-   "headline": "3 Dividend Growth Stocks That Have Doubled Their Payouts in 5 Years",
-   "summary": "These stocks have rewarded their shareholders with significant dividend increases in recent years and are likely to continue doing so in the future.",
-   "url": "https://finnhub.io/api/news?id=94aaf4a5aa46132e2455565c0f97ecfdeace0e3cb5e4b6b3491ceaed790d0721",
-   "source": "Yahoo",
-   "published": "2026-10-13T20:40:02+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "ddec9ed63bb4",
-   "headline": "Veeva Systems (VEEV) Stock Trades Up, Here Is Why",
-   "summary": "Shares of life sciences cloud software provider Veeva Systems (NYSE:VEEV) jumped 2.8% in the afternoon session after the company expanded its partnership with IQVIA, which selected Veeva clinical operations software as enterprise standard\u2026",
-   "url": "https://finnhub.io/api/news?id=66c3c7d0d8750084c13eed48bc6e950c7ab522c78fb815103483f072ec7925f3",
-   "source": "Yahoo",
-   "published": "2026-10-13T20:39:07+00:00",
-   "tickers": [
-    "VEEV"
-   ],
-   "tag": "News",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "99c1bd2fa9bc",
-   "headline": "Another Paragon spinout goes public through reverse merger",
-   "summary": "One lawyer involved in the deal noted how it's yet another example of Paragon and key investor Fairmount \u2014 which have helped transform the once-unsavory reputation for reverse mergers \u2014 quickly executing on a complicated transaction.",
-   "url": "https://www.biopharmadive.com/news/velaris-alaunos-paragon-reverse-merger-acquisition-fairmount/832869/",
-   "source": "BioPharma Dive",
-   "published": "2026-10-13T20:35:00+00:00",
-   "tickers": [],
-   "tag": "M&A",
-   "sectors": []
   }
  ]
 }
