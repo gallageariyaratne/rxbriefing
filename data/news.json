@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-23T01:17:40.968747+00:00",
+ "updated": "2026-10-23T01:32:41.826940+00:00",
  "quotes": {
   "A": {
    "price": 173.89,
@@ -65,10 +65,6 @@
   "CAH": {
    "price": 255.64,
    "change_pct": -0.71
-  },
-  "CI": {
-   "price": 315.88,
-   "change_pct": 3.78
   },
   "CNC": {
    "price": 71.24,
@@ -234,6 +230,10 @@
    "price": 156.27,
    "change_pct": 1.52
   },
+  "OSCR": {
+   "price": 33.32,
+   "change_pct": -0.39
+  },
   "PFE": {
    "price": 30.42,
    "change_pct": 1.91
@@ -273,10 +273,6 @@
   "TAK": {
    "price": 20.36,
    "change_pct": 2.16
-  },
-  "TDOC": {
-   "price": 6.32,
-   "change_pct": 0.32
   },
   "THC": {
    "price": 270.63,
@@ -1650,7 +1646,8 @@
    "tickers": [
     "GILD",
     "MRK",
-    "MRNA"
+    "MRNA",
+    "QGEN"
    ],
    "tag": "News",
    "sectors": [
@@ -2459,6 +2456,21 @@
    ]
   },
   {
+   "id": "4c091f5f820b",
+   "headline": "\u2018You Have No Idea What You\u2019re Getting\u2019: Healthcare CEO Calls Out Medical Costs",
+   "summary": "Oscar Health CEO Mark Bertolini explains why the lack of upfront, shoppable pricing in the healthcare industry is driving up costs\u2014and how empowering consumers to make value-based choices could force the system to change.",
+   "url": "https://finnhub.io/api/news?id=7079e557ed4dc625a095657510992dbc3b70e7a99caaaa9bb2a234eaec74918e",
+   "source": "Yahoo",
+   "published": "2026-10-22T16:10:00+00:00",
+   "tickers": [
+    "OSCR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "01daea1ca22f",
    "headline": "2 profitable stocks with promising prospects and 1 we find risky",
    "summary": "Not all profitable companies are built to last - some rely on outdated models or unsustainable advantages. Just because a business is in the green today doesn\u2019t mean it will thrive tomorrow.",
@@ -3161,6 +3173,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "a06e0c21ba87",
+   "headline": "Tesla upgraded, AppLovin initiated: Wall Street's top analyst calls",
+   "summary": "Tesla upgraded, AppLovin initiated: Wall Street's top analyst calls",
+   "url": "https://finnhub.io/api/news?id=36ec11a2c407b450f53c7d6f174dfeaa3ae2ddf57e85a2ecae63910222992539",
+   "source": "Yahoo",
+   "published": "2026-10-22T13:41:26+00:00",
+   "tickers": [
+    "QGEN"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "tools"
    ]
   },
   {
