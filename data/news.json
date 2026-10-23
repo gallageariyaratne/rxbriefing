@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-23T11:47:30.288581+00:00",
+ "updated": "2026-10-23T12:02:44.463381+00:00",
  "quotes": {
   "A": {
    "price": 173.89,
@@ -206,10 +206,6 @@
    "price": 267.61,
    "change_pct": 3.81
   },
-  "KRYS": {
-   "price": 320.13,
-   "change_pct": -0.63
-  },
   "LH": {
    "price": 329.93,
    "change_pct": 1.91
@@ -293,6 +289,10 @@
   "ROIV": {
    "price": 37.45,
    "change_pct": 1.77
+  },
+  "RVMD": {
+   "price": 187.69,
+   "change_pct": -3.39
   },
   "SMMT": {
    "price": 15.55,
@@ -938,6 +938,21 @@
  },
  "stories": [
   {
+   "id": "2a1beb511c03",
+   "headline": "Waters and Labcorp to Expand Access to Cervical Cancer Screening with the Most Comprehensive FDA-Approved HPV Testing Option Beginning in Late 2026",
+   "summary": "Labcorp intends to be the first commercial laboratory to offer FDA-approved HPV testing with the BD Onclarity\u2122 HPV Assay across clinician-collected and self-collected screening options in clinic, patient service center, and at-home\u2026",
+   "url": "https://www.prnewswire.com/news-releases/waters-and-labcorp-to-expand-access-to-cervical-cancer-screening-with-the-most-comprehensive-fda-approved-hpv-testing-option-beginning-in-late-2026-302918049.html",
+   "source": "PR Newswire",
+   "published": "2026-10-23T12:00:00+00:00",
+   "tickers": [
+    "LH"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "37ed30383099",
    "headline": "Roche pays Zymeworks $55M for trispecific challenger to Amgen\u2019s Imdelltra",
    "summary": "Roche is paying Zymeworks $55 million upfront for ZW209, bagging global rights to a trispecific designed to improve on the rate and depth of responses achieved by Amgen\u2019s Imdelltra.",
@@ -953,6 +968,21 @@
    ]
   },
   {
+   "id": "5ed045787803",
+   "headline": "Tango Therapeutics Just Improved On This 'Unprecedented' Cancer Drug",
+   "summary": "Tango Therapeutics beat expectations Friday for its combination using Revolution Medicines' newly approved drug in pancreatic cancer.",
+   "url": "https://finnhub.io/api/news?id=37c95abda1bc2b3fe0178e471d91b43cb130ef8629438477f4ec6de4ca00c25e",
+   "source": "Yahoo",
+   "published": "2026-10-23T10:30:28+00:00",
+   "tickers": [
+    "RVMD"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "912613d84aa8",
    "headline": "STAT+: Tango reports 82% tumor response rate in trial of combo therapy for advanced pancreatic cancer",
    "summary": "An experimental drug combination led to tumor responses in 82% of patients with a certain type of advanced pancreatic cancer, Tango Therapeutics reported.",
@@ -962,6 +992,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "9e2a23d4445e",
+   "headline": "Tango Presents Promising Results from Phase 1/2 Study of Vopimetostat and Daraxonrasib in Pancreatic Cancer and Provides Updates to Development Strategy",
+   "summary": "82% objective response rate, median progression-free survival (PFS) not yet reached, and 9-month PFS-rate of 88% in patients with 2L/3L pancreatic cancer treated with vopimetostat plus daraxonrasib Vopimetostat combinations with RAS(ON)\u2026",
+   "url": "https://finnhub.io/api/news?id=115ccc4a4b92f550d0d67e0e5e35c2d3ac958b0fe702bf2c11832be5be078388",
+   "source": "Yahoo",
+   "published": "2026-10-23T10:30:00+00:00",
+   "tickers": [
+    "RVMD"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
+   ]
   },
   {
    "id": "5e30839a81ea",
@@ -42324,341 +42369,6 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "2c24cb58359f",
-   "headline": "3 Sales Growth Stocks to Buy as Q3 Earnings Get Underway",
-   "summary": "Chipotle, BP and Intuitive Surgical stand out for strong sales growth, solid cash flow and favorable valuation metrics as Q3 earnings begin.",
-   "url": "https://finnhub.io/api/news?id=660c3b80c295fcaba4c9421b3a4a66da4ba71d105660608b3e9db3af49a563f4",
-   "source": "Yahoo",
-   "published": "2026-10-13T12:01:00+00:00",
-   "tickers": [
-    "ISRG"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "175e5b0d225f",
-   "headline": "Johnson & Johnson 2026 Q3 - Results - Earnings Call Presentation",
-   "summary": "2026-10-13. The following slide deck was published by Johnson & Johnson in conjunction with their 2026 Q3 earnings call.",
-   "url": "https://finnhub.io/api/news?id=f0f4f28d73096cd1c87c228f4068b9508c27abdd5e3912e8c570d930aa0e1bd3",
-   "source": "SeekingAlpha",
-   "published": "2026-10-13T12:00:58+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "7f7f758bd8d3",
-   "headline": "Why A Biotech M&A Wave May Hit This Winter",
-   "summary": "Biotech stocks have slumped from their August highs. But experts say renewed M&A, likely coming, could catalyze them.",
-   "url": "https://finnhub.io/api/news?id=d6cc5a18341120b4042d9c7782d95ce246363cae42d5930c60a8044f46d2e33f",
-   "source": "Yahoo",
-   "published": "2026-10-13T12:00:52+00:00",
-   "tickers": [
-    "BMY",
-    "LLY",
-    "MRK",
-    "NVO",
-    "REGN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "1b9f62183a15",
-   "headline": "Roche inks $1.2B deal with China's Rona to enter emerging ALK7 obesity race",
-   "summary": "Roche has committed $100 million in upfront and near-term payments to license Rona Therapeutics\u2019 ALK7 drug candidate, joining Alnylam, Arrowhead, GSK and Novo Nordisk in an emerging obesity niche.",
-   "url": "https://www.fiercebiotech.com/biotech/roche-inks-116b-rona-deal-enter-emerging-obesity-race",
-   "source": "Fierce Biotech",
-   "published": "2026-10-13T12:00:26.534113+00:00",
-   "tickers": [
-    "ALNY",
-    "GSK",
-    "NVO"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "biotech",
-    "pharma"
-   ]
-  },
-  {
-   "id": "5914df5e7cfc",
-   "headline": "Investors Heavily Search Intuitive Surgical, Inc. (ISRG): Here is What You Need to Know",
-   "summary": "Intuitive Surgical (ISRG) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
-   "url": "https://finnhub.io/api/news?id=a925f9847a29c64c841d3b6df7f3a4977b7675212cd4b70ca52516fc5d590bf0",
-   "source": "Yahoo",
-   "published": "2026-10-13T12:00:03+00:00",
-   "tickers": [
-    "ISRG"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "900b4b56728a",
-   "headline": "Absci to Report Business Updates and Third Quarter 2026 Financial and Operating Results on November 12, 2026",
-   "summary": "VANCOUVER, Wash. and NEW YORK, Oct. 13, 2026 (GLOBE NEWSWIRE) -- Absci Corporation (Nasdaq: ABSI), a clinical-stage biopharmaceutical company advancing breakthrough therapeutics designed with generative AI, today announced the company\u2026",
-   "url": "https://www.globenewswire.com/news-release/2026/10/13/3379640/0/en/absci-to-report-business-updates-and-third-quarter-2026-financial-and-operating-results-on-november-12-2026.html",
-   "source": "GlobeNewswire",
-   "published": "2026-10-13T12:00:00+00:00",
-   "tickers": [
-    "ABSI"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "healthai"
-   ]
-  },
-  {
-   "id": "945ad0551bb8",
-   "headline": "Labcorp and Arianna Huffington's Thrive Global Collaborate to Launch Thrive 5 Health Test",
-   "summary": "Labcorp (NYSE: LH), a global leader of innovative and comprehensive laboratory services, today announced the launch of the Thrive 5 Health Test, the first lab test offered in collaboration with Arianna Huffington's behavior change\u2026",
-   "url": "https://finnhub.io/api/news?id=6fe31cfd0e993b1ae12145b19436f114bf522c4589f9be7690499d0e1f76238f",
-   "source": "Yahoo",
-   "published": "2026-10-13T12:00:00+00:00",
-   "tickers": [
-    "LH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "8017ce28b69e",
-   "headline": "Charles River Collaborates with Magellan Stem Cells to Advance Stem Cell and Regenerative Medicine Development",
-   "summary": "WILMINGTON, Mass., October 13, 2026--Charles River Laboratories International, Inc. (NYSE: CRL) and Magellan Stem Cells, a private Australian biotech and cell-therapy firm, announce their collaboration to support Magellan in the\u2026",
-   "url": "https://finnhub.io/api/news?id=cddde621353a46d82cf197be60342f9be17dd2d28c88a4b6ef3b00fae32ed5d7",
-   "source": "Yahoo",
-   "published": "2026-10-13T12:00:00+00:00",
-   "tickers": [
-    "CRL"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "9656aff689b4",
-   "headline": "Waters Launches AI Link, Advancing AI-Enabled LC-MS Workflows from Research to Release",
-   "summary": "Waters Corporation (NYSE: WAT) today announced that it has launched Waters AI Link, a software capability that brings Anthropic's Model Context Protocol (MCP) to its informatics platform and has joined Anthropic's Model Hardware Standard\u2026",
-   "url": "https://finnhub.io/api/news?id=01388ef40f6500fb256b5baa695fa8e9322677fe3a4e9e975e28e3b224af8755",
-   "source": "Yahoo",
-   "published": "2026-10-13T12:00:00+00:00",
-   "tickers": [
-    "WAT"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "26b06859d896",
-   "headline": "More Than 125 Technology Leaders Registered for HMG Strategy's 19th Annual Greenwich C-Level Technology Leadership Summit on October 15",
-   "summary": "With Just Two Days Remaining, Qualified Technology Executives Are Encouraged to Register in AdvanceFAIRFIELD, Conn., Oct. 13, 2026 (GLOBE NEWSWIRE) -- With only two days remaining before HMG Strategy's 19th Annual Greenwich C-Level\u2026",
-   "url": "https://finnhub.io/api/news?id=b0ef2a06f8b01d293983da938d732d1beef04ee585352e83aefb422ae6bb40f7",
-   "source": "Yahoo",
-   "published": "2026-10-13T12:00:00+00:00",
-   "tickers": [
-    "BMY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "80b0cedf3018",
-   "headline": "Agilent to Acquire Proscia, Advancing AI-Enabled Digital Pathology and Scientific Intelligence",
-   "summary": "SANTA CLARA, Calif. & PHILADELPHIA, October 13, 2026--Agilent Technologies Inc. (NYSE: A) today announced it has entered into a definitive agreement to acquire Proscia\u00ae, a provider of digital pathology software for clinical and\u2026",
-   "url": "https://finnhub.io/api/news?id=6fc26925705f3d72cf48b269551fa1c08ea36bb23b3f1ba47d48926b51183b6e",
-   "source": "Yahoo",
-   "published": "2026-10-13T12:00:00+00:00",
-   "tickers": [
-    "A"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "96d4f9816130",
-   "headline": "Absci to Report Business Updates and Third Quarter 2026 Financial and Operating Results on November 12, 2026",
-   "summary": "VANCOUVER, Wash. and NEW YORK, Oct. 13, 2026 (GLOBE NEWSWIRE) -- Absci Corporation (Nasdaq: ABSI), a clinical-stage biopharmaceutical company advancing breakthrough therapeutics designed with generative AI, today announced the company\u2026",
-   "url": "https://finnhub.io/api/news?id=31a95bced0c28e8d41a8d42a611a2ed2414215aa1e2110d5b597ae5da6c47c70",
-   "source": "Yahoo",
-   "published": "2026-10-13T12:00:00+00:00",
-   "tickers": [
-    "ABSI"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "healthai"
-   ]
-  },
-  {
-   "id": "3dbfacfd3518",
-   "headline": "Alignment Health Expands Medicare Advantage Coverage to Four New Charlotte-Area Counties for 2027",
-   "summary": "Expansion brings Alignment's coordinated care model, access to Novant Health and Tryon Medical Partners, and new Medicare Advantage plan options to more than 295,000 additional Medicare beneficiariesCHARLOTTE, N.C., Oct. 13, 2026 (GLOBE\u2026",
-   "url": "https://finnhub.io/api/news?id=3f25798852b948f996aad7804c68b5cebe7ce655afe43b304ec9f3f054762a36",
-   "source": "Yahoo",
-   "published": "2026-10-13T12:00:00+00:00",
-   "tickers": [
-    "ALHC"
-   ],
-   "tag": "Policy",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "f6daeb313c80",
-   "headline": "TD Cowen Maintains Buy on Waters, Raises Price Target to $515",
-   "summary": "TD Cowen analyst Dan Brennan maintains Waters (NYSE:WAT) with a Buy and raises the price target from $475 to $515.",
-   "url": "https://finnhub.io/api/news?id=c3d7953d6a5d896f03542e49db2c603dc931f592f1870598f157171386a6fa0b",
-   "source": "Benzinga",
-   "published": "2026-10-13T11:55:41+00:00",
-   "tickers": [
-    "WAT"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "de01e385707a",
-   "headline": "TD Cowen Maintains Buy on Thermo Fisher Scientific, Raises Price Target to $760",
-   "summary": "TD Cowen analyst Dan Brennan maintains Thermo Fisher Scientific (NYSE:TMO) with a Buy and raises the price target from $675 to $760.",
-   "url": "https://finnhub.io/api/news?id=bf2cba0472b9e433b5a295712485b0499667c0141fc27249658b8f54e8ffd6b9",
-   "source": "Benzinga",
-   "published": "2026-10-13T11:54:23+00:00",
-   "tickers": [
-    "TMO"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "d5655f2b2d66",
-   "headline": "TD Cowen Maintains Hold on 10x Genomics, Raises Price Target to $70",
-   "summary": "TD Cowen analyst Dan Brennan maintains 10x Genomics (NASDAQ:TXG) with a Hold and raises the price target from $47 to $70.",
-   "url": "https://finnhub.io/api/news?id=0f4dd91db1fdb435a483eb6a2d33d714f9abe357e38452a1e01c4feeeab3f076",
-   "source": "Benzinga",
-   "published": "2026-10-13T11:51:47+00:00",
-   "tickers": [
-    "TXG"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "4926a2539ec4",
-   "headline": "Earnings live updates: JPMorgan, Goldman Sachs stocks rise as big banks kick off Q3 earnings season",
-   "summary": "Big bank results kick off Q3 earnings season on Tuesday.",
-   "url": "https://finnhub.io/api/news?id=015e7383933811c6d811368ba6c824d515f24833a2b9918d49387afb3a742407",
-   "source": "Yahoo",
-   "published": "2026-10-13T11:51:35+00:00",
-   "tickers": [
-    "JNJ",
-    "UNH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "35b968a77aec",
-   "headline": "JPMorgan\u2019s Lisa Gill on UnitedHealth earnings: The stock slide has nothing to do with the results",
-   "summary": "Lisa Gill, JPMorgan head of healthcare services research, joins \u2018Squawk on the Street\u2019 to discuss UnitedHealth Group\u2019s latest results, which exceeded analyst expectations, the use of AI in healthcare, and more",
-   "url": "https://finnhub.io/api/news?id=93e6cebf9b2dffa309c89c6cf449b868c8d92b40b777f558fd3c17efccc30a0d",
-   "source": "CNBC",
-   "published": "2026-10-13T11:51:32+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "d22c71fc31c4",
-   "headline": "Tech Selloff Deepens as Bank Earnings Fuel Stock Market Rotation",
-   "summary": "The stock market is reacting to big bank earnings, Micron gets a warning from Elon Musk about Chinese memory chips, and more news to start your day.",
-   "url": "https://finnhub.io/api/news?id=9328fa0cab3286cc651f7448b00e2e8188e5e7ff7ac8ffa01eda5c724ff2fe91",
-   "source": "Yahoo",
-   "published": "2026-10-13T11:49:00+00:00",
-   "tickers": [
-    "JNJ",
-    "UNH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "ca118a09fe26",
-   "headline": "How many ways can the Trump administration clamp down on international researchers?",
-   "summary": "In the span of two days last week, the Trump administration issued two sweeping announcements meant to crack down on international students and scholars, who make up a sizable portion\u2026",
-   "url": "https://www.statnews.com/2026/10/13/health-news-trump-admin-clamps-down-on-international-researchers/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-10-13T11:46:54+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "b98a29ce6c0a",
-   "headline": "TD Cowen Maintains Hold on Illumina, Raises Price Target to $270",
-   "summary": "TD Cowen analyst Dan Brennan maintains Illumina (NASDAQ:ILMN) with a Hold and raises the price target from $210 to $270.",
-   "url": "https://finnhub.io/api/news?id=60e09b368ee1770b7d13ecf0792225234d92df431d242a642fea7dc0032e8f2e",
-   "source": "Benzinga",
-   "published": "2026-10-13T11:46:46+00:00",
-   "tickers": [
-    "ILMN"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "67ad73520e08",
-   "headline": "Premarket movers: UnitedHealth jumps, chip stocks slide",
-   "summary": "Investing.com - U.S. stock futures were mixed on Tuesday as investors assessed quarterly results from major banks, while a selloff in chip stocks weighed on Nasdaq futures amid growing concerns about the sustainability of artificial\u2026",
-   "url": "https://finnhub.io/api/news?id=1e51195b3167196e1c76fc41d27765aea8b59de6a9882c162cbcbd756fcb48f5",
-   "source": "Yahoo",
-   "published": "2026-10-13T11:46:23+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
    ]
   }
  ]
