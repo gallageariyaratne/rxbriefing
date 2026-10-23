@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-23T09:47:38.064740+00:00",
+ "updated": "2026-10-23T10:03:02.632052+00:00",
  "quotes": {
   "A": {
    "price": 173.89,
@@ -106,6 +106,10 @@
    "price": 78.32,
    "change_pct": -2.42
   },
+  "ELV": {
+   "price": 445.28,
+   "change_pct": 2.57
+  },
   "EVH": {
    "price": 4.89,
    "change_pct": 1.24
@@ -161,10 +165,6 @@
   "HUM": {
    "price": 420.97,
    "change_pct": -1.05
-  },
-  "IART": {
-   "price": 12.32,
-   "change_pct": 4.1
   },
   "ICLR": {
    "price": 185.43,
@@ -938,6 +938,21 @@
  },
  "stories": [
   {
+   "id": "76e1a76f8e41",
+   "headline": "Elevance Health (ELV) Stock Rallies As Q3 Results Tighten Margin Focus",
+   "summary": "Elevance Health just posted its Q3 2026 scorecard and the stock has shrugged off any hesitation. Shares are up 2.6% today to about US$445 even as earnings per share of US$6.30 sit below the prior quarter and net income is US$1.37b on more\u2026",
+   "url": "https://finnhub.io/api/news?id=5eb8a0ec6e51b8cc8aa591fb39caca04bd62f5b5d271965c1546e6bd4ef7fa64",
+   "source": "Yahoo",
+   "published": "2026-10-23T09:12:42+00:00",
+   "tickers": [
+    "ELV"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "dc7eb60f01d2",
    "headline": "STAT+: State officials scrambling to implement Medicaid work requirements meet up to swap notes",
    "summary": "What state officials scrambling to implement Medicaid work requirements shared behind closed doors at the National Association of Medicaid Directors conference.",
@@ -1012,6 +1027,7 @@
    "published": "2026-10-23T08:24:05+00:00",
    "tickers": [
     "CNC",
+    "ELV",
     "UNH"
    ],
    "tag": "News",
@@ -43465,81 +43481,6 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "62c64f718af2",
-   "headline": "DataMEDS SI Provides Business Update On CLIA Lab Helomics And Its Super Intelligence Predictive Oncology Division",
-   "summary": "Leading Health IT Company has Implemented Cost Control Measures and Refocused Remaining Workforce Towards ChemoFx\u00ae Commercialization with Hospital Systems, HMOs, GPOs and Cancer CentersTAMPA, FL / ACCESS Newswire / October 13, 2026 /\u2026",
-   "url": "https://finnhub.io/api/news?id=7087f0349ed84eea29848150e3814efc0437e366a9585f2518f1fcf7850cabd2",
-   "source": "Yahoo",
-   "published": "2026-10-13T10:00:00+00:00",
-   "tickers": [
-    "HUM"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "07dc9a780ca8",
-   "headline": "Ambry Genetics Announces GenomeNext\u2122, a Whole Genome Sequencing Test Solution to Improve Diagnosis for Rare Diseases",
-   "summary": "ALISO VIEJO, Calif., October 13, 2026--Ambry Genetics, a leader in clinical genomic testing and a wholly owned subsidiary of Tempus AI, Inc. (NASDAQ: TEM), today announced the launch of GenomeNext\u2122 and GenomeReveal\u2122, a comprehensive whole\u2026",
-   "url": "https://finnhub.io/api/news?id=baebc73da0454c61e51ec339cf68ed33e65b81ee08111b1fa3ce5f8baa47d499",
-   "source": "Yahoo",
-   "published": "2026-10-13T10:00:00+00:00",
-   "tickers": [
-    "TEM"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "healthai"
-   ]
-  },
-  {
-   "id": "a739aa51bb0f",
-   "headline": "UnitedHealth Group Reports Third Quarter 2026 Results",
-   "summary": "October 13, 2026--UnitedHealth Group (NYSE: UNH) today reported third quarter 2026 results and raised guidance for full year 2026.",
-   "url": "https://finnhub.io/api/news?id=5f229453db43a2c433028dc65e199891de9ffd2471e2f9dd390865d0ef4fc950",
-   "source": "Yahoo",
-   "published": "2026-10-13T09:55:00+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "cce849c2efbe",
-   "headline": "UnitedHealth Earnings Beat Wall Street Estimates. The Turnaround Continues.",
-   "summary": "Spending on medical costs\u2014a pain point for large insurers in recent years\u2014continued to show signs of improvement.",
-   "url": "https://finnhub.io/api/news?id=359ddccedd85f8f7118d702bc62d3f0e54beda604394b198786025590e29608d",
-   "source": "Yahoo",
-   "published": "2026-10-13T09:55:00+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "8f8e70c93bf6",
-   "headline": "Transcript: Johnson & Johnson Q3 2026 Earnings Conference Call",
-   "summary": "Johnson & Johnson (NYSE:JNJ) held its third-quarter earnings conference call on Tuesday. Below is the complete transcript from the call. This transcript is brought to you by Benzinga APIs. For real-time access to",
-   "url": "https://finnhub.io/api/news?id=defaa3e331378153469c423e55432318028bc1e9ea1333297a8015e96e89a4ce",
-   "source": "Benzinga",
-   "published": "2026-10-13T09:47:00+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
