@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-23T10:03:02.632052+00:00",
+ "updated": "2026-10-23T10:17:31.475061+00:00",
  "quotes": {
   "A": {
    "price": 173.89,
@@ -65,6 +65,10 @@
   "CAH": {
    "price": 255.64,
    "change_pct": -0.71
+  },
+  "CI": {
+   "price": 315.88,
+   "change_pct": 3.78
   },
   "CNC": {
    "price": 71.24,
@@ -317,10 +321,6 @@
   "TGTX": {
    "price": 53.16,
    "change_pct": -0.08
-  },
-  "THC": {
-   "price": 270.63,
-   "change_pct": 0.56
   }
  },
  "tickers": {
@@ -938,6 +938,21 @@
  },
  "stories": [
   {
+   "id": "5e30839a81ea",
+   "headline": "Medtronic reports real-world findings for cardiac ablation systems",
+   "summary": "In the REAL PULSE prospective study, clinicians evaluated 1,160 AFib patients across 38 centres using the PulseSelect PFA system.",
+   "url": "https://finnhub.io/api/news?id=a7dd138275627751918532998df6bffbc06390acee650ddcf289492ba817db72",
+   "source": "Yahoo",
+   "published": "2026-10-23T09:53:40+00:00",
+   "tickers": [
+    "MDT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "76e1a76f8e41",
    "headline": "Elevance Health (ELV) Stock Rallies As Q3 Results Tighten Margin Focus",
    "summary": "Elevance Health just posted its Q3 2026 scorecard and the stock has shrugged off any hesitation. Shares are up 2.6% today to about US$445 even as earnings per share of US$6.30 sit below the prior quarter and net income is US$1.37b on more\u2026",
@@ -1026,6 +1041,7 @@
    "source": "Yahoo",
    "published": "2026-10-23T08:24:05+00:00",
    "tickers": [
+    "CI",
     "CNC",
     "ELV",
     "UNH"
@@ -43414,67 +43430,6 @@
    "url": "https://finnhub.io/api/news?id=fb0d8b8e8e92893f2cc0f59f595051be3f7b324924f22fe7de617932900d708b",
    "source": "Yahoo",
    "published": "2026-10-13T10:19:00+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "7dbf140db5de",
-   "headline": "Market Open: October 13, 2026",
-   "summary": "CNBC brings you fast, accurate, and actionable business news and market updates.",
-   "url": "https://finnhub.io/api/news?id=ceede7d8af0f267eb8fe0b33be3b43e4fee38c81c62c724dc8458d62308b527d",
-   "source": "CNBC",
-   "published": "2026-10-13T10:09:16+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "5aa82fa587a2",
-   "headline": "UnitedHealth\u2019s (NYSE:UNH) Q3 2026 Sales Top Estimates",
-   "summary": "Health insurance company UnitedHealth (NYSE:UNH) reported Q3 2026 results beating Wall Street\u2019s revenue expectations, but sales were flat year on year at $112.7 billion. Its non-GAAP profit of $4.69 per share was 13.3% above analysts\u2019\u2026",
-   "url": "https://finnhub.io/api/news?id=8600586bd2e8df1751aba8288bc197b4a400e226aa2455993f43fcccd6052f63",
-   "source": "Yahoo",
-   "published": "2026-10-13T10:06:42+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "39f7a548ea38",
-   "headline": "UnitedHealth Group (UNH) Q3 Earnings and Revenues Top Estimates",
-   "summary": "UnitedHealth (UNH) delivered earnings and revenue surprises of +13.84% and +1.18%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
-   "url": "https://finnhub.io/api/news?id=f0427855a084fa46afb0d647861623136af4746969ce5593a6ff292a265f2fa5",
-   "source": "Yahoo",
-   "published": "2026-10-13T10:05:02+00:00",
-   "tickers": [
-    "HUM",
-    "UNH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "994759e8eff8",
-   "headline": "UnitedHealth: Q3 Earnings Snapshot",
-   "summary": "(UNH) on Tuesday reported third-quarter profit of $4.On a per-share basis, the Eden Prairie, Minnesota-based company said it had net income of $4.",
-   "url": "https://finnhub.io/api/news?id=60dbc645f1bf5aaf864723f35569d836c1340254cd1c67c476351f31d38cf286",
-   "source": "Yahoo",
-   "published": "2026-10-13T10:02:31+00:00",
    "tickers": [
     "UNH"
    ],
