@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-23T11:32:43.520606+00:00",
+ "updated": "2026-10-23T11:47:30.288581+00:00",
  "quotes": {
   "A": {
    "price": 173.89,
@@ -274,10 +274,6 @@
    "price": 30.42,
    "change_pct": 1.91
   },
-  "PODD": {
-   "price": 148.12,
-   "change_pct": 4.38
-  },
   "PTCT": {
    "price": 63.04,
    "change_pct": 0.67
@@ -321,6 +317,10 @@
   "THC": {
    "price": 270.63,
    "change_pct": 0.56
+  },
+  "TMDX": {
+   "price": 72.06,
+   "change_pct": -0.47
   }
  },
  "tickers": {
@@ -938,6 +938,21 @@
  },
  "stories": [
   {
+   "id": "37ed30383099",
+   "headline": "Roche pays Zymeworks $55M for trispecific challenger to Amgen\u2019s Imdelltra",
+   "summary": "Roche is paying Zymeworks $55 million upfront for ZW209, bagging global rights to a trispecific designed to improve on the rate and depth of responses achieved by Amgen\u2019s Imdelltra.",
+   "url": "https://www.fiercebiotech.com/biotech/roche-pays-zymeworks-55m-trispecific-challenger-amgens-imdelltra",
+   "source": "Fierce Biotech",
+   "published": "2026-10-23T11:45:20.526519+00:00",
+   "tickers": [
+    "AMGN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "912613d84aa8",
    "headline": "STAT+: Tango reports 82% tumor response rate in trial of combo therapy for advanced pancreatic cancer",
    "summary": "An experimental drug combination led to tumor responses in 82% of patients with a certain type of advanced pancreatic cancer, Tango Therapeutics reported.",
@@ -1170,7 +1185,8 @@
    "published": "2026-10-23T08:09:00+00:00",
    "tickers": [
     "MRK",
-    "PFE"
+    "PFE",
+    "SMMT"
    ],
    "tag": "Health AI",
    "sectors": [
@@ -42637,107 +42653,6 @@
    "url": "https://finnhub.io/api/news?id=1e51195b3167196e1c76fc41d27765aea8b59de6a9882c162cbcbd756fcb48f5",
    "source": "Yahoo",
    "published": "2026-10-13T11:46:23+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "287c69dbdb2f",
-   "headline": "Thoreau-backed Ensemble, Penelope Health partner to bring payer policy intelligence into RCM",
-   "summary": "Two Thoreau-backed healthcare companies are partnering to bring real-time payer policy intelligence into revenue cycle workflows. The aim is to move claims denial management upstream into denial prevention, the companies said.",
-   "url": "https://www.fiercehealthcare.com/health-tech/thoreau-backed-ensemble-penelope-health-partner-tackle-payer-denials-upstream",
-   "source": "Fierce Healthcare",
-   "published": "2026-10-13T11:45:20.201521+00:00",
-   "tickers": [],
-   "tag": "Earnings",
-   "sectors": []
-  },
-  {
-   "id": "edc729c6d203",
-   "headline": "TD Cowen Maintains Buy on Danaher, Raises Price Target to $255",
-   "summary": "TD Cowen analyst Dan Brennan maintains Danaher (NYSE:DHR) with a Buy and raises the price target from $236 to $255.",
-   "url": "https://finnhub.io/api/news?id=524efd3043304526126ab77336f327d413c19caa890c7a3cda3bbc989c95b9d0",
-   "source": "Benzinga",
-   "published": "2026-10-13T11:45:08+00:00",
-   "tickers": [
-    "DHR"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "20ef61b122c0",
-   "headline": "TD Cowen Maintains Hold on Bruker, Raises Price Target to $62",
-   "summary": "TD Cowen analyst Kyle Boucher maintains Bruker (NASDAQ:BRKR) with a Hold and raises the price target from $60 to $62.",
-   "url": "https://finnhub.io/api/news?id=8246e8dda48d8c9dd0267af7024d7ac872f4bb2352221a5ad3e8509a048e0622",
-   "source": "Benzinga",
-   "published": "2026-10-13T11:43:45+00:00",
-   "tickers": [
-    "BRKR"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "486eeca496e5",
-   "headline": "TD Cowen Maintains Buy on Agilent Technologies, Raises Price Target to $196",
-   "summary": "TD Cowen analyst Dan Brennan maintains Agilent Technologies (NYSE:A) with a Buy and raises the price target from $180 to $196.",
-   "url": "https://finnhub.io/api/news?id=c1b0d7a8d698fe1997b21a865b7d9783823b5719b16985faf0da984950fc4655",
-   "source": "Benzinga",
-   "published": "2026-10-13T11:39:22+00:00",
-   "tickers": [
-    "A"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "d3f071302a94",
-   "headline": "Morgan Stanley Maintains Overweight on Agilent Technologies, Raises Price Target to $190",
-   "summary": "Morgan Stanley analyst Kallum Titchmarsh maintains Agilent Technologies (NYSE:A) with a Overweight and raises the price target from $175 to $190.",
-   "url": "https://finnhub.io/api/news?id=9b35f2007459e45e29c82c9aa6d0e52a64c4e923f02492cd7953b9ea18d2b71a",
-   "source": "Benzinga",
-   "published": "2026-10-13T11:38:14+00:00",
-   "tickers": [
-    "A"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "d573634ea367",
-   "headline": "Morgan Stanley Maintains Equal-Weight on 10x Genomics, Raises Price Target to $70",
-   "summary": "Morgan Stanley analyst Tejas Savant maintains 10x Genomics (NASDAQ:TXG) with a Equal-Weight and raises the price target from $40 to $70.",
-   "url": "https://finnhub.io/api/news?id=11ce7fde21dafbd5f9fd586c0ad31248a4161a6e63f1792fbff33d8f5cd0c59e",
-   "source": "Benzinga",
-   "published": "2026-10-13T11:32:20+00:00",
-   "tickers": [
-    "TXG"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "0b5e3e02b5cd",
-   "headline": "UnitedHealth Stock Climbs After a Q3 Beat: \u201cDiscipline and Execution\u201d Drive the Rebound",
-   "summary": "UnitedHealth Group (UNH:NYSE) shares are up about 4. 5% in premarket trading on Tuesday, October 13 (at about $396), after the insurer beat third-quarter profit estimates and raised its 2026 outlook.",
-   "url": "https://finnhub.io/api/news?id=efd4c8c672284eaf5d70a195773fb6b4867aa026b8b79b7fb2ab85bcdd08c613",
-   "source": "Yahoo",
-   "published": "2026-10-13T11:31:15+00:00",
    "tickers": [
     "UNH"
    ],
