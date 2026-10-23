@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-23T02:17:46.409306+00:00",
+ "updated": "2026-10-23T02:32:47.056596+00:00",
  "quotes": {
   "A": {
    "price": 173.89,
@@ -157,6 +157,10 @@
   "IART": {
    "price": 12.32,
    "change_pct": 4.1
+  },
+  "ICLR": {
+   "price": 185.43,
+   "change_pct": 0.1
   },
   "IDXX": {
    "price": 566.76,
@@ -317,10 +321,6 @@
   "UTHR": {
    "price": 584.79,
    "change_pct": 3.78
-  },
-  "VEEV": {
-   "price": 322.55,
-   "change_pct": 0.62
   }
  },
  "tickers": {
@@ -1349,6 +1349,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "d8ebf52ccfb2",
+   "headline": "Viking Therapeutics, Inc. (VKTX) Falls More Steeply Than Broader Market: What Investors Need to Know",
+   "summary": "In the closing of the recent trading day, Viking Therapeutics, Inc. (VKTX) stood at $25.76, denoting a -2.35% move from the preceding trading day.",
+   "url": "https://finnhub.io/api/news?id=4cc368638a82d89f0a3c0b69af9a2b55d5cd60c3b6e51f7b1f2bb41f6c636a60",
+   "source": "Yahoo",
+   "published": "2026-10-22T20:50:02+00:00",
+   "tickers": [
+    "VKTX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -2737,7 +2752,8 @@
    "published": "2026-10-22T15:31:00+00:00",
    "tickers": [
     "LLY",
-    "NVO"
+    "NVO",
+    "VKTX"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -3744,7 +3760,8 @@
    "source": "Yahoo",
    "published": "2026-10-22T13:00:06+00:00",
    "tickers": [
-    "ALHC"
+    "ALHC",
+    "ICLR"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -5123,6 +5140,21 @@
    ]
   },
   {
+   "id": "d11e1e8fd5e1",
+   "headline": "IART Q3 deep dive: Cincinnati disruption and Tissue Reconstruction challenges weigh on outlook",
+   "summary": "Medical device company Integra LifeSciences (NASDAQ:IART) met Wall Street\u2019s revenue expectations in Q3 2026, with sales up 2.3% year on year to $411.2 million. On the other hand, next quarter\u2019s revenue guidance of $423 million was less\u2026",
+   "url": "https://finnhub.io/api/news?id=0c00398e92da0e8815683c3db430c374b0969e9788a76a61d05081928f0526af",
+   "source": "Yahoo",
+   "published": "2026-10-22T08:46:27+00:00",
+   "tickers": [
+    "IART"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "c15c961ab0b2",
    "headline": "Molina Exec Says Prelim 2027 Premium Outlook Is Now At Least $45B, Down From Prior Outlook Of $46.5B",
    "summary": "-Conference Call.",
@@ -5426,6 +5458,21 @@
    ]
   },
   {
+   "id": "3b4cf3975354",
+   "headline": "Integra LifeSciences (IART) Stock Price Sinks As Q3 Earnings Revive Refinancing Worries",
+   "summary": "Integra LifeSciences walked into this Q3 2026 report with the stock already under pressure, and the latest numbers triggered another sharp swing. Shares fell about 11% in the first full session after the release, even as the company\u2026",
+   "url": "https://finnhub.io/api/news?id=c3f089c34c9299221a49747cbc2d6e771c85f0607ebe6d0f4ae552a6a40e64ef",
+   "source": "Yahoo",
+   "published": "2026-10-22T07:17:16+00:00",
+   "tickers": [
+    "IART"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "337420d4158c",
    "headline": "Medtronic Announces Real-World Registry Results For Its Affera Mapping And Ablation System With The Sphere-9 Catheter And The PulseSelect Pulsed Field Ablation System; Analyses Report Strong Safety And Procedural Outcomes Across Atrial And Ventricular Arrhythmias",
    "summary": "The global registry analyses, presented at the Asia Pacific Heart Rhythm Society (APHRS) 2026 scientific meeting, evaluated prospectively enrolled patients with atrial fibrillation (AFib) and ventricular tachycardia",
@@ -5691,6 +5738,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "75fd88212bce",
+   "headline": "ICON (ICLR) Stock Could Be A Bargain After Cash Flow Rebound",
+   "summary": "ICON shares have climbed back to US$185.25 after a choppy few years, so the live question is whether that rebound is supported by the cash the business is expected to generate. With mixed recent returns and evolving expectations for\u2026",
+   "url": "https://finnhub.io/api/news?id=6cae5e5ab85cc03562d22a26415529b4026385f9464f6aa3e01b05d302b954e7",
+   "source": "Yahoo",
+   "published": "2026-10-22T04:26:47+00:00",
+   "tickers": [
+    "ICLR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -44048,22 +44110,6 @@
     "JNJ"
    ],
    "tag": "Health AI",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "6b65a98ebd07",
-   "headline": "Moderna Stock Soared 14% as NIH Plans COVID-Style Push for Cancer Vaccines",
-   "summary": "Key TakeawaysModerna stock surged 14. 2% on October 9 after reports of an NIH-backed initiative to accelerate cancer vaccine development.",
-   "url": "https://finnhub.io/api/news?id=d3ea8e257978166d5e746743c7288a47771d0314699386d25faf85b0c5e2d4a8",
-   "source": "Yahoo",
-   "published": "2026-10-13T02:23:26+00:00",
-   "tickers": [
-    "MRK",
-    "MRNA"
-   ],
-   "tag": "News",
    "sectors": [
     "pharma"
    ]
