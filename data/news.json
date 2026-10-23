@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-23T13:02:54.012153+00:00",
+ "updated": "2026-10-23T13:17:45.570978+00:00",
  "quotes": {
   "A": {
    "price": 173.89,
@@ -294,10 +294,6 @@
    "price": 72.06,
    "change_pct": -0.47
   },
-  "TMO": {
-   "price": 676.54,
-   "change_pct": -2.52
-  },
   "TWST": {
    "price": 135.47,
    "change_pct": -9.16
@@ -321,6 +317,10 @@
   "VRTX": {
    "price": 535.17,
    "change_pct": 2.03
+  },
+  "WAT": {
+   "price": 455.59,
+   "change_pct": -0.41
   }
  },
  "tickers": {
@@ -964,6 +964,21 @@
    ]
   },
   {
+   "id": "ed419aa77225",
+   "headline": "CVS Pharmacy expands fall assortment of collectibles, nostalgic favorites and seasonal exclusives",
+   "summary": "New and expanded offerings across toys, collectibles, beauty, snacks and seasonal categories give shoppers more opportunities to discover unexpected finds WOONSOCKET, R.I., Oct. 23, 2026 /PRNewswire/ -- CVS Pharmacy\u00ae, the retail division\u2026",
+   "url": "https://www.prnewswire.com/news-releases/cvs-pharmacy-expands-fall-assortment-of-collectibles-nostalgic-favorites-and-seasonal-exclusives-302917553.html",
+   "source": "PR Newswire",
+   "published": "2026-10-23T13:00:00+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "e3a6e0a528cc",
    "headline": "Chutes & Ladders\u2014Troubled CSL enlists GSK vet Deborah Waterhouse to lead",
    "summary": "CSL has tapped a new leader to steer it through a make-or-break period. Ironwood's CEO since 2021 is hanging up his hat. CytoDyn's new helmsman is highlighting the company's \"transformational period.\" And more.",
@@ -1064,6 +1079,7 @@
    "source": "Yahoo",
    "published": "2026-10-23T11:40:51+00:00",
    "tickers": [
+    "MEDP",
     "MRK",
     "MRNA"
    ],
@@ -1115,6 +1131,21 @@
    "tag": "FDA",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "263a1d13dc14",
+   "headline": "5 revealing analyst questions from Medpace\u2019s Q3 earnings call",
+   "summary": "Medpace\u2019s third quarter saw steady growth, with management attributing performance to robust demand for clinical research services and a healthy pipeline of new business awards. CEO August James Troendle pointed to a record level of net\u2026",
+   "url": "https://finnhub.io/api/news?id=db544422e344c23a8abfe4da2637fb2c439e74a5213b45bea896c33d07745c84",
+   "source": "Yahoo",
+   "published": "2026-10-23T11:12:39+00:00",
+   "tickers": [
+    "MEDP"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -41766,215 +41797,6 @@
    "published": "2026-10-13T13:17:23+00:00",
    "tickers": [
     "JNJ"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "cb07af935ce8",
-   "headline": "These 6 Dividend Stocks Look Like Income Bargains. Their Payout Ratios Say Otherwise",
-   "summary": "Six stocks are flashing high yields that look like income bargains, but a closer look at their payout ratios tells a very different story about which ones can actually keep the checks coming.",
-   "url": "https://finnhub.io/api/news?id=f40f45fbfb8b715c6acc28c83d077c4986aa1a5aa140fa11f9999f5b7e8bc603",
-   "source": "Yahoo",
-   "published": "2026-10-13T13:15:28+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "cac12f9f810d",
-   "headline": "Suki secures $90M in series E funding to accelerate growth, expand AI capabilities",
-   "summary": "The funding announcement comes less than a week after the company launched its newest AI capability.",
-   "url": "https://www.fiercehealthcare.com/finance/suki-secures-90m-series-e-funding-accelerate-growth-expand-ai-capabilities",
-   "source": "Fierce Healthcare",
-   "published": "2026-10-13T13:15:22.578810+00:00",
-   "tickers": [],
-   "tag": "Health AI",
-   "sectors": []
-  },
-  {
-   "id": "38e0359c51e8",
-   "headline": "BioNTech\u2019s mRNA cancer vaccine fails phase 3 test, significantly denting analysts\u2019 confidence",
-   "summary": "A phase 2/3 clinical trial of BioNTech\u2019s mRNA cancer immunotherapy BNT113 has missed one of its dual primary endpoints. But with immature overall survival data offering a path to redemption, the German biotech is continuing to track\u2026",
-   "url": "https://www.fiercebiotech.com/biotech/biontechs-mrna-cancer-vaccine-fails-phase-3-test-significantly-denting-analysts-confidence",
-   "source": "Fierce Biotech",
-   "published": "2026-10-13T13:15:21.934560+00:00",
-   "tickers": [
-    "BNTX"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "ffe0653efa55",
-   "headline": "Mixed Pre-Markets Greet Fresh Q3 Earnings Reports",
-   "summary": "While JPM missed Q3 estimates, GS posted a strong quarter, with WFC somewhat in between.",
-   "url": "https://finnhub.io/api/news?id=cdb5a8ebb4149139e5d95942fa8f10ddf49b2fe2f69a5bb311ec7f8be5b2cf08",
-   "source": "Yahoo",
-   "published": "2026-10-13T13:14:00+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "ae6577049e7f",
-   "headline": "STAT+: Takeaways from an evaluation of Google\u2019s diagnostic chatbot, AMIE",
-   "summary": "In this edition of STAT Health Tech: A look at a study recently published in The Lancet about Google's diagnostic chatbot, AMIE.",
-   "url": "https://www.statnews.com/2026/10/13/google-amie-diagnostic-chatbot-study-lancet-health-tech/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-10-13T13:13:25+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "f7510b2249db",
-   "headline": "How VYM\u2019s $94.6B Dividend Kings Aided Portfolio Is Beating Treasuries",
-   "summary": "VYM's trailing yield sits well below what a 10-year Treasury pays today, yet the fund keeps attracting billions in new assets. The reason comes down to what bonds cannot offer and what income investors often overlook when comparing the two.",
-   "url": "https://finnhub.io/api/news?id=49ec050c905a6901984cd922e91ad3778b7449e9af85b15c971c333bb6b9f185",
-   "source": "Yahoo",
-   "published": "2026-10-13T13:13:11+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "7e2a893ad75f",
-   "headline": "Stryker Makes $400 Million Robotic Surgery Bet",
-   "summary": "Stryker invests $400M in CMR Surgical to expand into soft-tissue robotics and secure exclusive U.S. sales rights for the Versius system.",
-   "url": "https://finnhub.io/api/news?id=ece6787ba0e5cf643f4ded0f451edf226195c24754b5c7f7bb3502dad2be90f5",
-   "source": "Benzinga",
-   "published": "2026-10-13T13:11:45+00:00",
-   "tickers": [
-    "SYK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "4759d7d0253c",
-   "headline": "UnitedHealth Raises Guidance: What It Means for XLV and Other Healthcare ETFs",
-   "summary": "UnitedHealth raises its 2026 earnings outlook after beating Q3 estimates. Compare XLV, IHF and VHT for UNH exposure.",
-   "url": "https://finnhub.io/api/news?id=473bf421f93b9c00b22e7e76cd86fadda6b9274612530336979e9eb3d81fd3dc",
-   "source": "Benzinga",
-   "published": "2026-10-13T13:11:06+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "230a43efdcc9",
-   "headline": "Johnson & Johnson Q3 Earnings: Talc Resolution Offer Impacts Earnings, MedTech Slows Growth",
-   "summary": "Johnson & Johnson Q3 2026: revenue up 6%, but EPS fell, and shares slid 5% amid a $5.5B talc reserve. Click for this JNJ earnings update and see if it is right for you.",
-   "url": "https://finnhub.io/api/news?id=3125300c21444d074975cf3a7de6d07ce0a736e19c53aaa6cdbfdf2241914ec4",
-   "source": "SeekingAlpha",
-   "published": "2026-10-13T13:11:04+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "5ae6a2b9cd9e",
-   "headline": "Aficamten\u2019s ACACIA-HCM Multi-Domain Gains Might Change The Case For Investing In Cytokinetics (CYTK)",
-   "summary": "Cytokinetics recently presented additional Phase 3 ACACIA-HCM data at the 2026 HFSA meeting, showing aficamten improved global exercise performance in adults with non-obstructive hypertrophic cardiomyopathy using the new BEAP-RS composite\u2026",
-   "url": "https://finnhub.io/api/news?id=21a756aa1d532db0fc08984901aabd2a00b0f4841043a66d4d2237b9213c485c",
-   "source": "Yahoo",
-   "published": "2026-10-13T13:10:42+00:00",
-   "tickers": [
-    "CYTK"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "3c506db7cdf3",
-   "headline": "'CVS agrees to pay $315 million to settle Justice Department case over opioid prescriptions' - Associated Press",
-   "summary": "https://apnews.com/article/justice-department-cvs-opioids-40516dbb8534543be1c119b8b7772266",
-   "url": "https://finnhub.io/api/news?id=ace71a773b70920802185745ff7d61388a729b5576955ad947af0a45505dc079",
-   "source": "Benzinga",
-   "published": "2026-10-13T13:09:31+00:00",
-   "tickers": [
-    "CVS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "5ee0175d8c4c",
-   "headline": "UnitedHealth Cost Comments Fuel Dow Jones Stock To Key Level",
-   "summary": "The Dow giant's profits have recovered as medical membership has fallen.",
-   "url": "https://finnhub.io/api/news?id=b7b35ab5c9399c13af549b784b36d08c2f629f0fade79e537c75a275b0f70828",
-   "source": "Yahoo",
-   "published": "2026-10-13T13:09:00+00:00",
-   "tickers": [
-    "CI",
-    "CNC",
-    "CVS",
-    "HUM",
-    "UNH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "066af8110508",
-   "headline": "Walmart to cover some GLP-1s, inhalers and insulin for employees at no cost as it expands benefits",
-   "summary": "Walmart will offer Novo's Ozempic and Lilly's Mounjaro without charge for people with Type 2 diabetes after a new prior authorization.",
-   "url": "https://finnhub.io/api/news?id=f0b7c5e365616fd2529d4164ac5efcb8f7acdbbb996cad677ed640843182ce7e",
-   "source": "CNBC",
-   "published": "2026-10-13T13:07:19+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "81ff69b38b09",
-   "headline": "Phanes Therapeutics to participate in Longwood Healthcare Leaders Boston CEO, November 2-3, 2026",
-   "summary": "Phanes Therapeutics, Inc. (Phanes), a clinical-stage biotech company focused on innovative drug discovery and development in immuno-oncology (IO), announced that Ming Wang (CEO) will participate in Boston CEO, November 2-3, 2026, at the\u2026",
-   "url": "https://finnhub.io/api/news?id=9a21bc6679040d47af2b097ddec1264df35938cafcc4522683542e78d36acb1c",
-   "source": "Yahoo",
-   "published": "2026-10-13T13:02:00+00:00",
-   "tickers": [
-    "BIIB",
-    "INCY",
-    "MRNA",
-    "NVS"
    ],
    "tag": "News",
    "sectors": [
