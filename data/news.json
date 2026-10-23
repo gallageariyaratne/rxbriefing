@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-23T20:47:29.757011+00:00",
+ "updated": "2026-10-23T21:02:43.255567+00:00",
  "quotes": {
   "A": {
    "price": 173.07,
@@ -66,10 +66,6 @@
    "price": 345.37,
    "change_pct": 1.68
   },
-  "CRSP": {
-   "price": 49.39,
-   "change_pct": -1.2
-  },
   "CVS": {
    "price": 93.47,
    "change_pct": -1.07
@@ -89,10 +85,6 @@
   "ENSG": {
    "price": 175.59,
    "change_pct": -1.55
-  },
-  "EVH": {
-   "price": 4.8,
-   "change_pct": -1.84
   },
   "EW": {
    "price": 89.07,
@@ -278,10 +270,6 @@
    "price": 323.04,
    "change_pct": 0.15
   },
-  "VKTX": {
-   "price": 24.4,
-   "change_pct": -5.54
-  },
   "VRTX": {
    "price": 523.93,
    "change_pct": -2.1
@@ -289,6 +277,10 @@
   "WAT": {
    "price": 453.67,
    "change_pct": -0.42
+  },
+  "ZBH": {
+   "price": 98.56,
+   "change_pct": -0.25
   }
  },
  "tickers": {
@@ -991,6 +983,21 @@
    ]
   },
   {
+   "id": "539fa97f2155",
+   "headline": "Goldman Sachs resets Eli Lilly 12-month stock price target before earnings",
+   "summary": "Wall Street expects strong numbers from LLY, but Goldman says one figure will decide the reaction.",
+   "url": "https://finnhub.io/api/news?id=4f1b5d95f2ee88b88aee283e08e64a125f4879672bedaca6e351dff2fcbd2155",
+   "source": "Yahoo",
+   "published": "2026-10-23T19:37:00+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "95fe2e03245e",
    "headline": "U.S. FDA Approves Subcutaneous Induction Regimen for AbbVie's SKYRIZI\u00ae (risankizumab-rzaa) for Adults With Moderately to Severely Active Crohn's Disease",
    "summary": "Now with a new route of induction administration, subcutaneous SKYRIZI supports early symptomatic and endoscopic control with an on-body injector (OBI) device throughout the course of treatment In the pivotal Phase 3 AFFIRM study,\u2026",
@@ -1086,7 +1093,9 @@
    "published": "2026-10-23T19:15:59+00:00",
    "tickers": [
     "ABBV",
-    "AMGN"
+    "AMGN",
+    "GILD",
+    "MRK"
    ],
    "tag": "Legal",
    "sectors": [
@@ -1142,6 +1151,21 @@
    "sectors": []
   },
   {
+   "id": "029952a98beb",
+   "headline": "Investing.com\u2019s stocks of the week",
+   "summary": "Investing.com -- Cybersecurity names gained ground on a global software alert while Meta declined and a fresh escalation in the Middle East pushed crude to highs.",
+   "url": "https://finnhub.io/api/news?id=03f151951b7c0f2f9e114d2cfe06c89f37fb6a64f57c5a572b616d670ec67d7d",
+   "source": "Yahoo",
+   "published": "2026-10-23T18:29:33+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "6511208154fc",
    "headline": "Biopharma Companies Must Break the DMTA Linearity",
    "summary": "Reimagining DMTA as a connected network gives scientists the flexibility to act when needed, with context retained across every decision",
@@ -1162,6 +1186,21 @@
    "tickers": [],
    "tag": "Health AI",
    "sectors": []
+  },
+  {
+   "id": "049f14b1ef0e",
+   "headline": "Eli Lilly (LLY) Builds In Richmond As Fair Value Still Sits Higher",
+   "summary": "Eli Lilly (LLY) just put a shovel in the ground on a new US$5b manufacturing hub near Richmond, Virginia, a fully integrated site for active ingredients and finished antibody drug conjugate medicines. Eli Lilly shares have been on a\u2026",
+   "url": "https://finnhub.io/api/news?id=a28a078e4cd99123e52de4afded678bc0e7a937ac80ad877b326287e05daac65",
+   "source": "Yahoo",
+   "published": "2026-10-23T18:11:16+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "0267964c8b65",
@@ -2497,6 +2536,21 @@
    ]
   },
   {
+   "id": "84548301847e",
+   "headline": "Here's What to Expect From Zimmer Biomet's Next Earnings Report",
+   "summary": "Zimmer Biomet is expected to release its third-quarter earnings next month, and analysts anticipate a marginal rise in its bottom line.",
+   "url": "https://finnhub.io/api/news?id=138b1e766b866fcd46678f9ea2cbc70efeeec3f5acc3a4e4a16add91fd3d7a5b",
+   "source": "Yahoo",
+   "published": "2026-10-23T13:00:50+00:00",
+   "tickers": [
+    "ZBH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "06b252b154fa",
    "headline": "Fierce Pharma Asia\u2014US Treasury homes in on China deals; Hengrui's secret sauce; Samsung Bio's strike developments",
    "summary": "The U.S. Treasury Department is closing in on American investments in China's life sciences industry as it issued draft rules adding biotechnology to the COINS Act. Hengrui leadership sat down with Fierce to discuss the secret sauce\u2026",
@@ -3362,6 +3416,21 @@
    "tag": "Clinical",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "0f1903c2c78a",
+   "headline": "Edwards wins FDA approval for tricuspid valve repair device",
+   "summary": "Edwards\u2019 approval should \u201cstrengthen the company\u2019s position in the large and underpenetrated transcatheter tricuspid market,\u201d analysts said.",
+   "url": "https://finnhub.io/api/news?id=5a5d111056252b2999b0ad4b505d9e30cec05621715a58d9d8440adabcce4679",
+   "source": "Yahoo",
+   "published": "2026-10-23T10:20:06+00:00",
+   "tickers": [
+    "EW"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -42318,103 +42387,6 @@
    "tag": "Policy",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "48895b95e0e3",
-   "headline": "CVS, DOJ reach $315M settlement in opioid prescription case",
-   "summary": "CVS Health has reached a $315 million settlement with the Department of Justice that resolves allegations the pharmacy giant knowingly filled unlawful opioid prescriptions.",
-   "url": "https://www.fiercehealthcare.com/payers/cvs-doj-reach-315m-settlement-opioid-prescription-case",
-   "source": "Fierce Healthcare",
-   "published": "2026-10-13T21:00:29.483618+00:00",
-   "tickers": [
-    "CVS"
-   ],
-   "tag": "Legal",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "a47f559f9fa5",
-   "headline": "Measles update: US passes 4,000 cases, Pennsylvania reports sixth death",
-   "summary": "Experts have pointed to sagging vaccination rates and friction between federal health leadership and the broader public health community as contributor to this year\u2019s outbreaks of the vaccine-preventable disease.",
-   "url": "https://www.fiercehealthcare.com/providers/measles-update-us-passes-4000-cases-pennsylvania-reports-sixth-death",
-   "source": "Fierce Healthcare",
-   "published": "2026-10-13T21:00:29.482447+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "af71bcb88c13",
-   "headline": "Decreasing process variability in fluid management systems",
-   "summary": "Discover why flow paths, tubing and connectors may limit your bioprocess performance",
-   "url": "https://www.biopharmadive.com/spons/decreasing-process-variability-in-fluid-management-systems/832888/",
-   "source": "BioPharma Dive",
-   "published": "2026-10-13T21:00:00+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "0173930e0f6b",
-   "headline": "Medtronic (MDT) Increases Despite Market Slip: Here's What You Need to Know",
-   "summary": "Medtronic (MDT) closed at $93.01 in the latest trading session, marking a +1.17% move from the prior day.",
-   "url": "https://finnhub.io/api/news?id=3db9053dd5b9b23147e949fe21296fd83cf7e8077d53a668d6243183f517f84a",
-   "source": "Yahoo",
-   "published": "2026-10-13T20:50:06+00:00",
-   "tickers": [
-    "MDT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "012719023ca8",
-   "headline": "Veeva Systems (VEEV) Increases Despite Market Slip: Here's What You Need to Know",
-   "summary": "Veeva Systems (VEEV) reached $301.63 at the closing of the latest trading day, reflecting a +1.95% change compared to its last close.",
-   "url": "https://finnhub.io/api/news?id=aaa4b0cef768640802449edbfa92653b0edcb3b4bafa9dce5e8d3a3e43550ed9",
-   "source": "Yahoo",
-   "published": "2026-10-13T20:50:04+00:00",
-   "tickers": [
-    "VEEV"
-   ],
-   "tag": "News",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "4394583fbbac",
-   "headline": "Merck (MRK) Dips More Than Broader Market: What You Should Know",
-   "summary": "Merck (MRK) concluded the recent trading session at $141.98, signifying a -2.39% move from its prior day's close.",
-   "url": "https://finnhub.io/api/news?id=46d3388160bf922ff28dc0ffdfea7cf4af9cc49f84ba05a23f08b315ba443b2b",
-   "source": "Yahoo",
-   "published": "2026-10-13T20:50:03+00:00",
-   "tickers": [
-    "MRK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "3b6a4f484575",
-   "headline": "TRexBio Announces Closing of Initial Public Offering",
-   "summary": "SOUTH SAN FRANCISCO, Calif., Oct. 13, 2026 (GLOBE NEWSWIRE) -- TRex Bio, Inc. (\u201cTRexBio\u201d) (Nasdaq: TRXB), a clinical-stage biotechnology company focused on tissue Treg biology for the discovery and development of immunoregulatory\u2026",
-   "url": "https://finnhub.io/api/news?id=ca7508c18f267b4e8baba680af55bc306cd0caab6eaf424a5717caf6f88975e3",
-   "source": "Yahoo",
-   "published": "2026-10-13T20:47:00+00:00",
-   "tickers": [
-    "TRXB"
-   ],
-   "tag": "Policy",
-   "sectors": [
-    "biotech"
    ]
   }
  ]
