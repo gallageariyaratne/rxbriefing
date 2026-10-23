@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-23T00:41:40.331042+00:00",
+ "updated": "2026-10-23T00:47:40.431478+00:00",
  "quotes": {
   "A": {
    "price": 173.89,
@@ -17,6 +17,10 @@
   "ALGN": {
    "price": 155.51,
    "change_pct": 2.73
+  },
+  "ALHC": {
+   "price": 8.43,
+   "change_pct": -0.12
   },
   "ALNY": {
    "price": 227.28,
@@ -229,6 +233,10 @@
   "PODD": {
    "price": 148.12,
    "change_pct": 4.38
+  },
+  "PTCT": {
+   "price": 63.04,
+   "change_pct": 0.67
   },
   "QGEN": {
    "price": 50.22,
@@ -940,6 +948,8 @@
    "source": "Yahoo",
    "published": "2026-10-22T22:15:02+00:00",
    "tickers": [
+    "AMGN",
+    "CAH",
     "COR"
    ],
    "tag": "GLP-1",
@@ -1103,6 +1113,21 @@
    "tickers": [],
    "tag": "Policy",
    "sectors": []
+  },
+  {
+   "id": "8792b43d8052",
+   "headline": "Amgen (AMGN) Gains As Market Dips: What You Should Know",
+   "summary": "Amgen (AMGN) closed at $447.28 in the latest trading session, marking a +2.04% move from the prior day.",
+   "url": "https://finnhub.io/api/news?id=a0abd7425c05d0f4fe1883a1b5fd40a5f09b77c08095ff69f1eb99abd6832e9f",
+   "source": "Yahoo",
+   "published": "2026-10-22T21:00:02+00:00",
+   "tickers": [
+    "AMGN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "1409ab569afc",
@@ -2634,6 +2659,21 @@
    "sectors": []
   },
   {
+   "id": "4c85b084e06e",
+   "headline": "Alignment Health Adds New Medicare Advantage Plan in Pima County, Increasing Access and Choice for Arizona Seniors",
+   "summary": "New plan strengthens Alignment\u2019s Arizona portfolio available to nearly 1.1 million Medicare beneficiaries across Maricopa, Pima and Santa Cruz countiesPHOENIX, Oct. 22, 2026 (GLOBE NEWSWIRE) -- Alignment Health Plan, an award-winning\u2026",
+   "url": "https://finnhub.io/api/news?id=e5b97470d3730ceca91069599a6a2024c8cc2ab3d8a7dcbeed6ab8ba738d19b6",
+   "source": "Yahoo",
+   "published": "2026-10-22T15:00:00+00:00",
+   "tickers": [
+    "ALHC"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "fb750f18065c",
    "headline": "Rural Minnesota hospitals' operations are withering. They say 'profiteering' drugmakers, insurers are to blame",
    "summary": "In a press conference this week, the heads of rural nonprofit hospitals called for immediate lawmaker intervention as financially fatal federal policy changes loom around the corner.",
@@ -3241,6 +3281,21 @@
    ]
   },
   {
+   "id": "74fed7279332",
+   "headline": "Analysts Estimate PTC Therapeutics (PTCT) to Report a Decline in Earnings: What to Look Out for",
+   "summary": "PTC Therapeutics (PTCT) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+   "url": "https://finnhub.io/api/news?id=9684dff6a30f83afc7fbb0cebfce992c8d16b6762d775c3b5a5a4e21d4f712b9",
+   "source": "Yahoo",
+   "published": "2026-10-22T13:00:15+00:00",
+   "tickers": [
+    "PTCT"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "28a58f190df8",
    "headline": "Analysts Estimate Incyte (INCY) to Report a Decline in Earnings: What to Look Out for",
    "summary": "Incyte (INCY) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
@@ -3329,6 +3384,21 @@
    "tag": "Earnings",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "3a55d2527087",
+   "headline": "Analysts Estimate Alignment Healthcare (ALHC) to Report a Decline in Earnings: What to Look Out for",
+   "summary": "Alignment Healthcare (ALHC) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+   "url": "https://finnhub.io/api/news?id=581283398aedff6ab92b4702f4a9a38850baf443dfb6e3467564d2c9a194381c",
+   "source": "Yahoo",
+   "published": "2026-10-22T13:00:06+00:00",
+   "tickers": [
+    "ALHC"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -43707,21 +43777,6 @@
    "tag": "Policy",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "7d5cb79e8b45",
-   "headline": "JPMorgan, Goldman Sachs and 3 Stocks to Watch Heading Into Tuesday",
-   "summary": "JPMorgan, J&J, Goldman Sachs, Wells Fargo and Citi are set to report quarterly earnings before Tuesday\u2019s open; shares edge higher after-hours.",
-   "url": "https://finnhub.io/api/news?id=045a43f19aeec9dbed8d6313331a172b87cfdf824d25ac498c0dd8fc2ba495d5",
-   "source": "Benzinga",
-   "published": "2026-10-13T00:43:45+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
