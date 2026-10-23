@@ -1,31 +1,7 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-23T12:17:41.234444+00:00",
+ "updated": "2026-10-23T12:32:41.986217+00:00",
  "quotes": {
-  "A": {
-   "price": 173.89,
-   "change_pct": -2.17
-  },
-  "ABBV": {
-   "price": 285.19,
-   "change_pct": 0.14
-  },
-  "ABT": {
-   "price": 102.51,
-   "change_pct": 1.99
-  },
-  "ALHC": {
-   "price": 8.43,
-   "change_pct": -0.12
-  },
-  "ALNY": {
-   "price": 227.28,
-   "change_pct": 0.97
-  },
-  "AMGN": {
-   "price": 447.28,
-   "change_pct": 2.04
-  },
   "ARGX": {
    "price": 875.76,
    "change_pct": -1.61
@@ -294,10 +270,6 @@
    "price": 15.55,
    "change_pct": -1.77
   },
-  "SRPT": {
-   "price": 18.18,
-   "change_pct": -2.05
-  },
   "SYK": {
    "price": 307.08,
    "change_pct": 3.19
@@ -321,6 +293,10 @@
   "TMO": {
    "price": 676.54,
    "change_pct": -2.52
+  },
+  "TWST": {
+   "price": 135.47,
+   "change_pct": -9.16
   }
  },
  "tickers": {
@@ -1015,6 +991,36 @@
    ]
   },
   {
+   "id": "c09a9e8b2752",
+   "headline": "Izalontamab Brengitecan (Iza-Bren) Reduced Risk of Disease Progression or Death by 59% versus Chemotherapy in Patients with Advanced HR+/HER2- Breast Cancer in Phase 3 PANKU-Breast01 Study",
+   "summary": "BOTHELL, Wash. & PRINCETON, N.J., October 23, 2026--Izalontamab Brengitecan (Iza-Bren) Reduced Risk of Disease Progression or Death by 59% versus Chemotherapy in Patients with Advanced HR+/HER2-...",
+   "url": "https://finnhub.io/api/news?id=cbbcd5923122cc9acc5c128f43df869ca2bdf5b47233ef91504dfdbbb8d9268b",
+   "source": "Yahoo",
+   "published": "2026-10-23T11:30:00+00:00",
+   "tickers": [
+    "BMY"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "95310538b1f8",
+   "headline": "QIAGEN N.V. Enters Business Combination Agreement for Planned Tender Offer by Crown NL Bidco B.V. at \u20ac46.50 Per Share",
+   "summary": "",
+   "url": "https://finnhub.io/api/news?id=a2654c991b8ca58a18c9f3b32a9548c5d6f4e6a3706c2f879cf002ed0c32fb83",
+   "source": "Fintel",
+   "published": "2026-10-23T11:12:33+00:00",
+   "tickers": [
+    "QGEN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "c002552f7723",
    "headline": "Has Buying Cigna Stock At A High Paid Off?",
    "summary": "For questions about this article or underlying research, email help@trefis.com.",
@@ -1022,7 +1028,8 @@
    "source": "Yahoo",
    "published": "2026-10-23T10:35:04+00:00",
    "tickers": [
-    "CI"
+    "CI",
+    "CVS"
    ],
    "tag": "News",
    "sectors": [
@@ -1078,9 +1085,25 @@
    "source": "Yahoo",
    "published": "2026-10-23T10:14:03+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "JNJ"
    ],
    "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "62134977f8fd",
+   "headline": "Better Dividend Stock to Buy and Hold: Pfizer or Bristol Myers Squibb?",
+   "summary": "One of these pharma stocks offers more income, but the other offers a safer dividend.",
+   "url": "https://finnhub.io/api/news?id=89bb022e7ab98f8052a1d6c38dc5e4b4964e2313b38108adc120835b2eb6384a",
+   "source": "Yahoo",
+   "published": "2026-10-23T10:03:00+00:00",
+   "tickers": [
+    "BMY"
+   ],
+   "tag": "M&A",
    "sectors": [
     "pharma"
    ]
@@ -42118,275 +42141,6 @@
    "tag": "News",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "4d7f65129cbe",
-   "headline": "Morgan Stanley Maintains Overweight on Guardant Health, Raises Price Target to $200",
-   "summary": "Morgan Stanley analyst Shannon O'Callaghan maintains Guardant Health (NASDAQ:GH) with a Overweight and raises the price target from $185 to $200.",
-   "url": "https://finnhub.io/api/news?id=7397836963d2e7d2b24fc9ed6e0544ad4c8aa7135529f8246cced68a07cf5808",
-   "source": "Benzinga",
-   "published": "2026-10-13T12:30:40+00:00",
-   "tickers": [
-    "GH"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "1e91d2eb8683",
-   "headline": "UnitedHealth Group beats the Street with $4.1B in profit for Q3",
-   "summary": "Another round of healthcare industry earnings reports kicked off Tuesday morning, with UnitedHealth Group reporting $4.1 billion in profit for the third quarter.",
-   "url": "https://www.fiercehealthcare.com/payers/unitedhealth-group-beats-street-41b-profit-q3",
-   "source": "Fierce Healthcare",
-   "published": "2026-10-13T12:30:24.416787+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "b35c5b126abc",
-   "headline": "ARPA-H program manager talks 'first-shoring' philosophy behind $125M RNA manufacturing network challenge",
-   "summary": "Rather than another instance of on-shoring enthusiasm, ARPA-H\u2019s personalized RNA drug production network project should be viewed as more akin to a \u201cfirst-shoring program,\u201d said John Schiel, Ph.D., program manager for GIVE at ARPA-H.",
-   "url": "https://www.fiercepharma.com/pharma/arpa-h-program-manager-talks-first-shoring-philosophy-behind-125m-rna-manufacturing-network",
-   "source": "Fierce Pharma",
-   "published": "2026-10-13T12:30:24.265348+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "569243a3c152",
-   "headline": "Wall Street Analysts See Johnson & Johnson (JNJ) as a Buy: Should You Invest?",
-   "summary": "According to the average brokerage recommendation (ABR), one should invest in Johnson & Johnson (JNJ). It is debatable whether this highly sought-after metric is effective because Wall Street analysts' recommendations tend to be overly\u2026",
-   "url": "https://finnhub.io/api/news?id=2739f3567089a2f53570186d934803805202ae2c0822726d594f5d45cf89986e",
-   "source": "Yahoo",
-   "published": "2026-10-13T12:30:04+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "a34e11b91b02",
-   "headline": "Compared to Estimates, Johnson & Johnson (JNJ) Q3 Earnings: A Look at Key Metrics",
-   "summary": "While the top- and bottom-line numbers for Johnson & Johnson (JNJ) give a sense of how the business performed in the quarter ended September 2026, it could be worth looking at how some of its key metrics compare to Wall Street estimates\u2026",
-   "url": "https://finnhub.io/api/news?id=8394c5028d631cf4b3a20a9659b2232bf5c7c5536da4af6c9301615e4afb02aa",
-   "source": "Yahoo",
-   "published": "2026-10-13T12:30:03+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "e7fd809ba463",
-   "headline": "Compared to Estimates, UnitedHealth (UNH) Q3 Earnings: A Look at Key Metrics",
-   "summary": "Although the revenue and EPS for UnitedHealth (UNH) give a sense of how its business performed in the quarter ended September 2026, it might be worth considering how some key metrics compare with Wall Street estimates and the year-ago\u2026",
-   "url": "https://finnhub.io/api/news?id=6c4746544599084862190b806a0e9b9284451ac96318c54901c46f1f35d29f24",
-   "source": "Yahoo",
-   "published": "2026-10-13T12:30:03+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "bb5119200df6",
-   "headline": "Advancing Access to Lung Cancer Care Through Artificial Intelligence Innovation",
-   "summary": "Originally published on preventcancer.orgThis post has been sponsored by Bristol Myers Squibb as part of its sponsorship of the 2026 Prevent Cancer Gala.",
-   "url": "https://finnhub.io/api/news?id=b9002e411acf914659357cc029110a7b59cb56aa34dc56fa719830ee03257903",
-   "source": "Yahoo",
-   "published": "2026-10-13T12:30:00+00:00",
-   "tickers": [
-    "BMY"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "4390f0c49a8b",
-   "headline": "Gossan Resources Announces Offering of Units for Gross Proceeds of $500,000",
-   "summary": "Winnipeg, Manitoba--(Newsfile Corp. - October 13, 2026) - Gossan Resources Limited (TSXV: GSS) (FSE: GSR) (XETRA: GSR) (the \"Company\" or \"Gossan\") is pleased to announce a non-brokered private placement for gross proceeds of up to\u2026",
-   "url": "https://finnhub.io/api/news?id=d5a91e25982290d9b88aee8a302c3b791df21bbd23abcc96cb683b39db2bc881",
-   "source": "Yahoo",
-   "published": "2026-10-13T12:30:00+00:00",
-   "tickers": [
-    "NVS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "75576d0e23e4",
-   "headline": "1 Cash-Producing Stock to Target This Week and 2 Facing Headwinds",
-   "summary": "A company that generates cash isn\u2019t automatically a winner. Some businesses stockpile cash but fail to reinvest wisely, limiting their ability to expand.",
-   "url": "https://finnhub.io/api/news?id=5aa89dfa1d5fa38a825b535ae0a531450c62a316e860baa5b5f610eea219b4bb",
-   "source": "Yahoo",
-   "published": "2026-10-13T12:27:04+00:00",
-   "tickers": [
-    "EVH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "231c8f4fd2fb",
-   "headline": "Morgan Stanley Maintains Overweight on Danaher, Raises Price Target to $240",
-   "summary": "Morgan Stanley analyst Kallum Titchmarsh maintains Danaher (NYSE:DHR) with a Overweight and raises the price target from $220 to $240.",
-   "url": "https://finnhub.io/api/news?id=1a44739ccc5a130a3c634188e5aba171ad70351eff98565d5544496bc4568486",
-   "source": "Benzinga",
-   "published": "2026-10-13T12:27:00+00:00",
-   "tickers": [
-    "DHR"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "918406ee1bb7",
-   "headline": "5 Things to Know Before the Stock Market Opens on Tuesday",
-   "summary": "News of the day for Oct. 13, 2026",
-   "url": "https://finnhub.io/api/news?id=c61e0f04036f0b58c396acd06048b9916974ea6adc7ddf264abf01aef6c3af79",
-   "source": "Yahoo",
-   "published": "2026-10-13T12:26:24+00:00",
-   "tickers": [
-    "JNJ",
-    "UNH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "702c96b9c761",
-   "headline": "Morgan Stanley Maintains Overweight on Charles River, Raises Price Target to $340",
-   "summary": "Morgan Stanley analyst Ricky Goldwasser maintains Charles River (NYSE:CRL) with a Overweight and raises the price target from $300 to $340.",
-   "url": "https://finnhub.io/api/news?id=93c15420dba820f73acdaf92c76e738f90d3f27ffc0b3533e13299a950b32e2a",
-   "source": "Benzinga",
-   "published": "2026-10-13T12:24:39+00:00",
-   "tickers": [
-    "CRL"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "5c4f9dfa1040",
-   "headline": "Is This the Right Time to Retain Omnicell Stock in Your Portfolio?",
-   "summary": "OMCL raises its 2026 earnings outlook on cost discipline and efficiency, but rising memory costs and delayed Titan XT adoption pose challenges.",
-   "url": "https://finnhub.io/api/news?id=fa86483811c9a26fa306c1dab530a41234b8d543b4036a93d3c928725562b6d6",
-   "source": "Yahoo",
-   "published": "2026-10-13T12:23:00+00:00",
-   "tickers": [
-    "ABT",
-    "GMED",
-    "OMCL"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "a04f67fcf53a",
-   "headline": "Freenome Sinks 11% Despite \u201cClinically Meaningful\u201d Gains for Next-Gen Colon Cancer Blood Test",
-   "summary": "Key TakeawaysFreenome shares fell 11% today after an updated version of its SimpleScreen CRC blood test raised precancer detection to 18. 2%, up from 13.",
-   "url": "https://finnhub.io/api/news?id=3df3da1d19a69fc0bd0faad01da0c6ad1843a7140653e7ed4be944e16b1fb678",
-   "source": "Yahoo",
-   "published": "2026-10-13T12:20:29+00:00",
-   "tickers": [
-    "ABT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "60d8fd3797c7",
-   "headline": "Barclays Maintains Overweight on Legend Biotech, Lowers Price Target to $68",
-   "summary": "Barclays analyst Etzer Darout maintains Legend Biotech (NASDAQ:LEGN) with a Overweight and lowers the price target from $74 to $68.",
-   "url": "https://finnhub.io/api/news?id=687e1185c38201b198861fd26676187308a849b63005cc031772ab4b82d76540",
-   "source": "Benzinga",
-   "published": "2026-10-13T12:20:07+00:00",
-   "tickers": [
-    "LEGN"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "ee4eb8b4e404",
-   "headline": "BioNTech stock falls after cancer trial misses key endpoint",
-   "summary": "Investing.com --BioNTech (NASDAQ: BNTX) shares fell 5% on Tuesday after the company announced that a mid-to-late-stage clinical trial for its experimental mRNA cancer drug, BNT113, missed its first major goal.",
-   "url": "https://finnhub.io/api/news?id=7d94bf9870aa7272ed266c074910b85dd0e49afb8ffcb5bdcf5de6ff22ab1a82",
-   "source": "Yahoo",
-   "published": "2026-10-13T12:19:46+00:00",
-   "tickers": [
-    "BNTX"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "383f128895e9",
-   "headline": "UnitedHealth's Q3 Is Proving My Bullish Takes Right (Review)",
-   "summary": "UnitedHealth Group delivered Q3 2026 beats on both top and bottom lines, raising full-year guidance and reaffirming a turnaround. Click for more on UNH.",
-   "url": "https://finnhub.io/api/news?id=7c3da30bc355a2ed992b17b3e0cf3293fcd344178af2cfb06c6408501bfa2fbb",
-   "source": "SeekingAlpha",
-   "published": "2026-10-13T12:16:14+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "4e04d2493c78",
-   "headline": "Thermo Fisher\u2019s Expanded Drug Lifecycle Role Might Change The Case For Investing In Thermo Fisher Scientific (TMO)",
-   "summary": "Earlier this month, Quantum BioPharma announced a Study Start-Up Agreement with Thermo Fisher Scientific\u2019s clinical research business to implement a Phase 2 trial of Lucid-MS in progressive multiple sclerosis, while Thermo Fisher also\u2026",
-   "url": "https://finnhub.io/api/news?id=75e139aed4770546b0a8239bdcbf52cb2262d5fe8b034413dcc8194c6f4c4553",
-   "source": "Yahoo",
-   "published": "2026-10-13T12:16:13+00:00",
-   "tickers": [
-    "TMO"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "tools"
    ]
   }
  ]
