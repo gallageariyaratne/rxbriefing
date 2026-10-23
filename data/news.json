@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-23T02:47:31.594621+00:00",
+ "updated": "2026-10-23T03:02:39.221486+00:00",
  "quotes": {
   "A": {
    "price": 173.89,
@@ -78,6 +78,10 @@
    "price": 339.66,
    "change_pct": -1.51
   },
+  "CRSP": {
+   "price": 49.99,
+   "change_pct": -1.01
+  },
   "CVS": {
    "price": 94.48,
    "change_pct": 1.1
@@ -89,6 +93,10 @@
   "DHR": {
    "price": 229.75,
    "change_pct": -1.76
+  },
+  "DNLI": {
+   "price": 18.66,
+   "change_pct": -0.11
   },
   "DVA": {
    "price": 186.1,
@@ -298,6 +306,10 @@
    "price": 15.55,
    "change_pct": -1.77
   },
+  "SRPT": {
+   "price": 18.18,
+   "change_pct": -2.05
+  },
   "SYK": {
    "price": 307.08,
    "change_pct": 3.19
@@ -309,18 +321,6 @@
   "TGTX": {
    "price": 53.16,
    "change_pct": -0.08
-  },
-  "THC": {
-   "price": 270.63,
-   "change_pct": 0.56
-  },
-  "TMDX": {
-   "price": 72.06,
-   "change_pct": -0.47
-  },
-  "TMO": {
-   "price": 676.54,
-   "change_pct": -2.52
   }
  },
  "tickers": {
@@ -949,6 +949,37 @@
    "sectors": []
   },
   {
+   "id": "6326eda91417",
+   "headline": "MRNA Stock\u2019s Vaccine Rally Cracks As Worst Week In 3 Months Looms \u2014 Analyst Calls It A \u2018Do-Not-Trade\u2019 Over Wild Swings",
+   "summary": "Mizuho analyst Jared Holz said the vaccine data weren\u2019t bad, but Wall Street\u2019s expectations were too high.",
+   "url": "https://finnhub.io/api/news?id=a93087b565be4402a09f764630c5f9ce6c76c82457785cdd8843f4bc756767ed",
+   "source": "Yahoo",
+   "published": "2026-10-23T01:28:49+00:00",
+   "tickers": [
+    "MRK",
+    "MRNA"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "c4d7e3b03a39",
+   "headline": "What Snap-On (SNA) Said on Its Q3 Earnings Call",
+   "summary": "Snap-On (NYSE:SNA) reported third-quarter 2026 sales of $1.18 billion, up 0.6% as reported from a year earlier, while organic sales declined 2.8% as higher activity in industrial markets was offset by weaker sales to its mobile van\u2026",
+   "url": "https://finnhub.io/api/news?id=724a85335bdbdf00f347b835838b84c375b6a9e7a8c114649cac1b8abd776581",
+   "source": "Yahoo",
+   "published": "2026-10-23T01:04:22+00:00",
+   "tickers": [
+    "HIMS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "a3e3d9b86910",
    "headline": "What Higher Interest Rates Mean for Dividend Stocks Like AbbVie and Pfizer",
    "summary": "They definitely matter... up to a point.",
@@ -972,9 +1003,25 @@
    "source": "Yahoo",
    "published": "2026-10-23T00:18:35+00:00",
    "tickers": [
-    "MRK"
+    "MRK",
+    "MRNA"
    ],
    "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "6b83c9d51d2e",
+   "headline": "Nasdaq 100 Clocks Worst Day In Four Months As Investors Grow Weary Of Capex, Elevated Debt \u2014 META, SPCX, BE, MRNA In Focus",
+   "summary": "Meta\u2019s plan to boost capex reignited investor concerns as more tech firms look to raise debt to fund AI growth.",
+   "url": "https://finnhub.io/api/news?id=a63d881206482be9a6bc6fbf2bb9f71020d5154a1e81795bbd077716db89c988",
+   "source": "Yahoo",
+   "published": "2026-10-22T23:44:48+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "Health AI",
    "sectors": [
     "pharma"
    ]
@@ -1275,6 +1322,21 @@
    "tickers": [],
    "tag": "Policy",
    "sectors": []
+  },
+  {
+   "id": "8f4fabaee3c0",
+   "headline": "CRISPR Therapeutics AG (CRSP) Stock Moves -1.21%: What You Should Know",
+   "summary": "CRISPR Therapeutics AG (CRSP) closed the most recent trading day at $49.89, moving 1.21% from the previous trading session.",
+   "url": "https://finnhub.io/api/news?id=23382b2f152d80b0387e8e65b3b169006f4e3fd89a7151c8fba9ef5ba88070e3",
+   "source": "Yahoo",
+   "published": "2026-10-22T21:00:03+00:00",
+   "tickers": [
+    "CRSP"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
   },
   {
    "id": "8792b43d8052",
@@ -1746,6 +1808,21 @@
    "tag": "Clinical",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "1f54ad7d5a86",
+   "headline": "Denali Therapeutics to Report Third Quarter 2026 Financial Results and Business Highlights on November 3, 2026",
+   "summary": "SOUTH SAN FRANCISCO, Calif., Oct. 22, 2026 (GLOBE NEWSWIRE) -- Denali Therapeutics Inc. (Nasdaq: DNLI) today announced that it will report financial results and business highlights for the third quarter ended September 30, 2026, on\u2026",
+   "url": "https://finnhub.io/api/news?id=c1a11324ac66336975d981edaf6682bf05731e3d24b15c20657601c9d37567de",
+   "source": "Yahoo",
+   "published": "2026-10-22T20:01:00+00:00",
+   "tickers": [
+    "DNLI"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -3909,6 +3986,21 @@
    ]
   },
   {
+   "id": "510b8b64415b",
+   "headline": "New Waystar and Modern Healthcare Research Reveals Significant Gaps in Providers' Ability to Prevent Payer Recoupments",
+   "summary": "Waystar (Nasdaq: WAY), a provider of leading healthcare payment software, and Modern Healthcare today announced new research showing that payer recoupments create significant financial exposure, drain staff capacity, and make it harder\u2026",
+   "url": "https://finnhub.io/api/news?id=b4457e93f8aa620d8230745d5e33935e8ef8dd81767dc172a4624eae6b71b8e8",
+   "source": "Yahoo",
+   "published": "2026-10-22T13:00:00+00:00",
+   "tickers": [
+    "WAY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "6ecb214a0208",
    "headline": "IQVIA Gears Up to Post Q3 Earnings: Here's What Investors Should Know",
    "summary": "IQV is poised for y/y revenue and earnings growth in Q3, driven by stronger clinical research demand, solid bookings, AI adoption and operational efficiencies.",
@@ -4133,6 +4225,21 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "37f42db14658",
+   "headline": "Sarepta Therapeutics to Announce Third Quarter 2026 Financial Results",
+   "summary": "CAMBRIDGE, Mass., October 22, 2026--Sarepta Therapeutics, Inc. (NASDAQ:SRPT), the leader in precision genetic medicine for rare diseases, will report third quarter 2026 financial results after the Nasdaq Global Market closes on Thursday,\u2026",
+   "url": "https://finnhub.io/api/news?id=febf8ad9cc9373d54347ac34b9a129adc2e448044723578796e2518d5b95d0a5",
+   "source": "Yahoo",
+   "published": "2026-10-22T12:30:00+00:00",
+   "tickers": [
+    "SRPT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -44116,21 +44223,6 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
-   ]
-  },
-  {
-   "id": "826f185d7a2b",
-   "headline": "South Korea's Kospi index sinks more than 7% on semiconductor share sell-off over AI boom worries",
-   "summary": "HONG KONG (AP) \u2014 South Korea\u2019s benchmark Kospi index dropped more than 7% on Tuesday on a sell-off of chip shares, and Asian shares mostly declined after U. futures were also mixed, and oil prices fell as escalating tensions in the Middle\u2026",
-   "url": "https://finnhub.io/api/news?id=daa5ba8aa9b20902d5ae142ea94e15b7ed22a1a8ab9871e0907d8d97a477985c",
-   "source": "Yahoo",
-   "published": "2026-10-13T02:56:06+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
