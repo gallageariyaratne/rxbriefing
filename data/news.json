@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-23T02:02:47.776257+00:00",
+ "updated": "2026-10-23T02:17:46.409306+00:00",
  "quotes": {
   "A": {
    "price": 173.89,
@@ -90,10 +90,6 @@
    "price": 229.75,
    "change_pct": -1.76
   },
-  "DOCS": {
-   "price": 33.68,
-   "change_pct": 0.3
-  },
   "DVA": {
    "price": 186.1,
    "change_pct": 5.25
@@ -106,6 +102,10 @@
    "price": 445.28,
    "change_pct": 2.57
   },
+  "EVH": {
+   "price": 4.89,
+   "change_pct": 1.24
+  },
   "EW": {
    "price": 90.09,
    "change_pct": 1.91
@@ -117,6 +117,10 @@
   "GEHC": {
    "price": 71.42,
    "change_pct": 3.49
+  },
+  "GH": {
+   "price": 162.94,
+   "change_pct": -2.23
   },
   "GILD": {
    "price": 157.19,
@@ -317,10 +321,6 @@
   "VEEV": {
    "price": 322.55,
    "change_pct": 0.62
-  },
-  "VRTX": {
-   "price": 535.17,
-   "change_pct": 2.03
   }
  },
  "tickers": {
@@ -1113,6 +1113,7 @@
    "source": "Yahoo",
    "published": "2026-10-22T21:40:45+00:00",
    "tickers": [
+    "GH",
     "NTRA"
    ],
    "tag": "News",
@@ -1287,6 +1288,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "b9a98f1f66e8",
+   "headline": "3 Value Stocks with Warning Signs",
+   "summary": "Value investing has produced some of the world\u2019s most famous investing billionaires, including Warren Buffett, David Einhorn, and Seth Klarman, who built their fortunes by purchasing wonderful businesses at reasonable prices. But these\u2026",
+   "url": "https://finnhub.io/api/news?id=164f988617ae629c5ec0cfd223c77369d6cea2f9d52b9e35a62f29c6003edd58",
+   "source": "Yahoo",
+   "published": "2026-10-22T20:53:53+00:00",
+   "tickers": [
+    "EVH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
    ]
   },
   {
@@ -1668,6 +1684,21 @@
    "tag": "News",
    "sectors": [
     "healthai"
+   ]
+  },
+  {
+   "id": "6cd74b3f6ae3",
+   "headline": "TransMedics to Report Third Quarter 2026 Financial Results on November 5, 2026",
+   "summary": "TransMedics Group, Inc. (\"TransMedics\") (Nasdaq: TMDX), a medical technology company that is transforming organ transplant therapy for patients with end-stage lung, heart and liver failure, today announced that it will release financial\u2026",
+   "url": "https://finnhub.io/api/news?id=1699f355b7c4e887ba442cd6be268b4da01199f6c0d9bac80a830c9d9d68863d",
+   "source": "Yahoo",
+   "published": "2026-10-22T20:05:00+00:00",
+   "tickers": [
+    "TMDX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -44035,21 +44066,6 @@
    "tag": "News",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "9e75a46f9b7f",
-   "headline": "Cytokinetics (CYTK) Stock Looks Hard To Pin Down Following Strong Heart Drug Updates",
-   "summary": "Cytokinetics has delivered a sizeable 81.2% share price gain over the past three years, helped by fresh momentum around its heart drugs. That puts a spotlight on a simple question for investors: Is the current price around book value\u2026",
-   "url": "https://finnhub.io/api/news?id=15ddcdc5d6ca40c1c1bbccee901e11b95008e62b2cc159f69b9d0930ead48244",
-   "source": "Yahoo",
-   "published": "2026-10-13T02:14:22+00:00",
-   "tickers": [
-    "CYTK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
    ]
   }
  ]
