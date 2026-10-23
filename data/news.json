@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-23T01:02:49.418350+00:00",
+ "updated": "2026-10-23T01:17:40.968747+00:00",
  "quotes": {
   "A": {
    "price": 173.89,
@@ -138,6 +138,10 @@
    "price": 467.31,
    "change_pct": 1.72
   },
+  "HCAT": {
+   "price": 1.74,
+   "change_pct": 0
+  },
   "HIMS": {
    "price": 29.13,
    "change_pct": -0.27
@@ -193,6 +197,10 @@
   "LLY": {
    "price": 1306.69,
    "change_pct": 2.83
+  },
+  "MCK": {
+   "price": 1012.34,
+   "change_pct": -0.31
   },
   "MDT": {
    "price": 96.59,
@@ -926,6 +934,21 @@
  },
  "stories": [
   {
+   "id": "a3e3d9b86910",
+   "headline": "What Higher Interest Rates Mean for Dividend Stocks Like AbbVie and Pfizer",
+   "summary": "They definitely matter... up to a point.",
+   "url": "https://finnhub.io/api/news?id=e1cb5a25981342f9c599c8bdabc79af4d8976b99945110614b8bd9900fca9fee",
+   "source": "Yahoo",
+   "published": "2026-10-23T00:20:00+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "abc02c7cd2fc",
    "headline": "Moderna stock\u2019s 17% slump was a \u2018sell the news\u2019 event, analyst says",
    "summary": "Moderna shares tumbled after leaked cancer vaccine trial data showed promising results for its treatment developed with Merck.",
@@ -966,11 +989,42 @@
     "AMGN",
     "CAH",
     "COR",
-    "LLY"
+    "LLY",
+    "MCK"
    ],
    "tag": "GLP-1",
    "sectors": [
     "pharmacy"
+   ]
+  },
+  {
+   "id": "4685a64f6737",
+   "headline": "What Molina Healthcare Stock Earnings Beat Means For Shareholders",
+   "summary": "Molina Healthcare reported Q3 2026 revenue of US$11.08b and GAAP EPS of US$0.73, with adjusted EPS of US$0.89 and full year premium and earnings guidance reaffirmed. The sharp year to date earnings drop, together with management\u2026",
+   "url": "https://finnhub.io/api/news?id=4035011245ea41fcf435e975d27189a7fdd85d2365ac0bb01c34420f47750118",
+   "source": "Yahoo",
+   "published": "2026-10-22T22:11:07+00:00",
+   "tickers": [
+    "MOH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "1981416b9e7f",
+   "headline": "Medpace Holdings (MEDP) Beat Q3 Estimates, Is It Still 24% Overvalued?",
+   "summary": "Medpace Holdings (MEDP) just packed several signals into one update. Third quarter earnings topped expectations, 2026 guidance landed below revenue forecasts but ahead on EPS, and a fresh US$1b buyback authorization arrived. Medpace\u2026",
+   "url": "https://finnhub.io/api/news?id=0349a5924b76355fac8e5e87cebe05c6b734b5b1779669c309c7b2cce9b82ebb",
+   "source": "Yahoo",
+   "published": "2026-10-22T22:10:58+00:00",
+   "tickers": [
+    "MEDP"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -1100,6 +1154,21 @@
     "ABBV"
    ],
    "tag": "Legal",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "d099ebe92f2e",
+   "headline": "Novo Nordisk (CPSE:NOVO B) Deepens AI Drug Discovery Ties",
+   "summary": "Novo Nordisk (CPSE:NOVO B) uses OpenAI\u2019s Rosalind AI model in its drug discovery work, tying its R&D to OpenAI\u2019s tech stack. OpenAI has acquired Orchestra Bio to strengthen Rosalind\u2019s life sciences capabilities used by pharmaceutical\u2026",
+   "url": "https://finnhub.io/api/news?id=f5f038519644901997784b49db66e1b1927a8e51d16b499bc532617493138632",
+   "source": "Yahoo",
+   "published": "2026-10-22T21:08:47+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "M&A",
    "sectors": [
     "pharma"
    ]
@@ -1539,6 +1608,21 @@
    "tag": "M&A",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "b1aab47610bb",
+   "headline": "Health Catalyst to Announce Third Quarter 2026 Operating Results and Host Conference Call on Thursday, November 5, 2026",
+   "summary": "SALT LAKE CITY, Oct. 22, 2026 (GLOBE NEWSWIRE) -- Health Catalyst, Inc. (\"Health Catalyst\", Nasdaq: HCAT), a healthcare intelligence company designed to accelerate measurable improvement for health systems, will release its third quarter\u2026",
+   "url": "https://finnhub.io/api/news?id=e37dee71a68d7504eb7a702c097d7d6280c3a488de6597c035ff165e0742759f",
+   "source": "Yahoo",
+   "published": "2026-10-22T20:05:00+00:00",
+   "tickers": [
+    "HCAT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthai"
    ]
   },
   {
@@ -2032,7 +2116,8 @@
    "source": "Yahoo",
    "published": "2026-10-22T17:35:00+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "News",
    "sectors": [
@@ -2527,9 +2612,25 @@
    "source": "Yahoo",
    "published": "2026-10-22T15:31:00+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "GLP-1",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "410eb620b14b",
+   "headline": "SAP Stock Jumps After Earnings. How the Software Giant Became an AI Winner.",
+   "summary": "The software apocalypse never came and the sector is enjoying a stellar recovery. But the winners and losers still need to be sorted.",
+   "url": "https://finnhub.io/api/news?id=d6abb336de40e00992fc96d5e00124b3036489358df093419373e5fa9f8616cd",
+   "source": "Yahoo",
+   "published": "2026-10-22T15:31:00+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "Earnings",
    "sectors": [
     "pharma"
    ]
@@ -2666,6 +2767,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "6e5e0c70b962",
+   "headline": "European Equities Traded in the US as American Depositary Receipts Drop in Thursday Trading",
+   "summary": "European equities traded in the US as American depositary receipts were tracking lower late Thursday",
+   "url": "https://finnhub.io/api/news?id=de48ddc88905ec25aebee3ac625b7061535e901f6e455d6dd25ec58dc4f427b6",
+   "source": "Yahoo",
+   "published": "2026-10-22T15:07:18+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -2831,7 +2947,23 @@
    "source": "Yahoo",
    "published": "2026-10-22T14:27:00+00:00",
    "tickers": [
+    "AZN",
     "NVS"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "b7c401d0380e",
+   "headline": "AstraZeneca Launches Targeted Lung Cancer Drug In US After FDA Accelerated Approval",
+   "summary": "AstraZeneca\u2019s Zegfrovy demonstrated a 46% overall response rate in a trial supporting its accelerated FDA approval, as the company seeks clearance to use the lung cancer drug as a first-line treatment.",
+   "url": "https://finnhub.io/api/news?id=804399c19e6b1701b2444d8594662fcfcda8a5a2737a3638412ffd9f3cd3d389",
+   "source": "Yahoo",
+   "published": "2026-10-22T14:21:58+00:00",
+   "tickers": [
+    "AZN"
    ],
    "tag": "FDA",
    "sectors": [
@@ -2981,6 +3113,7 @@
    "source": "Yahoo",
    "published": "2026-10-22T13:49:00+00:00",
    "tickers": [
+    "AZN",
     "MRK"
    ],
    "tag": "Clinical",
@@ -3075,6 +3208,21 @@
    "tag": "Health AI",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "4ffc909b3d11",
+   "headline": "AstraZeneca bags another US indication for Ultomiris with IgAN approval",
+   "summary": "Following its provisional blessing in IgAN, Ultomiris is now indicated for use in six conditions.",
+   "url": "https://finnhub.io/api/news?id=33cb88b6d2736e1f4f2c41cce8d84e09e5d699765f47dd75f27b92345e7380e2",
+   "source": "Yahoo",
+   "published": "2026-10-22T13:33:01+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -3555,6 +3703,21 @@
    ]
   },
   {
+   "id": "d0112bdb565f",
+   "headline": "P&G, Nestl\u00e9, Mars, AstraZeneca, ITC and Bekaert win OMP Supply Chain Awards",
+   "summary": "Awards recognize supply chain innovation, long-term partnership, and community engagement at conferences in Singapore and ShanghaiANTWERPEN, BE / ACCESS Newswire / October 22, 2026 / , a leader in AI-powered supply chain solutions,\u2026",
+   "url": "https://finnhub.io/api/news?id=5b41de84819220f5f59a2f3c2f98d0af0dbdaa49a9f9ab7380e8f431f2dc2bc4",
+   "source": "Yahoo",
+   "published": "2026-10-22T13:00:00+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "6ecb214a0208",
    "headline": "IQVIA Gears Up to Post Q3 Earnings: Here's What Investors Should Know",
    "summary": "IQV is poised for y/y revenue and earnings growth in Q3, driven by stronger clinical research demand, solid bookings, AI adoption and operational efficiencies.",
@@ -3879,6 +4042,21 @@
     "BMY"
    ],
    "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "30045d7ecf53",
+   "headline": "ZEGFROVY\u00ae (sunvozertinib) now available in the US for patients with previously treated non-small cell lung cancer with EGFR exon 20 insertion mutations",
+   "summary": "WILMINGTON, Del., October 22, 2026--AstraZeneca today announced the US availability of ZEGFROVY\u00ae (sunvozertinib) for the treatment of adults with locally advanced or metastatic non-small cell lung cancer (NSCLC) whose tumors have\u2026",
+   "url": "https://finnhub.io/api/news?id=4774ec1cb9712fe98950e6a2339a9c5317a057cea36d11b122c10ef5f97701e9",
+   "source": "Yahoo",
+   "published": "2026-10-22T12:10:00+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "News",
    "sectors": [
     "pharma"
    ]
@@ -43809,21 +43987,6 @@
    "tag": "Clinical",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "f28928d163fc",
-   "headline": "Why Alignment Healthcare (ALHC) Stock Is Up Today",
-   "summary": "Shares of health insurance company Alignment Healthcare (NASDAQ:ALHC) jumped 8.6% in the afternoon session after Alignment Health Plan, its subsidiary, announced that its new Central Health Harmony Medicare Advantage plan will be\u2026",
-   "url": "https://finnhub.io/api/news?id=9724013f43fdda4f7cba871e382f324acb80e2412bf02dc109cb121cd079bff5",
-   "source": "Yahoo",
-   "published": "2026-10-13T01:03:03+00:00",
-   "tickers": [
-    "ALHC"
-   ],
-   "tag": "Policy",
-   "sectors": [
-    "payers"
    ]
   }
  ]
