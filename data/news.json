@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-23T10:32:32.463451+00:00",
+ "updated": "2026-10-23T10:47:27.814980+00:00",
  "quotes": {
   "A": {
    "price": 173.89,
@@ -53,10 +53,6 @@
   "BMY": {
    "price": 63,
    "change_pct": 3.08
-  },
-  "BNTX": {
-   "price": 89.67,
-   "change_pct": -1.77
   },
   "BSX": {
    "price": 46.01,
@@ -321,6 +317,10 @@
   "TGTX": {
    "price": 53.16,
    "change_pct": -0.08
+  },
+  "THC": {
+   "price": 270.63,
+   "change_pct": 0.56
   }
  },
  "tickers": {
@@ -964,6 +964,21 @@
    ]
   },
   {
+   "id": "da6728aea96c",
+   "headline": "Exelixis (EXEL) Stock May Be A Bargain Despite Its 223% Run",
+   "summary": "Exelixis has delivered strong share-price gains in recent years, which puts fresh attention on a simple question for you as an investor. Is the current valuation supported by what the business is earning today and what those earnings\u2026",
+   "url": "https://finnhub.io/api/news?id=d74e9bd24517bd7ed7b9524a3b0b21b4e1f22fab4e00626aed095534d9933f78",
+   "source": "Yahoo",
+   "published": "2026-10-23T09:12:48+00:00",
+   "tickers": [
+    "EXEL"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "76e1a76f8e41",
    "headline": "Elevance Health (ELV) Stock Rallies As Q3 Results Tighten Margin Focus",
    "summary": "Elevance Health just posted its Q3 2026 scorecard and the stock has shrugged off any hesitation. Shares are up 2.6% today to about US$445 even as earnings per share of US$6.30 sit below the prior quarter and net income is US$1.37b on more\u2026",
@@ -1071,6 +1086,7 @@
     "CNC",
     "CVS",
     "ELV",
+    "HUM",
     "UNH"
    ],
    "tag": "News",
@@ -1101,6 +1117,21 @@
    "sectors": []
   },
   {
+   "id": "3a2a590f862c",
+   "headline": "U.S. Treasury Wants to Rein In Deals for Chinese Biotech and AI",
+   "summary": "The prohibitions could cut off Big Pharma from Chinese biotechs\u2014the source of many promising cancer treatments",
+   "url": "https://finnhub.io/api/news?id=52ebefcc082f0a8690bbd83d4907a06b9e6deaa848edcb7c19c8ff8c18f7526e",
+   "source": "Yahoo",
+   "published": "2026-10-23T08:09:00+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "248946570a79",
    "headline": "Guidance Up, Trend Intact: Veeva Is Today's Double-Confirmation Stock",
    "summary": "For questions about this article or underlying research, email help@trefis.com.",
@@ -1114,6 +1145,36 @@
    "tag": "News",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "d6f6cc3a6a96",
+   "headline": "How Much Downside Is Left In Moderna Stock?",
+   "summary": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://finnhub.io/api/news?id=35a567ab400cc509afa96f335189f8350dc665d14e7053e42fbeb4de7d7c049c",
+   "source": "Yahoo",
+   "published": "2026-10-23T08:00:36+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "b90a528046a8",
+   "headline": "New Strong Buy Stocks for October 23rd",
+   "summary": "UVE, HAS, TXN, URI and ISRG have been added to the Zacks Rank #1 (Strong Buy) List on October 23, 2026.",
+   "url": "https://finnhub.io/api/news?id=e336868a2db5442772bf3d89ee96d915c8123bbcefdc8a95bffee1687ab5ff78",
+   "source": "Yahoo",
+   "published": "2026-10-23T07:47:00+00:00",
+   "tickers": [
+    "ISRG"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -43251,113 +43312,6 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "7d35dffc421c",
-   "headline": "Johnson & Johnson (JNJ) Q3 Earnings Surpass Estimates",
-   "summary": "Johnson & Johnson (JNJ) delivered earnings and revenue surprises of +2.37% and -0.15%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
-   "url": "https://finnhub.io/api/news?id=262c13b238ce81163c22a26f3f6904aabad4e33a7e58302516fa88e16ef4eacb",
-   "source": "Yahoo",
-   "published": "2026-10-13T10:45:02+00:00",
-   "tickers": [
-    "JNJ",
-    "MRK"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "84dab5f0c5d3",
-   "headline": "Merck Showcases First-Time Pivotal Phase 3 Results From Oncology Pipeline and Continued Innovative Potential of Existing Portfolio at ESMO 2026",
-   "summary": "RAHWAY, N.J., October 13, 2026--Merck (NYSE: MRK), known as MSD outside of the United States and Canada, today announced that first-time results from three pivotal clinical trials will be presented during late-breaking Presidential\u2026",
-   "url": "https://finnhub.io/api/news?id=3821e00c82972b755e611b671b06a10f68f3ab3b9ef5d049856faf7ea1ef9bac",
-   "source": "Yahoo",
-   "published": "2026-10-13T10:45:00+00:00",
-   "tickers": [
-    "MRK"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "407e5874dc0b",
-   "headline": "BioNTech Provides Update on Phase 2/3 Clinical Trial for mRNA Cancer Immunotherapy Candidate BNT113 in Metastatic HPV16-positive Head and Neck Cancer",
-   "summary": "AHEAD-MERIT Phase 2/3 clinical trial did not meet its first dual primary endpoint of progression-free survival for the mRNA cancer immunotherapy candidate BNT113 plus pembrolizumab compared with pembrolizumab alone The trial will continue\u2026",
-   "url": "https://finnhub.io/api/news?id=96d1fad20eda56440990084a4b405941b3fe6914d40ebb5c64db132dafd9a549",
-   "source": "Yahoo",
-   "published": "2026-10-13T10:45:00+00:00",
-   "tickers": [
-    "BNTX"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "11ec2a7ac349",
-   "headline": "UnitedHealth Group Raises 2026 Profit Outlook After Third-Quarter Earnings Beat",
-   "summary": "UnitedHealth Group (NYSE:UNH) increased its full-year 2026 earnings guidance on Tuesday after reporting third-quarter adjusted profit above market expectations, supported by tighter medical cost controls and improved operating performance\u2026",
-   "url": "https://finnhub.io/api/news?id=498f73573ef92080c6d251b57996f59d70434735b906ce758767e5dd3156a953",
-   "source": "Yahoo",
-   "published": "2026-10-13T10:44:10+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "c8d408052a80",
-   "headline": "TG Therapeutics (NASDAQ:TGTX) Pairs Strong Growth With a High-Quality Breakout Setup",
-   "summary": "TGTX pairs an 8/10 growth rating with an 8/10 technical setup, showing strong biotech fundamentals and a breakout-ready chart.",
-   "url": "https://finnhub.io/api/news?id=c44b23f337451756499a7e67073799a6d6aec3d23516c704948d9eed0d117a9f",
-   "source": "ChartMill",
-   "published": "2026-10-13T10:40:56+00:00",
-   "tickers": [
-    "TGTX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "493e342692f3",
-   "headline": "Stock Market Today: Futures Mixed on Busy Earnings Day; Dow Lifted by UnitedHealth; Memory Stocks Weigh on Nasdaq",
-   "summary": "Stock futures were mixed Tuesday as several big banks and other notable companies reported quarterly results, with shares of memory chip makers falling for a second straight day on worries about Chinese competition.",
-   "url": "https://finnhub.io/api/news?id=32cae84453534a6865f31465092e580c4896eeb8d4d304824204388d8001859f",
-   "source": "Yahoo",
-   "published": "2026-10-13T10:40:49+00:00",
-   "tickers": [
-    "JNJ",
-    "UNH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "8702c85d50ea",
-   "headline": "Johnson & Johnson: Q3 Earnings Snapshot",
-   "summary": "(AP) \u2014 Johnson & Johnson (JNJ) on Tuesday reported third-quarter profit of $210 million.On a per-share basis, the New Brunswick, New Jersey-based company said it had profit of 9 cents.",
-   "url": "https://finnhub.io/api/news?id=1e4e2e4ef24859df579eec5c2b3c2b016d2b723c19b1d29281877f3e2814f966",
-   "source": "Yahoo",
-   "published": "2026-10-13T10:37:23+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
