@@ -1,7 +1,31 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-23T12:32:41.986217+00:00",
+ "updated": "2026-10-23T12:47:30.601815+00:00",
  "quotes": {
+  "A": {
+   "price": 173.89,
+   "change_pct": -2.17
+  },
+  "ABBV": {
+   "price": 285.19,
+   "change_pct": 0.14
+  },
+  "ABT": {
+   "price": 102.51,
+   "change_pct": 1.99
+  },
+  "ALHC": {
+   "price": 8.43,
+   "change_pct": -0.12
+  },
+  "ALNY": {
+   "price": 227.28,
+   "change_pct": 0.97
+  },
+  "AMGN": {
+   "price": 447.28,
+   "change_pct": 2.04
+  },
   "ARGX": {
    "price": 875.76,
    "change_pct": -1.61
@@ -170,10 +194,6 @@
    "price": 443.85,
    "change_pct": 3.67
   },
-  "JAZZ": {
-   "price": 214.65,
-   "change_pct": 1.26
-  },
   "JNJ": {
    "price": 267.61,
    "change_pct": 3.81
@@ -297,6 +317,10 @@
   "TWST": {
    "price": 135.47,
    "change_pct": -9.16
+  },
+  "UNH": {
+   "price": 424.98,
+   "change_pct": 1.91
   }
  },
  "tickers": {
@@ -914,6 +938,21 @@
  },
  "stories": [
   {
+   "id": "e3a6e0a528cc",
+   "headline": "Chutes & Ladders\u2014Troubled CSL enlists GSK vet Deborah Waterhouse to lead",
+   "summary": "CSL has tapped a new leader to steer it through a make-or-break period. Ironwood's CEO since 2021 is hanging up his hat. CytoDyn's new helmsman is highlighting the company's \"transformational period.\" And more.",
+   "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-troubled-csl-enlists-viiv-vet-deborah-waterhouse-lead",
+   "source": "Fierce Biotech",
+   "published": "2026-10-23T12:45:19.779267+00:00",
+   "tickers": [
+    "GSK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "a0ba9b741df1",
    "headline": "Pathos inks BMS, Tempus collabs to apply agentic AI in Alzheimer's clinical development",
    "summary": "Pathos AI has signed two new collaboration deals aimed at developing drugs for neurological conditions such as Alzheimer's disease, one with pharma giant Bristol Myers Squibb and another with Tempus AI, a builder of large-scale clinical\u2026",
@@ -1021,6 +1060,21 @@
    ]
   },
   {
+   "id": "b8ff64654b3d",
+   "headline": "Star Therapeutics Announces $200 Million Private Financing to Advance Pipeline of Best-in-Disease Therapies",
+   "summary": "SOUTH SAN FRANCISCO, Calif., October 23, 2026--Star Therapeutics, a biotechnology company focused on the discovery and development of life-changing therapies for diseases with significant unmet need, today announced a $200 million private\u2026",
+   "url": "https://finnhub.io/api/news?id=0f45093d94ec333a4be247452f42dd718663748de09ef2fe4a2489fc37f5844d",
+   "source": "Yahoo",
+   "published": "2026-10-23T11:00:00+00:00",
+   "tickers": [
+    "INCY"
+   ],
+   "tag": "Financing",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "c002552f7723",
    "headline": "Has Buying Cigna Stock At A High Paid Off?",
    "summary": "For questions about this article or underlying research, email help@trefis.com.",
@@ -1029,7 +1083,9 @@
    "published": "2026-10-23T10:35:04+00:00",
    "tickers": [
     "CI",
-    "CVS"
+    "CVS",
+    "HUM",
+    "UNH"
    ],
    "tag": "News",
    "sectors": [
@@ -1078,6 +1134,21 @@
    ]
   },
   {
+   "id": "5579263ce93b",
+   "headline": "Biogen (BIIB) Surges 5.3%: Is This an Indication of Further Gains?",
+   "summary": "Biogen (BIIB) witnessed a jump in share price last session on above-average trading volume. The latest trend in earnings estimate revisions for the stock doesn't suggest further strength down the road.",
+   "url": "https://finnhub.io/api/news?id=8d7c4734f1737893dbcd9e02eb809a58ba77d9c2c5f439008bb8400a9de59eb1",
+   "source": "Yahoo",
+   "published": "2026-10-23T10:19:00+00:00",
+   "tickers": [
+    "BIIB"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "58975d2a9802",
    "headline": "What Sent Eli Lilly Stock Higher Over The Past Year?",
    "summary": "For questions about this article or underlying research, email help@trefis.com.",
@@ -1086,7 +1157,9 @@
    "published": "2026-10-23T10:14:03+00:00",
    "tickers": [
     "ABBV",
-    "JNJ"
+    "AMGN",
+    "JNJ",
+    "PFE"
    ],
    "tag": "News",
    "sectors": [
@@ -1101,7 +1174,8 @@
    "source": "Yahoo",
    "published": "2026-10-23T10:03:00+00:00",
    "tickers": [
-    "BMY"
+    "BMY",
+    "PFE"
    ],
    "tag": "M&A",
    "sectors": [
@@ -42001,144 +42075,6 @@
     "UNH"
    ],
    "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "fc1d6fb2f230",
-   "headline": "HCA Healthcare Is Too Healthy To Downgrade",
-   "summary": "HCA Healthcare is a Buy supported by strong revenue growth and favorable demographic trends in healthcare demand. Read more on HCA stock here.",
-   "url": "https://finnhub.io/api/news?id=21d1216b88d83954fac38ee0cda75a8307f969e2e5fc3696edc268affcefe355",
-   "source": "SeekingAlpha",
-   "published": "2026-10-13T12:45:52+00:00",
-   "tickers": [
-    "HCA"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "8eb862d24b83",
-   "headline": "Aetna 2027 Star Ratings Reflect Strong Clinical Quality and Member Experience",
-   "summary": "Originally published on Company NewsroomHARTFORD, CT / ACCESS Newswire / October 13, 2026 / Aetna\u00ae, a \u00ae company (NYSE:CVS), announced today that more than 69 percent of its Medicare Advantage (MA) members are in 2027 plans rated 4 stars\u2026",
-   "url": "https://finnhub.io/api/news?id=2f1310771bbde20055450572d3ca56fb39cb40d41c2e0736455d04d33e1ca51b",
-   "source": "Yahoo",
-   "published": "2026-10-13T12:45:00+00:00",
-   "tickers": [
-    "CVS"
-   ],
-   "tag": "Policy",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "b6937aa43fd2",
-   "headline": "TD Cowen Maintains Buy on Certara, Raises Price Target to $11",
-   "summary": "TD Cowen analyst Brendan Smith maintains Certara (NASDAQ:CERT) with a Buy and raises the price target from $9 to $11.",
-   "url": "https://finnhub.io/api/news?id=e3fd5a11282f013b0bef3d5023b9e079c3333391285b7fd831941a8e313b024d",
-   "source": "Benzinga",
-   "published": "2026-10-13T12:42:41+00:00",
-   "tickers": [
-    "CERT"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "healthai"
-   ]
-  },
-  {
-   "id": "6ce828a0bdfe",
-   "headline": "Should Value Investors Buy Cardinal Health (CAH) Stock?",
-   "summary": "Here at Zacks, our focus is on the proven Zacks Rank system, which emphasizes earnings estimates and estimate revisions to find great stocks. Nevertheless, we are always paying attention to the latest value, growth, and momentum trends to\u2026",
-   "url": "https://finnhub.io/api/news?id=fff2c2687f2485f8b522e1ef8ed6f60c96be3b7e694891cac131e7792759142f",
-   "source": "Yahoo",
-   "published": "2026-10-13T12:40:05+00:00",
-   "tickers": [
-    "CAH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharmacy"
-   ]
-  },
-  {
-   "id": "8a5845faf260",
-   "headline": "Are Medical Stocks Lagging Cardinal Health (CAH) This Year?",
-   "summary": "Here is how Cardinal Health (CAH) and Alto Neuroscience, Inc. (ANRO) have performed compared to their sector so far this year.",
-   "url": "https://finnhub.io/api/news?id=702d29a3595bb5bd6ce2b235c02198bf102a56838370cf44c3869e37f14fb1af",
-   "source": "Yahoo",
-   "published": "2026-10-13T12:40:05+00:00",
-   "tickers": [
-    "CAH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharmacy"
-   ]
-  },
-  {
-   "id": "2e6b638ade11",
-   "headline": "TD Cowen Maintains Buy on Halozyme Therapeutics, Raises Price Target to $130",
-   "summary": "TD Cowen analyst Brendan Smith maintains Halozyme Therapeutics (NASDAQ:HALO) with a Buy and raises the price target from $105 to $130.",
-   "url": "https://finnhub.io/api/news?id=ae5b4fa5ce5871ef3b844caeaa6eba7dec7c1256a793e634ed384ee8dabf3a26",
-   "source": "Benzinga",
-   "published": "2026-10-13T12:38:50+00:00",
-   "tickers": [
-    "HALO"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "650dddb4b943",
-   "headline": "Johnson & Johnson Beats Third-Quarter Earnings Estimates and Raises 2026 Revenue and Profit Outlook",
-   "summary": "Johnson & Johnson (NYSE:JNJ) reported third-quarter 2026 earnings and revenue above Wall Street expectations on Tuesday, supported by growth in its Innovative Medicine business and continued expansion across its medical technology\u2026",
-   "url": "https://finnhub.io/api/news?id=22661ca91e6d4fdae154b124a167e388dfe07dab96756e6ea51d46f44cba6300",
-   "source": "Yahoo",
-   "published": "2026-10-13T12:38:22+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "7474a8976643",
-   "headline": "Moderna vs. Vertex Pharmaceuticals: Which Healthcare Stock Is a Better Buy in 2026?",
-   "summary": "Vertex raised its full-year outlook in Q2 with a growing pipeline across multiple disease areas. Moderna\u2019s mRNA flu vaccine just cleared a key FDA hurdle with an expanding oncology pipeline behind it.",
-   "url": "https://finnhub.io/api/news?id=4ff718c0d17dfa447f9637b4c4aecc5e4e89c933ebad91449ca247f2ad041a9e",
-   "source": "Yahoo",
-   "published": "2026-10-13T12:37:05+00:00",
-   "tickers": [
-    "MRK",
-    "MRNA",
-    "VRTX"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "a5ccbaabc9c3",
-   "headline": "Tuesday's pre-market session: top gainers and losers in the S&P500 index",
-   "summary": "Discover the top S&P500 movers in Tuesday's pre-market session and stay informed about market dynamics.",
-   "url": "https://finnhub.io/api/news?id=123cdc6d0ab0a2796cf336c8a3776abd50b85fd1ff13a6aa674423cb8464ac24",
-   "source": "ChartMill",
-   "published": "2026-10-13T12:35:01+00:00",
-   "tickers": [
-    "MRNA",
-    "UNH"
-   ],
-   "tag": "News",
    "sectors": [
     "payers"
    ]
