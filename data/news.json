@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-23T01:32:41.826940+00:00",
+ "updated": "2026-10-23T01:47:39.007003+00:00",
  "quotes": {
   "A": {
    "price": 173.89,
@@ -122,6 +122,10 @@
    "price": 157.19,
    "change_pct": 2.36
   },
+  "GKOS": {
+   "price": 176.69,
+   "change_pct": -0.09
+  },
   "GMED": {
    "price": 81.66,
    "change_pct": 3.79
@@ -161,6 +165,10 @@
   "INCY": {
    "price": 116.93,
    "change_pct": 3.08
+  },
+  "INSM": {
+   "price": 95.06,
+   "change_pct": 1.08
   },
   "IONS": {
    "price": 43.91,
@@ -929,6 +937,17 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "455a38478dae",
+   "headline": "Protein degrader specialist Lycia prices $318M IPO",
+   "summary": "Funds from the upsized offering will support a trio of protein-degrading medicines in development for allergic conditions as well as the autoimmune disorder Graves\u2019 disease.",
+   "url": "https://www.biopharmadive.com/news/lycia-therapeutics-targeted-protein-degraders-ipo-pricing/833624/",
+   "source": "BioPharma Dive",
+   "published": "2026-10-23T01:37:00+00:00",
+   "tickers": [],
+   "tag": "Financing",
+   "sectors": []
+  },
   {
    "id": "a3e3d9b86910",
    "headline": "What Higher Interest Rates Mean for Dividend Stocks Like AbbVie and Pfizer",
@@ -2098,6 +2117,7 @@
    "tickers": [
     "DVA",
     "EW",
+    "GKOS",
     "GMED"
    ],
    "tag": "News",
@@ -2193,6 +2213,7 @@
    "tickers": [
     "BDX",
     "EW",
+    "GKOS",
     "GMED"
    ],
    "tag": "Policy",
@@ -3545,6 +3566,21 @@
    "tag": "Earnings",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "60c34be04e97",
+   "headline": "Insmed (INSM) May Report Negative Earnings: Know the Trend Ahead of Next Week's Release",
+   "summary": "Insmed (INSM) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+   "url": "https://finnhub.io/api/news?id=611b026cf070dc0aacbfd8d9f949dc48f9b5df5af3cfe109066bb16c4cfee838",
+   "source": "Yahoo",
+   "published": "2026-10-22T13:00:11+00:00",
+   "tickers": [
+    "INSM"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -43984,36 +44020,6 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "4efbf4abe719",
-   "headline": "Is Twist Bioscience (TWST) Quietly Becoming Core Infrastructure for AI-Driven Biofoundry Platforms?",
-   "summary": "Recent industry analysis identified Twist Bioscience as a key company in the expanding global biofoundry-as-a-service market, which is projected to reach about US$4.38 billion by 2030, reflecting growing adoption of AI-enabled, automated\u2026",
-   "url": "https://finnhub.io/api/news?id=224e5aa8e3c401ae788099c1fe73723346d7e3562f8d6a1fe1f82e657eec6be7",
-   "source": "Yahoo",
-   "published": "2026-10-13T01:32:38+00:00",
-   "tickers": [
-    "TWST"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "674409e7540e",
-   "headline": "Cytokinetics (CYTK) Reports Phase 3 Aficamten Gains In Non Obstructive HCM",
-   "summary": "Cytokinetics (NasdaqGS: CYTK) reported new Phase 3 ACACIA-HCM data showing aficamten improved exercise performance in non-obstructive HCM patients. The company said the trial readout included statistically significant gains across several\u2026",
-   "url": "https://finnhub.io/api/news?id=13921d902e052283d74762a2be56984915b992851c85a8477f76c05590f53e97",
-   "source": "Yahoo",
-   "published": "2026-10-13T01:31:50+00:00",
-   "tickers": [
-    "CYTK"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "biotech"
    ]
   }
  ]
