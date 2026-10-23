@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-23T08:17:37.551375+00:00",
+ "updated": "2026-10-23T08:32:37.208759+00:00",
  "quotes": {
   "A": {
    "price": 173.89,
@@ -105,10 +105,6 @@
   "DXCM": {
    "price": 78.32,
    "change_pct": -2.42
-  },
-  "ELV": {
-   "price": 445.28,
-   "change_pct": 2.57
   },
   "EVH": {
    "price": 4.89,
@@ -321,6 +317,10 @@
   "TGTX": {
    "price": 53.16,
    "change_pct": -0.08
+  },
+  "THC": {
+   "price": 270.63,
+   "change_pct": 0.56
   }
  },
  "tickers": {
@@ -938,6 +938,72 @@
  },
  "stories": [
   {
+   "id": "dc7eb60f01d2",
+   "headline": "STAT+: State officials scrambling to implement Medicaid work requirements meet up to swap notes",
+   "summary": "What state officials scrambling to implement Medicaid work requirements shared behind closed doors at the National Association of Medicaid Directors conference.",
+   "url": "https://www.statnews.com/2026/10/23/state-medicaid-officials-prepare-for-new-work-requirements/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-23T08:30:00+00:00",
+   "tickers": [],
+   "tag": "Policy",
+   "sectors": []
+  },
+  {
+   "id": "afa42ff21ba6",
+   "headline": "Opinion: New Medicare policies will keep important pain relief from some patients",
+   "summary": "For some people, simply putting on pants can be excruciatingly painful. New policy will put pain relief out of reach for many, doctor writes.",
+   "url": "https://www.statnews.com/2026/10/23/severe-pain-policy-medicare-coverage-macs-nerve-block/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-23T08:30:00+00:00",
+   "tickers": [],
+   "tag": "Policy",
+   "sectors": []
+  },
+  {
+   "id": "ee8a622103c2",
+   "headline": "Opinion: Overdose deaths have plunged. We need to know why",
+   "summary": "The humbling truth is that forces outside medical care and public health policies must be playing the biggest role in a dramatic drop in opioid overdose deaths, three health experts\u2026",
+   "url": "https://www.statnews.com/2026/10/23/opioid-deaths-fallen-naloxone-treatment-supply-shock-public-health/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-23T08:30:00+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "ea1c1f9e1347",
+   "headline": "STAT reporters react to the new Elizabeth Holmes documentary",
+   "summary": "It seems everyone has a hot take on the new Elizabeth Holmes documentary, \"You Can See Everything.\" STAT reporters went to see the film \u2014 here's their review.",
+   "url": "https://www.statnews.com/2026/10/23/explain-appeal-elizabeth-holmes-doc-status-report/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-23T08:30:00+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "d9e6488bc89f",
+   "headline": "How a targeted drug kept one patient alive 15 years \u2014 but failed to save her friends",
+   "summary": "A lung cancer patient speaks out about her cutting-edge treatment: \u201cResearch is big on tracking survival stats, but quality of life for survivors \u2014 not so much.\u201d",
+   "url": "https://www.statnews.com/2026/10/23/lung-cancer-patient-ros1-mutation-on-crizotinib/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-23T08:30:00+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "0f74f7c93a20",
+   "headline": "One family\u2019s story of a life-extending medicine for pancreatic cancer",
+   "summary": "Bobby Senaha was among the first patients to use daraxonrasib, a new life-extending drug for pancreatic cancer. His wife shares what those extra months meant to his family.",
+   "url": "https://www.statnews.com/2026/10/23/patient-story-pancreatic-cancer-drug-daraxonrasib-rasonque/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-23T08:30:00+00:00",
+   "tickers": [],
+   "tag": "Clinical",
+   "sectors": []
+  },
+  {
    "id": "466413c1824f",
    "headline": "Real Chemistry spotlights health dignity as key trust, engagement indicator in new research initiative",
    "summary": "With its health dignity initiative, Real Chemistry is tapping into human experiences during healthcare interactions to gauge communication signals that could mark important engagement indicators.",
@@ -972,6 +1038,21 @@
    "tag": "News",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "70b3f57321c5",
+   "headline": "Studsvik and ReNu Industries partner to bring inDRUM waste treatment technology to Fukushima",
+   "summary": "Under the agreement, Studsvik will provide ReNu with technical information and advice on design conditions for a Japanese version of inDRUM. ReNu will design a pilot plant adapted to Japan's seismic and regulatory requirements and to the\u2026",
+   "url": "https://finnhub.io/api/news?id=6615f6233a12d2146701cdced778b28fab7f0c6d01ee7d75147384b68cba8bec",
+   "source": "Yahoo",
+   "published": "2026-10-23T06:33:00+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -43622,103 +43703,6 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "bcfc3cece4d5",
-   "headline": "Humana To Rally Over 14%? Here Are 10 Top Analyst Forecasts For Tuesday",
-   "summary": "Analysts cut targets for Duke, Hyatt, Pershing Square, Carlisle, Upstart, Arch Capital and Meta; raised VF, Rexford and SentinelOne.",
-   "url": "https://finnhub.io/api/news?id=0fce12761cb80be6603357d56e0cdfdedb64a8ca0942f5b6d4524d7dee02db4d",
-   "source": "Benzinga",
-   "published": "2026-10-13T08:30:15+00:00",
-   "tickers": [
-    "HUM"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "27c1983c0a39",
-   "headline": "Opinion: Lethal injection will never be the same after Christa Pike\u2019s botched execution",
-   "summary": "\u201cThe legal and medical issues in the Christa Pike case are on a collision course,\u201d writes bioethicist M. Sara Rosenthal.",
-   "url": "https://www.statnews.com/2026/10/13/christa-pike-botched-execution-bioethics-end-of-lethal-injection/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-10-13T08:30:00+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "d19852292e66",
-   "headline": "STAT+: Concerns grow on safety issues tied to Neurocrine Biosciences rare disease drug",
-   "summary": "Patient advocates and some experts are expressing growing alarm over the perceived risks of a rare disease drug sold by Neurocrine Biosciences.",
-   "url": "https://www.statnews.com/2026/10/13/neurocrine-biosciences-prader-willi-vykat-xr/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-10-13T08:30:00+00:00",
-   "tickers": [
-    "NBIX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "02181a8be803",
-   "headline": "Opinion: STAT+: The epidemic of learned helplessness in physicians",
-   "summary": "\u201cHordes of brilliant, graduate-degree-holding professionals in their 40s, 50s, and beyond act helpless at work,\u201d writes STAT columnist Frances Mei Hardin.",
-   "url": "https://www.statnews.com/2026/10/13/doctors-learned-helplessness-chief-complaint-frances-mei-hardin/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-10-13T08:30:00+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "10e7711c33c0",
-   "headline": "UnitedHealth Exec Sees Lower End Of Long-Term 13%-16% Growth Rate As Starting Point For 2027 EPS Forecast; Continues To See A Balanced Set Of Tailwinds And Headwinds In 2027; \"We Would Offer That Current Analyst Consensus For 2027 May Understate The Opportunity Ahead, And We See The Lower End Of Our Long-term 13%-16% Growth Rate As A More Reasonable Starting Point\"",
-   "summary": "- Conference Call",
-   "url": "https://finnhub.io/api/news?id=f3165d54d3dafa63e885a9b74adb62b0bb2cbad2bea75f173f12bae9fe1e0530",
-   "source": "Benzinga",
-   "published": "2026-10-13T08:28:56+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "bb86257f4178",
-   "headline": "Mizuho Maintains Outperform on Humana, Raises Price Target to $495",
-   "summary": "Mizuho analyst Ann Hynes maintains Humana (NYSE:HUM) with a Outperform and raises the price target from $468 to $495.",
-   "url": "https://finnhub.io/api/news?id=4ab1a71e3b41731a9b599a7a73d1dba914c2a9c9d60c30c376783377ff5f810d",
-   "source": "Benzinga",
-   "published": "2026-10-13T08:22:38+00:00",
-   "tickers": [
-    "HUM"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "06183cf54a00",
-   "headline": "UnitedHealth Group Exec Says Care Intensity Remains Above Historical Norms Even As Trends Are Bending In A More Stable Direction; We Continue To View 2026 As A Trough Year For Core Medicaid Margins, Which We Now Expect To Be Moderately Better Than Negative 1%",
-   "summary": "https://event.webcasts.com/viewer/event.jsp?ei=1771723&tp_key=38d5965132",
-   "url": "https://finnhub.io/api/news?id=cb6bbf51f5577ae0aea72c68276a4cadd4cb467730424b5e3fdf06ef10903b3e",
-   "source": "Benzinga",
-   "published": "2026-10-13T08:16:09+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "tag": "Policy",
-   "sectors": [
-    "payers"
    ]
   }
  ]
