@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-23T12:47:30.601815+00:00",
+ "updated": "2026-10-23T13:02:54.012153+00:00",
  "quotes": {
   "A": {
    "price": 173.89,
@@ -41,10 +41,6 @@
   "BIIB": {
    "price": 253.84,
    "change_pct": 5.34
-  },
-  "BMRN": {
-   "price": 56.63,
-   "change_pct": 2.57
   },
   "BMY": {
    "price": 63,
@@ -146,10 +142,6 @@
    "price": 124.54,
    "change_pct": -0.23
   },
-  "HCA": {
-   "price": 467.31,
-   "change_pct": 1.72
-  },
   "HCAT": {
    "price": 1.74,
    "change_pct": 0
@@ -162,10 +154,6 @@
    "price": 420.97,
    "change_pct": -1.05
   },
-  "ICLR": {
-   "price": 185.43,
-   "change_pct": 0.1
-  },
   "IDXX": {
    "price": 566.76,
    "change_pct": 2.4
@@ -177,10 +165,6 @@
   "INCY": {
    "price": 116.93,
    "change_pct": 3.08
-  },
-  "INSM": {
-   "price": 95.06,
-   "change_pct": 1.08
   },
   "IONS": {
    "price": 43.91,
@@ -262,10 +246,6 @@
    "price": 30.42,
    "change_pct": 1.91
   },
-  "PTCT": {
-   "price": 63.04,
-   "change_pct": 0.67
-  },
   "QGEN": {
    "price": 50.22,
    "change_pct": 0.44
@@ -289,6 +269,10 @@
   "SMMT": {
    "price": 15.55,
    "change_pct": -1.77
+  },
+  "SRPT": {
+   "price": 18.18,
+   "change_pct": -2.05
   },
   "SYK": {
    "price": 307.08,
@@ -321,6 +305,22 @@
   "UNH": {
    "price": 424.98,
    "change_pct": 1.91
+  },
+  "UTHR": {
+   "price": 584.79,
+   "change_pct": 3.78
+  },
+  "VEEV": {
+   "price": 322.55,
+   "change_pct": 0.62
+  },
+  "VKTX": {
+   "price": 25.83,
+   "change_pct": -2.08
+  },
+  "VRTX": {
+   "price": 535.17,
+   "change_pct": 2.03
   }
  },
  "tickers": {
@@ -938,6 +938,32 @@
  },
  "stories": [
   {
+   "id": "06b252b154fa",
+   "headline": "Fierce Pharma Asia\u2014US Treasury homes in on China deals; Hengrui's secret sauce; Samsung Bio's strike developments",
+   "summary": "The U.S. Treasury Department is closing in on American investments in China's life sciences industry as it issued draft rules adding biotechnology to the COINS Act. Hengrui leadership sat down with Fierce to discuss the secret sauce\u2026",
+   "url": "https://www.fiercepharma.com/pharma/fierce-pharma-asia-us-treasury-homes-china-deals-hengruis-secret-sauce-samsung-bios-strike",
+   "source": "Fierce Pharma",
+   "published": "2026-10-23T13:00:33.503289+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "ad23c2fc28c0",
+   "headline": "STAT+: AI drug firm Pathos raises $237 million, pushing valuation to $3 billion",
+   "summary": "AI drug firm Pathos raises $237 million, a deal that brings together a big Tempus dataset, AI analysis from Pathos, and drug development from BMS.",
+   "url": "https://www.statnews.com/2026/10/23/pathos-ai-bristol-myers-squibb-tempus-deal/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-23T13:00:00+00:00",
+   "tickers": [
+    "TEM"
+   ],
+   "tag": "Financing",
+   "sectors": [
+    "healthai"
+   ]
+  },
+  {
    "id": "e3a6e0a528cc",
    "headline": "Chutes & Ladders\u2014Troubled CSL enlists GSK vet Deborah Waterhouse to lead",
    "summary": "CSL has tapped a new leader to steer it through a make-or-break period. Ironwood's CEO since 2021 is hanging up his hat. CytoDyn's new helmsman is highlighting the company's \"transformational period.\" And more.",
@@ -946,6 +972,21 @@
    "published": "2026-10-23T12:45:19.779267+00:00",
    "tickers": [
     "GSK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "8cf3afd0d809",
+   "headline": "S&P 500 Premarket Movers: CCI and SBAC Lead Gainers, TYL and DECK Top Decliners",
+   "summary": "S&P 500 premarket scan: CCI and SBAC led gainers, while TYL and DECK topped declines ahead of the open.",
+   "url": "https://finnhub.io/api/news?id=f7aeafe2d5b153f5909d94565469f4bc1606dd552cf8f7821b8778b910e7a703",
+   "source": "ChartMill",
+   "published": "2026-10-23T12:36:03+00:00",
+   "tickers": [
+    "MRNA"
    ],
    "tag": "News",
    "sectors": [
@@ -992,7 +1033,8 @@
    "source": "Yahoo",
    "published": "2026-10-23T12:00:00+00:00",
    "tickers": [
-    "LH"
+    "LH",
+    "WAT"
    ],
    "tag": "FDA",
    "sectors": [
@@ -1010,6 +1052,22 @@
     "AMGN"
    ],
    "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "4f485cb32d2a",
+   "headline": "Dow Jones Futures Fall After Moderna Crashes, Meta Fuels AI Meltdown. Warren Buffett Market Is Thriving.",
+   "summary": "The S&P 500 and Nasdaq tumbled below 50-day lines as Meta led an AI stock rout. But the Warren Buffett market is thriving.",
+   "url": "https://finnhub.io/api/news?id=842775a4a00dd1343a36615933b5601d7e4c8059640d2be7c19396a352aeedeb",
+   "source": "Yahoo",
+   "published": "2026-10-23T11:40:51+00:00",
+   "tickers": [
+    "MRK",
+    "MRNA"
+   ],
+   "tag": "Health AI",
    "sectors": [
     "pharma"
    ]
@@ -1045,6 +1103,21 @@
    ]
   },
   {
+   "id": "03549c13f61a",
+   "headline": "Does Valve Repair Approval Change The Bull Case For Edwards Lifesciences (EW)?",
+   "summary": "Edwards Lifesciences reported past FDA approvals for its PASCAL Precision system for tricuspid valve repair and PASCAL Ace with Capture Clarity for degenerative mitral TEER, giving the business a broader U.S. transcatheter repair toolkit\u2026",
+   "url": "https://finnhub.io/api/news?id=b913cc1f116b22cc2be45e9b6bd9d7b38f17ecce5afdecf6450e60f48867bf84",
+   "source": "Yahoo",
+   "published": "2026-10-23T11:18:04+00:00",
+   "tickers": [
+    "EW"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "95310538b1f8",
    "headline": "QIAGEN N.V. Enters Business Combination Agreement for Planned Tender Offer by Crown NL Bidco B.V. at \u20ac46.50 Per Share",
    "summary": "",
@@ -1075,6 +1148,53 @@
    ]
   },
   {
+   "id": "06176ef829a0",
+   "headline": "Moderna Named a Top Employer by Science for Twelfth Consecutive Year",
+   "summary": "CAMBRIDGE, MA / ACCESS Newswire / October 23, 2026 / (NASDAQ:MRNA) today announced it was ranked as a top employer in the global biopharmaceutical industry in Science and Science Careers' 2026 Top Employers Survey for the twelfth\u2026",
+   "url": "https://finnhub.io/api/news?id=520ade087e404d06bc724ba197cedceb5cc148fb146435d9e9e913db81f5cbf1",
+   "source": "Yahoo",
+   "published": "2026-10-23T11:00:00+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "0b4807a77524",
+   "headline": "Moderna, Meta, SpaceX, AT&T, CoreWeave, Sandisk, and More Stocks That Explain Today\u2019s Market",
+   "summary": "Stock futures pointed lower as oil prices climbed above $114 a barrel, but some of the hard-hit tech names were enjoying a modest rebound.",
+   "url": "https://finnhub.io/api/news?id=52583a86016f59a1ab4a26fb91db39681d7e7d5e880d440ea2d6af10e0447e10",
+   "source": "Yahoo",
+   "published": "2026-10-23T10:45:00+00:00",
+   "tickers": [
+    "MRK",
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "33505c585c9c",
+   "headline": "Social Buzz: Wallstreetbets Stocks Mixed Premarket Friday; SpaceX to Advance, Moderna to Decline",
+   "summary": "The most-talked-about stocks in the Reddit subforum Wallstreetbets were mixed hours before Friday's",
+   "url": "https://finnhub.io/api/news?id=583f133c259f1e9bfb6281ac85f01c5268699b8c4a4d2abeee34c44821070ce4",
+   "source": "Yahoo",
+   "published": "2026-10-23T10:36:52+00:00",
+   "tickers": [
+    "MRK",
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "c002552f7723",
    "headline": "Has Buying Cigna Stock At A High Paid Off?",
    "summary": "For questions about this article or underlying research, email help@trefis.com.",
@@ -1083,13 +1203,30 @@
    "published": "2026-10-23T10:35:04+00:00",
    "tickers": [
     "CI",
+    "CNC",
     "CVS",
+    "ELV",
     "HUM",
     "UNH"
    ],
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "dbc243ea7540",
+   "headline": "Moderna And Merck Cancer Vaccine Cuts Melanoma Death Risk By 42%",
+   "summary": "Key Stats for Merck StockPrice change for Merck stock in last 6 months: 28%$MRK Stock Price as of Oct. 21: $14752-Week High: $157$MRK Stock Price Target: $159__Now Live: Discover how much upside your favorite stocks could have using\u2026",
+   "url": "https://finnhub.io/api/news?id=5b067070efaec2d52607c6f04489e0549f9a17d2c8e6db7f32a612fae6bda216",
+   "source": "Yahoo",
+   "published": "2026-10-23T10:30:39+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1159,7 +1296,24 @@
     "ABBV",
     "AMGN",
     "JNJ",
+    "LLY",
+    "MRK",
     "PFE"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "939c3d8cb35e",
+   "headline": "Nasdaq, Dow, S&P 500 Futures Drop Premarket: NVDA, AMD, META, CRWV, MRNA, WDC, BE In Focus",
+   "summary": "Stocktwits retail sentiment for SPY and DIA was \u2018extremely bearish,\u2019 while it remained \u2018bearish\u2019 for QQQ.",
+   "url": "https://finnhub.io/api/news?id=5922972d586f65fcf83214c46c06e90ef1c3a8fbb7f6857fb86f2fb48028df32",
+   "source": "Yahoo",
+   "published": "2026-10-23T10:13:48+00:00",
+   "tickers": [
+    "MRNA"
    ],
    "tag": "News",
    "sectors": [
@@ -1438,7 +1592,8 @@
    "tickers": [
     "ALNY",
     "MRNA",
-    "PFE"
+    "PFE",
+    "SRPT"
    ],
    "tag": "News",
    "sectors": [
@@ -41824,259 +41979,6 @@
    "tag": "News",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "eb8576b52384",
-   "headline": "UnitedHealth Group stock jumps 5% on profit outlook raise",
-   "summary": "UnitedHealth stock rallied as the health insurer raised its full-year adjusted earnings forecast.",
-   "url": "https://finnhub.io/api/news?id=0d0567aea49c07b227af971d3902f95c5835ab6bb6448c6547ef7148b6399b43",
-   "source": "Yahoo",
-   "published": "2026-10-13T13:01:18+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "5a0772679dc8",
-   "headline": "UnitedHealth Group stock trims gains on profit outlook increase",
-   "summary": "UnitedHealth stock trimmed gains after jumping as much as 5% as the health insurer raised its full-year adjusted earnings forecast.",
-   "url": "https://finnhub.io/api/news?id=a2c7b65b6e79c4db792bb58c965e93769f1a5846c699e33b0675c043aa6d5ff4",
-   "source": "Yahoo",
-   "published": "2026-10-13T13:01:18+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "361375f782c1",
-   "headline": "Akari Therapeutics Appoints Accomplished Oncology and ADC Deal Executive Vatnak Vat-Ho as Chief Business Officer to Drive Strategic Growth and Partnering",
-   "summary": "Mr. Vat-Ho's appointment adds more than 20 years of oncology, biopharma and capital markets experience, including senior roles in transactions totaling more than $25 billion in aggregate value Mr. Vat-Ho brings highly relevant ADC payload\u2026",
-   "url": "https://finnhub.io/api/news?id=c9151decbde699d2637b248a762a65f8ea017f8c07e6df28510bd87514040fec",
-   "source": "Yahoo",
-   "published": "2026-10-13T13:01:00+00:00",
-   "tickers": [
-    "EXEL"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "b8b59b6b94d7",
-   "headline": "Can Nuplazid and Daybue Strengthen Acadia's Growth Prospects?",
-   "summary": "ACAD's Nuplazid and Daybue drive revenue growth, with rising demand, new formulations and European expansion offering opportunities amid growing competition.",
-   "url": "https://finnhub.io/api/news?id=d3d14635655955d57c540a056ebbe42b8bb92e91460fb70fe34f91a33a9c161d",
-   "source": "Yahoo",
-   "published": "2026-10-13T13:01:00+00:00",
-   "tickers": [
-    "ACAD",
-    "AXSM"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "87ea4ce38e99",
-   "headline": "UCB fashions \u2018Wear It Out\u2019 project with empowering t-shirts, community for inflammatory disease patients",
-   "summary": "The t-shirts let those with hidradenitis suppurativa (HS), plaque psoriasis and psoriatic arthritis (PsA) reclaim clothes they may avoid due to their disease.",
-   "url": "https://www.fiercepharma.com/marketing/ucb-fashions-wear-it-out-project-empowering-t-shirts-community-inflammatory-disease",
-   "source": "Fierce Pharma",
-   "published": "2026-10-13T13:00:28.014736+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "47d5c90e851d",
-   "headline": "BlackLine Honors Global Enterprise Leaders Transforming Financial Operations",
-   "summary": "BlackLine\u2019s 2026 Modern Accounting Awards Recognize Booking Holdings, Bristol Myers Squibb, James Hardie, LAZ Parking, Payoneer, and US FoodsLOS ANGELES, Oct. 13, 2026 (GLOBE NEWSWIRE) -- BlackLine, Inc. (Nasdaq: BL) announced the winners\u2026",
-   "url": "https://finnhub.io/api/news?id=ef8ac0d1e97e5968da783d85fb17741fdd37294b8a0fae0eb6fcbce12d84f45c",
-   "source": "Yahoo",
-   "published": "2026-10-13T13:00:00+00:00",
-   "tickers": [
-    "BMY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "f9d8b16df32e",
-   "headline": "Kraft Heinz, T-Mobile, Otis, Hasbro and Citi Named Among Newsweek\u2019s America\u2019s Greenest Companies 2027",
-   "summary": "New ranking recognizes 650 U.S. companies for performance in environmental sustainabilityNEW YORK, Oct. 13, 2026 (GLOBE NEWSWIRE) -- Newsweek, in partnership with Plant-A Insights Group, today announced America\u2019s Greenest Companies 2027,\u2026",
-   "url": "https://finnhub.io/api/news?id=315e5b90b29557409d7909d1fcb72ca492a6c4489ba8c21964d6e25559c354ab",
-   "source": "Yahoo",
-   "published": "2026-10-13T13:00:00+00:00",
-   "tickers": [
-    "BMY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "3d4efdb568e6",
-   "headline": "Veedma Introduces a $59 Men's Lab Panel With 65 Biomarkers and a Doctor's Video Visit",
-   "summary": "Veedma, a preventive telehealth clinic for hormone and sexual health, has introduced two men's lab panels and a flat-price membership: a new patient's first 65-biomarker panel costs $59, including the Quest Diagnostics blood draw, a\u2026",
-   "url": "https://www.prnewswire.com/news-releases/veedma-introduces-a-59-mens-lab-panel-with-65-biomarkers-and-a-doctors-video-visit-302903423.html",
-   "source": "PR Newswire",
-   "published": "2026-10-13T13:00:00+00:00",
-   "tickers": [
-    "DGX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "04372574052a",
-   "headline": "Morgan Stanley Maintains Overweight on Thermo Fisher Scientific, Raises Price Target to $730",
-   "summary": "Morgan Stanley analyst Tejas Savant maintains Thermo Fisher Scientific (NYSE:TMO) with a Overweight and raises the price target from $650 to $730.",
-   "url": "https://finnhub.io/api/news?id=eb634c2312a19169e1ad6b8633cad95c8f1778509e8eeb750710445f8ea98323",
-   "source": "Benzinga",
-   "published": "2026-10-13T12:59:22+00:00",
-   "tickers": [
-    "TMO"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "9711d95a0952",
-   "headline": "Chip Stocks Slide as South Korea's KOSPI Plunges, J&J Sinks 6%: Stock Market Today",
-   "summary": "Chip stocks sold off after a 5% KOSPI plunge, with Micron and Applied Materials sinking, while J&J fell despite a guidance raise.",
-   "url": "https://finnhub.io/api/news?id=87996aeb9140c87eebdff207bb0e9a303700c7fad94716a315ca0dc338a1f6a5",
-   "source": "Benzinga",
-   "published": "2026-10-13T12:59:21+00:00",
-   "tickers": [
-    "JNJ",
-    "SMMT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "238c24da8d6b",
-   "headline": "UnitedHealth Q3: Don't Confuse Improving Results With A Buying Opportunity",
-   "summary": "UnitedHealth Group posted a solid Q3 with a beat and raise, driven by improved medical cost management and operating income growth. Click for more on UNH stock.",
-   "url": "https://finnhub.io/api/news?id=e0030ab585e6796caeb7ca243ada5b38fef7987e62d0c9fb57db5aa9a09cd6ad",
-   "source": "SeekingAlpha",
-   "published": "2026-10-13T12:54:55+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "e7fb406ec303",
-   "headline": "Health Bellwether J&J Slumps As Middle East Conflict Hampers Medtech Sales",
-   "summary": "Johnson & Johnson stock fell early Tuesday as the conflict in the Middle East weighted on medical device sales.",
-   "url": "https://finnhub.io/api/news?id=a7f07420f388976ee839cc1ece6a8af58706ea70b40c352f209d00b73669432e",
-   "source": "Yahoo",
-   "published": "2026-10-13T12:54:39+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "fe251bbe6500",
-   "headline": "TD Cowen Maintains Buy on Twist Bioscience, Raises Price Target to $190",
-   "summary": "TD Cowen analyst Brendan Smith maintains Twist Bioscience (NASDAQ:TWST) with a Buy and raises the price target from $115 to $190.",
-   "url": "https://finnhub.io/api/news?id=670ecd6bba66ef2c978413c2a308546a4a05b22153bab16b1c74c335378010eb",
-   "source": "Benzinga",
-   "published": "2026-10-13T12:53:04+00:00",
-   "tickers": [
-    "TWST"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "5b2f8d2d53d2",
-   "headline": "Morgan Stanley Maintains Overweight on Natera, Raises Price Target to $435",
-   "summary": "Morgan Stanley analyst Tejas Savant maintains Natera (NASDAQ:NTRA) with a Overweight and raises the price target from $355 to $435.",
-   "url": "https://finnhub.io/api/news?id=2950504ed22a5a85979ce9b580bc7b7f5754cc34ebb23117203ce0ad540670f4",
-   "source": "Benzinga",
-   "published": "2026-10-13T12:50:06+00:00",
-   "tickers": [
-    "NTRA"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "0cfd1204ffae",
-   "headline": "UnitedHealth Stock Wobbles Despite 61% Profit Jump, Boosted Outlook (CORRECTED)",
-   "summary": "UnitedHealth beats Q3 estimates and says 2027 consensus is conservative despite persistent medical costs.",
-   "url": "https://finnhub.io/api/news?id=114778ba7e717a578c1f6bb9a69fce11f7a6a1ccd4a25040a3d6b3bc5be3e3ec",
-   "source": "Benzinga",
-   "published": "2026-10-13T12:50:05+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "f0d9606cdf76",
-   "headline": "TD Cowen Maintains Buy on Schrodinger, Raises Price Target to $31",
-   "summary": "TD Cowen analyst Brendan Smith maintains Schrodinger (NASDAQ:SDGR) with a Buy and raises the price target from $20 to $31.",
-   "url": "https://finnhub.io/api/news?id=a5b9ae1b4590d54d31f5f23a037fb203fe9fd064fa555bc1b68508112fae9ef4",
-   "source": "Benzinga",
-   "published": "2026-10-13T12:47:20+00:00",
-   "tickers": [
-    "SDGR"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "healthai"
-   ]
-  },
-  {
-   "id": "0a8b22fc2dc4",
-   "headline": "UNH Stock Gains After Q3 Earnings Beat, Guidance Raise \u2013 CEO Credits \u2018Discipline And Execution\u2019",
-   "summary": "UnitedHealth raised its 2026 adjusted earnings forecast to at least $20.50 per share, up from its previous guidance of $19.50 to $20 per share",
-   "url": "https://finnhub.io/api/news?id=01e36dac797e95ecf3284e3964f7879e767aa1ca4f9ade992bf3a13e83620a6c",
-   "source": "Yahoo",
-   "published": "2026-10-13T12:46:42+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
    ]
   }
  ]
