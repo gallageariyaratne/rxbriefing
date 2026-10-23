@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-23T01:47:39.007003+00:00",
+ "updated": "2026-10-23T02:02:47.776257+00:00",
  "quotes": {
   "A": {
    "price": 173.89,
@@ -230,6 +230,10 @@
    "price": 143.29,
    "change_pct": 1.4
   },
+  "NTRA": {
+   "price": 401.37,
+   "change_pct": -2.91
+  },
   "NVO": {
    "price": 39.43,
    "change_pct": 0.95
@@ -241,6 +245,10 @@
   "OSCR": {
    "price": 33.32,
    "change_pct": -0.39
+  },
+  "PACB": {
+   "price": 2.06,
+   "change_pct": -3.74
   },
   "PFE": {
    "price": 30.42,
@@ -282,6 +290,10 @@
    "price": 20.36,
    "change_pct": 2.16
   },
+  "TGTX": {
+   "price": 53.16,
+   "change_pct": -0.08
+  },
   "THC": {
    "price": 270.63,
    "change_pct": 0.56
@@ -309,18 +321,6 @@
   "VRTX": {
    "price": 535.17,
    "change_pct": 2.03
-  },
-  "WAY": {
-   "price": 28.98,
-   "change_pct": 0.49
-  },
-  "ZBH": {
-   "price": 98.81,
-   "change_pct": 4.16
-  },
-  "ZTS": {
-   "price": 82,
-   "change_pct": 2.99
   }
  },
  "tickers": {
@@ -1106,6 +1106,21 @@
    ]
   },
   {
+   "id": "dbc10aeb20e2",
+   "headline": "IBD Stock Of The Day, Natera, Hovering Near Buy Point",
+   "summary": "Natera is Thursday's IBD Stock Of The Day. Shares are hovering around their 21-day line, taking a breather after running up.",
+   "url": "https://finnhub.io/api/news?id=f447914cdc8f9ae79cd654f04695a77e244aa84b16b9be94d10cfd1338a2c908",
+   "source": "Yahoo",
+   "published": "2026-10-22T21:40:45+00:00",
+   "tickers": [
+    "NTRA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "08c49a8073a0",
    "headline": "What Does Eli Lilly (LLY) Mean To Signal With Its $5 Billion Richmond Build?",
    "summary": "Eli Lilly (NYSE:LLY) has started construction on a US$5b fully integrated manufacturing site near Richmond, Virginia, focused on next-generation cancer and autoimmune medicines. The Richmond facility is planned as Lilly's first U.S. site\u2026",
@@ -1156,6 +1171,21 @@
    "tag": "Clinical",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "45d2a5051e0d",
+   "headline": "Pacific Biosciences of California (PACB) Declines More Than Market: Some Information for Investors",
+   "summary": "The latest trading day saw Pacific Biosciences of California (PACB) settling at $2.06, representing a -3.74% change from its previous close.",
+   "url": "https://finnhub.io/api/news?id=0bee88bbaed90c7b7b8962776bc19cf53bac1c47994437328e21a58eed8d7423",
+   "source": "Yahoo",
+   "published": "2026-10-22T21:15:02+00:00",
+   "tickers": [
+    "PACB"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -1909,6 +1939,21 @@
    ]
   },
   {
+   "id": "8696433ff93a",
+   "headline": "Ionis ranked #1 on Science\u2019s Top Employers list",
+   "summary": "CARLSBAD, Calif., October 22, 2026--Ionis Pharmaceuticals, Inc. (Nasdaq: IONS) today announced that the company was named the top employer to work for by Science in its annual Top Employers survey of the biotech and pharmaceutical\u2026",
+   "url": "https://finnhub.io/api/news?id=cdcf608731256e8c8f03316437af08d221ec9e56ecbf599600ac725ea2e3fe68",
+   "source": "Yahoo",
+   "published": "2026-10-22T18:25:00+00:00",
+   "tickers": [
+    "IONS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "b2ebacb785bd",
    "headline": "Quest Diagnostics: 3 Key Takeaways for Long-Term Investors",
    "summary": "Automation and direct-to-consumer expansion are offsetting wage inflation and Medicare reimbursement pressure, the dual challenge facing diagnostics providers.",
@@ -1977,6 +2022,21 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "ab66509a2393",
+   "headline": "Ionis Pharmaceuticals Secures FDA Orphan Drug Designation For Rare Epilepsy Treatment",
+   "summary": "The treatment targets the SCN1A gene, which helps the brain produce a protein that controls electrical activity and prevents seizures",
+   "url": "https://finnhub.io/api/news?id=0dd46d93f762b644f71bb34272a0275f66f25945dc81a76c4f43af1119468515",
+   "source": "Yahoo",
+   "published": "2026-10-22T18:00:44+00:00",
+   "tickers": [
+    "IONS"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -3204,6 +3264,7 @@
    "source": "Yahoo",
    "published": "2026-10-22T13:41:26+00:00",
    "tickers": [
+    "IONS",
     "QGEN"
    ],
    "tag": "Analyst",
@@ -4132,7 +4193,8 @@
    "source": "Yahoo",
    "published": "2026-10-22T12:08:00+00:00",
    "tickers": [
-    "ALGN"
+    "ALGN",
+    "TGTX"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -43988,38 +44050,6 @@
    "tag": "News",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "cf77d5111d53",
-   "headline": "McKesson: Re-Rated Again Amidst Increased M&A Efforts",
-   "summary": "McKesson stock is up 170% since 2022. Learn what\u00e2\u0080\u0099s driving growth, how recent M&A reshapes its portfolio, and if valuation limits upside.",
-   "url": "https://finnhub.io/api/news?id=72ef390528f9357e6282d65e74062b0aaa8cbb4687effa371bd74cec6ec5d8c4",
-   "source": "SeekingAlpha",
-   "published": "2026-10-13T01:58:39+00:00",
-   "tickers": [
-    "MCK",
-    "OPCH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharmacy"
-   ]
-  },
-  {
-   "id": "45065c3aca52",
-   "headline": "Stock Market: Will S&P 500 Open Up or Down Today?",
-   "summary": "Will S&P 500 open higher? Polymarket odds dip to 37% as Wall Street faces a Nasdaq selloff, Q3 bank earnings and Trump's new energy policies.",
-   "url": "https://finnhub.io/api/news?id=8229a7a2a9fa89cc3a982e2c13022dd56a36f2cb18b69b4e232d9fb5e0859c35",
-   "source": "Benzinga",
-   "published": "2026-10-13T01:48:41+00:00",
-   "tickers": [
-    "JNJ",
-    "UNH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
