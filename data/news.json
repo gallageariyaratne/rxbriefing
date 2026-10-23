@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-23T12:02:44.463381+00:00",
+ "updated": "2026-10-23T12:17:41.234444+00:00",
  "quotes": {
   "A": {
    "price": 173.89,
@@ -13,10 +13,6 @@
   "ABT": {
    "price": 102.51,
    "change_pct": 1.99
-  },
-  "ALGN": {
-   "price": 155.51,
-   "change_pct": 2.73
   },
   "ALHC": {
    "price": 8.43,
@@ -310,9 +306,9 @@
    "price": 20.36,
    "change_pct": 2.16
   },
-  "TGTX": {
-   "price": 53.16,
-   "change_pct": -0.08
+  "TEM": {
+   "price": 63.81,
+   "change_pct": -5.83
   },
   "THC": {
    "price": 270.63,
@@ -321,6 +317,10 @@
   "TMDX": {
    "price": 72.06,
    "change_pct": -0.47
+  },
+  "TMO": {
+   "price": 676.54,
+   "change_pct": -2.52
   }
  },
  "tickers": {
@@ -938,11 +938,43 @@
  },
  "stories": [
   {
+   "id": "a0ba9b741df1",
+   "headline": "Pathos inks BMS, Tempus collabs to apply agentic AI in Alzheimer's clinical development",
+   "summary": "Pathos AI has signed two new collaboration deals aimed at developing drugs for neurological conditions such as Alzheimer's disease, one with pharma giant Bristol Myers Squibb and another with Tempus AI, a builder of large-scale clinical\u2026",
+   "url": "https://www.fiercebiotech.com/biotech/pathos-inks-bms-tempus-collabs-apply-agentic-ai-alzheimers-clinical-development",
+   "source": "Fierce Biotech",
+   "published": "2026-10-23T12:15:21.251607+00:00",
+   "tickers": [
+    "BMY",
+    "TEM"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "healthai",
+    "pharma"
+   ]
+  },
+  {
    "id": "2a1beb511c03",
    "headline": "Waters and Labcorp to Expand Access to Cervical Cancer Screening with the Most Comprehensive FDA-Approved HPV Testing Option Beginning in Late 2026",
    "summary": "Labcorp intends to be the first commercial laboratory to offer FDA-approved HPV testing with the BD Onclarity\u2122 HPV Assay across clinician-collected and self-collected screening options in clinic, patient service center, and at-home\u2026",
    "url": "https://www.prnewswire.com/news-releases/waters-and-labcorp-to-expand-access-to-cervical-cancer-screening-with-the-most-comprehensive-fda-approved-hpv-testing-option-beginning-in-late-2026-302918049.html",
    "source": "PR Newswire",
+   "published": "2026-10-23T12:00:00+00:00",
+   "tickers": [
+    "LH"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "3a509122cdbf",
+   "headline": "Waters and Labcorp to Expand Access to Cervical Cancer Screening with the Most Comprehensive FDA-Approved HPV Testing Option Beginning in Late 2026",
+   "summary": "Labcorp (NYSE: LH), a global leader of innovative and comprehensive laboratory services, and Waters Corporation (NYSE: WAT), a global life sciences and diagnostics leader, today announced a partnership to expand access to the FDA-approved\u2026",
+   "url": "https://finnhub.io/api/news?id=9a6fb933e9b47bcf88a1bfbd04036b06b866bce5ba0cce7b0a846ec75f841f01",
+   "source": "Yahoo",
    "published": "2026-10-23T12:00:00+00:00",
    "tickers": [
     "LH"
@@ -965,6 +997,36 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "97fd9b85c4ae",
+   "headline": "AbbVie\u2019s skin disease drug posts Phase III win as market competition heats up",
+   "summary": "This late-stage readout comes as companies explore the potential of novel mechanisms of action in HS.",
+   "url": "https://finnhub.io/api/news?id=a05c8cee65c8b8218dcc643a6222573bc978a7fdda4e0adebb0c07d61a100c98",
+   "source": "Yahoo",
+   "published": "2026-10-23T11:39:13+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "c002552f7723",
+   "headline": "Has Buying Cigna Stock At A High Paid Off?",
+   "summary": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://finnhub.io/api/news?id=a938323164f5b7f85952a00268f188351101d38dadbe0b65064ade9a6f3bdfc1",
+   "source": "Yahoo",
+   "published": "2026-10-23T10:35:04+00:00",
+   "tickers": [
+    "CI"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -1006,6 +1068,21 @@
    "tag": "Clinical",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "58975d2a9802",
+   "headline": "What Sent Eli Lilly Stock Higher Over The Past Year?",
+   "summary": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://finnhub.io/api/news?id=dd1033de1a38808c96bfaf9f76cf0ea22287ed9a1757cd789080f8438e109cdc",
+   "source": "Yahoo",
+   "published": "2026-10-23T10:14:03+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -42310,65 +42387,6 @@
    "tag": "Clinical",
    "sectors": [
     "tools"
-   ]
-  },
-  {
-   "id": "05798ef41a8b",
-   "headline": "Johns Hopkins Medicine taps OpenEvidence to bring AI into medical education, clinical care",
-   "summary": "Johns Hopkins Medicine is teaming up with OpenEvidence to advance the use of artificial intelligence in medical education and clinical care.",
-   "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/johns-hopkins-medicine-taps-openevidence-design-ai-tools-medical-training",
-   "source": "Fierce Healthcare",
-   "published": "2026-10-13T12:15:21.647280+00:00",
-   "tickers": [],
-   "tag": "Health AI",
-   "sectors": []
-  },
-  {
-   "id": "6e1063aff900",
-   "headline": "Should You Add Abbott Stock to Your Portfolio Ahead of Q3 Earnings?",
-   "summary": "ABT's Q3 earnings are likely to have benefited from Diagnostics growth, Medical Device momentum and Nutrition innovations, while its valuation below historical levels draw investor interest.",
-   "url": "https://finnhub.io/api/news?id=d8b97ec64552a3689972eaa7a4b082b14408a5c97865f7422bf130bd4d2c1121",
-   "source": "Yahoo",
-   "published": "2026-10-13T12:12:00+00:00",
-   "tickers": [
-    "ABT",
-    "LH",
-    "TMO"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "ebaabaf17f77",
-   "headline": "TD Cowen Maintains Buy on Natera, Raises Price Target to $480",
-   "summary": "TD Cowen analyst Dan Brennan maintains Natera (NASDAQ:NTRA) with a Buy and raises the price target from $340 to $480.",
-   "url": "https://finnhub.io/api/news?id=d8c8f9017043086cb449cff8afcf8b3c25a51f786fc4cd97323cce36c80333c8",
-   "source": "Benzinga",
-   "published": "2026-10-13T12:08:06+00:00",
-   "tickers": [
-    "NTRA"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "ddcfd694d494",
-   "headline": "Why Is BioNTech Stock Falling Tuesday?",
-   "summary": "BioNTech stock drops over 5% as BNT113 mRNA cancer trial misses PFS endpoint. Focus shifts to overall survival in HPV16+ HNSCC study.",
-   "url": "https://finnhub.io/api/news?id=3a6c38d27c9f04424231f632b23afcfa088ae4c98ed397fdaa1941ae20cca5b7",
-   "source": "Benzinga",
-   "published": "2026-10-13T12:06:09+00:00",
-   "tickers": [
-    "BNTX",
-    "MRK"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
