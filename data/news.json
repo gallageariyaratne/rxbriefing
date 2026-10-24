@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-24T01:47:24.115722+00:00",
+ "updated": "2026-10-24T02:02:43.262063+00:00",
  "quotes": {
   "A": {
    "price": 173.07,
@@ -65,6 +65,10 @@
   "CRL": {
    "price": 345.37,
    "change_pct": 1.68
+  },
+  "CRSP": {
+   "price": 49.39,
+   "change_pct": -1.2
   },
   "CVS": {
    "price": 93.47,
@@ -265,6 +269,10 @@
   "TEM": {
    "price": 67.61,
    "change_pct": 5.96
+  },
+  "TGTX": {
+   "price": 54.17,
+   "change_pct": 1.9
   },
   "TMO": {
    "price": 673.82,
@@ -963,6 +971,21 @@
    ]
   },
   {
+   "id": "87c1f7759990",
+   "headline": "Stocktwits Biotech Dealmaker: Gilead And Roche Double Down On Early-Stage Assets Over Full Buyouts This Week",
+   "summary": "Inflammation, cancer therapies called antibody-drug conjugates, and next-generation T-cell engagers with possibilities in treating cancer drew the biggest capital in the relatively slow week for biotech dealmaking.",
+   "url": "https://finnhub.io/api/news?id=cdc369dd528f6f28c099e713d6a802254c0cef83eab26d9caad0ea16b2c20056",
+   "source": "Yahoo",
+   "published": "2026-10-24T00:01:57+00:00",
+   "tickers": [
+    "GILD"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "67554624f2db",
    "headline": "MEDP Q3 deep dive: bookings strength drives growth, margin expansion continues",
    "summary": "Clinical research company Medpace Holdings (NASDAQ:MEDP) met Wall Street\u2019s revenue expectations in Q3 2026, with sales up 8.5% year on year to $716 million. The company\u2019s outlook for the full year was close to analysts\u2019 estimates with\u2026",
@@ -1640,6 +1663,21 @@
    ]
   },
   {
+   "id": "f3b1488a2509",
+   "headline": "TGTX Stock Bucks Broader Biotech Selloff As Multiple Sclerosis Therapy Shows Promising Early Results \u2014 Here\u2019s What Investors Need To Know",
+   "summary": "The Phase 1 trial evaluated patients whose disabilities continued to worsen despite receiving other treatments.",
+   "url": "https://finnhub.io/api/news?id=dee9c993a96a4307f236c7511c5ecd81f5a8ec78c16db2e640826517769db69d",
+   "source": "Yahoo",
+   "published": "2026-10-23T18:07:19+00:00",
+   "tickers": [
+    "TGTX"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "6af2c16b6cc1",
    "headline": "Most Active S&P 500 Stocks for Oct. 23, 2026",
    "summary": "Most-active S&P 500 scan for Oct. 23, 2026 ranks AT&T, Verizon, Bloom Energy, Ford, Netflix and others by volume with price moves and performance context.",
@@ -2131,6 +2169,21 @@
    ]
   },
   {
+   "id": "aefc72ab3593",
+   "headline": "Why Is Tango Therapeutics Stock Trading Lower After Cancer Drug Data?",
+   "summary": "Tango Therapeutics Inc. (NASDAQ:TNGX) on Friday shared Phase 1/2 trial data for its investigational drug vopimetostat, revealing strong efficacy in treating advanced pancreatic and lung cancers. The biotechnology firm reported marked\u2026",
+   "url": "https://finnhub.io/api/news?id=6ecd7e2d70e24bbbb520b82bdfb1681c6cff424fa674d43052004cd7545aa0e9",
+   "source": "Yahoo",
+   "published": "2026-10-23T15:36:05+00:00",
+   "tickers": [
+    "RVMD"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "9cab96d62677",
    "headline": "Merck CEO Plays Down Cost Concerns Over Intismeran \u2014 \u2018We Don't See Cost As A Limit To Access\u2019",
    "summary": "In an interview with CNBC, Merck CEO Rob Davis said the company is confident it can deliver Intismeran at scale.",
@@ -2328,7 +2381,8 @@
    "tickers": [
     "HALO",
     "MRK",
-    "MRNA"
+    "MRNA",
+    "TGTX"
    ],
    "tag": "Clinical",
    "sectors": [
@@ -2363,6 +2417,36 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "f5d4a38cd600",
+   "headline": "Tango Therapeutics Sinks 13% on Pancreatic Cancer Data It Says \u201cSurpass Any Published PDAC Datasets\u201d",
+   "summary": "Key TakeawaysTango Therapeutics shares fell 13% today after new data showed an 82% response rate for its drug vopimetostat combined with Revolution Medicines\u2019 daraxonrasib in 22 pancreatic cancer patients. The update mostly confirmed\u2026",
+   "url": "https://finnhub.io/api/news?id=edbcfb877dddab13cf3c5767bbf43b7fde3b6eb642c59ae6f2328c7990d5fb52",
+   "source": "Yahoo",
+   "published": "2026-10-23T14:59:11+00:00",
+   "tickers": [
+    "RVMD"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "8618c826bc3a",
+   "headline": "TG Therapeutics Announces Phase 1 Data Evaluating Azer-cel in Progressive Multiple Sclerosis in a Late-Breaking Oral Presentation at MSToronto2026",
+   "summary": "NEW YORK, October 23, 2026--TG Therapeutics, Inc. (NASDAQ: TGTX), today announced initial results from the Company\u2019s Phase 1 study evaluating azercabtagene zapreleucel (azer-cel), an investigational, allogeneic CD19-directed chimeric\u2026",
+   "url": "https://finnhub.io/api/news?id=25b4b9ffed458f41283ae6515157f3be0e1e1000a10b2ef961079698e8d9324f",
+   "source": "Yahoo",
+   "published": "2026-10-23T14:55:00+00:00",
+   "tickers": [
+    "TGTX"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -2606,7 +2690,8 @@
    "published": "2026-10-23T14:06:00+00:00",
    "tickers": [
     "MRK",
-    "MRNA"
+    "MRNA",
+    "RVMD"
    ],
    "tag": "News",
    "sectors": [
@@ -3522,6 +3607,21 @@
    ]
   },
   {
+   "id": "495896a82b6b",
+   "headline": "Tango Therapeutics stock falls despite positive cancer trial data",
+   "summary": "Investing.com -- Tango Therapeutics (NASDAQ:TNGX) shares fell 6% Friday following the company\u2019s presentation of Phase 1/2 study results for vopimetostat and daraxonrasib in pancreatic cancer, despite what the company characterized as\u2026",
+   "url": "https://finnhub.io/api/news?id=ec13a32d1ffa96fe6678efd6ea06dda9db34e1c7f0a0f715ba960e949f682c48",
+   "source": "Yahoo",
+   "published": "2026-10-23T12:04:15+00:00",
+   "tickers": [
+    "RVMD"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "7052b6a0f81f",
    "headline": "How Halozyme, Up 80% This Year, Is Rivaling Merck And Hitting New Highs",
    "summary": "Halozyme makes technologies that allow drugs delivered through intravenous infusion, or IV, to instead be given with under-the-skin shots",
@@ -3551,6 +3651,21 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "843a68d695d6",
+   "headline": "Investors Heavily Search CRISPR Therapeutics AG (CRSP): Here is What You Need to Know",
+   "summary": "Recently, Zacks.com users have been paying close attention to CRISPR Therapeutics (CRSP). This makes it worthwhile to examine what the stock has in store.",
+   "url": "https://finnhub.io/api/news?id=322e4d16bd390cdaec638a3d4e7bcdb926a315c00feafeecbaec885517d1c103",
+   "source": "Yahoo",
+   "published": "2026-10-23T12:00:02+00:00",
+   "tickers": [
+    "CRSP"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -3726,6 +3841,21 @@
    ]
   },
   {
+   "id": "9ac9c38d64f9",
+   "headline": "Revolution Medicines Presents Overall Survival Data for RASONQUE\u2122 (daraxonrasib) Across Subgroups in Previously Treated Metastatic Pancreatic Cancer at ESMO 2026",
+   "summary": "Expanding on the unprecedented final results previously reported from the Phase 3 RASolute 302 trial, the exploratory subgroup analyses showed RASONQUE consistently provided an overall survival benefit compared with chemotherapy across\u2026",
+   "url": "https://finnhub.io/api/news?id=4ff59dbef72d6fa9c186025563d726c8e38551a0cc21b8ecf0cc5190e9327a5e",
+   "source": "Yahoo",
+   "published": "2026-10-23T11:30:00+00:00",
+   "tickers": [
+    "RVMD"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "b3359b779ad0",
    "headline": "Here's How IDEXX Laboratories Is Placed Ahead of Q3 Earnings",
    "summary": "IDXX heads into Q3 earnings with expected revenue and EPS growth, fueled by CAG Diagnostics momentum, higher testing volumes and software gains.",
@@ -3733,7 +3863,8 @@
    "source": "Yahoo",
    "published": "2026-10-23T11:19:00+00:00",
    "tickers": [
-    "IDXX"
+    "IDXX",
+    "TGTX"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -3753,6 +3884,21 @@
    "tag": "FDA",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "53b9ec01436d",
+   "headline": "The Outlook of CRISPR Therapeutics Stock Does Not Look Strong After Its CFO Resigns",
+   "summary": "The valuation of CRSP stock is high, and its pipeline is not advanced.",
+   "url": "https://finnhub.io/api/news?id=9fe96a351adc7f4d313ffe217bc43bf24e777d7d27b2aab6bc7842db86f05175",
+   "source": "Yahoo",
+   "published": "2026-10-23T11:14:15+00:00",
+   "tickers": [
+    "CRSP"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -42453,21 +42599,6 @@
    "tag": "News",
    "sectors": [
     "tools"
-   ]
-  },
-  {
-   "id": "c9be41ecd933",
-   "headline": "Centene CEO: \"I didn't get into this business because I thought health care worked well\"",
-   "summary": "Centene CEO Sarah London, the youngest-ever female chief executive of a Fortune 500 company, told Fortune MPW that she took on the role because she wanted to fix health care.",
-   "url": "https://finnhub.io/api/news?id=31c3a506e4721408aecb22ae519d4f08dfe5d79e3ae92104c848adcdb05a1ecd",
-   "source": "Yahoo",
-   "published": "2026-10-14T02:00:13+00:00",
-   "tickers": [
-    "CNC"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
    ]
   }
  ]
