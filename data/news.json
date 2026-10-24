@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-24T04:17:37.290549+00:00",
+ "updated": "2026-10-24T04:32:40.570091+00:00",
  "quotes": {
   "A": {
    "price": 173.07,
@@ -25,6 +25,10 @@
   "ARGX": {
    "price": 873.71,
    "change_pct": -0.23
+  },
+  "ARWR": {
+   "price": 58.02,
+   "change_pct": -0.58
   },
   "AXSM": {
    "price": 145.04,
@@ -317,10 +321,6 @@
   "VRTX": {
    "price": 523.93,
    "change_pct": -2.1
-  },
-  "WAT": {
-   "price": 453.67,
-   "change_pct": -0.42
   }
  },
  "tickers": {
@@ -938,6 +938,21 @@
  },
  "stories": [
   {
+   "id": "da0dca26df50",
+   "headline": "Quest Diagnostics (DGX) Stock Price Stalls After Strong Q3 Earnings",
+   "summary": "Quest Diagnostics just posted Q3 2026 results that looked firm on paper while the stock barely flinched. Shares sit at about US$241.89, down 0.6% today and only modestly higher over the past month, even as revenue for the quarter reached\u2026",
+   "url": "https://finnhub.io/api/news?id=594d3bf4eb09d17745879c20e001a6672b3e0a84fdcf75a7e498202551c63bbf",
+   "source": "Yahoo",
+   "published": "2026-10-24T03:14:12+00:00",
+   "tickers": [
+    "DGX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "cee135e95133",
    "headline": "Medtronic (MDT) Stock Could Be A Bargain On Cash Flow",
    "summary": "Medtronic has delivered a solid 51.6% share price gain over the past three years, while rolling out new cardiac devices and digital tools that could reshape how it earns and collects cash. With the stock around US$95.41, the open question\u2026",
@@ -950,6 +965,37 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "f5903ccb2eb3",
+   "headline": "Vertex Highlights Kidney Pipeline as Povetacicept Cuts Proteinuria 52% in Phase III",
+   "summary": "Vertex Pharmaceuticals (NASDAQ:VRTX) outlined updates across its kidney disease pipeline at the American Society of Nephrology Kidney Week 2026, highlighting data for povetacicept in IgA nephropathy and inaxaplin in APOL1-mediated kidney\u2026",
+   "url": "https://finnhub.io/api/news?id=dded9140786f404630f7bf6e3ca4e57335a90cae80dfc4563ead4f419d6eb3cf",
+   "source": "Yahoo",
+   "published": "2026-10-24T03:02:03+00:00",
+   "tickers": [
+    "VRTX"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "d2eae5597e38",
+   "headline": "Arrowhead Pharmaceuticals And 2 Biotech Stocks To Own",
+   "summary": "Biotech stocks live and die on access to capital, so the Federal Reserve\u2019s signal that interest rates may pause for now gives this high risk corner of the market some breathing room. Cheaper money can make it easier to fund drug pipelines\u2026",
+   "url": "https://finnhub.io/api/news?id=5d68ab619842c1ac95b53ec51d99f579df14414d07ed1cc506ef36f85594fb9f",
+   "source": "Yahoo",
+   "published": "2026-10-24T02:09:34+00:00",
+   "tickers": [
+    "ARWR",
+    "JNJ"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -42845,21 +42891,6 @@
    "tag": "News",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "6afa3ec18e7a",
-   "headline": "3 Commodity Stocks Riding China Import Demand In 2026",
-   "summary": "China\u2019s latest trade report has lit a fire under global commodity stories, with September exports up 36.3% and imports up 31% year on year. That kind of two way traffic can reshape demand for everything from iron ore to lithium, and\u2026",
-   "url": "https://finnhub.io/api/news?id=a037282754909331f1b66f3b44f788c9694284e72885010324bed73872f489a0",
-   "source": "Yahoo",
-   "published": "2026-10-14T04:30:45+00:00",
-   "tickers": [
-    "NVS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
