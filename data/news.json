@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-24T17:02:18.415109+00:00",
+ "updated": "2026-10-24T17:17:13.602164+00:00",
  "quotes": {
   "A": {
    "price": 173.07,
@@ -81,10 +81,6 @@
   "EXEL": {
    "price": 64.53,
    "change_pct": -1.19
-  },
-  "GEHC": {
-   "price": 71.45,
-   "change_pct": 0.04
   },
   "GILD": {
    "price": 156.04,
@@ -846,6 +842,22 @@
  },
  "stories": [
   {
+   "id": "3c2748d86366",
+   "headline": "The ESMO presentation everyone\u2019s been waiting for",
+   "summary": "Moderna and Merck's 'presidential' presentation, and other news from Day 2 of the European Society for Medical Oncology meeting in Madrid.",
+   "url": "https://www.statnews.com/2026/10/24/the-esmo-2026-merck-moderna-presentation-amgen-imdelltra-news/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-24T17:00:59+00:00",
+   "tickers": [
+    "MRK",
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "1324826ff7e4",
    "headline": "Weight-Loss Drugs Are Coming for Beer, Heineken Admits Privately",
    "summary": "Heineken just told British pub owners that a blockbuster class of drugs threatens the very ritual of buying a round, and its own financial data makes the warning harder to dismiss than the industry would like.",
@@ -1074,6 +1086,7 @@
    "source": "SeekingAlpha",
    "published": "2026-10-24T12:00:47+00:00",
    "tickers": [
+    "ABBV",
     "LLY",
     "MRK"
    ],
@@ -39840,122 +39853,6 @@
    "tag": "Clinical",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "b48bfe93c4c8",
-   "headline": "Take profit in healthcare strength across the board, says Mizuho's Jared Holz",
-   "summary": "",
-   "url": "https://finnhub.io/api/news?id=7b096a03ff0e5a5a24de8845d2b27a90a2faf3a7e3424ee1fbb60f2ba53646b1",
-   "source": "CNBC",
-   "published": "2026-10-14T17:15:29+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "c1e09d0e22a5",
-   "headline": "Readily secures $11M series A to continue building out AI regulatory compliance platform",
-   "summary": "Artificial intelligence compliance platform Readily raised $11 million in series A funding to support development of its enterprise oversight platform.",
-   "url": "https://www.fiercehealthcare.com/finance/readily-secures-11m-series-continue-building-out-ai-regulatory-compliance-platform",
-   "source": "Fierce Healthcare",
-   "published": "2026-10-14T17:15:21.838925+00:00",
-   "tickers": [],
-   "tag": "Policy",
-   "sectors": []
-  },
-  {
-   "id": "d3afcbc52b42",
-   "headline": "These 4 Dividend Stocks Passed the 2020 Stress Test. Are They Buys in Now October?",
-   "summary": "Four companies kept raising their dividends even as the pandemic hammered their sectors in 2020, and they are still raising today. The question is whether their yields and valuations make them worth buying right now.",
-   "url": "https://finnhub.io/api/news?id=a6a4f6f24c866e68c6cde594f797d5868f29abd7851bb0d3528f7a171b7a2d54",
-   "source": "Yahoo",
-   "published": "2026-10-14T17:15:06+00:00",
-   "tickers": [
-    "BMY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "298e96957049",
-   "headline": "DexCom's CONNECT Study Published In The New England Journal Of Medicine; Findings Support The Role Of CGM Earlier In Type 2 Diabetes Care For All People, Including Those Over The Age Of 65",
-   "summary": "Publication marks the first time in nearly two decades that The New England Journal of Medicine has published clinical data on standalone real-time continuous glucose monitoring (CGM) technology, dating back to the",
-   "url": "https://finnhub.io/api/news?id=bbdee8d910331088f7dd1db48e3904360a99b21056596dba2f3ad52b98202c25",
-   "source": "Benzinga",
-   "published": "2026-10-14T17:13:59+00:00",
-   "tickers": [
-    "DXCM"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "23ce5d2fecd9",
-   "headline": "3 AI Stocks With Revenue Growth Up To 29%",
-   "summary": "Fresh CPI data shows US inflation at 3.7% in September, with AI data center construction flagged as one of the cost drivers. Rising prices and the prospect of higher rates are pressuring many growth stories, while the businesses supplying\u2026",
-   "url": "https://finnhub.io/api/news?id=e79a7ccf79989acef8efb10dfdf2fa5b10af362131c4e84e969d36924e29b8bb",
-   "source": "Yahoo",
-   "published": "2026-10-14T17:12:30+00:00",
-   "tickers": [
-    "NVS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "f594fe1ee6c9",
-   "headline": "Veeva Stock Breaks Out As Big Money Grabs Exposure To The AI Software Play",
-   "summary": "Veeva Systems stock moves above a buy point in its early-stage chart pattern.",
-   "url": "https://finnhub.io/api/news?id=f681e104600a94b4a8ce371630bf197e1d52485ce451b97075ecf3f40e8de9b2",
-   "source": "Yahoo",
-   "published": "2026-10-14T17:11:20+00:00",
-   "tickers": [
-    "VEEV"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "ecbc4973a1d4",
-   "headline": "GSK (LSE:GSK) Plans $800 Million Pennsylvania Expansion",
-   "summary": "GSK (LSE:GSK) plans a US$800 million expansion of its biopharmaceutical manufacturing campus in Pennsylvania, announced in October 2026. The project is expected to add over 300 permanent roles, focused on high-skill biopharmaceutical\u2026",
-   "url": "https://finnhub.io/api/news?id=ae2fc51d211eb232dfce5261a4dc799ae14cf7410362c65b73cfea984ae76fd8",
-   "source": "Yahoo",
-   "published": "2026-10-14T17:10:38+00:00",
-   "tickers": [
-    "GSK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "f1b41527ecca",
-   "headline": "What Does Gilead Sciences (GILD) Gain From Its New Solid Tumor Partnership?",
-   "summary": "Gilead Sciences (NasdaqGS:GILD) announced a collaboration with Vir Biotechnology to develop novel T cell engagers for solid tumors. The agreement grants Gilead exclusive rights to further develop and commercialize T cell engager\u2026",
-   "url": "https://finnhub.io/api/news?id=25ba896210cdb65aaf6108852599b19089836370b07555c596c57c13be921c4d",
-   "source": "Yahoo",
-   "published": "2026-10-14T17:09:54+00:00",
-   "tickers": [
-    "GILD"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
