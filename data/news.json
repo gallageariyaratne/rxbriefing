@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-24T14:32:20.163921+00:00",
+ "updated": "2026-10-24T14:47:17.952935+00:00",
  "quotes": {
   "A": {
    "price": 173.07,
@@ -82,17 +82,9 @@
    "price": 183.64,
    "change_pct": -1.32
   },
-  "ELV": {
-   "price": 439.95,
-   "change_pct": -1.2
-  },
   "ENSG": {
    "price": 175.59,
    "change_pct": -1.55
-  },
-  "EW": {
-   "price": 89.07,
-   "change_pct": -1.13
   },
   "EXEL": {
    "price": 64.53,
@@ -233,10 +225,6 @@
   "TMO": {
    "price": 673.82,
    "change_pct": -0.4
-  },
-  "TWST": {
-   "price": 139.92,
-   "change_pct": 3.28
   },
   "TXG": {
    "price": 71.55,
@@ -882,6 +870,51 @@
  },
  "stories": [
   {
+   "id": "34d745743510",
+   "headline": "ESMO: Amgen\u2019s Imdelltra drives massive survival benefit in \u2018watershed moment\u2019 for small cell lung cancer",
+   "summary": "Amgen\u2019s T-cell engager Imdelltra has posted a massive survival benefit in small cell lung cancer, delivering what Chief Medical Officer Paul Burton called a \u201cwatershed moment\u201d for the field while drawing comparison to Rasonque in\u2026",
+   "url": "https://www.fiercepharma.com/pharma/amgen-imdelltra-drives-massive-survival-benefit-watershed-moment-small-cell-lung-cancer",
+   "source": "Fierce Pharma",
+   "published": "2026-10-24T14:45:22.059747+00:00",
+   "tickers": [
+    "AMGN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "0d8f9a69015a",
+   "headline": "ESMO: Chasing Keytruda, AstraZeneca\u2019s Imfinzi pitches its own Padcev combos in bladder cancer",
+   "summary": "AstraZeneca is rolling out its own Imfinzi-Padcev combination pitch in cisplatin-ineligible muscle-invasive bladder cancer, hoping to differentiate from Keytruda-Padcev with a tweaked dosing regimen, while its effort to add a CTLA-4\u2026",
+   "url": "https://www.fiercepharma.com/pharma/chasing-keytruda-astrazeneca-imfinzi-pitches-its-own-padcev-combos-bladder-cancer",
+   "source": "Fierce Pharma",
+   "published": "2026-10-24T14:45:22.058140+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "864b1fb68455",
+   "headline": "Incyte (INCY) Starts KRAS G12D Colorectal Cancer Trial Collaboration",
+   "summary": "Incyte (NasdaqGS:INCY) and Genmab announced a new clinical trial collaboration targeting KRAS G12D-mutated metastatic colorectal cancer. The study will test a combination of Genmab\u2019s bispecific antibody with Incyte\u2019s selective KRAS G12D\u2026",
+   "url": "https://finnhub.io/api/news?id=ca7e61755e0b25a11b06334d1f4ebde1210d7747635539d931cc266851b6a2e6",
+   "source": "Yahoo",
+   "published": "2026-10-24T13:14:45+00:00",
+   "tickers": [
+    "INCY"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "eca521546c3e",
    "headline": "CVS Health (CVS) Stock May Be Undervalued Despite Opioid Settlement",
    "summary": "CVS Health has delivered solid gains over the past few years, and recent headlines have kept the company firmly in focus. With the stock around US$93, the question for you is whether that price is well supported by the earnings CVS\u2026",
@@ -921,6 +954,21 @@
    "tickers": [],
    "tag": "Clinical",
    "sectors": []
+  },
+  {
+   "id": "3a6a73717779",
+   "headline": "Incyte (INCY) Heads To ESMO With New Oncology Data, Is The Stock Still Undervalued?",
+   "summary": "Incyte (INCY) is back in focus as it prepares to present new oncology data at the European Society for Medical Oncology Congress in Madrid, covering several high-need solid tumor programs. That interest is landing on a stock that has been\u2026",
+   "url": "https://finnhub.io/api/news?id=dee0876997026439d069f641d5dc9a7f95c60c3beddf6cd7f1cf96e7d8454ab2",
+   "source": "Yahoo",
+   "published": "2026-10-24T12:09:44+00:00",
+   "tickers": [
+    "INCY"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "biotech"
+   ]
   },
   {
    "id": "556e5c0296c6",
@@ -3829,7 +3877,8 @@
    "source": "Benzinga",
    "published": "2026-10-23T13:35:10+00:00",
    "tickers": [
-    "CI"
+    "CI",
+    "UNH"
    ],
    "tag": "News",
    "sectors": [
@@ -4031,6 +4080,21 @@
     "MRNA"
    ],
    "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "83822af2fe18",
+   "headline": "Oppenheimer Maintains Outperform on Amgen, Raises Price Target to $480",
+   "summary": "Oppenheimer analyst Jay Olson maintains Amgen (NASDAQ:AMGN) with a Outperform and raises the price target from $450 to $480.",
+   "url": "https://finnhub.io/api/news?id=001826c9ddc5b915e6dc88927a2c9da393dfc0255ca24b619334979c64017c0e",
+   "source": "Benzinga",
+   "published": "2026-10-23T13:03:20+00:00",
+   "tickers": [
+    "AMGN"
+   ],
+   "tag": "Analyst",
    "sectors": [
     "pharma"
    ]
@@ -4381,6 +4445,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "88e3a1a6d200",
+   "headline": "Here\u2019s How Much You Would Have Made Owning Illumina Stock In The Last 20 Years",
+   "summary": "Illumina (NASDAQ:ILMN) has outperformed the market over the past 20 years by 4.59% on an annualized basis producing an average annual return of 13.52%. Currently, Illumina has a market capitalization of $43.25 billion.",
+   "url": "https://finnhub.io/api/news?id=01bb4afca1173b4b80cf0868e654cc4fae5394a3bb5fea51743e50a45430e4fd",
+   "source": "Benzinga",
+   "published": "2026-10-23T12:30:30+00:00",
+   "tickers": [
+    "ILMN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -40264,144 +40343,6 @@
    "tickers": [],
    "tag": "FDA",
    "sectors": []
-  },
-  {
-   "id": "624f5fa0a13c",
-   "headline": "CVS to pay $315M to settle opioid prescribing allegations",
-   "summary": "Prosecutors say the company filled unnecessary prescriptions that fueled the opioid epidemic. A spokesperson for CVS said the company admitted to no wrongdoing and \u201cstrongly disagreed\u201d with the case\u2019s claims.",
-   "url": "https://www.healthcaredive.com/news/cvs-pay-315-million-settle-opioid-prescribing-allegations/832969/",
-   "source": "Healthcare Dive",
-   "published": "2026-10-14T14:45:52+00:00",
-   "tickers": [
-    "CVS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "f814aa350fa8",
-   "headline": "CVS to pay $315M to settle opioid prescribing allegations",
-   "summary": "Prosecutors say the company filled unnecessary prescriptions that fueled the opioid epidemic. A spokesperson for CVS said the company admitted to no wrongdoing and \u201cstrongly disagreed\u201d with the case\u2019s claims.",
-   "url": "https://finnhub.io/api/news?id=75d68b7afffdb3c3e34e8bfeebe84424f8b6935924999310635119562d4f843a",
-   "source": "Yahoo",
-   "published": "2026-10-14T14:45:52+00:00",
-   "tickers": [
-    "CVS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "30176730417e",
-   "headline": "CVS to pay $315M to settle opioid prescribing allegations",
-   "summary": "Prosecutors say the company filled unnecessary prescriptions that fueled the opioid epidemic. A spokesperson for CVS said the company admitted to no wrongdoing and \u201cstrongly disagreed\u201d with the case\u2019s claims.",
-   "url": "https://www.biopharmadive.com/news/cvs-pay-315-million-settle-opioid-prescribing-allegations/832999/",
-   "source": "BioPharma Dive",
-   "published": "2026-10-14T14:45:52+00:00",
-   "tickers": [
-    "CVS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "fc836b267528",
-   "headline": "Galderma bulks up dermatology portfolio with $1.5B acquisition of Zo Skin Health",
-   "summary": "Expanding its presence in dermatology, Cetaphil maker Galderma has agreed to acquire professional skincare shop Zo Skin Health for $1.5 billion.",
-   "url": "https://www.fiercepharma.com/pharma/galderma-bulks-dermatology-portfolio-15b-acquisition-zo-skin-health",
-   "source": "Fierce Pharma",
-   "published": "2026-10-14T14:45:30.251441+00:00",
-   "tickers": [],
-   "tag": "M&A",
-   "sectors": []
-  },
-  {
-   "id": "6fbf7ac1ae17",
-   "headline": "United lands 'clearcut win' as Liquidia agrees to $380M settlement in Tyvaso patent infringement saga",
-   "summary": "With a yearslong patent dispute between the two drugmakers finally put to bed\u2014complete with a hefty settlement payout\u2014United Therapeutics has clinched what one analyst calls a \u201cclearcut win\u201d over lung disease rival Liquidia Technologies.",
-   "url": "https://www.fiercepharma.com/pharma/united-lands-clearcut-win-liquidia-agrees-380m-settlement-tyvaso-patent-infringement-saga",
-   "source": "Fierce Pharma",
-   "published": "2026-10-14T14:45:30.250205+00:00",
-   "tickers": [
-    "UTHR"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "55cb807e242a",
-   "headline": "Deep-pocketed Verdiva axes GLP-1 switching trial over \u2018market evolution\u2019",
-   "summary": "Verdiva Bio has scrapped a phase 2 trial of its once-weekly oral GLP-1 drug candidate VRB-101, pulling the plug the year after launching with $410 million.",
-   "url": "https://www.fiercebiotech.com/biotech/deep-pocketed-verdiva-axes-glp-1-switching-trial-over-market-evolution",
-   "source": "Fierce Biotech",
-   "published": "2026-10-14T14:45:30.096128+00:00",
-   "tickers": [],
-   "tag": "GLP-1",
-   "sectors": []
-  },
-  {
-   "id": "82a23adc968f",
-   "headline": "Health-ISAC, Microsoft and partners take down popular phishing kit services",
-   "summary": "Microsoft and the health care industry\u2019s information sharing and analysis center have teamed up to disrupt a prolific China-based phishing ecosystem.",
-   "url": "https://www.healthcaredive.com/news/phishing-marketplace-takedown-microsoft-health-isac/833215/",
-   "source": "Healthcare Dive",
-   "published": "2026-10-14T14:40:14+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "3ea72596b47c",
-   "headline": "SGIOY or UTHR: Which Is the Better Value Stock Right Now?",
-   "summary": "SGIOY vs. UTHR: Which Stock Is the Better Value Option?",
-   "url": "https://finnhub.io/api/news?id=685c9179fe7c549398188ed27ac4a42d35ab271f1c864b9337890e5883352e85",
-   "source": "Yahoo",
-   "published": "2026-10-14T14:40:05+00:00",
-   "tickers": [
-    "UTHR"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "ed11b3285473",
-   "headline": "CON vs. MEDP: Which Stock Should Value Investors Buy Now?",
-   "summary": "CON vs. MEDP: Which Stock Is the Better Value Option?",
-   "url": "https://finnhub.io/api/news?id=70bf0c01a9646cb7dcf418c87beaad8b9ad77bec098871eff1c6f2680a2d1763",
-   "source": "Yahoo",
-   "published": "2026-10-14T14:40:02+00:00",
-   "tickers": [
-    "MEDP"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "d411ad96b7dd",
-   "headline": "Forget Treasury Bonds: This 6%-Yielding Pharma Stock Pays You to Wait for Its Pipeline",
-   "summary": "A reliable payout, a growing cancer treatment lineup, and improving guidance make this drugmaker worth a second look right now.",
-   "url": "https://finnhub.io/api/news?id=9329147cc20b6fa9758aebec595e343d9235bf53905fd06f47e3c49d6852403f",
-   "source": "Yahoo",
-   "published": "2026-10-14T14:35:00+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
   }
  ]
 }
