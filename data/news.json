@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-24T00:57:49.593115+00:00",
+ "updated": "2026-10-24T01:02:34.965654+00:00",
  "quotes": {
   "A": {
    "price": 173.07,
@@ -70,6 +70,10 @@
    "price": 230.5,
    "change_pct": 0.33
   },
+  "DVA": {
+   "price": 183.64,
+   "change_pct": -1.32
+  },
   "ELV": {
    "price": 439.95,
    "change_pct": -1.2
@@ -130,6 +134,10 @@
    "price": 115.71,
    "change_pct": -1.04
   },
+  "IONS": {
+   "price": 42.93,
+   "change_pct": -2.23
+  },
   "IQV": {
    "price": 279.36,
    "change_pct": 0.37
@@ -182,6 +190,10 @@
    "price": 142.7,
    "change_pct": -0.41
   },
+  "NTRA": {
+   "price": 403.95,
+   "change_pct": 0.64
+  },
   "NVO": {
    "price": 39.05,
    "change_pct": -0.96
@@ -217,6 +229,10 @@
   "SMMT": {
    "price": 15.47,
    "change_pct": -0.51
+  },
+  "SNY": {
+   "price": 41.6,
+   "change_pct": -0.86
   },
   "SRPT": {
    "price": 17.73,
@@ -889,7 +905,8 @@
    "source": "Yahoo",
    "published": "2026-10-23T23:12:02+00:00",
    "tickers": [
-    "DGX"
+    "DGX",
+    "WAT"
    ],
    "tag": "News",
    "sectors": [
@@ -976,6 +993,36 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "63660512cb4b",
+   "headline": "DaVita HealthCare (DVA) Falls More Steeply Than Broader Market: What Investors Need to Know",
+   "summary": "DaVita HealthCare (DVA) closed at $183.64 in the latest trading session, marking a -1.32% move from the prior day.",
+   "url": "https://finnhub.io/api/news?id=891075c450ba5e517d3c9ea05a6ed7ee788f7cc3a2c25284913cf554f1f7b2eb",
+   "source": "Yahoo",
+   "published": "2026-10-23T21:00:04+00:00",
+   "tickers": [
+    "DVA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "652873f090a2",
+   "headline": "3 Portfolio-Worthy Stocks Hitting 52-Week Highs: AAPL, LLY & KO",
+   "summary": "With market volatility and economic uncertainty keeping investors on edge, these established large-cap companies are demonstrating impressive relative strength.",
+   "url": "https://finnhub.io/api/news?id=f04a55b6b65dc12f321f20143f46b49e8a787cce7587a12230c7a35976fc91f9",
+   "source": "Yahoo",
+   "published": "2026-10-23T20:59:00+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1539,6 +1586,21 @@
    "tag": "Clinical",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "6343f1cee374",
+   "headline": "Ionis partner Roche announces new Phase 3 data showing sefaxersen significantly reduced proteinuria in people with IgA nephropathy (IgAN)",
+   "summary": "CARLSBAD, Calif., October 23, 2026--Ionis Pharmaceuticals, Inc. (Nasdaq: IONS) partner Roche announced today late-breaking oral presentation data from the ongoing Phase 3 IMAgINATION study in adults with primary IgA nephropathy (IgAN)\u2026",
+   "url": "https://finnhub.io/api/news?id=fe4359ebf8b42fcb67e44ea53d52c9f819d3694d013dbbd7901ad132e83ce227",
+   "source": "Yahoo",
+   "published": "2026-10-23T17:37:00+00:00",
+   "tickers": [
+    "IONS"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -2456,6 +2518,21 @@
    ]
   },
   {
+   "id": "5880cf711270",
+   "headline": "SpaceX initiation, Apple downgrade among today's top calls on Wall Street",
+   "summary": "SpaceX initiation, Apple downgrade among today's top calls on Wall Street",
+   "url": "https://finnhub.io/api/news?id=e93d39adac500f864dcddfcbf0ab8b2e460896114110468e7c9022761f1367b4",
+   "source": "Yahoo",
+   "published": "2026-10-23T13:57:27+00:00",
+   "tickers": [
+    "NTRA"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "db1b4323e9f3",
    "headline": "Medtech leaders discuss AI, cybersecurity and M&A at AdvaMed\u2019s The MedTech Conference",
    "summary": "More than 4,000 people across the medtech sector met in Boston for one of the industry\u2019s biggest events of the year. Catch up on all the conference news in MedTech Dive\u2019s roundup.",
@@ -3163,6 +3240,21 @@
    ]
   },
   {
+   "id": "7325b9ce0e47",
+   "headline": "These French Companies Have Global Reach. The Stocks Are Bargains.",
+   "summary": "Some investors are looking beyond turmoil in France for companies that depend little on their domestic market.",
+   "url": "https://finnhub.io/api/news?id=2773df14a68e1827eba83159cd7fdf74561bdfb3d9fd983f586e437de1856050",
+   "source": "Yahoo",
+   "published": "2026-10-23T12:23:00+00:00",
+   "tickers": [
+    "SNY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "a0ba9b741df1",
    "headline": "Pathos inks BMS, Tempus collabs to apply agentic AI in Alzheimer's clinical development",
    "summary": "Pathos AI has signed two new collaboration deals aimed at developing drugs for neurological conditions such as Alzheimer's disease, one with pharma giant Bristol Myers Squibb and another with Tempus AI, a builder of large-scale clinical\u2026",
@@ -3328,6 +3420,7 @@
    "source": "Yahoo",
    "published": "2026-10-23T11:51:51+00:00",
    "tickers": [
+    "NTRA",
     "TMO"
    ],
    "tag": "Analyst",
