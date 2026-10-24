@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-24T01:02:34.965654+00:00",
+ "updated": "2026-10-24T01:17:28.914921+00:00",
  "quotes": {
   "A": {
    "price": 173.07,
@@ -253,6 +253,10 @@
   "TMO": {
    "price": 673.82,
    "change_pct": -0.4
+  },
+  "TXG": {
+   "price": 71.55,
+   "change_pct": 2.58
   },
   "UNH": {
    "price": 418.09,
@@ -898,6 +902,51 @@
  },
  "stories": [
   {
+   "id": "1d7150eec38c",
+   "headline": "AbbVie (ABBV) Stock Gets Fair Value Bump After Analyst Target Increases",
+   "summary": "AbbVie\u2019s analyst narrative has shifted again, with fair value in one model now set at US$284.79 compared with US$278.61 previously, and other price targets clustering in a wide US$260 to US$325 range. Recent commentary links these higher\u2026",
+   "url": "https://finnhub.io/api/news?id=2958cd97c7b4f36325b485f8fbddae3cb108877b498a65426abd76446385dff9",
+   "source": "Yahoo",
+   "published": "2026-10-24T00:14:01+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "67554624f2db",
+   "headline": "MEDP Q3 deep dive: bookings strength drives growth, margin expansion continues",
+   "summary": "Clinical research company Medpace Holdings (NASDAQ:MEDP) met Wall Street\u2019s revenue expectations in Q3 2026, with sales up 8.5% year on year to $716 million. The company\u2019s outlook for the full year was close to analysts\u2019 estimates with\u2026",
+   "url": "https://finnhub.io/api/news?id=ec5987bc630735f09f58b6950a28f747f973a0afab75b480f7525b5ef7ef3171",
+   "source": "Yahoo",
+   "published": "2026-10-23T23:20:39+00:00",
+   "tickers": [
+    "MEDP"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "a24cdb290e87",
+   "headline": "Molina Healthcare (MOH) Stock Drops After Q3 Results Expose Margin Squeeze",
+   "summary": "Molina Healthcare came into this earnings day on a quiet win streak, with the stock up over the past month, and then promptly dropped 3.5% to about US$209 after its Q3 2026 release. The move suggests frustration with profit pressure\u2026",
+   "url": "https://finnhub.io/api/news?id=e5766d45da5d8d06a5aeeb233672644bf448846d5ca7c097cbbcc16923ebbe53",
+   "source": "Yahoo",
+   "published": "2026-10-23T23:14:06+00:00",
+   "tickers": [
+    "MOH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "f8cb14eaf493",
    "headline": "Quest Diagnostics (DGX) Backs At Home Cervical Cancer Screening",
    "summary": "Quest Diagnostics (NYSE:DGX) and Waters Corporation announced a collaboration to expand access to the Onclarity Self-Collection Kit for cervical cancer screening. The partnership focuses on at-home sample collection that can be processed\u2026",
@@ -1286,7 +1335,8 @@
    "source": "Yahoo",
    "published": "2026-10-23T19:22:38+00:00",
    "tickers": [
-    "BMY"
+    "BMY",
+    "TEM"
    ],
    "tag": "Health AI",
    "sectors": [
@@ -1400,6 +1450,21 @@
    "tickers": [],
    "tag": "Legal",
    "sectors": []
+  },
+  {
+   "id": "d20abb54b1a4",
+   "headline": "1 unprofitable stock with exciting potential and 2 that underwhelm",
+   "summary": "Unprofitable companies can burn through cash quickly, leaving investors exposed if they fail to turn things around. Without a clear path to profitability, these businesses risk running out of capital or relying on dilutive fundraising.",
+   "url": "https://finnhub.io/api/news?id=3c10014c17ad5b875e159fafd578eb7a276364391dde6aa9df865edb7056a4ec",
+   "source": "Yahoo",
+   "published": "2026-10-23T18:40:39+00:00",
+   "tickers": [
+    "TXG"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
   },
   {
    "id": "029952a98beb",
@@ -2987,7 +3052,8 @@
    "source": "Yahoo",
    "published": "2026-10-23T13:00:00+00:00",
    "tickers": [
-    "BMY"
+    "BMY",
+    "TEM"
    ],
    "tag": "Health AI",
    "sectors": [
@@ -3002,7 +3068,8 @@
    "source": "Yahoo",
    "published": "2026-10-23T13:00:00+00:00",
    "tickers": [
-    "BMY"
+    "BMY",
+    "TEM"
    ],
    "tag": "Health AI",
    "sectors": [
@@ -42279,52 +42346,6 @@
    "tag": "Health AI",
    "sectors": [
     "tools"
-   ]
-  },
-  {
-   "id": "f0acf8d164fb",
-   "headline": "Oscar Health (OSCR) Stock May Be Undervalued Following Raised 2026 Outlook",
-   "summary": "Oscar Health has seen its stock price surge in recent years, and the strength of that move puts the focus squarely on what investors are paying for its earnings today. With the company back in the headlines after reporting record\u2026",
-   "url": "https://finnhub.io/api/news?id=b605e30696a9857409f83666f4cbd05223a8ca0c20d6f984d8378fdc73c5223a",
-   "source": "Yahoo",
-   "published": "2026-10-14T01:15:17+00:00",
-   "tickers": [
-    "OSCR"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "a8b2a22a2c1a",
-   "headline": "Liquidia Corporation Stock Is Trending In After-Hours Following United Therapeutics Settlement: What You Should Know",
-   "summary": "Liquidia shares surged 42.48% in after-hours trading after settling all pending litigation with United Therapeutics over YUTREPIA patents.",
-   "url": "https://finnhub.io/api/news?id=31efdc09eb766b132783663a6c54e2a5775277bbfa28cc21e03f15c850759af3",
-   "source": "Benzinga",
-   "published": "2026-10-14T01:11:36+00:00",
-   "tickers": [
-    "UTHR"
-   ],
-   "tag": "Legal",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "6a3218e927a3",
-   "headline": "J&J Selloff Exposes Medtech Strain: Is Pharma Carrying Healthcare Stocks?",
-   "summary": "The J&J selloff shows how medtech weakness can outweigh pharma strength, and what it means for healthcare stocks.",
-   "url": "https://finnhub.io/api/news?id=665574b8058cde2b5067dd46833eaa55061274b0b8fc99598cde8e7ec9e4d68c",
-   "source": "Yahoo",
-   "published": "2026-10-14T01:07:49+00:00",
-   "tickers": [
-    "JNJ",
-    "MRK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
