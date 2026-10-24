@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-24T12:47:27.114520+00:00",
+ "updated": "2026-10-24T13:02:47.638333+00:00",
  "quotes": {
   "A": {
    "price": 173.07,
@@ -285,10 +285,6 @@
   "WAT": {
    "price": 453.67,
    "change_pct": -0.42
-  },
-  "ZBH": {
-   "price": 98.56,
-   "change_pct": -0.25
   },
   "ZTS": {
    "price": 81.03,
@@ -910,6 +906,21 @@
  },
  "stories": [
   {
+   "id": "ab4003e66972",
+   "headline": "Johnson & Johnson announces ERLEADA\u00ae (apalutamide) treatment before and after surgery reduces risk of recurrence or death by 62% versus surgery alone in high-risk prostate cancer",
+   "summary": "New substudy results showed a 51% lower estimated risk of metastasis or death over time with perioperative apalutamide plus ADT compared with immediate surgery Twice as many patients remained free from subsequent treatment at three years\u2026",
+   "url": "https://www.prnewswire.com/news-releases/johnson--johnson-announces-erleada-apalutamide-treatment-before-and-after-surgery-reduces-risk-of-recurrence-or-death-by-62-versus-surgery-alone-in-high-risk-prostate-cancer-302918654.html",
+   "source": "PR Newswire",
+   "published": "2026-10-24T12:54:00+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "631bd04a82f9",
    "headline": "Bayer's Nubeqa scores phase 3 win in high-risk prostate cancer",
    "summary": "Nubeqa, when added to standard-of-care treatment, significantly improved metastasis-free survival in patients with very high-risk localized prostate cancer.",
@@ -919,6 +930,21 @@
    "tickers": [],
    "tag": "Clinical",
    "sectors": []
+  },
+  {
+   "id": "4c5baa9fdd56",
+   "headline": "Eli Lilly's Next-Generation Ovarian Cancer Drug Shows 79% Response Rate, 100% Disease Control In New Data",
+   "summary": "The results come as Lilly continues to test Sofe-M in different types of ovarian cancer, with multiple Phase 3 trials now underway.",
+   "url": "https://finnhub.io/api/news?id=c3f9315cca6e4e741e53d87d2f73da30e665c71586b2f5b5509424ef27654692",
+   "source": "Yahoo",
+   "published": "2026-10-24T11:39:15+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "05324c9903ea",
@@ -4632,6 +4658,8 @@
    "tickers": [
     "ABBV",
     "ABT",
+    "LLY",
+    "MRK",
     "PFE"
    ],
    "tag": "News",
@@ -40931,199 +40959,6 @@
    "tag": "FDA",
    "sectors": [
     "medtech"
-   ]
-  },
-  {
-   "id": "d6e721422a96",
-   "headline": "Level AI's CX Advisory Board adds Shane Abeyratne, SVP at Cardinal Health",
-   "summary": "Level AI, the customer intelligence platform for contact centers, today announced that Shane Abeyratne, Senior Vice President, Global Business & Finance Services at Cardinal Health, has joined the company's CX Advisory Board.",
-   "url": "https://finnhub.io/api/news?id=75721135bb49e54013e4edce260011d449765a0799cb0783d4aa98bcf70e1f71",
-   "source": "Yahoo",
-   "published": "2026-10-14T13:01:00+00:00",
-   "tickers": [
-    "CAH"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "pharmacy"
-   ]
-  },
-  {
-   "id": "6db7dfe770fb",
-   "headline": "Shares of lifesciences and medical equipment stocks are trading higher following strong earnings from Sartorius.",
-   "summary": "",
-   "url": "https://finnhub.io/api/news?id=e755b73b5b151eaeec8c45b37398c4cbc5c66c071f8442462534f1e6d142644c",
-   "source": "Benzinga",
-   "published": "2026-10-14T13:00:44+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "796c925167d1",
-   "headline": "Stryker pens deal with CMR Surgical to advance robotic-assisted surgery",
-   "summary": "Stryker will funnel around $400 million (\u00a3300 million) in a \u201cstrategic\u201d investment in CMR Surgical and its robot surgery tech.",
-   "url": "https://www.fiercebiotech.com/medtech/stryker-pens-deal-cmr-surgical-advance-robotic-assisted-surgery",
-   "source": "Fierce Biotech",
-   "published": "2026-10-14T13:00:29.748567+00:00",
-   "tickers": [
-    "SYK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "9a44bf6c64e6",
-   "headline": "Thermo Fisher Scientific (TMO) Reports Next Week: Wall Street Expects Earnings Growth",
-   "summary": "Thermo Fisher (TMO) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-   "url": "https://finnhub.io/api/news?id=57b213eed712c316f4e53ea07da5debb1bd5815da8cff9d3337868093a8277d6",
-   "source": "Yahoo",
-   "published": "2026-10-14T13:00:13+00:00",
-   "tickers": [
-    "TMO"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "b6830c3d1e16",
-   "headline": "Danaher (DHR) Earnings Expected to Grow: Should You Buy?",
-   "summary": "Danaher (DHR) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-   "url": "https://finnhub.io/api/news?id=59163c35cf776592f546821d7e6653683dca522ea3a4a48470b544797b0f0c60",
-   "source": "Yahoo",
-   "published": "2026-10-14T13:00:12+00:00",
-   "tickers": [
-    "DHR"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "a9885b975602",
-   "headline": "Analysts Estimate Molina (MOH) to Report a Decline in Earnings: What to Look Out for",
-   "summary": "Molina (MOH) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-   "url": "https://finnhub.io/api/news?id=f03fd2ac7bc5ef2b6df0171633c6b0ee8bef60e0b350cd41eced06b18a49ba48",
-   "source": "Yahoo",
-   "published": "2026-10-14T13:00:06+00:00",
-   "tickers": [
-    "MOH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "ea622b74ec48",
-   "headline": "MinuteClinic earns seventh consecutive Joint Commission accreditation, including first evaluation under Medical Center standards",
-   "summary": "Approximately 80 percent of surveyed locations offer primary care, now available at more than 65 percent of MinuteClinic locations. WOONSOCKET, R.I., Oct 14, 2026 /PRNewswire/ -- CVS Health\u00ae (NYSE: CVS) today announced that MinuteClinic\u00ae,\u2026",
-   "url": "https://www.prnewswire.com/news-releases/minuteclinic-earns-seventh-consecutive-joint-commission-accreditation-including-first-evaluation-under-medical-center-standards-302907613.html",
-   "source": "PR Newswire",
-   "published": "2026-10-14T13:00:00+00:00",
-   "tickers": [
-    "CVS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "b369dba862f6",
-   "headline": "Orthofix pays former executives $24M in damages",
-   "summary": "The payments were made after a California arbitrator found private text messages between Orthofix executives couldn\u2019t be considered cause for firing.",
-   "url": "https://www.medtechdive.com/news/orthofix-pays-fired-ceo-cfo-clo-24m-damages-compensation/832839/",
-   "source": "MedTech Dive",
-   "published": "2026-10-14T13:00:00+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "844a99187643",
-   "headline": "CVS Pharmacy(R) Celebrates Opening of First Pharmacy-Focused Location in Boston Area",
-   "summary": "Pharmacy-focused sites are opening in select communities to help increase access to pharmacy careOriginally published on Company NewsroomWOONSOCKET, RI / ACCESS Newswire / October 14, 2026 / \u00ae (NYSE:CVS) today unveiled its first\u2026",
-   "url": "https://finnhub.io/api/news?id=8777818f0db5cf1b2231e1a50957c875b8b896fe1cb16300cffcaad263783f48",
-   "source": "Yahoo",
-   "published": "2026-10-14T13:00:00+00:00",
-   "tickers": [
-    "CVS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "0441604a6e18",
-   "headline": "UNH Q3 Earnings Call Highlights 2027 Growth and Margin Recovery",
-   "summary": "UnitedHealth raises its 2026 earnings outlook and targets stronger 2027 growth, even as commercial medical costs and Medicaid pressures challenge margin recovery.",
-   "url": "https://finnhub.io/api/news?id=08fa5b918ee9a2f5abe43d5680e1a73b669e9e902fea011cec56e57812eeaaa0",
-   "source": "Yahoo",
-   "published": "2026-10-14T13:00:00+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "949b7fac1dcd",
-   "headline": "Vir Biotechnology, Gilead Strike Deal for Novel Tumor Treatments",
-   "summary": "Vir Biotechnology and Gilead collaborate on novel T-cell engagers for solid tumors in a deal worth up to $1.87 billion, plus royalties.",
-   "url": "https://finnhub.io/api/news?id=9b905ffc226afc93332f25f1faf8b1926a9439b00449a95422b3b513dd78b6a8",
-   "source": "Benzinga",
-   "published": "2026-10-14T12:58:37+00:00",
-   "tickers": [
-    "GILD"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "6ea0012333db",
-   "headline": "This Biotech Stock Surges 37% on Patent Settlement. \u2018Better Than the Best-Case Scenario.\u2019",
-   "summary": "Liquidia surges after reaching a $380.7 million settlement with United Therapeutics resolving patent disputes for its lung disease drug.",
-   "url": "https://finnhub.io/api/news?id=a8c668a5415b7081114e81a267e005feedf0ae4e062b629f2e130227f2edd77d",
-   "source": "Yahoo",
-   "published": "2026-10-14T12:57:00+00:00",
-   "tickers": [
-    "UTHR"
-   ],
-   "tag": "Legal",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "a50f13d8a8fa",
-   "headline": "Viking\u2019s Key Obesity Pill Enters Phase 3 Trial \u2013 Here\u2019s What Investors Need To Know",
-   "summary": "Viking is set to begin two simultaneous studies of VK2735 in a Phase 3 trial after Phase 2 showed weight reductions of up to 12.2% after 13 weeks.",
-   "url": "https://finnhub.io/api/news?id=d8e88dbcb5bcb16d6c9f5cd292b8282a693d209595d3872840cce81f74486310",
-   "source": "Yahoo",
-   "published": "2026-10-14T12:53:55+00:00",
-   "tickers": [
-    "LLY",
-    "NVO",
-    "VKTX"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
