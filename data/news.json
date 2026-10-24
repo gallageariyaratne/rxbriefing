@@ -1,7 +1,39 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-24T12:32:28.552333+00:00",
+ "updated": "2026-10-24T12:47:27.114520+00:00",
  "quotes": {
+  "A": {
+   "price": 173.07,
+   "change_pct": -0.47
+  },
+  "ABBV": {
+   "price": 285.64,
+   "change_pct": 0.16
+  },
+  "ABT": {
+   "price": 103.7,
+   "change_pct": 1.16
+  },
+  "ALNY": {
+   "price": 224.03,
+   "change_pct": -1.43
+  },
+  "AMGN": {
+   "price": 439.26,
+   "change_pct": -1.79
+  },
+  "ARGX": {
+   "price": 873.71,
+   "change_pct": -0.23
+  },
+  "ARWR": {
+   "price": 58.02,
+   "change_pct": -0.58
+  },
+  "AXSM": {
+   "price": 145.04,
+   "change_pct": -7.07
+  },
   "AZN": {
    "price": 171.49,
    "change_pct": -0.63
@@ -878,6 +910,17 @@
  },
  "stories": [
   {
+   "id": "631bd04a82f9",
+   "headline": "Bayer's Nubeqa scores phase 3 win in high-risk prostate cancer",
+   "summary": "Nubeqa, when added to standard-of-care treatment, significantly improved metastasis-free survival in patients with very high-risk localized prostate cancer.",
+   "url": "https://www.fiercepharma.com/pharma/bayers-nubeqa-lands-phase-3-win-very-high-risk-prostate-cancer",
+   "source": "Fierce Pharma",
+   "published": "2026-10-24T12:45:21.426606+00:00",
+   "tickers": [],
+   "tag": "Clinical",
+   "sectors": []
+  },
+  {
    "id": "05324c9903ea",
    "headline": "\u2018It is what it is\u2019: Merck exec unruffled by \u2018unfortunate\u2019 leak of ESMO cancer vaccine data",
    "summary": "Merck & Co. and Moderna always knew they would be making headlines in Madrid this week\u2014just not in the way it happened.",
@@ -891,6 +934,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "b461c1ffe5a3",
+   "headline": "Genmab and Incyte Announce Clinical Trial Collaboration in Metastatic Colorectal Cancer",
+   "summary": "COPENHAGEN, Denmark & WILMINGTON, Del., October 24, 2026--Genmab A/S (Nasdaq: GMAB) and Incyte (Nasdaq: INCY) today announced a clinical trial collaboration to evaluate petosemtamab, Genmab\u2019s investigational IgG1-bispecific antibody\u2026",
+   "url": "https://finnhub.io/api/news?id=4e18390fcefc656ee6841da30631e6a7b9b8f57e61afe7293177497e1a51c9ac",
+   "source": "Yahoo",
+   "published": "2026-10-24T11:01:00+00:00",
+   "tickers": [
+    "INCY"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -916,6 +974,36 @@
    "sectors": []
   },
   {
+   "id": "6f3cabe1f054",
+   "headline": "Incyte and Genmab Announce Clinical Trial Collaboration in Metastatic Colorectal Cancer",
+   "summary": "WILMINGTON, Del. & COPENHAGEN, Denmark, October 24, 2026--Incyte and Genmab Announce Clinical Trial Collaboration in Metastatic Colorectal Cancer",
+   "url": "https://finnhub.io/api/news?id=0e882632a27569fb2b48d1af01c22c55f344b73ff10a811fdd3089acaa730c41",
+   "source": "Yahoo",
+   "published": "2026-10-24T11:00:00+00:00",
+   "tickers": [
+    "INCY"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "2f31b21ee88c",
+   "headline": "Abbott Laboratories (ABT) Posted Higher Sensitivity Data For Colorectal Cancer Recurrence Detection",
+   "summary": "Abbott Laboratories (NYSE:ABT) reported new Beta-CORRECT study data on its Oncodetect test at ESMO 2026. The Beta-CORRECT trial showed a significant sensitivity improvement for detecting colorectal cancer recurrence using circulating\u2026",
+   "url": "https://finnhub.io/api/news?id=87e959d2df195c559e17f6278a6e575c5f55a92cf43e8de9086c54d8532ecab4",
+   "source": "Yahoo",
+   "published": "2026-10-24T10:13:00+00:00",
+   "tickers": [
+    "ABT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "7337d15e267f",
    "headline": "Swiss stocks outperform Europe as investors retreat from AI trade - Bloomberg",
    "summary": "Investing.com -- Swiss equities are outperforming their European peers in October as investors shift towards defensive companies amid growing concerns over artificial intelligence valuations, higher borrowing costs and political\u2026",
@@ -928,6 +1016,21 @@
    "tag": "Analyst",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "e0fd295281fa",
+   "headline": "Wall Street Breakfast: What Moved Markets This Week",
+   "summary": "Wall Street weekly recap: hotter CPI, rising VIX, tech weakness and big bank earnings.",
+   "url": "https://finnhub.io/api/news?id=2db318dc4a25c97d1a7494bbdf5136a328c2c69f069372f18733503ae2f3c653",
+   "source": "SeekingAlpha",
+   "published": "2026-10-24T08:10:57+00:00",
+   "tickers": [
+    "CRL"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -4527,7 +4630,9 @@
    "source": "Yahoo",
    "published": "2026-10-23T11:25:00+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "ABT",
+    "PFE"
    ],
    "tag": "News",
    "sectors": [
@@ -41019,96 +41124,6 @@
    "tag": "GLP-1",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "33a687c29ea4",
-   "headline": "Here's How Much $1000 Invested In Revolution Medicines 5 Years Ago Would Be Worth Today",
-   "summary": "Revolution Medicines (NASDAQ:RVMD) has outperformed the market over the past 5 years by 36.7% on an annualized basis producing an average annual return of 48.0%. Currently, Revolution Medicines has a market",
-   "url": "https://finnhub.io/api/news?id=2aaa56c65d8ce446a8ef7b0ce610b13b6838e10bcdda63a20a34e5e4f92abae7",
-   "source": "Benzinga",
-   "published": "2026-10-14T12:45:24+00:00",
-   "tickers": [
-    "RVMD"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "650a4b4e96cb",
-   "headline": "Vir CEO sees \u2018opportunity to do more deals\u2019 after striking $1.9B Gilead pact for dual-masked TCEs",
-   "summary": "Looking to expand its oncology portfolio, Gilead has tapped Vir Biotechnology\u2019s masked T-cell engager tech in a potential $1.9 billion biobucks deal.",
-   "url": "https://www.fiercebiotech.com/biotech/gilead-strikes-19b-oncology-deal-vir-dual-masked-t-cell-engager-technology",
-   "source": "Fierce Biotech",
-   "published": "2026-10-14T12:45:19.442969+00:00",
-   "tickers": [
-    "GILD"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "df9eb157220b",
-   "headline": "Marsh and Bloomberg New Economy Launch Coalition to Strengthen Resilience and Drive Growth in a Turbulent World",
-   "summary": "NEW DELHI & NEW YORK, October 14, 2026--Marsh (NYSE: MRSH), a leading global professional services firm, and Bloomberg New Economy today announced the launch of their Competitive Resilience Coalition, a new initiative bringing together\u2026",
-   "url": "https://finnhub.io/api/news?id=1adfcc2169360204aa74a26b8c4e18d7a91ee9851dcc7bd2a1e38ba04a0b30fc",
-   "source": "Yahoo",
-   "published": "2026-10-14T12:45:00+00:00",
-   "tickers": [
-    "GEHC"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "dd1f8baacf19",
-   "headline": "Piper Sandler Maintains Overweight on UnitedHealth Group, Raises Price Target to $504",
-   "summary": "Piper Sandler analyst Jessica Tassan maintains UnitedHealth Group (NYSE:UNH) with a Overweight and raises the price target from $502 to $504.",
-   "url": "https://finnhub.io/api/news?id=d1b934328ea2407a6cc25047cff65852973cc06a83619760a61b78443d48581a",
-   "source": "Benzinga",
-   "published": "2026-10-14T12:40:56+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "3a219a51dc8b",
-   "headline": "Is Adlai Nortye Ltd. Sponsored ADR (ANL) Stock Outpacing Its Medical Peers This Year?",
-   "summary": "Here is how Adlai Nortye Ltd. Sponsored ADR (ANL) and Thermo Fisher Scientific (TMO) have performed compared to their sector so far this year.",
-   "url": "https://finnhub.io/api/news?id=6d31070c906503dc7c4f80416e9c9d62c26a24869010adbea168690095dc58ed",
-   "source": "Yahoo",
-   "published": "2026-10-14T12:40:02+00:00",
-   "tickers": [
-    "TMO"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "9b3927b862e1",
-   "headline": "Arrowhead jumps as breakthrough Alzheimer\u2019s drug clears brain barrier",
-   "summary": "Investing.com -- Shares of Arrowhead Pharmaceuticals (NASDAQ:ARWR) leaped 6.7% on Wednesday after the biotechnology firm unveiled highly anticipated clinical data that could reshape the landscape of Alzheimer's treatment. In a landmark\u2026",
-   "url": "https://finnhub.io/api/news?id=a72f83c132fc73f2989e290cec73b8f21e59e74932a5447a656cf9efb0d90b3a",
-   "source": "Yahoo",
-   "published": "2026-10-14T12:37:00+00:00",
-   "tickers": [
-    "ARWR"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
    ]
   }
  ]
