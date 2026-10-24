@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-24T01:17:28.914921+00:00",
+ "updated": "2026-10-24T01:32:38.251776+00:00",
  "quotes": {
   "A": {
    "price": 173.07,
@@ -46,6 +46,10 @@
    "price": 45.69,
    "change_pct": -0.7
   },
+  "CERT": {
+   "price": 10.33,
+   "change_pct": 2.38
+  },
   "CI": {
    "price": 306.95,
    "change_pct": -2.83
@@ -53,6 +57,10 @@
   "CNC": {
    "price": 70.17,
    "change_pct": -1.5
+  },
+  "COR": {
+   "price": 331,
+   "change_pct": -2.21
   },
   "CRL": {
    "price": 345.37,
@@ -201,6 +209,10 @@
   "NVS": {
    "price": 151.12,
    "change_pct": -3.3
+  },
+  "OSCR": {
+   "price": 30.99,
+   "change_pct": -6.99
   },
   "PFE": {
    "price": 30.03,
@@ -902,6 +914,36 @@
  },
  "stories": [
   {
+   "id": "669b7ee02cb3",
+   "headline": "Lunit and Summit Therapeutics Announce Agreement to Apply AI-powered SCOPE IO Platform for Tumor Microenvironment Analysis in Immuno-Oncology Development",
+   "summary": "Research Will Use Lunit's AI-powered Pathology Platform to Analyze H&E Whole-Slide Images and Generate Scalable Insights into Tumor Microenvironment Biology SEOUL, South Korea, Oct. 24, 2026 /PRNewswire/ -- Lunit Inc. (KRX: 328130) and\u2026",
+   "url": "https://www.prnewswire.com/news-releases/lunit-and-summit-therapeutics-announce-agreement-to-apply-ai-powered-scope-io-platform-for-tumor-microenvironment-analysis-in-immuno-oncology-development-302918571.html",
+   "source": "PR Newswire",
+   "published": "2026-10-24T01:26:00+00:00",
+   "tickers": [
+    "SMMT"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "c2c1405029f3",
+   "headline": "Is American Oncology Network (AONC) Fully Valued Following Cencora's $2.4b Buyout Deal?",
+   "summary": "Cencora (COR) has moved to take control of American Oncology Network (OTCPK:AONC) by signing a deal to acquire the remaining 96% it does not own for an enterprise value of $2.4b. American Oncology Network\u2019s share price has surged in\u2026",
+   "url": "https://finnhub.io/api/news?id=336a26bc6d06569bdfa3ffa12f202410ed7bce97a657cae7b56a44f4ec0fc8be",
+   "source": "Yahoo",
+   "published": "2026-10-24T00:21:12+00:00",
+   "tickers": [
+    "COR"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
+  {
    "id": "1d7150eec38c",
    "headline": "AbbVie (ABBV) Stock Gets Fair Value Bump After Analyst Target Increases",
    "summary": "AbbVie\u2019s analyst narrative has shifted again, with fair value in one model now set at US$284.79 compared with US$278.61 previously, and other price targets clustering in a wide US$260 to US$325 range. Recent commentary links these higher\u2026",
@@ -975,6 +1017,21 @@
    "tag": "Clinical",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "fa1d37662722",
+   "headline": "Certara (CERT) Stock May Trade Above Fair Value On Its 75% Slump",
+   "summary": "Certara has seen its share price move around in recent years, which puts fresh attention on a simple question for anyone looking at the stock today. Is the current US$10.33 price broadly aligned with what the business may realistically\u2026",
+   "url": "https://finnhub.io/api/news?id=55c612cb718098f287273171991be8856bbf361ade27b51a3e34289a91d3144f",
+   "source": "Yahoo",
+   "published": "2026-10-23T22:07:12+00:00",
+   "tickers": [
+    "CERT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthai"
    ]
   },
   {
@@ -1060,6 +1117,21 @@
    ]
   },
   {
+   "id": "bf9a1009f9ca",
+   "headline": "Why Oscar Health, Inc. (OSCR) Dipped More Than Broader Market Today",
+   "summary": "Oscar Health, Inc. (OSCR) concluded the recent trading session at $30.99, signifying a -6.99% move from its prior day's close.",
+   "url": "https://finnhub.io/api/news?id=bd4c5878f9debc95e790fb52a8d31f427e856d0f8507b6528b7e6fd23237f4d5",
+   "source": "Yahoo",
+   "published": "2026-10-23T21:00:03+00:00",
+   "tickers": [
+    "OSCR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "652873f090a2",
    "headline": "3 Portfolio-Worthy Stocks Hitting 52-Week Highs: AAPL, LLY & KO",
    "summary": "With market volatility and economic uncertainty keeping investors on edge, these established large-cap companies are demonstrating impressive relative strength.",
@@ -1130,6 +1202,21 @@
     "BMY"
    ],
    "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "ac963f4705d2",
+   "headline": "Novartis AG (NVS) Discusses REMODEL Trial Results for Remibrutinib in Relapsing Multiple Sclerosis - Slideshow",
+   "summary": "",
+   "url": "https://finnhub.io/api/news?id=310819c8f0b8a6cf39ac1697fc88878c22d1124bfa42462e15448b191f348c44",
+   "source": "SeekingAlpha",
+   "published": "2026-10-23T20:28:16+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "Clinical",
    "sectors": [
     "pharma"
    ]
@@ -3589,6 +3676,21 @@
    ]
   },
   {
+   "id": "d769befbb731",
+   "headline": "Takeda Announces Arcotatug Tavatecan (TAK-921) Demonstrated Statistically Significant and Clinically Meaningful Improvements in Overall Survival and Progression-Free Survival in Phase 3 Advanced Gastric Cancer Study",
+   "summary": "OSAKA, Japan & CAMBRIDGE, Mass., October 23, 2026--Takeda (TSE:4502/NYSE:TAK) announced positive results from the Phase 3 G-HOPE-001 study (NCT06238843) of arcotatug tavatecan (TAK-921; Innovent R&D code: IBI343) in patients with Claudin\u2026",
+   "url": "https://finnhub.io/api/news?id=fcfe192c91ff3ad02f722c75ec79d4cb5b59f94e27965fdd98092927c83708ca",
+   "source": "Yahoo",
+   "published": "2026-10-23T11:30:00+00:00",
+   "tickers": [
+    "TAK"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "b3359b779ad0",
    "headline": "Here's How IDEXX Laboratories Is Placed Ahead of Q3 Earnings",
    "summary": "IDXX heads into Q3 earnings with expected revenue and EPS growth, fueled by CAG Diagnostics momentum, higher testing volumes and software gains.",
@@ -4981,6 +5083,21 @@
     "GILD"
    ],
    "tag": "Policy",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "08fa6ae7f991",
+   "headline": "Keros Therapeutics Eyes 2027 DMD Data as Rinvatercept Takes Center Stage",
+   "summary": "Keros Therapeutics (NASDAQ:KROS) is repositioning its pipeline around rinvatercept, a skeletal-muscle regeneration candidate being developed for neuromuscular diseases, while its partnered program eleriscept advances through late-stage\u2026",
+   "url": "https://finnhub.io/api/news?id=ca83fbdccc6a387346bd7e99952ff2aa6ba4fe2c63e06e76e43ddb8e5f7ea413",
+   "source": "Yahoo",
+   "published": "2026-10-22T23:04:13+00:00",
+   "tickers": [
+    "TAK"
+   ],
+   "tag": "News",
    "sectors": [
     "pharma"
    ]
@@ -42316,36 +42433,6 @@
    "tag": "News",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "7a6fff17243e",
-   "headline": "Abbott Laboratories (ABT) Is A Key Player In Closed Loop Neurostimulation",
-   "summary": "Abbott Laboratories (NYSE:ABT) has been identified as a leading group advancing closed-loop neurostimulation in bioelectronic medicine devices. The company is highlighted for closed-loop neurostimulation systems that interact with neural\u2026",
-   "url": "https://finnhub.io/api/news?id=ec5ce711d799b4bbd8022d7b5d7c77caf960b2e2520bef962b741d13ba2dea8f",
-   "source": "Yahoo",
-   "published": "2026-10-14T01:16:43+00:00",
-   "tickers": [
-    "ABT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "a7cc396d0b32",
-   "headline": "Is Illumina (ILMN) Fully Valued Following Its Recall And AI Push?",
-   "summary": "Illumina recall and security risk in focus Illumina (ILMN) has drawn fresh attention after initiating a voluntary Class II recall of certain NovaSeq 6000Dx and NextSeq 550Dx diagnostic systems due to a security vulnerability in associated\u2026",
-   "url": "https://finnhub.io/api/news?id=93bc4a3fb24ed5505c54e3bfd164f0f4f2dce33559b66b73bf2918ffd7ba8721",
-   "source": "Yahoo",
-   "published": "2026-10-14T01:16:37+00:00",
-   "tickers": [
-    "ILMN"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "tools"
    ]
   }
  ]
