@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-24T02:17:37.641671+00:00",
+ "updated": "2026-10-24T02:32:35.044297+00:00",
  "quotes": {
   "A": {
    "price": 173.07,
@@ -25,6 +25,10 @@
   "ARGX": {
    "price": 873.71,
    "change_pct": -0.23
+  },
+  "AXSM": {
+   "price": 145.04,
+   "change_pct": -7.07
   },
   "AZN": {
    "price": 171.49,
@@ -302,6 +306,10 @@
    "price": 323.04,
    "change_pct": 0.15
   },
+  "VKTX": {
+   "price": 24.4,
+   "change_pct": -5.54
+  },
   "VRTX": {
    "price": 523.93,
    "change_pct": -2.1
@@ -313,10 +321,6 @@
   "ZBH": {
    "price": 98.56,
    "change_pct": -0.25
-  },
-  "ZTS": {
-   "price": 81.03,
-   "change_pct": -1.18
   }
  },
  "tickers": {
@@ -949,6 +953,21 @@
    ]
   },
   {
+   "id": "ec242f179f27",
+   "headline": "Bristol Myers Squibb (BMY) Bets On AI Drug Discovery And Wider Trial Access",
+   "summary": "Bristol Myers Squibb (NYSE:BMY) has entered multi year AI drug development partnerships with Pathos AI and Tempus AI. The agreement gives Bristol Myers Squibb exclusive access to Pathos AI's discovery platform for neuroscience projects.\u2026",
+   "url": "https://finnhub.io/api/news?id=975828aa30ad707bcb72388851ae1b024573f3cb2efe8ade2a666f2e7f4f60ac",
+   "source": "Yahoo",
+   "published": "2026-10-24T01:09:37+00:00",
+   "tickers": [
+    "BMY"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "c2c1405029f3",
    "headline": "Is American Oncology Network (AONC) Fully Valued Following Cencora's $2.4b Buyout Deal?",
    "summary": "Cencora (COR) has moved to take control of American Oncology Network (OTCPK:AONC) by signing a deal to acquire the remaining 96% it does not own for an enterprise value of $2.4b. American Oncology Network\u2019s share price has surged in\u2026",
@@ -961,6 +980,21 @@
    "tag": "M&A",
    "sectors": [
     "pharmacy"
+   ]
+  },
+  {
+   "id": "49195c9980aa",
+   "headline": "Intrum (OM:INTRUM) Stock Q3 Results Deepen Losses And Balance Sheet Strain",
+   "summary": "Intrum shares closed today at SEK1.83, capping a tough stretch that left the stock sharply lower over the past week and month. The latest Q3 2026 report landed into that weakness with another sizeable loss, as net income from continuing\u2026",
+   "url": "https://finnhub.io/api/news?id=baaa0249828e0e7567ed05898194cbb194f018180cbbcd15e16fb5482f9f8f04",
+   "source": "Yahoo",
+   "published": "2026-10-24T00:15:39+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1082,6 +1116,21 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "ab1a9ec6f5be",
+   "headline": "Vertex Pharmaceuticals Incorporated (VRTX) Presents at American Society of Nephrology (ASN) Kidney Week 2026 - Slideshow",
+   "summary": "2026-10-23. The following slide deck was published by Vertex Pharmaceuticals Incorporated in conjunction with this event.",
+   "url": "https://finnhub.io/api/news?id=cf10aef4f3779a6f6eab5faf759d7610b698c4dc8a702bd883b061875ee7367a",
+   "source": "SeekingAlpha",
+   "published": "2026-10-23T21:31:05+00:00",
+   "tickers": [
+    "VRTX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1212,6 +1261,21 @@
    ]
   },
   {
+   "id": "03b786da2c95",
+   "headline": "Here's Why Viking Therapeutics, Inc. (VKTX) Fell More Than Broader Market",
+   "summary": "Viking Therapeutics, Inc. (VKTX) concluded the recent trading session at $24.42, signifying a -5.48% move from its prior day's close.",
+   "url": "https://finnhub.io/api/news?id=b600e99f6083aec08034affbbc42caa8e5dc61214e20c05842f187aea00d4ef4",
+   "source": "Yahoo",
+   "published": "2026-10-23T20:45:04+00:00",
+   "tickers": [
+    "VKTX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "854b423a8beb",
    "headline": "Hims & Hers Health, Inc. (HIMS) Declines More Than Market: Some Information for Investors",
    "summary": "In the latest trading session, Hims & Hers Health, Inc. (HIMS) closed at $27.71, marking a -4.87% move from the previous day.",
@@ -1307,6 +1371,7 @@
    "source": "Yahoo",
    "published": "2026-10-23T20:05:02+00:00",
    "tickers": [
+    "AXSM",
     "LLY"
    ],
    "tag": "Health AI",
@@ -2189,6 +2254,21 @@
    "tag": "Clinical",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "8b6162266f46",
+   "headline": "Novartis remibrutinib delivered comprehensive disease control in Phase III RMS trials, with proven, robust safety profile",
+   "summary": "Remibrutinib achieved significant and clinically meaningful reduction in relapses vs. teriflunomide, to approximately 1 relapse every 13 years, without the need for chronic B-cell depletion\u00b9\u02d2\u00b2MRI disease activity significantly reduced\u2026",
+   "url": "https://finnhub.io/api/news?id=ef8aedccf9bca18a1032fc4ffdc697936551a0049ae0746d0b2fb0b27a370804",
+   "source": "Yahoo",
+   "published": "2026-10-23T15:45:00+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -3346,6 +3426,7 @@
    "source": "Yahoo",
    "published": "2026-10-23T13:00:00+00:00",
    "tickers": [
+    "QGEN",
     "TMO"
    ],
    "tag": "M&A",
@@ -3396,6 +3477,21 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "50f3fb5df1dd",
+   "headline": "BofA Names Preferred Picks Among European Chipmakers Ahead of Earnings",
+   "summary": "Investing.com -- Ahead of earnings, BofA Securities prefers STMicroelectronics NV (EPA:STMPA), Infineon (ETR:IFXGn), Tower Semiconductor (TASE:TSEM) and Nordic Semiconductor (OL:NOD) over Melexis.",
+   "url": "https://finnhub.io/api/news?id=9a02a4fa0a16d622f3ddac7c1f9ea50c41675bd1de19838bd94a012acecaa60c",
+   "source": "Yahoo",
+   "published": "2026-10-23T12:43:27+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -3531,7 +3627,8 @@
    "tickers": [
     "HALO",
     "INCY",
-    "LLY"
+    "LLY",
+    "NVS"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -3894,6 +3991,21 @@
    "tag": "Clinical",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "384cc44ec7d3",
+   "headline": "Kisqali\u00ae shows clinically meaningful overall survival in broadest HR+/HER2- early breast cancer population at high risk of recurrence",
+   "summary": "Six-year NATALEE analysis showed ~20% reduction in risk of death compared to ET alone1 Benefit increased over time in invasive disease-free survival and across key secondary endpoints1-3 Patients off Kisqali for a median of three years,\u2026",
+   "url": "https://finnhub.io/api/news?id=8b03b35a6b28c6d1465edbe784205b5cc5f6da664bc9f090a95b60cdc1b46a9a",
+   "source": "Yahoo",
+   "published": "2026-10-23T11:30:00+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -4785,6 +4897,21 @@
    "tag": "Clinical",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "f25d9ef4b275",
+   "headline": "Intrum stock plunges 39% in biggest drop since June on Q3 loss",
+   "summary": "Investing.com -- Swedish debt collector Intrum AB\u2019s shares plunged as much as 39% on Friday, marking their biggest single-day drop since June 3, after reporting a third-quarter net loss of SEK 1.49 billion, driven by missed adjusted\u2026",
+   "url": "https://finnhub.io/api/news?id=f3f6c55ef0a47cf8af3cdfd464e2609dee9b0ed5f12fc3752d400f4adf5d91e7",
+   "source": "Yahoo",
+   "published": "2026-10-23T07:38:06+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
    ]
   },
   {
