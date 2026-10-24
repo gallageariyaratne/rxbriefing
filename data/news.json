@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-24T15:02:24.403581+00:00",
+ "updated": "2026-10-24T15:17:10.082038+00:00",
  "quotes": {
   "A": {
    "price": 173.07,
@@ -193,10 +193,6 @@
   "REGN": {
    "price": 805.02,
    "change_pct": -1.72
-  },
-  "RMD": {
-   "price": 252.86,
-   "change_pct": -0.08
   },
   "ROIV": {
    "price": 36.49,
@@ -3482,6 +3478,21 @@
    ]
   },
   {
+   "id": "d1bfbe1e0fa1",
+   "headline": "Novo Nordisk's Awiqli Receives FDA Approval As The First And Only Once-Weekly Insulin For Children 10 Years Of Age And Older With Type 2 Diabetes",
+   "summary": "https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-first-once-weekly-insulin-type-2-diabetes-mellitus-pediatric-patients",
+   "url": "https://finnhub.io/api/news?id=51e8811186977ece1af489b4648174bd168cb09dbf1af2fb3d9be85882edd68f",
+   "source": "Benzinga",
+   "published": "2026-10-23T14:24:33+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "4dc5156301e7",
    "headline": "Humana (OM:HUM) Q3 Results Confront A Persistent Margin Squeeze",
    "summary": "Humana just posted its Q3 2026 scorecard and the headline is simple. Profit swung back to a solid quarter with basic earnings per share of 2.59 SEK on revenue of 2,595 million SEK. The share price, sitting at SEK70.40 into the release\u2026",
@@ -3644,6 +3655,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "b21a34087727",
+   "headline": "Needham Reiterates Buy on Tempus AI, Maintains $75 Price Target",
+   "summary": "Needham analyst Ryan MacDonald reiterates Tempus AI (NASDAQ:TEM) with a Buy and maintains $75 price target.",
+   "url": "https://finnhub.io/api/news?id=a4b91396ddd5b074601cd48a3cdad183e62bf6e5628a1aa882ae59d440b3a076",
+   "source": "Benzinga",
+   "published": "2026-10-23T14:01:16+00:00",
+   "tickers": [
+    "TEM"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "healthai"
    ]
   },
   {
@@ -3993,6 +4019,21 @@
    "tag": "Analyst",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "925f3dbd540e",
+   "headline": "Morgan Stanley Maintains Overweight on argenx, Raises Price Target to $1190",
+   "summary": "Morgan Stanley analyst Sean Laaman maintains argenx (NASDAQ:ARGX) with a Overweight and raises the price target from $1140 to $1190.",
+   "url": "https://finnhub.io/api/news?id=d0e529d32b255b24dbfd5ca4ef8a991028d6ead827ad0d871e7ecf62d2a6dbf2",
+   "source": "Benzinga",
+   "published": "2026-10-23T13:22:51+00:00",
+   "tickers": [
+    "ARGX"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -4999,6 +5040,21 @@
    ]
   },
   {
+   "id": "f229e55a73ab",
+   "headline": "Guggenheim Maintains Buy on argenx, Lowers Price Target to $1120",
+   "summary": "Guggenheim analyst Yatin Suneja maintains argenx (NASDAQ:ARGX) with a Buy and lowers the price target from $1185 to $1120.",
+   "url": "https://finnhub.io/api/news?id=48b23472da6ea9b09c30f2aab158be594ab0c394de928f64db1fd753f5e277f0",
+   "source": "Benzinga",
+   "published": "2026-10-23T11:14:03+00:00",
+   "tickers": [
+    "ARGX"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "263a1d13dc14",
    "headline": "5 revealing analyst questions from Medpace\u2019s Q3 earnings call",
    "summary": "Medpace\u2019s third quarter saw steady growth, with management attributing performance to robust demand for clinical research services and a healthy pipeline of new business awards. CEO August James Troendle pointed to a record level of net\u2026",
@@ -5337,6 +5393,21 @@
    "tag": "Analyst",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "1177def91a87",
+   "headline": "Wells Fargo Maintains Overweight on argenx, Lowers Price Target to $1336",
+   "summary": "Wells Fargo analyst Derek Archila maintains argenx (NASDAQ:ARGX) with a Overweight and lowers the price target from $1356 to $1336.",
+   "url": "https://finnhub.io/api/news?id=67b749973fd89d2f3f898804fda70259bf547497a1f6969c7a1773342c18a44a",
+   "source": "Benzinga",
+   "published": "2026-10-23T10:14:54+00:00",
+   "tickers": [
+    "ARGX"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -40194,125 +40265,6 @@
    "tag": "Legal",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "5b1c7b88ed5b",
-   "headline": "FDA Approves First Treatment for Certain People With BCG-Unresponsive Bladder Cancer",
-   "summary": "FDA Approves First Treatment for Certain People With BCG-Unresponsive Bladder Cancer",
-   "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-certain-people-bcg-unresponsive-bladder-cancer",
-   "source": "FDA",
-   "published": "2026-10-14T15:14:51+00:00",
-   "tickers": [],
-   "tag": "FDA",
-   "sectors": []
-  },
-  {
-   "id": "c7e0231dc6c5",
-   "headline": "Verastem Gets a New CEO, $250M, and a Shot at Another Cancer Drug",
-   "summary": "Verastem plans to raise $250 million as it prepares for late-stage testing of its experimental cancer treatment.",
-   "url": "https://finnhub.io/api/news?id=8719c4b8e9632570b216f01e32f4bd5f253af404e968afa86404db29c4b76bf5",
-   "source": "Yahoo",
-   "published": "2026-10-14T15:14:00+00:00",
-   "tickers": [
-    "MRK",
-    "MRNA",
-    "PFE",
-    "RVMD"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "a1c5402094a2",
-   "headline": "European Equities Traded in the US as American Depositary Receipts Edge Lower in Wednesday Trading",
-   "summary": "European equities traded in the US as American depositary receipts were marginally lower late Wednes",
-   "url": "https://finnhub.io/api/news?id=b2f92006b700d69808e37e7dd0f48d4d1b29e3c38679b314b58f7b1c8fba7a1a",
-   "source": "Yahoo",
-   "published": "2026-10-14T15:10:05+00:00",
-   "tickers": [
-    "ARGX",
-    "AZN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "751043f6a5e1",
-   "headline": "Will Danaher (DHR) Beat Estimates Again in Its Next Earnings Report?",
-   "summary": "Danaher (DHR) has an impressive earnings surprise history and currently possesses the right combination of the two key ingredients for a likely beat in its next quarterly report.",
-   "url": "https://finnhub.io/api/news?id=31568b82c8008bdebe06092577aa8bf80336bdd2e3d04364fe17bbbef6417939",
-   "source": "Yahoo",
-   "published": "2026-10-14T15:10:02+00:00",
-   "tickers": [
-    "DHR"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "8d81407f022c",
-   "headline": "Which Pharma Stock Looks More Attractive: Sanofi or AbbVie?",
-   "summary": "Sanofi's upgraded 2026 outlook, Dupixent growth and attractive valuation give it an edge over AbbVie, despite pipeline setbacks and vaccine sales challenges.",
-   "url": "https://finnhub.io/api/news?id=495209183eea6d7318d1d4db2134daf72888cf50b52194a8d8bf4877687ca229",
-   "source": "Yahoo",
-   "published": "2026-10-14T15:09:00+00:00",
-   "tickers": [
-    "ABBV",
-    "JNJ",
-    "REGN",
-    "SNY"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "001249dee892",
-   "headline": "Probably Genetic raises $12M to scale rare disease dataset, support drug discovery",
-   "summary": "The company\u2019s core product is a physician-ordered genetic test for undiagnosed rare disease patients, who typically face a seven-year diagnostic odyssey before getting answers.",
-   "url": "https://www.fiercehealthcare.com/health-tech/probably-genetic-raises-12m-scale-rare-disease-dataset-support-drug-discovery",
-   "source": "Fierce Healthcare",
-   "published": "2026-10-14T15:06:09.570423+00:00",
-   "tickers": [],
-   "tag": "Financing",
-   "sectors": []
-  },
-  {
-   "id": "162323d8edd2",
-   "headline": "United Therapeutics and Liquidia Just Ended Their Patent War. Liquidia Stock Popped 42%",
-   "summary": "A patent court ruling wiped out nearly half of Liquidia's stock value in a single day, and the settlement that followed cost the company almost every dollar it had in the bank. Whether that price was a bargain or a slow bleed depends on\u2026",
-   "url": "https://finnhub.io/api/news?id=8f8ce87ad623d6c2ee4ca679d488dc7f2c6af32bb6e4fcb58b62191309f52f42",
-   "source": "Yahoo",
-   "published": "2026-10-14T15:05:33+00:00",
-   "tickers": [
-    "UTHR"
-   ],
-   "tag": "Legal",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "6547103fe6c4",
-   "headline": "Schr\u00f6dinger Research Published in Nature Reveals New Insights into Lithium-Ion Battery Chemistry",
-   "summary": "NEW YORK, October 14, 2026--Schr\u00f6dinger, Inc. (Nasdaq: SDGR) today announced the publication of new research in Nature that reveals critical insights into the atomic-scale structure of lithium-ion battery (LIB) electrolytes. In a joint\u2026",
-   "url": "https://finnhub.io/api/news?id=4ad297ef058e4340e41f55b1fe57433fd78ab1134931ba3e125b555838a52d84",
-   "source": "Yahoo",
-   "published": "2026-10-14T15:05:00+00:00",
-   "tickers": [
-    "SDGR"
-   ],
-   "tag": "News",
-   "sectors": [
-    "healthai"
    ]
   }
  ]
