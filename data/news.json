@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-24T18:31:58.805212+00:00",
+ "updated": "2026-10-24T18:46:58.079032+00:00",
  "quotes": {
   "A": {
    "price": 173.07,
@@ -33,6 +33,10 @@
   "BMY": {
    "price": 61.48,
    "change_pct": -2.41
+  },
+  "CAH": {
+   "price": 249.57,
+   "change_pct": -2.37
   },
   "CERT": {
    "price": 10.33,
@@ -157,10 +161,6 @@
   "TEM": {
    "price": 67.61,
    "change_pct": 5.96
-  },
-  "TXG": {
-   "price": 71.55,
-   "change_pct": 2.58
   },
   "UTHR": {
    "price": 587.5,
@@ -836,6 +836,8 @@
    "source": "Yahoo",
    "published": "2026-10-24T16:31:01+00:00",
    "tickers": [
+    "AMGN",
+    "CAH",
     "COR",
     "JNJ",
     "MCK"
@@ -39689,51 +39691,6 @@
    "tag": "Clinical",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "bcc06ff5674b",
-   "headline": "Johnson & Johnson CFO taps internal investment for medtech growth",
-   "summary": "The pharma company is on track to reach $100 billion in recorded revenue despite \u201ctemporary\u201d headwinds in its medtech segment, executives said.",
-   "url": "https://finnhub.io/api/news?id=480d3682d7e458c274910231e3e67e274873fe877a2a7d687179a782e8bae3e2",
-   "source": "Yahoo",
-   "published": "2026-10-14T18:43:59+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "bc7806260216",
-   "headline": "Better High-Yield Dividend Stock: Pfizer vs. Edison International",
-   "summary": "Key TakeawaysPfizer yields 6. 3% and Edison International yields 6.",
-   "url": "https://finnhub.io/api/news?id=82a75823e061cb1369148e13a89f3b32292e704c410751ce5d0249849e48e8f1",
-   "source": "Yahoo",
-   "published": "2026-10-14T18:40:45+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "ae1f6e4a4e81",
-   "headline": "Better High-Yield Dividend Stock: Pfizer vs. Clorox",
-   "summary": "Key TakeawaysPfizer yields 6. 3% and Clorox yields 6.",
-   "url": "https://finnhub.io/api/news?id=adfe62979ba6dfea2ebdafc51506ca7bf6a011ab0d0ccd3f59e0d7f2ea04b9bf",
-   "source": "Yahoo",
-   "published": "2026-10-14T18:34:28+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
