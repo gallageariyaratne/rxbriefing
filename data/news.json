@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-24T23:44:22.602026+00:00",
+ "updated": "2026-10-24T23:46:35.679468+00:00",
  "quotes": {
   "ABBV": {
    "price": 285.64,
@@ -105,6 +105,10 @@
   "QGEN": {
    "price": 50.39,
    "change_pct": 0.34
+  },
+  "ROIV": {
+   "price": 36.49,
+   "change_pct": -2.56
   },
   "SMMT": {
    "price": 15.47,
@@ -784,6 +788,36 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "2f4d4bb5717a",
+   "headline": "Amgen Inc. (AMGN) Presents at 2026 European Society for Medical Oncology (ESMO) Annual Congress Transcript",
+   "summary": "Amgen Inc. (AMGN) 2026 European Society for Medical Oncology (ESMO) Annual Congress October 24, 2026 2:30 PM EDTCompany ParticipantsCasey Capparelli -...",
+   "url": "https://finnhub.io/api/news?id=306f8c6bacb04fae4609c4823f2527c9cff0b8cc978344fbbcfeaf12459ec3f8",
+   "source": "SeekingAlpha",
+   "published": "2026-10-24T19:17:14+00:00",
+   "tickers": [
+    "AMGN"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "92507b37f2a3",
+   "headline": "Roivant Sciences Ltd. (ROIV) Discusses Phase 3 Results for Brepocitinib in Non-Infectious Uveitis - Slideshow",
+   "summary": "2026-10-24. The following slide deck was published by Roivant Sciences Ltd.",
+   "url": "https://finnhub.io/api/news?id=a2e15b978d862233da40763aed5296b9dd54660217b9266d561a2e3faba6733a",
+   "source": "SeekingAlpha",
+   "published": "2026-10-24T19:16:09+00:00",
+   "tickers": [
+    "ROIV"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
    ]
   },
   {
