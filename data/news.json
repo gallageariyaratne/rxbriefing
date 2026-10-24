@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-24T07:02:44.811079+00:00",
+ "updated": "2026-10-24T07:17:29.890481+00:00",
  "quotes": {
   "A": {
    "price": 173.07,
@@ -226,10 +226,6 @@
    "price": 403.95,
    "change_pct": 0.64
   },
-  "NVO": {
-   "price": 39.05,
-   "change_pct": -0.96
-  },
   "NVS": {
    "price": 151.12,
    "change_pct": -3.3
@@ -321,6 +317,10 @@
   "VRTX": {
    "price": 523.93,
    "change_pct": -2.1
+  },
+  "WAT": {
+   "price": 453.67,
+   "change_pct": -0.42
   }
  },
  "tickers": {
@@ -966,6 +966,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "e4e20c54d49d",
+   "headline": "Expert Publication On PWS Treatment Could Be A Game Changer For Neurocrine Biosciences (NBIX)",
+   "summary": "Neurocrine Biosciences reported an expert publication on hyperphagia in Prader Willi syndrome that frames the condition as a complex neurobiological disorder and highlights VYKAT XR as the first FDA approved therapy for this symptom in\u2026",
+   "url": "https://finnhub.io/api/news?id=47357c545e99182249e9b1d8d2f87dcee9caececc59fd35a8d994646407e590c",
+   "source": "Yahoo",
+   "published": "2026-10-24T05:16:04+00:00",
+   "tickers": [
+    "NBIX"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -42741,82 +42756,6 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "cbc49544ab80",
-   "headline": "Danaher Brings NVIDIA AI Into Scientific Instruments in Push for Faster Discoveries",
-   "summary": "Danaher shares rose premarket after announcing an AI partnership with NVIDIA. DHR reports Q3 earnings Oct. 21.",
-   "url": "https://finnhub.io/api/news?id=aa127ea775719da4002e56f816c02e91c8a53c466c3efffde66bfb63be14eda0",
-   "source": "Benzinga",
-   "published": "2026-10-14T07:11:21+00:00",
-   "tickers": [
-    "DHR"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "356ca553f630",
-   "headline": "Zoetis (ZTS) Board Update And Dividend Keep Undervalued Narrative In Focus",
-   "summary": "Board appointment and dividend set the stage for Zoetis Zoetis (ZTS) has given investors fresh governance and income headlines in October, with Iris Knobloch joining the Board and a fourth quarter dividend of $0.53 per share affirmed. For\u2026",
-   "url": "https://finnhub.io/api/news?id=c9e9b9b51159e9087486cfd19062661cfc3d3276969620049c76c869b2c9acd8",
-   "source": "Yahoo",
-   "published": "2026-10-14T07:09:37+00:00",
-   "tickers": [
-    "ZTS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "1623723bf301",
-   "headline": "Viking Therapeutics Initiates SUNRISE Phase 3 Clinical Program For Oral VK2735 Dual Agonist Of GLP-1 And Glucose-Dependent Insulinotropic Polypeptide Receptors",
-   "summary": "VK2375 is being developed in both oral and subcutaneous formulations for the potential treatment of various metabolic disorders such as obesity.The SUNRISE Phase 3 program includes two studies evaluating oral VK2735:",
-   "url": "https://finnhub.io/api/news?id=350f0141c7e6035d25425794582214003c63a81cdfc27953f539014a78c4606d",
-   "source": "Benzinga",
-   "published": "2026-10-14T07:09:36+00:00",
-   "tickers": [
-    "VKTX"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "2b7da669432d",
-   "headline": "Longleaf Partners Fund Q3 2026 Portfolio Review",
-   "summary": "The market is regaining confidence in Avantor\u00e2\u0080\u0099s ability to grow organically and in Emmanuel Ligner\u00e2\u0080\u0099s turnaround plan.",
-   "url": "https://finnhub.io/api/news?id=3d81aef4afb7edd2d60e3c81f1f561bc77f0f09163647dc78f5bc8452a6df2dd",
-   "source": "SeekingAlpha",
-   "published": "2026-10-14T07:02:00+00:00",
-   "tickers": [
-    "ABT",
-    "REGN"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "ab67df2a317b",
-   "headline": "What's Going On With NVIDIA Stock Wednesday?",
-   "summary": "NVIDIA edges higher in premarket trading as technical levels hold. Key support, resistance, and stock analysis updated for NVDA.",
-   "url": "https://finnhub.io/api/news?id=a5dbe0be1db2172eadd7e5bb3865e9d99655e92e656d837256e2f62e7588cdba",
-   "source": "Benzinga",
-   "published": "2026-10-14T07:01:16+00:00",
-   "tickers": [
-    "DHR"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
    ]
   }
  ]
