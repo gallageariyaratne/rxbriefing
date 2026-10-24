@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-24T10:02:40.843604+00:00",
+ "updated": "2026-10-24T10:18:47.950630+00:00",
  "quotes": {
   "A": {
    "price": 173.07,
@@ -33,6 +33,10 @@
   "AXSM": {
    "price": 145.04,
    "change_pct": -7.07
+  },
+  "AZN": {
+   "price": 171.49,
+   "change_pct": -0.63
   },
   "BDX": {
    "price": 198.91,
@@ -1197,7 +1201,8 @@
    "source": "Yahoo",
    "published": "2026-10-24T02:14:40+00:00",
    "tickers": [
-    "AMGN"
+    "AMGN",
+    "AZN"
    ],
    "tag": "Clinical",
    "sectors": [
@@ -42137,51 +42142,6 @@
     "UNH"
    ],
    "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "5ac920831695",
-   "headline": "U.S. Digital Dentistry Market to Top $1.6B by 2032 as Clear Aligners and DSOs Drive Intraoral Scanner and 3D Printer Adoption",
-   "summary": "Report Ranks Dentsply Sirona, Align Technology and Ivoclar, With Unit Sales, Average Selling Prices and 2025 Market Share as Low-Cost Entrants Push Prices DownDublin, Oct. 14, 2026 (GLOBE NEWSWIRE) -- \"Digital Dentistry Market Size, Share\u2026",
-   "url": "https://finnhub.io/api/news?id=0f9c4ab5f84b8a353a7405e533661d4fe214a7ef082cc4ddcda0d5b5bc83f0fc",
-   "source": "Yahoo",
-   "published": "2026-10-14T10:10:00+00:00",
-   "tickers": [
-    "ALGN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "18a5a46206db",
-   "headline": "Bending Spoons, Liquidia, Verastem And Other Big Stocks Moving Higher On Wednesday",
-   "summary": "U.S. stocks mostly fell, but Bending Spoons surged 40% after Berkshire\u2019s $330M investment. Liquidia and Verastem also posted strong gains.",
-   "url": "https://finnhub.io/api/news?id=349d82ee6eadae420c296bcbb054025eb9e6dad7bd8d46f9037daec9d8d92006",
-   "source": "Benzinga",
-   "published": "2026-10-14T10:02:33+00:00",
-   "tickers": [
-    "HALO"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "f49ffa6e321a",
-   "headline": "Barclays Maintains Overweight on UnitedHealth Group, Lowers Price Target to $440",
-   "summary": "Barclays analyst Andrew Mok maintains UnitedHealth Group (NYSE:UNH) with a Overweight and lowers the price target from $441 to $440.",
-   "url": "https://finnhub.io/api/news?id=c2fa129b549f8671895bac717c99da3fe715a2d2f160b49ee686ce45a94dde70",
-   "source": "Benzinga",
-   "published": "2026-10-14T10:01:47+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "tag": "Analyst",
    "sectors": [
     "payers"
    ]
