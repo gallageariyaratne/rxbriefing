@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-24T17:32:01.948693+00:00",
+ "updated": "2026-10-24T17:46:52.693991+00:00",
  "quotes": {
   "A": {
    "price": 173.07,
@@ -94,17 +94,9 @@
    "price": 27.71,
    "change_pct": -4.87
   },
-  "ILMN": {
-   "price": 269.42,
-   "change_pct": 0.01
-  },
   "INCY": {
    "price": 115.71,
    "change_pct": -1.04
-  },
-  "IONS": {
-   "price": 42.93,
-   "change_pct": -2.23
   },
   "ISRG": {
    "price": 452.29,
@@ -117,10 +109,6 @@
   "LLY": {
    "price": 1273.46,
    "change_pct": -2.54
-  },
-  "MCK": {
-   "price": 1000.77,
-   "change_pct": -1.14
   },
   "MDT": {
    "price": 95.41,
@@ -177,10 +165,6 @@
   "TGTX": {
    "price": 54.17,
    "change_pct": 1.9
-  },
-  "TMO": {
-   "price": 673.82,
-   "change_pct": -0.4
   },
   "TXG": {
    "price": 71.55,
@@ -1175,6 +1159,21 @@
    "tag": "Clinical",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "c58a5216c713",
+   "headline": "Amgen says drug combo cuts risk of death by 58% in patients with aggressive lung cancer",
+   "summary": "A drug from Amgen could give patients with an aggressive form of lung cancer significantly more time to live when added to an immunotherapy from AstraZeneca.",
+   "url": "https://finnhub.io/api/news?id=ef7c9153b81a0a250ec48c531133f8f2912c7ea2ce2b0418089eec81ffb07460",
+   "source": "CNBC",
+   "published": "2026-10-24T10:30:01+00:00",
+   "tickers": [
+    "AMGN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -7878,6 +7877,21 @@
    "published": "2026-10-22T18:22:27+00:00",
    "tickers": [
     "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "e94a76274aa6",
+   "headline": "Fast Money: PFE, GOOGN, CAPRI, AMT",
+   "summary": "The final trades of the day with CNBC's Melissa Lee and the 'Fast Money' traders.",
+   "url": "https://finnhub.io/api/news?id=cf66cd34f14be1922ec528f48ae5f7caca4ba44846743a21e68ea79126a0a36c",
+   "source": "CNBC",
+   "published": "2026-10-22T18:11:30+00:00",
+   "tickers": [
+    "PFE"
    ],
    "tag": "News",
    "sectors": [
@@ -39734,64 +39748,6 @@
    "tag": "News",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "938bfd3e8f5b",
-   "headline": "WCG unveils AI-powered solution to accelerate clinical trial kickoffs",
-   "summary": "WCG, a clinical trials solutions provider, is launching an AI-powered program dubbed Activation Intelligence to help study sites accelerate clinical trial start-up.",
-   "url": "https://www.fiercebiotech.com/cro/wcg-announces-ai-powered-solution-accelerate-clinical-trial-start",
-   "source": "Fierce Biotech",
-   "published": "2026-10-14T17:45:22.865949+00:00",
-   "tickers": [],
-   "tag": "Clinical",
-   "sectors": []
-  },
-  {
-   "id": "cf0d847668b1",
-   "headline": "Nasdaq Sheds 1.65% as Russell 2000 Sinks to RSI 28, Oil Climbs While Gold and Silver Slide",
-   "summary": "Stocks skidded midweek as the Nasdaq Composite dropped 449 points, or 1.65%, to 26,755.24, pulling its weekly loss to 2.23%. The S&P 500 fell 1.10% on the day and 1.18% for the week, while the Russell 2000 tumbled 1.70% and now carries an\u2026",
-   "url": "https://finnhub.io/api/news?id=bba9e704787248022ab3a825a38de7555bdc9574246e03fa902039829411d491",
-   "source": "Yahoo",
-   "published": "2026-10-14T17:39:00+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "38a84abdcbed",
-   "headline": "Nasdaq Sheds 1.65% as Russell 2000 Sinks to RSI 28, Oil Climbs While Gold and Silver Slide",
-   "summary": "Stocks skidded midweek as the Nasdaq Composite dropped 449 points, or 1.65%, to 26,755.24, pulling its weekly loss to 2.23%. The S&P 500 fell 1.10% on the day and 1.18% for the week, while the Russell 2000 tumbled 1.70% and now carries an\u2026",
-   "url": "https://finnhub.io/api/news?id=010b0ef8e51dd6241f03da3a42ad6fbd10616bd535775dc83ec3fb6057b03481",
-   "source": "Yahoo",
-   "published": "2026-10-14T17:39:00+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "6919a5da37e4",
-   "headline": "Lilly, Merck, AbbVie Stocks Surge. Why Healthcare Is Rallying Today.",
-   "summary": "Shares of Lilly, the world\u2019s largest pharmaceutical company by market value, rallied above their 50-day moving average to mark their best level since August.",
-   "url": "https://finnhub.io/api/news?id=19b85bc72b748e5c4f9df4d280603355fd2cbda4b56f2bfe016353e892bc2ed5",
-   "source": "Yahoo",
-   "published": "2026-10-14T17:33:00+00:00",
-   "tickers": [
-    "ABBV",
-    "LLY",
-    "MRK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
