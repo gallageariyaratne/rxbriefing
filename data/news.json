@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-25T01:46:46.078834+00:00",
+ "updated": "2026-10-25T02:01:59.305421+00:00",
  "quotes": {
   "ABBV": {
    "price": 285.64,
@@ -45,6 +45,10 @@
   "CRL": {
    "price": 345.37,
    "change_pct": 1.68
+  },
+  "CRSP": {
+   "price": 49.39,
+   "change_pct": -1.2
   },
   "CVS": {
    "price": 93.47,
@@ -125,6 +129,10 @@
   "ROIV": {
    "price": 36.49,
    "change_pct": -2.56
+  },
+  "RVMD": {
+   "price": 186.99,
+   "change_pct": -0.37
   },
   "TEM": {
    "price": 67.61,
@@ -792,6 +800,21 @@
    ]
   },
   {
+   "id": "9c8254e2dfc8",
+   "headline": "What Bears Saw Before Hims & Hers Health Slid",
+   "summary": "If you only glanced at the headlines on Hims & Hers Health, the story looked exciting. AI-native care, GLP-1 partnerships and global expansion sounded like the textbook setup for a win. For Hims & Hers Health shareholders, the loss over\u2026",
+   "url": "https://finnhub.io/api/news?id=23d51222bd147c2605ffa3b0a2134fcccfbafd7ff1ae093f9aad9172f39cb6a9",
+   "source": "Yahoo",
+   "published": "2026-10-25T00:17:19+00:00",
+   "tickers": [
+    "HIMS"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "9c3cf243f5d6",
    "headline": "Forget the FDA Delay: 3 Reasons Exelixis Is Still a Buy",
    "summary": "Exelixis will have to wait longer than expected to earn approval for a new drug. It's not the end of the world.",
@@ -802,6 +825,21 @@
     "EXEL"
    ],
    "tag": "FDA",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "5a37dc17c6ba",
+   "headline": "Revolution Medicines (RVMD) Stock Looks Above Fair Value Today",
+   "summary": "Revolution Medicines has become one of the most eye-catching moves in biotech over the past few years, and the latest regulatory milestones now put a sharper spotlight on what investors are actually paying for on its balance sheet. With\u2026",
+   "url": "https://finnhub.io/api/news?id=991c2287d72436f937519ea85d748343aa719e502480504504a91b1e592e5246",
+   "source": "Yahoo",
+   "published": "2026-10-24T23:15:02+00:00",
+   "tickers": [
+    "RVMD"
+   ],
+   "tag": "Policy",
    "sectors": [
     "biotech"
    ]
@@ -829,6 +867,7 @@
    "source": "Yahoo",
    "published": "2026-10-24T22:20:00+00:00",
    "tickers": [
+    "CRSP",
     "VRTX"
    ],
    "tag": "News",
@@ -984,6 +1023,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "b376b936993c",
+   "headline": "Revolution Medicines (RVMD) Following New Pancreatic Cancer Data Looks Undervalued",
+   "summary": "Revolution Medicines (RVMD) is back in focus after presenting new subgroup data from its Phase 3 RASolute 302 trial at the ESMO 2026 Congress in Madrid, highlighting overall survival outcomes with RASONQUE in metastatic pancreatic cancer.\u2026",
+   "url": "https://finnhub.io/api/news?id=c52a12a946eb77093252c067da2c1fe826d7e94f0ff45a0bf6aae13b50dc62a7",
+   "source": "Yahoo",
+   "published": "2026-10-24T17:11:13+00:00",
+   "tickers": [
+    "RVMD"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -39177,25 +39231,6 @@
    "tag": "News",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "46afa521a01a",
-   "headline": "How Much Downside Is Left In Liquidia Stock?",
-   "summary": "Over the past month, shares of Liquidia (LQDA) have lost 59%, even as the S&P 500 gained 2.5%. Reuters reported that the stock dropped nearly 50% on September 30 after a federal judge ruled that Yutrepia, Liquidia's inhaled lung drug,\u2026",
-   "url": "https://finnhub.io/api/news?id=a15dbaf0ec5913d78ad6dd47f8be522dd0a51efa769661f4a206c2f7086f658e",
-   "source": "Yahoo",
-   "published": "2026-10-15T01:47:10+00:00",
-   "tickers": [
-    "JNJ",
-    "LLY",
-    "MRK",
-    "PFE",
-    "UTHR"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
    ]
   }
  ]
