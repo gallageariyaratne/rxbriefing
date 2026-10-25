@@ -1,7 +1,51 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-25T12:31:39.618169+00:00",
+ "updated": "2026-10-25T12:46:39.796252+00:00",
  "quotes": {
+  "ABBV": {
+   "price": 285.64,
+   "change_pct": 0.16
+  },
+  "ABSI": {
+   "price": 9.18,
+   "change_pct": -2.03
+  },
+  "AMGN": {
+   "price": 439.26,
+   "change_pct": -1.79
+  },
+  "ARGX": {
+   "price": 873.71,
+   "change_pct": -0.23
+  },
+  "AZN": {
+   "price": 171.49,
+   "change_pct": -0.63
+  },
+  "BMY": {
+   "price": 61.48,
+   "change_pct": -2.41
+  },
+  "CAH": {
+   "price": 249.57,
+   "change_pct": -2.37
+  },
+  "COR": {
+   "price": 331,
+   "change_pct": -2.21
+  },
+  "CRSP": {
+   "price": 49.39,
+   "change_pct": -1.2
+  },
+  "CVS": {
+   "price": 93.47,
+   "change_pct": -1.07
+  },
+  "DVA": {
+   "price": 183.64,
+   "change_pct": -1.32
+  },
   "EXEL": {
    "price": 64.53,
    "change_pct": -1.19
@@ -714,6 +758,21 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "84373463f3bd",
+   "headline": "Adagene Eyes Phase II Data for Masked CTLA-4 Therapy in MSS Colorectal Cancer",
+   "summary": "Adagene (NASDAQ:ADAG) is advancing its masked anti-CTLA-4 antibody, ADG126, also known as muzastotug, in metastatic microsatellite-stable colorectal cancer (MSS CRC) and in a neoadjuvant investigator-sponsored trial in Singapore, Chief\u2026",
+   "url": "https://finnhub.io/api/news?id=84b37130b740a407253c921c88b9a01b2fd74fac728a63bf568099b4e7ed86e5",
+   "source": "Yahoo",
+   "published": "2026-10-25T10:02:02+00:00",
+   "tickers": [
+    "INCY"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -1884,6 +1943,21 @@
    "tag": "Clinical",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "0f54106f133e",
+   "headline": "MarketBeat Week in Review \u2013 10/19 - 10/23",
+   "summary": "A market sell-off spread beyond tech as oil prices surged and AI concerns grew. MarketBeat analysts recap the week's top stories on earnings, from Halliburton to Meta Platforms and General Motors.",
+   "url": "https://finnhub.io/api/news?id=7c98aef69dc9fa8ac289a42b47811016e0ac37976738cdf148d4f1e459a2be6f",
+   "source": "Yahoo",
+   "published": "2026-10-24T11:00:00+00:00",
+   "tickers": [
+    "ABT"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -37982,67 +38056,6 @@
    "tag": "News",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "a008e41e2e99",
-   "headline": "Recursion Announces Sanofi Options Potential First-in-Class Immunology Development Candidate from Their Collaboration",
-   "summary": "Potential first-in-class dual targeting inhibitor oral small molecule to enter Sanofi\u2019s development pipeline, with phase 1 clinical study currently planned to begin in 2027Salt Lake City, UT, Oct. 15, 2026 (GLOBE NEWSWIRE) -- Recursion\u2026",
-   "url": "https://finnhub.io/api/news?id=04c942eb15020ec1efbe3562953dd593a39327b06b981ff6491bde4bcf8f1651",
-   "source": "Yahoo",
-   "published": "2026-10-15T12:45:00+00:00",
-   "tickers": [
-    "RXRX",
-    "SNY"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "e745260dda2b",
-   "headline": "CVS Health - Early Detection Matters: Finding Heart Health Risks Earlier",
-   "summary": "WOONSOCKET, RI / ACCESS Newswire / October 15, 2026 / Originally published on Company NewsroomKey points * Abnormal heart rhythms can lead to serious complications, like strokes and heart failure. * Signify Health, part of , offers\u2026",
-   "url": "https://finnhub.io/api/news?id=0e039d3063f52a72b114f1c5f16834c8f50c8b90a8c75b4741e1c9fe0a74de3f",
-   "source": "Yahoo",
-   "published": "2026-10-15T12:45:00+00:00",
-   "tickers": [
-    "CVS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "501af0b224f3",
-   "headline": "What You Need to Know Ahead of Vertex Pharmaceuticals\u2019 Earnings Release",
-   "summary": "Vertex Pharmaceuticals is set to report its Q3 results next month, with analysts anticipating single-digit EPS growth alongside continued earnings growth.",
-   "url": "https://finnhub.io/api/news?id=37d2bd83656f0939b72efc73b6be3ef5abdffb99ba08e5f7de62fc4afbee0396",
-   "source": "Yahoo",
-   "published": "2026-10-15T12:44:12+00:00",
-   "tickers": [
-    "VRTX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "aba428ea87fc",
-   "headline": "These S&P500 stocks that are showing activity before the opening bell on Thursday.",
-   "summary": "Stay updated with the S&P500 stocks that are on the move in today's pre-market session.",
-   "url": "https://finnhub.io/api/news?id=45e466476d944aaa59304ce5e17b91f9de13abdc33bda39579f837d9a3c671e3",
-   "source": "ChartMill",
-   "published": "2026-10-15T12:35:01+00:00",
-   "tickers": [
-    "DXCM"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
