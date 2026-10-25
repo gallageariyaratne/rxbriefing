@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-25T19:31:51.295413+00:00",
+ "updated": "2026-10-25T19:46:39.480161+00:00",
  "quotes": {
   "ABBV": {
    "price": 285.64,
@@ -53,6 +53,10 @@
   "GMED": {
    "price": 81.41,
    "change_pct": -0.31
+  },
+  "GSK": {
+   "price": 50.75,
+   "change_pct": -0.9
   },
   "HIMS": {
    "price": 27.71,
@@ -952,6 +956,7 @@
    "source": "SeekingAlpha",
    "published": "2026-10-25T14:56:16+00:00",
    "tickers": [
+    "GSK",
     "NVS"
    ],
    "tag": "Earnings",
@@ -36431,37 +36436,6 @@
     "LLY",
     "MRK",
     "MRNA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "6bbc9f93b7e7",
-   "headline": "MRNA Stock Hits Fresh 52-Week Highs As Goldman Raises Target Ahead Of Melanoma Data",
-   "summary": "Goldman Sachs analyst Salveen Richter raised the firm\u2019s price target on Moderna to $137 from $120 while maintaining a Neutral rating.",
-   "url": "https://finnhub.io/api/news?id=8c3da465e9e0bdb90c7940172faecbe1878e4269fe6803587001c2961d490742",
-   "source": "Yahoo",
-   "published": "2026-10-15T19:42:42+00:00",
-   "tickers": [
-    "MRNA"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "5122219feef8",
-   "headline": "Recursion (RXRX) Enters New Growth Phase as Sanofi Kicks Off Drug Collab, Shares Soar",
-   "summary": "Recursion Pharmaceuticals Inc. (NASDAQ:RXRX) snapped a three-day winning streak on Thursday, surging as much as 17.9 percent intraday, after Sanofi finally pulled the trigger on the development of drug molecules that would help bolster\u2026",
-   "url": "https://finnhub.io/api/news?id=148ef1cfbe64800a3dacfb2ce3f0b02fdcfab2e0fe62790cfa7738db8dfcc8d7",
-   "source": "Yahoo",
-   "published": "2026-10-15T19:36:15+00:00",
-   "tickers": [
-    "RXRX",
-    "SNY"
    ],
    "tag": "News",
    "sectors": [
