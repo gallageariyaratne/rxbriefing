@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-25T16:31:37.814830+00:00",
+ "updated": "2026-10-25T16:46:41.559653+00:00",
  "quotes": {
   "ABBV": {
    "price": 285.64,
@@ -9,6 +9,10 @@
   "ABSI": {
    "price": 9.18,
    "change_pct": -2.03
+  },
+  "ALGN": {
+   "price": 154.51,
+   "change_pct": -0.64
   },
   "AMGN": {
    "price": 439.26,
@@ -738,6 +742,21 @@
  },
  "stories": [
   {
+   "id": "4af00efe4046",
+   "headline": "ESMO: J&J exec says RIPTAC readout is \u2018best data we\u2019ve ever seen\u2019 for a prostate cancer drug",
+   "summary": "A year after paying over $3 billion for Halda Therapeutics, Johnson & Johson has unveiled the first data from its shiny new RIPTAC pipeline that it believes could sustain its leading role in prostate cancer.",
+   "url": "https://www.fiercebiotech.com/biotech/esmo-jjs-riptac-readout-best-data-weve-ever-seen-prostate-cancer-drug",
+   "source": "Fierce Biotech",
+   "published": "2026-10-25T16:45:20.675305+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "f5655f8be811",
    "headline": "\u2018Infinite potential\u2019: Akeso CEO looks for more ivonescimab combos amid AstraZeneca investment, new phase 3 win",
    "summary": "With ivonescimab\u2019s first phase 3 win outside lung cancer and a $2 billion investment from AstraZeneca in its U.S. partner Summit Therapeutics, Akeso CEO Michelle Xia, Ph.D., is expecting more combination opportunities for its star\u2026",
@@ -767,6 +786,21 @@
    "tag": "FDA",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "cf5e8698022a",
+   "headline": "Invisalign\u2019s Moment of Truth: Will International Growth Save ALGN on Oct 28?",
+   "summary": "Align Technology (NASDAQ:ALGN) reports third-quarter results on October 28. North America is flat and scanner revenue is shrinking, so I\u2019ll be watching whether double-digit international aligner growth can keep the Invisalign story\u2026",
+   "url": "https://finnhub.io/api/news?id=821aa8f194892b86b8a878681dbaf73227ace301a62ba8f7929ebc3adfbe330c",
+   "source": "Yahoo",
+   "published": "2026-10-25T15:51:13+00:00",
+   "tickers": [
+    "ALGN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -36748,83 +36782,6 @@
    "tag": "M&A",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "a40da5905911",
-   "headline": "Natera\u2019s Signatera\u2122 MRD Test Named to TIME\u2019s List of the Best Inventions of 2026",
-   "summary": "AUSTIN, Texas, October 15, 2026--Natera, Inc. (NASDAQ: NTRA), a global leader in cell-free DNA and precision medicine, today announced that its Signatera molecular residual disease (MRD) test has been named to TIME\u2019s Best Inventions of\u2026",
-   "url": "https://finnhub.io/api/news?id=a4d6fbc88a056d4d72a69ab3c9503840f9e05254ee13021408caa32a9607972a",
-   "source": "Yahoo",
-   "published": "2026-10-15T16:46:00+00:00",
-   "tickers": [
-    "NTRA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "759de192face",
-   "headline": "Here\u2019s How Much You Would Have Made Owning Waters Stock In The Last 20 Years",
-   "summary": "Waters (NYSE:WAT) has outperformed the market over the past 20 years by 2.71% on an annualized basis producing an average annual return of 11.7%. Currently, Waters has a market capitalization of $42.17 billion. Buying",
-   "url": "https://finnhub.io/api/news?id=5040160360ff4c52ef340a2bb9f579c9f01e9f273c2f8bb5c296d5105ee48fa6",
-   "source": "Benzinga",
-   "published": "2026-10-15T16:45:31+00:00",
-   "tickers": [
-    "WAT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "28b797f26fb7",
-   "headline": "AMGN vs. MRK: Which Pharma Giant\u2019s Dividend Actually Has Room to Grow",
-   "summary": "Amgen and Merck both yield around 2.3% and have surged this year, but one of them is paying its dividend out of thin air while the other has a cash cushion that changes the entire income calculus.",
-   "url": "https://finnhub.io/api/news?id=e1edfeb2d3d1b855f41641b69760edc6c7630a45db8b820a950c2052acbfe992",
-   "source": "Yahoo",
-   "published": "2026-10-15T16:45:25+00:00",
-   "tickers": [
-    "AMGN",
-    "MRK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "650cb4bea5c6",
-   "headline": "These dow jones stocks are moving in today's session",
-   "summary": "Stay updated with the movements of the dow jones index in the middle of the day on Thursday. Discover which stocks are leading as top gainers and losers in today's session.",
-   "url": "https://finnhub.io/api/news?id=18dc9eae377f70c9060ce92d31795980c6c5b9529453a1aa557a7ac15259d50c",
-   "source": "ChartMill",
-   "published": "2026-10-15T16:40:13+00:00",
-   "tickers": [
-    "AMGN",
-    "UNH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "e875923aee0f",
-   "headline": "Discover which S&P500 stocks are making waves on Thursday.",
-   "summary": "Wondering what's happening in today's session for the S&P500 index? Stay informed with the top movers within the S&P500 index on Thursday.",
-   "url": "https://finnhub.io/api/news?id=5f62ae2ffc34d09948943f0a9e59acd49547181c65388b6c0146533f57da300c",
-   "source": "ChartMill",
-   "published": "2026-10-15T16:35:02+00:00",
-   "tickers": [
-    "MRNA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
