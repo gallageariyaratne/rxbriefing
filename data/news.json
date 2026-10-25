@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-25T15:46:43.944949+00:00",
+ "updated": "2026-10-25T16:01:49.317250+00:00",
  "quotes": {
   "ABBV": {
    "price": 285.64,
@@ -121,6 +121,10 @@
   "RVMD": {
    "price": 186.99,
    "change_pct": -0.37
+  },
+  "SMMT": {
+   "price": 15.47,
+   "change_pct": -0.51
   },
   "TGTX": {
    "price": 54.17,
@@ -750,6 +754,38 @@
  },
  "stories": [
   {
+   "id": "f5655f8be811",
+   "headline": "\u2018Infinite potential\u2019: Akeso CEO looks for more ivonescimab combos amid AstraZeneca investment, new phase 3 win",
+   "summary": "With ivonescimab\u2019s first phase 3 win outside lung cancer and a $2 billion investment from AstraZeneca in its U.S. partner Summit Therapeutics, Akeso CEO Michelle Xia, Ph.D., is expecting more combination opportunities for its star\u2026",
+   "url": "https://www.fiercepharma.com/pharma/akeso-ceo-looks-more-ivonescimab-combos-amid-astrazeneca-investment-new-phase-3-win",
+   "source": "Fierce Pharma",
+   "published": "2026-10-25T16:00:29.137822+00:00",
+   "tickers": [
+    "AZN",
+    "SMMT"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech",
+    "pharma"
+   ]
+  },
+  {
+   "id": "b633c4614b4e",
+   "headline": "ESMO: AZ, Hutchmed\u2019s Orpathys combo shows post-Tagrisso power in MET-driven lung cancer",
+   "summary": "AstraZeneca has offered a detailed look at the phase 3 non-small cell lung cancer data that finally position its Hutchmed-partnered Orpathys for an FDA approval more than five years after the MET inhibitor\u2019s initial go-ahead in China.",
+   "url": "https://www.fiercepharma.com/pharma/az-hutchmed-orpathys-combo-shows-post-tagrisso-power-met-driven-lung-cancer",
+   "source": "Fierce Pharma",
+   "published": "2026-10-25T16:00:29.136664+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "3e2ea3293761",
    "headline": "ESMO: Roche touts \u2018convincing\u2019 phase 3 KRAS data after win over rivals",
    "summary": "Roche has shed more light on its investigational KRAS G12C inhibitor\u2019s phase 3 victory over Amgen\u2019s Lumakras and Bristol Myers Squibb\u2019s Krazati.",
@@ -757,8 +793,8 @@
    "source": "Fierce Biotech",
    "published": "2026-10-25T15:45:20.884879+00:00",
    "tickers": [
-    "BMY",
-    "AMGN"
+    "AMGN",
+    "BMY"
    ],
    "tag": "Clinical",
    "sectors": [
@@ -1002,6 +1038,21 @@
    "tickers": [],
    "tag": "Clinical",
    "sectors": []
+  },
+  {
+   "id": "0d714ad0d4e0",
+   "headline": "Earnings Volatility Watch: SanDisk and 11 Other Stocks Are Priced for at Least 10% Swings This Week",
+   "summary": "Monolithic Power, Intel and SanDisk lead 12 stocks above $50 billion priced for outsized earnings swings as the AI trade faces Big Tech results.",
+   "url": "https://finnhub.io/api/news?id=a5bb0281be2cfc896610787f104b38ffd410d5d4596e2e43f709b9ca31b155c6",
+   "source": "Benzinga",
+   "published": "2026-10-25T08:30:19+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "f356ae8bcfb8",
@@ -1940,6 +1991,21 @@
    "tag": "Earnings",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "c85a87f5c238",
+   "headline": "French Bonds Breach 5%, Briefly Overtaking U.S. Treasurys: Why It Matters For American Investors",
+   "summary": "France's 10-year government bond yield crossed 5% for the first time since 2002 and briefly topped U.S. Treasurys this week, underscoring growing investor concern about Paris' fiscal outlook.",
+   "url": "https://finnhub.io/api/news?id=06aaecb16e473d35b1fa86eea711124381cb05072389d8ba1121c62db9e0fda8",
+   "source": "Benzinga",
+   "published": "2026-10-24T12:10:05+00:00",
+   "tickers": [
+    "SNY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -36999,105 +37065,6 @@
    "sectors": [
     "healthit"
    ]
-  },
-  {
-   "id": "62e6cadafadd",
-   "headline": "Data Analytics Stocks Q2 Results: Benchmarking Health Catalyst (NASDAQ:HCAT)",
-   "summary": "Let\u2019s dig into the relative performance of Health Catalyst (NASDAQ:HCAT) and its peers as we unravel the now-completed Q2 data analytics earnings season.",
-   "url": "https://finnhub.io/api/news?id=ed77dea44b037760e21d5181c62fb51cefd790217aa28ce914f2f9640b13c431",
-   "source": "Yahoo",
-   "published": "2026-10-15T16:00:27+00:00",
-   "tickers": [
-    "HCAT"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "healthai"
-   ]
-  },
-  {
-   "id": "61f7f2f482e9",
-   "headline": "Sanofi and pCPA Sign Letter of Intent for Dupixent\u00ae Across Four Indications in Dermatology and Respiratory Care",
-   "summary": "Sanofi today announced the successful completion of negotiations between the pan-Canadian Pharmaceutical Alliance (pCPA) and Sanofi with a signed Letter of Intent (LOI) for Dupixent for four additional indications: atopic dermatitis (AD)\u2026",
-   "url": "https://finnhub.io/api/news?id=db530bca0442d60f96ed3d5cd2b44acb881123dfb5b777f4fc40a752aa5e1e4b",
-   "source": "Yahoo",
-   "published": "2026-10-15T16:00:00+00:00",
-   "tickers": [
-    "SNY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "6581f3d68ec6",
-   "headline": "Belgian startup revives Galapagos CAR-T research",
-   "summary": "Armed Cell Therapeutics, chaired by former Galapagos CEO Paul Stoffels, has assumed control of cell therapies the company \u2014 now known as Lakefront Biotherapeutics \u2014 divested in a strategic overhaul.",
-   "url": "https://www.biopharmadive.com/news/lakefront-armed-cell-therapies-deal-stoffels-galapagos/833082/",
-   "source": "BioPharma Dive",
-   "published": "2026-10-15T15:55:00+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "2d97c6b5bfd6",
-   "headline": "NEJM study supports CGM use for people with diabetes who don\u2019t take insulin",
-   "summary": "The results come as Dexcom is awaiting a decision from the Centers for Medicare and Medicaid Services to expand Medicare coverage of the devices for people with Type 2 diabetes.",
-   "url": "https://www.medtechdive.com/news/nejm-study-supports-cgm-use-for-people-with-diabetes-who-dont-take-insulin/833124/",
-   "source": "MedTech Dive",
-   "published": "2026-10-15T15:53:37+00:00",
-   "tickers": [
-    "DXCM"
-   ],
-   "tag": "Policy",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "2e53cf3e3df4",
-   "headline": "NEJM study supports CGM use for people with diabetes who don\u2019t take insulin",
-   "summary": "The results come as Dexcom is awaiting a decision from the Centers for Medicare and Medicaid Services to expand Medicare coverage of the devices for people with Type 2 diabetes.",
-   "url": "https://finnhub.io/api/news?id=4d65b64a2191b0125df61c4b4e29ea9cac252789f02ebd64a622fcbe78e3eb55",
-   "source": "Yahoo",
-   "published": "2026-10-15T15:53:37+00:00",
-   "tickers": [
-    "DXCM"
-   ],
-   "tag": "Policy",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "4ce4e2f7cdaa",
-   "headline": "Viking Therapeutics Starts Phase III Development of Obesity Pill",
-   "summary": "VKTX launches two phase III studies of oral VK2735 for obesity, building on phase II results showing up to 12.2% mean weight loss.",
-   "url": "https://finnhub.io/api/news?id=93e85beda14480b061f4091136b5479375cef6824ad3fa8ef4b9d2fafbff2e22",
-   "source": "Yahoo",
-   "published": "2026-10-15T15:52:00+00:00",
-   "tickers": [
-    "LLY",
-    "NVO",
-    "VKTX"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "aee4739bacb4",
-   "headline": "STAT+: Former FDA commissioners Califf, Gottlieb, Sharpless lay into current HHS leadership",
-   "summary": "Former FDA commissioners Rob Califf (Obama and Biden administrations), Scott Gottlieb, and Ned Sharpless (both from the first Trump administration) criticized the officials who ran the agency during a massive\u2026",
-   "url": "https://www.statnews.com/2026/10/15/health-policy-news-fda-califf-gottlieb-sharpless-criticize-hhs-leadership/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-10-15T15:50:58+00:00",
-   "tickers": [],
-   "tag": "FDA",
-   "sectors": []
   }
  ]
 }
