@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-25T19:46:39.480161+00:00",
+ "updated": "2026-10-25T20:01:47.335986+00:00",
  "quotes": {
   "ABBV": {
    "price": 285.64,
@@ -65,6 +65,10 @@
   "INCY": {
    "price": 115.71,
    "change_pct": -1.04
+  },
+  "IONS": {
+   "price": 42.93,
+   "change_pct": -2.23
   },
   "JNJ": {
    "price": 263.81,
@@ -949,6 +953,21 @@
    ]
   },
   {
+   "id": "c271255407a6",
+   "headline": "GreensKeeper Value Fund Q3 2026 Portfolio Activity",
+   "summary": "Our top performer in the third quarter was TVA Group, which gained 46.7%. TVA\u00e2\u0080\u0099s first-half earnings reached levels not seen in over a decade. Read more here.",
+   "url": "https://finnhub.io/api/news?id=e79579bc60ea033cac8e432150c1344a024492873e3cd5b9b460552c8c4459ca",
+   "source": "SeekingAlpha",
+   "published": "2026-10-25T15:11:00+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "4c673d416a0b",
    "headline": "Ionis Pharmaceuticals: Compelling Long-Term Commercial Upside",
    "summary": "Ionis Pharmaceuticals, Inc. is a long-term buy as launches, royalties, & pipeline growth boost revenue prospects despite cash burn. Click for an IONS stock update.",
@@ -957,6 +976,7 @@
    "published": "2026-10-25T14:56:16+00:00",
    "tickers": [
     "GSK",
+    "IONS",
     "NVS"
    ],
    "tag": "Earnings",
@@ -36326,120 +36346,6 @@
    "tag": "News",
    "sectors": [
     "medtech"
-   ]
-  },
-  {
-   "id": "93015abfa983",
-   "headline": "Tempus to Report Third Quarter 2026 Financial Results on November 2",
-   "summary": "CHICAGO, October 15, 2026--Tempus AI, Inc. (NASDAQ: TEM), a technology company leading the adoption of AI to advance precision medicine, today announced it will report financial results for the third quarter ended September 30, 2026,\u2026",
-   "url": "https://finnhub.io/api/news?id=ec8d111896682f21b47a54150466d20524b32c95839340a8285a5c95e9bfb0c0",
-   "source": "Yahoo",
-   "published": "2026-10-15T20:01:00+00:00",
-   "tickers": [
-    "TEM"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "healthai"
-   ]
-  },
-  {
-   "id": "f9919361a847",
-   "headline": "TwinStrand Biosciences Announces Second U.S. Patent Trial and Appeal Board Decision Upholding All Claims of TwinStrand\u2019s \u2018127 Patent",
-   "summary": "SEATTLE, October 15, 2026--TwinStrand Biosciences (TwinStrand), the pioneer in Duplex Sequencing\u00ae technology, today announced that the U.S. Patent and Trademark Office\u2019s Patent Trial and Appeal Board (PTAB) has again rejected Guardant\u2026",
-   "url": "https://finnhub.io/api/news?id=cc16f30f08fbcbc3371ae16b550f0501ade54a71a437f70bf36b5c5be0f0bf13",
-   "source": "Yahoo",
-   "published": "2026-10-15T20:01:00+00:00",
-   "tickers": [
-    "GH"
-   ],
-   "tag": "Legal",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "898c4632209f",
-   "headline": "Better Dividend Stock: Pfizer vs. GSK",
-   "summary": "Key TakeawaysPfizer yields 6. 3% and GSK yields 4.",
-   "url": "https://finnhub.io/api/news?id=2d2ff58faef3e04e177be6aec9db9f4e4425733280d18032d3b23c08e566578f",
-   "source": "Yahoo",
-   "published": "2026-10-15T19:59:56+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "aa95bf653de9",
-   "headline": "Merck and Moderna have \u2018lot of exploring to do\u2019 after initial cancer vaccine success",
-   "summary": "Stephen Hoge and Dean Li, at the STAT Summit, spoke of how Merck and Moderna will pair Keytruda with personalized mRNA vaccines to target tumors.",
-   "url": "https://www.statnews.com/2026/10/15/moderna-merck-keytruda-mrna-cancer-vaccine-strategy/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-10-15T19:58:35+00:00",
-   "tickers": [
-    "MRK",
-    "MRNA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "dd2c999c307d",
-   "headline": "Sector Update: Healthcare Stocks Gain Late Afternoon",
-   "summary": "Healthcare stocks rose late Thursday afternoon, with the NYSE Healthcare Index rising 2.3% and the S",
-   "url": "https://finnhub.io/api/news?id=cb6838776c6574ff2608223b08101f1d380eb032c9a5fa558abf121db1c4a4a1",
-   "source": "Yahoo",
-   "published": "2026-10-15T19:57:16+00:00",
-   "tickers": [
-    "AZN",
-    "SNY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "e23aae2f5e40",
-   "headline": "How Has Merck's Story Changed?",
-   "summary": "Investors are pricing Merck (MRK) stock at 5.5 times sales, compared with 3.1 for the S&P 500. Shareholders paying that premium need to understand exactly what they hold, and the drugmaker's priorities have changed. During the fiscal Q4\u2026",
-   "url": "https://finnhub.io/api/news?id=c7865f7724923f82ec5f2ffee87e7389c60a2dc5ec98a0c9ffd0eb37e2d969ae",
-   "source": "Yahoo",
-   "published": "2026-10-15T19:46:29+00:00",
-   "tickers": [
-    "ABBV",
-    "BMY",
-    "JNJ",
-    "LLY",
-    "MRK",
-    "PFE"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "54d443b8cb28",
-   "headline": "As chip stocks fall, investors are turning elsewhere in the market: Chart of the Day",
-   "summary": "Yahoo Finance Markets and Data Editor Jared Blikre takes a closer look at the latest market and sector action, highlighting what the sell-off in CoreWeave (CRWV) and chip stocks means for the rest of the market.",
-   "url": "https://finnhub.io/api/news?id=d354ceae5bd17c60de9d2be01a6d7f7ab88d2948dad79a1837d27e89a76c5d33",
-   "source": "Yahoo",
-   "published": "2026-10-15T19:46:25+00:00",
-   "tickers": [
-    "LLY",
-    "MRK",
-    "MRNA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
