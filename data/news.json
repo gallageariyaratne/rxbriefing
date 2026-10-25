@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-25T02:01:59.305421+00:00",
+ "updated": "2026-10-25T02:16:50.539555+00:00",
  "quotes": {
   "ABBV": {
    "price": 285.64,
@@ -21,10 +21,6 @@
   "ARGX": {
    "price": 873.71,
    "change_pct": -0.23
-  },
-  "ARWR": {
-   "price": 58.02,
-   "change_pct": -0.58
   },
   "AZN": {
    "price": 171.49,
@@ -113,6 +109,10 @@
   "NBIX": {
    "price": 142.7,
    "change_pct": -0.41
+  },
+  "NVO": {
+   "price": 39.05,
+   "change_pct": -0.96
   },
   "NVS": {
    "price": 151.12,
@@ -1018,7 +1018,8 @@
    "source": "Yahoo",
    "published": "2026-10-24T18:21:40+00:00",
    "tickers": [
-    "AMGN"
+    "AMGN",
+    "AZN"
    ],
    "tag": "News",
    "sectors": [
@@ -1143,7 +1144,8 @@
    "source": "Yahoo",
    "published": "2026-10-24T15:25:54+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -1211,6 +1213,21 @@
    ]
   },
   {
+   "id": "b5f2fa2328e7",
+   "headline": "IMFINZI\u00ae (durvalumab) plus tarlatamab-dlle reduced the risk of death by 58% in 1st-line extensive-stage small cell lung cancer in the DeLLphi-305 Phase III trial",
+   "summary": "WILMINGTON, Del., October 24, 2026--Landmark results from the DeLLphi-305 Phase III trial showed IMFINZI\u00ae (durvalumab) plus Amgen\u2019s tarlatamab-dlle demonstrated a statistically significant and highly clinically meaningful improvement in\u2026",
+   "url": "https://finnhub.io/api/news?id=9afa32ef58b0e0a40aecf56a4fcf5b43b15e8e1e3c1def0bfd8fb75189b6524c",
+   "source": "Yahoo",
+   "published": "2026-10-24T14:35:00+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "a91f7fdbdfd0",
    "headline": "Moderna: Why Positive Phase 3 Results Weren't Enough",
    "summary": "Moderna, Inc.\u00e2\u0080\u0099s melanoma trial with Keytruda cut recurrence risk 42%, but rich valuation tempers upside. Click for this MRNA update.",
@@ -1234,7 +1251,23 @@
    "source": "Yahoo",
    "published": "2026-10-24T14:30:00+00:00",
    "tickers": [
-    "AMGN"
+    "AMGN",
+    "AZN"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "0d2f215545cd",
+   "headline": "Perioperative IMFINZI\u00ae (durvalumab) plus neoadjuvant enfortumab vedotin reduced risk of recurrence by 49% and risk of death by 42% in muscle-invasive bladder cancer",
+   "summary": "WILMINGTON, Del., October 24, 2026--Positive results from the VOLGA Phase III trial showed perioperative treatment with AstraZeneca\u2019s IMFINZI\u00ae (durvalumab) in combination with neoadjuvant enfortumab vedotin (EV) demonstrated statistically\u2026",
+   "url": "https://finnhub.io/api/news?id=8593acdb83fce1064756ba0d61a95b889dbe35ab65b3e7440ae0045a897d55e3",
+   "source": "Yahoo",
+   "published": "2026-10-24T14:30:00+00:00",
+   "tickers": [
+    "AZN"
    ],
    "tag": "Clinical",
    "sectors": [
@@ -39212,23 +39245,6 @@
     "TAK"
    ],
    "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "8ca4df92141c",
-   "headline": "Why Eli Lilly Became Wall Street\u2019s Safe Haven on a Hot CPI Day",
-   "summary": "Eli Lilly (LLY:NYSE) stock rose roughly 4% on Wednesday, October 14, joining a broad rally in healthcare stocks. No major Lilly news drove it.",
-   "url": "https://finnhub.io/api/news?id=9d68f92c16833503339ea5d5df75459423360a1508a93c70603f4b8b209e8fdf",
-   "source": "Yahoo",
-   "published": "2026-10-15T02:02:46+00:00",
-   "tickers": [
-    "ABBV",
-    "LLY",
-    "MRK"
-   ],
-   "tag": "News",
    "sectors": [
     "pharma"
    ]
