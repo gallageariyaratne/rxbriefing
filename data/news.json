@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-25T10:01:49.927399+00:00",
+ "updated": "2026-10-25T10:16:39.917512+00:00",
  "quotes": {
   "ABBV": {
    "price": 285.64,
@@ -9,10 +9,6 @@
   "ABSI": {
    "price": 9.18,
    "change_pct": -2.03
-  },
-  "ABT": {
-   "price": 103.7,
-   "change_pct": 1.16
   },
   "ALHC": {
    "price": 8.06,
@@ -57,10 +53,6 @@
   "EXEL": {
    "price": 64.53,
    "change_pct": -1.19
-  },
-  "GKOS": {
-   "price": 178.88,
-   "change_pct": 1.24
   },
   "GSK": {
    "price": 50.75,
@@ -117,6 +109,10 @@
   "PFE": {
    "price": 30.03,
    "change_pct": -1.28
+  },
+  "REGN": {
+   "price": 805.02,
+   "change_pct": -1.72
   },
   "ROIV": {
    "price": 36.49,
@@ -768,6 +764,36 @@
     "MRK"
    ],
    "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "32ba29622585",
+   "headline": "Libtayo\u00ae (cemiplimab) Longer-Term Data Show Increasing and Clinically Meaningful Overall Survival Benefit with Adjuvant Treatment in High-Risk Cutaneous Squamous Cell Carcinoma (CSCC)",
+   "summary": "Longer-term data reflecting nearly 4 years of follow-up show a further reduction in the risk of death from 14% to 37% for those initially treated with Libtayo, despite an 88% crossover from the placebo arm upon recurrence New prospective\u2026",
+   "url": "https://finnhub.io/api/news?id=7f49e12b93b7eb203ebd869185155bc61c6fd47dddd79d8f4d56167aaacf77f0",
+   "source": "Yahoo",
+   "published": "2026-10-25T09:15:00+00:00",
+   "tickers": [
+    "REGN"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "a38d9682d2c4",
+   "headline": "Haleon Heads These 3 British AI Healthcare Stocks To Watch",
+   "summary": "Rising concern over a possible AI stock correction, highlighted by Evercore\u2019s focus on credit stress and higher bond yields, is pushing UK investors to be more selective. Rather than chasing every AI story, attention is shifting to\u2026",
+   "url": "https://finnhub.io/api/news?id=913bc80678e48f6799d68a6d470aa5e3fc09851d089584baa066ecd809e27c0f",
+   "source": "Yahoo",
+   "published": "2026-10-25T09:09:22+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "Health AI",
    "sectors": [
     "pharma"
    ]
@@ -38764,36 +38790,6 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
-  },
-  {
-   "id": "11174f35c800",
-   "headline": "Here\u2019s How Much You Would Have Made Owning Eli Lilly Stock In The Last 20 Years",
-   "summary": "Eli Lilly (NYSE:LLY) has outperformed the market over the past 20 years by 7.7% on an annualized basis producing an average annual return of 16.65%. Currently, Eli Lilly has a market capitalization of $1.04 trillion.",
-   "url": "https://finnhub.io/api/news?id=39ea204af05b7a4b05fdbd387c55197571c507fcb73d6fe07068d92dee94be79",
-   "source": "Benzinga",
-   "published": "2026-10-15T10:15:47+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "af0ce02f44a8",
-   "headline": "AstraZeneca inks $1.5B insitro deal for AI-enabled target discovery of liver, heart disease drugs",
-   "summary": "AstraZeneca is paying insitro $40 million upfront to find novel drug targets for liver and heart diseases using artificial intelligence.",
-   "url": "https://www.fiercebiotech.com/biotech/astrazeneca-inks-15b-insitro-deal-ai-enabled-target-discovery",
-   "source": "Fierce Biotech",
-   "published": "2026-10-15T10:15:21.420681+00:00",
-   "tickers": [
-    "AZN"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "pharma"
-   ]
   }
  ]
 }
