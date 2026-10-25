@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-25T10:46:38.401346+00:00",
+ "updated": "2026-10-25T11:01:51.242354+00:00",
  "quotes": {
   "ABBV": {
    "price": 285.64,
@@ -53,6 +53,10 @@
   "EXEL": {
    "price": 64.53,
    "change_pct": -1.19
+  },
+  "GILD": {
+   "price": 156.04,
+   "change_pct": -0.73
   },
   "GMED": {
    "price": 81.41,
@@ -810,7 +814,8 @@
    "source": "Yahoo",
    "published": "2026-10-25T08:46:00+00:00",
    "tickers": [
-    "AMGN"
+    "AMGN",
+    "GILD"
    ],
    "tag": "News",
    "sectors": [
@@ -827,6 +832,21 @@
    "tickers": [],
    "tag": "Clinical",
    "sectors": []
+  },
+  {
+   "id": "f356ae8bcfb8",
+   "headline": "DaVita (DVA) Has The Market Looking Again, What Is Behind The Attention?",
+   "summary": "DaVita (DVA) has been pulled back into focus after agreeing to a settlement of up to $15,000,000 related to a ransomware attack in April 2025 that affected patient and financial data. Against this legal backdrop, DaVita\u2019s share price has\u2026",
+   "url": "https://finnhub.io/api/news?id=bc995599b7a744c27aeed3c021e7a3b4adcf6005f9b6161027bc5202b20fcb63",
+   "source": "Yahoo",
+   "published": "2026-10-25T08:11:16+00:00",
+   "tickers": [
+    "DVA"
+   ],
+   "tag": "Legal",
+   "sectors": [
+    "payers"
+   ]
   },
   {
    "id": "097f712e65da",
@@ -38718,111 +38738,6 @@
    "published": "2026-10-15T11:02:16+00:00",
    "tickers": [
     "UNH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "cc3f5d30670c",
-   "headline": "Insmed Features the Global Phase 3 PALM Clinical Development Program Evaluating Treprostinil Palmitil Inhalation Powder (TPIP) at CHEST 2026",
-   "summary": "\u2014Insmed's Largest Parallel-Running Clinical Effort to Date With Four Pivotal Phase 3 Studies Advancing Across Four Progressive Pulmonary Diseases: PALM-PAH, PALM-ILD, PALM-PPF, and PALM-IPF\u2014 \u2014One of the Broadest Active Global Clinical\u2026",
-   "url": "https://www.prnewswire.com/news-releases/insmed-features-the-global-phase-3-palm-clinical-development-program-evaluating-treprostinil-palmitil-inhalation-powder-tpip-at-chest-2026-302909246.html",
-   "source": "PR Newswire",
-   "published": "2026-10-15T11:00:00+00:00",
-   "tickers": [
-    "INSM"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "5045ac66d1ba",
-   "headline": "Adlai Nortye Enters into Clinical Collaboration with Lilly and Merck KGaA, Darmstadt, Germany to Evaluate Combination of AN4035 and Cetuximab",
-   "summary": "AN4035, a first-in-class investigational pan-RAS(ON) inhibitor-based ADC, will be evaluated as monotherapy and in combination with cetuximab in the ongoing global Phase I trial Cetuximab will be supplied by Lilly for the U.S. trial sites\u2026",
-   "url": "https://finnhub.io/api/news?id=c226dcd8710ae2f164ce9ec2d5902a8f1cc4053c9c102e09628c78a16d3f64d0",
-   "source": "Yahoo",
-   "published": "2026-10-15T11:00:00+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "e56b3c0d6f30",
-   "headline": "Krystal Biotech Announces Positive Clinical Data for New Dermatology Program KB113 Demonstrating Broad Basal Cell Carcinoma Regression in Patients with Gorlin Syndrome",
-   "summary": "Over 80% of assessed basal cell carcinoma lesions regressed across three Gorlin syndrome patients treated with KB113 Substantial regression was observed in lesions not directly injected with KB113, consistent with abscopal effect KB113\u2026",
-   "url": "https://finnhub.io/api/news?id=fb3daa88ff4a33105d18d20e59684ed37234974d2393f06ca1727dad09986820",
-   "source": "Yahoo",
-   "published": "2026-10-15T11:00:00+00:00",
-   "tickers": [
-    "KRYS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "ca606bfbf2ff",
-   "headline": "Insmed Features the Global Phase 3 PALM Clinical Development Program Evaluating Treprostinil Palmitil Inhalation Powder (TPIP) at CHEST 2026",
-   "summary": "Insmed Incorporated (Nasdaq: INSM), a people-first global biopharmaceutical company striving to deliver first- and best-in-class therapies to transform the lives of patients facing serious diseases, will feature the global PALM Clinical\u2026",
-   "url": "https://finnhub.io/api/news?id=6b2cfd80b0449d33197919ed5694c9ec252b9289aa33268234a48ee0ecbecc93",
-   "source": "Yahoo",
-   "published": "2026-10-15T11:00:00+00:00",
-   "tickers": [
-    "INSM"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "8efc6422975e",
-   "headline": "3 of Wall Street\u2019s Favorite Stocks That Fall Short",
-   "summary": "The stocks in this article have caught Wall Street\u2019s attention in a big way, with price targets implying returns above 20%. But investors should take these forecasts with a grain of salt because analysts typically say nice things about\u2026",
-   "url": "https://finnhub.io/api/news?id=676f57bc78efe9318c700148339d587786a49ade722f8a55346665cc3a583f9a",
-   "source": "Yahoo",
-   "published": "2026-10-15T10:56:27+00:00",
-   "tickers": [
-    "GH"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "25c270266870",
-   "headline": "AstraZeneca Turns to AI to Crack Tough Heart and Liver Diseases in Billion-Dollar Deal",
-   "summary": "AstraZeneca pairs with Insitro on a $1.5B AI collaboration to advance drug targets for MASH and heart conditions.",
-   "url": "https://finnhub.io/api/news?id=3e7a35075a9f734b9e7da5e6e397209d9efe6bd51bec2430c9a0c89becede1ba",
-   "source": "Benzinga",
-   "published": "2026-10-15T10:52:21+00:00",
-   "tickers": [
-    "AZN"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "5a7f27cf99c9",
-   "headline": "Oscar Health: 7X The Revenue Since Its IPO, And A Rerating Due In 2027",
-   "summary": "Oscar Health trades ~13% below IPO despite surging ACA growth. Click here to read my most recent analysis covering OSCR stock.",
-   "url": "https://finnhub.io/api/news?id=2e71cc34b2358a71e7a26f6ac02b5a99f02dc336716e8b053468f2c15d93f781",
-   "source": "SeekingAlpha",
-   "published": "2026-10-15T10:46:48+00:00",
-   "tickers": [
-    "OSCR"
    ],
    "tag": "Earnings",
    "sectors": [
