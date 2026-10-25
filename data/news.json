@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-25T10:16:39.917512+00:00",
+ "updated": "2026-10-25T10:31:49.565711+00:00",
  "quotes": {
   "ABBV": {
    "price": 285.64,
@@ -53,6 +53,10 @@
   "EXEL": {
    "price": 64.53,
    "change_pct": -1.19
+  },
+  "GMED": {
+   "price": 81.41,
+   "change_pct": -0.31
   },
   "GSK": {
    "price": 50.75,
@@ -810,6 +814,21 @@
    "sectors": []
   },
   {
+   "id": "097f712e65da",
+   "headline": "Globus Medical (GMED) Unveiled SCRIPT Patient Specific Spinal Implant Platform",
+   "summary": "Globus Medical (NYSE:GMED) introduced its SCRIPT patient-specific spinal implant platform at the 41st Annual North American Spine Society Meeting. The SCRIPT system is FDA cleared and is designed to provide customized spinal implants\u2026",
+   "url": "https://finnhub.io/api/news?id=29a232bb80d7ab69a57419c674b20dd67e1fafc0dc1c504f35b73887000cbca1",
+   "source": "Yahoo",
+   "published": "2026-10-25T08:07:40+00:00",
+   "tickers": [
+    "GMED"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "9aa7fe66ff7e",
    "headline": "Johnson & Johnson reports 75% tumor response rate in advanced prostate cancer with JNJ-6143, a first-in-class RIPTAC\u2122 molecule",
    "summary": "JNJ-6143 is an investigational, once-daily, novel, small molecule designed to trigger cancer cell death through a targeted dual-protein lock between BRD4 and androgen receptor, a highly expressed tumor-selective protein in prostate cancer\u2026",
@@ -912,6 +931,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "26c809e3adf1",
+   "headline": "Novartis: Strong Drug Growth Faces A Tougher Test As Patent Losses And Pipeline Setbacks Mount",
+   "summary": "Novartis reported 2Q26 revenue of $14.4 billion, as strong demand for newer medicines was largely offset by generic competition. See why NVS stock is a Hold.",
+   "url": "https://finnhub.io/api/news?id=eaa52e8c950a3bb9ca6fe7204dd8fd565ad5e4ed9d767ebdd1c3c3b2e86ccd2c",
+   "source": "SeekingAlpha",
+   "published": "2026-10-25T06:03:30+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -38779,17 +38813,6 @@
    "sectors": [
     "payers"
    ]
-  },
-  {
-   "id": "e6b2baa0d9fe",
-   "headline": "STAT+: On Wall Street, there\u2019s trouble stirring for biotech",
-   "summary": "On Wall Street, the real trouble for biotech, and the reason for investor angst, lies below the surface.",
-   "url": "https://www.statnews.com/2026/10/15/wall-street-biotech-trouble-stirring/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-10-15T10:30:00+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
   }
  ]
 }
