@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-25T20:01:47.335986+00:00",
+ "updated": "2026-10-25T20:16:38.766654+00:00",
  "quotes": {
   "ABBV": {
    "price": 285.64,
@@ -97,6 +97,10 @@
   "NBIX": {
    "price": 142.7,
    "change_pct": -0.41
+  },
+  "NVO": {
+   "price": 39.05,
+   "change_pct": -0.96
   },
   "NVS": {
    "price": 151.12,
@@ -960,7 +964,8 @@
    "source": "SeekingAlpha",
    "published": "2026-10-25T15:11:00+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -975,6 +980,7 @@
    "source": "SeekingAlpha",
    "published": "2026-10-25T14:56:16+00:00",
    "tickers": [
+    "AZN",
     "GSK",
     "IONS",
     "NVS"
@@ -36211,141 +36217,6 @@
    "tag": "News",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "8167713bb87b",
-   "headline": "AI Stocks Are Hurting. Look at These Other Sectors for Protection.",
-   "summary": "Investors are fleeing tech stocks due to artificial-intelligence worries. But many other sectors of the market look like a good bet.",
-   "url": "https://finnhub.io/api/news?id=1acfb8f181fa92d06970adec64ca819ba0b9d8103d77fe0fefad6234be53ccb8",
-   "source": "Yahoo",
-   "published": "2026-10-15T20:13:00+00:00",
-   "tickers": [
-    "MRK"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "5b50d1ca58bb",
-   "headline": "MiniMed Announces Board of Directors for its Next Chapter as an Independent Company",
-   "summary": "MiniMed (Nasdaq: MMED), a global leader in diabetes technology, today announced the composition of its Board of Directors following the completion of the company's separation from Medtronic. This new Board composition reflects MiniMed's\u2026",
-   "url": "https://finnhub.io/api/news?id=672e345b0a75f4a3504dd5c3458a7e510ad7bf7648c66b2210cef7d2eeca04ad",
-   "source": "Yahoo",
-   "published": "2026-10-15T20:10:00+00:00",
-   "tickers": [
-    "MDT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "14aa0861a0ec",
-   "headline": "Bioscience Association Manitoba Welcomes New Board Members and Executive Members at Annual General Meeting",
-   "summary": "WINNIPEG, Manitoba, October 15, 2026--The Bioscience Association Manitoba (BAM) is pleased to announce the appointment of new members to its Board of Directors and Executive Board, following the organization\u2019s Annual General Meeting held\u2026",
-   "url": "https://finnhub.io/api/news?id=d7f09f08e850bdd4f7534147a2b955a31a231966703da56d1eca8f7d9dc7b05d",
-   "source": "Yahoo",
-   "published": "2026-10-15T20:10:00+00:00",
-   "tickers": [
-    "GSK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "fb0ba026d763",
-   "headline": "LifeStance to Host Third Quarter 2026 Earnings Conference Call on November 5, 2026",
-   "summary": "SCOTTSDALE, Ariz., Oct. 15, 2026 (GLOBE NEWSWIRE) -- LifeStance Health Group, Inc. (NASDAQ: LFST), one of the nation\u2019s largest providers of outpatient mental healthcare, will issue its third quarter 2026 earnings release before the market\u2026",
-   "url": "https://finnhub.io/api/news?id=380718e2f585769ebb1289d618d28ed890f19bcdd1287e510a2743b0ae9f05b1",
-   "source": "Yahoo",
-   "published": "2026-10-15T20:10:00+00:00",
-   "tickers": [
-    "LFST"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "ae8b975e7c06",
-   "headline": "Exelixis to Release Third Quarter 2026 Financial Results on Thursday, October 29, 2026",
-   "summary": "ALAMEDA, Calif., October 15, 2026--Exelixis, Inc. (Nasdaq: EXEL) announced today that its third quarter 2026 financial results will be released on Thursday, October 29, 2026, after the markets close. At 5:00 p.m. ET / 2:00 p.m. PT,\u2026",
-   "url": "https://finnhub.io/api/news?id=76f2d3fd1038619ed68faefd60b15003566c0cedcd6e0ffea9b0575e6d5b9120",
-   "source": "Yahoo",
-   "published": "2026-10-15T20:05:00+00:00",
-   "tickers": [
-    "EXEL"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "9265db1b3c7f",
-   "headline": "Doximity to Release Fiscal 2027 Second Quarter Results on November 5, 2026",
-   "summary": "SAN FRANCISCO, October 15, 2026--Doximity, Inc. (NYSE:DOCS), the leading digital platform for U.S. medical professionals, today announced it will report financial results for its fiscal second quarter ended September 30, 2026 after market\u2026",
-   "url": "https://finnhub.io/api/news?id=806a1383e58b421fe736ff8beaa07d84356aa8d7dd56be8f120798cf0a0246c9",
-   "source": "Yahoo",
-   "published": "2026-10-15T20:05:00+00:00",
-   "tickers": [
-    "DOCS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "692c87a6b622",
-   "headline": "Gilead Sciences to Release Third Quarter 2026 Financial Results on Thursday, October 29, 2026",
-   "summary": "FOSTER CITY, Calif., October 15, 2026--Gilead Sciences, Inc. (Nasdaq: GILD) announced today that its third quarter 2026 financial results and guidance will be released on Thursday, October 29, 2026 after the market closes. At 4:30 p.m.\u2026",
-   "url": "https://finnhub.io/api/news?id=4d1ad6ec7707de8e29d58ab0250725d7d5f845364c7f4ff591298f56c7f59007",
-   "source": "Yahoo",
-   "published": "2026-10-15T20:05:00+00:00",
-   "tickers": [
-    "GILD"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "9fbd688ed2c4",
-   "headline": "Madrigal Pharmaceuticals Announces Grants of Inducement Awards under Nasdaq Listing Rule 5635(c)(4)",
-   "summary": "CONSHOHOCKEN, Pa., Oct. 15, 2026 (GLOBE NEWSWIRE) -- Madrigal Pharmaceuticals, Inc. (NASDAQ:MDGL), a biopharmaceutical company focused on delivering novel therapeutics for metabolic dysfunction-associated steatohepatitis (MASH), today\u2026",
-   "url": "https://finnhub.io/api/news?id=3d31a111df2fa744922f515ef0cf30718b6ffac45a5f313c3c321c267ffb850e",
-   "source": "Yahoo",
-   "published": "2026-10-15T20:05:00+00:00",
-   "tickers": [
-    "MDGL"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "c139b6fcdd71",
-   "headline": "iRhythm Holdings to Report Third Quarter 2026 Financial Results on November 5, 2026",
-   "summary": "SAN FRANCISCO, Oct. 15, 2026 (GLOBE NEWSWIRE) -- iRhythm Holdings, Inc. (NASDAQ:IRTC), a leading digital health care company focused on creating trusted solutions that detect, predict, and prevent disease, today announced that it will\u2026",
-   "url": "https://finnhub.io/api/news?id=e604f3acda848cad03cffac0200c3366493466246aea99624639d984c4237155",
-   "source": "Yahoo",
-   "published": "2026-10-15T20:05:00+00:00",
-   "tickers": [
-    "IRTC"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
