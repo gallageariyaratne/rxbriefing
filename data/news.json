@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-25T22:16:39.807701+00:00",
+ "updated": "2026-10-25T22:31:48.766411+00:00",
  "quotes": {
   "ABBV": {
    "price": 285.64,
@@ -29,10 +29,6 @@
   "BNTX": {
    "price": 88.11,
    "change_pct": -1.73
-  },
-  "CRSP": {
-   "price": 49.39,
-   "change_pct": -1.2
   },
   "CVS": {
    "price": 93.47,
@@ -762,6 +758,36 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "3ae726ba428d",
+   "headline": "Should You Buy Bristol Myers Squibb While It Trades Below 10 Times Forward Earnings?",
+   "summary": "Bristol Myers Squibb is facing a sizable patent cliff, but that's not unusual in the pharma sector.",
+   "url": "https://finnhub.io/api/news?id=c7867d08cc1e91111bb25aed43a28b518c186a383e74c43466d02a760cb0c954",
+   "source": "Yahoo",
+   "published": "2026-10-25T21:35:00+00:00",
+   "tickers": [
+    "BMY"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "f210b96fe586",
+   "headline": "T-Bills Yield Up to 4.45%. Why Would Retirees Choose Dividend Stocks?",
+   "summary": "Treasury bills are paying rates that beat several household-name dividend stocks right now, but the retiree who chases that yield without reading the fine print may find their income cut in half before the decade ends.",
+   "url": "https://finnhub.io/api/news?id=b7e77536bb157d3578b5fc16c797a8462a4c40a4b1520f55380bada64eb7b033",
+   "source": "Yahoo",
+   "published": "2026-10-25T20:00:35+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "Legal",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -35768,21 +35794,6 @@
     "ABBV"
    ],
    "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "aed13bf3e94c",
-   "headline": "What Does AbbVie (ABBV) 51% DLBCL Risk Reduction Mean For Its Oncology Push?",
-   "summary": "AbbVie (NYSE:ABBV) and Genmab reported positive topline Phase 3 EPCORE DLBCL-2 results for epcoritamab plus R-CHOP in newly diagnosed DLBCL. The EPCORE DLBCL-2 study showed a statistically significant reduction in the risk of disease\u2026",
-   "url": "https://finnhub.io/api/news?id=d961c14879beee43810514e472ac93ef03bf4d055e854f3218bb2c812b7ddea2",
-   "source": "Yahoo",
-   "published": "2026-10-15T22:16:48+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "Clinical",
    "sectors": [
     "pharma"
    ]
