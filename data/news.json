@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-25T22:01:53.175254+00:00",
+ "updated": "2026-10-25T22:16:39.807701+00:00",
  "quotes": {
   "ABBV": {
    "price": 285.64,
@@ -37,6 +37,10 @@
   "CVS": {
    "price": 93.47,
    "change_pct": -1.07
+  },
+  "DGX": {
+   "price": 241.89,
+   "change_pct": -0.57
   },
   "DVA": {
    "price": 183.64,
@@ -745,6 +749,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "38fd8398b48e",
+   "headline": "Weekly Rundown: Quest Diagnostics reports cybersecurity breach; Novant Health launches virtual men\u2019s health clinic",
+   "summary": "The latest news from Novant Health, Function, Withings, Quest Diagnostics and more.",
+   "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-quest-diagnostics-reports-cybersecurity-breach-novant-health-launches",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-25T22:15:23.160253+00:00",
+   "tickers": [
+    "DGX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
   {
    "id": "6bd3e286cc11",
    "headline": "Dow Jones Futures Due With Microsoft, Google, Amazon Ahead; Will Doom Or Bloom Control Market?",
@@ -35766,105 +35785,6 @@
    "tag": "Clinical",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "167073f0781c",
-   "headline": "Duke Health, CaroMont Health seek to jointly build, operate 2 Charlotte-area hospitals",
-   "summary": "The pair filed Certificate of Needs with the state to build two hospitals comprising 200 beds in fast-growing North Carolina's Mecklenburg County.",
-   "url": "https://www.fiercehealthcare.com/providers/duke-health-caromont-health-seek-jointly-build-operate-2-charlotte-area-hospitals",
-   "source": "Fierce Healthcare",
-   "published": "2026-10-15T22:15:21.959519+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "00e9c775ab80",
-   "headline": "NABIP sues CMS over moratorium on new ACA broker registrations",
-   "summary": "The National Association of Benefits and Insurance Professionals is suing the Trump administration over its moratorium on new brokers entering the Affordable Care Act marketplaces.",
-   "url": "https://www.fiercehealthcare.com/payers/nabip-sues-cms-over-moratorium-new-aca-broker-registrations",
-   "source": "Fierce Healthcare",
-   "published": "2026-10-15T22:15:21.958979+00:00",
-   "tickers": [],
-   "tag": "Legal",
-   "sectors": []
-  },
-  {
-   "id": "eef4be26675c",
-   "headline": "3 Defensive US Healthcare Stocks Investors Are Watching As Rates Stay Higher",
-   "summary": "Inflation running hotter than expected, higher-for-longer rate worries, and climbing Treasury yields have pushed many investors toward shelter and away from more rate-sensitive growth stories. That shift can open space in parts of the\u2026",
-   "url": "https://finnhub.io/api/news?id=6a3088e1c3c949c4c0aa85472afe7abb6cdae3c3eb1ec7804b37c8f0b1d15965",
-   "source": "Yahoo",
-   "published": "2026-10-15T22:12:46+00:00",
-   "tickers": [
-    "CVS",
-    "HUM"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "5d72dc0b4178",
-   "headline": "Regeneron Pharmaceuticals (REGN) Rallies On Earnings Beat As Undervalued Narrative Holds",
-   "summary": "Regeneron Pharmaceuticals (REGN) shares have been in focus after the company reported quarterly revenue of US$4.29b, up 16.7% year on year. The results beat analyst expectations and have lifted the stock about 12.4% since the release.\u2026",
-   "url": "https://finnhub.io/api/news?id=6056849c7398849ffaaba43b3a5224cefe4cf3f5320165469f11483915738003",
-   "source": "Yahoo",
-   "published": "2026-10-15T22:11:58+00:00",
-   "tickers": [
-    "REGN",
-    "SNY"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "ec1b2d0472b4",
-   "headline": "Is Cigna (CI) Quietly Reframing Its Moat Around Data-Driven Care With Health Sense?",
-   "summary": "Earlier this month, The Cigna Group announced that director Donna F. Zarcone will retire from its Board on December 31, 2026, while Cigna Healthcare unveiled Health Sense, a personalized support model that integrates customers\u2019 health,\u2026",
-   "url": "https://finnhub.io/api/news?id=b8ef4821b32667678e97a90527e6bf72ef3f20af75fdc48b5804c8458ed5ca10",
-   "source": "Yahoo",
-   "published": "2026-10-15T22:11:24+00:00",
-   "tickers": [
-    "CI"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "2c131feed452",
-   "headline": "HealthMetrix Research Selects 2027 Medicare Advantage Plans for Exceptional Benefit Value & Overall Performance",
-   "summary": "Humana, Devoted Health, Aetna, Alignment Health Among Leading Multi-State Medicare Advantage Plans COLUMBUS, Ohio, Oct. 15, 2026 /PRNewswire/ -- Medicare Advantage+Part D plans in 45 states and Puerto Rico will be recognized for\u2026",
-   "url": "https://www.prnewswire.com/news-releases/healthmetrix-research-selects-2027-medicare-advantage-plans-for-exceptional-benefit-value--overall-performance-302910661.html",
-   "source": "PR Newswire",
-   "published": "2026-10-15T22:06:00+00:00",
-   "tickers": [
-    "HUM"
-   ],
-   "tag": "Policy",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "d8939690257b",
-   "headline": "HealthMetrix Research Selects 2027 Medicare Advantage Plans for Exceptional Benefit Value & Overall Performance",
-   "summary": "Medicare Advantage+Part D plans in 45 states and Puerto Rico will be recognized for exceptional value in the design of their medical and Part D prescription drug benefits available effective January 1. The 2027 Senior Choice Gold Award\u2026",
-   "url": "https://finnhub.io/api/news?id=3c98082829c27d700257e07d9e740587c2a7d54a047ce8b17ee0a8ea7f2cf2d0",
-   "source": "Yahoo",
-   "published": "2026-10-15T22:06:00+00:00",
-   "tickers": [
-    "HUM"
-   ],
-   "tag": "Policy",
-   "sectors": [
-    "payers"
    ]
   }
  ]
