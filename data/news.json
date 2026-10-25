@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-25T01:42:14.192937+00:00",
+ "updated": "2026-10-25T01:46:46.078834+00:00",
  "quotes": {
   "ABBV": {
    "price": 285.64,
@@ -9,6 +9,10 @@
   "ABT": {
    "price": 103.7,
    "change_pct": 1.16
+  },
+  "ALHC": {
+   "price": 8.06,
+   "change_pct": -4.39
   },
   "AMGN": {
    "price": 439.26,
@@ -61,6 +65,10 @@
   "GILD": {
    "price": 156.04,
    "change_pct": -0.73
+  },
+  "GKOS": {
+   "price": 178.88,
+   "change_pct": 1.24
   },
   "HIMS": {
    "price": 27.71,
@@ -1381,6 +1389,7 @@
    "source": "Yahoo",
    "published": "2026-10-24T11:13:45+00:00",
    "tickers": [
+    "ALHC",
     "MOH"
    ],
    "tag": "News",
@@ -1453,6 +1462,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "e20d8ad8e3c9",
+   "headline": "What Glaukos Doubters Missed",
+   "summary": "Investors who held Glaukos from the start of the year are up 61.6%, including dividends. That headline result lands next to a reminder that fresh Epioxa data, a new retinal licensing deal and record 2026 guidance all arrived only after\u2026",
+   "url": "https://finnhub.io/api/news?id=0291014861c1327dda75542a8947b240f33b2c6641631cb8d021fab73a1b9867",
+   "source": "Yahoo",
+   "published": "2026-10-24T10:13:07+00:00",
+   "tickers": [
+    "GKOS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
    ]
   },
   {
