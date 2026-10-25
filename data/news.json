@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-25T13:01:44.629076+00:00",
+ "updated": "2026-10-25T13:16:38.989444+00:00",
  "quotes": {
   "ABBV": {
    "price": 285.64,
@@ -25,6 +25,10 @@
   "BMY": {
    "price": 61.48,
    "change_pct": -2.41
+  },
+  "BNTX": {
+   "price": 88.11,
+   "change_pct": -1.73
   },
   "CAH": {
    "price": 249.57,
@@ -93,6 +97,10 @@
   "MRNA": {
    "price": 200.1,
    "change_pct": -1.25
+  },
+  "NBIX": {
+   "price": 142.7,
+   "change_pct": -0.41
   },
   "NVO": {
    "price": 39.05,
@@ -761,6 +769,21 @@
    ]
   },
   {
+   "id": "646c8e8c9248",
+   "headline": "Where Will Neurocrine Biosciences Be in 5 Years?",
+   "summary": "Neurocrine's expanding drug portfolio could drive substantial growth through 2031.",
+   "url": "https://finnhub.io/api/news?id=919a04b055d23a12e1b5f994226f995bfbc2b059d8c9280889b57c227930dfa1",
+   "source": "Yahoo",
+   "published": "2026-10-25T11:05:00+00:00",
+   "tickers": [
+    "NBIX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "01db422cc5b7",
    "headline": "ESMO26: Clinical progress shifts a historically difficult pancreatic cancer landscape",
    "summary": "Revolution Medicines\u2019 impressive daraxonrasib data has spurred hope in the pancreatic cancer space.",
@@ -945,7 +968,8 @@
    "source": "Yahoo",
    "published": "2026-10-25T07:30:00+00:00",
    "tickers": [
-    "BMY"
+    "BMY",
+    "BNTX"
    ],
    "tag": "Clinical",
    "sectors": [
@@ -1005,6 +1029,7 @@
    "source": "SeekingAlpha",
    "published": "2026-10-25T06:59:06+00:00",
    "tickers": [
+    "ABBV",
     "LLY",
     "MRK"
    ],
@@ -37814,128 +37839,6 @@
    "tag": "Analyst",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "77c570c6efa7",
-   "headline": "As prior auth becomes an AI \u2018arms race,\u2019 Otter Health raises $8M for a different approach",
-   "summary": "The company built an AI-powered real-time clinical quality platform to better manage healthcare utilization by influencing care decisions rather than requiring clinicians to get permission for them.",
-   "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/otter-health-launches-8m-take-prior-authorization",
-   "source": "Fierce Healthcare",
-   "published": "2026-10-15T13:15:22.949548+00:00",
-   "tickers": [],
-   "tag": "Financing",
-   "sectors": []
-  },
-  {
-   "id": "afbde1730878",
-   "headline": "American Academy of Family Physicians joins physician social network Roon",
-   "summary": "AAFP members will be able to use the platform to connect with peers as part of the collaboration.",
-   "url": "https://www.fiercehealthcare.com/providers/american-academy-family-physicians-joins-physician-social-network-roon",
-   "source": "Fierce Healthcare",
-   "published": "2026-10-15T13:15:22.948649+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "9718b1703b47",
-   "headline": "Elevance Health Foundation launched a prize program for patient safety initiatives. Here's why",
-   "summary": "The Elevance Health Foundation has launched a new prize program aimed at supporting solutions aimed at improving patient safety, with the first crop of winners targeting challenges like health literacy, fall prevention and medication\u2026",
-   "url": "https://www.fiercehealthcare.com/payers/elevance-health-foundation-launched-prize-program-patient-safety-initiatives-heres-why",
-   "source": "Fierce Healthcare",
-   "published": "2026-10-15T13:15:22.947218+00:00",
-   "tickers": [
-    "ELV"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "55b4fb484479",
-   "headline": "What Happened With UnitedHealth Stock This Week?",
-   "summary": "Shares of UnitedHealth Group (UNH) rose 4.5% over the two trading days through Wednesday, October 14, while the S&P 500 fell 1.1%. The company reported fiscal Q3 2026 results before the market opened on Tuesday. The stock slipped 0.2%\u2026",
-   "url": "https://finnhub.io/api/news?id=3ba52a896007a6066cc5044ba229895e436e4c48da36a8d860a7afa599a180e9",
-   "source": "Yahoo",
-   "published": "2026-10-15T13:14:38+00:00",
-   "tickers": [
-    "CI",
-    "CNC",
-    "CVS",
-    "ELV",
-    "HUM",
-    "UNH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "9d18f777a3d1",
-   "headline": "STAT+: \u2018AI sandboxes\u2019 are all the rage. Advocates scramble to control their future",
-   "summary": "In this edition of STAT's Health Tech newsletter: The groups vying to shape regulations that'd govern state AI sandboxes, and more.",
-   "url": "https://www.statnews.com/2026/10/15/scramble-to-shape-regulations-around-state-ai-sandboxes-health-tech/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-10-15T13:14:37+00:00",
-   "tickers": [],
-   "tag": "Health AI",
-   "sectors": []
-  },
-  {
-   "id": "270422c042a3",
-   "headline": "3 US Managed Care Stocks Facing Election And Healthcare Cost Pressure",
-   "summary": "Healthcare costs are biting harder, elections are heating up and US managed care stocks are right in the crosshairs. That mix can punish some business models while giving others fresh momentum, as coverage, pricing power and policy risk\u2026",
-   "url": "https://finnhub.io/api/news?id=be7f69732bbe6971faa6835edaff2e59176ae8e61520aba2cdc6bf72e8e50a81",
-   "source": "Yahoo",
-   "published": "2026-10-15T13:11:53+00:00",
-   "tickers": [
-    "CNC",
-    "MOH",
-    "OSCR"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "71620d072ab0",
-   "headline": "Where Could Johnson & Johnson's Next Growth Come From?",
-   "summary": "Johnson & Johnson (JNJ) stock trades at 29.1 times its earnings over the past twelve months, compared with 22.7 for the S&P 500. Investors paying that premium appear to be counting on more growth. The company raised its 2026 guidance on\u2026",
-   "url": "https://finnhub.io/api/news?id=b3a8c83dcbe2957ee2b7ef5bda75d1c593820e341cd92a0184bdff2f60f5c80b",
-   "source": "Yahoo",
-   "published": "2026-10-15T13:09:29+00:00",
-   "tickers": [
-    "ABBV",
-    "JNJ",
-    "LLY",
-    "MDT",
-    "MRK",
-    "PFE"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "1791b64aa6ac",
-   "headline": "Alto Neuroscience: Doubts Around Depression Candidate Merit Downgrade To Hold",
-   "summary": "Alto Neuroscience, Inc. pivots to ALTO-207 for treatment-resistant depression; learn risks, catalysts, dilution, and outlook. Click for this ANRO stock update.",
-   "url": "https://finnhub.io/api/news?id=10e4343537faceb2924284039eb4ed431ab6462c2e4f47042d7cba8b0e03e2a0",
-   "source": "SeekingAlpha",
-   "published": "2026-10-15T13:07:31+00:00",
-   "tickers": [
-    "AXSM",
-    "BMY",
-    "JNJ"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
