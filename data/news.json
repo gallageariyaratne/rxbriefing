@@ -1,10 +1,14 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-25T03:02:01.567489+00:00",
+ "updated": "2026-10-25T03:16:51.147065+00:00",
  "quotes": {
   "ABBV": {
    "price": 285.64,
    "change_pct": 0.16
+  },
+  "ABSI": {
+   "price": 9.18,
+   "change_pct": -2.03
   },
   "ABT": {
    "price": 103.7,
@@ -49,10 +53,6 @@
   "CVS": {
    "price": 93.47,
    "change_pct": -1.07
-  },
-  "DGX": {
-   "price": 241.89,
-   "change_pct": -0.57
   },
   "DVA": {
    "price": 183.64,
@@ -1016,6 +1016,21 @@
    "tag": "Health AI",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "8f716cdc150c",
+   "headline": "Is Absci (ABSI) Undervalued As Positive ABS 201 Phase 1 Data Lifts Optimism?",
+   "summary": "Absci (ABSI) has drawn fresh attention after reporting positive interim Phase 1 data for ABS-201 in pattern hair loss, including an estimated half-life of at least 65 days for the antibody therapy. The latest ABS-201 update lands after a\u2026",
+   "url": "https://finnhub.io/api/news?id=0829ea1873da76ed314b1a4c2dc66948ebd21a2dfe134c147d7dd256eeddabf0",
+   "source": "Yahoo",
+   "published": "2026-10-24T19:08:00+00:00",
+   "tickers": [
+    "ABSI"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "healthai"
    ]
   },
   {
@@ -39285,21 +39300,6 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
-   ]
-  },
-  {
-   "id": "6fd3ed45e695",
-   "headline": "Reported Earlier, Takeda Launches ORZEYFUL In Japan And China As First-In-Class Orexin Agonist For Narcolepsy Type 1, With US Launch Set For Next Month After DEA Scheduling",
-   "summary": "\u2212 ORZEYFUL is now available in Japan and China following approvals within a month of each other by China\u2019s National Medical Products Administration (NMPA), the U.S. Food and Drug Administration (FDA) and Japan\u2019s",
-   "url": "https://finnhub.io/api/news?id=5395d76199b9ce4ddeb3d0e4a6de0f5228e841c1ec3562d3805de9c7592276c8",
-   "source": "Benzinga",
-   "published": "2026-10-15T03:01:34+00:00",
-   "tickers": [
-    "TAK"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
