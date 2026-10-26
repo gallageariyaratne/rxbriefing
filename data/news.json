@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-26T20:32:39.137156+00:00",
+ "updated": "2026-10-26T20:47:35.663432+00:00",
  "quotes": {
   "A": {
    "price": 175.96,
@@ -61,6 +61,10 @@
   "BNTX": {
    "price": 86.86,
    "change_pct": -1.42
+  },
+  "BRKR": {
+   "price": 58.23,
+   "change_pct": 1.11
   },
   "BSX": {
    "price": 45.58,
@@ -930,6 +934,21 @@
  },
  "stories": [
   {
+   "id": "dc439e86bc3d",
+   "headline": "Pfizer\u2019s Talzenna combo moves up treatment line with new FDA nod in prostate cancer",
+   "summary": "Pfizer\u2019s Talzenna is now the first PARP inhibitor approved by the FDA to treat men with metastatic hormone-sensitive prostate cancer.",
+   "url": "https://www.fiercepharma.com/pharma/pfizers-talzenna-climbs-treatment-line-new-fda-okay-prostate-cancer",
+   "source": "Fierce Pharma",
+   "published": "2026-10-26T20:45:23.780004+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "f73307ae23e6",
    "headline": "UnitedHealthcare expands AI companion Avery to 21M members",
    "summary": "Earlier this year, UnitedHealthcare unveiled Avery, a generative AI companion aimed at supporting care coordination for its members.",
@@ -989,6 +1008,21 @@
    "sectors": []
   },
   {
+   "id": "11dadf9561a0",
+   "headline": "Corxel, an obesity drugmaker, to go public via SPAC deal",
+   "summary": "Armed with a $300 million financing and two GLP-1 and amylin-targeting medicines, Corxel is set to become the latest weight loss-focused company to join the public markets.",
+   "url": "https://finnhub.io/api/news?id=7b8c988faaf29be1070f93a78eba578a30276fb5ea8f0464c621319420abd6f2",
+   "source": "Yahoo",
+   "published": "2026-10-26T19:17:00+00:00",
+   "tickers": [
+    "BIIB"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "0c1c528cf55c",
    "headline": "What Do Johnson & Johnson (JNJ) Cancer Trial Wins Mean For Its Stock?",
    "summary": "Johnson & Johnson (NYSE: JNJ) reported new oncology data, including a 75% tumor response rate for JNJ-6143 in advanced prostate cancer. The RYBREVANT FASPRO regimen produced a 77% response rate as an initial treatment option in advanced\u2026",
@@ -999,6 +1033,21 @@
     "JNJ"
    ],
    "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "67e5832db7ea",
+   "headline": "Pfizer (PFE) Stock Looks Above Fair Value As 30% Run Continues",
+   "summary": "Pfizer has delivered a solid 1 year return, yet the question many investors are circling is whether that share price now lines up with what its earnings can support. With vaccine headlines and deal activity back in the news, the issue is\u2026",
+   "url": "https://finnhub.io/api/news?id=265c519d7141df160459d439b4b3efbbb2301466663cc764695ae6bfefc8dd1a",
+   "source": "Yahoo",
+   "published": "2026-10-26T19:09:56+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "Earnings",
    "sectors": [
     "pharma"
    ]
@@ -1048,11 +1097,42 @@
    "source": "Yahoo",
    "published": "2026-10-26T18:30:47+00:00",
    "tickers": [
+    "BRKR",
     "TECH"
    ],
    "tag": "News",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "c46c47599d17",
+   "headline": "This Dividend King Just Announced Great News for Investors",
+   "summary": "Abbott Laboratories\u2019 outlook is looking brighter after a recent development.",
+   "url": "https://finnhub.io/api/news?id=f7cbc7b9849db5c43464b95256ae904c423e1a817c8df11d02280b537ef41039",
+   "source": "Yahoo",
+   "published": "2026-10-26T18:18:02+00:00",
+   "tickers": [
+    "ABT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "3f9368545bab",
+   "headline": "Sector Update: Healthcare Stocks Softer Monday Afternoon",
+   "summary": "Healthcare stocks were lower Monday afternoon, with the NYSE Healthcare Index down 0.1% and the Stat",
+   "url": "https://finnhub.io/api/news?id=a469f1b27ce939141a2055db3284e6f7c292ffb2a9ffd1d811094bba814b9d79",
+   "source": "Yahoo",
+   "published": "2026-10-26T18:11:18+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1081,7 +1161,8 @@
     "CNC",
     "CVS",
     "HUM",
-    "MOH"
+    "MOH",
+    "UNH"
    ],
    "tag": "News",
    "sectors": [
@@ -35875,53 +35956,6 @@
    "tag": "News",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "b32c11b730ca",
-   "headline": "Viking Therapeutics, Inc. (VKTX) Falls More Steeply Than Broader Market: What Investors Need to Know",
-   "summary": "Viking Therapeutics, Inc. (VKTX) reached $25.11 at the closing of the latest trading day, reflecting a -8.26% change compared to its last close.",
-   "url": "https://finnhub.io/api/news?id=756dacff2b5dbf5fbdaff9559df3e3adb4fe3fb30a4aee4016fd6b777c471843",
-   "source": "Yahoo",
-   "published": "2026-10-16T20:45:04+00:00",
-   "tickers": [
-    "VKTX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "8d6134c5ab2e",
-   "headline": "Azenta, Myriad Genetics, Moderna, Repligen, and PacBio Shares Plummet, What You Need To Know",
-   "summary": "A number of stocks fell in the afternoon session after capital-intensive growth equities experienced sharp sell-offs as elevated bond yields restricted market appetite for risk.",
-   "url": "https://finnhub.io/api/news?id=3d84b14e70e8d6a49ca4956cbf56c9fe1e46b415cf9dac770ae6bfdec6d22e0d",
-   "source": "Yahoo",
-   "published": "2026-10-16T20:43:39+00:00",
-   "tickers": [
-    "MRNA",
-    "PACB",
-    "RGEN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "c9aba5d00fff",
-   "headline": "UPDATE - Woodward Appoints Paxton McVoy as Chief Information Officer",
-   "summary": "Woodward Appoints Paxton McVoy as Chief Information Officer Paxton McVoy to join Woodward as CIO FORT COLLINS, Colo., Oct. 16, 2026 (GLOBE NEWSWIRE) -- Woodward (NASDAQ: WWD), a global leader in aerospace and industrial energy control\u2026",
-   "url": "https://finnhub.io/api/news?id=40cfe1e955cecfb748df7816606900703e15a298873281ee8d8677e80cbf620a",
-   "source": "Yahoo",
-   "published": "2026-10-16T20:40:00+00:00",
-   "tickers": [
-    "DHR"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
    ]
   }
  ]
