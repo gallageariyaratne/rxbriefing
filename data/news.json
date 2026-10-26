@@ -1,19 +1,7 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-26T12:18:59.769095+00:00",
+ "updated": "2026-10-26T12:32:00.910059+00:00",
  "quotes": {
-  "A": {
-   "price": 173.07,
-   "change_pct": -0.47
-  },
-  "ABBV": {
-   "price": 285.64,
-   "change_pct": 0.16
-  },
-  "ABT": {
-   "price": 103.7,
-   "change_pct": 1.16
-  },
   "ALGN": {
    "price": 154.51,
    "change_pct": -0.64
@@ -45,6 +33,10 @@
   "CNC": {
    "price": 70.17,
    "change_pct": -1.5
+  },
+  "CVS": {
+   "price": 93.47,
+   "change_pct": -1.07
   },
   "CYTK": {
    "price": 61.23,
@@ -817,6 +809,51 @@
    "url": "https://www.fiercebiotech.com/biotech/bms-reports-patient-death-ms-trial-not-related-earlier-zola-cel-trials-pause",
    "source": "Fierce Biotech",
    "published": "2026-10-26T11:00:28.154149+00:00",
+   "tickers": [
+    "BMY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "d5e4d8409f9f",
+   "headline": "Aetna Provider Survey Shows Payer-Provider Trust Remains Strong; Providers say Reducing Fraud can Significantly Lower Health Care Costs",
+   "summary": "Aetna\u00ae, a CVS Health\u00ae company (NYSE: CVS), today announced findings from the Q3 Aetna Provider Survey. The Aetna Provider Survey is a quarterly study that polls the U.S. provider market to better understand their perceptions on payers and\u2026",
+   "url": "https://finnhub.io/api/news?id=cdbc3abd0e52db89350cd84c8e5bfc01442b9a354b013cfc797d6beeed59fdd5",
+   "source": "Yahoo",
+   "published": "2026-10-26T11:00:00+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "c11d609599a5",
+   "headline": "Pathos AI completes $237m Series E round to expand oncology pipeline",
+   "summary": "Pathos AI will use the proceeds to scale its Foundry platform and advance four active clinical cancer programmes.",
+   "url": "https://finnhub.io/api/news?id=6b71db9c0b57db2429e60ee6206b1a7a1b0d03e5e983585094b6e7b06bdaaa74",
+   "source": "Yahoo",
+   "published": "2026-10-26T10:39:42+00:00",
+   "tickers": [
+    "BMY"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "f0617f2f0a9d",
+   "headline": "Can Incyte Stock Hit $170?",
+   "summary": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://finnhub.io/api/news?id=af69d860fc2e812aa59388e3be42f34827b19f840f3e708773d6a0340009dc66",
+   "source": "Yahoo",
+   "published": "2026-10-26T10:13:49+00:00",
    "tickers": [
     "BMY"
    ],
@@ -34885,66 +34922,6 @@
    "tag": "Health AI",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "79dcbe9787dd",
-   "headline": "Neurocrine Biosciences Presents Real-World Evidence Mapping the Lifelong, Evolving Impact of Classic Congenital Adrenal Hyperplasia",
-   "summary": "Decades of real-world medical records highlight the diverse challenges of living with classic congenital adrenal hyperplasia and how needs evolve from childhood through adulthood Patient records showed growth and bone-age monitoring in\u2026",
-   "url": "https://www.prnewswire.com/news-releases/neurocrine-biosciences-presents-real-world-evidence-mapping-the-lifelong-evolving-impact-of-classic-congenital-adrenal-hyperplasia-302910704.html",
-   "source": "PR Newswire",
-   "published": "2026-10-16T12:30:00+00:00",
-   "tickers": [
-    "NBIX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "5a770346d1e8",
-   "headline": "Neurocrine Biosciences Presents Real-World Evidence Mapping the Lifelong, Evolving Impact of Classic Congenital Adrenal Hyperplasia",
-   "summary": "Neurocrine Biosciences, Inc. (Nasdaq: NBIX) today announced new real-world data demonstrating how the clinical and day-to-day impact of classic congenital adrenal hyperplasia can vary among individuals and evolve throughout a patient's\u2026",
-   "url": "https://finnhub.io/api/news?id=abb17187a76ecc1714f9549c1ec5f4d501a8542047ed0f8435aeea9093857b75",
-   "source": "Yahoo",
-   "published": "2026-10-16T12:30:00+00:00",
-   "tickers": [
-    "NBIX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "2a769b84774a",
-   "headline": "Once-Weekly TransCon\u00ae CNP (Navepegritide) Receives Positive CHMP Opinion for the Treatment of Achondroplasia in Children",
-   "summary": "Final European Commission decision expected during Q4 2026COPENHAGEN, Denmark, Oct. 16, 2026 (GLOBE NEWSWIRE) -- Ascendis Pharma A/S (Nasdaq: ASND) today announced that the Committee for Medicinal Products for Human Use (CHMP) of the\u2026",
-   "url": "https://finnhub.io/api/news?id=3223708d3a37d9f890793f819ee789f17840d4bf5e043237794afc7b8c0fd6f1",
-   "source": "Yahoo",
-   "published": "2026-10-16T12:29:00+00:00",
-   "tickers": [
-    "ASND"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "124bd7a064eb",
-   "headline": "1 Russell 2000 Stock to Target This Week and 2 That Underwhelm",
-   "summary": "Small-cap stocks in the Russell 2000 (^RUT) can be a goldmine for investors looking beyond the usual large-cap names. But with less stability and fewer resources than their bigger counterparts, these companies face steeper challenges in\u2026",
-   "url": "https://finnhub.io/api/news?id=cbdd802727c4d17d60324142163487a706634677bddd49a1a889e06e7ed41fb8",
-   "source": "Yahoo",
-   "published": "2026-10-16T12:19:39+00:00",
-   "tickers": [
-    "ALHC"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
    ]
   }
  ]
