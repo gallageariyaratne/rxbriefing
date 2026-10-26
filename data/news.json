@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-26T08:16:38.088946+00:00",
+ "updated": "2026-10-26T08:31:55.441592+00:00",
  "quotes": {
   "A": {
    "price": 173.07,
@@ -106,6 +106,10 @@
    "price": 30.03,
    "change_pct": -1.28
   },
+  "PODD": {
+   "price": 149.01,
+   "change_pct": 0.6
+  },
   "REGN": {
    "price": 805.02,
    "change_pct": -1.72
@@ -137,6 +141,10 @@
   "VKTX": {
    "price": 24.4,
    "change_pct": -5.54
+  },
+  "VRTX": {
+   "price": 523.93,
+   "change_pct": -2.1
   }
  },
  "tickers": {
@@ -754,12 +762,75 @@
  },
  "stories": [
   {
+   "id": "a48066f4a5cb",
+   "headline": "STAT+: Moderna CEO on what\u2019s next after success in cancer vaccine",
+   "summary": "Moderna's CEO St\u00e9phane Bancel on what's next after the recent success in cancer vaccine, and how that impacts the company's business strategy.",
+   "url": "https://www.statnews.com/2026/10/26/moderna-ceo-stephane-bancel-interview-cancer-vaccine-intismeran/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-26T08:30:00+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "6fb4b261300a",
+   "headline": "STAT+: NIH\u2019s new vaccine injury center has broad goals beyond RFK Jr.\u2019s focus on shots",
+   "summary": "The center will study the long-term impact of infections, in addition to RFK Jr.'s focus on vaccines.",
+   "url": "https://www.statnews.com/2026/10/26/nih-vaccine-injury-center-probes-post-infection-illness/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-26T08:30:00+00:00",
+   "tickers": [],
+   "tag": "Policy",
+   "sectors": []
+  },
+  {
+   "id": "40af224c3d65",
+   "headline": "Opinion: How bad is healthy supposed to feel?",
+   "summary": "\u201cWe shouldn't confuse illness and the hardships that come with living,\u201d writes family nurse practitioner Kirsten Balin.",
+   "url": "https://www.statnews.com/2026/10/26/how-bad-should-a-healthy-person-feel/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-26T08:30:00+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "773ea7616eca",
+   "headline": "Opinion: Could long-term AI use lead to isolation? We need to find out \u2014 but researchers need better access to data",
+   "summary": "\u201cWhat we don\u2019t know is whether people are disconnecting from one another, gradually, over months of interacting with chatbots,\u201d researchers write.",
+   "url": "https://www.statnews.com/2026/10/26/cumulative-ai-use-isolation-research-data-missing/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-26T08:30:00+00:00",
+   "tickers": [],
+   "tag": "Health AI",
+   "sectors": []
+  },
+  {
    "id": "f11941f58e90",
    "headline": "ESMO: Bristol Myers CMO touts \u20185 out of 5\u2019 positive phase 3 trials for bispecific ADC iza-bren",
    "summary": "Buoyed by a clean sweep of five positive phase 3 readouts in China, Bristol Myers\u2019 Chief Medical Officer Cristian Massacesi, M.D., is voicing growing confidence in the company's first-in-class bispecific ADC iza-bren, even as the New\u2026",
    "url": "https://www.fiercepharma.com/pharma/bristol-myers-cmo-touts-5-out-5-positive-phase-3-trials-bispecific-adc-iza-bren",
    "source": "Fierce Pharma",
    "published": "2026-10-26T07:45:34.997171+00:00",
+   "tickers": [
+    "BMY"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "133b54cc3b10",
+   "headline": "Izalontamab Brengitecan (Iza-Bren) Doubles Median Progression-Free Survival in Patients with Previously-Treated EGFR-Mutated Non-Small Cell Lung Cancer Compared to Chemotherapy in the Phase 3 PANKU-Lung01 Study",
+   "summary": "BOTHELL, Wash. & PRINCETON, N.J., October 26, 2026--Izalontamab Brengitecan (Iza-Bren) Doubles Median Progression-Free Survival in Patients with Previously-Treated EGFR-Mutated Non-Small Cell Lung...",
+   "url": "https://finnhub.io/api/news?id=0df3ba563cdd20d3cfbebc396c004ebb87f139c6406772623f6434b281a253af",
+   "source": "Yahoo",
+   "published": "2026-10-26T07:30:00+00:00",
    "tickers": [
     "BMY"
    ],
@@ -784,6 +855,21 @@
    ]
   },
   {
+   "id": "7f0f06af38de",
+   "headline": "Insulet (PODD) Could Be 11% Undervalued On Omnipod Discover Launch",
+   "summary": "Omnipod Discover launch puts Insulet\u2019s data platform in focus Insulet (PODD) has rolled out Omnipod Discover nationwide in the US, extending a web-based data platform that earlier limited-release users and healthcare professionals had\u2026",
+   "url": "https://finnhub.io/api/news?id=b41857e04933f98030d3188004f97c7befff19bb2ca92f673631d74b93b4e4f4",
+   "source": "Yahoo",
+   "published": "2026-10-26T06:07:18+00:00",
+   "tickers": [
+    "PODD"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "76851294d14b",
    "headline": "HCA Healthcare Reports Soon: How Has The Stock Reacted To Past Earnings?",
    "summary": "HCA Healthcare (NYSE:HCA) is scheduled to report its earnings on Tuesday, October 27, 2026. The company has a market value of about $103.4 billion. Over the last twelve months it generated $78.0 billion in revenue and $12.1 billion in\u2026",
@@ -798,6 +884,22 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "f0cd0ba0673b",
+   "headline": "Baron Health Care Fund: Q3 2026 New Positions And Exits",
+   "summary": "",
+   "url": "https://finnhub.io/api/news?id=f488331be4fc0aabb6b91d631958c54c2e6eedde32af3d9e4b889a6a1c65305b",
+   "source": "SeekingAlpha",
+   "published": "2026-10-26T04:05:00+00:00",
+   "tickers": [
+    "JNJ",
+    "VRTX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -863,6 +965,21 @@
    "tag": "News",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "44db6958f8e3",
+   "headline": "Johnson & Johnson Won UK Approval for Its Psoriasis Pill. Here\u2019s Where the Stock Could Go by 2030",
+   "summary": "Key Stats for Johnson & Johnson StockCurrent Price: $263. 81Target Price (Mid): ~$342Street Target: ~$279Potential Total Return: ~30%Annualized IRR: ~6% / year__Now Live: Discover how much upside your favorite stocks could have using\u2026",
+   "url": "https://finnhub.io/api/news?id=bd13a31e7f87e29e4b69caff19fb2fa1a80bfafc3c3b330d47f25ed05f9516f2",
+   "source": "Yahoo",
+   "published": "2026-10-26T01:24:23+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -35599,82 +35716,6 @@
    "tag": "FDA",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "00774fe74bf1",
-   "headline": "STAT+: Coerced sex or a jealous ex? Jury weighs dueling accounts of star scientist David Sabatini\u2019s downfall",
-   "summary": "Was molecular biologist David Sabatini a manipulative mentor who coerced a younger colleague into sex? Or was he the victim of a spurned former lover?",
-   "url": "https://www.statnews.com/2026/10/16/david-sabatini-civil-trial-highlights-permissive-sexual-norms-whitehead-metoo/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-10-16T08:30:00+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "5061f0fd6e23",
-   "headline": "STAT+: In DOGE\u2019s aftermath, federal health workers bristle at new performance reviews",
-   "summary": "Changes to the annual performance review process are the latest flashpoint in tensions between federal workers across the Department of Health and Human Services and the Trump administration, federal employees\u2026",
-   "url": "https://www.statnews.com/2026/10/16/federal-performance-reviews-health-agency-employees-wary-after-doge/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-10-16T08:30:00+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "272b47393887",
-   "headline": "Opinion: Is Milton Friedman to blame for America\u2019s health care woes?",
-   "summary": "Health policy experts John McDonough and Stuart Butler debate where the U.S. medical system went wrong \u2014 and how to fix it.",
-   "url": "https://www.statnews.com/2026/10/16/neoliberalism-health-care-milton-friedman-john-mcdonough-stuart-butler-debate/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-10-16T08:30:00+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "95c6b83d866b",
-   "headline": "Opinion: I thought I knew why patients stopped taking their medicine. I was wrong",
-   "summary": "Patients can understand that medication is necessary and still struggle with what taking it means.",
-   "url": "https://www.statnews.com/2026/10/16/nonadherence-medication-stopped-identity-pharmacist-side-effects-prevent/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-10-16T08:30:00+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "a86e2ecf69cc",
-   "headline": "Buy 5 Top-Ranked Non-Tech Nasdaq Stocks to Maximize Q4 Gains",
-   "summary": "ROST, ROKU, APA, CORT and HALO are five non-tech Nasdaq stocks riding strong growth trends and rising earnings estimates, positioning them for potential gains in Q4.",
-   "url": "https://finnhub.io/api/news?id=3d62b94c5842083a9d19d800d5a026a0821cf4cda5fbeeaf0ab93b4b459721d8",
-   "source": "Yahoo",
-   "published": "2026-10-16T08:30:00+00:00",
-   "tickers": [
-    "HALO"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "7625dcd0df9e",
-   "headline": "Biogen: The Bull Case Is Extending Beyond Alzheimer's (Rating Upgrade)",
-   "summary": "Biogen's Q3 earnings are due Oct 28. Explore FY2026 EPS guidance, Alzheimer\u00e2\u0080\u0099s revenue growth, and key risk/reward drivers\u00e2\u0080\u0094read now. Click for this BIIB update.",
-   "url": "https://finnhub.io/api/news?id=f91f403f3ffc3a12e9d0386f0f23990216287021ab63ad0404ebea0e9b7ed963",
-   "source": "SeekingAlpha",
-   "published": "2026-10-16T08:28:45+00:00",
-   "tickers": [
-    "AMGN",
-    "BIIB",
-    "LLY"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
