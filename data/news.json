@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-26T22:17:43.877640+00:00",
+ "updated": "2026-10-26T22:32:49.815877+00:00",
  "quotes": {
   "A": {
    "price": 175.96,
@@ -941,8 +941,8 @@
    "source": "PR Newswire",
    "published": "2026-10-26T22:03:00+00:00",
    "tickers": [
-    "MRK",
-    "BIIB"
+    "BIIB",
+    "MRK"
    ],
    "tag": "News",
    "sectors": [
@@ -983,7 +983,9 @@
    "source": "Yahoo",
    "published": "2026-10-26T21:21:23+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "BMY",
+    "JNJ"
    ],
    "tag": "News",
    "sectors": [
@@ -1000,6 +1002,21 @@
    "tickers": [],
    "tag": "Policy",
    "sectors": []
+  },
+  {
+   "id": "ec0e7542d408",
+   "headline": "DoorDash in advanced talks to acquire Instacart: WSJ",
+   "summary": "Market Domination Overtime host Brooke DIPalma summarizes The Wall Street Journal reporting on DoorDash (DASH) in advanced talks to acquire Instacart \u2014 valued at $17 billion \u2014 in a deal that could be completed in the coming week.",
+   "url": "https://finnhub.io/api/news?id=d2258dbe00ab0a0dec1c6b085423d7cba2c8bb2b836e844e8b2ed16b59fd76b1",
+   "source": "Yahoo",
+   "published": "2026-10-26T21:14:15+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "payers"
+   ]
   },
   {
    "id": "f9da3f6b3d04",
@@ -1031,11 +1048,27 @@
    "source": "Yahoo",
    "published": "2026-10-26T20:57:18+00:00",
    "tickers": [
-    "HCA"
+    "HCA",
+    "THC"
    ],
    "tag": "M&A",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "83a63d306021",
+   "headline": "Vertex Pharmaceuticals (VRTX) Stock Sinks As Market Gains: Here's Why",
+   "summary": "In the closing of the recent trading day, Vertex Pharmaceuticals (VRTX) stood at $517.49, denoting a -1.23% move from the preceding trading day.",
+   "url": "https://finnhub.io/api/news?id=258a4bb0d11945da722a9ae678431bdc0478cda5414a4d4cb72fbd2744f0a9d8",
+   "source": "Yahoo",
+   "published": "2026-10-26T20:50:03+00:00",
+   "tickers": [
+    "VRTX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1051,6 +1084,21 @@
    "tag": "FDA",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "4fb91ce88144",
+   "headline": "Veeva Systems (VEEV) Stock Dips While Market Gains: Key Facts",
+   "summary": "In the closing of the recent trading day, Veeva Systems (VEEV) stood at $318.18, denoting a -1.5% move from the preceding trading day.",
+   "url": "https://finnhub.io/api/news?id=141b1b57ccd41efb199a6d79b7e3b408c048d6c4a71e86966d394fde58931753",
+   "source": "Yahoo",
+   "published": "2026-10-26T20:45:03+00:00",
+   "tickers": [
+    "VEEV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
    ]
   },
   {
@@ -2227,6 +2275,21 @@
    "tag": "Earnings",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "682fcecc9103",
+   "headline": "What You Need to Know Ahead of Bio-Techne\u2019s Earnings Release",
+   "summary": "Bio-Techne will report its Q1 earnings soon, and analysts see single-digit earnings growth.",
+   "url": "https://finnhub.io/api/news?id=336a6c6fbf4bb07865f131e875bbfaab3c856d6d9e461a618ae442460707ca34",
+   "source": "Yahoo",
+   "published": "2026-10-26T14:15:42+00:00",
+   "tickers": [
+    "TECH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
    ]
   },
   {
