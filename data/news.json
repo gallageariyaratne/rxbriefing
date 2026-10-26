@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-26T12:46:48.475130+00:00",
+ "updated": "2026-10-26T13:02:38.475697+00:00",
  "quotes": {
   "A": {
    "price": 173.07,
@@ -21,6 +21,10 @@
   "AMGN": {
    "price": 439.26,
    "change_pct": -1.79
+  },
+  "AMWL": {
+   "price": 13.57,
+   "change_pct": -4.37
   },
   "AZN": {
    "price": 171.49,
@@ -62,6 +66,10 @@
    "price": 175.59,
    "change_pct": -1.55
   },
+  "GILD": {
+   "price": 156.04,
+   "change_pct": -0.73
+  },
   "GSK": {
    "price": 50.75,
    "change_pct": -0.9
@@ -81,6 +89,10 @@
   "IONS": {
    "price": 42.93,
    "change_pct": -2.23
+  },
+  "IQV": {
+   "price": 279.36,
+   "change_pct": 0.37
   },
   "JNJ": {
    "price": 263.81,
@@ -133,6 +145,10 @@
   "SMMT": {
    "price": 15.47,
    "change_pct": -0.51
+  },
+  "SNY": {
+   "price": 41.6,
+   "change_pct": -0.86
   },
   "TAK": {
    "price": 20.24,
@@ -786,6 +802,21 @@
  },
  "stories": [
   {
+   "id": "02eb10f42a8e",
+   "headline": "BioNTech sees \u2018limited\u2019 benefit to ADC after phase 3 reveals modest efficacy, ILD cases",
+   "summary": "BioNTech has reported modest efficacy and unexpected safety findings in a phase 3 breast cancer trial, leading the company to conclude its HER2-directed candidate may offer limited benefits in the current treatment landscape.",
+   "url": "https://www.fiercebiotech.com/biotech/biontech-sees-limited-benefit-adc-after-phase-3-reveals-modest-efficacy-ild-cases",
+   "source": "Fierce Biotech",
+   "published": "2026-10-26T13:00:49.385592+00:00",
+   "tickers": [
+    "BNTX"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "4b70680e37e9",
    "headline": "Walmart taps startup General Medicine to expand Better Care Services",
    "summary": "Walmart is teaming up with startup General Medicine to expand its Better Care Services, turning the digital healthcare platform into a more comprehensive healthcare marketplace.",
@@ -795,6 +826,51 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "b3c95282fd97",
+   "headline": "Amwell\u00ae to report third quarter 2026 operating results",
+   "summary": "BOSTON, Oct. 26, 2026 (GLOBE NEWSWIRE) -- Amwell\u00ae (NYSE: AMWL a leading provider of technology-enabled care, will report third quarter 2026 operating results after stock market trading hours on Tuesday, November 3. Following the\u2026",
+   "url": "https://finnhub.io/api/news?id=3506ec45bd48d73e406a2e91da7b2683c99de8305e0a5943cd0d4ab094e73ad5",
+   "source": "Yahoo",
+   "published": "2026-10-26T12:00:00+00:00",
+   "tickers": [
+    "AMWL"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
+   "id": "d32fd15d297f",
+   "headline": "US Equity Futures Rise Pre-Bell as Traders Assess Declining Oil Prices, Await Fed Rate Decision This Week",
+   "summary": "US equity futures were edging higher pre-bell Monday as traders observed oil prices declining while",
+   "url": "https://finnhub.io/api/news?id=14f86e0b5ee81c897498d6b56b2ed129d718943c39c72fda7fe6fe3f16655540",
+   "source": "Yahoo",
+   "published": "2026-10-26T11:59:12+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "5afc98f13714",
+   "headline": "Premarket movers: Moderna, Brazil ADRs drop; SpaceX rises",
+   "summary": "Investing.com - U.S. stock index futures rose on Monday after technology-driven losses battered Wall Street in the previous session, with investors turning their attention to this week\u2019s Federal Reserve policy announcement and a slate of\u2026",
+   "url": "https://finnhub.io/api/news?id=3108bb9944de46ac15869e0b6d5e084355e552cf6805860a390718c435434128",
+   "source": "Yahoo",
+   "published": "2026-10-26T11:56:28+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "531805158a37",
@@ -883,6 +959,21 @@
    ]
   },
   {
+   "id": "f07f93034412",
+   "headline": "InnoCare Reports 2026 Q3 Results, Sustained Profitability and Accelerating Globalization",
+   "summary": "BEIJING, Oct. 26, 2026 (GLOBE NEWSWIRE) -- InnoCare Pharma (HKEX: 09969; SSE: 688428), a leading biopharmaceutical company focusing on cancer and autoimmune diseases, today announced its third quarter 2026 results and business highlights\u2026",
+   "url": "https://finnhub.io/api/news?id=20d3d4a4d8502a0a0947850c2aa7c4fef7ccf0ce1b0c2e9e51c6e24349e6922f",
+   "source": "Yahoo",
+   "published": "2026-10-26T10:42:00+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "c11d609599a5",
    "headline": "Pathos AI completes $237m Series E round to expand oncology pipeline",
    "summary": "Pathos AI will use the proceeds to scale its Foundry platform and advance four active clinical cancer programmes.",
@@ -907,12 +998,28 @@
    "tickers": [
     "AMGN",
     "BMY",
+    "GILD",
     "INCY",
     "PFE"
    ],
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "12e4dd20aa58",
+   "headline": "IQVIA (IQV) Q3 earnings report preview: what to look for",
+   "summary": "Clinical research company IQVIA (NYSE: IQV) will be reporting results this Tuesday before market open. Here\u2019s what to expect.",
+   "url": "https://finnhub.io/api/news?id=6dafb1d9b540443ae582b0664f1e473ad69e063c810a58dff0a5db35746ef87e",
+   "source": "Yahoo",
+   "published": "2026-10-26T10:06:47+00:00",
+   "tickers": [
+    "IQV"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -928,6 +1035,21 @@
    "tag": "Analyst",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "5d0fc1b92bdc",
+   "headline": "Novartis MS drug remibrutinib cuts relapses, no liver safety signal in trials",
+   "summary": "Investing.com -- Shares of Swiss drugmaker Novartis slipped on Monday, as the company said on Friday its experimental multiple sclerosis drug remibrutinib cut relapses by roughly a third versus Sanofi-owned rival Aubagio (teriflunomide)\u2026",
+   "url": "https://finnhub.io/api/news?id=146d78d0140a2fba9f285fd4e91af1a618368049186d836c31553100ef3b1ddf",
+   "source": "Yahoo",
+   "published": "2026-10-26T09:32:46+00:00",
+   "tickers": [
+    "SNY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1031,6 +1153,21 @@
    ]
   },
   {
+   "id": "255dd59e794d",
+   "headline": "Cantargia Appoints Dr. Monic Stuart as Chief Medical Officer",
+   "summary": "LUND, SE / ACCESS Newswire / October 26, 2026 / AB (publ)(STO:CANTA), a clinical-stage biotechnology company focused on antibody-based therapeutics targeting IL1RAP, today announced the appointment of Monic Stuart, MD, PhD, MBA as Chief\u2026",
+   "url": "https://finnhub.io/api/news?id=87f2b91a5b1e60466c7a916cd1214e91bfe37a7d4252960d4cb7639279dd7364",
+   "source": "Yahoo",
+   "published": "2026-10-26T08:45:00+00:00",
+   "tickers": [
+    "RVMD"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "b76cd0028a64",
    "headline": "AstraZeneca: Stomach Cancer Drug With $3 to $5 Billion Sales Potential, and One Significant Wrinkle",
    "summary": "AstraZeneca (AZN) said on Sunday, October 25, that its Claudin 18. 2 antibody-drug conjugate sonesitatug vedotin (sone-ve) doubled median survival in stomach cancer patients who had already tried at least two treatments: 10.",
@@ -1092,6 +1229,21 @@
    "tickers": [],
    "tag": "Health AI",
    "sectors": []
+  },
+  {
+   "id": "5a3fbd2472df",
+   "headline": "Earn 12-15% Potential Income: Monthly Options Series (Nov. 2026)",
+   "summary": "Learn a disciplined options income strategy targeting 12-15% annually with risk management, stock selection tips, and sustainable tactics\u00e2\u0080\u0094read now.",
+   "url": "https://finnhub.io/api/news?id=d0c7e1b3677366fd122e2f26ea0fa370e542416391d5f6df82f92d533d8766a5",
+   "source": "SeekingAlpha",
+   "published": "2026-10-26T08:30:00+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "e7297616327f",
@@ -34746,118 +34898,6 @@
    "tag": "Analyst",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "dfba4564fa42",
-   "headline": "AMA releases governance framework for agentic AI in healthcare",
-   "summary": "Industry groups have worked to release guidance on artificial intelligence-backed agents in the absence of federal regulation.",
-   "url": "https://www.medtechdive.com/news/ama-releases-governance-framework-for-agentic-ai-in-healthcare/833208/",
-   "source": "MedTech Dive",
-   "published": "2026-10-16T13:00:00+00:00",
-   "tickers": [],
-   "tag": "Health AI",
-   "sectors": []
-  },
-  {
-   "id": "f0e26ef6c31a",
-   "headline": "CVS Caremark Is Transforming the Health Care Experience",
-   "summary": "WOONSOCKET, RI / ACCESS Newswire / October 16, 2026 / Originally published on Company NewsroomHealth care consumers increasingly expect the same convenience and connectivity they experience in other aspects of their daily lives. As\u2026",
-   "url": "https://finnhub.io/api/news?id=9e23645c2f17d57e5634b85a8193fd4493fac9e3f1eb0686b2543b77c270813d",
-   "source": "Yahoo",
-   "published": "2026-10-16T13:00:00+00:00",
-   "tickers": [
-    "CVS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "4bb3e985a0f6",
-   "headline": "2 of Wall Street\u2019s Favorite Stocks to Target This Week and 1 We Ignore",
-   "summary": "Wall Street has set ambitious price targets for the stocks in this article. While this suggests attractive upside potential, it\u2019s important to remain skeptical because analysts face institutional pressures that can sometimes lead to\u2026",
-   "url": "https://finnhub.io/api/news?id=73efe9fba1f9ffcf0bdbf49d01d97c82be2f8edfa0e0cacc93fc5d5c897be1c9",
-   "source": "Yahoo",
-   "published": "2026-10-16T12:59:39+00:00",
-   "tickers": [
-    "PODD"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "fd9b6eff2491",
-   "headline": "Ascendis Pharma's TransCon CNP Gets Positive EU Recommendation for Children With Achondroplasia",
-   "summary": "Ascendis Pharma (ASND) said Friday that the European Medicines Agency's Committee for Medicinal Prod",
-   "url": "https://finnhub.io/api/news?id=f5c68ecbd8c2e706225358372b23c9fd4475307e06f144245e6d4cf2d3f05c5e",
-   "source": "Yahoo",
-   "published": "2026-10-16T12:58:04+00:00",
-   "tickers": [
-    "ASND"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "5f43a6c8cfc6",
-   "headline": "Trade association sues Trump administration over ACA broker, agent freeze",
-   "summary": "The National Association of Benefits and Insurance Professionals alleges that the HHS violated the law by not giving the public a chance to comment on the controversial policy.",
-   "url": "https://www.healthcaredive.com/news/hhs-cms-aca-broker-freeze-lawsuit-nabip/833209/",
-   "source": "Healthcare Dive",
-   "published": "2026-10-16T12:56:22+00:00",
-   "tickers": [],
-   "tag": "Legal",
-   "sectors": []
-  },
-  {
-   "id": "159bf68c7293",
-   "headline": "Stock Market Today: Wall Street Swaps Chips for Old Reliables as Producer Prices Spike",
-   "summary": "The Dow rose 1.2% as money moved from chips into old-economy names. Producer prices posted their biggest jump since 2022, and Jensen Huang came to CoreWeave's defense.",
-   "url": "https://finnhub.io/api/news?id=ee8449899659de30d7c02cc76597c0fe59b287c7864490302adecf3c9fbd624a",
-   "source": "ChartMill",
-   "published": "2026-10-16T12:54:06+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "cdcb05122eac",
-   "headline": "Alnylam Pharmaceuticals (NASDAQ:ALNY): Affordable Growth With RNAi Commercial Momentum",
-   "summary": "Alnylam shows strong growth, industry-cheap valuation, and solid health, fitting an affordable growth strategy despite rich absolute valuation.",
-   "url": "https://finnhub.io/api/news?id=d4d27011b9e13a4bf9c765c4227cd79dea9535c684744b84757dc8e42b94e217",
-   "source": "ChartMill",
-   "published": "2026-10-16T12:51:11+00:00",
-   "tickers": [
-    "ALNY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "81b3da8e55b6",
-   "headline": "Research conducted at University of Michigan published in Anesthesia & Analgesia Practice demonstrates GE HealthCare End-tidal Control software may help to reduce fresh gas flow",
-   "summary": "CHICAGO, October 16, 2026--GE HealthCare (Nasdaq: GEHC) today announced the publication of research conducted at the University of Michiganiv evaluating the use of End-tidal Control software across a large multisite academic health system\u2026",
-   "url": "https://finnhub.io/api/news?id=0d95f0839942965865295a73680d26bc8bc1d4e95b36ba2dc1eef951df19f35a",
-   "source": "Yahoo",
-   "published": "2026-10-16T12:47:00+00:00",
-   "tickers": [
-    "GEHC"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
