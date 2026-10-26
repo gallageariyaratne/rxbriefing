@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-26T08:31:55.441592+00:00",
+ "updated": "2026-10-26T08:46:46.247694+00:00",
  "quotes": {
   "A": {
    "price": 173.07,
@@ -30,6 +30,10 @@
    "price": 198.91,
    "change_pct": -0.75
   },
+  "BIIB": {
+   "price": 250.69,
+   "change_pct": -1.24
+  },
   "BMY": {
    "price": 61.48,
    "change_pct": -2.41
@@ -57,6 +61,10 @@
   "HCA": {
    "price": 469.03,
    "change_pct": 0.37
+  },
+  "HUM": {
+   "price": 422.07,
+   "change_pct": 0.26
   },
   "INCY": {
    "price": 115.71,
@@ -840,6 +848,21 @@
    ]
   },
   {
+   "id": "0152920ab5c3",
+   "headline": "Can Corcept Therapeutics Stock Rally 40% After This Dip?",
+   "summary": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://finnhub.io/api/news?id=f113f7c826dfccdc8930bdf4db309c7b85cb6fbb111034d7b4c7ec7809e2cc0a",
+   "source": "Yahoo",
+   "published": "2026-10-26T07:11:47+00:00",
+   "tickers": [
+    "BIIB"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "78212afc8c39",
    "headline": "Billionaire Ken Griffin Is Buying This Dividend King That Wall Street Still Rates a Buy",
    "summary": "Despite its high price relative to earnings, AbbVie remains an attractive stock.",
@@ -894,12 +917,29 @@
    "source": "SeekingAlpha",
    "published": "2026-10-26T04:05:00+00:00",
    "tickers": [
+    "BIIB",
+    "HUM",
     "JNJ",
     "VRTX"
    ],
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "eed87706f783",
+   "headline": "Baron Health Care Fund Q3 2026 Top Contributors And Detractors",
+   "summary": "The Baron Health Care Fund Q3 2026 report highlights key contributors and detractors from portfolio performance. Read the full analysis for more details.",
+   "url": "https://finnhub.io/api/news?id=b47b336dd8d1ce06489ae93ed5405ae3a6e9ac45298883ec08bc4bf13f6a7b2f",
+   "source": "SeekingAlpha",
+   "published": "2026-10-26T04:00:00+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -35656,66 +35696,6 @@
    "tag": "News",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "1da4a5901e8f",
-   "headline": "3 Inflated Stocks Walking a Fine Line",
-   "summary": "Each stock in this article is trading near its 52-week high. These elevated prices usually indicate some degree of investor confidence, business improvements, or favorable market conditions.",
-   "url": "https://finnhub.io/api/news?id=91c03800fd69a1ef7a8a63a2d2f767a6a3574c738dbfeb317100076099b272c1",
-   "source": "Yahoo",
-   "published": "2026-10-16T08:43:39+00:00",
-   "tickers": [
-    "GILD"
-   ],
-   "tag": "Legal",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "a8d2b336840b",
-   "headline": "Neurocrine Biosciences To Report Impact Of Classical Congenital Adrenal Hyperplasia At Endocrine Nurses Society Annual Symposium 2026",
-   "summary": "Neurocrine Biosciences, Inc. (Nasdaq: NBIX) today announced new real-world data demonstrating how the clinical and day-to-day impact of classic congenital adrenal hyperplasia can vary among individuals and evolve",
-   "url": "https://finnhub.io/api/news?id=adcfa2e757801229e26c18421be76ebc4d7742858a98d0a40a7102fc75ede744",
-   "source": "Benzinga",
-   "published": "2026-10-16T08:36:55+00:00",
-   "tickers": [
-    "NBIX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "e020379e7db4",
-   "headline": "Guggenheim Maintains Buy on Tenet Healthcare, Raises Price Target to $307",
-   "summary": "Guggenheim analyst Jason Cassorla maintains Tenet Healthcare (NYSE:THC) with a Buy and raises the price target from $283 to $307.",
-   "url": "https://finnhub.io/api/news?id=c230ff5f6687f25af048a79511eaeabd92dbeaa6166fae3c36306b9ac34fd5ce",
-   "source": "Benzinga",
-   "published": "2026-10-16T08:31:29+00:00",
-   "tickers": [
-    "THC"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "32b5a76a8978",
-   "headline": "Ascendis Pharma Receives Positive Opinion From Committee For Medicinal Products For Human Use Of European Medicines Agency For Marketing Authorization Of TransCon CNP In EU To Treat Achondroplasia",
-   "summary": "Ascendis Pharma A/S (NASDAQ:ASND) today announced that the Committee for Medicinal Products for Human Use (CHMP) of the European Medicines Agency (EMA) has adopted a positive opinion recommending marketing authorization",
-   "url": "https://finnhub.io/api/news?id=ec6571b76097d65d496e69b01a68a55debe4a8d3c224587b50b6ef75796e0ffd",
-   "source": "Benzinga",
-   "published": "2026-10-16T08:31:26+00:00",
-   "tickers": [
-    "ASND"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "biotech"
    ]
   }
  ]
