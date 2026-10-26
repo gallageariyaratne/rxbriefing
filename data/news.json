@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-26T08:46:46.247694+00:00",
+ "updated": "2026-10-26T09:02:02.093020+00:00",
  "quotes": {
   "A": {
    "price": 173.07,
@@ -42,6 +42,10 @@
    "price": 88.11,
    "change_pct": -1.73
   },
+  "CNC": {
+   "price": 70.17,
+   "change_pct": -1.5
+  },
   "CRSP": {
    "price": 49.39,
    "change_pct": -1.2
@@ -81,6 +85,10 @@
   "LLY": {
    "price": 1273.46,
    "change_pct": -2.54
+  },
+  "MDGL": {
+   "price": 434.24,
+   "change_pct": -4.21
   },
   "MEDP": {
    "price": 669.2,
@@ -138,6 +146,10 @@
    "price": 268.45,
    "change_pct": -0.81
   },
+  "TMO": {
+   "price": 673.82,
+   "change_pct": -0.4
+  },
   "UHS": {
    "price": 186.89,
    "change_pct": -0.66
@@ -153,6 +165,10 @@
   "VRTX": {
    "price": 523.93,
    "change_pct": -2.1
+  },
+  "ZBH": {
+   "price": 98.56,
+   "change_pct": -0.25
   }
  },
  "tickers": {
@@ -770,6 +786,17 @@
  },
  "stories": [
   {
+   "id": "6dd512502c21",
+   "headline": "The 4 stages of women\u2019s heart health: Experts present new framework",
+   "summary": "New guidance is intended to help girls and women \u2014 and their doctors \u2014 recognize four distinct phases in heart health.",
+   "url": "https://www.statnews.com/2026/10/26/heart-health-women-four-life-stages-qa-sadiya-khan/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-26T09:00:00+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
    "id": "a48066f4a5cb",
    "headline": "STAT+: Moderna CEO on what\u2019s next after success in cancer vaccine",
    "summary": "Moderna's CEO St\u00e9phane Bancel on what's next after the recent success in cancer vaccine, and how that impacts the company's business strategy.",
@@ -863,6 +890,36 @@
    ]
   },
   {
+   "id": "5c60ea8e6f72",
+   "headline": "Centene (CNC) to report earnings tomorrow: here is what to expect",
+   "summary": "Health coverage company Centene (NYSE:CNC) will be reporting results this Tuesday before market open. Here\u2019s what to look for.",
+   "url": "https://finnhub.io/api/news?id=a585b03cc7e6733668e4caa7fd9b5f76888c36981512884654e178187d559684",
+   "source": "Yahoo",
+   "published": "2026-10-26T06:54:47+00:00",
+   "tickers": [
+    "CNC"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "d6a6f11741b4",
+   "headline": "Zimmer Biomet India Launches ROSA\u00ae Knee with OptimiZe\u2122 in India to Advance Personalized Robotic-Assisted Knee Replacement",
+   "summary": "Zimmer Biomet Holdings, Inc. (NYSE: ZBH) and (SIX: ZBH), a global medical technology leader, today announced the launch of ROSA\u00ae Knee with OptimiZe\u2122 in India, an enhanced version of its ROSA\u00ae Knee System designed to support personalized\u2026",
+   "url": "https://finnhub.io/api/news?id=a16d2284cd2fa339e6bb9f5ecf7148ae18f04456ebd0e9b65dbb927bd218139e",
+   "source": "Yahoo",
+   "published": "2026-10-26T06:52:00+00:00",
+   "tickers": [
+    "ZBH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "78212afc8c39",
    "headline": "Billionaire Ken Griffin Is Buying This Dividend King That Wall Street Still Rates a Buy",
    "summary": "Despite its high price relative to earnings, AbbVie remains an attractive stock.",
@@ -920,6 +977,7 @@
     "BIIB",
     "HUM",
     "JNJ",
+    "MDGL",
     "VRTX"
    ],
    "tag": "Earnings",
@@ -935,6 +993,8 @@
    "source": "SeekingAlpha",
    "published": "2026-10-26T04:00:00+00:00",
    "tickers": [
+    "LLY",
+    "TMO",
     "UNH"
    ],
    "tag": "Earnings",
@@ -1034,6 +1094,21 @@
     "BNTX"
    ],
    "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "4ad287e4cf17",
+   "headline": "Eli Lilly Stock Fell 2.5% Ahead of Q3. Here\u2019s Why Revenue Could Dip Even as Patients Grow",
+   "summary": "Key Stats for Eli Lilly StockCurrent Price: $1,273. 46Target Price (Mid): ~$2,220Street Target: ~$1,330Potential Total Return: ~74%Annualized IRR: ~14% / year__Now Live: Discover how much upside your favorite stocks could have using\u2026",
+   "url": "https://finnhub.io/api/news?id=154e4297e52d3aba16e85e378e4ff41549fdb6080e510ddcd419398f841eebfb",
+   "source": "Yahoo",
+   "published": "2026-10-26T00:15:25+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "Earnings",
    "sectors": [
     "pharma"
    ]
@@ -35634,68 +35709,6 @@
    "tag": "Clinical",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "9817f22e054a",
-   "headline": "Committee For Medicinal Products For Human Use Recommends Approval Of Indication Extension Of Johnson & Johnson's TALVEY To Treat Adults With Relapsed Or Refractory Multiple Myeloma",
-   "summary": "https://www.jnj.com/media-center/press-releases/chmp-recommends-approval-of-johnson-johnsons-talvey-talquetamab-plus-daratumumab-in-earlier-line-treatment-of-relapsed-refractory-multiple-myeloma",
-   "url": "https://finnhub.io/api/news?id=ac87e540373fd353d34b65938382948ae27936b8bda1c6216dae9aed4a6cd821",
-   "source": "Benzinga",
-   "published": "2026-10-16T08:57:57+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "4947107132e0",
-   "headline": "Global Proteomic Biomarker Analytics Market: Five-Year Forecast by Application, Technology, Product, and End User | Double-Digit Growth Boosts Cancer Diagnostics and Drug Discovery",
-   "summary": "New 307-page intelligence report maps surging demand for targeted omics technologies, profiling strategic moves by Danaher, Roche, and Thermo Fisher Scientific across global clinical landscapes.Dublin, Oct. 16, 2026 (GLOBE NEWSWIRE) --\u2026",
-   "url": "https://finnhub.io/api/news?id=7569679de9a8cf51e48280b941155d4319a4a8f5ded4e5a539eb8961127abf0c",
-   "source": "Yahoo",
-   "published": "2026-10-16T08:54:00+00:00",
-   "tickers": [
-    "DHR",
-    "ILMN",
-    "TMO"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "11d4f08c9bc9",
-   "headline": "Studsvik signs landmark agreement to manage Norway's legacy spent nuclear fuel",
-   "summary": "Studsvik has signed a frame agreement with Norwegian Nuclear Decommissioning (NND), the Norwegian state agency responsible for decommissioning the country's nuclear facilities, to manage spent nuclear fuel from the former research\u2026",
-   "url": "https://finnhub.io/api/news?id=24c217a9e87f788b376c4eb374305792003a3e637aaf03b1df4feb46782b10f7",
-   "source": "Yahoo",
-   "published": "2026-10-16T08:51:00+00:00",
-   "tickers": [
-    "NVS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "af07246afb6c",
-   "headline": "Top 3 Health Care Stocks That May Fall Off A Cliff In October",
-   "summary": "Option Care Health, Pacira Biosciences and HealthStream show overbought RSI levels above 83, warning momentum-focused investors.",
-   "url": "https://finnhub.io/api/news?id=ecae2aa2103bb1c05fa294c4c00b1d013bff32a7c901e49712b6913b68e6958e",
-   "source": "Benzinga",
-   "published": "2026-10-16T08:49:09+00:00",
-   "tickers": [
-    "OPCH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
    ]
   }
  ]
