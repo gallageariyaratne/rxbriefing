@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-26T08:01:58.825037+00:00",
+ "updated": "2026-10-26T08:16:38.088946+00:00",
  "quotes": {
   "A": {
    "price": 173.07,
@@ -46,17 +46,9 @@
    "price": 241.89,
    "change_pct": -0.57
   },
-  "DVA": {
-   "price": 183.64,
-   "change_pct": -1.32
-  },
   "GILD": {
    "price": 156.04,
    "change_pct": -0.73
-  },
-  "GMED": {
-   "price": 81.41,
-   "change_pct": -0.31
   },
   "GSK": {
    "price": 50.75,
@@ -772,6 +764,21 @@
     "BMY"
    ],
    "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "78212afc8c39",
+   "headline": "Billionaire Ken Griffin Is Buying This Dividend King That Wall Street Still Rates a Buy",
+   "summary": "Despite its high price relative to earnings, AbbVie remains an attractive stock.",
+   "url": "https://finnhub.io/api/news?id=06bb9c8bed116a57403c2677b1abda5453507b259b096c461b00ccb9833ce6d8",
+   "source": "Yahoo",
+   "published": "2026-10-26T06:50:00+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "Earnings",
    "sectors": [
     "pharma"
    ]
@@ -35669,62 +35676,6 @@
    "sectors": [
     "pharma"
    ]
-  },
-  {
-   "id": "986971ebeb05",
-   "headline": "Is Hera (BIT:HER) Reasonably Priced After A 54% Three Year Gain?",
-   "summary": "Hera has delivered a solid 53.6% share price gain over the past three years, which naturally puts fresh attention on whether that move is backed up by its earnings power today. With the stock last closing at \u20ac3.52, the question now is how\u2026",
-   "url": "https://finnhub.io/api/news?id=1f33771634167042951477266a1ea4f12227ff36f15d6204ffcac44e4546d7ec",
-   "source": "Yahoo",
-   "published": "2026-10-16T08:13:38+00:00",
-   "tickers": [
-    "NVS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "81cbf70e1000",
-   "headline": "This Urban Outfitters Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Friday",
-   "summary": "Analysts initiated coverage: ELAN Buy/$32, IRTC Overweight/$160, BAND Equal-Weight/$56, HRTG Market Perform, and URBN Buy/$100.",
-   "url": "https://finnhub.io/api/news?id=e6aaa8cce0c327cb0694f35d7952855fb7b8c69c23d6fca6c23ec2f90aaf65cd",
-   "source": "Benzinga",
-   "published": "2026-10-16T08:10:08+00:00",
-   "tickers": [
-    "IRTC"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "b3e889203dbc",
-   "headline": "IQVIA: A $34.2 Billion Backlog Does Not Guarantee Faster Earnings Growth",
-   "summary": "IQVIA Holdings (IQV) reported robust Q2 2026 results, with 8.7% revenue growth and a 19% increase in Research & Development Solutions bookings.",
-   "url": "https://finnhub.io/api/news?id=c519c7554eb32755c5657c83921c21b82c985fea2d77fb3678ba1744c7f4e4e0",
-   "source": "SeekingAlpha",
-   "published": "2026-10-16T08:06:06+00:00",
-   "tickers": [
-    "IQV"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "a106341761bc",
-   "headline": "EndoQuest Robotics hires chief commercial officer",
-   "summary": "Jared Eben joins EndoQuest ahead of the anticipated launch of its flexible robotic surgery system.",
-   "url": "https://www.medtechdive.com/news/endoquest-robotics-hires-chief-commercial-officer/833200/",
-   "source": "MedTech Dive",
-   "published": "2026-10-16T08:03:04+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
   }
  ]
 }
