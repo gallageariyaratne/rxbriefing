@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-26T06:16:35.327866+00:00",
+ "updated": "2026-10-26T06:31:43.145721+00:00",
  "quotes": {
   "ABBV": {
    "price": 285.64,
@@ -117,6 +117,10 @@
   "TAK": {
    "price": 20.24,
    "change_pct": -0.59
+  },
+  "THC": {
+   "price": 268.45,
+   "change_pct": -0.81
   },
   "UNH": {
    "price": 418.09,
@@ -749,7 +753,8 @@
    "source": "Yahoo",
    "published": "2026-10-26T05:31:41+00:00",
    "tickers": [
-    "HCA"
+    "HCA",
+    "THC"
    ],
    "tag": "Earnings",
    "sectors": [
