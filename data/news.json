@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-26T06:31:43.145721+00:00",
+ "updated": "2026-10-26T06:46:58.765057+00:00",
  "quotes": {
   "ABBV": {
    "price": 285.64,
@@ -121,6 +121,10 @@
   "THC": {
    "price": 268.45,
    "change_pct": -0.81
+  },
+  "UHS": {
+   "price": 186.89,
+   "change_pct": -0.66
   },
   "UNH": {
    "price": 418.09,
@@ -754,7 +758,8 @@
    "published": "2026-10-26T05:31:41+00:00",
    "tickers": [
     "HCA",
-    "THC"
+    "THC",
+    "UHS"
    ],
    "tag": "Earnings",
    "sectors": [
