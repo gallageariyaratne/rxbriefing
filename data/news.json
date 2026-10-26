@@ -1,18 +1,18 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-26T20:02:47.814828+00:00",
+ "updated": "2026-10-26T20:17:36.464808+00:00",
  "quotes": {
   "A": {
-   "price": 175.93,
-   "change_pct": 1.65
+   "price": 175.96,
+   "change_pct": 1.67
   },
   "ABBV": {
-   "price": 286.78,
-   "change_pct": 0.4
+   "price": 286.74,
+   "change_pct": 0.39
   },
   "ABT": {
-   "price": 104.89,
-   "change_pct": 1.15
+   "price": 104.88,
+   "change_pct": 1.14
   },
   "ALGN": {
    "price": 152.26,
@@ -91,12 +91,16 @@
    "change_pct": -0.82
   },
   "DGX": {
-   "price": 242.93,
-   "change_pct": 0.43
+   "price": 242.95,
+   "change_pct": 0.44
   },
   "DHR": {
-   "price": 232.96,
+   "price": 232.97,
    "change_pct": 1.07
+  },
+  "DXCM": {
+   "price": 78.57,
+   "change_pct": 0.81
   },
   "ELV": {
    "price": 431.32,
@@ -131,8 +135,8 @@
    "change_pct": -0.8
   },
   "HUM": {
-   "price": 417.1,
-   "change_pct": -1.18
+   "price": 417.22,
+   "change_pct": -1.15
   },
   "IART": {
    "price": 12.1,
@@ -151,8 +155,8 @@
    "change_pct": -2.07
   },
   "IQV": {
-   "price": 273.29,
-   "change_pct": -2.17
+   "price": 273.6,
+   "change_pct": -2.06
   },
   "ISRG": {
    "price": 451.63,
@@ -191,7 +195,7 @@
    "change_pct": -2.08
   },
   "MRK": {
-   "price": 140.6,
+   "price": 140.61,
    "change_pct": -3.21
   },
   "MRNA": {
@@ -251,8 +255,8 @@
    "change_pct": 0.46
   },
   "SYK": {
-   "price": 306.36,
-   "change_pct": -0.26
+   "price": 306.13,
+   "change_pct": -0.33
   },
   "TAK": {
    "price": 20.43,
@@ -922,6 +926,17 @@
  },
  "stories": [
   {
+   "id": "e7a359dbbcb9",
+   "headline": "Medical societies release female-specific framework for cardiovascular disease prevention, care",
+   "summary": "Four major medical societies developed the framework, calling on providers to approach cardiovascular risk through a female-specific lens.",
+   "url": "https://www.fiercehealthcare.com/providers/new-female-specific-framework-cardiovascular-disease-prevention-and-care",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-26T20:15:21.990695+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
    "id": "8932813e3cb2",
    "headline": "DOJ charges 15 in healthcare fraud schemes totaling $2B",
    "summary": "The alleged fraud includes more than $1.6 billion in a scheme targeting individuals in California for \u201csham substance abuse treatment,\u201d officials say.",
@@ -966,6 +981,21 @@
    "sectors": []
   },
   {
+   "id": "c2f61f9fca4d",
+   "headline": "The Cigna Group CEO Brian Evanko Talks Its 'Lead to One' Vision + Complex Care",
+   "summary": "The Cigna Group CEO Brian Evanko joins Kristen Scholer on NYSE Floor Talk to discuss the company's 'Lead to One' vision",
+   "url": "https://finnhub.io/api/news?id=83cdd1c821d2035e47a3cd182243a95fd6f1659b5239dd717062941e12c815d6",
+   "source": "Yahoo",
+   "published": "2026-10-26T18:09:48+00:00",
+   "tickers": [
+    "CI"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "f7e0b416a482",
    "headline": "How Much Should This Move Change Your View Of Centene Stock?",
    "summary": "For questions about this article or underlying research, email help@trefis.com.",
@@ -980,6 +1010,21 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "75b7ec49047b",
+   "headline": "Oruka Therapeutics Soars 12% as Psoriasis Drug Clears Skin in 61% of High-Dose Patients: \u201cA Paradigm Shift\u201d",
+   "summary": "Key TakeawaysOruka Therapeutics shares rose 12% after ORKA-001, its drug for psoriasis, completely cleared the skin of 61% of patients on the high dose at Week 16 of its Phase 2b EVERLAST-B trial. The results closely match the earlier\u2026",
+   "url": "https://finnhub.io/api/news?id=8588c74ea3decc25236a091fe1a10acae78ce63e5651e942f898bc0332e18065",
+   "source": "Yahoo",
+   "published": "2026-10-26T17:45:34+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1084,6 +1129,22 @@
    "tickers": [],
    "tag": "Policy",
    "sectors": []
+  },
+  {
+   "id": "0489aaa05f54",
+   "headline": "DexCom Gears Up to Report Q3 Results: How to Play the Stock?",
+   "summary": "DXCM Q3 earnings are likely to benefit from CGM adoption, G7 15 Day uptake and wider reimbursement amid tougher international comparisons.",
+   "url": "https://finnhub.io/api/news?id=7d660da91e5e36c50c0862709fd06d2cc285ddbc13c635d959bafa56d1e4869b",
+   "source": "Yahoo",
+   "published": "2026-10-26T16:59:00+00:00",
+   "tickers": [
+    "BDX",
+    "DXCM"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
   },
   {
    "id": "a096b8c35e74",
@@ -1991,6 +2052,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "d226b9ad4737",
+   "headline": "Becton, Dickinson and Company's Q4 2026 Earnings: What to Expect",
+   "summary": "Becton, Dickinson and Company will release its fourth-quarter earnings next week, and analysts anticipate a single-digit bottom-line growth.",
+   "url": "https://finnhub.io/api/news?id=a74ffebdd34e717dd0a1baffb58ba857069c80f77c644922eefdd96523e240bc",
+   "source": "Yahoo",
+   "published": "2026-10-26T13:14:28+00:00",
+   "tickers": [
+    "BDX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -35796,17 +35872,6 @@
    "sectors": [
     "pharma"
    ]
-  },
-  {
-   "id": "62439868a980",
-   "headline": "Why Are 53% of Phase 2 and 3 Trials Delayed? A Redesign Is Overdue",
-   "summary": "A different model can improve quality, speed, and cost at once.",
-   "url": "https://www.fiercepharma.com/sponsored/why-are-53-phase-2-and-3-trials-delayed-redesign-overdue",
-   "source": "Fierce Pharma",
-   "published": "2026-10-16T20:15:19.738949+00:00",
-   "tickers": [],
-   "tag": "Clinical",
-   "sectors": []
   }
  ]
 }
