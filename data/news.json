@@ -1,7 +1,11 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-26T07:01:29.074860+00:00",
+ "updated": "2026-10-26T07:16:40.651268+00:00",
  "quotes": {
+  "ABBV": {
+   "price": 285.64,
+   "change_pct": 0.16
+  },
   "ALGN": {
    "price": 154.51,
    "change_pct": -0.64
@@ -13,6 +17,10 @@
   "AZN": {
    "price": 171.49,
    "change_pct": -0.63
+  },
+  "BDX": {
+   "price": 198.91,
+   "change_pct": -0.75
   },
   "BMY": {
    "price": 61.48,
@@ -65,10 +73,6 @@
   "LLY": {
    "price": 1273.46,
    "change_pct": -2.54
-  },
-  "MDT": {
-   "price": 95.41,
-   "change_pct": -1.22
   },
   "MEDP": {
    "price": 669.2,
@@ -764,6 +768,22 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "802d8e8cfefb",
+   "headline": "Best Dividend Kings: October 2026",
+   "summary": "Dividend Kings have outperformed SPY YTD, rising 13.5% versus SPY's 12.32%, with a strong October rebound. Check out the October best dividend kings here.",
+   "url": "https://finnhub.io/api/news?id=7941716229a8bbda4cc9791132af8c7c215310c0cbed87d7bde84e65b1623296",
+   "source": "SeekingAlpha",
+   "published": "2026-10-26T02:55:19+00:00",
+   "tickers": [
+    "ABBV",
+    "BDX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -35706,81 +35726,6 @@
    "tag": "News",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "c14a1a4f9c88",
-   "headline": "Eli Lilly Receives EMA CHMP Positive Opinion Recommending Marketing Authorization For Foundayo For Treatment Of Type 2 Diabetes Mellitus And For Weight Management",
-   "summary": "https://www.ema.europa.eu/en/medicines/human/EPAR/foundayo",
-   "url": "https://finnhub.io/api/news?id=dbd6cadfde870de7d571035cea2b3e15b1218996408c2e2a67c32785728ee331",
-   "source": "Benzinga",
-   "published": "2026-10-16T07:15:14+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "7704816ad986",
-   "headline": "Learn Why The Bull Case For UnitedHealth Group Stock Could Change Following Earnings Beat",
-   "summary": "UnitedHealth Group reported third quarter 2026 revenue of US$112.7b with net income of US$4.1b and raised full year 2026 earnings guidance to at least US$19.50 in diluted EPS and more than US$17.65b in net earnings attributable to common\u2026",
-   "url": "https://finnhub.io/api/news?id=649a342195c66694c87aa66271b5365611f80a99441c9356296a9aae709e5b69",
-   "source": "Yahoo",
-   "published": "2026-10-16T07:14:13+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "b297f4db2235",
-   "headline": "SkinHealth Systems Inc. (SKIN) Soars 9.0%: Is Further Upside Left in the Stock?",
-   "summary": "SkinHealth Systems Inc. (SKIN) witnessed a jump in share price last session on above-average trading volume. The latest trend in earnings estimate revisions for the stock doesn't suggest further strength down the road.",
-   "url": "https://finnhub.io/api/news?id=eccc67d823969c432eb1fbf9a889190ec3342ca649875cd058bd5a30cdf57dd0",
-   "source": "Yahoo",
-   "published": "2026-10-16T07:11:00+00:00",
-   "tickers": [
-    "DHR"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "208dc4338397",
-   "headline": "Needham Reiterates Buy on Neurocrine Biosciences, Maintains $204 Price Target",
-   "summary": "Needham analyst Ami Fadia reiterates Neurocrine Biosciences (NASDAQ:NBIX) with a Buy and maintains $204 price target.",
-   "url": "https://finnhub.io/api/news?id=d9dccd7f6979963198c3119474c85379490b0d09ad450804b6610f3354c81bab",
-   "source": "Benzinga",
-   "published": "2026-10-16T07:08:08+00:00",
-   "tickers": [
-    "NBIX"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "eeed0d961052",
-   "headline": "Regeneron Pharma Says EMA\u2019s CHMP Adopts Positive Opinion Recommending Approval Of Alternative Dosing Schedule For Libtayo Across All Approved Indications",
-   "summary": "Positive opinion supports reducing Libtayo dosing frequency from every three weeks to every six weeks after first 12 weeks of treatmentOptional reduction of infusion time for 350 mg dose to 15 to 30 minutes, after a",
-   "url": "https://finnhub.io/api/news?id=f7ddf2b5e42e8137575d2fa4860426690df8734eb35bbc74528d746313bf876c",
-   "source": "Benzinga",
-   "published": "2026-10-16T07:03:29+00:00",
-   "tickers": [
-    "REGN"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
