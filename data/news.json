@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-26T09:02:02.093020+00:00",
+ "updated": "2026-10-26T09:16:47.184338+00:00",
  "quotes": {
   "A": {
    "price": 173.07,
@@ -46,9 +46,9 @@
    "price": 70.17,
    "change_pct": -1.5
   },
-  "CRSP": {
-   "price": 49.39,
-   "change_pct": -1.2
+  "CYTK": {
+   "price": 61.23,
+   "change_pct": -1.76
   },
   "DGX": {
    "price": 241.89,
@@ -126,9 +126,9 @@
    "price": 149.01,
    "change_pct": 0.6
   },
-  "REGN": {
-   "price": 805.02,
-   "change_pct": -1.72
+  "RGEN": {
+   "price": 176.93,
+   "change_pct": -1.0
   },
   "RVMD": {
    "price": 186.99,
@@ -797,6 +797,50 @@
    "sectors": []
   },
   {
+   "id": "6a698957e468",
+   "headline": "The molecule was fine. The moment wasn\u2019t.",
+   "summary": "Some overlooked medicines aren\u2019t failures. They just arrived before the market was ready.",
+   "url": "https://www.biopharmadive.com/spons/the-molecule-was-fine-the-moment-wasnt/833616/",
+   "source": "BioPharma Dive",
+   "published": "2026-10-26T09:00:00+00:00",
+   "tickers": [],
+   "tag": "Legal",
+   "sectors": []
+  },
+  {
+   "id": "5e94ddb23431",
+   "headline": "Novel protein and peptide therapeutics",
+   "summary": "Explore manufacturing challenges and solutions for ADCs, bispecifics, peptides and more.",
+   "url": "https://www.biopharmadive.com/spons/novel-protein-and-peptide-therapeutics/833429/",
+   "source": "BioPharma Dive",
+   "published": "2026-10-26T09:00:00+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "28f27e9e1bd6",
+   "headline": "Reshoring prompts crucial decisions for medical device manufacturers",
+   "summary": "For medical device manufacturers, reshoring has been discussed for years. Now, many are putting it into action and hitting familiar capacity challenges along the way.",
+   "url": "https://www.medtechdive.com/spons/reshoring-prompts-crucial-decisions-for-medical-device-manufacturers/833068/",
+   "source": "MedTech Dive",
+   "published": "2026-10-26T09:00:00+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "aeebed14925d",
+   "headline": "Beyond the screen: How AI can give physicians their attention back",
+   "summary": "Patients notice when a doctor already knows their story. Smarter charts make that moment possible.",
+   "url": "https://www.healthcaredive.com/spons/beyond-the-screen-how-ai-can-give-physicians-their-attention-back/833312/",
+   "source": "Healthcare Dive",
+   "published": "2026-10-26T09:00:00+00:00",
+   "tickers": [],
+   "tag": "Health AI",
+   "sectors": []
+  },
+  {
    "id": "a48066f4a5cb",
    "headline": "STAT+: Moderna CEO on what\u2019s next after success in cancer vaccine",
    "summary": "Moderna's CEO St\u00e9phane Bancel on what's next after the recent success in cancer vaccine, and how that impacts the company's business strategy.",
@@ -974,6 +1018,7 @@
    "source": "SeekingAlpha",
    "published": "2026-10-26T04:05:00+00:00",
    "tickers": [
+    "AZN",
     "BIIB",
     "HUM",
     "JNJ",
@@ -993,7 +1038,10 @@
    "source": "SeekingAlpha",
    "published": "2026-10-26T04:00:00+00:00",
    "tickers": [
+    "AZN",
+    "CYTK",
     "LLY",
+    "RGEN",
     "TMO",
     "UNH"
    ],
@@ -35679,36 +35727,6 @@
    "tag": "Analyst",
    "sectors": [
     "healthai"
-   ]
-  },
-  {
-   "id": "4ba900e03c3d",
-   "headline": "GE HealthCare secures CE mark for MINItrace Magni cyclotron",
-   "summary": "MINItrace Magni is an automated, self-shielded cyclotron developed for in-house radioisotope manufacturing.",
-   "url": "https://finnhub.io/api/news?id=017d650e46a8d92f9ac1c1dea9c022467284fedaf6f8b80e8ed2ae2cbfe33e70",
-   "source": "Yahoo",
-   "published": "2026-10-16T09:14:51+00:00",
-   "tickers": [
-    "GEHC"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "636cff842346",
-   "headline": "Arrowhead Pharmaceuticals (ARWR) Reports Fresh ARO MAPT Data, Is The Stock Still Cheap?",
-   "summary": "Arrowhead Pharmaceuticals (ARWR) drew fresh attention after announcing interim Phase 1/2a data for ARO-MAPT, which showed deep and durable cerebrospinal fluid tau reductions in healthy volunteers using subcutaneous RNA interference\u2026",
-   "url": "https://finnhub.io/api/news?id=38eb28ad1743614d890f8cd9480c9946d37341980d2d99346e47539037d5b212",
-   "source": "Yahoo",
-   "published": "2026-10-16T09:09:47+00:00",
-   "tickers": [
-    "ARWR"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "biotech"
    ]
   }
  ]
