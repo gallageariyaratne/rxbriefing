@@ -1,7 +1,19 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-26T12:32:00.910059+00:00",
+ "updated": "2026-10-26T12:46:48.475130+00:00",
  "quotes": {
+  "A": {
+   "price": 173.07,
+   "change_pct": -0.47
+  },
+  "ABBV": {
+   "price": 285.64,
+   "change_pct": 0.16
+  },
+  "ABT": {
+   "price": 103.7,
+   "change_pct": 1.16
+  },
   "ALGN": {
    "price": 154.51,
    "change_pct": -0.64
@@ -45,6 +57,10 @@
   "DGX": {
    "price": 241.89,
    "change_pct": -0.57
+  },
+  "ENSG": {
+   "price": 175.59,
+   "change_pct": -1.55
   },
   "GSK": {
    "price": 50.75,
@@ -97,6 +113,10 @@
   "NVS": {
    "price": 151.12,
    "change_pct": -3.3
+  },
+  "PFE": {
+   "price": 30.03,
+   "change_pct": -1.28
   },
   "PODD": {
    "price": 149.01,
@@ -803,6 +823,21 @@
    "sectors": []
   },
   {
+   "id": "ecd04f91e75b",
+   "headline": "The Ensign Group (ENSG) to report earnings tomorrow: here is what to expect",
+   "summary": "Healthcare services company The Ensign Group (NASDAQ:ENSG) will be reporting earnings this Tuesday after market hours. Here\u2019s what to expect.",
+   "url": "https://finnhub.io/api/news?id=8b83fcddc0c1465694e7aac1763bca0abdd946d0e1e6c57f1c4151aa5034fb8b",
+   "source": "Yahoo",
+   "published": "2026-10-26T11:02:47+00:00",
+   "tickers": [
+    "ENSG"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "a0dc6d27eb6c",
    "headline": "BMS sheds light on patient death in CAR-T trial, wants to get program back on track",
    "summary": "Bristol Myers Squibb has shared more details with Fierce about the death of a patient who received the pharma's investigational CAR-T in a multiple sclerosis trial.",
@@ -833,6 +868,21 @@
    ]
   },
   {
+   "id": "9a72faaafc8d",
+   "headline": "Universal Health Services earnings: what to look for from UHS",
+   "summary": "Hospital management company Universal Health Services (NYSE:UHS) will be announcing earnings results this Tuesday after market close. Here\u2019s what to expect.",
+   "url": "https://finnhub.io/api/news?id=c7d83cb1ad8da94350403e47a7d1f819bf4083d19a6bb37ee01160fa6a45ac54",
+   "source": "Yahoo",
+   "published": "2026-10-26T10:54:47+00:00",
+   "tickers": [
+    "UHS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "c11d609599a5",
    "headline": "Pathos AI completes $237m Series E round to expand oncology pipeline",
    "summary": "Pathos AI will use the proceeds to scale its Foundry platform and advance four active clinical cancer programmes.",
@@ -855,7 +905,10 @@
    "source": "Yahoo",
    "published": "2026-10-26T10:13:49+00:00",
    "tickers": [
-    "BMY"
+    "AMGN",
+    "BMY",
+    "INCY",
+    "PFE"
    ],
    "tag": "News",
    "sectors": [
@@ -1053,6 +1106,21 @@
    "tag": "Clinical",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "692573bd877e",
+   "headline": "Abbott Laboratories: A New Growth Story Takes Shape",
+   "summary": "Abbott Laboratories remains a Buy, driven by robust device and diagnostics growth and the strategic spin-off of its Nutrition business. Learn more about ABT stock here.",
+   "url": "https://finnhub.io/api/news?id=4d76dd29c86b46fe8c079557b6aeafd0aeae3103d54cc90d4fa9e9c4d3c0c90b",
+   "source": "SeekingAlpha",
+   "published": "2026-10-26T07:50:13+00:00",
+   "tickers": [
+    "ABT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -34790,138 +34858,6 @@
    "tag": "News",
    "sectors": [
     "medtech"
-   ]
-  },
-  {
-   "id": "238cb9530333",
-   "headline": "Chutes & Ladders\u2014Bausch + Lomb's returning CEO Saunders exits again",
-   "summary": "Bausch + Lomb CEO Brent Saunders is making a second exit from the eye health company, as the president of parent Bausch Health steps in temporarily. Plus, Paragon Labs is buying out Apogee talent after its acquisition by AbbVie.",
-   "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-bausch-lombs-return-ceo-saunders-exits-again",
-   "source": "Fierce Biotech",
-   "published": "2026-10-16T12:45:19.426590+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "9c67c812e794",
-   "headline": "4 Breast Cancer Stocks to Watch During Breast Cancer Awareness Month",
-   "summary": "AZN, RHHBY, PBYI and OLMA offer exposure to breast cancer drug sales growth, expanded treatment approvals and clinical milestones that could shape prospects.",
-   "url": "https://finnhub.io/api/news?id=ad928b3e3c882003c729a7158ee6b1ac08c41ea755cfbe8e44d118c6205a42fb",
-   "source": "Yahoo",
-   "published": "2026-10-16T12:45:00+00:00",
-   "tickers": [
-    "AZN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "ef4b7b378a14",
-   "headline": "MiniMed Announces Board of Directors for its Next Chapter as an Independent Company",
-   "summary": "MiniMed (Nasdaq: MMED), a global leader in diabetes technology, today announced the composition of its Board of Directors following the completion of the company's separation from Medtronic. This new Board composition reflects MiniMed's\u2026",
-   "url": "https://finnhub.io/api/news?id=16cdeab18c587e9ee8851c8fc894f619ad0fc019efb540fae0a37630911a3200",
-   "source": "Yahoo",
-   "published": "2026-10-16T12:41:00+00:00",
-   "tickers": [
-    "MDT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "7dece8d6237e",
-   "headline": "Danaher Gears Up to Post Q3 Earnings: What Lies Ahead for the Stock?",
-   "summary": "DHR's Q3 results are due Oct. 21, with growth in Biotechnology, Diagnostics and Life Sciences expected to boost revenues, while rising costs and currency headwinds weigh on earnings.",
-   "url": "https://finnhub.io/api/news?id=7776d6790df06a2650ebeb5839cc0ddba5c9f7ab2814c459c142c948280b3410",
-   "source": "Yahoo",
-   "published": "2026-10-16T12:41:00+00:00",
-   "tickers": [
-    "CVS",
-    "DHR"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "626cb12afd64",
-   "headline": "Are Finance Stocks Lagging ASX Limited - Unsponsored ADR (ASXFY) This Year?",
-   "summary": "Here is how ASX Limited - Unsponsored ADR (ASXFY) and Oscar Health, Inc. (OSCR) have performed compared to their sector so far this year.",
-   "url": "https://finnhub.io/api/news?id=9bc1c54266b5002adcc999ed6053ddbd81cc3aa181c1a61024e823b591f600b8",
-   "source": "Yahoo",
-   "published": "2026-10-16T12:40:04+00:00",
-   "tickers": [
-    "OSCR"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "0366a00ce101",
-   "headline": "Integra LifeSciences to Highlight ENT and Instruments Portfolios and Sponsor New Clinical Research Presentations at AAO-HNSF 2026 Annual Meeting",
-   "summary": "ACCLARENT AERA\u00ae Eustachian Tube Treatment Simulation of a minimally invasive ear procedure using the ACCLARENT AERA\u00ae Eustachian Tube Treatment. PRINCETON, N.J., Oct. 16, 2026 (GLOBE NEWSWIRE) -- Integra LifeSciences Holdings Corporation\u2026",
-   "url": "https://finnhub.io/api/news?id=5761d582371c736621c5db7d8c2292c092d05693fd1fc7641aee04d71a19c2ab",
-   "source": "Yahoo",
-   "published": "2026-10-16T12:39:00+00:00",
-   "tickers": [
-    "IART"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "d0281f540b1a",
-   "headline": "Which S&P500 stocks are moving before the opening bell on Friday?",
-   "summary": "Wondering what's happening in today's pre-market session? Stay tuned for the latest updates on S&P500 stock movements.",
-   "url": "https://finnhub.io/api/news?id=1be597016230dcc6ba391c3113a096c01eebf1818b2bfa757921088a17d36176",
-   "source": "ChartMill",
-   "published": "2026-10-16T12:35:00+00:00",
-   "tickers": [
-    "ELV"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "072e2e81b254",
-   "headline": "What to read before you go see that new documentary on Elizabeth Holmes",
-   "summary": "Ahead of \"You Can See Everything\" hitting theaters, let's rewind the last decade and review some of the most significant news tied to Elizabeth Holmes, who was convicted in 2022\u2026",
-   "url": "https://www.statnews.com/2026/10/16/health-news-what-to-read-before-elizabeth-holmes-you-can-see-everything/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-10-16T12:34:03+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "b9a2bb0da829",
-   "headline": "Nasdaq 100 Slides As Micron, SanDisk, CoreWeave Sink: Stock Market Today",
-   "summary": "The Nasdaq 100 fell 1.5% at midday Friday as memory chips and AI-debt names sold off, while Fed Chair Warsh declined to rule out an October hike after hot CPI and PPI. WTI held near $96, the 10-year yield hovered around 5.1%, gold bounced\u2026",
-   "url": "https://finnhub.io/api/news?id=c5926a8a854f428679082b9816725c53cdafe5c734def83695422491bdeefea2",
-   "source": "Benzinga",
-   "published": "2026-10-16T12:33:06+00:00",
-   "tickers": [
-    "MRNA"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
