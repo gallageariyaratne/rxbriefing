@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-26T22:47:40.004305+00:00",
+ "updated": "2026-10-26T23:02:53.836316+00:00",
  "quotes": {
   "A": {
    "price": 175.96,
@@ -137,6 +137,10 @@
   "HCA": {
    "price": 465.26,
    "change_pct": -0.8
+  },
+  "HIMS": {
+   "price": 27.59,
+   "change_pct": -0.43
   },
   "HUM": {
    "price": 417.22,
@@ -1000,7 +1004,9 @@
    "tickers": [
     "ABBV",
     "BMY",
+    "GILD",
     "JNJ",
+    "MRK",
     "PFE"
    ],
    "tag": "News",
@@ -1148,6 +1154,21 @@
    ]
   },
   {
+   "id": "828fd625d41b",
+   "headline": "1 unprofitable stock for long-term investors and 2 we avoid",
+   "summary": "Unprofitable companies face headwinds as they struggle to keep operating expenses under control. Some may be investing heavily, but the majority fail to convert spending into sustainable growth.",
+   "url": "https://finnhub.io/api/news?id=c27e044337a6ba4fc81239692c2a9688c15e4d0180a109b99546683a3c482456",
+   "source": "Yahoo",
+   "published": "2026-10-26T20:38:47+00:00",
+   "tickers": [
+    "HIMS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "f73307ae23e6",
    "headline": "UnitedHealthcare expands AI companion Avery to 21M members",
    "summary": "Earlier this year, UnitedHealthcare unveiled Avery, a generative AI companion aimed at supporting care coordination for its members.",
@@ -1157,6 +1178,21 @@
    "tickers": [],
    "tag": "Health AI",
    "sectors": []
+  },
+  {
+   "id": "f9a6715d4ea7",
+   "headline": "Earnings live updates: Whirlpool stock drops on softer quarter as inflation weighs on sales",
+   "summary": "Third quarter earnings season is in full swing this week. Follow along for live updates.",
+   "url": "https://finnhub.io/api/news?id=fd806ad649263591473af903fa05722a938f016e9fd4a728b9f5f337317e0dac",
+   "source": "Yahoo",
+   "published": "2026-10-26T20:27:58+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "7ee06e19ba91",
@@ -1213,6 +1249,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "5f967ad4f0bf",
+   "headline": "ALLIANCEBERNSTEIN GLOBAL HIGH INCOME FUND, INC. RELEASES MONTHLY PORTFOLIO UPDATE",
+   "summary": "AllianceBernstein Global High Income Fund, Inc.[NYSE: AWF] (the \"Fund\") today released its monthly portfolio update as of September 30, 2026.",
+   "url": "https://finnhub.io/api/news?id=50984f8bbbd14ce7da8e815d0e70054ee929f768b233766ff389374768a7dec9",
+   "source": "Yahoo",
+   "published": "2026-10-26T20:06:00+00:00",
+   "tickers": [
+    "DVA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -1310,7 +1361,8 @@
    "source": "Yahoo",
    "published": "2026-10-26T19:17:17+00:00",
    "tickers": [
-    "MRK"
+    "MRK",
+    "MRNA"
    ],
    "tag": "News",
    "sectors": [
@@ -1367,6 +1419,21 @@
    "published": "2026-10-26T19:09:56+00:00",
    "tickers": [
     "PFE"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "4d79a0659454",
+   "headline": "AI Headlines Pile Up as Wall Street Navigates a Volatile Week",
+   "summary": "Anthropic releases its S-1, SpaceX borrows $60 billion and Meta initiates an equity offering all ahead of a Fed meeting and the busiest week of earnings season.",
+   "url": "https://finnhub.io/api/news?id=8e9b774baaf02458e0a81f885880370cc6ef56a7dca4de438f2c6c3a161667c0",
+   "source": "Yahoo",
+   "published": "2026-10-26T19:02:00+00:00",
+   "tickers": [
+    "LLY"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -1483,6 +1550,21 @@
     "PFE"
    ],
    "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "9e4006f2e1da",
+   "headline": "Merck & Co., Inc. (MRK) Shareholder/Analyst Call Transcript",
+   "summary": "Merck & Co., Inc. (MRK) Shareholder/Analyst Call October 26, 2026 2:30 PM EDTCompany ParticipantsPeter Dannenbaum - Vice President of Investor...",
+   "url": "https://finnhub.io/api/news?id=2a23d9f496859a2ba5462317a256c62d913dffefaa74df739b688058c3f6278a",
+   "source": "SeekingAlpha",
+   "published": "2026-10-26T18:09:54+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "Analyst",
    "sectors": [
     "pharma"
    ]
