@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-26T20:47:35.663432+00:00",
+ "updated": "2026-10-26T21:02:52.956499+00:00",
  "quotes": {
   "A": {
    "price": 175.96,
@@ -101,6 +101,10 @@
   "DHR": {
    "price": 232.97,
    "change_pct": 1.07
+  },
+  "DVA": {
+   "price": 184.03,
+   "change_pct": 0.21
   },
   "DXCM": {
    "price": 78.57,
@@ -934,6 +938,28 @@
  },
  "stories": [
   {
+   "id": "f9da3f6b3d04",
+   "headline": "South Carolina's rural hospitals receiving free cyber support under pilot program",
+   "summary": "A six-month partnership between the state, the White House and tech vendors will bolster rural hospitals' defenses while evaluating technologies for nationwide deployment.",
+   "url": "https://www.fiercehealthcare.com/providers/south-carolinas-rural-hospitals-receiving-free-cyber-support-under-pilot-program",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-26T21:00:29.425546+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "039b369954dc",
+   "headline": "Boehringer, Microsoft team up to explore digital patient twins for clinical trials",
+   "summary": "Boehringer Ingelheim and Microsoft have launched a collaboration to explore the use of AI-powered digital patient twins to improve clinical trial design.",
+   "url": "https://www.fiercebiotech.com/cro/microsoft-bi-team-launch-digital-patient-twins-trial-design-improvements",
+   "source": "Fierce Biotech",
+   "published": "2026-10-26T21:00:29.089750+00:00",
+   "tickers": [],
+   "tag": "Clinical",
+   "sectors": []
+  },
+  {
    "id": "dc439e86bc3d",
    "headline": "Pfizer\u2019s Talzenna combo moves up treatment line with new FDA nod in prostate cancer",
    "summary": "Pfizer\u2019s Talzenna is now the first PARP inhibitor approved by the FDA to treat men with metastatic hormone-sensitive prostate cancer.",
@@ -995,6 +1021,52 @@
    "tickers": [],
    "tag": "Legal",
    "sectors": []
+  },
+  {
+   "id": "23b343839557",
+   "headline": "Moderna Sinks Another 8% Even as Lead Investigator Calls Melanoma Vaccine Data \u201cTransformational\u201d",
+   "summary": "Key TakeawaysModerna shares fell another 8% this morning. On Saturday it and its partner Merck presented full Phase 3 data showing their personalized melanoma vaccine cut the risk of recurrence or death by 42%.",
+   "url": "https://finnhub.io/api/news?id=13e38c2b404ba1ca3667681b7b628042dc8870c55963b9f3a1fa8fac88b361dd",
+   "source": "Yahoo",
+   "published": "2026-10-26T19:28:17+00:00",
+   "tickers": [
+    "MRK",
+    "MRNA"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "acb551fb6c2d",
+   "headline": "Stock Market Today: Dow Up As Anthropic IPO Boosts These AI Stocks; Pharma Play Offers Entry (Live Coverage)",
+   "summary": "Stock Market Today: The Dow Jones index rises Monday as oil prices decline. Brazil stocks fall sharply. Anthropic files for an IPO.",
+   "url": "https://finnhub.io/api/news?id=7706735390cb827037c0452e07e324d256af1a67b457d855d49e80d59104bb7f",
+   "source": "Yahoo",
+   "published": "2026-10-26T19:22:06+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "Financing",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "34d1f10ca3e3",
+   "headline": "1 of Wall Street\u2019s favorite stocks worth investigating and 2 we find risky",
+   "summary": "Wall Street is overwhelmingly bullish on the stocks in this article, with price targets suggesting significant upside potential. However, it\u2019s worth remembering that analysts rarely issue sell ratings, partly because their firms often\u2026",
+   "url": "https://finnhub.io/api/news?id=6b1816408e8a1cf749c9e03565e4f413184270d7d346af9536b5b358851bb4ee",
+   "source": "Yahoo",
+   "published": "2026-10-26T19:18:47+00:00",
+   "tickers": [
+    "DVA"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "payers"
+   ]
   },
   {
    "id": "3f952eccb070",
@@ -1098,7 +1170,23 @@
    "published": "2026-10-26T18:30:47+00:00",
    "tickers": [
     "BRKR",
-    "TECH"
+    "TECH",
+    "WAT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "e1d3739f3032",
+   "headline": "3 healthcare stocks we keep off our radar",
+   "summary": "Personal health and wellness is one of the many secular tailwinds for healthcare companies. Players catalyzing medical advancements have benefited from elevated demand, and their momentum is only rising as the industry has posted a 31.5%\u2026",
+   "url": "https://finnhub.io/api/news?id=20d41075c5bd1a0905a106c05d6085761946d1fd33e76bf46d07e5c337121360",
+   "source": "Yahoo",
+   "published": "2026-10-26T18:22:47+00:00",
+   "tickers": [
+    "TMO"
    ],
    "tag": "News",
    "sectors": [
@@ -1118,6 +1206,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "404adef642a1",
+   "headline": "The picks for non-AI investments: Healthcare, space, and aging populations",
+   "summary": "Laffer Tengler Investments CEO and CIO Nancy Tengler and her panel of experts weigh in on where they'd put their money, instead of AI, with space, healthcare, and aging-population plays.Today's panel includes KraneShares chief investment\u2026",
+   "url": "https://finnhub.io/api/news?id=7881fcc172851e52f5d6b0c199b9d648efe6843401581b9f31254aa2be0b9533",
+   "source": "Yahoo",
+   "published": "2026-10-26T18:15:57+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1160,6 +1263,7 @@
    "tickers": [
     "CNC",
     "CVS",
+    "ELV",
     "HUM",
     "MOH",
     "UNH"
@@ -1208,6 +1312,7 @@
    "source": "Yahoo",
    "published": "2026-10-26T17:33:00+00:00",
    "tickers": [
+    "GILD",
     "VRTX"
    ],
    "tag": "Earnings",
@@ -1312,7 +1417,8 @@
    "published": "2026-10-26T16:59:00+00:00",
    "tickers": [
     "BDX",
-    "DXCM"
+    "DXCM",
+    "IDXX"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -35904,54 +36010,6 @@
    "published": "2026-10-16T21:03:00+00:00",
    "tickers": [
     "NVS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "af1ada4ac168",
-   "headline": "DaVita HealthCare (DVA) Stock Moves -1.01%: What You Should Know",
-   "summary": "DaVita HealthCare (DVA) closed at $187.25 in the latest trading session, marking a -1.01% move from the prior day.",
-   "url": "https://finnhub.io/api/news?id=419934ef23a9819747e49c40638bec04a0613a81cda0fff0fe14413e9e6e30cd",
-   "source": "Yahoo",
-   "published": "2026-10-16T21:00:06+00:00",
-   "tickers": [
-    "DVA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "e9daeda42f94",
-   "headline": "CRISPR Therapeutics AG (CRSP) Falls More Steeply Than Broader Market: What Investors Need to Know",
-   "summary": "CRISPR Therapeutics AG (CRSP) concluded the recent trading session at $49.21, signifying a -4.48% move from its prior day's close.",
-   "url": "https://finnhub.io/api/news?id=f66af2c78665601df87273b3391a518200e78165817f698e9013ed8b7ba98aaf",
-   "source": "Yahoo",
-   "published": "2026-10-16T20:50:05+00:00",
-   "tickers": [
-    "CRSP"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "f101913afdb1",
-   "headline": "Moderna Stock Slumps, but It\u2019s Too Early to Panic",
-   "summary": "Moderna and Revolution Medicines have upcoming catalysts that could help sustain their gains, even as biotech stocks retreat.",
-   "url": "https://finnhub.io/api/news?id=a6ec6823402e68ad6ddd5bb35f18a9ec64b21a46ee6a9622a167015e67770089",
-   "source": "Yahoo",
-   "published": "2026-10-16T20:49:00+00:00",
-   "tickers": [
-    "AMGN",
-    "LLY",
-    "MRK",
-    "MRNA"
    ],
    "tag": "News",
    "sectors": [
