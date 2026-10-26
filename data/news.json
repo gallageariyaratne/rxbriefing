@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-26T00:46:39.913088+00:00",
+ "updated": "2026-10-26T01:02:18.640135+00:00",
  "quotes": {
   "ABBV": {
    "price": 285.64,
@@ -29,6 +29,10 @@
   "BNTX": {
    "price": 88.11,
    "change_pct": -1.73
+  },
+  "CRSP": {
+   "price": 49.39,
+   "change_pct": -1.2
   },
   "DGX": {
    "price": 241.89,
@@ -734,6 +738,21 @@
  },
  "stories": [
   {
+   "id": "b730f6eb9925",
+   "headline": "Dow Jones Futures Rise With Microsoft, Google, Amazon Ahead; Will Doom Or Bloom Control Market?",
+   "summary": "The S&P 500 and Nasdaq are below key levels, but many non-AI stocks are flashing buy signals. Microsoft, Google, Amazon loom.",
+   "url": "https://finnhub.io/api/news?id=9d1d41dbeb3fe62750d06a4f9d2027a33a054487b91296b54af350a503afbb8c",
+   "source": "Yahoo",
+   "published": "2026-10-25T23:28:36+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "38fd8398b48e",
    "headline": "Weekly Rundown: Quest Diagnostics reports cybersecurity breach; Novant Health launches virtual men\u2019s health clinic",
    "summary": "The latest news from Novant Health, Function, Withings, Quest Diagnostics and more.",
@@ -746,6 +765,21 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "a5cd299f89a2",
+   "headline": "Eli Lilly (LLY) Reports Strong Phase 1 Ovarian Cancer Data",
+   "summary": "Eli Lilly (NYSE: LLY) reported new Phase 1 data for Sofe-M plus bevacizumab in platinum-sensitive ovarian cancer patients. The regimen showed a high confirmed response rate and disease control rate in both PARP inhibitor-experienced and\u2026",
+   "url": "https://finnhub.io/api/news?id=ebcde4cebfa030069608d59fed5af7b334172bdb53597ffcbc779d3ab8dd8d9c",
+   "source": "Yahoo",
+   "published": "2026-10-25T22:06:31+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1236,6 +1270,21 @@
    ]
   },
   {
+   "id": "2959222fbbfe",
+   "headline": "Learn Why The Bull Case For CRISPR Therapeutics Stock Could Change Following CFO Change",
+   "summary": "CRISPR Therapeutics appointed Andrew J. Silver as Chief Financial Officer and principal financial officer on October 19, 2026, following his tenure as Senior Vice President of Finance and a prior decade in assurance services at Ernst &\u2026",
+   "url": "https://finnhub.io/api/news?id=7d6e6e6a638f01c8b441f8303bcd5c5fb7a13e50b4f36c0e1733c40bfe2b21b0",
+   "source": "Yahoo",
+   "published": "2026-10-25T09:10:39+00:00",
+   "tickers": [
+    "CRSP"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "a38d9682d2c4",
    "headline": "Haleon Heads These 3 British AI Healthcare Stocks To Watch",
    "summary": "Rising concern over a possible AI stock correction, highlighted by Evercore\u2019s focus on credit stress and higher bond yields, is pushing UK investors to be more selective. Rather than chasing every AI story, attention is shifting to\u2026",
@@ -1290,6 +1339,21 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "c16b159fccd6",
+   "headline": "CRISPR Therapeutics (CRSP) Promotes Andrew Silver To CFO As Raju Prasad Resigns",
+   "summary": "CRISPR Therapeutics (NasdaqGM:CRSP) has promoted Andrew J. Silver to Chief Financial Officer, effective October 19, 2026. Outgoing CFO Raju Prasad, Ph.D., has resigned from his role, also effective October 19, 2026. Silver steps into the\u2026",
+   "url": "https://finnhub.io/api/news?id=97cd9135b95b04506f1f74474d26dd76f7fdd298691619d7a3d18f6436f40742",
+   "source": "Yahoo",
+   "published": "2026-10-25T08:12:08+00:00",
+   "tickers": [
+    "CRSP"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
