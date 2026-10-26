@@ -1,11 +1,7 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-26T06:46:58.765057+00:00",
+ "updated": "2026-10-26T07:01:29.074860+00:00",
  "quotes": {
-  "ABBV": {
-   "price": 285.64,
-   "change_pct": 0.16
-  },
   "ALGN": {
    "price": 154.51,
    "change_pct": -0.64
@@ -89,6 +85,10 @@
   "NBIX": {
    "price": 142.7,
    "change_pct": -0.41
+  },
+  "NTRA": {
+   "price": 403.95,
+   "change_pct": 0.64
   },
   "NVO": {
    "price": 39.05,
@@ -781,6 +781,21 @@
    "tag": "FDA",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "dac2dbfb4fd1",
+   "headline": "Stanley Druckenmiller Has Bet Big on This 1 Healthcare Stock. Here's Why I Disagree.",
+   "summary": "The business is promising, but the valuation today has gone to the stratosphere.",
+   "url": "https://finnhub.io/api/news?id=69927146d486efe9912f98c7acaf9b2386be3778b11752c8c846ef67a5d74e3b",
+   "source": "Yahoo",
+   "published": "2026-10-26T02:05:00+00:00",
+   "tickers": [
+    "NTRA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -35766,21 +35781,6 @@
    "tag": "FDA",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "aa1fe06b959c",
-   "headline": "Ionis Pharmaceuticals Receives EMA CHMP Positive Opinion Recommending Indication Extension For TRYNGOLZA For Treatment Of Adult Patients With Severe Hypertriglyceridemia",
-   "summary": "Ionis Pharmaceuticals, Inc. (NASDAQ:IONS) today announced that the Committee for Medicinal Products for Human Use (CHMP) of the European Medicines Agency (EMA) has adopted a positive opinion recommending the indication",
-   "url": "https://finnhub.io/api/news?id=76182f422b289e58d50b3b924c5ac5962a6c62b711673343b2c825759dd0c75c",
-   "source": "Benzinga",
-   "published": "2026-10-16T06:48:17+00:00",
-   "tickers": [
-    "IONS"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "biotech"
    ]
   }
  ]
