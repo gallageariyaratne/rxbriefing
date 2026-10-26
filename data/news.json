@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-26T07:31:56.346482+00:00",
+ "updated": "2026-10-26T07:47:03.717284+00:00",
  "quotes": {
   "A": {
    "price": 173.07,
@@ -9,6 +9,10 @@
   "ABBV": {
    "price": 285.64,
    "change_pct": 0.16
+  },
+  "ABT": {
+   "price": 103.7,
+   "change_pct": 1.16
   },
   "ALGN": {
    "price": 154.51,
@@ -758,6 +762,21 @@
  },
  "stories": [
   {
+   "id": "f11941f58e90",
+   "headline": "ESMO: Bristol Myers CMO touts \u20185 out of 5\u2019 positive phase 3 trials for bispecific ADC iza-bren",
+   "summary": "Buoyed by a clean sweep of five positive phase 3 readouts in China, Bristol Myers\u2019 Chief Medical Officer Cristian Massacesi, M.D., is voicing growing confidence in the company's first-in-class bispecific ADC iza-bren, even as the New\u2026",
+   "url": "https://www.fiercepharma.com/pharma/bristol-myers-cmo-touts-5-out-5-positive-phase-3-trials-bispecific-adc-iza-bren",
+   "source": "Fierce Pharma",
+   "published": "2026-10-26T07:45:34.997171+00:00",
+   "tickers": [
+    "BMY"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "76851294d14b",
    "headline": "HCA Healthcare Reports Soon: How Has The Stock Reacted To Past Earnings?",
    "summary": "HCA Healthcare (NYSE:HCA) is scheduled to report its earnings on Tuesday, October 27, 2026. The company has a market value of about $103.4 billion. Over the last twelve months it generated $78.0 billion in revenue and $12.1 billion in\u2026",
@@ -798,6 +817,7 @@
    "published": "2026-10-26T02:55:19+00:00",
    "tickers": [
     "ABBV",
+    "ABT",
     "BDX",
     "JNJ"
    ],
@@ -35716,21 +35736,6 @@
    "tickers": [],
    "tag": "Financing",
    "sectors": []
-  },
-  {
-   "id": "107683f7c6a3",
-   "headline": "Thermo Fisher: Strong Growth, Even Higher Stock Price",
-   "summary": "Thermo Fisher Scientific remains overvalued despite strong Q2/26 results and a 30% stock rally since the last review. I rate the TMO stock a Hold. Read my analysis now.",
-   "url": "https://finnhub.io/api/news?id=31734275923b228cd01cb8f5d4fa2f4d1ea40727bd8b84cfcb8f74f9854d835e",
-   "source": "SeekingAlpha",
-   "published": "2026-10-16T07:45:49+00:00",
-   "tickers": [
-    "TMO"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
   }
  ]
 }
