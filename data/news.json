@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-26T20:17:36.464808+00:00",
+ "updated": "2026-10-26T20:32:39.137156+00:00",
  "quotes": {
   "A": {
    "price": 175.96,
@@ -261,6 +261,10 @@
   "TAK": {
    "price": 20.43,
    "change_pct": 0.94
+  },
+  "TECH": {
+   "price": 72.69,
+   "change_pct": 0.19
   },
   "TEM": {
    "price": 67.16,
@@ -926,6 +930,17 @@
  },
  "stories": [
   {
+   "id": "f73307ae23e6",
+   "headline": "UnitedHealthcare expands AI companion Avery to 21M members",
+   "summary": "Earlier this year, UnitedHealthcare unveiled Avery, a generative AI companion aimed at supporting care coordination for its members.",
+   "url": "https://www.fiercehealthcare.com/payers/unitedhealthcare-expands-ai-companion-avery-21m-members",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-26T20:30:27.411408+00:00",
+   "tickers": [],
+   "tag": "Health AI",
+   "sectors": []
+  },
+  {
    "id": "e7a359dbbcb9",
    "headline": "Medical societies release female-specific framework for cardiovascular disease prevention, care",
    "summary": "Four major medical societies developed the framework, calling on providers to approach cardiovascular risk through a female-specific lens.",
@@ -935,6 +950,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "100b8d277606",
+   "headline": "3 Cheap Dividend Stocks I'd Buy Without Any Hesitation",
+   "summary": "Don't overthink it. These are blue chip stocks that have simply gone on sale and would be solid additions to almost any income portfolio.",
+   "url": "https://finnhub.io/api/news?id=3a8884a7f1bd1ac95ddcd40718b120ee782a180b200d5fac6892cc697680ec46",
+   "source": "Yahoo",
+   "published": "2026-10-26T19:35:00+00:00",
+   "tickers": [
+    "BMY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "8932813e3cb2",
@@ -959,6 +989,21 @@
    "sectors": []
   },
   {
+   "id": "0c1c528cf55c",
+   "headline": "What Do Johnson & Johnson (JNJ) Cancer Trial Wins Mean For Its Stock?",
+   "summary": "Johnson & Johnson (NYSE: JNJ) reported new oncology data, including a 75% tumor response rate for JNJ-6143 in advanced prostate cancer. The RYBREVANT FASPRO regimen produced a 77% response rate as an initial treatment option in advanced\u2026",
+   "url": "https://finnhub.io/api/news?id=03b50bb6c8bd6a1b07ef04cd73daec48fbc83a368e1f645db5dc6021db89ea8d",
+   "source": "Yahoo",
+   "published": "2026-10-26T19:12:05+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "8156bb54f038",
    "headline": "Anthropic lays out drug R&D ambitions, risks in mammoth IPO filing",
    "summary": "Artificial intelligence giant Anthropic is pushing deeper into drug discovery, building its own molecular biology lab and investing in research that could eventually produce drug candidates, according to the company's blockbuster IPO\u2026",
@@ -979,6 +1024,36 @@
    "tickers": [],
    "tag": "Financing",
    "sectors": []
+  },
+  {
+   "id": "c09ee745075f",
+   "headline": "Should You Buy CVS Health Stock While It's Under $100?",
+   "summary": "CVS Health stock is down 16% from its 52-week high, and it trades at a relatively modest valuation.",
+   "url": "https://finnhub.io/api/news?id=8422ea2bdb269e783728e4be08672bce6c40883ba981f5994db34d4e3b110bde",
+   "source": "Yahoo",
+   "published": "2026-10-26T18:44:01+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "99c7860c37de",
+   "headline": "1 healthcare stock for long-term investors and 2 we ignore",
+   "summary": "From novel pharmaceuticals to telemedicine, most healthcare companies are on a mission to drive better patient outcomes. Those leading the charge have not only realized strong financial performance but also propelled the broader\u2026",
+   "url": "https://finnhub.io/api/news?id=dedac7e55ea3388ab12b0603e5f7af2043af8bf6cf9681e120f8b78c8a4ec212",
+   "source": "Yahoo",
+   "published": "2026-10-26T18:30:47+00:00",
+   "tickers": [
+    "TECH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
   },
   {
    "id": "c2f61f9fca4d",
@@ -1004,6 +1079,7 @@
    "published": "2026-10-26T17:59:41+00:00",
    "tickers": [
     "CNC",
+    "CVS",
     "HUM",
     "MOH"
    ],
@@ -1020,7 +1096,8 @@
    "source": "Yahoo",
    "published": "2026-10-26T17:45:34+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "JNJ"
    ],
    "tag": "News",
    "sectors": [
@@ -1038,6 +1115,21 @@
     "PFE"
    ],
    "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "ebc050e19f3d",
+   "headline": "BHC Q3 Earnings Preview: Here's What You Should Know",
+   "summary": "Bausch Health reports Q3 2026 results on Oct. 28, with $2.75 billion in expected sales. Explore key segment drivers and mixed earnings surprise history.",
+   "url": "https://finnhub.io/api/news?id=4e46a0e6db0ca66685a362dfc0a8fde4e37b264e110896e42a90a4e16de6c6a2",
+   "source": "Yahoo",
+   "published": "2026-10-26T17:33:00+00:00",
+   "tickers": [
+    "VRTX"
+   ],
+   "tag": "Earnings",
    "sectors": [
     "pharma"
    ]
@@ -35830,47 +35922,6 @@
    "tag": "News",
    "sectors": [
     "tools"
-   ]
-  },
-  {
-   "id": "f8be68b6b892",
-   "headline": "Three-quarters of Americans disillusioned with costs, say healthcare is defining voting issue",
-   "summary": "Three-quarters of Americans feel frustrated, overwhelmed or helpless about healthcare costs, and say the issue is a voting priority. Those wanting substantial reform are more often looking to government that industry for a fix.",
-   "url": "https://www.fiercehealthcare.com/regulatory/usofcare-survey-three-quarters-americans-say-healthcare-defining-voting-issue",
-   "source": "Fierce Healthcare",
-   "published": "2026-10-16T20:30:23.980048+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "7472ffb01ff6",
-   "headline": "ASND Shares Shrug Off Positive European Opinion For FDA-Approved Achondroplasia Drug",
-   "summary": "Ascendis said the Committee for Medicinal Products for Human Use adopted a positive opinion on Ascendis\u2019s application seeking approval for the drug in achondroplasia.",
-   "url": "https://finnhub.io/api/news?id=c65eb88b2ae713a3f96c49568739d543a6874acae28a00064cdbdc11837b0f41",
-   "source": "Yahoo",
-   "published": "2026-10-16T20:30:12+00:00",
-   "tickers": [
-    "ASND"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "d858a1fe9411",
-   "headline": "Tough Trading Leaves Indices In The Red",
-   "summary": "Nasdaq loses 4% on the week. WTI crude settles over $101 per barrel. Inflation worries climb but FedWatch tool stays steady",
-   "url": "https://finnhub.io/api/news?id=5922d94a3abed12c8a3406d8ca67edcda453c5c0dbf98dc4e8c91e66fad73146",
-   "source": "SeekingAlpha",
-   "published": "2026-10-16T20:20:00+00:00",
-   "tickers": [
-    "MRNA"
-   ],
-   "tag": "Legal",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
