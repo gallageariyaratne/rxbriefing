@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-27T02:02:52.624402+00:00",
+ "updated": "2026-10-27T02:17:48.689454+00:00",
  "quotes": {
   "A": {
    "price": 175.96,
@@ -121,6 +121,10 @@
   "EVH": {
    "price": 4.53,
    "change_pct": -5.62
+  },
+  "GH": {
+   "price": 173.25,
+   "change_pct": 2.47
   },
   "GILD": {
    "price": 158.69,
@@ -317,10 +321,6 @@
   "VKTX": {
    "price": 24.21,
    "change_pct": -0.78
-  },
-  "VRTX": {
-   "price": 517.49,
-   "change_pct": -1.23
   }
  },
  "tickers": {
@@ -938,6 +938,21 @@
  },
  "stories": [
   {
+   "id": "19dc75c68872",
+   "headline": "AstraZeneca Highlights Breakthrough Cancer Data at ESMO 2026 Investor Update",
+   "summary": "Astrazeneca (NYSE:AZN) highlighted new clinical data across bladder, lung and gastric cancers at its ESMO 2026 investor event, including four presidential presentations that executives said support the company\u2019s oncology growth strategy.\u2026",
+   "url": "https://finnhub.io/api/news?id=36e86fec8dac107cc67c14b783ea3bf2d63cc3478467c976d25d63ab1db92492",
+   "source": "Yahoo",
+   "published": "2026-10-27T01:02:19+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "4c5e8ce3fcbd",
    "headline": "Moderna (MRNA) Gets Phase 3 Melanoma Vaccine Validation At ESMO And NEJM",
    "summary": "Moderna (NasdaqGS:MRNA) and Merck reported detailed Phase 3 data for their individualized mRNA melanoma vaccine plus KEYTRUDA, intismeran, at ESMO 2026. The Phase 3 trial showed a significant reduction in disease recurrence and distant\u2026",
@@ -994,6 +1009,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "461afaa803de",
+   "headline": "3 Reasons GH is risky and 1 stock to buy instead",
+   "summary": "What a fantastic six months it\u2019s been for Guardant Health. Shares of the company have skyrocketed 93.5%, hitting $171.24. This was partly due to its solid quarterly results, and the performance may have investors wondering how to approach\u2026",
+   "url": "https://finnhub.io/api/news?id=7cef9442d1ecef64e5078830c973c719eb337f83dd97ff25f29cc33dd7fa92a4",
+   "source": "Yahoo",
+   "published": "2026-10-26T22:30:47+00:00",
+   "tickers": [
+    "GH"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "tools"
+   ]
   },
   {
    "id": "1ecd9458cd07",
@@ -1198,6 +1228,21 @@
    "sectors": []
   },
   {
+   "id": "a6ee4790e18b",
+   "headline": "Onco360\u00ae Has Been Selected as a National Pharmacy Partner for ZEGFROVY\u00ae (sunvozertinib)",
+   "summary": "LOUISVILLE, Ky., Oct. 26, 2026 (GLOBE NEWSWIRE) -- Onco360\u00ae, the nation\u2019s leading independent Specialty Pharmacy, has been selected as a national pharmacy partner by AstraZeneca Pharmaceuticals for Zegfrovy\u00ae (sunvozertinib), which is\u2026",
+   "url": "https://finnhub.io/api/news?id=b61a6d1c7b94920476a333a199120d105f9c0074da05d58ecf40eb5b7370a043",
+   "source": "Yahoo",
+   "published": "2026-10-26T21:00:00+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "c00631991256",
    "headline": "Stock Market Today, Oct. 26: Surgery Partners Skyrockets 48% on $5.7 Billion HealthSpan Acquisition",
    "summary": "HealthSpan Partners agreed to buy the outpatient surgery center operator for $5.7 billion in cash, valuing shares at $23.50, today, Oct. 26, 2026.",
@@ -1326,6 +1371,7 @@
    "source": "Yahoo",
    "published": "2026-10-26T20:38:47+00:00",
    "tickers": [
+    "EVH",
     "HIMS"
    ],
    "tag": "News",
@@ -1931,6 +1977,7 @@
    "tickers": [
     "AMGN",
     "LLY",
+    "NVO",
     "PFE"
    ],
    "tag": "GLP-1",
@@ -1951,6 +1998,21 @@
     "ZTS"
    ],
    "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "62928d3e8996",
+   "headline": "AstraZeneca (LSE:AZN) Posted Positive Phase III Results For Three Cancer Drugs",
+   "summary": "AstraZeneca (LSE:AZN) reported positive Phase III data for three cancer medicines at the ESMO Congress 2026 on 23 October. Sonesitatug vedotin (Sone Ve) showed statistically significant survival benefits in advanced gastric and\u2026",
+   "url": "https://finnhub.io/api/news?id=03a24e55c14fdfd77368a89e759d636d8c2b9d67acabbb0b4662ff173f2b6e02",
+   "source": "Yahoo",
+   "published": "2026-10-26T17:15:42+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "Clinical",
    "sectors": [
     "pharma"
    ]
@@ -2152,6 +2214,21 @@
    ]
   },
   {
+   "id": "dc6c9746af84",
+   "headline": "European Stocks Close Higher in Monday Trading as Oil Prices Ease, Bond Yields Stabilize",
+   "summary": "The European stock markets closed higher in Monday trading as oil prices pulled back and bond yields",
+   "url": "https://finnhub.io/api/news?id=2bc25d1112480034fd689a4787dfbd473dfe65f8850fa06f20fc0cc26ca0a43b",
+   "source": "Yahoo",
+   "published": "2026-10-26T16:07:29+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "686f54f97baa",
    "headline": "Werner Buys 49% of Fisher Brothers\u2019 605 Third Avenue Tower",
    "summary": "Investor David Werner is buying a 49% stake in Fisher Brothers' 605 Third Avenue, a roughly 1M SF Midtown office tower.",
@@ -2208,6 +2285,21 @@
     "AMGN",
     "MRK",
     "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "33675567c382",
+   "headline": "Novo Nordisk A/S - share repurchase programme",
+   "summary": "Bagsv\u00e6rd, Denmark, 26 October 2026 \u2013 On 6 May 2026, Novo Nordisk initiated a share repurchase programme in accordance with Article 5 of Regulation No 596/2014 of the European Parliament and Council of 16 April 2014 (MAR) and the\u2026",
+   "url": "https://finnhub.io/api/news?id=6f1da91eddd18c93e41df7b0f1e16e92ccd7fc3ca98c437e0d249bd55613e5db",
+   "source": "Yahoo",
+   "published": "2026-10-26T15:57:00+00:00",
+   "tickers": [
+    "NVO"
    ],
    "tag": "News",
    "sectors": [
@@ -2475,6 +2567,7 @@
    "published": "2026-10-26T14:52:00+00:00",
    "tickers": [
     "AMGN",
+    "AZN",
     "MRK",
     "MRNA"
    ],
@@ -2787,6 +2880,21 @@
    ]
   },
   {
+   "id": "a078bd3f0a3d",
+   "headline": "Concurrence Appoints Dr. Hythem Sidky, Former Lead of the NIH National Clinical Cohort Collaborative, as Head of Applied AI",
+   "summary": "Concurrence, the healthcare data and AI company building AI that learns for health systems, biopharma companies, and public health agencies, today named Hythem Sidky, PhD, Head of Applied AI, effective October 12. The appointment comes as\u2026",
+   "url": "https://finnhub.io/api/news?id=f59b8e1825219bacc71197ce85d9e7e94789968d97bdfd112ea0d57075d3871e",
+   "source": "Yahoo",
+   "published": "2026-10-26T14:00:00+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "8d27aab8f62e",
    "headline": "Another autoimmune CAR-T death; Treasury zeroes in on China deals",
    "summary": "A patient who received Bristol Myers\u2019 zola-cell died 44 days later. Elswehere, Gilead paid nearly $1.3 billion for a potential threat to J&J\u2019s newly approved psoriasis pill.",
@@ -2990,6 +3098,7 @@
    "source": "Yahoo",
    "published": "2026-10-26T13:14:02+00:00",
    "tickers": [
+    "BNTX",
     "MRK",
     "MRNA",
     "PFE"
@@ -3053,6 +3162,7 @@
    "published": "2026-10-26T13:02:00+00:00",
    "tickers": [
     "LLY",
+    "NVO",
     "VKTX"
    ],
    "tag": "GLP-1",
@@ -3165,6 +3275,21 @@
    "tag": "Earnings",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "899085b46246",
+   "headline": "Tempus AI (TEM) Expected to Beat Earnings Estimates: Can the Stock Move Higher?",
+   "summary": "Tempus (TEM) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+   "url": "https://finnhub.io/api/news?id=e1ac1821dcb0138e057a5ab45dd71488231cc88a25ab5b8652f32ad776b457ea",
+   "source": "Yahoo",
+   "published": "2026-10-26T13:00:07+00:00",
+   "tickers": [
+    "TEM"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthai"
    ]
   },
   {
@@ -3355,6 +3480,7 @@
    "source": "Yahoo",
    "published": "2026-10-26T12:47:57+00:00",
    "tickers": [
+    "GH",
     "ILMN",
     "IQV",
     "NTRA",
@@ -3435,7 +3561,8 @@
    "source": "Yahoo",
    "published": "2026-10-26T12:36:06+00:00",
    "tickers": [
-    "AMGN"
+    "AMGN",
+    "AZN"
    ],
    "tag": "Clinical",
    "sectors": [
@@ -3522,7 +3649,8 @@
    "tickers": [
     "LLY",
     "MRK",
-    "MRNA"
+    "MRNA",
+    "NVO"
    ],
    "tag": "Legal",
    "sectors": [
@@ -36278,21 +36406,6 @@
    "tag": "Policy",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "0c58ad1521bb",
-   "headline": "Tempus AI Stock Is The Expanded Drug Collaboration Material To The Bull Case",
-   "summary": "Tempus AI reported in early October 2026 that it expanded a multi year collaboration to support potential commercialization of intismeran autogene, with Tempus to handle collection, transfer and next generation sequencing of tumor and\u2026",
-   "url": "https://finnhub.io/api/news?id=7733e1e50cb441153dbab094e109d9194b759e5cc21565b905779f2d3982f932",
-   "source": "Yahoo",
-   "published": "2026-10-17T02:16:05+00:00",
-   "tickers": [
-    "TEM"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "healthai"
    ]
   }
  ]
