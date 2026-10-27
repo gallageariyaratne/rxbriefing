@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-27T02:23:13.825473+00:00",
+ "updated": "2026-10-27T02:32:40.130308+00:00",
  "quotes": {
   "A": {
    "price": 175.96,
@@ -254,6 +254,10 @@
    "price": 61.07,
    "change_pct": 0.79
   },
+  "QGEN": {
+   "price": 50.37,
+   "change_pct": -0.04
+  },
   "REGN": {
    "price": 807.67,
    "change_pct": 0.33
@@ -317,10 +321,6 @@
   "UNH": {
    "price": 410.7,
    "change_pct": -1.77
-  },
-  "VEEV": {
-   "price": 318.18,
-   "change_pct": -1.5
   }
  },
  "tickers": {
@@ -938,6 +938,21 @@
  },
  "stories": [
   {
+   "id": "701fbd86e025",
+   "headline": "Novartis (SWX:NOVN) Gains Fresh Trial Focus, Is The Good News Already Priced In?",
+   "summary": "Novartis (SWX:NOVN) is back in focus after new late stage data on remibrutinib in relapsing multiple sclerosis and six year follow up results for Kisqali in early breast cancer reshaped attention on its pipeline. Against that backdrop,\u2026",
+   "url": "https://finnhub.io/api/news?id=c1d9a89a136ebb06d659293df3d6826debb4d94c3b5c86666ab4234952588754",
+   "source": "Yahoo",
+   "published": "2026-10-27T01:09:36+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "19dc75c68872",
    "headline": "AstraZeneca Highlights Breakthrough Cancer Data at ESMO 2026 Investor Update",
    "summary": "Astrazeneca (NYSE:AZN) highlighted new clinical data across bladder, lung and gastric cancers at its ESMO 2026 investor event, including four presidential presentations that executives said support the company\u2019s oncology growth strategy.\u2026",
@@ -978,6 +993,21 @@
    "tickers": [
     "MRK",
     "MRNA"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "00a4c5edae86",
+   "headline": "Novartis (SWX:NOVN) Advances Two Key Growth Drugs With New Late Stage Data",
+   "summary": "Novartis (SWX:NOVN) reported positive Phase III REMODEL trial results for oral BTK inhibitor remibrutinib in relapsing multiple sclerosis. The company released six year overall survival data from the NATALEE Phase III study for CDK4/6\u2026",
+   "url": "https://finnhub.io/api/news?id=9b17c510ff99cd784a0bc494f5a63156350760bb2cdad41b4f83b95299b946c6",
+   "source": "Yahoo",
+   "published": "2026-10-26T23:26:50+00:00",
+   "tickers": [
+    "NVS"
    ],
    "tag": "Clinical",
    "sectors": [
@@ -1274,6 +1304,21 @@
    ]
   },
   {
+   "id": "923f90233b5a",
+   "headline": "Kinjal and International Frontier Resources Announce EXMAR NV as a Strategic Gas Infrastructure Partner and Shareholder, the Successful Approval of the Reverse Takeover, and Provide Corporate Update",
+   "summary": "NOT FOR DISTRIBUTION TO U.S. NEWS WIRE SERVICES OR DISSEMINATION IN THE UNITED STATES OF AMERICA.Calgary, Alberta--(Newsfile Corp. - October 26, 2026) - International Frontier Resources Corporation (TSXV: IFR) (\"IFR\") and Kinjal\u2026",
+   "url": "https://finnhub.io/api/news?id=ac39146b9fe110d140f689a96ef06348ed0182e0e650557162d394459978422a",
+   "source": "Yahoo",
+   "published": "2026-10-26T20:53:00+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "83a63d306021",
    "headline": "Vertex Pharmaceuticals (VRTX) Stock Sinks As Market Gains: Here's Why",
    "summary": "In the closing of the recent trading day, Vertex Pharmaceuticals (VRTX) stood at $517.49, denoting a -1.23% move from the preceding trading day.",
@@ -1548,6 +1593,21 @@
     "BMY"
    ],
    "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "038fef54fc9d",
+   "headline": "Top Analyst Reports for Intel, Novartis & Itau Unibanco",
+   "summary": "Intel's manufacturing recovery and AI expansion, Novartis' growth drugs and Itau Unibanco's strategic moves headline today's top analyst reports.",
+   "url": "https://finnhub.io/api/news?id=7481a76e11433e997e2e804e967bcd278caa6ec86f97abe592f7aa9008e58984",
+   "source": "Yahoo",
+   "published": "2026-10-26T19:33:00+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "Analyst",
    "sectors": [
     "pharma"
    ]
@@ -2657,6 +2717,7 @@
    "published": "2026-10-26T14:36:00+00:00",
    "tickers": [
     "ILMN",
+    "QGEN",
     "TMO"
    ],
    "tag": "Health AI",
@@ -36406,22 +36467,6 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
-  },
-  {
-   "id": "3babf1f68b76",
-   "headline": "JD Vance Touts TrumpRx Drug Price Push, Trump Accounts as \u2018Economic Nationalism\u2019 Wins Ahead Of Midterms",
-   "summary": "JD Vance touted TrumpRx and Trump Accounts as key economic wins, highlighting prescription drug savings ahead of the midterm elections.",
-   "url": "https://finnhub.io/api/news?id=7f53e7e201129acaa174985f4cf5a99b4f5661557e3655f0da6542c22d807f31",
-   "source": "Benzinga",
-   "published": "2026-10-17T02:22:23+00:00",
-   "tickers": [
-    "LLY",
-    "PFE"
-   ],
-   "tag": "Policy",
-   "sectors": [
-    "pharma"
-   ]
   }
  ]
 }
