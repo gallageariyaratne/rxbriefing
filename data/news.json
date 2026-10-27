@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-27T10:47:30.722513+00:00",
+ "updated": "2026-10-27T11:02:45.668906+00:00",
  "quotes": {
   "A": {
    "price": 175.96,
@@ -270,10 +270,6 @@
    "price": 807.67,
    "change_pct": 0.33
   },
-  "RGEN": {
-   "price": 180.17,
-   "change_pct": 1.83
-  },
   "RVMD": {
    "price": 183.9,
    "change_pct": -1.65
@@ -285,10 +281,6 @@
   "SDGR": {
    "price": 24.5,
    "change_pct": 2.94
-  },
-  "SMMT": {
-   "price": 14.5,
-   "change_pct": -6.27
   },
   "SNY": {
    "price": 41.79,
@@ -321,6 +313,14 @@
   "TMO": {
    "price": 684.89,
    "change_pct": 1.64
+  },
+  "TWST": {
+   "price": 145.25,
+   "change_pct": 3.81
+  },
+  "UNH": {
+   "price": 410.7,
+   "change_pct": -1.77
   }
  },
  "tickers": {
@@ -937,6 +937,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "af605c44e245",
+   "headline": "Centene Corporation Reports Third Quarter 2026 Results",
+   "summary": "",
+   "url": "https://finnhub.io/api/news?id=837a680dbb6cbf9929cd2dfeda69fdc4800b4f0ccd8018077a6ae336c0d680aa",
+   "source": "Fintel",
+   "published": "2026-10-27T10:23:25+00:00",
+   "tickers": [
+    "CNC"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
   {
    "id": "c55850dd983e",
    "headline": "Novartis CEO keeps faith in Avidity deal despite taking $1.9B hit from del-desiran fail",
@@ -36650,37 +36665,6 @@
     "GILD"
    ],
    "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "bae42f26bb8f",
-   "headline": "Meta, Tesla Headline Earnings In Busy Week For Markets",
-   "summary": "Wall Street Week Ahead: key earnings (Meta, Tesla, Netflix), IPOs & economic data. Read here for more details.",
-   "url": "https://finnhub.io/api/news?id=3dcbe5a8689c76a628f51ae4c5084970467aab6b7f0f374e353ded8fe09592d4",
-   "source": "SeekingAlpha",
-   "published": "2026-10-17T11:00:00+00:00",
-   "tickers": [
-    "CVS",
-    "GILD"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "d11a57bbed9d",
-   "headline": "MarketBeat Week in Review \u2013 10/12 - 10/16",
-   "summary": "Tech stocks fell on inflation fears and AI infrastructure concerns while the Dow rose, as MarketBeat analysts review earnings outlooks, sector rotation, and stock picks from the week's top stories.",
-   "url": "https://finnhub.io/api/news?id=568e63e4c6d4bd104d2b5f3477ca384696dd07bd8f515a2913346504239748cc",
-   "source": "Yahoo",
-   "published": "2026-10-17T11:00:00+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "Earnings",
    "sectors": [
     "pharma"
    ]
