@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-27T02:47:36.047484+00:00",
+ "updated": "2026-10-27T03:02:45.661161+00:00",
  "quotes": {
   "A": {
    "price": 175.96,
@@ -81,6 +81,10 @@
   "CI": {
    "price": 305.78,
    "change_pct": -0.38
+  },
+  "CLOV": {
+   "price": 4.56,
+   "change_pct": -0.87
   },
   "CNC": {
    "price": 68.03,
@@ -302,6 +306,10 @@
    "price": 67.16,
    "change_pct": -0.67
   },
+  "TGTX": {
+   "price": 54.79,
+   "change_pct": 1.14
+  },
   "THC": {
    "price": 268.95,
    "change_pct": 0.19
@@ -313,14 +321,6 @@
   "TWST": {
    "price": 145.25,
    "change_pct": 3.81
-  },
-  "UHS": {
-   "price": 185.71,
-   "change_pct": -0.63
-  },
-  "UNH": {
-   "price": 410.7,
-   "change_pct": -1.77
   }
  },
  "tickers": {
@@ -1117,6 +1117,21 @@
    ]
   },
   {
+   "id": "4416472c5278",
+   "headline": "Merck & Co., Inc. (MRK) Shareholder/Analyst Presentation - Slideshow",
+   "summary": "2026-10-26. The following slide deck was published by Merck & Co., Inc.",
+   "url": "https://finnhub.io/api/news?id=f8d776e1f3fc7838f02ff54c79d9de1302640414a0e5b811d914f3bc50f55f33",
+   "source": "SeekingAlpha",
+   "published": "2026-10-26T22:10:15+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "faead057d1e1",
    "headline": "Your Pension Still Pays the Same $3,100 It Did the Day You Retired. These 3 ETFs Give You the Raise It Never Will",
    "summary": "A pension check that freezes the moment you retire quietly loses ground every year as prices climb around it. Three funds approach this problem from different angles, and how you combine them changes everything.",
@@ -1595,6 +1610,21 @@
    "tag": "Earnings",
    "sectors": [
     "healthai"
+   ]
+  },
+  {
+   "id": "0ec548665390",
+   "headline": "Clover Health to Participate in Upcoming UBS Global Healthcare Conference",
+   "summary": "WILMINGTON, Del., Oct. 26, 2026 (GLOBE NEWSWIRE) -- Clover Health Investments, Corp. (Nasdaq: CLOV) (\u201cClover,\u201d \u201cClover Health\u201d or the \u201cCompany\u201d), today announced that its Interim Chief Financial Officer, Clay Thornton, will present at the\u2026",
+   "url": "https://finnhub.io/api/news?id=0df638247e0babf836597a4c3706289362a3e4bcb4ceec66e2707fffeb146359",
+   "source": "Yahoo",
+   "published": "2026-10-26T20:05:00+00:00",
+   "tickers": [
+    "CLOV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -2720,7 +2750,8 @@
    "source": "Yahoo",
    "published": "2026-10-26T14:41:00+00:00",
    "tickers": [
-    "HALO"
+    "HALO",
+    "TGTX"
    ],
    "tag": "News",
    "sectors": [
@@ -2810,7 +2841,8 @@
    "published": "2026-10-26T14:25:00+00:00",
    "tickers": [
     "HALO",
-    "INCY"
+    "INCY",
+    "TGTX"
    ],
    "tag": "News",
    "sectors": [
@@ -2884,7 +2916,8 @@
    "source": "Yahoo",
    "published": "2026-10-26T14:17:00+00:00",
    "tickers": [
-    "HALO"
+    "HALO",
+    "TGTX"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -3087,7 +3120,8 @@
    "source": "Yahoo",
    "published": "2026-10-26T13:39:48+00:00",
    "tickers": [
-    "REGN"
+    "REGN",
+    "SNY"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -3406,7 +3440,8 @@
    "source": "Yahoo",
    "published": "2026-10-26T13:00:03+00:00",
    "tickers": [
-    "GILD"
+    "GILD",
+    "TGTX"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -3486,6 +3521,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "37cadd7be0ba",
+   "headline": "CareDx to Report Q3 Earnings: Transplant Testing Growth in Focus",
+   "summary": "CareDx's Q3 earnings are in focus as transplant testing growth, stronger reimbursement and oncology expansion drive revenue prospects despite potential margin pressures.",
+   "url": "https://finnhub.io/api/news?id=17d1de96afb4be76bff0c040e451945dca7eae0bf590db2132141c5ac2406852",
+   "source": "Yahoo",
+   "published": "2026-10-26T12:58:00+00:00",
+   "tickers": [
+    "TGTX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -4070,7 +4120,8 @@
    "source": "Yahoo",
    "published": "2026-10-26T11:52:42+00:00",
    "tickers": [
-    "NVS"
+    "NVS",
+    "SNY"
    ],
    "tag": "Clinical",
    "sectors": [
@@ -36465,26 +36516,6 @@
    "tag": "News",
    "sectors": [
     "tools"
-   ]
-  },
-  {
-   "id": "64929f31e8a9",
-   "headline": "What Was Eli Lilly Telling You Before Its Stock Ran?",
-   "summary": "An investor who put $10,000 into Eli Lilly (LLY) stock on October 14, 2025 held about $15,500 by October 15, 2026. Placing that same sum in the S&P 500 over the identical period would have yielded about $11,790. By mid-2026, two drugs,\u2026",
-   "url": "https://finnhub.io/api/news?id=7fbbc87921f5eb6aebe1a84de39e7ad8c2e918ec67c718d7d159b99c51415cdb",
-   "source": "Yahoo",
-   "published": "2026-10-17T02:57:02+00:00",
-   "tickers": [
-    "ABBV",
-    "AMGN",
-    "JNJ",
-    "LLY",
-    "MRK",
-    "PFE"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
