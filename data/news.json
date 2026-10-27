@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-27T10:32:52.025030+00:00",
+ "updated": "2026-10-27T10:47:30.722513+00:00",
  "quotes": {
   "A": {
    "price": 175.96,
@@ -125,6 +125,14 @@
   "EVH": {
    "price": 4.53,
    "change_pct": -5.62
+  },
+  "EXEL": {
+   "price": 65.11,
+   "change_pct": 0.9
+  },
+  "GEHC": {
+   "price": 71.98,
+   "change_pct": 0.74
   },
   "GH": {
    "price": 173.25,
@@ -313,14 +321,6 @@
   "TMO": {
    "price": 684.89,
    "change_pct": 1.64
-  },
-  "TWST": {
-   "price": 145.25,
-   "change_pct": 3.81
-  },
-  "UHS": {
-   "price": 185.71,
-   "change_pct": -0.63
   }
  },
  "tickers": {
@@ -979,6 +979,21 @@
    ]
   },
   {
+   "id": "ec517223528b",
+   "headline": "GE HealthCare (GEHC) reports earnings tomorrow: what to expect",
+   "summary": "Healthcare technology company GE HealthCare Technologies (NASDAQ:GEHC) will be announcing earnings results this Wednesday before the bell. Here\u2019s what to look for.",
+   "url": "https://finnhub.io/api/news?id=8b7837ebd015a95555f833914335263b4ae3fc3446d234b491c0609edbdb26e0",
+   "source": "Yahoo",
+   "published": "2026-10-27T09:58:47+00:00",
+   "tickers": [
+    "GEHC"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "c2aa4223fafc",
    "headline": "BMS joins 3-year partnership to boost participation in cancer trials",
    "summary": "The Institute for Healthcare Improvement has partnered with Bristol Myers Squibb on an initiative to expand access to cancer trials.",
@@ -1215,6 +1230,7 @@
    "published": "2026-10-27T05:35:00+00:00",
    "tickers": [
     "DGX",
+    "EXEL",
     "ICLR"
    ],
    "tag": "Earnings",
@@ -36661,21 +36677,6 @@
    "url": "https://finnhub.io/api/news?id=568e63e4c6d4bd104d2b5f3477ca384696dd07bd8f515a2913346504239748cc",
    "source": "Yahoo",
    "published": "2026-10-17T11:00:00+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "0de601cfc76f",
-   "headline": "Johnson & Johnson Just Raised Its Sales Outlook Again. Here's Why the Dividend King Is Still a Buy.",
-   "summary": "The guidance bump doesn't matter nearly as much as investors' response to the company's Q3 report suggests.",
-   "url": "https://finnhub.io/api/news?id=98dbf11664a7e95ce7d8b907a772c2066444e9ac53c83fc391c4f9a1d650e0c2",
-   "source": "Yahoo",
-   "published": "2026-10-17T10:35:00+00:00",
    "tickers": [
     "JNJ"
    ],
