@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-27T13:02:55.472078+00:00",
+ "updated": "2026-10-27T13:17:31.767871+00:00",
  "quotes": {
   "A": {
    "price": 175.96,
@@ -265,10 +265,6 @@
   "VEEV": {
    "price": 318.18,
    "change_pct": -1.5
-  },
-  "VKTX": {
-   "price": 24.21,
-   "change_pct": -0.78
   },
   "VRTX": {
    "price": 517.49,
@@ -902,6 +898,17 @@
  },
  "stories": [
   {
+   "id": "7b50853e2105",
+   "headline": "Vera Health secures $28.5M series A for AI-driven clinical search engine",
+   "summary": "Vera Health\u2019s platform scans more than 60 million peer-reviewed publications, clinical guidelines, consensus statements and drug labels, executives say.",
+   "url": "https://www.fiercehealthcare.com/finance/vera-health-secures-285m-series-ai-driven-clinical-search-engine",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-27T13:15:24.194731+00:00",
+   "tickers": [],
+   "tag": "Financing",
+   "sectors": []
+  },
+  {
    "id": "9c28629b8548",
    "headline": "Artiva lays off 94% of staff after deaths and durability sink autoimmune cell therapy",
    "summary": "Artiva Biotherapeutics has halted development of an autoimmune disease cell therapy and laid off 94% of its staff after two patients died and durability data fell short of expectations.",
@@ -911,6 +918,36 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "4e6892ff621c",
+   "headline": "DaVita Brings Preventive Health Screenings Into Communities to Help Identify Hidden Health Risks",
+   "summary": "Nearly 1,000 people screened in Houston and Los Angeles, with a majority showing signs of elevated chronic disease risk DENVER, Oct. 27, 2026 /PRNewswire/ -- Millions of Americans are living with chronic disease and don't know it. The\u2026",
+   "url": "https://www.prnewswire.com/news-releases/davita-brings-preventive-health-screenings-into-communities-to-help-identify-hidden-health-risks-302920573.html",
+   "source": "PR Newswire",
+   "published": "2026-10-27T13:00:00+00:00",
+   "tickers": [
+    "DVA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "09b578b2903e",
+   "headline": "HCA Healthcare (NYSE:HCA) Q3 Earnings Clear EPS Bar as Payer Mix Drag Persists",
+   "summary": "HCA Q3 2026 revenue hit $19.849B, adjusted EPS of $7.22 beat estimates, but a $400M uninsured payer-mix hit tempered guidance optimism.",
+   "url": "https://finnhub.io/api/news?id=effb143dcb270ff5d2c5eac202e086cf512fdba6a50599bac792b12799ad029b",
+   "source": "ChartMill",
+   "published": "2026-10-27T12:32:48+00:00",
+   "tickers": [
+    "HCA"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
   },
   {
    "id": "2abb257afd8a",
@@ -1003,7 +1040,8 @@
    "published": "2026-10-27T11:45:55+00:00",
    "tickers": [
     "ABT",
-    "JNJ"
+    "JNJ",
+    "MDT"
    ],
    "tag": "News",
    "sectors": [
@@ -1024,6 +1062,21 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "d31c28f8be00",
+   "headline": "Repligen (NASDAQ:RGEN) exceeds Q3 2026 expectations, full-year outlook slightly exceeds expectations",
+   "summary": "Biopharma manufacturing company Repligen Corporation (NASDAQ:RGEN) reported revenue ahead of Wall Street\u2019s expectations in Q3 2026, with revenue up 10.9% year on year to $209.3 million. The company\u2019s full-year revenue guidance of $848\u2026",
+   "url": "https://finnhub.io/api/news?id=65bc9dd4bf167fdec63064874a4260e4ca22612f7a93bb7d2930220f9682e0fe",
+   "source": "Yahoo",
+   "published": "2026-10-27T11:44:57+00:00",
+   "tickers": [
+    "RGEN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -1459,6 +1512,21 @@
    ]
   },
   {
+   "id": "062897198c18",
+   "headline": "Repligen Corporation 2026 Q3 - Results - Earnings Call Presentation",
+   "summary": "2026-10-27. The following slide deck was published by Repligen Corporation in conjunction with their 2026 Q3 earnings call.",
+   "url": "https://finnhub.io/api/news?id=5bf6c07482ee1f4f6c6d39476430dcabdf4c471e65da9835876e3e455eaa593f",
+   "source": "SeekingAlpha",
+   "published": "2026-10-27T08:31:55+00:00",
+   "tickers": [
+    "RGEN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "c5622f65d47e",
    "headline": "Opinion: Emergency pediatric care is now in permanent crisis mode",
    "summary": "\u201cIn 2026, the unprecedented pediatric patient crowding of 2022 has become a normal Tuesday,\u201d write Jonathan Kohler and Mary King.",
@@ -1501,7 +1569,9 @@
    "tickers": [
     "ALNY",
     "AMGN",
+    "AZN",
     "GSK",
+    "REGN",
     "SNY"
    ],
    "tag": "Earnings",
