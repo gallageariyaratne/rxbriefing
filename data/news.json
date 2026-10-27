@@ -1,18 +1,18 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-27T20:02:59.989460+00:00",
+ "updated": "2026-10-27T20:17:38.494918+00:00",
  "quotes": {
   "A": {
-   "price": 177.51,
-   "change_pct": 0.88
+   "price": 177.49,
+   "change_pct": 0.87
   },
   "ABBV": {
-   "price": 286.44,
-   "change_pct": -0.1
+   "price": 286.39,
+   "change_pct": -0.12
   },
   "ABT": {
-   "price": 103.14,
-   "change_pct": -1.66
+   "price": 103.1,
+   "change_pct": -1.7
   },
   "ALGN": {
    "price": 151.95,
@@ -27,20 +27,20 @@
    "change_pct": -0.38
   },
   "AMGN": {
-   "price": 448.02,
-   "change_pct": 0.76
+   "price": 447.95,
+   "change_pct": 0.75
   },
   "ARWR": {
-   "price": 59.04,
-   "change_pct": 0.1
+   "price": 59.03,
+   "change_pct": 0.08
   },
   "AZN": {
-   "price": 170.02,
-   "change_pct": -1.19
+   "price": 170.08,
+   "change_pct": -1.15
   },
   "BDX": {
-   "price": 194.95,
-   "change_pct": -0.73
+   "price": 195.03,
+   "change_pct": -0.69
   },
   "BEAM": {
    "price": 24.9,
@@ -66,13 +66,9 @@
    "price": 298.28,
    "change_pct": -2.45
   },
-  "CLOV": {
-   "price": 4.63,
-   "change_pct": 1.54
-  },
   "CNC": {
-   "price": 68.8,
-   "change_pct": 1.13
+   "price": 68.71,
+   "change_pct": 1.0
   },
   "COR": {
    "price": 325.37,
@@ -91,12 +87,16 @@
    "change_pct": -0.16
   },
   "DHR": {
-   "price": 232.09,
-   "change_pct": -0.38
+   "price": 232,
+   "change_pct": -0.42
   },
   "DVA": {
    "price": 181.69,
    "change_pct": -1.27
+  },
+  "ENSG": {
+   "price": 169.5,
+   "change_pct": -4.19
   },
   "EVH": {
    "price": 4.42,
@@ -259,8 +259,8 @@
    "change_pct": 5.06
   },
   "SYK": {
-   "price": 301.5,
-   "change_pct": -1.51
+   "price": 301.42,
+   "change_pct": -1.54
   },
   "TGTX": {
    "price": 56.44,
@@ -277,6 +277,10 @@
   "TWST": {
    "price": 159.85,
    "change_pct": 10.05
+  },
+  "TXG": {
+   "price": 78.02,
+   "change_pct": 6.94
   },
   "UNH": {
    "price": 410.39,
@@ -918,6 +922,81 @@
  },
  "stories": [
   {
+   "id": "dd8c8d8afdf4",
+   "headline": "The Ensign Group Reports Third Quarter 2026 Results; Raises 2026 Annual Earnings Guidance",
+   "summary": "Conference Call and Webcast scheduled for tomorrow, October 28, 2026 at 10:00 am PT Conference Call and Webcast scheduled for tomorrow, October 28, 2026 at 10:00 am PT",
+   "url": "https://www.globenewswire.com/news-release/2026/10/27/3389626/21305/en/the-ensign-group-reports-third-quarter-2026-results-raises-2026-annual-earnings-guidance.html",
+   "source": "GlobeNewswire",
+   "published": "2026-10-27T20:08:00+00:00",
+   "tickers": [
+    "ENSG"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "95380a9a8bc6",
+   "headline": "10x Genomics to Participate in the 2026 Jefferies Global Healthcare Conference",
+   "summary": "PLEASANTON, Calif., Oct. 27, 2026 /PRNewswire/ -- 10x Genomics, Inc. (Nasdaq: TXG), the life science technology leader focused on accelerating science and advancing human health, announced today that members of its management team will\u2026",
+   "url": "https://www.prnewswire.com/news-releases/10x-genomics-to-participate-in-the-2026-jefferies-global-healthcare-conference-302921150.html",
+   "source": "PR Newswire",
+   "published": "2026-10-27T20:05:00+00:00",
+   "tickers": [
+    "TXG"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "dc5d0a3dd88f",
+   "headline": "Patrik Jonsson to retire after 36 years; Ilya Yuffa named president, Lilly Global Markets",
+   "summary": "Yuffa will take on an expanded role as the company scales for its next phase of growth Key highlights: Patrik Jonsson, executive vice president and president, Lilly International, has decided to retire at the end of 2026 after a 36-year\u2026",
+   "url": "https://www.prnewswire.com/news-releases/patrik-jonsson-to-retire-after-36-years-ilya-yuffa-named-president-lilly-global-markets-302921191.html",
+   "source": "PR Newswire",
+   "published": "2026-10-27T20:03:00+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "2b94e6872ab2",
+   "headline": "AMGEN TO PRESENT NEW DATA ACROSS RARE AND OTHER SERIOUS AUTOIMMUNE DISEASES AT ACR CONVERGENCE 2026",
+   "summary": "Phase 3 OASIZ-301 Study of Dazodalibep in Sj\u00f6gren's Disease Shows Statistically Significant and Clinically Meaningful Improvement in Systemic Disease Activity and Patient-Reported Dryness New Long-Term UPLIZNA Data in IgG4-Related Disease\u2026",
+   "url": "https://www.prnewswire.com/news-releases/amgen-to-present-new-data-across-rare-and-other-serious-autoimmune-diseases-at-acr-convergence-2026-302921208.html",
+   "source": "PR Newswire",
+   "published": "2026-10-27T20:00:00+00:00",
+   "tickers": [
+    "AMGN"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "4acbf9c43a59",
+   "headline": "Stryker completes ZuriMED takeover",
+   "summary": "The deal expands Stryker\u2019s portfolio of fast-growing sports medicine and shoulder care devices.",
+   "url": "https://www.medtechdive.com/news/stryker-completes-zurimed-takeover/872835/",
+   "source": "MedTech Dive",
+   "published": "2026-10-27T20:00:00+00:00",
+   "tickers": [
+    "SYK"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "c0304e09d419",
    "headline": "STAT+: Missouri AG warns Lilly to stop requiring data from hospitals seeking 340B drug discounts",
    "summary": "Missouri AG told Lilly to stop forcing hospitals to provide claims data to receive discounted medicines under 340B, a sign more states are pushing back against drugmakers.",
@@ -948,6 +1027,36 @@
    ]
   },
   {
+   "id": "dfd99235371c",
+   "headline": "1 safe-and-steady stock with solid fundamentals and 2 we brush off",
+   "summary": "Low-volatility stocks may offer stability, but that often comes at the cost of slower growth and the upside potential of more dynamic companies.",
+   "url": "https://finnhub.io/api/news?id=537526c130a910f51717f30a29bfabcf4f5b6de5aade709c482389bffe3920fb",
+   "source": "Yahoo",
+   "published": "2026-10-27T18:14:47+00:00",
+   "tickers": [
+    "DHR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "68e83002901c",
+   "headline": "HCA (HCA) Q3 2026 Earnings Call Transcript",
+   "summary": "Volume growth hit 22 consecutive quarters, but payer mix shifts cost $400M in EBITDA.",
+   "url": "https://finnhub.io/api/news?id=db0e3918a4a32ea2d447d6805dffbd791ea8fc4e4e7d5c5a2bdc3b6de41a2b74",
+   "source": "Yahoo",
+   "published": "2026-10-27T18:14:23+00:00",
+   "tickers": [
+    "HCA"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "a5ccac27ecc5",
    "headline": "STAT+: After two deaths in autoimmune cell therapy trial, Artiva is shutting down",
    "summary": "Recent deaths are setbacks in drug companies\u2019 interest in applying cancer therapy strategies to autoimmune diseases.",
@@ -968,6 +1077,21 @@
    "tickers": [],
    "tag": "Legal",
    "sectors": []
+  },
+  {
+   "id": "7d8ce61c78c1",
+   "headline": "Universal Health Services Fell 6% as Rival HCA Guides 2027 Earnings \u201cGenerally Consistent\u201d With 2026",
+   "summary": "Key TakeawaysUniversal Health Services shares fell 6% today after rival HCA Healthcare said its early read on 2027 points to earnings roughly in line with 2026. HCA beat third-quarter estimates but took a roughly $400 million hit from\u2026",
+   "url": "https://finnhub.io/api/news?id=be1f11139ae1e45a2eca45cf6b7be6765466e19f44613e5a90e4c1bc3116d8ed",
+   "source": "Yahoo",
+   "published": "2026-10-27T17:57:18+00:00",
+   "tickers": [
+    "HCA"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
   },
   {
    "id": "db2574ca09e9",
