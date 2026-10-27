@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-27T10:17:40.345394+00:00",
+ "updated": "2026-10-27T10:32:52.025030+00:00",
  "quotes": {
   "A": {
    "price": 175.96,
@@ -162,6 +162,10 @@
    "price": 12.1,
    "change_pct": 1.6
   },
+  "ICLR": {
+   "price": 183.78,
+   "change_pct": -0.8
+  },
   "IDXX": {
    "price": 570.21,
    "change_pct": 1.75
@@ -317,10 +321,6 @@
   "UHS": {
    "price": 185.71,
    "change_pct": -0.63
-  },
-  "UNH": {
-   "price": 410.7,
-   "change_pct": -1.77
   }
  },
  "tickers": {
@@ -1204,6 +1204,22 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "e78accef2b07",
+   "headline": "Riverwater Partners Sustainable Value Strategy Q3 2026 Portfolio Update",
+   "summary": "",
+   "url": "https://finnhub.io/api/news?id=a29fe2e4f1c45787780b56d6f263132b8e8498d50115115c77aef15eba1bdc40",
+   "source": "SeekingAlpha",
+   "published": "2026-10-27T05:35:00+00:00",
+   "tickers": [
+    "DGX",
+    "ICLR"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -36666,21 +36682,6 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "dd3a69c9bf05",
-   "headline": "Tenet Healthcare (THC) Lifts 2026 Outlook, Is The Upside Already Priced In?",
-   "summary": "Tenet Healthcare (THC) reset the conversation around its stock after management lifted the outlook for 2026 adjusted EBITDA and free cash flow, citing stronger operations across its hospitals and ambulatory care network. That guidance\u2026",
-   "url": "https://finnhub.io/api/news?id=2aa121df1964df228144989c091fb867f493333a3421896d5fadde08f42f63e6",
-   "source": "Yahoo",
-   "published": "2026-10-17T10:16:14+00:00",
-   "tickers": [
-    "THC"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
    ]
   }
  ]
