@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-27T20:32:45.957897+00:00",
+ "updated": "2026-10-27T20:47:48.328989+00:00",
  "quotes": {
   "A": {
    "price": 177.49,
@@ -97,10 +97,6 @@
   "ENSG": {
    "price": 169.5,
    "change_pct": -4.19
-  },
-  "EVH": {
-   "price": 4.42,
-   "change_pct": -2.43
   },
   "EW": {
    "price": 90.82,
@@ -294,10 +290,6 @@
    "price": 591.2,
    "change_pct": -0.28
   },
-  "VEEV": {
-   "price": 313.46,
-   "change_pct": -1.48
-  },
   "VKTX": {
    "price": 24.89,
    "change_pct": 2.81
@@ -309,6 +301,10 @@
   "WAT": {
    "price": 468.55,
    "change_pct": 2.76
+  },
+  "ZTS": {
+   "price": 78.23,
+   "change_pct": -3.38
   }
  },
  "tickers": {
@@ -926,6 +922,17 @@
  },
  "stories": [
   {
+   "id": "5f0721b87e12",
+   "headline": "Vanda eyes GLP-1 nausea indication with Nereus phase 3 win in hand",
+   "summary": "Vanda Pharmaceuticals secured a phase 3 win for its motion sickness medicine, Nereus. The drug reduced GLP-1 related vomiting by 27% for patients on Wegovy.",
+   "url": "https://www.fiercepharma.com/pharma/vanda-eyes-glp-1-nausea-indication-nereus-phase-3-win-hand",
+   "source": "Fierce Pharma",
+   "published": "2026-10-27T20:45:25.700774+00:00",
+   "tickers": [],
+   "tag": "GLP-1",
+   "sectors": []
+  },
+  {
    "id": "bd6a827b807f",
    "headline": "Teva telegraphs 61 job cuts amid plans to close 'underutilized' New Jersey plant",
    "summary": "Amid Teva\u2019s return to sales growth, the innovative-generic drugs hybrid has been taking steps to cut costs in parallel, with the downsizing push now reaching a U.S. manufacturing facility in the Garden State.",
@@ -1042,6 +1049,21 @@
    ]
   },
   {
+   "id": "e98c0062526e",
+   "headline": "Sector Update: Healthcare Stocks Decline Late Afternoon",
+   "summary": "Healthcare stocks were slightly lower late Tuesday afternoon, with the NYSE Healthcare Index down 0.",
+   "url": "https://finnhub.io/api/news?id=a839028211cff3485fa24360b4e76c1a4d169a7abe9bf4a8827a2ddbf980f9ea",
+   "source": "Yahoo",
+   "published": "2026-10-27T19:51:23+00:00",
+   "tickers": [
+    "ABT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "8f590cd72789",
    "headline": "Amgen vs. Vertex Pharmaceuticals: Massive Pharmaceutical Scale vs. Steady Drug Revenue",
    "summary": "Amgen's quarterly revenue swings between $8.1B and $10.1B, while Vertex climbs steadily from $2.8B to $3.3B\u2014a tale of scale versus trajectory.",
@@ -1049,9 +1071,26 @@
    "source": "Yahoo",
    "published": "2026-10-27T19:45:02+00:00",
    "tickers": [
+    "AMGN",
     "VRTX"
    ],
    "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "edf2f90525ee",
+   "headline": "3 Absurdly Cheap Dividend Stocks to Buy for Under $100 Right Now",
+   "summary": "The stocks listed here yield up to 5.8%.",
+   "url": "https://finnhub.io/api/news?id=3320736f7df0543e6345fe278777cba0fc0a8c4604164ad15818d8dbb38f85e8",
+   "source": "Yahoo",
+   "published": "2026-10-27T19:09:02+00:00",
+   "tickers": [
+    "PFE",
+    "ZTS"
+   ],
+   "tag": "M&A",
    "sectors": [
     "pharma"
    ]
@@ -1064,7 +1103,23 @@
    "source": "Yahoo",
    "published": "2026-10-27T19:08:21+00:00",
    "tickers": [
-    "CVS"
+    "CVS",
+    "HUM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "0f59d0ac7e74",
+   "headline": "Intel, Oracle, IBM Join Objections to OKX-ICE Tokenized Stock Venue, Bringing Total to 26",
+   "summary": "Intel, Oracle, IBM, and IonQ became the latest companies to object to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 26.",
+   "url": "https://finnhub.io/api/news?id=c6a7556c6173bb894e29cb5d494ed7949e64d5905d0c3208797a77c208301a09",
+   "source": "Yahoo",
+   "published": "2026-10-27T18:46:02+00:00",
+   "tickers": [
+    "UNH"
    ],
    "tag": "News",
    "sectors": [
@@ -1147,6 +1202,21 @@
    ]
   },
   {
+   "id": "316d924d5902",
+   "headline": "Align Technology (ALGN) Heads Into Earnings As Undervalued Case Faces A Fresh Test",
+   "summary": "Align Technology (ALGN) heads into its upcoming third quarter earnings report with traders bracing for a sizeable move, as options pricing signals elevated volatility and recent operating trends remain mixed. Over the past year, Align\u2026",
+   "url": "https://finnhub.io/api/news?id=7c8d874a673ca42a0f3d7144027a64fde6dc0e2df829a5c0fc69d154b7000373",
+   "source": "Yahoo",
+   "published": "2026-10-27T18:08:52+00:00",
+   "tickers": [
+    "ALGN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "b7da3736c0a3",
    "headline": "Johnson & Johnson (JNJ) Stock Trades At A Discount Following Its 97% Run",
    "summary": "Johnson & Johnson has delivered strong share gains in recent years, so the key issue now is whether the current valuation is properly backed by the cash the business is expected to generate. Recent trial updates in oncology and medtech\u2026",
@@ -1191,7 +1261,8 @@
    "source": "Yahoo",
    "published": "2026-10-27T17:57:18+00:00",
    "tickers": [
-    "HCA"
+    "HCA",
+    "UHS"
    ],
    "tag": "Earnings",
    "sectors": [
