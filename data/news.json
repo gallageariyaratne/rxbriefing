@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-27T01:32:48.496802+00:00",
+ "updated": "2026-10-27T01:47:44.157722+00:00",
  "quotes": {
   "A": {
    "price": 175.96,
@@ -17,6 +17,10 @@
   "ALGN": {
    "price": 152.26,
    "change_pct": -1.46
+  },
+  "ALHC": {
+   "price": 7.89,
+   "change_pct": -2.11
   },
   "ALNY": {
    "price": 227.66,
@@ -238,6 +242,10 @@
    "price": 149.26,
    "change_pct": 0.17
   },
+  "PTCT": {
+   "price": 61.07,
+   "change_pct": 0.79
+  },
   "REGN": {
    "price": 807.67,
    "change_pct": 0.33
@@ -313,14 +321,6 @@
   "WAT": {
    "price": 455.98,
    "change_pct": 0.51
-  },
-  "ZBH": {
-   "price": 97.44,
-   "change_pct": -1.14
-  },
-  "ZTS": {
-   "price": 80.97,
-   "change_pct": -0.07
   }
  },
  "tickers": {
@@ -1239,6 +1239,21 @@
    "tag": "News",
    "sectors": [
     "healthit"
+   ]
+  },
+  {
+   "id": "9f493bb492f2",
+   "headline": "TCW Concentrated Large Cap Growth Fund Q3 2026 Winners, Laggards, Buys & Sells",
+   "summary": "The TCW Concentrated Large Cap Growth Fund Q3 2026 Commentary details tech sector performance and strategic stock holdings. Read the full analysis for more details.",
+   "url": "https://finnhub.io/api/news?id=4ea6539b2c75b049f807cb87d7c671f11b0c89921f0bb24cee4c1bbf0059fb91",
+   "source": "SeekingAlpha",
+   "published": "2026-10-26T20:45:00+00:00",
+   "tickers": [
+    "AMGN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -2214,6 +2229,21 @@
    ]
   },
   {
+   "id": "8f0d27d06527",
+   "headline": "16% of Seniors Carry Medical Debt. A $12,000 Hospital Bill Could Help Someone Qualify for Medicaid Instead of Keeping Them Out",
+   "summary": "When a $12,000 hospital bill lands in a senior's lap, the instinct is to pay it off fast or put it on a credit card. That instinct can cost the family a coverage pathway most people never knew existed.",
+   "url": "https://finnhub.io/api/news?id=c53831d897808485580113900719a8ebf2a8b35b18e8805cdc37cbf007f853f3",
+   "source": "Yahoo",
+   "published": "2026-10-26T15:30:26+00:00",
+   "tickers": [
+    "ALHC"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "22fa798280f1",
    "headline": "STAT+: Merck ADC drug cut risk of death by one-third in advanced endometrial cancer",
    "summary": "A Phase 3 trial of a targeted drug developed by Merck and China\u2019s Kelun-Biotech cut by one-third the risk of death in patients with advanced endometrial cancer",
@@ -3043,6 +3073,21 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "92dc082f53aa",
+   "headline": "Liquidia Corporation (LQDA) Earnings Expected to Grow: Should You Buy?",
+   "summary": "Liquidia Corporation (LQDA) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+   "url": "https://finnhub.io/api/news?id=a56df9a21473f95dccb4887b51f99dcda18b0c657f6109cc3aae2b0693cce6f4",
+   "source": "Yahoo",
+   "published": "2026-10-26T13:00:12+00:00",
+   "tickers": [
+    "PTCT"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -36186,21 +36231,6 @@
    "tag": "Health AI",
    "sectors": [
     "healthai"
-   ]
-  },
-  {
-   "id": "f722ff842951",
-   "headline": "Robotics Remains In Its \u2018Lego Era,\u2019 Says Former Nvidia Leader Turned VC as Physical AI Awaits Its ChatGPT Moment",
-   "summary": "Robotics remains in its Lego era as developers work to improve simulation, safety standards and hardware despite rising investment.",
-   "url": "https://finnhub.io/api/news?id=5912a49943b41eb68f736af61e6d3bd3094ccd83f6da90fdc287a3017191919d",
-   "source": "Benzinga",
-   "published": "2026-10-17T01:38:59+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
