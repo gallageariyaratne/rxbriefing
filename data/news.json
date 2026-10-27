@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-27T00:47:40.386902+00:00",
+ "updated": "2026-10-27T01:03:03.030531+00:00",
  "quotes": {
   "A": {
    "price": 175.96,
@@ -261,6 +261,10 @@
   "SNY": {
    "price": 41.79,
    "change_pct": 0.46
+  },
+  "SRPT": {
+   "price": 17.98,
+   "change_pct": 1.41
   },
   "SYK": {
    "price": 306.13,
@@ -960,6 +964,37 @@
    "sectors": []
   },
   {
+   "id": "1ecd9458cd07",
+   "headline": "2 Reasons to like WAT and 1 to stay skeptical",
+   "summary": "The past six months have been a windfall for Waters Corporation\u2019s shareholders. The company\u2019s stock price has jumped 51.7%, hitting $454.91 per share. This performance may have investors wondering how to approach the situation.",
+   "url": "https://finnhub.io/api/news?id=75ab2cb990a4fbedefee386c5c7a3d8ef379e14f75addf0dabc7fa52c3d45ecc",
+   "source": "Yahoo",
+   "published": "2026-10-26T22:22:47+00:00",
+   "tickers": [
+    "WAT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "faab0f050e77",
+   "headline": "Moderna CEO Says Its Cancer Vaccine Isn\u2019t a Disappointment, It\u2019s a Blockbuster",
+   "summary": "Moderna\u2019s stock tanked Thursday following a data leak for the drugmaker\u2019s cancer-vaccine candidate, which is co-developed with Merck.",
+   "url": "https://finnhub.io/api/news?id=d6b59ba6046859bfa4677d2569c5825e0efc946cb11d75d7047d479f82de9d46",
+   "source": "Yahoo",
+   "published": "2026-10-26T22:22:00+00:00",
+   "tickers": [
+    "MRK",
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "faead057d1e1",
    "headline": "Your Pension Still Pays the Same $3,100 It Did the Day You Retired. These 3 ETFs Give You the Raise It Never Will",
    "summary": "A pension check that freezes the moment you retire quietly loses ground every year as prices climb around it. Three funds approach this problem from different angles, and how you combine them changes everything.",
@@ -998,7 +1033,8 @@
    "source": "Yahoo",
    "published": "2026-10-26T22:03:00+00:00",
    "tickers": [
-    "BIIB"
+    "BIIB",
+    "MRK"
    ],
    "tag": "Financing",
    "sectors": [
@@ -1042,6 +1078,21 @@
     "AMGN"
    ],
    "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "bb880c443867",
+   "headline": "Don't Miss This Week's 5 Most Important Earnings Charts",
+   "summary": "Microsoft, Alphabet, Vertiv, Sandisk, and Eli Lilly are must-see charts.",
+   "url": "https://finnhub.io/api/news?id=d4c9863d45a5463a1c76152135ad3724b407a471ef11427bcef9fbabf466ee86",
+   "source": "Yahoo",
+   "published": "2026-10-26T21:48:00+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "Earnings",
    "sectors": [
     "pharma"
    ]
@@ -1245,6 +1296,21 @@
    "tickers": [],
    "tag": "Health AI",
    "sectors": []
+  },
+  {
+   "id": "23a2f71b4cd6",
+   "headline": "Sarepta Therapeutics to Present at Upcoming Investor Conferences",
+   "summary": "CAMBRIDGE, Mass., October 26, 2026--Sarepta Therapeutics, Inc. (NASDAQ:SRPT), the leader in precision genetic medicine for rare diseases, today announced that senior management will participate in the following upcoming investor\u2026",
+   "url": "https://finnhub.io/api/news?id=37857ea1d55186df678d1a15a1427c3a7de137b2c771031aae3519aaae07dd26",
+   "source": "Yahoo",
+   "published": "2026-10-26T20:30:00+00:00",
+   "tickers": [
+    "SRPT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
   },
   {
    "id": "f9a6715d4ea7",
@@ -1787,6 +1853,7 @@
    "published": "2026-10-26T17:22:53+00:00",
    "tickers": [
     "AMGN",
+    "LLY",
     "PFE"
    ],
    "tag": "GLP-1",
@@ -36178,26 +36245,6 @@
     "JNJ"
    ],
    "tag": "Legal",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "2f62982b2d93",
-   "headline": "When Amgen's Forecast And Chart Say The Same Thing, Pay Attention",
-   "summary": "Amgen (AMGN) raised its revenue forecast for fiscal 2026 on August 4. Since the market close before that release, the stock has gained 15.2%, outpacing the 1.9% return of the S&P 500. A higher forecast or a climbing share price means\u2026",
-   "url": "https://finnhub.io/api/news?id=ddb56e3c9661675f49062aebfa86d5d29be9a5e9841df1481875ad51a4717ce5",
-   "source": "Yahoo",
-   "published": "2026-10-17T00:53:09+00:00",
-   "tickers": [
-    "ABBV",
-    "AMGN",
-    "BMY",
-    "JNJ",
-    "MRK",
-    "PFE"
-   ],
-   "tag": "Earnings",
    "sectors": [
     "pharma"
    ]
