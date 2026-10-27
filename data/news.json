@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-27T20:47:48.328989+00:00",
+ "updated": "2026-10-27T21:02:49.002583+00:00",
  "quotes": {
   "A": {
    "price": 177.49,
@@ -93,6 +93,10 @@
   "DVA": {
    "price": 181.69,
    "change_pct": -1.27
+  },
+  "ELV": {
+   "price": 421.49,
+   "change_pct": -2.28
   },
   "ENSG": {
    "price": 169.5,
@@ -245,10 +249,6 @@
   "RGEN": {
    "price": 175.8,
    "change_pct": -2.43
-  },
-  "RXRX": {
-   "price": 4.05,
-   "change_pct": 6.58
   },
   "SNY": {
    "price": 41.89,
@@ -922,6 +922,17 @@
  },
  "stories": [
   {
+   "id": "5bbbbfc80f95",
+   "headline": "Ferring to acquire next-gen IVF startup Gameto for up to $1.4B",
+   "summary": "The buyout hands Ferring rights to a technology capable of simplifying the lengthy and burdensome process of in vitro fertilization.",
+   "url": "https://www.biopharmadive.com/news/ferring-gameto-acquire-ivf-fertilo-womens-health/872904/",
+   "source": "BioPharma Dive",
+   "published": "2026-10-27T20:53:00+00:00",
+   "tickers": [],
+   "tag": "M&A",
+   "sectors": []
+  },
+  {
    "id": "5f0721b87e12",
    "headline": "Vanda eyes GLP-1 nausea indication with Nereus phase 3 win in hand",
    "summary": "Vanda Pharmaceuticals secured a phase 3 win for its motion sickness medicine, Nereus. The drug reduced GLP-1 related vomiting by 27% for patients on Wegovy.",
@@ -1056,7 +1067,8 @@
    "source": "Yahoo",
    "published": "2026-10-27T19:51:23+00:00",
    "tickers": [
-    "ABT"
+    "ABT",
+    "LLY"
    ],
    "tag": "News",
    "sectors": [
@@ -1104,9 +1116,25 @@
    "published": "2026-10-27T19:08:21+00:00",
    "tickers": [
     "CVS",
+    "ELV",
     "HUM"
    ],
    "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "cae9296a8d30",
+   "headline": "What Centene (CNC) Said on Its Q3 Earnings Call",
+   "summary": "Centene (NYSE:CNC) raised its full-year 2026 adjusted earnings outlook after reporting third-quarter results that exceeded its prior expectations, supported by stronger Medicare performance and in-line execution in Medicaid and commercial\u2026",
+   "url": "https://finnhub.io/api/news?id=26c9632e4a00d8cb6c3311527a31d992d784353cae341dd6b4da8475ffa39bd8",
+   "source": "Yahoo",
+   "published": "2026-10-27T19:04:23+00:00",
+   "tickers": [
+    "CNC"
+   ],
+   "tag": "Earnings",
    "sectors": [
     "payers"
    ]
@@ -1142,6 +1170,21 @@
    ]
   },
   {
+   "id": "65f5668262a2",
+   "headline": "4 Blue-Chip Dividend Stocks That Could Turn $200,000 Into Annual Retirement Income",
+   "summary": "Four blue-chip companies have quietly built dividend records spanning decades, but the real story is how a $200,000 split across them generates cash every quarter regardless of what the broader market decides to do next.",
+   "url": "https://finnhub.io/api/news?id=1bb02a0f1d8e958fd20127e25079d52eb95cf4c42c3b20f7fd15f9a07c2d71f2",
+   "source": "Yahoo",
+   "published": "2026-10-27T18:23:08+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "4b4133863249",
    "headline": "HCA Healthcare tops Q3 expectations on strong demand, but warns of persistent payer mix issues",
    "summary": "The country's largest for-profit health system opened up earnings season with strong numbers, but outlined ongoing and future headwinds that checked investor enthusiasm.",
@@ -1164,7 +1207,8 @@
    "source": "Yahoo",
    "published": "2026-10-27T18:14:47+00:00",
    "tickers": [
-    "DHR"
+    "DHR",
+    "ELV"
    ],
    "tag": "News",
    "sectors": [
@@ -1184,6 +1228,21 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "fc2fb30c0f14",
+   "headline": "IQVIA (IQV) Q3 2026 Earnings Call Transcript",
+   "summary": "Revenue hit $4.4 billion with 8% growth; net new bookings surged 15% year over year.",
+   "url": "https://finnhub.io/api/news?id=89fe18e360c2251994a7a62ae0d3ecbaff0e676b6e41131add4fffb488e0f683",
+   "source": "Yahoo",
+   "published": "2026-10-27T18:14:23+00:00",
+   "tickers": [
+    "IQV"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
    ]
   },
   {
