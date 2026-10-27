@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-27T02:17:48.689454+00:00",
+ "updated": "2026-10-27T02:23:13.825473+00:00",
  "quotes": {
   "A": {
    "price": 175.96,
@@ -190,6 +190,10 @@
    "price": 313.66,
    "change_pct": 0.69
   },
+  "LH": {
+   "price": 329.9,
+   "change_pct": 0.29
+  },
   "LLY": {
    "price": 1279.14,
    "change_pct": 0.45
@@ -317,10 +321,6 @@
   "VEEV": {
    "price": 318.18,
    "change_pct": -1.5
-  },
-  "VKTX": {
-   "price": 24.21,
-   "change_pct": -0.78
   }
  },
  "tickers": {
@@ -4366,6 +4366,21 @@
    "tag": "Clinical",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "9e4ef87bfb44",
+   "headline": "Labcorp inks Millennium Health buyout to add drug testing services",
+   "summary": "The proposed acquisition of the specialty laboratory is the third Labcorp buyout announced in eight days.",
+   "url": "https://www.medtechdive.com/news/labcorp-inks-millennium-health-buyout-to-add-drug-testing-services/833911/",
+   "source": "MedTech Dive",
+   "published": "2026-10-26T09:18:37+00:00",
+   "tickers": [
+    "LH"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "payers"
    ]
   },
   {
