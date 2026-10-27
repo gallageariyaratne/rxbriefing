@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-27T20:17:38.494918+00:00",
+ "updated": "2026-10-27T20:32:45.957897+00:00",
  "quotes": {
   "A": {
    "price": 177.49,
@@ -150,10 +150,6 @@
    "price": 414.85,
    "change_pct": -0.57
   },
-  "IART": {
-   "price": 11.99,
-   "change_pct": -0.91
-  },
   "ICLR": {
    "price": 182.98,
    "change_pct": -0.44
@@ -161,6 +157,10 @@
   "IDXX": {
    "price": 561.25,
    "change_pct": -1.57
+  },
+  "ILMN": {
+   "price": 279.47,
+   "change_pct": 3.11
   },
   "INCY": {
    "price": 116.6,
@@ -238,6 +238,10 @@
    "price": 29.8,
    "change_pct": 0.03
   },
+  "PODD": {
+   "price": 149.83,
+   "change_pct": 0.38
+  },
   "REGN": {
    "price": 816.1,
    "change_pct": 1.04
@@ -253,10 +257,6 @@
   "SNY": {
    "price": 41.89,
    "change_pct": 0.24
-  },
-  "SRPT": {
-   "price": 18.89,
-   "change_pct": 5.06
   },
   "SYK": {
    "price": 301.42,
@@ -281,6 +281,10 @@
   "TXG": {
    "price": 78.02,
    "change_pct": 6.94
+  },
+  "UHS": {
+   "price": 177.32,
+   "change_pct": -4.52
   },
   "UNH": {
    "price": 410.39,
@@ -922,6 +926,47 @@
  },
  "stories": [
   {
+   "id": "bd6a827b807f",
+   "headline": "Teva telegraphs 61 job cuts amid plans to close 'underutilized' New Jersey plant",
+   "summary": "Amid Teva\u2019s return to sales growth, the innovative-generic drugs hybrid has been taking steps to cut costs in parallel, with the downsizing push now reaching a U.S. manufacturing facility in the Garden State.",
+   "url": "https://www.fiercepharma.com/pharma/teva-telegraphs-61-job-cuts-amid-plans-close-underutilized-new-jersey-plant",
+   "source": "Fierce Pharma",
+   "published": "2026-10-27T20:30:27.058902+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "45e8d6982741",
+   "headline": "Universal Health Services, Inc. Announces Financial Results for the Three and Nine-Month Periods Ended September 30, 2026",
+   "summary": "Consolidated Results of Operations, As Reported and As Adjusted \u2013 Three-month periods ended September 3 0 , 202 6 and 202 5 :",
+   "url": "https://www.globenewswire.com/news-release/2026/10/27/3389648/0/en/universal-health-services-inc-announces-financial-results-for-the-three-and-nine-month-periods-ended-september-30-2026.html",
+   "source": "GlobeNewswire",
+   "published": "2026-10-27T20:16:00+00:00",
+   "tickers": [
+    "UHS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "62f9112eeb08",
+   "headline": "Illumina To Webcast Upcoming Investor Conference",
+   "summary": "SAN DIEGO, Oct. 27, 2026 /PRNewswire/ -- Illumina, Inc. (NASDAQ: ILMN) today announced that members of its management team will participate at the following investor conference: Upcoming Investor Conference Jefferies Global Healthcare\u2026",
+   "url": "https://www.prnewswire.com/news-releases/illumina-to-webcast-upcoming-investor-conference-302921248.html",
+   "source": "PR Newswire",
+   "published": "2026-10-27T20:15:00+00:00",
+   "tickers": [
+    "ILMN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "dd8c8d8afdf4",
    "headline": "The Ensign Group Reports Third Quarter 2026 Results; Raises 2026 Annual Earnings Guidance",
    "summary": "Conference Call and Webcast scheduled for tomorrow, October 28, 2026 at 10:00 am PT Conference Call and Webcast scheduled for tomorrow, October 28, 2026 at 10:00 am PT",
@@ -997,6 +1042,36 @@
    ]
   },
   {
+   "id": "8f590cd72789",
+   "headline": "Amgen vs. Vertex Pharmaceuticals: Massive Pharmaceutical Scale vs. Steady Drug Revenue",
+   "summary": "Amgen's quarterly revenue swings between $8.1B and $10.1B, while Vertex climbs steadily from $2.8B to $3.3B\u2014a tale of scale versus trajectory.",
+   "url": "https://finnhub.io/api/news?id=be2e3b21fd9eb83f339c1110580ecb3dd939370f9061276111c233345caa6506",
+   "source": "Yahoo",
+   "published": "2026-10-27T19:45:02+00:00",
+   "tickers": [
+    "VRTX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "e0e4ec051b45",
+   "headline": "3 US Health Insurance Stocks Built For Higher Interest Rates",
+   "summary": "Interest rates that stay higher for longer change the rules. Cash is no longer free, debt-heavy stories look more fragile, and companies with solid balance sheets and dependable cash flow can quietly gain the upper hand. That shift\u2026",
+   "url": "https://finnhub.io/api/news?id=87b4d86ac26c816054df94d7171a6c38b248d802ef2ac277bb7da1468f5b4cd1",
+   "source": "Yahoo",
+   "published": "2026-10-27T19:08:21+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "c0304e09d419",
    "headline": "STAT+: Missouri AG warns Lilly to stop requiring data from hospitals seeking 340B drug discounts",
    "summary": "Missouri AG told Lilly to stop forcing hospitals to provide claims data to receive discounted medicines under 340B, a sign more states are pushing back against drugmakers.",
@@ -1054,6 +1129,36 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "86e3aa14218b",
+   "headline": "Bristol Myers Squibb (BMY) Stock Still Looks Reasonable Below Fair Value",
+   "summary": "Bristol-Myers Squibb has climbed 48.3% over the past year, and with the stock last closing at US$61.61 the real question for you is whether that share price lines up with the cash the business is expected to generate. After a flurry of\u2026",
+   "url": "https://finnhub.io/api/news?id=fb6e9836cabf21cabbced8949a207ea513a62b5f499a5dba8b3c4487bdf5ae1f",
+   "source": "Yahoo",
+   "published": "2026-10-27T18:12:58+00:00",
+   "tickers": [
+    "BMY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "b7da3736c0a3",
+   "headline": "Johnson & Johnson (JNJ) Stock Trades At A Discount Following Its 97% Run",
+   "summary": "Johnson & Johnson has delivered strong share gains in recent years, so the key issue now is whether the current valuation is properly backed by the cash the business is expected to generate. Recent trial updates in oncology and medtech\u2026",
+   "url": "https://finnhub.io/api/news?id=e6fad90c4d8b97f2232d161198900a17156718c2cda016768537761bb31eb466",
+   "source": "Yahoo",
+   "published": "2026-10-27T18:07:18+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1117,6 +1222,7 @@
    "published": "2026-10-27T17:49:19+00:00",
    "tickers": [
     "ABT",
+    "JNJ",
     "MDT"
    ],
    "tag": "News",
@@ -1138,6 +1244,36 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "a27fc982df9c",
+   "headline": "Ecolab Q3 Earnings In-Line With Estimates, Revenues Increase Y/Y",
+   "summary": "ECL's Q3 earnings increase 5% to $2.18 per share, while revenues jump 13%, driven by strong Water and Life Sciences growth and accelerating digital sales.",
+   "url": "https://finnhub.io/api/news?id=5575a6c8f5d475bc2dd5a8aafedcd3afd43ba4f7e1ff4825ecc1e2f2ce36cc14",
+   "source": "Yahoo",
+   "published": "2026-10-27T17:30:00+00:00",
+   "tickers": [
+    "GMED"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "d3c8c7a46ae1",
+   "headline": "Here's Why You Should Hold PacBio Stock in Your Portfolio for Now",
+   "summary": "PACB's growing clinical adoption, advanced sequencing technologies and rising consumables sales support growth, but funding headwinds and margin pressures persist.",
+   "url": "https://finnhub.io/api/news?id=d0942a73d5b54955eea7ffcdf3d94eb573aacb84ffc6e653f87cd6b1b16c053f",
+   "source": "Yahoo",
+   "published": "2026-10-27T17:29:00+00:00",
+   "tickers": [
+    "GMED"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -2106,6 +2242,21 @@
    "tag": "FDA",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "8be883c621e0",
+   "headline": "Insulet's Quarterly Earnings Preview: What You Need to Know",
+   "summary": "Insulet will release its third-quarter earnings next week, and analysts anticipate a double-digit bottom-line growth.",
+   "url": "https://finnhub.io/api/news?id=dea2b83eab19275b1f1af424316b8ac677e12d724759a7a5dde0b0bf786c0321",
+   "source": "Yahoo",
+   "published": "2026-10-27T13:57:03+00:00",
+   "tickers": [
+    "PODD"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
    ]
   },
   {
