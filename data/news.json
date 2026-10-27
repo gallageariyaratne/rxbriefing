@@ -1,7 +1,11 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-27T03:17:32.673796+00:00",
+ "updated": "2026-10-27T03:32:46.479469+00:00",
  "quotes": {
+  "A": {
+   "price": 175.96,
+   "change_pct": 1.67
+  },
   "ABBV": {
    "price": 286.74,
    "change_pct": 0.39
@@ -97,6 +101,10 @@
   "CYTK": {
    "price": 60.73,
    "change_pct": -0.82
+  },
+  "DGX": {
+   "price": 242.95,
+   "change_pct": 0.44
   },
   "DHR": {
    "price": 232.97,
@@ -313,14 +321,6 @@
   "TMO": {
    "price": 684.89,
    "change_pct": 1.64
-  },
-  "TWST": {
-   "price": 145.25,
-   "change_pct": 3.81
-  },
-  "UHS": {
-   "price": 185.71,
-   "change_pct": -0.63
   }
  },
  "tickers": {
@@ -953,6 +953,21 @@
    ]
   },
   {
+   "id": "1d0d2d54fb3d",
+   "headline": "Deutsche Bank Initiates Coverage of Agilent Technologies at Buy",
+   "summary": "",
+   "url": "https://finnhub.io/api/news?id=62c9e537512e6cb978d648e347ec2aa3a50766d750d6f92ee0d52c2445aeb54f",
+   "source": "Fintel",
+   "published": "2026-10-27T01:49:21+00:00",
+   "tickers": [
+    "A"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "701fbd86e025",
    "headline": "Novartis (SWX:NOVN) Gains Fresh Trial Focus, Is The Good News Already Priced In?",
    "summary": "Novartis (SWX:NOVN) is back in focus after new late stage data on remibrutinib in relapsing multiple sclerosis and six year follow up results for Kisqali in early breast cancer reshaped attention on its pipeline. Against that backdrop,\u2026",
@@ -1069,6 +1084,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "b6d22a8aaa52",
+   "headline": "Quest Diagnostics Upgraded After Strong Q3, While Also Announcing New Test For Alzheimer's",
+   "summary": "",
+   "url": "https://finnhub.io/api/news?id=09f241fd0438043e15d828eaf040d89a0ae9fdc923f1c6db611c704da32b2fa8",
+   "source": "SeekingAlpha",
+   "published": "2026-10-26T22:53:13+00:00",
+   "tickers": [
+    "DGX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
   },
   {
    "id": "461afaa803de",
@@ -36501,21 +36531,6 @@
    "tag": "Clinical",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "43d877e07489",
-   "headline": "Thermo Fisher Scientific (TMO) Is Building A Bigger Role In Precision Diagnostics",
-   "summary": "Thermo Fisher Scientific (NYSE:TMO) is expanding its presence in proteomic biomarker analytics and immuno-oncology diagnostics, according to recent industry reports. Sector intelligence points to the group as a key provider of targeted\u2026",
-   "url": "https://finnhub.io/api/news?id=41edded3ed342441d5de01bda70b447dd724e8160e14a0cd36b2a8a68ebdcc60",
-   "source": "Yahoo",
-   "published": "2026-10-17T03:20:48+00:00",
-   "tickers": [
-    "TMO"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
    ]
   }
  ]
