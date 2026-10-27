@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-27T12:02:56.541262+00:00",
+ "updated": "2026-10-27T12:17:40.204459+00:00",
  "quotes": {
   "A": {
    "price": 175.96,
@@ -78,10 +78,6 @@
    "price": 68.03,
    "change_pct": -3.05
   },
-  "CRL": {
-   "price": 357.27,
-   "change_pct": 3.45
-  },
   "CVS": {
    "price": 92.53,
    "change_pct": -1.01
@@ -89,10 +85,6 @@
   "DGX": {
    "price": 242.95,
    "change_pct": 0.44
-  },
-  "DHR": {
-   "price": 232.97,
-   "change_pct": 1.07
   },
   "DVA": {
    "price": 184.03,
@@ -321,6 +313,14 @@
   "VKTX": {
    "price": 24.21,
    "change_pct": -0.78
+  },
+  "VRTX": {
+   "price": 517.49,
+   "change_pct": -1.23
+  },
+  "WAT": {
+   "price": 455.98,
+   "change_pct": 0.51
   }
  },
  "tickers": {
@@ -964,6 +964,66 @@
    "sectors": []
   },
   {
+   "id": "c68825cf8564",
+   "headline": "Stocks Rise Pre-Bell as Traders Await More Earnings",
+   "summary": "US equity futures were trending higher on Tuesday as traders await the latest batch of corporate ear",
+   "url": "https://finnhub.io/api/news?id=7d632badc91c41fc6796c8cd22498cd91243b0969ef9ba7e9b6890b5c9d74d77",
+   "source": "Yahoo",
+   "published": "2026-10-27T11:45:38+00:00",
+   "tickers": [
+    "HCA"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "a7c323197922",
+   "headline": "HCA Healthcare\u2019s (NYSE:HCA) Q3 2026: beats on revenue, stock soars",
+   "summary": "Hospital operator HCA Healthcare (NYSE:HCA) reported Q3 2026 results beating Wall Street\u2019s revenue expectations, with revenue up 3.6% year on year to $19.85 billion. The company expects the full year\u2019s revenue to be around $78.25 billion,\u2026",
+   "url": "https://finnhub.io/api/news?id=7928e9cb409d4ccf4d8bdddcccfa83b408e2355b2c4839c9b798f52d652adaae",
+   "source": "Yahoo",
+   "published": "2026-10-27T11:19:35+00:00",
+   "tickers": [
+    "HCA"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "0ac68ab74fc1",
+   "headline": "HCA: Q3 Earnings Snapshot",
+   "summary": "(HCA) on Tuesday reported third-quarter net income of $1.The Nashville, Tennessee-based company said it had net income of $7.",
+   "url": "https://finnhub.io/api/news?id=ac263b0a150347f420191f77f133623b4306c3e905e564e99bc169b8bcc8714c",
+   "source": "Yahoo",
+   "published": "2026-10-27T11:12:35+00:00",
+   "tickers": [
+    "HCA"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "23381f936502",
+   "headline": "Repligen: Q3 Earnings Snapshot",
+   "summary": "(RGEN) on Tuesday reported a loss of $38.On a per-share basis, the Waltham, Massachusetts-based company said it had a loss of 68 cents.",
+   "url": "https://finnhub.io/api/news?id=9b341d6d12828657bc590a3e8d83dea6330c5bd478007ab2e6c6df2c881f2779",
+   "source": "Yahoo",
+   "published": "2026-10-27T11:09:35+00:00",
+   "tickers": [
+    "RGEN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "7103ff5c9745",
    "headline": "Repligen Reports Third Quarter 2026 Financial Results and Updates Full Year 2026 Financial Guidance",
    "summary": "WALTHAM, Mass., Oct. 27, 2026 (GLOBE NEWSWIRE) -- Repligen Corporation (NASDAQ:RGEN), today reported financial results for its third quarter of 2026, covering the three-month period ended September 30, 2026. The Company is also providing\u2026",
@@ -976,6 +1036,66 @@
    "tag": "News",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "932a5849b776",
+   "headline": "Repligen Reports Third Quarter 2026 Financial Results and Updates Full Year 2026 Financial Guidance",
+   "summary": "Third quarter revenue of $209 million, a year-over-year increase of 11% as reported and 12.5% organicClosed BioLife acquisition, which fast-tracks Repligen\u2019s leadership and offering in high-growth cell therapy market Raising FY26 revenue\u2026",
+   "url": "https://finnhub.io/api/news?id=f2cc08653750a5901c3b20dd371e61d85451f7f7b4f030bcee832cd2f0213380",
+   "source": "Yahoo",
+   "published": "2026-10-27T11:00:00+00:00",
+   "tickers": [
+    "RGEN"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "c777ba94b281",
+   "headline": "HCA Healthcare Reports Third Quarter 2026 Results",
+   "summary": "NASHVILLE, Tenn., October 27, 2026--HCA Healthcare, Inc. (NYSE: HCA) today announced financial and operating results for the third quarter ended September 30, 2026.",
+   "url": "https://finnhub.io/api/news?id=f9ebf1dfa51f12d89c6f6b90cb3b3fe3fc5dbe55ca79e61704739232c42c679a",
+   "source": "Yahoo",
+   "published": "2026-10-27T11:00:00+00:00",
+   "tickers": [
+    "HCA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "d21e749bcaf5",
+   "headline": "Regeneron agrees to $270m extension to supply Ebola medicine in US",
+   "summary": "The arrangement builds on a partnership with BARDA within the US Department of Health and Human Services.",
+   "url": "https://finnhub.io/api/news?id=42243a8930ee8f7d04f78cd7fd30da7ab685777bb3e7c5140bf0bcef09617a5b",
+   "source": "Yahoo",
+   "published": "2026-10-27T10:54:07+00:00",
+   "tickers": [
+    "REGN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "126b6df26678",
+   "headline": "Centene (CNC) Q3 Earnings and Revenues Surpass Estimates",
+   "summary": "Centene (CNC) delivered earnings and revenue surprises of +728.57% and +7.63%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=733ae3adb1e84c423303565fd596ade5690c85250afcc7f86446915f5dfca720",
+   "source": "Yahoo",
+   "published": "2026-10-27T10:25:01+00:00",
+   "tickers": [
+    "CI"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
    ]
   },
   {
