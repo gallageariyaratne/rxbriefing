@@ -1,15 +1,7 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-27T12:17:40.204459+00:00",
+ "updated": "2026-10-27T12:32:49.782280+00:00",
  "quotes": {
-  "A": {
-   "price": 175.96,
-   "change_pct": 1.67
-  },
-  "ABBV": {
-   "price": 286.74,
-   "change_pct": 0.39
-  },
   "ABT": {
    "price": 104.88,
    "change_pct": 1.14
@@ -117,10 +109,6 @@
   "GILD": {
    "price": 158.69,
    "change_pct": 1.7
-  },
-  "GMED": {
-   "price": 81.83,
-   "change_pct": 0.52
   },
   "GSK": {
    "price": 51.1,
@@ -258,10 +246,6 @@
    "price": 3.8,
    "change_pct": 2.7
   },
-  "SDGR": {
-   "price": 24.5,
-   "change_pct": 2.94
-  },
   "SNY": {
    "price": 41.79,
    "change_pct": 0.46
@@ -321,6 +305,14 @@
   "WAT": {
    "price": 455.98,
    "change_pct": 0.51
+  },
+  "ZBH": {
+   "price": 97.44,
+   "change_pct": -1.14
+  },
+  "ZTS": {
+   "price": 80.97,
+   "change_pct": -0.07
   }
  },
  "tickers": {
@@ -938,6 +930,17 @@
  },
  "stories": [
   {
+   "id": "a9aaaca7036d",
+   "headline": "A possible treatment for brain-eating amoebas, found in the sea",
+   "summary": "Brain-eating amoebas are hard to treat and nearly always fatal. But researchers have isolated a compound that could help stop the disease.",
+   "url": "https://www.statnews.com/2026/10/27/health-news-possible-treatment-for-brain-eating-amoebas-found-in-sea/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-27T12:22:28+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
    "id": "7a2237548db5",
    "headline": "Centene posts $71M loss, $50.6B in revenue for Q3",
    "summary": "Centene Corporation posted a $71 million loss in the third quarter of 2026, according to its earnings report released Tuesday.",
@@ -964,6 +967,21 @@
    "sectors": []
   },
   {
+   "id": "2b34718b5257",
+   "headline": "Medtronic Quietly Raised Its Dividend Again. Is It a Buy for Income Investors?",
+   "summary": "Medtronic just extended a nearly half-century dividend streak, but its raise barely outpaces inflation while rivals like Abbott and J&J grow payouts far faster. Whether explosive growth in cardiac ablation can close that gap is the real\u2026",
+   "url": "https://finnhub.io/api/news?id=0a1d576f66b5566923d34f6adaf4d6aeaabd198d64b2cc388457a427b1c09c03",
+   "source": "Yahoo",
+   "published": "2026-10-27T11:45:55+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "c68825cf8564",
    "headline": "Stocks Rise Pre-Bell as Traders Await More Earnings",
    "summary": "US equity futures were trending higher on Tuesday as traders await the latest batch of corporate ear",
@@ -976,6 +994,51 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "606c41201662",
+   "headline": "Tenet Receives Approval for Common Shares to Trade on OTCQB Market in the U.S.",
+   "summary": "Toronto, Ontario--(Newsfile Corp. - October 27, 2026) - Tenet Fintech Group Inc. (CSE: PKK) (OTCID: PKKFF) (FSE: P0T) (\"Tenet\" or the \"Company\"), an innovative analytics service provider, owner and operator of the Cubeler Business Hub,\u2026",
+   "url": "https://finnhub.io/api/news?id=a177864b59341130c13bed413cff1c2f0940c715cbe0a09aec1e00668d462ea2",
+   "source": "Yahoo",
+   "published": "2026-10-27T11:37:00+00:00",
+   "tickers": [
+    "THC"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "0838eb28d5f9",
+   "headline": "Strong Royalties and New Launches Accelerate Halozyme Therapeutics\u2019 (HALO) Growth Momentum",
+   "summary": "Renaissance Investment Management, an investment management company, released its Q3 2026 investor letter for \u201cLarge Cap Growth Strategy.\u201d The letter can be downloaded here. Stocks showed modest gains in Q3, with the S&P 500 up 2.3%.\u2026",
+   "url": "https://finnhub.io/api/news?id=dbd0910040200d77dedb61374497bfd7c49435b995a4afd603089d2323109d3c",
+   "source": "Yahoo",
+   "published": "2026-10-27T11:32:30+00:00",
+   "tickers": [
+    "HALO"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "8a3a44edb7ea",
+   "headline": "Johnson & Johnson to Host Enterprise Business Review",
+   "summary": "NEW BRUNSWICK, N.J., October 27, 2026--Johnson & Johnson (NYSE: JNJ) will hold an Enterprise Business Review for the investment community on Tuesday, December 8th, 2026. During the event, Company leaders will provide a detailed review of\u2026",
+   "url": "https://finnhub.io/api/news?id=b29a0290c504c9b017abcb2e3556e28fb2ad77f4dad94b83e5fa302977f97efd",
+   "source": "Yahoo",
+   "published": "2026-10-27T11:30:00+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1081,6 +1144,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "ddcc26c2c95a",
+   "headline": "Earnings to watch: Boston Scientific (BSX) reports Q3 results tomorrow",
+   "summary": "Medical device company Boston Scientific (NYSE:BSX) will be reporting results this Wednesday before market open. Here\u2019s what to look for.",
+   "url": "https://finnhub.io/api/news?id=25629fa2cfab0120f1dabbc0636eaed8aea8ef61c3226f773bac95beea52cf5d",
+   "source": "Yahoo",
+   "published": "2026-10-27T10:38:47+00:00",
+   "tickers": [
+    "BSX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -36719,36 +36797,6 @@
    "tag": "News",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "6084262d8f02",
-   "headline": "How Many Shares Would It Take to Earn $1,000 a Year From This Future Dividend King?",
-   "summary": "A recent spinoff could pave the way for greater dividend growth.",
-   "url": "https://finnhub.io/api/news?id=f5c1913047ce9a631cfb97fdd7d622e85697da27010b15b896a2e61728ddda33",
-   "source": "Yahoo",
-   "published": "2026-10-17T12:26:00+00:00",
-   "tickers": [
-    "MDT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "15af64256e21",
-   "headline": "GE HealthCare Technologies (GEHC) Could Be 19% Undervalued As Imaging Push Gains Ground",
-   "summary": "GE HealthCare Technologies (GEHC) has put molecular imaging in focus after securing CE Mark approval for its MINItrace Magni cyclotron and widening PETtrace Solid Target capabilities to include Copper-64 production. GE HealthCare\u2026",
-   "url": "https://finnhub.io/api/news?id=cb9493c251a1d8f1a2e7efdf2ab5394956edd4735889d505ef366c74f7d41a83",
-   "source": "Yahoo",
-   "published": "2026-10-17T12:17:37+00:00",
-   "tickers": [
-    "GEHC"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
