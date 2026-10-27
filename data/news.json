@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-27T11:47:38.167391+00:00",
+ "updated": "2026-10-27T12:02:56.541262+00:00",
  "quotes": {
   "A": {
    "price": 175.96,
@@ -29,14 +29,6 @@
   "AMGN": {
    "price": 444.63,
    "change_pct": 1.22
-  },
-  "AMWL": {
-   "price": 13.54,
-   "change_pct": -0.22
-  },
-  "ASND": {
-   "price": 245.15,
-   "change_pct": 0.73
   },
   "AXSM": {
    "price": 144.06,
@@ -73,10 +65,6 @@
   "BSX": {
    "price": 45.58,
    "change_pct": -0.24
-  },
-  "CERT": {
-   "price": 10.61,
-   "change_pct": 2.71
   },
   "CI": {
    "price": 305.78,
@@ -321,6 +309,18 @@
   "UNH": {
    "price": 410.7,
    "change_pct": -1.77
+  },
+  "UTHR": {
+   "price": 592.84,
+   "change_pct": 0.91
+  },
+  "VEEV": {
+   "price": 318.18,
+   "change_pct": -1.5
+  },
+  "VKTX": {
+   "price": 24.21,
+   "change_pct": -0.78
   }
  },
  "tickers": {
@@ -937,6 +937,32 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "7a2237548db5",
+   "headline": "Centene posts $71M loss, $50.6B in revenue for Q3",
+   "summary": "Centene Corporation posted a $71 million loss in the third quarter of 2026, according to its earnings report released Tuesday.",
+   "url": "https://www.fiercehealthcare.com/payers/centene-posts-71m-loss-506b-revenue-q3",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-27T12:00:29.811800+00:00",
+   "tickers": [
+    "CNC"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "69699b0b3006",
+   "headline": "Parkinson\u2019s-focused Aspen and bispecific biotech Bambusa both shoot for $134M IPOs",
+   "summary": "Parkinson\u2019s disease cell therapy-focused Aspen Neuroscience and bispecific biotech Bambusa Therapeutics are each hoping to raise around $134 million from their respective IPOs.",
+   "url": "https://www.fiercebiotech.com/biotech/parkinsons-focused-aspen-and-bispecific-biotech-bambusa-both-shoot-134m-ipos",
+   "source": "Fierce Biotech",
+   "published": "2026-10-27T12:00:29.490328+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
   {
    "id": "7103ff5c9745",
    "headline": "Repligen Reports Third Quarter 2026 Financial Results and Updates Full Year 2026 Financial Guidance",
@@ -36601,55 +36627,6 @@
     "GEHC"
    ],
    "tag": "FDA",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "81a99040cb16",
-   "headline": "Apple, Salesforce Lead Five Stocks Near Buy Points",
-   "summary": "Apple and Salesforce are doing well while the AI buildout sector reels. Consumer and healthcare names are coming to the fore.",
-   "url": "https://finnhub.io/api/news?id=53a55220f905a01a13aebe28c0e17e961ca5baaea49729d0b827fa8c8a3a40eb",
-   "source": "Yahoo",
-   "published": "2026-10-17T12:00:51+00:00",
-   "tickers": [
-    "TGTX",
-    "THC"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "4a4b713f9cdb",
-   "headline": "AbbVie\u2019s Dividend Keeps Climbing. Is It Still a Buy for Income Investors?",
-   "summary": "AbbVie's stock has surged nearly 29% this year, but a rising share price compresses the yield even as the dividend keeps growing. Before adding shares for income, consider what the pending Apogee deal and lingering debt load could mean\u2026",
-   "url": "https://finnhub.io/api/news?id=3cd6b334dacd22b1da54c95de7946c5985810e696ccdc4478ddbe6dac4398fb7",
-   "source": "Yahoo",
-   "published": "2026-10-17T12:00:20+00:00",
-   "tickers": [
-    "ABBV",
-    "ABT",
-    "BMY",
-    "JNJ"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "7254b2267f89",
-   "headline": "3 Stocks Delivering Bigger Dividends Despite Market Uncertainty",
-   "summary": "T-Mobile, GE HealthCare, and Danaos all recently raised dividends with low payout ratios, including T-Mobile's near-15% hike after SpaceX's spectrum deal hit its stock.",
-   "url": "https://finnhub.io/api/news?id=929a78b336cf58416ea0557fa0af354e83f2e79a21b42dc720d79795cceeb120",
-   "source": "Yahoo",
-   "published": "2026-10-17T12:00:00+00:00",
-   "tickers": [
-    "GEHC"
-   ],
-   "tag": "News",
    "sectors": [
     "medtech"
    ]
