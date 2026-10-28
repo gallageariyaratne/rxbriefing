@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-28T08:17:30.973219+00:00",
+ "updated": "2026-10-28T08:32:49.658928+00:00",
  "quotes": {
   "A": {
    "price": 177.49,
@@ -21,10 +21,6 @@
   "ALGN": {
    "price": 151.95,
    "change_pct": -0.2
-  },
-  "ALNY": {
-   "price": 226.79,
-   "change_pct": -0.38
   },
   "ALT": {
    "price": 2.04,
@@ -306,10 +302,6 @@
    "price": 186.22,
    "change_pct": 1.26
   },
-  "SNY": {
-   "price": 41.89,
-   "change_pct": 0.24
-  },
   "SYK": {
    "price": 301.42,
    "change_pct": -1.54
@@ -321,6 +313,14 @@
   "TEM": {
    "price": 72.15,
    "change_pct": 7.43
+  },
+  "TGTX": {
+   "price": 56.44,
+   "change_pct": 3.01
+  },
+  "THC": {
+   "price": 262.05,
+   "change_pct": -2.57
   }
  },
  "tickers": {
@@ -938,6 +938,50 @@
  },
  "stories": [
   {
+   "id": "8f239402dbc9",
+   "headline": "Opinion: How pediatricians like me are helping families stay calm and informed about measles",
+   "summary": "\u201cIt is dizzying to have a family clamoring for the MMR vaccine in one room while the room next door adamantly opposes vaccination,\u201d writes a pediatrician.",
+   "url": "https://www.statnews.com/2026/10/28/measles-parents-panic-pennsylvania-vaccines-education/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-28T08:30:00+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "f7a7ef204cf5",
+   "headline": "Have you been impacted by Epic\u2019s actions?",
+   "summary": "STAT is looking to learn, from people with direct knowledge, how Epic's actions impact hospitals' technology choices. Share your story with us.",
+   "url": "https://www.statnews.com/2026/10/28/epic-systems-electronic-health-records-reader-callout/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-28T08:30:00+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "62a8be72a190",
+   "headline": "Opinion: Freezing my eggs showed me just how anti-feminist the fertility industry can be",
+   "summary": "\u201cA few years ago, I froze my eggs \u2014 and the experience was anything but empowering,\u201d writes physician Pooja Yerramilli.",
+   "url": "https://www.statnews.com/2026/10/28/fertility-industry-private-equity-egg-freezing-ethics-costs/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-28T08:30:00+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "19414085057a",
+   "headline": "STAT+: As Epic\u2019s dominance grows, its iron grip is choking innovation in health technology",
+   "summary": "A STAT investigation found that Epic selectively withholds access to patient data, disadvantaging rival software developers and stymying innovation.",
+   "url": "https://www.statnews.com/2026/10/28/epic-systems-ehr-dominance-health-tech-antitrust-scrutiny/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-28T08:30:00+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
    "id": "75d1dd143229",
    "headline": "Eli Lilly surges up diabetes reputation rankings to close in on Novo",
    "summary": "Eli Lilly has jumped up a ranking of the corporate reputations of diabetes drugmakers, putting it hot on the heels of Novo.",
@@ -965,6 +1009,21 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "5e56773e727a",
+   "headline": "Tenet Healthcare (THC) reports earnings tomorrow: what to expect",
+   "summary": "Hospital operator Tenet Healthcare (NYSE:THC) will be reporting results this Thursday before market open. Here\u2019s what to look for.",
+   "url": "https://finnhub.io/api/news?id=6da4c72b2064d59a296fae35be5921a5c64b5c0266b0d57cf83f2043b35de559",
+   "source": "Yahoo",
+   "published": "2026-10-28T07:18:34+00:00",
+   "tickers": [
+    "THC"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -41689,22 +41748,6 @@
    "tag": "Analyst",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "bf4465cc250c",
-   "headline": "Earnings Volatility Watch: Bloom Energy and Other 11 Stocks Are Priced For Double-Digit Swings",
-   "summary": "Options price moves above 10% in 12 stocks next week, from TTM Technologies at 20.73% to Stifel Financial at 10.03%. The reports land after a chip and memory selloff that also hit CoreWeave",
-   "url": "https://finnhub.io/api/news?id=5c78bcce8cd0cc2226cc7783c6eead9b62cb211292a3c27b37fb45d52b6b91ab",
-   "source": "Benzinga",
-   "published": "2026-10-18T08:30:16+00:00",
-   "tickers": [
-    "MEDP",
-    "MOH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
    ]
   }
  ]
