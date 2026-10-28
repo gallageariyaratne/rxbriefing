@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-28T01:02:52.474813+00:00",
+ "updated": "2026-10-28T01:17:48.934187+00:00",
  "quotes": {
   "A": {
    "price": 177.49,
@@ -249,6 +249,10 @@
   "PODD": {
    "price": 149.83,
    "change_pct": 0.38
+  },
+  "RARE": {
+   "price": 16.75,
+   "change_pct": 4.17
   },
   "REGN": {
    "price": 816.1,
@@ -1384,6 +1388,36 @@
    ]
   },
   {
+   "id": "91144e4a6d9b",
+   "headline": "Ultragenyx to Host Conference Call for Third Quarter 2026 Financial Results and Corporate Update",
+   "summary": "NOVATO, Calif., Oct. 27, 2026 (GLOBE NEWSWIRE) -- Ultragenyx Pharmaceutical Inc. (NASDAQ: RARE), a biopharmaceutical company focused on the development and commercialization of novel products for serious rare and ultra-rare genetic\u2026",
+   "url": "https://finnhub.io/api/news?id=33fc4fc4cf3a66760ad99333fbae18ae587851536a7ab5a275df2a7419c635dd",
+   "source": "Yahoo",
+   "published": "2026-10-27T20:05:00+00:00",
+   "tickers": [
+    "RARE"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "289665503853",
+   "headline": "10x Genomics to Participate in the 2026 Jefferies Global Healthcare Conference",
+   "summary": "10x Genomics, Inc. (Nasdaq: TXG), the life science technology leader focused on accelerating science and advancing human health, announced today that members of its management team will participate in a fireside chat at the 2026 Jefferies\u2026",
+   "url": "https://finnhub.io/api/news?id=fedc0808c3fa70e6349b7fc001bd4e4b7a38f24889f76f9121508321a41fbfd8",
+   "source": "Yahoo",
+   "published": "2026-10-27T20:05:00+00:00",
+   "tickers": [
+    "TXG"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "d0e5c001e1d3",
    "headline": "What IQVIA (IQV) Said on Its Q3 Earnings Call",
    "summary": "IQVIA (NYSE:IQV) reported third-quarter results that exceeded the high end of its guidance ranges, supported by accelerating organic growth in its Commercial Solutions and R&D Solutions businesses, higher clinical win rates and strong\u2026",
@@ -1817,6 +1851,21 @@
    "tickers": [],
    "tag": "Legal",
    "sectors": []
+  },
+  {
+   "id": "ec5963d4c918",
+   "headline": "AstraZeneca may start work on cancer vaccines, CEO says",
+   "summary": "Investing.com -- AstraZeneca Plc is considering developing cancer vaccines, entering one of the most active areas of oncology research where questions remain about the technology's broad application.",
+   "url": "https://finnhub.io/api/news?id=5814ba64c50a33b883c4ac52d255a8a9043df8dbdd582532700c753953dbcabc",
+   "source": "Yahoo",
+   "published": "2026-10-27T17:57:38+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "7d8ce61c78c1",
@@ -2615,6 +2664,21 @@
    ]
   },
   {
+   "id": "c8ca77154a37",
+   "headline": "Tremont AI Announces New Research Collaboration to Develop AI Models for Preclinical Safety Assessment",
+   "summary": "BOSTON, October 27, 2026--Tremont AI announces a research collaboration with AstraZeneca to develop and evaluate AI models for preclinical safety assessment.",
+   "url": "https://finnhub.io/api/news?id=82645e3883f5cd49fdd0e351c5380383ff98a5964fdf9e9e12c8ca9c25f5fe5e",
+   "source": "Yahoo",
+   "published": "2026-10-27T15:00:00+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "8ffe4f5ef62e",
    "headline": "BIO (BIO) vs. TMO and DHR: Can Activist Pressure Close Bio-Rad\u2019s Valuation Discount?",
    "summary": "Is BIO a good stock to buy? We came across a bullish thesis on Bio-Rad Laboratories, Inc. on One Idea Per Day\u2019s Substack by Paul. The thesis was published on July 21st, when the stock was trading at $281.11, and BIO has gained 32.48%\u2026",
@@ -2810,6 +2874,21 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "1d30847064fe",
+   "headline": "AstraZeneca offers compelling risk-reward into 2027 pipeline readouts, says JPMorgan",
+   "summary": "AstraZeneca PLC (LSE:AZN, NYSE:AZN) offers a compelling risk-reward opportunity ahead of a busy slate of late-stage trial readouts in 2027, according to JPMorgan. The broker said upcoming Phase III results could collectively unlock more\u2026",
+   "url": "https://finnhub.io/api/news?id=d4918d7a43f583408d8f7c0c148bd726cd1d69e8bd8123cd2444984c3add64f4",
+   "source": "Yahoo",
+   "published": "2026-10-27T14:30:00+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -3306,7 +3385,8 @@
    "source": "Yahoo",
    "published": "2026-10-27T13:00:18+00:00",
    "tickers": [
-    "JAZZ"
+    "JAZZ",
+    "RARE"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -3989,6 +4069,7 @@
    "source": "Yahoo",
    "published": "2026-10-27T11:56:00+00:00",
    "tickers": [
+    "AZN",
     "JNJ",
     "LLY",
     "MRK"
@@ -5047,6 +5128,21 @@
    ]
   },
   {
+   "id": "58b80cd766dc",
+   "headline": "Enhertu\u00ae Approved in the EU as Adjuvant Treatment for Patients with Residual Disease After Neoadjuvant Treatment for HER2 Positive Early Breast Cancer",
+   "summary": "TOKYO, October 27, 2026--Enhertu Approved in the EU as Adjuvant Treatment for Patients with Residual Disease After Neoadjuvant Treatment for HER2 Positive Early Breast Cancer",
+   "url": "https://finnhub.io/api/news?id=06502b331810cf4ffe15bb10590e7301fb3f3d3fa986ac1f1d6466724ff0cfaa",
+   "source": "Yahoo",
+   "published": "2026-10-27T07:30:00+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "2e559ff10694",
    "headline": "IBRX Stock Rises Overnight: Jim Cramer Backs ImmunityBio As A \u2018Very Good Spec\u2019 Amid Biotech Takeover Wave",
    "summary": "ImmunityBio expects November results from a 366-patient Anktiva trial and plans a fourth-quarter FDA filing.",
@@ -5328,6 +5424,21 @@
     "NVS"
    ],
    "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "5d9bae9c79ee",
+   "headline": "Innate Pharma: PACIFIC-9 Phase 3 Trial Readout Timing Updated to H1 2027",
+   "summary": "MARSEILLE, France, October 27, 2026--Regulatory News: Innate Pharma SA (Euronext Paris: IPH; Nasdaq: IPHA) (\"Innate\" or the \"Company\") today announced that AstraZeneca has updated the expected timing for the PACIFIC-9 Phase 3 trial\u2026",
+   "url": "https://finnhub.io/api/news?id=24dab94facb141bff02bbcfd60cc7bdc7ed2df5c3cf28322582fb0f8ee6c360a",
+   "source": "Yahoo",
+   "published": "2026-10-27T06:00:00+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "Clinical",
    "sectors": [
     "pharma"
    ]
