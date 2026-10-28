@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-28T02:02:51.856164+00:00",
+ "updated": "2026-10-28T02:14:57.775858+00:00",
  "quotes": {
   "A": {
    "price": 177.49,
@@ -77,6 +77,10 @@
   "CRL": {
    "price": 358.84,
    "change_pct": 0.44
+  },
+  "CRSP": {
+   "price": 51.47,
+   "change_pct": 5.02
   },
   "CVS": {
    "price": 91.13,
@@ -201,10 +205,6 @@
   "LEGN": {
    "price": 21.56,
    "change_pct": 5.74
-  },
-  "LFST": {
-   "price": 13.1,
-   "change_pct": 0.31
   },
   "LH": {
    "price": 331.17,
@@ -3144,6 +3144,7 @@
    "source": "Yahoo",
    "published": "2026-10-27T14:15:00+00:00",
    "tickers": [
+    "CRSP",
     "GILD",
     "PFE",
     "VRTX"
