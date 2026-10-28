@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-28T01:47:37.742567+00:00",
+ "updated": "2026-10-28T02:02:51.856164+00:00",
  "quotes": {
   "A": {
    "price": 177.49,
@@ -218,6 +218,10 @@
    "price": 967.02,
    "change_pct": -2.6
   },
+  "MDGL": {
+   "price": 440.33,
+   "change_pct": 0.59
+  },
   "MDT": {
    "price": 93.95,
    "change_pct": -0.89
@@ -246,6 +250,10 @@
    "price": 156.86,
    "change_pct": 1.98
   },
+  "PACB": {
+   "price": 2.45,
+   "change_pct": 8.89
+  },
   "PFE": {
    "price": 29.8,
    "change_pct": 0.03
@@ -269,6 +277,10 @@
   "RGEN": {
    "price": 175.8,
    "change_pct": -2.43
+  },
+  "RVMD": {
+   "price": 186.22,
+   "change_pct": 1.26
   },
   "SNY": {
    "price": 41.89,
@@ -309,18 +321,6 @@
   "UNH": {
    "price": 410.39,
    "change_pct": -0.08
-  },
-  "VKTX": {
-   "price": 24.89,
-   "change_pct": 2.81
-  },
-  "VRTX": {
-   "price": 521.03,
-   "change_pct": 0.68
-  },
-  "WAT": {
-   "price": 468.55,
-   "change_pct": 2.76
   }
  },
  "tickers": {
@@ -1088,6 +1088,21 @@
    ]
   },
   {
+   "id": "1ecef1a9f91a",
+   "headline": "TG Therapeutics (TGTX) Stock May Be Underpriced Relative To Earnings",
+   "summary": "TG Therapeutics has turned into one of the more eye catching biotech stories on Nasdaq in recent years, and the share price move now raises a simple question for you as an investor: Is the current valuation of TG Therapeutics still\u2026",
+   "url": "https://finnhub.io/api/news?id=e474bddd1507cb577eb0aaf723f9ea3bc30df6b2bf931ee6626250e173ac8dc9",
+   "source": "Yahoo",
+   "published": "2026-10-27T22:12:45+00:00",
+   "tickers": [
+    "TGTX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "d76bb47f4b6e",
    "headline": "Tempus AI (TEM) Could Be 5% Undervalued After Bristol Myers And Pathos Deals",
    "summary": "Tempus AI (TEM) just deepened its ties with Bristol Myers Squibb and Pathos AI, securing long-term data licensing deals that spotlight its role in real-world oncology and neuroscience datasets. Tempus AI has been volatile, with the share\u2026",
@@ -1116,6 +1131,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "7d588eaee17f",
+   "headline": "Billionaire Stanley Druckenmiller Added to Revolution Medicines Before Its FDA Win. Is the Stock Still a Buy After a 134% Run?",
+   "summary": "The biotech has experienced a pullback in recent weeks.",
+   "url": "https://finnhub.io/api/news?id=cfefaa980ebbce4818db5f95a0eb20634ad358ae32e100c9f96e221631d765e9",
+   "source": "Yahoo",
+   "published": "2026-10-27T22:01:00+00:00",
+   "tickers": [
+    "RVMD"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -1177,6 +1207,21 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "d9d33f661e8e",
+   "headline": "How Investors Are Reacting To TG Therapeutics (TGTX) Early MS Cell Therapy Data",
+   "summary": "TG Therapeutics reported early Phase 1 data for azer-cel in progressive multiple sclerosis and presented extensive long term and real world BRIUMVI findings at MSToronto2026. The combination of first in class allogeneic CAR T clinical\u2026",
+   "url": "https://finnhub.io/api/news?id=564173cb9df2374f2852c3a065836a8ba95e3b0fd8cccdef12550ac67b35716c",
+   "source": "Yahoo",
+   "published": "2026-10-27T21:10:36+00:00",
+   "tickers": [
+    "TGTX"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -1476,6 +1521,36 @@
    "published": "2026-10-27T20:05:00+00:00",
    "tickers": [
     "TXG"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "5ee1aa2b348f",
+   "headline": "Revolution Medicines to Participate in November 2026 Investor Conferences",
+   "summary": "REDWOOD CITY, Calif., Oct. 27, 2026 (GLOBE NEWSWIRE) -- Revolution Medicines, Inc. (Nasdaq: RVMD), a global, commercial-stage oncology company dedicated to discovering, developing and delivering innovative medicines for patients with\u2026",
+   "url": "https://finnhub.io/api/news?id=71cfdd3ac9994701fbbb0d982aab48148902eb5d7667d47c3c2fabec9ea6e9e6",
+   "source": "Yahoo",
+   "published": "2026-10-27T20:05:00+00:00",
+   "tickers": [
+    "RVMD"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "411f0d39c6e9",
+   "headline": "PacBio to Participate in Upcoming Investor Conferences",
+   "summary": "MENLO PARK, Calif., Oct. 27, 2026 (GLOBE NEWSWIRE) -- PacBio (NASDAQ: PACB), a leading developer of high-quality, highly accurate sequencing solutions, announced today that management will be participating in the following upcoming\u2026",
+   "url": "https://finnhub.io/api/news?id=9ddcea37d5abdfe18c79065ee14e8ffe555a6c434fee78aec31a41266077b5d8",
+   "source": "Yahoo",
+   "published": "2026-10-27T20:05:00+00:00",
+   "tickers": [
+    "PACB"
    ],
    "tag": "News",
    "sectors": [
@@ -2004,7 +2079,8 @@
    "published": "2026-10-27T17:47:47+00:00",
    "tickers": [
     "AMGN",
-    "CAH"
+    "CAH",
+    "NTRA"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -2049,11 +2125,27 @@
    "source": "Yahoo",
    "published": "2026-10-27T17:29:00+00:00",
    "tickers": [
-    "GMED"
+    "GMED",
+    "PACB"
    ],
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "28b8c7cc38dd",
+   "headline": "1 of Wall Street\u2019s favorite stocks worth your attention and 2 we turn down",
+   "summary": "Wall Street has set ambitious price targets for the stocks in this article. While this suggests attractive upside potential, it\u2019s important to remain skeptical because analysts face institutional pressures that can sometimes lead to\u2026",
+   "url": "https://finnhub.io/api/news?id=b4b19ed19083efdba2dd25cd3f7b930a5eef14a6a26af1868b9bcf43fb5b53a4",
+   "source": "Yahoo",
+   "published": "2026-10-27T17:26:47+00:00",
+   "tickers": [
+    "PACB"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -2606,7 +2698,8 @@
    "published": "2026-10-27T15:16:00+00:00",
    "tickers": [
     "GMED",
-    "HCA"
+    "HCA",
+    "TGTX"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -3505,6 +3598,36 @@
    ]
   },
   {
+   "id": "4ce4edc960cc",
+   "headline": "Will Madrigal (MDGL) Report Negative Earnings Next Week? What You Should Know",
+   "summary": "Madrigal (MDGL) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+   "url": "https://finnhub.io/api/news?id=0b625e042b2e52a971d3556384f55af832a699d2ac3abd7bffe0698ca05eb162",
+   "source": "Yahoo",
+   "published": "2026-10-27T13:00:17+00:00",
+   "tickers": [
+    "MDGL"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "bebfff9bb6d8",
+   "headline": "Mirum Pharmaceuticals, Inc. (MIRM) Expected to Beat Earnings Estimates: What to Know Ahead of Q3 Release",
+   "summary": "Mirum Pharmaceuticals (MIRM) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+   "url": "https://finnhub.io/api/news?id=9908ec6d1b1474a7fe90b1a4206cdb09366b823e917775e7bc1a83e96cc4a284",
+   "source": "Yahoo",
+   "published": "2026-10-27T13:00:17+00:00",
+   "tickers": [
+    "TGTX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "14faff256939",
    "headline": "Will Kura Oncology (KURA) Report Negative Q3 Earnings? What You Should Know",
    "summary": "Kura Oncology (KURA) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
@@ -3705,6 +3828,21 @@
    "tag": "Earnings",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "a3eb25f3b63b",
+   "headline": "What 3 multibillion dollar biotechs still have to prove",
+   "summary": "Summit, Abivax and Viking have lofty valuations but no FDA-approved products. Each faces a different test of its clinical promise and commercial potential.",
+   "url": "https://finnhub.io/api/news?id=de6e14ec844cf0832060ba40081f1458085d90ea4dc3841957ef1476563d094f",
+   "source": "Yahoo",
+   "published": "2026-10-27T12:48:59+00:00",
+   "tickers": [
+    "RVMD"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -3944,7 +4082,8 @@
    "source": "Yahoo",
    "published": "2026-10-27T12:21:00+00:00",
    "tickers": [
-    "HSIC"
+    "HSIC",
+    "TGTX"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -4158,6 +4297,21 @@
    ]
   },
   {
+   "id": "bfcdcf605765",
+   "headline": "Madrigal to Present Multiple Abstracts at AASLD's The Liver Meeting 2026, Including New Real-World Evidence Reinforcing Rezdiffra as a Foundational Therapy for MASH",
+   "summary": "Rezdiffra\u00ae (resmetirom) to be featured in more abstracts than any other approved or investigational MASH therapyReal-world evidence abstracts examine Rezdiffra effectiveness, tolerability and treatment persistence in clinical practice;\u2026",
+   "url": "https://finnhub.io/api/news?id=df9c19e0ef59dc7664fd6f56fa2d4ec6a43b84759cabd8886cc8cd05c457c0c8",
+   "source": "Yahoo",
+   "published": "2026-10-27T12:00:00+00:00",
+   "tickers": [
+    "MDGL"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "5446105ea9ca",
    "headline": "IQVIA\u2019s (NYSE:IQV) Q3 2026: beats on revenue",
    "summary": "Clinical research company IQVIA (NYSE: IQV) reported Q3 2026 results exceeding the market\u2019s revenue expectations, with revenue up 8% year on year to $4.43 billion. The company expects the full year\u2019s revenue to be around $17.43 billion,\u2026",
@@ -4266,6 +4420,21 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "5b56f61e7ac5",
+   "headline": "Signatera\u2122 Genome with Phased and Structural Variants Highlighted in ESMO Presidential Symposium, Supporting the Critical Role of MRD-Guided Treatment in Bladder Cancer",
+   "summary": "AUSTIN, Texas, October 27, 2026--Natera, Inc. (NASDAQ: NTRA), a global leader in cell-free DNA and precision medicine, today provided a summary of key findings from the European Society for Medical Oncology (ESMO) Congress 2026. Following\u2026",
+   "url": "https://finnhub.io/api/news?id=3cc19c74b4d11c0d56e8af5569a6d67d4a3305acdc172fadc78a8af267fd3e65",
+   "source": "Yahoo",
+   "published": "2026-10-27T11:45:00+00:00",
+   "tickers": [
+    "NTRA"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -4384,6 +4553,21 @@
     "IQV"
    ],
    "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "0c46f5f4386f",
+   "headline": "Natera (NTRA): Signatera Momentum Strengthens Growth Outlook",
+   "summary": "Fred Alger Management, an investment management company, released its third-quarter 2026 investor letter for \u201cAlger Capital Appreciation Fund.\u201d The letter can be downloaded here. The Fund outperformed the Russell 1000 Growth Index, with\u2026",
+   "url": "https://finnhub.io/api/news?id=e12ba35d51cda6dacdf63f1f00bf549efa980fdaa2cfe06783908c6bf5a7d7f5",
+   "source": "Yahoo",
+   "published": "2026-10-27T11:15:30+00:00",
+   "tickers": [
+    "NTRA"
+   ],
+   "tag": "News",
    "sectors": [
     "tools"
    ]
