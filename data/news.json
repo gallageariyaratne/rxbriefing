@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-28T00:47:36.792705+00:00",
+ "updated": "2026-10-28T01:02:52.474813+00:00",
  "quotes": {
   "A": {
    "price": 177.49,
@@ -174,6 +174,10 @@
    "price": 271.55,
    "change_pct": -0.75
   },
+  "IRTC": {
+   "price": 123.75,
+   "change_pct": 1.49
+  },
   "ISRG": {
    "price": 445.88,
    "change_pct": -1.27
@@ -189,6 +193,10 @@
   "KRYS": {
    "price": 320.58,
    "change_pct": 2.21
+  },
+  "LEGN": {
+   "price": 21.56,
+   "change_pct": 5.74
   },
   "LFST": {
    "price": 13.1,
@@ -921,6 +929,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "d3bb178a62a6",
+   "headline": "$10,000 Invested in Eli Lilly 5 Years Ago Would Be Worth This Much Today",
+   "summary": "The company has made longtime shareholders much richer.",
+   "url": "https://finnhub.io/api/news?id=5bdafd13a1f3988fdf3bd2fccafbfe0f51a8424514801dca24d56e32ddcfeda2",
+   "source": "Yahoo",
+   "published": "2026-10-27T23:28:00+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
   {
    "id": "590c77e5b8f9",
    "headline": "Bristol Myers Squibb (BMY) Stock Fair Value Edges Lower On Split Analyst Views",
@@ -1987,7 +2010,8 @@
    "source": "Yahoo",
    "published": "2026-10-27T17:10:47+00:00",
    "tickers": [
-    "CI"
+    "CI",
+    "IRTC"
    ],
    "tag": "News",
    "sectors": [
@@ -2683,6 +2707,21 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "dc5b2afd0b03",
+   "headline": "NVS' Q3 Earnings Top Estimates on Strong Key Drug Sales, Revenues Miss",
+   "summary": "Novartis beats Q3 earnings estimates and raises its 2026 operating income outlook as Kisqali, Kesimpta and Scemblix offset generic competition.",
+   "url": "https://finnhub.io/api/news?id=67274851402601b2de66501b1700f7c2ff726e758d234e35191027740bf4ff43",
+   "source": "Yahoo",
+   "published": "2026-10-27T14:49:00+00:00",
+   "tickers": [
+    "IONS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -3587,6 +3626,21 @@
    ]
   },
   {
+   "id": "2f410d719035",
+   "headline": "Legend Biotech Corporation Sponsored ADR (LEGN) Crossed Above the 50-Day Moving Average: What That Means for Investors",
+   "summary": "Is it a good or bad thing when a stock surpasses resistance at the 50-day simple moving average?",
+   "url": "https://finnhub.io/api/news?id=eb3030e66533ad69c7b1c8c10bf5562aeeb9866e903e62f73ca3a9f26ec74731",
+   "source": "Yahoo",
+   "published": "2026-10-27T12:30:02+00:00",
+   "tickers": [
+    "LEGN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "2abb257afd8a",
    "headline": "NORD and Amgen Launch Learning Collaborative to Improve Rare Disease Diagnosis and Care",
    "summary": "New Initiative Will Bring Together NORD\u00ae Rare Disease Centers of Excellence to Address Challenges in Two Rare Autoimmune Diseases and Develop Approaches that Could Benefit Other Rare Disease Communities WASHINGTON, Oct. 27, 2026\u2026",
@@ -3880,6 +3934,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "7da240b4a06e",
+   "headline": "Legend Biotech to Host Investor Conference Call on Third Quarter 2026 Results",
+   "summary": "BRIDGEWATER N.J., Oct. 27, 2026 (GLOBE NEWSWIRE) -- Legend Biotech Corporation (NASDAQ: LEGN) (Legend Biotech), a global leader in cell therapy, will host a conference call for investors at 8:00 a.m. ET on Tuesday, November 10, 2026, to\u2026",
+   "url": "https://finnhub.io/api/news?id=c0e00fba8be373c5d4b10808d9e8bbbef5c09ad1f8c2a910f71b9e7b26cf7ece",
+   "source": "Yahoo",
+   "published": "2026-10-27T12:00:00+00:00",
+   "tickers": [
+    "LEGN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
