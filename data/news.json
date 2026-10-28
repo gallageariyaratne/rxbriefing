@@ -1,7 +1,23 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-28T12:32:41.892558+00:00",
+ "updated": "2026-10-28T12:47:38.725012+00:00",
  "quotes": {
+  "A": {
+   "price": 177.49,
+   "change_pct": 0.87
+  },
+  "ABBV": {
+   "price": 286.39,
+   "change_pct": -0.12
+  },
+  "ABT": {
+   "price": 103.1,
+   "change_pct": -1.7
+  },
+  "ALGN": {
+   "price": 151.95,
+   "change_pct": -0.2
+  },
   "ALHC": {
    "price": 8.05,
    "change_pct": 2.03
@@ -102,10 +118,6 @@
    "price": 169.5,
    "change_pct": -4.19
   },
-  "EW": {
-   "price": 90.82,
-   "change_pct": 0.29
-  },
   "EXEL": {
    "price": 65.35,
    "change_pct": 0.37
@@ -125,10 +137,6 @@
   "GILD": {
    "price": 159.08,
    "change_pct": 0.25
-  },
-  "GKOS": {
-   "price": 181.17,
-   "change_pct": 1.63
   },
   "GMED": {
    "price": 80.9,
@@ -246,6 +254,10 @@
    "price": 156.86,
    "change_pct": 1.98
   },
+  "OMCL": {
+   "price": 36.76,
+   "change_pct": -0.57
+  },
   "PACB": {
    "price": 2.45,
    "change_pct": 8.89
@@ -305,6 +317,10 @@
   "TMO": {
    "price": 693.02,
    "change_pct": 1.19
+  },
+  "TWST": {
+   "price": 159.85,
+   "change_pct": 10.05
   }
  },
  "tickers": {
@@ -922,6 +938,21 @@
  },
  "stories": [
   {
+   "id": "ac45c19bd60a",
+   "headline": "Lilly\u2019s retatrutide bests Ozempic on blood sugar, weight loss in phase 3 diabetes showdown",
+   "summary": "Eli Lilly\u2019s triple-G drug candidate retatrutide has beaten Novo\u2019s Ozempic in a head-to-head phase 3 trial, driving deeper reductions in blood sugar and body weight across the 80-week study.",
+   "url": "https://www.fiercebiotech.com/biotech/eli-lillys-retatrutide-tops-ozempic-phase-3-diabetes-showdown",
+   "source": "Fierce Biotech",
+   "published": "2026-10-28T12:45:22.182668+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "1bfd8fbfdee8",
    "headline": "Supernus shreds ADHD stigma with Olympic snowboarder Chloe Kim",
    "summary": "The Olympic athlete and Qelbree user is the new face of Supernus' \"Ms. Represented\" campaign as it looks to reach a younger audience with its ADHD awareness messaging.",
@@ -988,7 +1019,8 @@
    "source": "Yahoo",
    "published": "2026-10-28T11:30:28+00:00",
    "tickers": [
-    "A"
+    "A",
+    "ILMN"
    ],
    "tag": "News",
    "sectors": [
@@ -1067,6 +1099,21 @@
    ]
   },
   {
+   "id": "eb94634be2d5",
+   "headline": "GE HealthCare shares jump as strong Q3 results prompt outlook raise",
+   "summary": "Investing.com -- GE HealthCare shares jumped more than 4% in premarket trading Wednesday after the medical imaging company beat third-quarter profit and revenue estimates and raised its 2026 outlook.",
+   "url": "https://finnhub.io/api/news?id=f91583d4ff8e718eb72f938ddc09bf05584b6ecf5e38e1bbe58debd97d4d46e5",
+   "source": "Yahoo",
+   "published": "2026-10-28T11:03:57+00:00",
+   "tickers": [
+    "GEHC"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "72d7b28a9ec5",
    "headline": "Enanta Pharmaceuticals Announces Planned Retirement of Longstanding Chief Executive Officer Jay R. Luly, Ph.D. After 23 Years of Company Leadership",
    "summary": "WATERTOWN, Mass., October 28, 2026--Enanta Pharmaceuticals, Inc. (NASDAQ:ENTA), a clinical-stage biotechnology company dedicated to creating small molecule drugs for viral infections and immunological diseases, announces today that Jay R.\u2026",
@@ -1079,6 +1126,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "b40094ffdf20",
+   "headline": "Adagene Announces Dosing of First Patient in Phase 1 Study of Muzastotug in Combination with Incyte\u2019s INCA33890 in Patients with Microsatellite Stable Colorectal Cancer",
+   "summary": "Phase 1 study to evaluate the combination of muzastotug, a masked anti-CTLA-4 SAFEbody, and INCA33890, Incyte\u2019s TGF\u03b2R2 \u00d7 PD-1 bispecific antibody, in 3L MSS CRC patients with and without liver metastases SAN DIEGO and SUZHOU, China, Oct.\u2026",
+   "url": "https://finnhub.io/api/news?id=3974cf7685cbbf2a67d9785081803b41241ff3da5cc6347917985e883bf73565",
+   "source": "Yahoo",
+   "published": "2026-10-28T11:00:00+00:00",
+   "tickers": [
+    "INCY"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -1097,6 +1159,21 @@
    ]
   },
   {
+   "id": "546a898178da",
+   "headline": "GE HealthCare Technologies (GEHC) Q3 Earnings and Revenues Beat Estimates",
+   "summary": "GE HealthCare (GEHC) delivered earnings and revenue surprises of +10.74% and +2.87%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=fc1954e5dafa7df02887200bafa12dfd3f9f51d6e55f0bf4641672c7c9be50f2",
+   "source": "Yahoo",
+   "published": "2026-10-28T10:50:03+00:00",
+   "tickers": [
+    "GEHC"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "3298f9d89686",
    "headline": "Boston Scientific (BSX) Q3 Earnings Match Estimates",
    "summary": "Boston Scientific (BSX) delivered earnings and revenue surprises of 0.00% and +0.68%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
@@ -1109,6 +1186,21 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "b75c80efacb9",
+   "headline": "Biogen Inc. (BIIB) Tops Q3 Earnings and Revenue Estimates",
+   "summary": "Biogen (BIIB) delivered earnings and revenue surprises of +27.18% and +8.06%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=a9f487a9153087d8f8f9ec394803ef83663db960aeece8806438536530b918ad",
+   "source": "Yahoo",
+   "published": "2026-10-28T10:50:02+00:00",
+   "tickers": [
+    "BIIB"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1172,6 +1264,21 @@
    ]
   },
   {
+   "id": "dec5a4ec3e7d",
+   "headline": "Biogen beats Q3 estimates, raises guidance floor on growth",
+   "summary": "Investing.com -- Biogen Inc (NASDAQ:BIIB) on Wednesday reported third quarter adjusted earnings per share of $2.62, surpassing the analyst consensus of $2.02 by $0.60. Revenue reached $2.8 billion, exceeding the $2.64 billion estimate and\u2026",
+   "url": "https://finnhub.io/api/news?id=bc71f6f78a47ab607cf5b627b41d4ba7c540ced449d93c9193534eba439aeab3",
+   "source": "Yahoo",
+   "published": "2026-10-28T10:44:48+00:00",
+   "tickers": [
+    "BIIB"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "df70c5ed3ca4",
    "headline": "What Would A Short Seller Say About Stryker?",
    "summary": "For questions about this article or underlying research, email help@trefis.com.",
@@ -1179,9 +1286,26 @@
    "source": "Yahoo",
    "published": "2026-10-28T10:37:55+00:00",
    "tickers": [
-    "BSX"
+    "ABT",
+    "BSX",
+    "ISRG"
    ],
    "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "9473f17b9ef4",
+   "headline": "GE HealthCare\u2019s (NASDAQ:GEHC) Q3 2026 sales beat estimates",
+   "summary": "Healthcare technology company GE HealthCare Technologies (NASDAQ:GEHC) reported Q3 2026 results exceeding the market\u2019s revenue expectations, with revenue up 7.2% year on year to $5.51 billion. Its non-GAAP profit of $1.34 per share was\u2026",
+   "url": "https://finnhub.io/api/news?id=cef8be72ea0e889fe2f8ccfc93d7b6dd2a19e8b5cf49d7396cf4f0b695ea6e80",
+   "source": "Yahoo",
+   "published": "2026-10-28T10:31:24+00:00",
+   "tickers": [
+    "GEHC"
+   ],
+   "tag": "Earnings",
    "sectors": [
     "medtech"
    ]
@@ -1232,6 +1356,21 @@
    ]
   },
   {
+   "id": "70bbe9ae482e",
+   "headline": "Sales of Leqembi\u00ae totaled 32.2 billion yen in the third quarter 2026",
+   "summary": "BioArctic AB's (publ) (NASDAQ Stockholm: BIOA B) partner Eisai today published the preliminary global revenue for Leqembi for the third quarter 2026, in conjunction with their partner Biogen's third quarter report. In total, sales of JPY\u2026",
+   "url": "https://finnhub.io/api/news?id=1f7c7197ef94647283f364a62f59fdf57b39d74fdce077fb4203a1ec373cf82e",
+   "source": "Yahoo",
+   "published": "2026-10-28T10:27:00+00:00",
+   "tickers": [
+    "BIIB"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "71ab5e2459af",
    "headline": "Sales of Leqembi\u00ae totaled 32.2 billion yen in the third quarter 2026",
    "summary": "STOCKHOLM, October 28, 2026 /PRNewswire/ -- BioArctic AB's (publ) (NASDAQ Stockholm: BIOA B) partner Eisai today published the preliminary global revenue for Leqembi for the third quarter 2026, in conjunction with their partner Biogen's\u2026",
@@ -1244,6 +1383,21 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "d8f711aa9947",
+   "headline": "GE HealthCare reports third quarter 2026 financial results",
+   "summary": "CHICAGO, October 28, 2026--GE HealthCare (Nasdaq: GEHC) today reported financial results for the third quarter ended September 30, 2026.",
+   "url": "https://finnhub.io/api/news?id=46811d6ea80855a3dd4fb81d296b9639f2c04d5843354659138a43fa2ff7f3ab",
+   "source": "Yahoo",
+   "published": "2026-10-28T10:20:00+00:00",
+   "tickers": [
+    "GEHC"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -1271,6 +1425,36 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "f49091b21331",
+   "headline": "Biogen Has 'Returned To Growth,' Says CEO \u2014 What To Know About Its Report",
+   "summary": "Biogen crushed third-quarter expectations early Tuesday, helped by its suite of newer products and leading to a guidance boost.",
+   "url": "https://finnhub.io/api/news?id=888827508cb920e674aa339923ad30e549d82cbdad45cf9fd064f6dbf91fe2b8",
+   "source": "Yahoo",
+   "published": "2026-10-28T10:11:27+00:00",
+   "tickers": [
+    "BIIB"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "56f06bf026bf",
+   "headline": "Biogen Crushes Earnings Estimates. As Old Blockbusters Fade, New Bets Pick Up the Slack.",
+   "summary": "Biogen is leaning on newer drugs, including recently acquired assets, as its multiple sclerosis franchise faces ongoing competition.",
+   "url": "https://finnhub.io/api/news?id=6d39fdd58057f30a155224114223705b28c4566931152024475047c19ad94c70",
+   "source": "Yahoo",
+   "published": "2026-10-28T10:01:00+00:00",
+   "tickers": [
+    "BIIB"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "f16386ad8b32",
@@ -1495,6 +1679,21 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "980e11768f8d",
+   "headline": "Omnicell earnings: what to look for from OMCL",
+   "summary": "Healthcare tech company Omnicell (NASDAQ:OMCL) will be reporting earnings this Thursday before market hours. Here\u2019s what to expect.",
+   "url": "https://finnhub.io/api/news?id=080d622de2f76600181e693099b17f6de91cbb875f4d09ea3aa112f8443c2b8c",
+   "source": "Yahoo",
+   "published": "2026-10-28T08:06:34+00:00",
+   "tickers": [
+    "OMCL"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
    ]
   },
   {
