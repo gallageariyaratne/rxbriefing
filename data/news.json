@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-28T22:02:56.449800+00:00",
+ "updated": "2026-10-28T22:18:34.086001+00:00",
  "quotes": {
   "A": {
    "price": 181.48,
@@ -290,14 +290,6 @@
    "price": 72.69,
    "change_pct": 0.12
   },
-  "TEM": {
-   "price": 76.61,
-   "change_pct": 6.18
-  },
-  "TGTX": {
-   "price": 57.4,
-   "change_pct": 1.7
-  },
   "THC": {
    "price": 268.5,
    "change_pct": 2.46
@@ -317,6 +309,14 @@
   "UHS": {
    "price": 172.18,
    "change_pct": -2.9
+  },
+  "UNH": {
+   "price": 407.1,
+   "change_pct": -0.8
+  },
+  "UTHR": {
+   "price": 586.48,
+   "change_pct": -0.8
   }
  },
  "tickers": {
@@ -949,6 +949,21 @@
    ]
   },
   {
+   "id": "6f3f2042af9d",
+   "headline": "Stock Market Today: Dow, Nasdaq Rise After No Fed Rate Hike; Labcorp Blasts Off",
+   "summary": "The Dow Jones index trimmed its gain Wednesday after the Fed held its key interest rate steady. Robinhood slid on earnings.",
+   "url": "https://finnhub.io/api/news?id=b0ab86add5650181134e0f7ad6dfbbcb589e9d55ce1604c623c9242dfd823884",
+   "source": "Yahoo",
+   "published": "2026-10-28T20:59:51+00:00",
+   "tickers": [
+    "LH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "66c06207b59c",
    "headline": "STAT+: Lawmaker wants government watchdog to probe TrumpRx over claims about drug savings",
    "summary": "A House lawmaker asked the Government Accountability Office to review whether the TrumpRx platform has saved Americans any money.",
@@ -1002,6 +1017,36 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "9b79f786bcca",
+   "headline": "The Cigna Group Declares Quarterly Dividend",
+   "summary": "The Board of Directors of The Cigna Group (NYSE: CI) today declared a cash dividend of $1.56 per share of its common stock, payable on December 17, 2026, to shareholders of record as of the close of business on December 3, 2026.",
+   "url": "https://finnhub.io/api/news?id=7c8e5d313cb32b5cbc04adc8d4d588671f46986f3c47d2c02c41c3928935d98e",
+   "source": "Yahoo",
+   "published": "2026-10-28T20:30:00+00:00",
+   "tickers": [
+    "CI"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "9fbe53b15fcc",
+   "headline": "S&P 500 Top Movers: Gainers and Losers in Today's US Session",
+   "summary": "S&P 500 top movers in today's US session: Vertiv, Flex and Oracle led gainers, while F5, CoStar and C.H. Robinson led decliners.",
+   "url": "https://finnhub.io/api/news?id=c7bece92ad49ddf180f89ace994421e825d2749a9395fb64593a0464e0f2060f",
+   "source": "ChartMill",
+   "published": "2026-10-28T20:06:12+00:00",
+   "tickers": [
+    "LH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -1119,6 +1164,21 @@
    "tag": "Clinical",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "05fbd94cc7ae",
+   "headline": "Top Stock Reports for Tesla, Netflix & American Express",
+   "summary": "Tesla's software and energy growth, Netflix's advertising challenges and American Express' strong spending trends headline today's top stock research reports.",
+   "url": "https://finnhub.io/api/news?id=f2e75d7d71f4fe0eb71c971275a15af34ae26fb0e6f479d8d7099a33d1596d8e",
+   "source": "Yahoo",
+   "published": "2026-10-28T19:08:00+00:00",
+   "tickers": [
+    "DHR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -1490,6 +1550,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "3f51cd3279e9",
+   "headline": "S&P 500 Top Movers: October 28 Gainers and Losers",
+   "summary": "S&P 500 top movers for October 28: Vertiv led gainers at 13.92%, while F5 led losers at 20.64%.",
+   "url": "https://finnhub.io/api/news?id=18b57f90c09904e0cc0fe82ad0a6919f26b09842616b068a245c5d24f6ec86ae",
+   "source": "ChartMill",
+   "published": "2026-10-28T17:36:13+00:00",
+   "tickers": [
+    "LH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -2033,6 +2108,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "9bcbaa595cc4",
+   "headline": "S&P 500 Gap Movers: Oct. 28 Session",
+   "summary": "S&P 500 gap-up and gap-down stocks on Oct. 28 include Vertiv, Labcorp, F5, CoStar, and others, with several moves tied to quarterly updates.",
+   "url": "https://finnhub.io/api/news?id=14551930c939e1ea6efcd4cf33c92ffcec7425dea30d8e9251f978c85119f89a",
+   "source": "ChartMill",
+   "published": "2026-10-28T15:36:20+00:00",
+   "tickers": [
+    "LH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -46818,111 +46908,6 @@
    "tag": "GLP-1",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "b83985df9777",
-   "headline": "AbbVie to Present Data at the 2026 European Society for Medical Oncology (ESMO) Congress Highlighting Progress Across its Expanding Solid Tumor Portfolio",
-   "summary": "New and updated data across seven assets in lung, colorectal, ovarian, prostate and gastric cancers underscore the potential of AbbVie's oncology portfolio to address diverse patient needs through next-generation ADCs, combination\u2026",
-   "url": "https://www.prnewswire.com/news-releases/abbvie-to-present-data-at-the-2026-european-society-for-medical-oncology-esmo-congress-highlighting-progress-across-its-expanding-solid-tumor-portfolio-302911997.html",
-   "source": "PR Newswire",
-   "published": "2026-10-18T22:10:00+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "Policy",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "cbf3025f0029",
-   "headline": "AbbVie to Present Data at the 2026 European Society for Medical Oncology (ESMO) Congress Highlighting Progress Across its Expanding Solid Tumor Portfolio",
-   "summary": "AbbVie (NYSE: ABBV) today announced that new and updated data from its broad solid tumor portfolio will be presented at the 2026 European Society for Medical Oncology (ESMO) Congress, taking place October 23-27 in Madrid, Spain. Spanning\u2026",
-   "url": "https://finnhub.io/api/news?id=f2cd887d4b1d18432eaa6d7d83f05ffd1b5e22b54f9992ad344506ef07bcc26b",
-   "source": "Yahoo",
-   "published": "2026-10-18T22:10:00+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "Policy",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "a4f7d76182a6",
-   "headline": "ESMO 2026 Presentations Deepen the Evidence Base for Natera\u2019s Oncology Portfolio and Leadership in Ultrasensitive MRD Technology",
-   "summary": "AUSTIN, Texas, October 18, 2026--Natera, Inc. (NASDAQ: NTRA), a global leader in cell-free DNA and precision medicine, today announced that 20 abstracts featuring its technology will be presented at the 2026 European Society for Medical\u2026",
-   "url": "https://finnhub.io/api/news?id=2be7d5a2d405fc3598fd11401c2a3b517bcdd7bf1d41fce5b53db10a9bcde13f",
-   "source": "Yahoo",
-   "published": "2026-10-18T22:10:00+00:00",
-   "tickers": [
-    "NTRA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "1a710844e872",
-   "headline": "/C O R R E C T I O N - AbbVie/",
-   "summary": "AbbVie (NYSE: ABBV) today announced that new and updated data from its broad solid tumor portfolio will be presented at the 2026 European Society for Medical Oncology (ESMO) Congress, taking place October 23-27 in Madrid, Spain. Spanning\u2026",
-   "url": "https://finnhub.io/api/news?id=09701ea5be45e810444839bc54903c67304650515cd36dc48d4d6fb281596c53",
-   "source": "Yahoo",
-   "published": "2026-10-18T22:10:00+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "Policy",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "00a1fe1c5a0f",
-   "headline": "Lilly to showcase advances across its oncology pipeline at the 2026 European Society for Medical Oncology (ESMO) Congress",
-   "summary": "First Phase 1 data for sofetabart mipitecan, Lilly's investigational FR\u03b1-targeting ADC, in platinum-sensitive ovarian cancer to be featured in a rapid oral presentation Updated first-line data for olomorasib, an investigational therapy\u2026",
-   "url": "https://www.prnewswire.com/news-releases/lilly-to-showcase-advances-across-its-oncology-pipeline-at-the-2026-european-society-for-medical-oncology-esmo-congress-302911565.html",
-   "source": "PR Newswire",
-   "published": "2026-10-18T22:05:00+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "6fcdcdd31c03",
-   "headline": "Incyte to Highlight Key Oncology Data Presentations at the European Society for Medical Oncology (ESMO) Congress 2026",
-   "summary": "WILMINGTON, Del., October 18, 2026--Incyte to Highlight Key Oncology Data Presentations at the European Society for Medical Oncology (ESMO) Congress 2026",
-   "url": "https://finnhub.io/api/news?id=93a8c9119aaa67ffa3172ec07711b3b51ab2b33c5e500d92b0e633bb72ab4416",
-   "source": "Yahoo",
-   "published": "2026-10-18T22:05:00+00:00",
-   "tickers": [
-    "INCY"
-   ],
-   "tag": "Policy",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "a4a0e6310afe",
-   "headline": "Lilly to showcase advances across its oncology pipeline at the 2026 European Society for Medical Oncology (ESMO) Congress",
-   "summary": "Eli Lilly and Company (NYSE: LLY) today announced that new data from across its oncology portfolio will be presented at the European Society for Medical Oncology (ESMO) Congress, taking place October 23\u201327 in Madrid, Spain. Highlights\u2026",
-   "url": "https://finnhub.io/api/news?id=8e2b041f8f13ec3c0aee7567da8a4aec0ac89e3ea25827e065cd44cf32223dd7",
-   "source": "Yahoo",
-   "published": "2026-10-18T22:05:00+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "Policy",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
