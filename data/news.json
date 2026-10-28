@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-28T21:17:53.380007+00:00",
+ "updated": "2026-10-28T21:32:53.354598+00:00",
  "quotes": {
   "A": {
    "price": 181.48,
@@ -109,10 +109,6 @@
   "EW": {
    "price": 91.78,
    "change_pct": 1.06
-  },
-  "GDRX": {
-   "price": 3.47,
-   "change_pct": -0.29
   },
   "GEHC": {
    "price": 75.82,
@@ -317,6 +313,10 @@
   "UHS": {
    "price": 172.18,
    "change_pct": -2.9
+  },
+  "UNH": {
+   "price": 407.1,
+   "change_pct": -0.8
   }
  },
  "tickers": {
@@ -933,6 +933,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "763f7e90aa22",
+   "headline": "Eli Lilly's 340B data policy draws new opposition from Missouri AG, Massachusetts hospitals",
+   "summary": "A controversial requirement for 340B hospitals to submit claims-level data to earn statutory drug discounts has earned a cease-and-desist letter from Missouri's attorney general and yet another lawsuit from disgruntled hospitals.",
+   "url": "https://www.fiercehealthcare.com/providers/eli-lillys-340b-data-policy-draws-new-opposition-missouri-ag-massachusetts-hospitals",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-28T21:30:29.926157+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "Legal",
+   "sectors": [
+    "pharma"
+   ]
+  },
   {
    "id": "66c06207b59c",
    "headline": "STAT+: Lawmaker wants government watchdog to probe TrumpRx over claims about drug savings",
@@ -1674,6 +1689,21 @@
    "tag": "M&A",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "25c5eded49b8",
+   "headline": "ICON Public Limited Company (ICLR) Q3 2026 Earnings Call Transcript",
+   "summary": "ICON Public Limited Company (ICLR) Q3 2026 Earnings Call October 28, 2026 8:00 AM EDTCompany ParticipantsKate Haven - Vice President of Investor...",
+   "url": "https://finnhub.io/api/news?id=f675f763fa504225a843f9cb5a0065098e0b68a3ecf9cee4a82fd9d8bb162dd5",
+   "source": "SeekingAlpha",
+   "published": "2026-10-28T16:49:59+00:00",
+   "tickers": [
+    "ICLR"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
    ]
   },
   {
