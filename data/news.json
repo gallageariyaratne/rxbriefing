@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-28T11:32:50.195869+00:00",
+ "updated": "2026-10-28T11:47:38.594903+00:00",
  "quotes": {
   "A": {
    "price": 177.49,
@@ -21,6 +21,10 @@
   "ALGN": {
    "price": 151.95,
    "change_pct": -0.2
+  },
+  "ALHC": {
+   "price": 8.05,
+   "change_pct": 2.03
   },
   "ALNY": {
    "price": 226.79,
@@ -317,10 +321,6 @@
   "TDOC": {
    "price": 6.45,
    "change_pct": 3.37
-  },
-  "TEM": {
-   "price": 72.15,
-   "change_pct": 7.43
   }
  },
  "tickers": {
@@ -938,6 +938,17 @@
  },
  "stories": [
   {
+   "id": "81ecc92c4bc6",
+   "headline": "A look at how employers are approaching AI-enabled benefits solutions",
+   "summary": "Most employers are weighing the potential of AI-enabled benefits programs and how best to offer them to workers, according to a new survey.",
+   "url": "https://www.fiercehealthcare.com/payers/look-how-employers-are-approaching-ai-enabled-benefits-solutions",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-28T11:45:24.982222+00:00",
+   "tickers": [],
+   "tag": "Health AI",
+   "sectors": []
+  },
+  {
    "id": "a4277478ae72",
    "headline": "Astellas makes $1.3B bet on Audax\u2019s preclinical push to reverse decades of IL-12 woes",
    "summary": "Astellas has struck a deal for Audax Biosciences\u2019 IL-12 program, committing up to $285 million in upfront and option fees to secure a chance to license the preclinical immuno-oncology program.",
@@ -1359,8 +1370,11 @@
    "source": "SeekingAlpha",
    "published": "2026-10-28T06:50:00+00:00",
    "tickers": [
+    "ALHC",
     "AZN",
-    "GH"
+    "GH",
+    "TWST",
+    "UNH"
    ],
    "tag": "Earnings",
    "sectors": [
