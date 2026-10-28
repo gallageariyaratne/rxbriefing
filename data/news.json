@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-28T08:02:44.219265+00:00",
+ "updated": "2026-10-28T08:17:30.973219+00:00",
  "quotes": {
   "A": {
    "price": 177.49,
@@ -109,6 +109,10 @@
   "DVA": {
    "price": 181.69,
    "change_pct": -1.27
+  },
+  "DXCM": {
+   "price": 78.56,
+   "change_pct": -0.01
   },
   "ELV": {
    "price": 421.49,
@@ -317,10 +321,6 @@
   "TEM": {
    "price": 72.15,
    "change_pct": 7.43
-  },
-  "TGTX": {
-   "price": 56.44,
-   "change_pct": 3.01
   }
  },
  "tickers": {
@@ -950,6 +950,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "e4a7fa3402f9",
+   "headline": "What to expect from DexCom\u2019s (DXCM) Q3 earnings",
+   "summary": "Medical device company DexCom (NASDAQ:DXCM) will be reporting results this Thursday after the bell. Here\u2019s what investors should know.",
+   "url": "https://finnhub.io/api/news?id=b9574cd9419f3eec2184ecfa5ab29031253a7338b992b5710f1a78109a5901d9",
+   "source": "Yahoo",
+   "published": "2026-10-28T07:34:34+00:00",
+   "tickers": [
+    "DXCM"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -41690,21 +41705,6 @@
    "tag": "Earnings",
    "sectors": [
     "tools"
-   ]
-  },
-  {
-   "id": "2d3a67e1a672",
-   "headline": "Haleon And 2 British AI Healthcare Stocks To Watch",
-   "summary": "America\u2019s vast AI infrastructure build is starting to look more fragile, and that matters for UK investors watching where the real value sits in artificial intelligence. Hardware projects can stall when financing or public support\u2026",
-   "url": "https://finnhub.io/api/news?id=9c6c08bc21ed5f9f3b22c3198b90eb8a49e3377212afc05a513811f2a382a344",
-   "source": "Yahoo",
-   "published": "2026-10-18T08:09:00+00:00",
-   "tickers": [
-    "AZN"
-   ],
-   "tag": "Financing",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
