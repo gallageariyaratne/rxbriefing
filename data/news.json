@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-28T03:03:02.086370+00:00",
+ "updated": "2026-10-28T03:17:31.389743+00:00",
  "quotes": {
   "A": {
    "price": 177.49,
@@ -310,6 +310,10 @@
    "price": 6.45,
    "change_pct": 3.37
   },
+  "TEM": {
+   "price": 72.15,
+   "change_pct": 7.43
+  },
   "TGTX": {
    "price": 56.44,
    "change_pct": 3.01
@@ -317,10 +321,6 @@
   "THC": {
    "price": 262.05,
    "change_pct": -2.57
-  },
-  "TMO": {
-   "price": 693.02,
-   "change_pct": 1.19
   }
  },
  "tickers": {
@@ -965,6 +965,36 @@
    "sectors": []
   },
   {
+   "id": "cb3227fe7be4",
+   "headline": "Repligen (RGEN) Could Be 12% Undervalued As Record Revenue Lifts Guidance",
+   "summary": "Repligen (RGEN) just booked record third quarter revenue of US$209.31 million, raised full year sales guidance, and leaned on its BioLife acquisition, even as impairment driven losses kept headline earnings in the red. Repligen\u2019s share\u2026",
+   "url": "https://finnhub.io/api/news?id=cebce92b996d0561c8b8263532aa0012330fab7e72d11737d7de08f4dba90cef",
+   "source": "Yahoo",
+   "published": "2026-10-28T01:10:39+00:00",
+   "tickers": [
+    "RGEN"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "e3dae1328c14",
+   "headline": "Missed Regeneron Pharmaceuticals' Rally? Here Is The Bull Case",
+   "summary": "If Regeneron Pharmaceuticals sat on your watchlist instead of in your brokerage account, the outcome over the past year may feel like a miss. For Regeneron Pharmaceuticals shareholders, the return over the past year was 25.3%, including\u2026",
+   "url": "https://finnhub.io/api/news?id=aaf4814cd1c2f6644f7f604758910a8d2b83cf1c0847b06ba4a1040160199e6c",
+   "source": "Yahoo",
+   "published": "2026-10-28T00:16:53+00:00",
+   "tickers": [
+    "REGN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "6354dff28d52",
    "headline": "Intrum (OM:INTRUM) Stock Sees Fair Value Cut As Analysts Lower Revenue Expectations",
    "summary": "Intrum\u2019s latest analyst update centers on a lower fair value, with the price target reduced from SEK 5.47 to SEK 4.63, a cut of about 15% in the target valuation. Analysts link this move to refreshed assumptions in their models, which now\u2026",
@@ -1152,7 +1182,8 @@
    "source": "Yahoo",
    "published": "2026-10-27T22:08:32+00:00",
    "tickers": [
-    "BMY"
+    "BMY",
+    "TEM"
    ],
    "tag": "Health AI",
    "sectors": [
@@ -3571,7 +3602,8 @@
    "published": "2026-10-27T13:28:55+00:00",
    "tickers": [
     "BNTX",
-    "INCY"
+    "INCY",
+    "TEM"
    ],
    "tag": "M&A",
    "sectors": [
