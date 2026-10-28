@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-28T10:32:48.163595+00:00",
+ "updated": "2026-10-28T10:47:41.697980+00:00",
  "quotes": {
   "A": {
    "price": 177.49,
@@ -938,6 +938,36 @@
  },
  "stories": [
   {
+   "id": "5760562da5eb",
+   "headline": "STAT+: Lilly says \u2018triple-G\u2019 drug beats Novo\u2019s Ozempic in diabetes study",
+   "summary": "Data add to expectations that the drug will be one of Lilly\u2019s greatest growth drivers.",
+   "url": "https://www.statnews.com/2026/10/28/retatrutide-vs-ozempic-lilly-diabetes-study/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-28T10:45:00+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "5b78a76bd4ca",
+   "headline": "Boston Scientific announces results for third quarter 2026",
+   "summary": "MARLBOROUGH, Mass., Oct. 28, 2026 /PRNewswire/ -- Boston Scientific Corporation (NYSE: BSX) generated net sales of $5.138 billion during the third quarter of 2026, growing 1.5 percent on a reported, operational1 and organic2 basis, all\u2026",
+   "url": "https://www.prnewswire.com/news-releases/boston-scientific-announces-results-for-third-quarter-2026-302921450.html",
+   "source": "PR Newswire",
+   "published": "2026-10-28T10:30:00+00:00",
+   "tickers": [
+    "BSX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "46afb120c335",
    "headline": "Sales of Leqembi\u00ae totaled 32.2 billion yen in the third quarter 2026",
    "summary": "STOCKHOLM, October 28, 2026 /PRNewswire/ -- BioArctic AB's (publ) (NASDAQ Stockholm: BIOA B) partner Eisai today published the preliminary global revenue for Leqembi for the third quarter 2026, in conjunction with their partner Biogen's\u2026",
@@ -988,7 +1018,8 @@
    "tickers": [
     "ABBV",
     "BMY",
-    "JNJ"
+    "JNJ",
+    "PFE"
    ],
    "tag": "News",
    "sectors": [
@@ -1004,7 +1035,24 @@
    "published": "2026-10-28T09:25:01+00:00",
    "tickers": [
     "ABBV",
-    "JNJ"
+    "AMGN",
+    "JNJ",
+    "PFE"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "a65469d390e8",
+   "headline": "Was The Run In Moderna Stock Hiding In Plain Sight?",
+   "summary": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://finnhub.io/api/news?id=45976c4a43252120c73689b1af05f881d286f2691dc77c640c4198c8979b8e79",
+   "source": "Yahoo",
+   "published": "2026-10-28T09:24:53+00:00",
+   "tickers": [
+    "PFE"
    ],
    "tag": "News",
    "sectors": [
@@ -1021,11 +1069,27 @@
    "tickers": [
     "ABBV",
     "BDX",
-    "HALO"
+    "HALO",
+    "PFE"
    ],
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "984206dfe228",
+   "headline": "What to expect from Illumina\u2019s (ILMN) Q3 earnings",
+   "summary": "Genomics company Illumina (NASDAQ:ILMN) will be reporting earnings this Thursday afternoon. Here\u2019s what you need to know.",
+   "url": "https://finnhub.io/api/news?id=a8bd69981556def9bcfcbb50d5e113880a3981ec8bb87fbc2f0deeea2ecc4da1",
+   "source": "Yahoo",
+   "published": "2026-10-28T09:10:34+00:00",
+   "tickers": [
+    "ILMN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -1100,6 +1164,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "a8661f887650",
+   "headline": "Is Intuitive Surgical (ISRG) Undervalued As Upbeat Earnings Lifted Sentiment?",
+   "summary": "Intuitive Surgical (ISRG) is back in focus after its latest earnings report, which paired higher quarterly revenue with lower net income and earnings per share, giving investors a mixed but important update on performance. At a share\u2026",
+   "url": "https://finnhub.io/api/news?id=a05a315107b5fc646f7f8a917c48a0869969ae09b8ff5758fbcc81faa6ba1644",
+   "source": "Yahoo",
+   "published": "2026-10-28T08:07:32+00:00",
+   "tickers": [
+    "ISRG"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -1186,7 +1265,9 @@
    "source": "SeekingAlpha",
    "published": "2026-10-28T06:10:00+00:00",
    "tickers": [
-    "BSX"
+    "BSX",
+    "ILMN",
+    "UNH"
    ],
    "tag": "Earnings",
    "sectors": [
