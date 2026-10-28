@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-28T04:49:20.021544+00:00",
+ "updated": "2026-10-28T05:02:53.582281+00:00",
  "quotes": {
   "A": {
    "price": 177.49,
@@ -222,6 +222,10 @@
    "price": 21.56,
    "change_pct": 5.74
   },
+  "LH": {
+   "price": 331.17,
+   "change_pct": 0.39
+  },
   "LLY": {
    "price": 1281.91,
    "change_pct": 0.22
@@ -249,6 +253,10 @@
   "NBIX": {
    "price": 146,
    "change_pct": 0.09
+  },
+  "NTRA": {
+   "price": 410.82,
+   "change_pct": 1.46
   },
   "NVO": {
    "price": 38.67,
@@ -930,6 +938,21 @@
  },
  "stories": [
   {
+   "id": "143a24a13426",
+   "headline": "Merck (MRK) Gains Fresh Oncology Backing As Valuation Debate Heats Up",
+   "summary": "Merck (MRK) is back in focus after a cluster of oncology trial readouts showed meaningful survival benefits for KEYTRUDA, sacituzumab tirumotecan and the Moderna-partnered melanoma vaccine, giving investors fresh data on the drug maker\u2019s\u2026",
+   "url": "https://finnhub.io/api/news?id=137811c6d92156b35dbff784eff2ecaa09179939877d5964b8bb7029ae2bf605",
+   "source": "Yahoo",
+   "published": "2026-10-28T03:11:49+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "6f10817a9faa",
    "headline": "Dow Jones Futures Fall, Techs Rise As SK Hynix Crushes Views; Fed, Microsoft, Google On Deck",
    "summary": "The S&P 500 reclaimed a key level as Tesla and growth stocks rallied. The Federal Reserve, Microsoft, Google on deck.",
@@ -997,6 +1020,21 @@
     "RGEN"
    ],
    "tag": "M&A",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "99ddc7350747",
+   "headline": "Weatherbie Specialized Growth Fund Q3 2026 Portfolio Update",
+   "summary": "",
+   "url": "https://finnhub.io/api/news?id=09dd944adf1b77f25019fd436d73c5e67704e711b40c0d9f17a02d1d5f533546",
+   "source": "SeekingAlpha",
+   "published": "2026-10-28T00:25:00+00:00",
+   "tickers": [
+    "NTRA"
+   ],
+   "tag": "Earnings",
    "sectors": [
     "tools"
    ]
