@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-28T02:14:57.775858+00:00",
+ "updated": "2026-10-28T02:17:54.952529+00:00",
  "quotes": {
   "A": {
    "price": 177.49,
@@ -9,6 +9,10 @@
   "ABBV": {
    "price": 286.39,
    "change_pct": -0.12
+  },
+  "ABSI": {
+   "price": 10.57,
+   "change_pct": 11.85
   },
   "ABT": {
    "price": 103.1,
@@ -25,6 +29,10 @@
   "ALNY": {
    "price": 226.79,
    "change_pct": -0.38
+  },
+  "ALT": {
+   "price": 2.04,
+   "change_pct": -0.49
   },
   "AMGN": {
    "price": 447.95,
@@ -53,6 +61,10 @@
   "BMY": {
    "price": 61.55,
    "change_pct": -0.1
+  },
+  "BNTX": {
+   "price": 87.06,
+   "change_pct": 0.23
   },
   "BSX": {
    "price": 45.06,
@@ -113,6 +125,10 @@
   "EXEL": {
    "price": 65.35,
    "change_pct": 0.37
+  },
+  "GDRX": {
+   "price": 3.48,
+   "change_pct": -2.25
   },
   "GEHC": {
    "price": 71.11,
@@ -305,22 +321,6 @@
   "TMO": {
    "price": 693.02,
    "change_pct": 1.19
-  },
-  "TWST": {
-   "price": 159.85,
-   "change_pct": 10.05
-  },
-  "TXG": {
-   "price": 78.02,
-   "change_pct": 6.94
-  },
-  "UHS": {
-   "price": 177.32,
-   "change_pct": -4.52
-  },
-  "UNH": {
-   "price": 410.39,
-   "change_pct": -0.08
   }
  },
  "tickers": {
@@ -1195,6 +1195,21 @@
    ]
   },
   {
+   "id": "481e22816b8c",
+   "headline": "Icon PLC (ICLR) Q3 Earnings and Revenues Beat Estimates",
+   "summary": "Icon PLC (ICLR) delivered earnings and revenue surprises of +0.76% and +0.78%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=56433da1fc7ef2980edfbb79799a1d3ddd43d9a0c16116a92e577ee272c96d34",
+   "source": "Yahoo",
+   "published": "2026-10-27T21:20:07+00:00",
+   "tickers": [
+    "GDRX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
+  {
    "id": "fe08385f168b",
    "headline": "Ensign Group (ENSG) Beats Q3 Earnings Estimates",
    "summary": "Ensign Group (ENSG) delivered earnings and revenue surprises of +4.64% and -0.71%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
@@ -1334,6 +1349,21 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "2c3550ff7dec",
+   "headline": "Novo Nordisk (NVO) Stock Declines While Market Improves: Some Information for Investors",
+   "summary": "In the latest trading session, Novo Nordisk (NVO) closed at $38.7, marking a -1.11% move from the previous day.",
+   "url": "https://finnhub.io/api/news?id=c3231f6796c82ff9cb6794f2f4bce53d09a07715bca05a0197f46a5e655917e6",
+   "source": "Yahoo",
+   "published": "2026-10-27T20:45:03+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1686,7 +1716,8 @@
    "published": "2026-10-27T19:51:23+00:00",
    "tickers": [
     "ABT",
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "News",
    "sectors": [
@@ -2374,6 +2405,21 @@
    "sectors": []
   },
   {
+   "id": "f723b0938ead",
+   "headline": "Novo Nordisk (CPSE:NOVO B) Wins FDA Nod For Weekly Insulin In Children With Type 2 Diabetes",
+   "summary": "Novo Nordisk (CPSE:NOVO B) received US FDA approval for Awiqli as a once weekly basal insulin for children with type 2 diabetes. Awiqli is indicated as an adjunct to diet and exercise for patients aged 10 years and older requiring long\u2026",
+   "url": "https://finnhub.io/api/news?id=572834fcda6ec416ce5923a0fb2d7735cc20ff2defce48dc70cdcd3ea519f56a",
+   "source": "Yahoo",
+   "published": "2026-10-27T16:14:00+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "cf664a72df35",
    "headline": "Global Leadless Pacemakers Market Size, Share, and Industry Analysis - Global Forecast to 2036 | Market to Reach USD 4.87 Billion as Dual-Chamber Pacing and Asia-Pacific Expansion Drive 12.8% CAGR",
    "summary": "Dublin, Oct. 27, 2026 (GLOBE NEWSWIRE) -- \"Leadless Pacemakers Market Size, Share, and Industry Analysis - Global Forecast to 2036\" has been added to ResearchAndMarkets.com's offering. The global leadless pacemakers market was valued at\u2026",
@@ -2759,7 +2805,8 @@
     "AMGN",
     "CAH",
     "COR",
-    "MCK"
+    "MCK",
+    "NVO"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -3058,7 +3105,8 @@
    "source": "Yahoo",
    "published": "2026-10-27T14:31:59+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -3386,6 +3434,7 @@
    "source": "Yahoo",
    "published": "2026-10-27T13:28:55+00:00",
    "tickers": [
+    "BNTX",
     "INCY"
    ],
    "tag": "M&A",
@@ -4313,6 +4362,36 @@
    ]
   },
   {
+   "id": "1b40bbc3509b",
+   "headline": "Altimmune Appoints Peter Greenleaf and Alex Howarth, Two Leading Biotech Executives, to Board of Directors to Support Its Strategic Evolution",
+   "summary": "Board appointments align with successful transition to late-stage clinical Company developing pemvidutide as a differentiated liver franchise with multiple potential indications As part of this transition, John M. Gill, Mitchel Sayare,\u2026",
+   "url": "https://finnhub.io/api/news?id=c58c2684f7d1e67277eeb2eab84a6c39ef515d3cce5447d230e8a6f486027a9f",
+   "source": "Yahoo",
+   "published": "2026-10-27T12:00:00+00:00",
+   "tickers": [
+    "ALT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "412205ae146d",
+   "headline": "Absci to Participate in Upcoming Investor Conferences",
+   "summary": "VANCOUVER, Wash. and NEW YORK, Oct. 27, 2026 (GLOBE NEWSWIRE) -- Absci Corporation (Nasdaq: ABSI), a clinical-stage biopharmaceutical company advancing breakthrough therapeutics designed with generative AI, today announced the company\u2026",
+   "url": "https://finnhub.io/api/news?id=e57b1d00c204b2ad4b572040a894d1293c3ad26fded4964413fe7f94898c967a",
+   "source": "Yahoo",
+   "published": "2026-10-27T12:00:00+00:00",
+   "tickers": [
+    "ABSI"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "healthai"
+   ]
+  },
+  {
    "id": "5446105ea9ca",
    "headline": "IQVIA\u2019s (NYSE:IQV) Q3 2026: beats on revenue",
    "summary": "Clinical research company IQVIA (NYSE: IQV) reported Q3 2026 results exceeding the market\u2019s revenue expectations, with revenue up 8% year on year to $4.43 billion. The company expects the full year\u2019s revenue to be around $17.43 billion,\u2026",
@@ -4368,7 +4447,8 @@
    "source": "Yahoo",
    "published": "2026-10-27T11:53:00+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -4736,6 +4816,21 @@
    "tag": "Clinical",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "fb5aa1ace0a5",
+   "headline": "Orbis Medicines Appoints Joanne Smith-Farrell, Ph.D., as CEO to Advance Its AI-Driven Oral Macrocycle Platform and Pipeline",
+   "summary": "COPENHAGEN, October 27, 2026--Orbis Medicines, a leader in the discovery of next-generation macrocycles, oral medicines with biologics-like potency, today announced the appointment of Joanne Smith-Farrell, Ph.D., as Chief Executive\u2026",
+   "url": "https://finnhub.io/api/news?id=17cd3f8e254074f69a06ccd3596e44e0cb64f7b7abdb01a2b5f28e6bab51e341",
+   "source": "Yahoo",
+   "published": "2026-10-27T11:00:00+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -7615,6 +7710,7 @@
    "source": "Yahoo",
    "published": "2026-10-26T16:05:00+00:00",
    "tickers": [
+    "NVO",
     "SMMT"
    ],
    "tag": "Earnings",
