@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-28T20:29:20.081157+00:00",
+ "updated": "2026-10-28T20:32:51.780715+00:00",
  "quotes": {
   "A": {
    "price": 181.48,
@@ -190,10 +190,6 @@
    "price": 444.18,
    "change_pct": -0.38
   },
-  "JAZZ": {
-   "price": 205.06,
-   "change_pct": -0.83
-  },
   "JNJ": {
    "price": 271.04,
    "change_pct": 0.86
@@ -317,6 +313,10 @@
   "TWST": {
    "price": 173.45,
    "change_pct": 8.51
+  },
+  "TXG": {
+   "price": 83.62,
+   "change_pct": 7.18
   }
  },
  "tickers": {
@@ -964,6 +964,21 @@
    ]
   },
   {
+   "id": "dd017e24b095",
+   "headline": "Sector Update: Healthcare Stocks Rise Late Afternoon",
+   "summary": "Healthcare stocks were higher late Wednesday afternoon, with the NYSE Healthcare Index up 0.1% and t",
+   "url": "https://finnhub.io/api/news?id=4986c9c4b1b627e4c0c6453b6e6fe63dc2ee66a027da642d585f54d2684e2069",
+   "source": "Yahoo",
+   "published": "2026-10-28T19:51:15+00:00",
+   "tickers": [
+    "BSX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "b5811fec32eb",
    "headline": "FDA\u2019s rare disease framework aims to \u2018stand the test of time\u2019",
    "summary": "During a public hearing Wednesday to discuss a newly proposed rare disease framework, FDA center director Michael Davis, M.D., Ph.D., said the agency aims to design a scheme that \u201cstands the test of time.\u201d",
@@ -1016,6 +1031,21 @@
    ]
   },
   {
+   "id": "f7deed36ccec",
+   "headline": "UHS Misses Q3 Earnings Estimates Despite Higher Patient Volumes",
+   "summary": "Universal Health Services' Q3 earnings fall 8.3% despite revenue growth, as rising costs and Acute Care pricing pressure offset higher patient volumes.",
+   "url": "https://finnhub.io/api/news?id=7cd3d429dd08f8b9416634cf43dbe334d07b1db1d76baea06df52bfbab8ba3a4",
+   "source": "Yahoo",
+   "published": "2026-10-28T18:45:00+00:00",
+   "tickers": [
+    "GMED"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "85799b958b4c",
    "headline": "Labcorp: Q3 Earnings Snapshot",
    "summary": "(LH) on Wednesday reported third-quarter earnings of $262.The Burlington, North Carolina-based company said it had profit of $3.",
@@ -1028,6 +1058,21 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "09064f9b8eca",
+   "headline": "Boston Scientific: Q3 Earnings Snapshot",
+   "summary": "(BSX) on Wednesday reported third-quarter profit of $582 million.The Marlborough, Massachusetts-based company said it had profit of 40 cents per share.",
+   "url": "https://finnhub.io/api/news?id=a8ad1e5b917ad295e7e31c043519464d8e5beaaab8c4b45c29a9cea4a91993db",
+   "source": "Yahoo",
+   "published": "2026-10-28T18:36:29+00:00",
+   "tickers": [
+    "BSX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -1045,6 +1090,36 @@
    "sectors": [
     "biotech",
     "pharma"
+   ]
+  },
+  {
+   "id": "0259e1f5a941",
+   "headline": "Sector Update: Healthcare Stocks Advance Wednesday Afternoon",
+   "summary": "Healthcare stocks rose Wednesday afternoon, with the NYSE Healthcare Index up 0.2% and the State Str",
+   "url": "https://finnhub.io/api/news?id=58190a2364c2ddb897ef841d58ec5cafa2c8f68b42b71d8abbf28da1144aacc4",
+   "source": "Yahoo",
+   "published": "2026-10-28T18:06:49+00:00",
+   "tickers": [
+    "BSX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "28f772853b5a",
+   "headline": "Boston Scientific Sinks 12% as Cyberattack Forces Guidance Cut: \u201cA Challenging Year\u201d",
+   "summary": "Key TakeawaysBoston Scientific shares fell as much as 12% after it cut its 2026 adjusted EPS outlook to $3. 16 to $3.",
+   "url": "https://finnhub.io/api/news?id=6b22c740322c9cd2a00bbe35fe111f9e1435e071d81f51f3bc26c6cfb6226d16",
+   "source": "Yahoo",
+   "published": "2026-10-28T18:06:20+00:00",
+   "tickers": [
+    "BSX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -3088,6 +3163,21 @@
    "tag": "GLP-1",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "6d7fb9c7ac93",
+   "headline": "What to Expect From Agilent Technologies\u2019 Next Quarterly Earnings Report",
+   "summary": "Agilent Technologies is set to report its fourth-quarter earnings soon, with analysts anticipating single-digit year-over-year EPS growth.",
+   "url": "https://finnhub.io/api/news?id=3571cc62493f2fceb8fc84f02d84758ee86e9be1e66b09ba3d17de7bfb5e2716",
+   "source": "Yahoo",
+   "published": "2026-10-28T12:35:09+00:00",
+   "tickers": [
+    "A"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
    ]
   },
   {
