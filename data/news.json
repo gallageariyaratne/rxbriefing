@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-28T11:02:51.785172+00:00",
+ "updated": "2026-10-28T11:17:41.417137+00:00",
  "quotes": {
   "A": {
    "price": 177.49,
@@ -137,6 +137,10 @@
   "GEHC": {
    "price": 71.11,
    "change_pct": -1.21
+  },
+  "GH": {
+   "price": 178.06,
+   "change_pct": 2.78
   },
   "GILD": {
    "price": 159.08,
@@ -317,10 +321,6 @@
   "TEM": {
    "price": 72.15,
    "change_pct": 7.43
-  },
-  "TGTX": {
-   "price": 56.44,
-   "change_pct": 3.01
   }
  },
  "tickers": {
@@ -938,6 +938,32 @@
  },
  "stories": [
   {
+   "id": "a4277478ae72",
+   "headline": "Astellas makes $1.3B bet on Audax\u2019s preclinical push to reverse decades of IL-12 woes",
+   "summary": "Astellas has struck a deal for Audax Biosciences\u2019 IL-12 program, committing up to $285 million in upfront and option fees to secure a chance to license the preclinical immuno-oncology program.",
+   "url": "https://www.fiercebiotech.com/biotech/astellas-makes-13b-bet-audaxs-preclinical-push-reverse-decades-il-12-woes",
+   "source": "Fierce Biotech",
+   "published": "2026-10-28T11:15:23.366853+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "893aa22d3c07",
+   "headline": "GSK predicts \u2018some limited impact\u2019 to UK roles as restructuring rolls on",
+   "summary": "GSK\u2019s global restructuring plan is likely to see \u201csome limited impact\u201d to roles on the Big Pharma\u2019s home turf of the U.K., executives have confirmed.",
+   "url": "https://www.fiercebiotech.com/biotech/gsk-predicts-some-limited-impact-uk-roles-restructuring-rolls",
+   "source": "Fierce Biotech",
+   "published": "2026-10-28T11:15:23.365608+00:00",
+   "tickers": [
+    "GSK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "435126beafb3",
    "headline": "Labcorp Reports Strong 2026 Third Quarter Results; Raises Full Year 2026 Guidance",
    "summary": "Results from operations for third quarter 2026 versus third quarter 2025:Revenue: $3.81 billion vs. $3.56 billion, up 6.9% Diluted EPS: $3.22 vs. $3.12, up 3.3% Adjusted EPS: $4.78 vs. $4.18, up 14.5% Raised full-year enterprise revenue\u2026",
@@ -1225,6 +1251,7 @@
    "source": "Yahoo",
    "published": "2026-10-28T08:22:05+00:00",
    "tickers": [
+    "KRYS",
     "VRTX"
    ],
    "tag": "News",
@@ -1322,6 +1349,22 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "85e95e8071bf",
+   "headline": "Allspring Emerging Growth Fund: Q3 2026 Top Contributors And Detractors",
+   "summary": "This report details performance drivers for the Allspring Emerging Growth Fund in Q3 2026. Read the full analysis for more details.",
+   "url": "https://finnhub.io/api/news?id=419f7674f6ac86562a2f887ab2515cfa4ce89879597e4408ab1f1474d09ee536",
+   "source": "SeekingAlpha",
+   "published": "2026-10-28T06:50:00+00:00",
+   "tickers": [
+    "AZN",
+    "GH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -42028,22 +42071,6 @@
    "published": "2026-10-18T12:15:19.784043+00:00",
    "tickers": [
     "GSK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "8a86a7e8e370",
-   "headline": "Cathie Wood Bought More CRISPR Therapeutics Stock 2 Days in a Row. Here's What She Sees in the Biotech Stock.",
-   "summary": "Billionaire investor Cathie Wood, through her ARK ETFs, made big buys of CRISPR Therapeutics on Friday, Oct. 9, and Monday, Oct. 12.",
-   "url": "https://finnhub.io/api/news?id=a17342c01986484a9cb93f40b6ab82d2decc2b5b16eba0c7b3ecd4fe51a86222",
-   "source": "Yahoo",
-   "published": "2026-10-18T11:10:00+00:00",
-   "tickers": [
-    "CRSP",
-    "VRTX"
    ],
    "tag": "News",
    "sectors": [
