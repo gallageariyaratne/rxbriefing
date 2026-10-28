@@ -1,18 +1,18 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-28T20:04:44.167586+00:00",
+ "updated": "2026-10-28T20:18:35.967740+00:00",
  "quotes": {
   "A": {
-   "price": 181.54,
-   "change_pct": 2.28
+   "price": 181.48,
+   "change_pct": 2.25
   },
   "ABBV": {
-   "price": 286.41,
-   "change_pct": 0.01
+   "price": 285.99,
+   "change_pct": -0.14
   },
   "ABT": {
-   "price": 102.69,
-   "change_pct": -0.4
+   "price": 102.64,
+   "change_pct": -0.45
   },
   "ALHC": {
    "price": 8.18,
@@ -207,8 +207,8 @@
    "change_pct": 8.78
   },
   "LLY": {
-   "price": 1288.78,
-   "change_pct": 0.54
+   "price": 1288.3,
+   "change_pct": 0.5
   },
   "MCK": {
    "price": 960.56,
@@ -227,8 +227,8 @@
    "change_pct": -0.68
   },
   "MRK": {
-   "price": 141.12,
-   "change_pct": -0.49
+   "price": 140.93,
+   "change_pct": -0.63
   },
   "MRNA": {
    "price": 214.16,
@@ -270,10 +270,6 @@
    "price": 50.33,
    "change_pct": 0.32
   },
-  "RARE": {
-   "price": 17.2,
-   "change_pct": 2.69
-  },
   "REGN": {
    "price": 813.27,
    "change_pct": -0.35
@@ -293,6 +289,10 @@
   "SYK": {
    "price": 304,
    "change_pct": 0.86
+  },
+  "TDOC": {
+   "price": 6.88,
+   "change_pct": 6.67
   },
   "TECH": {
    "price": 72.69,
@@ -934,6 +934,36 @@
  },
  "stories": [
   {
+   "id": "550c33774eac",
+   "headline": "Teladoc Health Reports Third Quarter 2026 Results",
+   "summary": "NEW YORK, Oct. 28, 2026 (GLOBE NEWSWIRE) -- Teladoc Health, Inc. (NYSE: TDOC), the global leader in virtual care, today reported financial results for the three months ended September 30, 2026 (\u201cThird Quarter 2026\u201d). Unless otherwise\u2026",
+   "url": "https://www.globenewswire.com/news-release/2026/10/28/3390735/0/en/teladoc-health-reports-third-quarter-2026-results.html",
+   "source": "GlobeNewswire",
+   "published": "2026-10-28T20:05:00+00:00",
+   "tickers": [
+    "TDOC"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
+   "id": "f758fe3cf1d7",
+   "headline": "Viking Therapeutics Reports Third Quarter 2026 Financial Results and Provides Corporate Update",
+   "summary": "-- VANQUISH Phase 3 Trials for Subcutaneous VK2735 in Obesity Continue to Advance -- -- SUNRISE Phase 3 Trials for Oral VK2735 Initiated -- -- Positive Top-Line Results Announced for VK2735 Maintenance Dosing Study; Part 2 Study Initiated\u2026",
+   "url": "https://www.prnewswire.com/news-releases/viking-therapeutics-reports-third-quarter-2026-financial-results-and-provides-corporate-update-302922632.html",
+   "source": "PR Newswire",
+   "published": "2026-10-28T20:05:00+00:00",
+   "tickers": [
+    "VKTX"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "b5811fec32eb",
    "headline": "FDA\u2019s rare disease framework aims to \u2018stand the test of time\u2019",
    "summary": "During a public hearing Wednesday to discuss a newly proposed rare disease framework, FDA center director Michael Davis, M.D., Ph.D., said the agency aims to design a scheme that \u201cstands the test of time.\u201d",
@@ -1313,6 +1343,21 @@
    "tag": "FDA",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "564f40559abd",
+   "headline": "Waters Gears Up to Report Q3 Results: How to Play the Stock?",
+   "summary": "WAT's Q3 results are likely to benefit from strong revenue growth prospects, rising demand and acquisition gains.",
+   "url": "https://finnhub.io/api/news?id=8d25fea46ee0cc3112adfd0ee5609a5a12e264f0889547fba2b572dfeab8e188",
+   "source": "Yahoo",
+   "published": "2026-10-28T16:51:00+00:00",
+   "tickers": [
+    "BDX"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -2558,6 +2603,21 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "6fbf708d9fea",
+   "headline": "Medtronic's Q2 2027 Earnings: What to Expect",
+   "summary": "Medtronic will release its second-quarter earnings soon, and analysts anticipate a low single-digit profit dip.",
+   "url": "https://finnhub.io/api/news?id=77bd79cb666aa56451a34b509f13f07d0f1c800b9de2d5d62ff26e1402f9736f",
+   "source": "Yahoo",
+   "published": "2026-10-28T13:21:34+00:00",
+   "tickers": [
+    "MDT"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
    ]
   },
   {
