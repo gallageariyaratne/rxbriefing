@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-28T01:32:38.905847+00:00",
+ "updated": "2026-10-28T01:47:37.742567+00:00",
  "quotes": {
   "A": {
    "price": 177.49,
@@ -166,6 +166,10 @@
    "price": 116.6,
    "change_pct": 2.9
   },
+  "INSM": {
+   "price": 94.96,
+   "change_pct": 1.75
+  },
   "IONS": {
    "price": 43.96,
    "change_pct": 1.24
@@ -250,6 +254,10 @@
    "price": 149.83,
    "change_pct": 0.38
   },
+  "PRVA": {
+   "price": 21.83,
+   "change_pct": -1.49
+  },
   "RARE": {
    "price": 16.75,
    "change_pct": 4.17
@@ -313,10 +321,6 @@
   "WAT": {
    "price": 468.55,
    "change_pct": 2.76
-  },
-  "ZTS": {
-   "price": 78.23,
-   "change_pct": -3.38
   }
  },
  "tickers": {
@@ -934,6 +938,36 @@
  },
  "stories": [
   {
+   "id": "609532549332",
+   "headline": "Argus Research Downgrades Abbott Laboratories to Hold from Buy",
+   "summary": "",
+   "url": "https://finnhub.io/api/news?id=de688ef05c72b4c76f34ade4635e29142c33a2a0a93124216ab458c20dab2204",
+   "source": "Fintel",
+   "published": "2026-10-27T23:40:28+00:00",
+   "tickers": [
+    "ABT"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "60b36503fe46",
+   "headline": "Compared to Estimates, Ensign Group (ENSG) Q3 Earnings: A Look at Key Metrics",
+   "summary": "Although the revenue and EPS for Ensign Group (ENSG) give a sense of how its business performed in the quarter ended September 2026, it might be worth considering how some key metrics compare with Wall Street estimates and the year-ago\u2026",
+   "url": "https://finnhub.io/api/news?id=60d88155a679fce3be8e137c211a0f4e69b0dc610a3e23a2219245921272c371",
+   "source": "Yahoo",
+   "published": "2026-10-27T23:30:02+00:00",
+   "tickers": [
+    "ENSG"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "d3bb178a62a6",
    "headline": "$10,000 Invested in Eli Lilly 5 Years Ago Would Be Worth This Much Today",
    "summary": "The company has made longtime shareholders much richer.",
@@ -976,6 +1010,21 @@
    "tag": "Earnings",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "bb4584d3e581",
+   "headline": "Compared to Estimates, Universal Health Services (UHS) Q3 Earnings: A Look at Key Metrics",
+   "summary": "While the top- and bottom-line numbers for Universal Health Services (UHS) give a sense of how the business performed in the quarter ended September 2026, it could be worth looking at how some of its key metrics compare to Wall Street\u2026",
+   "url": "https://finnhub.io/api/news?id=2eeba38f1f3a025b9874f63eee9e893fdc679b60378b2c222a014b3f300e3544",
+   "source": "Yahoo",
+   "published": "2026-10-27T23:00:03+00:00",
+   "tickers": [
+    "UHS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -1586,6 +1635,21 @@
    ]
   },
   {
+   "id": "c5f5db4d4446",
+   "headline": "BEAM Stock Climbs On First Look At One-Time GSDIa Gene Fix; H.C. Wainwright Sees Further 200% Upside",
+   "summary": "BEAM-301 is a one-time liver-targeted treatment designed to correct a common genetic error that causes glycogen storage disease type Ia, or GSDIa.",
+   "url": "https://finnhub.io/api/news?id=8838e2f7c9f2fe14a4853306d23d2117ff1a530023315b524172d80b8a117d38",
+   "source": "Yahoo",
+   "published": "2026-10-27T19:21:49+00:00",
+   "tickers": [
+    "BEAM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "edf2f90525ee",
    "headline": "3 Absurdly Cheap Dividend Stocks to Buy for Under $100 Right Now",
    "summary": "The stocks listed here yield up to 5.8%.",
@@ -2076,7 +2140,8 @@
    "published": "2026-10-27T17:10:47+00:00",
    "tickers": [
     "CI",
-    "IRTC"
+    "IRTC",
+    "PRVA"
    ],
    "tag": "News",
    "sectors": [
@@ -2624,6 +2689,21 @@
    ]
   },
   {
+   "id": "8eb3d0414c19",
+   "headline": "Beam Therapeutics Reports Early BEAM-301 Gains in GSD1a Fasting Tolerance",
+   "summary": "Beam Therapeutics (NASDAQ:BEAM) reported initial clinical data from its Phase I/II trial of BEAM-301, an investigational base-editing therapy for glycogen storage disease type 1A (GSD1a), showing dose-dependent improvements in fasting\u2026",
+   "url": "https://finnhub.io/api/news?id=945410230aae9a19aca3ce8d2deccb7900fc17fe179cc33059f81dbb81eb26df",
+   "source": "Yahoo",
+   "published": "2026-10-27T15:05:08+00:00",
+   "tickers": [
+    "BEAM"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "fb240c1b4d76",
    "headline": "What Repligen (RGEN) Said on Its Q3 Earnings Call",
    "summary": "Repligen (NASDAQ:RGEN) reported record third-quarter 2026 revenue of $209 million, surpassing its prior quarterly peak set in the second quarter of 2022, as growth in its Proteins, Chromatography and Analytics franchises offset weakness\u2026",
@@ -2692,6 +2772,21 @@
    "tag": "Health AI",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "b86d926ffae0",
+   "headline": "Surging Pharma Demand and Topline Beat Drive Twist Bioscience Corporation\u2019s (TWST) Growth",
+   "summary": "Fred Alger Management, an investment management company, released its third-quarter 2026 investor letter for \u201cAlger Small Cap Growth Fund\u201d. The letter can be downloaded here. U.S. equities rose modestly in Q3 2026, with the S&P 500 up 2%,\u2026",
+   "url": "https://finnhub.io/api/news?id=3e382cf7301bea41987f9d8f40ff8cc55a90a58e2d281d379e02dbaab21677b7",
+   "source": "Yahoo",
+   "published": "2026-10-27T14:59:13+00:00",
+   "tickers": [
+    "TWST"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -3403,6 +3498,21 @@
    "tickers": [
     "JAZZ",
     "RARE"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "14faff256939",
+   "headline": "Will Kura Oncology (KURA) Report Negative Q3 Earnings? What You Should Know",
+   "summary": "Kura Oncology (KURA) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+   "url": "https://finnhub.io/api/news?id=e7ebb6350689952d47b6c6246f2f8f5a9bbbddc3d4f0750444359f6b9055b0af",
+   "source": "Yahoo",
+   "published": "2026-10-27T13:00:16+00:00",
+   "tickers": [
+    "INSM"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -4426,6 +4536,21 @@
    "tag": "News",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "58b63b29287d",
+   "headline": "Beam Therapeutics Reports Initial Clinical Data from Phase 1/2 Trial of BEAM-301, Demonstrating Proof of Concept for Genetic Correction in Glycogen Storage Disease Type Ia (GSDIa) at ESGCT 33rd Annual Congress",
+   "summary": "In the 40 mg Cohort, Two Patients Achieved 15 Hours of Controlled Fasting, Improvements in Glucose Control and No Longer Required Starch Supplementation Following Treatment Safety Profile of BEAM-301 Consistent with LNP-Based Therapies\u2026",
+   "url": "https://finnhub.io/api/news?id=a8e21a5955d69f17125da5d5ef8c3fbe09751ca68354780480ee0da3b270fcef",
+   "source": "Yahoo",
+   "published": "2026-10-27T11:00:00+00:00",
+   "tickers": [
+    "BEAM"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
    ]
   },
   {
