@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-28T23:32:45.376621+00:00",
+ "updated": "2026-10-28T23:47:40.326203+00:00",
  "quotes": {
   "A": {
    "price": 181.48,
@@ -125,6 +125,10 @@
   "GILD": {
    "price": 159.2,
    "change_pct": 0.08
+  },
+  "GKOS": {
+   "price": 181.43,
+   "change_pct": 0.14
   },
   "GMED": {
    "price": 81.26,
@@ -312,10 +316,6 @@
   },
   "UNH": {
    "price": 407.1,
-   "change_pct": -0.8
-  },
-  "UTHR": {
-   "price": 586.48,
    "change_pct": -0.8
   }
  },
@@ -933,6 +933,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "9737e2d3b41c",
+   "headline": "After-Hours Movers: LABT, NCPL Top Gainers; Fortinet, AUROW Top Losers",
+   "summary": "After-hours movers: LABT gained 45.26% and NCPL rose 36.36%, while Fortinet fell 24.45% and AUROW dropped 22.99% after the latest U.S. session.",
+   "url": "https://finnhub.io/api/news?id=7b08f4d7fe29b07af8355cb3d5017226a0064f2216e7dc3208e72b3b0750e5f3",
+   "source": "ChartMill",
+   "published": "2026-10-28T22:00:43+00:00",
+   "tickers": [
+    "GKOS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
   {
    "id": "1e7f4eded552",
    "headline": "Dow Jones Futures: Microsoft Rises Late, But Google, ServiceNow And Fortinet Dive On Earnings",
