@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-28T12:47:38.725012+00:00",
+ "updated": "2026-10-28T13:03:06.901083+00:00",
  "quotes": {
   "A": {
    "price": 177.49,
@@ -33,10 +33,6 @@
   "ARWR": {
    "price": 59.03,
    "change_pct": 0.08
-  },
-  "AXSM": {
-   "price": 142.2,
-   "change_pct": -1.29
   },
   "AZN": {
    "price": 170.08,
@@ -118,10 +114,6 @@
    "price": 169.5,
    "change_pct": -4.19
   },
-  "EXEL": {
-   "price": 65.35,
-   "change_pct": 0.37
-  },
   "GDRX": {
    "price": 3.48,
    "change_pct": -2.25
@@ -178,10 +170,6 @@
    "price": 116.6,
    "change_pct": 2.9
   },
-  "INSM": {
-   "price": 94.96,
-   "change_pct": 1.75
-  },
   "IONS": {
    "price": 43.96,
    "change_pct": 1.24
@@ -222,10 +210,6 @@
    "price": 967.02,
    "change_pct": -2.6
   },
-  "MDGL": {
-   "price": 440.33,
-   "change_pct": 0.59
-  },
   "MDT": {
    "price": 93.95,
    "change_pct": -0.89
@@ -237,10 +221,6 @@
   "MRNA": {
    "price": 207.97,
    "change_pct": 4.59
-  },
-  "NBIX": {
-   "price": 146,
-   "change_pct": 0.09
   },
   "NTRA": {
    "price": 410.82,
@@ -321,6 +301,26 @@
   "TWST": {
    "price": 159.85,
    "change_pct": 10.05
+  },
+  "TXG": {
+   "price": 78.02,
+   "change_pct": 6.94
+  },
+  "UHS": {
+   "price": 177.32,
+   "change_pct": -4.52
+  },
+  "UNH": {
+   "price": 410.39,
+   "change_pct": -0.08
+  },
+  "VRTX": {
+   "price": 521.03,
+   "change_pct": 0.68
+  },
+  "WAT": {
+   "price": 468.55,
+   "change_pct": 2.76
   }
  },
  "tickers": {
@@ -1001,6 +1001,21 @@
    ]
   },
   {
+   "id": "7accc02ed83a",
+   "headline": "Waters Launches AI-Powered Peak Integration Expanding its Suite of Premium AI Subscription Capabilities for Empower Software",
+   "summary": "Waters Corporation (NYSE: WAT) today announced AI-Powered Peak Integration, the next step in its strategy to build intelligent AI, machine learning, and automation cloud-based capabilities directly into Empower Software, the\u2026",
+   "url": "https://finnhub.io/api/news?id=bd2b8f10f776721595a8d1cf58de4dbe08eb9835bfcc493d0d3b4206e5b56833",
+   "source": "Yahoo",
+   "published": "2026-10-28T12:00:00+00:00",
+   "tickers": [
+    "WAT"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "81ecc92c4bc6",
    "headline": "A look at how employers are approaching AI-enabled benefits solutions",
    "summary": "Most employers are weighing the potential of AI-enabled benefits programs and how best to offer them to workers, according to a new survey.",
@@ -1020,7 +1035,8 @@
    "published": "2026-10-28T11:30:28+00:00",
    "tickers": [
     "A",
-    "ILMN"
+    "ILMN",
+    "TMO"
    ],
    "tag": "News",
    "sectors": [
@@ -1035,7 +1051,8 @@
    "source": "Yahoo",
    "published": "2026-10-28T11:25:00+00:00",
    "tickers": [
-    "AZN"
+    "AZN",
+    "LLY"
    ],
    "tag": "News",
    "sectors": [
@@ -1081,6 +1098,21 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "a45343c3fe77",
+   "headline": "Missed Eli Lilly's Run? What Holders Had To Believe",
+   "summary": "If you only glanced at headlines about drug pricing reform, patent risk, and lawsuits, Eli Lilly might have looked like a minefield rather than a gift. Investors who held Eli Lilly over the past year are up 57.3%, including dividends.\u2026",
+   "url": "https://finnhub.io/api/news?id=b97a3a6203e8eee325249275df28f16c30813c2a33dbcb854cfc7735a9c7f02b",
+   "source": "Yahoo",
+   "published": "2026-10-28T11:13:33+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "Legal",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1264,6 +1296,21 @@
    ]
   },
   {
+   "id": "e671abc452a7",
+   "headline": "Lilly's retatrutide delivered greater A1C reduction and more than double the weight loss of Ozempic's highest approved dose in head-to-head trial",
+   "summary": "Eli Lilly and Company (NYSE: LLY), the maker of Mounjaro (tirzepatide) and Foundayo (orforglipron), today announced positive topline results from TRANSCEND-T2D-2, a head-to-head Phase 3 trial comparing retatrutide with injectable Ozempic\u2026",
+   "url": "https://finnhub.io/api/news?id=3f2a8eb09a606168dad7205e31abcf15c29d67608812d312da35a11dc3f0e075",
+   "source": "Yahoo",
+   "published": "2026-10-28T10:45:00+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "dec5a4ec3e7d",
    "headline": "Biogen beats Q3 estimates, raises guidance floor on growth",
    "summary": "Investing.com -- Biogen Inc (NASDAQ:BIIB) on Wednesday reported third quarter adjusted earnings per share of $2.62, surpassing the analyst consensus of $2.02 by $0.60. Revenue reached $2.8 billion, exceeding the $2.64 billion estimate and\u2026",
@@ -1288,7 +1335,8 @@
    "tickers": [
     "ABT",
     "BSX",
-    "ISRG"
+    "ISRG",
+    "SYK"
    ],
    "tag": "News",
    "sectors": [
@@ -1452,6 +1500,21 @@
     "BIIB"
    ],
    "tag": "M&A",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "fde8a333c6d9",
+   "headline": "Here\u2019s How Much Eli Lilly Stock Is Expected to Move After Earnings",
+   "summary": "Eli Lilly is set to report earnings Thursday morning, with traders expecting a move that could send the stock to a fresh high.",
+   "url": "https://finnhub.io/api/news?id=e29ca12f6f9e601d413df690496cb6fee560ae791861415ea0346ea4c5a0f046",
+   "source": "Yahoo",
+   "published": "2026-10-28T10:00:00+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "Earnings",
    "sectors": [
     "pharma"
    ]
@@ -1664,6 +1727,21 @@
    "tag": "Earnings",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "2e2bef82b518",
+   "headline": "How Positive Free Cash Flow At iRhythm Holdings (IRTC) Has Changed Its Investment Story",
+   "summary": "iRhythm Holdings has reported 24% annual revenue growth over the last two years and recently moved into positive free cash flow, signaling improved operating efficiency and stronger commercial traction for its wearable cardiac monitoring\u2026",
+   "url": "https://finnhub.io/api/news?id=cd187d67b54373596b6234a22175b171a4b3de437cd6d31bdb314e1398f687ac",
+   "source": "Yahoo",
+   "published": "2026-10-28T08:09:04+00:00",
+   "tickers": [
+    "IRTC"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
    ]
   },
   {
