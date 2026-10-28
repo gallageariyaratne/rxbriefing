@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-28T11:47:38.594903+00:00",
+ "updated": "2026-10-28T12:02:47.826535+00:00",
  "quotes": {
   "A": {
    "price": 177.49,
@@ -9,10 +9,6 @@
   "ABBV": {
    "price": 286.39,
    "change_pct": -0.12
-  },
-  "ABSI": {
-   "price": 10.57,
-   "change_pct": 11.85
   },
   "ABT": {
    "price": 103.1,
@@ -29,10 +25,6 @@
   "ALNY": {
    "price": 226.79,
    "change_pct": -0.38
-  },
-  "ALT": {
-   "price": 2.04,
-   "change_pct": -0.49
   },
   "AMGN": {
    "price": 447.95,
@@ -169,10 +161,6 @@
   "HCA": {
    "price": 449.96,
    "change_pct": -3.29
-  },
-  "HIMS": {
-   "price": 27.92,
-   "change_pct": 1.2
   },
   "HSIC": {
    "price": 84.25,
@@ -321,6 +309,18 @@
   "TDOC": {
    "price": 6.45,
    "change_pct": 3.37
+  },
+  "TEM": {
+   "price": 72.15,
+   "change_pct": 7.43
+  },
+  "TGTX": {
+   "price": 56.44,
+   "change_pct": 3.01
+  },
+  "THC": {
+   "price": 262.05,
+   "change_pct": -2.57
   }
  },
  "tickers": {
@@ -937,6 +937,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "fdc68e545336",
+   "headline": "GSK predicts \u2018some limited impact\u2019 to UK roles as restructuring rolls on",
+   "summary": "GSK\u2019s global restructuring plan is likely to see \u201csome limited impact\u201d to roles on the Big Pharma\u2019s home turf of the U.K., executives have confirmed.",
+   "url": "https://www.fiercepharma.com/biotech/gsk-predicts-some-limited-impact-uk-roles-restructuring-rolls",
+   "source": "Fierce Pharma",
+   "published": "2026-10-28T12:00:29.819491+00:00",
+   "tickers": [
+    "GSK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
   {
    "id": "81ecc92c4bc6",
    "headline": "A look at how employers are approaching AI-enabled benefits solutions",
