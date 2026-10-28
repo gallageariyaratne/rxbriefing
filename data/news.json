@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-28T06:17:33.310865+00:00",
+ "updated": "2026-10-28T06:33:27.308985+00:00",
  "quotes": {
   "A": {
    "price": 177.49,
@@ -294,6 +294,10 @@
    "price": 175.8,
    "change_pct": -2.43
   },
+  "RMD": {
+   "price": 250.8,
+   "change_pct": -0.95
+  },
   "RVMD": {
    "price": 186.22,
    "change_pct": 1.26
@@ -317,10 +321,6 @@
   "TGTX": {
    "price": 56.44,
    "change_pct": 3.01
-  },
-  "THC": {
-   "price": 262.05,
-   "change_pct": -2.57
   }
  },
  "tickers": {
@@ -938,6 +938,21 @@
  },
  "stories": [
   {
+   "id": "c610a519e0e1",
+   "headline": "ResMed (RMD) Q3 earnings report preview: what to look for",
+   "summary": "Medical device company ResMed (NYSE:RMD) will be reporting results this Thursday after market hours. Here\u2019s what you need to know.",
+   "url": "https://finnhub.io/api/news?id=b6c878b09c3910726b33eb84fed218259d01cd4c06a9a2417f50ee77960ab7e8",
+   "source": "Yahoo",
+   "published": "2026-10-28T05:42:34+00:00",
+   "tickers": [
+    "RMD"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "143a24a13426",
    "headline": "Merck (MRK) Gains Fresh Oncology Backing As Valuation Debate Heats Up",
    "summary": "Merck (MRK) is back in focus after a cluster of oncology trial readouts showed meaningful survival benefits for KEYTRUDA, sacituzumab tirumotecan and the Moderna-partnered melanoma vaccine, giving investors fresh data on the drug maker\u2019s\u2026",
@@ -1008,6 +1023,21 @@
    "tickers": [],
    "tag": "Policy",
    "sectors": []
+  },
+  {
+   "id": "50e0164ecd15",
+   "headline": "FPE: Better Than Preferred Stock Index Funds, But Inflation Is A Real Risk",
+   "summary": "FPE ETF offers a 6.40% yield, outperforming passive preferred stock ETFs over the past decade. Read why FPE is a Hold.",
+   "url": "https://finnhub.io/api/news?id=8ba66718654ce4b3eab97d048e8739d97254cf34a2b83a6a6c2efe3fee25982d",
+   "source": "SeekingAlpha",
+   "published": "2026-10-28T02:07:53+00:00",
+   "tickers": [
+    "A"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
   },
   {
    "id": "cb3227fe7be4",
