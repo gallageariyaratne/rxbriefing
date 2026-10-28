@@ -1,23 +1,7 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-28T12:17:40.003712+00:00",
+ "updated": "2026-10-28T12:32:41.892558+00:00",
  "quotes": {
-  "A": {
-   "price": 177.49,
-   "change_pct": 0.87
-  },
-  "ABBV": {
-   "price": 286.39,
-   "change_pct": -0.12
-  },
-  "ABT": {
-   "price": 103.1,
-   "change_pct": -1.7
-  },
-  "ALGN": {
-   "price": 151.95,
-   "change_pct": -0.2
-  },
   "ALHC": {
    "price": 8.05,
    "change_pct": 2.03
@@ -218,10 +202,6 @@
    "price": 320.58,
    "change_pct": 2.21
   },
-  "LEGN": {
-   "price": 21.56,
-   "change_pct": 5.74
-  },
   "LH": {
    "price": 331.17,
    "change_pct": 0.39
@@ -321,6 +301,10 @@
   "THC": {
    "price": 262.05,
    "change_pct": -2.57
+  },
+  "TMO": {
+   "price": 693.02,
+   "change_pct": 1.19
   }
  },
  "tickers": {
@@ -938,6 +922,17 @@
  },
  "stories": [
   {
+   "id": "1bfd8fbfdee8",
+   "headline": "Supernus shreds ADHD stigma with Olympic snowboarder Chloe Kim",
+   "summary": "The Olympic athlete and Qelbree user is the new face of Supernus' \"Ms. Represented\" campaign as it looks to reach a younger audience with its ADHD awareness messaging.",
+   "url": "https://www.fiercepharma.com/marketing/supernus-shreds-adhd-stigma-olympic-snowboarder-chloe-kim",
+   "source": "Fierce Pharma",
+   "published": "2026-10-28T12:30:26.868701+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
    "id": "c7056699d26c",
    "headline": "Eversana combines forces with UK-based AI health economics research firm Estima in acquisition",
    "summary": "Estima's AI and automation capabilities for health economics and outcomes research will help Eversana further leverage the \"technology-first solutions\" infused into its platform.",
@@ -986,6 +981,21 @@
    "sectors": []
   },
   {
+   "id": "3e8de1b20e03",
+   "headline": "Breakout Watch: 4 Reasons To Monitor This Top-Rated Medical Stock",
+   "summary": "A best-possible 99 Composite Rating is just one reason to watch Medpace stock. Here are four more telltale clues to monitor.",
+   "url": "https://finnhub.io/api/news?id=9dccca395cd1833d2c2779412d6fcd0f07a745dca97dc5dd84f81fab8ee9c6b0",
+   "source": "Yahoo",
+   "published": "2026-10-28T11:30:28+00:00",
+   "tickers": [
+    "A"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "a6260869ddf6",
    "headline": "Micron Biomedical Appoints Anand Subramony, Ph.D., as Executive Vice President, Global Product Development and Combination Product Commercialization",
    "summary": "Seasoned drug delivery and product development leader formerly at Lilly and AstraZeneca to advance Micron Biomedical's transition from platform technology to commercial product company Anand Subramony, Ph.D. joins Micron Biomedical Micron\u2026",
@@ -1027,6 +1037,21 @@
    ]
   },
   {
+   "id": "97b03f279ee7",
+   "headline": "Boston Scientific (NYSE:BSX) posts better-than-expected sales in Q3 2026 but quarterly revenue guidance misses expectations",
+   "summary": "Medical device company Boston Scientific (NYSE:BSX) announced better-than-expected revenue in Q3 2026, with revenue rising 1.4% year on year to $5.14 billion. On the other hand, next quarter\u2019s revenue guidance of $5.18 billion was less\u2026",
+   "url": "https://finnhub.io/api/news?id=559200498e14923626dc91299f40728adfa0cc897aac6cb53a4de1de353e9475",
+   "source": "Yahoo",
+   "published": "2026-10-28T11:13:51+00:00",
+   "tickers": [
+    "BSX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "d2aa152e2390",
    "headline": "Retire on Dividends: 5 High-Yield Stocks Boomers Are Buying and Holding Forever",
    "summary": "Treasury yields near 5% make dividend stocks work harder to justify their risk, yet five companies spanning tobacco, pipelines, telecom, pharma, and net-lease real estate have kept raising their payouts through every rate spike in recent\u2026",
@@ -1039,6 +1064,51 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "72d7b28a9ec5",
+   "headline": "Enanta Pharmaceuticals Announces Planned Retirement of Longstanding Chief Executive Officer Jay R. Luly, Ph.D. After 23 Years of Company Leadership",
+   "summary": "WATERTOWN, Mass., October 28, 2026--Enanta Pharmaceuticals, Inc. (NASDAQ:ENTA), a clinical-stage biotechnology company dedicated to creating small molecule drugs for viral infections and immunological diseases, announces today that Jay R.\u2026",
+   "url": "https://finnhub.io/api/news?id=400e49e09f2ed8ca72a80ef211d3935c5dbd7c90ba9e6269dc54a47c8bcc59ba",
+   "source": "Yahoo",
+   "published": "2026-10-28T11:00:00+00:00",
+   "tickers": [
+    "VRTX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "d00c76be01c0",
+   "headline": "Arrowhead gains UK marketing authorisation for Redemplo",
+   "summary": "The regulatory approval covers patients diagnosed through either genetic testing or clinical criteria.",
+   "url": "https://finnhub.io/api/news?id=404d746a5529ea22b72d8f042c4109ef68168ef253ce3779777f7fb851af9c76",
+   "source": "Yahoo",
+   "published": "2026-10-28T10:50:51+00:00",
+   "tickers": [
+    "ARWR"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "3298f9d89686",
+   "headline": "Boston Scientific (BSX) Q3 Earnings Match Estimates",
+   "summary": "Boston Scientific (BSX) delivered earnings and revenue surprises of 0.00% and +0.68%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=e919cd91ca8e142c2671568a7de1b06ab1527d8c76ff7f5e1fb1ff268a5c59d5",
+   "source": "Yahoo",
+   "published": "2026-10-28T10:50:02+00:00",
+   "tickers": [
+    "BSX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -1102,11 +1172,41 @@
    ]
   },
   {
+   "id": "df70c5ed3ca4",
+   "headline": "What Would A Short Seller Say About Stryker?",
+   "summary": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://finnhub.io/api/news?id=b097ef726609b34ae25a1dd428a94232e38826f497f6eeaee167dd3a6d22cad7",
+   "source": "Yahoo",
+   "published": "2026-10-28T10:37:55+00:00",
+   "tickers": [
+    "BSX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "5b78a76bd4ca",
    "headline": "Boston Scientific announces results for third quarter 2026",
    "summary": "MARLBOROUGH, Mass., Oct. 28, 2026 /PRNewswire/ -- Boston Scientific Corporation (NYSE: BSX) generated net sales of $5.138 billion during the third quarter of 2026, growing 1.5 percent on a reported, operational1 and organic2 basis, all\u2026",
    "url": "https://www.prnewswire.com/news-releases/boston-scientific-announces-results-for-third-quarter-2026-302921450.html",
    "source": "PR Newswire",
+   "published": "2026-10-28T10:30:00+00:00",
+   "tickers": [
+    "BSX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "2443df49cc56",
+   "headline": "Boston Scientific announces results for third quarter 2026",
+   "summary": "Boston Scientific Corporation (NYSE: BSX) generated net sales of $5.138 billion during the third quarter of 2026, growing 1.5 percent on a reported, operational1 and organic2 basis, all compared to the prior year period. The company\u2026",
+   "url": "https://finnhub.io/api/news?id=37a34bebaf5d7fc1c8f9395cdc403feaf3558d42690f0a7cf7fe19a16b557694",
+   "source": "Yahoo",
    "published": "2026-10-28T10:30:00+00:00",
    "tickers": [
     "BSX"
