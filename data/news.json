@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-28T20:47:54.798697+00:00",
+ "updated": "2026-10-28T21:03:41.869495+00:00",
  "quotes": {
   "A": {
    "price": 181.48,
@@ -53,10 +53,6 @@
   "BSX": {
    "price": 42.43,
    "change_pct": -5.84
-  },
-  "CAH": {
-   "price": 244.76,
-   "change_pct": -0.69
   },
   "CI": {
    "price": 295,
@@ -230,10 +226,6 @@
    "price": 214.16,
    "change_pct": 2.98
   },
-  "NBIX": {
-   "price": 145.53,
-   "change_pct": -0.32
-  },
   "NTRA": {
    "price": 424.27,
    "change_pct": 3.27
@@ -317,6 +309,10 @@
   "TXG": {
    "price": 83.62,
    "change_pct": 7.18
+  },
+  "UHS": {
+   "price": 172.18,
+   "change_pct": -2.9
   }
  },
  "tickers": {
@@ -934,6 +930,17 @@
  },
  "stories": [
   {
+   "id": "66c06207b59c",
+   "headline": "STAT+: Lawmaker wants government watchdog to probe TrumpRx over claims about drug savings",
+   "summary": "A House lawmaker asked the Government Accountability Office to review whether the TrumpRx platform has saved Americans any money.",
+   "url": "https://www.statnews.com/pharmalot/2026/10/28/lawmaker-wants-gao-probe-trumprx-drug-pricing/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-28T20:51:12+00:00",
+   "tickers": [],
+   "tag": "Legal",
+   "sectors": []
+  },
+  {
    "id": "5a3495574796",
    "headline": "Genmab's $8B Merus bet delivers as bispecific combo halves risk of death in phase 3",
    "summary": "Capping off a busy few days in Spain, Genmab reported results from the first interim analysis of a phase 3 trial showing that adding its bispecific antibody petosemtamab to Merck & Co.'s Keytruda cut the risk of death by 50% compared with\u2026",
@@ -1016,7 +1023,8 @@
    "source": "Yahoo",
    "published": "2026-10-28T19:51:15+00:00",
    "tickers": [
-    "BSX"
+    "BSX",
+    "LLY"
    ],
    "tag": "News",
    "sectors": [
@@ -1035,6 +1043,21 @@
    "sectors": []
   },
   {
+   "id": "497c94c2a6a9",
+   "headline": "16% of Employers Are Thinking About Cutting Weight-Loss Drug Coverage",
+   "summary": "Employers are quietly reconsidering who foots the bill for GLP-1 weight-loss drugs, and the fallout hits Eli Lilly and Novo Nordisk very differently heading into earnings week.",
+   "url": "https://finnhub.io/api/news?id=bb85edd5ca4ef911dd157b866397613353bbf508624d96028ae81a3d91c71060",
+   "source": "Yahoo",
+   "published": "2026-10-28T19:24:50+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "05e76dec7981",
    "headline": "Genedata Launches Fully Integrated Electronic Lab Notebook to Help Biopharma R&D Teams Move Faster",
    "summary": "New ELN connects experimental context and structured scientific data across R&D workflows, creating an AI-ready foundation for faster, more informed decisions BASEL, Switzerland, Oct. 28, 2026 /PRNewswire/ -- Genedata, a Danaher company\u2026",
@@ -1047,6 +1070,21 @@
    "tag": "Health AI",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "cd49d77615ce",
+   "headline": "Hims & Hers Jumped 6% as RFK Jr.\u2019s HHS Uses \u201cEnforcement Discretion\u201d to Open Peptide Compounding",
+   "summary": "Key TakeawaysHims & Hers shares rose 6% today after HHS said it won\u2019t act against qualifying pharmacies compounding six unapproved peptides while it writes a formal rule. Hims has said it\u2019s waiting for final FDA rules before selling\u2026",
+   "url": "https://finnhub.io/api/news?id=06f35c05247bbc6f1b1a52f8a235b8bf7710c01308339b64ef979278fb460dd7",
+   "source": "Yahoo",
+   "published": "2026-10-28T19:14:01+00:00",
+   "tickers": [
+    "HIMS"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "healthit"
    ]
   },
   {
@@ -1074,6 +1112,21 @@
    "tickers": [],
    "tag": "Policy",
    "sectors": []
+  },
+  {
+   "id": "c0b26cd08fcd",
+   "headline": "Alnylam Pharmaceuticals (ALNY) Stock Looks Fully Priced Following Its 52% Fall",
+   "summary": "Alnylam Pharmaceuticals has seen its share price fall sharply over the past year, even as fresh clinical data on its Huntington's disease program has attracted attention. That mix of price pressure and new trial results raises a clear\u2026",
+   "url": "https://finnhub.io/api/news?id=d70e6aa07332a026a2a3546591fb710e9fd116f14b37e24d527e9a2c778b8d78",
+   "source": "Yahoo",
+   "published": "2026-10-28T19:06:32+00:00",
+   "tickers": [
+    "ALNY"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
+   ]
   },
   {
    "id": "05d9587f5443",
@@ -1182,6 +1235,21 @@
    ]
   },
   {
+   "id": "f58a533a5a9d",
+   "headline": "Lilly\u2019s retatrutide beats Ozempic in head-to-head trial",
+   "summary": "This is the first Phase III comparator trial for Lilly\u2019s triple therapy against Novo Nordisk\u2019s Ozempic.",
+   "url": "https://finnhub.io/api/news?id=80bb138cc088ee38ba4e92963e4e15fd9a419973771043debeadb3dbb3c7aa28",
+   "source": "Yahoo",
+   "published": "2026-10-28T18:23:29+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "e3c52e8eb017",
    "headline": "'Numbers speak for themselves': Biogen's Apellis buyout fuels best quarter since 2020",
    "summary": "Biogen CEO Chris Viehbacher said, \"We're dramatically changing Biogen\" on third quarter earnings call where the biotech announced revenue increase 11% year-over-yera.",
@@ -1236,7 +1304,8 @@
    "source": "Yahoo",
    "published": "2026-10-28T18:06:49+00:00",
    "tickers": [
-    "BSX"
+    "BSX",
+    "LLY"
    ],
    "tag": "News",
    "sectors": [
@@ -1372,6 +1441,21 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "113f75b6e01e",
+   "headline": "Centene Q3 Earnings Call Highlights Faster Recovery and Medicaid Risks",
+   "summary": "CNC raises its 2026 earnings outlook after Q3 results beat estimates, as Medicare recovery accelerates despite Medicaid enrollment and margin risks.",
+   "url": "https://finnhub.io/api/news?id=be2318b6d53bc77e994199adc630314ae7c6c53db93526c2b18969de4a88e7c7",
+   "source": "Yahoo",
+   "published": "2026-10-28T17:41:00+00:00",
+   "tickers": [
+    "CNC"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -1579,7 +1663,9 @@
    "source": "Yahoo",
    "published": "2026-10-28T16:51:00+00:00",
    "tickers": [
-    "BDX"
+    "BDX",
+    "IDXX",
+    "WAT"
    ],
    "tag": "M&A",
    "sectors": [
