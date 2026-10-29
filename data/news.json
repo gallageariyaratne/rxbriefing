@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-29T12:02:59.056372+00:00",
+ "updated": "2026-10-29T12:20:50.560222+00:00",
  "quotes": {
   "A": {
    "price": 181.48,
@@ -138,6 +138,10 @@
    "price": 463.22,
    "change_pct": 2.95
   },
+  "HCAT": {
+   "price": 1.8,
+   "change_pct": 14.65
+  },
   "HIMS": {
    "price": 29.32,
    "change_pct": 5.01
@@ -149,10 +153,6 @@
   "HSIC": {
    "price": 84.96,
    "change_pct": 0.84
-  },
-  "HUM": {
-   "price": 411.87,
-   "change_pct": -0.72
   },
   "ICLR": {
    "price": 214.16,
@@ -282,10 +282,6 @@
    "price": 184.69,
    "change_pct": 5.06
   },
-  "RMD": {
-   "price": 250.17,
-   "change_pct": -0.25
-  },
   "RXRX": {
    "price": 4.35,
    "change_pct": 7.41
@@ -317,6 +313,10 @@
   "THC": {
    "price": 268.5,
    "change_pct": 2.46
+  },
+  "TMO": {
+   "price": 704.15,
+   "change_pct": 1.61
   }
  },
  "tickers": {
@@ -934,6 +934,114 @@
  },
  "stories": [
   {
+   "id": "f12b7d4f6c07",
+   "headline": "A look at Optum Rx's new program for managing menopause",
+   "summary": "Optum Rx is launching a new program that aims to integrate specialized care for women navigating menopause into the pharmacy benefit.",
+   "url": "https://www.fiercehealthcare.com/payers/look-optum-rxs-new-program-managing-menopause",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-29T12:18:37.236327+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "23ef29fa051a",
+   "headline": "Oura, UC San Diego Health collaborate to study GLP-1 outcomes using continuous smart ring data",
+   "summary": "Oura is pushing further into clinical healthcare research with its first clinical trial to study the link between smart ring data and obesity treatment outcomes.",
+   "url": "https://www.fiercehealthcare.com/health-tech/oura-uc-san-diego-health-study-glp-1-outcomes-using-continuous-smart-ring-data",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-29T12:18:37.233797+00:00",
+   "tickers": [],
+   "tag": "GLP-1",
+   "sectors": []
+  },
+  {
+   "id": "80fae03f4fe2",
+   "headline": "Kennedy's HHS relaxes enforcement on 6 popular wellness peptides",
+   "summary": "Stopping short of a formal declaration allowing their use, Department of Health and Human Services secretary Robert F. Kennedy Jr. has cleared the way for the compounding of six popular wellness peptides.",
+   "url": "https://www.fiercepharma.com/pharma/kennedys-hhs-relaxes-enforcement-6-popular-wellness-peptides",
+   "source": "Fierce Pharma",
+   "published": "2026-10-29T12:18:37.086734+00:00",
+   "tickers": [],
+   "tag": "Policy",
+   "sectors": []
+  },
+  {
+   "id": "54aa8735355e",
+   "headline": "Geron\u2019s Rytelo stumbles in phase 3 as Novartis gears up for post-JAK inhibitor blood cancer bid",
+   "summary": "Geron has discontinued a phase 3 trial of its Rytelo in JAK inhibitor-pretreated myelofibrosis after an independent data monitoring committee ruled that the study was unlikely to succeed, just as Novartis is gearing up for a delayed FDA\u2026",
+   "url": "https://www.fiercepharma.com/pharma/geron-rytelo-stumbles-phase-3-novartis-gears-post-jak-inhibitor-blood-cancer-bid",
+   "source": "Fierce Pharma",
+   "published": "2026-10-29T12:18:37.085171+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "6363ab06cb0b",
+   "headline": "OrthoArizona Surgeon First in the World to Perform Prophecy Incompass Total Ankle Replacement",
+   "summary": "Dr. Jason Patterson completed three procedures using Stryker's newest patient-specific ankle technology PHOENIX, Oct. 29, 2026 /PRNewswire/ -- Dr. Jason Patterson, an orthopedic surgeon with OrthoArizona, is the first surgeon in the world\u2026",
+   "url": "https://www.prnewswire.com/news-releases/orthoarizona-surgeon-first-in-the-world-to-perform-prophecy-incompass-total-ankle-replacement-302923059.html",
+   "source": "PR Newswire",
+   "published": "2026-10-29T12:01:00+00:00",
+   "tickers": [
+    "SYK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "8d9a71d7f432",
+   "headline": "Merck Manuals Helps Patients Navigate the Different Types of Sunscreens",
+   "summary": "RAHWAY, N.J., Oct. 29, 2026 /PRNewswire/ -- When it comes to safeguarding your skin from the sun, sunscreen is an important part of year-round protection. Yet not all sunscreens are created equal. Getting the necessary protection depends\u2026",
+   "url": "https://www.prnewswire.com/news-releases/merck-manuals-helps-patients-navigate-the-different-types-of-sunscreens-302922780.html",
+   "source": "PR Newswire",
+   "published": "2026-10-29T12:00:00+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "a526ce758f63",
+   "headline": "Is Johnson & Johnson Stock a Good Fit For Your Portfolio Risk?",
+   "summary": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://finnhub.io/api/news?id=97f4cfb70221d9692988ee694fa5804955db2872ff2ae5859ec106d33d12de9d",
+   "source": "Yahoo",
+   "published": "2026-10-29T11:44:23+00:00",
+   "tickers": [
+    "MDT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "122d89dd863d",
+   "headline": "AbbVie\u2019s Pipeline Had a Mixed Week. The October 30 Report Has to Show Its Guidance Still Rises",
+   "summary": "Key TakeawaysAbbVie filed its multiple myeloma drug etentamig with the FDA this week, days after its skin-disease drug lutikizumab beat placebo by just 8 points in a Phase 3 trial. Neither drug is approved, so the stock rests on what\u2026",
+   "url": "https://finnhub.io/api/news?id=c24f6908662562f1b73820a70c66abc031bc95a51ca414c26f8963178f020927",
+   "source": "Yahoo",
+   "published": "2026-10-29T11:42:44+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "75d8a7aab9b9",
    "headline": "Zimmer Biomet to Preview the Next Era of Intelligent Orthopedic Surgery at AAHKS 2026",
    "summary": "Featured symposium will reveal a new vision for intelligent systems that support surgeon judgment, reduce procedural burden and connect the episode of care WARSAW, Ind., Oct. 29, 2026 /PRNewswire/ -- Zimmer Biomet Holdings, Inc. (NYSE and\u2026",
@@ -942,6 +1050,21 @@
    "published": "2026-10-29T11:30:00+00:00",
    "tickers": [
     "ZBH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "fdaba3c24237",
+   "headline": "Is Intuitive Surgical Stock's Market Price Justified?",
+   "summary": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://finnhub.io/api/news?id=e14303edfa0e7af312b6688243b3cc43ce63894301a9c845c600c57c9b1adadf",
+   "source": "Yahoo",
+   "published": "2026-10-29T11:27:25+00:00",
+   "tickers": [
+    "MDT"
    ],
    "tag": "News",
    "sectors": [
@@ -1019,6 +1142,21 @@
    "sectors": []
   },
   {
+   "id": "503b90550961",
+   "headline": "AbbVie (ABBV) reports earnings tomorrow: what to expect",
+   "summary": "Pharmaceutical company AbbVie (NYSE:ABBV) will be reporting earnings tomorrow before market open. Here\u2019s what to expect.",
+   "url": "https://finnhub.io/api/news?id=6db853f4b124530278671bd2f7f2ec316c695cc3b95eb0fbcd140671465d017f",
+   "source": "Yahoo",
+   "published": "2026-10-29T10:11:25+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "163c0fe9709f",
    "headline": "Ascletis\u2019 challenger to Lilly\u2019s Foundayo hits goals in phase 2 diabetes trial",
    "summary": "A phase 2 trial of Ascletis\u2019 oral GLP-1 drug candidate has hit its primary and secondary endpoints, positioning the Chinese biotech to mount a two-front attack on Eli Lilly\u2019s Foundayo.",
@@ -1043,6 +1181,36 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "451112bb3e4b",
+   "headline": "AbbVie TEMPLE Study Demonstrates Superior Tolerability and Efficacy of Atogepant (QULIPTA\u00ae) in Head-to-Head Migraine Prevention Trial",
+   "summary": "AbbVie (NYSE: ABBV) announced the publication of results from the Phase 3 TEMPLE study in The Lancet Neurology. The randomized, double-blind, head-to-head study evaluated the tolerability, safety and efficacy of atogepant (QULIPTA\u00ae) 60\u2026",
+   "url": "https://finnhub.io/api/news?id=c79407a122d2cd2c669dcdf5dbc18266b4b4fdf85eae41a1860d4185da2d93d4",
+   "source": "Yahoo",
+   "published": "2026-10-29T10:00:00+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "cd12e8653d64",
+   "headline": "3 volatile stocks we approach with caution",
+   "summary": "Market swings can be tough to stomach, and volatile stocks often experience exaggerated moves in both directions. While many thrive during risk-on environments, many also struggle to maintain investor confidence when the ride gets bumpy.",
+   "url": "https://finnhub.io/api/news?id=490cd923170b78b1895cd0b3bdd6c36993d109bbca6a24f2731661cbf1d33fae",
+   "source": "Yahoo",
+   "published": "2026-10-29T09:47:25+00:00",
+   "tickers": [
+    "HCAT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthai"
+   ]
   },
   {
    "id": "eea6b71f9f91",
@@ -47157,117 +47325,6 @@
    "published": "2026-10-19T12:20:01+00:00",
    "tickers": [
     "UNH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "fd38a50a5f12",
-   "headline": "Closing the gap between approval and treatment",
-   "summary": "Lauren Boyer, CEO of Underscore, on why patient finding is a marketing job, and how to reach the people traditional data can't see.",
-   "url": "https://www.fiercepharma.com/sponsored/closing-gap-between-approval-and-treatment",
-   "source": "Fierce Pharma",
-   "published": "2026-10-19T12:15:20.800561+00:00",
-   "tickers": [],
-   "tag": "FDA",
-   "sectors": []
-  },
-  {
-   "id": "923ca45ce32f",
-   "headline": "Roche returns to China\u2019s ADC powerhouse Hansoh for $15B biobucks pact",
-   "summary": "A year after their first antibody-drug conjugate team-up, Roche has returned to Hansoh Pharmaceutical for a mammoth $15 billion biobucks pact.",
-   "url": "https://www.fiercebiotech.com/biotech/roche-returns-chinas-adc-powerhouse-hansoh-15b-biobucks-pact",
-   "source": "Fierce Biotech",
-   "published": "2026-10-19T12:15:20.669468+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "e1803cfbc9a8",
-   "headline": "Siemens Healthineers partners with Paradromics to build out new imaging system to support BCIs",
-   "summary": "Paradromics has announced a new collaboration with Siemens Healthineers to construct an advanced multimodal imaging platform to support the growing clinical use of implantable brain-computer interfaces (BCIs).",
-   "url": "https://www.fiercebiotech.com/medtech/siemens-healthineers-partners-paradromics-build-out-new-imaging-system-support-bcis",
-   "source": "Fierce Biotech",
-   "published": "2026-10-19T12:15:20.668827+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "536fdadb12a7",
-   "headline": "Can Zenkuda's Multi-Indication Potential Drive KOD Stock Higher?",
-   "summary": "Kodiak's Zenkuda shows promise across three retinal diseases, with positive phase III data and a planned 2026 regulatory filing.",
-   "url": "https://finnhub.io/api/news?id=3bb3aa6d830109503a48b217b40bc8978be07802ffb26afec43893d7a9143cd3",
-   "source": "Yahoo",
-   "published": "2026-10-19T12:10:00+00:00",
-   "tickers": [
-    "REGN"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "cadb52aac698",
-   "headline": "Saudi Arabia takes actionable steps to build its biotech sector after 46 agreements in Riyadh",
-   "summary": "Riyadh\u2019s biotech summit closed with 46 agreements. Its chairman explains how Saudi Arabia plans to turn them into working programs.",
-   "url": "https://www.fiercebiotech.com/sponsored/saudi-arabia-takes-actionable-steps-build-its-biotech-sector-after-46-agreements-riyadh",
-   "source": "Fierce Biotech",
-   "published": "2026-10-19T12:05:07.250648+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "b10d659c3e53",
-   "headline": "From Scientific Hypothesis to Clinical Practice: The Next Chapter for CLDN18.2",
-   "summary": "Astellas reflects on a decade of progress in CLDN18.2 and the opportunities ahead in patient identification, testing and innovation",
-   "url": "https://www.fiercebiotech.com/sponsored/scientific-hypothesis-clinical-practice-next-chapter-cldn182",
-   "source": "Fierce Biotech",
-   "published": "2026-10-19T12:05:07.248842+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "e736f1aa4fa0",
-   "headline": "Immune Boost Capital Invests in Orthrus Therapeutics to Advance Antigen-Specific Immune Tolerance for Autoimmune Disease",
-   "summary": "Immune Boost Capital (IBC), the venture investment arm of the Arthritis National Research Foundation (ANRF), today announced its investment in Orthrus Therapeutics, a company developing a new class of precision therapies for autoimmune\u2026",
-   "url": "https://www.fiercebiotech.com/sponsored/immune-boost-capital-invests-orthrus-therapeutics-advance-antigen-specific-immune",
-   "source": "Fierce Biotech",
-   "published": "2026-10-19T12:05:07.247501+00:00",
-   "tickers": [],
-   "tag": "Financing",
-   "sectors": []
-  },
-  {
-   "id": "ac57cda5fde1",
-   "headline": "Enable Injections Announces Approval in Japan for CirCLIQ\u00ae Injector based on enFuse\u00ae On-Body Delivery System",
-   "summary": "Sanofi's CirCLIQ\u00ae Injector, developed using enFuse technology, has been approved to administer Sarclisa subcutaneous formulation, in combination with approved standard-of-care regimens, for patients with multiple myelomaCINCINNATI, Oct.\u2026",
-   "url": "https://finnhub.io/api/news?id=697459c19fe681dce67e2fa7b220e25baf087c999afadce5125d7f1fdfaa2470",
-   "source": "Yahoo",
-   "published": "2026-10-19T12:04:00+00:00",
-   "tickers": [
-    "SNY"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "870642415fb8",
-   "headline": "The Ensign Group Is Healthy, But Not Worth Buying",
-   "summary": "The Ensign Group stock is a \"Hold\" ahead of earnings and amid fair valuation. Here's what investors need to know about ENSG.",
-   "url": "https://finnhub.io/api/news?id=c70fc75293d38a4de3ba647bcb0ae1162ec5757d1fbd63b02c858e9e70266550",
-   "source": "SeekingAlpha",
-   "published": "2026-10-19T12:03:45+00:00",
-   "tickers": [
-    "ENSG"
    ],
    "tag": "Earnings",
    "sectors": [
