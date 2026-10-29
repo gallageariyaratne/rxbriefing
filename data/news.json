@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-29T08:17:33.541265+00:00",
+ "updated": "2026-10-29T08:32:41.758937+00:00",
  "quotes": {
   "A": {
    "price": 181.48,
@@ -110,10 +110,6 @@
    "price": 234.07,
    "change_pct": 0.89
   },
-  "DVA": {
-   "price": 183.93,
-   "change_pct": 1.23
-  },
   "DXCM": {
    "price": 78.62,
    "change_pct": 0.08
@@ -209,10 +205,6 @@
   "JNJ": {
    "price": 271.04,
    "change_pct": 0.86
-  },
-  "KRYS": {
-   "price": 321.42,
-   "change_pct": 0.26
   },
   "LH": {
    "price": 360.25,
@@ -317,6 +309,14 @@
   "SDGR": {
    "price": 30.87,
    "change_pct": 15.53
+  },
+  "SRPT": {
+   "price": 19.32,
+   "change_pct": 2.28
+  },
+  "SYK": {
+   "price": 304,
+   "change_pct": 0.86
   }
  },
  "tickers": {
@@ -934,6 +934,80 @@
  },
  "stories": [
   {
+   "id": "4cc3626a586e",
+   "headline": "Opinion: STAT+: Is AI more a partner, competitor, or crutch for biomedical scientists?",
+   "summary": "Biologist Paul Knoepfler asks: Could overdependence on AI make us less capable as researchers?",
+   "url": "https://www.statnews.com/2026/10/29/ai-science-biology-dependence-ethics-research/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-29T08:30:00+00:00",
+   "tickers": [],
+   "tag": "Health AI",
+   "sectors": []
+  },
+  {
+   "id": "fdfde10707f6",
+   "headline": "STAT+: Biopharma industry at odds over impact of Treasury\u2019s new China rule",
+   "summary": "An exemption for a common kind of biopharma deal is at the heart of disagreements over the proposal.",
+   "url": "https://www.statnews.com/2026/10/29/biotech-licensing-deals-treasury-rules-stir-debate/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-29T08:30:00+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "dd5d5589a8a6",
+   "headline": "Politicians have failed to tackle health care affordability. It\u2019s now voters\u2019 rallying cry",
+   "summary": "As costs surge, voters are embracing more radical solutions to the crisis.",
+   "url": "https://www.statnews.com/2026/10/29/health-care-costs-midterms-issue-out-of-pocket-series-part-6/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-29T08:30:00+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "b32e142dbf7d",
+   "headline": "Opinion: Health care needs buyers willing to say no",
+   "summary": "\"The industry\u2019s major players have little appetite for change,\" writes Anthony T. Lo Sasso.",
+   "url": "https://www.statnews.com/2026/10/29/health-care-premiums-open-enrollment-employer-costs/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-29T08:30:00+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "41d4a960b651",
+   "headline": "BSX Stock Looks To Snap 3-Week Winning Streak: Analysts Downgrade Boston Scientific As Cyberattack And Slowing Growth Cloud Outlook",
+   "summary": "Boston Scientific\u2019s weak outlook, cyberattack disruptions, and slowing Watchman and electrophysiology growth weighed on sentiment.",
+   "url": "https://finnhub.io/api/news?id=f7b12bce3745991ae3211c6fedabb5402e0b2a1386c3c913b231fbaaa8720dfe",
+   "source": "Yahoo",
+   "published": "2026-10-29T06:41:54+00:00",
+   "tickers": [
+    "BSX"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "a6e7f0f5755a",
+   "headline": "Boston Scientific Q3 Earnings Call Highlights",
+   "summary": "Boston Scientific (NYSE:BSX) reported third-quarter 2026 results that fell below its prior guidance after a cybersecurity incident disrupted manufacturing and product shipments for eight business days, while competitive and pricing\u2026",
+   "url": "https://finnhub.io/api/news?id=bf78946d1a7e89e335acf5053ee258b3083aa29d0239794fcff70694dc47d672",
+   "source": "Yahoo",
+   "published": "2026-10-29T06:04:15+00:00",
+   "tickers": [
+    "BSX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "ce2284f55478",
    "headline": "Viking Therapeutics Q3 Earnings Call Highlights",
    "summary": "Viking Therapeutics (NASDAQ:VKTX) reported a wider third-quarter loss as it increased spending on late-stage obesity programs, while advancing phase III studies of both injectable and oral versions of its lead candidate, VK2735. The\u2026",
@@ -1093,6 +1167,21 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "c46cdff6cf6b",
+   "headline": "Johnson & Johnson: Strong Q3 Growth, But 2027 Could Test Its Earnings",
+   "summary": "Johnson & Johnson's Q3 results showed the strength of the pharma business. Click here to read more about JNJ stock and why it is rated a Hold.",
+   "url": "https://finnhub.io/api/news?id=ad717d1d4b04bf8ec26d2bea455fdff686db28852c1ef597c719a631b814108a",
+   "source": "SeekingAlpha",
+   "published": "2026-10-29T03:40:29+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -48097,91 +48186,6 @@
     "GILD"
    ],
    "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "292caceb30c9",
-   "headline": "STAT+: Top immunology association divided over $8.4-billion California ballot measure to fund the field, emails show",
-   "summary": "Internal emails obtained by STAT show that the American Association of Immunologists is sharply divided over California's Proposition 38, even though it would provide $8.4 billion in taxpayer dollars for\u2026",
-   "url": "https://www.statnews.com/2026/10/19/california-prop-38-immunology-research-bond-oddly-specific-earmark/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-10-19T08:30:00+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "38289d6cec68",
-   "headline": "STAT+: Does Isomorphic Labs have what it takes to revolutionize drugmaking?",
-   "summary": "Isomorphic Labs wants to turn its technology into an engine for new medicines. The question now is whether \u2014 and how \u2014 it can deliver on that promise.",
-   "url": "https://www.statnews.com/2026/10/19/can-isomorphic-labs-revolutionize-drugmaking/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-10-19T08:30:00+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "5dee72e82de4",
-   "headline": "Opinion: My mother killed herself. I wish assisted suicide had been an option",
-   "summary": "\u201cSometimes mental illness is terminal,\u201d Torie Bosch writes in a personal essay about medical aid in dying for psychiatric reasons.",
-   "url": "https://www.statnews.com/2026/10/19/medical-aid-in-dying-mental-illness-canada/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-10-19T08:30:00+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "918234e228fb",
-   "headline": "Opinion: Measles is back \u2014 and becoming a midterm liability for Republicans",
-   "summary": "\u201cSilence on vaccines is becoming a dealbreaker for voters who would otherwise vote Republican,\u201d write physicians and former GOP Reps. Larry Buchson and Michael Burgess.",
-   "url": "https://www.statnews.com/2026/10/19/measles-2026-midterms-vaccine-hesitancy-liability-republicans/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-10-19T08:30:00+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "c49a0c7a5436",
-   "headline": "STAT+: How the No Surprises Act\u2019s nonprofit arbitrators are operating like \u2018mini gods\u2019 and getting rich doing it",
-   "summary": "A STAT investigation found that several nonprofits are raking in massive sums by acting as arbitrators in a program that helps protect patients from surprise medical bills.",
-   "url": "https://www.statnews.com/2026/10/19/no-surprises-act-billing-arbitration-profits-stat-investigation/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-10-19T08:30:00+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "49c51d66a739",
-   "headline": "Zacks Investment Ideas feature highlights: Intuitive Surgical",
-   "summary": "Intuitive Surgical has rebounded from recent lows, with double-digit sales growth projected and potential 43% upside as its robotic surgery business expands.",
-   "url": "https://finnhub.io/api/news?id=68c9321c0027ea4ceddf4569dd92eef5969ebf0757baddb131e653b18db46ae1",
-   "source": "Yahoo",
-   "published": "2026-10-19T08:30:00+00:00",
-   "tickers": [
-    "ISRG"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "9bb6802b9703",
-   "headline": "Sensorion Announces the Appointment of Peter Weber, MD, MBA, as Chief Medical Officer",
-   "summary": "MONTPELLIER, France & CAMBRIDGE, Mass., October 19, 2026--Regulatory News: Sensorion (FR001401A9Z0 \u2013 ALSEN) (\"the Company\"), a pioneering clinical-stage biotechnology company that develops novel therapies to restore hearing and to treat\u2026",
-   "url": "https://finnhub.io/api/news?id=caad6472ce665fb06df714f2b69df29b7626efe910c4543c093c572668429ba1",
-   "source": "Yahoo",
-   "published": "2026-10-19T08:28:00+00:00",
-   "tickers": [
-    "REGN"
-   ],
-   "tag": "Policy",
    "sectors": [
     "pharma"
    ]
