@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-29T02:02:54.852974+00:00",
+ "updated": "2026-10-29T02:17:43.908760+00:00",
  "quotes": {
   "A": {
    "price": 181.48,
@@ -10,9 +10,17 @@
    "price": 285.99,
    "change_pct": -0.14
   },
+  "ABSI": {
+   "price": 11.88,
+   "change_pct": 12.39
+  },
   "ABT": {
    "price": 102.64,
    "change_pct": -0.45
+  },
+  "ACAD": {
+   "price": 20.32,
+   "change_pct": 0.74
   },
   "ALGN": {
    "price": 153.62,
@@ -309,14 +317,6 @@
   "RMD": {
    "price": 250.17,
    "change_pct": -0.25
-  },
-  "RVMD": {
-   "price": 188.72,
-   "change_pct": 1.34
-  },
-  "RXRX": {
-   "price": 4.35,
-   "change_pct": 7.41
   }
  },
  "tickers": {
@@ -934,6 +934,21 @@
  },
  "stories": [
   {
+   "id": "8134bc1bef98",
+   "headline": "Labcorp (LH) stock trades up, here is why",
+   "summary": "Shares of healthcare diagnostics company Labcorp Holdings (NYSE:LH) jumped 10.3% in the afternoon session after the company reported third-quarter financial results that were above Wall Street expectations and raised its full-year forecast.",
+   "url": "https://finnhub.io/api/news?id=dc1ea88dff4aa8094a34b793f50e17b783508ac8d862e7618c1ad1764e178007",
+   "source": "Yahoo",
+   "published": "2026-10-29T01:58:34+00:00",
+   "tickers": [
+    "LH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "99ca9b355a6f",
    "headline": "Teladoc Health, Inc. Reports Third Quarter 2026 Revenue of $605.1 million",
    "summary": "",
@@ -956,7 +971,8 @@
    "source": "Yahoo",
    "published": "2026-10-28T23:15:32+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -971,7 +987,8 @@
    "source": "Yahoo",
    "published": "2026-10-28T23:10:14+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -1068,6 +1085,21 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "818bbbfb1301",
+   "headline": "IPO Edge NYSE Firesides Scheduled for Dec 7",
+   "summary": "IPO Edge and CorpGov will be conducting interviews from the floor of the New York Stock Exchange on Dec. 7, 2026. We invite guests to join 15-minute fireside chats recorded in a [\u2026]",
+   "url": "https://finnhub.io/api/news?id=34ea674bc073a4546b89f530a953ad3f4a825341efd3e9ef3eabe79b99d9e40c",
+   "source": "Yahoo",
+   "published": "2026-10-28T22:21:31+00:00",
+   "tickers": [
+    "TEM"
+   ],
+   "tag": "Financing",
+   "sectors": [
+    "healthai"
    ]
   },
   {
@@ -1717,6 +1749,21 @@
    ]
   },
   {
+   "id": "8b729410d032",
+   "headline": "Acadia Pharmaceuticals to Participate in the UBS Global Biopharma Conference 2026",
+   "summary": "SAN DIEGO, October 28, 2026--Acadia Pharmaceuticals Inc. (Nasdaq: ACAD) today announced that it will participate in a fireside chat at the UBS Global Biopharma Conference 2026 on Tuesday, November 17, 2026 at 12:40 p.m. Greenwich Mean Time.",
+   "url": "https://finnhub.io/api/news?id=a1edc8918a56e339b511e2b5ad611c85ed4bbe4fa3d6d255d56215f7298b222b",
+   "source": "Yahoo",
+   "published": "2026-10-28T20:05:00+00:00",
+   "tickers": [
+    "ACAD"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "26f2c3f4bda3",
    "headline": "Bausch + Lomb Soars 16% on Big Q3 Profit Beat and Raised Full-Year Guidance",
    "summary": "Key TakeawaysBausch + Lomb shares jumped 16% after a third-quarter profit beat and raised full-year guidance. Profit is the story: adjusted EBITDA rose 34% on 7% revenue growth.",
@@ -1740,7 +1787,8 @@
    "published": "2026-10-28T19:51:15+00:00",
    "tickers": [
     "BSX",
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "News",
    "sectors": [
@@ -1781,7 +1829,8 @@
    "source": "Yahoo",
    "published": "2026-10-28T19:24:50+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -2026,6 +2075,21 @@
    ]
   },
   {
+   "id": "eba429e55692",
+   "headline": "Twist Bioscience Soars 12%, 10x Genomics Up 12% as Genomics Stocks Rebound",
+   "summary": "Key TakeawaysTwist Bioscience and 10x Genomics both rose 12% today, and neither company had news of its own. ICON rose 13% after its third-quarter gross bookings jumped 26.",
+   "url": "https://finnhub.io/api/news?id=cc43cafef1ca626b001880e5efeb9f966a272223f092db4c195889e8962408dc",
+   "source": "Yahoo",
+   "published": "2026-10-28T18:34:51+00:00",
+   "tickers": [
+    "TXG"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "50667c71da20",
    "headline": "Ensign Group: Q3 Earnings Snapshot",
    "summary": "(AP) \u2014 SAN JUAN CAPISTRANO, Calif. (ENSG) on Tuesday reported profit of $104.",
@@ -2048,7 +2112,8 @@
    "source": "Yahoo",
    "published": "2026-10-28T18:23:29+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -2111,7 +2176,8 @@
    "published": "2026-10-28T18:06:49+00:00",
    "tickers": [
     "BSX",
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "News",
    "sectors": [
@@ -2348,7 +2414,8 @@
    "source": "Yahoo",
    "published": "2026-10-28T17:28:34+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -2684,6 +2751,23 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "cef07d7c7945",
+   "headline": "Absci Soars 12%, Schr\u00f6dinger Up 11%, Recursion Up 9% as AI Drug Discovery Stocks Rally",
+   "summary": "Key TakeawaysAbsci rose 12% today, Schr\u00f6dinger 11% and Recursion 9%, and no company news explains any of the three moves. Schr\u00f6dinger\u2019s rally has the most business behind it, and Absci\u2019s rally is mostly about investors\u2019 appetite for risk.",
+   "url": "https://finnhub.io/api/news?id=44ede1c7e105f85f3c465d535214bb58e585b1ec80525b85ce450e77484e9c85",
+   "source": "Yahoo",
+   "published": "2026-10-28T16:11:11+00:00",
+   "tickers": [
+    "ABSI",
+    "TEM",
+    "TXG"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -3604,7 +3688,8 @@
    "source": "Yahoo",
    "published": "2026-10-28T14:02:58+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -4189,6 +4274,21 @@
    ]
   },
   {
+   "id": "6c4f85215103",
+   "headline": "Earnings Preview: Acadia Pharmaceuticals (ACAD) Q3 Earnings Expected to Decline",
+   "summary": "Acadia (ACAD) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+   "url": "https://finnhub.io/api/news?id=72cd8a07d695fbd6a913a36ab28f9d4c3565bca2513598bb41432477ee2aaf54",
+   "source": "Yahoo",
+   "published": "2026-10-28T13:00:24+00:00",
+   "tickers": [
+    "ACAD"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "cd7bdfb9c7c3",
    "headline": "Veracyte (VCYT) Expected to Beat Earnings Estimates: Can the Stock Move Higher?",
    "summary": "Veracyte (VCYT) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
@@ -4273,6 +4373,21 @@
    "published": "2026-10-28T13:00:16+00:00",
    "tickers": [
     "RXRX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthai"
+   ]
+  },
+  {
+   "id": "7ffa3752fa0e",
+   "headline": "Earnings Preview: Schrodinger, Inc. (SDGR) Q3 Earnings Expected to Decline",
+   "summary": "Schrodinger (SDGR) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+   "url": "https://finnhub.io/api/news?id=fbb1704ab11578bac68e89939a08032d594952d0e7bb0bb1575110dbce2fb67a",
+   "source": "Yahoo",
+   "published": "2026-10-28T13:00:16+00:00",
+   "tickers": [
+    "TEM"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -4365,6 +4480,21 @@
     "MRK"
    ],
    "tag": "Health AI",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "f6b6fe431f26",
+   "headline": "Novo to present new liver data across Wegovy 2.4 mg and investigational efruxifermin at The Liver Meeting\u00ae (AASLD) 2026",
+   "summary": "Novo Nordisk today announced that 12 new abstracts on semaglutide real-world and clinical data will be presented at the American Association for the Study of Liver Diseases congress, The Liver Meeting\u00ae 2026, from November 5-9 in Denver,\u2026",
+   "url": "https://finnhub.io/api/news?id=928d1d86a6d57ab96c919c8987d54aebd52ea5c3717f257f9e27c5a703fb9690",
+   "source": "Yahoo",
+   "published": "2026-10-28T13:00:00+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "GLP-1",
    "sectors": [
     "pharma"
    ]
@@ -4544,7 +4674,8 @@
    "source": "Yahoo",
    "published": "2026-10-28T12:35:59+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -5096,7 +5227,8 @@
     "GH",
     "ILMN",
     "IQV",
-    "NTRA"
+    "NTRA",
+    "TEM"
    ],
    "tag": "Health AI",
    "sectors": [
@@ -7231,6 +7363,21 @@
     "GH"
    ],
    "tag": "Legal",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "a0f415e7a88e",
+   "headline": "10x Genomics (TXG) Stock Looks Expensive On Its 485% One Year Run",
+   "summary": "10x Genomics has delivered a very strong share price run, and the question now is whether the current valuation can be supported by its sales. With that kind of move already in the rear-view mirror, you need to know if the revenue base is\u2026",
+   "url": "https://finnhub.io/api/news?id=dbfad606c2a10faacf47672e2685bfe6e206b0118b3a26eadbcb4d70ee433223",
+   "source": "Yahoo",
+   "published": "2026-10-28T06:17:26+00:00",
+   "tickers": [
+    "TXG"
+   ],
+   "tag": "Earnings",
    "sectors": [
     "tools"
    ]
@@ -47907,37 +48054,6 @@
     "ABBV"
    ],
    "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "affab7bd9c77",
-   "headline": "Why Recursion Pharmaceuticals Stock Is In Focus After Drug Data And Sanofi Milestone",
-   "summary": "Recursion Pharmaceuticals reported past pipeline and collaboration progress, including positive REC-4881 and REC-1245 trial updates and Sanofi optioning a development candidate that triggered a US$10 million milestone within a broader\u2026",
-   "url": "https://finnhub.io/api/news?id=0f717f08d34ee9c1e145116718642f1e2778ff41cd38e1156778673b8ed4f09a",
-   "source": "Yahoo",
-   "published": "2026-10-19T02:12:41+00:00",
-   "tickers": [
-    "RXRX",
-    "SNY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "b3d95733801f",
-   "headline": "3 European Space Stocks Exposed to Satellite Spectrum Trade Threats",
-   "summary": "Trade threats around European satellite spectrum have turned a niche policy debate into a real money question for anyone watching space communications stocks. Regulatory friction can shut doors for some players while opening them for\u2026",
-   "url": "https://finnhub.io/api/news?id=18ddd9c30d9c6d04c753822c5704d06bd25deb3c4155f8db8661fc764969117e",
-   "source": "Yahoo",
-   "published": "2026-10-19T02:11:22+00:00",
-   "tickers": [
-    "NVS"
-   ],
-   "tag": "Policy",
    "sectors": [
     "pharma"
    ]
