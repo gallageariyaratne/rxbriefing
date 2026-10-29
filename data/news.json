@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-29T23:32:43.623422+00:00",
+ "updated": "2026-10-29T23:47:40.354204+00:00",
  "quotes": {
   "A": {
    "price": 181.15,
@@ -33,6 +33,10 @@
   "BDX": {
    "price": 198.34,
    "change_pct": 1.63
+  },
+  "BEAM": {
+   "price": 28.84,
+   "change_pct": 0.21
   },
   "BIIB": {
    "price": 249.65,
@@ -317,10 +321,6 @@
   "TECH": {
    "price": 72.71,
    "change_pct": 0.03
-  },
-  "THC": {
-   "price": 270.57,
-   "change_pct": 0.77
   }
  },
  "tickers": {
@@ -947,6 +947,21 @@
    "tickers": [],
    "tag": "Earnings",
    "sectors": []
+  },
+  {
+   "id": "a3d66f0f0981",
+   "headline": "After-Hours S&P 500 Movers: Mondelez and FedEx Freight Gain, Intel and Reddit Fall",
+   "summary": "S&P 500 after-hours movers: Mondelez International and FedEx Freight were among gainers, while Intel and Reddit were among decliners after today's U.S. session.",
+   "url": "https://finnhub.io/api/news?id=d18d7bab7797845f13b99c24f319750b03a8c72d11cbced0745eeeaf580067bc",
+   "source": "ChartMill",
+   "published": "2026-10-29T22:06:07+00:00",
+   "tickers": [
+    "ILMN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
   },
   {
    "id": "a13a1bdd31dc",
@@ -2077,6 +2092,21 @@
    "sectors": []
   },
   {
+   "id": "5aca4352d59c",
+   "headline": "Omnicell, Inc. (OMCL) Q3 2026 Earnings Call Transcript",
+   "summary": "Omnicell, Inc. (OMCL) Q3 2026 Earnings Call October 29, 2026 8:30 AM EDTCompany ParticipantsDavid Unger - Vice President of Investor RelationsRandall Lipps...",
+   "url": "https://finnhub.io/api/news?id=0525a801261392401f4271216981d3db85a6824c329e3fc4e8e385e7ef0a7433",
+   "source": "SeekingAlpha",
+   "published": "2026-10-29T19:18:43+00:00",
+   "tickers": [
+    "OMCL"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "d0f21671ea3d",
    "headline": "Bristol Myers\u2019 Growth Drugs Hit $7.7 Billion: Rapid Earnings Reaction",
    "summary": "Bristol Myers Squibb\u2019s adjusted earnings fell 17%, but the company raised its sales outlook. Here\u2019s why the drop reflects a pipeline refill, and what its newer drugs need to deliver next.",
@@ -2104,6 +2134,21 @@
    "tag": "FDA",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "a0ec80e4f159",
+   "headline": "Beam Therapeutics Inc. (BEAM) Reviews Initial Phase I II BEAM-301 Data in Glycogen Storage Disease Type 1a - Slideshow",
+   "summary": "2026-10-29. The following slide deck was published by Beam Therapeutics Inc.",
+   "url": "https://finnhub.io/api/news?id=62df6ba09f2421dc5ca006bcf56bb74a27095900715e9ce8da310ce6c7564864",
+   "source": "SeekingAlpha",
+   "published": "2026-10-29T19:14:13+00:00",
+   "tickers": [
+    "BEAM"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -52098,21 +52143,6 @@
     "MRK"
    ],
    "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "4bec1cf6ca11",
-   "headline": "Silence Therapeutics (SLN) Gets 130% Premium Offer From Merck, Shares Surge Over 100%",
-   "summary": "Silence Therapeutics (NASDAQ:SLN) kicked off the trading week by more than doubling its share price, as investors snapped up its shares following Merck KGaA\u2019s offer to acquire the company for a 130-percent premium. In separate statements\u2026",
-   "url": "https://finnhub.io/api/news?id=2a1a1890d75290367095a5ed9075fd6c18e5606523b86fbec1ed88d1d3e31f89",
-   "source": "Yahoo",
-   "published": "2026-10-19T23:41:19+00:00",
-   "tickers": [
-    "MRK"
-   ],
-   "tag": "M&A",
    "sectors": [
     "pharma"
    ]
