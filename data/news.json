@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-29T00:47:42.102909+00:00",
+ "updated": "2026-10-29T01:02:58.787647+00:00",
  "quotes": {
   "A": {
    "price": 181.48,
@@ -198,6 +198,10 @@
    "price": 321.42,
    "change_pct": 0.26
   },
+  "LEGN": {
+   "price": 22.53,
+   "change_pct": 4.5
+  },
   "LH": {
    "price": 360.25,
    "change_pct": 8.78
@@ -209,6 +213,10 @@
   "MCK": {
    "price": 960.56,
    "change_pct": -0.67
+  },
+  "MDGL": {
+   "price": 431,
+   "change_pct": -2.12
   },
   "MDT": {
    "price": 94.78,
@@ -278,6 +286,14 @@
    "price": 188.72,
    "change_pct": 1.34
   },
+  "RXRX": {
+   "price": 4.35,
+   "change_pct": 7.41
+  },
+  "SRPT": {
+   "price": 19.32,
+   "change_pct": 2.28
+  },
   "SYK": {
    "price": 304,
    "change_pct": 0.86
@@ -301,22 +317,6 @@
   "TWST": {
    "price": 173.45,
    "change_pct": 8.51
-  },
-  "TXG": {
-   "price": 83.62,
-   "change_pct": 7.18
-  },
-  "UHS": {
-   "price": 172.18,
-   "change_pct": -2.9
-  },
-  "UNH": {
-   "price": 407.1,
-   "change_pct": -0.8
-  },
-  "UTHR": {
-   "price": 586.48,
-   "change_pct": -0.8
   }
  },
  "tickers": {
@@ -934,6 +934,36 @@
  },
  "stories": [
   {
+   "id": "b58f69368013",
+   "headline": "Eli Lilly (LLY) Finds A New Lead In Diabetes As It Recasts Management",
+   "summary": "Eli Lilly (NYSE:LLY) reported Phase 3 data showing its triple-agonist retatrutide outperformed Novo Nordisk\u2019s Ozempic in type 2 diabetes. The long term head to head trial indicated stronger glycemic control and weight loss effects for\u2026",
+   "url": "https://finnhub.io/api/news?id=341c92c024786f923fa9a7942021c1ffca84227eb24e8ef2defa65880e990aef",
+   "source": "Yahoo",
+   "published": "2026-10-28T23:15:32+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "4ef3faccdc1d",
+   "headline": "Novo Nordisk (CPSE:NOVO B) Stock Looks Cheap Even With Rival Pressure",
+   "summary": "Novo Nordisk has seen its share price come under pressure, and the question for you now is whether the current valuation is still supported by the earnings power of the business. With sentiment shifting around diabetes and obesity\u2026",
+   "url": "https://finnhub.io/api/news?id=42192acfd355ff6fd8a76e4e553a437ca4251a028d0e96cb86f1bb26c7039169",
+   "source": "Yahoo",
+   "published": "2026-10-28T23:10:14+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "cdd61964c6b8",
    "headline": "3 Reasons to avoid A and 1 stock to buy instead",
    "summary": "What a fantastic six months it\u2019s been for Agilent. Shares of the company have skyrocketed 54.6%, hitting $177.58. This was partly due to its solid quarterly results, and the run-up might have investors contemplating their next move.",
@@ -944,6 +974,52 @@
     "A"
    ],
    "tag": "M&A",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "8c9f1b9c1d8c",
+   "headline": "3 Big reasons to love Clover Health (CLOV)",
+   "summary": "What a time it\u2019s been for Clover Health. In the past six months alone, the company\u2019s stock price has increased by a massive 74.4%, reaching $4.61 per share. This was partly due to its solid quarterly results, and the run-up might have\u2026",
+   "url": "https://finnhub.io/api/news?id=a1d87819ec289b09418c3b0ea2836021041b9f8138b1bf37d684173994ed0f01",
+   "source": "Yahoo",
+   "published": "2026-10-28T22:38:34+00:00",
+   "tickers": [
+    "CLOV"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "2206bcee03db",
+   "headline": "Breakthrough cancer vaccine catches Wall Street's attention",
+   "summary": "Moderna and Merck\u2019s trial results in melanoma thrilled oncologists. Shareholders, however, felt differently.",
+   "url": "https://finnhub.io/api/news?id=b3af82ac88beccb278cbc6a9edab89d165dfdeb48f3924aa13e915dd0a5ea711",
+   "source": "Yahoo",
+   "published": "2026-10-28T22:33:00+00:00",
+   "tickers": [
+    "MRK",
+    "MRNA"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "980f1320fa31",
+   "headline": "Glaukos (GKOS) Q3 Earnings and Revenues Surpass Estimates",
+   "summary": "Glaukos (GKOS) delivered earnings and revenue surprises of +491.67% and +24.99%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=0b55b95458a1e5bc9e8b703a5ea31586a68060b90aeacb9298a62df003caf30c",
+   "source": "Yahoo",
+   "published": "2026-10-28T22:30:08+00:00",
+   "tickers": [
+    "PACB"
+   ],
+   "tag": "Earnings",
    "sectors": [
     "tools"
    ]
@@ -961,6 +1037,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "f33201c25005",
+   "headline": "What Alnylam Pharmaceuticals (ALNY)'s Huntingtons Drug Trial Results Mean For Shareholders",
+   "summary": "Alnylam Pharmaceuticals reported initial Phase 1b data for brezosiran in Huntington\u2019s disease, with single intrathecal doses linked to dose-dependent reductions in mutant huntingtin protein and an encouraging safety profile over follow up\u2026",
+   "url": "https://finnhub.io/api/news?id=32a817a9b63979a7ef62f4eabddb64fc0b465bbc0fd14fe90e43041ee2e44cc6",
+   "source": "Yahoo",
+   "published": "2026-10-28T22:06:37+00:00",
+   "tickers": [
+    "ALNY"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -2536,6 +2627,21 @@
    ]
   },
   {
+   "id": "01373b256d2c",
+   "headline": "Clover Health climbs after Needham initiates coverage with Buy, $6 target",
+   "summary": "Investing.com -- Clover Health Investments Corp (NASDAQ:CLOV) shares advanced 4% in Wednesday trading after Needham initiated coverage on the healthcare technology company with a Buy rating and a $6.00 price target. The brokerage\u2026",
+   "url": "https://finnhub.io/api/news?id=deb8c45fafd71e001d25ece2bcbab4d46148544f477d76996abdc4716c103953",
+   "source": "Yahoo",
+   "published": "2026-10-28T15:38:14+00:00",
+   "tickers": [
+    "CLOV"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "9bcbaa595cc4",
    "headline": "S&P 500 Gap Movers: Oct. 28 Session",
    "summary": "S&P 500 gap-up and gap-down stocks on Oct. 28 include Vertiv, Labcorp, F5, CoStar, and others, with several moves tied to quarterly updates.",
@@ -3559,6 +3665,21 @@
    ]
   },
   {
+   "id": "7541d38d7a5e",
+   "headline": "Inventiva (IVA) vs. CRSP and MDGL: Can Lanifibranor\u2019s Phase 3 Trial Unlock 62% Upside?",
+   "summary": "Is IVA a good stock to buy? We came across a bullish thesis on Inventiva S.A. on BioEquity Watch\u2019s Substack. Since the thesis was published on July 31st, IVA shares have pulled back as investors weigh the upcoming Phase 3 NATiV3 results\u2026",
+   "url": "https://finnhub.io/api/news?id=6ba4b1855ed7f39c4387199a07b26a224862e82817827432bb852a2cb29d9f75",
+   "source": "Yahoo",
+   "published": "2026-10-28T13:13:23+00:00",
+   "tickers": [
+    "MDGL"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "fa5eb1a5b93f",
    "headline": "Centene (CNC) Stock May Still Be A Bargain Despite Raised Guidance",
    "summary": "Centene has more than doubled over the past year, and with the stock last closing at US$68.71, the obvious question is whether that move is backed up by the insurer's earnings power. After a sharp reset in recent years and fresh headlines\u2026",
@@ -3734,6 +3855,7 @@
    "source": "Yahoo",
    "published": "2026-10-28T13:00:18+00:00",
    "tickers": [
+    "MDGL",
     "UTHR"
    ],
    "tag": "Earnings",
@@ -3769,6 +3891,21 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "5f311cc4c16a",
+   "headline": "Recursion Pharmaceuticals (RXRX) Expected to Beat Earnings Estimates: What to Know Ahead of Q3 Release",
+   "summary": "Recursion Pharmaceuticals (RXRX) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+   "url": "https://finnhub.io/api/news?id=05526aa64d56a281caaa6a90d7e55de81b9ad449a136e6f3a0ff5128d059b964",
+   "source": "Yahoo",
+   "published": "2026-10-28T13:00:16+00:00",
+   "tickers": [
+    "RXRX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthai"
    ]
   },
   {
@@ -5526,7 +5663,8 @@
    "tickers": [
     "ALNY",
     "MRNA",
-    "PFE"
+    "PFE",
+    "SRPT"
    ],
    "tag": "News",
    "sectors": [
@@ -5939,6 +6077,7 @@
    "published": "2026-10-28T08:22:05+00:00",
    "tickers": [
     "KRYS",
+    "SRPT",
     "VRTX"
    ],
    "tag": "News",
@@ -6537,6 +6676,21 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "568967102120",
+   "headline": "Legend Biotech (LEGN) Stock Could Trade Below Its Sales Backdrop",
+   "summary": "Legend Biotech has seen its stock swing sharply in recent years, while fresh progress on its CAR T pipeline has kept it on investors' radar. With the share price around US$21.56 after those moves, the live question is whether that tag\u2026",
+   "url": "https://finnhub.io/api/news?id=d55d7969dae438d97baf48a608c876304f028f8404d935d761be926767f8def3",
+   "source": "Yahoo",
+   "published": "2026-10-28T06:20:15+00:00",
+   "tickers": [
+    "LEGN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -47244,32 +47398,6 @@
    "tag": "News",
    "sectors": [
     "healthai"
-   ]
-  },
-  {
-   "id": "1f7e434fda09",
-   "headline": "STAT+: Cambridge scientist David Sabatini speaks out after courtroom victory: \u2018The hardest years of my life\u2019",
-   "summary": "\"The hardest years of my life,\" is how Cambridge scientist David Sabatini describes the time since his downfall from MIT.",
-   "url": "https://www.statnews.com/2026/10/18/david-sabatini-speaks-out-after-courtroom-win-metoo-trial/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-10-19T00:54:03+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "1b23a475ee75",
-   "headline": "Alector: Maintaining \"Hold\" ABC Platform Transition And GCase Partnership With Roche",
-   "summary": "Alector (ALEC) holds steady despite trial failures, pivoting to ABC platform and Roche deal extending cash to 2029.",
-   "url": "https://finnhub.io/api/news?id=574c9761e9feb84f81c08da9360aa9b87f5296c3181970c54c604fa5dea90114",
-   "source": "SeekingAlpha",
-   "published": "2026-10-19T00:47:13+00:00",
-   "tickers": [
-    "GSK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
