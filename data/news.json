@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-29T01:02:58.787647+00:00",
+ "updated": "2026-10-29T01:17:43.930391+00:00",
  "quotes": {
   "A": {
    "price": 181.48,
@@ -53,6 +53,10 @@
   "BMY": {
    "price": 60.57,
    "change_pct": -1.59
+  },
+  "BNTX": {
+   "price": 87.99,
+   "change_pct": 1.07
   },
   "BSX": {
    "price": 42.43,
@@ -242,6 +246,10 @@
    "price": 145.53,
    "change_pct": -0.32
   },
+  "NTLA": {
+   "price": 13.32,
+   "change_pct": 8.47
+  },
   "NVO": {
    "price": 38.29,
    "change_pct": -0.98
@@ -269,6 +277,10 @@
   "QGEN": {
    "price": 50.33,
    "change_pct": 0.32
+  },
+  "RARE": {
+   "price": 17.2,
+   "change_pct": 2.69
   },
   "REGN": {
    "price": 813.27,
@@ -305,18 +317,6 @@
   "TECH": {
    "price": 72.69,
    "change_pct": 0.12
-  },
-  "THC": {
-   "price": 268.5,
-   "change_pct": 2.46
-  },
-  "TMO": {
-   "price": 704.15,
-   "change_pct": 1.61
-  },
-  "TWST": {
-   "price": 173.45,
-   "change_pct": 8.51
   }
  },
  "tickers": {
@@ -1025,6 +1025,21 @@
    ]
   },
   {
+   "id": "95dd0b9385c7",
+   "headline": "Conmed (CNMD) Q3 Earnings Top Estimates",
+   "summary": "Conmed (CNMD) delivered earnings and revenue surprises of +4.00% and -0.37%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=442306eb471b45dd1b1d10015db3579a8381118ced102efe707eda7e03d3d47e",
+   "source": "Yahoo",
+   "published": "2026-10-28T22:30:05+00:00",
+   "tickers": [
+    "BDX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "e9224a56c2d2",
    "headline": "Apple Stock And Other Quality Growth Names For Higher Rates",
    "summary": "The Fed just kept rates at 3.75% to 4% and still sounds ready to tighten further, which puts quality growth stocks back under a very sharp spotlight. In a market where inflation worries, data surprises and policy twists can quickly punish\u2026",
@@ -1395,6 +1410,21 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "cc323f5df095",
+   "headline": "Intellia Therapeutics Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
+   "summary": "CAMBRIDGE, Mass., Oct. 28, 2026 (GLOBE NEWSWIRE) -- Intellia Therapeutics, Inc. (Nasdaq: NTLA), a leading biopharmaceutical company focused on revolutionizing medicine leveraging CRISPR gene editing and other core technologies, today\u2026",
+   "url": "https://finnhub.io/api/news?id=5ae50cc3964e234a908111bebff84b2dfe2412eb920d93fc83c89605fede47ab",
+   "source": "Yahoo",
+   "published": "2026-10-28T20:15:00+00:00",
+   "tickers": [
+    "NTLA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -2399,6 +2429,21 @@
    ]
   },
   {
+   "id": "ecf8a9001e94",
+   "headline": "BioNTech (BNTX) Phase 3 Breast Cancer Win Comes With A Lung Safety Warning",
+   "summary": "BioNTech (NasdaqGS:BNTX) and DualityBio reported positive topline results from the DYNASTY-Breast02 Phase 3 trial in HR+/HER2-low metastatic breast cancer, including a statistically significant improvement in progression-free survival.\u2026",
+   "url": "https://finnhub.io/api/news?id=ff3dbfef67dfc43e647d36b142197e5ba6ab049ebd9cf4a8b94c044ebfc10717",
+   "source": "Yahoo",
+   "published": "2026-10-28T16:15:41+00:00",
+   "tickers": [
+    "BNTX"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "afd80540e58e",
    "headline": "Boston Scientific Crashes As Cybersecurity Attack Weighs On Guide",
    "summary": "Boston Scientific stock crashed Wednesday after the medtech giant cut its 2026 outlook in the wake of a cybersecurity incident in August.",
@@ -2481,10 +2526,26 @@
    "source": "Yahoo",
    "published": "2026-10-28T16:04:52+00:00",
    "tickers": [
+    "BNTX",
     "MRK",
     "MRNA"
    ],
    "tag": "Analyst",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "1286effff4dc",
+   "headline": "This Dividend Powerhouse Is Heading Into Q3 Earnings With Plenty at Stake",
+   "summary": "AbbVie\u2019s dividend legacy faces a crucial test as investors look for Skyrizi and Rinvoq to pick up the slack from Humira.",
+   "url": "https://finnhub.io/api/news?id=f91bcc30bdf6e8cd4072aa15e1af96c33490f293ed1bcce713c16aa3b0b3fd14",
+   "source": "Yahoo",
+   "published": "2026-10-28T16:03:13+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "Earnings",
    "sectors": [
     "pharma"
    ]
@@ -3156,6 +3217,7 @@
    "published": "2026-10-28T14:26:00+00:00",
    "tickers": [
     "BMY",
+    "BNTX",
     "PFE"
    ],
    "tag": "M&A",
@@ -3239,6 +3301,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "00e08a189dfe",
+   "headline": "AstraZeneca (LSE:AZN) Stock Trades At A Discount To Cash Flow Value",
+   "summary": "AstraZeneca has ridden a strong oncology and specialty medicines story into a complex valuation debate, and the real question now is whether the current share price is adequately supported by the cash flows that the business can generate\u2026",
+   "url": "https://finnhub.io/api/news?id=a01a94e77a9026da212740cfa5e23053c8175d7409508bbfc06c794ad44ec176",
+   "source": "Yahoo",
+   "published": "2026-10-28T14:11:01+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -3811,6 +3888,21 @@
    "published": "2026-10-28T13:00:27+00:00",
    "tickers": [
     "CYTK"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "5c02e47f8e09",
+   "headline": "Analysts Estimate Cytek Biosciences, Inc. (CTKB) to Report a Decline in Earnings: What to Look Out for",
+   "summary": "Cytek Biosciences (CTKB) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+   "url": "https://finnhub.io/api/news?id=1e4be6e440ba5797d0c945f4a6cee08aac354805eec3e67d55e082060d387902",
+   "source": "Yahoo",
+   "published": "2026-10-28T13:00:27+00:00",
+   "tickers": [
+    "RARE"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -4640,6 +4732,21 @@
    ]
   },
   {
+   "id": "f8678261255d",
+   "headline": "AstraZeneca and Mark-Paul Gosselaar Launch Meet Your Mark to Raise Awareness of Cancer Biomarker Testing",
+   "summary": "WILMINGTON, Del., October 28, 2026--AstraZeneca today announced the launch of Meet Your Mark, a new public health campaign featuring actor Mark-Paul Gosselaar. The campaign encourages people to ask about biomarker testing if they or a\u2026",
+   "url": "https://finnhub.io/api/news?id=9d10105bd3b19bb816826da39c4ac46db086042d87817af98d98817e6a56db25",
+   "source": "Yahoo",
+   "published": "2026-10-28T12:00:00+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "2a77997dc1c2",
    "headline": "Can You Still Buy Tempus AI Stock Today?",
    "summary": "For questions about this article or underlying research, email help@trefis.com.",
@@ -4647,6 +4754,7 @@
    "source": "Yahoo",
    "published": "2026-10-28T11:56:06+00:00",
    "tickers": [
+    "GH",
     "ILMN",
     "IQV"
    ],
@@ -5124,7 +5232,8 @@
    "source": "Yahoo",
    "published": "2026-10-28T10:50:02+00:00",
    "tickers": [
-    "BIIB"
+    "BIIB",
+    "NTLA"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -5474,6 +5583,21 @@
    "tag": "Analyst",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "09322f669394",
+   "headline": "GSK (GSK) Q3 Earnings and Revenues Beat Estimates",
+   "summary": "Glaxo (GSK) delivered earnings and revenue surprises of +5.00% and +1.24%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=2f249b1b26a67da0734db97f73c099e6164b46e7170418c4ca1f10ced7705e86",
+   "source": "Yahoo",
+   "published": "2026-10-28T10:10:02+00:00",
+   "tickers": [
+    "RARE"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -6077,6 +6201,8 @@
    "published": "2026-10-28T08:22:05+00:00",
    "tickers": [
     "KRYS",
+    "NTLA",
+    "RARE",
     "SRPT",
     "VRTX"
    ],
@@ -6691,6 +6817,21 @@
    "tag": "News",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "fa2ce7d24a61",
+   "headline": "Guardant Health (GH) Stock Looks Undervalued Despite Patent Risks",
+   "summary": "Guardant Health has seen its stock price move sharply in recent years, which puts fresh attention on whether the current valuation lines up with the cash the business can generate over time. With a Discounted Cash Flow (DCF) view\u2026",
+   "url": "https://finnhub.io/api/news?id=83edf94d1a9bc5bb0c7e38ffe4cfce35d6908c24742bd53408209e31a318b220",
+   "source": "Yahoo",
+   "published": "2026-10-28T06:18:09+00:00",
+   "tickers": [
+    "GH"
+   ],
+   "tag": "Legal",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -47383,21 +47524,6 @@
    "tag": "Policy",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "d214e9e9af99",
-   "headline": "Is Recursion Pharmaceuticals (RXRX) Undervalued Following Sanofi\u2019s First Option Milestone?",
-   "summary": "Recursion Pharmaceuticals (RXRX) just moved onto many investors\u2019 radar after Sanofi optioned the first development candidate from their collaboration, triggering a US$10 million milestone payment and shifting future economics for that\u2026",
-   "url": "https://finnhub.io/api/news?id=5df054e15f5fff07730a33201077579d456dc6745a39df29de33933686c485f6",
-   "source": "Yahoo",
-   "published": "2026-10-19T01:11:15+00:00",
-   "tickers": [
-    "RXRX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "healthai"
    ]
   }
  ]
