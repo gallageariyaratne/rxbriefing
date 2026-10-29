@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-29T01:47:42.000191+00:00",
+ "updated": "2026-10-29T02:02:54.852974+00:00",
  "quotes": {
   "A": {
    "price": 181.48,
@@ -186,6 +186,10 @@
    "price": 116.87,
    "change_pct": 0.23
   },
+  "IONS": {
+   "price": 44.9,
+   "change_pct": 2.14
+  },
   "IQV": {
    "price": 279.04,
    "change_pct": 2.76
@@ -254,6 +258,10 @@
    "price": 13.32,
    "change_pct": 8.47
   },
+  "NTRA": {
+   "price": 424.27,
+   "change_pct": 3.27
+  },
   "NVO": {
    "price": 38.29,
    "change_pct": -0.98
@@ -309,14 +317,6 @@
   "RXRX": {
    "price": 4.35,
    "change_pct": 7.41
-  },
-  "SRPT": {
-   "price": 19.32,
-   "change_pct": 2.28
-  },
-  "SYK": {
-   "price": 304,
-   "change_pct": 0.86
   }
  },
  "tickers": {
@@ -1562,6 +1562,21 @@
    "tag": "News",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "7e9ee51e69c2",
+   "headline": "Natera (NTRA) Stock Could Be 32% Below Fair Value On ESMO Data",
+   "summary": "Natera has turned into one of the strongest movers in U.S. biotech in recent years, and that kind of run naturally raises a hard question for you as an investor. Is the current share price really supported by the cash flows that the\u2026",
+   "url": "https://finnhub.io/api/news?id=63f2298c18a2c7aec6d8c6904291815b3926a810a37d09fe2449d4e6fc632a51",
+   "source": "Yahoo",
+   "published": "2026-10-28T20:12:40+00:00",
+   "tickers": [
+    "NTRA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -3902,7 +3917,8 @@
    "published": "2026-10-28T13:30:00+00:00",
    "tickers": [
     "BDX",
-    "IDXX"
+    "IDXX",
+    "NTRA"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -4094,6 +4110,21 @@
    "tag": "Legal",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "f44ba5965cb3",
+   "headline": "How Investors Are Reacting To Natera (NTRA) Signatera Clinical And Regulatory Wins",
+   "summary": "Natera reported new data from the ESMO 2026 Congress and ASN Kidney Week, highlighting Signatera\u2019s ctDNA assays across multiple cancers and expanded evidence for the Renasight genetic kidney test. The breadth of phase III oncology results\u2026",
+   "url": "https://finnhub.io/api/news?id=9acaa6ff03bebd0ba436b707f1e9a7582a38d0bba7cc964e0a567d955f4cdac4",
+   "source": "Yahoo",
+   "published": "2026-10-28T13:06:01+00:00",
+   "tickers": [
+    "NTRA"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -4306,6 +4337,21 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "84f105365a33",
+   "headline": "Earnings Preview: Ionis Pharmaceuticals (IONS) Q3 Earnings Expected to Decline",
+   "summary": "Ionis Pharmaceuticals (IONS) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+   "url": "https://finnhub.io/api/news?id=b8a3491a36e5a3c5f032d94c91194d3b58881915b4b16f869ade9bda2c116c3d",
+   "source": "Yahoo",
+   "published": "2026-10-28T13:00:08+00:00",
+   "tickers": [
+    "IONS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -4840,6 +4886,21 @@
    ]
   },
   {
+   "id": "810b24e29129",
+   "headline": "Natera (NTRA) Posts Stronger Signatera Data, Is The Stock Fully Priced?",
+   "summary": "Natera (NTRA) is back in focus after new data from the ESMO Congress 2026 linked its Signatera platform to event-free survival across several cancer settings, alongside stronger reported results and fresh regulatory milestones. Natera\u2019s\u2026",
+   "url": "https://finnhub.io/api/news?id=09aa39aaa98c25726832f5102d1d7b364b854b279ac57b22c31e1e6e6ebf8173",
+   "source": "Yahoo",
+   "published": "2026-10-28T12:11:42+00:00",
+   "tickers": [
+    "NTRA"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "c3c5a0880d3b",
    "headline": "2 Reasons Why GE HealthCare Stock Is Climbing After Earnings",
    "summary": "GE HealthCare points to broad-based growth across all three of its business divisions as its raises annual guidance.",
@@ -5034,7 +5095,8 @@
    "tickers": [
     "GH",
     "ILMN",
-    "IQV"
+    "IQV",
+    "NTRA"
    ],
    "tag": "Health AI",
    "sectors": [
