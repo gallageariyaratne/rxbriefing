@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-29T10:47:34.142048+00:00",
+ "updated": "2026-10-29T11:02:47.842403+00:00",
  "quotes": {
   "A": {
    "price": 181.48,
@@ -37,10 +37,6 @@
   "AMGN": {
    "price": 451.83,
    "change_pct": 0.87
-  },
-  "ARWR": {
-   "price": 60.21,
-   "change_pct": 2.0
   },
   "AXSM": {
    "price": 143.51,
@@ -317,6 +313,10 @@
   "TECH": {
    "price": 72.69,
    "change_pct": 0.12
+  },
+  "TEM": {
+   "price": 76.61,
+   "change_pct": 6.18
   }
  },
  "tickers": {
@@ -934,6 +934,21 @@
  },
  "stories": [
   {
+   "id": "5975e1c3e2f5",
+   "headline": "Lilly reports third-quarter 2026 financial results, raises full-year guidance and highlights regulatory progress across the portfolio",
+   "summary": "Revenue in Q3 2026 increased 39% to $24.4 billion driven primarily by Mounjaro and Zepbound. Q3 revenue included approximately $900 million of benefits, primarily from $410 million of Jardiance milestones (no further milestones remain)\u2026",
+   "url": "https://www.prnewswire.com/news-releases/lilly-reports-third-quarter-2026-financial-results-raises-full-year-guidance-and-highlights-regulatory-progress-across-the-portfolio-302922907.html",
+   "source": "PR Newswire",
+   "published": "2026-10-29T10:45:00+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "6fad439f7442",
    "headline": "Flagship blends three biotech startups to form Etcelera",
    "summary": "Etiome, Cellarity and Empress Therapeutics are being combined into one new AI-aided drugmaker claiming to possess the ability to better predict the way new medicines will fare in humans.",
@@ -1028,6 +1043,21 @@
    "tag": "News",
    "sectors": [
     "healthit"
+   ]
+  },
+  {
+   "id": "1f475ba584e9",
+   "headline": "Will Moderna Soar on Nov. 6?",
+   "summary": "Moderna shares have outperformed tech giants this year.",
+   "url": "https://finnhub.io/api/news?id=c30efc4ebfcb4304aba3433ee0c138ed22c4f0b95081862787c97ba08fdb00c4",
+   "source": "Yahoo",
+   "published": "2026-10-29T08:30:02+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -47664,111 +47694,6 @@
    "tag": "Health AI",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "776255a75ae9",
-   "headline": "Eli Lilly & Co (NYSE:LLY) Offers Dividend Quality for Growth-Focused Income Investors",
-   "summary": "Eli Lilly passes a quality dividend screen on strong profitability and payout growth, but low yield, rich valuation, and leverage are risks.",
-   "url": "https://finnhub.io/api/news?id=363226ec9a6be298596d14d1c5a79a61b009be77ad409ac3afa96ef085d270af",
-   "source": "ChartMill",
-   "published": "2026-10-19T11:00:56+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "dfc650ce919b",
-   "headline": "Insmed Launches BRINSUPRI\u00ae Tablets 25 mg (brensocatib hydrate) for the Treatment of Non-Cystic Fibrosis Bronchiectasis in Japan",
-   "summary": "\u2014BRINSUPRI, a First-in-Disease and First-in-Class Treatment for Patients With Non-Cystic Fibrosis Bronchiectasis (NCFB), Is Now Available by Prescription in Japan\u2014 BRIDGEWATER, N.J., Oct. 19, 2026 /PRNewswire/ -- Insmed Incorporated\u2026",
-   "url": "https://www.prnewswire.com/news-releases/insmed-launches-brinsupri-tablets-25-mg-brensocatib-hydrate-for-the-treatment-of-non-cystic-fibrosis-bronchiectasis-in-japan-302911560.html",
-   "source": "PR Newswire",
-   "published": "2026-10-19T11:00:00+00:00",
-   "tickers": [
-    "INSM"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "07af9c58b914",
-   "headline": "United Therapeutics Announces FDA Clearance to Proceed with SUMMIT Clinical Trial for Treprostinil SMI in PH-COPD",
-   "summary": "SILVER SPRING, Md. & RESEARCH TRIANGLE PARK, N.C., October 19, 2026--United Therapeutics Corporation (Nasdaq: UTHR), a public benefit corporation, today announced that the U.S. Food and Drug Administration (FDA) has granted clearance\u2026",
-   "url": "https://finnhub.io/api/news?id=c919314941541747c714b3157b94d50491fe5cc7acc84f3cb3103ed42a63b31a",
-   "source": "Yahoo",
-   "published": "2026-10-19T11:00:00+00:00",
-   "tickers": [
-    "UTHR"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "7550c772a03e",
-   "headline": "Summit Therapeutics Announces Opening of Global Phase II Study of Ivonescimab-Based Regimens in Advanced Clear Cell Renal Cell Carcinoma",
-   "summary": "MIAMI, October 19, 2026--Summit Therapeutics Inc. (NASDAQ: SMMT) today announced the initiation and opening of clinical trial sites of a multiregional Phase II study of ivonescimab, a novel, potential first-in-class investigational PD-1 /\u2026",
-   "url": "https://finnhub.io/api/news?id=8b072c63ba3d6fa16db6131542c01db00194d806795f26c3268f7e84202df779",
-   "source": "Yahoo",
-   "published": "2026-10-19T11:00:00+00:00",
-   "tickers": [
-    "SMMT"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "da4ca87e6067",
-   "headline": "AstraZeneca to present overall survival data from four pivotal Phase III trials in Presidential Symposia at ESMO 2026 featuring Sone-Ve, IMFINZI\u00ae (durvalumab), TAGRISSO\u00ae (osimertinib) and savolitinib",
-   "summary": "WILMINGTON, Del., October 19, 2026--AstraZeneca advances its ambition to revolutionize cancer care with new data across its diverse, industry-leading portfolio and pipeline at the European Society for Medical Oncology (ESMO) Congress,\u2026",
-   "url": "https://finnhub.io/api/news?id=c651bfa4c3a6e30e57448cd27cd20609711273f14292613e55ad2682620e30bd",
-   "source": "Yahoo",
-   "published": "2026-10-19T11:00:00+00:00",
-   "tickers": [
-    "AZN"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "97013e712fd8",
-   "headline": "Insmed Launches BRINSUPRI\u00ae Tablets 25 mg (brensocatib hydrate) for the Treatment of Non-Cystic Fibrosis Bronchiectasis in Japan",
-   "summary": "Insmed Incorporated (Nasdaq: INSM), a people-first global biopharmaceutical company striving to deliver first- and best-in-class therapies to transform the lives of patients facing serious diseases, today announced the commercial launch\u2026",
-   "url": "https://finnhub.io/api/news?id=871db023bec67bd54e43cf6345221075347c4db864950b3716951f2365c238a9",
-   "source": "Yahoo",
-   "published": "2026-10-19T11:00:00+00:00",
-   "tickers": [
-    "INSM"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "d287abde21b4",
-   "headline": "Bristol Myers Squibb to Showcase Next-Generation Cancer Modalities and Leadership Across Solid Tumors at ESMO 2026",
-   "summary": "PRINCETON, N.J., October 19, 2026--Bristol Myers Squibb to Showcase Next-Generation Cancer Modalities and Leadership Across Solid Tumors at ESMO 2026",
-   "url": "https://finnhub.io/api/news?id=1594e6fe3360be98987fab9972b8c5b3bd05d11955f7ad3b5941dc4ab9b6faa0",
-   "source": "Yahoo",
-   "published": "2026-10-19T10:59:00+00:00",
-   "tickers": [
-    "BMY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
