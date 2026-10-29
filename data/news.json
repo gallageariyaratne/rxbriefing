@@ -1,22 +1,18 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-29T20:02:50.773159+00:00",
+ "updated": "2026-10-29T20:17:43.220812+00:00",
  "quotes": {
   "A": {
-   "price": 181.23,
-   "change_pct": -0.14
+   "price": 181.15,
+   "change_pct": -0.18
   },
   "ABBV": {
-   "price": 290.97,
-   "change_pct": 1.74
+   "price": 290.79,
+   "change_pct": 1.68
   },
   "ABT": {
-   "price": 104.56,
-   "change_pct": 1.87
-  },
-  "ACAD": {
-   "price": 20.76,
-   "change_pct": 2.17
+   "price": 104.57,
+   "change_pct": 1.88
   },
   "ALGN": {
    "price": 153.71,
@@ -95,12 +91,16 @@
    "change_pct": 2.97
   },
   "DHR": {
-   "price": 236.94,
-   "change_pct": 1.23
+   "price": 236.98,
+   "change_pct": 1.24
   },
   "DOCS": {
    "price": 33.63,
    "change_pct": -1.81
+  },
+  "DVA": {
+   "price": 193.31,
+   "change_pct": 5.1
   },
   "ELV": {
    "price": 422.02,
@@ -215,8 +215,8 @@
    "change_pct": 2.2
   },
   "LLY": {
-   "price": 1373,
-   "change_pct": 6.57
+   "price": 1373.7,
+   "change_pct": 6.63
   },
   "MCK": {
    "price": 980.88,
@@ -235,8 +235,8 @@
    "change_pct": 0.43
   },
   "MRK": {
-   "price": 146.34,
-   "change_pct": 3.84
+   "price": 146.33,
+   "change_pct": 3.83
   },
   "MRNA": {
    "price": 222.76,
@@ -245,10 +245,6 @@
   "NBIX": {
    "price": 146.38,
    "change_pct": 0.58
-  },
-  "NTLA": {
-   "price": 13.23,
-   "change_pct": -0.68
   },
   "NTRA": {
    "price": 436,
@@ -282,6 +278,10 @@
    "price": 29.95,
    "change_pct": 1.7
   },
+  "PTCT": {
+   "price": 64.46,
+   "change_pct": 2.29
+  },
   "QGEN": {
    "price": 50.34,
    "change_pct": 0.02
@@ -307,8 +307,8 @@
    "change_pct": 2.11
   },
   "SYK": {
-   "price": 311.34,
-   "change_pct": 2.41
+   "price": 311.75,
+   "change_pct": 2.55
   },
   "TAK": {
    "price": 20.01,
@@ -938,6 +938,66 @@
  },
  "stories": [
   {
+   "id": "7f6b8c7abf56",
+   "headline": "DaVita Inc. 3rd Quarter 2026 Results",
+   "summary": "DENVER, Oct. 29, 2026 /PRNewswire/ -- DaVita Inc. (NYSE: DVA) announced financial and operating results for the quarter ended September 30, 2026. Financial and operating highlights for the quarter ended September 30, 2026: Consolidated\u2026",
+   "url": "https://www.prnewswire.com/news-releases/davita-inc-3rd-quarter-2026-results-302924193.html",
+   "source": "PR Newswire",
+   "published": "2026-10-29T20:05:00+00:00",
+   "tickers": [
+    "DVA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "f2d338bab20b",
+   "headline": "Illumina Reports Financial Results for Third Quarter of Fiscal Year 2026",
+   "summary": "SAN DIEGO, Oct. 29, 2026 /PRNewswire/ -- Illumina, Inc. (Nasdaq: ILMN) (\"Illumina\" or the \"company\") today announced its financial results for the third quarter of fiscal year 2026. Third quarter 2026 results Reported revenue was $1.13\u2026",
+   "url": "https://www.prnewswire.com/news-releases/illumina-reports-financial-results-for-third-quarter-of-fiscal-year-2026-302923969.html",
+   "source": "PR Newswire",
+   "published": "2026-10-29T20:05:00+00:00",
+   "tickers": [
+    "ILMN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "b6ff7ea01e86",
+   "headline": "Penumbra, Inc. Reports Third Quarter 2026 Financial Results",
+   "summary": "ALAMEDA, Calif., Oct. 29, 2026 /PRNewswire/ -- Penumbra, Inc. (NYSE: PEN), the world's leading thrombectomy company, today reported financial results for the third quarter ended September 30, 2026. Revenue of $410.1 million in the third\u2026",
+   "url": "https://www.prnewswire.com/news-releases/penumbra-inc-reports-third-quarter-2026-financial-results-302922852.html",
+   "source": "PR Newswire",
+   "published": "2026-10-29T20:05:00+00:00",
+   "tickers": [
+    "PEN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "4b2ef8ce90e9",
+   "headline": "PTC Therapeutics Provides Corporate Update and Reports Third Quarter 2026 Financial Results",
+   "summary": "\u2013 Strong Q3 2026 performance with total revenue of $358 million, including $276 million of product revenue \u2013 \u2013 Full-year 2026 expected total revenue increased to $1.29 to $1.32 billion, with full-year product revenue guidance raised to\u2026",
+   "url": "https://www.prnewswire.com/news-releases/ptc-therapeutics-provides-corporate-update-and-reports-third-quarter-2026-financial-results-302924188.html",
+   "source": "PR Newswire",
+   "published": "2026-10-29T20:01:00+00:00",
+   "tickers": [
+    "PTCT"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "eb5b6c404023",
    "headline": "Lilly breaks down Medicare Bridge boon as GLP-1 sales drive another guidance lift",
    "summary": "As Lilly\u2019s tirzepatide franchise continues to deliver strong sales growth, analysts are increasingly turning their attention to new catalysts in the GLP-1 market, including the launch of oral obesity medicines and the rollout of a\u2026",
@@ -1008,6 +1068,21 @@
    "sectors": []
   },
   {
+   "id": "45c2a6bf70ce",
+   "headline": "Repligen Soars 5% as RBC Raises Price Target to $200 After Full-Year Guidance Hike",
+   "summary": "Key TakeawaysRepligen shares rose 5% after RBC Capital raised its price target to $200, a day after the company beat estimates and raised its full-year revenue outlook. Repligen\u2019s 12.",
+   "url": "https://finnhub.io/api/news?id=46557c3059d5794ede5ac1a8b32b188faef45ed051136119c0f57516b220cc85",
+   "source": "Yahoo",
+   "published": "2026-10-29T18:37:57+00:00",
+   "tickers": [
+    "DHR"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "9949ff9356eb",
    "headline": "Labor Department finalizes sweeping PBM disclosure rule",
    "summary": "Starting in 2027, the controversial drug middlemen will have to share a broad swath of fee and compensation data with their self-funded employer clients. Employers cheered the rule, while PBMs slammed it as government overreach.",
@@ -1031,6 +1106,51 @@
    "tag": "Clinical",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "76936d9bdc84",
+   "headline": "McKesson (MCK) Stock Could Be 43% Undervalued Despite Strong Cash Flow Doubts",
+   "summary": "McKesson has delivered a powerful run over the past several years, and the share price sits near the top of its recent range. That kind of performance naturally raises a question for anyone looking at the stock today, which is whether the\u2026",
+   "url": "https://finnhub.io/api/news?id=9a60d19bbb0bb37cd89abb991e6f4dfed8467f8381f84fd07205987e76194513",
+   "source": "Yahoo",
+   "published": "2026-10-29T18:13:23+00:00",
+   "tickers": [
+    "MCK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
+  {
+   "id": "bb35d5720741",
+   "headline": "Labcorp (LH) Stock Shrugs Off Q3 Earnings As PAMA Risk Looms",
+   "summary": "Labcorp stock barely flinched after its Q3 2026 release, ticking around 0.6% higher near US$362 even as the company posted a muscular quarter. Revenue reached about US$3.8b and adjusted earnings per share jumped to US$4.78, with free cash\u2026",
+   "url": "https://finnhub.io/api/news?id=a67ddbe8f2d7a826bb838cacd935c33f237906be87b04b9280d3f84c7be64560",
+   "source": "Yahoo",
+   "published": "2026-10-29T18:12:48+00:00",
+   "tickers": [
+    "LH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "17407f34fa7b",
+   "headline": "THC Q3 Earnings Beat on Hospital Strength, 2026 EPS View Raised",
+   "summary": "Tenet Healthcare's Q3 earnings surge 79.5% on strong hospital performance and cost discipline, prompting higher 2026 EPS and EBITDA guidance.",
+   "url": "https://finnhub.io/api/news?id=df32f1d706a5135913b6337d92a20d1d403c07a81e4f6d24380d3d1ffc489129",
+   "source": "Yahoo",
+   "published": "2026-10-29T18:12:00+00:00",
+   "tickers": [
+    "HCA"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -50962,96 +51082,6 @@
    "tag": "M&A",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "78a0a595b804",
-   "headline": "Jazz Pharmaceuticals to Report Third Quarter Financial Results on November 2, 2026",
-   "summary": "Jazz Pharmaceuticals plc (Nasdaq: JAZZ) today announced it will report its 2026 third quarter financial results on Monday, November 2, 2026, after the close of the U.S. financial markets. Company management will host a webcast at 4:30\u2026",
-   "url": "https://finnhub.io/api/news?id=a48a22a7fb7a855833838cb16615a37f8c66c391f54c33e802233f5ce861411f",
-   "source": "Yahoo",
-   "published": "2026-10-19T20:15:00+00:00",
-   "tickers": [
-    "JAZZ"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "2c80d37c55be",
-   "headline": "Alerion Clean Power (BIT:ARN) Stock Still Looks Reasonable On Earnings",
-   "summary": "Alerion Clean Power has seen its share price slide in recent years, which puts fresh attention on whether the current \u20ac16.16 level lines up with what its earnings can support. With the stock weaker again this year, the key issue for you\u2026",
-   "url": "https://finnhub.io/api/news?id=424435cec0c720089f0f34da14099919a53072ab3ca140c694d8d7cdc2092a6a",
-   "source": "Yahoo",
-   "published": "2026-10-19T20:13:35+00:00",
-   "tickers": [
-    "NVS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "e0e3835dd3c8",
-   "headline": "Eloxx Pharmaceuticals Appoints Biopharmaceutical Industry Veteran Geno Germano to its Board of Directors",
-   "summary": "Mr. Germano brings more than 35 years of biopharmaceutical leadership experience, including as Group President of Pfizer's Global Innovative Pharmaceutical business Extensive public company board experience, including current service as\u2026",
-   "url": "https://www.prnewswire.com/news-releases/eloxx-pharmaceuticals-appoints-biopharmaceutical-industry-veteran-geno-germano-to-its-board-of-directors-302913021.html",
-   "source": "PR Newswire",
-   "published": "2026-10-19T20:05:00+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "8177f8264f4d",
-   "headline": "Eloxx Pharmaceuticals Appoints Biopharmaceutical Industry Veteran Geno Germano to its Board of Directors",
-   "summary": "Eloxx Pharmaceuticals, Inc. (Nasdaq: ELOX), a clinical-stage biopharmaceutical company developing exaluren for the treatment of rare kidney diseases, today announced the appointment of Geno Germano to its Board of Directors, effective\u2026",
-   "url": "https://finnhub.io/api/news?id=c3d63b9d232f234f9385e0493dc2d662ce90c6de665e88c03712a2d15b6c7669",
-   "source": "Yahoo",
-   "published": "2026-10-19T20:05:00+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "514ee7dfa845",
-   "headline": "CRISPR Therapeutics Announces Chief Financial Officer Transition",
-   "summary": "ZUG, Switzerland and BOSTON, Oct. 19, 2026 (GLOBE NEWSWIRE) -- CRISPR Therapeutics (Nasdaq: CRSP) today announced that its Chief Financial Officer, Raju Prasad, Ph.D., will be stepping down from the Company to pursue external\u2026",
-   "url": "https://finnhub.io/api/news?id=d1390fc572be48a2835888528e1253c2e6dbd24611287983ff3e53efcfb1e570",
-   "source": "Yahoo",
-   "published": "2026-10-19T20:05:00+00:00",
-   "tickers": [
-    "CRSP"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "0416e63e0320",
-   "headline": "Integra Announces Completion of Refinancing Transactions",
-   "summary": "PRINCETON, N.J., Oct. 19, 2026 (GLOBE NEWSWIRE) -- Integra LifeSciences Holdings Corporation (NASDAQ:IART) today announced that it has closed a private offering of $450.0 million aggregate principal amount of 9.500% senior secured notes\u2026",
-   "url": "https://finnhub.io/api/news?id=35d4174d69f4ec85d6423f29bd95d582d9b9b7d28a252a1faa07e0a95e1fdc63",
-   "source": "Yahoo",
-   "published": "2026-10-19T20:05:00+00:00",
-   "tickers": [
-    "IART"
-   ],
-   "tag": "Financing",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
