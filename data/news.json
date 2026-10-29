@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-29T13:03:10.600174+00:00",
+ "updated": "2026-10-29T13:17:42.311547+00:00",
  "quotes": {
   "A": {
    "price": 181.48,
@@ -190,6 +190,10 @@
    "price": 271.04,
    "change_pct": 0.86
   },
+  "LFST": {
+   "price": 13.39,
+   "change_pct": 2.21
+  },
   "LH": {
    "price": 360.25,
    "change_pct": 8.78
@@ -198,10 +202,6 @@
    "price": 1288.3,
    "change_pct": 0.5
   },
-  "MDGL": {
-   "price": 431,
-   "change_pct": -2.12
-  },
   "MDT": {
    "price": 94.78,
    "change_pct": 0.88
@@ -209,10 +209,6 @@
   "MEDP": {
    "price": 692.68,
    "change_pct": 2.8
-  },
-  "MOH": {
-   "price": 198.1,
-   "change_pct": -0.68
   },
   "MRK": {
    "price": 140.93,
@@ -316,6 +312,10 @@
   },
   "UNH": {
    "price": 407.1,
+   "change_pct": -0.8
+  },
+  "UTHR": {
+   "price": 586.48,
    "change_pct": -0.8
   }
  },
@@ -934,6 +934,17 @@
  },
  "stories": [
   {
+   "id": "536f08c577ef",
+   "headline": "Oura, UC San Diego Health collaborate to study GLP-1 outcomes using continuous smart ring data",
+   "summary": "Oura is pushing further into clinical healthcare research with its first clinical trial to study the link between smart ring data and obesity treatment outcomes.",
+   "url": "https://www.fiercebiotech.com/health-tech/oura-uc-san-diego-health-study-glp-1-outcomes-using-continuous-smart-ring-data",
+   "source": "Fierce Biotech",
+   "published": "2026-10-29T13:15:22.224762+00:00",
+   "tickers": [],
+   "tag": "GLP-1",
+   "sectors": []
+  },
+  {
    "id": "797bdedb78e0",
    "headline": "Kennedy's HHS relaxes enforcement on 6 popular wellness peptides",
    "summary": "Stopping short of a formal declaration allowing their use, Department of Health and Human Services secretary Robert F. Kennedy Jr. has cleared the way for the compounding of six popular wellness peptides.",
@@ -943,6 +954,21 @@
    "tickers": [],
    "tag": "Policy",
    "sectors": []
+  },
+  {
+   "id": "340dc323ecaa",
+   "headline": "LifeStance Patients With Treatment-Resistant Depression See Clinically Meaningful Improvement in Symptoms After Esketamine or TMS Treatment, New Data Shows",
+   "summary": "LifeStance Expands Specialty Services, Increasing Access to Esketamine (Spravato) and Transcranial Magnetic Stimulation (TMS) Across the U.S. SCOTTSDALE, Ariz., Oct. 29, 2026 /PRNewswire/ -- LifeStance Health, one of the nation's largest\u2026",
+   "url": "https://www.prnewswire.com/news-releases/lifestance-patients-with-treatment-resistant-depression-see-clinically-meaningful-improvement-in-symptoms-after-esketamine-or-tms-treatment-new-data-shows-302922942.html",
+   "source": "PR Newswire",
+   "published": "2026-10-29T13:00:00+00:00",
+   "tickers": [
+    "LFST"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
+   ]
   },
   {
    "id": "050b598ded96",
@@ -1260,6 +1286,7 @@
     "BMY",
     "GILD",
     "MRK",
+    "REGN",
     "VRTX"
    ],
    "tag": "News",
@@ -1509,6 +1536,21 @@
    ]
   },
   {
+   "id": "d72508cb5e74",
+   "headline": "Butterfly Network, Inc. (BFLY) Reports Q3 Loss, Beats Revenue Estimates",
+   "summary": "Butterfly Network (BFLY) delivered earnings and revenue surprises of +66.67% and +16.05%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=5f5eadd4d10ac5acb291faafa8ea6c23781ec5c1793e5d85393e5ffd15ce1a8f",
+   "source": "Yahoo",
+   "published": "2026-10-29T10:45:03+00:00",
+   "tickers": [
+    "TXG"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "5975e1c3e2f5",
    "headline": "Lilly reports third-quarter 2026 financial results, raises full-year guidance and highlights regulatory progress across the portfolio",
    "summary": "Revenue in Q3 2026 increased 39% to $24.4 billion driven primarily by Mounjaro and Zepbound. Q3 revenue included approximately $900 million of benefits, primarily from $410 million of Jardiance milestones (no further milestones remain)\u2026",
@@ -1694,7 +1736,8 @@
    "source": "Yahoo",
    "published": "2026-10-29T10:11:25+00:00",
    "tickers": [
-    "BIIB"
+    "BIIB",
+    "REGN"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -1950,6 +1993,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "6fdaea232a44",
+   "headline": "Labcorp Holdings: The Optimism May Be Going Overboard (Rating Downgrade)",
+   "summary": "Labcorp Holdings raised guidance and shares surged, but valuation looks stretched. Read more on LH stock here.",
+   "url": "https://finnhub.io/api/news?id=c69d75f145c93e64dc547f6247382da563502e70847b617d11d23dbeeb9d0132",
+   "source": "SeekingAlpha",
+   "published": "2026-10-29T08:15:00+00:00",
+   "tickers": [
+    "LH"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -47552,164 +47610,6 @@
    "sectors": [
     "payers"
    ]
-  },
-  {
-   "id": "2405551e992c",
-   "headline": "These 5 Dividend Stocks Look Like Income Bargains. The Math Says Otherwise",
-   "summary": "A yield above 6% looks like a retirement lifeline until the math behind it starts to crack. Five familiar dividend names are flashing the kind of payout warnings that show up quietly in the numbers long before a cut hits your account.",
-   "url": "https://finnhub.io/api/news?id=4e9ad059ca8f6c3950c078995610b2ce006907c46d7d448d37e5dfba5190b29d",
-   "source": "Yahoo",
-   "published": "2026-10-19T13:15:22+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "4c2b9ff41de8",
-   "headline": "5 doctors weigh in on the promise, limitations of Grail\u2019s multicancer test",
-   "summary": "As the closely watched screening test moves closer to Food and Drug Administration approval, MedTech Dive asked cancer experts what encourages and concerns them most about Galleri.",
-   "url": "https://www.medtechdive.com/news/5-doctors-weigh-in-on-the-promise-limitations-of-grails-multicancer-test/833193/",
-   "source": "MedTech Dive",
-   "published": "2026-10-19T13:15:00+00:00",
-   "tickers": [],
-   "tag": "FDA",
-   "sectors": []
-  },
-  {
-   "id": "9d044695c3a1",
-   "headline": "Stryker Enters Soft-Tissue Robotics With $400 Million CMR Deal",
-   "summary": "SYK's $400 million investment in CMR Surgical marks its entry into soft-tissue robotics, expanding its surgical portfolio with Versius technology.",
-   "url": "https://finnhub.io/api/news?id=f4eaaedff97b4972d50dc0563b022d88089a838a0b6e9ab48df93d50dbe497ea",
-   "source": "Yahoo",
-   "published": "2026-10-19T13:15:00+00:00",
-   "tickers": [
-    "ISRG",
-    "JNJ",
-    "MDT",
-    "SYK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "b8525e156793",
-   "headline": "How Will Eli Lilly's GLP-1 Portfolio Sales Aid Upcoming Q3 Results?",
-   "summary": "LLY's surging Mounjaro and Zepbound sales, alongside Foundayo's expanding market access, strengthen its GLP-1 growth momentum ahead of Q3 results.",
-   "url": "https://finnhub.io/api/news?id=7688e7615e2be0e63ebd24484495ec690d44d087316025b66280fc3384eddd8a",
-   "source": "Yahoo",
-   "published": "2026-10-19T13:15:00+00:00",
-   "tickers": [
-    "LLY",
-    "NVO",
-    "VKTX"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "c9d267dfb91f",
-   "headline": "5 doctors weigh in on the promise, limitations of a closely watched multicancer blood test",
-   "summary": "As a screening test from Grail moves closer to Food and Drug Administration approval, MedTech Dive asked cancer experts what encourages and concerns them most about Galleri.",
-   "url": "https://www.healthcaredive.com/news/5-doctors-weigh-in-on-the-promise-limitations-of-a-closely-watched-multica/833455/",
-   "source": "Healthcare Dive",
-   "published": "2026-10-19T13:15:00+00:00",
-   "tickers": [],
-   "tag": "FDA",
-   "sectors": []
-  },
-  {
-   "id": "8127bd2fa399",
-   "headline": "Roche inks $15B ADC pact with Hansoh; Veradermics scores in another baldness study",
-   "summary": "Roche is paying Hansoh $400 million up front in a broad deal involving several ADCs. Elsewhere, another top investor formed a China-focused fund and Ultragenyx sold a second review voucher.",
-   "url": "https://www.biopharmadive.com/news/roche-hansoh-veradermics-rasonque-europe-orbimed-china-ultragenyx/833248/",
-   "source": "BioPharma Dive",
-   "published": "2026-10-19T13:14:00+00:00",
-   "tickers": [
-    "RARE"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "e34e3ac4a355",
-   "headline": "Roche inks $15B ADC pact with Hansoh; Veradermics scores in another baldness study",
-   "summary": "Roche is paying Hansoh $400 million up front in a broad deal involving several ADCs. Elsewhere, another top investor formed a China-focused fund and Ultragenyx sold a second review voucher.",
-   "url": "https://finnhub.io/api/news?id=cbb07d4ba2a454aeee8079eaa25d6951077071307d0a3ffef71428e9b498dd5b",
-   "source": "Yahoo",
-   "published": "2026-10-19T13:14:00+00:00",
-   "tickers": [
-    "RVMD"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "dbdf5b878002",
-   "headline": "Is Johnson & Johnson (JNJ) Undervalued Following Its Latest Oncology Update?",
-   "summary": "Johnson & Johnson (JNJ) stock is under fresh scrutiny after European regulators recommended expanding TALVEY\u2019s use in relapsed or refractory multiple myeloma, adding another data backed oncology asset to the healthcare giant\u2019s pipeline.\u2026",
-   "url": "https://finnhub.io/api/news?id=6fc55294eb2b77d1bff625e46a2a4e0239cef49babb369b6437fea14c62c039c",
-   "source": "Yahoo",
-   "published": "2026-10-19T13:09:26+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "Policy",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "016bd7e500e9",
-   "headline": "Final Trades: Twilio, Transocean and UnitedHealth",
-   "summary": "The Investment Committee gives you its top stocks to watch for the second half.",
-   "url": "https://finnhub.io/api/news?id=30076f4cb7246037b7971b1dc7a2c084926f582167fcd9c2ba9e35669c0aa679",
-   "source": "CNBC",
-   "published": "2026-10-19T13:08:32+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "cfd362774dbd",
-   "headline": "PacBio and Verily Health Announce Multi-Year Strategic Collaboration to Scale Long-Read Genomics for Biomedical AI",
-   "summary": "Verily Pre will connect PacBio HiFi Sequencing with governed cloud analysis, multimodal health data and AI-ready research workflowsMENLO PARK, Calif. and DALLAS, Oct. 19, 2026 (GLOBE NEWSWIRE) -- PacBio (NASDAQ: PACB), developer of the\u2026",
-   "url": "https://finnhub.io/api/news?id=88e0312fb323a3c80c7b4d423cc18f61357d23c9969f62b0fcd17b75f0a65966",
-   "source": "Yahoo",
-   "published": "2026-10-19T13:05:00+00:00",
-   "tickers": [
-    "PACB"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "db7b39f42a10",
-   "headline": "CMS proposes rule to clean up MA provider directories, shine light on PBMs",
-   "summary": "The proposed changes would implement key healthcare provisions in a government funding package from February. The brunt of the reforms would go into effect in 2028.",
-   "url": "https://www.healthcaredive.com/news/cms-proposes-rule-clean-up-ma-provider-directories-pbms/833325/",
-   "source": "Healthcare Dive",
-   "published": "2026-10-19T13:04:09+00:00",
-   "tickers": [],
-   "tag": "Policy",
-   "sectors": []
   }
  ]
 }
