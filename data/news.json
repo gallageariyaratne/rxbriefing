@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-29T06:17:32.949406+00:00",
+ "updated": "2026-10-29T06:32:37.115460+00:00",
  "quotes": {
   "A": {
    "price": 181.48,
@@ -218,10 +218,6 @@
    "price": 321.42,
    "change_pct": 0.26
   },
-  "LEGN": {
-   "price": 22.53,
-   "change_pct": 4.5
-  },
   "LH": {
    "price": 360.25,
    "change_pct": 8.78
@@ -317,6 +313,10 @@
   "RMD": {
    "price": 250.17,
    "change_pct": -0.25
+  },
+  "RVMD": {
+   "price": 188.72,
+   "change_pct": 1.34
   }
  },
  "tickers": {
@@ -934,6 +934,21 @@
  },
  "stories": [
   {
+   "id": "397edce02153",
+   "headline": "Boston Scientific (BSX) Stock Sinks As Q3 Results Deepen Margin Concerns",
+   "summary": "Boston Scientific stock took a hit today, sliding almost 6% to about US$42 after investors reacted to its Q3 2026 report. At first glance the disappointment centers on adjusted earnings per share of US$0.73 and organic revenue growth of\u2026",
+   "url": "https://finnhub.io/api/news?id=32930ba3125e3caf3988597556cb6d5a8ed2afaefd4ea56d1581dfffad69cda9",
+   "source": "Yahoo",
+   "published": "2026-10-29T05:16:55+00:00",
+   "tickers": [
+    "BSX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "0971471df1aa",
    "headline": "New York officials share OUD treatment progress, plans for new pilot to treat stimulant use disorder",
    "summary": "Two years after permanent federal regulations allowing greater flexibility for medications for opioid use disorder (MOUD), New York experts convened to discuss the benefits and challenges of take-home medications.",
@@ -957,6 +972,21 @@
    "tag": "Health AI",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "2f628933bb98",
+   "headline": "Boston Scientific: 3 Key Takeaways for Long-Term Investors",
+   "summary": "Cost cuts and pipeline launches aim to restore growth momentum after 2027 headwinds flatten earnings.",
+   "url": "https://finnhub.io/api/news?id=a98b8354b573aec2b0c8593b81f2aa2ef71f84df85a107dc017125fc197402bf",
+   "source": "Yahoo",
+   "published": "2026-10-29T04:05:08+00:00",
+   "tickers": [
+    "BSX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -48225,36 +48255,6 @@
    "tag": "Analyst",
    "sectors": [
     "healthai"
-   ]
-  },
-  {
-   "id": "cc858ed1b419",
-   "headline": "RAMSAY GENERALE DE SANTE : Availability of the 2026 URD - Evolution in the Governance - Annual General meeting on 4th December 2026",
-   "summary": "PRESS RELEASE Paris, 19 October 2026 EVOLUTION IN THE GOVERNANCE OF RAMSAY GENERALE DE SANTE AVAILABILITY OF THE 2026 UNIVERSAL REGISTRATION DOCUMENT ANNUAL GENERAL MEETING ON 4 DECEMBER 2026 Ramsay Health Care Limited (RHC) has\u2026",
-   "url": "https://finnhub.io/api/news?id=bf7a110bd6ca62fe1d64b59679fb3541d5e4f97841fc32a783fc7ed5a0f94ddd",
-   "source": "Yahoo",
-   "published": "2026-10-19T06:25:00+00:00",
-   "tickers": [
-    "NVS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "b3eee600c003",
-   "headline": "GSK lung cancer drug shows 61% response rate in early global trial",
-   "summary": "GSK PLC (LSE:GSK, NYSE:GSK) said its experimental lung cancer treatment risvutatug rezetecan produced a 61% confirmed response rate at the higher dose tested in an early-stage global trial of patients with relapsed extensive-stage small\u2026",
-   "url": "https://finnhub.io/api/news?id=6de6804f76142a7a5f9d0febe17fbc403a1d6c1596ae432b9e0d5454636e59e8",
-   "source": "Yahoo",
-   "published": "2026-10-19T06:19:00+00:00",
-   "tickers": [
-    "GSK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
