@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-29T06:32:37.115460+00:00",
+ "updated": "2026-10-29T06:47:33.849339+00:00",
  "quotes": {
   "A": {
    "price": 181.48,
@@ -286,6 +286,10 @@
    "price": 2.83,
    "change_pct": 15.51
   },
+  "PEN": {
+   "price": 318.31,
+   "change_pct": -1.77
+  },
   "PFE": {
    "price": 29.45,
    "change_pct": -1.17
@@ -313,10 +317,6 @@
   "RMD": {
    "price": 250.17,
    "change_pct": -0.25
-  },
-  "RVMD": {
-   "price": 188.72,
-   "change_pct": 1.34
   }
  },
  "tickers": {
@@ -934,6 +934,36 @@
  },
  "stories": [
   {
+   "id": "ea155230e91c",
+   "headline": "Align (ALGN) Q3 2026 Earnings Call Transcript",
+   "summary": "Record doctor submitters and aligner growth offset softer consumer spending headwinds.",
+   "url": "https://finnhub.io/api/news?id=484b909ee2afd4708520d777713b180dc410ce0eacc68e863d3f666b5828d7ec",
+   "source": "Yahoo",
+   "published": "2026-10-29T05:29:21+00:00",
+   "tickers": [
+    "ALGN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "425bf6cee9f5",
+   "headline": "Biogen (BIIB) Stock Price Tracks Q3 Results Through Loss And Cash Flow",
+   "summary": "Biogen shareholders woke up to a pullback. The stock closed at US$244.05, down 3.4% from the prior session, even though Q3 2026 revenue reached US$2.8b with double digit year on year growth and free cash flow hit US$600m. That gap between\u2026",
+   "url": "https://finnhub.io/api/news?id=5fff8bf249bc64b9c554b8e0e74ecfa6afc7df2190be5c60ebbaa15c0bf4cbd4",
+   "source": "Yahoo",
+   "published": "2026-10-29T05:18:46+00:00",
+   "tickers": [
+    "BIIB"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "397edce02153",
    "headline": "Boston Scientific (BSX) Stock Sinks As Q3 Results Deepen Margin Concerns",
    "summary": "Boston Scientific stock took a hit today, sliding almost 6% to about US$42 after investors reacted to its Q3 2026 report. At first glance the disappointment centers on adjusted earnings per share of US$0.73 and organic revenue growth of\u2026",
@@ -946,6 +976,21 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "4c56bab45c4a",
+   "headline": "The Ensign Group Q3 Earnings Call Highlights",
+   "summary": "The Ensign Group (NASDAQ:ENSG) raised its 2026 earnings outlook after reporting third-quarter revenue and earnings growth, supported by higher occupancy, skilled-nursing mix and acquisitions. Management also highlighted its entry into\u2026",
+   "url": "https://finnhub.io/api/news?id=cd2b660d9ecef98527daf7d3f46f994864aaf105ed2833dbcd49e3b23b28a750",
+   "source": "Yahoo",
+   "published": "2026-10-29T05:04:16+00:00",
+   "tickers": [
+    "ENSG"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -982,7 +1027,8 @@
    "source": "Yahoo",
    "published": "2026-10-29T04:05:08+00:00",
    "tickers": [
-    "BSX"
+    "BSX",
+    "PEN"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -48240,21 +48286,6 @@
    "tag": "Clinical",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "b0020c45d223",
-   "headline": "Needham Reiterates Buy on Recursion Pharmaceuticals, Maintains $8 Price Target",
-   "summary": "Needham analyst Gil Blum reiterates Recursion Pharmaceuticals (NASDAQ:RXRX) with a Buy and maintains $8 price target.",
-   "url": "https://finnhub.io/api/news?id=579d9f34e82bdb9f8565c5d917c0317553699528b3fcbc9234a4664074b8de41",
-   "source": "Benzinga",
-   "published": "2026-10-19T06:34:31+00:00",
-   "tickers": [
-    "RXRX"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "healthai"
    ]
   }
  ]
