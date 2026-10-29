@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-29T22:32:43.420371+00:00",
+ "updated": "2026-10-29T22:47:50.626265+00:00",
  "quotes": {
   "A": {
    "price": 181.15,
@@ -61,10 +61,6 @@
   "CI": {
    "price": 298.41,
    "change_pct": 1.16
-  },
-  "CLOV": {
-   "price": 4.58,
-   "change_pct": -4.38
   },
   "CNC": {
    "price": 68.62,
@@ -321,6 +317,10 @@
   "TMDX": {
    "price": 67.12,
    "change_pct": 0.33
+  },
+  "TMO": {
+   "price": 709.18,
+   "change_pct": 0.71
   }
  },
  "tickers": {
@@ -938,6 +938,21 @@
  },
  "stories": [
   {
+   "id": "a13a1bdd31dc",
+   "headline": "Illumina shares tumble 12% despite earnings beat on China woes",
+   "summary": "Investing.com -- Illumina Inc (NASDAQ:ILMN) reported third-quarter results that exceeded analyst expectations, but shares tumbled 12% in after-hours trading Thursday as investors focused on the company's China revenue challenges.",
+   "url": "https://finnhub.io/api/news?id=824a2ce2682cfd65e8d5b030e4a3c4730431c1c9da163831d3a210e2e746d521",
+   "source": "Yahoo",
+   "published": "2026-10-29T21:59:10+00:00",
+   "tickers": [
+    "ILMN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "73866e4c38ea",
    "headline": "Dow Jones Futures: Amazon, Intel Lead Earnings Losers After Google, ServiceNow, Fortinet Hit Nasdaq",
    "summary": "Amazon, Intel and Illumina were earnings losers overnight after Google, ServiceNow and Fortinet slammed techs. Much of the market is doing fine.",
@@ -945,11 +960,57 @@
    "source": "Yahoo",
    "published": "2026-10-29T21:58:19+00:00",
    "tickers": [
+    "ILMN",
     "LLY"
    ],
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "9d29abea9eae",
+   "headline": "PTC Therapeutics (NASDAQ:PTCT) Q3 Beat and Raised Guidance Meet Cautious After-Hours Reaction",
+   "summary": "PTC Therapeutics (PTCT) Q3 2026 revenue and EPS beat estimates, raised guidance, yet shares slipped after hours.",
+   "url": "https://finnhub.io/api/news?id=d7980c08b4cee858b06a8a0edc1c0499a16c19e1cabc9816cfa7c747062986e5",
+   "source": "ChartMill",
+   "published": "2026-10-29T21:45:25+00:00",
+   "tickers": [
+    "PTCT"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "c7fd13fa0605",
+   "headline": "Illumina (NASDAQ:ILMN) Q3 Revenue Miss Overshadows EPS Beat",
+   "summary": "Illumina Q3 EPS beat estimates but revenue missed, sending ILMN shares lower after hours as sales growth concerns outweighed profit upside.",
+   "url": "https://finnhub.io/api/news?id=a906ac35a921b5e525c06be99d629288a0137db7684df9f702573075911bf98e",
+   "source": "ChartMill",
+   "published": "2026-10-29T21:30:44+00:00",
+   "tickers": [
+    "ILMN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "381c0c4c9540",
+   "headline": "Exelixis (NASDAQ:EXEL) Q3 Earnings Beat, Revenue In Line as Guidance Holds",
+   "summary": "Exelixis Q3 2026: EPS beat, revenue in line, guidance unchanged, lower tax rate, zanzalintinib pipeline advances; stock jumps after hours.",
+   "url": "https://finnhub.io/api/news?id=4d8373f299b50daaf53dcdd9215805632b7f06d008527dfbe6c0489afa3884c7",
+   "source": "ChartMill",
+   "published": "2026-10-29T21:23:39+00:00",
+   "tickers": [
+    "EXEL"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -1054,6 +1115,51 @@
    ]
   },
   {
+   "id": "972492ae4053",
+   "headline": "Illumina (ILMN) Q3 Earnings Beat Estimates",
+   "summary": "Illumina (ILMN) delivered earnings and revenue surprises of +5.88% and -0.76%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=93bd7290e40c9e463f4c239633729a64964d5d35570cd13bd34c1cb10f3a0933",
+   "source": "Yahoo",
+   "published": "2026-10-29T20:35:04+00:00",
+   "tickers": [
+    "ILMN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "249ad171f15e",
+   "headline": "Exelixis (EXEL) Surpasses Q3 Earnings and Revenue Estimates",
+   "summary": "Exelixis (EXEL) delivered earnings and revenue surprises of +5.62% and +0.86%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=ad8e9f518b7fed2510e86d4ceb566981a0c3e52e68a3d188681b8ea88ad60f4f",
+   "source": "Yahoo",
+   "published": "2026-10-29T20:35:03+00:00",
+   "tickers": [
+    "EXEL"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "bb983098c9ce",
+   "headline": "Exelixis: Q3 Earnings Snapshot",
+   "summary": "(EXEL) on Thursday reported third-quarter profit of $218.On a per-share basis, the Alameda, California-based company said it had net income of 85 cents.",
+   "url": "https://finnhub.io/api/news?id=3db91cda4a69fdd02dfc347babbd31c10c59ffb899fe48f9a3784b9fbaaea840",
+   "source": "Yahoo",
+   "published": "2026-10-29T20:32:39+00:00",
+   "tickers": [
+    "EXEL"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "abd7b8e0e318",
    "headline": "Tenet Healthcare sails past Q3 earnings estimates, boosts 2026 guidance",
    "summary": "Executives said the for-profit's outperformance stemmed from fundamentals like increased hospital volumes, checked expenses and increased ambulatory acuity.",
@@ -1080,6 +1186,21 @@
    "sectors": []
   },
   {
+   "id": "b1168576ff28",
+   "headline": "Humana Board Declares Payment of Quarterly Dividend to Stockholders",
+   "summary": "LOUISVILLE, Ky., October 29, 2026--Humana Inc. (NYSE: HUM) announced today that its Board of Directors has declared a cash dividend to stockholders of $0.885 per share payable on January 29, 2027 to stockholders of record as of the close\u2026",
+   "url": "https://finnhub.io/api/news?id=d8d1ade2e459442ce70a73204bdef66c1a6723b2cbba9bcb08bf9014b69de216",
+   "source": "Yahoo",
+   "published": "2026-10-29T20:30:00+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "4c663a150c2a",
    "headline": "Is It A Mistake To Buy Cardinal Health Stock At A High?",
    "summary": "For questions about this article or underlying research, email help@trefis.com.",
@@ -1087,11 +1208,27 @@
    "source": "Yahoo",
    "published": "2026-10-29T20:29:16+00:00",
    "tickers": [
+    "CAH",
     "COR"
    ],
    "tag": "M&A",
    "sectors": [
     "pharmacy"
+   ]
+  },
+  {
+   "id": "c7030d5bbb0f",
+   "headline": "Penumbra: Q3 Earnings Snapshot",
+   "summary": "(PEN) on Thursday reported earnings of $42.On a per-share basis, the Alameda, California-based company said it had profit of $1.",
+   "url": "https://finnhub.io/api/news?id=a3ca02ad79c51dfef018332c7a05e3733222907ee11bbded43ee0ad5f4827faa",
+   "source": "Yahoo",
+   "published": "2026-10-29T20:27:33+00:00",
+   "tickers": [
+    "PEN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -1156,6 +1293,21 @@
    ]
   },
   {
+   "id": "572e0195ae4a",
+   "headline": "Illumina (NASDAQ:ILMN) reports sales below analyst estimates in Q3 2026 earnings, stock drops 16%",
+   "summary": "Genomics company Illumina (NASDAQ:ILMN) missed Wall Street\u2019s revenue expectations in Q3 2026 as revenue rose 4.2% year on year to $1.13 billion. On the other hand, the company\u2019s full-year revenue guidance of $4.65 billion at the midpoint\u2026",
+   "url": "https://finnhub.io/api/news?id=9eb92573b8285cfac23cab9f5ba4f51effa5b005c69267ff7dd00f4e57d0ff3f",
+   "source": "Yahoo",
+   "published": "2026-10-29T20:15:46+00:00",
+   "tickers": [
+    "ILMN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "b8211ada6eb5",
    "headline": "Agilent to Announce Fourth-Quarter Fiscal Year 2026 Financial Results on Nov. 23",
    "summary": "SANTA CLARA, Calif., October 29, 2026--Agilent Technologies Inc. (NYSE: A) will release financial results for the fourth quarter of fiscal year 2026 after the stock market closes on Monday, Nov. 23. The company will host a conference call\u2026",
@@ -1216,6 +1368,21 @@
    ]
   },
   {
+   "id": "e2208ce7ac2c",
+   "headline": "Illumina: Q3 Earnings Snapshot",
+   "summary": "SAN DIEGO (AP) \u2014 SAN DIEGO (AP) \u2014 Illumina Inc. (ILMN) on Thursday reported third-quarter net income of $220 million.",
+   "url": "https://finnhub.io/api/news?id=7dd436b13be7f6d9a6378c9803cce96a010a35fe489c32063fd6024e24ce2056",
+   "source": "Yahoo",
+   "published": "2026-10-29T20:12:42+00:00",
+   "tickers": [
+    "ILMN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "05ef477f56a1",
    "headline": "United Therapeutics (UTHR) Cleared To Start Trial For New Pulmonary Hypertension Therapy",
    "summary": "United Therapeutics (NasdaqGS:UTHR) received FDA clearance to begin clinical trials of Treprostinil-Iloprost SMI for pulmonary arterial hypertension. The investigational therapy pairs two prostacyclin analogues and is designed as an\u2026",
@@ -1244,6 +1411,21 @@
    "tag": "Health AI",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "36e76b6e4114",
+   "headline": "Labcorp Holdings (LH) Expands HPV Testing While Teaming With Regulators On Drug Safety",
+   "summary": "Labcorp Holdings (NYSE: LH) partnered with Waters Corporation to deploy the BD Onclarity HPV Assay across its national laboratory network. The BD Onclarity HPV Assay rollout is designed to broaden access to advanced cervical cancer\u2026",
+   "url": "https://finnhub.io/api/news?id=62745cd778cc41c7efc71af1cf2852786149d46d9a7cf93352a6ad02a3961414",
+   "source": "Yahoo",
+   "published": "2026-10-29T20:09:28+00:00",
+   "tickers": [
+    "CRL"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -1368,6 +1550,21 @@
    ]
   },
   {
+   "id": "86a278a64112",
+   "headline": "Illumina Reports Financial Results for Third Quarter of Fiscal Year 2026",
+   "summary": "Illumina, Inc. (Nasdaq: ILMN) (\"Illumina\" or the \"company\") today announced its financial results for the third quarter of fiscal year 2026.",
+   "url": "https://finnhub.io/api/news?id=b40a4504a1086dc58f0101326258cb7e1e0ed5981ac4ec9ac460cecb9b5b5e16",
+   "source": "Yahoo",
+   "published": "2026-10-29T20:05:00+00:00",
+   "tickers": [
+    "ILMN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "66732ae720fd",
    "headline": "Gilead\u2019s HIV Franchise Powers Earnings Beat. The Rest Is a Work in Progress.",
    "summary": "Gilead Sciences posts higher-than-expected sales as blockbuster HIV drug Biktarvy continues to drive its top line.",
@@ -1410,6 +1607,21 @@
    "tag": "Earnings",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "3b3861a0cb0b",
+   "headline": "US Stock Market Movers: Top Gainers and Losers for the Session",
+   "summary": "US session market movers: NUBURU led gainers at 125.0% while GameStop's GME.W fell 48.11% among the biggest losers.",
+   "url": "https://finnhub.io/api/news?id=72e4f42a8753e6da63e28896bb002781dc868173b0e566b117686ccffaf1e00e",
+   "source": "ChartMill",
+   "published": "2026-10-29T20:00:32+00:00",
+   "tickers": [
+    "GKOS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -1919,6 +2131,36 @@
    ]
   },
   {
+   "id": "40c98c685af2",
+   "headline": "Exelixis, Inc. 2026 Q3 - Results - Earnings Call Presentation",
+   "summary": "2026-10-29. The following slide deck was published by Exelixis, Inc.",
+   "url": "https://finnhub.io/api/news?id=af8c560c948154acf16f0d03ebff86164b2406073cbf076b413f6b3e658caa93",
+   "source": "SeekingAlpha",
+   "published": "2026-10-29T17:33:05+00:00",
+   "tickers": [
+    "EXEL"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "2f84809870e1",
+   "headline": "Top US Stock Gainers and Losers for Oct. 29, 2026",
+   "summary": "US top gainers and losers for Oct. 29, 2026, ranked by percentage change, led by BURU's 117.0% gain and GME.W's 46.08% decline.",
+   "url": "https://finnhub.io/api/news?id=8afb4c8fb9ed46dbf27e877fcddb20baafcda0e79f6161fcade88e68881fb0bd",
+   "source": "ChartMill",
+   "published": "2026-10-29T17:30:43+00:00",
+   "tickers": [
+    "GKOS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "3b3f7471c89c",
    "headline": "Labor Department finalizes PBM transparency rule",
    "summary": "The Trump administration has finalized a regulation that will require pharmacy benefit managers to disclose fees and compensation to self-funded employers.",
@@ -2375,6 +2617,22 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "1d6fec66f4c5",
+   "headline": "Gap-Up and Gap-Down Stocks in the Oct. 29, 2026 Session",
+   "summary": "Oct. 29, 2026 gap movers include NCPL, PCLA, INLF, ADT, GKOS, PRCH, CROX, CLMB, TDOC and KFIIR on the upside, plus GME.W, OPTT, LVWR and XRX on the downside.",
+   "url": "https://finnhub.io/api/news?id=80faf0638faba7813df559983b3e7dc8a5c344f2be989ac056deef76088e3fd6",
+   "source": "ChartMill",
+   "published": "2026-10-29T15:30:37+00:00",
+   "tickers": [
+    "GKOS",
+    "TDOC"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
    ]
   },
   {
