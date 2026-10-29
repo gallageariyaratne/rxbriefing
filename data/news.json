@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-29T11:02:47.842403+00:00",
+ "updated": "2026-10-29T11:17:37.705493+00:00",
  "quotes": {
   "A": {
    "price": 181.48,
@@ -182,6 +182,10 @@
    "price": 116.87,
    "change_pct": 0.23
   },
+  "INSM": {
+   "price": 96.98,
+   "change_pct": 2.13
+  },
   "IONS": {
    "price": 44.9,
    "change_pct": 2.14
@@ -313,10 +317,6 @@
   "TECH": {
    "price": 72.69,
    "change_pct": 0.12
-  },
-  "TEM": {
-   "price": 76.61,
-   "change_pct": 6.18
   }
  },
  "tickers": {
@@ -933,6 +933,50 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "665ffc8f018d",
+   "headline": "Why researchers may have found the biological culprit behind Angelman syndrome",
+   "summary": "Scientists have known for a while that Angelman syndrome is caused by the loss of a specific gene, but they didn't understand how this gene loss leads to the failure of brain development in infants with the disease.",
+   "url": "https://www.fiercebiotech.com/research/researchers-identified-new-biological-pathway-tackle-angelman-syndrome",
+   "source": "Fierce Biotech",
+   "published": "2026-10-29T11:15:23.233948+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "c44768e9f33c",
+   "headline": "Veeva Summit Showcases AI and Data Innovations Advancing Agentic Commercial",
+   "summary": "AstraZeneca, Bristol Myers Squibb, Gr\u00fcnenthal, Novo, Roche, UCB and more to showcase new approaches for connected customer engagement, agentic MLR, and medical impact BARCELONA, Spain, Oct. 29, 2026 /PRNewswire/ -- Veeva Systems (NYSE:\u2026",
+   "url": "https://www.prnewswire.com/news-releases/veeva-summit-showcases-ai-and-data-innovations-advancing-agentic-commercial-302923449.html",
+   "source": "PR Newswire",
+   "published": "2026-10-29T11:03:00+00:00",
+   "tickers": [
+    "BMY",
+    "AZN",
+    "VEEV"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "healthit",
+    "pharma"
+   ]
+  },
+  {
+   "id": "9fdd99369f05",
+   "headline": "Insmed Reports Third-Quarter 2026 Financial Results and Provides Business Update",
+   "summary": "\u2014Total Company Revenues of $524.4 Million for the Third Quarter of 2026\u2014 \u2014BRINSUPRI\u00ae (brensocatib) Revenues of $400.1 Million for the Third Quarter of 2026, Reflecting 29% Growth Over the Second Quarter of 2026\u2014 \u2014ARIKAYCE\u00ae (amikacin\u2026",
+   "url": "https://www.prnewswire.com/news-releases/insmed-reports-third-quarter-2026-financial-results-and-provides-business-update-302922707.html",
+   "source": "PR Newswire",
+   "published": "2026-10-29T11:00:00+00:00",
+   "tickers": [
+    "INSM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
   {
    "id": "5975e1c3e2f5",
    "headline": "Lilly reports third-quarter 2026 financial results, raises full-year guidance and highlights regulatory progress across the portfolio",
@@ -47618,80 +47662,6 @@
     "UNH"
    ],
    "tag": "M&A",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "443b8c6805f0",
-   "headline": "Johnson & Johnson Stock Could Be a Defensive Play for the Years Ahead",
-   "summary": "Johnson & Johnson just posted a quarter that sent shares sliding despite a headline beat, yet analysts keep piling into the bull camp with price targets well above current levels. Here is what the numbers actually say about whether this\u2026",
-   "url": "https://finnhub.io/api/news?id=f5a6cd78c15e0515c9af271b1393a8bd926823a0d1d656706a815f9318c4b707",
-   "source": "Yahoo",
-   "published": "2026-10-19T11:15:21+00:00",
-   "tickers": [
-    "ABBV",
-    "JNJ",
-    "MRK"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "6b731dbac26d",
-   "headline": "FDA Grants Orphan Drug Designation To Novartis\u2019 Rapcabtagene Autoleucel For Treatment Of Idiopathic Inflammatory Myopathies",
-   "summary": "http://www.accessdata.fda.gov/scripts/opdlisting/oopd/detailedIndex.cfm?cfgridkey=1147426",
-   "url": "https://finnhub.io/api/news?id=beb81ed50f0a2056fa842f8d4e245127efa639b12f1a24bcb7f7a56aa4e002ac",
-   "source": "Benzinga",
-   "published": "2026-10-19T11:13:19+00:00",
-   "tickers": [
-    "NVS"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "ff5b62bad0a9",
-   "headline": "FDA clears Sequel\u2019s insulin delivery system in Type 2 diabetes",
-   "summary": "With Twiist already available in Type 1 diabetes, Sequel has made the automated insulin delivery system available for the Type 2 population.",
-   "url": "https://www.medtechdive.com/news/fda-clears-sequels-insulin-delivery-system-in-type-2-diabetes/833317/",
-   "source": "MedTech Dive",
-   "published": "2026-10-19T11:05:57+00:00",
-   "tickers": [],
-   "tag": "FDA",
-   "sectors": []
-  },
-  {
-   "id": "30ec9eadf7c6",
-   "headline": "JPMorgan Global Select Equity ETF (JGLO) Adds Meta and Broadcom on Thursday",
-   "summary": "The fund bought $19.0 million of Meta and $18.3 million of Broadcom while selling out of Micron and trimming Microsoft.",
-   "url": "https://finnhub.io/api/news?id=bc383485b060d11ef619414376ec63c417d51b318f519b9bee319873bb75f5b5",
-   "source": "Yahoo",
-   "published": "2026-10-19T11:04:33+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "28d667ed20e3",
-   "headline": "Investors fleeing AI find an unlikely new favorite",
-   "summary": "The S&P 500 has grown overreliant on a few mega-cap firms. A real rotation into other key sectors would benefit the average investor.",
-   "url": "https://finnhub.io/api/news?id=536040481cc5aae3d4e38b9bb10adc5ee2c6bd5dc020fd7f76709b4c8416f4d7",
-   "source": "Yahoo",
-   "published": "2026-10-19T11:03:00+00:00",
-   "tickers": [
-    "LLY",
-    "UNH"
-   ],
-   "tag": "Health AI",
    "sectors": [
     "payers"
    ]
