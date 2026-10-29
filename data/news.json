@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-29T22:47:50.626265+00:00",
+ "updated": "2026-10-29T23:03:08.231769+00:00",
  "quotes": {
   "A": {
    "price": 181.15,
@@ -258,6 +258,10 @@
    "price": 36.88,
    "change_pct": 2.59
   },
+  "OPCH": {
+   "price": 31.85,
+   "change_pct": 1.79
+  },
   "PEN": {
    "price": 321.97,
    "change_pct": 1.15
@@ -317,10 +321,6 @@
   "TMDX": {
    "price": 67.12,
    "change_pct": 0.33
-  },
-  "TMO": {
-   "price": 709.18,
-   "change_pct": 0.71
   }
  },
  "tickers": {
@@ -969,6 +969,21 @@
    ]
   },
   {
+   "id": "75b7f8792a2c",
+   "headline": "Stryker (NYSE:SYK) Falls on Q3 Revenue Shortfall Despite In-Line EPS and Reaffirmed Outlook",
+   "summary": "Stryker Q3 2026 sales miss at $6.52B, but adjusted EPS of $3.52 lands in line; shares drop as full-year guidance remains unchanged.",
+   "url": "https://finnhub.io/api/news?id=bacd0a3e007439c2afad099faf4b658380a85678d7a8ad85ba5e021a3e43dd31",
+   "source": "ChartMill",
+   "published": "2026-10-29T21:53:33+00:00",
+   "tickers": [
+    "SYK"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "9d29abea9eae",
    "headline": "PTC Therapeutics (NASDAQ:PTCT) Q3 Beat and Raised Guidance Meet Cautious After-Hours Reaction",
    "summary": "PTC Therapeutics (PTCT) Q3 2026 revenue and EPS beat estimates, raised guidance, yet shares slipped after hours.",
@@ -999,6 +1014,21 @@
    ]
   },
   {
+   "id": "083f6e58e8ef",
+   "headline": "Gilead Sciences (NASDAQ:GILD) Posts Q3 Beat but Shares Stay Flat as Raised Guidance Is Roughly In Line",
+   "summary": "Gilead Q3 2026 revenue and EPS beat estimates as HIV and Trodelvy sales grew; guidance was raised, but shares were flat after hours.",
+   "url": "https://finnhub.io/api/news?id=d04809ed3e3d96146afbc49bb2c87924bbc85ab5204e978b431b4049f4d62737",
+   "source": "ChartMill",
+   "published": "2026-10-29T21:30:07+00:00",
+   "tickers": [
+    "GILD"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "381c0c4c9540",
    "headline": "Exelixis (NASDAQ:EXEL) Q3 Earnings Beat, Revenue In Line as Guidance Holds",
    "summary": "Exelixis Q3 2026: EPS beat, revenue in line, guidance unchanged, lower tax rate, zanzalintinib pipeline advances; stock jumps after hours.",
@@ -1011,6 +1041,21 @@
    "tag": "Earnings",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "6b2ab1887a05",
+   "headline": "DaVita Inc. (NYSE:DVA) Q3 2026 EPS Beat Overshadowed by Nearly 10% After-Hours Drop",
+   "summary": "DaVita Q3 2026 EPS beat consensus, revenue was in line, but DVA fell nearly 10% after hours despite recent momentum, raising questions on margins.",
+   "url": "https://finnhub.io/api/news?id=1508dc24fad0d60c5b7bc5dd966a6c44812e1b439803f819ce921b16aef9bcd8",
+   "source": "ChartMill",
+   "published": "2026-10-29T21:19:48+00:00",
+   "tickers": [
+    "DVA"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -1055,6 +1100,51 @@
    ]
   },
   {
+   "id": "877130fd74fe",
+   "headline": "Merck (MRK) Turns Heads With Phase 3 Endometrial Cancer Data And FDA Review",
+   "summary": "Merck (NYSE:MRK) reported new Phase 3 data at ESMO 2026 showing KEYTRUDA monotherapy benefits in advanced endometrial cancer. Sacituzumab tirumotecan delivered positive outcomes in a separate late stage trial for recurrent endometrial\u2026",
+   "url": "https://finnhub.io/api/news?id=ecfa53ccafbdc731c029697e195391b3121b3f5b64a80e95cfc1031b7ff6f452",
+   "source": "Yahoo",
+   "published": "2026-10-29T21:11:05+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "79f91b71115d",
+   "headline": "Alnylam Pharmaceuticals, Inc. Q3 2026 Earnings Call Summary",
+   "summary": "Moby summary of Alnylam Pharmaceuticals, Inc.'s Q3 2026 earnings call",
+   "url": "https://finnhub.io/api/news?id=cd5e81bc477daaf08b633621174d851e49f9937eb2cf827474203f0203b93407",
+   "source": "Yahoo",
+   "published": "2026-10-29T21:09:17+00:00",
+   "tickers": [
+    "ALNY"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "015ba32ff555",
+   "headline": "DaVita\u2019s (NYSE:DVA) Q3 2026: beats on revenue but stock drops",
+   "summary": "Dialysis provider DaVita Inc. (NYSE:DVA) reported Q3 2026 results exceeding the market\u2019s revenue expectations, with revenue up 4.6% year on year to $3.58 billion. Its non-GAAP profit of $3.82 per share was 6.9% above analysts\u2019 consensus\u2026",
+   "url": "https://finnhub.io/api/news?id=bbe13f51d16bf202e3260ef08e73562290c99c9324178f92f17254b8d7972c47",
+   "source": "Yahoo",
+   "published": "2026-10-29T21:03:54+00:00",
+   "tickers": [
+    "DVA"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "075c47a112e6",
    "headline": "TransMedics to Present at Upcoming Investor Conferences",
    "summary": "ANDOVER, Mass., Oct. 29, 2026 /PRNewswire/ -- TransMedics Group, Inc. (\"TransMedics\") (Nasdaq: TMDX), a medical technology company that is transforming organ transplant therapy for patients with end-stage lung, heart, and liver failure,\u2026",
@@ -1078,6 +1168,51 @@
    "published": "2026-10-29T20:53:09+00:00",
    "tickers": [
     "RMD"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "ff4e7923f289",
+   "headline": "Stryker (NYSE:SYK) misses Q3 2026 sales expectations, stock drops",
+   "summary": "Medical technology company Stryker (NYSE:SYK) missed Wall Street\u2019s revenue expectations in Q3 2026, but revenue rose 7.6% year on year to $6.52 billion. Its non-GAAP profit of $3.52 per share was 0.8% below analysts\u2019 consensus estimates.",
+   "url": "https://finnhub.io/api/news?id=d5b6de2020ea011a5da341761c4b5b85800052a6be8462978ac0168d0cd60212",
+   "source": "Yahoo",
+   "published": "2026-10-29T20:46:21+00:00",
+   "tickers": [
+    "SYK"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "11d0b7c1065a",
+   "headline": "Hims & Hers Health, Inc. (HIMS) Gains As Market Dips: What You Should Know",
+   "summary": "In the latest trading session, Hims & Hers Health, Inc. (HIMS) closed at $29.69, marking a +1.24% move from the previous day.",
+   "url": "https://finnhub.io/api/news?id=3c4e3730f131d7764f0fc1187afef56a9b3bc2d3c8dfe0b818e8dacbe8b2d7c8",
+   "source": "Yahoo",
+   "published": "2026-10-29T20:45:04+00:00",
+   "tickers": [
+    "HIMS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
+   "id": "4a5d41995a5b",
+   "headline": "Stryker (SYK) Q3 Earnings and Revenues Lag Estimates",
+   "summary": "Stryker (SYK) delivered earnings and revenue surprises of -1.12% and -0.88%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=18d1ecb872a3e7b61cb38de1aa601892b5504b311ba860dd531557d50890a36e",
+   "source": "Yahoo",
+   "published": "2026-10-29T20:35:06+00:00",
+   "tickers": [
+    "SYK"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -1145,6 +1280,22 @@
    ]
   },
   {
+   "id": "491b697fe4f6",
+   "headline": "DaVita HealthCare (DVA) Beats Q3 Earnings and Revenue Estimates",
+   "summary": "DaVita HealthCare (DVA) delivered earnings and revenue surprises of +1.06% and +1.34%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=9e420c7f95f6ea56f10dc056751a2e1172589cc129e616cf1a1a32158092de08",
+   "source": "Yahoo",
+   "published": "2026-10-29T20:35:02+00:00",
+   "tickers": [
+    "DVA",
+    "OPCH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "bb983098c9ce",
    "headline": "Exelixis: Q3 Earnings Snapshot",
    "summary": "(EXEL) on Thursday reported third-quarter profit of $218.On a per-share basis, the Alameda, California-based company said it had net income of 85 cents.",
@@ -1209,7 +1360,8 @@
    "published": "2026-10-29T20:29:16+00:00",
    "tickers": [
     "CAH",
-    "COR"
+    "COR",
+    "HSIC"
    ],
    "tag": "M&A",
    "sectors": [
@@ -1240,11 +1392,27 @@
    "published": "2026-10-29T20:26:05+00:00",
    "tickers": [
     "GILD",
-    "LLY"
+    "LLY",
+    "MRK"
    ],
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "fb13745f10c5",
+   "headline": "Stryker: Q3 Earnings Snapshot",
+   "summary": "(SYK) on Thursday reported third-quarter profit of $753 million.The Portage, Michigan-based company said it had profit of $1.",
+   "url": "https://finnhub.io/api/news?id=7bf8c0aac9969c437981eddad1eaf0eed31a273d53c11e122eb438964b97e7c5",
+   "source": "Yahoo",
+   "published": "2026-10-29T20:24:41+00:00",
+   "tickers": [
+    "SYK"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -1398,6 +1566,21 @@
    ]
   },
   {
+   "id": "3fc40f72d850",
+   "headline": "Dow Jones Top Movers for Oct. 29, 2026: Merck and Nike Lead Gainers, Alphabet and Caterpillar Fall",
+   "summary": "Dow Jones components on Oct. 29, 2026: Merck, Nike and Home Depot led gainers, while Alphabet and Caterpillar had the largest declines. Merck rose 3.92%.",
+   "url": "https://finnhub.io/api/news?id=9b35994d3490224b539eaaffad00d2cd1c24a4fd0f6a20218b6f9d4d5cc28ec0",
+   "source": "ChartMill",
+   "published": "2026-10-29T20:11:06+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "bbe46fbf4283",
    "headline": "AI CRM Adoption Could Be A Key Catalyst For Veeva Systems Stock (VEEV)",
    "summary": "Veeva Systems recently hosted its Commercial Summit Europe in Copenhagen, where leaders from AstraZeneca, Bristol Myers Squibb, Roche and others shared how industry specific AI and Veeva\u2019s Commercial Cloud and Data Cloud tools support\u2026",
@@ -1421,7 +1604,8 @@
    "source": "Yahoo",
    "published": "2026-10-29T20:09:28+00:00",
    "tickers": [
-    "CRL"
+    "CRL",
+    "WAT"
    ],
    "tag": "Policy",
    "sectors": [
@@ -1437,6 +1621,21 @@
    "published": "2026-10-29T20:07:56+00:00",
    "tickers": [
     "JNJ"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "ae7d48d0d135",
+   "headline": "S&P 500 Top Movers: Oct. 29, 2026 Gainers and Losers",
+   "summary": "S&P 500 top movers for Oct. 29, 2026, led by CVNA and GEN among gainers and NOW and FTNT among losers.",
+   "url": "https://finnhub.io/api/news?id=2b48361af4324a229c8c5020e404c700fb7325d2fdbfb46cba45c4a44b5d7882",
+   "source": "ChartMill",
+   "published": "2026-10-29T20:06:10+00:00",
+   "tickers": [
+    "LLY"
    ],
    "tag": "News",
    "sectors": [
@@ -1565,6 +1764,36 @@
    ]
   },
   {
+   "id": "2d805ebd1e09",
+   "headline": "Stryker reports third quarter 2026 operating results",
+   "summary": "Portage, Michigan, Oct. 29, 2026 (GLOBE NEWSWIRE) -- Stryker (NYSE:SYK) reported operating results for the third quarter of 2026: Third Quarter Results Reported net sales increased 7.7% to $6.5 billionOrganic net sales increased\u2026",
+   "url": "https://finnhub.io/api/news?id=9af7ffdeae2bb3b4acb213fc287b09a2c6fc33368f4b1999aa2a562d4ce32313",
+   "source": "Yahoo",
+   "published": "2026-10-29T20:05:00+00:00",
+   "tickers": [
+    "SYK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "0257598d6538",
+   "headline": "DaVita Inc. 3rd Quarter 2026 Results",
+   "summary": "DaVita Inc. (NYSE: DVA) announced financial and operating results for the quarter ended September 30, 2026.",
+   "url": "https://finnhub.io/api/news?id=57913a0f6ce524d3ddb48ac56a83c2853a5e2c71259095d88ea745bf44c50336",
+   "source": "Yahoo",
+   "published": "2026-10-29T20:05:00+00:00",
+   "tickers": [
+    "DVA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "66732ae720fd",
    "headline": "Gilead\u2019s HIV Franchise Powers Earnings Beat. The Rest Is a Work in Progress.",
    "summary": "Gilead Sciences posts higher-than-expected sales as blockbuster HIV drug Biktarvy continues to drive its top line.",
@@ -1572,7 +1801,8 @@
    "source": "Yahoo",
    "published": "2026-10-29T20:03:00+00:00",
    "tickers": [
-    "GILD"
+    "GILD",
+    "MRK"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -1625,6 +1855,21 @@
    ]
   },
   {
+   "id": "beed09199cab",
+   "headline": "Merck (MRK) Q3 2026 Earnings Call Transcript",
+   "summary": "Generic headwinds ahead in 2027, but new launches and WINREVAIR growth signal momentum.",
+   "url": "https://finnhub.io/api/news?id=ab1a3d61543c2abff3a885645016cfade6599ca1791641c25d7e577493499acd",
+   "source": "Yahoo",
+   "published": "2026-10-29T19:58:55+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "16c7475fb567",
    "headline": "Top Analyst Reports for Lam Research, Lockheed Martin & Equinor",
    "summary": "Lam Research, Lockheed Martin and Equinor headline today's analyst reports, with AI-driven demand, defense contracts and energy growth shaping their investment outlooks.",
@@ -1662,7 +1907,8 @@
    "source": "Yahoo",
    "published": "2026-10-29T19:48:00+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "MRK"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -1910,6 +2156,21 @@
    ]
   },
   {
+   "id": "291a8aa7f654",
+   "headline": "Gilead Sciences, Inc. 2026 Q3 - Results - Earnings Call Presentation",
+   "summary": "2026-10-29. The following slide deck was published by Gilead Sciences, Inc.",
+   "url": "https://finnhub.io/api/news?id=86f4cc184773fb5a243acabe05743181b0ef69c0bb504c4932dc026de917b4fa",
+   "source": "SeekingAlpha",
+   "published": "2026-10-29T18:30:25+00:00",
+   "tickers": [
+    "GILD"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "9949ff9356eb",
    "headline": "Labor Department finalizes sweeping PBM disclosure rule",
    "summary": "Starting in 2027, the controversial drug middlemen will have to share a broad swath of fee and compensation data with their self-funded employer clients. Employers cheered the rule, while PBMs slammed it as government overreach.",
@@ -2101,6 +2362,21 @@
    "sectors": []
   },
   {
+   "id": "56db5d5645d8",
+   "headline": "Dow Jones Top Movers Today: 8 Gainers, 4 Losers in Split Session",
+   "summary": "Dow Jones top movers today: Merck rose 4.9% to lead eight gainers, while Alphabet fell 12.73% and Caterpillar dropped 8.23% among four decliners.",
+   "url": "https://finnhub.io/api/news?id=ed8305e68c381b4e0cf0a585dce9c85e92f2f2b76c42d54470324256ce3a4638",
+   "source": "ChartMill",
+   "published": "2026-10-29T17:41:18+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "14f43640087e",
    "headline": "How much can GLP-1s raise the bar for healthcare stocks?",
    "summary": "Laffer Tengler Investments CEO and CIO Nancy Tengler and her panel of experts weigh in on the GLP-1 weight-loss drug boom after Eli Lilly (LLY) delivered a strong third quarter earnings report. Today's panel includes 42 Macro founder and\u2026",
@@ -2131,6 +2407,21 @@
    ]
   },
   {
+   "id": "0762424f8edf",
+   "headline": "S&P 500 Top Movers: Today's US Session Gainers and Losers",
+   "summary": "S&P 500 top movers for today's US session: Carvana and Textron lead gainers, while ServiceNow and Fortinet post the steepest declines.",
+   "url": "https://finnhub.io/api/news?id=842423e0d03046a3ce490e2d5f41a923a1fd4425fcb7e2b83d7badb747f0155d",
+   "source": "ChartMill",
+   "published": "2026-10-29T17:36:23+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "40c98c685af2",
    "headline": "Exelixis, Inc. 2026 Q3 - Results - Earnings Call Presentation",
    "summary": "2026-10-29. The following slide deck was published by Exelixis, Inc.",
@@ -2153,6 +2444,7 @@
    "source": "ChartMill",
    "published": "2026-10-29T17:30:43+00:00",
    "tickers": [
+    "ALNY",
     "GKOS"
    ],
    "tag": "News",
@@ -2585,6 +2877,21 @@
     "MRK"
    ],
    "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "fce061cbc4a7",
+   "headline": "S&P 500 Gap Movers: October 29, 2026 Session",
+   "summary": "S&P 500 gap movers for October 29, 2026: CVNA, TXT and NCLH gapped higher, while NOW, FTNT and MRVL gapped lower in the session.",
+   "url": "https://finnhub.io/api/news?id=7643239288ad56abc521d80e421f57411a6628d78e387ae8dd0942d64d271675",
+   "source": "ChartMill",
+   "published": "2026-10-29T15:36:14+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "News",
    "sectors": [
     "pharma"
    ]
