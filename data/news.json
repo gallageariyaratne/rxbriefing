@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-29T11:47:41.071322+00:00",
+ "updated": "2026-10-29T12:02:59.056372+00:00",
  "quotes": {
   "A": {
    "price": 181.48,
@@ -54,10 +54,6 @@
    "price": 244.05,
    "change_pct": -3.43
   },
-  "BMRN": {
-   "price": 56,
-   "change_pct": 1.17
-  },
   "BMY": {
    "price": 60.57,
    "change_pct": -1.59
@@ -106,10 +102,6 @@
    "price": 234.07,
    "change_pct": 0.89
   },
-  "DXCM": {
-   "price": 78.62,
-   "change_pct": 0.08
-  },
   "ELV": {
    "price": 414.41,
    "change_pct": -1.68
@@ -125,10 +117,6 @@
   "GEHC": {
    "price": 75.82,
    "change_pct": 6.62
-  },
-  "GH": {
-   "price": 182.59,
-   "change_pct": 2.54
   },
   "GILD": {
    "price": 159.2,
@@ -317,6 +305,18 @@
   "TECH": {
    "price": 72.69,
    "change_pct": 0.12
+  },
+  "TEM": {
+   "price": 76.61,
+   "change_pct": 6.18
+  },
+  "TGTX": {
+   "price": 57.4,
+   "change_pct": 1.7
+  },
+  "THC": {
+   "price": 268.5,
+   "change_pct": 2.46
   }
  },
  "tickers": {
@@ -1179,6 +1179,21 @@
    ]
   },
   {
+   "id": "731c8e09e6ee",
+   "headline": "Edwards Lifesciences Continually Innovating Ahead Of Q3 Results, Cardio Portfolio Thrives",
+   "summary": "Edwards Lifesciences earns a buy on FDA approvals, cardiology niche strength, and solid cash flow. Read here for a detailed analysis of EW stock.",
+   "url": "https://finnhub.io/api/news?id=16afeee75b7579b84f50cc38fec2733b27ea9b109b2354256ab2fc293846fa9e",
+   "source": "SeekingAlpha",
+   "published": "2026-10-29T07:30:15+00:00",
+   "tickers": [
+    "EW"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "412cbd429dec",
    "headline": "What Centene (CNC)'s Guidance Raise Means For Shareholders",
    "summary": "Centene reported Q3 2026 revenue of US$50.65b with a GAAP net loss of US$71m, while adjusted EPS of US$0.58 exceeded market expectations and supported higher full year earnings and revenue guidance. The insurer paired stronger Medicare\u2026",
@@ -1201,6 +1216,7 @@
    "source": "SeekingAlpha",
    "published": "2026-10-29T07:05:00+00:00",
    "tickers": [
+    "MRK",
     "UNH"
    ],
    "tag": "News",
@@ -47256,353 +47272,6 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "fb84b88674f6",
-   "headline": "Here\u2019s How Much You Would Have Made Owning United Therapeutics Stock In The Last 5 Years",
-   "summary": "United Therapeutics (NASDAQ:UTHR) has outperformed the market over the past 5 years by 11.98% on an annualized basis producing an average annual return of 23.16%. Currently, United Therapeutics has a market",
-   "url": "https://finnhub.io/api/news?id=83f43f22a55ddcc1c224676f2196b2cad851ce8be52a02159825e42df7d0113d",
-   "source": "Benzinga",
-   "published": "2026-10-19T12:00:15+00:00",
-   "tickers": [
-    "UTHR"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "ce217e5b970a",
-   "headline": "Amgen Inc. (AMGN) is Attracting Investor Attention: Here is What You Should Know",
-   "summary": "Zacks.com users have recently been watching Amgen (AMGN) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
-   "url": "https://finnhub.io/api/news?id=795ea8d2ea00aecba4daf0b89a83a34013816f2d050c01814823b10699d27ea5",
-   "source": "Yahoo",
-   "published": "2026-10-19T12:00:03+00:00",
-   "tickers": [
-    "AMGN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "d948c079101f",
-   "headline": "Is Trending Stock Novo Nordisk A/S (NVO) a Buy Now?",
-   "summary": "Recently, Zacks.com users have been paying close attention to Novo Nordisk (NVO). This makes it worthwhile to examine what the stock has in store.",
-   "url": "https://finnhub.io/api/news?id=97f9b830b46acafe40b9c02f33408772a3ef826c05f832d91f9d3a7bc65e2b79",
-   "source": "Yahoo",
-   "published": "2026-10-19T12:00:03+00:00",
-   "tickers": [
-    "NVO"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "6449f63f1909",
-   "headline": "Johnson & Johnson announces new data showing TREMFYA\u00ae (guselkumab) is the only IL-23 to deliver durable fistula remission through 48 weeks in Crohn's disease with perianal fistula",
-   "summary": "TREMFYA maintained combined fistula remission through Week 48 across both maintenance dose regimens, including an increase from 28% at Week 24 to 35% at Week 48 in the 100 mg dose group These findings build on the Phase 3 clinical\u2026",
-   "url": "https://www.prnewswire.com/news-releases/johnson--johnson-announces-new-data-showing-tremfya-guselkumab-is-the-only-il-23-to-deliver-durable-fistula-remission-through-48-weeks-in-crohns-disease-with-perianal-fistula-302911458.html",
-   "source": "PR Newswire",
-   "published": "2026-10-19T12:00:00+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "909d41f0497a",
-   "headline": "AbbVie's Neuroscience Franchise: What to Expect Ahead of Q3 Results",
-   "summary": "ABBV's neuroscience franchise targets nearly 16% revenue growth in Q3, with established drugs and newer Parkinson's therapies driving expansion.",
-   "url": "https://finnhub.io/api/news?id=128f392596d085f3a087a2d4ba623a478b80c0f19e3bbeaab0568482cbae6a3e",
-   "source": "Yahoo",
-   "published": "2026-10-19T12:00:00+00:00",
-   "tickers": [
-    "ABBV",
-    "BIIB",
-    "JNJ"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "8a44df03ecbb",
-   "headline": "Zacks Market Edge Highlights: Palantir Technologies, BP, Palo Alto Networks, Visa and AbbVie",
-   "summary": "Palantir, BP, Palo Alto Networks, Visa and AbbVie are defying market gloom with strong share gains, earnings growth forecasts and distinct opportunities across key sectors.",
-   "url": "https://finnhub.io/api/news?id=c79cc3ea8070060c0380f55e878aa5ab00c43a86a90f2ba8fe4299a8dbdd4c02",
-   "source": "Yahoo",
-   "published": "2026-10-19T12:00:00+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "b7ddd16cb8d5",
-   "headline": "Johnson & Johnson announces new data showing TREMFYA\u00ae (guselkumab) is the only IL-23 to deliver durable fistula remission through 48 weeks in Crohn's disease with perianal fistula",
-   "summary": "Johnson & Johnson (NYSE: JNJ) today announced one-year results from the Phase 3 FUZION study showing TREMFYA\u00ae (guselkumab) maintained or improved fistula remission through 48 weeks in adults with Crohn's disease (CD).1 The findings build\u2026",
-   "url": "https://finnhub.io/api/news?id=19198ddac980d4a73b630c0fbfec6fdd055f7744e7ee1aa9d65a0ce9999473fe",
-   "source": "Yahoo",
-   "published": "2026-10-19T12:00:00+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "d0255cf6b673",
-   "headline": "SystImmune, Inc. to Present New Phase 3 Data on Iza-bren (izalontamab brengitecan) in EGFR-mutated NSCLC, HR+ Breast Cancer, and Phase 2 Data in Head and Neck Cancer at ESMO 2026",
-   "summary": "SystImmune, Inc. (SystImmune), a clinical-stage biotechnology company, today announced that four abstracts for iza-bren (izalontamab brengitecan), a potentially first-in-class EGFRxHER3 bispecific antibody drug conjugate (ADC), will be\u2026",
-   "url": "https://finnhub.io/api/news?id=7701c15443aa8c89021a426f1c87efca7e1421a50305db7608f32c89da01244d",
-   "source": "Yahoo",
-   "published": "2026-10-19T12:00:00+00:00",
-   "tickers": [
-    "BMY"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "ad792a35668a",
-   "headline": "The Zacks Analyst Blog Highlights Ross Stores, Roku, APA, Corcept Therapeutics and Halozyme Therapeutics",
-   "summary": "Ross Stores, Roku, APA, Corcept Therapeutics and Halozyme Therapeutics earn top Zacks rankings, backed by growth drivers ranging from streaming ads to drug demand.",
-   "url": "https://finnhub.io/api/news?id=c0584ac4dc400289cb4bbcf4f0604a50724f59376fabb3b013c5a60889b15c77",
-   "source": "Yahoo",
-   "published": "2026-10-19T12:00:00+00:00",
-   "tickers": [
-    "HALO"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "2288f3b80a18",
-   "headline": "Zacks.com featured highlights include Halozyme Therapeutics, GigaCloud Technology, Lindblad Expeditions, Permian Resources and Chevron",
-   "summary": "Halozyme Therapeutics, GigaCloud Technology, Lindblad Expeditions, Permian Resources and Chevron stand out for strong share gains and rising earnings estimates under a relative price strength strategy.",
-   "url": "https://finnhub.io/api/news?id=f256e1983ff1297762a6498ed90ddcdc72a17507d2b117fd865dd218b832f359",
-   "source": "Yahoo",
-   "published": "2026-10-19T12:00:00+00:00",
-   "tickers": [
-    "HALO"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "f9b45c754fd0",
-   "headline": "Resmed Launches AirTouch\u2122 F40 Full Face Fabric CPAP Mask in the U.S.",
-   "summary": "Latest addition to Resmed\u2019s growing fabric mask portfolio combines a soft, breathable fabric cushion with a minimalist design for greater comfort and choiceSAN DIEGO, Oct. 19, 2026 (GLOBE NEWSWIRE) -- Resmed (NYSE: RMD, ASX: RMD), the\u2026",
-   "url": "https://finnhub.io/api/news?id=fe5af8fa97e03af915f73bf4afb6fc2542eac83b219c07ba8ace7205e94716d9",
-   "source": "Yahoo",
-   "published": "2026-10-19T12:00:00+00:00",
-   "tickers": [
-    "RMD"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "deeff8597c4c",
-   "headline": "Vaxart Appoints Retired Vice Admiral Raquel C. Bono, M.D., to Board of Directors",
-   "summary": "Board-certified surgeon and former Director of the Defense Health Agency brings extensive leadership, public health and governance experience SOUTH SAN FRANCISCO, Calif., Oct. 19, 2026 (GLOBE NEWSWIRE) -- Vaxart, Inc. (OTCQB: VXRT) (the\u2026",
-   "url": "https://finnhub.io/api/news?id=4c73cb1c0edda874f66f06d576c6ab458c988147c1b77659766cc73816a3c153",
-   "source": "Yahoo",
-   "published": "2026-10-19T12:00:00+00:00",
-   "tickers": [
-    "HUM"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "c92d95dc0b65",
-   "headline": "Gilead to Present New Data Across HIV and Emerging Antiviral Research at IDWeek 2026",
-   "summary": "FOSTER CITY, Calif., October 19, 2026--Gilead Sciences, Inc. (Nasdaq: GILD) will present new findings from its HIV and antiviral research and development programs at IDWeek 2026, taking place October 21-24 in Washington, D.C. The 28\u2026",
-   "url": "https://finnhub.io/api/news?id=84f21762567917b52b72bb1012b35cfcfd2f8ebcfba6e4e7905af4963e891bfa",
-   "source": "Yahoo",
-   "published": "2026-10-19T12:00:00+00:00",
-   "tickers": [
-    "GILD"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "36bc0aa743cd",
-   "headline": "argenx to Present Phase 3 ALKIVIA Results in Autoimmune Myositis as a Late-Breaking Oral Presentation at ACR Convergence 2026",
-   "summary": "Results from the global Phase 3 ALKIVIA study, the first registrational study investigating an FcRn blocker in autoimmune myositis, show efgartigimod provides clinically meaningful improvements in IMNM and DMPatient improvements observed\u2026",
-   "url": "https://finnhub.io/api/news?id=43be27be6355c260d75f548ddbaf1ae2cb6e3f4605ded2822a583042470130ef",
-   "source": "Yahoo",
-   "published": "2026-10-19T12:00:00+00:00",
-   "tickers": [
-    "ARGX"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "4726757af897",
-   "headline": "Altimmune to Present New Data on Pemvidutide in Serious Liver Diseases at AASLD The Liver Meeting\u00ae 2026",
-   "summary": "Clinical highlights from the IMPACT Phase 2b study of pemvidutide in MASH demonstrated improvements in liver fibrosis and inflammation with generally favorable gastrointestinal tolerability Oral presentation to feature new pre-clinical\u2026",
-   "url": "https://finnhub.io/api/news?id=dc029d04195adb5f785b32991dcd7058108a86dd4638861dec46154c69c52bbc",
-   "source": "Yahoo",
-   "published": "2026-10-19T12:00:00+00:00",
-   "tickers": [
-    "ALT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "967538b5c452",
-   "headline": "Medera's Novoheart Technology Powers Advanced Human Cardiac Disease Modeling at Singapore's New CIPHER Research Centre",
-   "summary": "National Heart Centre Singapore's new research centre integrates Novoheart's proprietary Heart-in-a-Jar technology with patient-derived cardiac disease models to advance cardiovascular research and drug discovery Collaboration expands\u2026",
-   "url": "https://finnhub.io/api/news?id=930cd84f87c2dae050cf9129c2cae57094404ebd0827b449d1b309a090b7252d",
-   "source": "Yahoo",
-   "published": "2026-10-19T12:00:00+00:00",
-   "tickers": [
-    "AZN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "6125e44e9e22",
-   "headline": "The Zacks Analyst Blog Highlights AstraZeneca, Roche, Puma Biotechnology and Olema Oncology",
-   "summary": "AstraZeneca, Roche, Puma Biotechnology and Olema Oncology offer breast cancer treatment opportunities, with drug sales growth, pipeline advances and clinical milestones shaping prospects.",
-   "url": "https://finnhub.io/api/news?id=eaadda3eb7ec447b6547a41ca750760cc7c23122dc1cbd5d3008a05d1e8e5054",
-   "source": "Yahoo",
-   "published": "2026-10-19T12:00:00+00:00",
-   "tickers": [
-    "AZN"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "270e5625abf1",
-   "headline": "Akeso Announces Opening of Global Phase II Study of Ivonescimab in First-Line Clear Cell Renal Cell Carcinoma, Including Combination with Cadonilimab",
-   "summary": "HONG KONG, Oct. 19, 2026 /PRNewswire/ -- Akeso, Inc. (9926.HK) (\"Akeso\" or the \"Company\") and its partner Summit Therapeutics Inc. jointly announced an international multicenter Phase II clinical study (SMT112-216 / AK112-216 /\u2026",
-   "url": "https://www.prnewswire.com/news-releases/akeso-announces-opening-of-global-phase-ii-study-of-ivonescimab-in-first-line-clear-cell-renal-cell-carcinoma-including-combination-with-cadonilimab-302912557.html",
-   "source": "PR Newswire",
-   "published": "2026-10-19T11:59:00+00:00",
-   "tickers": [
-    "SMMT"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "7694b2e97f11",
-   "headline": "Akeso Announces Opening of Global Phase II Study of Ivonescimab in First-Line Clear Cell Renal Cell Carcinoma, Including Combination with Cadonilimab",
-   "summary": "Akeso, Inc. (9926.HK) (\"Akeso\" or the \"Company\") and its partner Summit Therapeutics Inc. jointly announced an international multicenter Phase II clinical study (SMT112-216 / AK112-216 / NCT07877194).",
-   "url": "https://finnhub.io/api/news?id=231d3e50693da5e053545ecf56f37f1cea85e3d57342f0a4e3b3dbdf8dcc5589",
-   "source": "Yahoo",
-   "published": "2026-10-19T11:59:00+00:00",
-   "tickers": [
-    "SMMT"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "524bfcc9e24c",
-   "headline": "Current Screening Thresholds May Miss Half of Patients with Primary Aldosterone, a Leading Cause of Severe High Blood Pressure, Finds Study in Hypertension",
-   "summary": "A new study finds that current medical guidelines may inadvertently lead to under-diagnosis of primary aldosteronism (PA), a hormonal disorder associated with hypertension that can significantly raise a person's risk of heart attack,\u2026",
-   "url": "https://finnhub.io/api/news?id=8bbbf4f02628f2c05fd1bda68a51035b7855395d2f9f5bfe385afc5565936597",
-   "source": "Yahoo",
-   "published": "2026-10-19T11:57:00+00:00",
-   "tickers": [
-    "DGX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "2680a7529e41",
-   "headline": "Britain govt held talks With UBS over potential London move \u2013 report",
-   "summary": "The conversations covered a possible transfer of UBS\u2019s legal headquarters and listing to the UK if the lender decided to redomicile.",
-   "url": "https://finnhub.io/api/news?id=a953bf217cb627a7d4f163d15fe9574e44010ba694935388f52633eca8b0f59a",
-   "source": "Yahoo",
-   "published": "2026-10-19T11:56:39+00:00",
-   "tickers": [
-    "AZN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "f6e2c2f8b479",
-   "headline": "Novo Nordisk A/S - share repurchase programme",
-   "summary": "Bagsv\u00e6rd, Denmark, 19 October 2026 \u2013 On 6 May 2026, Novo Nordisk initiated a share repurchase programme in accordance with Article 5 of Regulation No 596/2014 of the European Parliament and Council of 16 April 2014 (MAR) and the\u2026",
-   "url": "https://finnhub.io/api/news?id=92374d3aee5be5963a0c2f05e163824d29d7af199586b8e4796d472a24044bde",
-   "source": "Yahoo",
-   "published": "2026-10-19T11:53:00+00:00",
-   "tickers": [
-    "NVO"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "775311847929",
-   "headline": "Lilly\u2019s Omvoh leads to 50% clinical remission rate in paediatric UC",
-   "summary": "Lilly said it will supply data to the FDA to support the label expansion of Omvoh in paediatric UC.",
-   "url": "https://finnhub.io/api/news?id=cf90cec58fa478018be9eea9599ded22ae357fc98c115c6a2e5867066d4e02a2",
-   "source": "Yahoo",
-   "published": "2026-10-19T11:50:47+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
