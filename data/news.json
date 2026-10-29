@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-29T00:17:45.986943+00:00",
+ "updated": "2026-10-29T00:33:01.254871+00:00",
  "quotes": {
   "A": {
    "price": 181.48,
@@ -234,10 +234,6 @@
    "price": 145.53,
    "change_pct": -0.32
   },
-  "NTRA": {
-   "price": 424.27,
-   "change_pct": 3.27
-  },
   "NVO": {
    "price": 38.29,
    "change_pct": -0.98
@@ -316,6 +312,10 @@
   },
   "UNH": {
    "price": 407.1,
+   "change_pct": -0.8
+  },
+  "UTHR": {
+   "price": 586.48,
    "change_pct": -0.8
   }
  },
@@ -934,6 +934,21 @@
  },
  "stories": [
   {
+   "id": "cdd61964c6b8",
+   "headline": "3 Reasons to avoid A and 1 stock to buy instead",
+   "summary": "What a fantastic six months it\u2019s been for Agilent. Shares of the company have skyrocketed 54.6%, hitting $177.58. This was partly due to its solid quarterly results, and the run-up might have investors contemplating their next move.",
+   "url": "https://finnhub.io/api/news?id=83249e2dde0d6b478950f824a0b9cc10967a3f839e3a1d72beb1f5403eef3742",
+   "source": "Yahoo",
+   "published": "2026-10-28T22:54:34+00:00",
+   "tickers": [
+    "A"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "9737e2d3b41c",
    "headline": "After-Hours Movers: LABT, NCPL Top Gainers; Fortinet, AUROW Top Losers",
    "summary": "After-hours movers: LABT gained 45.26% and NCPL rose 36.36%, while Fortinet fell 24.45% and AUROW dropped 22.99% after the latest U.S. session.",
@@ -1380,6 +1395,21 @@
     "LLY"
    ],
    "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "d97dd624365c",
+   "headline": "Boston Scientific Corporation 2026 Q3 - Results - Earnings Call Presentation",
+   "summary": "2026-10-28. The following slide deck was published by Boston Scientific Corporation in conjunction with their 2026 Q3 earnings call.",
+   "url": "https://finnhub.io/api/news?id=97386a4ba2671d52fa0759b60dde663a8e2387bfc6b4678e043e1ad2df6d2a6c",
+   "source": "SeekingAlpha",
+   "published": "2026-10-28T19:39:20+00:00",
+   "tickers": [
+    "BSX"
+   ],
+   "tag": "Earnings",
    "sectors": [
     "medtech"
    ]
@@ -47210,37 +47240,6 @@
    "tag": "News",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "da1c03909a16",
-   "headline": "Recursion Pharmaceuticals (RXRX) Stock Sees Modest Fair Value Lift After Analyst Target Revisions",
-   "summary": "Recursion Pharmaceuticals is back in focus after analysts adjusted their price target to US$5.90, following earlier updates at US$5.50 and US$5.30. Recent research frames this as a fine tuning of expectations around execution and\u2026",
-   "url": "https://finnhub.io/api/news?id=c63a631f36b2b1fd91187aa07ded769598c5c9774b4d7edf4409a9755c2abfdc",
-   "source": "Yahoo",
-   "published": "2026-10-19T00:20:51+00:00",
-   "tickers": [
-    "RXRX"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "healthai"
-   ]
-  },
-  {
-   "id": "240ea68a3926",
-   "headline": "Roivant Sciences (ROIV) Stock Looks Fully Priced After A 393% Run",
-   "summary": "Roivant Sciences has delivered a very strong multi year share price run, which now puts a spotlight on whether the current market value lines up with what its balance sheet actually supports. With that backdrop, the live question for you\u2026",
-   "url": "https://finnhub.io/api/news?id=72a381499b808a00216df9a7b830934afd347818d96ba9c1ce2e8eaadba820a9",
-   "source": "Yahoo",
-   "published": "2026-10-19T00:20:12+00:00",
-   "tickers": [
-    "MRNA",
-    "ROIV"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
    ]
   }
  ]
