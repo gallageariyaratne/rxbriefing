@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-29T20:47:36.828048+00:00",
+ "updated": "2026-10-29T21:03:26.800443+00:00",
  "quotes": {
   "A": {
    "price": 181.15,
@@ -1054,6 +1054,21 @@
    ]
   },
   {
+   "id": "e8edb5a0b7f3",
+   "headline": "Nasdaq Poised to Plunge as AI Stock Wipeout Follows Hot Inflation Data",
+   "summary": "Third quarter GDP beat at 3.4% while inflation stuck at 3.6%, and traders now see an 80% chance of a December Fed hike. Eric Bleeker covers the market's risk-off turn and the morning's biggest earnings movers, from Alphabet and ServiceNow\u2026",
+   "url": "https://finnhub.io/api/news?id=3fc996e290bb97ea79e8c6c2ea3efae37672276cf57d96946cc7bf694495d622",
+   "source": "Yahoo",
+   "published": "2026-10-29T19:51:04+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "eb5b6c404023",
    "headline": "Lilly breaks down Medicare Bridge boon as GLP-1 sales drive another guidance lift",
    "summary": "As Lilly\u2019s tirzepatide franchise continues to deliver strong sales growth, analysts are increasingly turning their attention to new catalysts in the GLP-1 market, including the launch of oral obesity medicines and the rollout of a\u2026",
@@ -1064,6 +1079,21 @@
     "LLY"
    ],
    "tag": "GLP-1",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "8a6e63a35033",
+   "headline": "Eli Lilly Sells 53% More at Lower Prices: Rapid Earnings Reaction",
+   "summary": "Eli Lilly\u2019s realized prices fell 15%, but a 53% jump in volume pushed revenue up 39% and lifted full-year guidance by $5.5 billion. Here\u2019s why the math works, and what could break it.",
+   "url": "https://finnhub.io/api/news?id=a3513f1fb67025acc37b55106b8392e187ce1dc72c857d7e6d1b43eeb68a1a1e",
+   "source": "Yahoo",
+   "published": "2026-10-29T19:42:20+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "Earnings",
    "sectors": [
     "pharma"
    ]
@@ -1107,6 +1137,36 @@
    "tag": "FDA",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "121878e45757",
+   "headline": "Teladoc Soars 11% on Q3 Beat and Raised Outlook as \u201cInsurance Revenue Exceeded Our Expectations\u201d",
+   "summary": "Key TakeawaysTeladoc Health rose 11% after its third-quarter adjusted EBITDA beat guidance, rising 14% to $79. 4 million.",
+   "url": "https://finnhub.io/api/news?id=f7fcee4c425819ad4f5779f6cffb47ec4ba0fe18815ad53e5aaaf8db83d504c3",
+   "source": "Yahoo",
+   "published": "2026-10-29T19:00:59+00:00",
+   "tickers": [
+    "HIMS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
+   "id": "8ed175451865",
+   "headline": "Merck Lifts Outlook on a Lower Tax Rate: Rapid Earnings Reaction",
+   "summary": "Merck\u2019s new drugs are growing fast enough to cover generic losses, but part of this quarter\u2019s sales gain won\u2019t last. Here\u2019s what to watch.",
+   "url": "https://finnhub.io/api/news?id=f085758803d95fa7411b1fa21089cb96adac4ce4f7753eef23493467e97781db",
+   "source": "Yahoo",
+   "published": "2026-10-29T18:59:59+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1177,6 +1237,8 @@
    "published": "2026-10-29T18:42:48+00:00",
    "tickers": [
     "JNJ",
+    "LLY",
+    "MRK",
     "PFE"
    ],
    "tag": "News",
@@ -1223,7 +1285,8 @@
    "source": "Yahoo",
    "published": "2026-10-29T18:37:57+00:00",
    "tickers": [
-    "DHR"
+    "DHR",
+    "TMO"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -1240,6 +1303,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "7bac978268c4",
+   "headline": "ALNY Stock Hits Fresh 52-Week Low On Medicare Access Worries And Pipeline Delays",
+   "summary": "Alnylam management said it now expects full-year TTR product sales to land at the low end of its $4.2 billion to $4.5 billion range.",
+   "url": "https://finnhub.io/api/news?id=fd9f704309c0f6dcd6548f0913c01f681dc84bc1c0871ebea1e34ad274bf7f2a",
+   "source": "Yahoo",
+   "published": "2026-10-29T18:26:26+00:00",
+   "tickers": [
+    "ALNY"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
   },
   {
    "id": "ef17373869c7",
@@ -1324,6 +1402,7 @@
    "source": "Yahoo",
    "published": "2026-10-29T18:12:00+00:00",
    "tickers": [
+    "ELV",
     "HCA",
     "THC",
     "UNH"
@@ -1341,11 +1420,27 @@
    "source": "Yahoo",
    "published": "2026-10-29T18:11:00+00:00",
    "tickers": [
-    "INCY"
+    "INCY",
+    "LLY"
    ],
    "tag": "M&A",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "ea48646fd4a7",
+   "headline": "Eli Lilly CFO On Acquisition Spree: 'We Are Taking Bets' On Future Revenue",
+   "summary": "Eli Lilly blew past sales expectations Thursday and hiked its outlook on the back of strong performance from Mounjaro and Zepbound.",
+   "url": "https://finnhub.io/api/news?id=6701d44145dc910fe177562e96897315729dab5f401c7fa0f30b37347746e0ea",
+   "source": "Yahoo",
+   "published": "2026-10-29T18:04:35+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1429,6 +1524,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "1841ba82aec9",
+   "headline": "Lucie and CHOICE Broaden the Growth Runway for Oscar Health",
+   "summary": "Oscar Health is broadening its growth beyond ACA insurance through Lucie and CHOICE, adding fee-based opportunities as its shares rise 116% year to date.",
+   "url": "https://finnhub.io/api/news?id=10806ae563066cf9d39aa3976e01bc71329bd502cda5f5a8f7381cd3d7b5ee3f",
+   "source": "Yahoo",
+   "published": "2026-10-29T17:25:00+00:00",
+   "tickers": [
+    "CNC"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
   },
   {
    "id": "477e1b7cde6f",
@@ -1642,6 +1752,21 @@
    "tag": "Health AI",
    "sectors": [
     "healthit"
+   ]
+  },
+  {
+   "id": "f30ef64b8f54",
+   "headline": "Viking Therapeutics: Q3 Update - Why You Can't Discount This GLP-1 Player (Yet)",
+   "summary": "Viking Therapeutics, Inc. is advancing VK2735, a dual GLP-1/GIP agonist, targeting the obesity and diabetes market. I rate VKTX stock as Hold. Read my full update now.",
+   "url": "https://finnhub.io/api/news?id=7bd614fe8371da40056630e2a9671b07a58c834c25804e5f2a60a014af42bbc4",
+   "source": "SeekingAlpha",
+   "published": "2026-10-29T16:13:46+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -51153,66 +51278,6 @@
    "tag": "News",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "5ceb57a73f22",
-   "headline": "Billionaires and Trump Were Buying This Healthcare Stock",
-   "summary": "Abbott Laboratories (NYSE:ABT) is one of the top 10 picks in President Trump\u2019s latest stock portfolio. Trump bought $1 million to $5 million of Abbott in August. He wasn\u2019t the only notable name loading up on the stock. Billionaires Added\u2026",
-   "url": "https://finnhub.io/api/news?id=1ab32b43bf239f62cf2d53f072ed0e4250e145961a5d206ab60a8532b1e83eb1",
-   "source": "Yahoo",
-   "published": "2026-10-19T20:59:27+00:00",
-   "tickers": [
-    "ABT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "1d1b70f4e17f",
-   "headline": "Veeva Systems (VEEV) Rises Higher Than Market: Key Facts",
-   "summary": "In the most recent trading session, Veeva Systems (VEEV) closed at $316.8, indicating a +2.08% shift from the previous trading day.",
-   "url": "https://finnhub.io/api/news?id=48e74186695031c097c3fd92e8bd9ea6b94f1307c313675bf7295a15c766b632",
-   "source": "Yahoo",
-   "published": "2026-10-19T20:50:03+00:00",
-   "tickers": [
-    "VEEV"
-   ],
-   "tag": "News",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "c1169e4c391a",
-   "headline": "Merck (MRK) Stock Dips While Market Gains: Key Facts",
-   "summary": "In the closing of the recent trading day, Merck (MRK) stood at $143.63, denoting a -1.59% move from the preceding trading day.",
-   "url": "https://finnhub.io/api/news?id=4d92c5981d6e830826ced9400f9715f3732d87914c4c0e6342c78cb67205501a",
-   "source": "Yahoo",
-   "published": "2026-10-19T20:50:02+00:00",
-   "tickers": [
-    "MRK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "611b15cfc5d1",
-   "headline": "Medtronic (MDT) Stock Dips While Market Gains: Key Facts",
-   "summary": "In the latest trading session, Medtronic (MDT) closed at $92.77, marking a -2.09% move from the previous day.",
-   "url": "https://finnhub.io/api/news?id=6038014231ee4763ffd6a9685d698681a0a75fa14ed74cdd4654a866ed3096f0",
-   "source": "Yahoo",
-   "published": "2026-10-19T20:50:02+00:00",
-   "tickers": [
-    "MDT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
