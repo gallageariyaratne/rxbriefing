@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-29T21:03:26.800443+00:00",
+ "updated": "2026-10-29T21:17:41.434423+00:00",
  "quotes": {
   "A": {
    "price": 181.15,
@@ -262,10 +262,6 @@
    "price": 36.88,
    "change_pct": 2.59
   },
-  "OSCR": {
-   "price": 30.79,
-   "change_pct": 1.02
-  },
   "PACB": {
    "price": 2.9,
    "change_pct": 2.47
@@ -321,6 +317,10 @@
   "TECH": {
    "price": 72.71,
    "change_pct": 0.03
+  },
+  "TEM": {
+   "price": 77.84,
+   "change_pct": 1.61
   }
  },
  "tickers": {
@@ -938,6 +938,32 @@
  },
  "stories": [
   {
+   "id": "33e70b996f11",
+   "headline": "BCBSMA, Medzown team up to match members with clinical trials",
+   "summary": "Blue Cross Blue Shield of Massachusetts is teaming up with precision medicine company Medzown to make it easier for members with complex conditions participate in clinical trials.",
+   "url": "https://www.fiercehealthcare.com/payers/bcbsma-medzown-team-match-members-clinical-trials",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-29T21:15:24.470820+00:00",
+   "tickers": [],
+   "tag": "Clinical",
+   "sectors": []
+  },
+  {
+   "id": "075c47a112e6",
+   "headline": "TransMedics to Present at Upcoming Investor Conferences",
+   "summary": "ANDOVER, Mass., Oct. 29, 2026 /PRNewswire/ -- TransMedics Group, Inc. (\"TransMedics\") (Nasdaq: TMDX), a medical technology company that is transforming organ transplant therapy for patients with end-stage lung, heart, and liver failure,\u2026",
+   "url": "https://www.prnewswire.com/news-releases/transmedics-to-present-at-upcoming-investor-conferences-302924287.html",
+   "source": "PR Newswire",
+   "published": "2026-10-29T21:01:00+00:00",
+   "tickers": [
+    "TMDX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "abd7b8e0e318",
    "headline": "Tenet Healthcare sails past Q3 earnings estimates, boosts 2026 guidance",
    "summary": "Executives said the for-profit's outperformance stemmed from fundamentals like increased hospital volumes, checked expenses and increased ambulatory acuity.",
@@ -1533,7 +1559,8 @@
    "source": "Yahoo",
    "published": "2026-10-29T17:25:00+00:00",
    "tickers": [
-    "CNC"
+    "CNC",
+    "MOH"
    ],
    "tag": "News",
    "sectors": [
@@ -1762,7 +1789,8 @@
    "source": "SeekingAlpha",
    "published": "2026-10-29T16:13:46+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -51215,67 +51243,6 @@
     "CNC"
    ],
    "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "027c9fa1128a",
-   "headline": "Teladoc (TDOC) Outperforms Broader Market: What You Need to Know",
-   "summary": "Teladoc (TDOC) closed at $5.73 in the latest trading session, marking a +1.06% move from the prior day.",
-   "url": "https://finnhub.io/api/news?id=1b6bdcaf1ba8bf3f61ecb93da5120c8bcb3a4fc561d052a300e1c88b83ed6dcb",
-   "source": "Yahoo",
-   "published": "2026-10-19T21:15:04+00:00",
-   "tickers": [
-    "TDOC"
-   ],
-   "tag": "News",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "bf9348cfda5c",
-   "headline": "Better Dividend Stock for Retirees: Bristol Myers Squibb vs. CVS Health",
-   "summary": "Key TakeawaysBristol Myers Squibb yields 4. 3% and CVS Health yields 3.",
-   "url": "https://finnhub.io/api/news?id=b6d3477caef86eb97f74d8e69b68a7968e7e2e7818298f50207f2cce9f70dda9",
-   "source": "Yahoo",
-   "published": "2026-10-19T21:12:01+00:00",
-   "tickers": [
-    "BMY",
-    "CVS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "96474e2b3f38",
-   "headline": "Bristol Myers Squibb (BMY) Heads To ESMO 2026 With New Oncology Data",
-   "summary": "Bristol-Myers Squibb (NYSE:BMY) plans to present late-breaking oncology data at ESMO 2026, including new results for pumitamig. The company will also share milestone findings for izalontamab brengitecan (iza bren) that focus on\u2026",
-   "url": "https://finnhub.io/api/news?id=f83bcbb6accb0077c656af33982a29b8e416ae1cd341cf2170e2e901c1ffe701",
-   "source": "Yahoo",
-   "published": "2026-10-19T21:08:42+00:00",
-   "tickers": [
-    "BMY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "dfe38ee59dea",
-   "headline": "S&P 500 After-Hours Losers on Oct. 19: DGX, COP, STLD, WRB",
-   "summary": "S&P 500 after-hours losers on Oct. 19 included DGX down 12.78%, COP down 12.73%, STLD down 6.64% and WRB down 2.71%.",
-   "url": "https://finnhub.io/api/news?id=170b14657112d832ad6ac41f7e9d1733a96332019d84943a745a00d36ec1db6c",
-   "source": "ChartMill",
-   "published": "2026-10-19T21:05:48+00:00",
-   "tickers": [
-    "DGX"
-   ],
-   "tag": "News",
    "sectors": [
     "payers"
    ]
