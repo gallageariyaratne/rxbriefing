@@ -1,7 +1,15 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-29T12:32:53.308102+00:00",
+ "updated": "2026-10-29T12:47:41.591434+00:00",
  "quotes": {
+  "A": {
+   "price": 181.48,
+   "change_pct": 2.25
+  },
+  "ABBV": {
+   "price": 285.99,
+   "change_pct": -0.14
+  },
   "ABSI": {
    "price": 11.88,
    "change_pct": 12.39
@@ -58,6 +66,10 @@
    "price": 42.43,
    "change_pct": -5.84
   },
+  "CAH": {
+   "price": 244.76,
+   "change_pct": -0.69
+  },
   "CI": {
    "price": 295,
    "change_pct": -1.1
@@ -93,6 +105,10 @@
   "DHR": {
    "price": 234.07,
    "change_pct": 0.89
+  },
+  "DOCS": {
+   "price": 34.25,
+   "change_pct": 3.04
   },
   "ELV": {
    "price": 414.41,
@@ -301,14 +317,6 @@
   "TGTX": {
    "price": 57.4,
    "change_pct": 1.7
-  },
-  "THC": {
-   "price": 268.5,
-   "change_pct": 2.46
-  },
-  "TMO": {
-   "price": 704.15,
-   "change_pct": 1.61
   }
  },
  "tickers": {
@@ -1049,6 +1057,36 @@
    ]
   },
   {
+   "id": "8241f1a52dba",
+   "headline": "Dow Jones Futures Fall; Microsoft Rises, But Google, ServiceNow, Fortinet Dive On Earnings",
+   "summary": "After the stock market rose for a third day, Microsoft rose late on strong earnings. But Google, ServiceNow and Fortinet dived.",
+   "url": "https://finnhub.io/api/news?id=fda5c06099cf8bfe09156f2324fc43bc15ee8170c17704cbe55f35cd0a352f08",
+   "source": "Yahoo",
+   "published": "2026-10-29T11:54:44+00:00",
+   "tickers": [
+    "GKOS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "00b569454d39",
+   "headline": "Caterpillar Revenue Miss, Outlook Dig Hole For Dow Jones Industrial Average",
+   "summary": "Caterpillar expects \"moderate\" revenue growth in Q4, not what analysts expected.",
+   "url": "https://finnhub.io/api/news?id=920719e0a27352709d18dcc17dc5b95dd769a72e8d1a7c76468d7e3608687fdb",
+   "source": "Yahoo",
+   "published": "2026-10-29T11:53:18+00:00",
+   "tickers": [
+    "AMGN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "a526ce758f63",
    "headline": "Is Johnson & Johnson Stock a Good Fit For Your Portfolio Risk?",
    "summary": "For questions about this article or underlying research, email help@trefis.com.",
@@ -1056,7 +1094,8 @@
    "source": "Yahoo",
    "published": "2026-10-29T11:44:23+00:00",
    "tickers": [
-    "MDT"
+    "MDT",
+    "PFE"
    ],
    "tag": "News",
    "sectors": [
@@ -1116,6 +1155,7 @@
    "source": "Yahoo",
    "published": "2026-10-29T11:27:25+00:00",
    "tickers": [
+    "ISRG",
     "JNJ",
     "MDT"
    ],
@@ -1141,6 +1181,21 @@
    ]
   },
   {
+   "id": "14e62d7ac405",
+   "headline": "Can Wolters Kluwer (ENXTAM:WKL) Keep Looking Cheap On Earnings?",
+   "summary": "Wolters Kluwer shares have climbed sharply in the past month, which puts fresh attention on a basic question for anyone watching the stock. Is the current price properly supported by the earnings the business is generating today? The\u2026",
+   "url": "https://finnhub.io/api/news?id=4e292760f9fedfdeb59479962cfe2fcf1bcb5eee49e04d3fc95f9d2a8ebfacc7",
+   "source": "Yahoo",
+   "published": "2026-10-29T11:19:20+00:00",
+   "tickers": [
+    "DOCS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "665ffc8f018d",
    "headline": "Why researchers may have found the biological culprit behind Angelman syndrome",
    "summary": "Scientists have known for a while that Angelman syndrome is caused by the loss of a specific gene, but they didn't understand how this gene loss leads to the failure of brain development in infants with the disease.",
@@ -1150,6 +1205,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "129433176500",
+   "headline": "Incyte: Q3 Earnings Snapshot",
+   "summary": "(INCY) on Thursday reported a loss of $784.On a per-share basis, the Wilmington, Delaware-based company said it had a loss of $3.",
+   "url": "https://finnhub.io/api/news?id=3fc34f167a1b98a196143ca70d90678463aae7eb36548f521660653bbbc0b2ac",
+   "source": "Yahoo",
+   "published": "2026-10-29T11:09:50+00:00",
+   "tickers": [
+    "INCY"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
   },
   {
    "id": "4f1adc41f730",
@@ -1215,6 +1285,21 @@
    ]
   },
   {
+   "id": "9c8287af21e0",
+   "headline": "Incyte Reports Third Quarter 2026 Financial Results and Provides Business Updates",
+   "summary": "WILMINGTON, Del., October 29, 2026--Incyte Reports Third Quarter 2026 Financial Results and Provides Business Updates",
+   "url": "https://finnhub.io/api/news?id=ded5962252a11b0cdc1e167435dacfc5bd059510b194705bbafb63f39b9ae1f2",
+   "source": "Yahoo",
+   "published": "2026-10-29T11:00:00+00:00",
+   "tickers": [
+    "INCY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "5f5f42f4888a",
    "headline": "Bristol Myers Squibb Reports Third Quarter Financial Results for 2026",
    "summary": "PRINCETON, N.J., October 29, 2026--Bristol Myers Squibb Reports Third Quarter Financial Results for 2026",
@@ -1225,6 +1310,36 @@
     "BMY"
    ],
    "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "2fd6e34ae38f",
+   "headline": "Biogen to Present New Data Across Alzheimer's Disease Portfolio at CTAD 2026",
+   "summary": "Diranersen late-breaking symposium will feature 96-week long-term extension data and additional 76-week biomarker and clinical data from the Phase 2 CELIA study in early Alzheimer's diseaseLecanemab presentations will highlight new\u2026",
+   "url": "https://finnhub.io/api/news?id=543a72381901bd9fc25cadabe41c01953ff05b51fab7246fac1b67c9d52dd73e",
+   "source": "Yahoo",
+   "published": "2026-10-29T10:59:00+00:00",
+   "tickers": [
+    "BIIB"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "bf76991737ec",
+   "headline": "Merck (MRK) Surpasses Q3 Earnings and Revenue Estimates",
+   "summary": "Merck (MRK) delivered earnings and revenue surprises of +17.45% and +4.94%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=39c438f85d6c8f5918dfec0b44a2b956bbbb091b2a900652fe885e517aba02c8",
+   "source": "Yahoo",
+   "published": "2026-10-29T10:45:05+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "Earnings",
    "sectors": [
     "pharma"
    ]
@@ -1271,6 +1386,21 @@
    ]
   },
   {
+   "id": "cd402056992f",
+   "headline": "Zoetis (ZTS) Wins FDA Approval For Convenia RTU, Is The Undervaluation Case Still Intact?",
+   "summary": "Zoetis (ZTS) just received FDA approval for Convenia RTU for Dogs, a long acting injectable antibiotic for skin infections, raising fresh questions about how its expanding canine portfolio might influence investor expectations. Against\u2026",
+   "url": "https://finnhub.io/api/news?id=5df4b70074bc834c570d05ba9921de83b76bab82c2f1dbca2b168971e7326096",
+   "source": "Yahoo",
+   "published": "2026-10-29T10:16:46+00:00",
+   "tickers": [
+    "ZTS"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "36d10ef39e1a",
    "headline": "Boston Scientific (BSX) Could Be 27% Below Fair Value After Earnings Guidance Cut",
    "summary": "Boston Scientific (BSX) moved into focus after third quarter 2026 results, as modest sales of US$5.14b and net income of US$582m met a sharply lower market reaction and fresh earnings guidance. The sharp 1-day share price decline of 5.84%\u2026",
@@ -1296,6 +1426,51 @@
     "ABBV"
    ],
    "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "0d556b83c84e",
+   "headline": "What to expect from Regeneron\u2019s (REGN) Q3 earnings",
+   "summary": "Biotech company Regeneron (NASDAQ:REGN) will be announcing earnings results tomorrow before market hours. Here\u2019s what investors should know.",
+   "url": "https://finnhub.io/api/news?id=38b5c40f9b76b26a0c26710dfdbee2760f2d8a0946708207ec964f1bd53c272c",
+   "source": "Yahoo",
+   "published": "2026-10-29T10:11:25+00:00",
+   "tickers": [
+    "BIIB"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "68046049527a",
+   "headline": "West Pharmaceutical Services (WST) Q3 Earnings and Revenues Top Estimates",
+   "summary": "West Pharmaceutical (WST) delivered earnings and revenue surprises of +22.02% and +5.88%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=eb4980eb9ab6046e03763dd3644d02443694e3b43e34864cf3de9bbdfadfd68f",
+   "source": "Yahoo",
+   "published": "2026-10-29T10:10:03+00:00",
+   "tickers": [
+    "CAH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
+  {
+   "id": "67a91606a8b1",
+   "headline": "Chiesi Group appoints Paolo Paoletti to its Board of Directors",
+   "summary": "PARMA, Italy, October 29, 2026--Chiesi, the international research-focused biopharmaceutical group, today announced the appointment of Paolo Paoletti, M.D. to its Board of Directors, effective as of today. Paoletti is an internationally\u2026",
+   "url": "https://finnhub.io/api/news?id=a4a7e0bffa0f34d33695df4dce051c3dac976cfcac7939e67e3d90b3bb15b751",
+   "source": "Yahoo",
+   "published": "2026-10-29T10:01:00+00:00",
+   "tickers": [
+    "GSK"
+   ],
+   "tag": "News",
    "sectors": [
     "pharma"
    ]
@@ -1488,6 +1663,21 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "7c590f7e95bd",
+   "headline": "GSK (LSE:GSK) Shares Dropped, So What Is Behind The Latest Attention?",
+   "summary": "GSK (LSE:GSK) has released third quarter figures that present a mixed picture. Sales reached \u00a38,887 million, while net income declined to \u00a31,543 million compared with \u00a32,013 million a year earlier. The latest figures landed alongside a\u2026",
+   "url": "https://finnhub.io/api/news?id=b143fb83a8482694c17a6c611b59ca456890bffe622373c6cf15ec2003371dda",
+   "source": "Yahoo",
+   "published": "2026-10-29T08:23:19+00:00",
+   "tickers": [
+    "GSK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1814,6 +2004,21 @@
    "tickers": [
     "BSX",
     "PEN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "62532f7062d2",
+   "headline": "Glaukos (GKOS) Q3 2026 Earnings Call Transcript",
+   "summary": "Record sales and margin expansion driven by iDose TR and Epioxa launches.",
+   "url": "https://finnhub.io/api/news?id=9b21439b9dff7b2d7e8c4004417e9f2ab9e95b3c175cee209977e5352196442c",
+   "source": "Yahoo",
+   "published": "2026-10-29T03:59:16+00:00",
+   "tickers": [
+    "GKOS"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -47397,82 +47602,6 @@
    "tag": "News",
    "sectors": [
     "pharmacy"
-   ]
-  },
-  {
-   "id": "9502e7c2d443",
-   "headline": "$50,000 in These 5 Dividend Stocks Could Pay You $2,700 a Year",
-   "summary": "Most retirees chase yield and end up with dividends that vanish the moment the economy wobbles. These five stocks solve that problem by pairing high payouts with the kind of coverage ratios that let income keep flowing even when markets\u2026",
-   "url": "https://finnhub.io/api/news?id=b61378c81752f1164fecf5b87467e8384ea053f62541d7259801a445dff0e56b",
-   "source": "Yahoo",
-   "published": "2026-10-19T12:45:45+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "fd272a48899f",
-   "headline": "CVS Caremark: Why Transparency Matters in Pharmacy Benefits",
-   "summary": "Originally published on Company NewsroomKey points * 87% of employers say improving cost transparency is one of the biggest opportunities for PBMs * CVS Caremark offers tools and solutions that provide greater visibility into pharmacy\u2026",
-   "url": "https://finnhub.io/api/news?id=5adf2cbbc7ce0d770cae45a18cf40500f53497e688260681ae712ad5221891ae",
-   "source": "Yahoo",
-   "published": "2026-10-19T12:45:00+00:00",
-   "tickers": [
-    "CVS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "b0016861bda8",
-   "headline": "Is Elevance Health, Inc. (ELV) Outperforming Other Medical Stocks This Year?",
-   "summary": "Here is how Elevance Health (ELV) and Astellas Pharma Inc. (ALPMY) have performed compared to their sector so far this year.",
-   "url": "https://finnhub.io/api/news?id=d8c9b9393747d72937cec285f176bda1db90dbf9615464a320bc264c4361ac97",
-   "source": "Yahoo",
-   "published": "2026-10-19T12:40:02+00:00",
-   "tickers": [
-    "ELV"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "8d2a36d84574",
-   "headline": "Should Value Investors Buy Humana (HUM) Stock?",
-   "summary": "Here at Zacks, our focus is on the proven Zacks Rank system, which emphasizes earnings estimates and estimate revisions to find great stocks. Nevertheless, we are always paying attention to the latest value, growth, and momentum trends to\u2026",
-   "url": "https://finnhub.io/api/news?id=974a674380580c7dd3af59e5b38a1ca998fb3301e4bc38affb4be0bbebd4e304",
-   "source": "Yahoo",
-   "published": "2026-10-19T12:40:02+00:00",
-   "tickers": [
-    "HUM"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "8702425edbed",
-   "headline": "Can Myqorzo's Expansion and Growing Adoption Drive CYTK's Growth?",
-   "summary": "Cytokinetics' Myqorzo gains commercial traction with growing prescriptions, international launches and promising clinical data that could expand its market opportunity.",
-   "url": "https://finnhub.io/api/news?id=77ae91710ec03eec8dbe81de459c684b998e07502fde99aa5a778307157e3b92",
-   "source": "Yahoo",
-   "published": "2026-10-19T12:40:00+00:00",
-   "tickers": [
-    "BMY",
-    "CYTK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
