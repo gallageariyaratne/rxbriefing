@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-29T01:17:43.930391+00:00",
+ "updated": "2026-10-29T01:32:46.940994+00:00",
  "quotes": {
   "A": {
    "price": 181.48,
@@ -33,6 +33,10 @@
   "ARWR": {
    "price": 60.21,
    "change_pct": 2.0
+  },
+  "AXSM": {
+   "price": 143.51,
+   "change_pct": 0.92
   },
   "AZN": {
    "price": 169.51,
@@ -262,6 +266,10 @@
    "price": 35.95,
    "change_pct": -2.2
   },
+  "OSCR": {
+   "price": 30.48,
+   "change_pct": -2.78
+  },
   "PACB": {
    "price": 2.83,
    "change_pct": 15.51
@@ -309,14 +317,6 @@
   "SYK": {
    "price": 304,
    "change_pct": 0.86
-  },
-  "TDOC": {
-   "price": 6.88,
-   "change_pct": 6.67
-  },
-  "TECH": {
-   "price": 72.69,
-   "change_pct": 0.12
   }
  },
  "tickers": {
@@ -1130,6 +1130,21 @@
    ]
   },
   {
+   "id": "eb92acf06f3d",
+   "headline": "Viking Therapeutics falls on third quarter loss miss",
+   "summary": "Investing.com -- Viking Therapeutics Inc (NASDAQ:VKTX) reported a third quarter loss that missed analyst expectations, as the company ramped up spending on its obesity drug development programs.",
+   "url": "https://finnhub.io/api/news?id=09dce5435627b565e0d8d89d66ece832d58e119556c06fc690ecdfaabe47f21c",
+   "source": "Yahoo",
+   "published": "2026-10-28T21:42:02+00:00",
+   "tickers": [
+    "VKTX"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "763f7e90aa22",
    "headline": "Eli Lilly's 340B data policy draws new opposition from Missouri AG, Massachusetts hospitals",
    "summary": "A controversial requirement for 340B hospitals to submit claims-level data to earn statutory drug discounts has earned a cease-and-desist letter from Missouri's attorney general and yet another lawsuit from disgruntled hospitals.",
@@ -1142,6 +1157,21 @@
    "tag": "Legal",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "3cf4130f46fb",
+   "headline": "Oscar Health (OSCR) Stock May Trade Below Fair Value As New Plans Roll Out",
+   "summary": "Oscar Health has turned into a headline stock over the past few years, and the share price now puts a sharp spotlight on what investors are actually paying for in terms of its earnings. With that kind of attention, the key issue is\u2026",
+   "url": "https://finnhub.io/api/news?id=6cc92cade31f66a99f3327e7291fb4c50b148b94b86e0eae57351f274c76f92d",
+   "source": "Yahoo",
+   "published": "2026-10-28T21:14:14+00:00",
+   "tickers": [
+    "OSCR"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -1517,6 +1547,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "ae1d4a36b208",
+   "headline": "Viking Therapeutics Reports Third Quarter 2026 Financial Results and Provides Corporate Update",
+   "summary": "Viking Therapeutics, Inc. (Viking) (Nasdaq: VKTX), a clinical-stage biopharmaceutical company focused on the development of novel therapies for metabolic and endocrine disorders, today announced its financial results for the third quarter\u2026",
+   "url": "https://finnhub.io/api/news?id=277aaf7a5afc88958939099f196f8f4b8501bc3eba66f71945eb4ffea8097295",
+   "source": "Yahoo",
+   "published": "2026-10-28T20:05:00+00:00",
+   "tickers": [
+    "VKTX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -3519,6 +3564,7 @@
    "source": "Yahoo",
    "published": "2026-10-28T13:44:02+00:00",
    "tickers": [
+    "AXSM",
     "MRNA"
    ],
    "tag": "Earnings",
@@ -3749,7 +3795,8 @@
    "source": "Yahoo",
    "published": "2026-10-28T13:13:23+00:00",
    "tickers": [
-    "MDGL"
+    "MDGL",
+    "VKTX"
    ],
    "tag": "M&A",
    "sectors": [
@@ -3998,6 +4045,21 @@
    "tag": "Earnings",
    "sectors": [
     "healthai"
+   ]
+  },
+  {
+   "id": "0599e7745735",
+   "headline": "Qiagen (QGEN) Expected to Beat Earnings Estimates: What to Know Ahead of Q3 Release",
+   "summary": "Qiagen (QGEN) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+   "url": "https://finnhub.io/api/news?id=8db2c2ca568a2c227ade7eecbcf7cf5c35df0b25081c69ca08b7ff5337819081",
+   "source": "Yahoo",
+   "published": "2026-10-28T13:00:15+00:00",
+   "tickers": [
+    "QGEN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -4744,6 +4806,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "35aa9abd6435",
+   "headline": "Here Are Wednesday\u2019s Top Wall Street Analyst Research Calls: Enphase Energy, F5, Marvell Technology, MSG Rangers, Pentair, Silicon Motion Technology, Spotify Technology, Texas Instruments, Whirlpool, and More",
+   "summary": "With the Fed rate decision dropping at 2:30 PM and Alphabet and Microsoft reporting before the bell, Wednesday's analyst calls on Enphase, Spotify, Whirlpool, and a newly public Rangers franchise land at a pivotal moment for markets.",
+   "url": "https://finnhub.io/api/news?id=f47bf401b08dff5fab54593a8b36e9bc6edfde68b742aed40e25ab253122dd19",
+   "source": "Yahoo",
+   "published": "2026-10-28T11:58:12+00:00",
+   "tickers": [
+    "QGEN"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -6359,6 +6436,21 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "79bda6c11499",
+   "headline": "Best Growth Stocks to Buy for October 28th",
+   "summary": "E, FIVE and OSCR made it to the Zacks Rank #1 (Strong Buy) growth stocks list on October 28th, 2026.",
+   "url": "https://finnhub.io/api/news?id=638d07d49f9ff5d4b911656bd641edee8700003143c58f3132946af157d3412e",
+   "source": "Yahoo",
+   "published": "2026-10-28T08:03:00+00:00",
+   "tickers": [
+    "OSCR"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "payers"
    ]
   },
   {
