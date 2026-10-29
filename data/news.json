@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-29T12:47:41.591434+00:00",
+ "updated": "2026-10-29T13:03:10.600174+00:00",
  "quotes": {
   "A": {
    "price": 181.48,
@@ -54,6 +54,10 @@
    "price": 244.05,
    "change_pct": -3.43
   },
+  "BMRN": {
+   "price": 56,
+   "change_pct": 1.17
+  },
   "BMY": {
    "price": 60.57,
    "change_pct": -1.59
@@ -82,10 +86,6 @@
    "price": 67.05,
    "change_pct": -2.42
   },
-  "COR": {
-   "price": 324.35,
-   "change_pct": -0.31
-  },
   "CRL": {
    "price": 373.98,
    "change_pct": 4.22
@@ -93,10 +93,6 @@
   "CVS": {
    "price": 89.95,
    "change_pct": -1.29
-  },
-  "CYTK": {
-   "price": 61.28,
-   "change_pct": -0.39
   },
   "DGX": {
    "price": 245.62,
@@ -182,10 +178,6 @@
    "price": 96.98,
    "change_pct": 2.13
   },
-  "IONS": {
-   "price": 44.9,
-   "change_pct": 2.14
-  },
   "IQV": {
    "price": 279.04,
    "change_pct": 2.76
@@ -205,10 +197,6 @@
   "LLY": {
    "price": 1288.3,
    "change_pct": 0.5
-  },
-  "MCK": {
-   "price": 960.56,
-   "change_pct": -0.67
   },
   "MDGL": {
    "price": 431,
@@ -270,17 +258,9 @@
    "price": 29.45,
    "change_pct": -1.17
   },
-  "PODD": {
-   "price": 148.93,
-   "change_pct": -0.6
-  },
   "QGEN": {
    "price": 50.33,
    "change_pct": 0.32
-  },
-  "RARE": {
-   "price": 17.2,
-   "change_pct": 2.69
   },
   "REGN": {
    "price": 813.27,
@@ -289,10 +269,6 @@
   "RGEN": {
    "price": 184.69,
    "change_pct": 5.06
-  },
-  "RXRX": {
-   "price": 4.35,
-   "change_pct": 7.41
   },
   "SDGR": {
    "price": 30.87,
@@ -317,6 +293,30 @@
   "TGTX": {
    "price": 57.4,
    "change_pct": 1.7
+  },
+  "THC": {
+   "price": 268.5,
+   "change_pct": 2.46
+  },
+  "TMO": {
+   "price": 704.15,
+   "change_pct": 1.61
+  },
+  "TWST": {
+   "price": 173.45,
+   "change_pct": 8.51
+  },
+  "TXG": {
+   "price": 83.62,
+   "change_pct": 7.18
+  },
+  "UHS": {
+   "price": 172.18,
+   "change_pct": -2.9
+  },
+  "UNH": {
+   "price": 407.1,
+   "change_pct": -0.8
   }
  },
  "tickers": {
@@ -934,6 +934,58 @@
  },
  "stories": [
   {
+   "id": "797bdedb78e0",
+   "headline": "Kennedy's HHS relaxes enforcement on 6 popular wellness peptides",
+   "summary": "Stopping short of a formal declaration allowing their use, Department of Health and Human Services secretary Robert F. Kennedy Jr. has cleared the way for the compounding of six popular wellness peptides.",
+   "url": "https://www.fiercehealthcare.com/pharma/kennedys-hhs-relaxes-enforcement-6-popular-wellness-peptides",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-29T13:00:31.688255+00:00",
+   "tickers": [],
+   "tag": "Policy",
+   "sectors": []
+  },
+  {
+   "id": "050b598ded96",
+   "headline": "Care Out Loud Continues for Year Two to Support the 1 in 4 Americans Providing Care",
+   "summary": "Together with P&G and CVS Pharmacy\u00ae, the campaign marks National Family Caregivers Month with expanded resources, promotional offers and a Caregiving Hall of Fame event PHILADELPHIA, Oct. 29, 2026 /PRNewswire/ -- One in four Americans\u2026",
+   "url": "https://www.prnewswire.com/news-releases/care-out-loud-continues-for-year-two-to-support-the-1-in-4-americans-providing-care-302923738.html",
+   "source": "PR Newswire",
+   "published": "2026-10-29T12:57:00+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "6e550c2438d5",
+   "headline": "STAT+: Pharmalittle: We\u2019re reading about a new policy for compounding peptides, a PBM disclosure rule, and more",
+   "summary": "HHS released a policy that will temporarily allow compounding pharmacies to manufacture some peptide products",
+   "url": "https://www.statnews.com/pharmalot/2026/10/29/peptides-policy-released-by-hhs-pbm-disclosure-requirements/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-29T12:52:11+00:00",
+   "tickers": [],
+   "tag": "Policy",
+   "sectors": []
+  },
+  {
+   "id": "463f5f2b8911",
+   "headline": "BioMarin Enters Into Exclusive Worldwide License Agreement With GC Biopharma and Hanmi Pharm for Investigational Next-Generation Enzyme Replacement Therapy, Adding a Second Potential Treatment for Fabry Disease",
+   "summary": "Agreement grants BioMarin worldwide rights (excluding Korea) to HM15421/GC1134A, a long-acting, subcutaneous, clinical-stage enzyme replacement therapy for Fabry disease BioMarin will make an upfront payment of $70 million; GC and Hanmi\u2026",
+   "url": "https://www.prnewswire.com/news-releases/biomarin-enters-into-exclusive-worldwide-license-agreement-with-gc-biopharma-and-hanmi-pharm-for-investigational-next-generation-enzyme-replacement-therapy-adding-a-second-potential-treatment-for-fabry-disease-302923678.html",
+   "source": "PR Newswire",
+   "published": "2026-10-29T12:45:00+00:00",
+   "tickers": [
+    "BMRN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "b8a427439ebd",
    "headline": "Geron\u2019s Rytelo stumbles in phase 3 as Novartis gears up for post-JAK inhibitor blood cancer bid",
    "summary": "Geron has discontinued a phase 3 trial of its Rytelo in JAK inhibitor-pretreated myelofibrosis after an independent data monitoring committee ruled that the study was unlikely to succeed, just as Novartis is gearing up for a delayed FDA\u2026",
@@ -1064,7 +1116,8 @@
    "source": "Yahoo",
    "published": "2026-10-29T11:54:44+00:00",
    "tickers": [
-    "GKOS"
+    "GKOS",
+    "LLY"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -1133,11 +1186,41 @@
    ]
   },
   {
+   "id": "28ada178e997",
+   "headline": "Merck (NYSE:MRK) delivers impressive Q3 2026",
+   "summary": "Global pharmaceutical company Merck (NYSE:MRK) announced better-than-expected revenue in Q3 2026, with revenue rising 4.7% year on year to $18.09 billion. The company expects the full year\u2019s revenue to be around $67.05 billion, close to\u2026",
+   "url": "https://finnhub.io/api/news?id=f5321e7dd9b085db6bd82f3cc66892b73dadafdeb1f993013e4348518b1c6a9a",
+   "source": "Yahoo",
+   "published": "2026-10-29T11:30:28+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "75d8a7aab9b9",
    "headline": "Zimmer Biomet to Preview the Next Era of Intelligent Orthopedic Surgery at AAHKS 2026",
    "summary": "Featured symposium will reveal a new vision for intelligent systems that support surgeon judgment, reduce procedural burden and connect the episode of care WARSAW, Ind., Oct. 29, 2026 /PRNewswire/ -- Zimmer Biomet Holdings, Inc. (NYSE and\u2026",
    "url": "https://www.prnewswire.com/news-releases/zimmer-biomet-to-preview-the-next-era-of-intelligent-orthopedic-surgery-at-aahks-2026-302922794.html",
    "source": "PR Newswire",
+   "published": "2026-10-29T11:30:00+00:00",
+   "tickers": [
+    "ZBH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "6a0fb408fe71",
+   "headline": "Zimmer Biomet to Preview the Next Era of Intelligent Orthopedic Surgery at AAHKS 2026",
+   "summary": "Zimmer Biomet Holdings, Inc. (NYSE and SIX: ZBH) today announced its plans to host a featured symposium and booth discussions to reveal a new vision for intelligent orthopedic surgery at the 2026 Annual Meeting of the American Association\u2026",
+   "url": "https://finnhub.io/api/news?id=f68b202557167bf5b734060b579b6b8f7fdfcede41524fd2a35fb6aea7f75820",
+   "source": "Yahoo",
    "published": "2026-10-29T11:30:00+00:00",
    "tickers": [
     "ZBH"
@@ -1157,7 +1240,9 @@
    "tickers": [
     "ISRG",
     "JNJ",
-    "MDT"
+    "MDT",
+    "SYK",
+    "ZBH"
    ],
    "tag": "News",
    "sectors": [
@@ -1173,9 +1258,41 @@
    "published": "2026-10-29T11:27:01+00:00",
    "tickers": [
     "BMY",
+    "GILD",
+    "MRK",
     "VRTX"
    ],
    "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "a504a38256c4",
+   "headline": "Eli Lilly jumps on earnings beat, raised guidance",
+   "summary": "Investing.com -- Eli Lilly and Company (NYSE: LLY) shares are over 4% higher premarket after the company reported third-quarter results that exceeded analyst expectations and raised its full-year guidance, driven by strong demand for its\u2026",
+   "url": "https://finnhub.io/api/news?id=c923056298d144a0e92cbce1c09112b1728ca1e387f71dc91d347cbea428a6da",
+   "source": "Yahoo",
+   "published": "2026-10-29T11:26:29+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "2e6e19205ba3",
+   "headline": "Merck shares rise on Q3 beat, raised 2026 profit outlook",
+   "summary": "Investing.com -- Merck shares rose more than 2% in premarket trading Thursday after the drugmaker beat third-quarter estimates and raised its 2026 earnings outlook. Earnings per share were $2.49, ahead of the $2.09 analysts expected.",
+   "url": "https://finnhub.io/api/news?id=d9e2d78b2aa92b6054cdef12bbbfc7d02a8f34888034a54718ab4e149bdbb27a",
+   "source": "Yahoo",
+   "published": "2026-10-29T11:21:56+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "Earnings",
    "sectors": [
     "pharma"
    ]
@@ -1219,6 +1336,22 @@
    "tag": "Earnings",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "ef8d03d1f93f",
+   "headline": "Eli Lilly Stock Jumps as Monster Earnings Powered by Mounjaro and Zepbound",
+   "summary": "Eli Lilly posts earnings that handily top estimates, fueled by strong performance in its metabolic portfolio.",
+   "url": "https://finnhub.io/api/news?id=0d48c315b8d9149c8e3b3332d260b4a1ed380249ef54b2e90cdf1ebea8d38792",
+   "source": "Yahoo",
+   "published": "2026-10-29T11:09:00+00:00",
+   "tickers": [
+    "LLY",
+    "MRK"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1330,6 +1463,36 @@
    ]
   },
   {
+   "id": "fc9726b7d4a5",
+   "headline": "Lilly: Q3 Earnings Snapshot",
+   "summary": "INDIANAPOLIS (AP) \u2014 INDIANAPOLIS (AP) \u2014 Eli Lilly and Co. (LLY) on Thursday reported third-quarter profit of $6.",
+   "url": "https://finnhub.io/api/news?id=3e9a96a99700a3d1e1b651eaea230043d59be76f706c3ff3b4d6c523d676c8dd",
+   "source": "Yahoo",
+   "published": "2026-10-29T10:50:52+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "218f5d725b0b",
+   "headline": "Eli Lilly (NYSE:LLY) reports upbeat Q3 2026, guides for strong full-year sales",
+   "summary": "Global pharmaceutical company Eli Lilly (NYSE:LLY) reported Q3 2026 results beating Wall Street\u2019s revenue expectations, with revenue up 38.6% year on year to $24.4 billion. The company\u2019s full-year revenue guidance of $91.5 billion at the\u2026",
+   "url": "https://finnhub.io/api/news?id=122cadc3bc4fbbdd8d57a99b79a77c7d4f3efe7b371a6aef3711562b685c70f0",
+   "source": "Yahoo",
+   "published": "2026-10-29T10:50:45+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "bf76991737ec",
    "headline": "Merck (MRK) Surpasses Q3 Earnings and Revenue Estimates",
    "summary": "Merck (MRK) delivered earnings and revenue surprises of +17.45% and +4.94%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
@@ -1337,6 +1500,7 @@
    "source": "Yahoo",
    "published": "2026-10-29T10:45:05+00:00",
    "tickers": [
+    "MRK",
     "PFE"
    ],
    "tag": "Earnings",
@@ -1360,6 +1524,68 @@
    ]
   },
   {
+   "id": "daf22d09fe09",
+   "headline": "Lilly reports third-quarter 2026 financial results, raises full-year guidance and highlights regulatory progress across the portfolio",
+   "summary": "Eli Lilly and Company (NYSE: LLY) today announced its financial results for the third quarter of 2026 and provided updated 2026 financial guidance.",
+   "url": "https://finnhub.io/api/news?id=22d6cce6d517f1c41a80a08bec0924d0d0c0c9419181d94749caf4da43f363e6",
+   "source": "Yahoo",
+   "published": "2026-10-29T10:45:00+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "acc1bc315b73",
+   "headline": "Merck Earnings Blow Past Estimates. Why Wall Street Is Looking Past the Numbers.",
+   "summary": "Merck is leaning on newer drugs and the promise of its pipeline assets as a patent cliff looms for its largest revenue driver, Keytruda.",
+   "url": "https://finnhub.io/api/news?id=432c7c467b0de3914cb9c486d8a7d48e99701a631cf3a6fc502c4b7b73f33743",
+   "source": "Yahoo",
+   "published": "2026-10-29T10:40:00+00:00",
+   "tickers": [
+    "MRK",
+    "MRNA"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "899156a1e1c0",
+   "headline": "Merck: Q3 Earnings Snapshot",
+   "summary": "(MRK) on Thursday reported third-quarter earnings of $5.The Rahway, New Jersey-based company said it had net income of $2.",
+   "url": "https://finnhub.io/api/news?id=3032f095e10d03eb37dc0adb6a5443935871e597e664f28372563241a217303a",
+   "source": "Yahoo",
+   "published": "2026-10-29T10:39:36+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "34093b9e4779",
+   "headline": "Merck Beats, But Can Shares Outplay The Cancer Vaccine News?",
+   "summary": "Dow Jones component Merck hiked its 2026 outlook Thursday on the back of a solid third-quarter report that included a notable Keytruda beat.",
+   "url": "https://finnhub.io/api/news?id=e0f054b340c84d290606829012aaff1be6e5a137f79e9e0fedb07d8dbcab4ed9",
+   "source": "Yahoo",
+   "published": "2026-10-29T10:30:19+00:00",
+   "tickers": [
+    "MRK",
+    "MRNA"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "6fad439f7442",
    "headline": "Flagship blends three biotech startups to form Etcelera",
    "summary": "Etiome, Cellarity and Empress Therapeutics are being combined into one new AI-aided drugmaker claiming to possess the ability to better predict the way new medicines will fare in humans.",
@@ -1369,6 +1595,36 @@
    "tickers": [],
    "tag": "Health AI",
    "sectors": []
+  },
+  {
+   "id": "8d70c7fd4d13",
+   "headline": "Merck & Co., Inc., Rahway, N.J., USA Announces Third-Quarter 2026 Financial Results; Highlights Multiple Milestones Advancing Broad, Diverse Pipeline",
+   "summary": "RAHWAY, N.J., October 29, 2026--Merck & Co., Inc., Rahway, N.J., USA Announces Third-Quarter 2026 Financial Results; Highlights Multiple Milestones Advancing Broad, Diverse Pipeline",
+   "url": "https://finnhub.io/api/news?id=3afd89c38ad772ecd5fdada9c193c0e1ec326824cea9ed137744edf0a6aa2395",
+   "source": "Yahoo",
+   "published": "2026-10-29T10:30:00+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "f82bfcc676fc",
+   "headline": "Thermo Fisher Scientific (TMO) Lands Spotlight In Fast Growing Cell And Gene Therapy CRO Market",
+   "summary": "Thermo Fisher Scientific (NYSE:TMO) has been highlighted as a leading player in the cell and gene therapy CRO market. The company is recognized among providers offering integrated clinical trial services for advanced therapies as\u2026",
+   "url": "https://finnhub.io/api/news?id=39b4bb56db0d05570288118b54907b2e5f9e294dae77004006463ec39ba010c6",
+   "source": "Yahoo",
+   "published": "2026-10-29T10:21:26+00:00",
+   "tickers": [
+    "TMO"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "tools"
+   ]
   },
   {
    "id": "0ed73016b4f0",
@@ -1468,7 +1724,8 @@
    "source": "Yahoo",
    "published": "2026-10-29T10:01:00+00:00",
    "tickers": [
-    "GSK"
+    "GSK",
+    "LLY"
    ],
    "tag": "News",
    "sectors": [
@@ -1512,6 +1769,21 @@
     "ABBV"
    ],
    "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "a7e8a028ef42",
+   "headline": "Earnings from Amazon, Eli Lilly, and Starbucks: What to Watch",
+   "summary": "Yahoo Finance Breaking Business News Reporter Jake Conley takes a closer look at the top stories for investors to watch on Thursday, Oct. 29, including earnings reports from Amazon (AMZN), Eli Lilly (LLY), Starbucks (SBUX), and new data\u2026",
+   "url": "https://finnhub.io/api/news?id=7f1f5eca6dfe603640478e14232295fe1d11c22be6b88b349c8c285618d7d4fd",
+   "source": "Yahoo",
+   "published": "2026-10-29T10:00:00+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "Earnings",
    "sectors": [
     "pharma"
    ]
@@ -47438,171 +47710,6 @@
    "tickers": [],
    "tag": "Policy",
    "sectors": []
-  },
-  {
-   "id": "6d6e55fd7995",
-   "headline": "Eli Lilly's Omvoh takes phase 3 win in pediatric UC, fueling expansion ambitions",
-   "summary": "A new positive phase 3 readout in kids with ulcerative colitis could help Lilly's Omvoh gain a competitive edge against its IL-23 rivals.",
-   "url": "https://www.fiercepharma.com/pharma/eli-lillys-omvoh-takes-ph3-win-pediatric-uc",
-   "source": "Fierce Pharma",
-   "published": "2026-10-19T13:00:29.676735+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "34fafb529696",
-   "headline": "BioMarin Pharmaceutical (BMRN) Earnings Expected to Grow: Should You Buy?",
-   "summary": "BioMarin (BMRN) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-   "url": "https://finnhub.io/api/news?id=5e14f65e6989b041dcf31b066edac86dc4adc3f798e012054f39a96444ca6e9f",
-   "source": "Yahoo",
-   "published": "2026-10-19T13:00:05+00:00",
-   "tickers": [
-    "BMRN"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "8d5b0af2d8d5",
-   "headline": "GE HealthCare expands general imaging ultrasound portfolio with LOGIQ Focus, elevating everyday ultrasound performance",
-   "summary": "CHICAGO, October 19, 2026--GE HealthCare today announced LOGIQ\u2122 Focus, a new addition to its LOGIQ family of general imaging ultrasound systems, designed to bring advanced imaging tools to a broader range of ultrasound exams. LOGIQ Focus\u2026",
-   "url": "https://finnhub.io/api/news?id=7a2ed7b1e20a6833f48661f6a6e4f070029b766f70ffd063049e285a731e59af",
-   "source": "Yahoo",
-   "published": "2026-10-19T13:00:00+00:00",
-   "tickers": [
-    "GEHC"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "0f29f77f4eaf",
-   "headline": "Here's How Tempus AI Demonstrates Improving Operating Leverage",
-   "summary": "TEM shows improving operating leverage as Q2 revenues jump 22%, adjusted EBITDA turns positive and lower interest costs support its free cash flow goal.",
-   "url": "https://finnhub.io/api/news?id=ddb706307f7d4b104d45604e5b7afde3a68e4f2e5167134a09d4d7df4521533f",
-   "source": "Yahoo",
-   "published": "2026-10-19T13:00:00+00:00",
-   "tickers": [
-    "IRTC",
-    "TEM"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "23fe05e2b74a",
-   "headline": "RxSight Appoints Eye Care Industry Leaders to Drive Commercial Transformation",
-   "summary": "ALISO VIEJO, Calif., Oct. 19, 2026 (GLOBE NEWSWIRE) -- RxSight, Inc. (NASDAQ: RXST) today announced the appointments of Taryn Conway as Chief Commercial Officer and Frank Shields as Executive Vice President of Sales and Commercial\u2026",
-   "url": "https://finnhub.io/api/news?id=bd405f57aa96b5f16829860e245b4f850cb6ecbfdd4bb07069f1f4eb83123293",
-   "source": "Yahoo",
-   "published": "2026-10-19T13:00:00+00:00",
-   "tickers": [
-    "RXST"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "05342b16af70",
-   "headline": "Management Raised The Bar For CVS Health Stock; Does The Chart Agree?",
-   "summary": "On August 5, 2026, CVS Health (CVS) management raised its fiscal 2026 revenue forecast to at least $414 billion, up from $405 billion in May. Yet the stock has fallen 11.5% since the close prior to that release, compared with a 1.0% dip\u2026",
-   "url": "https://finnhub.io/api/news?id=40560c533f8de36412d0b2991228115e0024503f5ca252b947e4646c04bd4459",
-   "source": "Yahoo",
-   "published": "2026-10-19T12:56:04+00:00",
-   "tickers": [
-    "CI",
-    "CVS",
-    "ELV",
-    "HUM",
-    "UNH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "176aa22f0389",
-   "headline": "Has Johnson & Johnson Stock Become A Different Bet?",
-   "summary": "Investors are paying a premium for Johnson & Johnson (JNJ) stock. It trades at 29.2 times earnings, compared to 22.9 for the S&P 500. Shareholders paying that premium need to understand exactly what they are buying, and the priorities at\u2026",
-   "url": "https://finnhub.io/api/news?id=d8336ff84d088f1fee01e07ce68f8bcfd97ec3f72a7cc63f58f1d6840e973601",
-   "source": "Yahoo",
-   "published": "2026-10-19T12:55:56+00:00",
-   "tickers": [
-    "ABBV",
-    "JNJ",
-    "LLY",
-    "MDT",
-    "MRK",
-    "PFE"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "4943abaa605a",
-   "headline": "What Would It Take For Rising Medical Costs To Break UnitedHealth Stock?",
-   "summary": "UnitedHealth Group (UNH) stock trades at 25.6 times its earnings over the last twelve months. That valuation represents a premium against 22.9 for the S&P 500, suggesting investors are betting on a profit recovery. On October 13, 2026,\u2026",
-   "url": "https://finnhub.io/api/news?id=a5c5b5542bbfbb1c491d1355694f764bf8b41e4e442728a3e18ff26227767002",
-   "source": "Yahoo",
-   "published": "2026-10-19T12:55:47+00:00",
-   "tickers": [
-    "CI",
-    "CNC",
-    "CVS",
-    "ELV",
-    "HUM",
-    "UNH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "edd9c74b98b1",
-   "headline": "Can Lifyorli Aid Corcept's Long-Term Growth Prospects Beyond Korlym?",
-   "summary": "CORT banks on newly approved drug, Lifyorli, while potential new approvals and clinical studies could help diversify revenues beyond Korlym.",
-   "url": "https://finnhub.io/api/news?id=e63346af1266ab5a54cae65363364926762d38f72f0b87a71b3e94bdc4d2d51b",
-   "source": "Yahoo",
-   "published": "2026-10-19T12:50:00+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "bff27815de92",
-   "headline": "1 Profitable Stock Worth Investigating and 2 We Brush Off",
-   "summary": "Not all profitable companies are built to last - some rely on outdated models or unsustainable advantages. Just because a business is in the green today doesn\u2019t mean it will thrive tomorrow.",
-   "url": "https://finnhub.io/api/news?id=5e2b4ba7a25fabb6e7a5960d621a2f2fcdfc08fc6ab2f4577b3870acf62685d0",
-   "source": "Yahoo",
-   "published": "2026-10-19T12:48:55+00:00",
-   "tickers": [
-    "CAH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharmacy"
-   ]
   }
  ]
 }
