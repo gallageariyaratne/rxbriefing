@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-29T08:02:53.385966+00:00",
+ "updated": "2026-10-29T08:17:33.541265+00:00",
  "quotes": {
   "A": {
    "price": 181.48,
@@ -202,10 +202,6 @@
    "price": 279.04,
    "change_pct": 2.76
   },
-  "IRTC": {
-   "price": 123.99,
-   "change_pct": 0.19
-  },
   "ISRG": {
    "price": 444.18,
    "change_pct": -0.38
@@ -274,10 +270,6 @@
    "price": 156.08,
    "change_pct": -0.5
   },
-  "OMCL": {
-   "price": 35.95,
-   "change_pct": -2.2
-  },
   "OSCR": {
    "price": 30.48,
    "change_pct": -2.78
@@ -317,6 +309,14 @@
   "RMD": {
    "price": 250.17,
    "change_pct": -0.25
+  },
+  "RXRX": {
+   "price": 4.35,
+   "change_pct": 7.41
+  },
+  "SDGR": {
+   "price": 30.87,
+   "change_pct": 15.53
   }
  },
  "tickers": {
@@ -1133,7 +1133,9 @@
    "source": "SeekingAlpha",
    "published": "2026-10-29T02:57:22+00:00",
    "tickers": [
+    "ABBV",
     "ABT",
+    "BDX",
     "JNJ"
    ],
    "tag": "News",
@@ -48182,36 +48184,6 @@
    "tag": "Policy",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "9ef15a93d8d1",
-   "headline": "Johnson & Johnson Announces 1-Yr Results From Phase 3 FUZION Study Showing TREMFYA Maintained Or Improved Fistula Remission Through 48 Weeks In Adults With Crohn's Disease",
-   "summary": "TREMFYA maintained combined fistula remission through Week 48 across both maintenance dose regimens, including an increase from 28% at Week 24 to 35% at Week 48 in the 100 mg dose groupThese findings build on the Phase",
-   "url": "https://finnhub.io/api/news?id=70c02f0407992eddc531adc244fe207d391951092780e4ef5e19e54e1eea4245",
-   "source": "Benzinga",
-   "published": "2026-10-19T08:08:50+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "5ec2d6de28ce",
-   "headline": "argenx SE To Present New Data From Phase 3 Study Evaluating VYVGART Hytrulo In Patients With Autoimmune Myositis, Focused On IMNM And DM, At ACR Convergence 2026",
-   "summary": "Results from the global Phase 3 ALKIVIA study, the first registrational study investigating an FcRn blocker in autoimmune myositis, show efgartigimod provides clinically meaningful improvements in IMNM and DM Patient",
-   "url": "https://finnhub.io/api/news?id=93a237ee22175ac6de3a1118a5b9983e0e2d30d68514a649b97ea85e1370d53d",
-   "source": "Benzinga",
-   "published": "2026-10-19T08:07:53+00:00",
-   "tickers": [
-    "ARGX"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "biotech"
    ]
   }
  ]
