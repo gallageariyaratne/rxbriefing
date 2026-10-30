@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-30T00:17:30.382444+00:00",
+ "updated": "2026-10-30T00:32:40.803068+00:00",
  "quotes": {
   "A": {
    "price": 181.15,
@@ -298,10 +298,6 @@
    "price": 37.52,
    "change_pct": 1.1
   },
-  "SDGR": {
-   "price": 29.99,
-   "change_pct": -2.85
-  },
   "SNY": {
    "price": 43.13,
    "change_pct": 2.11
@@ -321,6 +317,10 @@
   "TECH": {
    "price": 72.71,
    "change_pct": 0.03
+  },
+  "THC": {
+   "price": 270.57,
+   "change_pct": 0.77
   }
  },
  "tickers": {
@@ -964,6 +964,21 @@
    ]
   },
   {
+   "id": "93f0f8899e22",
+   "headline": "Cyberattack Fallout Could Be A Game Changer For Boston Scientific (BSX)",
+   "summary": "Boston Scientific reported Q3 2026 sales of US$5,138 million and net income of US$582 million, alongside impairment charges and a reduced full year outlook after a prior cyberattack disrupted manufacturing and shipments. The updated\u2026",
+   "url": "https://finnhub.io/api/news?id=afbd779e76914045065f18b53910a2a935e7e8dd3300ab9ea2cc4d88b66ee413",
+   "source": "Yahoo",
+   "published": "2026-10-29T22:15:12+00:00",
+   "tickers": [
+    "BSX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "a3d66f0f0981",
    "headline": "After-Hours S&P 500 Movers: Mondelez and FedEx Freight Gain, Intel and Reddit Fall",
    "summary": "S&P 500 after-hours movers: Mondelez International and FedEx Freight were among gainers, while Intel and Reddit were among decliners after today's U.S. session.",
@@ -974,7 +989,8 @@
     "DVA",
     "GILD",
     "ILMN",
-    "SYK"
+    "SYK",
+    "VRTX"
    ],
    "tag": "News",
    "sectors": [
