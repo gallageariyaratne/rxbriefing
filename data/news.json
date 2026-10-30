@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-30T12:17:44.544899+00:00",
+ "updated": "2026-10-30T12:32:53.752305+00:00",
  "quotes": {
   "A": {
    "price": 181.15,
@@ -218,10 +218,6 @@
    "price": 275.2,
    "change_pct": 1.53
   },
-  "LEGN": {
-   "price": 22.3,
-   "change_pct": -1.02
-  },
   "LFST": {
    "price": 13.63,
    "change_pct": 1.83
@@ -321,6 +317,10 @@
   "RVMD": {
    "price": 190.27,
    "change_pct": 0.82
+  },
+  "RXRX": {
+   "price": 4.24,
+   "change_pct": -2.53
   }
  },
  "tickers": {
@@ -938,6 +938,21 @@
  },
  "stories": [
   {
+   "id": "ad7c07075e78",
+   "headline": "Teladoc Health beats Q3 expectations as BetterHelp insurance growth accelerates",
+   "summary": "Teladoc Health raised its 2026 outlook after better-than-expected third-quarter results, as BetterHelp\u2019s insurance pivot gained traction and Integrated Care profitability improved.",
+   "url": "https://www.fiercehealthcare.com/health-tech/teladoc-health-beats-q3-expectations-betterhelp-insurance-growth-accelerates",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-30T12:30:30.317201+00:00",
+   "tickers": [
+    "TDOC"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "aa8d9b28e068",
    "headline": "Earnings roundup: Lilly\u2019s unwavering momentum, Novartis\u2019 rebound and GSK\u2019s waiting game",
    "summary": "Lilly\u2019s better-than-expected results allayed concerns \u2014 for now \u2014 over GLP-1 pricing pressure. Elsewhere, Novartis withstood a tumultuous quarter and GSK battled investor angst.",
@@ -985,6 +1000,21 @@
    ]
   },
   {
+   "id": "0c50cbc4b9b7",
+   "headline": "Why Did Insmed Stock Jump?",
+   "summary": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://finnhub.io/api/news?id=0c12fe4d164f588c8d578a8f8ba4f5d91be11af4c8e6761868f747179df8eb66",
+   "source": "Yahoo",
+   "published": "2026-10-30T11:15:53+00:00",
+   "tickers": [
+    "VRTX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "1686d2ab0848",
    "headline": "What Sent Eli Lilly Stock Higher?",
    "summary": "For questions about this article or underlying research, email help@trefis.com.",
@@ -992,7 +1022,8 @@
    "source": "Yahoo",
    "published": "2026-10-30T11:15:51+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "JNJ"
    ],
    "tag": "News",
    "sectors": [
@@ -1007,9 +1038,26 @@
    "source": "Yahoo",
    "published": "2026-10-30T11:14:36+00:00",
    "tickers": [
-    "HCA"
+    "HCA",
+    "RMD"
    ],
    "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "c53debbba30b",
+   "headline": "Is Buying McKesson Stock Near Its High A Bad Idea?",
+   "summary": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://finnhub.io/api/news?id=0dff1459e504df4e0d9ae93ec9950a0fc7f4dc75c8c887e3a012ddf784854698",
+   "source": "Yahoo",
+   "published": "2026-10-30T10:49:53+00:00",
+   "tickers": [
+    "COR",
+    "CVS"
+   ],
+   "tag": "News",
    "sectors": [
     "payers"
    ]
@@ -1037,7 +1085,8 @@
    "source": "Yahoo",
    "published": "2026-10-30T10:49:42+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "JNJ"
    ],
    "tag": "News",
    "sectors": [
@@ -1083,6 +1132,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "14834823ae49",
+   "headline": "RMD Stock Up on Q1 Earnings and Revenue Beat, Gross Margin Climbs",
+   "summary": "ResMed's first-quarter fiscal 2027 earnings and revenues top estimates as sustained sleep device demand, productivity gains and gross margin expansion drive growth.",
+   "url": "https://finnhub.io/api/news?id=7fef578c9d60cfcce3de115efdfe0dd5034dfcce3642c534f665bba1d99b8227",
+   "source": "Yahoo",
+   "published": "2026-10-30T10:28:00+00:00",
+   "tickers": [
+    "RMD"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -1326,6 +1390,21 @@
    ]
   },
   {
+   "id": "8d25109b82d7",
+   "headline": "Nanobiotix: The Phase 3 May Come Later, And Lenders Get Paid First",
+   "summary": "Nanobiotix stock hinges on J&J\u00e2\u0080\u0099s JNJ-1900 Phase 3 success, with delayed catalysts and lender claims pressuring upside. Click here to read more on NBTX.",
+   "url": "https://finnhub.io/api/news?id=16287ebdfbe1e27147020cf1bb34975dce1d02f7cf4e5fe195086cceb9cfdc2f",
+   "source": "SeekingAlpha",
+   "published": "2026-10-30T07:30:46+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "ba5bf0aca14b",
    "headline": "What Might The October Job Report Look Like?",
    "summary": "October jobs report: election and inflation risks, sector winners, and top stock picks in health care, finance, manufacturing, and defense.",
@@ -1356,6 +1435,21 @@
    ]
   },
   {
+   "id": "e0a12472b8c6",
+   "headline": "Takeda Pharmaceutical's Earnings Growth Has Yet To Translate To Higher Cash Flow",
+   "summary": "Takeda Pharmaceutical is reiterated as a hold, with concerns about its ability to replace major drug revenues and current valuation. Read more on TAK stock here.",
+   "url": "https://finnhub.io/api/news?id=ac628021f55588a9458b8875d07ecb37a144152e68600d1f1dac052f8453f97b",
+   "source": "SeekingAlpha",
+   "published": "2026-10-30T07:29:32+00:00",
+   "tickers": [
+    "TAK"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "ca8fb3bea279",
    "headline": "Sanofi Q3 earnings blow past expectations on Dupixent strength; hikes FY guidance",
    "summary": "Investing.com-- Sanofi SA (EPA:SASY) clocked stronger-than-expected third-quarter earnings on Friday, aided chiefly by robust sales of its eczema drug Dupixent, with the French drugmaker also hiking its annual outlook.",
@@ -1379,7 +1473,8 @@
    "published": "2026-10-30T07:21:30+00:00",
    "tickers": [
     "GILD",
-    "GSK"
+    "GSK",
+    "TAK"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -52831,36 +52926,6 @@
    "tag": "M&A",
    "sectors": [
     "tools"
-   ]
-  },
-  {
-   "id": "bf2c72ebdafb",
-   "headline": "Neurocrine Biosciences Initiates Phase 2 Clinical Study Evaluating NBI-'567 in Adults with Alzheimer's Disease",
-   "summary": "Neurocrine Biosciences, Inc. (Nasdaq: NBIX) today announced the initiation of its Phase 2 clinical study of investigational compound NBI-1117567 (NBI-'567) in adults with mild to moderate Alzheimer's disease. NBI-'567 is an orally\u2026",
-   "url": "https://finnhub.io/api/news?id=209c2ce8d5dedb1f87a2c2a5f9b783a29d033906bd05195889daa81e903c8e11",
-   "source": "Yahoo",
-   "published": "2026-10-20T12:30:00+00:00",
-   "tickers": [
-    "NBIX"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "3584013edae9",
-   "headline": "Myriad Genetics and Labcorp Announce Definitive Agreement for Myriad to Sell Prenatal Health Testing Business to Labcorp",
-   "summary": "Transaction to benefit patients through expanded access and support Myriad\u2019s strategic prioritiesSALT LAKE CITY and BURLINGTON, N.C., Oct. 20, 2026 (GLOBE NEWSWIRE) -- Myriad Genetics, Inc. (NASDAQ: MYGN), a leader in molecular diagnostic\u2026",
-   "url": "https://finnhub.io/api/news?id=2aa3004e43886a0a75cf3d9f5bdec77f5872d1b344218e9237cc2b9011363b2f",
-   "source": "Yahoo",
-   "published": "2026-10-20T12:30:00+00:00",
-   "tickers": [
-    "LH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
    ]
   }
  ]
