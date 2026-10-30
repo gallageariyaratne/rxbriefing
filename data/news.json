@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-30T08:02:45.261615+00:00",
+ "updated": "2026-10-30T08:17:34.910013+00:00",
  "quotes": {
   "A": {
    "price": 181.15,
@@ -133,10 +133,6 @@
   "ENSG": {
    "price": 186.32,
    "change_pct": 1.2
-  },
-  "EVH": {
-   "price": 4.25,
-   "change_pct": -1.85
   },
   "EW": {
    "price": 94.44,
@@ -321,6 +317,10 @@
   "PEN": {
    "price": 321.97,
    "change_pct": 1.15
+  },
+  "PFE": {
+   "price": 29.95,
+   "change_pct": 1.7
   }
  },
  "tickers": {
@@ -938,6 +938,17 @@
  },
  "stories": [
   {
+   "id": "157003cfd908",
+   "headline": "Bambusa shoots past IPO targets as Aspen trims offering",
+   "summary": "Bambusa Therapeutics has upsized its IPO, selling more shares at the midpoint of its target range to gross $168.9 million for bispecific R&D. But Aspen Neuroscience underperformed expectations, hitting the bottom end of its target range\u2026",
+   "url": "https://www.fiercebiotech.com/biotech/bambusa-shoots-past-ipo-targets-aspen-trims-offering",
+   "source": "Fierce Biotech",
+   "published": "2026-10-30T08:15:20.680727+00:00",
+   "tickers": [],
+   "tag": "Financing",
+   "sectors": []
+  },
+  {
    "id": "4d1d4d171e06",
    "headline": "Sanofi considering \u2018moonshot\u2019 treatments as M&A targets to survive Dupixent patent cliff",
    "summary": "Sanofi is considering \u201cmoonshot\u201d treatments among the potential acquisition targets needed for the French pharma to urgently replenish its pipeline, Chief Financial Officer Fran\u00e7ois-Xavier Roger told Fierce.",
@@ -973,6 +984,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "e39a20f70ad3",
+   "headline": "The Case Against a SpaceX and Tesla Merger",
+   "summary": "The market is getting excited about a potential merger, but now may not be the right time for Tesla shareholders to get the best deal.",
+   "url": "https://finnhub.io/api/news?id=88ab17534752bbf924b90cc37e81263a24a5c40b875e714ddbce57d49ffb89ec",
+   "source": "Yahoo",
+   "published": "2026-10-30T06:50:00+00:00",
+   "tickers": [
+    "DHR"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "tools"
+   ]
   },
   {
    "id": "9b1c36b94866",
@@ -53591,96 +53617,6 @@
    "tag": "News",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "affa1b5a8a11",
-   "headline": "Danaher (DHR) Reports Q3: Everything You Need To Know Ahead Of Earnings",
-   "summary": "Diversified science and technology company Danaher (NYSE:DHR) will be announcing earnings results this Wednesday morning. Here\u2019s what to expect.",
-   "url": "https://finnhub.io/api/news?id=a5300473ac2aa4ffd496abe672832b2a85091e0568e10159a4f49bdd37464c5d",
-   "source": "Yahoo",
-   "published": "2026-10-20T08:13:50+00:00",
-   "tickers": [
-    "DHR"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "7df067b482bc",
-   "headline": "Mizuho Maintains Neutral on McKesson, Raises Price Target to $1020",
-   "summary": "Mizuho analyst Steven Valiquette maintains McKesson (NYSE:MCK) with a Neutral and raises the price target from $905 to $1020.",
-   "url": "https://finnhub.io/api/news?id=cd35d0efbe5d1a834c0a1bf161fd864491c79ca66d5cf31f0a492dde95c3b864",
-   "source": "Benzinga",
-   "published": "2026-10-20T08:12:06+00:00",
-   "tickers": [
-    "MCK"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharmacy"
-   ]
-  },
-  {
-   "id": "6b5834124e98",
-   "headline": "Mizuho Maintains Outperform on Cardinal Health, Raises Price Target to $280",
-   "summary": "Mizuho analyst Steven Valiquette maintains Cardinal Health (NYSE:CAH) with a Outperform and raises the price target from $250 to $280.",
-   "url": "https://finnhub.io/api/news?id=74013e131e8a875dce40d0a99b9b94c12c9b7ff2bacdf94abfdf805d61636a3b",
-   "source": "Benzinga",
-   "published": "2026-10-20T08:10:51+00:00",
-   "tickers": [
-    "CAH"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharmacy"
-   ]
-  },
-  {
-   "id": "251e5108d30d",
-   "headline": "Jefferies Downgrades Zoetis to Hold, Lowers Price Target to $83",
-   "summary": "Jefferies analyst Keith Devas downgrades Zoetis (NYSE:ZTS) from Buy to Hold and lowers the price target from $103 to $83.",
-   "url": "https://finnhub.io/api/news?id=0a9489b77c45458d7d6f38479f778166f3fca19744585c3e29e184253bc321cc",
-   "source": "Benzinga",
-   "published": "2026-10-20T08:09:22+00:00",
-   "tickers": [
-    "ZTS"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "173e795366b0",
-   "headline": "12 Health Care Stocks Moving In Tuesday's Pre-Market Session",
-   "summary": "Gainers SCWorx (NASDAQ:WORX) stock rose 47.8% to $3.96 during Tuesday's pre-market session. Integra Lifesciences (NASDAQ:IART) shares increased by 31.97% to $17.75. The market value of their outstanding shares is",
-   "url": "https://finnhub.io/api/news?id=d76402aa771a0f7f60465617639a7c7f1446a7a8591a0c9dbdb765675cd26df1",
-   "source": "Benzinga",
-   "published": "2026-10-20T08:05:40+00:00",
-   "tickers": [
-    "IART"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "2d29e728dd2a",
-   "headline": "Teva Pharma And Sanofi Report Duvakitug Maintained Efficacy Through 44 Weeks In Ulcerative Colitis And Crohn's Disease",
-   "summary": "In UC, duvakitug maintained high rates of clinical remission, clinical response, and endoscopic improvement at Week 44In CD, duvakitug maintained high rates of endoscopic response, clinical response, and clinical",
-   "url": "https://finnhub.io/api/news?id=5d0e3556560437330f4449f2ee8e53a83b138bd8e9e1f1963f3f1e57973282e6",
-   "source": "Benzinga",
-   "published": "2026-10-20T08:02:42+00:00",
-   "tickers": [
-    "SNY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
