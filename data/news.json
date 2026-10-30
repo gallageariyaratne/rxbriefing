@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-30T20:32:39.008351+00:00",
+ "updated": "2026-10-30T20:47:40.725923+00:00",
  "quotes": {
   "A": {
    "price": 174.87,
@@ -218,17 +218,9 @@
    "price": 146.1,
    "change_pct": -0.19
   },
-  "NTLA": {
-   "price": 12.47,
-   "change_pct": -5.74
-  },
   "NTRA": {
    "price": 414.3,
    "change_pct": -4.98
-  },
-  "NVO": {
-   "price": 40,
-   "change_pct": 2.2
   },
   "NVS": {
    "price": 160.79,
@@ -321,6 +313,14 @@
   "UTHR": {
    "price": 598.72,
    "change_pct": 0.87
+  },
+  "VEEV": {
+   "price": 312.96,
+   "change_pct": 0.84
+  },
+  "VRTX": {
+   "price": 558.88,
+   "change_pct": 3.5
   }
  },
  "tickers": {
@@ -938,6 +938,21 @@
  },
  "stories": [
   {
+   "id": "82393ad009bd",
+   "headline": "PTC Therapeutics Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
+   "summary": "WARREN, N.J., Oct. 30, 2026 /PRNewswire/ -- PTC Therapeutics, Inc. (NASDAQ: PTCT) today announced that on Oct. 28, 2026, the company approved non-statutory stock options to purchase an aggregate of 9.620 shares of its common stock and\u2026",
+   "url": "https://www.prnewswire.com/news-releases/ptc-therapeutics-reports-inducement-grants-under-nasdaq-listing-rule-5635c4-302925016.html",
+   "source": "PR Newswire",
+   "published": "2026-10-30T20:30:00+00:00",
+   "tickers": [
+    "PTCT"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "0f6c5e12ea4e",
    "headline": "The Confidence Trap: What a New Survey Reveals About AI and Health Decisions",
    "summary": "A new survey explores how people use general-purpose AI tools for health decisions, and how it\u2019s influencing when and where they seek care.",
@@ -1062,6 +1077,21 @@
    ]
   },
   {
+   "id": "4457ee1204b4",
+   "headline": "Ensign Group (ENSG) Stock May Be Near Fair Value On Cash Flow",
+   "summary": "Ensign Group has delivered a strong run over the past few years, and the share price now reflects a lot of optimism. The live question is whether that price is in line with the cash flows the business is expected to generate. Over the\u2026",
+   "url": "https://finnhub.io/api/news?id=a0bdf65d3876bae3eb2eac0337defb91b777b3231a35b4063aff2361aefb735b",
+   "source": "Yahoo",
+   "published": "2026-10-30T19:09:22+00:00",
+   "tickers": [
+    "ENSG"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "4f4f7a8df696",
    "headline": "How Investors Are Reacting To Johnson & Johnson Stock New Drug Progress",
    "summary": "Johnson & Johnson has released a string of positive trial readouts and product updates in oncology, immunology and MedTech, including data for subcutaneous amivantamab, JNJ-6143 and TREMFYA, alongside new device launches and regulatory\u2026",
@@ -1119,6 +1149,21 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "39047793f247",
+   "headline": "Can Abbott Laboratories (ABT) Stay Reasonable As Its Breakup Nears?",
+   "summary": "Abbott Laboratories has seen a mixed share price record in recent years, which raises a straightforward question for anyone following the stock: Are the cash flows that Abbott can generate over time enough to justify where the shares\u2026",
+   "url": "https://finnhub.io/api/news?id=a180f8d97e2b4dbad4a2cad5a2d42572fdaff131c2775c55d4610012e1ba666b",
+   "source": "Yahoo",
+   "published": "2026-10-30T18:18:28+00:00",
+   "tickers": [
+    "ABT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -1197,7 +1242,8 @@
    "source": "Yahoo",
    "published": "2026-10-30T17:56:00+00:00",
    "tickers": [
-    "BSX"
+    "BSX",
+    "ISRG"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -3701,6 +3747,21 @@
     "MRNA"
    ],
    "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "dd5a2ac85776",
+   "headline": "Are Wall Street Analysts Predicting Pfizer\u2019s Stock Will Climb or Sink?",
+   "summary": "Pfizer has surpassed the broader S&P 500 Index over the past year, and analysts are cautious about the stock\u2019s prospects.",
+   "url": "https://finnhub.io/api/news?id=761bc2c2e4461a65467d6d76e94c39c9c7483e3ad630202e19714e10085be775",
+   "source": "Yahoo",
+   "published": "2026-10-30T12:12:25+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "Analyst",
    "sectors": [
     "pharma"
    ]
@@ -55609,111 +55670,6 @@
    "tag": "News",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "0b7c77c51781",
-   "headline": "Intuitive Surgical Stock Slides Despite Earnings Beat as Company Discloses Settlement",
-   "summary": "Intuitive Surgical beat quarterly estimates but disclosed an antitrust settlement and narrowed its procedure-growth forecast.",
-   "url": "https://finnhub.io/api/news?id=d73331f3abcdeae080388d038ebfb0326e805170e1e0e99170fc4c2c72170b5b",
-   "source": "Yahoo",
-   "published": "2026-10-20T20:46:00+00:00",
-   "tickers": [
-    "ISRG",
-    "JNJ",
-    "MDT"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "36368a616646",
-   "headline": "DOJ streamlines voluntary self-disclosure of healthcare fraud",
-   "summary": "A policy change directs healthcare organizations seeking lighter repercussions from potentially criminal fraud activity to disclose to DOJ alone, rather than separately between law enforcement and Department of Health and Human Services\u2026",
-   "url": "https://www.fiercehealthcare.com/regulatory/doj-streamlines-voluntary-self-disclosure-healthcare-fraud",
-   "source": "Fierce Healthcare",
-   "published": "2026-10-20T20:45:21.195901+00:00",
-   "tickers": [],
-   "tag": "Legal",
-   "sectors": []
-  },
-  {
-   "id": "16f2f46e5124",
-   "headline": "Centene, Oscar Health outline 2027 ACA marketplace plans",
-   "summary": "Open enrollment for the Affordable Care Act's marketplaces begins on Nov. 1, and with more turbulence on deck, insurers are offering a look at their plans for the coming year.",
-   "url": "https://www.fiercehealthcare.com/payers/centene-oscar-health-outline-2027-aca-marketplace-plans",
-   "source": "Fierce Healthcare",
-   "published": "2026-10-20T20:45:21.195099+00:00",
-   "tickers": [
-    "CNC",
-    "OSCR"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "acd83e052737",
-   "headline": "Pfizer (PFE) Surpasses Market Returns: Some Facts Worth Knowing",
-   "summary": "In the latest trading session, Pfizer (PFE) closed at $30.11, marking a +2.28% move from the previous day.",
-   "url": "https://finnhub.io/api/news?id=5c554f19368c85befd37cd10c9178598e9f34ce0b2fce123c581d489d25d19b2",
-   "source": "Yahoo",
-   "published": "2026-10-20T20:45:05+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "1f09fc228aa6",
-   "headline": "Zoetis Receives FDA Approval for Convenia\u00ae RTU for Dogs (cefovecin injectable suspension), Helping More Medium and Large Dogs Access Single-Injection Treatment",
-   "summary": "PARSIPPANY, N.J., October 20, 2026--Convenia RTU for Dogs provides up to 14 days of antibiotic treatment in a single dose for susceptible bacterial skin infections",
-   "url": "https://finnhub.io/api/news?id=0fd1e70c60074b521420666410d81e6607e9d5b754914a886d52f0c680c029a5",
-   "source": "Yahoo",
-   "published": "2026-10-20T20:42:00+00:00",
-   "tickers": [
-    "ZTS"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "f9278549be76",
-   "headline": "OpenAI acquires startup Orchestra Bio\u2060 to beef up its biotech business",
-   "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
-   "url": "https://finnhub.io/api/news?id=48a2cbbf1adbc6051988163a49e8a13292fcdfc3889377530faed9172a32a040",
-   "source": "Yahoo",
-   "published": "2026-10-20T20:35:10+00:00",
-   "tickers": [
-    "MRNA",
-    "NVO"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "7765a1e19ca6",
-   "headline": "CVS targets former Walgreens, Rite Aid customers after 1,000 stores close",
-   "summary": "The national pharmacy retail chain is making a push to win over customers that rivals have abandoned.",
-   "url": "https://finnhub.io/api/news?id=b8d8f5e25e80c422068451bfb6524a78e7653e983646ba1c1503ee596d010e90",
-   "source": "Yahoo",
-   "published": "2026-10-20T20:33:00+00:00",
-   "tickers": [
-    "CVS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
    ]
   }
  ]
