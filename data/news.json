@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-30T02:17:51.560512+00:00",
+ "updated": "2026-10-30T02:32:35.275756+00:00",
  "quotes": {
   "A": {
    "price": 181.15,
@@ -33,6 +33,10 @@
   "AMGN": {
    "price": 460.73,
    "change_pct": 1.97
+  },
+  "AXSM": {
+   "price": 143.45,
+   "change_pct": -0.04
   },
   "AZN": {
    "price": 174.4,
@@ -317,10 +321,6 @@
   "RGEN": {
    "price": 188.64,
    "change_pct": 2.14
-  },
-  "RMD": {
-   "price": 252.83,
-   "change_pct": 1.06
   }
  },
  "tickers": {
@@ -937,6 +937,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "91ee6c769c82",
+   "headline": "Tecan Group (SWX:TECN) Stock Could Be A Bargain On Its 92% Run",
+   "summary": "Tecan Group has put in a powerful run this year, and the share price now asks investors to judge whether the underlying cash flows are strong enough to support that kind of enthusiasm. With the stock sharply higher, the key issue is how\u2026",
+   "url": "https://finnhub.io/api/news?id=c38f0d15c87d29e71340a645cd09f86fbc89fdc8ed7b66820c28fbdabf64e711",
+   "source": "Yahoo",
+   "published": "2026-10-30T01:09:02+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
   {
    "id": "99244b78f6e5",
    "headline": "Glaukos (GKOS) Stock Charges Higher On Q3 Earnings Surprise",
@@ -2870,6 +2885,21 @@
    ]
   },
   {
+   "id": "69f3c90306bb",
+   "headline": "Could Axsome Therapeutics Turn $5,000 Into $50,000 by 2035?",
+   "summary": "The stock has experienced a pullback in the past few months.",
+   "url": "https://finnhub.io/api/news?id=eb54ae6a69ea4c5f4f0e1b6b0fd4f950c6d2c54a476cde8e78cd957d2a0ad3a0",
+   "source": "Yahoo",
+   "published": "2026-10-29T18:20:00+00:00",
+   "tickers": [
+    "AXSM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "ef17373869c7",
    "headline": "Eli Lilly scraps phase 2 Alzheimer's program after drug falls short of expectations",
    "summary": "Eli Lilly has dropped its phase 2 Alzheimer's disease program for mevidalen, marking another setback for the experimental drug as the Big Pharma expands its neuroscience pipeline through multibillion-dollar acquisitions.",
@@ -3001,7 +3031,8 @@
    "published": "2026-10-29T18:11:00+00:00",
    "tickers": [
     "INCY",
-    "LLY"
+    "LLY",
+    "NVS"
    ],
    "tag": "M&A",
    "sectors": [
@@ -3583,6 +3614,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "25f8a774b516",
+   "headline": "VKTX Q3 Earnings Miss Estimates Amid Rising Clinical Expenses",
+   "summary": "Viking Therapeutics' Q3 loss widens as rising costs weigh on results, while its obesity drug candidate advances through phase III studies.",
+   "url": "https://finnhub.io/api/news?id=98aa79fe17897d152ce7b38788a2c14c9e4cfd76d77b62cc3b4bf33dc06e8beb",
+   "source": "Yahoo",
+   "published": "2026-10-29T15:52:00+00:00",
+   "tickers": [
+    "VKTX"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "biotech"
+   ]
   },
   {
    "id": "d5225f1bc3c5",
@@ -4737,7 +4783,8 @@
    "published": "2026-10-29T14:21:00+00:00",
    "tickers": [
     "LLY",
-    "NVO"
+    "NVO",
+    "VKTX"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -4932,7 +4979,8 @@
    "tickers": [
     "HIMS",
     "LLY",
-    "NVO"
+    "NVO",
+    "VKTX"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -4967,6 +5015,21 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "66e4ded7c1c5",
+   "headline": "Egl\u0117 Eidimtait\u0117 takes office as a member of the Supervisory Council of AB Artea bankas",
+   "summary": "On 28 October 2026 AB Artea bankas received notification from the European Central Bank (ECB) that the Governing Council of the ECB has decided not to object to the appointment of Egl\u0117 Eidimtait\u0117 as an member of the Supervisory Council of\u2026",
+   "url": "https://finnhub.io/api/news?id=bed478d97510bd66b0d20a4d32bde318b10c45cf5d94aecffb852f3c6ba7d040",
+   "source": "Yahoo",
+   "published": "2026-10-29T14:00:00+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -5687,6 +5750,21 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "5961393195c4",
+   "headline": "VKTX Q3 Earnings Call Highlights Obesity Pipeline Progress",
+   "summary": "Viking Therapeutics advances its Phase III obesity trials, reports promising VK2735 maintenance data and strengthens its cash position despite widening losses.",
+   "url": "https://finnhub.io/api/news?id=54ec1ef68a258016333deaab9e476876772691e28a4db77f951817ae8607b613",
+   "source": "Yahoo",
+   "published": "2026-10-29T13:00:00+00:00",
+   "tickers": [
+    "VKTX"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -8057,6 +8135,36 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "0c095a1ee5aa",
+   "headline": "Norwegian Air Shuttle (OB:NAS) Stock Q3 Results Defy Margin Fears",
+   "summary": "Norwegian Air Shuttle came into this Q3 2026 print with a stock that has drifted, down about 13% over 90 days and modestly higher over the past week, as investors weighed thin margins against a rich dividend and mixed valuation signals.\u2026",
+   "url": "https://finnhub.io/api/news?id=2d3bcb6761cddfa65aee3b90440b95b7aa90d149686c6ce83fd396f7a2bd8ec5",
+   "source": "Yahoo",
+   "published": "2026-10-29T08:22:39+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "af560d23bbdb",
+   "headline": "Viking Therapeutics (VKTX) Posted Wider Losses, Is The Stock Overvalued?",
+   "summary": "Viking Therapeutics (VKTX) just posted third quarter results that widened its net loss, as spending on late stage obesity drug programs increased and investors weighed the updated launch timeline. At a share price of $25.36, Viking\u2026",
+   "url": "https://finnhub.io/api/news?id=2a4d5ec267c3c815e87c67a0bbb0362da6182a49013564e78f2a316871c64334",
+   "source": "Yahoo",
+   "published": "2026-10-29T08:18:18+00:00",
+   "tickers": [
+    "VKTX"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -53096,21 +53204,6 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "ededee5c4fe5",
-   "headline": "Is Ensign Group (ENSG) Undervalued On Class Action And Neglect Allegations?",
-   "summary": "Ensign Group (ENSG) is back in focus after a securities class action was filed on October 9, 2026, following investigative reports alleging systemic patient neglect, data manipulation, and misuse of federal program funding. At a share\u2026",
-   "url": "https://finnhub.io/api/news?id=317a7785ad1fbb0926b86a3752d65e646b29bd16d6c43305dd6538e124c475f3",
-   "source": "Yahoo",
-   "published": "2026-10-20T02:20:29+00:00",
-   "tickers": [
-    "ENSG"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
    ]
   }
  ]
