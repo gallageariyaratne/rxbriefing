@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-30T21:02:49.271496+00:00",
+ "updated": "2026-10-30T21:17:28.013056+00:00",
  "quotes": {
   "A": {
    "price": 174.87,
@@ -226,10 +226,6 @@
    "price": 160.79,
    "change_pct": -0.19
   },
-  "OMCL": {
-   "price": 36.65,
-   "change_pct": -0.62
-  },
   "OPCH": {
    "price": 31.83,
    "change_pct": -0.06
@@ -237,10 +233,6 @@
   "OSCR": {
    "price": 30.37,
    "change_pct": -1.36
-  },
-  "PACB": {
-   "price": 2.6,
-   "change_pct": -10.17
   },
   "PEN": {
    "price": 318.95,
@@ -1295,6 +1287,21 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "8f7e699541b8",
+   "headline": "REGN Q3 Earnings Beat on Dupixent Profits & Eylea HD Growth, Stock Up",
+   "summary": "Regeneron's Q3 earnings and revenues beat estimates, fueled by strong Dupixent profits, Eylea HD growth and robust Libtayo demand. Stock up.",
+   "url": "https://finnhub.io/api/news?id=dd08a5c661d8dac859f7b8e27be2006f66bd409d427319178584be08aea8c9df",
+   "source": "Yahoo",
+   "published": "2026-10-30T17:55:00+00:00",
+   "tickers": [
+    "REGN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -55581,52 +55588,6 @@
    "tickers": [],
    "tag": "Earnings",
    "sectors": []
-  },
-  {
-   "id": "ed4033103f7c",
-   "headline": "S&P 500 After-Hours Movers: Oct. 20 Gainers and Decliners",
-   "summary": "Super Micro Computer and Capital One led S&P 500 after-hours gainers on Oct. 20, while Lowe's and Intuitive Surgical led decliners.",
-   "url": "https://finnhub.io/api/news?id=c64ac84300eb06af8778d97c23770198223fcac002263e5deebf7dd9a10e0385",
-   "source": "ChartMill",
-   "published": "2026-10-20T21:05:59+00:00",
-   "tickers": [
-    "ISRG",
-    "ZBH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "7cf2cdfe52dd",
-   "headline": "Intuitive Surgical Tumbles After Robotic Surgery Behemoth Narrows 2026 Outlook",
-   "summary": "Intuitive Surgical stock tumbled late Tuesday after the company narrowed its guidance for 2026 da Vinci procedure growth.",
-   "url": "https://finnhub.io/api/news?id=662c96d482611a0a1334b0971c189cccd38f24b080c3b26747987958aaeed58b",
-   "source": "Yahoo",
-   "published": "2026-10-20T21:04:35+00:00",
-   "tickers": [
-    "ISRG"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "2e207043c9c4",
-   "headline": "Why Is Doximity (DOCS) Stock Rocketing Higher Today",
-   "summary": "Shares of medical professional network Doximity (NYSE:DOCS) jumped 7.3% in the afternoon session after the company announced a partnership with Wolters Kluwer Health to integrate UpToDate clinical content into its Doximity Ask platform.",
-   "url": "https://finnhub.io/api/news?id=089fb6d400e138a1f8335845cb0bca7c5a122a2b360ae47f28428a41ea426ca4",
-   "source": "Yahoo",
-   "published": "2026-10-20T21:01:50+00:00",
-   "tickers": [
-    "DOCS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "healthit"
-   ]
   }
  ]
 }
