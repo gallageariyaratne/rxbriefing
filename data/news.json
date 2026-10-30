@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-30T12:02:55.775708+00:00",
+ "updated": "2026-10-30T12:17:44.544899+00:00",
  "quotes": {
   "A": {
    "price": 181.15,
@@ -69,10 +69,6 @@
   "BNTX": {
    "price": 89.13,
    "change_pct": 1.3
-  },
-  "BRKR": {
-   "price": 62,
-   "change_pct": 0
   },
   "BSX": {
    "price": 42.69,
@@ -182,10 +178,6 @@
    "price": 29.67,
    "change_pct": 1.19
   },
-  "HQY": {
-   "price": 101.36,
-   "change_pct": 0.02
-  },
   "HSIC": {
    "price": 86.44,
    "change_pct": 1.74
@@ -249,10 +241,6 @@
   "MDT": {
    "price": 97.11,
    "change_pct": 2.46
-  },
-  "MEDP": {
-   "price": 677.56,
-   "change_pct": -2.18
   },
   "MOH": {
    "price": 198.95,
@@ -321,6 +309,18 @@
   "RGEN": {
    "price": 188.64,
    "change_pct": 2.14
+  },
+  "RMD": {
+   "price": 252.83,
+   "change_pct": 1.06
+  },
+  "ROIV": {
+   "price": 37.52,
+   "change_pct": 1.1
+  },
+  "RVMD": {
+   "price": 190.27,
+   "change_pct": 0.82
   }
  },
  "tickers": {
@@ -945,9 +945,9 @@
    "source": "BioPharma Dive",
    "published": "2026-10-30T11:50:00+00:00",
    "tickers": [
+    "GSK",
     "LLY",
-    "NVS",
-    "GSK"
+    "NVS"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -965,6 +965,81 @@
     "ABBV"
    ],
    "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "a1ce386ece2f",
+   "headline": "AbbVie Reports Third-Quarter 2026 Financial Results",
+   "summary": "AbbVie (NYSE:ABBV) announced financial results for the third quarter ended September 30, 2026.",
+   "url": "https://finnhub.io/api/news?id=356e0f1c28d4820be69d16de6009390fe67f35814735a464cef4c7e2cb009a22",
+   "source": "Yahoo",
+   "published": "2026-10-30T11:46:00+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "1686d2ab0848",
+   "headline": "What Sent Eli Lilly Stock Higher?",
+   "summary": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://finnhub.io/api/news?id=47f790c623c3ef85b7e903c52737be92150985b119808622e7b863459fea7e84",
+   "source": "Yahoo",
+   "published": "2026-10-30T11:15:51+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "a0298d5febca",
+   "headline": "What ResMed (RMD) Said on Its Q1 Earnings Call",
+   "summary": "ResMed (NYSE:RMD) reported first-quarter fiscal 2027 revenue of $1.4 billion, up 6% from a year earlier on a reported basis and 7% on a core constant-currency basis, as growth in sleep devices, masks and residential care software offset\u2026",
+   "url": "https://finnhub.io/api/news?id=010bcb1c4364603d8eb472189a2548cee52069d1a22bc60b6918c93a5e5d1a6f",
+   "source": "Yahoo",
+   "published": "2026-10-30T11:14:36+00:00",
+   "tickers": [
+    "HCA"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "a518f2015466",
+   "headline": "Will TXG Stock Ever Get Back To Its Old High?",
+   "summary": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://finnhub.io/api/news?id=98191b3787c504a5523d8a1354a14f8b1e276928c1be664192519092b0bdb051",
+   "source": "Yahoo",
+   "published": "2026-10-30T10:49:49+00:00",
+   "tickers": [
+    "BDX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "23e0296567ce",
+   "headline": "Has The Story Under Johnson & Johnson Stock Run Out?",
+   "summary": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://finnhub.io/api/news?id=9202cd6a89d60e6a3b9c414694e47db109f000732ae7072d1d04f25362faa60c",
+   "source": "Yahoo",
+   "published": "2026-10-30T10:49:42+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
    "sectors": [
     "pharma"
    ]
@@ -52786,121 +52861,6 @@
    "tag": "News",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "c6f66aa08968",
-   "headline": "Judi Health launching employer Medicare Part D plan with a focus on transparency",
-   "summary": "Judi Health is launching a new Part D plan that aims to lean on its tech stack to drive transparency and outcomes.",
-   "url": "https://www.fiercehealthcare.com/payers/judi-health-launching-employer-medicare-part-d-plan-focus-transparency",
-   "source": "Fierce Healthcare",
-   "published": "2026-10-20T12:15:26.854337+00:00",
-   "tickers": [],
-   "tag": "Policy",
-   "sectors": []
-  },
-  {
-   "id": "3b14294edc1e",
-   "headline": "AstraZeneca taps Oracle to help improve recruitment for clinical trials",
-   "summary": "AstraZeneca has turned to data giant Oracle as the U.K.-based Big Pharma works on one of the eternal problems of drug development\u2014improving patient recruitment.",
-   "url": "https://www.fiercepharma.com/biotech/astrazeneca-taps-oracle-help-improve-recruitment-clinical-trials",
-   "source": "Fierce Pharma",
-   "published": "2026-10-20T12:15:26.692258+00:00",
-   "tickers": [
-    "AZN"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "de2d15e853ec",
-   "headline": "Hengrui has become the go-to source of China biopharma innovation. What\u2019s its secret?",
-   "summary": "Amid the Chinese biotech licensing boom, Hengrui Pharmaceuticals stands out from the crowd. The Jiangsu-based biopharma landed one of the largest licensing deals ever by a Chinese company courtesy of a head-turning $15.2 billion biobucks\u2026",
-   "url": "https://www.fiercebiotech.com/biotech/hengrui-has-become-go-source-china-biopharma-innovation-whats-its-secret",
-   "source": "Fierce Biotech",
-   "published": "2026-10-20T12:15:26.452280+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "4c680dc7a0d5",
-   "headline": "What Analyst Projections for Key Metrics Reveal About Molina (MOH) Q3 Earnings",
-   "summary": "Besides Wall Street's top-and-bottom-line estimates for Molina (MOH), review projections for some of its key metrics to gain a deeper understanding of how the company might have fared during the quarter ended September 2026.",
-   "url": "https://finnhub.io/api/news?id=3e695f9de1785370eec844fbc03ea47f8922aee0c300b78c000a9fed69c87802",
-   "source": "Yahoo",
-   "published": "2026-10-20T12:15:06+00:00",
-   "tickers": [
-    "MOH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "36fd81b0ba9c",
-   "headline": "Can Viking Therapeutics Carve Out a Place in the Obesity Market?",
-   "summary": "VKTX advances oral VK2735 into phase III as it explores weight maintenance and faces intensifying obesity drug competition.",
-   "url": "https://finnhub.io/api/news?id=6d3876894cd0c042db64e25d208e9e3f50951b8318026ba676e4a686aecd08bc",
-   "source": "Yahoo",
-   "published": "2026-10-20T12:15:00+00:00",
-   "tickers": [
-    "LLY",
-    "NVO",
-    "VKTX"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "74036095a7af",
-   "headline": "AstraZeneca (LSE:AZN) Could Be 22% Undervalued On AI Partnership And Pipeline Updates",
-   "summary": "AstraZeneca (LSE:AZN) moved into focus after announcing an AI and cloud partnership with Oracle aimed at speeding clinical research, alongside fresh oncology and rare disease trial updates across multiple late stage programs. Recent\u2026",
-   "url": "https://finnhub.io/api/news?id=2491f82d309b70f96b8e650c35c5e88bda35948cf6ac02f5f66be3e9f9475296",
-   "source": "Yahoo",
-   "published": "2026-10-20T12:11:30+00:00",
-   "tickers": [
-    "AZN"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "aa513a58b1a5",
-   "headline": "Peach State Health Plan Releases 2025 Community Impact Report",
-   "summary": "Peach State Health Plan, a care management organization serving Georgians, has released the 2025 Community Impact Report, Removing Barriers to Better Health, highlighting continued efforts to improve health outcomes and build stronger\u2026",
-   "url": "https://finnhub.io/api/news?id=fbe6b0d3d85a84c41ec13883787fb6240ce9618f837fc8c1048e39c43c096d96",
-   "source": "Yahoo",
-   "published": "2026-10-20T12:05:00+00:00",
-   "tickers": [
-    "CNC"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "84095d07707a",
-   "headline": "'HHS releases new kidney care plan' - Axios Exclusive",
-   "summary": "https://www.axios.com/2026/10/20/kidney-care-plan-kennedy",
-   "url": "https://finnhub.io/api/news?id=6f36a9ca4ba5b97652b34869c72f9d812da30a43b44d13fb572cf06aad7660c3",
-   "source": "Benzinga",
-   "published": "2026-10-20T12:03:58+00:00",
-   "tickers": [
-    "DVA",
-    "TMDX"
-   ],
-   "tag": "Policy",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
