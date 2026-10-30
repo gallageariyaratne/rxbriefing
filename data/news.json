@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-30T02:47:42.744577+00:00",
+ "updated": "2026-10-30T03:02:58.979766+00:00",
  "quotes": {
   "A": {
    "price": 181.15,
@@ -218,6 +218,10 @@
    "price": 111.59,
    "change_pct": 15.06
   },
+  "IONS": {
+   "price": 44.39,
+   "change_pct": -1.14
+  },
   "IQV": {
    "price": 275.06,
    "change_pct": -1.43
@@ -233,6 +237,10 @@
   "JNJ": {
    "price": 275.2,
    "change_pct": 1.53
+  },
+  "LEGN": {
+   "price": 22.3,
+   "change_pct": -1.02
   },
   "LFST": {
    "price": 13.63,
@@ -298,6 +306,10 @@
    "price": 31.85,
    "change_pct": 1.79
   },
+  "PACB": {
+   "price": 2.9,
+   "change_pct": 2.47
+  },
   "PEN": {
    "price": 321.97,
    "change_pct": 1.15
@@ -309,18 +321,6 @@
   "PTCT": {
    "price": 64.46,
    "change_pct": 2.29
-  },
-  "QGEN": {
-   "price": 50.34,
-   "change_pct": 0.02
-  },
-  "REGN": {
-   "price": 818.77,
-   "change_pct": 0.68
-  },
-  "RGEN": {
-   "price": 188.64,
-   "change_pct": 2.14
   }
  },
  "tickers": {
@@ -954,9 +954,10 @@
    "summary": "Amazon, Intel and Illumina were earnings losers overnight after Google, ServiceNow and Fortinet slammed techs. Much of the market is doing fine.",
    "url": "https://finnhub.io/api/news?id=19cc61c993aa7f24248741b86c68c8820bdf464261100f9342b8fd8072a79239",
    "source": "Yahoo",
-   "published": "2026-10-30T01:55:37+00:00",
+   "published": "2026-10-30T01:38:54+00:00",
    "tickers": [
-    "ILMN"
+    "ILMN",
+    "LLY"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -1033,6 +1034,21 @@
    "tickers": [
     "BMY",
     "EXEL"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "46be67d10fae",
+   "headline": "What Gilead Sciences (GILD) Said on Its Q3 Earnings Call",
+   "summary": "Gilead Sciences (NASDAQ:GILD) reported third-quarter 2026 base business sales growth of 16% year over year, its strongest growth rate in more than a decade, as HIV products, TRODELVY and Livdelzi drove performance. The company also raised\u2026",
+   "url": "https://finnhub.io/api/news?id=f567662950881fd901ce2ac16cd4982eca23f34772135ee5b5b46e16b28193ea",
+   "source": "Yahoo",
+   "published": "2026-10-30T00:14:18+00:00",
+   "tickers": [
+    "GILD"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -1123,6 +1139,21 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "aa3f8fc42e55",
+   "headline": "Gilead (GILD) Q3 Earnings: Taking a Look at Key Metrics Versus Estimates",
+   "summary": "The headline numbers for Gilead (GILD) give insight into how the company performed in the quarter ended September 2026, but it may be worthwhile to compare some of its key metrics to Wall Street estimates and the year-ago actuals.",
+   "url": "https://finnhub.io/api/news?id=589f95dcf4b352f9cb36dcaf040ba811245a54c9dcdb0ffccf9dae8a7132e22e",
+   "source": "Yahoo",
+   "published": "2026-10-29T23:00:02+00:00",
+   "tickers": [
+    "GILD"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1250,6 +1281,21 @@
    ]
   },
   {
+   "id": "fea712a1456e",
+   "headline": "CareDx (CDNA) Surpasses Q3 Earnings and Revenue Estimates",
+   "summary": "CareDx (CDNA) delivered earnings and revenue surprises of +191.67% and +13.90%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=86b5bb6d3871908eaf2ff9a3fc187ada119a20bf68b2798110024cc8a87e81e3",
+   "source": "Yahoo",
+   "published": "2026-10-29T22:05:04+00:00",
+   "tickers": [
+    "NTRA"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "14c090c6af15",
    "headline": "Alignment Healthcare (ALHC) Reports Q3 Loss, Beats Revenue Estimates",
    "summary": "Alignment Healthcare (ALHC) delivered earnings and revenue surprises of 0.00% and +3.63%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
@@ -1353,6 +1399,21 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "45ff534e1496",
+   "headline": "Stryker Corporation (SYK) Q3 2026 Earnings Call Transcript",
+   "summary": "Stryker Corporation (SYK) Q3 2026 Earnings Call October 29, 2026 4:30 PM EDTCompany ParticipantsKevin Lobo - Chairman & CEONick Mead - Vice President of...",
+   "url": "https://finnhub.io/api/news?id=26fb83b5e139d6b479f693fdd865817197db65eef0c41c2c9171fea66b411798",
+   "source": "SeekingAlpha",
+   "published": "2026-10-29T21:38:51+00:00",
+   "tickers": [
+    "SYK"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -1469,6 +1530,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "415149387f6c",
+   "headline": "Pacific Biosciences of California (PACB) Rises As Market Takes a Dip: Key Facts",
+   "summary": "In the latest trading session, Pacific Biosciences of California (PACB) closed at $2.9, marking a +2.47% move from the previous day.",
+   "url": "https://finnhub.io/api/news?id=3e3ff2e8617fbcf998a515425c76a3028974d55a089d795d24514750c1eab707",
+   "source": "Yahoo",
+   "published": "2026-10-29T21:15:03+00:00",
+   "tickers": [
+    "PACB"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -3178,7 +3254,8 @@
    "tickers": [
     "INCY",
     "LLY",
-    "NVS"
+    "NVS",
+    "TGTX"
    ],
    "tag": "M&A",
    "sectors": [
@@ -3243,6 +3320,21 @@
    "tag": "News",
    "sectors": [
     "healthit"
+   ]
+  },
+  {
+   "id": "53d016d790c8",
+   "headline": "Novocure CEO Says RVMD\u2019s Daraxonrasib Slowed Optune Pax Adoption \u2013 Wedbush Sees Disruption Rather Than Direct Competition",
+   "summary": "The number of patients actively using Optune Pax in the U.S. declined to 266 at the end of the third quarter, from 285 in the second quarter.",
+   "url": "https://finnhub.io/api/news?id=b3c9d12e14ce214dcc547292c82a4c642a5d5c8db56c71007fdd70b6c8b98568",
+   "source": "Yahoo",
+   "published": "2026-10-29T17:51:34+00:00",
+   "tickers": [
+    "RVMD"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -3717,6 +3809,7 @@
    "published": "2026-10-29T16:04:02+00:00",
    "tickers": [
     "ALNY",
+    "IONS",
     "PFE"
    ],
    "tag": "Earnings",
@@ -3784,6 +3877,7 @@
    "source": "Yahoo",
    "published": "2026-10-29T15:52:00+00:00",
    "tickers": [
+    "TGTX",
     "VKTX"
    ],
    "tag": "GLP-1",
@@ -3819,6 +3913,21 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "3b226b885d66",
+   "headline": "NovoCure Sinks 5% Despite Guidance Raise as Pancreatic Cancer Launch Access Is \u201cSignificantly Limited\u201d",
+   "summary": "Key TakeawaysNovocure shares fell 5% today, even though third-quarter revenue rose 16% to $193. 4 million and the company raised its 2026 guidance.",
+   "url": "https://finnhub.io/api/news?id=8ee7ff8de6f5ecf126bdcd72f96a1407128b0338f36eb691d2cfc25a0b4e6fc7",
+   "source": "Yahoo",
+   "published": "2026-10-29T15:44:21+00:00",
+   "tickers": [
+    "RVMD"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -3911,6 +4020,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "12f64bdd01e3",
+   "headline": "Amarin's Q3 Earnings Beat Estimates, Revenues Miss Mark",
+   "summary": "AMRN's Q3 2026 earnings surpass estimates despite declining revenues. Global Vascepa/Vazkepa demand grows 55% and cash reserves increase.",
+   "url": "https://finnhub.io/api/news?id=08454b380a30e8470b4055b8e1ceee0c68ffe08acda51f585693dcb9f15f6fdf",
+   "source": "Yahoo",
+   "published": "2026-10-29T15:31:00+00:00",
+   "tickers": [
+    "TGTX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -4362,6 +4486,21 @@
    ]
   },
   {
+   "id": "8f9dae26eaa5",
+   "headline": "GRAIL Q3 Earnings Ahead: Galleri Test Adoption to Drive Growth",
+   "summary": "GRAL's Q3 earnings should have benefited from rising Galleri test adoption, expanding digital health partnerships and growing clinical evidence of cancer detection.",
+   "url": "https://finnhub.io/api/news?id=60140496c0997a5a765e86f0fba37ab604b2fa7d70aea21b7c3a19482f4c456b",
+   "source": "Yahoo",
+   "published": "2026-10-29T15:06:00+00:00",
+   "tickers": [
+    "TGTX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "11bb489be840",
    "headline": "Le Veeva Summit pr\u00e9sente les innovations en IA et en donn\u00e9es qui font progresser le commerce des agents",
    "summary": "AstraZeneca, Bristol Myers Squibb, Gr\u00fcnenthal, Novo, Roche, UCB et d'autres entreprises pr\u00e9senteront de nouvelles approches en mati\u00e8re d'engagement client connect\u00e9, de MLR automatis\u00e9 et d'impact m\u00e9dical BARCELONE, Espagne, 29 octobre 2026\u2026",
@@ -4792,7 +4931,8 @@
    "source": "Yahoo",
    "published": "2026-10-29T14:34:00+00:00",
    "tickers": [
-    "ILMN"
+    "ILMN",
+    "NTRA"
    ],
    "tag": "Health AI",
    "sectors": [
@@ -5341,6 +5481,21 @@
    "sectors": []
   },
   {
+   "id": "80ac7fd1ed7a",
+   "headline": "BHC Q3 Earnings Beat on Salix Growth, Stock Gains 9% as Outlook Rises",
+   "summary": "Bausch Health shares jump 9% as Q3 earnings top estimates, driven by Xifaxan-led Salix growth, improved profitability and raised 2026 guidance.",
+   "url": "https://finnhub.io/api/news?id=9db18ecc1daea10065225669f6931982c53d8c69ff9e53c13ba0e9585faa1485",
+   "source": "Yahoo",
+   "published": "2026-10-29T13:43:00+00:00",
+   "tickers": [
+    "TGTX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "95a93e98a0fd",
    "headline": "Martin Kulldorff critiques scientific gatekeepers at NIH lecture",
    "summary": "Martin Kulldorff, the biostatistician who advocated against Covid lockdowns, insisted that the rise in measles cases is caused by a widely disputed claim about said lockdowns:",
@@ -5482,7 +5637,10 @@
    "source": "Yahoo",
    "published": "2026-10-29T13:22:00+00:00",
    "tickers": [
-    "PFE"
+    "PFE",
+    "RXRX",
+    "SNY",
+    "TGTX"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -5570,6 +5728,21 @@
    "sectors": []
   },
   {
+   "id": "cb1128c0f1c7",
+   "headline": "Novavax Earns $125 Million Milestone as Sanofi Launches Phase 3 Influenza-COVID-19 Combination Vaccine Trial in Europe",
+   "summary": "Novavax (Nasdaq: NVAX) has earned a $125 million milestone payment with the initiation (fifth patient dosed) of Sanofi's Phase 3 influenza-COVID-19 combination vaccine trial utilizing Novavax's COVID-19 vaccine, Nuvaxovid\u2122. Sanofi's Phase\u2026",
+   "url": "https://finnhub.io/api/news?id=e48463c46cb4a02bfb18a513ef99fd725478595b60bce75f0f095057fdea3bb5",
+   "source": "Yahoo",
+   "published": "2026-10-29T13:15:00+00:00",
+   "tickers": [
+    "SNY"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "5d2b1fa03392",
    "headline": "Eli Lilly (NYSE:LLY) Beats Q3 Estimates, Raises Guidance as Shares Jump",
    "summary": "Eli Lilly Q3 2026 revenue and EPS beat estimates, guidance raised, and LLY stock jumped premarket as Mounjaro and Zepbound momentum continued.",
@@ -5624,6 +5797,21 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "a3ca735adeab",
+   "headline": "Natera (NTRA) May Report Negative Earnings: Know the Trend Ahead of Q3 Release",
+   "summary": "Natera (NTRA) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+   "url": "https://finnhub.io/api/news?id=aea9576d084cf538ab96c8c4ba1624f1f8b9289e74ad0819084eb8bfb8b6af22",
+   "source": "Yahoo",
+   "published": "2026-10-29T13:00:30+00:00",
+   "tickers": [
+    "NTRA"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -5760,6 +5948,51 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "61647ddd78a2",
+   "headline": "Zymeworks Inc. (ZYME) to Report Q3 Results: Wall Street Expects Earnings Growth",
+   "summary": "Zymeworks (ZYME) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+   "url": "https://finnhub.io/api/news?id=598a71cf6af82ab803f7d5e4aeda3636ffc666b7a4e5451f02cceb311b33bc25",
+   "source": "Yahoo",
+   "published": "2026-10-29T13:00:10+00:00",
+   "tickers": [
+    "RXRX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthai"
+   ]
+  },
+  {
+   "id": "be1fe3d25dc6",
+   "headline": "Sarepta Therapeutics (SRPT) Earnings Expected to Grow: Should You Buy?",
+   "summary": "Sarepta Therapeutics (SRPT) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+   "url": "https://finnhub.io/api/news?id=c7c1e34a80fe6e640dce1dcadf684f73e06d709a0f8ba9df0609c3a2babe5525",
+   "source": "Yahoo",
+   "published": "2026-10-29T13:00:07+00:00",
+   "tickers": [
+    "SRPT"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "b6d693c14d86",
+   "headline": "ARS Pharmaceuticals, Inc. (SPRY) May Report Negative Earnings: Know the Trend Ahead of Next Week's Release",
+   "summary": "ARS Pharmaceuticals, Inc. (SPRY) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+   "url": "https://finnhub.io/api/news?id=b75726eeda81f9883e18358ff69ce659901724e729fd9e58b72b5a12e764921b",
+   "source": "Yahoo",
+   "published": "2026-10-29T13:00:07+00:00",
+   "tickers": [
+    "IONS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -6252,6 +6485,21 @@
    ]
   },
   {
+   "id": "c1afad8856ad",
+   "headline": "Legend Biotech Corporation Sponsored ADR (LEGN) Recently Broke Out Above the 200-Day Moving Average",
+   "summary": "Is it a good or bad thing when a stock surpasses resistance at the 200-day simple moving average?",
+   "url": "https://finnhub.io/api/news?id=216f8b36a9ed17d3cdbf3a42d91ec693142a22be5c53cea79c28005c42dd6598",
+   "source": "Yahoo",
+   "published": "2026-10-29T12:30:02+00:00",
+   "tickers": [
+    "LEGN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "1379bbc254c8",
    "headline": "Orchestra BioMed Announces Virtue SAB Presentation at TCT 2026",
    "summary": "Presentation will highlight Virtue SAB\u2019s fundamentally different approach of infusing a large liquid volume of proprietary extended-release SirolimusEFR\u2122 directly into and throughout the vessel wall.Virtue SAB\u2019s mechanism is designed to\u2026",
@@ -6538,7 +6786,8 @@
    "published": "2026-10-29T12:00:00+00:00",
    "tickers": [
     "PFE",
-    "QGEN"
+    "QGEN",
+    "SNY"
    ],
    "tag": "Health AI",
    "sectors": [
@@ -6661,6 +6910,21 @@
    "published": "2026-10-29T12:00:00+00:00",
    "tickers": [
     "TWST"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "dd08e9c1135e",
+   "headline": "Natera to Report its Third Quarter Results on November 5, 2026",
+   "summary": "AUSTIN, Texas, October 29, 2026--Natera, Inc. (NASDAQ: NTRA), a global leader in cell-free DNA and precision medicine, today announced that it will release results for its third quarter ended September 30, 2026, after the market closes on\u2026",
+   "url": "https://finnhub.io/api/news?id=db0979c6e601015b21044c0217aaacb51cd8dd4acf337a2876391422db6927fd",
+   "source": "Yahoo",
+   "published": "2026-10-29T12:00:00+00:00",
+   "tickers": [
+    "NTRA"
    ],
    "tag": "News",
    "sectors": [
@@ -6956,6 +7220,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "35a034b14b1b",
+   "headline": "Sanofi expands Canadians' COVID-19 vaccine choice with availability of Nuvaxovid\u00aefor the 2026-2027 respiratory season",
+   "summary": "Sanofi Canada is pleased to announce that Nuvaxovid\u00ae, a protein-based, non-mRNA COVID-19 vaccine, will be available in all 10 provinces and the Yukon for the 2026-2027 season through provincial respiratory programs and most private\u2026",
+   "url": "https://finnhub.io/api/news?id=3a71fde6b1df407038c81cbacaa0e370b9769eff521efa302f9727f6815df093",
+   "source": "Yahoo",
+   "published": "2026-10-29T11:30:00+00:00",
+   "tickers": [
+    "SNY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -8150,6 +8429,21 @@
    ]
   },
   {
+   "id": "01cca0a138fb",
+   "headline": "Could Revolution Medicines Be a Millionaire-Maker Stock?",
+   "summary": "The path for Revolution Medicines to grow an initial investment of $25,000 into $1 million is a daunting one.",
+   "url": "https://finnhub.io/api/news?id=d250d064e8dff364474eb231966a3374b881aa7af74524e6b8e0a8186a626f91",
+   "source": "Yahoo",
+   "published": "2026-10-29T09:04:00+00:00",
+   "tickers": [
+    "RVMD"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "3614947c446a",
    "headline": "Glaukos Analysts Boost Their Forecasts Following Better-Than-Expected Q3 Earnings",
    "summary": "Glaukos beat Q3 estimates, raised FY26 sales guidance to $775M-$785M, and shares jumped 17.4%; analysts lifted price targets.",
@@ -8474,7 +8768,8 @@
    "source": "Yahoo",
    "published": "2026-10-29T08:03:25+00:00",
    "tickers": [
-    "GH"
+    "GH",
+    "NTRA"
    ],
    "tag": "Earnings",
    "sectors": [
