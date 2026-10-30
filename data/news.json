@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-30T09:47:34.487282+00:00",
+ "updated": "2026-10-30T10:02:55.956844+00:00",
  "quotes": {
   "A": {
    "price": 181.15,
@@ -178,10 +178,6 @@
    "price": 478.08,
    "change_pct": 3.21
   },
-  "HCAT": {
-   "price": 1.79,
-   "change_pct": -0.56
-  },
   "HIMS": {
    "price": 29.67,
    "change_pct": 1.19
@@ -321,6 +317,10 @@
   "PFE": {
    "price": 29.95,
    "change_pct": 1.7
+  },
+  "PTCT": {
+   "price": 64.46,
+   "change_pct": 2.29
   }
  },
  "tickers": {
@@ -1189,6 +1189,21 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "ec2604f01e46",
+   "headline": "Eli Lilly: The Bar Just Got Higher",
+   "summary": "Eli Lilly delivered standout 3Q26 results, with 39% revenue growth to $24.4B, driven by Mounjaro and Zepbound franchises. Read why LLY stock is a buy.",
+   "url": "https://finnhub.io/api/news?id=0381d4ed9c37cc28075c153dd99b18f180cb7badc131ee889bea92accab1dbf6",
+   "source": "SeekingAlpha",
+   "published": "2026-10-30T05:35:00+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -53391,66 +53406,6 @@
     "ZTS"
    ],
    "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "9137fc038912",
-   "headline": "Oscar Introduces a New Wave of Consumer Health Products",
-   "summary": "NEW YORK, October 20, 2026--Oscar Insurance, part of Oscar Health, Inc. unveiled its 2027 health insurance lineup for millions of consumers during the open enrollment period.",
-   "url": "https://finnhub.io/api/news?id=e9bcd3a3deafbc045a651a54ca0cb605169f576aef2d259b5e8f93b7dfdf3f92",
-   "source": "Yahoo",
-   "published": "2026-10-20T10:01:00+00:00",
-   "tickers": [
-    "OSCR"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "0cd485fccd34",
-   "headline": "Unimed Appoints Sune Svenningsen as Chief Executive Officer",
-   "summary": "ATHENS, Greece, October 20, 2026--Universal Maritime Solutions (\"Unimed\" or \"the Company\"), a leading provider of maritime medical supply, health compliance and crew wellbeing solutions and a portfolio company of ZCG Private Equity, the\u2026",
-   "url": "https://finnhub.io/api/news?id=26c652684625bbfffdc192b5c8ba8bd6c41b93237ce9785fc37e405d1387058f",
-   "source": "Yahoo",
-   "published": "2026-10-20T10:00:00+00:00",
-   "tickers": [
-    "NVS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "add9303a7fad",
-   "headline": "Wells Fargo Maintains Overweight on Biogen, Raises Price Target to $310",
-   "summary": "Wells Fargo analyst Mohit Bansal maintains Biogen (NASDAQ:BIIB) with a Overweight and raises the price target from $250 to $310.",
-   "url": "https://finnhub.io/api/news?id=3bad8a224e7ed91550e1b91d6b1e29ab595863dc9bd082ea62f67e3e3620a61a",
-   "source": "Benzinga",
-   "published": "2026-10-20T09:55:47+00:00",
-   "tickers": [
-    "BIIB"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "67e9f2050d63",
-   "headline": "3 Unpopular Stocks We Keep Off Our Radar",
-   "summary": "Wall Street\u2019s bearish price targets for the stocks in this article signal serious concerns. Such forecasts are uncommon in an industry where maintaining cordial corporate relationships often trumps delivering the hard truth.",
-   "url": "https://finnhub.io/api/news?id=88556d7488cd76ab822462dc8b33d441cdc777e7f09396c106d982b327afb2ea",
-   "source": "Yahoo",
-   "published": "2026-10-20T09:49:50+00:00",
-   "tickers": [
-    "BMY"
-   ],
-   "tag": "Analyst",
    "sectors": [
     "pharma"
    ]
