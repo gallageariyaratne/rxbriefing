@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-30T11:02:52.403349+00:00",
+ "updated": "2026-10-30T11:17:39.149161+00:00",
  "quotes": {
   "A": {
    "price": 181.15,
@@ -194,10 +194,6 @@
    "price": 417.56,
    "change_pct": 1.38
   },
-  "ICLR": {
-   "price": 215.48,
-   "change_pct": 0.62
-  },
   "IDXX": {
    "price": 575.98,
    "change_pct": 2.32
@@ -321,6 +317,10 @@
   "PTCT": {
    "price": 64.46,
    "change_pct": 2.29
+  },
+  "QGEN": {
+   "price": 50.34,
+   "change_pct": 0.02
   }
  },
  "tickers": {
@@ -947,6 +947,21 @@
    "tickers": [],
    "tag": "M&A",
    "sectors": []
+  },
+  {
+   "id": "e6a6814fbd89",
+   "headline": "Repligen Announces $1 Billion Private Convertible Senior Notes Transaction",
+   "summary": "WALTHAM, Mass., Oct. 30, 2026 (GLOBE NEWSWIRE) -- Repligen Corporation (NASDAQ:RGEN) (\u201cRepligen\u201d), today announced that it entered into privately negotiated exchange and/or subscription agreements with certain holders of its outstanding\u2026",
+   "url": "https://finnhub.io/api/news?id=ca2b13120927a2c3cc56acad01fb7ac6050a126c672e3e1c5fedc8ad544fef6c",
+   "source": "Yahoo",
+   "published": "2026-10-30T10:00:00+00:00",
+   "tickers": [
+    "RGEN"
+   ],
+   "tag": "Financing",
+   "sectors": [
+    "tools"
+   ]
   },
   {
    "id": "a7d1188543b8",
@@ -53124,136 +53139,6 @@
    "tag": "Earnings",
    "sectors": [
     "tools"
-   ]
-  },
-  {
-   "id": "5550b87bf835",
-   "headline": "Israeli biotech\u2019s inhaled exosome therapy reduces respiratory failure in phase 2 study",
-   "summary": "Nano24\u2019s inhaled exosome therapy reduced respiratory failure in patients with acute respiratory distress syndrome (ARDS), hitting the main goal of a phase 2b study.",
-   "url": "https://www.fiercebiotech.com/biotech/israeli-biotechs-inhaled-exosome-therapy-reduces-respiratory-failure-phase-2-study",
-   "source": "Fierce Biotech",
-   "published": "2026-10-20T11:15:21.258036+00:00",
-   "tickers": [],
-   "tag": "Clinical",
-   "sectors": []
-  },
-  {
-   "id": "c9b967c0a923",
-   "headline": "Stocks Mostly Down Pre-Bell as Earnings Take Center Stage",
-   "summary": "US equity futures were mostly pointing lower on Tuesday as investors await a fresh round of corporat",
-   "url": "https://finnhub.io/api/news?id=374f2a930003269475bd56610671bcec4ebb00007e191180f5892552c8764d6b",
-   "source": "Yahoo",
-   "published": "2026-10-20T11:15:04+00:00",
-   "tickers": [
-    "ISRG"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "0b6a7edd65e3",
-   "headline": "What Capital Group Core Balanced ETF (CGBL) Bought: JNJ Leads on Oct. 16",
-   "summary": "The fund bought $35.7 million of Johnson & Johnson and $13.9 million of Shopify as net selling reached $34.3 million on Friday.",
-   "url": "https://finnhub.io/api/news?id=ad76cdcb6c9d7a852b61ccd0f3f0f3a9c3f8b2c05258a16d1260f4ebd29a3cdb",
-   "source": "Yahoo",
-   "published": "2026-10-20T11:05:39+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "5313ef7df351",
-   "headline": "MARKETS LIVE: US futures mixed as AI jitters weigh on tech stocks ahead of earnings",
-   "summary": "US futures mixed as Nasdaq leads tech-led declines AI infrastructure and chip stocks fall in premarket trading ahead of earnings FTSE 100 drops 58 points as mid-caps underperform Sterling strengthens 8:00 am EDT: Nasdaq futures down\u2026",
-   "url": "https://finnhub.io/api/news?id=1d7bc625aa0d6d20d668263381ea44fb96f188d6e2fa11f8b40c135808957ba6",
-   "source": "Yahoo",
-   "published": "2026-10-20T11:05:00+00:00",
-   "tickers": [
-    "ISRG"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "720299fe167c",
-   "headline": "What iShares U.S. Medical Devices ETF (IHI) Sold: Abbott Leads on Friday",
-   "summary": "The $3.40 billion fund sold $340.3 million of stock, cutting all 48 positions and adding none.",
-   "url": "https://finnhub.io/api/news?id=7da8a33ea337352ee127c4aa499bdbd7395979da6fc7615be9b0a3e376310dbd",
-   "source": "Yahoo",
-   "published": "2026-10-20T11:04:54+00:00",
-   "tickers": [
-    "ABT",
-    "IDXX",
-    "ISRG",
-    "MDT",
-    "SYK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "f6fee05c43de",
-   "headline": "Oracle, AstraZeneca Explore AI To Tackle Clinical-Trial Recruitment Challenge",
-   "summary": "Oracle and AstraZeneca plan to explore AI applications to improve clinical-trial recruitment, accelerate evidence generation and bring research insights into everyday care.",
-   "url": "https://finnhub.io/api/news?id=6ef404e988ffade88a4974e9e74b3a62ae01bb6e14ec40bd178e5201e2d5efa1",
-   "source": "Yahoo",
-   "published": "2026-10-20T11:03:42+00:00",
-   "tickers": [
-    "AZN"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "a32d87b383a2",
-   "headline": "Should You Be Worried About Tempus AI Stock?",
-   "summary": "Tempus AI (TEM) stock has lost 17.3% over the past month, while the S&P 500 gained 0.6%. The company still grew sales 22% in its latest quarter, but the risk worth your attention lies with the few drugmakers that license its data. One of\u2026",
-   "url": "https://finnhub.io/api/news?id=af538dfcc97471b773c0a98f306b8165f5d21902ddab715372966219658fcc87",
-   "source": "Yahoo",
-   "published": "2026-10-20T11:03:00+00:00",
-   "tickers": [
-    "AZN",
-    "GH",
-    "ILMN",
-    "IQV",
-    "NTRA",
-    "TEM"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "a0f8aacdd365",
-   "headline": "Is Eli Lilly Stock Too Dependent On Two Drugs?",
-   "summary": "Two drugs, Mounjaro and Zepbound, accounted for $14.9 billion of Eli Lilly's (LLY) $23.0 billion in revenue during fiscal Q2 2026. This leaves Eli Lilly relying on two medicines for most of its sales at a time when the price it gets for\u2026",
-   "url": "https://finnhub.io/api/news?id=50f9b627fa3ce0b22af7021f9aebc3e7da826c78555020e22b24b208e054663b",
-   "source": "Yahoo",
-   "published": "2026-10-20T11:02:57+00:00",
-   "tickers": [
-    "ABBV",
-    "AMGN",
-    "JNJ",
-    "LLY",
-    "MRK",
-    "PFE"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
