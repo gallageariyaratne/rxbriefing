@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-30T22:47:34.281603+00:00",
+ "updated": "2026-10-30T23:02:49.637513+00:00",
  "quotes": {
   "A": {
    "price": 174.87,
@@ -166,6 +166,10 @@
    "price": 120.39,
    "change_pct": 3.07
   },
+  "IQV": {
+   "price": 267.33,
+   "change_pct": -2.81
+  },
   "ISRG": {
    "price": 432.01,
    "change_pct": -3.73
@@ -305,6 +309,10 @@
   "VRTX": {
    "price": 558.88,
    "change_pct": 3.5
+  },
+  "ZBH": {
+   "price": 94.52,
+   "change_pct": -3.03
   },
   "ZTS": {
    "price": 79.72,
@@ -926,6 +934,47 @@
  },
  "stories": [
   {
+   "id": "29027e1b0f94",
+   "headline": "Fierce Healthcare Policy Brief: HHS launches breast cancer screening initiative; RHTP funds flow to 6 states",
+   "summary": "The latest news from CMS and HHS this week: White House aims to improve breast cancer screening and early detection, PBM transparency rule finalized and six states receive RHTP funding.",
+   "url": "https://www.fiercehealthcare.com/regulatory/fierce-healthcare-regulatory-recap",
+   "source": "Fierce Healthcare",
+   "published": "2026-10-30T23:00:38.767807+00:00",
+   "tickers": [],
+   "tag": "Policy",
+   "sectors": []
+  },
+  {
+   "id": "9487474a8828",
+   "headline": "Medicilon ude\u013euje spolo\u010dnosti Revolution Medicines \u201eCenu za vynikaj\u00face partnerstvo s klientom\"",
+   "summary": "BOSTON, 30. okt\u00f3bra 2026 /PRNewswire/ \u2013 Dr. Yang Liu, riadite\u013e oddelenia medic\u00ednskej ch\u00e9mie v spolo\u010dnosti Revolution Medicines, Inc., a Dr. Kristof Pota, ved\u00faci vedeck\u00fd pracovn\u00edk, nav\u0161t\u00edvili v\u00fdskumn\u00e9 a v\u00fdvojov\u00e9 centrum Nanhui spolo\u010dnosti\u2026",
+   "url": "https://www.prnewswire.com/news-releases/medicilon-udeuje-spolonosti-revolution-medicines-cenu-za-vynikajuce-partnerstvo-s-klientom-302925450.html",
+   "source": "PR Newswire",
+   "published": "2026-10-30T22:46:00+00:00",
+   "tickers": [
+    "RVMD"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "ac58305a29ca",
+   "headline": "Medicilon \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 \u0440\u0435\u0432\u043e\u043b\u044e\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u043b\u0435\u043a\u0430\u0440\u0441\u0442\u0432\u0430 \u0441 \u043d\u0430\u0433\u0440\u0430\u0434\u043e\u0439 Excellence in Client Partnership Award",
+   "summary": "\u0411\u041e\u0421\u0422\u041e\u041d, 30 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2026 \u0433. /PRNewswire/ -- \u0414-\u0440 \u042f\u043d \u041b\u044e (Yang Liu), \u0434\u0438\u0440\u0435\u043a\u0442\u043e\u0440 \u043f\u043e \u043c\u0435\u0434\u0438\u0446\u0438\u043d\u0441\u043a\u043e\u0439 \u0445\u0438\u043c\u0438\u0438 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438 Revolution Medicines, Inc. \u0438 \u0434-\u0440 \u041a\u0440\u0438\u0441\u0442\u043e\u0444 \u041f\u043e\u0442\u0430 (Kristof Pota), \u0441\u0442\u0430\u0440\u0448\u0438\u0439 \u043d\u0430\u0443\u0447\u043d\u044b\u0439 \u0441\u043e\u0442\u0440\u0443\u0434\u043d\u0438\u043a, \u043f\u043e\u0441\u0435\u0442\u0438\u043b\u0438 \u041d\u0430\u0443\u0447\u043d\u043e-\u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u0441\u043a\u0438\u0439 \u0446\u0435\u043d\u0442\u0440\u2026",
+   "url": "https://www.prnewswire.com/news-releases/medicilon------excellence-in-client-partnership-award-302925448.html",
+   "source": "PR Newswire",
+   "published": "2026-10-30T22:44:00+00:00",
+   "tickers": [
+    "RVMD"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "ccfd6d48c724",
    "headline": "Illumina CEO on Q3 Results and Business Outlook",
    "summary": "Jacob Thaysen says Illumina delivered a strong third quarter, beat expectations and raised its fourth-quarter outlook. He said the company has moved from essentially flat performance to mid-single-digit growth over the past 18 months and\u2026",
@@ -934,6 +983,36 @@
    "published": "2026-10-30T21:37:43+00:00",
    "tickers": [
     "ILMN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "1603c66bc9d2",
+   "headline": "IQV Q3 deep dive: AI adoption and clinical momentum drive growth, guidance raised",
+   "summary": "Clinical research company IQVIA (NYSE: IQV) reported Q3 2026 results topping the market\u2019s revenue expectations, with sales up 8% year on year to $4.43 billion. The company expects the full year\u2019s revenue to be around $17.43 billion, close\u2026",
+   "url": "https://finnhub.io/api/news?id=179824ecfff2d80de397ee758a8cfbeb32370053130cb19f59429f7e72d03393",
+   "source": "Yahoo",
+   "published": "2026-10-30T21:31:29+00:00",
+   "tickers": [
+    "IQV"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "e4c234ba9efb",
+   "headline": "5 revealing analyst questions from IQVIA\u2019s Q3 earnings call",
+   "summary": "IQVIA delivered an 8% year-over-year revenue increase in Q3, with results that outpaced Wall Street expectations and prompted a positive market reaction. Management attributed this performance to accelerated growth in both clinical and\u2026",
+   "url": "https://finnhub.io/api/news?id=bb72853cb4d8466bbb0b73aa6c32eb4e32ac011e3c3ad706bcc00a7ffc4dd653",
+   "source": "Yahoo",
+   "published": "2026-10-30T21:15:29+00:00",
+   "tickers": [
+    "IQV"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -971,6 +1050,21 @@
    ]
   },
   {
+   "id": "0fa8ac81122e",
+   "headline": "OmniAb, Inc. Q3 2026 Earnings Call Summary",
+   "summary": "Moby summary of OmniAb, Inc.'s Q3 2026 earnings call",
+   "url": "https://finnhub.io/api/news?id=5369b7acf2d6e28f88ed480a30a549ab7bd8b24f9ec349388bff6ee7ff782d47",
+   "source": "Yahoo",
+   "published": "2026-10-30T21:03:55+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "b146b7750942",
    "headline": "Dow Jones Futures: Stock Market Sells Off As Apple, Palantir, Midterm Elections Loom; What To Do",
    "summary": "Techs led another stock market sell-off. It's a time to be defensive. Apple, Palantir, jobs and midterm elections loom.",
@@ -993,7 +1087,9 @@
    "source": "Yahoo",
    "published": "2026-10-30T20:42:40+00:00",
    "tickers": [
-    "JNJ"
+    "JNJ",
+    "SYK",
+    "ZBH"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -1084,6 +1180,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "0deb074ede62",
+   "headline": "Gilead Sciences to Present at Upcoming Fourth Quarter 2026 Investor Conferences",
+   "summary": "FOSTER CITY, Calif., October 30, 2026--Gilead Sciences, Inc. (Nasdaq: GILD) announced today that its executives will be speaking at the following investor conferences:",
+   "url": "https://finnhub.io/api/news?id=8e4137923ff58e8da45030625a7d9f7fd76945d616cad699fa9abc8236f318ca",
+   "source": "Yahoo",
+   "published": "2026-10-30T20:05:00+00:00",
+   "tickers": [
+    "GILD"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
