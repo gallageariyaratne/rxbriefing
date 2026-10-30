@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-30T12:47:51.952080+00:00",
+ "updated": "2026-10-30T13:03:10.822113+00:00",
  "quotes": {
   "A": {
    "price": 181.15,
@@ -13,10 +13,6 @@
   "ABT": {
    "price": 104.57,
    "change_pct": 1.88
-  },
-  "ACAD": {
-   "price": 20.76,
-   "change_pct": 2.17
   },
   "ALGN": {
    "price": 153.71,
@@ -97,10 +93,6 @@
   "CVS": {
    "price": 90.33,
    "change_pct": 0.42
-  },
-  "CYTK": {
-   "price": 63.31,
-   "change_pct": 3.31
   },
   "DGX": {
    "price": 252.92,
@@ -206,10 +198,6 @@
    "price": 44.39,
    "change_pct": -1.14
   },
-  "IRTC": {
-   "price": 127.8,
-   "change_pct": 3.07
-  },
   "ISRG": {
    "price": 448.76,
    "change_pct": 1.03
@@ -310,10 +298,6 @@
    "price": 252.83,
    "change_pct": 1.06
   },
-  "ROIV": {
-   "price": 37.52,
-   "change_pct": 1.1
-  },
   "RVMD": {
    "price": 190.27,
    "change_pct": 0.82
@@ -321,6 +305,22 @@
   "RXRX": {
    "price": 4.24,
    "change_pct": -2.53
+  },
+  "SNY": {
+   "price": 43.13,
+   "change_pct": 2.11
+  },
+  "SYK": {
+   "price": 311.75,
+   "change_pct": 2.55
+  },
+  "TAK": {
+   "price": 20.01,
+   "change_pct": -0.69
+  },
+  "TDOC": {
+   "price": 8.73,
+   "change_pct": 26.89
   }
  },
  "tickers": {
@@ -938,6 +938,23 @@
  },
  "stories": [
   {
+   "id": "d0636066446c",
+   "headline": "Fierce Pharma Asia\u2014The hunt for Enhertu\u2019s successor; ESMO data from Merck, BMS, Takeda and more",
+   "summary": "Next-generation ADCs, bispecifics, radiopharmaceuticals, TKIs ... Fierce provides a deep dive into the hunt for the next Enhertu in breast cancer. ESMO 2026 data featured Chinese assets backed by Big Pharma. Gilead and Astellas struck $1\u2026",
+   "url": "https://www.fiercepharma.com/pharma/hunt-enhertu-successor-esmo-data-merck-bms-takeda-and-more",
+   "source": "Fierce Pharma",
+   "published": "2026-10-30T13:00:30.138916+00:00",
+   "tickers": [
+    "MRK",
+    "GILD",
+    "TAK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "3126e0dec04e",
    "headline": "Chutes & Ladders\u2014Lilly unifies global markets as 36-year vet Patrik Jonsson retires",
    "summary": "Lilly will unite its U.S. and international commercial units as a long-time exec retires. Enanta's CEO will hang up his hat after 23 year at the helm. Estrella has tapped a new a CEO to lead it through a clinical trial.",
@@ -1000,6 +1017,21 @@
    ]
   },
   {
+   "id": "ed53cff2a4fb",
+   "headline": "Earnings roundup: Lilly\u2019s unwavering momentum, Novartis\u2019 rebound and GSK\u2019s waiting game",
+   "summary": "Lilly\u2019s better-than-expected results allayed concerns \u2014 for now \u2014 over GLP-1 pricing pressure. Elsewhere, Novartis withstood a tumultuous quarter and GSK battled investor angst.",
+   "url": "https://finnhub.io/api/news?id=fac4a2815e9bb0a8710fbcad604c01e1ecdabe762cfbc3f28b48316ca99cd8ec",
+   "source": "Yahoo",
+   "published": "2026-10-30T11:50:00+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "da23515f1f13",
    "headline": "AbbVie Reports Third-Quarter 2026 Financial Results",
    "summary": "Reports Third-Quarter Diluted EPS of $2.37 on a GAAP Basis, an Increase of Over 100.0 Percent; Adjusted Diluted EPS of $3.82, an Increase of Over 100.0 Percent; These Results Include an Unfavorable Impact of $0.11 Per Share Related to\u2026",
@@ -1037,6 +1069,7 @@
    "source": "Yahoo",
    "published": "2026-10-30T11:15:53+00:00",
    "tickers": [
+    "GILD",
     "VRTX"
    ],
    "tag": "News",
@@ -1055,6 +1088,8 @@
     "ABBV",
     "AMGN",
     "JNJ",
+    "LLY",
+    "MRK",
     "PFE"
    ],
    "tag": "News",
@@ -1079,6 +1114,36 @@
    ]
   },
   {
+   "id": "4060f1600c63",
+   "headline": "What Stryker (SYK) Said on Its Q3 Earnings Call",
+   "summary": "Stryker (NYSE:SYK) reported third-quarter organic sales growth of 7.7% and adjusted earnings per share of $3.52, while lowering its full-year outlook to reflect a slowdown in hip and knee procedures, lingering peripheral vascular supply\u2026",
+   "url": "https://finnhub.io/api/news?id=4a8a3842b0440d5cca4600fb7a4badf0750070308f4f4f5b916726065db17022",
+   "source": "Yahoo",
+   "published": "2026-10-30T11:14:34+00:00",
+   "tickers": [
+    "SYK"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "c407906c7d04",
+   "headline": "Regeneron Q3 revenue tops estimates on Sanofi Dupixent profit; shares rise 4%",
+   "summary": "Investing.com -- Regeneron Pharmaceutical (NASDAQ:REGN)s shares rose 4% in premarket trading on Friday after the drugmaker reported third-quarter profit and revenue far above Wall Street estimates, driven mainly by a surge in payments\u2026",
+   "url": "https://finnhub.io/api/news?id=cdc736cbfe2818c0671fb384c90e3ea93c4a65504547a1f4f4d8be3917c770ab",
+   "source": "Yahoo",
+   "published": "2026-10-30T11:13:08+00:00",
+   "tickers": [
+    "SNY"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "c53debbba30b",
    "headline": "Is Buying McKesson Stock Near Its High A Bad Idea?",
    "summary": "For questions about this article or underlying research, email help@trefis.com.",
@@ -1088,7 +1153,8 @@
    "tickers": [
     "CAH",
     "COR",
-    "CVS"
+    "CVS",
+    "HSIC"
    ],
    "tag": "News",
    "sectors": [
@@ -1121,7 +1187,24 @@
    "tickers": [
     "ABBV",
     "JNJ",
+    "LLY",
+    "MRK",
     "PFE"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "3e82b021850b",
+   "headline": "Why Is Gilead Sciences Stock Surging 4.5% Today?",
+   "summary": "Gilead Sciences (NASDAQ:GILD) shares surged 4. 5% to $172.",
+   "url": "https://finnhub.io/api/news?id=8fe47b5b196ffd27beb0ebd75741ca9a9a0ea7049515490ff54f2cc2c25aa2d2",
+   "source": "Yahoo",
+   "published": "2026-10-30T10:47:48+00:00",
+   "tickers": [
+    "GILD"
    ],
    "tag": "News",
    "sectors": [
@@ -1162,7 +1245,8 @@
    "source": "Yahoo",
    "published": "2026-10-30T10:43:24+00:00",
    "tickers": [
-    "ILMN"
+    "ILMN",
+    "LLY"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -1193,7 +1277,38 @@
    "published": "2026-10-30T10:28:00+00:00",
    "tickers": [
     "ISRG",
-    "RMD"
+    "RMD",
+    "TMO"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "5ce53d3b3ca6",
+   "headline": "What DaVita (DVA) Said on Its Q3 Earnings Call",
+   "summary": "DaVita (NYSE:DVA) reported third-quarter adjusted operating income of $561 million, adjusted earnings per share of $3.82 and free cash flow of $276 million, while narrowing its full-year 2026 outlook. The kidney-care provider said its\u2026",
+   "url": "https://finnhub.io/api/news?id=41f42839b75995719303d07797d7f704a97562f8bb809f5221a0e83af64f902b",
+   "source": "Yahoo",
+   "published": "2026-10-30T10:14:18+00:00",
+   "tickers": [
+    "DVA"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "19383044e792",
+   "headline": "Stryker\u2019s Guidance Cut Rattles Investors: What It Really Says About 2027",
+   "summary": "Stryker shares cratered 10% after a guidance cut that hit sales far harder than earnings, and a new CEO inherits the mess on his very first day. The real question is whether 2027 starts from a manageable reset or something far more\u2026",
+   "url": "https://finnhub.io/api/news?id=c35449197bd7e58e42a6ece3f49d3658e33e44770303710a779fb56026afeb20",
+   "source": "Yahoo",
+   "published": "2026-10-30T10:01:40+00:00",
+   "tickers": [
+    "SYK"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -1224,6 +1339,8 @@
    "published": "2026-10-30T09:57:07+00:00",
    "tickers": [
     "HSIC",
+    "IDXX",
+    "TMO",
     "ZTS"
    ],
    "tag": "Earnings",
@@ -52624,248 +52741,6 @@
    "tag": "Policy",
    "sectors": [
     "tools"
-   ]
-  },
-  {
-   "id": "2e6bb774686d",
-   "headline": "An eBay For Money: What You Need To Know About Lending Club's IPO",
-   "summary": "",
-   "url": "https://finnhub.io/api/news?id=2d8648ecdefff5c8420e232ad3081c44769919e54fe8e4c93cb1a35ce844df13",
-   "source": "Benzinga",
-   "published": "2026-10-20T13:01:29+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "tag": "Financing",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "425631566020",
-   "headline": "Analysts Estimate Icon PLC (ICLR) to Report a Decline in Earnings: What to Look Out for",
-   "summary": "Icon PLC (ICLR) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-   "url": "https://finnhub.io/api/news?id=9e7653b79a74aa7a8c6da3e2318d26ddd0308a2b30ed2e8139bf7af2d20928f9",
-   "source": "Yahoo",
-   "published": "2026-10-20T13:00:19+00:00",
-   "tickers": [
-    "ICLR"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "8e1d945fd312",
-   "headline": "Analysts Estimate Universal Health Services (UHS) to Report a Decline in Earnings: What to Look Out for",
-   "summary": "Universal Health Services (UHS) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-   "url": "https://finnhub.io/api/news?id=bd6bd056aea76199eb4ebb883252526736f7b466af6783bccaa3f7733182e55c",
-   "source": "Yahoo",
-   "published": "2026-10-20T13:00:15+00:00",
-   "tickers": [
-    "UHS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "eb44ce17efe8",
-   "headline": "IQVIA Holdings (IQV) Earnings Expected to Grow: Should You Buy?",
-   "summary": "IQVIA (IQV) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-   "url": "https://finnhub.io/api/news?id=d8730424df8d510090ff0c49b9391e6cd07dbe706285a530c08e22ed9e3ef449",
-   "source": "Yahoo",
-   "published": "2026-10-20T13:00:11+00:00",
-   "tickers": [
-    "IQV"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "dc68c2ad9492",
-   "headline": "Analysts Estimate HCA Healthcare (HCA) to Report a Decline in Earnings: What to Look Out for",
-   "summary": "HCA (HCA) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-   "url": "https://finnhub.io/api/news?id=324fc3884f60b10fdad89ced3e39b83cbc2a0beea18081cb27c1cbbaed47e5c1",
-   "source": "Yahoo",
-   "published": "2026-10-20T13:00:10+00:00",
-   "tickers": [
-    "HCA"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "dfd33295950b",
-   "headline": "MinuteClinic\u00ae opens three new retail medical clinics to serve Massachusetts patients",
-   "summary": "CVS Health\u00ae (NYSE: CVS) today announced that MinuteClinic\u00ae, the medical clinic inside select CVS Pharmacy\u00ae locations, has opened three new locations in Charlestown, Beverly and Swampscott, to help increase access to health care services\u2026",
-   "url": "https://finnhub.io/api/news?id=5acc30d63fe32016d1356a81e139630c18b285b96f022952961d8ed0aa83214a",
-   "source": "Yahoo",
-   "published": "2026-10-20T13:00:00+00:00",
-   "tickers": [
-    "CVS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "f6540db00636",
-   "headline": "Penumbra's CAVT Technology Receives FDA Clearance for the Treatment of Deep Vein Thrombosis (DVT)",
-   "summary": "Penumbra, Inc. (NYSE: PEN), the world's leading thrombectomy company, announced that the U.S. Food and Drug Administration (FDA) has granted clearance for the treatment of deep vein thrombosis (DVT) to the company's Lightning\u2122 computer\u2026",
-   "url": "https://finnhub.io/api/news?id=fd7b0425e8244485a2fb3f87e27587f44dbec6ebd5a7d995ca229533ae2970c0",
-   "source": "Yahoo",
-   "published": "2026-10-20T13:00:00+00:00",
-   "tickers": [
-    "PEN"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "f36a94170205",
-   "headline": "TEZSPIRE positive results from Phase III CROSSING trial in eosinophilic esophagitis including symptom improvement, histologic and endoscopic remission presented at United European Gastroenterology Week",
-   "summary": "WILMINGTON, Del., October 20, 2026--Full results from the positive Phase III CROSSING trial showed that AstraZeneca and Amgen\u2019s TEZSPIRE\u00ae (tezepelumab) demonstrated statistically significant and clinically meaningful improvements in the\u2026",
-   "url": "https://finnhub.io/api/news?id=d335863619513289a46489262869efb979f7162f92efaf5f33c47026aef280fc",
-   "source": "Yahoo",
-   "published": "2026-10-20T13:00:00+00:00",
-   "tickers": [
-    "AZN"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "a5309c0730c6",
-   "headline": "Jefferies puts AstraZeneca kidney drug trial success odds at 59%",
-   "summary": "Jefferies, the investment bank, estimates a 59% probability that AstraZeneca PLC (LSE:AZN, NYSE:AZN)\u2019s zibotentan succeeds in the phase 3 ZENITH-HP kidney disease trial, which is due to report in the first half of 2027. The broker rates\u2026",
-   "url": "https://finnhub.io/api/news?id=aa1f2cbb0ac1dbcf6139720881388e1e2e30a82b0d5bee3c0c7218e37bf61cc6",
-   "source": "Yahoo",
-   "published": "2026-10-20T13:00:00+00:00",
-   "tickers": [
-    "AZN"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "9c1541998395",
-   "headline": "How CVS' Aetna Is Advancing Efforts to Reduce Administrative Burden",
-   "summary": "CVS Health's Aetna streamlines prior authorizations, approves more than 95% of eligible requests within 24 hours and expands bundled approvals to speed access to care.",
-   "url": "https://finnhub.io/api/news?id=e1ddfdc36d833ce2c7300447ae558dc70c3b7f5ddafb4396509366ff99bcb526",
-   "source": "Yahoo",
-   "published": "2026-10-20T13:00:00+00:00",
-   "tickers": [
-    "CI",
-    "CVS",
-    "HUM"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "350509136e64",
-   "headline": "Why ISRG Is Lowering Instrument Costs Despite Strong Profitability",
-   "summary": "Intuitive Surgical plans to extend instrument life in 2027, trading near-term revenue per procedure for lower surgical costs and broader robotic surgery adoption.",
-   "url": "https://finnhub.io/api/news?id=2dd14fa4aae4eae1848991b3ffea364f5e6c7ce8259a36413967477322051dc9",
-   "source": "Yahoo",
-   "published": "2026-10-20T13:00:00+00:00",
-   "tickers": [
-    "ISRG",
-    "MDT",
-    "SYK"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "821343b5ee08",
-   "headline": "GE HealthCare Wins Approval for MINItrace Magni Cyclotron in Europe",
-   "summary": "GE HealthCare secures CE Mark certification for MINItrace Magni and expands Copper-64 production capabilities, strengthening its PET imaging and theranostics portfolio.",
-   "url": "https://finnhub.io/api/news?id=2b30b16bb613d80cc46a5101aa0721ea441ec2e450162b8067fe52f33db86157",
-   "source": "Yahoo",
-   "published": "2026-10-20T13:00:00+00:00",
-   "tickers": [
-    "GEHC"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "59984b751fde",
-   "headline": "Health Care Stocks Hit Record Highs, GM Drops Nearly 8%: Stock Market Today",
-   "summary": "Health care stocks climbed to record highs by midday Tuesday, with defensives and small caps leading a recovery from an early dip.",
-   "url": "https://finnhub.io/api/news?id=3482c1924b89e162572ba246e9d18ef4c7056d94d57c36f352953a973a66610a",
-   "source": "Benzinga",
-   "published": "2026-10-20T12:58:54+00:00",
-   "tickers": [
-    "DOCS",
-    "DVA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "8f97ff56326f",
-   "headline": "How voters feel about trans rights and abortion access will soon be put to the test",
-   "summary": "How do voters feel about trans students participating in school sports teams? Or abortion access? The U.S. is about to find out.",
-   "url": "https://www.statnews.com/2026/10/20/health-news-how-voters-feel-about-trans-rights-abortion-access-2026-midterms/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-10-20T12:55:52+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "fde2e2b861ec",
-   "headline": "AstraZeneca/Amgen Drug Shows Significant Remission in Eosinophilic Esophagitis Study",
-   "summary": "AstraZeneca and Amgen report positive Phase 3 Tezspire data, showing sustained remission in eosinophilic esophagitis patients over 52 weeks.",
-   "url": "https://finnhub.io/api/news?id=6c13eaafa9136a739b85bb1ef3bbc63265277cba9de359cb237d56a60d020650",
-   "source": "Benzinga",
-   "published": "2026-10-20T12:51:34+00:00",
-   "tickers": [
-    "AMGN",
-    "AZN"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "56449c22268e",
-   "headline": "Cybersecurity in focus for top medtech lobby",
-   "summary": "ResMed CEO Mick Farrell, chair of AdvaMed\u2019s board, said the group plans to come up with standards around privacy, cybersecurity and interoperability.",
-   "url": "https://www.medtechdive.com/news/cybersecurity-in-focus-for-top-medtech-lobby/833422/",
-   "source": "MedTech Dive",
-   "published": "2026-10-20T12:48:00+00:00",
-   "tickers": [
-    "RMD"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
