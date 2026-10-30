@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-30T01:32:35.697202+00:00",
+ "updated": "2026-10-30T01:47:40.995828+00:00",
  "quotes": {
   "A": {
    "price": 181.15,
@@ -21,6 +21,10 @@
   "ALGN": {
    "price": 153.71,
    "change_pct": 0.06
+  },
+  "ALHC": {
+   "price": 8.06,
+   "change_pct": -1.47
   },
   "ALNY": {
    "price": 174,
@@ -317,10 +321,6 @@
   "ROIV": {
    "price": 37.52,
    "change_pct": 1.1
-  },
-  "SNY": {
-   "price": 43.13,
-   "change_pct": 2.11
   }
  },
  "tickers": {
@@ -938,6 +938,21 @@
  },
  "stories": [
   {
+   "id": "99244b78f6e5",
+   "headline": "Glaukos (GKOS) Stock Charges Higher On Q3 Earnings Surprise",
+   "summary": "Glaukos came into the Q3 2026 print with a hot chart and a premium story, and the stock just got even hotter. Shares jumped 33.65% in the first full session after results, a large move for a medical device specialist that investors\u2026",
+   "url": "https://finnhub.io/api/news?id=37895bf6fd7ad52ea7af855a0dc64e5d5b8cfd25888f33a8d235668ba5ae6dd2",
+   "source": "Yahoo",
+   "published": "2026-10-30T00:15:48+00:00",
+   "tickers": [
+    "GKOS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "8b0aadb1ef0c",
    "headline": "What Exelixis (EXEL) Said on Its Q3 Earnings Call",
    "summary": "Exelixis (NASDAQ:EXEL) reported third-quarter 2026 revenue of approximately $659 million, supported by continued growth in its cabozantinib franchise and progress toward a potential launch of zanzalintinib in colorectal cancer. Chief\u2026",
@@ -945,11 +960,27 @@
    "source": "Yahoo",
    "published": "2026-10-30T00:14:18+00:00",
    "tickers": [
-    "BMY"
+    "BMY",
+    "EXEL"
    ],
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "26704552db14",
+   "headline": "What Alignment Healthcare (ALHC) Said on Its Q3 Earnings Call",
+   "summary": "Alignment Healthcare (NASDAQ:ALHC) reported third-quarter revenue growth of 37% as membership rose 31% from a year earlier, but the Medicare Advantage insurer lowered its full-year profitability outlook after elevated medical costs,\u2026",
+   "url": "https://finnhub.io/api/news?id=7b27e2cbf3bf9117d05150d91fe51a0eb505e52b26cf2eff99ecd0d21b1a8285",
+   "source": "Yahoo",
+   "published": "2026-10-30T00:14:16+00:00",
+   "tickers": [
+    "ALHC"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -1115,6 +1146,36 @@
    "tag": "News",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "14c090c6af15",
+   "headline": "Alignment Healthcare (ALHC) Reports Q3 Loss, Beats Revenue Estimates",
+   "summary": "Alignment Healthcare (ALHC) delivered earnings and revenue surprises of 0.00% and +3.63%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=b6997d04e9f034f3a8d9a71966ebaa7ad4efd3a7e8e4bdec541f995ee002473f",
+   "source": "Yahoo",
+   "published": "2026-10-29T22:05:03+00:00",
+   "tickers": [
+    "ALHC"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "eca7845d7016",
+   "headline": "Here's What Key Metrics Tell Us About Alignment Healthcare (ALHC) Q3 Earnings",
+   "summary": "The headline numbers for Alignment Healthcare (ALHC) give insight into how the company performed in the quarter ended September 2026, but it may be worthwhile to compare some of its key metrics to Wall Street estimates and the year-ago\u2026",
+   "url": "https://finnhub.io/api/news?id=6ccd2c81efee3e9b63773913591239697616052174e6e7906a5f5a40c968d46f",
+   "source": "Yahoo",
+   "published": "2026-10-29T22:00:02+00:00",
+   "tickers": [
+    "ALHC"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -1482,7 +1543,8 @@
    "source": "SeekingAlpha",
    "published": "2026-10-29T20:50:00+00:00",
    "tickers": [
-    "RGEN"
+    "RGEN",
+    "TWST"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -1520,6 +1582,21 @@
    ]
   },
   {
+   "id": "8699178b56cf",
+   "headline": "Alignment Healthcare: Q3 Earnings Snapshot",
+   "summary": "(AP) \u2014 Alignment Healthcare Inc. (ALHC) on Thursday reported a third-quarter loss of $8.",
+   "url": "https://finnhub.io/api/news?id=cbf0c15a0a17b5992f19658d6a339552016eb1fb1c3e56bb393de6063eed3093",
+   "source": "Yahoo",
+   "published": "2026-10-29T20:46:03+00:00",
+   "tickers": [
+    "ALHC"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "11d0b7c1065a",
    "headline": "Hims & Hers Health, Inc. (HIMS) Gains As Market Dips: What You Should Know",
    "summary": "In the latest trading session, Hims & Hers Health, Inc. (HIMS) closed at $29.69, marking a +1.24% move from the previous day.",
@@ -1547,6 +1624,21 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "6b3a8fd34a6a",
+   "headline": "Exelixis, Inc. (EXEL) Q3 2026 Earnings Call Transcript",
+   "summary": "Exelixis, Inc. (EXEL) Q3 2026 Earnings Call October 29, 2026 5:00 PM EDTCompany ParticipantsAndrew Peters - Senior Vice President of StrategyMichael...",
+   "url": "https://finnhub.io/api/news?id=8a5a12a9bedf3518bb78cbad090f2fc498733802b4dcb745b51ccce932601cc0",
+   "source": "SeekingAlpha",
+   "published": "2026-10-29T20:38:33+00:00",
+   "tickers": [
+    "EXEL"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -1747,6 +1839,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "ca7aebf88138",
+   "headline": "Alignment Healthcare\u2019s (NASDAQ:ALHC) Q3 2026 sales beat estimates but stock drops",
+   "summary": "Health insurance company Alignment Healthcare (NASDAQ:ALHC) reported Q3 2026 results beating Wall Street\u2019s revenue expectations, with revenue up 36.7% year on year to $1.36 billion. Revenue guidance for the full year exceeded analysts\u2019\u2026",
+   "url": "https://finnhub.io/api/news?id=2c83902528fba8ab57ad79e6fe87c34c683010ae2f57a5b0dc149d9bd1280f9a",
+   "source": "Yahoo",
+   "published": "2026-10-29T20:25:06+00:00",
+   "tickers": [
+    "ALHC"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -2250,6 +2357,21 @@
    ]
   },
   {
+   "id": "4138348a384d",
+   "headline": "Alignment Healthcare Reports Third Quarter 2026 Results, Updates Full-Year Outlook",
+   "summary": "Reports third-quarter revenue of $1.36 billion, representing 36.7% year-over-year growthGrows health plan membership 31.2% year-over-year to 301,200 membersIssues fourth-quarter guidance and lowers full-year 2026 adjusted gross profit and\u2026",
+   "url": "https://finnhub.io/api/news?id=4cb296b338f41256f0fdd93ed009cd56f3d258079c33f791ad02e7dec427c185",
+   "source": "Yahoo",
+   "published": "2026-10-29T20:01:00+00:00",
+   "tickers": [
+    "ALHC"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "3b3861a0cb0b",
    "headline": "US Stock Market Movers: Top Gainers and Losers for the Session",
    "summary": "US session market movers: NUBURU led gainers at 125.0% while GameStop's GME.W fell 48.11% among the biggest losers.",
@@ -2307,6 +2429,21 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "e057091b74ca",
+   "headline": "Glaukos Sets $1 Billion 2027 Sales Goal: Rapid Earnings Reaction",
+   "summary": "Glaukos\u2019 two newer launches are carrying the company, and its 2027 target may be too low. Here\u2019s what to watch.",
+   "url": "https://finnhub.io/api/news?id=18f0900d9c656fdda70ef5ee8a6d4e59c3f67806e698d0d94f0bad9fe3ef12fb",
+   "source": "Yahoo",
+   "published": "2026-10-29T19:50:13+00:00",
+   "tickers": [
+    "GKOS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -2465,7 +2602,8 @@
    "published": "2026-10-29T19:00:59+00:00",
    "tickers": [
     "HIMS",
-    "LFST"
+    "LFST",
+    "TDOC"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -2588,6 +2726,7 @@
    "source": "Yahoo",
    "published": "2026-10-29T18:40:36+00:00",
    "tickers": [
+    "INSM",
     "UTHR"
    ],
    "tag": "Earnings",
@@ -2668,6 +2807,21 @@
    ]
   },
   {
+   "id": "73ede4daa3d5",
+   "headline": "What Insmed (INSM) Said on Its Q3 Earnings Call",
+   "summary": "Insmed (NASDAQ:INSM) reported third-quarter 2026 revenue growth from both of its commercial respiratory products and raised the low end of its full-year revenue guidance for BRINSUPRI and ARIKAYCE. Chair and Chief Executive Officer Will\u2026",
+   "url": "https://finnhub.io/api/news?id=017d100df0493d298181e61a139cfab6edc079169fd87c26ea240a47d19a8a82",
+   "source": "Yahoo",
+   "published": "2026-10-29T18:14:47+00:00",
+   "tickers": [
+    "INSM"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "22cae785353a",
    "headline": "What Incyte (INCY) Said on Its Q3 Earnings Call",
    "summary": "Incyte (NASDAQ:INCY) reported third-quarter revenue of $1.56 billion, up 14% from a year earlier, as growth in its dermatology and hematology-oncology products helped offset a more modest increase in Jakafi sales. The company also raised\u2026",
@@ -2695,6 +2849,21 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "54abcb77119e",
+   "headline": "Insmed (INSM) Q3 2026 Earnings Call Transcript",
+   "summary": "BRINSUPRI revenue surged to $400.1 million, driving 268% total revenue growth year-over-year.",
+   "url": "https://finnhub.io/api/news?id=094d11544058690331876ee387fa446c4be62d28760d27435616ddf16d9fa558",
+   "source": "Yahoo",
+   "published": "2026-10-29T18:13:53+00:00",
+   "tickers": [
+    "INSM"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -2804,6 +2973,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "2e4187314278",
+   "headline": "Teladoc (TDOC) stock trades up, here is why",
+   "summary": "Shares of digital medical services platform Teladoc Health (NYSE:TDOC) jumped 24.2% in the morning session after the company reported third-quarter financial results that exceeded its adjusted EBITDA guidance and reached near the upper\u2026",
+   "url": "https://finnhub.io/api/news?id=5cdf53302043a8c6f121da763718af631a8310fd00f7bb9111d81853b482f601",
+   "source": "Yahoo",
+   "published": "2026-10-29T17:52:34+00:00",
+   "tickers": [
+    "TDOC"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
    ]
   },
   {
@@ -3281,6 +3465,21 @@
    "sectors": []
   },
   {
+   "id": "9263f1dee8a7",
+   "headline": "Why Glaukos Stock Is Surging 30% and Headed for Record Close After Earnings",
+   "summary": "Glaukos raises its full-year guidance, triggering a wave of price target hikes across Wall Street.",
+   "url": "https://finnhub.io/api/news?id=b7d57113b6c274e89ef9c8124e98b4fee9617cfcb39afb0645e47619c026899b",
+   "source": "Yahoo",
+   "published": "2026-10-29T15:57:00+00:00",
+   "tickers": [
+    "GKOS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "5ab706f87e95",
    "headline": "3 highlights from EY\u2019s report on 2026 medtech trends",
    "summary": "M&A rose, but company valuations declined in the first half of 2026 compared with the year-ago period, according to EY\u2019s Pulse of the Industry report.",
@@ -3608,6 +3807,7 @@
    "source": "Yahoo",
    "published": "2026-10-29T15:23:00+00:00",
    "tickers": [
+    "GSK",
     "MRK",
     "MRNA",
     "PFE"
@@ -3868,6 +4068,7 @@
    "published": "2026-10-29T15:04:00+00:00",
    "tickers": [
     "BDX",
+    "GKOS",
     "GMED"
    ],
    "tag": "Earnings",
@@ -4458,7 +4659,8 @@
    "source": "Yahoo",
    "published": "2026-10-29T14:18:24+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "GKOS"
    ],
    "tag": "News",
    "sectors": [
@@ -5643,6 +5845,21 @@
    ]
   },
   {
+   "id": "c908ee692a22",
+   "headline": "Insmed (INSM) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
+   "summary": "While the top- and bottom-line numbers for Insmed (INSM) give a sense of how the business performed in the quarter ended September 2026, it could be worth looking at how some of its key metrics compare to Wall Street estimates and\u2026",
+   "url": "https://finnhub.io/api/news?id=fad6013647055d0dbb7c405f6747781d1465c649796e0511f9aa8578cc25211c",
+   "source": "Yahoo",
+   "published": "2026-10-29T12:30:03+00:00",
+   "tickers": [
+    "INSM"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "1379bbc254c8",
    "headline": "Orchestra BioMed Announces Virtue SAB Presentation at TCT 2026",
    "summary": "Presentation will highlight Virtue SAB\u2019s fundamentally different approach of infusing a large liquid volume of proprietary extended-release SirolimusEFR\u2122 directly into and throughout the vessel wall.Virtue SAB\u2019s mechanism is designed to\u2026",
@@ -6245,6 +6462,21 @@
    ]
   },
   {
+   "id": "07e68a81a848",
+   "headline": "Insmed (INSM) Reports Q3 Loss, Tops Revenue Estimates",
+   "summary": "Insmed (INSM) delivered earnings and revenue surprises of -35.29% and +4.62%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=afb14b5cbd450f9a9d3f1ffd3c8d74150c619f40e1db69fc625e219f2a8c3f43",
+   "source": "Yahoo",
+   "published": "2026-10-29T11:35:07+00:00",
+   "tickers": [
+    "INSM"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "524705960da5",
    "headline": "Bristol Myers Squibb (BMY) Q3 Earnings and Revenues Beat Estimates",
    "summary": "Bristol Myers (BMY) delivered earnings and revenue surprises of +11.57% and +4.07%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
@@ -6491,6 +6723,21 @@
    ]
   },
   {
+   "id": "4dd9042ddb5e",
+   "headline": "Insmed: Q3 Earnings Snapshot",
+   "summary": "(INSM) on Thursday reported a loss of $100.The Bridgewater, New Jersey-based company said it had a loss of 46 cents per share.",
+   "url": "https://finnhub.io/api/news?id=5b61c370c52000429032e4c70afe922057154b3e11a9f7b3caccccd0ac7d0b36",
+   "source": "Yahoo",
+   "published": "2026-10-29T11:06:52+00:00",
+   "tickers": [
+    "INSM"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "4f1adc41f730",
    "headline": "Bristol Myers: Q3 Earnings Snapshot",
    "summary": "(AP) \u2014 Bristol Myers Squibb Co. (BMY) on Thursday reported third-quarter net income of $2.",
@@ -6611,6 +6858,21 @@
    "published": "2026-10-29T11:00:00+00:00",
    "tickers": [
     "INCY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "a3b91e13cc3a",
+   "headline": "Insmed Reports Third-Quarter 2026 Financial Results and Provides Business Update",
+   "summary": "Insmed Incorporated (Nasdaq: INSM), a people-first global biopharmaceutical company striving to deliver first- and best-in-class therapies to transform the lives of patients facing serious diseases, today reported financial results for\u2026",
+   "url": "https://finnhub.io/api/news?id=515e71e674195026dcd7933f623bd35cb4fb2032fb175f825f90540eca8ef778",
+   "source": "Yahoo",
+   "published": "2026-10-29T11:00:00+00:00",
+   "tickers": [
+    "INSM"
    ],
    "tag": "News",
    "sectors": [
@@ -7693,6 +7955,21 @@
    ]
   },
   {
+   "id": "a384a9a0fbf8",
+   "headline": "Teladoc Health Q3 Earnings Call Highlights",
+   "summary": "Teladoc Health (NYSE:TDOC) reported third-quarter 2026 revenue near the upper end of its guidance range and adjusted EBITDA above expectations, as growth in Integrated Care and BetterHelp insurance revenue partly offset continued pressure\u2026",
+   "url": "https://finnhub.io/api/news?id=2700f7a0398815459bda522a4bc4fca557ff3d6e52d9e5494585b809762e3f2b",
+   "source": "Yahoo",
+   "published": "2026-10-29T08:04:20+00:00",
+   "tickers": [
+    "TDOC"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "6469d17f18dc",
    "headline": "Top Specialty Lab Stocks to Watch This Earnings Season, According to BTIG",
    "summary": "Investing.com-- Several specialty lab companies are set to report third-quarter results in early November, with analysts at BTIG outlining key metrics and expectations for the sector\u2019s leading names. The firm has identified three stocks\u2026",
@@ -8249,6 +8526,21 @@
    ]
   },
   {
+   "id": "bfdc74376768",
+   "headline": "Teladoc: 3 Key Takeaways for Long-Term Investors",
+   "summary": "A unified care platform and insurance-focused strategy position Teladoc to stabilize revenue while managing $1 billion in convertible debt due next June.",
+   "url": "https://finnhub.io/api/news?id=a81f38a1875c386166d4b409b06b46608b2de822589b8573129723de3855fba0",
+   "source": "Yahoo",
+   "published": "2026-10-29T06:33:33+00:00",
+   "tickers": [
+    "TDOC"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "1695802709bf",
    "headline": "Merck & Co Raises FY2026 Adj EPS Guidance from $2.66-$2.76 to $2.77-$2.82 vs $2.65 Est; Raises FY2026 Sales Guidance from $66.300B-$67.300B to $66.800B-$67.300B vs $67.052B Est",
    "summary": "Merck & Co (NYSE:MRK) raises FY2026 Adj EPS guidance from $2.66-$2.76 to $2.77-$2.82 vs $2.65 analyst estimate. Raises FY2026 sales outlook from $66.300 billion-$67.300 billion to $66.800 billion-$67.300 billion vs",
@@ -8458,6 +8750,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "ed72b8331a3d",
+   "headline": "Teladoc (TDOC) Q3 2026 Earnings Call Transcript",
+   "summary": "Insurance mental health revenue surged amid cash-pay headwinds.",
+   "url": "https://finnhub.io/api/news?id=1f9bb658b8e546999aef3ab614563bdffc7b01c400f5f687da390a629b7b6f32",
+   "source": "Yahoo",
+   "published": "2026-10-29T05:58:38+00:00",
+   "tickers": [
+    "TDOC"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
    ]
   },
   {
@@ -52649,21 +52956,6 @@
     "SNY"
    ],
    "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "7844c3f6086c",
-   "headline": "AstraZeneca, Oracle to launch their first global AI program in Abu Dhabi: CEO",
-   "summary": "AstraZeneca and Oracle team up on AI, aiming to speed up clinical trials and improve patient care pathways, with the first programme set for Abu Dhabi in partnership with M42. CNBC's Dan Murphy speaks to AstraZeneca's CEO Pascal Soriot\u2026",
-   "url": "https://finnhub.io/api/news?id=b0a70a46eda40d814f99270b455ad49e6ed8606ece067a61c04379f000456c35",
-   "source": "CNBC",
-   "published": "2026-10-20T01:36:54+00:00",
-   "tickers": [
-    "GILD"
-   ],
-   "tag": "Clinical",
    "sectors": [
     "pharma"
    ]
