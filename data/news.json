@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-30T20:47:40.725923+00:00",
+ "updated": "2026-10-30T21:02:49.271496+00:00",
  "quotes": {
   "A": {
    "price": 174.87,
@@ -298,10 +298,6 @@
    "price": 697,
    "change_pct": -1.72
   },
-  "TWST": {
-   "price": 152.78,
-   "change_pct": -11.92
-  },
   "UHS": {
    "price": 176.05,
    "change_pct": -0.32
@@ -321,6 +317,10 @@
   "VRTX": {
    "price": 558.88,
    "change_pct": 3.5
+  },
+  "ZTS": {
+   "price": 79.72,
+   "change_pct": 1.17
   }
  },
  "tickers": {
@@ -979,6 +979,21 @@
    ]
   },
   {
+   "id": "942d204728ea",
+   "headline": "CRMD Stock Hits Fresh 52-Week Low On DaVita\u2019s Warning Of Sharp 2027 DefenCath Reimbursement Drop",
+   "summary": "DefenCath is CorMedix\u2019s largest revenue driver in the dialysis setting, generating $258.8 million in net sales in 2025 and accounting for a majority of the company's reported full-year revenue of $311.7 million.",
+   "url": "https://finnhub.io/api/news?id=c22ef4513d9daad3ba546ac16f9afbde26af5f1aa66000afd5c73f30ab86cfda",
+   "source": "Yahoo",
+   "published": "2026-10-30T19:51:08+00:00",
+   "tickers": [
+    "DVA"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "cc199222d680",
    "headline": "Who\u2019s responsible when clinical AI goes wrong? AMA weighs in",
    "summary": "The physician association, in a new framework, outlines its views on how different parties should bear responsibility for decisions, actions and failures involving clinical AI.",
@@ -1054,7 +1069,8 @@
    "source": "Yahoo",
    "published": "2026-10-30T19:13:33+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "LLY"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -1107,6 +1123,21 @@
    ]
   },
   {
+   "id": "f548eaa157d5",
+   "headline": "Stryker's Q3 Miss Expected, But Negative Tone on Underperformance Unexpected, Truist Says",
+   "summary": "Stryker's (SYK) Q3 miss and lower guidance were anticipated, but its comments about underperformance",
+   "url": "https://finnhub.io/api/news?id=3e9673bf5d4cc0e228a45d6757b8adc4dc7111bbb27b783c6980f3ffa9f3c182",
+   "source": "Yahoo",
+   "published": "2026-10-30T18:57:44+00:00",
+   "tickers": [
+    "SYK"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "f004485ba4d4",
    "headline": "Medicilon remet \u00e0 Revolution Medicines le prix \u00ab Excellence en mati\u00e8re de partenariat client \u00bb",
    "summary": "BOSTON, 30 octobre 2026 /PRNewswire/ -- Le Dr Yang Liu, directeur de la chimie m\u00e9dicinale chez Revolution Medicines, Inc., et le Dr Kristof Pota, scientifique principal, ont visit\u00e9 le centre de R&D de Medicilon \u00e0 Nanhui. Le Dr Maosheng\u2026",
@@ -1149,6 +1180,21 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "34df24397364",
+   "headline": "Eli Lilly Is Now Worth as Much as Warren Buffett's Berkshire Hathaway. Can the Rally Keep Going?",
+   "summary": "Eli Lilly's business is heavily driven by one product, while Berkshire Hathaway is a diversified conglomerate.",
+   "url": "https://finnhub.io/api/news?id=11ae86400f67aa222bc51de469d3f492f85fcc27b630f4452356302becf57db5",
+   "source": "Yahoo",
+   "published": "2026-10-30T18:35:00+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1227,7 +1273,8 @@
    "published": "2026-10-30T17:56:00+00:00",
    "tickers": [
     "BDX",
-    "GMED"
+    "GMED",
+    "SYK"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -1248,6 +1295,21 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "c2e4aaac638b",
+   "headline": "Amazon earnings fall short amid tech sell-off, and Anthropic becomes SpaceX's top partner",
+   "summary": "In this episode of Market Hang, Laffer Tengler Investments CEO and CIO Nancy Tengler and her panel of experts weigh in on the latest round of disappointing earnings from Amazon (AMZN) and Intel (INTC), whether energy earnings feed into\u2026",
+   "url": "https://finnhub.io/api/news?id=e876018f250255c698882fbe7918cfb07d641f5d30808c18569735b00e2f00a9",
+   "source": "Yahoo",
+   "published": "2026-10-30T17:40:24+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -55564,112 +55626,6 @@
    "tag": "News",
    "sectors": [
     "healthit"
-   ]
-  },
-  {
-   "id": "54a6acf3b8ac",
-   "headline": "After-Hours Movers: Postmarket Gainers and Losers",
-   "summary": "After the US close, SHFS, GFAI, SPHL and NCPL led after-hours gainers, while TKNO, RFAIR, PRSO and INLF led postmarket losers.",
-   "url": "https://finnhub.io/api/news?id=99a696fb28c0788ceb543b5c88db7d2f7170ae356ff2e0ee5490fe6b0212ef86",
-   "source": "ChartMill",
-   "published": "2026-10-20T21:00:31+00:00",
-   "tickers": [
-    "ISRG"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "53346ecb0471",
-   "headline": "McKesson (MCK) Outperforms Broader Market: What You Need to Know",
-   "summary": "In the latest trading session, McKesson (MCK) closed at $1, marking a +1.95% move from the previous day.",
-   "url": "https://finnhub.io/api/news?id=3d62cd685fa62fd67dcb9d9002ac9f60107da94b2401bdf94825982ab7906c8d",
-   "source": "Yahoo",
-   "published": "2026-10-20T21:00:04+00:00",
-   "tickers": [
-    "MCK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharmacy"
-   ]
-  },
-  {
-   "id": "1c8a2d601555",
-   "headline": "Cardinal Health (CAH) Laps the Stock Market: Here's Why",
-   "summary": "Cardinal Health (CAH) concluded the recent trading session at $257.55, signifying a +1.94% move from its prior day's close.",
-   "url": "https://finnhub.io/api/news?id=edcc7e4520556b732891fa005e7275be443421c583809d7c8ed10319818038d3",
-   "source": "Yahoo",
-   "published": "2026-10-20T21:00:03+00:00",
-   "tickers": [
-    "CAH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharmacy"
-   ]
-  },
-  {
-   "id": "342bf7808023",
-   "headline": "2 Dividend Stocks Crushing the Market in 2026 (and Which Ones Can Keep Going)",
-   "summary": "These drugmakers are facing some near-term challenges, but is that enough to stop their recent momentum?",
-   "url": "https://finnhub.io/api/news?id=526ca852bd13c84f9eed80033a10f76befd97e38898aa8777ca0e9ae4787d595",
-   "source": "Yahoo",
-   "published": "2026-10-20T21:00:00+00:00",
-   "tickers": [
-    "AMGN",
-    "JNJ"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "eb429dbac493",
-   "headline": "Vertex Pharmaceuticals (VRTX) Outpaces Stock Market Gains: What You Should Know",
-   "summary": "Vertex Pharmaceuticals (VRTX) closed at $514.7 in the latest trading session, marking a +2.54% move from the prior day.",
-   "url": "https://finnhub.io/api/news?id=59314c7ab71cb22d75b313016495700c4c5d175bb0a4e388ad53dbc7407cf9d2",
-   "source": "Yahoo",
-   "published": "2026-10-20T20:50:03+00:00",
-   "tickers": [
-    "VRTX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "7618319f34ff",
-   "headline": "Recursion Pharmaceuticals (RXRX) Surpasses Market Returns: Some Facts Worth Knowing",
-   "summary": "Recursion Pharmaceuticals (RXRX) reached $3.66 at the closing of the latest trading day, reflecting a +1.39% change compared to its last close.",
-   "url": "https://finnhub.io/api/news?id=4417c26724e4dfa311442afc4460fd33a520f4c34380201f80cf86a452537b57",
-   "source": "Yahoo",
-   "published": "2026-10-20T20:50:02+00:00",
-   "tickers": [
-    "RXRX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "healthai"
-   ]
-  },
-  {
-   "id": "b76e5f6cf4c6",
-   "headline": "Stock Market Today: Dow Jumps On U.S.-Iran Hopes; This Warren Buffett Stock Offers Entry (Live Coverage)",
-   "summary": "Stock Market Today: The Dow Jones index and other indexes gain Tuesday on U.S.-Iran peace hopes. Biotech and software stocks show strength. A Warren Buffett stock clears an entry.",
-   "url": "https://finnhub.io/api/news?id=6efcf496b49209d6d230e15917e232276b948288ff21a77503c61ee118c38eb5",
-   "source": "Yahoo",
-   "published": "2026-10-20T20:48:17+00:00",
-   "tickers": [
-    "AMGN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
