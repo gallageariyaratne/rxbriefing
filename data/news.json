@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-30T03:02:58.979766+00:00",
+ "updated": "2026-10-30T03:17:30.650883+00:00",
  "quotes": {
   "A": {
    "price": 181.15,
@@ -33,6 +33,10 @@
   "AMGN": {
    "price": 460.73,
    "change_pct": 1.97
+  },
+  "ARGX": {
+   "price": 897.85,
+   "change_pct": 0.68
   },
   "AXSM": {
    "price": 143.45,
@@ -317,10 +321,6 @@
   "PFE": {
    "price": 29.95,
    "change_pct": 1.7
-  },
-  "PTCT": {
-   "price": 64.46,
-   "change_pct": 2.29
   }
  },
  "tickers": {
@@ -3984,6 +3984,7 @@
    "source": "Yahoo",
    "published": "2026-10-29T15:36:03+00:00",
    "tickers": [
+    "ARGX",
     "NVO"
    ],
    "tag": "News",
@@ -5740,6 +5741,21 @@
    "tag": "Clinical",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "c12e9a25a24c",
+   "headline": "GoodRx Launches Employer Direct Weight Loss Offering",
+   "summary": "SANTA MONICA, Calif., October 29, 2026--GoodRx (Nasdaq: GDRX), the trusted platform for prescription access and affordability in the U.S., today announced the market-wide launch of its Employer Direct weight loss offering, giving\u2026",
+   "url": "https://finnhub.io/api/news?id=eadacb22289c2a158002dab454b112f4acee77b98af5b9941cf271321c0ccc5d",
+   "source": "Yahoo",
+   "published": "2026-10-29T13:15:00+00:00",
+   "tickers": [
+    "GDRX"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharmacy"
    ]
   },
   {
