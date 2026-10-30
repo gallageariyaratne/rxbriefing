@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-30T02:01:34.221665+00:00",
+ "updated": "2026-10-30T02:17:51.560512+00:00",
  "quotes": {
   "A": {
    "price": 181.15,
@@ -125,6 +125,10 @@
   "ENSG": {
    "price": 186.32,
    "change_pct": 1.2
+  },
+  "EVH": {
+   "price": 4.25,
+   "change_pct": -1.85
   },
   "EW": {
    "price": 94.44,
@@ -317,10 +321,6 @@
   "RMD": {
    "price": 252.83,
    "change_pct": 1.06
-  },
-  "ROIV": {
-   "price": 37.52,
-   "change_pct": 1.1
   }
  },
  "tickers": {
@@ -953,6 +953,21 @@
    ]
   },
   {
+   "id": "0cf87a4ed1d9",
+   "headline": "AbbVie (ABBV) Stock Still Looks Cheap On Its 197% Five Year Run",
+   "summary": "AbbVie has ridden a strong multi year run in the market, and the question now is whether the current share price lines up with the cash flows its business can realistically generate. With fresh drug trial results and regulatory milestones\u2026",
+   "url": "https://finnhub.io/api/news?id=92f88a67832dbc2533ffd6cc0e10b7fc97a6899823e02622eca8de6d6e0ba566",
+   "source": "Yahoo",
+   "published": "2026-10-30T00:14:19+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "8b0aadb1ef0c",
    "headline": "What Exelixis (EXEL) Said on Its Q3 Earnings Call",
    "summary": "Exelixis (NASDAQ:EXEL) reported third-quarter 2026 revenue of approximately $659 million, supported by continued growth in its cabozantinib franchise and progress toward a potential launch of zanzalintinib in colorectal cancer. Chief\u2026",
@@ -1008,6 +1023,21 @@
    "tickers": [],
    "tag": "Earnings",
    "sectors": []
+  },
+  {
+   "id": "caff67410986",
+   "headline": "Steve Jobs' Son Says GLP-1 Weight Loss Drugs Could Be Among Most Important Medicines Ever, With Potential Impact on Cancer",
+   "summary": "Reed Jobs, founder of oncology-focused venture capital firm Yosemite and son of Apple Inc. Co-founder Steve Jobs, said GLP-1 drugs could have a significant impact on cancer and other diseases, describing them as some of the most important\u2026",
+   "url": "https://finnhub.io/api/news?id=0577b9b48c074669ce36911a27796e9dc64d2dcd761eda778452f0380d81d7ab",
+   "source": "Yahoo",
+   "published": "2026-10-29T23:30:05+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "bbd03e89e23a",
@@ -1270,6 +1300,21 @@
    ]
   },
   {
+   "id": "b6934fc537ed",
+   "headline": "DexCom, Inc. (DXCM) Q3 2026 Earnings Call Transcript",
+   "summary": "DexCom, Inc. (DXCM) Q3 2026 Earnings Call October 29, 2026 4:30 PM EDTCompany ParticipantsSean Christensen - Vice President of Finance and Investor...",
+   "url": "https://finnhub.io/api/news?id=30c008c56d25805d657923537f2a9267a68053be79592147085e445e6d92c47e",
+   "source": "SeekingAlpha",
+   "published": "2026-10-29T21:28:30+00:00",
+   "tickers": [
+    "DXCM"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "381c0c4c9540",
    "headline": "Exelixis (NASDAQ:EXEL) Q3 Earnings Beat, Revenue In Line as Guidance Holds",
    "summary": "Exelixis Q3 2026: EPS beat, revenue in line, guidance unchanged, lower tax rate, zanzalintinib pipeline advances; stock jumps after hours.",
@@ -1436,6 +1481,21 @@
    "summary": "ANDOVER, Mass., Oct. 29, 2026 /PRNewswire/ -- TransMedics Group, Inc. (\"TransMedics\") (Nasdaq: TMDX), a medical technology company that is transforming organ transplant therapy for patients with end-stage lung, heart, and liver failure,\u2026",
    "url": "https://www.prnewswire.com/news-releases/transmedics-to-present-at-upcoming-investor-conferences-302924287.html",
    "source": "PR Newswire",
+   "published": "2026-10-29T21:01:00+00:00",
+   "tickers": [
+    "TMDX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "ee0efaa3eff1",
+   "headline": "TransMedics to Present at Upcoming Investor Conferences",
+   "summary": "TransMedics Group, Inc. (\"TransMedics\") (Nasdaq: TMDX), a medical technology company that is transforming organ transplant therapy for patients with end-stage lung, heart, and liver failure, today announced the company will be\u2026",
+   "url": "https://finnhub.io/api/news?id=d32f3bf1833ea6faa26aecf82316f763a315bce9cd22eb7b4ba7222ca1223eec",
+   "source": "Yahoo",
    "published": "2026-10-29T21:01:00+00:00",
    "tickers": [
     "TMDX"
@@ -1639,6 +1699,21 @@
    "tag": "Earnings",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "d0c4b65861f2",
+   "headline": "Novo Has Big Plans for 2030. Should You Buy the Stock Now?",
+   "summary": "The company\u2019s comeback strategy looks sound.",
+   "url": "https://finnhub.io/api/news?id=e87d489cb5a4b08d98a8c7f4a262618f04bcd428e54ef2253958ba073bba710d",
+   "source": "Yahoo",
+   "published": "2026-10-29T20:36:02+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -2089,6 +2164,7 @@
    "source": "Yahoo",
    "published": "2026-10-29T20:10:24+00:00",
    "tickers": [
+    "AZN",
     "BMY",
     "VEEV"
    ],
@@ -2455,7 +2531,8 @@
    "published": "2026-10-29T19:48:00+00:00",
    "tickers": [
     "LLY",
-    "MRK"
+    "MRK",
+    "NVO"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -2500,7 +2577,8 @@
    "source": "Yahoo",
    "published": "2026-10-29T19:41:00+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -3185,6 +3263,21 @@
    ]
   },
   {
+   "id": "028ec6bd5ca0",
+   "headline": "This Stock Offers Juicy Option Premiums, But Also Is Highly Risky",
+   "summary": "Implied volatility currently sits at 87%, close to the highest levels for Tempus AI stock in the last 12 months.",
+   "url": "https://finnhub.io/api/news?id=4ef2ffe703405e608e249649c25b2f37e459abfd59dbf6e5594314731c26d08b",
+   "source": "Yahoo",
+   "published": "2026-10-29T17:14:25+00:00",
+   "tickers": [
+    "TEM"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "healthai"
+   ]
+  },
+  {
    "id": "acc66183ae0b",
    "headline": "Alnylam (ALNY) Q3 2026 Earnings Call Transcript",
    "summary": "AMVUTTRA revenue jumped 65% year over year as TTR franchise momentum accelerates.",
@@ -3208,7 +3301,8 @@
    "published": "2026-10-29T17:03:22+00:00",
    "tickers": [
     "HIMS",
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -3567,6 +3661,21 @@
    ]
   },
   {
+   "id": "90ab0d411876",
+   "headline": "European Equities Traded in the US as American Depositary Receipts Rise in Thursday Trading",
+   "summary": "European equities traded in the US as American depositary receipts were tracking higher late Thursda",
+   "url": "https://finnhub.io/api/news?id=0b12d9cc816556f0c1e0c2490489093c6b02c31286045584fe4287907058ec88",
+   "source": "Yahoo",
+   "published": "2026-10-29T15:36:03+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "e820b30b51c3",
    "headline": "Eli Lilly shares jump 6% as drugmaker lifts 2026 revenue forecast",
    "summary": "Eli Lilly and Co (NYSE:LLY) shares rose more than 6% on Thursday morning after the drugmaker raised its full-year revenue outlook and reported third-quarter sales that beat analyst estimates. Revenue climbed 39% from a year earlier to\u2026",
@@ -3589,6 +3698,7 @@
    "source": "Yahoo",
    "published": "2026-10-29T15:31:00+00:00",
    "tickers": [
+    "AZN",
     "PFE"
    ],
    "tag": "News",
@@ -3650,7 +3760,8 @@
    "source": "Yahoo",
    "published": "2026-10-29T15:30:00+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -3731,7 +3842,8 @@
    "published": "2026-10-29T15:27:00+00:00",
    "tickers": [
     "ILMN",
-    "QGEN"
+    "QGEN",
+    "TXG"
    ],
    "tag": "News",
    "sectors": [
@@ -3746,7 +3858,8 @@
    "source": "Yahoo",
    "published": "2026-10-29T15:26:00+00:00",
    "tickers": [
-    "ILMN"
+    "ILMN",
+    "TXG"
    ],
    "tag": "Health AI",
    "sectors": [
@@ -4032,6 +4145,7 @@
    "source": "Yahoo",
    "published": "2026-10-29T15:06:00+00:00",
    "tickers": [
+    "AZN",
     "MRK",
     "MRNA"
    ],
@@ -4166,7 +4280,8 @@
    "source": "Yahoo",
    "published": "2026-10-29T14:59:07+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -4438,7 +4553,8 @@
    "source": "Yahoo",
    "published": "2026-10-29T14:36:00+00:00",
    "tickers": [
-    "QGEN"
+    "QGEN",
+    "TXG"
    ],
    "tag": "News",
    "sectors": [
@@ -4620,7 +4736,8 @@
    "source": "Yahoo",
    "published": "2026-10-29T14:21:00+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -4718,7 +4835,8 @@
    "source": "Yahoo",
    "published": "2026-10-29T14:15:21+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -4813,7 +4931,8 @@
    "published": "2026-10-29T14:03:24+00:00",
    "tickers": [
     "HIMS",
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -4919,7 +5038,8 @@
    "source": "Yahoo",
    "published": "2026-10-29T13:51:29+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -7968,6 +8088,21 @@
    "tag": "Analyst",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "cb3c563c4ade",
+   "headline": "1 surging stock with competitive advantages and 2 that underwhelm",
+   "summary": "Great things are happening to the stocks in this article. They\u2019re all outperforming the market over the last month because of positive catalysts such as a new product line, constructive news flow, or even a loyal Reddit fanbase.",
+   "url": "https://finnhub.io/api/news?id=2685c222693eda5110a273ca209847d285be721a89a6748b5c5e51507d5b8c25",
+   "source": "Yahoo",
+   "published": "2026-10-29T08:11:25+00:00",
+   "tickers": [
+    "EVH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
    ]
   },
   {
@@ -52976,36 +53111,6 @@
    "tag": "News",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "383450788adf",
-   "headline": "What Pfizer Bulls Got Right",
-   "summary": "Pfizer spent 2026 stacking cancer headlines, from fresh breast cancer approvals to a multibillion dollar oncology alliance, even as quarterly profit swung from a US$2,885 million gain to a loss and net margin moved from 19.7% to 1.7% in\u2026",
-   "url": "https://finnhub.io/api/news?id=69346817c85d7e783fed7205b9bf22b6325b328b59223830eb93b55f8fcf83a9",
-   "source": "Yahoo",
-   "published": "2026-10-20T02:12:37+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "092f74c1a106",
-   "headline": "3 Eurozone Defensive Stocks With Low Debt And Steady Cash Flow",
-   "summary": "French bond yields near 4.9% and a wider France to Germany spread have pushed eurozone risk back into the spotlight. Yet that same stress can shine a light on quieter businesses with low debt and steadier cash flows. When market focus\u2026",
-   "url": "https://finnhub.io/api/news?id=c223d09ec3d09a7bfe6e6c485f62acd7fb805016b711d9cde8d78d795032ac41",
-   "source": "Yahoo",
-   "published": "2026-10-20T02:10:31+00:00",
-   "tickers": [
-    "SNY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
