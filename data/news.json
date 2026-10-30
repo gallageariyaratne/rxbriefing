@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-30T11:17:39.149161+00:00",
+ "updated": "2026-10-30T11:32:47.553591+00:00",
  "quotes": {
   "A": {
    "price": 181.15,
@@ -214,10 +214,6 @@
    "price": 44.39,
    "change_pct": -1.14
   },
-  "IQV": {
-   "price": 275.06,
-   "change_pct": -1.43
-  },
   "IRTC": {
    "price": 127.8,
    "change_pct": 3.07
@@ -321,6 +317,10 @@
   "QGEN": {
    "price": 50.34,
    "change_pct": 0.02
+  },
+  "RGEN": {
+   "price": 188.64,
+   "change_pct": 2.14
   }
  },
  "tickers": {
@@ -53094,51 +53094,6 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
-   ]
-  },
-  {
-   "id": "a89ecab2bb96",
-   "headline": "Here's How Much a $1000 Investment in HCA Healthcare Made 10 Years Ago Would Be Worth Today",
-   "summary": "Why investing for the long run, especially if you buy certain popular stocks, could reap huge rewards.",
-   "url": "https://finnhub.io/api/news?id=c257973daab535f493974d444429b9c7c3cbee03e552c68af98f740bccc4fa4f",
-   "source": "Yahoo",
-   "published": "2026-10-20T11:30:13+00:00",
-   "tickers": [
-    "HCA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "31675eb77ce8",
-   "headline": "Merck KGaA spends $1.3bn to buy siRNA specialist Silence Therapeutics",
-   "summary": "Buying the UK-based biotech will add a siRNA drug candidate with high sales potential to Merck\u2019s portfolio.",
-   "url": "https://finnhub.io/api/news?id=c0eb97afa5fce9f91a8b0e2078228723e7d7f014f6dbf181695fd2180935be06",
-   "source": "Yahoo",
-   "published": "2026-10-20T11:28:43+00:00",
-   "tickers": [
-    "MRK"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "89fd98366021",
-   "headline": "IQVIA: R&D Bookings Are Reaccelerating, But The Valuation Now Requires Execution",
-   "summary": "IQVIA (IQV) earns a Buy rating on strong Q2 results and R&D bookings recovery. See growth drivers, AI upside, key risks, and $285\u00e2\u0080\u0093$305 target.",
-   "url": "https://finnhub.io/api/news?id=8a501c9f056e2f99079d9467663f49f735be8b455c0d2f6bbf86a9769b5bcbc0",
-   "source": "SeekingAlpha",
-   "published": "2026-10-20T11:21:53+00:00",
-   "tickers": [
-    "IQV"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
    ]
   }
  ]
