@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-30T03:17:30.650883+00:00",
+ "updated": "2026-10-30T03:32:33.881490+00:00",
  "quotes": {
   "A": {
    "price": 181.15,
@@ -310,6 +310,10 @@
    "price": 31.85,
    "change_pct": 1.79
   },
+  "OSCR": {
+   "price": 30.79,
+   "change_pct": 1.02
+  },
   "PACB": {
    "price": 2.9,
    "change_pct": 2.47
@@ -317,10 +321,6 @@
   "PEN": {
    "price": 321.97,
    "change_pct": 1.15
-  },
-  "PFE": {
-   "price": 29.95,
-   "change_pct": 1.7
   }
  },
  "tickers": {
@@ -1710,6 +1710,21 @@
    "tag": "Earnings",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "4a27fbec8cd7",
+   "headline": "Oscar Health, Inc. (OSCR) Increases Despite Market Slip: Here's What You Need to Know",
+   "summary": "In the closing of the recent trading day, Oscar Health, Inc. (OSCR) stood at $30.79, denoting a +1.02% move from the preceding trading day.",
+   "url": "https://finnhub.io/api/news?id=50e760d56d783ecdaaeb8b33610782c9d01622c15b0e9521c20c92e0235e1e73",
+   "source": "Yahoo",
+   "published": "2026-10-29T21:00:03+00:00",
+   "tickers": [
+    "OSCR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -3489,7 +3504,8 @@
    "published": "2026-10-29T17:25:00+00:00",
    "tickers": [
     "CNC",
-    "MOH"
+    "MOH",
+    "OSCR"
    ],
    "tag": "News",
    "sectors": [
@@ -53720,22 +53736,6 @@
    "tag": "News",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "ba1eaf0b4018",
-   "headline": "How Earnings Beat At Amgen Stock Has Changed Its Investment Story",
-   "summary": "Amgen recently reported a 10% rise in second quarter revenue, continued to beat earnings and sales estimates, and maintained a dividend yield of 2.5% with annual increases of 8% from 2020 to 2025. The combination of consistent estimate\u2026",
-   "url": "https://finnhub.io/api/news?id=cb947ecd6967b5a54aa4c18124cbd7db2a5a26f210b6c82b701f553e4162b4b0",
-   "source": "Yahoo",
-   "published": "2026-10-20T03:23:02+00:00",
-   "tickers": [
-    "AMGN",
-    "MRK"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
