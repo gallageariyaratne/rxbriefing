@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-30T13:03:10.822113+00:00",
+ "updated": "2026-10-30T13:17:33.381635+00:00",
  "quotes": {
   "A": {
    "price": 181.15,
@@ -130,10 +130,6 @@
    "price": 66.2,
    "change_pct": -0.12
   },
-  "GDRX": {
-   "price": 3.54,
-   "change_pct": 2.02
-  },
   "GEHC": {
    "price": 76.42,
    "change_pct": 0.79
@@ -226,6 +222,10 @@
    "price": 97.11,
    "change_pct": 2.46
   },
+  "MEDP": {
+   "price": 677.56,
+   "change_pct": -2.18
+  },
   "MOH": {
    "price": 198.95,
    "change_pct": 0.43
@@ -290,6 +290,10 @@
    "price": 50.34,
    "change_pct": 0.02
   },
+  "REGN": {
+   "price": 818.77,
+   "change_pct": 0.68
+  },
   "RGEN": {
    "price": 188.64,
    "change_pct": 2.14
@@ -317,10 +321,6 @@
   "TAK": {
    "price": 20.01,
    "change_pct": -0.69
-  },
-  "TDOC": {
-   "price": 8.73,
-   "change_pct": 26.89
   }
  },
  "tickers": {
@@ -938,6 +938,17 @@
  },
  "stories": [
   {
+   "id": "7041e80d0671",
+   "headline": "The persisting paradox of men\u2019s health",
+   "summary": "A new series in The Lancet argues for the need to investigate a paradox of men\u2019s health: why men experience worse health outcomes than women, even though they hold undeniable\u2026",
+   "url": "https://www.statnews.com/2026/10/30/health-news-the-paradox-of-men-health/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-30T13:12:49+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
    "id": "d0636066446c",
    "headline": "Fierce Pharma Asia\u2014The hunt for Enhertu\u2019s successor; ESMO data from Merck, BMS, Takeda and more",
    "summary": "Next-generation ADCs, bispecifics, radiopharmaceuticals, TKIs ... Fierce provides a deep dive into the hunt for the next Enhertu in breast cancer. ESMO 2026 data featured Chinese assets backed by Big Pharma. Gilead and Astellas struck $1\u2026",
@@ -945,8 +956,8 @@
    "source": "Fierce Pharma",
    "published": "2026-10-30T13:00:30.138916+00:00",
    "tickers": [
-    "MRK",
     "GILD",
+    "MRK",
     "TAK"
    ],
    "tag": "News",
@@ -965,6 +976,21 @@
     "LLY"
    ],
    "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "2a69f57b9040",
+   "headline": "Regeneron Pharmaceuticals (NASDAQ:REGN) Q3 2026 Earnings Beat Driven by Dupixent Growth",
+   "summary": "Regeneron Q3 2026 earnings beat revenue and EPS estimates, sending shares higher premarket on strong Dupixent and EYLEA HD growth.",
+   "url": "https://finnhub.io/api/news?id=4342f4e6b7583f4a182db2939e26b301997ed773e1184d601cdb03a0149e12b8",
+   "source": "ChartMill",
+   "published": "2026-10-30T12:38:27+00:00",
+   "tickers": [
+    "REGN"
+   ],
+   "tag": "Earnings",
    "sectors": [
     "pharma"
    ]
@@ -997,6 +1023,21 @@
    "tag": "News",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "9c94d6a1448d",
+   "headline": "AbbVie (NYSE:ABBV) Q3 2026 Results In Line With Estimates as Guidance and Dividend Rise",
+   "summary": "AbbVie\u2019s Q3 2026 results were in line with estimates; raised guidance and dividend signal confidence despite a slightly lower pre-market reaction.",
+   "url": "https://finnhub.io/api/news?id=cec79ca43838d99480d7e407ba0aa89bc5f12ba01f860bd0ac69cf2f003b3b27",
+   "source": "ChartMill",
+   "published": "2026-10-30T12:20:35+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1136,6 +1177,7 @@
    "source": "Yahoo",
    "published": "2026-10-30T11:13:08+00:00",
    "tickers": [
+    "REGN",
     "SNY"
    ],
    "tag": "Earnings",
@@ -1154,7 +1196,8 @@
     "CAH",
     "COR",
     "CVS",
-    "HSIC"
+    "HSIC",
+    "MCK"
    ],
    "tag": "News",
    "sectors": [
@@ -1188,6 +1231,7 @@
     "ABBV",
     "JNJ",
     "LLY",
+    "MDT",
     "MRK",
     "PFE"
    ],
@@ -1254,6 +1298,36 @@
    ]
   },
   {
+   "id": "81c181231a34",
+   "headline": "Regeneron (REGN) Q3 Earnings and Revenues Beat Estimates",
+   "summary": "Regeneron (REGN) delivered earnings and revenue surprises of +24.81% and +12.43%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=e52c99b5921f98e0209dca56e687babe69b83addb2373412b464b21e110842ce",
+   "source": "Yahoo",
+   "published": "2026-10-30T10:40:01+00:00",
+   "tickers": [
+    "REGN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "f2156b200c5c",
+   "headline": "Regeneron: Q3 Earnings Snapshot",
+   "summary": "(AP) \u2014 Regeneron Pharmaceuticals Inc. (REGN) on Friday reported third-quarter earnings of $1.",
+   "url": "https://finnhub.io/api/news?id=1a0487872b3caf1aff0ac7b2a45d7ac402d1ab45623f3e9f4297e9fa3602a47c",
+   "source": "Yahoo",
+   "published": "2026-10-30T10:39:48+00:00",
+   "tickers": [
+    "REGN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "9c8f7be436ef",
    "headline": "Regeneron Reports Third Quarter 2026 Financial and Operating Results",
    "summary": "Third quarter 2026 revenues increased 36% to $5.1 billion versus third quarter 2025Dupixent\u00ae global net sales (recorded by Sanofi) increased 35% to $6.5 billionEYLEA HD\u00ae U.S. net sales increased 62% to $699 millionLibtayo\u00ae global net\u2026",
@@ -1261,12 +1335,24 @@
    "source": "Yahoo",
    "published": "2026-10-30T10:30:00+00:00",
    "tickers": [
+    "REGN",
     "SNY"
    ],
    "tag": "News",
    "sectors": [
     "pharma"
    ]
+  },
+  {
+   "id": "f310fbe45207",
+   "headline": "With Setara, the team behind Actio opens its second act",
+   "summary": "The fledgling startup has $90 million to develop a pipeline of drugs, led by a Charcot-Marie-Tooth disease medicine, that Actio was working on when Jazz Pharmaeuticals bought its lead epilepsy program.",
+   "url": "https://www.biopharmadive.com/news/setara-actio-charcot-marie-tooth-ion-channel-drugs/873227/",
+   "source": "BioPharma Dive",
+   "published": "2026-10-30T10:30:00+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
   },
   {
    "id": "14834823ae49",
@@ -1277,6 +1363,7 @@
    "published": "2026-10-30T10:28:00+00:00",
    "tickers": [
     "ISRG",
+    "MEDP",
     "RMD",
     "TMO"
    ],
@@ -52606,139 +52693,6 @@
     "WAT"
    ],
    "tag": "Health AI",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "9f6b7cd04c13",
-   "headline": "Amgen, AZ dive deep into Tezspire's Dupixent-challenging victory in EoE phase 3",
-   "summary": "With little time elapsed since AstraZeneca and Amgen unveiled a topline win for Tezspire over the summer, the partners are upping the stakes with a detailed look at their inflammation-fighting antibody\u2019s prowess in eosinophilic esophagitis.",
-   "url": "https://www.fiercepharma.com/pharma/amgen-az-dive-deep-tezspires-dupixent-challenging-victory-eoe-phase-3",
-   "source": "Fierce Pharma",
-   "published": "2026-10-20T13:15:20.334992+00:00",
-   "tickers": [
-    "AMGN",
-    "AZN"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "6a4ed6a1e9ae",
-   "headline": "Parabilis: $1B+ Rare-Disease Foundation Leaves The Big Oncology Pipeline For Free",
-   "summary": "Parabilis Medicines, Inc. stock: speculative Buy on peptide platform, early zolu efficacy, Orphan/Fast Track, and strong cash runway. Click for this PBLS update.",
-   "url": "https://finnhub.io/api/news?id=788c530e9dc3d08eb03c8c51276a29b1f1b46179e627670424c650ecf6544433",
-   "source": "SeekingAlpha",
-   "published": "2026-10-20T13:14:51+00:00",
-   "tickers": [
-    "REGN"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "09f9a8072eaf",
-   "headline": "Can This Small Biotech Enter A $4.3 Billion AbbVie Market? Rapport Shoots Higher",
-   "summary": "Rapport Therapeutics stock shot higher Tuesday on promising, but mixed, test results for its bipolar treatment.",
-   "url": "https://finnhub.io/api/news?id=b1144ac6b8e565c5c7a907f3a3b8d92fea2e2a2393e20cd4027cfef710225a1d",
-   "source": "Yahoo",
-   "published": "2026-10-20T13:12:06+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "32d57fe023f0",
-   "headline": "ScionxBio Announces Collaboration to Develop Long-Acting xRNA Therapeutics",
-   "summary": "CAMBRIDGE, England, October 20, 2026--ScionxBio (the \"company\", operating as a brand identity of Eleven Therapeutics Ltd. following a horizontal split) a privately held, preclinical-stage biotechnology company pioneering next-generation\u2026",
-   "url": "https://finnhub.io/api/news?id=5e0f21eb429dd2c74289ebb8a1485cfdf2f2ece17a9966e5b270fab3ccbeb478",
-   "source": "Yahoo",
-   "published": "2026-10-20T13:10:00+00:00",
-   "tickers": [
-    "SNY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "7abb28700c3d",
-   "headline": "3 Small-Cap Stocks We Think Twice About",
-   "summary": "Many small-cap stocks have limited Wall Street coverage, giving savvy investors the chance to act before everyone else catches on. But the flip side is that these businesses have increased downside risk because they lack the scale and\u2026",
-   "url": "https://finnhub.io/api/news?id=7ce0afc4c45d73ca058fe9d8c630c772ea19c300c897d96df06996cf61329733",
-   "source": "Yahoo",
-   "published": "2026-10-20T13:09:50+00:00",
-   "tickers": [
-    "LFST"
-   ],
-   "tag": "News",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "689a13dc877f",
-   "headline": "Jefferies downgrades Zoetis, Elanco on pricing risk; prefers IDEXX",
-   "summary": "Investing.com -- Jefferies downgraded Zoetis and Elanco to Hold from Buy on Tuesday, warning that pricing power in animal health is at risk. The firm reiterated its Buy rating on IDEXX Laboratories.",
-   "url": "https://finnhub.io/api/news?id=047a8f7b40a7ad7ea4826c6ad830d435d35a328225cc31a852577bb1e91bb2c2",
-   "source": "Yahoo",
-   "published": "2026-10-20T13:06:11+00:00",
-   "tickers": [
-    "IDXX",
-    "ZTS"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "d8b2dd5e6ae5",
-   "headline": "FDA Issues Final Guidance on Prescription Drug Apps and Software",
-   "summary": "The U.S. Food and Drug Administration today released final guidance establishing a clear framework for how drug companies can develop, distribute, and label apps used alongside their prescription medicines.",
-   "url": "http://www.fda.gov/news-events/press-announcements/fda-issues-final-guidance-prescription-drug-apps-and-software",
-   "source": "FDA",
-   "published": "2026-10-20T13:03:14+00:00",
-   "tickers": [],
-   "tag": "FDA",
-   "sectors": []
-  },
-  {
-   "id": "f6d2c57f68d0",
-   "headline": "Final Trades: Amazon, UnitedHealth, eBay and Twilio",
-   "summary": "The Investment Committee give you their top stocks to watch for the second half.",
-   "url": "https://finnhub.io/api/news?id=bbf88b904376bd7702a8d50f9aa81c4548f8f480875bdac3079e359e25c00e6f",
-   "source": "CNBC",
-   "published": "2026-10-20T13:02:16+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "ae8161716027",
-   "headline": "Guardant Health Highlights Broad Liquid Biopsy Research Portfolio at ESMO Congress 2026",
-   "summary": "PALO ALTO, Calif., October 20, 2026--Guardant Health, Inc. (Nasdaq: GH), a leading precision oncology company, today announced that the company and its research collaborators will present 25 abstracts\u2014including five rapid oral\u2026",
-   "url": "https://finnhub.io/api/news?id=a6e98e6ef8b80eb3ef10db110b8c7c73ed8f04f2570a1154925ea4f149fc337d",
-   "source": "Yahoo",
-   "published": "2026-10-20T13:02:00+00:00",
-   "tickers": [
-    "GH"
-   ],
-   "tag": "Policy",
    "sectors": [
     "tools"
    ]
