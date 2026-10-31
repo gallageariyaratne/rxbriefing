@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-31T11:17:29.344542+00:00",
+ "updated": "2026-10-31T11:32:31.222382+00:00",
  "quotes": {
   "A": {
    "price": 174.87,
@@ -33,10 +33,6 @@
   "AMGN": {
    "price": 466.01,
    "change_pct": 1.15
-  },
-  "AMWL": {
-   "price": 12.73,
-   "change_pct": -15.02
   },
   "ARGX": {
    "price": 892.87,
@@ -129,10 +125,6 @@
   "ENSG": {
    "price": 181.52,
    "change_pct": -2.58
-  },
-  "EVH": {
-   "price": 4.3,
-   "change_pct": 1.18
   },
   "EW": {
    "price": 92.01,
@@ -321,6 +313,14 @@
   "SNY": {
    "price": 44.34,
    "change_pct": 2.81
+  },
+  "SRPT": {
+   "price": 18.62,
+   "change_pct": -3.17
+  },
+  "SYK": {
+   "price": 291.86,
+   "change_pct": -6.38
   }
  },
  "tickers": {
@@ -937,6 +937,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "be8b85682a30",
+   "headline": "ResMed (NYSE:RMD) Delivers Quality Dividend Strength for Income Investors",
+   "summary": "ResMed (RMD) passes a quality dividend screen with a 7/10 dividend rating, strong profitability, and healthy balance sheet despite a modest 1.25% yield.",
+   "url": "https://finnhub.io/api/news?id=7f6d5d91949f038efc333bacd649254cdb1d30401e05b883550a07234e5f5dc1",
+   "source": "ChartMill",
+   "published": "2026-10-31T11:00:59+00:00",
+   "tickers": [
+    "RMD"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
   {
    "id": "fc7224585a4d",
    "headline": "STAT+: What are the health stakes of the midterms? Policymakers, lobbyists, and experts weigh in",
@@ -54558,216 +54573,6 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
-   ]
-  },
-  {
-   "id": "7e14959299ef",
-   "headline": "Biogen Q3 Earnings Preview: Grounds For Optimism, But Disappointment The Norm",
-   "summary": "Biogen is rated Hold ahead of Q3 2026 earnings, with cautious optimism due to pipeline catalysts. Read more on BIIB stock here.",
-   "url": "https://finnhub.io/api/news?id=46c5a51c20d04bf20555bdeae73e41626773be092b9cb0aaba68f1c80fc4748b",
-   "source": "SeekingAlpha",
-   "published": "2026-10-21T11:31:02+00:00",
-   "tickers": [
-    "BIIB"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "c85ccd141177",
-   "headline": "Abbott Reports Third-Quarter 2026 Results and Reaffirms Full-Year EPS Guidance",
-   "summary": "Third-quarter reported sales growth of 14.5 percent; comparable sales growth of 7.0 percent Third-quarter GAAP diluted EPS of $0.53; adjusted diluted EPS of $1.42 Expands portfolio with key new product approvals ABBOTT PARK, Ill., Oct.\u2026",
-   "url": "https://www.prnewswire.com/news-releases/abbott-reports-third-quarter-2026-results-and-reaffirms-full-year-eps-guidance-302915370.html",
-   "source": "PR Newswire",
-   "published": "2026-10-21T11:30:00+00:00",
-   "tickers": [
-    "ABT"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "35ab8f6619f3",
-   "headline": "Cencora to Acquire American Oncology Network to Strengthen Support of Community Oncology",
-   "summary": "CONSHOHOCKEN, Pa. & FORT MYERS, Fla., October 21, 2026--Cencora, Inc. (NYSE: COR) today announced it has signed a definitive agreement to acquire American Oncology Network, Inc. (\"AON\") (OTCQX: AONC), a physician-led network of more than\u2026",
-   "url": "https://finnhub.io/api/news?id=5b6b8c8559f3d51f02d762c22910a4f456d323012de4dd671db3ba22be4ee11d",
-   "source": "Yahoo",
-   "published": "2026-10-21T11:30:00+00:00",
-   "tickers": [
-    "COR"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "pharmacy"
-   ]
-  },
-  {
-   "id": "dea96b0ba5c2",
-   "headline": "Abbott Reports Third-Quarter 2026 Results and Reaffirms Full-Year EPS Guidance",
-   "summary": "Abbott (NYSE: ABT) today announced financial results for the third quarter ended Sept. 30, 2026.",
-   "url": "https://finnhub.io/api/news?id=2be87417733ac85d1f272c8fd77dc415753a4d5af1623562da5df8fb1a43ada3",
-   "source": "Yahoo",
-   "published": "2026-10-21T11:30:00+00:00",
-   "tickers": [
-    "ABT"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "c06f770741f1",
-   "headline": "Elevance Health Names Jeff Park President of Carelon",
-   "summary": "INDIANAPOLIS, October 21, 2026--Elevance Health (NYSE: ELV) today announced the appointment of Jeff Park as President of Carelon, effective December 1, 2026. In this role, Park will lead Carelon through its next phase of growth, building\u2026",
-   "url": "https://finnhub.io/api/news?id=b24af0271a3e7634dd875d733555ee1ec7205e02b9f80db11b1b83652797789e",
-   "source": "Yahoo",
-   "published": "2026-10-21T11:30:00+00:00",
-   "tickers": [
-    "ELV"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "73b875b79349",
-   "headline": "Abbott announces its intention to separate its global Nutrition business into an independent, publicly traded company",
-   "summary": "Separation will unlock potential of both companies to pursue distinct growth and value-creation strategies The new Nutrition company will be a global leader in the rapidly growing healthy nutrition market, with a portfolio of iconic,\u2026",
-   "url": "https://www.prnewswire.com/news-releases/abbott-announces-its-intention-to-separate-its-global-nutrition-business-into-an-independent-publicly-traded-company-302915339.html",
-   "source": "PR Newswire",
-   "published": "2026-10-21T11:25:00+00:00",
-   "tickers": [
-    "ABT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "3d7e4cec7f9a",
-   "headline": "Abbott announces its intention to separate its global Nutrition business into an independent, publicly traded company",
-   "summary": "Abbott (NYSE: ABT), the global healthcare leader, today announced its intention to separate its Nutrition business into an independent, publicly traded company that will be a global leader in the rapidly expanding healthy nutrition market\u2026",
-   "url": "https://finnhub.io/api/news?id=6f184626ab44a28c7ccfeea69ddd5e31ce5c30c87bd486280ffc10da8fffb5ed",
-   "source": "Yahoo",
-   "published": "2026-10-21T11:25:00+00:00",
-   "tickers": [
-    "ABT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "83c4c9cff318",
-   "headline": "Danaher Beats Profit Estimates, Raises Outlook as Customer Demand Improves",
-   "summary": "Danaher topped Q3 earnings estimates at $2.11 per share on $6.55 billion revenue, raising its full-year 2026 adjusted EPS outlook on steady biopharma demand.",
-   "url": "https://finnhub.io/api/news?id=a21567ba56bd5adcd0f15deb4928d5982031ab295ef08182c8e7a401993600d0",
-   "source": "Benzinga",
-   "published": "2026-10-21T11:24:41+00:00",
-   "tickers": [
-    "DHR"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "1c8cdab6b65d",
-   "headline": "ISRG, NFLX, ACN Stocks Slide Before The Bell: Why Intuitive Surgical, Netflix And Accenture Are Heading Lower",
-   "summary": "A $450-million litigation charge weighs on Intuitive Surgical, while Netflix faces fresh concerns over growth visibility and Baird turns cautious on Accenture.",
-   "url": "https://finnhub.io/api/news?id=407d06e0db4ced3f213727281836f3bff1d69fbdceab889e136681916dcdbe33",
-   "source": "Yahoo",
-   "published": "2026-10-21T11:24:17+00:00",
-   "tickers": [
-    "ISRG"
-   ],
-   "tag": "Legal",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "b8407efdf2ca",
-   "headline": "Thermo Fisher Scientific (NYSE:TMO) Posts Q3 Earnings Beat With In-Line Revenue",
-   "summary": "Thermo Fisher Q3 2026 results: adjusted EPS beat consensus, revenue in line; margin expansion and strong free cash flow support a solid operating quarter.",
-   "url": "https://finnhub.io/api/news?id=b5e3ec1e215f906f9adc8377974f592311a112eeee18879573b88b76ae1c5a46",
-   "source": "ChartMill",
-   "published": "2026-10-21T11:23:27+00:00",
-   "tickers": [
-    "TMO"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "e343de1b839c",
-   "headline": "Elevance sees Medicaid momentum in Q3",
-   "summary": "States jacked up their Medicaid rates in July, a positive development for the insurer. Elevance now thinks its Medicaid margin will be slightly better than -1.75% this year.",
-   "url": "https://www.healthcaredive.com/news/elevance-medicaid-momentum-q3-2026-elv/833559/",
-   "source": "Healthcare Dive",
-   "published": "2026-10-21T11:22:41+00:00",
-   "tickers": [
-    "ELV"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "da85c58d9c06",
-   "headline": "Elevance sees Medicaid momentum in Q3",
-   "summary": "States jacked up their Medicaid rates in July, a positive development for the insurer. Elevance now thinks its Medicaid margin will be better than its prior expectation of -1.75% this year.",
-   "url": "https://finnhub.io/api/news?id=b935cfee9eda58888d629742400637b0667ba7fdeaed1eaf58f0c0c8904df2ec",
-   "source": "Yahoo",
-   "published": "2026-10-21T11:22:41+00:00",
-   "tickers": [
-    "ELV"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "25dedc5eed38",
-   "headline": "Elevance Health (NYSE:ELV) Shares Rise as Q3 Earnings Beat and Raised Outlook Offset Inline Revenue",
-   "summary": "Elevance Health (ELV) Q3 2026 EPS beat consensus while revenue stayed inline; raised 2026 outlook and strong profitability lifted shares premarket.",
-   "url": "https://finnhub.io/api/news?id=c6513551287079790c88a0f854f4e0720b00c8788795bd3403ac3fae6dc47c3a",
-   "source": "ChartMill",
-   "published": "2026-10-21T11:21:39+00:00",
-   "tickers": [
-    "ELV"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "507bf1568f39",
-   "headline": "Oscar Health (NYSE:OSCR) Pairs High Growth Momentum With a Breakout Setup",
-   "summary": "OSCR pairs strong earnings growth and technical strength, with an 8/10 setup and 9/10 technical rating. See key levels, risks, and breakout potential.",
-   "url": "https://finnhub.io/api/news?id=a5ef5e9e25f9d4b37beabc4399367fac09b97b88b7badd1a110c04e3a9d8d27a",
-   "source": "ChartMill",
-   "published": "2026-10-21T11:20:43+00:00",
-   "tickers": [
-    "OSCR"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
    ]
   }
  ]
