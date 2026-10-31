@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-31T01:02:59.125146+00:00",
+ "updated": "2026-10-31T01:17:28.837890+00:00",
  "quotes": {
   "A": {
    "price": 174.87,
@@ -9,6 +9,10 @@
   "ABBV": {
    "price": 294.89,
    "change_pct": 1.41
+  },
+  "ABSI": {
+   "price": 11.13,
+   "change_pct": -8.02
   },
   "ABT": {
    "price": 106.2,
@@ -29,6 +33,10 @@
   "AMGN": {
    "price": 466.01,
    "change_pct": 1.15
+  },
+  "ARGX": {
+   "price": 892.87,
+   "change_pct": -0.55
   },
   "AZN": {
    "price": 186.65,
@@ -113,6 +121,10 @@
   "ENSG": {
    "price": 181.52,
    "change_pct": -2.58
+  },
+  "EVH": {
+   "price": 4.3,
+   "change_pct": 1.18
   },
   "EW": {
    "price": 92.01,
@@ -226,6 +238,10 @@
    "price": 414.3,
    "change_pct": -4.98
   },
+  "NVO": {
+   "price": 40,
+   "change_pct": 2.2
+  },
   "NVS": {
    "price": 160.79,
    "change_pct": -0.19
@@ -298,29 +314,13 @@
    "price": 697,
    "change_pct": -1.72
   },
+  "TXG": {
+   "price": 70.11,
+   "change_pct": -14.03
+  },
   "UHS": {
    "price": 176.05,
    "change_pct": -0.32
-  },
-  "UNH": {
-   "price": 406.97,
-   "change_pct": -0.96
-  },
-  "UTHR": {
-   "price": 598.72,
-   "change_pct": 0.87
-  },
-  "VEEV": {
-   "price": 312.96,
-   "change_pct": 0.84
-  },
-  "VRTX": {
-   "price": 558.88,
-   "change_pct": 3.5
-  },
-  "ZBH": {
-   "price": 94.52,
-   "change_pct": -3.03
   }
  },
  "tickers": {
@@ -938,6 +938,21 @@
  },
  "stories": [
   {
+   "id": "10af82855cd5",
+   "headline": "HCA Q3 deep dive: payer mix shifts and resiliency initiatives shape outlook",
+   "summary": "Hospital operator HCA Healthcare (NYSE:HCA) reported Q3 2026 results beating Wall Street\u2019s revenue expectations, with sales up 3.6% year on year to $19.85 billion. The company expects the full year\u2019s revenue to be around $78.25 billion,\u2026",
+   "url": "https://finnhub.io/api/news?id=382c0abd513b72babcdcf525d6497b4300002c58cba918de387733e5b8aed1a4",
+   "source": "Yahoo",
+   "published": "2026-10-30T23:47:29+00:00",
+   "tickers": [
+    "HCA"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "2bdc6a3c1831",
    "headline": "What Eli Lilly and Company (LLY) Said on Its Q3 Earnings Call",
    "summary": "Eli Lilly and Company (NYSE:LLY) raised its full-year outlook after reporting third-quarter revenue growth of 39% from the prior-year period, driven primarily by demand for its Mounjaro and Zepbound incretin medicines and continued growth\u2026",
@@ -1016,7 +1031,8 @@
    "source": "Yahoo",
    "published": "2026-10-30T22:14:13+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -1188,6 +1204,21 @@
    "tag": "FDA",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "7ebf69cbc2c8",
+   "headline": "Absci Sinks 8%, Schr\u00f6dinger and Recursion Slide as AI Drug Discovery Stocks Give Back Rally",
+   "summary": "Key TakeawaysAbsci fell 8% today as AI drug discovery peers Schr\u00f6dinger and Recursion slid in a Nasdaq sell-off. These stocks trade together on sentiment, so the drop says little about Absci\u2019s business.",
+   "url": "https://finnhub.io/api/news?id=bd7674485f2b0e951e180a263f47ee984f3ce9a1e09486e24ce185a85be5fb0c",
+   "source": "Yahoo",
+   "published": "2026-10-30T20:28:19+00:00",
+   "tickers": [
+    "ABSI"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "healthai"
    ]
   },
   {
@@ -1694,7 +1725,8 @@
    "published": "2026-10-30T17:33:59+00:00",
    "tickers": [
     "LLY",
-    "MRK"
+    "MRK",
+    "NVO"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -1712,6 +1744,21 @@
     "LLY"
    ],
    "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "113fd6a4c418",
+   "headline": "Novo Nordisk (NVO) Sets New 2030 Goals As GLP 1 Competition Builds",
+   "summary": "Novo Nordisk (NYSE:NVO) set new 2030 business targets as it responds to rising competition in GLP-1 diabetes and obesity drugs. Management outlined plans to expand beyond current GLP-1 treatments by advancing pipeline candidates including\u2026",
+   "url": "https://finnhub.io/api/news?id=ba2d41829d8c336d991d595df86366753586bf5657ab102be59cbea837051552",
+   "source": "Yahoo",
+   "published": "2026-10-30T17:09:22+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "GLP-1",
    "sectors": [
     "pharma"
    ]
@@ -2092,6 +2139,21 @@
    ]
   },
   {
+   "id": "6c7d9ccc8034",
+   "headline": "Agios Sinks 18% as FDA Delays Sickle Cell Drug Decision to 2027 Despite Being \u201cLaunch-Ready\u201d",
+   "summary": "Key TakeawaysAgios Pharmaceuticals shares fell [19%] after the FDA moved its mitapivat decision in sickle cell disease to Feb. 1, 2027.",
+   "url": "https://finnhub.io/api/news?id=cf14ba84fb058d70a9174418d5254af3a8f5e0f6e79d2db38b18ec5579fb0c64",
+   "source": "Yahoo",
+   "published": "2026-10-30T15:56:20+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "a20c14ac124b",
    "headline": "Cintas Corporation (CTAS) Gains 15% as Record Q4 Margins Fuel Guidance Increase",
    "summary": "Bristol Gate Capital Partners, an investment management company, published its Q3 2026 investor letter for the \u201cUS Equity Strategy\u201d. The letter can be downloaded here. The US Equity Strategy lagged the S&P 500 (+2.3%) in Q3 2026, as\u2026",
@@ -2236,7 +2298,8 @@
    "source": "Yahoo",
    "published": "2026-10-30T15:41:00+00:00",
    "tickers": [
-    "MDT"
+    "MDT",
+    "NVO"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -2314,6 +2377,21 @@
    "tickers": [
     "LLY",
     "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "a9e946d4b9b4",
+   "headline": "European Equities Traded in the US as American Depositary Receipts Fall in Friday Trading",
+   "summary": "European equities traded in the US as American depositary receipts were down 0.59% to 1,896.05 on th",
+   "url": "https://finnhub.io/api/news?id=079f9f17b42819f53fda394d84839b419fae7d75e10f9312f1a44365f59d4c63",
+   "source": "Yahoo",
+   "published": "2026-10-30T15:23:03+00:00",
+   "tickers": [
+    "NVO"
    ],
    "tag": "News",
    "sectors": [
@@ -2469,7 +2547,8 @@
    "source": "Yahoo",
    "published": "2026-10-30T15:07:00+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "FDA",
    "sectors": [
@@ -3616,7 +3695,8 @@
    "source": "Yahoo",
    "published": "2026-10-30T13:09:00+00:00",
    "tickers": [
-    "ILMN"
+    "ILMN",
+    "TXG"
    ],
    "tag": "News",
    "sectors": [
@@ -3978,6 +4058,7 @@
    "source": "Yahoo",
    "published": "2026-10-30T12:36:00+00:00",
    "tickers": [
+    "ARGX",
     "HALO",
     "JNJ",
     "PFE"
@@ -4328,6 +4409,21 @@
    ]
   },
   {
+   "id": "68f73de3e669",
+   "headline": "Here is What to Know Beyond Why Novo Nordisk A/S (NVO) is a Trending Stock",
+   "summary": "Zacks.com users have recently been watching Novo Nordisk (NVO) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
+   "url": "https://finnhub.io/api/news?id=35de52de02ab32d8b15b3034fa4ec3d117f32f6b8ee16a647672ca653d6d76be",
+   "source": "Yahoo",
+   "published": "2026-10-30T12:00:03+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "98c502b18857",
    "headline": "AbbVie (ABBV) Tops Q3 Earnings and Revenue Estimates",
    "summary": "AbbVie (ABBV) delivered earnings and revenue surprises of +2.14% and +0.20%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
@@ -4458,6 +4554,21 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "c92ae89f8ac8",
+   "headline": "American Well (AMWL) Surges 6.1%: Is This an Indication of Further Gains?",
+   "summary": "American Well (AMWL) saw its shares surge in the last session with trading volume being higher than average. The latest trend in earnings estimate revisions may not translate into further price increase in the near term.",
+   "url": "https://finnhub.io/api/news?id=94d4da479df95f3182371a5a5f98e0b643e277db2a4d49c8cfa6c7210cbc8bf9",
+   "source": "Yahoo",
+   "published": "2026-10-30T11:23:00+00:00",
+   "tickers": [
+    "EVH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
    ]
   },
   {
@@ -4619,7 +4730,8 @@
    "published": "2026-10-30T10:49:49+00:00",
    "tickers": [
     "BDX",
-    "ILMN"
+    "ILMN",
+    "TXG"
    ],
    "tag": "News",
    "sectors": [
@@ -4898,6 +5010,21 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "f64c49a5361a",
+   "headline": "Does Positive Hair Loss Trial Data Change The Bull Case For Absci Stock?",
+   "summary": "Absci reported positive interim Phase 1 data for ABS-201 in pattern hair loss, including an estimated half-life of at least 65 days and timelines for proof-of-concept data in the second half of 2026 and full data in early 2027. The\u2026",
+   "url": "https://finnhub.io/api/news?id=ba03c801a63f79c146814801d5506f58f8820f5340e422f05a9af5de22b2cc78",
+   "source": "Yahoo",
+   "published": "2026-10-30T10:08:30+00:00",
+   "tickers": [
+    "ABSI"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "healthai"
    ]
   },
   {
@@ -55735,23 +55862,6 @@
    "tag": "FDA",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "8cff1f6522c7",
-   "headline": "How Investors May Respond To Novo Nordisk (CPSE:NOVO B) Obesity Drug Competition",
-   "summary": "Novo Nordisk is pressing ahead with obesity and cardiometabolic drug development, including CagriSema regulatory submissions and a partnership with Prothena on Coramitug, while also running a DKK 15b share buyback that has added to its\u2026",
-   "url": "https://finnhub.io/api/news?id=d9af9314bc8f4747fa8f0c7657a135bb6eb3ceee823a926114ea043faffb5601",
-   "source": "Yahoo",
-   "published": "2026-10-21T01:11:43+00:00",
-   "tickers": [
-    "LLY",
-    "NVO",
-    "VKTX"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
