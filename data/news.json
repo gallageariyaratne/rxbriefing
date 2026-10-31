@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-31T07:02:48.502597+00:00",
+ "updated": "2026-10-31T07:17:32.854174+00:00",
  "quotes": {
   "A": {
    "price": 174.87,
@@ -97,10 +97,6 @@
   "COR": {
    "price": 330.84,
    "change_pct": 0.09
-  },
-  "CRL": {
-   "price": 359.41,
-   "change_pct": -4.44
   },
   "CRSP": {
    "price": 51.42,
@@ -321,6 +317,10 @@
   "RMD": {
    "price": 229.94,
    "change_pct": -9.05
+  },
+  "RVMD": {
+   "price": 191.31,
+   "change_pct": 0.55
   }
  },
  "tickers": {
@@ -56131,21 +56131,6 @@
    "tag": "News",
    "sectors": [
     "medtech"
-   ]
-  },
-  {
-   "id": "916c79145ca5",
-   "headline": "Abbvie Signs ELAHERE Reimbursement LoI With The Pan-Canadian Pharmaceutical Alliance",
-   "summary": "Ovarian cancer is the leading cause of death from gynecological cancers in Canada.1 In 2026, an estimated 3,000 individuals were diagnosed. Most are diagnosed at an advanced stage, and many eventually develop",
-   "url": "https://finnhub.io/api/news?id=723d8cc30e85ab6bb9b92f6a1d7152db65e3e7a2b6db34d4a73dac60c1149e62",
-   "source": "Benzinga",
-   "published": "2026-10-21T07:12:02+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
