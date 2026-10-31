@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-31T13:17:38.882415+00:00",
+ "updated": "2026-10-31T13:32:40.114919+00:00",
  "quotes": {
   "A": {
    "price": 174.87,
@@ -89,10 +89,6 @@
   "DHR": {
    "price": 232.23,
    "change_pct": -2.0
-  },
-  "DNLI": {
-   "price": 18.94,
-   "change_pct": -1.97
   },
   "DOCS": {
    "price": 32.76,
@@ -321,6 +317,10 @@
   "UTHR": {
    "price": 598.72,
    "change_pct": 0.87
+  },
+  "VKTX": {
+   "price": 27.28,
+   "change_pct": 1.56
   }
  },
  "tickers": {
@@ -53202,161 +53202,6 @@
    "url": "https://finnhub.io/api/news?id=6b6e19e00d4bf26467c95e063934b6f883e3c540023bcd049d642a3d64610817",
    "source": "Yahoo",
    "published": "2026-10-21T13:36:38+00:00",
-   "tickers": [
-    "ABT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "e717f840a063",
-   "headline": "LLY Stock Alert: What to Know as Eli Lilly Hits a New All-Time High",
-   "summary": "Eli Lilly stock printed a new all-time high yesterday. Here\u2019s what has driven LLY shares higher and what comes next.",
-   "url": "https://finnhub.io/api/news?id=e347569cfc95c2b78405d1f60da606c69e218ad64c83c016a38313d7bd5e4005",
-   "source": "Yahoo",
-   "published": "2026-10-21T13:29:21+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "2ffa88eb85f2",
-   "headline": "STAT+: Pharmalittle: We\u2019re reading about Mark Cuban eyeing rare disease drugs, a ketamine gold rush, and more",
-   "summary": "Mark Cuban has a new vision for his company Cost Plus Drugs: shake up the business of custom-made rare disease medicines",
-   "url": "https://www.statnews.com/pharmalot/2026/10/21/mark-cuban-eyes-rare-disease-drugs-ketamine-gold-rush/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-10-21T13:26:27+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "5381735d6ebe",
-   "headline": "Aging Population Boosts Healthcare REITs: Stocks to Watch",
-   "summary": "Senior-housing occupancy reached 90.4% as limited construction and aging demographics create opportunities for Welltower, CareTrust REIT and LTC Properties.",
-   "url": "https://finnhub.io/api/news?id=8836142605a36102ee0ac66087abd4c8c3a54f9f74c664ac76460b532f1d99be",
-   "source": "Yahoo",
-   "published": "2026-10-21T13:26:00+00:00",
-   "tickers": [
-    "ENSG"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "50416a542aac",
-   "headline": "What Could Stop CVS Health Stock Over The Next Six Months?",
-   "summary": "For questions about this article or underlying research, email help@trefis.com.",
-   "url": "https://finnhub.io/api/news?id=f017bffca2dcbea9f77f19a54d90ff3ea5162ba41ef276529b4afd0f426159c1",
-   "source": "Yahoo",
-   "published": "2026-10-21T13:21:19+00:00",
-   "tickers": [
-    "CI",
-    "CVS",
-    "ELV",
-    "HUM",
-    "UNH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "08fac5473aa4",
-   "headline": "Humana Gains From Premium Growth Despite Rising Benefit Costs",
-   "summary": "HUM's surging premiums, Medicare Advantage growth and CenterWell expansion bolster its prospects, but rising benefit costs and expenses pose challenges.",
-   "url": "https://finnhub.io/api/news?id=c8cc374b9bae6256539df49f0e8d9b7c9633fbb6dda6dcde54526d6f4e19ab04",
-   "source": "Yahoo",
-   "published": "2026-10-21T13:21:00+00:00",
-   "tickers": [
-    "CNC",
-    "ELV",
-    "HUM"
-   ],
-   "tag": "Policy",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "87b6266d9aa7",
-   "headline": "AbbVie vs. Bristol Myers Squibb: Faster Growth or Steady Revenue?",
-   "summary": "AbbVie's revenue lead has widened to $4 billion per quarter, but Bristol Myers shows surprising resilience despite slower growth.",
-   "url": "https://finnhub.io/api/news?id=41bdb83ce743416c2631fea3df110c559d75437fde7b419026dbcc70aa267750",
-   "source": "Yahoo",
-   "published": "2026-10-21T13:20:02+00:00",
-   "tickers": [
-    "ABBV",
-    "BMY"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "329d64ba9bb2",
-   "headline": "How Will Novo's GLP-1 Portfolio Sales Aid Upcoming Q3 Results?",
-   "summary": "NVO's Ozempic and Wegovy sales will be in focus for Q3 results as oral GLP-1 launches expand, while pricing pressure and competition challenge growth.",
-   "url": "https://finnhub.io/api/news?id=509de8595399004f186a11b0d70f3da9b51e48341586df8701c95d689ad4174f",
-   "source": "Yahoo",
-   "published": "2026-10-21T13:20:00+00:00",
-   "tickers": [
-    "LLY",
-    "NVO",
-    "VKTX"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "61efb610638d",
-   "headline": "Le Cologuard Plus\u00ae d'Abbott obtient le marquage CE pour le d\u00e9pistage du cancer colorectal en Europe",
-   "summary": "Cologuard Plus est un test de d\u00e9pistage non invasif par analyse de l'ADN pr\u00e9sent dans les selles, con\u00e7u pour d\u00e9tecter \u00e0 la fois le cancer colorectal et les l\u00e9sions pr\u00e9canc\u00e9reuses avanc\u00e9es Dans l'\u00e9tude pivot BLUE-C, Cologuard Plus a\u2026",
-   "url": "https://www.prnewswire.com/news-releases/le-cologuard-plus-dabbott-obtient-le-marquage-ce-pour-le-depistage-du-cancer-colorectal-en-europe-302915514.html",
-   "source": "PR Newswire",
-   "published": "2026-10-21T13:19:00+00:00",
-   "tickers": [
-    "ABT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "ae4cd6701b09",
-   "headline": "Here's What to Expect From GE HealthCare\u2019s Next Earnings Report",
-   "summary": "GE HealthCare is scheduled to report its third-quarter results later this month, with analysts expecting double-digit earnings growth.",
-   "url": "https://finnhub.io/api/news?id=c7089198754ffcda9f08c18a2b4811421dea273b363df25025bf959198211227",
-   "source": "Yahoo",
-   "published": "2026-10-21T13:18:43+00:00",
-   "tickers": [
-    "GEHC"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "6a5e486508bb",
-   "headline": "Abbott to Spin Off Troubled Nutrition Unit to Focus on Growth",
-   "summary": "Abbott Laboratories plans to separate its global nutrition business into an independent, publicly traded company by the end of next year.",
-   "url": "https://finnhub.io/api/news?id=cdf6fd5391eb6765f0f9f0573b41b7064ae83fc2d2b1d2ded160ff88d2969ec4",
-   "source": "Yahoo",
-   "published": "2026-10-21T13:17:00+00:00",
    "tickers": [
     "ABT"
    ],
