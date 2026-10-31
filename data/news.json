@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-31T11:47:43.886800+00:00",
+ "updated": "2026-10-31T12:02:41.157192+00:00",
  "quotes": {
   "A": {
    "price": 174.87,
@@ -153,10 +153,6 @@
   "GMED": {
    "price": 78.05,
    "change_pct": -5.86
-  },
-  "GSK": {
-   "price": 49.51,
-   "change_pct": 1.71
   },
   "HALO": {
    "price": 130.91,
@@ -321,6 +317,10 @@
   "SYK": {
    "price": 291.86,
    "change_pct": -6.38
+  },
+  "TAK": {
+   "price": 20.91,
+   "change_pct": 4.5
   }
  },
  "tickers": {
@@ -937,6 +937,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "bbf166944981",
+   "headline": "Gilead Sciences (NASDAQ:GILD): A Dividend Quality Candidate for Income Investors",
+   "summary": "Gilead fits a Best Dividend screen with a 3.98% yield, 10-year payout record and solid profits, though earnings coverage and leverage need monitoring.",
+   "url": "https://finnhub.io/api/news?id=f7a159854c29003c51ba818bf85bdc046c91f3a14b26dedb1e9c6863e052717c",
+   "source": "ChartMill",
+   "published": "2026-10-31T11:31:02+00:00",
+   "tickers": [
+    "GILD"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
   {
    "id": "be8b85682a30",
    "headline": "ResMed (NYSE:RMD) Delivers Quality Dividend Strength for Income Investors",
@@ -54398,122 +54413,6 @@
    "sectors": [
     "medtech"
    ]
-  },
-  {
-   "id": "92908a8d1c86",
-   "headline": "Investors Heavily Search Eli Lilly and Company (LLY): Here is What You Need to Know",
-   "summary": "Recently, Zacks.com users have been paying close attention to Lilly (LLY). This makes it worthwhile to examine what the stock has in store.",
-   "url": "https://finnhub.io/api/news?id=9e88fe87a7d9423596a101139c1d707b8a47d59da4394ed72f8eaf606c927efb",
-   "source": "Yahoo",
-   "published": "2026-10-21T12:00:06+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "26ec02147fd2",
-   "headline": "Is Most-Watched Stock Johnson & Johnson (JNJ) Worth Betting on Now?",
-   "summary": "Johnson & Johnson (JNJ) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
-   "url": "https://finnhub.io/api/news?id=2cfdbb5ff2d42448fcadeddd31b638b44cd75475572c5ca6713cdc257ca19876",
-   "source": "Yahoo",
-   "published": "2026-10-21T12:00:05+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "4355ec561f4f",
-   "headline": "Investors Heavily Search Tenet Healthcare Corporation (THC): Here is What You Need to Know",
-   "summary": "Recently, Zacks.com users have been paying close attention to Tenet (THC). This makes it worthwhile to examine what the stock has in store.",
-   "url": "https://finnhub.io/api/news?id=f7d262365b1c39f0ab2f3b6702d9c765e009aa9713e751190742cbd39502af06",
-   "source": "Yahoo",
-   "published": "2026-10-21T12:00:05+00:00",
-   "tickers": [
-    "THC"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "f6ff7694a753",
-   "headline": "Is Trending Stock McKesson Corporation (MCK) a Buy Now?",
-   "summary": "Zacks.com users have recently been watching McKesson (MCK) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
-   "url": "https://finnhub.io/api/news?id=bd7d772e7f99232c79c56b669d7237e7173a8e21749e4c2acca8ea5101a8e9bf",
-   "source": "Yahoo",
-   "published": "2026-10-21T12:00:04+00:00",
-   "tickers": [
-    "MCK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharmacy"
-   ]
-  },
-  {
-   "id": "81e388aab8a7",
-   "headline": "Allergan Aesthetics Deepens Science Behind Multimodal Approach at AMWC Dubai, Backed by Growing HArmonyCa\u2122 Evidence",
-   "summary": "Allergan Aesthetics, an AbbVie company (NYSE: ABBV) and a global leader in aesthetics, will showcase the latest scientific evidence and clinical education supporting its expanding global aesthetics portfolio at the Aesthetic & Anti-Aging\u2026",
-   "url": "https://finnhub.io/api/news?id=69c0c363bb71277d29dfbd23f080b767a0e3f5d2362a5cdf40606b2a584ab450",
-   "source": "Yahoo",
-   "published": "2026-10-21T12:00:00+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "36011f2daeae",
-   "headline": "McKesson Corporation Declares Quarterly Dividend",
-   "summary": "IRVING, Texas, October 21, 2026--The Board of Directors of McKesson Corporation (NYSE:MCK) yesterday declared a regular dividend of 94 cents per share of common stock. The dividend will be payable on January 4, 2027, to shareholders of\u2026",
-   "url": "https://finnhub.io/api/news?id=fbdd78f291520bd4accb601509b1cd9ff678ada7f5fc8a268a3d850152bf97fe",
-   "source": "Yahoo",
-   "published": "2026-10-21T12:00:00+00:00",
-   "tickers": [
-    "MCK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharmacy"
-   ]
-  },
-  {
-   "id": "577d08d4f707",
-   "headline": "Morgan Stanley Maintains Overweight on BioMarin Pharmaceutical, Lowers Price Target to $122",
-   "summary": "Morgan Stanley analyst Matthew Harrison maintains BioMarin Pharmaceutical (NASDAQ:BMRN) with a Overweight and lowers the price target from $124 to $122.",
-   "url": "https://finnhub.io/api/news?id=315e297fc0f9118df5d803490ae15a122bcdff7d88260959fa9a7637d0089c42",
-   "source": "Benzinga",
-   "published": "2026-10-21T11:56:38+00:00",
-   "tickers": [
-    "BMRN"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "aa529cf3dcd5",
-   "headline": "Nigeria identifies travel-related Ebola case",
-   "summary": "Nigeria has confirmed an imported Ebola case tied to the ongoing outbreak centered in the Democratic Republic of the Congo, becoming the fifth country to identify a related infection, health\u2026",
-   "url": "https://www.statnews.com/2026/10/21/health-news-nigeria-travel-related-ebola-case-outbreak/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-10-21T11:54:47+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
   }
  ]
 }
