@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-31T02:47:33.144856+00:00",
+ "updated": "2026-10-31T03:02:40.396141+00:00",
  "quotes": {
   "A": {
    "price": 174.87,
@@ -286,6 +286,10 @@
    "price": 30.37,
    "change_pct": -1.36
   },
+  "PACB": {
+   "price": 2.6,
+   "change_pct": -10.17
+  },
   "PEN": {
    "price": 318.95,
    "change_pct": -0.94
@@ -317,10 +321,6 @@
   "RMD": {
    "price": 229.94,
    "change_pct": -9.05
-  },
-  "RVMD": {
-   "price": 191.31,
-   "change_pct": 0.55
   }
  },
  "tickers": {
@@ -983,6 +983,21 @@
    ]
   },
   {
+   "id": "9cc4785f5439",
+   "headline": "CNC Q3 deep dive: Medicare and Marketplace margin gains drive improved outlook",
+   "summary": "Health coverage company Centene (NYSE:CNC) announced better-than-expected revenue in Q3 2026, with sales up 1.9% year on year to $50.65 billion. The company\u2019s full-year revenue guidance of $198.5 billion at the midpoint came in 1.3% above\u2026",
+   "url": "https://finnhub.io/api/news?id=112f5bdfc6ab870118174460574f1e51b55d4351453c400b5277c4cffe6ce2f3",
+   "source": "Yahoo",
+   "published": "2026-10-31T00:19:29+00:00",
+   "tickers": [
+    "CNC"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "85bb8f82e577",
    "headline": "Why Merck Stock Flew Higher on Friday",
    "summary": "Investors were still buying it in the afterglow of its latest quarterly earnings release.",
@@ -1168,7 +1183,8 @@
    "published": "2026-10-30T21:53:09+00:00",
    "tickers": [
     "PTCT",
-    "RARE"
+    "RARE",
+    "SRPT"
    ],
    "tag": "M&A",
    "sectors": [
@@ -2809,6 +2825,21 @@
    ]
   },
   {
+   "id": "deb694e02813",
+   "headline": "Sarepta Therapeutics (SRPT) Earnings Preview Puts Its Fair Value Back In Focus",
+   "summary": "Why Sarepta Therapeutics Stock Is Back in Focus Sarepta Therapeutics (SRPT) returns to the spotlight as investors look ahead to its November 5 earnings release, with expectations for higher quarterly earnings alongside lower revenue for\u2026",
+   "url": "https://finnhub.io/api/news?id=5f6da62338f08dde6040e48b873df737843eff33c2cdac8fc4a51e9a16b0c420",
+   "source": "Yahoo",
+   "published": "2026-10-30T15:15:34+00:00",
+   "tickers": [
+    "SRPT"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "dad5df3eafd6",
    "headline": "1 value stock to own for decades and 2 we ignore",
    "summary": "Value stocks typically trade at discounts to the broader market, offering patient investors the opportunity to buy businesses when they\u2019re out of favor. The key risk, however, is that these stocks are usually cheap for a reason, and a low\u2026",
@@ -3260,7 +3291,8 @@
    "published": "2026-10-30T14:40:00+00:00",
    "tickers": [
     "NVS",
-    "PFE"
+    "PFE",
+    "SRPT"
    ],
    "tag": "News",
    "sectors": [
@@ -3291,7 +3323,8 @@
    "published": "2026-10-30T14:38:00+00:00",
    "tickers": [
     "ALNY",
-    "NVS"
+    "NVS",
+    "SRPT"
    ],
    "tag": "News",
    "sectors": [
@@ -5298,6 +5331,7 @@
    "tickers": [
     "BDX",
     "ILMN",
+    "PACB",
     "TXG"
    ],
    "tag": "News",
