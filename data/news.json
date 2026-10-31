@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-31T10:02:36.833121+00:00",
+ "updated": "2026-10-31T10:17:29.958275+00:00",
  "quotes": {
   "A": {
    "price": 174.87,
@@ -149,6 +149,10 @@
   "EXEL": {
    "price": 69.39,
    "change_pct": 4.82
+  },
+  "GDRX": {
+   "price": 3.49,
+   "change_pct": -1.41
   },
   "GH": {
    "price": 178.8,
@@ -317,10 +321,6 @@
   "RMD": {
    "price": 229.94,
    "change_pct": -9.05
-  },
-  "RVMD": {
-   "price": 191.31,
-   "change_pct": 0.55
   }
  },
  "tickers": {
@@ -938,6 +938,21 @@
  },
  "stories": [
   {
+   "id": "0b6bd8238cd3",
+   "headline": "Regeneron (REGN) stock trades up, here is why",
+   "summary": "Shares of biotech company Regeneron (NASDAQ:REGN) jumped 11.5% in the afternoon session after the company reported a 36% increase in third-quarter 2026 revenue to $5.1 billion, alongside a 70% rise in non-GAAP diluted earnings per share\u2026",
+   "url": "https://finnhub.io/api/news?id=4ea29580fef589a9a37412f63e35fdfd1516ad0aa57b9ffc229a4f488b79053d",
+   "source": "Yahoo",
+   "published": "2026-10-31T09:39:29+00:00",
+   "tickers": [
+    "REGN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "c8f633a3d7f2",
    "headline": "Jefferies Downgrades Boston Scientific to Hold from Buy",
    "summary": "",
@@ -1056,6 +1071,21 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "3b7fa302cd48",
+   "headline": "GoodRx Holdings Is Going Through A Painful Transition That Will Pay Off",
+   "summary": "GoodRx Holdings remains a 'buy' as shares are deeply undervalued despite recent operational headwinds and a 45% stock decline. Click to read more about GDRX.",
+   "url": "https://finnhub.io/api/news?id=eafa9e528a404cf8763b1b01ac52734143164828e618d4e4ea25ca5e8a1fc79e",
+   "source": "SeekingAlpha",
+   "published": "2026-10-31T05:43:00+00:00",
+   "tickers": [
+    "GDRX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharmacy"
    ]
   },
   {
@@ -1983,7 +2013,8 @@
    "source": "ChartMill",
    "published": "2026-10-30T20:06:04+00:00",
    "tickers": [
-    "ILMN"
+    "ILMN",
+    "REGN"
    ],
    "tag": "News",
    "sectors": [
@@ -2393,7 +2424,8 @@
    "source": "ChartMill",
    "published": "2026-10-30T18:06:08+00:00",
    "tickers": [
-    "DVA"
+    "DVA",
+    "DXCM"
    ],
    "tag": "News",
    "sectors": [
@@ -2528,7 +2560,8 @@
    "source": "ChartMill",
    "published": "2026-10-30T17:36:08+00:00",
    "tickers": [
-    "ILMN"
+    "ILMN",
+    "REGN"
    ],
    "tag": "News",
    "sectors": [
@@ -55204,231 +55237,6 @@
    "tag": "FDA",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "d0a17f40dc1c",
-   "headline": "GSK Wins FDA Approval For Chronic Hepatitis B Drug",
-   "summary": "FDA clears GSK Hibsago for chronic hepatitis B in adults, delivering strong functional cure rates and suppressing viral replication targets.",
-   "url": "https://finnhub.io/api/news?id=ccfd85db7f9bb77d8e0e5fadea20146d837e46d45cb654fba23cd442d918d908",
-   "source": "Benzinga",
-   "published": "2026-10-21T10:14:55+00:00",
-   "tickers": [
-    "GSK"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "ed58d8dffcd0",
-   "headline": "Thermo Fisher (NYSE:TMO) Exceeds Q3 2026 Expectations",
-   "summary": "Life sciences company Thermo Fisher (NYSE:TMO) reported Q3 2026 results beating Wall Street\u2019s revenue expectations, with sales up 9.1% year on year to $12.14 billion. Its non-GAAP profit of $6.68 per share was 4.3% above analysts\u2019\u2026",
-   "url": "https://finnhub.io/api/news?id=e7721c7adc96bd6792c0f7ff967f161574436c50300e24afee130079ecec525b",
-   "source": "Yahoo",
-   "published": "2026-10-21T10:13:24+00:00",
-   "tickers": [
-    "TMO"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "b4d0edd29ea4",
-   "headline": "Healthcare and Life Sciences Leaders Build on NVIDIA to Advance Drug Discovery and Expand Patient Care",
-   "summary": "Healthcare and Life Sciences Leader Build on NVIDIA NVIDIA today announced collaborations with leading global healthcare and research organizations to advance protein design \u2014 including through a newly released open model, RFD4-Proteina \u2014\u2026",
-   "url": "https://finnhub.io/api/news?id=6c5cda667438230288c7f8682afc3f36ab36313f536fc7b0e086aed59c36deca",
-   "source": "Yahoo",
-   "published": "2026-10-21T10:13:00+00:00",
-   "tickers": [
-    "DHR"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "1572766c3d2f",
-   "headline": "K2M Group Reports Shareholders Approved Purchase By Stryker",
-   "summary": "",
-   "url": "https://finnhub.io/api/news?id=f25df07d7ac1e6692a1c6f26383694774a3250d5c9453612eebd1c2e8bf04466",
-   "source": "Benzinga",
-   "published": "2026-10-21T10:11:51+00:00",
-   "tickers": [
-    "BSX"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "99deb69061db",
-   "headline": "Update: Intuitive Surgical Drops as 2026 Global da Vinci Growth Outlook Tweak, $450 Million Charge Chip Away at Q3 Adjusted Earnings, Revenue Beats",
-   "summary": "(Updates with the stock move, outlook, and the legal charge in the headline, first and last two para",
-   "url": "https://finnhub.io/api/news?id=4a2d8a23b5de4028c408880d6ffdf0a841c6686e5fbce1d0d7af2eb9bcfcca59",
-   "source": "Yahoo",
-   "published": "2026-10-21T10:10:43+00:00",
-   "tickers": [
-    "ISRG"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "d8e83610eb30",
-   "headline": "Integra LifeSciences (NASDAQ:IART) Posts Q3 2026 Sales In Line With Estimates But Quarterly Revenue Guidance Misses Expectations",
-   "summary": "Medical device company Integra LifeSciences (NASDAQ:IART) met Wall Street\u2019s revenue expectations in Q3 2026, with sales up 2.3% year on year to $411.2 million. On the other hand, next quarter\u2019s revenue guidance of $423 million was less\u2026",
-   "url": "https://finnhub.io/api/news?id=f73a84dae69ef5bc901c5879fe2fc10e762b2d26c6d1aa58e96f42a17a5d1fc4",
-   "source": "Yahoo",
-   "published": "2026-10-21T10:10:22+00:00",
-   "tickers": [
-    "IART"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "2ede91cc17c5",
-   "headline": "Thermo Fisher Scientific (TMO) Tops Q3 Earnings and Revenue Estimates",
-   "summary": "Thermo Fisher (TMO) delivered earnings and revenue surprises of +4.38% and +1.81%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
-   "url": "https://finnhub.io/api/news?id=75946a4ddc42c01a7e683ad0d9d5e866cf937b17a703a822863f7deb26a7c16d",
-   "source": "Yahoo",
-   "published": "2026-10-21T10:10:03+00:00",
-   "tickers": [
-    "TMO"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "e451aa06bea5",
-   "headline": "Integra LifeSciences (IART) Surpasses Q3 Earnings Estimates",
-   "summary": "Integra (IART) delivered earnings and revenue surprises of +5.36% and -0.81%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
-   "url": "https://finnhub.io/api/news?id=d0aeb7d91bb8c1bf40589420dee94da2c2dc5a003ff68375b774b07973d268f8",
-   "source": "Yahoo",
-   "published": "2026-10-21T10:10:02+00:00",
-   "tickers": [
-    "IART"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "5bedc317097c",
-   "headline": "Danaher: Q3 Earnings Snapshot",
-   "summary": "WASHINGTON (AP) \u2014 WASHINGTON (AP) \u2014 Danaher Corp. (DHR) on Wednesday reported third-quarter earnings of $1.",
-   "url": "https://finnhub.io/api/news?id=fec23bd2d6942b9def3ebc1fc0b6432f6744f39b3db8fde2dd10564bb10da082",
-   "source": "Yahoo",
-   "published": "2026-10-21T10:09:12+00:00",
-   "tickers": [
-    "DHR"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "cb94e062e44d",
-   "headline": "Thermo Fisher: Q3 Earnings Snapshot",
-   "summary": "(AP) \u2014 Thermo Fisher Scientific Inc. (TMO) on Wednesday reported third-quarter net income of $1.",
-   "url": "https://finnhub.io/api/news?id=11a2e3e4dea6be85f8889aa14389c7125f608973c2552cdfc593d90855e04fe7",
-   "source": "Yahoo",
-   "published": "2026-10-21T10:08:21+00:00",
-   "tickers": [
-    "TMO"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "b692aaa1d530",
-   "headline": "Integra: Q3 Earnings Snapshot",
-   "summary": "(AP) \u2014 Integra LifeSciences Holdings Corp. (IART) on Wednesday reported third-quarter net income of $14.",
-   "url": "https://finnhub.io/api/news?id=79059316a5ed873ba4ae024d8810467d7c0e5719ef54ef66c245b8ebd18ba328",
-   "source": "Yahoo",
-   "published": "2026-10-21T10:08:20+00:00",
-   "tickers": [
-    "IART"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "2f390ad361a2",
-   "headline": "Danaher\u2019s (NYSE:DHR) Q3 2026 Earnings Results: Revenue In Line With Expectations",
-   "summary": "Diversified science and technology company Danaher (NYSE:DHR) met Wall Street\u2019s revenue expectations in Q3 2026, with sales up 8.3% year on year to $6.55 billion. Its non-GAAP profit of $2.11 per share was 10% above analysts\u2019 consensus\u2026",
-   "url": "https://finnhub.io/api/news?id=9bf8aa6849fc8c28210d4b966a047c76134d9f4e7ea897b967d8b9a097e484d6",
-   "source": "Yahoo",
-   "published": "2026-10-21T10:08:09+00:00",
-   "tickers": [
-    "DHR"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "ba2ac2652df2",
-   "headline": "Elevance Health: Q3 Earnings Snapshot",
-   "summary": "INDIANAPOLIS (AP) \u2014 INDIANAPOLIS (AP) \u2014 Elevance Health Inc. (ELV) on Wednesday reported third-quarter earnings of $1.",
-   "url": "https://finnhub.io/api/news?id=a505218db8e9b0bec5895e5e829d71ca769113e7997d0f77482bdd99e0d54263",
-   "source": "Yahoo",
-   "published": "2026-10-21T10:07:03+00:00",
-   "tickers": [
-    "ELV"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "396e17c78ee1",
-   "headline": "Thermo Fisher Q3: The Recovery Is Real, And I'm Still Buying",
-   "summary": "Thermo Fisher Scientific Inc. shows 6% organic growth, margin expansion, and rising FCF. Click for this TMO earnings update.",
-   "url": "https://finnhub.io/api/news?id=bea2c32dca6b4e4b27fb67fcd2966a38a7fe1702f06808c573cf0a23f84ac0f5",
-   "source": "SeekingAlpha",
-   "published": "2026-10-21T10:06:52+00:00",
-   "tickers": [
-    "TMO"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "422a40261ef0",
-   "headline": "Summit Therapeutics and ECOG-ACRIN Cancer Research Group Enter into Phase II / III Clinical Trial Collaboration to Evaluate Ivonescimab in First-Line Biliary Tract Cancer",
-   "summary": "MIAMI, October 21, 2026--Summit Therapeutics Inc. (NASDAQ: SMMT) today announced a clinical trial collaboration with the ECOG-ACRIN Cancer Research Group (ECOG-ACRIN) to evaluate ivonescimab, a novel, potential first-in-class\u2026",
-   "url": "https://finnhub.io/api/news?id=a5a0171c819ffe36935eea3e2e83c7783e9e162b806dbc1e929ed8771b5c966e",
-   "source": "Yahoo",
-   "published": "2026-10-21T10:05:00+00:00",
-   "tickers": [
-    "SMMT"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "biotech"
    ]
   }
  ]
