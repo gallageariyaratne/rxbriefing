@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-31T02:02:37.136013+00:00",
+ "updated": "2026-10-31T02:17:36.552263+00:00",
  "quotes": {
   "A": {
    "price": 174.87,
@@ -146,6 +146,10 @@
    "price": 69.39,
    "change_pct": 4.82
   },
+  "GH": {
+   "price": 178.8,
+   "change_pct": -3.51
+  },
   "GILD": {
    "price": 170.68,
    "change_pct": 3.06
@@ -286,6 +290,10 @@
    "price": 50.22,
    "change_pct": -0.24
   },
+  "RARE": {
+   "price": 16.1,
+   "change_pct": -4.05
+  },
   "REGN": {
    "price": 927.89,
    "change_pct": 13.33
@@ -313,14 +321,6 @@
   "SNY": {
    "price": 44.34,
    "change_pct": 2.81
-  },
-  "SYK": {
-   "price": 291.86,
-   "change_pct": -6.38
-  },
-  "TAK": {
-   "price": 20.91,
-   "change_pct": 4.5
   }
  },
  "tickers": {
@@ -1107,7 +1107,8 @@
    "source": "Yahoo",
    "published": "2026-10-30T21:53:09+00:00",
    "tickers": [
-    "PTCT"
+    "PTCT",
+    "RARE"
    ],
    "tag": "M&A",
    "sectors": [
@@ -1305,9 +1306,25 @@
    "source": "Yahoo",
    "published": "2026-10-30T20:32:37+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "AZN"
    ],
    "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "fea91daa245a",
+   "headline": "AstraZeneca Gaps Up To Three-Month High As CEO Calls Out $20 Billion Potential",
+   "summary": "AstraZeneca stock gapped higher Friday as cancer drugs Enhertu and Tagrisso lent themselves to a solid third-quarter report.",
+   "url": "https://finnhub.io/api/news?id=a2769e4592a42a0349e13336b5d101df3d1a8cc4e329d8be0300faea7dd5c29e",
+   "source": "Yahoo",
+   "published": "2026-10-30T20:32:06+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "News",
    "sectors": [
     "pharma"
    ]
@@ -1446,6 +1463,21 @@
    ]
   },
   {
+   "id": "a360bc94d3b0",
+   "headline": "TransMedics Reports Inducement Grants Under NASDAQ Listing Rule 5635(c)(4)",
+   "summary": "TransMedics Group, Inc. (\"TransMedics\") (Nasdaq: TMDX), a medical technology company that is transforming organ transplant therapy for patients with end-stage lung, heart, and liver failure, today announced that on October 28, 2026, the\u2026",
+   "url": "https://finnhub.io/api/news?id=544541cc2467e4b19e97e382d7f4abd08cdb856208c22b1024654f692fe3fe07",
+   "source": "Yahoo",
+   "published": "2026-10-30T20:05:00+00:00",
+   "tickers": [
+    "TMDX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "942d204728ea",
    "headline": "CRMD Stock Hits Fresh 52-Week Low On DaVita\u2019s Warning Of Sharp 2027 DefenCath Reimbursement Drop",
    "summary": "DefenCath is CorMedix\u2019s largest revenue driver in the dialysis setting, generating $258.8 million in net sales in 2025 and accounting for a majority of the company's reported full-year revenue of $311.7 million.",
@@ -1458,6 +1490,21 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "5f3d5d362251",
+   "headline": "COVID Vaccine Giant AstraZeneca Stock Jumps 7%. What's Behind It?",
+   "summary": "AstraZeneca Q3 earnings beat forecasts as the drugmaker launches a $1.5 billion savings plan to fund its AI-backed pipeline.",
+   "url": "https://finnhub.io/api/news?id=f4aed092c1c96c1983204946193ac8f4177c1fa858eb2818274e82f6da4fb53c",
+   "source": "Yahoo",
+   "published": "2026-10-30T19:46:47+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1542,6 +1589,21 @@
    "tickers": [],
    "tag": "Financing",
    "sectors": []
+  },
+  {
+   "id": "bd9537f0572f",
+   "headline": "AstraZeneca Q3 Earnings Call Highlights",
+   "summary": "AstraZeneca (NYSE:AZN) reported continued revenue and earnings growth for the first nine months of 2026, supported by double-digit expansion in oncology, rare disease and respiratory and immunology, while loss-of-exclusivity pressures\u2026",
+   "url": "https://finnhub.io/api/news?id=14b6c30bfad2af2685a83ac88475071e75f2408430ea15e221d1c3b8332f855e",
+   "source": "Yahoo",
+   "published": "2026-10-30T19:14:50+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "a99303f9c5eb",
@@ -1721,6 +1783,21 @@
    "sectors": []
   },
   {
+   "id": "9de447e43c1a",
+   "headline": "Learn Why The Bull Case For AstraZeneca Stock Could Change Following Earnings Beat",
+   "summary": "AstraZeneca reported third quarter 2026 results ahead of expectations, with revenue of US$16.21b, net income of US$3.12b and core EPS of US$2.79, and reaffirmed full year guidance for mid to high single digit revenue growth and low double\u2026",
+   "url": "https://finnhub.io/api/news?id=6d671dbe015af943e403c74016fa6b6a00f594ad13e1cf6a1ebc4e00f7cf2161",
+   "source": "Yahoo",
+   "published": "2026-10-30T18:12:29+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "dce1e8cab593",
    "headline": "TG Therapeutics Is Up 98%, But The Story Isn't Finished",
    "summary": "One concrete shift for TG Therapeutics this year was the push to simplify and broaden BRIUMVI use, from single 600 mg Day 1 infusions in relapsing multiple sclerosis to new trials in conditions like myasthenia gravis and\u2026",
@@ -1882,6 +1959,21 @@
     "LLY"
    ],
    "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "244613b7ecba",
+   "headline": "AstraZeneca cans late-stage Ultomiris trial on lacklustre efficacy predictions",
+   "summary": "Ultomiris, one of AstraZeneca\u2019s blockbuster sellers in Q3, is currently approved across five rare disease indications.",
+   "url": "https://finnhub.io/api/news?id=2fb0e7c4a66e22feec42179cfe0a9ee6496f77043a10ee0c09e4055f72a77f9d",
+   "source": "Yahoo",
+   "published": "2026-10-30T17:26:18+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "FDA",
    "sectors": [
     "pharma"
    ]
@@ -2533,6 +2625,7 @@
    "source": "Yahoo",
    "published": "2026-10-30T15:23:03+00:00",
    "tickers": [
+    "AZN",
     "NVO",
     "SNY"
    ],
@@ -2583,6 +2676,7 @@
    "tickers": [
     "ILMN",
     "QGEN",
+    "TEM",
     "TMO"
    ],
    "tag": "Health AI",
@@ -2821,6 +2915,21 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "174dabe4b16a",
+   "headline": "Drugs giant AstraZeneca reveals higher profits, savings plan",
+   "summary": "British pharmaceutical group AstraZeneca announced Friday a 23-percent jump in net profit for the third quarter and a new programme aiming for annual savings of $1.5 billion. The group added Friday that net profit reached $8.7 billion for\u2026",
+   "url": "https://finnhub.io/api/news?id=174e48dad519615b5f24b29d4265e8301ea78db2376d34de8679714d254d15ef",
+   "source": "Yahoo",
+   "published": "2026-10-30T14:55:36+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -3090,6 +3199,7 @@
    "published": "2026-10-30T14:34:00+00:00",
    "tickers": [
     "ILMN",
+    "TEM",
     "TMO"
    ],
    "tag": "Health AI",
@@ -3110,6 +3220,21 @@
    "tag": "Health AI",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "acf4f6db3096",
+   "headline": "AstraZeneca CFO on AI, Earnings, Restructuring Plan",
+   "summary": "AstraZeneca Chief Financial Officer Aradhana Sarin says the drug company uses AI in almost every aspect of the work they do. She talks beating on earnings, their drug pipeline and how the company approaches dealmaking. She speaks on\u2026",
+   "url": "https://finnhub.io/api/news?id=f8bee5cd191bb96ca2624187c8d50e7d506f527ee8a41b3f314dc21e189aa206",
+   "source": "Yahoo",
+   "published": "2026-10-30T14:31:36+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -3439,6 +3564,7 @@
    "source": "Yahoo",
    "published": "2026-10-30T14:01:30+00:00",
    "tickers": [
+    "GH",
     "ILMN",
     "NTRA",
     "TMO"
@@ -3565,6 +3691,7 @@
    "published": "2026-10-30T13:45:17+00:00",
    "tickers": [
     "ALNY",
+    "AZN",
     "INCY"
    ],
    "tag": "Analyst",
@@ -3581,6 +3708,7 @@
    "published": "2026-10-30T13:44:00+00:00",
    "tickers": [
     "ABBV",
+    "AZN",
     "REGN"
    ],
    "tag": "Health AI",
@@ -3803,6 +3931,7 @@
    "published": "2026-10-30T13:21:00+00:00",
    "tickers": [
     "AMGN",
+    "AZN",
     "MRK",
     "SMMT"
    ],
@@ -3876,7 +4005,8 @@
    "source": "Yahoo",
    "published": "2026-10-30T13:12:00+00:00",
    "tickers": [
-    "DOCS"
+    "DOCS",
+    "TEM"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -3939,6 +4069,7 @@
    "source": "Yahoo",
    "published": "2026-10-30T13:05:00+00:00",
    "tickers": [
+    "AZN",
     "REGN",
     "SNY"
    ],
@@ -4225,6 +4356,7 @@
    "published": "2026-10-30T12:43:00+00:00",
    "tickers": [
     "AMGN",
+    "AZN",
     "BMY"
    ],
    "tag": "Earnings",
@@ -4372,6 +4504,21 @@
    "published": "2026-10-30T12:30:03+00:00",
    "tickers": [
     "REGN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "6cfe96b2e271",
+   "headline": "Astrazeneca (AZN) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
+   "summary": "Although the revenue and EPS for Astrazeneca (AZN) give a sense of how its business performed in the quarter ended September 2026, it might be worth considering how some key metrics compare with Wall Street estimates and the year-ago\u2026",
+   "url": "https://finnhub.io/api/news?id=360fa6465a0664cdd46c48e207e3c2b915cd962c5af76905d73cea3d1a0ad28e",
+   "source": "Yahoo",
+   "published": "2026-10-30T12:30:03+00:00",
+   "tickers": [
+    "AZN"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -56141,21 +56288,6 @@
    "tag": "News",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "e48c8271807b",
-   "headline": "Mar Vista U.S. Quality Strategy Q3 2026 Portfolio Review",
-   "summary": "",
-   "url": "https://finnhub.io/api/news?id=cde67259d7b8ea9aaf7ed890e32ea06e6d906e9f36db663d2403a52511792e47",
-   "source": "SeekingAlpha",
-   "published": "2026-10-21T02:15:00+00:00",
-   "tickers": [
-    "SYK"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
