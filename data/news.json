@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-31T10:17:29.958275+00:00",
+ "updated": "2026-10-31T10:32:42.836945+00:00",
  "quotes": {
   "A": {
    "price": 174.87,
@@ -85,10 +85,6 @@
   "CI": {
    "price": 298.23,
    "change_pct": -0.06
-  },
-  "CLOV": {
-   "price": 4.46,
-   "change_pct": -2.62
   },
   "CNC": {
    "price": 68.45,
@@ -321,6 +317,10 @@
   "RMD": {
    "price": 229.94,
    "change_pct": -9.05
+  },
+  "RVMD": {
+   "price": 191.31,
+   "change_pct": 0.55
   }
  },
  "tickers": {
@@ -950,6 +950,21 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "686823447808",
+   "headline": "CVS Health (CVS) Could Be 27% Undervalued As Earnings Focus Sharpens",
+   "summary": "CVS Health stock reacts to upcoming earnings focus CVS Health (CVS) heads into its next earnings report with Wall Street expecting quarterly earnings of $1.62 per share, placing fresh attention on how each business segment is\u2026",
+   "url": "https://finnhub.io/api/news?id=233678013e023a096f530a0038fa3cbe196a62962212a9a13ef584c2ea451d5d",
+   "source": "Yahoo",
+   "published": "2026-10-31T08:11:43+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -2425,7 +2440,8 @@
    "published": "2026-10-30T18:06:08+00:00",
    "tickers": [
     "DVA",
-    "DXCM"
+    "DXCM",
+    "RMD"
    ],
    "tag": "News",
    "sectors": [
@@ -55116,127 +55132,6 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "1db194264c66",
-   "headline": "Doximity: Demand For AI-Driven Platforms In The Medical Sector Drives Longer-Term Buy",
-   "summary": "Doximity is a clear winner in key fundamentals like 5-year revenue CAGR, ROCE, and profit margin. Find out why DOCS stock is a buy.",
-   "url": "https://finnhub.io/api/news?id=6f0bf4bcc490ffeaf4e8b64f20c97131bab546d75cee8df99a361d9ec124ccc3",
-   "source": "SeekingAlpha",
-   "published": "2026-10-21T10:27:38+00:00",
-   "tickers": [
-    "DOCS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "501f56bce713",
-   "headline": "Evercore ISI Group Maintains In-Line on Intuitive Surgical, Lowers Price Target to $385",
-   "summary": "Evercore ISI Group analyst Vijay Kumar maintains Intuitive Surgical (NASDAQ:ISRG) with a In-Line and lowers the price target from $400 to $385.",
-   "url": "https://finnhub.io/api/news?id=2f2ccfa58c53b52c0adfb6bf7d0d2a093029e5008b597b9bceeabfe974bae54d",
-   "source": "Benzinga",
-   "published": "2026-10-21T10:25:16+00:00",
-   "tickers": [
-    "ISRG"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "4cf434066b32",
-   "headline": "Elevance Health (NYSE:ELV) Reports Bullish Q3 2026",
-   "summary": "Health insurance provider Elevance Health (NYSE:ELV) reported revenue ahead of Wall Street\u2019s expectations in Q3 2026, but sales were flat year on year at $50.44 billion. Its non-GAAP profit of $6.99 per share was 48.9% above analysts\u2019\u2026",
-   "url": "https://finnhub.io/api/news?id=5fb92c6b64fcd0d50e1e8869e488c3d26432f1662cbe39be6f112cc846e0e036",
-   "source": "Yahoo",
-   "published": "2026-10-21T10:25:07+00:00",
-   "tickers": [
-    "ELV"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "671c2fd845d7",
-   "headline": "Danaher (DHR) Tops Q3 Earnings and Revenue Estimates",
-   "summary": "Danaher (DHR) delivered earnings and revenue surprises of +9.90% and +0.10%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
-   "url": "https://finnhub.io/api/news?id=c3dff006de90f6f06bcb17cc006001318a390286b8207bb11e2501c6c2b189f0",
-   "source": "Yahoo",
-   "published": "2026-10-21T10:25:02+00:00",
-   "tickers": [
-    "DHR",
-    "HCA"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "8e9250603dbb",
-   "headline": "Elevance Health (ELV) Surpasses Q3 Earnings and Revenue Estimates",
-   "summary": "Elevance Health (ELV) delivered earnings and revenue surprises of +50.00% and +4.01%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
-   "url": "https://finnhub.io/api/news?id=1149434f25090c0c8e0a9ee1a52f691db1647c8e0af60199fe1acd0be49e7528",
-   "source": "Yahoo",
-   "published": "2026-10-21T10:25:02+00:00",
-   "tickers": [
-    "ELV"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "18dad1d5a828",
-   "headline": "Abbott Laboratories Q3 2026 Earnings Call Transcript",
-   "summary": "Abbott Laboratories (NYSE:ABT) reported third-quarter financial results on Wednesday. The transcript from the company\u2019s third-quarter earnings call has been provided below.This transcript is brought to you by Benzinga",
-   "url": "https://finnhub.io/api/news?id=8252b8030e25ad61b72d427edf66e7b67022635adb9f5ce8fb14802bff80f905",
-   "source": "Benzinga",
-   "published": "2026-10-21T10:21:32+00:00",
-   "tickers": [
-    "ABT"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "ce6a66da6883",
-   "headline": "Why Is Intuitive Surgical Stock Falling in Pre-Market Trading?",
-   "summary": "Intuitive Surgical (NASDAQ:ISRG) shares declined 7. 5% to $404.",
-   "url": "https://finnhub.io/api/news?id=9fbd312588651e1d7d92499231fa826b623b2928ee9180fb29e1a90622f644e9",
-   "source": "Yahoo",
-   "published": "2026-10-21T10:17:57+00:00",
-   "tickers": [
-    "ISRG"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "a653bc4b6f94",
-   "headline": "Compass Pathways: Built The FDA's Way, Valued At 0.57x Spravato's Sales",
-   "summary": "COMPASS Pathways is rated buy, with high risk, based on strong trial design and imminent FDA review for COMP360. Read more on CMPS stock here.",
-   "url": "https://finnhub.io/api/news?id=8ed1a6332aa74c6898213e1ea5e1e797fb821f9a7835d06b641a9aa66f765fb0",
-   "source": "SeekingAlpha",
-   "published": "2026-10-21T10:17:28+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
