@@ -1,7 +1,27 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-31T12:32:43.773183+00:00",
+ "updated": "2026-10-31T12:47:43.423628+00:00",
  "quotes": {
+  "A": {
+   "price": 174.87,
+   "change_pct": -3.47
+  },
+  "ABBV": {
+   "price": 294.89,
+   "change_pct": 1.41
+  },
+  "ABSI": {
+   "price": 11.13,
+   "change_pct": -8.02
+  },
+  "ABT": {
+   "price": 106.2,
+   "change_pct": 1.56
+  },
+  "ALGN": {
+   "price": 149.89,
+   "change_pct": -2.49
+  },
   "ALHC": {
    "price": 7.27,
    "change_pct": -9.8
@@ -13,10 +33,6 @@
   "AMGN": {
    "price": 466.01,
    "change_pct": 1.15
-  },
-  "ARGX": {
-   "price": 892.87,
-   "change_pct": -0.55
   },
   "ARWR": {
    "price": 59.9,
@@ -133,10 +149,6 @@
   "GMED": {
    "price": 78.05,
    "change_pct": -5.86
-  },
-  "HALO": {
-   "price": 130.91,
-   "change_pct": -0.21
   },
   "HCA": {
    "price": 473.19,
@@ -301,6 +313,14 @@
   "TGTX": {
    "price": 61.18,
    "change_pct": 5.34
+  },
+  "THC": {
+   "price": 273.25,
+   "change_pct": 0.99
+  },
+  "TMDX": {
+   "price": 65.99,
+   "change_pct": -1.68
   }
  },
  "tickers": {
@@ -53746,180 +53766,6 @@
     "ABT"
    ],
    "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "d3ca07e40582",
-   "headline": "How To Prepare Your Household for Cold and Flu Season",
-   "summary": "NORTHAMPTON, MA / ACCESS Newswire / October 21, 2026 / Originally published on Company NewsroomKey points * Cold and flu season is upon us so it's time to think about ways to prepare so that you are ready when the inevitable sick day\u2026",
-   "url": "https://finnhub.io/api/news?id=199e33956bd381c60f45ab2d1c4132cdb33b9e501282046d7a3125d4f9ff715f",
-   "source": "Yahoo",
-   "published": "2026-10-21T12:45:00+00:00",
-   "tickers": [
-    "CVS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "3b2834d3bf0a",
-   "headline": "Akeso Announces Summit Therapeutics and ECOG-ACRIN Cancer Research Group Enter into Phase II/III Clinical Trial Collaboration to Evaluate Ivonescimab in First-Line Biliary Tract Cancer",
-   "summary": "Becomes the 7th International Registrational Clinical Trial for Ivonescimab Clinical Trial Site Activations in the United States Expected to Begin Q4 2026 HONG KONG, Oct. 21, 2026 /PRNewswire/ -- Akeso, Inc. (HKEX: 9926.HK) today\u2026",
-   "url": "https://www.prnewswire.com/news-releases/akeso-announces-summit-therapeutics-and-ecog-acrin-cancer-research-group-enter-into-phase-iiiii-clinical-trial-collaboration-to-evaluate-ivonescimab-in-first-line-biliary-tract-cancer-302915469.html",
-   "source": "PR Newswire",
-   "published": "2026-10-21T12:42:00+00:00",
-   "tickers": [
-    "SMMT"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "13e163eb29d9",
-   "headline": "Akeso Announces Summit Therapeutics and ECOG-ACRIN Cancer Research Group Enter into Phase II/III Clinical Trial Collaboration to Evaluate Ivonescimab in First-Line Biliary Tract Cancer",
-   "summary": "Akeso, Inc. (HKEX: 9926.HK) today announced that Summit Therapeutics Inc. (NASDAQ: SMMT), its global partner for ivonescimab, has entered into a clinical trial collaboration with the ECOG-ACRIN Cancer Research Group (ECOG-ACRIN) to\u2026",
-   "url": "https://finnhub.io/api/news?id=f3e44a6a0fa6869bc2d9d4028213ff6e2a9d2dd7f5151765095e26910d3f8210",
-   "source": "Yahoo",
-   "published": "2026-10-21T12:42:00+00:00",
-   "tickers": [
-    "SMMT"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "5f64c1c19c72",
-   "headline": "Strong Price Rally Validates Danaher\u2019s (DHR) Undervalued Entry Point in Core Diagnostics Engine",
-   "summary": "L1 Capital, an investment management firm, released its \u201cL1 Capital International Fund\u201d (unhedged) third-quarter 2026 investor letter. A copy of the letter can be downloaded here. This Quarterly Report covers the unusually complex\u2026",
-   "url": "https://finnhub.io/api/news?id=b70ab3bd2c8511aed39bef0ab0d2352b34e937470a2e0bd6715538a6532b0bfb",
-   "source": "Yahoo",
-   "published": "2026-10-21T12:41:57+00:00",
-   "tickers": [
-    "DHR"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "14616383075a",
-   "headline": "Forget Stock Picking: The $100B Dividend ETF Retirees Are Buying Instead",
-   "summary": "One of SCHD's top four holdings is paying out nearly everything it earns as a dividend, and retirees need to know whether that payout is a ticking clock or a sign of strength before they count on it for income.",
-   "url": "https://finnhub.io/api/news?id=981dac4b824155df77334a878db0993fc0bcb9a1d14b9334d50f004f0054b81c",
-   "source": "Yahoo",
-   "published": "2026-10-21T12:40:34+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "8512e91a0b31",
-   "headline": "Are Medical Stocks Lagging Aclaris Therapeutics (ACRS) This Year?",
-   "summary": "Here is how Aclaris Therapeutics (ACRS) and Glaukos (GKOS) have performed compared to their sector so far this year.",
-   "url": "https://finnhub.io/api/news?id=8de5cba2d6fdbd76cf376c1bc90ecd4fa013ac4531294bd60be218e6645e9e6e",
-   "source": "Yahoo",
-   "published": "2026-10-21T12:40:03+00:00",
-   "tickers": [
-    "GKOS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "84e9eb496f85",
-   "headline": "Abbott Laboratories\u2019s (NYSE:ABT) Q3 2026 earnings results: revenue in line with expectations",
-   "summary": "Healthcare product and device company Abbott Laboratories (NYSE:ABT) met Wall Street\u2019s revenue expectations in Q3 2026, with sales up 14.5% year on year to $13.01 billion. Its non-GAAP profit of $1.42 per share was in line with analysts\u2019\u2026",
-   "url": "https://finnhub.io/api/news?id=6251cfac49ad902e6fd4714f102ccf05100e09cebd46a8b14c604f47e2bd0b62",
-   "source": "Yahoo",
-   "published": "2026-10-21T12:37:52+00:00",
-   "tickers": [
-    "ABT"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "7ca1aa6505ac",
-   "headline": "S&P 500 Premarket Movers on Oct. 21: Tech Hardware and AI Suppliers Gain, Health Care Declines",
-   "summary": "S&P 500 premarket movers on Oct. 21: SMCI, DELL, VRT, LITE, BE and HPE led gainers, while ISRG, NFLX, T, ABT and DHR led declines.",
-   "url": "https://finnhub.io/api/news?id=eba9a293516889b9db11cf3881c5665bd9e741fb9e36f87cf455c1d1c54b430a",
-   "source": "ChartMill",
-   "published": "2026-10-21T12:36:06+00:00",
-   "tickers": [
-    "ABT",
-    "DHR",
-    "ISRG",
-    "TMO",
-    "VRTX",
-    "WAT"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "945fa1169569",
-   "headline": "Can Higher Admissions Offset Rising Costs in UHS' Q3 Earnings?",
-   "summary": "Universal Health Services' Q3 revenues are expected to rise on higher patient admissions, but surging operating costs and wage pressures could weigh on earnings growth.",
-   "url": "https://finnhub.io/api/news?id=022b1c8005a4f69f4fae386b8f843af045beaed48013bb1d21d8e0da19a0852c",
-   "source": "Yahoo",
-   "published": "2026-10-21T12:36:00+00:00",
-   "tickers": [
-    "ILMN",
-    "UHS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "dcdfab1e66cc",
-   "headline": "Humana Healthy Horizons\u00ae in Louisiana Achieves Maternal Mental Health 'Whole Mom' Status",
-   "summary": "The insurer is the first in the country to earn this designation. WASHINGTON, Oct. 21, 2026 /PRNewswire/ -- The Policy Center for Maternal Mental Health (\"the Policy Center\") announced today that Humana Healthy Horizons\u00ae in Louisiana has\u2026",
-   "url": "https://www.prnewswire.com/news-releases/humana-healthy-horizons-in-louisiana-achieves-maternal-mental-health-whole-mom-status-302914936.html",
-   "source": "PR Newswire",
-   "published": "2026-10-21T12:33:00+00:00",
-   "tickers": [
-    "HUM"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "5a93928d7375",
-   "headline": "Intuitive Surgical's Q3 Earnings Beat Estimates on Strong System Sales",
-   "summary": "ISRG's Q3 2026 earnings beat estimates as strong system placements, rising procedure volumes and improving margins fuel double-digit revenue growth.",
-   "url": "https://finnhub.io/api/news?id=81838d297dff31d72c83688080f0c7fe609014e55d3a8995b53e4433356df155",
-   "source": "Yahoo",
-   "published": "2026-10-21T12:33:00+00:00",
-   "tickers": [
-    "EW",
-    "GKOS",
-    "GMED",
-    "ISRG"
-   ],
-   "tag": "Earnings",
    "sectors": [
     "medtech"
    ]
