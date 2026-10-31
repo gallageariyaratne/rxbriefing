@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-31T02:17:36.552263+00:00",
+ "updated": "2026-10-31T02:32:40.847264+00:00",
  "quotes": {
   "A": {
    "price": 174.87,
@@ -57,6 +57,10 @@
   "BIIB": {
    "price": 253.62,
    "change_pct": 1.59
+  },
+  "BMRN": {
+   "price": 58.51,
+   "change_pct": 1.77
   },
   "BMY": {
    "price": 62.48,
@@ -317,10 +321,6 @@
   "SMMT": {
    "price": 16.03,
    "change_pct": -1.05
-  },
-  "SNY": {
-   "price": 44.34,
-   "change_pct": 2.81
   }
  },
  "tickers": {
@@ -937,6 +937,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "cd98e387d818",
+   "headline": "Stocktwits Biotech Dealmaker: BioMarin\u2019s Fabry Disease Drug Candidate License Dominates Slow Week In Dealmaking",
+   "summary": "U.S.-listed biotech buyers continued to favor asset deals over multi-billion-dollar company takeovers this week.",
+   "url": "https://finnhub.io/api/news?id=e9a12dd8bea1cc83dbf95a2af75b98a7d4bd05cdc59cd07632892f94f518f0be",
+   "source": "Yahoo",
+   "published": "2026-10-31T00:20:10+00:00",
+   "tickers": [
+    "BMRN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
   {
    "id": "85bb8f82e577",
    "headline": "Why Merck Stock Flew Higher on Friday",
@@ -2888,6 +2903,21 @@
    ]
   },
   {
+   "id": "9a4e5e5113f3",
+   "headline": "All You Need to Know About Novartis (NVS) Rating Upgrade to Buy",
+   "summary": "Novartis (NVS) has been upgraded to a Zacks Rank #2 (Buy), reflecting growing optimism about the company's earnings prospects. This might drive the stock higher in the near term.",
+   "url": "https://finnhub.io/api/news?id=0843d36d795d1c661ddb676835f2d1b27b36c20f243959b7c8e287ae6c47fe41",
+   "source": "Yahoo",
+   "published": "2026-10-30T15:00:06+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "3b92437d5aca",
    "headline": "Medpace (MEDP) is a Great Momentum Stock: Should You Buy?",
    "summary": "Does Medpace (MEDP) have what it takes to be a top stock pick for momentum investors? Let's find out.",
@@ -3153,6 +3183,7 @@
    "source": "Yahoo",
    "published": "2026-10-30T14:40:00+00:00",
    "tickers": [
+    "NVS",
     "PFE"
    ],
    "tag": "News",
@@ -3183,7 +3214,8 @@
    "source": "Yahoo",
    "published": "2026-10-30T14:38:00+00:00",
    "tickers": [
-    "ALNY"
+    "ALNY",
+    "NVS"
    ],
    "tag": "News",
    "sectors": [
@@ -3549,6 +3581,7 @@
    "published": "2026-10-30T14:02:00+00:00",
    "tickers": [
     "ALNY",
+    "NVS",
     "REGN"
    ],
    "tag": "Earnings",
@@ -4357,7 +4390,8 @@
    "tickers": [
     "AMGN",
     "AZN",
-    "BMY"
+    "BMY",
+    "NVS"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -4373,6 +4407,21 @@
    "published": "2026-10-30T12:41:43+00:00",
    "tickers": [
     "AMGN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "5bf9654f346c",
+   "headline": "Is Avantor (AVTR) Stock Outpacing Its Medical Peers This Year?",
+   "summary": "Here is how Avantor, Inc. (AVTR) and Novartis (NVS) have performed compared to their sector so far this year.",
+   "url": "https://finnhub.io/api/news?id=888317d9ad02438cb9867b4be71bc5fc8b7531e40b6c89106e1b86a8b3e83259",
+   "source": "Yahoo",
+   "published": "2026-10-30T12:40:02+00:00",
+   "tickers": [
+    "NVS"
    ],
    "tag": "News",
    "sectors": [
@@ -4669,7 +4718,8 @@
    "published": "2026-10-30T12:16:38+00:00",
    "tickers": [
     "BMY",
-    "LLY"
+    "LLY",
+    "NVS"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -4915,7 +4965,8 @@
    "source": "Yahoo",
    "published": "2026-10-30T11:50:00+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "NVS"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -5448,6 +5499,21 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "31d1680ec14d",
+   "headline": "Norwegian Air Shuttle (OB:NAS) Stock Looks Cheap Even After A 42% Gain",
+   "summary": "Norwegian Air Shuttle has seen a mixed share price path in recent years, which raises a simple question for investors who care about valuation. Is the current price tag really in line with the airline's earnings power today? The stock has\u2026",
+   "url": "https://finnhub.io/api/news?id=bac242fc87daec05b341673521ba088e63254650a52c940fdc14a94bf0c8eb50",
+   "source": "Yahoo",
+   "published": "2026-10-30T10:11:56+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -56223,71 +56289,6 @@
    "tag": "News",
    "sectors": [
     "pharmacy"
-   ]
-  },
-  {
-   "id": "88d3a2137f16",
-   "headline": "What Have Pfizer Stock Holders Really Earned?",
-   "summary": "The dividend is probably the reason investors hold Pfizer (PFE), the maker of medicines such as Eliquis and Padcev. The stock yielded 5.8% at the October 19, 2026 close. Over the past five years, though, the share price has fallen far\u2026",
-   "url": "https://finnhub.io/api/news?id=f9affdbd77d1b4dcc74f6d22d552f857d3ff21a082ed014aac2fd2f3a98ee8b6",
-   "source": "Yahoo",
-   "published": "2026-10-21T02:26:26+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "13781d7546a6",
-   "headline": "Intuitive Surgical Sinks 7% on U.S. Slowdown: \u201cLowest We\u2019ve Seen Since COVID\u201d",
-   "summary": "Intuitive Surgical (ISRG:NASDAQ) shares fell about 7% in after-hours trading on Tuesday (to about $406) after the company\u2019s third-quarter report showed U. S.",
-   "url": "https://finnhub.io/api/news?id=818ac2c9dfef5551ac5b3d766b4b2f6f56a8aa05374de5039441eac977afc638",
-   "source": "Yahoo",
-   "published": "2026-10-21T02:23:36+00:00",
-   "tickers": [
-    "ISRG"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "d53513246358",
-   "headline": "What Happens To Merck Stock If Keytruda Sales Stop Growing?",
-   "summary": "Shares of Merck (MRK) returned 76.2% over the past year, compared with 17.4% for the S&P 500. U.S. growth for the company's cancer drug Keytruda is set to slow. Management said on the August 4 call that U.S. Keytruda growth will moderate\u2026",
-   "url": "https://finnhub.io/api/news?id=ec360a4c13d51252fc8575917923e9f0301ecea05f1edc0f73085e8b26ff8f30",
-   "source": "Yahoo",
-   "published": "2026-10-21T02:20:34+00:00",
-   "tickers": [
-    "ABBV",
-    "BMY",
-    "JNJ",
-    "LLY",
-    "MRK",
-    "PFE"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "78184357e28e",
-   "headline": "CVS Health (CVS) Opens New Pharmacy Focused Locations",
-   "summary": "CVS Health (NYSE:CVS) has introduced new pharmacy-focused store formats aimed at expanding local access to pharmacy care in select communities. The business is working with The Midlife Collective on a research study examining women's\u2026",
-   "url": "https://finnhub.io/api/news?id=d89d79e08813b9dce4944ea6e8ac1397daa1fc4ae30a0db4ff5fbb6e373bf3a4",
-   "source": "Yahoo",
-   "published": "2026-10-21T02:16:30+00:00",
-   "tickers": [
-    "CVS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
    ]
   }
  ]
