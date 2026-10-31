@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-31T02:38:27.025807+00:00",
+ "updated": "2026-10-31T02:47:33.144856+00:00",
  "quotes": {
   "A": {
    "price": 174.87,
@@ -158,6 +158,10 @@
    "price": 170.68,
    "change_pct": 3.06
   },
+  "GKOS": {
+   "price": 237.6,
+   "change_pct": -2.01
+  },
   "GMED": {
    "price": 78.05,
    "change_pct": -5.86
@@ -201,6 +205,10 @@
   "INCY": {
    "price": 120.39,
    "change_pct": 3.07
+  },
+  "INSM": {
+   "price": 112.58,
+   "change_pct": 0.89
   },
   "IONS": {
    "price": 43.52,
@@ -313,14 +321,6 @@
   "RVMD": {
    "price": 191.31,
    "change_pct": 0.55
-  },
-  "RXRX": {
-   "price": 4.03,
-   "change_pct": -4.95
-  },
-  "SMMT": {
-   "price": 16.03,
-   "change_pct": -1.05
   }
  },
  "tickers": {
@@ -938,6 +938,36 @@
  },
  "stories": [
   {
+   "id": "f5279a3a7674",
+   "headline": "ENSG Q3 deep dive: organic growth and acquisitions drive occupancy and margin gains",
+   "summary": "Healthcare services company The Ensign Group (NASDAQ:ENSG) fell short of the market\u2019s revenue expectations in Q3 2026, but sales rose 14.5% year on year to $1.48 billion. On the other hand, the company\u2019s outlook for the full year was\u2026",
+   "url": "https://finnhub.io/api/news?id=4eaf7dbe77269f120ea8e7cbe43800a98e529d4b7bf8242e748e2337c68bb0ef",
+   "source": "Yahoo",
+   "published": "2026-10-31T01:23:29+00:00",
+   "tickers": [
+    "ENSG"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "bcab9717e7b5",
+   "headline": "Insmed (INSM) Begins BRINSUPRI Sales In Japan",
+   "summary": "Insmed (NasdaqGS: INSM) reported the commercial launch of BRINSUPRI tablets in Japan for non cystic fibrosis bronchiectasis. BRINSUPRI is described as the first approved therapy in Japan for patients with non cystic fibrosis\u2026",
+   "url": "https://finnhub.io/api/news?id=cd315e9faf10ec174beecd3b708b826ca77ec0f5da79d120c42007bd269f4cc2",
+   "source": "Yahoo",
+   "published": "2026-10-31T01:17:41+00:00",
+   "tickers": [
+    "INSM"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "cd98e387d818",
    "headline": "Stocktwits Biotech Dealmaker: BioMarin\u2019s Fabry Disease Drug Candidate License Dominates Slow Week In Dealmaking",
    "summary": "U.S.-listed biotech buyers continued to favor asset deals over multi-billion-dollar company takeovers this week.",
@@ -1069,6 +1099,21 @@
    ]
   },
   {
+   "id": "0b656446873e",
+   "headline": "Okta Stock Can Find More Buyers as It Joins the S&P 500",
+   "summary": "Okta can expect a new pool of buyers for its stock as a member of the S&P 500. Kenvue is being acquired and will therefore depart the index.",
+   "url": "https://finnhub.io/api/news?id=57b660bdd8fe91eb2291e70d0df27952a627efd682bf169424e95c2f1a5791f8",
+   "source": "Yahoo",
+   "published": "2026-10-30T22:20:00+00:00",
+   "tickers": [
+    "GKOS"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "1341c249824a",
    "headline": "Align Technology (ALGN) Stock Sees Modest Fair Value Cut As Analyst Views Split",
    "summary": "Align Technology\u2019s modeled fair value has been trimmed from US$199.21 to US$188.86, pointing to a more conservative price target in the latest update. This shift lines up with research that shows analysts reducing targets while staying\u2026",
@@ -1126,6 +1171,36 @@
     "RARE"
    ],
    "tag": "M&A",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "9dc6c87ac51d",
+   "headline": "Okta Set to Join S&P 500; Others to Join S&P MidCap 400 and S&P SmallCap 600",
+   "summary": "S&P Dow Jones Indices will make the following changes to the S&P 500, S&P MidCap 400, S&P SmallCap 600 effective prior to the opening of trading on Wednesday, November 4:",
+   "url": "https://finnhub.io/api/news?id=52156954d60e13beb4b28b81dd6c476708abb712a0bbc919e685f788ed1a88c4",
+   "source": "Yahoo",
+   "published": "2026-10-30T21:51:00+00:00",
+   "tickers": [
+    "GKOS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "f48243f87a77",
+   "headline": "Insmed Incorporated (INSM) Q3 2026 Earnings Call Transcript",
+   "summary": "Insmed Incorporated (INSM) Q3 2026 Earnings Call October 29, 2026 8:00 AM EDTCompany ParticipantsWilliam Lewis - President, CEO & ChairmanSara...",
+   "url": "https://finnhub.io/api/news?id=d7a8b24d3b8b4afb1ba8e88aa8007d7889ee855d2a639580e05b38e87b3b1743",
+   "source": "SeekingAlpha",
+   "published": "2026-10-30T21:48:26+00:00",
+   "tickers": [
+    "INSM"
+   ],
+   "tag": "Earnings",
    "sectors": [
     "biotech"
    ]
@@ -1877,6 +1952,7 @@
    "published": "2026-10-30T17:56:00+00:00",
    "tickers": [
     "BDX",
+    "GKOS",
     "GMED",
     "SYK"
    ],
@@ -3885,6 +3961,7 @@
    "source": "Yahoo",
    "published": "2026-10-30T13:29:00+00:00",
    "tickers": [
+    "INSM",
     "TGTX"
    ],
    "tag": "Earnings",
@@ -5054,6 +5131,7 @@
    "published": "2026-10-30T11:15:53+00:00",
    "tickers": [
     "GILD",
+    "INSM",
     "UTHR",
     "VRTX"
    ],
@@ -13817,6 +13895,21 @@
    "tag": "Earnings",
    "sectors": [
     "healthit"
+   ]
+  },
+  {
+   "id": "4ad2adcbc636",
+   "headline": "Glaukos Corporation Q3 2026 Earnings Call Summary",
+   "summary": "Moby summary of Glaukos Corporation's Q3 2026 earnings call",
+   "url": "https://finnhub.io/api/news?id=2a57daba9d0b1014e6269643e19c494204ced0d586b6edb3816855ed8ef49bad",
+   "source": "Yahoo",
+   "published": "2026-10-29T12:30:00+00:00",
+   "tickers": [
+    "GKOS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
    ]
   },
   {
