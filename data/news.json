@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-31T16:02:29.560287+00:00",
+ "updated": "2026-10-31T16:17:30.431859+00:00",
  "quotes": {
   "ABBV": {
    "price": 294.89,
@@ -165,6 +165,10 @@
   "LLY": {
    "price": 1417.54,
    "change_pct": 3.19
+  },
+  "MDT": {
+   "price": 96.54,
+   "change_pct": -0.59
   },
   "MEDP": {
    "price": 652.01,
@@ -909,6 +913,66 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "2d13c3087e54",
+   "headline": "Regeneron: 3 Key Takeaways for Long-Term Investors",
+   "summary": "An early-stage liver disease therapy cut fat by 70% in just 12 weeks, signaling the genetics engine's potential to fuel growth beyond current blockbusters.",
+   "url": "https://finnhub.io/api/news?id=f22c2dea62a2b8a36bf59cc476ed8381747b823fa4b79cc2a65b5353adfe3f3d",
+   "source": "Yahoo",
+   "published": "2026-10-31T15:09:48+00:00",
+   "tickers": [
+    "REGN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "7d466d2fb7bd",
+   "headline": "AbbVie: 3 Key Takeaways for Long-Term Investors",
+   "summary": "Newer therapies must sustain double-digit growth to offset the impact of Humira's patent cliff, a test that shapes the dividend's long-term safety.",
+   "url": "https://finnhub.io/api/news?id=1621dcfa2f8e18021e7cab6dad6ff39a4bf66778c56dbf64b8e5727534453a7a",
+   "source": "Yahoo",
+   "published": "2026-10-31T14:51:10+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "Legal",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "cd185ffe4fb5",
+   "headline": "Is AbbVie a Buy After Its Latest Earnings Report?",
+   "summary": "Behind a doubling in adjusted EPS sits a more modest picture -- and a dividend streak worth understanding.",
+   "url": "https://finnhub.io/api/news?id=9eee4b2bfd892b765cfadc537b221451cef15875895ae854f33bf997f1a84d53",
+   "source": "Yahoo",
+   "published": "2026-10-31T14:37:39+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "7cbdc51eced3",
+   "headline": "If a Bear Market Is Coming, History Says These Stocks Could Be the Smartest to Own",
+   "summary": "Consumers don't stop buying vital products during bear markets, which is why healthcare and consumer staples stocks are smart investments.",
+   "url": "https://finnhub.io/api/news?id=cfe9e7dd9e4e4619e0a5663bdf9f315836d83fbd58004a27617f686037978a7b",
+   "source": "Yahoo",
+   "published": "2026-10-31T14:35:00+00:00",
+   "tickers": [
+    "MDT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
   {
    "id": "f78ef5ffb89b",
    "headline": "Robotics Stocks Diverge as Strong Earnings Meet Uneven Price Action",
@@ -53498,99 +53562,6 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "9ac49bc9fa29",
-   "headline": "Danaher Jumps 4% on Q3 Beat: \u201cImproving Trends\u201d Across Its End Markets",
-   "summary": "Danaher (DHR:NYSE) shares were up about 4% on Wednesday (trading at about $233) after the life sciences company beat third-quarter profit estimates and raised its full-year earnings guide. The stock opened about 3% lower before buyers\u2026",
-   "url": "https://finnhub.io/api/news?id=296696a576716342368cd8dd152f00d5eb169d7a0ac082110ed08d314f4eed98",
-   "source": "Yahoo",
-   "published": "2026-10-21T16:16:01+00:00",
-   "tickers": [
-    "DHR"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "51423e23fb96",
-   "headline": "Treasury Yields Are Near 5%. Should Retirees Rethink Dividend Stocks?",
-   "summary": "Short-term Treasurys now pay more than some beloved dividend stocks, which forces a question retirees rarely had to ask: do decades of consecutive raises still beat a government-backed yield you can lock in today?",
-   "url": "https://finnhub.io/api/news?id=3cce3cd2341193d4f670e5042978937e918074723880f9014bec97c161a89089",
-   "source": "Yahoo",
-   "published": "2026-10-21T16:15:39+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "c47bca37af89",
-   "headline": "What Elevance Health (ELV) Said on Its Q3 Earnings Call",
-   "summary": "Elevance Health (NYSE:ELV) raised its 2026 earnings outlook after reporting third-quarter adjusted diluted earnings per share of $6.99, exceeding the company\u2019s expectations as Medicaid, Medicare Advantage and Individual ACA businesses all\u2026",
-   "url": "https://finnhub.io/api/news?id=65a51a245e9ae1ebccb5e82f2fa947d23ab7fc3ff8d093ca2f531b01f2e14aed",
-   "source": "Yahoo",
-   "published": "2026-10-21T16:04:41+00:00",
-   "tickers": [
-    "ELV",
-    "UNH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "0ac1bdd427ec",
-   "headline": "What Integra LifeSciences (IART) Said on Its Q3 Earnings Call",
-   "summary": "Integra LifeSciences (NASDAQ:IART) reported third-quarter revenue at the low end of its guidance range as a flooding-related disruption at its Cincinnati facility and slower-than-expected Tissue Reconstruction performance weighed on\u2026",
-   "url": "https://finnhub.io/api/news?id=b2a8deb417fc1ca0d020091cc9cd945caef2ea0b079c17c6d398851251efae6f",
-   "source": "Yahoo",
-   "published": "2026-10-21T16:04:39+00:00",
-   "tickers": [
-    "IART"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "8affbf3de03f",
-   "headline": "GSK, Ionis win US approval for first-of-its-kind hepatitis B drug",
-   "summary": "Hibsago is viewed as a potential \u201cfunctional cure\u201d for chronic infections and an important part of the British drugmaker\u2019s goal of reaching \u00a340 billion in annual revenue by 2031.",
-   "url": "https://www.biopharmadive.com/news/gsk-ionis-fda-approve-hibsago-chronic-hepatitis-b-bepirovirsen/833541/",
-   "source": "BioPharma Dive",
-   "published": "2026-10-21T16:03:00+00:00",
-   "tickers": [
-    "GSK",
-    "IONS"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "biotech",
-    "pharma"
-   ]
-  },
-  {
-   "id": "7b3d69ddf595",
-   "headline": "GSK, Ionis win US approval for first-of-its-kind hepatitis B drug",
-   "summary": "Hibsago is viewed as a potential \u201cfunctional cure\u201d for chronic infections and an important part of the British drugmaker\u2019s goal of reaching \u00a340 billion in annual revenue by 2031.",
-   "url": "https://finnhub.io/api/news?id=f8dca6d0aca28051591554ff155dd63fd6a197ee3c31606f1fc95823a60666eb",
-   "source": "Yahoo",
-   "published": "2026-10-21T16:03:00+00:00",
-   "tickers": [
-    "IONS"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "biotech"
    ]
   }
  ]
