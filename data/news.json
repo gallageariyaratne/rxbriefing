@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-31T16:17:30.431859+00:00",
+ "updated": "2026-10-31T16:32:32.569834+00:00",
  "quotes": {
   "ABBV": {
    "price": 294.89,
@@ -65,6 +65,10 @@
   "CNC": {
    "price": 68.45,
    "change_pct": -0.25
+  },
+  "COR": {
+   "price": 330.84,
+   "change_pct": 0.09
   },
   "CRSP": {
    "price": 51.42,
@@ -169,10 +173,6 @@
   "MDT": {
    "price": 96.54,
    "change_pct": -0.59
-  },
-  "MEDP": {
-   "price": 652.01,
-   "change_pct": -3.77
   },
   "MRK": {
    "price": 149.52,
@@ -929,6 +929,21 @@
    ]
   },
   {
+   "id": "d09a5066aaf3",
+   "headline": "Roth IRA vs. Taxable Account: How Much of $17,985 in Blue-Chip Dividends Would You Keep?",
+   "summary": "A $600,000 portfolio spread across four blue-chip dividend legends generates a surprisingly large tax bill every year, and the difference between where you hold these shares could quietly reshape your retirement by tens of thousands of\u2026",
+   "url": "https://finnhub.io/api/news?id=b3300b2b5ca9187695455922441a2194bba4d47192236e91afd0b7f3d4f2526b",
+   "source": "Yahoo",
+   "published": "2026-10-31T15:01:16+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "7d466d2fb7bd",
    "headline": "AbbVie: 3 Key Takeaways for Long-Term Investors",
    "summary": "Newer therapies must sustain double-digit growth to offset the impact of Humira's patent cliff, a test that shapes the dividend's long-term safety.",
@@ -966,11 +981,27 @@
    "source": "Yahoo",
    "published": "2026-10-31T14:35:00+00:00",
    "tickers": [
+    "JNJ",
     "MDT"
    ],
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "ae65a8349c07",
+   "headline": "What Does Cencora (COR) Gain From Expanding Into 12 More States?",
+   "summary": "Cencora (NYSE: COR) agreed to acquire American Oncology Network to expand its community-based cancer care footprint. The deal broadens Cencora's physician practice management services into 12 additional states through American Oncology\u2026",
+   "url": "https://finnhub.io/api/news?id=4f737376cb7ce4d853476d42fbbcc8724ff21a38ee2c117ab9f578b732d68129",
+   "source": "Yahoo",
+   "published": "2026-10-31T14:15:09+00:00",
+   "tickers": [
+    "COR"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "pharmacy"
    ]
   },
   {
@@ -53386,182 +53417,6 @@
    "tag": "News",
    "sectors": [
     "medtech"
-   ]
-  },
-  {
-   "id": "96978df33575",
-   "headline": "St. Luke\u2019s Health System Selects hellocare.ai for Enterprise AI Assisted Virtual Care Deployment in Southern Idaho",
-   "summary": "Clearwater, FL \u2014 hellocare.ai, a leading provider of AI assisted virtual care and intelligent hospital room technology, today announced that St. Luke\u2019s Health System has selected hellocare.ai for an enterprise-wide utilization of AI\u2026",
-   "url": "https://www.fiercehealthcare.com/sponsored/st-lukes-health-system-selects-hellocareai-enterprise-ai-assisted-virtual",
-   "source": "Fierce Healthcare",
-   "published": "2026-10-21T16:30:27.467020+00:00",
-   "tickers": [],
-   "tag": "Health AI",
-   "sectors": []
-  },
-  {
-   "id": "914de881633d",
-   "headline": "Hologic snaps up Reveal Genomics to boost genomic diagnostic reach",
-   "summary": "Hologic is acquiring precision oncology company Reveal Genomics.",
-   "url": "https://www.fiercebiotech.com/medtech/hologic-snaps-reveal-genomics-boost-genomic-diagnostic-reach",
-   "source": "Fierce Biotech",
-   "published": "2026-10-21T16:30:27.144589+00:00",
-   "tickers": [
-    "HOLX"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "17eed9ee3457",
-   "headline": "If You Invested $100 In Eli Lilly Stock 20 Years Ago, You Would Have This Much Today",
-   "summary": "Eli Lilly (NYSE:LLY) has outperformed the market over the past 20 years by 7.86% on an annualized basis producing an average annual return of 16.86%. Currently, Eli Lilly has a market capitalization of $1.11 trillion.",
-   "url": "https://finnhub.io/api/news?id=b0d0a51c9c9044492c4ea5f46825e46e95d2231442a4ec21df7596c324ac6cd7",
-   "source": "Benzinga",
-   "published": "2026-10-21T16:30:26+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "3ae8e910c737",
-   "headline": "William Blair Expands Biotech Research as Veteran Analyst Alethia Young Initiates Coverage",
-   "summary": "CHICAGO, October 21, 2026--William Blair today announced that Alethia Young has initiated coverage of 13 biotechnology companies, marking the next step in the firm\u2019s continued expansion of its biotech offering.",
-   "url": "https://finnhub.io/api/news?id=52bd602c7561cc390fabf269da8d15d81870f2ee8564b541fc68073e7f871027",
-   "source": "Yahoo",
-   "published": "2026-10-21T16:30:00+00:00",
-   "tickers": [
-    "CYTK",
-    "RVMD"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "e95b166de608",
-   "headline": "IBD Stock Of The Day Tests New Buy Point As Indicators Suggest More Upside",
-   "summary": "Mizuho analysts raised its price target ahead of Cardinal Health's earnings. The stock is testing a buy point after topping another entry.",
-   "url": "https://finnhub.io/api/news?id=de043044c5e77bc3cc605f967a731ee593cddf2aaaae79b91181cd129b41a8b1",
-   "source": "Yahoo",
-   "published": "2026-10-21T16:25:18+00:00",
-   "tickers": [
-    "CAH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharmacy"
-   ]
-  },
-  {
-   "id": "88e5ca5500fd",
-   "headline": "How Long Can GeneDx Keep Burning Cash?",
-   "summary": "For questions about this article or underlying research, email help@trefis.com.",
-   "url": "https://finnhub.io/api/news?id=89bf5c39274320da7a621123c5e4f418707c223334e00fc84e80413d9347ed4a",
-   "source": "Yahoo",
-   "published": "2026-10-21T16:23:06+00:00",
-   "tickers": [
-    "DGX",
-    "ILMN",
-    "LH",
-    "NTRA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "7ee56795fee6",
-   "headline": "Hackensack Meridian, Hunterdon pen merger agreement",
-   "summary": "As part of the deal, which still needs to be approved by regulators, Hackensack will invest about $230 million to improve Hunterdon\u2019s facilities and roll out Epic\u2019s electronic health record.",
-   "url": "https://www.healthcaredive.com/news/hackensack-meridian-hunterdon-pen-merger-agreement/833610/",
-   "source": "Healthcare Dive",
-   "published": "2026-10-21T16:21:14+00:00",
-   "tickers": [],
-   "tag": "FDA",
-   "sectors": []
-  },
-  {
-   "id": "ab166ca017e3",
-   "headline": "Medpace Holdings Raises FY2026 GAAP EPS Guidance from $17.25-$17.95 to $17.97-$18.32 vs $17.60 Est; Narrows FY2026 Sales Guidance from $2.805B-$2.885B to $2.835B-$2.855B vs $2.851B Est",
-   "summary": "Medpace Holdings (NASDAQ:MEDP) raises FY2026 GAAP EPS guidance from $17.25-$17.95 to $17.97-$18.32 vs $17.60 analyst estimate. Narrows FY2026 sales outlook from $2.805 billion-$2.885 billion to $2.835 billion-$2.855",
-   "url": "https://finnhub.io/api/news?id=ba22b24d0b467108dee4dc3a6f25d4324bf75571693aec508f484edbe6c0d072",
-   "source": "Benzinga",
-   "published": "2026-10-21T16:19:09+00:00",
-   "tickers": [
-    "MEDP"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "7f24d07824ea",
-   "headline": "Medpace Hldgs Q3 EPS $4.84 Beats $4.44 Estimate, Sales $716.000M Beat $715.975M Estimate",
-   "summary": "Medpace Hldgs (NASDAQ:MEDP) reported quarterly earnings of $4.84 per share which beat the analyst consensus estimate of $4.44 by 9.01 percent. This is a 25.39 percent increase over earnings of $3.86 per share from the",
-   "url": "https://finnhub.io/api/news?id=30553a2c45f33c34433d4455e40ac194a7703000335a880bf81305c8a7f91eea",
-   "source": "Benzinga",
-   "published": "2026-10-21T16:17:43+00:00",
-   "tickers": [
-    "MEDP"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "27426f5aec88",
-   "headline": "Molina Healthcare FY2026 GAAP EPS expected to be more than $2.38 vs $2.43 Est",
-   "summary": "Molina Healthcare (NYSE:MOH) FY2026 expected to be more than $2.38 vs $2.43 Est..",
-   "url": "https://finnhub.io/api/news?id=d18c126e80b8f0cf1e265c8d90ed2d16e6ecbfa61ec1133b590a74eb99e40f97",
-   "source": "Benzinga",
-   "published": "2026-10-21T16:17:29+00:00",
-   "tickers": [
-    "MOH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "410cd5d3f110",
-   "headline": "Molina Healthcare FY2026 Adj EPS expected to be more than $5.25 vs $5.25 Est",
-   "summary": "Molina Healthcare (NYSE:MOH) FY2026 expected to be more than $5.25 vs $5.25 Est..",
-   "url": "https://finnhub.io/api/news?id=7faceab9a54ca45a26563decb3f3cac351b2bb58ea6faff53c835a36c0d73c08",
-   "source": "Benzinga",
-   "published": "2026-10-21T16:17:10+00:00",
-   "tickers": [
-    "MOH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "188628c13898",
-   "headline": "Molina Healthcare Q3 Adj. EPS $0.89 Beats $0.74 Estimate, Sales $11.082B Beat $10.808B Estimate",
-   "summary": "Molina Healthcare (NYSE:MOH) reported quarterly earnings of $0.89 per share which beat the analyst consensus estimate of $0.74 by 20.27 percent. This is a 51.63 percent decrease over earnings of $1.84 per share from the",
-   "url": "https://finnhub.io/api/news?id=6caaeb32af420b647fd23c57aa1804e1c336873487b39a29773870c16951f227",
-   "source": "Benzinga",
-   "published": "2026-10-21T16:16:45+00:00",
-   "tickers": [
-    "MOH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
    ]
   }
  ]
