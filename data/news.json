@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-31T15:47:25.760675+00:00",
+ "updated": "2026-10-31T16:02:29.560287+00:00",
  "quotes": {
   "ABBV": {
    "price": 294.89,
@@ -166,10 +166,6 @@
    "price": 1417.54,
    "change_pct": 3.19
   },
-  "MCK": {
-   "price": 994.58,
-   "change_pct": 1.4
-  },
   "MEDP": {
    "price": 652.01,
    "change_pct": -3.77
@@ -269,6 +265,10 @@
   "TMO": {
    "price": 697,
    "change_pct": -1.72
+  },
+  "TRXB": {
+   "price": 13.74,
+   "change_pct": 1.63
   },
   "UHS": {
    "price": 176.05,
@@ -1064,7 +1064,9 @@
    "published": "2026-10-31T11:00:00+00:00",
    "tickers": [
     "AMGN",
-    "PFE"
+    "MRNA",
+    "PFE",
+    "TRXB"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -53589,77 +53591,6 @@
    "tag": "FDA",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "65d2d7ed867e",
-   "headline": "Intuitive Surgical to Face Potential Risks in 2027 Procedure Momentum From Pricing Actions, RBC Says",
-   "summary": "Intuitive Surgical (ISRG) will face potential risks to its 2027 procedure momentum from pricing acti",
-   "url": "https://finnhub.io/api/news?id=d40f259e3e2c4896d265826e5389dc6556775e169be35addcc4a71a802d56b42",
-   "source": "Yahoo",
-   "published": "2026-10-21T16:00:41+00:00",
-   "tickers": [
-    "ISRG"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "3e8d7673f405",
-   "headline": "Cencora to acquire majority stake in $2.4B American Oncology Network",
-   "summary": "American Oncology Network spans 21 states and boasts more than 350 oncology providers, further adding to the oncology managed services organization Cencora already bolstered in a $5 billion deal last winter.",
-   "url": "https://www.fiercehealthcare.com/finance/cencora-acquire-majority-stake-24b-american-oncology-network",
-   "source": "Fierce Healthcare",
-   "published": "2026-10-21T16:00:28.831199+00:00",
-   "tickers": [
-    "COR"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "pharmacy"
-   ]
-  },
-  {
-   "id": "49fa10ee03ef",
-   "headline": "\u2018A two-way conversation with the tumor\u2019: Researchers use \u2018avatar\u2019 to predict immunotherapy responses",
-   "summary": "Researchers have explored a revolutionary way to predict a patient's response to immunotherapies by creating a tumor \u201cavatar\u201d from biopsies.",
-   "url": "https://www.fiercebiotech.com/research/using-tumor-avatars-predict-patient-immunotherapy-response",
-   "source": "Fierce Biotech",
-   "published": "2026-10-21T16:00:28.562180+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "35a7f87c9248",
-   "headline": "Highco: Q3 2026 Gross Profit",
-   "summary": "Aix-en-Provence, 21 October 2026 (6:00 p.m.) HIGHCO: BUSINESS GROWTH IN Q3 2026 IN LINE WITH EXPECTATIONS, WITH REPORTED GROSS PROFIT OF \u20ac19.16 M (UP 22.5%) AND \u20ac15.88 M LFL (UP 1.6%); 2026 GUIDANCE REFINED Rise in business activity in Q3\u2026",
-   "url": "https://finnhub.io/api/news?id=76778269a4bcce458ce5f8f283422d914b2dfa6ced0a486e7e2adb33beeb3c27",
-   "source": "Yahoo",
-   "published": "2026-10-21T16:00:00+00:00",
-   "tickers": [
-    "NVS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "e1622445a8d5",
-   "headline": "Intuitive Surgical: 3 Key Takeaways for Long-Term Investors",
-   "summary": "Resolving a major litigation settlement while expanding into cost-sensitive outpatient centers positions the company for sustained procedure growth.",
-   "url": "https://finnhub.io/api/news?id=97fc6635001902b73e8b03e2b05d1f780e61c0f485cd63dc109d8cff1cf9b9dc",
-   "source": "Yahoo",
-   "published": "2026-10-21T15:58:01+00:00",
-   "tickers": [
-    "ISRG"
-   ],
-   "tag": "Legal",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
