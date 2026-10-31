@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-31T00:47:44.142041+00:00",
+ "updated": "2026-10-31T01:02:59.125146+00:00",
  "quotes": {
   "A": {
    "price": 174.87,
@@ -90,6 +90,10 @@
    "price": 232.23,
    "change_pct": -2.0
   },
+  "DNLI": {
+   "price": 18.94,
+   "change_pct": -1.97
+  },
   "DOCS": {
    "price": 32.76,
    "change_pct": -2.59
@@ -165,6 +169,10 @@
   "INCY": {
    "price": 120.39,
    "change_pct": 3.07
+  },
+  "IONS": {
+   "price": 43.52,
+   "change_pct": -1.96
   },
   "IQV": {
    "price": 267.33,
@@ -274,6 +282,10 @@
    "price": 8.51,
    "change_pct": -2.52
   },
+  "TGTX": {
+   "price": 61.18,
+   "change_pct": 5.34
+  },
   "THC": {
    "price": 273.25,
    "change_pct": 0.99
@@ -309,10 +321,6 @@
   "ZBH": {
    "price": 94.52,
    "change_pct": -3.03
-  },
-  "ZTS": {
-   "price": 79.72,
-   "change_pct": 1.17
   }
  },
  "tickers": {
@@ -930,6 +938,21 @@
  },
  "stories": [
   {
+   "id": "2bdc6a3c1831",
+   "headline": "What Eli Lilly and Company (LLY) Said on Its Q3 Earnings Call",
+   "summary": "Eli Lilly and Company (NYSE:LLY) raised its full-year outlook after reporting third-quarter revenue growth of 39% from the prior-year period, driven primarily by demand for its Mounjaro and Zepbound incretin medicines and continued growth\u2026",
+   "url": "https://finnhub.io/api/news?id=204c00c29209eda6d7803d9bcaad78db052ba525e03d96b1a2bbd8eac0291ba2",
+   "source": "Yahoo",
+   "published": "2026-10-30T23:17:32+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "29027e1b0f94",
    "headline": "Fierce Healthcare Policy Brief: HHS launches breast cancer screening initiative; RHTP funds flow to 6 states",
    "summary": "The latest news from CMS and HHS this week: White House aims to improve breast cancer screening and early detection, PBM transparency rule finalized and six states receive RHTP funding.",
@@ -983,6 +1006,21 @@
    "tag": "Analyst",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "e9b8ffc303b6",
+   "headline": "Novo Nordisk (NYSE:NVO) Could Be 61% Undervalued Following Rising GLP 1 Competition",
+   "summary": "Eli Lilly trial data showing retatrutide outperforming Ozempic has sharpened the competitive focus on Novo Nordisk (NYSE:NVO), just as the Danish drugmaker outlines longer term 2030 goals. Novo Nordisk\u2019s share price has reacted sharply to\u2026",
+   "url": "https://finnhub.io/api/news?id=2fb3b6530788aeb9705395fbc3730bcb5d6484a2a27f25d38ae8ae2f108f9a4e",
+   "source": "Yahoo",
+   "published": "2026-10-30T22:14:13+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1514,6 +1552,21 @@
    "sectors": []
   },
   {
+   "id": "dce1e8cab593",
+   "headline": "TG Therapeutics Is Up 98%, But The Story Isn't Finished",
+   "summary": "One concrete shift for TG Therapeutics this year was the push to simplify and broaden BRIUMVI use, from single 600 mg Day 1 infusions in relapsing multiple sclerosis to new trials in conditions like myasthenia gravis and\u2026",
+   "url": "https://finnhub.io/api/news?id=9a53f347a7b6e29d184ad7d979ebc1f174ca9d48c3b806936b36a62d3de1b4ef",
+   "source": "Yahoo",
+   "published": "2026-10-30T18:11:00+00:00",
+   "tickers": [
+    "TGTX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "a587cf20b7ff",
    "headline": "Alignment Healthcare lowers 2026 outlook as it navigates cost headwinds",
    "summary": "Alignment Healthcare is lowering its guidance for the year as it faces significant headwinds to finish out 2026.",
@@ -1538,6 +1591,21 @@
    "tickers": [],
    "tag": "Policy",
    "sectors": []
+  },
+  {
+   "id": "4a6ed2bce9cd",
+   "headline": "TGTX Stock Hits Fresh 52-Week High Ahead Of Earnings Amid Buyout Buzz",
+   "summary": "Investors are now focused on the company\u2019s projected third-quarter 2026 results, estimated for Monday, November 2.",
+   "url": "https://finnhub.io/api/news?id=df4989be2673cf136ff2fda969416e61192fefee6c6e1b444f211ad9d8b71461",
+   "source": "Yahoo",
+   "published": "2026-10-30T18:00:33+00:00",
+   "tickers": [
+    "TGTX"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "biotech"
+   ]
   },
   {
    "id": "153800866ce0",
@@ -1600,6 +1668,21 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "bd81c41f5a20",
+   "headline": "CareDx Soars 20% on Big Q3 Beat and Guidance Raise",
+   "summary": "Key TakeawaysCareDx shares jumped 20% after third-quarter revenue rose 39% to $139 million and the company raised its 2026 revenue guidance to $520 million to $530 million. About $15 million of the quarter\u2019s revenue came from tests run in\u2026",
+   "url": "https://finnhub.io/api/news?id=68e9bff834dbed1b9256cc454486ea783f59343499d5a381004024b521cd4239",
+   "source": "Yahoo",
+   "published": "2026-10-30T17:39:28+00:00",
+   "tickers": [
+    "NTRA"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -1702,6 +1785,7 @@
     "ALNY",
     "BIIB",
     "GILD",
+    "IONS",
     "REGN",
     "VRTX"
    ],
@@ -1978,6 +2062,21 @@
    ]
   },
   {
+   "id": "99cce704eee1",
+   "headline": "Medicilon Presents Revolution Medicines with the \"Excellence in Client Partnership Award\"",
+   "summary": "Dr. Yang Liu, Director of Medicinal Chemistry at Revolution Medicines, Inc., and Dr. Kristof Pota, Senior Scientist, visited Medicilon's Nanhui R&D Center. Dr. Maosheng Duan, President of Medicilon's Drug Discovery and Pharmaceutical\u2026",
+   "url": "https://finnhub.io/api/news?id=c90466759bc83b16cc666a73e4b8c4db945b9c3c47f4b1c426ea20c422c9fd32",
+   "source": "Yahoo",
+   "published": "2026-10-30T16:00:00+00:00",
+   "tickers": [
+    "RVMD"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "ac1a92fdc3fb",
    "headline": "AbbVie Lifts 2026 Outlook as Immunology, Neuroscience Quarterly Sales Beat Views",
    "summary": "AbbVie (ABBV) raised its 2026 guidance on Friday as the biopharmaceutical company's immunology and n",
@@ -2112,6 +2211,21 @@
    "tag": "Legal",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "a678be3c6bf1",
+   "headline": "When The Stock Market Is Choppy, It Pays To Watch This Technical Setup",
+   "summary": "Numerous stock market leaders have delivered big gains from the ascending base chart pattern throughout market history.",
+   "url": "https://finnhub.io/api/news?id=e2a80864f9f81a554ec8eb987d66cc7cf4e405de2705298d098a6ea190408cdc",
+   "source": "Yahoo",
+   "published": "2026-10-30T15:43:10+00:00",
+   "tickers": [
+    "NTRA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -2750,7 +2864,8 @@
    "source": "Yahoo",
    "published": "2026-10-30T14:31:00+00:00",
    "tickers": [
-    "DGX"
+    "DGX",
+    "NTRA"
    ],
    "tag": "Health AI",
    "sectors": [
@@ -3018,7 +3133,8 @@
    "source": "Yahoo",
    "published": "2026-10-30T14:05:00+00:00",
    "tickers": [
-    "GILD"
+    "GILD",
+    "TGTX"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -3050,6 +3166,7 @@
    "published": "2026-10-30T14:01:30+00:00",
    "tickers": [
     "ILMN",
+    "NTRA",
     "TMO"
    ],
    "tag": "Earnings",
@@ -3311,6 +3428,36 @@
    ]
   },
   {
+   "id": "f220adea8b6f",
+   "headline": "Denali Therapeutics Receives 2026 Prix Galien USA Award for AVLAYAH\u00ae (tividenofusp alfa-eknm) as Best Biotechnology Product",
+   "summary": "First FDA-approved biologic specifically designed to cross blood-brain barrier wins award dedicated to exceptional scientific leadership and transformational impact on patient careFirst new FDA-approved treatment option in nearly 20 years\u2026",
+   "url": "https://finnhub.io/api/news?id=e2e1b5e836a658bb8526f01248f23cb6ede8b7feb02c15da9f6b4992c9a44974",
+   "source": "Yahoo",
+   "published": "2026-10-30T13:30:00+00:00",
+   "tickers": [
+    "DNLI"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "57eeaa94ba79",
+   "headline": "INSM Q3 Earnings Miss, Stock Soars on Sales Beat & Raised Guidance",
+   "summary": "Insmed's third-quarter revenues surge 268%, fueled by strong Brinsupri sales, prompting a 15% stock rally and higher 2026 sales guidance.",
+   "url": "https://finnhub.io/api/news?id=e6f0c23344574f70fad22fd337afc71a08f53cd59e1e81da0ea7bb66330bf9be",
+   "source": "Yahoo",
+   "published": "2026-10-30T13:29:00+00:00",
+   "tickers": [
+    "TGTX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "8b2d3d1c5d85",
    "headline": "Illumina Crashes As Tariffs, AI Woes Eat Into 157% Run-Up",
    "summary": "Illumina stock crashed Friday, despite beating third-quarter expectations, on tariff confusion and a shaky backdrop for AI-tied tech names.",
@@ -3412,7 +3559,8 @@
    "source": "Yahoo",
    "published": "2026-10-30T13:14:00+00:00",
    "tickers": [
-    "EW"
+    "EW",
+    "TGTX"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -55602,25 +55750,6 @@
     "VKTX"
    ],
    "tag": "GLP-1",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "0356c788fda4",
-   "headline": "Why Should You Think About Vertex Differently Now?",
-   "summary": "Vertex Pharmaceuticals (VRTX) stock trades at 28.9 times earnings, compared with 22.9 for the S&P 500, a price at which buyers appear to expect its growth to last. Before paying that price, you want to know what you own, and the company's\u2026",
-   "url": "https://finnhub.io/api/news?id=30f63c6b342f081d573a977ff03988b6c8ab2d7237b1dd6dd44ca651ef06d703",
-   "source": "Yahoo",
-   "published": "2026-10-21T00:56:12+00:00",
-   "tickers": [
-    "ALNY",
-    "BMRN",
-    "INCY",
-    "REGN",
-    "VRTX"
-   ],
-   "tag": "Earnings",
    "sectors": [
     "pharma"
    ]
