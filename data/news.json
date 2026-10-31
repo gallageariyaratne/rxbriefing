@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-31T10:47:27.167593+00:00",
+ "updated": "2026-10-31T11:02:44.471787+00:00",
  "quotes": {
   "A": {
    "price": 174.87,
@@ -73,10 +73,6 @@
   "BSX": {
    "price": 41.98,
    "change_pct": -1.66
-  },
-  "CAH": {
-   "price": 250.48,
-   "change_pct": -0.24
   },
   "CERT": {
    "price": 11.02,
@@ -182,10 +178,6 @@
    "price": 27.68,
    "change_pct": -6.71
   },
-  "HSIC": {
-   "price": 84.88,
-   "change_pct": -1.8
-  },
   "HUM": {
    "price": 414.5,
    "change_pct": -0.73
@@ -286,10 +278,6 @@
    "price": 30.37,
    "change_pct": -1.36
   },
-  "PACB": {
-   "price": 2.6,
-   "change_pct": -10.17
-  },
   "PFE": {
    "price": 30.52,
    "change_pct": 1.9
@@ -321,6 +309,18 @@
   "RVMD": {
    "price": 191.31,
    "change_pct": 0.55
+  },
+  "RXRX": {
+   "price": 4.03,
+   "change_pct": -4.95
+  },
+  "SMMT": {
+   "price": 16.03,
+   "change_pct": -1.05
+  },
+  "SNY": {
+   "price": 44.34,
+   "change_pct": 2.81
   }
  },
  "tickers": {
@@ -938,6 +938,17 @@
  },
  "stories": [
   {
+   "id": "fc7224585a4d",
+   "headline": "STAT+: What are the health stakes of the midterms? Policymakers, lobbyists, and experts weigh in",
+   "summary": "No matter what happens on Election Day, the midterms will have sweeping implications for American health care. More than two dozen experts on what could come next.",
+   "url": "https://www.statnews.com/2026/10/31/midterm-election-tipping-point-healthcare-policy/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-10-31T11:00:00+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
    "id": "0b6bd8238cd3",
    "headline": "Regeneron (REGN) stock trades up, here is why",
    "summary": "Shares of biotech company Regeneron (NASDAQ:REGN) jumped 11.5% in the afternoon session after the company reported a 36% increase in third-quarter 2026 revenue to $5.1 billion, alongside a 70% rise in non-GAAP diluted earnings per share\u2026",
@@ -950,6 +961,37 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "2a90d297c39c",
+   "headline": "How Investors Are Reacting To Moderna Stock Phase 3 Melanoma Vaccine Data",
+   "summary": "Merck and Moderna reported Phase 3 data from the INTerpath-001 trial in resected high-risk melanoma, where personalized mRNA therapy intismeran autogene plus KEYTRUDA reduced the risk of recurrence or death by 42% and distant metastasis\u2026",
+   "url": "https://finnhub.io/api/news?id=4c695ea2f3013ef9057b6494557af575c231b7b60627bdcd91748f09c3a86e7b",
+   "source": "Yahoo",
+   "published": "2026-10-31T09:14:53+00:00",
+   "tickers": [
+    "MRK",
+    "MRNA"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "18c4189087df",
+   "headline": "IDEXX Laboratories (IDXX) Stock Looks Fairly Valued Despite Its 28% Run",
+   "summary": "IDEXX Laboratories has delivered a 28.4% gain over the past three years, yet its recent share price swings and shifting expectations now put the spotlight squarely on one question. Are the cash flows that this veterinary diagnostics\u2026",
+   "url": "https://finnhub.io/api/news?id=a2420a7ce7ae68cefa2da10df3c5be36646ea55cbe4f91d30cb1f53e6b1f7250",
+   "source": "Yahoo",
+   "published": "2026-10-31T09:14:12+00:00",
+   "tickers": [
+    "IDXX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -54835,212 +54877,6 @@
    "tag": "Analyst",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "151b821abbef",
-   "headline": "AbbVie reaches agreement with the pan-Canadian Pharmaceutical Alliance (pCPA) for ELAHERE\u00ae in Platinum-Resistant Ovarian Cancer",
-   "summary": "AbbVie is pleased to announce that negotiations with the pan-Canadian Pharmaceutical Alliance (pCPA) have successfully been completed for ELAHERE\u00ae (mirvetuximab soravtansine for injection), and that a Letter of Intent (LOI) has been\u2026",
-   "url": "https://finnhub.io/api/news?id=20443806c3227bceafb1e7d2c31cb7717d5c026d5f075cc268794c51ac7a358a",
-   "source": "Yahoo",
-   "published": "2026-10-21T11:01:00+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "d3a13fb48968",
-   "headline": "Cyclicals Top Sectors In Wednesday Trading As Defensives Trail",
-   "summary": "Five sectors are higher and six are lower in Wednesday\u2019s regular session, with cyclical sectors holding two of the top three positions alongside Technology. The leaders are separated rather than clustered, with no single gap clearly\u2026",
-   "url": "https://finnhub.io/api/news?id=72ec799b62eba6edcc9f3e7f04cc4da801cbd0327eecf4bb3f34e9267a270cee",
-   "source": "Benzinga",
-   "published": "2026-10-21T11:00:39+00:00",
-   "tickers": [
-    "ABBV",
-    "JNJ",
-    "LLY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "25d7f62c91f3",
-   "headline": "GSK brings promise of 'functional cure' to hepatitis B finish line with FDA nod for Hibsago",
-   "summary": "With the FDA\u2019s green light in hepatitis B, GSK and its Ionis-licensed medicine bepirovirsen have racked up several notable distinctions, bringing the antisense oligonucleotide class to bear against the virus for the first time alongside\u2026",
-   "url": "https://www.fiercepharma.com/pharma/gsk-brings-promise-functional-cure-hepatitis-b-finish-line-fda-nod-hibsago",
-   "source": "Fierce Pharma",
-   "published": "2026-10-21T11:00:28.114548+00:00",
-   "tickers": [
-    "GSK",
-    "IONS"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "biotech",
-    "pharma"
-   ]
-  },
-  {
-   "id": "6db5a1e1d0f9",
-   "headline": "Here\u2019s How Much You Would Have Made Owning Cencora Stock In The Last 5 Years",
-   "summary": "Cencora (NYSE:COR) has outperformed the market over the past 5 years by 11.54% on an annualized basis producing an average annual return of 22.6%. Currently, Cencora has a market capitalization of $64.88 billion.",
-   "url": "https://finnhub.io/api/news?id=e0799ecb30e654d79a1f9daad18b0234596ebe9e59a6e5388de6a1932922a262",
-   "source": "Benzinga",
-   "published": "2026-10-21T11:00:24+00:00",
-   "tickers": [
-    "COR"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharmacy"
-   ]
-  },
-  {
-   "id": "15da54032fff",
-   "headline": "Roivant and Priovant Announce Positive Results in CLARITY-1 and CLARITY-2 Phase 3 Trials for Brepocitinib in Non-Infectious Uveitis (NIU)",
-   "summary": "Brepocitinib 45 mg once-daily achieved statistically significant benefit compared to placebo on the primary and all key secondary endpoints for each of CLARITY-1 and CLARITY-2, the two identical Phase 3 trials comprising the CLARITY\u2026",
-   "url": "https://finnhub.io/api/news?id=ae3b55ee120d35b04a5bd7114d678745705d5bd8bb53f075571c21ac93ba043a",
-   "source": "Yahoo",
-   "published": "2026-10-21T11:00:00+00:00",
-   "tickers": [
-    "ROIV"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "bb8ff7042cb6",
-   "headline": "Immunovant to Report Financial Results for the Second Fiscal Quarter Ended September 30, 2026, and Provide Business Update on Monday, November 9, 2026",
-   "summary": "DURHAM, N.C., Oct. 21, 2026 (GLOBE NEWSWIRE) -- Immunovant, Inc. (Nasdaq: IMVT) today announced that it will report its financial results for the second fiscal quarter ended September 30, 2026 on Monday, November 9, 2026 before the market\u2026",
-   "url": "https://finnhub.io/api/news?id=518008bfb64de24523d1f37a32a9e60a72439d4826fde686c90405d4f8361c85",
-   "source": "Yahoo",
-   "published": "2026-10-21T11:00:00+00:00",
-   "tickers": [
-    "IMVT",
-    "ROIV"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "30c20a237de4",
-   "headline": "Roivant to Report Financial Results for the Second Quarter Ended September 30, 2026, and Provide Business Update on Monday, November 9, 2026",
-   "summary": "BASEL, Switzerland and LONDON and NEW YORK, Oct. 21, 2026 (GLOBE NEWSWIRE) -- Roivant (Nasdaq: ROIV) today announced that it will host a live conference call and webcast at 8:00 a.m. ET on Monday, November 9, 2026, to report its financial\u2026",
-   "url": "https://finnhub.io/api/news?id=bcefca906363e9adb822a7c5e66baba854d76904a59ba7d56f837cc120920cdd",
-   "source": "Yahoo",
-   "published": "2026-10-21T11:00:00+00:00",
-   "tickers": [
-    "ROIV"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "d48618edd101",
-   "headline": "United Therapeutics Corporation to Report Third Quarter 2026 Financial Results Before Market Open on Wednesday, November 4, 2026",
-   "summary": "SILVER SPRING, Md. & RESEARCH TRIANGLE PARK, N.C., October 21, 2026--United Therapeutics Corporation (Nasdaq: UTHR) announced today that it will report its third quarter 2026 financial results in a press release that will be issued on\u2026",
-   "url": "https://finnhub.io/api/news?id=59d8a320dd4e672c40c8c94200685bdc82345e7cf11bdc97738d77976ac5546b",
-   "source": "Yahoo",
-   "published": "2026-10-21T11:00:00+00:00",
-   "tickers": [
-    "UTHR"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "ea8a6687f497",
-   "headline": "Bet on This New GLP-1 ETF to Gain Exposure to a Booming Market",
-   "summary": "GLP-1 drugs are fueling a booming peptide market. Can the new PEPT ETF capitalize on rising demand and expanding medical applications?",
-   "url": "https://finnhub.io/api/news?id=5c391d659b25ffd6b711ccadf5ad58a9dc0b8c96354337b9dcecaafc75fa8bd3",
-   "source": "Yahoo",
-   "published": "2026-10-21T11:00:00+00:00",
-   "tickers": [
-    "ASND",
-    "LLY",
-    "NVO"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "ab2264a72187",
-   "headline": "TD Cowen Maintains Buy on Incyte, Raises Price Target to $140",
-   "summary": "TD Cowen analyst Tara Bancroft maintains Incyte (NASDAQ:INCY) with a Buy and raises the price target from $138 to $140.",
-   "url": "https://finnhub.io/api/news?id=5eeeaba459ae3d16fd16969b9f569f2fb30e022b5f8afd6df5aef06b51d13d94",
-   "source": "Benzinga",
-   "published": "2026-10-21T10:57:38+00:00",
-   "tickers": [
-    "INCY"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "cbd9ee3b5eeb",
-   "headline": "Meta, Tesla On Deck Wednesday As AI Spending, Auto Demand Face Test",
-   "summary": "Meta Platforms and Tesla headline Wednesday\u2019s reports, with investors focused on whether AI investment can keep driving growth while Tesla\u2019s core auto business weakens. Philip Morris International, Thermo Fisher",
-   "url": "https://finnhub.io/api/news?id=0525866144638cbf100085dcc0a4ee68a96516d61352555e3f65b08a322853ae",
-   "source": "Benzinga",
-   "published": "2026-10-21T10:53:48+00:00",
-   "tickers": [
-    "ABT",
-    "DHR",
-    "ELV",
-    "MEDP",
-    "TMO"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "ececf5e96c07",
-   "headline": "Labcorp Declares Quarterly Dividend",
-   "summary": "BURLINGTON, N.C., Oct. 21, 2026 /PRNewswire/ -- Labcorp Holdings Inc. (NYSE: LH), a global leader of innovative and comprehensive laboratory services, announced today that its Board of Directors has declared a cash dividend of $0.72 per\u2026",
-   "url": "https://www.prnewswire.com/news-releases/labcorp-declares-quarterly-dividend-302914707.html",
-   "source": "PR Newswire",
-   "published": "2026-10-21T10:50:00+00:00",
-   "tickers": [
-    "LH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "125e89377804",
-   "headline": "Labcorp Declares Quarterly Dividend",
-   "summary": "Labcorp Holdings Inc. (NYSE: LH), a global leader of innovative and comprehensive laboratory services, announced today that its Board of Directors has declared a cash dividend of $0.72 per share of common stock. The dividend will be\u2026",
-   "url": "https://finnhub.io/api/news?id=dbb6390badd355f0945cafbb1685136d2a32e19718f49f8103d379dd19208a77",
-   "source": "Yahoo",
-   "published": "2026-10-21T10:50:00+00:00",
-   "tickers": [
-    "LH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
    ]
   }
  ]
