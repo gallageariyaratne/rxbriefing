@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-31T13:02:42.887991+00:00",
+ "updated": "2026-10-31T13:17:38.882415+00:00",
  "quotes": {
   "A": {
    "price": 174.87,
@@ -45,10 +45,6 @@
   "BDX": {
    "price": 197.88,
    "change_pct": -0.23
-  },
-  "BEAM": {
-   "price": 27.23,
-   "change_pct": -5.58
   },
   "BIIB": {
    "price": 253.62,
@@ -117,10 +113,6 @@
   "ENSG": {
    "price": 181.52,
    "change_pct": -2.58
-  },
-  "EW": {
-   "price": 92.01,
-   "change_pct": -2.57
   },
   "EXEL": {
    "price": 69.39,
@@ -234,10 +226,6 @@
    "price": 160.79,
    "change_pct": -0.19
   },
-  "OMCL": {
-   "price": 36.65,
-   "change_pct": -0.62
-  },
   "OPCH": {
    "price": 31.83,
    "change_pct": -0.06
@@ -321,6 +309,18 @@
   "TMO": {
    "price": 697,
    "change_pct": -1.72
+  },
+  "UHS": {
+   "price": 176.05,
+   "change_pct": -0.32
+  },
+  "UNH": {
+   "price": 406.97,
+   "change_pct": -0.96
+  },
+  "UTHR": {
+   "price": 598.72,
+   "change_pct": 0.87
   }
  },
  "tickers": {
@@ -946,6 +946,21 @@
    "published": "2026-10-31T11:31:02+00:00",
    "tickers": [
     "GILD"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "6a48d80efc1c",
+   "headline": "Regeneron Pharmaceuticals (REGN) Jumped, But What Is The Market Seeing Now?",
+   "summary": "Regeneron Pharmaceuticals (REGN) moved sharply after reporting third quarter 2026 results, with revenue of US$5.12b and net income of US$1.95b, along with stronger non GAAP earnings and record contributions from Dupixent, EYLEA HD and\u2026",
+   "url": "https://finnhub.io/api/news?id=70cdf6414d72940d1e9aad0b5fc90a14ccb7a61044fe63f2194b412b4ff4866f",
+   "source": "Yahoo",
+   "published": "2026-10-31T11:08:17+00:00",
+   "tickers": [
+    "REGN"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -53349,217 +53364,6 @@
    "sectors": [
     "medtech"
    ]
-  },
-  {
-   "id": "0cf183ade474",
-   "headline": "Natera Partners With TransCode to Advance Colorectal Cancer Trial",
-   "summary": "NTRA partners with TransCode Therapeutics to use Signatera MRD testing in a Phase 2a colorectal cancer trial, aiming to accelerate enrollment and research.",
-   "url": "https://finnhub.io/api/news?id=0513d036fc88aa48928a4181dd5a8ba8a4b5df98b256a3d4b7cb17a0f788195e",
-   "source": "Yahoo",
-   "published": "2026-10-21T13:16:00+00:00",
-   "tickers": [
-    "GH",
-    "LH",
-    "NTRA",
-    "TEM"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "abd121f64499",
-   "headline": "Abbott Labs\u2019 (ABT) Solid Financial Beat Signals Long EPS Growth and Dividend Safety",
-   "summary": "Longleaf Partners, managed by Southeastern Asset Management, released its third-quarter 2026 investor letter for its \u201cPartners Fund\u201d. The letter can be downloaded here. Coming into this year, the Fund\u2019s three-year annualized returns were\u2026",
-   "url": "https://finnhub.io/api/news?id=0b09ede1ba430c22e2a191229d10253ef18ea59aaf14f167e16fd121825c25e8",
-   "source": "Yahoo",
-   "published": "2026-10-21T13:15:23+00:00",
-   "tickers": [
-    "ABT"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "bec7b460e4a8",
-   "headline": "Illumina BioInsight Platform expands with new software to accelerate the path from sequencing to discovery",
-   "summary": "DRAGEN Ultra, BioInsight Platform Workflow Orchestrator, and BioInsight Platform Learning Cohorts are now available in early access, incorporating new AI-driven approaches to analysis, automation, and discovery The tools automate\u2026",
-   "url": "https://www.prnewswire.com/news-releases/illumina-bioinsight-platform-expands-with-new-software-to-accelerate-the-path-from-sequencing-to-discovery-302914943.html",
-   "source": "PR Newswire",
-   "published": "2026-10-21T13:15:00+00:00",
-   "tickers": [
-    "ILMN"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "10c74f164f0b",
-   "headline": "Illumina BioInsight Platform expands with new software to accelerate the path from sequencing to discovery",
-   "summary": "Illumina, Inc. (NASDAQ: ILMN) today introduced three early-access capabilities on its BioInsight Platform that help researchers move faster from sequencing data to discovery. BioInsight Platform Workflow Orchestrator enables laboratories\u2026",
-   "url": "https://finnhub.io/api/news?id=dbb5edccf421f6d4cc921532ba36bf5ecbf51e57f4a05108124686ea054aff69",
-   "source": "Yahoo",
-   "published": "2026-10-21T13:15:00+00:00",
-   "tickers": [
-    "ILMN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "af164d6711ee",
-   "headline": "Why Is Roivant Sciences Stock Surging Wednesday?",
-   "summary": "Roivant (ROIV) shares jump as Phase 3 CLARITY trials show brepocitinib effectively treats noninfectious uveitis & reduces steroid reliance.",
-   "url": "https://finnhub.io/api/news?id=2ef5949dd45f7242c83d751b686a5157c99620fdbb85b2cefb9cbfd312b7eab9",
-   "source": "Benzinga",
-   "published": "2026-10-21T13:14:50+00:00",
-   "tickers": [
-    "ROIV"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "036718fcc055",
-   "headline": "St. Luke\u2019s Health System Selects hellocare.ai for Enterprise AI Assisted Virtual Care Deployment in Southern Idaho",
-   "summary": "Clearwater, FL \u2014 hellocare.ai, a leading provider of AI assisted virtual care and intelligent hospital room technology, today announced that St. Luke\u2019s Health System has selected hellocare.ai for an enterprise-wide utilization of AI\u2026",
-   "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/st-lukes-health-system-selects-hellocareai-enterprise-ai-assisted-virtual",
-   "source": "Fierce Healthcare",
-   "published": "2026-10-21T13:13:43.320950+00:00",
-   "tickers": [],
-   "tag": "Health AI",
-   "sectors": []
-  },
-  {
-   "id": "090730d2d214",
-   "headline": "Abbott to Carve Out Nutrition Business Into Independent Company",
-   "summary": "Abbott plans to separate its nutrition business into an independent company, which is set to house electrolyte-beverage brand Pedialyte, as well as infant-formula brand Similac, with about $8.5 billion in annual sales.",
-   "url": "https://finnhub.io/api/news?id=5909c8bd044a04872946aaedd8eb9549e368d30641de3aedddf0c9d7c4061813",
-   "source": "Yahoo",
-   "published": "2026-10-21T13:10:00+00:00",
-   "tickers": [
-    "ABT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "cf7a9397925e",
-   "headline": "Centene, Oscar, UnitedHealthcare sidle into some new counties in 2027 ACA plans",
-   "summary": "The major insurers are entering new Affordable Care Act markets as others are leaving the exchanges en masse, though in the cases of Centene and UnitedHealthcare, they paper over larger state exits.",
-   "url": "https://www.healthcaredive.com/news/centene-oscar-unitedhealthcare-new-counties-aca-2027/833442/",
-   "source": "Healthcare Dive",
-   "published": "2026-10-21T13:09:58+00:00",
-   "tickers": [
-    "CNC"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "d88581dd91df",
-   "headline": "Centene, Oscar, UnitedHealthcare sidle into some new counties in 2027 ACA plans",
-   "summary": "The major insurers are entering new Affordable Care Act markets as others are leaving the exchanges en masse, though in the cases of Centene and UnitedHealthcare, they paper over larger state exits.",
-   "url": "https://finnhub.io/api/news?id=d2864890f3326e15445239af0c9896984676eb742b5ad8585c1f44d6d866e081",
-   "source": "Yahoo",
-   "published": "2026-10-21T13:09:58+00:00",
-   "tickers": [
-    "CNC",
-    "OSCR"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "fbf05d94f693",
-   "headline": "Roivant Sciences stock surges on positive uveitis trial data",
-   "summary": "Investing.com -- Roivant Sciences Ltd (NASDAQ:ROIV) shares jumped 9% in premarket trading Wednesday after the company announced brepocitinib met all Phase 3 endpoints in trials for non-infectious uveitis.",
-   "url": "https://finnhub.io/api/news?id=690bf2db55e166512119630a539efbdfbd9ef15e7e529083e3f5a20abd50b024",
-   "source": "Yahoo",
-   "published": "2026-10-21T13:09:35+00:00",
-   "tickers": [
-    "ROIV"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "4c72ef4fdea8",
-   "headline": "Michael Monson Joins Upside's Executive Advisory Board",
-   "summary": "The former Altarum CEO and Centene Medicaid executive will advise Upside on dual eligibles, long-term services and supports (LTSS), and the health plans serving the country's most complex populations. FORT LAUDERDALE, Fla., Oct. 21, 2026\u2026",
-   "url": "https://www.prnewswire.com/news-releases/michael-monson-joins-upsides-executive-advisory-board-302915086.html",
-   "source": "PR Newswire",
-   "published": "2026-10-21T13:04:00+00:00",
-   "tickers": [
-    "CNC"
-   ],
-   "tag": "Policy",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "06a77f9d7f79",
-   "headline": "Thermo Fisher posts higher third-quarter revenue and earnings as margins improve",
-   "summary": "Thermo Fisher Scientific Inc (NYSE:TMO, XETRA:TN8) increased third-quarter revenue by 9% to $12.14 billion, while adjusted earnings per share rose 15% to $6.68. Revenue for the three months ended September 2026 increased from $11.12\u2026",
-   "url": "https://finnhub.io/api/news?id=b1a99d47e41c9261b60a0e4a223a4461f724e18a470a7fa27fd061dddded04e1",
-   "source": "Yahoo",
-   "published": "2026-10-21T13:04:00+00:00",
-   "tickers": [
-    "TMO"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "4f0391e1e586",
-   "headline": "SpaceX Jumps 10%, Nasdaq 100 Rises as AI Trade Returns: Stock Market Today",
-   "summary": "SpaceX's blowout third quarter and Super Micro's guidance hike revive the AI trade, lifting the Nasdaq 100 as Netflix and AT&T slide on results.",
-   "url": "https://finnhub.io/api/news?id=40a002bac31f89e89aeb12faf4369cb5c13b8e81859c5403ce5c45d49494b244",
-   "source": "Benzinga",
-   "published": "2026-10-21T13:02:19+00:00",
-   "tickers": [
-    "ABT",
-    "BRKR",
-    "CRL",
-    "DXCM",
-    "ILMN",
-    "MEDP"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "5d99626611af",
-   "headline": "Gen AI policy is a White House priority, CDRH digital health leader says",
-   "summary": "Rick Abramson, director of the FDA\u2019s Digital Health Center of Excellence, said to expect draft guidance in the coming months.",
-   "url": "https://www.medtechdive.com/news/gen-ai-policy-is-a-white-house-priority-cdrh-digital-health-leader-says/833551/",
-   "source": "MedTech Dive",
-   "published": "2026-10-21T13:02:00+00:00",
-   "tickers": [],
-   "tag": "FDA",
-   "sectors": []
   }
  ]
 }
