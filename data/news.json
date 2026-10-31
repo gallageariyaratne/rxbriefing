@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-31T01:47:31.148938+00:00",
+ "updated": "2026-10-31T02:02:37.136013+00:00",
  "quotes": {
   "A": {
    "price": 174.87,
@@ -33,6 +33,10 @@
   "AMGN": {
    "price": 466.01,
    "change_pct": 1.15
+  },
+  "AMWL": {
+   "price": 12.73,
+   "change_pct": -15.02
   },
   "ARGX": {
    "price": 892.87,
@@ -90,6 +94,10 @@
    "price": 359.41,
    "change_pct": -4.44
   },
+  "CRSP": {
+   "price": 51.42,
+   "change_pct": -5.23
+  },
   "CVS": {
    "price": 90.25,
    "change_pct": -0.09
@@ -141,10 +149,6 @@
   "GILD": {
    "price": 170.68,
    "change_pct": 3.06
-  },
-  "GKOS": {
-   "price": 237.6,
-   "change_pct": -2.01
   },
   "GMED": {
    "price": 78.05,
@@ -298,6 +302,10 @@
    "price": 191.31,
    "change_pct": 0.55
   },
+  "RXRX": {
+   "price": 4.03,
+   "change_pct": -4.95
+  },
   "SMMT": {
    "price": 16.03,
    "change_pct": -1.05
@@ -313,14 +321,6 @@
   "TAK": {
    "price": 20.91,
    "change_pct": 4.5
-  },
-  "TDOC": {
-   "price": 8.51,
-   "change_pct": -2.52
-  },
-  "TGTX": {
-   "price": 61.18,
-   "change_pct": 5.34
   }
  },
  "tickers": {
@@ -938,6 +938,21 @@
  },
  "stories": [
   {
+   "id": "85bb8f82e577",
+   "headline": "Why Merck Stock Flew Higher on Friday",
+   "summary": "Investors were still buying it in the afterglow of its latest quarterly earnings release.",
+   "url": "https://finnhub.io/api/news?id=a6d5f99c481f50462d13d1488e72b72f8202c91dbc1eb872f1f993059c7a1e4e",
+   "source": "Yahoo",
+   "published": "2026-10-31T00:18:27+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "10af82855cd5",
    "headline": "HCA Q3 deep dive: payer mix shifts and resiliency initiatives shape outlook",
    "summary": "Hospital operator HCA Healthcare (NYSE:HCA) reported Q3 2026 results beating Wall Street\u2019s revenue expectations, with sales up 3.6% year on year to $19.85 billion. The company expects the full year\u2019s revenue to be around $78.25 billion,\u2026",
@@ -1051,6 +1066,21 @@
    "tag": "Analyst",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "152240877088",
+   "headline": "EssilorLuxottica Stock And Eurozone Healthcare Giants Worth Watching Now",
+   "summary": "Eurozone growth just cooled to 0.4% in Q3, yet still beat forecasts, and that mix of resilience and slowdown is quietly reshaping where money could flow next. Some businesses may benefit if investors rethink how far the ECB can cut, while\u2026",
+   "url": "https://finnhub.io/api/news?id=81840d60a4bda6dbdf0a1181524d94110f5c8eecc5d997c6e707c63cb6623a73",
+   "source": "Yahoo",
+   "published": "2026-10-30T22:17:33+00:00",
+   "tickers": [
+    "SNY"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1205,6 +1235,36 @@
    ]
   },
   {
+   "id": "52ed55f9a562",
+   "headline": "Here's Why CRISPR Therapeutics AG (CRSP) Fell More Than Broader Market",
+   "summary": "CRISPR Therapeutics AG (CRSP) closed the most recent trading day at $51.36, moving 5.34% from the previous trading session.",
+   "url": "https://finnhub.io/api/news?id=36447f286eb303b8c7e48335af92059f1e81a4fb4fa46f62b291c99e119c1dd0",
+   "source": "Yahoo",
+   "published": "2026-10-30T20:50:01+00:00",
+   "tickers": [
+    "CRSP"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "a3ecbb0b19e4",
+   "headline": "Recursion Pharmaceuticals (RXRX) Declines More Than Market: Some Information for Investors",
+   "summary": "Recursion Pharmaceuticals (RXRX) closed the most recent trading day at $4.03, moving 4.95% from the previous trading session.",
+   "url": "https://finnhub.io/api/news?id=2999638ef97c5cbb5ea2b821b043e162db30e2869e8ac0fe54be61818046fb3a",
+   "source": "Yahoo",
+   "published": "2026-10-30T20:45:03+00:00",
+   "tickers": [
+    "RXRX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthai"
+   ]
+  },
+  {
    "id": "533300f56e80",
    "headline": "Stryker Sinks 5% on Q3 Miss and Guidance Cut: \u201cFall Short of Our Expectations\u201d",
    "summary": "Key TakeawaysStryker shares fell 5% after third-quarter sales and adjusted EPS missed estimates and it cut its 2026 guidance. Stryker blamed a slowing market, but Johnson & Johnson grew hips and knees faster in the same quarter, which\u2026",
@@ -1229,7 +1289,8 @@
    "source": "Yahoo",
    "published": "2026-10-30T20:36:02+00:00",
    "tickers": [
-    "REGN"
+    "REGN",
+    "SNY"
    ],
    "tag": "News",
    "sectors": [
@@ -1290,7 +1351,8 @@
    "published": "2026-10-30T20:28:19+00:00",
    "tickers": [
     "ABSI",
-    "CERT"
+    "CERT",
+    "RXRX"
    ],
    "tag": "Health AI",
    "sectors": [
@@ -1890,7 +1952,8 @@
    "source": "Yahoo",
    "published": "2026-10-30T16:55:56+00:00",
    "tickers": [
-    "REGN"
+    "REGN",
+    "SNY"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -1985,7 +2048,8 @@
    "source": "Yahoo",
    "published": "2026-10-30T16:15:24+00:00",
    "tickers": [
-    "REGN"
+    "REGN",
+    "SNY"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -2000,7 +2064,8 @@
    "source": "Yahoo",
    "published": "2026-10-30T16:15:17+00:00",
    "tickers": [
-    "REGN"
+    "REGN",
+    "SNY"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -2312,6 +2377,7 @@
    "source": "Yahoo",
    "published": "2026-10-30T15:47:23+00:00",
    "tickers": [
+    "CRSP",
     "JNJ",
     "LLY"
    ],
@@ -2467,7 +2533,8 @@
    "source": "Yahoo",
    "published": "2026-10-30T15:23:03+00:00",
    "tickers": [
-    "NVO"
+    "NVO",
+    "SNY"
    ],
    "tag": "News",
    "sectors": [
@@ -2884,7 +2951,8 @@
    "tickers": [
     "AMGN",
     "LLY",
-    "REGN"
+    "REGN",
+    "SNY"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -3839,6 +3907,7 @@
    "published": "2026-10-30T13:09:00+00:00",
    "tickers": [
     "BEAM",
+    "CRSP",
     "ILMN",
     "TXG"
    ],
@@ -3870,7 +3939,8 @@
    "source": "Yahoo",
    "published": "2026-10-30T13:05:00+00:00",
    "tickers": [
-    "REGN"
+    "REGN",
+    "SNY"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -4270,7 +4340,8 @@
    "source": "Yahoo",
    "published": "2026-10-30T12:30:54+00:00",
    "tickers": [
-    "REGN"
+    "REGN",
+    "SNY"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -4768,6 +4839,7 @@
    "source": "Yahoo",
    "published": "2026-10-30T11:23:00+00:00",
    "tickers": [
+    "AMWL",
     "EVH"
    ],
    "tag": "Earnings",
