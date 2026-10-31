@@ -1,11 +1,7 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-31T14:32:38.903211+00:00",
+ "updated": "2026-10-31T14:47:32.691989+00:00",
  "quotes": {
-  "A": {
-   "price": 174.87,
-   "change_pct": -3.47
-  },
   "ABBV": {
    "price": 294.89,
    "change_pct": 1.41
@@ -85,10 +81,6 @@
   "DGX": {
    "price": 251.82,
    "change_pct": -0.43
-  },
-  "DHR": {
-   "price": 232.23,
-   "change_pct": -2.0
   },
   "DOCS": {
    "price": 32.76,
@@ -218,6 +210,10 @@
    "price": 160.79,
    "change_pct": -0.19
   },
+  "OMCL": {
+   "price": 36.65,
+   "change_pct": -0.62
+  },
   "OPCH": {
    "price": 31.83,
    "change_pct": -0.06
@@ -278,10 +274,6 @@
    "price": 291.86,
    "change_pct": -6.38
   },
-  "TAK": {
-   "price": 20.91,
-   "change_pct": 4.5
-  },
   "TEM": {
    "price": 72.22,
    "change_pct": -7.22
@@ -310,10 +302,6 @@
    "price": 406.97,
    "change_pct": -0.96
   },
-  "UTHR": {
-   "price": 598.72,
-   "change_pct": 0.87
-  },
   "VKTX": {
    "price": 27.28,
    "change_pct": 1.56
@@ -321,6 +309,14 @@
   "VRTX": {
    "price": 558.88,
    "change_pct": 3.5
+  },
+  "ZBH": {
+   "price": 94.52,
+   "change_pct": -3.03
+  },
+  "ZTS": {
+   "price": 79.72,
+   "change_pct": 1.17
   }
  },
  "tickers": {
@@ -938,6 +934,36 @@
  },
  "stories": [
   {
+   "id": "f78ef5ffb89b",
+   "headline": "Robotics Stocks Diverge as Strong Earnings Meet Uneven Price Action",
+   "summary": "Robotics automation theme cools as investors get selective, with earnings-price disconnects and healthcare robotics holding up as quality counterweight.",
+   "url": "https://finnhub.io/api/news?id=5fa872ffb1b98303d87800faf843447ca48e4ec7441c37c5bce7c00dd4ace35a",
+   "source": "ChartMill",
+   "published": "2026-10-31T13:36:22+00:00",
+   "tickers": [
+    "ISRG"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "286c0d75e016",
+   "headline": "Pfizer Just Hit a 52-Week High. Is the Turnaround Finally Real?",
+   "summary": "Pfizer's post-COVID comeback is still only in the early stages.",
+   "url": "https://finnhub.io/api/news?id=92f6f74f75c5154dbc6de40ebdc3664f4103898a7493daa07faab007a5e61679",
+   "source": "Yahoo",
+   "published": "2026-10-31T12:50:00+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "211a65078b0c",
    "headline": "Bristol Myers Squibb (BMY) Reports Positive Phase 2 Pumitamig Lung Cancer Data",
    "summary": "Bristol-Myers Squibb (NYSE:BMY) and BioNTech reported positive Phase 2 data for pumitamig in metastatic non-small cell lung cancer. The bispecific immunomodulator pumitamig, targeting PD-L1 and VEGF-A, showed strong antitumor activity\u2026",
@@ -950,6 +976,21 @@
    "tag": "Clinical",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "17ccc5a8bd54",
+   "headline": "Earnings Beat Could Be A Game Changer For Exelixis Stock (EXEL)",
+   "summary": "Exelixis reported third quarter 2026 revenue of US$658.7 million and net income of US$218.1 million, with earnings per share above Wall Street expectations and full year revenue guidance maintained at US$2.5b to US$2.55b. The business\u2026",
+   "url": "https://finnhub.io/api/news?id=fd4bfc7c290706e2a747e9e27c3d3ff4007a2c40616111b11507c093ad0b5418",
+   "source": "Yahoo",
+   "published": "2026-10-31T12:08:12+00:00",
+   "tickers": [
+    "EXEL"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -2007,6 +2048,21 @@
    ]
   },
   {
+   "id": "83880f4992eb",
+   "headline": "Freedom Capital Markets Maintains Buy on Omnicell, Lowers Price Target to $55",
+   "summary": "Freedom Capital Markets analyst Gene Mannheimer maintains Omnicell (NASDAQ:OMCL) with a Buy and lowers the price target from $60 to $55.",
+   "url": "https://finnhub.io/api/news?id=0d14df47cb443effae3dc1391748170cba5da2af25fed5e4cc131dabd63cf882",
+   "source": "Benzinga",
+   "published": "2026-10-30T21:08:21+00:00",
+   "tickers": [
+    "OMCL"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "0fa8ac81122e",
    "headline": "OmniAb, Inc. Q3 2026 Earnings Call Summary",
    "summary": "Moby summary of OmniAb, Inc.'s Q3 2026 earnings call",
@@ -2306,6 +2362,21 @@
    ]
   },
   {
+   "id": "9f1970e02a0c",
+   "headline": "JP Morgan Maintains Overweight on Illumina, Lowers Price Target to $300",
+   "summary": "JP Morgan analyst Casey Woodring maintains Illumina (NASDAQ:ILMN) with a Overweight and lowers the price target from $320 to $300.",
+   "url": "https://finnhub.io/api/news?id=9857f6a2522f65d492fa86eafb74e5e02ffdbd5dcfb762675cef6407062153a6",
+   "source": "Benzinga",
+   "published": "2026-10-30T19:56:11+00:00",
+   "tickers": [
+    "ILMN"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "942d204728ea",
    "headline": "CRMD Stock Hits Fresh 52-Week Low On DaVita\u2019s Warning Of Sharp 2027 DefenCath Reimbursement Drop",
    "summary": "DefenCath is CorMedix\u2019s largest revenue driver in the dialysis setting, generating $258.8 million in net sales in 2025 and accounting for a majority of the company's reported full-year revenue of $311.7 million.",
@@ -2390,6 +2461,21 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "40ddb8de75b3",
+   "headline": "JP Morgan Maintains Overweight on Alignment Healthcare, Lowers Price Target to $8",
+   "summary": "JP Morgan analyst John Stansel maintains Alignment Healthcare (NASDAQ:ALHC) with a Overweight and lowers the price target from $10 to $8.",
+   "url": "https://finnhub.io/api/news?id=b2ea0ebf50923f475e2e0c671ef9b7b862c873d5bb48031cdadccf088c562959",
+   "source": "Benzinga",
+   "published": "2026-10-30T19:30:16+00:00",
+   "tickers": [
+    "ALHC"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -2953,9 +3039,25 @@
    "published": "2026-10-30T16:55:28+00:00",
    "tickers": [
     "HCA",
+    "ILMN",
     "REGN"
    ],
    "tag": "Health AI",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "17f6517512a9",
+   "headline": "BTIG Suspends Buy Rating on Zoetis",
+   "summary": "BTIG suspends Buy rating on Zoetis (NYSE:ZTS).",
+   "url": "https://finnhub.io/api/news?id=a8de4daaa62619b4bb7fa188c9fedeea2a62438e8053a785dbc5daae670fd08e",
+   "source": "Benzinga",
+   "published": "2026-10-30T16:52:21+00:00",
+   "tickers": [
+    "ZTS"
+   ],
+   "tag": "Analyst",
    "sectors": [
     "pharma"
    ]
@@ -2978,6 +3080,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "98a4a1ae5610",
+   "headline": "Here's How Much $100 Invested In Intuitive Surgical 20 Years Ago Would Be Worth Today",
+   "summary": "Intuitive Surgical (NASDAQ:ISRG) has outperformed the market over the past 20 years by 11.31% on an annualized basis producing an average annual return of 20.16%. Currently, Intuitive Surgical has a market",
+   "url": "https://finnhub.io/api/news?id=d59adf56420b5dad38521b553b61202f66f4c3aef28de66c63b0d96acfd29675",
+   "source": "Benzinga",
+   "published": "2026-10-30T16:45:37+00:00",
+   "tickers": [
+    "ISRG"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -3143,6 +3260,21 @@
     "ALNY"
    ],
    "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "8795bfaa72a5",
+   "headline": "TD Cowen Maintains Buy on PTC Therapeutics, Raises Price Target to $95",
+   "summary": "TD Cowen analyst Joseph Thome maintains PTC Therapeutics (NASDAQ:PTCT) with a Buy and raises the price target from $90 to $95.",
+   "url": "https://finnhub.io/api/news?id=fbb8c39e1be6fadc62646e8f3e0006a2015508d525c496bdaf138facee946b56",
+   "source": "Benzinga",
+   "published": "2026-10-30T16:07:35+00:00",
+   "tickers": [
+    "PTCT"
+   ],
+   "tag": "Analyst",
    "sectors": [
     "biotech"
    ]
@@ -4673,6 +4805,21 @@
    ]
   },
   {
+   "id": "5e06fccf320c",
+   "headline": "Morgan Stanley Maintains Overweight on Cardinal Health, Raises Price Target to $286",
+   "summary": "Morgan Stanley analyst Erin Wright maintains Cardinal Health (NYSE:CAH) with a Overweight and raises the price target from $265 to $286.",
+   "url": "https://finnhub.io/api/news?id=42474dc4fef795c3cecb03930f452673e0d59845e406ac21a9d2e0474e9dc9ec",
+   "source": "Benzinga",
+   "published": "2026-10-30T13:52:47+00:00",
+   "tickers": [
+    "CAH"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
+  {
    "id": "8bc0778b812e",
    "headline": "STERIS Set to Report Q2 Earnings: What's in the Cards for the Stock?",
    "summary": "STE's second-quarter fiscal 2027 earnings may benefit from Healthcare growth, recent acquisitions, easing AST comparisons and continued margin expansion.",
@@ -5359,6 +5506,36 @@
    ]
   },
   {
+   "id": "b36ae69855da",
+   "headline": "RBC Capital Maintains Sector Perform on PTC Therapeutics, Raises Price Target to $77",
+   "summary": "RBC Capital analyst Brian Abrahams maintains PTC Therapeutics (NASDAQ:PTCT) with a Sector Perform and raises the price target from $75 to $77.",
+   "url": "https://finnhub.io/api/news?id=c79e92a973d561e0e9777ec75a97c6cebbd0792e2cd03d15255c582be72eb7f8",
+   "source": "Benzinga",
+   "published": "2026-10-30T12:56:36+00:00",
+   "tickers": [
+    "PTCT"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "15cac2366cb8",
+   "headline": "Wells Fargo Maintains Overweight on PTC Therapeutics, Raises Price Target to $112",
+   "summary": "Wells Fargo analyst Benjamin Burnett maintains PTC Therapeutics (NASDAQ:PTCT) with a Overweight and raises the price target from $109 to $112.",
+   "url": "https://finnhub.io/api/news?id=cf92500e4574062fa56b61249664a3cb865ae59fb6bf375488df9fa7f3689f99",
+   "source": "Benzinga",
+   "published": "2026-10-30T12:56:00+00:00",
+   "tickers": [
+    "PTCT"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "648eef8cc390",
    "headline": "RBC Capital Maintains Sector Perform on Merck & Co, Lowers Price Target to $140",
    "summary": "RBC Capital analyst Trung Huynh maintains Merck & Co (NYSE:MRK) with a Sector Perform and lowers the price target from $145 to $140.",
@@ -5427,6 +5604,21 @@
    "tag": "Clinical",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "04c1efed6b68",
+   "headline": "Wells Fargo Maintains Equal-Weight on Incyte, Lowers Price Target to $127",
+   "summary": "Wells Fargo analyst Derek Archila maintains Incyte (NASDAQ:INCY) with a Equal-Weight and lowers the price target from $128 to $127.",
+   "url": "https://finnhub.io/api/news?id=c4bfe3306ff57840fbcd3400b9d3c7cbf88610c892586cfc4ab38ceec0913065",
+   "source": "Benzinga",
+   "published": "2026-10-30T12:45:02+00:00",
+   "tickers": [
+    "INCY"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -5744,6 +5936,21 @@
    ]
   },
   {
+   "id": "c918dea691b7",
+   "headline": "Illumina, Inc. Q3 2026 Earnings Call Summary",
+   "summary": "Moby summary of Illumina, Inc.'s Q3 2026 earnings call",
+   "url": "https://finnhub.io/api/news?id=f6913a861f6353875cbcf646266bbfb1b29d79dc5b8c6b54438aa786a9e9ecd9",
+   "source": "Yahoo",
+   "published": "2026-10-30T12:30:00+00:00",
+   "tickers": [
+    "ILMN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "b73fcc838841",
    "headline": "AbbVie beats estimates but stock dips",
    "summary": "Investing.com -- AbbVie Inc. (NYSE:ABBV) reported third-quarter results that exceeded analyst expectations, though shares are down 3% premarket as the company's raised full-year guidance came in largely in line with Wall Street estimates.",
@@ -5801,6 +6008,21 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "473c71f15443",
+   "headline": "RBC Capital Maintains Sector Perform on Incyte, Raises Price Target to $117",
+   "summary": "RBC Capital analyst Brian Abrahams maintains Incyte (NASDAQ:INCY) with a Sector Perform and raises the price target from $114 to $117.",
+   "url": "https://finnhub.io/api/news?id=bccf2d09909181470341ea00ac606b3c5f3a07291fea3fbaab92b324553d281b",
+   "source": "Benzinga",
+   "published": "2026-10-30T12:18:19+00:00",
+   "tickers": [
+    "INCY"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -6413,6 +6635,21 @@
    "tag": "Earnings",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "a284a7e1d08f",
+   "headline": "Barclays Maintains Overweight on Incyte, Raises Price Target to $143",
+   "summary": "Barclays analyst Etzer Darout maintains Incyte (NASDAQ:INCY) with a Overweight and raises the price target from $139 to $143.",
+   "url": "https://finnhub.io/api/news?id=43a05dc7965cafb38fd9d20660e93e93ad7dd1f17501d9f488aaa40fa8c9bf34",
+   "source": "Benzinga",
+   "published": "2026-10-30T10:41:47+00:00",
+   "tickers": [
+    "INCY"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -52891,110 +53128,6 @@
    "tag": "Policy",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "a049b2e0b19e",
-   "headline": "New US drug launches need price check to counter access impediments, ICER, West Health urge",
-   "summary": "As policies from the last two presidential administrations put heightened focus on drug affordability in the United States, a new report suggests much work remains to be done when it comes to the launch prices of novel medicines.",
-   "url": "https://www.fiercepharma.com/pharma/new-us-drug-launches-need-price-check-counter-access-impediments-icer-west-health-urge",
-   "source": "Fierce Pharma",
-   "published": "2026-10-21T14:45:22.593184+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "3ba09cec7124",
-   "headline": "PAHC or SYK: Which Is the Better Value Stock Right Now?",
-   "summary": "PAHC vs. SYK: Which Stock Is the Better Value Option?",
-   "url": "https://finnhub.io/api/news?id=1469b07373c84ee55247193217a7830b6dc81c2d5e83bfb818c04a2d7c49cd70",
-   "source": "Yahoo",
-   "published": "2026-10-21T14:40:03+00:00",
-   "tickers": [
-    "SYK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "ab2aa8b55ba4",
-   "headline": "UnitedHealth (UNH): Does Optum Truly Diversify Its Earnings Risk?",
-   "summary": "UnitedHealth Group Incorporated (NYSE:UNH) produced $8.0 billion of second-quarter 2026 operating earnings, with Optum contributing $4.0 billion. Medical inflation and Medicare funding pressure reach both insurance and care delivery,\u2026",
-   "url": "https://finnhub.io/api/news?id=ecf9a08e2863c15382d94e3306f11286a3a3a14e42f78cc11f94dab03fe6d9e6",
-   "source": "Yahoo",
-   "published": "2026-10-21T14:38:31+00:00",
-   "tickers": [
-    "CVS",
-    "UNH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "c36d8304f303",
-   "headline": "Is Veeva Systems Stock Really Expensive?",
-   "summary": "For questions about this article or underlying research, email help@trefis.com.",
-   "url": "https://finnhub.io/api/news?id=6dda6705ba8996c394c3247f1672b191fa75ec34e6a89d6f57d653ac7def8831",
-   "source": "Yahoo",
-   "published": "2026-10-21T14:36:15+00:00",
-   "tickers": [
-    "IQV",
-    "VEEV"
-   ],
-   "tag": "News",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "760a61d08cdf",
-   "headline": "S&P 500 Gap Movers: Oct. 21, 2026 Session",
-   "summary": "S&P 500 gap movers on Oct. 21, 2026: SMCI, DELL, VRT and HPE rose on data-center AI news, while PM, T, CMG, NFLX and CHTR fell.",
-   "url": "https://finnhub.io/api/news?id=d74c0b1d6183970ddb0214699a48237d62e527c352455b0eeb268c354bcfe056",
-   "source": "ChartMill",
-   "published": "2026-10-21T14:36:03+00:00",
-   "tickers": [
-    "DHR",
-    "ISRG"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "7628dfb80ecc",
-   "headline": "Elevance Health Posts Earnings Beat, Lifts Guidance. CFO Sees a \u2018Clear Path\u2019 to Growth.",
-   "summary": "Investors are continuing to watch how the insurer navigates costs in its Medicare Advantage and Medicaid portfolios.",
-   "url": "https://finnhub.io/api/news?id=2de65229b9a9ef7d86746d7b139b4554a1d151cab727ffab55aac7c53b4bfe6d",
-   "source": "Yahoo",
-   "published": "2026-10-21T14:34:00+00:00",
-   "tickers": [
-    "ELV"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "9590bc4b127f",
-   "headline": "Thermo Fisher Scientific Highlights Continued Strong Customer Activity",
-   "summary": "Thermo Fisher Scientific tops Q3 Street estimates and raises full-year 2026 earnings and revenue guidance.",
-   "url": "https://finnhub.io/api/news?id=dd2cc04b675c865af270ddb2c0139a52dfcbb3fd6312708cbca9aac13fd8be5b",
-   "source": "Benzinga",
-   "published": "2026-10-21T14:31:36+00:00",
-   "tickers": [
-    "TMO"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
    ]
   }
  ]
