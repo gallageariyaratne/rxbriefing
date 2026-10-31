@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-31T09:47:37.991978+00:00",
+ "updated": "2026-10-31T10:02:36.833121+00:00",
  "quotes": {
   "A": {
    "price": 174.87,
@@ -314,13 +314,13 @@
    "price": 927.89,
    "change_pct": 13.33
   },
-  "RGEN": {
-   "price": 176.94,
-   "change_pct": -6.2
-  },
   "RMD": {
    "price": 229.94,
    "change_pct": -9.05
+  },
+  "RVMD": {
+   "price": 191.31,
+   "change_pct": 0.55
   }
  },
  "tickers": {
@@ -2386,6 +2386,21 @@
    ]
   },
   {
+   "id": "f0f0bfe3e9ae",
+   "headline": "S&P 500 Unusual Volume Movers for Oct. 30, 2026",
+   "summary": "S&P 500 unusual-volume screen for Oct. 30, 2026: Reddit fell 30.15% on heavy volume, Global Payments rose 10.41%, and several other stocks traded above average.",
+   "url": "https://finnhub.io/api/news?id=d2b661ba7fba46955ec9d74c8c76fd9bb5e5c84c96d8bd795518d20a7c9d66f9",
+   "source": "ChartMill",
+   "published": "2026-10-30T18:06:08+00:00",
+   "tickers": [
+    "DVA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "a587cf20b7ff",
    "headline": "Alignment Healthcare lowers 2026 outlook as it navigates cost headwinds",
    "summary": "Alignment Healthcare is lowering its guidance for the year as it faces significant headwinds to finish out 2026.",
@@ -3153,6 +3168,7 @@
    "source": "ChartMill",
    "published": "2026-10-30T15:36:32+00:00",
    "tickers": [
+    "GILD",
     "ILMN",
     "INCY"
    ],
@@ -55413,156 +55429,6 @@
    "tag": "Clinical",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "feaccd0421b6",
-   "headline": "Integra LifeSciences Reports Third Quarter 2026 Financial Results",
-   "summary": "PRINCETON, N.J., Oct. 21, 2026 (GLOBE NEWSWIRE) -- Integra LifeSciences Holdings Corporation (Nasdaq: IART), a leading global medical technology company, today reported financial results for the third quarter ending September 30, 2026.",
-   "url": "https://www.globenewswire.com/news-release/2026/10/21/3385331/1063/en/integra-lifesciences-reports-third-quarter-2026-financial-results.html",
-   "source": "GlobeNewswire",
-   "published": "2026-10-21T10:00:00+00:00",
-   "tickers": [
-    "IART"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "98644d2958a9",
-   "headline": "Danaher Reports Third Quarter 2026 Results",
-   "summary": "WASHINGTON, Oct. 21, 2026 /PRNewswire/ -- Danaher Corporation (NYSE: DHR) today announced results for the third quarter 2026. All results in this release reflect only continuing operations and period-to-period comparisons are\u2026",
-   "url": "https://www.prnewswire.com/news-releases/danaher-reports-third-quarter-2026-results-302914824.html",
-   "source": "PR Newswire",
-   "published": "2026-10-21T10:00:00+00:00",
-   "tickers": [
-    "DHR"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "3a95a2fbedb9",
-   "headline": "Danaher Reports Third Quarter 2026 Results",
-   "summary": "Danaher Corporation (NYSE: DHR) today announced results for the third quarter 2026. All results in this release reflect only continuing operations and period-to-period comparisons are year-over-year unless otherwise noted.",
-   "url": "https://finnhub.io/api/news?id=834bdc203ece8e2b6729c804dedd15f1fbcbf10792c1565548188eab441e8596",
-   "source": "Yahoo",
-   "published": "2026-10-21T10:00:00+00:00",
-   "tickers": [
-    "DHR"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "7c681142fdbd",
-   "headline": "Thermo Fisher Scientific Reports Third Quarter 2026 Results",
-   "summary": "WALTHAM, Mass., October 21, 2026--Thermo Fisher Scientific Inc. (NYSE: TMO), the world leader in serving science, today reported its financial results for the third quarter ended September 26, 2026.",
-   "url": "https://finnhub.io/api/news?id=39eaca9ff14fbb0c97fa58214db5a3bf001af97ed883be29303f1f8d7a97b962",
-   "source": "Yahoo",
-   "published": "2026-10-21T10:00:00+00:00",
-   "tickers": [
-    "TMO"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "818f91348490",
-   "headline": "Elevance Tops Earnings Expectations and Lifts Guidance",
-   "summary": "Investors are continuing to watch how the insurer navigates costs in its Medicare Advantage and Medicaid portfolios.",
-   "url": "https://finnhub.io/api/news?id=03c2ec1d5a0f49d945cf937412a1929a4d96eca7d295a4c387218e98c6f0fc75",
-   "source": "Yahoo",
-   "published": "2026-10-21T10:00:00+00:00",
-   "tickers": [
-    "ELV"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "4be4806c5c70",
-   "headline": "Elevance Health Reports Third Quarter 2026 Results; Raises Full-Year Guidance",
-   "summary": "INDIANAPOLIS, October 21, 2026--Elevance Health, Inc. (NYSE: ELV) reported third quarter 2026 results ahead of expectations.",
-   "url": "https://finnhub.io/api/news?id=bec415dedf0679f8cbaf7542a3b64c7f282fa0f4f0116ef6e0b248a94c06127e",
-   "source": "Yahoo",
-   "published": "2026-10-21T10:00:00+00:00",
-   "tickers": [
-    "ELV"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "8786b7b434d1",
-   "headline": "Integra LifeSciences Reports Third Quarter 2026 Financial Results",
-   "summary": "PRINCETON, N.J., Oct. 21, 2026 (GLOBE NEWSWIRE) -- Integra LifeSciences Holdings Corporation (Nasdaq: IART), a leading global medical technology company, today reported financial results for the third quarter ending September 30, 2026.\u2026",
-   "url": "https://finnhub.io/api/news?id=8600335219f76a4defce0c464773d7838029f0553b2b8651cbbe6d6439eadbdb",
-   "source": "Yahoo",
-   "published": "2026-10-21T10:00:00+00:00",
-   "tickers": [
-    "IART"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "a6eb05f67a98",
-   "headline": "TD Cowen Maintains Buy on Biogen, Raises Price Target to $250",
-   "summary": "TD Cowen analyst Phil Nadeau maintains Biogen (NASDAQ:BIIB) with a Buy and raises the price target from $225 to $250.",
-   "url": "https://finnhub.io/api/news?id=4268518ed28f3e77559414e68b7f1071953c46e77bf731c62334a41314eee89f",
-   "source": "Benzinga",
-   "published": "2026-10-21T09:53:57+00:00",
-   "tickers": [
-    "BIIB"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "67d7139f21d7",
-   "headline": "Integra Lifesciences Q3 2026 Earnings Call Transcript",
-   "summary": "Integra Lifesciences (NASDAQ:IART) reported third-quarter financial results on Wednesday. The transcript from the company\u2019s third-quarter earnings call has been provided below.This transcript is brought to you by",
-   "url": "https://finnhub.io/api/news?id=77139267cfb011b3e6c03dfe35c360ad315d16becad5c50c774093cc6e5b6072",
-   "source": "Benzinga",
-   "published": "2026-10-21T09:52:51+00:00",
-   "tickers": [
-    "IART"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "ed94505c0ee7",
-   "headline": "Abbott Exec Says Co. Expects Some Temporary Challenges In Market For One Of Its Heart Devices; Co. Seeing Little Bit More Pricing Pressure In International Markets",
-   "summary": "https://edge.media-server.com/mmc/p/gxn96ftv/",
-   "url": "https://finnhub.io/api/news?id=8c45fc67a2cf8ffd57bc593f10efef1d8ca7b1dc0570bd28d1dc5a4115ae6264",
-   "source": "Benzinga",
-   "published": "2026-10-21T09:47:25+00:00",
-   "tickers": [
-    "ABT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
