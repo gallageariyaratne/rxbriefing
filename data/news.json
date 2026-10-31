@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-31T09:32:30.661618+00:00",
+ "updated": "2026-10-31T09:47:37.991978+00:00",
  "quotes": {
   "A": {
    "price": 174.87,
@@ -294,6 +294,10 @@
    "price": 30.52,
    "change_pct": 1.9
   },
+  "PHR": {
+   "price": 12.44,
+   "change_pct": -0.72
+  },
   "PTCT": {
    "price": 59.97,
    "change_pct": -6.97
@@ -317,10 +321,6 @@
   "RMD": {
    "price": 229.94,
    "change_pct": -9.05
-  },
-  "RVMD": {
-   "price": 191.31,
-   "change_pct": 0.55
   }
  },
  "tickers": {
@@ -1090,6 +1090,21 @@
    ]
   },
   {
+   "id": "0de3aa036fad",
+   "headline": "Phreesia: Q3 Must Prove That Growth Can Drive Higher Profitability",
+   "summary": "Phreesia is rated Buy with a $14.8 price target, reflecting undervaluation versus peers and improving profitability. Click here for more on the PHR stock.",
+   "url": "https://finnhub.io/api/news?id=c2fad2a61c787c31ab48f8d9a284f485f2887272aeeda75555eda3c3f258ad82",
+   "source": "SeekingAlpha",
+   "published": "2026-10-31T04:40:02+00:00",
+   "tickers": [
+    "PHR"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "237922de3cc7",
    "headline": "Viking Therapeutics: A Strong Injection, A Scaled-Back Pill",
    "summary": "Viking Therapeutics is advancing VK2735, a dual GLP-1/GIP agonist for obesity, with Phase 3 injection results expected in 2027. Read why VKTX stock is a hold.",
@@ -1099,6 +1114,7 @@
    "tickers": [
     "LLY",
     "NVO",
+    "PFE",
     "VKTX"
    ],
    "tag": "GLP-1",
@@ -1960,6 +1976,21 @@
    ]
   },
   {
+   "id": "fe7106312904",
+   "headline": "S&P 500 Top Movers: Gainers and Losers in Today's US Session",
+   "summary": "S&P 500 top percentage movers in today's US session, led by FDXF gainer and INTC decliner, with gainers and losers ranked by latest prices.",
+   "url": "https://finnhub.io/api/news?id=a44171cddfb342446f40d46de2d93a46c7e83ee351259121874ff7dd3fb7086d",
+   "source": "ChartMill",
+   "published": "2026-10-30T20:06:04+00:00",
+   "tickers": [
+    "ILMN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "817636e2769a",
    "headline": "TransMedics Reports Inducement Grants Under NASDAQ Listing Rule 5635(c)(4)",
    "summary": "ANDOVER, Mass., Oct. 30, 2026 /PRNewswire/ -- TransMedics Group, Inc. (\"TransMedics\") (Nasdaq: TMDX), a medical technology company that is transforming organ transplant therapy for patients with end-stage lung, heart, and liver failure,\u2026",
@@ -2189,6 +2220,21 @@
     "JNJ"
    ],
    "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "af011d1fd099",
+   "headline": "S&P 500 Most-Active Stocks: Oct. 30, 2026",
+   "summary": "S&P 500 most-active stocks on Oct. 30, 2026 included Reddit and Marvell double-digit declines, while AT&T, Pfizer and Keurig Dr Pepper rose.",
+   "url": "https://finnhub.io/api/news?id=cc3041a9b2f9c2901eb49505eed2f9508d6b60d08adcc9bba455ebf19e7464d6",
+   "source": "ChartMill",
+   "published": "2026-10-30T19:06:16+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "News",
    "sectors": [
     "pharma"
    ]
@@ -2455,6 +2501,21 @@
     "NTRA"
    ],
    "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "c394486ca3c1",
+   "headline": "S&P 500 Top Movers: Gainers and Losers in Today's Session",
+   "summary": "S&P 500 top movers for today's session include FDXF up 16.16% and INTC down 30.00%, with double-digit gains and losses across the index.",
+   "url": "https://finnhub.io/api/news?id=c7fdf0d093916eaabf7e3b5a1192bc4933eff6dc79e5caf546977cc4495f5410",
+   "source": "ChartMill",
+   "published": "2026-10-30T17:36:08+00:00",
+   "tickers": [
+    "ILMN"
+   ],
+   "tag": "News",
    "sectors": [
     "tools"
    ]
@@ -3082,6 +3143,22 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "0dcf2bca4097",
+   "headline": "S&P 500 Gap Movers for October 30, 2026",
+   "summary": "S&P 500 gap movers on October 30, 2026 included FDXF, VLTO, GILD and INCY on the upside, while INTC, RDDT and TWLO were among the gap-down decliners.",
+   "url": "https://finnhub.io/api/news?id=ac8232d0cea4ab1e6508fb2301b0692c5743ff5b0256286bb22517e22aa2a1af",
+   "source": "ChartMill",
+   "published": "2026-10-30T15:36:32+00:00",
+   "tickers": [
+    "ILMN",
+    "INCY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -55484,111 +55561,6 @@
     "ABT"
    ],
    "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "e084ee998b75",
-   "headline": "Abbott Exec Says Co. Doesn't Need To Fully Resolve The Litigation Matters For Completing Separation Of Nutrition Business",
-   "summary": "-Conference Call.",
-   "url": "https://finnhub.io/api/news?id=98c8f7e263c951e65e82e6996d73e2b06a70d80f3f0d9c1a29b4a4c7ee000196",
-   "source": "Benzinga",
-   "published": "2026-10-21T09:43:42+00:00",
-   "tickers": [
-    "ABT"
-   ],
-   "tag": "Legal",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "7f469f0e0fff",
-   "headline": "Wells Fargo Maintains Overweight on Intuitive Surgical, Lowers Price Target to $486",
-   "summary": "Wells Fargo analyst Larry Biegelsen maintains Intuitive Surgical (NASDAQ:ISRG) with a Overweight and lowers the price target from $487 to $486.",
-   "url": "https://finnhub.io/api/news?id=d7ebd53a7ddc314539ab97cb24863eb695cac79a5008ebc7bed2170b2dc7b444",
-   "source": "Benzinga",
-   "published": "2026-10-21T09:42:10+00:00",
-   "tickers": [
-    "ISRG"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "0fdf4ee0fa2c",
-   "headline": "Elevance Health Q3 2026 Earnings Call Transcript",
-   "summary": "Elevance Health (NYSE:ELV) reported third-quarter financial results on Wednesday. The transcript from the company\u2019s third-quarter earnings call has been provided below.This transcript is brought to you by Benzinga APIs.",
-   "url": "https://finnhub.io/api/news?id=a633a55ecfd3744468dca027367d1085066878ba26523b8cf01c157b27fc67a0",
-   "source": "Benzinga",
-   "published": "2026-10-21T09:41:54+00:00",
-   "tickers": [
-    "ELV"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "9a8dde40842e",
-   "headline": "AstraZeneca and Oracle collaborate to test AI in clinical trial recruitment",
-   "summary": "The initiative aims to address recruitment hurdles by enabling healthcare providers to spot suitable individuals with ease.",
-   "url": "https://finnhub.io/api/news?id=67175bb9bfedfd0a0c7173171da881df25e78c3a7f34f3f41ead2f90bb6624ac",
-   "source": "Yahoo",
-   "published": "2026-10-21T09:40:08+00:00",
-   "tickers": [
-    "AZN"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "ee6b2920fb96",
-   "headline": "Sanofi and ScionxBio partner on mRNA therapies",
-   "summary": "ScionxBio will direct optimisation programmes through to in vivo validation.",
-   "url": "https://finnhub.io/api/news?id=bd007d2eb4c47cdba215a8584253f621e7973f42eba8b7e323551fa04d46197e",
-   "source": "Yahoo",
-   "published": "2026-10-21T09:37:03+00:00",
-   "tickers": [
-    "SNY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "94b39473b906",
-   "headline": "TD Cowen Reiterates Buy on Intuitive Surgical, Maintains $485 Price Target",
-   "summary": "TD Cowen analyst Mathew Blackman reiterates Intuitive Surgical (NASDAQ:ISRG) with a Buy and maintains $485 price target.",
-   "url": "https://finnhub.io/api/news?id=e68d7ab3e8f68c6e868728f5f20178713c5efe0f163dcd447e252db3ad9564b5",
-   "source": "Benzinga",
-   "published": "2026-10-21T09:36:36+00:00",
-   "tickers": [
-    "ISRG"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "eb2c27770f4c",
-   "headline": "These Analysts Revise Their Forecasts On Intuitive Surgical After Q3 Results",
-   "summary": "Intuitive Surgical beat Q3 revenue and earnings estimates, raised procedure outlook, but shares fell 5.8% as analysts adjusted price targets.",
-   "url": "https://finnhub.io/api/news?id=5c52f3f04723ba737c08c6bd5cb83613a09f6c3e232031775130c634c46759dd",
-   "source": "Benzinga",
-   "published": "2026-10-21T09:36:12+00:00",
-   "tickers": [
-    "ISRG"
-   ],
-   "tag": "Earnings",
    "sectors": [
     "medtech"
    ]
