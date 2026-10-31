@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-31T16:47:38.780247+00:00",
+ "updated": "2026-10-31T17:02:36.278237+00:00",
  "quotes": {
   "ABBV": {
    "price": 294.89,
@@ -41,10 +41,6 @@
   "BDX": {
    "price": 197.88,
    "change_pct": -0.23
-  },
-  "BIIB": {
-   "price": 253.62,
-   "change_pct": 1.59
   },
   "BMRN": {
    "price": 58.51,
@@ -145,10 +141,6 @@
   "INSM": {
    "price": 112.58,
    "change_pct": 0.89
-  },
-  "IONS": {
-   "price": 43.52,
-   "change_pct": -1.96
   },
   "IQV": {
    "price": 267.33,
@@ -290,17 +282,9 @@
    "price": 27.28,
    "change_pct": 1.56
   },
-  "VRTX": {
-   "price": 558.88,
-   "change_pct": 3.5
-  },
   "ZBH": {
    "price": 94.52,
    "change_pct": -3.03
-  },
-  "ZTS": {
-   "price": 79.72,
-   "change_pct": 1.17
   }
  },
  "tickers": {
@@ -1039,6 +1023,21 @@
    ]
   },
   {
+   "id": "2c3c8c3b0d4e",
+   "headline": "Eli Lilly Rallies 11% in a Week as Q3 Sales Jump 39%, \u201cExceeding Our Prior Expectations\u201d",
+   "summary": "Key TakeawaysEli Lilly\u2019s Q3 revenue rose 39% to $24. 4 billion, and Mounjaro and Zepbound brought in about $16.",
+   "url": "https://finnhub.io/api/news?id=384df9fc1cf7d611d3684b40b0082ae64b76702341a74ebaf93ca1b2395c0f81",
+   "source": "Yahoo",
+   "published": "2026-10-31T13:27:54+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "286c0d75e016",
    "headline": "Pfizer Just Hit a 52-Week High. Is the Turnaround Finally Real?",
    "summary": "Pfizer's post-COVID comeback is still only in the early stages.",
@@ -1049,6 +1048,21 @@
     "PFE"
    ],
    "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "bca6df6a33f6",
+   "headline": "The 1-Minute Market Report October 31, 2026",
+   "summary": "The S&P 500 declined 0.6% last week, with AI and mega-cap growth stocks under heavy selling pressure. Discover more in this market report.",
+   "url": "https://finnhub.io/api/news?id=a66ddb1a988fc98501e719ccfc8af16f03b3b44dd42ba3c745527dc9de0d2810",
+   "source": "SeekingAlpha",
+   "published": "2026-10-31T12:21:45+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "Health AI",
    "sectors": [
     "pharma"
    ]
@@ -53223,152 +53237,6 @@
    "tickers": [
     "ABT",
     "MRNA"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "91c3e21d1804",
-   "headline": "HHS launches national kidney care plan focused on disease prevention, dialysis care and reforming the transplant system",
-   "summary": "The plan has three priorities: preventing kidney failure, improving dialysis care while expanding patient choice and reforming the transplant system.",
-   "url": "https://www.fiercehealthcare.com/regulatory/hhs-launches-national-kidney-plan-transform-nations-kidney-care",
-   "source": "Fierce Healthcare",
-   "published": "2026-10-21T17:00:27.657872+00:00",
-   "tickers": [],
-   "tag": "Policy",
-   "sectors": []
-  },
-  {
-   "id": "83ff425a6e6e",
-   "headline": "CMS defers $1.2B in Medicaid funds from California, puts New York on notice after raid",
-   "summary": "The Trump administration is withholding additional funds from California as part of its war with certain states over Medicaid fraud.",
-   "url": "https://www.fiercehealthcare.com/regulatory/trump-admin-pausing-over-1b-medicaid-payments-california-minnesota",
-   "source": "Fierce Healthcare",
-   "published": "2026-10-21T17:00:27.656994+00:00",
-   "tickers": [],
-   "tag": "Policy",
-   "sectors": []
-  },
-  {
-   "id": "6f81e199595a",
-   "headline": "Myriad Genetics to sell off Prenatal Health testing business to Labcorp",
-   "summary": "Myriad Genetics is selling off its Prenatal Health testing biz to Labcorp for $210 million in cash.",
-   "url": "https://www.fiercebiotech.com/medtech/myriad-genetics-sell-prenatal-health-testing-business-labcorp",
-   "source": "Fierce Biotech",
-   "published": "2026-10-21T17:00:27.340812+00:00",
-   "tickers": [
-    "LH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "a9e430ce1e88",
-   "headline": "Elevance Health Inc. Q3 2026 Earnings Call Summary",
-   "summary": "Moby summary of Elevance Health Inc.'s Q3 2026 earnings call",
-   "url": "https://finnhub.io/api/news?id=72d79f108cfaf491acd424a1046110942bb0a24f7a04cb9950e568c929378060",
-   "source": "Yahoo",
-   "published": "2026-10-21T16:57:59+00:00",
-   "tickers": [
-    "ELV"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "ec84840a4dae",
-   "headline": "Medpace Holdings Terminates Existing Buyback Authorization, Approves New $1B Share Repurchase Program Through 2028",
-   "summary": "-SEC Filing",
-   "url": "https://finnhub.io/api/news?id=2c6d331b607dd91053322ffa00a5d6b1d5c5dc44df88e3245b3dc1b40a790311",
-   "source": "Benzinga",
-   "published": "2026-10-21T16:57:58+00:00",
-   "tickers": [
-    "MEDP"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "5c03d68fd787",
-   "headline": "Danaher Corporation Q3 2026 Earnings Call Summary",
-   "summary": "Moby summary of Danaher Corporation's Q3 2026 earnings call",
-   "url": "https://finnhub.io/api/news?id=cff7500f8cd59b98a90c30a572bc401c3289734cba6fd6bf8a01a761558f6737",
-   "source": "Yahoo",
-   "published": "2026-10-21T16:57:46+00:00",
-   "tickers": [
-    "DHR"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "3bcd98076b72",
-   "headline": "Intuitive Surgical Hammered As Elevated Buy-Side Views Outshine Solid Numbers",
-   "summary": "Intuitive Surgical stock tumbled Wednesday as elevated expectations from the buy-side hampered the solid third-quarter report.",
-   "url": "https://finnhub.io/api/news?id=9e032ac5e9602b6ba0c000c123074509533d91cc3f372ef2da39d02bcb1a1369",
-   "source": "Yahoo",
-   "published": "2026-10-21T16:55:25+00:00",
-   "tickers": [
-    "ISRG"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "ea9a2deff091",
-   "headline": "Why This Pharma Pro Likes Johnson & Johnson, Eli Lilly, and Merck Stock",
-   "summary": "Despite rising interest rates and the uncertainty of midterm elections, Asad Haider of Goldman Sachs sees promise in Big Pharma and biotech.",
-   "url": "https://finnhub.io/api/news?id=f5abb9789bc133fffb098f2944a7386165767acd4b1709ab9cb02f60e4ad6638",
-   "source": "Yahoo",
-   "published": "2026-10-21T16:51:00+00:00",
-   "tickers": [
-    "JNJ",
-    "LLY",
-    "MRK",
-    "MRNA",
-    "RVMD"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "de65cd710ceb",
-   "headline": "Thermo Fisher Scientific Inc. Q3 2026 Earnings Call Summary",
-   "summary": "Moby summary of Thermo Fisher Scientific Inc.'s Q3 2026 earnings call",
-   "url": "https://finnhub.io/api/news?id=65bf70db46bbf7c91b034852909c161afe0286de1b6c8e090326665a2faa2eca",
-   "source": "Yahoo",
-   "published": "2026-10-21T16:49:19+00:00",
-   "tickers": [
-    "TMO"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "bba9ef30d0d1",
-   "headline": "Abbott Laboratories Q3 2026 Earnings Call Summary",
-   "summary": "Moby summary of Abbott Laboratories's Q3 2026 earnings call",
-   "url": "https://finnhub.io/api/news?id=27490b952818fdbe99aaa611fe1d093285f7bce2adb8193d1feb5de65eae5ba4",
-   "source": "Yahoo",
-   "published": "2026-10-21T16:49:02+00:00",
-   "tickers": [
-    "ABT"
    ],
    "tag": "Earnings",
    "sectors": [
