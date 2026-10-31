@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-31T14:02:46.294922+00:00",
+ "updated": "2026-10-31T14:17:38.076191+00:00",
  "quotes": {
   "A": {
    "price": 174.87,
@@ -117,10 +117,6 @@
   "GDRX": {
    "price": 3.49,
    "change_pct": -1.41
-  },
-  "GH": {
-   "price": 178.8,
-   "change_pct": -3.51
   },
   "GILD": {
    "price": 170.68,
@@ -321,6 +317,10 @@
   "VKTX": {
    "price": 27.28,
    "change_pct": 1.56
+  },
+  "VRTX": {
+   "price": 558.88,
+   "change_pct": 3.5
   }
  },
  "tickers": {
@@ -1289,7 +1289,8 @@
    "published": "2026-10-31T05:14:46+00:00",
    "tickers": [
     "LLY",
-    "MRK"
+    "MRK",
+    "NVO"
    ],
    "tag": "News",
    "sectors": [
@@ -2909,6 +2910,22 @@
     "SNY"
    ],
    "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "1cdec8801499",
+   "headline": "Alphabet Posts Worst Week Since 2011, Intel Suffers Record Crash as Warsh Sees 'Cracks': This Week on Wall Street",
+   "summary": "Alphabet logs its worst week since 2011 and Intel its worst day ever as the AI trade cracks, while health care posts a record month against the market.",
+   "url": "https://finnhub.io/api/news?id=6fddd5ee73b6a428f9d8e3f51b999046d1a7c6b5e1466b9932cbf5bf7f5df059",
+   "source": "Benzinga",
+   "published": "2026-10-30T16:55:28+00:00",
+   "tickers": [
+    "HCA",
+    "REGN"
+   ],
+   "tag": "Health AI",
    "sectors": [
     "pharma"
    ]
@@ -4612,6 +4629,21 @@
    ]
   },
   {
+   "id": "00073d43f90b",
+   "headline": "AbbVie Raises 2026 Outlook, Boosts Dividend",
+   "summary": "AbbVie hits a new 52-week high after beating Q3 2026 earnings estimates, raising its full-year guidance, and boosting its dividend.",
+   "url": "https://finnhub.io/api/news?id=cf45cb6bbf215e87c027631b851729ed8ec3b82cf2918012fd091f4bdcd8aa7b",
+   "source": "Benzinga",
+   "published": "2026-10-30T13:46:59+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "09ce035a4f2e",
    "headline": "Netflix initiated, Instacart upgraded: Wall Street's top analyst calls",
    "summary": "Netflix initiated, Instacart upgraded: Wall Street's top analyst calls",
@@ -4992,6 +5024,21 @@
    ]
   },
   {
+   "id": "0a9f0d4b49de",
+   "headline": "Nasdaq Tumbles Over 3%, Chip Stocks Sink: Stock Market Today",
+   "summary": "Intel nears its worst day on record after weak guidance, sinking chip stocks as SMH falls 7.0% and the Nasdaq 100 drops 3.2%.",
+   "url": "https://finnhub.io/api/news?id=6c9a3db35704f331bdc289b9f4c8e288533fcd4dfaa49387addea8c06153c018",
+   "source": "Benzinga",
+   "published": "2026-10-30T13:05:05+00:00",
+   "tickers": [
+    "REGN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "10c417fba117",
    "headline": "Sanofi Q3 Earnings & Sales Beat, 2026 View Up, Shares Rise",
    "summary": "SNY beats Q3 earnings and sales estimates as Dupixent drives growth and the company raises its 2026 outlook for sales and business EPS.",
@@ -5017,6 +5064,21 @@
    "published": "2026-10-30T13:02:36+00:00",
    "tickers": [
     "LLY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "76024c3e0ed1",
+   "headline": "CNBC Halftime Report Final Trades: Amazon, Alphabet Class A, IBM, Goldman Sachs Nasdaq-100 Premium Income ETF",
+   "summary": "",
+   "url": "https://finnhub.io/api/news?id=f517aeff83e71d8bc25bd501de16afd8af98839872ba49e7261dcf284e6abcfd",
+   "source": "Benzinga",
+   "published": "2026-10-30T13:02:09+00:00",
+   "tickers": [
+    "ABBV"
    ],
    "tag": "News",
    "sectors": [
@@ -5557,6 +5619,21 @@
     "IART"
    ],
    "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "24d0d570cac0",
+   "headline": "DexCom, Inc. Q3 2026 Earnings Call Summary",
+   "summary": "Moby summary of DexCom, Inc.'s Q3 2026 earnings call",
+   "url": "https://finnhub.io/api/news?id=9418158d6c4d7295efc59506334ae0d0194b62f85b12b83be0078254282351d5",
+   "source": "Yahoo",
+   "published": "2026-10-30T12:30:00+00:00",
+   "tickers": [
+    "DXCM"
+   ],
+   "tag": "Earnings",
    "sectors": [
     "medtech"
    ]
@@ -52966,73 +53043,6 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "1f099afd3bdb",
-   "headline": "Amid bepirovirsen triumph, GSK quietly scraps trial of next-gen hep B therapy",
-   "summary": "GSK may have cemented its hepatitis B credentials with Tuesday\u2019s landmark FDA nod for its \u201cfunctional cure\u201d bepirovirsen, but the pharma continues to rethink its strategy for next-gen candidates.",
-   "url": "https://www.fiercebiotech.com/biotech/amid-bepirovirsen-triumph-gsk-quietly-scraps-trial-next-gen-hep-b-therapy",
-   "source": "Fierce Biotech",
-   "published": "2026-10-21T14:15:21.251741+00:00",
-   "tickers": [
-    "GSK"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "879b0fac403a",
-   "headline": "SpaceX earnings roundup, Meta earnings preview, and tech trade fears",
-   "summary": "Slatestone Wealth Partner & Chief Market Strategist Kenny Polcari talks about the biggest stories to start your trading day. Earnings are coming and causing stocks to rebound. SpaceX (SPCX) is topping its Q3 estimates, investors are\u2026",
-   "url": "https://finnhub.io/api/news?id=76609308cca98e5095bb1be13805a13eb1102b42fe134ba83e8cd3213a109974",
-   "source": "Yahoo",
-   "published": "2026-10-21T14:06:12+00:00",
-   "tickers": [
-    "ABT",
-    "BDX",
-    "CAH",
-    "CNC",
-    "DHR",
-    "ELV",
-    "HUM",
-    "TMO"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "fc4144618540",
-   "headline": "Thermo Fisher Scientific Q3 Earnings Call Highlights",
-   "summary": "Thermo Fisher Scientific (NYSE:TMO) reported third-quarter revenue growth of 9% to $12.14 billion, supported by 6% organic growth, acquisitions and foreign-exchange effects. Adjusted earnings per share rose 15% to $6.68, while adjusted\u2026",
-   "url": "https://finnhub.io/api/news?id=8d747bec91e98b1293437d2ce1618f950bb94cc006426b3f1199c6c2b193d742",
-   "source": "Yahoo",
-   "published": "2026-10-21T14:02:20+00:00",
-   "tickers": [
-    "TMO"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "c39b2b7c0b63",
-   "headline": "Abbott Yo-Yoes On 'Choppy' Third Quarter As A Key Spinoff Looms",
-   "summary": "Abbott stock yo-yoed early Wednesday on \"choppy\" third-quarter metrics and lowered sales growth expectations.",
-   "url": "https://finnhub.io/api/news?id=2d4aedb2a9e2398aefa3d66c758cdb85a6cd0fb0f6613b3b971a44e4f8eea1d2",
-   "source": "Yahoo",
-   "published": "2026-10-21T14:01:37+00:00",
-   "tickers": [
-    "ABT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
