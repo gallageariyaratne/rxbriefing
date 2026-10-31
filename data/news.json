@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-31T06:17:30.809029+00:00",
+ "updated": "2026-10-31T06:32:40.098488+00:00",
  "quotes": {
   "A": {
    "price": 174.87,
@@ -41,6 +41,10 @@
   "ARGX": {
    "price": 892.87,
    "change_pct": -0.55
+  },
+  "ARWR": {
+   "price": 59.9,
+   "change_pct": -0.98
   },
   "AZN": {
    "price": 186.65,
@@ -289,10 +293,6 @@
   "PACB": {
    "price": 2.6,
    "change_pct": -10.17
-  },
-  "PEN": {
-   "price": 318.95,
-   "change_pct": -0.94
   },
   "PFE": {
    "price": 30.52,
@@ -937,6 +937,23 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "592a59021c71",
+   "headline": "3 Biotech Stocks With Upside Of Up To 80%",
+   "summary": "Tech heavy indices have taken a hit as investors question huge AI spending, which leaves many traders searching for growth stories that are tied less to data centers and more to hard science. That is where high risk, high potential\u2026",
+   "url": "https://finnhub.io/api/news?id=587fde4f98bb0f798dca454f11a444ea164e6cb90ad5e58eee2c0a42bf81b994",
+   "source": "Yahoo",
+   "published": "2026-10-31T04:21:32+00:00",
+   "tickers": [
+    "ARWR",
+    "JAZZ",
+    "JNJ"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "pharma"
+   ]
+  },
   {
    "id": "f888641bcccf",
    "headline": "UHS Q3 2026 deep dive: outpatient expansion, surgical mix shift, and Talkspace integration shape outlook",
