@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-31T15:32:26.948145+00:00",
+ "updated": "2026-10-31T15:47:25.760675+00:00",
  "quotes": {
   "ABBV": {
    "price": 294.89,
@@ -169,10 +169,6 @@
   "MCK": {
    "price": 994.58,
    "change_pct": 1.4
-  },
-  "MDT": {
-   "price": 96.54,
-   "change_pct": -0.59
   },
   "MEDP": {
    "price": 652.01,
@@ -1058,6 +1054,22 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "2af712475a5e",
+   "headline": "Apple Leads Packed Earnings Calendar As Investors Eye Tech, Pharma Results",
+   "summary": "Preview next week\u00e2\u0080\u0099s market movers: jobs data, PMI reports, major earnings from Apple and AMD, and IPO buzz. Read here for more details.",
+   "url": "https://finnhub.io/api/news?id=830af5c87daf35a8f602c2ec6680ca3553df23bdc7beabc0bcac73d5ef2dce14",
+   "source": "SeekingAlpha",
+   "published": "2026-10-31T11:00:00+00:00",
+   "tickers": [
+    "AMGN",
+    "PFE"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "fb27a81427de",
@@ -53648,38 +53660,6 @@
    "tag": "Legal",
    "sectors": [
     "medtech"
-   ]
-  },
-  {
-   "id": "fc6dc138e01a",
-   "headline": "Stock Market Today: Nasdaq Vaults On SpaceX Report; Software Names Gain (Live Coverage)",
-   "summary": "The Nasdaq rallies Wednesday as SpaceX stock surges on earnings. Meta and Tesla are set to report late.",
-   "url": "https://finnhub.io/api/news?id=18ceb7f9c9bfc0dd34ff0c6c627912be00a08d9b78ab20be862d24f053e77f55",
-   "source": "Yahoo",
-   "published": "2026-10-21T15:43:35+00:00",
-   "tickers": [
-    "ILMN",
-    "JNJ",
-    "MEDP"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "534ab752cde4",
-   "headline": "Illumina\u2019s (ILMN) Strong Quarterly Beats on Revenue and Earnings Drive Share Gains",
-   "summary": "Calamos Investments, a diversified global asset management firm, released its third-quarter 2026 investor letter for \u201cCalamos Global Equity Fund\u201d. A copy of the letter can be downloaded here. The fund returned 16.57% YTD, outperforming\u2026",
-   "url": "https://finnhub.io/api/news?id=5ecbd80c884d0fafd1108ce3d460cd4e2844189e4c0457366e1b96fc6c4f4818",
-   "source": "Yahoo",
-   "published": "2026-10-21T15:34:15+00:00",
-   "tickers": [
-    "ILMN"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
    ]
   }
  ]
