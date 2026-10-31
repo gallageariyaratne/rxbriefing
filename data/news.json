@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-31T21:02:19.338911+00:00",
+ "updated": "2026-10-31T21:17:01.964272+00:00",
  "quotes": {
   "ABBV": {
    "price": 294.89,
@@ -150,10 +150,6 @@
    "price": 160.79,
    "change_pct": -0.19
   },
-  "OMCL": {
-   "price": 36.65,
-   "change_pct": -0.62
-  },
   "PEN": {
    "price": 318.95,
    "change_pct": -0.94
@@ -189,10 +185,6 @@
   "RVMD": {
    "price": 191.31,
    "change_pct": 0.55
-  },
-  "SMMT": {
-   "price": 16.03,
-   "change_pct": -1.05
   },
   "SNY": {
    "price": 44.34,
@@ -952,6 +944,21 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "9bdf2f37f9a7",
+   "headline": "AstraZeneca (AZN) Q3 2026 Earnings Call Transcript",
+   "summary": "Oncology and rare disease momentum offset cardiovascular headwinds.",
+   "url": "https://finnhub.io/api/news?id=6cbf113bb2e1fcdf720a5d3541cca9aa8b737c37e77c6c1cb4530d10c66d1e7b",
+   "source": "Yahoo",
+   "published": "2026-10-31T15:58:46+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -52284,51 +52291,6 @@
     "REGN"
    ],
    "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "b82a25ec932a",
-   "headline": "Molina Healthcare Inc (NYSE:MOH) Q3 EPS Beats but Shares Fall on Forward Headwinds",
-   "summary": "Molina Health Q3 2026 mixed: EPS beat, revenue in line, shares fell on Q4 headwinds and cautious Medicaid margin recovery outlook.",
-   "url": "https://finnhub.io/api/news?id=d327f6afeb925fd4b1d7059ae2f86455bebbcaa3343572067c2ddb0ab53b7998",
-   "source": "ChartMill",
-   "published": "2026-10-21T21:10:44+00:00",
-   "tickers": [
-    "MOH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "5b68c54cbaf3",
-   "headline": "Medpace (NASDAQ:MEDP) Q3 Revenue In Line and EPS Beat Offset by Cautious Sales Guidance",
-   "summary": "Medpace Q3 2026 revenue matched estimates and EPS topped consensus, but shares dipped after hours as full-year sales guidance missed expectations.",
-   "url": "https://finnhub.io/api/news?id=b190b6e3f9e1fe1838ac4a5a6572f99f91b5045bf55a40de159d390477598589",
-   "source": "ChartMill",
-   "published": "2026-10-21T21:09:34+00:00",
-   "tickers": [
-    "MEDP"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "f0812d504ebe",
-   "headline": "REGENXBIO Eyes Q4 Pivotal Readout for One-Time Wet AMD Gene Therapy",
-   "summary": "REGENXBIO (NASDAQ:RGNX) outlined its clinical, manufacturing and commercialization plans for sura-vec, an investigational one-time subretinal gene therapy for wet age-related macular degeneration, or wet AMD, during a company event\u2026",
-   "url": "https://finnhub.io/api/news?id=ec3b7663a233787e4dd0e70783dd1fd4211f2d820ad3cb4d7e3f0f1664dbcd2e",
-   "source": "Yahoo",
-   "published": "2026-10-21T21:02:08+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "Clinical",
    "sectors": [
     "pharma"
    ]
