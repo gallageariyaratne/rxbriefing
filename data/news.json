@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-31T20:32:11.631193+00:00",
+ "updated": "2026-10-31T20:47:10.948218+00:00",
  "quotes": {
   "ABBV": {
    "price": 294.89,
@@ -193,10 +193,6 @@
   "RVMD": {
    "price": 191.31,
    "change_pct": 0.55
-  },
-  "RXRX": {
-   "price": 4.03,
-   "change_pct": -4.95
   },
   "SMMT": {
    "price": 16.03,
@@ -857,6 +853,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "bf8400c1a341",
+   "headline": "5 insightful analyst questions from Align Technology\u2019s Q3 earnings call",
+   "summary": "Align Technology\u2019s third quarter results were shaped by a combination of resilient Clear Aligner demand and shifts in product mix, particularly toward lower-priced scanner configurations. Management cited record doctor participation and\u2026",
+   "url": "https://finnhub.io/api/news?id=c165ac01f09d98127d591e0e06209bf1ccce9a7ea63c27436da4f7c6a25e8467",
+   "source": "Yahoo",
+   "published": "2026-10-31T19:23:29+00:00",
+   "tickers": [
+    "ALGN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
   {
    "id": "64ce0c56d777",
    "headline": "Suze Orman Says You Don\u2019t Have to Buy Every Market Dip. Here\u2019s Why",
@@ -52474,127 +52485,6 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "bb1c2f25f2e3",
-   "headline": "2 Healthcare Stocks to Buy After Crushing Q3 Earnings Expectations: ELV & ISRG",
-   "summary": "Intuitive Surgical (ISRG) and Elevance Health (ELV) delivered impressive Q3 earnings beats, making both healthcare stocks worth considering as their growth outlooks improve.",
-   "url": "https://finnhub.io/api/news?id=9f0ab54d9a8a48c4749e2d0c32b39d7ff080f86fd0d18c9bdcb5686978ed15e5",
-   "source": "Yahoo",
-   "published": "2026-10-21T20:46:00+00:00",
-   "tickers": [
-    "ELV",
-    "ISRG"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "77f3e82a4f1f",
-   "headline": "AbbVie (ABBV) Stock Declines While Market Improves: Some Information for Investors",
-   "summary": "The latest trading day saw AbbVie (ABBV) settling at $284.8, representing a -1.48% change from its previous close.",
-   "url": "https://finnhub.io/api/news?id=a0557876049c892b1e60e52e6bcc47345c2aa86dfc6f6c29d0ec47c25f582741",
-   "source": "Yahoo",
-   "published": "2026-10-21T20:45:04+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "7521d13b1550",
-   "headline": "CVS Health (CVS) Stock Sinks As Market Gains: What You Should Know",
-   "summary": "In the latest trading session, CVS Health (CVS) closed at $93.45, marking a -1.37% move from the previous day.",
-   "url": "https://finnhub.io/api/news?id=9c0887ba82e8571d9ae8345a15abd4b6f8c40f6016feb124224ceebabb4f87f0",
-   "source": "Yahoo",
-   "published": "2026-10-21T20:45:04+00:00",
-   "tickers": [
-    "CVS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "a4e80252df1f",
-   "headline": "Merck (MRK) Laps the Stock Market: Here's Why",
-   "summary": "The latest trading day saw Merck (MRK) settling at $149.88, representing a +1.07% change from its previous close.",
-   "url": "https://finnhub.io/api/news?id=eeb60046f6587a9a2a0895855322673d6af4d7b3ef5f88b87bf06aa946c04e42",
-   "source": "Yahoo",
-   "published": "2026-10-21T20:45:04+00:00",
-   "tickers": [
-    "MRK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "ea6cd03243ad",
-   "headline": "Stock Market Today: Dow Pops; Nasdaq Charges Higher As SpaceX Soars On Earnings, Tesla Talks",
-   "summary": "The Nasdaq rallies Wednesday as SpaceX stock surges on earnings. Meta Platforms and Tesla post earnings late.",
-   "url": "https://finnhub.io/api/news?id=aec8495c2e3c296a8d0ed64027764e3326cca21730a58e6ce7a0425044b98801",
-   "source": "Yahoo",
-   "published": "2026-10-21T20:41:18+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "360c7d02000a",
-   "headline": "Labcorp Holdings Inc. Declares Cash Dividend of $0.72 Per Share",
-   "summary": "",
-   "url": "https://finnhub.io/api/news?id=cd7c653ffefe7661a2107c2ea7bcc36858f66dd1183a7f69ed3a24642a2353fc",
-   "source": "Fintel",
-   "published": "2026-10-21T20:37:35+00:00",
-   "tickers": [
-    "LH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "8a4c825f83af",
-   "headline": "Abbott: 3 Key Takeaways for Long-Term Investors",
-   "summary": "Pulsed field ablation and expanded cancer screening tools position the core business for accelerated growth beyond historical rates.",
-   "url": "https://finnhub.io/api/news?id=242ac6dd6c74c9732bc1541dd489c07c394a828ce4ba4823041cb8a67df77ea7",
-   "source": "Yahoo",
-   "published": "2026-10-21T20:35:38+00:00",
-   "tickers": [
-    "ABT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "efe961a465e0",
-   "headline": "Abbott Laboratories Announces Plan to Separate Global Nutrition Business",
-   "summary": "",
-   "url": "https://finnhub.io/api/news?id=1ffcf35448e64a979dc3a41218790adb9a8e1912cab353c591b709de441da5c8",
-   "source": "Fintel",
-   "published": "2026-10-21T20:31:49+00:00",
-   "tickers": [
-    "ABT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
