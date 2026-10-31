@@ -1,14 +1,10 @@
 {
  "site": "RxBriefing",
- "updated": "2026-10-31T20:17:18.206253+00:00",
+ "updated": "2026-10-31T20:32:11.631193+00:00",
  "quotes": {
   "ABBV": {
    "price": 294.89,
    "change_pct": 1.41
-  },
-  "ABSI": {
-   "price": 11.13,
-   "change_pct": -8.02
   },
   "ALGN": {
    "price": 149.89,
@@ -41,10 +37,6 @@
   "BSX": {
    "price": 41.98,
    "change_pct": -1.66
-  },
-  "CERT": {
-   "price": 11.02,
-   "change_pct": -1.61
   },
   "CNC": {
    "price": 68.45,
@@ -865,6 +857,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "64ce0c56d777",
+   "headline": "Suze Orman Says You Don\u2019t Have to Buy Every Market Dip. Here\u2019s Why",
+   "summary": "Suze Orman says sitting still during a market sell-off is a legitimate strategy, but retirees paying bills from a falling portfolio rarely get that luxury. A specific kind of stock changes that calculation.",
+   "url": "https://finnhub.io/api/news?id=6a4dbe39666fc377ddf0ed0797a8d2c7214b281f40f8e93d24e2b0fecad4945b",
+   "source": "Yahoo",
+   "published": "2026-10-31T18:17:29+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "pharma"
+   ]
+  },
   {
    "id": "345e20c866d3",
    "headline": "Regeneron (REGN) Stock Looks At A Discount To Earnings",
@@ -52588,56 +52595,6 @@
    "tag": "News",
    "sectors": [
     "medtech"
-   ]
-  },
-  {
-   "id": "be06074b831c",
-   "headline": "Medpace (NASDAQ:MEDP) reports Q3 2026 in line with expectations",
-   "summary": "Clinical research company Medpace Holdings (NASDAQ:MEDP) met Wall Street\u2019s revenue expectations in Q3 2026, with sales up 8.5% year on year to $716 million. The company\u2019s outlook for the full year was close to analysts\u2019 estimates with\u2026",
-   "url": "https://finnhub.io/api/news?id=c34fd287e363a99389a50fcc49f91e371ff7b0d77beac021467ff9ddf0a53294",
-   "source": "Yahoo",
-   "published": "2026-10-21T20:28:45+00:00",
-   "tickers": [
-    "MEDP"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "21c553e58cf6",
-   "headline": "Medpace: Q3 Earnings Snapshot",
-   "summary": "CINCINNATI (AP) \u2014 CINCINNATI (AP) \u2014 Medpace Holdings Inc. (MEDP) on Wednesday reported profit of $137.",
-   "url": "https://finnhub.io/api/news?id=934ad0929ab1d8596abe6e47aa9250d213e593a69f2fd5b78728e37069976e63",
-   "source": "Yahoo",
-   "published": "2026-10-21T20:28:16+00:00",
-   "tickers": [
-    "MEDP"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "4cf81687f9fa",
-   "headline": "Is One Older Drug The Biggest Risk To Bristol Myers Squibb Stock?",
-   "summary": "For questions about this article or underlying research, email help@trefis.com.",
-   "url": "https://finnhub.io/api/news?id=60fab21e4459df56884c06727fb45337dcfb39de578b8bb76a818cb0b9a2c61f",
-   "source": "Yahoo",
-   "published": "2026-10-21T20:26:11+00:00",
-   "tickers": [
-    "ABBV",
-    "BMY",
-    "JNJ",
-    "LLY",
-    "MRK",
-    "PFE"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
