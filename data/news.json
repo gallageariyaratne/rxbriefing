@@ -1,10 +1,14 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-01T20:46:39.123671+00:00",
+ "updated": "2026-11-01T21:01:51.163102+00:00",
  "quotes": {
   "ABBV": {
    "price": 294.89,
    "change_pct": 1.41
+  },
+  "ABT": {
+   "price": 106.2,
+   "change_pct": 1.56
   },
   "ALNY": {
    "price": 165,
@@ -742,6 +746,21 @@
  },
  "stories": [
   {
+   "id": "d16d91730530",
+   "headline": "Abbott's TECTONIC clinical trial demonstrates strong 30-day outcomes and high procedural success for its investigational SonicForce\u2122 Coronary Intravascular Lithotripsy System",
+   "summary": "SonicForce is an investigational coronary intravascular lithotripsy (IVL) system that uses acoustic pressure waves, similar to those used to break up kidney stones, to crack calcium in coronary arteries and restore blood flow The system\u2026",
+   "url": "https://www.prnewswire.com/news-releases/abbotts-tectonic-clinical-trial-demonstrates-strong-30-day-outcomes-and-high-procedural-success-for-its-investigational-sonicforce-coronary-intravascular-lithotripsy-system-302925602.html",
+   "source": "PR Newswire",
+   "published": "2026-11-01T20:45:00+00:00",
+   "tickers": [
+    "ABT"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "69e12d0078d5",
    "headline": "Jobs, Midterm Elections, Apple, Palantir, McDonald\u2019s, Moderna, and More to Watch This Week",
    "summary": "In another busy earnings week, AMD, Est\u00e9e Lauder, Qualcomm, Pfizer, and many more will report results. We\u2019ll see three readings on jobs this week, as well as data on the manufacturing and services sectors.",
@@ -749,6 +768,7 @@
    "source": "Yahoo",
    "published": "2026-11-01T19:00:00+00:00",
    "tickers": [
+    "MRNA",
     "PFE"
    ],
    "tag": "Earnings",
@@ -47184,138 +47204,6 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "f2c7d081eb0a",
-   "headline": "Uninsured rate climbs to 11.2% in 2026: Commonwealth Fund",
-   "summary": "The uninsured rate has climbed over the past two years as Medicaid work requirements\u2014which are expected to drive their own coverage losses\u2014loom at the beginning of 2027.",
-   "url": "https://www.fiercehealthcare.com/payers/uninsured-rate-climbs-112-2026-commonwealth-fund",
-   "source": "Fierce Healthcare",
-   "published": "2026-10-22T21:00:37.763983+00:00",
-   "tickers": [],
-   "tag": "Policy",
-   "sectors": []
-  },
-  {
-   "id": "8f4fabaee3c0",
-   "headline": "CRISPR Therapeutics AG (CRSP) Stock Moves -1.21%: What You Should Know",
-   "summary": "CRISPR Therapeutics AG (CRSP) closed the most recent trading day at $49.89, moving 1.21% from the previous trading session.",
-   "url": "https://finnhub.io/api/news?id=23382b2f152d80b0387e8e65b3b169006f4e3fd89a7151c8fba9ef5ba88070e3",
-   "source": "Yahoo",
-   "published": "2026-10-22T21:00:03+00:00",
-   "tickers": [
-    "CRSP"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "8792b43d8052",
-   "headline": "Amgen (AMGN) Gains As Market Dips: What You Should Know",
-   "summary": "Amgen (AMGN) closed at $447.28 in the latest trading session, marking a +2.04% move from the prior day.",
-   "url": "https://finnhub.io/api/news?id=a0abd7425c05d0f4fe1883a1b5fd40a5f09b77c08095ff69f1eb99abd6832e9f",
-   "source": "Yahoo",
-   "published": "2026-10-22T21:00:02+00:00",
-   "tickers": [
-    "AMGN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "1409ab569afc",
-   "headline": "Catheter Precision Announces Publication of Comparative Study Showing LockeT Outperforms Abbott\u2019s Perclose Internal Vascular Closure Device",
-   "summary": "FORT MILL, S.C, Oct. 22, 2026 (GLOBE NEWSWIRE) -- Catheter Precision, a wholly owned subsidiary of Flyte Aviation, Inc. (NYSE American: VJET), today announced the first published comparative study evaluating its LockeT suture retention\u2026",
-   "url": "https://finnhub.io/api/news?id=f98fec8e99488dfa5fdf54445986fffe0f89bedfb09c5b5e06b6fed7098ea631",
-   "source": "Yahoo",
-   "published": "2026-10-22T20:54:00+00:00",
-   "tickers": [
-    "ABT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "b9a98f1f66e8",
-   "headline": "3 Value Stocks with Warning Signs",
-   "summary": "Value investing has produced some of the world\u2019s most famous investing billionaires, including Warren Buffett, David Einhorn, and Seth Klarman, who built their fortunes by purchasing wonderful businesses at reasonable prices. But these\u2026",
-   "url": "https://finnhub.io/api/news?id=164f988617ae629c5ec0cfd223c77369d6cea2f9d52b9e35a62f29c6003edd58",
-   "source": "Yahoo",
-   "published": "2026-10-22T20:53:53+00:00",
-   "tickers": [
-    "EVH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "6b7c20821377",
-   "headline": "Merck Won a Wider EU Bladder Cancer Label for Keytruda. Here\u2019s What Its ESMO Data Needs to Show",
-   "summary": "Key Stats for Merck StockCurrent Price: $149. 88Target Price (Mid): ~$161Street Target: ~$159Potential Total Return: ~8%Annualized IRR: ~2% / year__Now Live: Discover how much upside your favorite stocks could have using TIKR\u2019s new\u2026",
-   "url": "https://finnhub.io/api/news?id=58d7eabacb5edbacf94b8711e30993cae322ba989963842306953eeee7435531",
-   "source": "Yahoo",
-   "published": "2026-10-22T20:53:30+00:00",
-   "tickers": [
-    "MRK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "52ca68098b81",
-   "headline": "Biogen +5% on BofA Price Target Hike Ahead of \u201cRelatively Quiet\u201d Q3",
-   "summary": "Key TakeawaysBiogen shares rose 5% today after BofA raised its price target to $244 from $219 and kept a Neutral rating. BofA\u2019s new target is close to the $247 consensus target, which has climbed 43% over the past year as analysts try to\u2026",
-   "url": "https://finnhub.io/api/news?id=2b8d6979c1a213c87a4ba1f8a01170b9797ae35df10f79cd3d6a38a120ede13f",
-   "source": "Yahoo",
-   "published": "2026-10-22T20:52:06+00:00",
-   "tickers": [
-    "BIIB"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "f1e658286dd4",
-   "headline": "Moderna Stock Sinks Nearly 20% After Leak of Cancer-Vaccine Data",
-   "summary": "Moderna shares are taking a hit after the leak of highly anticipated details about the company\u2019s vaccine for the skin cancer melanoma.",
-   "url": "https://finnhub.io/api/news?id=cbbc4fe71d7bc1211341125ce96f01ab5f2c67857a1ad98b015940eb3f471a5a",
-   "source": "Yahoo",
-   "published": "2026-10-22T20:50:54+00:00",
-   "tickers": [
-    "MRK",
-    "MRNA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "d8ebf52ccfb2",
-   "headline": "Viking Therapeutics, Inc. (VKTX) Falls More Steeply Than Broader Market: What Investors Need to Know",
-   "summary": "In the closing of the recent trading day, Viking Therapeutics, Inc. (VKTX) stood at $25.76, denoting a -2.35% move from the preceding trading day.",
-   "url": "https://finnhub.io/api/news?id=4cc368638a82d89f0a3c0b69af9a2b55d5cd60c3b6e51f7b1f2bb41f6c636a60",
-   "source": "Yahoo",
-   "published": "2026-10-22T20:50:02+00:00",
-   "tickers": [
-    "VKTX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
    ]
   }
  ]
