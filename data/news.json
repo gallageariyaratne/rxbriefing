@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-01T04:32:14.401947+00:00",
+ "updated": "2026-11-01T04:47:06.149584+00:00",
  "quotes": {
   "ABBV": {
    "price": 294.89,
@@ -146,10 +146,6 @@
    "price": 30.52,
    "change_pct": 1.9
   },
-  "PHR": {
-   "price": 12.44,
-   "change_pct": -0.72
-  },
   "PTCT": {
    "price": 59.97,
    "change_pct": -6.97
@@ -209,10 +205,6 @@
   "UNH": {
    "price": 406.97,
    "change_pct": -0.96
-  },
-  "VKTX": {
-   "price": 27.28,
-   "change_pct": 1.56
   },
   "VRTX": {
    "price": 558.88,
@@ -842,6 +834,21 @@
    "published": "2026-11-01T03:23:50+00:00",
    "tickers": [
     "VRTX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "78703487ac6a",
+   "headline": "Dow Jones Futures Loom After Stock Market Sell-Off; Apple, Palantir, Midterm Elections In Focus",
+   "summary": "Techs led another stock market sell-off. It's a time to be defensive. Apple, Palantir, jobs and midterm elections loom.",
+   "url": "https://finnhub.io/api/news?id=125e48825bd1f07d49eaa70961ebe0aab5f08a9db0ad3183a4907b8fa56974a2",
+   "source": "Yahoo",
+   "published": "2026-11-01T02:44:14+00:00",
+   "tickers": [
+    "AMGN"
    ],
    "tag": "News",
    "sectors": [
@@ -52234,36 +52241,6 @@
    "tag": "News",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "80db81a54287",
-   "headline": "BioNTech (BNTX) Stock May Be Fully Valued Despite Fresh Oncology Data Preview",
-   "summary": "BioNTech has seen its share price move around in recent years, and with the focus increasingly on its oncology pipeline, the key question now is whether the current valuation is still aligned with the revenue base behind it. For anyone\u2026",
-   "url": "https://finnhub.io/api/news?id=27622e8b9ed24f68d99308804bbe22eaef3c38ab9bc77b69dd41842e796e9ede",
-   "source": "Yahoo",
-   "published": "2026-10-22T04:32:05+00:00",
-   "tickers": [
-    "BNTX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "a80407e8f3a0",
-   "headline": "UnitedHealth Group (UNH) Will Raise 2027 Medicare Costs For Seniors",
-   "summary": "UnitedHealth Group (NYSE:UNH) and Humana outlined 2027 Medicare plan adjustments that raise premiums and out of pocket costs for seniors. The insurers also flagged cuts to certain Medicare benefits from 2027, affecting coverage breadth\u2026",
-   "url": "https://finnhub.io/api/news?id=44a1701cb3082cdec923bc8f474a0afde79b224c5801a75732147aa26c0b1fa7",
-   "source": "Yahoo",
-   "published": "2026-10-22T04:32:05+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "tag": "Policy",
-   "sectors": [
-    "payers"
    ]
   }
  ]
