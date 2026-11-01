@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-01T08:16:55.408239+00:00",
+ "updated": "2026-11-01T08:31:56.751483+00:00",
  "quotes": {
   "ABBV": {
    "price": 294.89,
@@ -81,6 +81,10 @@
   "ISRG": {
    "price": 432.01,
    "change_pct": -3.73
+  },
+  "JAZZ": {
+   "price": 215.98,
+   "change_pct": 3.92
   },
   "JNJ": {
    "price": 273.2,
@@ -793,6 +797,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "167052580ca5",
+   "headline": "What to expect from Jazz Pharmaceuticals\u2019s (JAZZ) Q3 earnings",
+   "summary": "Biopharma company Jazz Pharmaceuticals (NASDAQ:JAZZ) will be reporting results this Monday after market hours. Here\u2019s what to expect.",
+   "url": "https://finnhub.io/api/news?id=f9838d4ede1e08cf5f1628541802d874bf1c00442157b43b9d811d3d960e97c8",
+   "source": "Yahoo",
+   "published": "2026-11-01T06:51:00+00:00",
+   "tickers": [
+    "JAZZ"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
   {
    "id": "a6e106030ac5",
    "headline": "Medtronic (MDT) Posted Positive Real World Ablation Data",
@@ -51819,69 +51838,6 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "0f9cefd77bbf",
-   "headline": "ELV Q3 deep dive: Carelon expansion and Medicaid margin actions underpin raised outlook",
-   "summary": "Health insurance provider Elevance Health (NYSE:ELV) reported Q3 2026 results beating Wall Street\u2019s revenue expectations, but sales were flat year on year at $50.44 billion. Its non-GAAP profit of $6.99 per share was 48.9% above analysts\u2019\u2026",
-   "url": "https://finnhub.io/api/news?id=f032415b020dc289c0831407729406493183930c66aeb2c35eb4b3c49b4e0edf",
-   "source": "Yahoo",
-   "published": "2026-10-22T08:30:27+00:00",
-   "tickers": [
-    "ELV"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "85c888f7f58a",
-   "headline": "Opinion: What I got wrong about the Affordable Care Act \u2014 and how to fix it",
-   "summary": "\u201cThe big mistake, ironically, was the ACA\u2019s lack of focus on affordability,\u201d writes Dana Goldman.",
-   "url": "https://www.statnews.com/2026/10/22/aca-failure-contain-healthcare-costs-economist-regret/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-10-22T08:30:00+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "1c63fba78c9b",
-   "headline": "Opinion: The inherited disease my family called \u2018it\u2019 had a name, which changed everything",
-   "summary": "For 50 years, doctors shrugged about the disease running through Miranda Pappas\u2019 family. Then she discovered something.",
-   "url": "https://www.statnews.com/2026/10/22/rare-disease-family-name-fenib-personal-essay/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-10-22T08:30:00+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "06f9b188481b",
-   "headline": "STAT+: Telehealth leapfrogs FDA approval with off-label GLP-1 prescriptions for addiction",
-   "summary": "As telehealth promotes GLP-1s for addiction, experts worry about fragmented care, and exposing patients to unknown risks.",
-   "url": "https://www.statnews.com/2026/10/22/glp-1-drugs-substance-use-disorder-telehealth-off-label-prescription/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-10-22T08:30:00+00:00",
-   "tickers": [],
-   "tag": "FDA",
-   "sectors": []
-  },
-  {
-   "id": "8e6518662029",
-   "headline": "EMS-Chemie raises 2026 sales outlook, expects challenging Q4 backdrop; shares dip",
-   "summary": "Investing.com -- EMS-Chemie raised its full-year 2026 sales forecast Thursday, now expecting net sales to match last year\u2019s level, up from its earlier forecast of a slight decline. The Swiss specialty chemicals maker kept its outlook for\u2026",
-   "url": "https://finnhub.io/api/news?id=af64a6e4e7b47a0781d1f4b9c556323a0b3cc926f50bbfe931d0bf880011e64d",
-   "source": "Yahoo",
-   "published": "2026-10-22T08:26:34+00:00",
-   "tickers": [
-    "NVS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
