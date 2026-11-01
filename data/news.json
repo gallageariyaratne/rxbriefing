@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-01T14:46:44.707254+00:00",
+ "updated": "2026-11-01T15:01:48.345137+00:00",
  "quotes": {
   "ABBV": {
    "price": 294.89,
@@ -82,6 +82,10 @@
    "price": 221.72,
    "change_pct": -0.47
   },
+  "NTRA": {
+   "price": 414.3,
+   "change_pct": -4.98
+  },
   "PFE": {
    "price": 30.52,
    "change_pct": 1.9
@@ -105,6 +109,10 @@
   "RMD": {
    "price": 229.94,
    "change_pct": -9.05
+  },
+  "RVMD": {
+   "price": 191.31,
+   "change_pct": 0.55
   },
   "RXRX": {
    "price": 4.03,
@@ -775,6 +783,23 @@
     "PFE"
    ],
    "tag": "Health AI",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "f3907cac4403",
+   "headline": "Earnings Volatility Watch: 10 Stocks Are Set to Swing More Than 10% This Week",
+   "summary": "Ten stocks carry implied earnings moves above 10% next week, led by Moderna and AppLovin. Five are tech names hit in Friday's chip rout.",
+   "url": "https://finnhub.io/api/news?id=11580ea46adbde2a6243b452b62d658eeaae614850c1595b883ece0ea213f70f",
+   "source": "Benzinga",
+   "published": "2026-11-01T08:30:07+00:00",
+   "tickers": [
+    "MRNA",
+    "NTRA",
+    "RVMD"
+   ],
+   "tag": "Earnings",
    "sectors": [
     "pharma"
    ]
@@ -49085,48 +49110,6 @@
    "tag": "Earnings",
    "sectors": [
     "tools"
-   ]
-  },
-  {
-   "id": "5e2ad68d83f9",
-   "headline": "Esteve earmarks $80M to revamp CDMO operations in China",
-   "summary": "In the next phase of its global expansion, Esteve is set to invest $80 million in an upgrade and relocation of its CDMO business in China.",
-   "url": "https://www.fiercepharma.com/pharma/esteve-earmarks-80m-revamp-china-operations",
-   "source": "Fierce Pharma",
-   "published": "2026-10-22T15:00:29.597100+00:00",
-   "tickers": [],
-   "tag": "Analyst",
-   "sectors": []
-  },
-  {
-   "id": "4c85b084e06e",
-   "headline": "Alignment Health Adds New Medicare Advantage Plan in Pima County, Increasing Access and Choice for Arizona Seniors",
-   "summary": "New plan strengthens Alignment\u2019s Arizona portfolio available to nearly 1.1 million Medicare beneficiaries across Maricopa, Pima and Santa Cruz countiesPHOENIX, Oct. 22, 2026 (GLOBE NEWSWIRE) -- Alignment Health Plan, an award-winning\u2026",
-   "url": "https://finnhub.io/api/news?id=e5b97470d3730ceca91069599a6a2024c8cc2ab3d8a7dcbeed6ab8ba738d19b6",
-   "source": "Yahoo",
-   "published": "2026-10-22T15:00:00+00:00",
-   "tickers": [
-    "ALHC"
-   ],
-   "tag": "Policy",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "f21210ada5c0",
-   "headline": "Why Is Moderna Stock Sinking Thursday?",
-   "summary": "Moderna stock plummeted 25% following an alleged ESMO 2026 abstract leak showing lower-than-expected melanoma vaccine Phase 3 efficacy.",
-   "url": "https://finnhub.io/api/news?id=c9839c9fe148aecbd501cf63df521bdef0d83b1bc29093b37ce1d9838230f159",
-   "source": "Benzinga",
-   "published": "2026-10-22T14:47:36+00:00",
-   "tickers": [
-    "MRK",
-    "MRNA"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
