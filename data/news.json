@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-01T04:17:02.605882+00:00",
+ "updated": "2026-11-01T04:32:14.401947+00:00",
  "quotes": {
   "ABBV": {
    "price": 294.89,
@@ -21,10 +21,6 @@
   "AMGN": {
    "price": 466.01,
    "change_pct": 1.15
-  },
-  "ARWR": {
-   "price": 59.9,
-   "change_pct": -0.98
   },
   "AZN": {
    "price": 186.65,
@@ -105,10 +101,6 @@
   "ISRG": {
    "price": 432.01,
    "change_pct": -3.73
-  },
-  "JAZZ": {
-   "price": 215.98,
-   "change_pct": 3.92
   },
   "JNJ": {
    "price": 273.2,
@@ -201,6 +193,10 @@
   "TGTX": {
    "price": 61.18,
    "change_pct": 5.34
+  },
+  "THC": {
+   "price": 273.25,
+   "change_pct": 0.99
   },
   "TMO": {
    "price": 697,
@@ -838,6 +834,21 @@
  },
  "stories": [
   {
+   "id": "5546eb5d4f2e",
+   "headline": "Vertex Pharmaceuticals (VRTX) Stock May Still Have Value Following A 190% Run",
+   "summary": "Vertex Pharmaceuticals has delivered a strong multi year share price run, and the question now is whether that climb can be backed up by the cash the business is expected to generate. With a Discounted Cash Flow (DCF) framework available,\u2026",
+   "url": "https://finnhub.io/api/news?id=938d6a29e0c9a7384c33d6be3500d3d95b94099b0c3ae8f6dd123eedcf6224f5",
+   "source": "Yahoo",
+   "published": "2026-11-01T03:23:50+00:00",
+   "tickers": [
+    "VRTX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "f7e7512061fc",
    "headline": "DXCM Q3 deep dive: clinical momentum and new product launches support growth trajectory",
    "summary": "Medical device company DexCom (NASDAQ:DXCM) reported revenue ahead of Wall Street\u2019s expectations in Q3 2026, with sales up 11.2% year on year to $1.34 billion. The company expects the full year\u2019s revenue to be around $5.23 billion, close\u2026",
@@ -850,6 +861,36 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "9603989208de",
+   "headline": "5% Above Fair Value? Tenet Healthcare (THC) On Raised 2026 Earnings Guidance",
+   "summary": "Tenet Healthcare (THC) moved into focus after management raised full year 2026 earnings guidance, following third quarter results that paired higher revenue with much stronger net income and earnings per share. The latest earnings news\u2026",
+   "url": "https://finnhub.io/api/news?id=2e3caca73ca4dd366bc8a5fa659f8502986cfb1ebd0a92f85ea395290a9fec54",
+   "source": "Yahoo",
+   "published": "2026-11-01T02:09:10+00:00",
+   "tickers": [
+    "THC"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "3def8d96eae9",
+   "headline": "Cencora (COR) Stock Still Looks Undervalued After Its 173% Run",
+   "summary": "Cencora has put up a powerful long term share price performance, yet the current US$330.84 price invites a sharper question. Are the cash flows behind the business strong enough, and predictable enough, to make that level look well\u2026",
+   "url": "https://finnhub.io/api/news?id=b4a71a661b44b3701ced2e30b43984a6e574ec44241b2230b118b145810060d3",
+   "source": "Yahoo",
+   "published": "2026-11-01T02:08:15+00:00",
+   "tickers": [
+    "COR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharmacy"
    ]
   },
   {
@@ -52223,67 +52264,6 @@
    "tag": "Policy",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "873c098a6191",
-   "headline": "AstraZeneca (LSE:AZN) Reports Positive Phase III Results In Eosinophilic Esophagitis",
-   "summary": "AstraZeneca (LSE:AZN) and Amgen reported positive Phase III results for TEZSPIRE in eosinophilic esophagitis in October 2026. The Phase III trial showed statistically significant and sustained efficacy for TEZSPIRE in patients with\u2026",
-   "url": "https://finnhub.io/api/news?id=149bba6ed84e4c346db9c6f321b586d29b7752c84891206c7624d1959634d9a5",
-   "source": "Yahoo",
-   "published": "2026-10-22T04:30:38+00:00",
-   "tickers": [
-    "AMGN",
-    "AZN"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "2638647d754d",
-   "headline": "Pfizer (PFE) Signs New Drug Discovery Pact Focused On Sec61 Inhibitors",
-   "summary": "Pfizer (NYSE:PFE) signed a new research collaboration and license agreement with Enodia Therapeutics to develop Sec61 inhibitors. The arrangement centers on small-molecule Sec61 blockers that Enodia is advancing using its proprietary\u2026",
-   "url": "https://finnhub.io/api/news?id=8ce09ca18fb771b068a5c289e547d25a9ec2ac820b90b0c25c7e6e22f610346e",
-   "source": "Yahoo",
-   "published": "2026-10-22T04:30:36+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "75fd88212bce",
-   "headline": "ICON (ICLR) Stock Could Be A Bargain After Cash Flow Rebound",
-   "summary": "ICON shares have climbed back to US$185.25 after a choppy few years, so the live question is whether that rebound is supported by the cash the business is expected to generate. With mixed recent returns and evolving expectations for\u2026",
-   "url": "https://finnhub.io/api/news?id=6cae5e5ab85cc03562d22a26415529b4026385f9464f6aa3e01b05d302b954e7",
-   "source": "Yahoo",
-   "published": "2026-10-22T04:26:47+00:00",
-   "tickers": [
-    "ICLR"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "a354f01bb7a3",
-   "headline": "Danaher (DHR) Stock Fair Value Edges Higher After Analysts Lift Targets",
-   "summary": "Danaher is back in focus as analysts edge price targets into the US$240 to US$255 range, with some models now centering around fair value of about US$244.14. This shift reflects recent research that is divided between optimism on\u2026",
-   "url": "https://finnhub.io/api/news?id=7e5174df82bdc49c5e321a9591ac5e12bfa0470dedb238359c99853a4f7e9004",
-   "source": "Yahoo",
-   "published": "2026-10-22T04:26:04+00:00",
-   "tickers": [
-    "DHR"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "tools"
    ]
   }
  ]
