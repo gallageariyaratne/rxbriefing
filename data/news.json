@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-01T22:49:11.242101+00:00",
+ "updated": "2026-11-01T23:01:48.984012+00:00",
  "quotes": {
   "ABBV": {
    "price": 294.89,
@@ -41,6 +41,10 @@
   "GEHC": {
    "price": 76.57,
    "change_pct": 0.2
+  },
+  "GILD": {
+   "price": 170.68,
+   "change_pct": 3.06
   },
   "ILMN": {
    "price": 235.99,
@@ -729,6 +733,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "0083456045ea",
+   "headline": "1 Dividend-Paying Biotech Stock to Buy Hand Over Fist in November",
+   "summary": "The company is having a great year.",
+   "url": "https://finnhub.io/api/news?id=b19ec3d2520c7c0fa2c15d06c3c36b6b66325ddfb2428e827f6e7028d645341a",
+   "source": "Yahoo",
+   "published": "2026-11-01T21:02:00+00:00",
+   "tickers": [
+    "GILD"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "pharma"
+   ]
+  },
   {
    "id": "d16d91730530",
    "headline": "Abbott's TECTONIC clinical trial demonstrates strong 30-day outcomes and high procedural success for its investigational SonicForce\u2122 Coronary Intravascular Lithotripsy System",
