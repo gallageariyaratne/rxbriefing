@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-01T00:47:09.617849+00:00",
+ "updated": "2026-11-01T01:02:19.829786+00:00",
  "quotes": {
   "ABBV": {
    "price": 294.89,
@@ -170,6 +170,10 @@
    "price": 229.94,
    "change_pct": -9.05
   },
+  "RXRX": {
+   "price": 4.03,
+   "change_pct": -4.95
+  },
   "SYK": {
    "price": 291.86,
    "change_pct": -6.38
@@ -181,6 +185,10 @@
   "TEM": {
    "price": 72.22,
    "change_pct": -7.22
+  },
+  "TGTX": {
+   "price": 61.18,
+   "change_pct": 5.34
   },
   "THC": {
    "price": 273.25,
@@ -875,6 +883,36 @@
    ]
   },
   {
+   "id": "40e559c9abe3",
+   "headline": "1 Big Winner and 1 Loser From the Upcoming Anthropic IPO",
+   "summary": "These two companies could move in different directions over the medium term.",
+   "url": "https://finnhub.io/api/news?id=86a07bce162076ca292361cc81b1064479fd4e812dbac9cfea20f38a41af0a8c",
+   "source": "Yahoo",
+   "published": "2026-10-31T23:05:02+00:00",
+   "tickers": [
+    "RXRX"
+   ],
+   "tag": "Financing",
+   "sectors": [
+    "healthai"
+   ]
+  },
+  {
+   "id": "fddf724ea805",
+   "headline": "After Eli Lilly\u2019s Explosive Earnings Report, Is It Too Late to Buy the Stock?",
+   "summary": "Eli Lilly stock is trading at a record high.",
+   "url": "https://finnhub.io/api/news?id=b7ca93e58f918d2abd9b2ba809bb6712d8650e7827a434036efde8300eb984da",
+   "source": "Yahoo",
+   "published": "2026-10-31T22:30:02+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "9324929080e1",
    "headline": "What Does Incyte (INCY) First Patient Dosing Mean For Its Colorectal Cancer Pipeline?",
    "summary": "Incyte (NasdaqGS: INCY) and Adagene have started first patient dosing in a Phase 1 trial combining INCA33890 with muzastotug for microsatellite stable colorectal cancer. The early stage study is testing the investigational combination in\u2026",
@@ -887,6 +925,21 @@
    "tag": "Clinical",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "25348377e0d4",
+   "headline": "MRK Q3 deep dive: oncology launches, clinical pipeline advances, and margin headwinds",
+   "summary": "Global pharmaceutical company Merck (NYSE:MRK) reported revenue ahead of Wall Street\u2019s expectations in Q3 2026, with sales up 4.7% year on year to $18.09 billion. The company expects the full year\u2019s revenue to be around $67.05 billion,\u2026",
+   "url": "https://finnhub.io/api/news?id=d8cfe4e4111d66c252dfe2cab73cc3876f4034f79e72e30f9e3303ab34d63dc1",
+   "source": "Yahoo",
+   "published": "2026-10-31T22:03:00+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1378,7 +1431,8 @@
    "source": "Yahoo",
    "published": "2026-10-31T12:00:40+00:00",
    "tickers": [
-    "DGX"
+    "DGX",
+    "TGTX"
    ],
    "tag": "Earnings",
    "sectors": [
