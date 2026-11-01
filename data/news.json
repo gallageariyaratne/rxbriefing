@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-01T08:01:58.127313+00:00",
+ "updated": "2026-11-01T08:16:55.408239+00:00",
  "quotes": {
   "ABBV": {
    "price": 294.89,
@@ -38,17 +38,9 @@
    "price": 62.48,
    "change_pct": 1.78
   },
-  "BSX": {
-   "price": 41.98,
-   "change_pct": -1.66
-  },
   "COR": {
    "price": 330.84,
    "change_pct": 0.09
-  },
-  "CVS": {
-   "price": 90.25,
-   "change_pct": -0.09
   },
   "DGX": {
    "price": 251.82,
@@ -801,6 +793,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "a6e106030ac5",
+   "headline": "Medtronic (MDT) Posted Positive Real World Ablation Data",
+   "summary": "Medtronic (NYSE:MDT) reported positive real-world outcomes for its Affera Mapping and Ablation System in atrial fibrillation and ventricular tachycardia patients. The business also highlighted favorable real-world data for its PulseSelect\u2026",
+   "url": "https://finnhub.io/api/news?id=12d7c6457a13c55b569754c2b6a8257514e3aba42ece38331fb147e8f2c523e0",
+   "source": "Yahoo",
+   "published": "2026-11-01T06:06:47+00:00",
+   "tickers": [
+    "MDT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
   {
    "id": "5a9a5bc0d49f",
    "headline": "Raised Guidance Might Change The Case For Investing In Tenet Healthcare Stock (THC)",
@@ -51873,51 +51880,6 @@
     "NVS"
    ],
    "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "6db63a2824be",
-   "headline": "DHR Q3 deep dive: execution focus and AI strategy underpin improved outlook",
-   "summary": "Diversified science and technology company Danaher (NYSE:DHR) met Wall Street\u2019s revenue expectations in Q3 2026, with sales up 8.3% year on year to $6.55 billion. Its non-GAAP profit of $2.11 per share was 10% above analysts\u2019 consensus\u2026",
-   "url": "https://finnhub.io/api/news?id=2f5969c47fb6bd9d8b36ab7017488eb6a5896df76ecf1e4949871e156be38166",
-   "source": "Yahoo",
-   "published": "2026-10-22T08:14:27+00:00",
-   "tickers": [
-    "DHR"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "3832bbb20aa9",
-   "headline": "Mizuho Maintains Outperform on UnitedHealth Group, Raises Price Target to $500",
-   "summary": "Mizuho analyst Ann Hynes maintains UnitedHealth Group (NYSE:UNH) with a Outperform and raises the price target from $493 to $500.",
-   "url": "https://finnhub.io/api/news?id=1a5870f07e066886d3b280cf9270b00bf45f0b91d96ba5e88567a8a842c42ab6",
-   "source": "Benzinga",
-   "published": "2026-10-22T08:12:00+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "c59d1997fec9",
-   "headline": "AstraZeneca Launches ZEGFROVY In The U.S., Expanding Targeted Treatment Options For EGFR Exon 20 Insertion-Mutated Lung Cancer",
-   "summary": "Only approved oral, single agent, targeted therapy for these patients following platinum-based chemotherapyLaunch expands AstraZeneca\u2019s commitment to addressing substantial unmet need across the spectrum of EGFR-mutated",
-   "url": "https://finnhub.io/api/news?id=0fb8b5ea514d726c75015d6c7e812fb8c3857e29cffd4250357b36073ce9a3db",
-   "source": "Benzinga",
-   "published": "2026-10-22T08:11:04+00:00",
-   "tickers": [
-    "AZN"
-   ],
-   "tag": "FDA",
    "sectors": [
     "pharma"
    ]
