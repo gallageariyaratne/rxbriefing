@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-01T18:01:51.902558+00:00",
+ "updated": "2026-11-01T18:16:41.300578+00:00",
  "quotes": {
   "ABBV": {
    "price": 294.89,
@@ -33,6 +33,10 @@
   "BMY": {
    "price": 62.48,
    "change_pct": 1.78
+  },
+  "CI": {
+   "price": 298.23,
+   "change_pct": -0.06
   },
   "COR": {
    "price": 330.84,
@@ -81,10 +85,6 @@
   "PFE": {
    "price": 30.52,
    "change_pct": 1.9
-  },
-  "REGN": {
-   "price": 927.89,
-   "change_pct": 13.33
   },
   "RGEN": {
    "price": 176.94,
@@ -741,6 +741,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "628946d06197",
+   "headline": "Mark Cuban Says Public Companies Found They Were \u2018Ripped Off\u2019 On Healthcare But Won\u2019t Say So On Earnings Calls",
+   "summary": "Cuban said the system supporting big insurers would collapse if employers covering roughly 160 million Americans ran their contracts through AI before signing.",
+   "url": "https://finnhub.io/api/news?id=ad7122854ee356c3e3be66e54e914224fbbbfc5b7ac75cb9ef736ef7f5bf4562",
+   "source": "Yahoo",
+   "published": "2026-11-01T15:58:20+00:00",
+   "tickers": [
+    "CI"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
   {
    "id": "b7f5fbba4f9b",
    "headline": "5 Most Undervalued Dividend Growth Stocks According to Hedge Funds",
@@ -48019,77 +48034,6 @@
    "published": "2026-10-22T18:22:27+00:00",
    "tickers": [
     "ABBV"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "e94a76274aa6",
-   "headline": "Fast Money: PFE, GOOGN, CAPRI, AMT",
-   "summary": "The final trades of the day with CNBC's Melissa Lee and the 'Fast Money' traders.",
-   "url": "https://finnhub.io/api/news?id=cf66cd34f14be1922ec528f48ae5f7caca4ba44846743a21e68ea79126a0a36c",
-   "source": "CNBC",
-   "published": "2026-10-22T18:11:30+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "db0cf4122bf6",
-   "headline": "Most Active S&P 500 Stocks on Oct. 22: Netflix, Super Micro, Moderna",
-   "summary": "Netflix, Super Micro, and Moderna were among the S&P 500's most active stocks on Oct. 22, each trading at least 18 million shares.",
-   "url": "https://finnhub.io/api/news?id=8299da548d2bdc07e3b5fc29f69d59e6d1702055520749fc9a6a5b849f99ac4c",
-   "source": "ChartMill",
-   "published": "2026-10-22T18:06:11+00:00",
-   "tickers": [
-    "MRNA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "9ff26c4134e1",
-   "headline": "STAT+: Nutrition experts press White House to release ultra-processed food definition",
-   "summary": "MAHA allies and nutrition experts want the Trump administration to act on ultra-processed foods before the elections.",
-   "url": "https://www.statnews.com/2026/10/22/ultra-processed-food-definition-maha-white-house/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-10-22T18:04:47+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "6ef3fcf10d75",
-   "headline": "What Quest Diagnostics (DGX) Said on Its Q3 Earnings Call",
-   "summary": "Quest Diagnostics (NYSE:DGX) reported third-quarter 2026 revenue growth of 10% and adjusted earnings-per-share growth of more than 15%, citing demand across its physician, hospital and consumer channels as well as productivity gains from\u2026",
-   "url": "https://finnhub.io/api/news?id=85473ea862f147c3ce9bdf334184f199edbf31c6b4558c472aeb1fc60ed6c026",
-   "source": "Yahoo",
-   "published": "2026-10-22T18:04:40+00:00",
-   "tickers": [
-    "DGX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "1b69a2da904d",
-   "headline": "Mizuho's Jared Holz: Moderna drop reflects high bar, not bad data",
-   "summary": "Jared Holz, Mizuho healthcare sector specialist, joins 'Fast Money' to talk the drop in Moderna's stock following new cancer vaccine data.",
-   "url": "https://finnhub.io/api/news?id=3eac0a4d0394296292188cae823e002718da1e66d26bb938b13bf93723a7c46c",
-   "source": "CNBC",
-   "published": "2026-10-22T18:01:38+00:00",
-   "tickers": [
-    "MRNA"
    ],
    "tag": "News",
    "sectors": [
