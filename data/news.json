@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-01T02:47:04.988830+00:00",
+ "updated": "2026-11-01T03:02:17.385909+00:00",
  "quotes": {
   "ABBV": {
    "price": 294.89,
@@ -185,6 +185,10 @@
   "RXRX": {
    "price": 4.03,
    "change_pct": -4.95
+  },
+  "SNY": {
+   "price": 44.34,
+   "change_pct": 2.81
   },
   "SYK": {
    "price": 291.86,
@@ -842,6 +846,21 @@
  },
  "stories": [
   {
+   "id": "bba93d946e9b",
+   "headline": "Eli Lilly stock surges as cheaper drugs unlock a bigger market",
+   "summary": "Lilly shares hit a record as weight-loss drugs became more accessible.",
+   "url": "https://finnhub.io/api/news?id=d628ed74b4e21ac4e5ff9e482f1a23de2329d342ad27a276a9ad6f838c3f1077",
+   "source": "Yahoo",
+   "published": "2026-11-01T01:47:00+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "2f44382b836f",
    "headline": "Is Cencora (COR) Fully Valued Following Its $2.4b American Oncology Network Deal?",
    "summary": "Cencora (COR) has moved into the spotlight after agreeing to buy American Oncology Network in a deal valued at up to US$2.4b. The transaction reshapes its community cancer care footprint. Cencora\u2019s latest move comes after a mixed run in\u2026",
@@ -854,6 +873,21 @@
    "tag": "M&A",
    "sectors": [
     "pharmacy"
+   ]
+  },
+  {
+   "id": "2e7de1a5087b",
+   "headline": "Stryker (SYK) Stock Fair Value Falls After Analysts Reset Expectations Following Q3 Guidance",
+   "summary": "Stryker is now modeled with a Fair Value of about US$351, down from roughly US$369, which points to a lower price target in the latest update. This reset lines up with recent Street commentary that trims expectations after Q3 results and\u2026",
+   "url": "https://finnhub.io/api/news?id=fa3ed37d385c14678369aba7159500a3fd804ce9465539beedb44a5c4a68eac1",
+   "source": "Yahoo",
+   "published": "2026-11-01T00:19:41+00:00",
+   "tickers": [
+    "SYK"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -1241,7 +1275,8 @@
    "source": "Yahoo",
    "published": "2026-10-31T15:09:48+00:00",
    "tickers": [
-    "REGN"
+    "REGN",
+    "SNY"
    ],
    "tag": "News",
    "sectors": [
@@ -1347,7 +1382,8 @@
    "source": "Yahoo",
    "published": "2026-10-31T14:30:04+00:00",
    "tickers": [
-    "REGN"
+    "REGN",
+    "SNY"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -1663,7 +1699,8 @@
    "source": "Yahoo",
    "published": "2026-10-31T09:39:29+00:00",
    "tickers": [
-    "REGN"
+    "REGN",
+    "SNY"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -52332,21 +52369,6 @@
    "tag": "News",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "603fe4a59b89",
-   "headline": "Reported Earlier, AstraZeneca\u2019s Alexion Wins US Accelerated Approval For Ultomiris As First C5 Inhibitor To Reduce Proteinuria In IgA Nephropathy Adults; Phase III I CAN Shows 43.4% Reduction Versus Placebo At 34 Weeks",
-   "summary": "Based on I CAN Phase III trial results from prespecified interim analysis in which Ultomiris demonstrated 43.4% reduction in proteinuria vs placebo at 34 weeks Late-breaking results from I CAN Phase III trial will be",
-   "url": "https://finnhub.io/api/news?id=91a5fe1a03e202ef8a82ce4b8e1766538e7fcf9c4f7b04d91fa3eadf7137a6fc",
-   "source": "Benzinga",
-   "published": "2026-10-22T02:49:14+00:00",
-   "tickers": [
-    "AZN"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
