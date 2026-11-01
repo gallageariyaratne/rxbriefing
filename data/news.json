@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-01T04:47:06.149584+00:00",
+ "updated": "2026-11-01T05:02:13.662575+00:00",
  "quotes": {
   "ABBV": {
    "price": 294.89,
@@ -57,6 +57,10 @@
   "DGX": {
    "price": 251.82,
    "change_pct": -0.43
+  },
+  "DVA": {
+   "price": 187.5,
+   "change_pct": -3.01
   },
   "DXCM": {
    "price": 82.29,
@@ -838,6 +842,36 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "7f8427787c4f",
+   "headline": "DVA Q3 deep dive: technology investment and integrated care strategy drive guidance shift",
+   "summary": "Dialysis provider DaVita Inc. (NYSE:DVA) reported Q3 2026 results exceeding the market\u2019s revenue expectations, with sales up 4.6% year on year to $3.58 billion. Its non-GAAP profit of $3.82 per share was 6.9% above analysts\u2019 consensus\u2026",
+   "url": "https://finnhub.io/api/news?id=9299a49d477a5116e3dfa39c8918e66e56d011c9a1e30651a661485be7352d4c",
+   "source": "Yahoo",
+   "published": "2026-11-01T03:23:00+00:00",
+   "tickers": [
+    "DVA"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "dfb727b3d4ab",
+   "headline": "SYK Q3 deep dive: Orthopedics softness, margin pressure, and product launches shape outlook",
+   "summary": "Medical technology company Stryker (NYSE:SYK) fell short of the market\u2019s revenue expectations in Q3 2026, but sales rose 7.6% year on year to $6.52 billion. Its non-GAAP profit of $3.52 per share was 0.8% below analysts\u2019 consensus\u2026",
+   "url": "https://finnhub.io/api/news?id=aabaceaae7d59c501883a3e4feea2d2c82b2c95b9d044393405ed65fbe05879c",
+   "source": "Yahoo",
+   "published": "2026-11-01T02:51:00+00:00",
+   "tickers": [
+    "SYK"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -52224,21 +52258,6 @@
     "IONS"
    ],
    "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "eee09c74f6c2",
-   "headline": "argenx Reports Third Quarter 2026 Financial Results and Provides Business Update",
-   "summary": "Continued strong VYVGART performance drives $1.7 billion in global product net sales, representing 54% year-over-year growth and 13% quarter-over-quarter growth sBLA for VYVGART Hytrulo in IMNM on track for submission by year-end;\u2026",
-   "url": "https://finnhub.io/api/news?id=dd730b4a94e4891c86130649ed05e69661b1b3924aff759793b5f85359d107ab",
-   "source": "Yahoo",
-   "published": "2026-10-22T05:00:00+00:00",
-   "tickers": [
-    "ARGX"
-   ],
-   "tag": "News",
    "sectors": [
     "biotech"
    ]
