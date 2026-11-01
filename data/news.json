@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-01T02:02:13.523028+00:00",
+ "updated": "2026-11-01T02:17:08.516562+00:00",
  "quotes": {
   "ABBV": {
    "price": 294.89,
@@ -29,6 +29,10 @@
   "AZN": {
    "price": 186.65,
    "change_pct": 7.02
+  },
+  "BDX": {
+   "price": 197.88,
+   "change_pct": -0.23
   },
   "BEAM": {
    "price": 27.23,
@@ -198,10 +202,6 @@
    "price": 61.18,
    "change_pct": 5.34
   },
-  "THC": {
-   "price": 273.25,
-   "change_pct": 0.99
-  },
   "TMO": {
    "price": 697,
    "change_pct": -1.72
@@ -225,10 +225,6 @@
   "VRTX": {
    "price": 558.88,
    "change_pct": 3.5
-  },
-  "ZBH": {
-   "price": 94.52,
-   "change_pct": -3.03
   }
  },
  "tickers": {
@@ -966,6 +962,22 @@
    ]
   },
   {
+   "id": "6d2c7cd2ce97",
+   "headline": "Emerson Among 14 Dividend Growth Companies To Announce Annual Dividend Increases In First Half Of November",
+   "summary": "Emerson may extend its 70-year dividend growth streak as earnings rebound.",
+   "url": "https://finnhub.io/api/news?id=f70e342250174f88051b34e3ae019b370b384dd1f77cce71f814d562b2b386b5",
+   "source": "SeekingAlpha",
+   "published": "2026-10-31T21:38:41+00:00",
+   "tickers": [
+    "ABBV",
+    "BDX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "080febc2fb76",
    "headline": "AnaptysBio (ANAB) vs. PTCT and MIRM: Is the Market Missing the Value of Its Royalty Stream and Legal Upside?",
    "summary": "Is ANAB a good stock to buy? We came across a bullish thesis on AnaptysBio, Inc. on TripleS Special Situations\u2019s Substack. Since the thesis was published on June 15th, ANAB shares have pulled back as uncertainty over its GSK dispute and\u2026",
@@ -1379,7 +1391,8 @@
    "source": "Yahoo",
    "published": "2026-10-31T13:27:54+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -1696,7 +1709,8 @@
    "source": "Yahoo",
    "published": "2026-10-31T09:00:02+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "News",
    "sectors": [
@@ -1897,6 +1911,21 @@
     "NVO"
    ],
    "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "713903d29a46",
+   "headline": "Can Novo Nordisk (NYSE:NVO) Trade Below Fair Value On Earnings?",
+   "summary": "Novo Nordisk has seen its share price fall sharply in recent years, which puts fresh focus on whether the current US$40.00 level is still aligned with what its earnings can justify. With new obesity and diabetes treatments in the\u2026",
+   "url": "https://finnhub.io/api/news?id=0d5384225cf5f5aa4bf22666071c7d4f331a9bdaa0b675886ab19e2f2b59afc3",
+   "source": "Yahoo",
+   "published": "2026-10-31T05:12:51+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "GLP-1",
    "sectors": [
     "pharma"
    ]
@@ -52287,21 +52316,6 @@
    "tag": "FDA",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "86b983fd4df0",
-   "headline": "Doximity (DOCS) Stock Gets Fair Value Bump As Analysts Split On AI And Margins",
-   "summary": "Doximity\u2019s updated analyst work now anchors around a fair value estimate of US$30.94, up from US$29.67, which fine tunes where some investors may see the stock\u2019s long term potential. The shift comes as recent research highlights a split\u2026",
-   "url": "https://finnhub.io/api/news?id=bf0f2af11cdb0a36705febd5cf85ffcb99a580e75e2c5755ae2d9a76887759f6",
-   "source": "Yahoo",
-   "published": "2026-10-22T02:14:07+00:00",
-   "tickers": [
-    "DOCS"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "healthit"
    ]
   }
  ]
