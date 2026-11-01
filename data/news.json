@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-01T18:31:44.558979+00:00",
+ "updated": "2026-11-01T18:46:38.200316+00:00",
  "quotes": {
   "ABBV": {
    "price": 294.89,
@@ -53,6 +53,10 @@
   "DXCM": {
    "price": 82.29,
    "change_pct": 2.95
+  },
+  "GEHC": {
+   "price": 76.57,
+   "change_pct": 0.2
   },
   "INCY": {
    "price": 120.39,
@@ -746,6 +750,21 @@
  },
  "stories": [
   {
+   "id": "6fb06c8fb5cd",
+   "headline": "GE HealthCare debuts Allia Celeo, a ceiling-mounted interventional system designed for smooth procedural flow and AI-powered precision imaging",
+   "summary": "CHICAGO, November 01, 2026--GE HealthCare (Nasdaq: GEHC) today introduced Allia\u2122 Celeo,* a ceiling-mounted image guiding system, at the Transcatheter Cardiovascular Therapeutics (TCT) 2026 conference in San Diego. Developed around the\u2026",
+   "url": "https://finnhub.io/api/news?id=947623ec5f6a3fb8e57848e3cd1102fc6e89185b02665e7b418d213a35ef609e",
+   "source": "Yahoo",
+   "published": "2026-11-01T17:35:00+00:00",
+   "tickers": [
+    "GEHC"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "fb1859130236",
    "headline": "After He Returned From The Pacific Theater, A World War II Vet Bought $1,000 Of Walgreen Stock. 7 Decades Later, Russ Gremel\u2019s $1,000 Investment Had Grown To Over $2 Million",
    "summary": "A Chicago lawyer who survived the Pacific Theater came home, put a modest sum into his neighborhood drugstore, and never touched it again. What he eventually did with the fortune he quietly built stunned everyone who knew him.",
@@ -769,7 +788,8 @@
    "published": "2026-11-01T15:58:20+00:00",
    "tickers": [
     "CI",
-    "CVS"
+    "CVS",
+    "UNH"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -47980,22 +48000,6 @@
     "MRNA"
    ],
    "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "240ebe7c75cc",
-   "headline": "Moderna Stock Plunges as Apparent Leak Reveals Phase 3 Melanoma Vaccine Data",
-   "summary": "Key TakeawaysModerna Inc. (NASDAQ:MRNA) sank as much as roughly 25% intraday after apparent Phase 3 results for its personalized melanoma vaccine surfaced online ahead of an embargoed medical-conference presentation.",
-   "url": "https://finnhub.io/api/news?id=58eee505c45ec41ea6a19aa70b132d975f5bafe4788214879e5064bdde7c107c",
-   "source": "Yahoo",
-   "published": "2026-10-22T18:36:07+00:00",
-   "tickers": [
-    "MRK",
-    "MRNA"
-   ],
-   "tag": "Clinical",
    "sectors": [
     "pharma"
    ]
