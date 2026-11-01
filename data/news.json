@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-01T00:17:03.593770+00:00",
+ "updated": "2026-11-01T00:32:06.897615+00:00",
  "quotes": {
   "ABBV": {
    "price": 294.89,
@@ -37,10 +37,6 @@
   "BSX": {
    "price": 41.98,
    "change_pct": -1.66
-  },
-  "CNC": {
-   "price": 68.45,
-   "change_pct": -0.25
   },
   "COR": {
    "price": 330.84,
@@ -154,6 +150,10 @@
    "price": 12.44,
    "change_pct": -0.72
   },
+  "QGEN": {
+   "price": 50.22,
+   "change_pct": -0.24
+  },
   "REGN": {
    "price": 927.89,
    "change_pct": 13.33
@@ -197,6 +197,10 @@
   "VKTX": {
    "price": 27.28,
    "change_pct": 1.56
+  },
+  "VRTX": {
+   "price": 558.88,
+   "change_pct": 3.5
   },
   "ZBH": {
    "price": 94.52,
@@ -818,6 +822,51 @@
  },
  "stories": [
   {
+   "id": "37523eb62fba",
+   "headline": "What Bristol Myers Squibb Stock's Earnings Beat Means For Shareholders",
+   "summary": "Bristol-Myers Squibb reported Q3 2026 revenue of US$13.07b and net income of US$2.16b, beating analyst expectations and prompting higher full-year sales guidance, while EPS guidance was updated after an 11.57% earnings surprise. The firm\u2026",
+   "url": "https://finnhub.io/api/news?id=217d1335b7b991f79dcc93efd2bcbab7ae044438ba4afc794c00ec7891147e51",
+   "source": "Yahoo",
+   "published": "2026-10-31T23:13:19+00:00",
+   "tickers": [
+    "BMY"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "c9e34f13e254",
+   "headline": "Is Vertex Pharmaceuticals (VRTX) Fully Priced Following Its Kidney Data Update?",
+   "summary": "Vertex Pharmaceuticals (VRTX) just put fresh clinical data for its kidney disease candidate povetacicept in front of investors, with Phase 3 RAINIER results published in NEJM and showcased at ASN Kidney Week 2026. Vertex Pharmaceuticals\u2026",
+   "url": "https://finnhub.io/api/news?id=c18b55297d9c3ab0b693e398f3bde564209e9318f5abbb783efc0312568a1049",
+   "source": "Yahoo",
+   "published": "2026-10-31T23:10:12+00:00",
+   "tickers": [
+    "VRTX"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "a5e4303c0312",
+   "headline": "RMD Q3 deep dive: product innovation and supply chain execution drive results amid evolving landscape",
+   "summary": "Medical device company ResMed (NYSE:RMD) beat Wall Street\u2019s revenue expectations in calendar Q3 2026 (fiscal Q1 2027), with sales up 5.9% year on year to $1.41 billion. Its non-GAAP profit of $2.91 per share was 8.9% above analysts\u2019\u2026",
+   "url": "https://finnhub.io/api/news?id=bfe120b30ffce9a554f1f38ebc1287cd506cab16a2e0e4df1c0da146650d08ec",
+   "source": "Yahoo",
+   "published": "2026-10-31T23:07:00+00:00",
+   "tickers": [
+    "RMD"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "03a9e185e35f",
    "headline": "5 Best High Growth Stocks Outside Big Tech",
    "summary": "The market\u2019s growth leadership has become abnormally concentrated in a small number of mega-cap technology stocks, leaving investors with fewer obvious opportunities to find rapid earnings growth outside of the AI trade. Ten AI-related\u2026",
@@ -905,6 +954,21 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "06defb412495",
+   "headline": "Do Options Traders Know Something About Qiagen Stock We Don't?",
+   "summary": "Investors need to pay close attention to QGEN stock based on the movements in the options market lately.",
+   "url": "https://finnhub.io/api/news?id=195139596950880f41c651115d082e8ee56c55286fb0eb6877ce28df9bd90516",
+   "source": "Yahoo",
+   "published": "2026-10-31T17:35:00+00:00",
+   "tickers": [
+    "QGEN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -1462,6 +1526,21 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "6c76b22ef0b9",
+   "headline": "Qiagen (QGEN) On Its \u20ac9.7b Takeover Deal Still Looks Fully Valued",
+   "summary": "Qiagen (QGEN) is back in focus after agreeing to a \u20ac9.7b cash takeover by a consortium led by EQT XI at \u20ac46.50 per share, along with suspended 2026 guidance and a possible interim dividend. Qiagen\u2019s share price has climbed over the past\u2026",
+   "url": "https://finnhub.io/api/news?id=6f824a7cdda458029d33006494bf3f56d76220eac8220bd131392b9c4d20ef8f",
+   "source": "Yahoo",
+   "published": "2026-10-31T08:10:38+00:00",
+   "tickers": [
+    "QGEN"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -52085,21 +52164,6 @@
    "tag": "News",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "2d23e568e3a8",
-   "headline": "UnitedHealth's Earnings Jumped 60%. Is the Comeback Stock a Buy, Sell, or Hold?",
-   "summary": "UnitedHealth's third-quarter results beat estimates and lifted its outlook. Can tighter cost control and an Optum rebound keep the recovery going?",
-   "url": "https://finnhub.io/api/news?id=cd3d78b25a6bd9003697455d0e28122a5ea2127c694ba387e40c6fb53576191d",
-   "source": "Yahoo",
-   "published": "2026-10-22T00:20:00+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
    ]
   }
  ]
