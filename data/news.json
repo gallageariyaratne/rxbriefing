@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-01T15:31:51.021546+00:00",
+ "updated": "2026-11-01T15:46:38.517637+00:00",
  "quotes": {
   "ABBV": {
    "price": 294.89,
@@ -133,6 +133,10 @@
   "TMO": {
    "price": 697,
    "change_pct": -1.72
+  },
+  "UNH": {
+   "price": 406.97,
+   "change_pct": -0.96
   },
   "VRTX": {
    "price": 558.88,
@@ -766,6 +770,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "b2ed89f88a56",
+   "headline": "Mark Cuban Says AI Could 'Collapse' Big Healthcare Companies: 'The Cost of Healthcare\u2026 Would Drop Like a Rock'",
+   "summary": "Mark Cuban says AI could analyze healthcare contracts, expose costly terms, strengthen negotiations and ultimately slash U.S. healthcare costs.",
+   "url": "https://finnhub.io/api/news?id=e2c3cfcd53fa3b1007806cfcb85d949aac7c48aeecc1d154f181b41330586f50",
+   "source": "Benzinga",
+   "published": "2026-11-01T10:20:13+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -48778,21 +48797,6 @@
    "tag": "News",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "551c14d9ea67",
-   "headline": "United Therapeutics' Tyvaso Outlook Faces Near-Term Pressure After Liquidia Settlement, RBC Says",
-   "summary": "United Therapeutics (UTHR) faces limited near-term upside for Tyvaso following the Liquidia (LQDA) s",
-   "url": "https://finnhub.io/api/news?id=7a6af08c33b2186c55d260d33b64e33de75b3997a6c0af1ee653c4c02c495898",
-   "source": "Yahoo",
-   "published": "2026-10-22T15:35:48+00:00",
-   "tickers": [
-    "UTHR"
-   ],
-   "tag": "Legal",
-   "sectors": [
-    "biotech"
    ]
   }
  ]
