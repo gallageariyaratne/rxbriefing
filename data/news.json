@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-01T06:02:08.390833+00:00",
+ "updated": "2026-11-01T06:16:55.368538+00:00",
  "quotes": {
   "ABBV": {
    "price": 294.89,
@@ -73,10 +73,6 @@
   "GMED": {
    "price": 78.05,
    "change_pct": -5.86
-  },
-  "HUM": {
-   "price": 414.5,
-   "change_pct": -0.73
   },
   "IDXX": {
    "price": 551.21,
@@ -189,10 +185,6 @@
   "TRXB": {
    "price": 13.74,
    "change_pct": 1.63
-  },
-  "UNH": {
-   "price": 406.97,
-   "change_pct": -0.96
   },
   "VRTX": {
    "price": 558.88,
@@ -813,6 +805,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "e50617841053",
+   "headline": "Medtronic Just Retired 55 Million Shares Without Spending Cash. Is the Stock a Buy?",
+   "summary": "Medtronic grew revenue by 14% in the first quarter of its fiscal 2027.",
+   "url": "https://finnhub.io/api/news?id=ecb290fadeb4b510c56bb4e14bdcecfb3280622c040777b8b1b55720f2933604",
+   "source": "Yahoo",
+   "published": "2026-11-01T04:41:00+00:00",
+   "tickers": [
+    "MDT"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
   {
    "id": "5546eb5d4f2e",
    "headline": "Vertex Pharmaceuticals (VRTX) Stock May Still Have Value Following A 190% Run",
@@ -52214,21 +52221,6 @@
    "tag": "Earnings",
    "sectors": [
     "tools"
-   ]
-  },
-  {
-   "id": "75156456011a",
-   "headline": "BTIG Maintains Buy on Abbott Laboratories, Lowers Price Target to $125",
-   "summary": "BTIG analyst Marie Thibault maintains Abbott Laboratories (NYSE:ABT) with a Buy and lowers the price target from $134 to $125.",
-   "url": "https://finnhub.io/api/news?id=89a15300271e0dbe13e9c67814d787d5a66a9ec400ce7dbdbc490ca6a63fda21",
-   "source": "Benzinga",
-   "published": "2026-10-22T06:04:26+00:00",
-   "tickers": [
-    "ABT"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
