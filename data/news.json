@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-01T16:16:46.152124+00:00",
+ "updated": "2026-11-01T16:31:46.435449+00:00",
  "quotes": {
   "ABBV": {
    "price": 294.89,
@@ -757,7 +757,23 @@
    "source": "Yahoo",
    "published": "2026-11-01T15:23:08+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "JNJ"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "9774056b4892",
+   "headline": "4 Blue-Chip Dividend Stocks That Kept Raising Payouts Through 2008 and 2020",
+   "summary": "Some dividend stocks cut payouts the moment a recession hits, but a small group of blue chips kept raising theirs through the 2008 financial crisis and the 2020 shutdowns. Finding out which sectors held the line reveals something\u2026",
+   "url": "https://finnhub.io/api/news?id=535cc20afa9146882f410cd9e4abd314dd4d8043f8521d4073b3b9f2aa3b9aac",
+   "source": "Yahoo",
+   "published": "2026-11-01T15:10:00+00:00",
+   "tickers": [
+    "JNJ"
    ],
    "tag": "News",
    "sectors": [
@@ -48475,84 +48491,6 @@
    "sectors": [
     "payers"
    ]
-  },
-  {
-   "id": "0dc86023ed29",
-   "headline": "Risant Health to acquire Oklahoma system Integris Health",
-   "summary": "The acquisition is set to give Integris access to extra capital and technology at a time when many health systems are being hit by rising expenses.",
-   "url": "https://www.healthcaredive.com/news/risant-health-acquire-oklahoma-system-integris-health/833748/",
-   "source": "Healthcare Dive",
-   "published": "2026-10-22T16:24:10+00:00",
-   "tickers": [],
-   "tag": "M&A",
-   "sectors": []
-  },
-  {
-   "id": "7250fa4fd3d6",
-   "headline": "Biohaven\u2019s previously rejected rare disease drug to get fresh FDA review",
-   "summary": "U.S. regulators have accepted a new submission for Vyglxia, offering the chance at a turnaround for another rare disease medicine spurned by previous FDA leadership.",
-   "url": "https://www.biopharmadive.com/news/biohaven-troriluzole-vyglxia-sca-fda-accept-application/833703/",
-   "source": "BioPharma Dive",
-   "published": "2026-10-22T16:24:00+00:00",
-   "tickers": [],
-   "tag": "FDA",
-   "sectors": []
-  },
-  {
-   "id": "e3600a8c117c",
-   "headline": "Biohaven\u2019s previously rejected rare disease drug to get fresh FDA review",
-   "summary": "U.S. regulators have accepted a new submission for Vyglxia, offering the chance at a turnaround for another rare disease medicine spurned by previous FDA leadership.",
-   "url": "https://finnhub.io/api/news?id=9ef35221a329f1b8f4c7543c256412cadb5862d89c56b71a658f5fcbefbce1e9",
-   "source": "Yahoo",
-   "published": "2026-10-22T16:24:00+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "9331400c722e",
-   "headline": "Molina joins Medicaid recovery bandwagon despite mixed Q3",
-   "summary": "The insurer is the latest to report signs of momentum in the safety-net insurance program as states increase their payment rates and costs plateau. \u201cThe imbalance between rates and trend appears to have stabilized,\u201d Molina\u2019s CEO said.",
-   "url": "https://www.healthcaredive.com/news/molina-q3-2026-medicaid-recovery-momentum/833650/",
-   "source": "Healthcare Dive",
-   "published": "2026-10-22T16:17:07+00:00",
-   "tickers": [
-    "MOH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "521a934a7411",
-   "headline": "Molina joins Medicaid recovery bandwagon despite mixed Q3",
-   "summary": "It\u2019s the latest insurer to report momentum in the safety-net insurance program as states increase their payment rates and costs plateau. \u201cThe imbalance between rates and trend appears to have stabilized,\u201d Molina\u2019s CEO said.",
-   "url": "https://finnhub.io/api/news?id=1303cddbf37fee018e8dc48617c123b8bf073aec2f0c679d46c9c987e79e3dc6",
-   "source": "Yahoo",
-   "published": "2026-10-22T16:17:07+00:00",
-   "tickers": [
-    "MOH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "e40c5ba7898d",
-   "headline": "STAT+: Will the Treasury restrict U.S. investment in the Chinese biotech sector?",
-   "summary": "Rumors are swirling that the Treasury Department this week is going to propose a rule that restricts U.S. investment in the Chinese biotech sector.",
-   "url": "https://www.statnews.com/2026/10/22/biotech-news-treasury-restrictions-for-us-investment-in-chinese-biotech/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-10-22T16:17:03+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
   }
  ]
 }
