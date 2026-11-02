@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-02T13:47:24.615464+00:00",
+ "updated": "2026-11-02T14:02:46.170424+00:00",
  "quotes": {
   "A": {
    "price": 174.87,
@@ -49,6 +49,10 @@
   "CI": {
    "price": 298.23,
    "change_pct": -0.06
+  },
+  "CRSP": {
+   "price": 51.42,
+   "change_pct": -5.23
   },
   "CVS": {
    "price": 90.25,
@@ -117,6 +121,10 @@
   "KRYS": {
    "price": 332.29,
    "change_pct": 2.38
+  },
+  "LEGN": {
+   "price": 21.63,
+   "change_pct": -3.0
   },
   "LLY": {
    "price": 1417.54,
@@ -834,6 +842,39 @@
  },
  "stories": [
   {
+   "id": "94ea872a43a8",
+   "headline": "The cost of waiting: What reaching clinical proof-of-concept sooner means for biotech cash burn",
+   "summary": "Explore how delays before clinical proof-of-concept increase biotech cash burn, and how connected drug development can preserve capital and runway.",
+   "url": "https://www.fiercebiotech.com/sponsored/cost-waiting-what-reaching-clinical-proof-concept-sooner-means-biotech-cash-burn",
+   "source": "Fierce Biotech",
+   "published": "2026-11-02T14:00:41.361341+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "4cc905dfcf96",
+   "headline": "Connected clinical research: from fragmentation to progress",
+   "summary": "Mike Novotny examines the funding, technology and operational challenges shaping clinical research, and why connected systems matter.",
+   "url": "https://www.fiercebiotech.com/sponsored/connected-clinical-research-fragmentation-progress",
+   "source": "Fierce Biotech",
+   "published": "2026-11-02T14:00:41.360843+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "279485d7e260",
+   "headline": "FDA dims Bright Minds\u2019 outlook with partial hold on seizure trial over toxicity in mice",
+   "summary": "The FDA has put a partial hold on Bright Minds Biosciences\u2019 seizure study application over preclinical toxicity data and concerns about its preparations for enrolling children.",
+   "url": "https://www.fiercebiotech.com/biotech/fda-dims-bright-minds-outlook-partial-hold-seizure-trial",
+   "source": "Fierce Biotech",
+   "published": "2026-11-02T14:00:41.360153+00:00",
+   "tickers": [],
+   "tag": "FDA",
+   "sectors": []
+  },
+  {
    "id": "cc0dd6b56854",
    "headline": "HSS Medical Supply Announces Distributor Agreement for Abbott's ID NOW Rapid Molecular Testing Platform",
    "summary": "NEW YORK, Nov. 2, 2026 /PRNewswire/ -- One of the fastest-growing healthcare suppliers, HSS Medical Supply, announced a new vendor agreement with Abbott. The family-owned distribution company now includes Abbott's ID NOW\u2122, a rapid\u2026",
@@ -846,6 +887,37 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "688c3d1f081a",
+   "headline": "S&P 500 Premarket Movers Nov. 2, 2026: IDEXX and Fox Gain, Lumentum and T-Mobile Fall",
+   "summary": "IDEXX Laboratories and Fox Corp. led S&P 500 premarket gainers on Nov. 2, 2026, while Lumentum and T-Mobile led the decliners.",
+   "url": "https://finnhub.io/api/news?id=a735321edbdc2e86fd43a5e32feb00efbdf3249baf4931d8d352b9d161131edd",
+   "source": "ChartMill",
+   "published": "2026-11-02T13:36:46+00:00",
+   "tickers": [
+    "HSIC",
+    "IDXX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "34531ca61958",
+   "headline": "Gilead to Present Late-Breaking Clinical Data and Real-World Evidence at HIV Glasgow",
+   "summary": "FOSTER CITY, Calif., November 02, 2026--Gilead Sciences, Inc. (Nasdaq: GILD) today announced its upcoming participation in the International Congress on Drug Therapy in HIV Infection (HIV Glasgow 2026), taking place from November 8-11. As\u2026",
+   "url": "https://finnhub.io/api/news?id=94cf0c87b8f8d9c713e75f86a7c5d3fe887d065b16f5013426f3fffa432ebc23",
+   "source": "Yahoo",
+   "published": "2026-11-02T13:30:00+00:00",
+   "tickers": [
+    "GILD"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -880,6 +952,21 @@
    "tickers": [],
    "tag": "Policy",
    "sectors": []
+  },
+  {
+   "id": "26a8c69701c4",
+   "headline": "Buy, Sell, or Hold? Today\u2019s Top Upgrades and Downgrades: Amazon.com, Coinbase Global, CrowdStrike, FormFactor, GameStop, L3Harris Technologies, Oracle, Reddit, Rivian Automotive, and More",
+   "summary": "Pre-Market Stock Futures: Futures are trading higher after a rough week in which sellers moved hard against the big tech companies, which reported mostly solid results. Still, massive spending on AI, free cash flow that has reversed to\u2026",
+   "url": "https://finnhub.io/api/news?id=12b06189569be718fed36bd007a843db8913a6e997fc512a40ccb09c21487f5e",
+   "source": "Yahoo",
+   "published": "2026-11-02T13:13:21+00:00",
+   "tickers": [
+    "ALNY"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "biotech"
+   ]
   },
   {
    "id": "0792bcf6c72f",
@@ -938,6 +1025,21 @@
    ]
   },
   {
+   "id": "74498c3df423",
+   "headline": "CRISPR Therapeutics Announces the Appointment of Siva Sakhamuri, Ph.D., as Chief Technical Officer",
+   "summary": "ZUG, Switzerland and BOSTON, Nov. 02, 2026 (GLOBE NEWSWIRE) -- CRISPR Therapeutics (Nasdaq: CRSP), today announced the appointment of Sivakesava (Siva) Sakhamuri, Ph.D., as Chief Technical Officer, effective immediately. Dr. Sakhamuri\u2026",
+   "url": "https://finnhub.io/api/news?id=5e61ebdaa4918221e83735c0d6de559cf226f35b2f6b65628d2f59e6b48e54e3",
+   "source": "Yahoo",
+   "published": "2026-11-02T13:00:00+00:00",
+   "tickers": [
+    "CRSP"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "9c6fc70fb0db",
    "headline": "Post-midterms, hospitals still face a long road to policy relief, advisers warn",
    "summary": "Regardless of where this week's midterms land, hospitals have their work cut out for them in navigating impending policy headwinds unlikely to vanish in 2027 and beyond, consultants and health system heads warn.",
@@ -976,6 +1078,21 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "2abd6338c66b",
+   "headline": "If You Invested $1000 in Thermo Fisher Scientific a Decade Ago, This is How Much It'd Be Worth Now",
+   "summary": "Why investing for the long run, especially if you buy certain popular stocks, could reap huge rewards.",
+   "url": "https://finnhub.io/api/news?id=ac3c52170bdd921461920c3133b5934fa843dc268f7a48eec3e7b878c6f7ebb6",
+   "source": "Yahoo",
+   "published": "2026-11-02T12:30:02+00:00",
+   "tickers": [
+    "TMO"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -1181,7 +1298,8 @@
    "source": "Yahoo",
    "published": "2026-11-02T11:34:00+00:00",
    "tickers": [
-    "AMGN"
+    "AMGN",
+    "TMO"
    ],
    "tag": "News",
    "sectors": [
@@ -1487,6 +1605,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "b466ddca3337",
+   "headline": "A $2 Billion Fund Bought These 3 Stocks Last Quarter",
+   "summary": "Key TakeawaysA $2 billion fund\u2019s latest 13F shows its three biggest adds in the quarter ended June 30 were Viridian Therapeutics, Travere Therapeutics, and Legend Biotech. Analysts\u2019 average price targets sit 47% to 111% above Friday\u2019s\u2026",
+   "url": "https://finnhub.io/api/news?id=5428a35178afb86a5b11af07384e9f7c77982c2552f133592535c648d7142c45",
+   "source": "Yahoo",
+   "published": "2026-11-02T10:40:18+00:00",
+   "tickers": [
+    "LEGN"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -45614,203 +45747,6 @@
    "tag": "News",
    "sectors": [
     "medtech"
-   ]
-  },
-  {
-   "id": "b21a34087727",
-   "headline": "Needham Reiterates Buy on Tempus AI, Maintains $75 Price Target",
-   "summary": "Needham analyst Ryan MacDonald reiterates Tempus AI (NASDAQ:TEM) with a Buy and maintains $75 price target.",
-   "url": "https://finnhub.io/api/news?id=a4b91396ddd5b074601cd48a3cdad183e62bf6e5628a1aa882ae59d440b3a076",
-   "source": "Benzinga",
-   "published": "2026-10-23T14:01:16+00:00",
-   "tickers": [
-    "TEM"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "healthai"
-   ]
-  },
-  {
-   "id": "46a7352f66f5",
-   "headline": "Goldman Sachs Maintains Neutral on AbbVie, Raises Price Target to $294",
-   "summary": "Goldman Sachs analyst Asad Haider maintains AbbVie (NYSE:ABBV) with a Neutral and raises the price target from $258 to $294.",
-   "url": "https://finnhub.io/api/news?id=c65bdef81050fbacfc5b02ebd1e64324eef7aac5e811d67840212fb5249a90cb",
-   "source": "Benzinga",
-   "published": "2026-10-23T14:01:11+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "11677d4212fc",
-   "headline": "GSK's double FDA win, Roche's $15B deal and the rise of point-of-care marketing",
-   "summary": "This week on \"The Top Line,\" we cover GSK's pair of FDA approvals, Roche's $15 billion ADC deal and the rise of point-of-care pharma marketing.",
-   "url": "https://www.fiercepharma.com/pharma/gsks-double-fda-win-roches-15b-deal-and-rise-point-care-marketing",
-   "source": "Fierce Pharma",
-   "published": "2026-10-23T14:00:31.913179+00:00",
-   "tickers": [
-    "GSK"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "532f60f84c96",
-   "headline": "Moderna, Meta, SpaceX, Bloom Energy, AT&T, and More Stocks That Explain Today\u2019s Market",
-   "summary": "Moderna falls following a data leak for its developing cancer vaccine candidate.",
-   "url": "https://finnhub.io/api/news?id=122afabb1d922fd13fff731ae77d1b88e0baf208043574e70ed81a11821b0414",
-   "source": "Yahoo",
-   "published": "2026-10-23T14:00:00+00:00",
-   "tickers": [
-    "MRK",
-    "MRNA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "5880cf711270",
-   "headline": "SpaceX initiation, Apple downgrade among today's top calls on Wall Street",
-   "summary": "SpaceX initiation, Apple downgrade among today's top calls on Wall Street",
-   "url": "https://finnhub.io/api/news?id=e93d39adac500f864dcddfcbf0ab8b2e460896114110468e7c9022761f1367b4",
-   "source": "Yahoo",
-   "published": "2026-10-23T13:57:27+00:00",
-   "tickers": [
-    "NTRA"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "db1b4323e9f3",
-   "headline": "Medtech leaders discuss AI, cybersecurity and M&A at AdvaMed\u2019s The MedTech Conference",
-   "summary": "More than 4,000 people across the medtech sector met in Boston for one of the industry\u2019s biggest events of the year. Catch up on all the conference news in MedTech Dive\u2019s roundup.",
-   "url": "https://www.medtechdive.com/news/medtech-leaders-discuss-ai-cybersecurity-and-ma-at-advameds-the-medtech/833831/",
-   "source": "MedTech Dive",
-   "published": "2026-10-23T13:56:16+00:00",
-   "tickers": [],
-   "tag": "Health AI",
-   "sectors": []
-  },
-  {
-   "id": "1f597f850c8c",
-   "headline": "FMS Launches multiFiltratePRO System for U.S. Patients With Acute AKI",
-   "summary": "Fresenius Medical Care launches multiFiltratePRO kidney therapy system in the United States, expanding critical care options and growth opportunities.",
-   "url": "https://finnhub.io/api/news?id=ec6c070a8c232953c0366c1bb329ad27ffb702b5d05430634956710fcc13ec37",
-   "source": "Yahoo",
-   "published": "2026-10-23T13:55:00+00:00",
-   "tickers": [
-    "GMED",
-    "ISRG"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "c2db772cd992",
-   "headline": "Truist Securities Maintains Hold on Medpace Holdings, Raises Price Target to $633",
-   "summary": "Truist Securities analyst Jailendra Singh maintains Medpace Holdings (NASDAQ:MEDP) with a Hold and raises the price target from $609 to $633.",
-   "url": "https://finnhub.io/api/news?id=27f75b6f8250658c0f93f0dc455bd5cb69c62e1778e90ba1861394a042bb0767",
-   "source": "Benzinga",
-   "published": "2026-10-23T13:50:02+00:00",
-   "tickers": [
-    "MEDP"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "a663b3d68619",
-   "headline": "Moderna stock extends decline after leaked data on melanoma vaccine trial",
-   "summary": "Moderna sank as Wall Street grew more cautious on the company's valuation after a massive rally this year.",
-   "url": "https://finnhub.io/api/news?id=018c0da83b0f8749bbdafcce665feb1d3c380952583ff93008d3e1ffe7ffb1ad",
-   "source": "Yahoo",
-   "published": "2026-10-23T13:49:27+00:00",
-   "tickers": [
-    "MRK",
-    "MRNA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "94295f96e6a7",
-   "headline": "Moderna stock extends decline after leaked data on melanoma vaccine trial",
-   "summary": "Moderna stock sank as Wall Street grew more cautious on the company's valuation after a massive rally this year.",
-   "url": "https://finnhub.io/api/news?id=a63aefb2f3f1eea736cd58675cbf21a3e40c05a3fbc590c79ec9225e0be03940",
-   "source": "Yahoo",
-   "published": "2026-10-23T13:49:27+00:00",
-   "tickers": [
-    "MRK",
-    "MRNA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "e9b785ae28cf",
-   "headline": "Moderna trims losses as investors digest melanoma vaccine trial data",
-   "summary": "Moderna stock stabilized on Friday, reversing the prior session's steep sell-off.",
-   "url": "https://finnhub.io/api/news?id=b51a99ecbc86eb2cf36cde243edc5499ef1f805943927a44150deb1ecac56d1e",
-   "source": "Yahoo",
-   "published": "2026-10-23T13:49:27+00:00",
-   "tickers": [
-    "MRK",
-    "MRNA"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "0d1fe2cb36f7",
-   "headline": "Moderna stock extends losses as investors digest melanoma vaccine trial data",
-   "summary": "Moderna shares ended Friday\u2019s session modestly lower, extending the sharp losses recorded in the previous trading sessions.",
-   "url": "https://finnhub.io/api/news?id=4b68f9102c24a0a936594155143e16a7099db616b50925b56cfac98ec3e72930",
-   "source": "Yahoo",
-   "published": "2026-10-23T13:49:27+00:00",
-   "tickers": [
-    "MRK",
-    "MRNA"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "b64d4db80cf3",
-   "headline": "Stock Market Today: Dow Falls 500 Points On Rising Oil Prices; These AI Players Slide Amid Earnings News (Live Coverage)",
-   "summary": "The Dow Jones index drops 500 points Friday as oil prices rally. Bloom, MaxLinear and WDC are big earnings movers.",
-   "url": "https://finnhub.io/api/news?id=0230fe0089f3584d3d82b00daee2c5a7d10e1dc6c38ab07f6f1fff0f09ef76ab",
-   "source": "Yahoo",
-   "published": "2026-10-23T13:47:41+00:00",
-   "tickers": [
-    "AMGN"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
