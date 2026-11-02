@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-02T01:46:38.768037+00:00",
+ "updated": "2026-11-02T02:01:11.999096+00:00",
  "quotes": {
   "ABBV": {
    "price": 294.89,
@@ -49,6 +49,10 @@
   "GILD": {
    "price": 170.68,
    "change_pct": 3.06
+  },
+  "GSK": {
+   "price": 49.51,
+   "change_pct": 1.71
   },
   "ILMN": {
    "price": 235.99,
@@ -1086,6 +1090,21 @@
     "JNJ"
    ],
    "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "78879271d247",
+   "headline": "GSK (LSE:GSK) Wins FDA Nod For Jemperli As ESMO Data Builds Oncology Case",
+   "summary": "GSK (LSE:GSK) received accelerated FDA approval for Jemperli as the first immunotherapy for certain rectal cancer patients. The approval covers a genetically defined group of rectal cancer cases where Jemperli offers a non surgical\u2026",
+   "url": "https://finnhub.io/api/news?id=eeb1b890b209fe4c9a08a0cb5fccfd82338d7a4ec3314856f072ae3580fd6e92",
+   "source": "Yahoo",
+   "published": "2026-11-01T11:15:14+00:00",
+   "tickers": [
+    "GSK"
+   ],
+   "tag": "FDA",
    "sectors": [
     "pharma"
    ]
