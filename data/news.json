@@ -1,7 +1,11 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-02T02:16:37.886394+00:00",
+ "updated": "2026-11-02T02:31:44.227055+00:00",
  "quotes": {
+  "A": {
+   "price": 174.87,
+   "change_pct": -3.47
+  },
   "ABBV": {
    "price": 294.89,
    "change_pct": 1.41
@@ -110,9 +114,9 @@
    "price": 30.52,
    "change_pct": 1.9
   },
-  "RGEN": {
-   "price": 176.94,
-   "change_pct": -6.2
+  "RMD": {
+   "price": 229.94,
+   "change_pct": -9.05
   },
   "RVMD": {
    "price": 191.31,
@@ -762,7 +766,8 @@
    "published": "2026-11-02T01:23:30+00:00",
    "tickers": [
     "BDX",
-    "MDT"
+    "MDT",
+    "RMD"
    ],
    "tag": "News",
    "sectors": [
@@ -777,6 +782,7 @@
    "source": "Yahoo",
    "published": "2026-11-02T01:23:28+00:00",
    "tickers": [
+    "A",
     "DHR"
    ],
    "tag": "News",
@@ -47034,21 +47040,6 @@
    "tag": "News",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "c201c5b79264",
-   "headline": "Learn Why The Bull Case For ResMed (RMD) Could Change Following U.S. Mask Launch",
-   "summary": "ResMed has launched the AirTouch F40 CPAP mask in the U.S., a fabric-cushioned, minimalist design that connects into its myAir and AirView platforms and is intended to support comfort, adherence and easier fitting for obstructive sleep\u2026",
-   "url": "https://finnhub.io/api/news?id=d13271f94e8ea5cecfb6cadca318cd529838b77cd3067498652d4e08ea99519f",
-   "source": "Yahoo",
-   "published": "2026-10-23T02:19:37+00:00",
-   "tickers": [
-    "RMD"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
