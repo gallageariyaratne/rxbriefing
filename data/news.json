@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-02T07:01:59.589217+00:00",
+ "updated": "2026-11-02T07:16:52.699464+00:00",
  "quotes": {
   "A": {
    "price": 174.87,
@@ -38,50 +38,6 @@
    "price": 298.23,
    "change_pct": -0.06
   },
-  "CVS": {
-   "price": 90.25,
-   "change_pct": -0.09
-  },
-  "DHR": {
-   "price": 232.23,
-   "change_pct": -2.0
-  },
-  "DOCS": {
-   "price": 32.76,
-   "change_pct": -2.59
-  },
-  "DVA": {
-   "price": 187.5,
-   "change_pct": -3.01
-  },
-  "DXCM": {
-   "price": 82.29,
-   "change_pct": 2.95
-  },
-  "GEHC": {
-   "price": 76.57,
-   "change_pct": 0.2
-  },
-  "GILD": {
-   "price": 170.68,
-   "change_pct": 3.06
-  },
-  "GSK": {
-   "price": 49.51,
-   "change_pct": 1.71
-  },
-  "ILMN": {
-   "price": 235.99,
-   "change_pct": -18.64
-  },
-  "ISRG": {
-   "price": 432.01,
-   "change_pct": -3.73
-  },
-  "JNJ": {
-   "price": 273.2,
-   "change_pct": -0.73
-  },
   "LLY": {
    "price": 1417.54,
    "change_pct": 3.19
@@ -105,6 +61,50 @@
   "NVO": {
    "price": 40,
    "change_pct": 2.2
+  },
+  "NVS": {
+   "price": 160.79,
+   "change_pct": -0.19
+  },
+  "PFE": {
+   "price": 30.52,
+   "change_pct": 1.9
+  },
+  "RMD": {
+   "price": 229.94,
+   "change_pct": -9.05
+  },
+  "RVMD": {
+   "price": 191.31,
+   "change_pct": 0.55
+  },
+  "SNY": {
+   "price": 44.34,
+   "change_pct": 2.81
+  },
+  "SYK": {
+   "price": 291.86,
+   "change_pct": -6.38
+  },
+  "TEM": {
+   "price": 72.22,
+   "change_pct": -7.22
+  },
+  "THC": {
+   "price": 273.25,
+   "change_pct": 0.99
+  },
+  "TMO": {
+   "price": 697,
+   "change_pct": -1.72
+  },
+  "UNH": {
+   "price": 406.97,
+   "change_pct": -0.96
+  },
+  "VRTX": {
+   "price": 558.88,
+   "change_pct": 3.5
   }
  },
  "tickers": {
@@ -46863,52 +46863,6 @@
    "tag": "Clinical",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "1f39e680e2f9",
-   "headline": "GSK (LSE:GSK) Secures Ex China Rights To KRAS EGFR Cancer Drug",
-   "summary": "GSK (LSE:GSK) agreed an exclusive global licence with HUTCHMED for KRAS-EGFR antibody drug conjugate HMPL-A830, excluding China. The arrangement grants GSK rights to develop and commercialise HMPL-A830 worldwide outside mainland China,\u2026",
-   "url": "https://finnhub.io/api/news?id=e02323079d1a7d8a6404236f27489b5b98e8aa30a7bf50fd321029e21ccabd11",
-   "source": "Yahoo",
-   "published": "2026-10-23T07:15:51+00:00",
-   "tickers": [
-    "GSK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "389d53a48e96",
-   "headline": "Neurocrine Biosciences (NBIX) Starts Phase 2 Alzheimer\u2019s Trial",
-   "summary": "Neurocrine Biosciences (NasdaqGS:NBIX) has begun a Phase 2 trial of NBI-1117567 in adults with mild to moderate Alzheimer's disease. The study evaluates an orally administered muscarinic receptor agonist aimed at treating cognitive\u2026",
-   "url": "https://finnhub.io/api/news?id=93e03372e388bf5fe391a09fc47803ea7df1bead5ee3964fb49fabbf38ee8c09",
-   "source": "Yahoo",
-   "published": "2026-10-23T07:11:46+00:00",
-   "tickers": [
-    "NBIX"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "af8cf09d72c7",
-   "headline": "More Americans Now Take GLP-1 Drugs for Weight Loss Than Diabetes as Food, Alcohol and Apparel Habits Shift, Survey Finds",
-   "summary": "GLP-1 users cut sweets and switch clothing sizes as weight management becomes top use.",
-   "url": "https://finnhub.io/api/news?id=b56fd69025b558d4c9fe11b27ec692dcb1d418d00974211810339d2c9adfdf5c",
-   "source": "Benzinga",
-   "published": "2026-10-23T07:01:46+00:00",
-   "tickers": [
-    "LLY",
-    "NVO"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
