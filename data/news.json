@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-02T10:02:05.646506+00:00",
+ "updated": "2026-11-02T10:16:51.276338+00:00",
  "quotes": {
   "A": {
    "price": 174.87,
@@ -121,6 +121,10 @@
   "PFE": {
    "price": 30.52,
    "change_pct": 1.9
+  },
+  "REGN": {
+   "price": 927.89,
+   "change_pct": 13.33
   },
   "RMD": {
    "price": 229.94,
@@ -781,6 +785,28 @@
    "sectors": []
   },
   {
+   "id": "63957f804b7f",
+   "headline": "What happens to a health plan\u2019s payment operation when volume triples",
+   "summary": "Exception volume, return rate and digital share show whether a plan bought capacity or architecture.",
+   "url": "https://www.healthcaredive.com/spons/what-happens-to-a-health-plans-payment-operation-when-volume-triples/873363/",
+   "source": "Healthcare Dive",
+   "published": "2026-11-02T10:00:00+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "0059faf2f491",
+   "headline": "Healthcare employers are planning for growth. Are they watching the right roles?",
+   "summary": "Healthcare growth depends on more than high-profile roles. Is your workforce plan ready?",
+   "url": "https://www.healthcaredive.com/spons/healthcare-employers-are-planning-for-growth-are-they-watching-the-right-r/873127/",
+   "source": "Healthcare Dive",
+   "published": "2026-11-02T10:00:00+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
    "id": "68f3ce988e67",
    "headline": "Are you pursuing MRT as a treatment for infertility?",
    "summary": "Are you pursuing MRT as a treatment for infertility? STAT wants to hear from you",
@@ -834,6 +860,51 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "922c71ffd831",
+   "headline": "Stock Market Today: Intel\u2019s Worst Day in Four Decades Drags Chips and the Nasdaq to a Rough October Finish",
+   "summary": "Intel lost nearly 29% and dragged chip stocks lower as the Nasdaq had its worst day since June. Oil rose about 15% in October, Treasury yields fell, and Regeneron, FedEx Freight and the oil majors went the other way.",
+   "url": "https://finnhub.io/api/news?id=0d242a5bdd68598220ecbb4487968bad8e58473bdcbfe5ae732396b4ffa34819",
+   "source": "ChartMill",
+   "published": "2026-11-02T08:43:00+00:00",
+   "tickers": [
+    "REGN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "56dc826ef799",
+   "headline": "When Eli Lilly's Forecast and Chart Say the Same Thing, Pay Attention",
+   "summary": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://finnhub.io/api/news?id=34a4eae87b3444698d795694c6b57d374680feafdb3e13c7e68fac8630c680ed",
+   "source": "Yahoo",
+   "published": "2026-11-02T08:35:10+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "2361a032a8ce",
+   "headline": "Is This Number The Biggest Risk To Intuitive Surgical Stock?",
+   "summary": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://finnhub.io/api/news?id=54aa0f8263d9795ba62a3d221bf198322aeafa27ccef3e62c68c8c8b62e656a3",
+   "source": "Yahoo",
+   "published": "2026-11-02T08:35:08+00:00",
+   "tickers": [
+    "MDT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
   },
   {
    "id": "fa96e43399bb",
@@ -46476,88 +46547,6 @@
    "tag": "Analyst",
    "sectors": [
     "medtech"
-   ]
-  },
-  {
-   "id": "1177def91a87",
-   "headline": "Wells Fargo Maintains Overweight on argenx, Lowers Price Target to $1336",
-   "summary": "Wells Fargo analyst Derek Archila maintains argenx (NASDAQ:ARGX) with a Overweight and lowers the price target from $1356 to $1336.",
-   "url": "https://finnhub.io/api/news?id=67b749973fd89d2f3f898804fda70259bf547497a1f6969c7a1773342c18a44a",
-   "source": "Benzinga",
-   "published": "2026-10-23T10:14:54+00:00",
-   "tickers": [
-    "ARGX"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "58975d2a9802",
-   "headline": "What Sent Eli Lilly Stock Higher Over The Past Year?",
-   "summary": "For questions about this article or underlying research, email help@trefis.com.",
-   "url": "https://finnhub.io/api/news?id=dd1033de1a38808c96bfaf9f76cf0ea22287ed9a1757cd789080f8438e109cdc",
-   "source": "Yahoo",
-   "published": "2026-10-23T10:14:03+00:00",
-   "tickers": [
-    "ABBV",
-    "AMGN",
-    "JNJ",
-    "LLY",
-    "MRK",
-    "PFE"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "939c3d8cb35e",
-   "headline": "Nasdaq, Dow, S&P 500 Futures Drop Premarket: NVDA, AMD, META, CRWV, MRNA, WDC, BE In Focus",
-   "summary": "Stocktwits retail sentiment for SPY and DIA was \u2018extremely bearish,\u2019 while it remained \u2018bearish\u2019 for QQQ.",
-   "url": "https://finnhub.io/api/news?id=5922972d586f65fcf83214c46c06e90ef1c3a8fbb7f6857fb86f2fb48028df32",
-   "source": "Yahoo",
-   "published": "2026-10-23T10:13:48+00:00",
-   "tickers": [
-    "MRNA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "e2549b23d0f9",
-   "headline": "Merck CEO on melanoma vaccine results: The prescribing community will find results quite meaningful",
-   "summary": "Merck CEO Rob Davis joins 'Squawk on the Street' to discuss leaked data of melanoma vaccine trials, the drop off the company's stock price and more.",
-   "url": "https://finnhub.io/api/news?id=dc28cb27bf68334c0760dce005d4940913be7ea4a52dc5b872c79dbbe8fdebc9",
-   "source": "CNBC",
-   "published": "2026-10-23T10:09:28+00:00",
-   "tickers": [
-    "MRK",
-    "MRNA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "62134977f8fd",
-   "headline": "Better Dividend Stock to Buy and Hold: Pfizer or Bristol Myers Squibb?",
-   "summary": "One of these pharma stocks offers more income, but the other offers a safer dividend.",
-   "url": "https://finnhub.io/api/news?id=89bb022e7ab98f8052a1d6c38dc5e4b4964e2313b38108adc120835b2eb6384a",
-   "source": "Yahoo",
-   "published": "2026-10-23T10:03:00+00:00",
-   "tickers": [
-    "BMY",
-    "PFE"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
