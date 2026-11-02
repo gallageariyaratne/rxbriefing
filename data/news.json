@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-02T10:16:51.276338+00:00",
+ "updated": "2026-11-02T10:32:01.168303+00:00",
  "quotes": {
   "A": {
    "price": 174.87,
@@ -73,6 +73,10 @@
   "GILD": {
    "price": 170.68,
    "change_pct": 3.06
+  },
+  "GMED": {
+   "price": 78.05,
+   "change_pct": -5.86
   },
   "GSK": {
    "price": 49.51,
@@ -149,6 +153,10 @@
   "UNH": {
    "price": 406.97,
    "change_pct": -0.96
+  },
+  "VEEV": {
+   "price": 312.96,
+   "change_pct": 0.84
   },
   "VRTX": {
    "price": 558.88,
@@ -807,6 +815,21 @@
    "sectors": []
   },
   {
+   "id": "a2c4f90361aa",
+   "headline": "ResMed: 3 Key Takeaways for Long-Term Investors",
+   "summary": "Manufacturing gains are lifting margins faster than revenue growth, signaling operational leverage ahead.",
+   "url": "https://finnhub.io/api/news?id=a356593f3fe49212b2edfc347d300e6cec743c873a0471fd88bbeb25050698ea",
+   "source": "Yahoo",
+   "published": "2026-11-02T09:33:51+00:00",
+   "tickers": [
+    "RMD"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "68f3ce988e67",
    "headline": "Are you pursuing MRT as a treatment for infertility?",
    "summary": "Are you pursuing MRT as a treatment for infertility? STAT wants to hear from you",
@@ -862,6 +885,21 @@
    "sectors": []
   },
   {
+   "id": "5b6b5cec7c9e",
+   "headline": "What Is Johnson & Johnson (JNJ) Signaling With Its New Impella Heart Pump Data?",
+   "summary": "Johnson & Johnson (NYSE:JNJ) reported positive real-world outcomes for its Impella heart pumps at the TCT 2026 meeting on 2 November 2026. Registry data from U.S. and European hospitals showed Impella use in high-risk percutaneous\u2026",
+   "url": "https://finnhub.io/api/news?id=3bb1d668b733c22705e8166cda26b81232a75049d24fc348bf241d4972f3c226",
+   "source": "Yahoo",
+   "published": "2026-11-02T09:08:49+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "922c71ffd831",
    "headline": "Stock Market Today: Intel\u2019s Worst Day in Four Decades Drags Chips and the Nasdaq to a Rough October Finish",
    "summary": "Intel lost nearly 29% and dragged chip stocks lower as the Nasdaq had its worst day since June. Oil rose about 15% in October, Treasury yields fell, and Regeneron, FedEx Freight and the oil majors went the other way.",
@@ -884,7 +922,8 @@
    "source": "Yahoo",
    "published": "2026-11-02T08:35:10+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "JNJ"
    ],
    "tag": "News",
    "sectors": [
@@ -899,6 +938,8 @@
    "source": "Yahoo",
    "published": "2026-11-02T08:35:08+00:00",
    "tickers": [
+    "GMED",
+    "JNJ",
     "MDT"
    ],
    "tag": "News",
@@ -1110,6 +1151,21 @@
    "tag": "Analyst",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "81022e6f901a",
+   "headline": "Veeva Systems: Bouncing Back With A Vengeance, Still A 'Buy' Over $300",
+   "summary": "See why Veeva Systems stock is rebounding as revenue growth, CRM retention, free cash flow, and buybacks boost confidence.",
+   "url": "https://finnhub.io/api/news?id=f09634430807b09f57933e70619b69639fe08ce956171b36346c6d18cfb2d61d",
+   "source": "SeekingAlpha",
+   "published": "2026-11-02T04:21:42+00:00",
+   "tickers": [
+    "VEEV"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
    ]
   },
   {
@@ -46374,179 +46430,6 @@
    "tag": "Clinical",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "dbc243ea7540",
-   "headline": "Moderna And Merck Cancer Vaccine Cuts Melanoma Death Risk By 42%",
-   "summary": "Key Stats for Merck StockPrice change for Merck stock in last 6 months: 28%$MRK Stock Price as of Oct. 21: $14752-Week High: $157$MRK Stock Price Target: $159__Now Live: Discover how much upside your favorite stocks could have using\u2026",
-   "url": "https://finnhub.io/api/news?id=5b067070efaec2d52607c6f04489e0549f9a17d2c8e6db7f32a612fae6bda216",
-   "source": "Yahoo",
-   "published": "2026-10-23T10:30:39+00:00",
-   "tickers": [
-    "MRK",
-    "MRNA"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "5ed045787803",
-   "headline": "Tango Therapeutics Just Improved On This 'Unprecedented' Cancer Drug",
-   "summary": "Tango Therapeutics beat expectations Friday for its combination using Revolution Medicines' newly approved drug in pancreatic cancer.",
-   "url": "https://finnhub.io/api/news?id=37c95abda1bc2b3fe0178e471d91b43cb130ef8629438477f4ec6de4ca00c25e",
-   "source": "Yahoo",
-   "published": "2026-10-23T10:30:28+00:00",
-   "tickers": [
-    "RVMD"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "912613d84aa8",
-   "headline": "STAT+: Tango reports 82% tumor response rate in trial of combo therapy for advanced pancreatic cancer",
-   "summary": "An experimental drug combination led to tumor responses in 82% of patients with a certain type of advanced pancreatic cancer, Tango Therapeutics reported.",
-   "url": "https://www.statnews.com/2026/10/23/esmo-2026-trial-results-tango-therapeutics-vopimetostat-revolution-medicines-rasonque/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-10-23T10:30:00+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "9e2a23d4445e",
-   "headline": "Tango Presents Promising Results from Phase 1/2 Study of Vopimetostat and Daraxonrasib in Pancreatic Cancer and Provides Updates to Development Strategy",
-   "summary": "82% objective response rate, median progression-free survival (PFS) not yet reached, and 9-month PFS-rate of 88% in patients with 2L/3L pancreatic cancer treated with vopimetostat plus daraxonrasib Vopimetostat combinations with RAS(ON)\u2026",
-   "url": "https://finnhub.io/api/news?id=115ccc4a4b92f550d0d67e0e5e35c2d3ac958b0fe702bf2c11832be5be078388",
-   "source": "Yahoo",
-   "published": "2026-10-23T10:30:00+00:00",
-   "tickers": [
-    "RVMD"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "e2d9328b266a",
-   "headline": "Johnson & Johnson's Icotrokinra Hydrochloride Receives Medicines And Healthcare Products Regulatory Agency Approval To Treat Moderate To Severe Plaque Psoriasis",
-   "summary": "https://www.gov.uk/government/news/mhra-approves-new-oral-treatment-for-moderate-to-severe-plaque-psoriasis",
-   "url": "https://finnhub.io/api/news?id=6c695be53d1ae0d56f594d8ccbd8ddb845f3d1708846bb8a4b2b67d9beb25b02",
-   "source": "Benzinga",
-   "published": "2026-10-23T10:27:16+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "2fce4f44996b",
-   "headline": "Update: Market Chatter: Johnson & Johnson Orthopedics, Smith & Nephew Merger Collapsed Over Leadership Dispute",
-   "summary": "(Updates with Smith & Nephew's clarification in the second paragraph.) Johnson & Johnson's (JNJ)",
-   "url": "https://finnhub.io/api/news?id=80792c2ddc1273e309e691c5527f18b620b866cf47e510f7032bd0014ff84755",
-   "source": "Yahoo",
-   "published": "2026-10-23T10:23:21+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "e29ead6295a2",
-   "headline": "RBC Capital Maintains Sector Perform on Molina Healthcare, Raises Price Target to $222",
-   "summary": "RBC Capital analyst Ben Hendrix maintains Molina Healthcare (NYSE:MOH) with a Sector Perform and raises the price target from $218 to $222.",
-   "url": "https://finnhub.io/api/news?id=a9b83c1ae53f559a8456251b67cd7001cf9ffdb0f2267e4f1d2556b738ce6d8d",
-   "source": "Benzinga",
-   "published": "2026-10-23T10:20:38+00:00",
-   "tickers": [
-    "MOH"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "4ec7932cfc88",
-   "headline": "Jazz Pharmaceuticals Presents Data From Its Phase 3 HERIZON-GEA-01 Study Of Ziihera In Combination With Chemotherapy At ESMO Congress 2026 To Treat Patients With HER2-Positive Locally Advanced Or Metastatic Gastroesophageal Adenocarcinoma",
-   "summary": "HJazz Pharmaceuticals plc (NASDAQ:JAZZ) today announced updated overall survival (OS) results from the Phase 3 HERIZON-GEA-01 trial evaluating Ziihera\u00ae (zanidatamab-hrii) in combination with chemotherapy, with or",
-   "url": "https://finnhub.io/api/news?id=58476c3887174ac80f9adbfcf978af7ccf4803a3e19223f1fd38043853e60bf3",
-   "source": "Benzinga",
-   "published": "2026-10-23T10:20:18+00:00",
-   "tickers": [
-    "JAZZ"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "0f1903c2c78a",
-   "headline": "Edwards wins FDA approval for tricuspid valve repair device",
-   "summary": "Edwards\u2019 approval should \u201cstrengthen the company\u2019s position in the large and underpenetrated transcatheter tricuspid market,\u201d analysts said.",
-   "url": "https://finnhub.io/api/news?id=5a5d111056252b2999b0ad4b505d9e30cec05621715a58d9d8440adabcce4679",
-   "source": "Yahoo",
-   "published": "2026-10-23T10:20:06+00:00",
-   "tickers": [
-    "EW"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "644547281c6d",
-   "headline": "Edwards wins FDA approval for tricuspid valve repair device",
-   "summary": "Edwards\u2019 approval should \u201cstrengthen the company\u2019s position in the large and underpenetrated transcatheter tricuspid market,\u201d analysts said.",
-   "url": "https://www.medtechdive.com/news/edwards-wins-fda-approval-for-tricuspid-valve-repair-device/833815/",
-   "source": "MedTech Dive",
-   "published": "2026-10-23T10:20:06+00:00",
-   "tickers": [],
-   "tag": "FDA",
-   "sectors": []
-  },
-  {
-   "id": "5579263ce93b",
-   "headline": "Biogen (BIIB) Surges 5.3%: Is This an Indication of Further Gains?",
-   "summary": "Biogen (BIIB) witnessed a jump in share price last session on above-average trading volume. The latest trend in earnings estimate revisions for the stock doesn't suggest further strength down the road.",
-   "url": "https://finnhub.io/api/news?id=8d7c4734f1737893dbcd9e02eb809a58ba77d9c2c5f439008bb8400a9de59eb1",
-   "source": "Yahoo",
-   "published": "2026-10-23T10:19:00+00:00",
-   "tickers": [
-    "BIIB"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "e993a3543424",
-   "headline": "Wells Fargo Maintains Overweight on Abbott Laboratories, Raises Price Target to $120",
-   "summary": "Wells Fargo analyst Larry Biegelsen maintains Abbott Laboratories (NYSE:ABT) with a Overweight and raises the price target from $119 to $120.",
-   "url": "https://finnhub.io/api/news?id=4710d3d167eaed40c61be1efbea69d8dd9737d2b3bde289ca64ff6bb434e951a",
-   "source": "Benzinga",
-   "published": "2026-10-23T10:17:02+00:00",
-   "tickers": [
-    "ABT"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
