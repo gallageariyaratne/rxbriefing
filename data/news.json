@@ -1,19 +1,7 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-02T12:16:49.248348+00:00",
+ "updated": "2026-11-02T12:32:03.065278+00:00",
  "quotes": {
-  "A": {
-   "price": 174.87,
-   "change_pct": -3.47
-  },
-  "ABBV": {
-   "price": 294.89,
-   "change_pct": 1.41
-  },
-  "ABT": {
-   "price": 106.2,
-   "change_pct": 1.56
-  },
   "AMGN": {
    "price": 466.01,
    "change_pct": 1.15
@@ -816,6 +804,21 @@
    ]
   },
   {
+   "id": "8b668a67805a",
+   "headline": "What Invesco S&P Ultra Dividend Revenue ETF (RDIV) Bought: Chevron Leads on Oct. 29",
+   "summary": "The fund bought $239.2 million of stock, adding to all 60 positions and selling nothing, with Chevron and Target the largest purchases.",
+   "url": "https://finnhub.io/api/news?id=6942028faea0ce3a421977973a8590dabf95feeab177d2c941c8929345b349e8",
+   "source": "Yahoo",
+   "published": "2026-11-02T11:05:16+00:00",
+   "tickers": [
+    "BMY"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "754242a0def3",
    "headline": "What State Street Health Care SPDR (XLV) Bought: Eli Lilly Leads on Oct. 29",
    "summary": "The $49.10 billion fund bought $423.4 million of stock, lifting all 60 positions and selling nothing.",
@@ -823,7 +826,53 @@
    "source": "Yahoo",
    "published": "2026-11-02T11:04:43+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "JNJ"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "e6e8734c7856",
+   "headline": "43 ETFs Add to Bristol-Myers Squibb (BMY) on Oct. 29",
+   "summary": "ETFs bought $24.6 million of Bristol-Myers Squibb stock last Thursday.",
+   "url": "https://finnhub.io/api/news?id=f47039fded4ec37d57b6d5d33a0c9d2126e2c32a88b2624b31f3ffc6f8f060c1",
+   "source": "Yahoo",
+   "published": "2026-11-02T11:01:51+00:00",
+   "tickers": [
+    "BMY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "31a68b55fd20",
+   "headline": "ETFs Are Buying Johnson & Johnson (JNJ) on Oct. 29",
+   "summary": "ETFs bought $35.1 million of Johnson & Johnson stock on Oct. 29.",
+   "url": "https://finnhub.io/api/news?id=2b6ad7de32e534d5d68583308bb520fe748352fa97664c7892e35b747e06514d",
+   "source": "Yahoo",
+   "published": "2026-11-02T11:01:38+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "58385cd0f288",
+   "headline": "J&J data show lower mortality with Impella in HRPCI than CHIP-BCIS3",
+   "summary": "Real-world and observational findings from 1,379 patients across US and European centres reported decreased mortality than the CHIP-BCIS3 trial.",
+   "url": "https://finnhub.io/api/news?id=8b33841ccb4d823de725100766a478d88d1d4d21a298ffcfbacdcc2baaa51691",
+   "source": "Yahoo",
+   "published": "2026-11-02T10:51:02+00:00",
+   "tickers": [
+    "JNJ"
    ],
    "tag": "News",
    "sectors": [
@@ -45770,146 +45819,6 @@
    "tag": "Earnings",
    "sectors": [
     "pharmacy"
-   ]
-  },
-  {
-   "id": "7cc97f244a00",
-   "headline": "IBD's 50 Most Sustainable Companies For 2026",
-   "summary": "Looking for the best green investments? IBD's 50 Most Sustainable Companies combine high sustainability scores and superior stock ratings.",
-   "url": "https://finnhub.io/api/news?id=394683e385af296f2800015891724eab30dc87f5176ff6093737f9ecc125998f",
-   "source": "Yahoo",
-   "published": "2026-10-23T12:30:45+00:00",
-   "tickers": [
-    "AMGN",
-    "LLY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "ea200f872f2c",
-   "headline": "IBD's Most Sustainable Companies Across Industry Categories",
-   "summary": "Sustainable stocks are ready for a clean energy future and can deliver solid returns in all types of market environments.",
-   "url": "https://finnhub.io/api/news?id=61d54d1bf1847e1f32c8e9cbc6a205109261b68265e021229f1dbcb40ac81b33",
-   "source": "Yahoo",
-   "published": "2026-10-23T12:30:40+00:00",
-   "tickers": [
-    "AMGN",
-    "LLY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "d87a389f3544",
-   "headline": "At Amgen, Sustainability Is A Companywide Commitment",
-   "summary": "Amgen integrates sustainability goals in every part of its business with a holistic and innovative approach to manufacturing.",
-   "url": "https://finnhub.io/api/news?id=aab6a586f1200c48d1ee18456c63112d608a4878f9a25d2fcf7287ee2171ad1a",
-   "source": "Yahoo",
-   "published": "2026-10-23T12:30:37+00:00",
-   "tickers": [
-    "AMGN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "88e3a1a6d200",
-   "headline": "Here\u2019s How Much You Would Have Made Owning Illumina Stock In The Last 20 Years",
-   "summary": "Illumina (NASDAQ:ILMN) has outperformed the market over the past 20 years by 4.59% on an annualized basis producing an average annual return of 13.52%. Currently, Illumina has a market capitalization of $43.25 billion.",
-   "url": "https://finnhub.io/api/news?id=01bb4afca1173b4b80cf0868e654cc4fae5394a3bb5fea51743e50a45430e4fd",
-   "source": "Benzinga",
-   "published": "2026-10-23T12:30:30+00:00",
-   "tickers": [
-    "ILMN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "6b95ac5cce5f",
-   "headline": "Eli Lilly's Fast Growth Hasn't Slowed Its Progress As Sustainability Leader",
-   "summary": "Eli Lilly's commitment to philanthropy, coupled with a dedication to environmental progress, make it a sustainability leader.",
-   "url": "https://finnhub.io/api/news?id=a15b7f4eb2acac4c64a192691639bff6c03a6f8d606896117fddec091da3c4b9",
-   "source": "Yahoo",
-   "published": "2026-10-23T12:30:05+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "438949af813a",
-   "headline": "Incyte Gears Up to Report Q3 Earnings: Will Results Disappoint?",
-   "summary": "INCY's Q3'26 results hinge on Jakafi's strong sales, Opzelura's growth and rising royalties, while higher operating expenses may pressure earnings.",
-   "url": "https://finnhub.io/api/news?id=b9b049873c2f2cfb6a924d0a973a7fc71a29ff3583cd16b61c6a97bdb71bc0d7",
-   "source": "Yahoo",
-   "published": "2026-10-23T12:25:00+00:00",
-   "tickers": [
-    "HALO",
-    "INCY",
-    "LLY",
-    "NVS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "ed946052aee2",
-   "headline": "Exelixis Rises with Earnings on Tap",
-   "summary": "Shares of oncology company Exelixis, Inc. (EXEL) are higher by 177% since 2017.",
-   "url": "https://finnhub.io/api/news?id=1e8620682f8988c9a81187b19a64312cd3c4d3de6b63fe920183b25c3b432c5f",
-   "source": "Yahoo",
-   "published": "2026-10-23T12:23:51+00:00",
-   "tickers": [
-    "EXEL"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "7325b9ce0e47",
-   "headline": "These French Companies Have Global Reach. The Stocks Are Bargains.",
-   "summary": "Some investors are looking beyond turmoil in France for companies that depend little on their domestic market.",
-   "url": "https://finnhub.io/api/news?id=2773df14a68e1827eba83159cd7fdf74561bdfb3d9fd983f586e437de1856050",
-   "source": "Yahoo",
-   "published": "2026-10-23T12:23:00+00:00",
-   "tickers": [
-    "SNY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "854b2e30ca8b",
-   "headline": "Bristol-Myers Spokesperson Says Grade 5 Event That Was Disclosed As Part Of Data Disclosure At MS Toronto Occurred After Trial Pause; Working Closely With FDA To Restart Trial As Soon As Possible, With The Goal Of Resuming Enrollment In Early 2027; Grade 5 Event That Was Disclosed Was Not Related To Our Decision To Pause The BreakFree Program",
-   "summary": "- Reuters",
-   "url": "https://finnhub.io/api/news?id=25561b8725a01fd5aa0f0c3d5b16b6fdee149702bfd5ac49f749a7d063b2cfc3",
-   "source": "Benzinga",
-   "published": "2026-10-23T12:22:10+00:00",
-   "tickers": [
-    "BMY"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
