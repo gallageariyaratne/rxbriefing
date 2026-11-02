@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-02T13:02:29.330312+00:00",
+ "updated": "2026-11-02T13:16:54.877490+00:00",
  "quotes": {
   "A": {
    "price": 174.87,
@@ -106,6 +106,10 @@
    "price": 273.2,
    "change_pct": -0.73
   },
+  "KRYS": {
+   "price": 332.29,
+   "change_pct": 2.38
+  },
   "LLY": {
    "price": 1417.54,
    "change_pct": 3.19
@@ -122,17 +126,21 @@
    "price": 221.72,
    "change_pct": -0.47
   },
+  "NBIX": {
+   "price": 146.1,
+   "change_pct": -0.19
+  },
   "NVO": {
    "price": 40,
    "change_pct": 2.2
   },
-  "NVS": {
-   "price": 160.79,
-   "change_pct": -0.19
-  },
   "PFE": {
    "price": 30.52,
    "change_pct": 1.9
+  },
+  "PTCT": {
+   "price": 59.97,
+   "change_pct": -6.97
   },
   "REGN": {
    "price": 927.89,
@@ -798,6 +806,65 @@
  },
  "stories": [
   {
+   "id": "aa54ac72f6f1",
+   "headline": "How MRD is powering the next wave of precision oncology",
+   "summary": "The Oncodetect\u00ae molecular residual disease test is giving clinicians insights that can reshape cancer treatment and monitoring.",
+   "url": "https://www.fiercehealthcare.com/sponsored/how-mrd-powering-next-wave-precision-oncology",
+   "source": "Fierce Healthcare",
+   "published": "2026-11-02T13:15:21.675524+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "03dac11be116",
+   "headline": "From Transparency to Defensibility: The Standard Mid\u2013Revenue Cycle AI Requires",
+   "summary": "Healthcare AI needs more than transparency. Discover why clinical and coding integrity sets the standard for trusted, defensible mid-revenue cycle AI.",
+   "url": "https://www.fiercehealthcare.com/sponsored/transparency-defensibility-standard-mid-revenue-cycle-ai-requires",
+   "source": "Fierce Healthcare",
+   "published": "2026-11-02T13:15:21.674321+00:00",
+   "tickers": [],
+   "tag": "Earnings",
+   "sectors": []
+  },
+  {
+   "id": "66689dd0ccb5",
+   "headline": "HCPs Aren\u2019t Ignoring Your Science. They\u2019re Ignoring How (and When) You Deliver It",
+   "summary": "Make your congress investment work harder. Discover how the right format can deliver 180% more engaged sessions.",
+   "url": "https://www.fiercepharma.com/sponsored/hcps-arent-ignoring-your-science-theyre-ignoring-how-and-when-you-deliver-it",
+   "source": "Fierce Pharma",
+   "published": "2026-11-02T13:15:21.567711+00:00",
+   "tickers": [],
+   "tag": "Policy",
+   "sectors": []
+  },
+  {
+   "id": "0792bcf6c72f",
+   "headline": "A STAT reporter on covering MRT as an experimental fertility treatment",
+   "summary": "Inside the global fertility industry using women as \"guinea pigs\":",
+   "url": "https://www.statnews.com/2026/11/02/health-news-stat-reporter-qa-on-mit-as-experimental-fertility-treatment/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-11-02T13:08:42+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "8061ce2b626c",
+   "headline": "PTC Therapeutics to Participate in Upcoming Investor Conferences",
+   "summary": "WARREN, N.J., Nov. 2, 2026 /PRNewswire/ -- PTC Therapeutics, Inc. (NASDAQ: PTCT) today announced that its executives will speak at the following conferences: Jefferies Global Healthcare Conference Monday, Nov. 16 at 11 a.m. GMT/6 a.m. ET\u2026",
+   "url": "https://www.prnewswire.com/news-releases/ptc-therapeutics-to-participate-in-upcoming-investor-conferences-302925133.html",
+   "source": "PR Newswire",
+   "published": "2026-11-02T13:00:00+00:00",
+   "tickers": [
+    "PTCT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "9c6fc70fb0db",
    "headline": "Post-midterms, hospitals still face a long road to policy relief, advisers warn",
    "summary": "Regardless of where this week's midterms land, hospitals have their work cut out for them in navigating impending policy headwinds unlikely to vanish in 2027 and beyond, consultants and health system heads warn.",
@@ -836,6 +903,81 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "7ce9d846c355",
+   "headline": "Neurocrine Biosciences (NASDAQ:NBIX): A Debt-Free GARP Stock With Reasonable Growth",
+   "summary": "Neurocrine Biosciences fits a Peter Lynch GARP screen with strong profitability, zero debt, and a PEG below 1, balancing growth and valuation.",
+   "url": "https://finnhub.io/api/news?id=28c52e2ac5c96e739683185d211800a32d7781733e4b20fea6cb4b99330264b5",
+   "source": "ChartMill",
+   "published": "2026-11-02T12:00:52+00:00",
+   "tickers": [
+    "NBIX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "289efb3ff93e",
+   "headline": "PaperFoam secures funds to expand manufacturing footprint",
+   "summary": "The proceeds will support capital expenditure at the Barneveld-headquartered company's production facility in the Czech Republic.",
+   "url": "https://finnhub.io/api/news?id=a6ffa2a0278e830f117b0bfd48e47c021d62f926acf6ee66083794b937fdec22",
+   "source": "Yahoo",
+   "published": "2026-11-02T12:00:05+00:00",
+   "tickers": [
+    "MDT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "f640c51886a3",
+   "headline": "OncoC4 Appoints Dr. Dan Janiak as Chief Business Officer",
+   "summary": "OncoC4, Inc., a late clinical-stage biopharmaceutical company developing novel medicines for cancer and immunological diseases, today announced the appointment of Dr. Dan Janiak as Chief Business Officer.",
+   "url": "https://finnhub.io/api/news?id=12a6b60c88f142517baf723c525723b44e1d74ef0872bc7d6e79147bfef11a56",
+   "source": "Yahoo",
+   "published": "2026-11-02T12:00:00+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "eee53939c2b2",
+   "headline": "Krystal Biotech Announces Third Quarter 2026 Financial and Operating Results",
+   "summary": "$127.3 million in 3Q VYJUVEK global revenue and $1.1 billion since launch VYJUVEK pricing negotiations in Germany and Italy completed KB113 clinical data demonstrate regression in more than 80% of assessed basal cell carcinoma lesions in\u2026",
+   "url": "https://finnhub.io/api/news?id=23fbc3d71cd748202ee42c5a6ec7797152aceb5994c91d034d7826e8d2d2108d",
+   "source": "Yahoo",
+   "published": "2026-11-02T12:00:00+00:00",
+   "tickers": [
+    "KRYS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "aada75b1a38d",
+   "headline": "Tempus Reports Third Quarter 2026 Results",
+   "summary": "CHICAGO, November 02, 2026--Tempus AI, Inc. (NASDAQ: TEM), a technology company leading the adoption of AI to advance precision medicine, today reported financial results for the quarter ended September 30, 2026.",
+   "url": "https://finnhub.io/api/news?id=257783974e8cc87bbb92f71db2fe023d95717e06fdcc5b63e75b63f62d5154a8",
+   "source": "Yahoo",
+   "published": "2026-11-02T12:00:00+00:00",
+   "tickers": [
+    "TEM"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "healthai"
    ]
   },
   {
@@ -1162,7 +1304,8 @@
    "source": "Yahoo",
    "published": "2026-11-02T10:36:32+00:00",
    "tickers": [
-    "ALNY"
+    "ALNY",
+    "REGN"
    ],
    "tag": "FDA",
    "sectors": [
@@ -1311,6 +1454,21 @@
    "published": "2026-11-02T09:08:49+00:00",
    "tickers": [
     "JNJ"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "ebc978fc0032",
+   "headline": "FTSE 100 today: Stocks fall as crude slide drags oil majors lower",
+   "summary": "Investing.com -- British stocks fell on Monday as a slide in crude on hopes of progress in indirect U.S.-Iran talks dragged down oil majors, weighing on the index.",
+   "url": "https://finnhub.io/api/news?id=34a86927e3f297698f24072c1b08273290000cc30d16e482e54513566e384888",
+   "source": "Yahoo",
+   "published": "2026-11-02T08:54:08+00:00",
+   "tickers": [
+    "AZN"
    ],
    "tag": "News",
    "sectors": [
@@ -1510,7 +1668,8 @@
    "source": "Yahoo",
    "published": "2026-11-02T06:30:00+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "News",
    "sectors": [
@@ -1525,6 +1684,7 @@
    "source": "Yahoo",
    "published": "2026-11-02T06:11:35+00:00",
    "tickers": [
+    "AZN",
     "MRK",
     "MRNA"
    ],
@@ -1633,6 +1793,7 @@
    "tickers": [
     "AMGN",
     "MRNA",
+    "NVO",
     "PFE",
     "VRTX"
    ],
@@ -45651,116 +45812,6 @@
     "PFE"
    ],
    "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "d9ef2c7c22d8",
-   "headline": "Global Clinical Trials Market Size, Share, Growth Trends, and Forecast, 2026-2035 | Clinical Trials Market set to more than Double to $144.4bn as Drugmakers Lean on Outside Researchers",
-   "summary": "New Report puts the market at $66.3bn in 2025, with oncology accounting for 38.3% and North America just over half, though patchy insurer coverage and infrastructural barriers remain stubborn obstacles for IQVIA, ICON, Medpace and Charles\u2026",
-   "url": "https://finnhub.io/api/news?id=15716f0eee0e91f447d4c5c7f3391137b64c2f1b2c3e6b1c73e036d600fc389f",
-   "source": "Yahoo",
-   "published": "2026-10-23T13:16:00+00:00",
-   "tickers": [
-    "CRL"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "3001f1e20bc8",
-   "headline": "Abbott presents new ESMO data showing 30-percent absolute improvement in sensitivity with the whole-genome sequencing Oncodetect\u00ae test in colorectal cancer",
-   "summary": "Beta-CORRECT study shows a 10.6-fold higher risk of recurrence, reinforcing the prognostic value of molecular residual disease (MRD) testing1 Building on its leadership in colorectal cancer screening with the Cologuard\u00ae test, Abbott is\u2026",
-   "url": "https://www.prnewswire.com/news-releases/abbott-presents-new-esmo-data-showing-30-percent-absolute-improvement-in-sensitivity-with-the-whole-genome-sequencing-oncodetect-test-in-colorectal-cancer-302917569.html",
-   "source": "PR Newswire",
-   "published": "2026-10-23T13:15:00+00:00",
-   "tickers": [
-    "ABT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "557a47ab98ba",
-   "headline": "Abbott presents new ESMO data showing 30-percent absolute improvement in sensitivity with the whole-genome sequencing Oncodetect\u00ae test in colorectal cancer",
-   "summary": "For patients with colorectal cancer, surgery can remove visible cancer, but it can be difficult to know whether minute traces of the disease remain. Abbott (NYSE: ABT) today announced new Beta-CORRECT data presented at the European\u2026",
-   "url": "https://finnhub.io/api/news?id=4ea36f3711fb514815a611f56a36fb4826299584b1e2317a627f11d57261e66d",
-   "source": "Yahoo",
-   "published": "2026-10-23T13:15:00+00:00",
-   "tickers": [
-    "ABT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "f383a5a9857a",
-   "headline": "5 must-read analyst questions from Molina Healthcare\u2019s Q3 earnings call",
-   "summary": "Molina Healthcare\u2019s third quarter results reflected continued pressure from a challenging medical cost environment, with year-on-year declines in revenue and membership. Management pointed to operational execution on recent contracts and\u2026",
-   "url": "https://finnhub.io/api/news?id=b11644aa6637aad7750d885e881864dae36e0f053566683de65dfb2a441efb9c",
-   "source": "Yahoo",
-   "published": "2026-10-23T13:12:39+00:00",
-   "tickers": [
-    "MOH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "f74eb85c1dda",
-   "headline": "Is Abbott Stock About To Rebound?",
-   "summary": "For questions about this article or underlying research, email help@trefis.com.",
-   "url": "https://finnhub.io/api/news?id=edca5e001bd16a60807f771582845c086d7618c87e66903eaf8fd36c74267fbf",
-   "source": "Yahoo",
-   "published": "2026-10-23T13:12:30+00:00",
-   "tickers": [
-    "ABT",
-    "BSX",
-    "DHR",
-    "JNJ",
-    "MDT",
-    "TMO"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "65c65d7048bb",
-   "headline": "MRNA Stock: Citi Questions Whether Melanoma Vaccine\u2019s Benefit Justifies Individualized Tumor Harvesting And Manufacturing",
-   "summary": "According to The Fly, multiple analysts commented on Moderna\u2019s Phase 3 melanoma-vaccine data, with Bernstein describing the stock\u2019s decline as a \u201csell the news event\u201d and TD Cowen calling the leaked results \u201ccompelling\u201d .",
-   "url": "https://finnhub.io/api/news?id=ed12e584f4cf1f3c6ddfea388acf97feb4398507d99cef7b2347e92c993a41ac",
-   "source": "Yahoo",
-   "published": "2026-10-23T13:04:16+00:00",
-   "tickers": [
-    "MRNA"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "83822af2fe18",
-   "headline": "Oppenheimer Maintains Outperform on Amgen, Raises Price Target to $480",
-   "summary": "Oppenheimer analyst Jay Olson maintains Amgen (NASDAQ:AMGN) with a Outperform and raises the price target from $450 to $480.",
-   "url": "https://finnhub.io/api/news?id=001826c9ddc5b915e6dc88927a2c9da393dfc0255ca24b619334979c64017c0e",
-   "source": "Benzinga",
-   "published": "2026-10-23T13:03:20+00:00",
-   "tickers": [
-    "AMGN"
-   ],
-   "tag": "Analyst",
    "sectors": [
     "pharma"
    ]
