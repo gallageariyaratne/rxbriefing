@@ -1,18 +1,18 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-02T21:02:48.096521+00:00",
+ "updated": "2026-11-02T21:17:53.782735+00:00",
  "quotes": {
   "A": {
-   "price": 172.04,
-   "change_pct": -1.62
+   "price": 171.99,
+   "change_pct": -1.65
   },
   "ABBV": {
-   "price": 288.94,
-   "change_pct": -2.02
+   "price": 288.84,
+   "change_pct": -2.05
   },
   "ABT": {
-   "price": 110.27,
-   "change_pct": 3.83
+   "price": 110.16,
+   "change_pct": 3.73
   },
   "ALGN": {
    "price": 154.13,
@@ -99,8 +99,8 @@
    "change_pct": -0.4
   },
   "DHR": {
-   "price": 228.07,
-   "change_pct": -1.79
+   "price": 227.97,
+   "change_pct": -1.83
   },
   "DOCS": {
    "price": 32.87,
@@ -195,8 +195,8 @@
    "change_pct": -1.6
   },
   "LLY": {
-   "price": 1411.2,
-   "change_pct": -0.45
+   "price": 1410.99,
+   "change_pct": -0.46
   },
   "MCK": {
    "price": 998.38,
@@ -211,8 +211,8 @@
    "change_pct": -0.59
   },
   "MRK": {
-   "price": 148.49,
-   "change_pct": -0.69
+   "price": 148.36,
+   "change_pct": -0.78
   },
   "MRNA": {
    "price": 220.83,
@@ -311,16 +311,16 @@
    "change_pct": -1.03
   },
   "WAT": {
-   "price": 449.32,
-   "change_pct": -2.9
+   "price": 449.53,
+   "change_pct": -2.85
+  },
+  "WAY": {
+   "price": 28.14,
+   "change_pct": 0.5
   },
   "ZBH": {
    "price": 97.35,
    "change_pct": 2.99
-  },
-  "ZTS": {
-   "price": 83.18,
-   "change_pct": 4.34
   }
  },
  "tickers": {
@@ -938,6 +938,47 @@
  },
  "stories": [
   {
+   "id": "1c61d7de81bf",
+   "headline": "FDA grants uniQure\u2019s Huntington\u2019s gene therapy priority review, teeing up \u2018defining milestone\u2019",
+   "summary": "The FDA has accepted uniQure\u2019s priority review and application for its gene therapy treatment for Huntington\u2019s disease.",
+   "url": "https://www.fiercebiotech.com/biotech/fda-grants-uniqure-review-its-huntingtons-drug-approval-would-be-defining-milestone",
+   "source": "Fierce Biotech",
+   "published": "2026-11-02T21:15:29.876355+00:00",
+   "tickers": [],
+   "tag": "FDA",
+   "sectors": []
+  },
+  {
+   "id": "948d193d114d",
+   "headline": "Waystar Reports Third Quarter 2026 Results",
+   "summary": "Q3 revenue of $325.6M, up 21% year over year Q3 net income of $31.0M and non-GAAP net income of $87.1M Q3 net income margin of 10%; adjusted EBITDA margin of 43% LEHI, Utah and LOUISVILLE, Ky., Nov. 2, 2026 /PRNewswire/ -- Waystar Holding\u2026",
+   "url": "https://www.prnewswire.com/news-releases/waystar-reports-third-quarter-2026-results-302926866.html",
+   "source": "PR Newswire",
+   "published": "2026-11-02T21:05:00+00:00",
+   "tickers": [
+    "WAY"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
+   "id": "b34cd53acc29",
+   "headline": "BioMarin Reports Third Quarter 2026 Financial and Operating Results",
+   "summary": "Third Quarter 2026 Total Revenues Increased 32% Y/Y to $1.025 billion; Growth Driven by 44% Increase in Metabolic Conditions Y/Y, and 12% Increase in Skeletal Conditions Y/Y Updates Full-year 2026 Guidance to Reflect Order Timing\u2026",
+   "url": "https://www.prnewswire.com/news-releases/biomarin-reports-third-quarter-2026-financial-and-operating-results-302926682.html",
+   "source": "PR Newswire",
+   "published": "2026-11-02T21:03:00+00:00",
+   "tickers": [
+    "BMRN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "c7cbd284fcce",
    "headline": "Washington state resident dies from bird flu following exposure to infected cattle",
    "summary": "A person in Washington state has died from complications of the bird flu, the first such U.S. death in a year.",
@@ -968,6 +1009,21 @@
    "published": "2026-11-02T19:57:36+00:00",
    "tickers": [
     "ABBV"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "f1fd2a5b3f1d",
+   "headline": "REGN Q3 deep dive: pipeline progress and core brands drive outperformance",
+   "summary": "Biotech company Regeneron (NASDAQ:REGN) reported revenue ahead of Wall Street\u2019s expectations in Q3 2026, with sales up 36.3% year on year to $5.12 billion. Its non-GAAP profit of $20.07 per share was 23.5% above analysts\u2019 consensus\u2026",
+   "url": "https://finnhub.io/api/news?id=bf32eb48adb53d40733ef77032ccad05e6ba54558e026b217bf5c712e8c606ea",
+   "source": "Yahoo",
+   "published": "2026-11-02T19:33:36+00:00",
+   "tickers": [
+    "REGN"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -47149,47 +47205,6 @@
    "tickers": [],
    "tag": "Policy",
    "sectors": []
-  },
-  {
-   "id": "f926e4abfa5e",
-   "headline": "Mass General Brigham cuts jobs impacting clinical, operational programs amid $300M budget shortfall",
-   "summary": "Less than two years after a wave of administrative layoffs, Mass General Brigham began a new round of job cuts last week that affect clinical and operational programs, according to media reports.",
-   "url": "https://www.fiercehealthcare.com/providers/mass-general-brigham-cuts-jobs-impacting-clinical-operational-programs-amid-300m-budget",
-   "source": "Fierce Healthcare",
-   "published": "2026-10-23T21:15:23.648543+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "0d56f13abe9a",
-   "headline": "Zoetis (ZTS) Registers a Bigger Fall Than the Market: Important Facts to Note",
-   "summary": "In the latest trading session, Zoetis (ZTS) closed at $81.03, marking a -1.18% move from the previous day.",
-   "url": "https://finnhub.io/api/news?id=e2abfc565ef0ec7098c826f24d9c6010d7d6d801e595759c0dd060964d751c1e",
-   "source": "Yahoo",
-   "published": "2026-10-23T21:15:03+00:00",
-   "tickers": [
-    "ZTS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "38d5ca0f1813",
-   "headline": "Quest Diagnostics Data Breach Investigation: Edelson Lechtzin LLP Probes Class Action Claims After Unauthorized Access to Patient Records",
-   "summary": "National class action law firm offers free, confidential case evaluations to Quest Diagnostics patients and others whose information may have been exposed. SECAUCUS, N.J., Oct. 23, 2026 /PRNewswire/ -- Edelson Lechtzin LLP, a national\u2026",
-   "url": "https://www.prnewswire.com/news-releases/quest-diagnostics-data-breach-investigation-edelson-lechtzin-llp-probes-class-action-claims-after-unauthorized-access-to-patient-records-302918491.html",
-   "source": "PR Newswire",
-   "published": "2026-10-23T21:12:00+00:00",
-   "tickers": [
-    "DGX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
   }
  ]
 }
