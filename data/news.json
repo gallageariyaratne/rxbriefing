@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-02T06:46:51.198552+00:00",
+ "updated": "2026-11-02T07:01:59.589217+00:00",
  "quotes": {
   "A": {
    "price": 174.87,
@@ -78,10 +78,6 @@
    "price": 432.01,
    "change_pct": -3.73
   },
-  "JAZZ": {
-   "price": 215.98,
-   "change_pct": 3.92
-  },
   "JNJ": {
    "price": 273.2,
    "change_pct": -0.73
@@ -109,50 +105,6 @@
   "NVO": {
    "price": 40,
    "change_pct": 2.2
-  },
-  "NVS": {
-   "price": 160.79,
-   "change_pct": -0.19
-  },
-  "PFE": {
-   "price": 30.52,
-   "change_pct": 1.9
-  },
-  "RMD": {
-   "price": 229.94,
-   "change_pct": -9.05
-  },
-  "RVMD": {
-   "price": 191.31,
-   "change_pct": 0.55
-  },
-  "SNY": {
-   "price": 44.34,
-   "change_pct": 2.81
-  },
-  "SYK": {
-   "price": 291.86,
-   "change_pct": -6.38
-  },
-  "TEM": {
-   "price": 72.22,
-   "change_pct": -7.22
-  },
-  "THC": {
-   "price": 273.25,
-   "change_pct": 0.99
-  },
-  "TMO": {
-   "price": 697,
-   "change_pct": -1.72
-  },
-  "UNH": {
-   "price": 406.97,
-   "change_pct": -0.96
-  },
-  "VRTX": {
-   "price": 558.88,
-   "change_pct": 3.5
   }
  },
  "tickers": {
@@ -770,6 +722,36 @@
  },
  "stories": [
   {
+   "id": "44f02ec6205d",
+   "headline": "SLS, IBRX, IOVA End October In Red: Merck And AstraZeneca Earnings Put Cancer Bets And Buyout Hopes In Focus",
+   "summary": "AstraZeneca emphasized ADC combinations, cell therapies and internally developed cancer vaccines as key oncology priorities.",
+   "url": "https://finnhub.io/api/news?id=31c078a11e9e6acbe5168571eb2d4c69a7611c7cda96026040de80a41952d863",
+   "source": "Yahoo",
+   "published": "2026-11-02T06:11:35+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "fee4ad54b15a",
+   "headline": "Eli Lilly (LLY) Unveils Diabetes Cancer And Colitis Trial Wins Across Its Pipeline",
+   "summary": "Eli Lilly (NYSE: LLY) reports strong Phase 3 data for retatrutide in type 2 diabetes, including a head-to-head trial versus Ozempic. The company announces positive Phase 1 results for sofetabart mipitecan in ovarian cancer, targeting\u2026",
+   "url": "https://finnhub.io/api/news?id=6629a17a702f175bd7f1e5c7ca436fb8c29c56733bd5c335fc8d87acb5e9e1cd",
+   "source": "Yahoo",
+   "published": "2026-11-02T05:10:06+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "76828347c87a",
    "headline": "Doximity (DOCS) Could Be 3% Undervalued Following DoseCheck And UpToDate Rollout",
    "summary": "Why DoseCheck and UpToDate Matter for Doximity Doximity (DOCS) just rolled out DoseCheck inside its Ask product, a new safety layer that cross checks every AI dosing answer against a structured drug database and published guidelines. This\u2026",
@@ -797,6 +779,21 @@
    "tag": "Health AI",
    "sectors": [
     "healthit"
+   ]
+  },
+  {
+   "id": "e2c3e35a9df8",
+   "headline": "Eli Lilly (LLY) Stock Sees Modest Fair Value Lift As Analysts Rework GLP 1 Outlook",
+   "summary": "Eli Lilly\u2019s updated fair value estimate has shifted from US$1,328.83 to US$1,397.02, giving investors a fresh reference point for where analysts currently anchor their price targets. This adjustment aligns with recent research focused on\u2026",
+   "url": "https://finnhub.io/api/news?id=90d2bc3915929e867334b1f409eb85d3d99e760346f3ba04677ca4dda3639b65",
+   "source": "Yahoo",
+   "published": "2026-11-02T04:29:16+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "pharma"
    ]
   },
   {
