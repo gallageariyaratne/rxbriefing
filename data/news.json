@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-02T08:31:48.229711+00:00",
+ "updated": "2026-11-02T08:46:42.224707+00:00",
  "quotes": {
   "A": {
    "price": 174.87,
@@ -73,6 +73,10 @@
   "GSK": {
    "price": 49.51,
    "change_pct": 1.71
+  },
+  "HUM": {
+   "price": 414.5,
+   "change_pct": -0.73
   },
   "ILMN": {
    "price": 235.99,
@@ -774,6 +778,36 @@
    ]
   },
   {
+   "id": "21be08d7473b",
+   "headline": "What to expect from Pfizer\u2019s (PFE) Q3 earnings",
+   "summary": "Global pharmaceutical company Pfizer (NYSE:PFE) will be reporting results this Tuesday before market open. Here\u2019s what to expect.",
+   "url": "https://finnhub.io/api/news?id=db5cc0224b872669dfec41bd9f1eb71bf57a50992f05ca0e9921b1e3ee035522",
+   "source": "Yahoo",
+   "published": "2026-11-02T07:17:36+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "54bf2c132b93",
+   "headline": "Will DoseCheck Launch Change Doximity (DOCS) Narrative",
+   "summary": "Doximity recently introduced DoseCheck, a free drug dosing safety layer inside its Ask tool that cross checks every AI generated recommendation against FDA labeling and professional guidelines, reporting more than 99% accuracy across over\u2026",
+   "url": "https://finnhub.io/api/news?id=7140a341519f40c06a009d271e1033cf9b4d866509a1d68895b61621a60b9658",
+   "source": "Yahoo",
+   "published": "2026-11-02T07:11:15+00:00",
+   "tickers": [
+    "DOCS"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "3089d20558f7",
    "headline": "What Has Changed About Owning Eli Lilly Stock?",
    "summary": "For questions about this article or underlying research, email help@trefis.com.",
@@ -782,7 +816,9 @@
    "published": "2026-11-02T07:04:12+00:00",
    "tickers": [
     "ABBV",
-    "JNJ"
+    "AMGN",
+    "JNJ",
+    "PFE"
    ],
    "tag": "News",
    "sectors": [
@@ -798,7 +834,9 @@
    "published": "2026-11-02T07:04:04+00:00",
    "tickers": [
     "CI",
-    "CVS"
+    "CVS",
+    "HUM",
+    "UNH"
    ],
    "tag": "News",
    "sectors": [
@@ -818,6 +856,21 @@
    "tag": "M&A",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "55716d29c479",
+   "headline": "Is Doximity (DOCS) Priced Right After Its DoseCheck Launch?",
+   "summary": "Doximity has been a volatile ride for shareholders, with big gains earlier in its life as a listed company followed by steep declines that leave many holders reassessing what they actually own. With the stock now around US$32.76, the key\u2026",
+   "url": "https://finnhub.io/api/news?id=bcbc2dca428bd99c7d7d1dcf9bc59febdca1a4ca287243e4f1529b857545ddf6",
+   "source": "Yahoo",
+   "published": "2026-11-02T06:09:18+00:00",
+   "tickers": [
+    "DOCS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
    ]
   },
   {
@@ -914,6 +967,21 @@
    ]
   },
   {
+   "id": "933f34755654",
+   "headline": "JEPI Vs. DIVO: The Right Income ETF For A Volatile 2027",
+   "summary": "The Amplify CWP Enhanced Dividend Income ETF is favored over JPMorgan Equity Premium Income ETF for 2026\u00e2\u0080\u00932027. Check out the comparison between JEPI and DIVO.",
+   "url": "https://finnhub.io/api/news?id=3da0b857c0502984063b98b62af490caa163c55981dcd04c0d2b7a12bc1ac7db",
+   "source": "SeekingAlpha",
+   "published": "2026-11-02T03:18:46+00:00",
+   "tickers": [
+    "AMGN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "5a906cd90709",
    "headline": "SCHD Into Midterms: Healthcare A Concern",
    "summary": "The Schwab US Dividend Equity ETF remains a Buy as dividend growth, diversification, and healthcare exposure shape the outlook. Learn more about the SCHD ETF here.",
@@ -921,7 +989,10 @@
    "source": "SeekingAlpha",
    "published": "2026-11-02T03:07:41+00:00",
    "tickers": [
-    "BMY"
+    "ABT",
+    "AMGN",
+    "BMY",
+    "UNH"
    ],
    "tag": "News",
    "sectors": [
@@ -46544,67 +46615,6 @@
    "tag": "Analyst",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "646ef77e2d16",
-   "headline": "argenx (ARGX) Q3 2026 Earnings Call Transcript",
-   "summary": "VYVGART revenue surged 54% year-over-year amid strategic Forte Biosciences acquisition.",
-   "url": "https://finnhub.io/api/news?id=832d071f05a9fee34e5922e89120728dd9abe48f6d69b36d6e9c775431943bc5",
-   "source": "Yahoo",
-   "published": "2026-10-23T08:42:48+00:00",
-   "tickers": [
-    "ARGX"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "262a1856f2cf",
-   "headline": "Update: Market Chatter: Johnson & Johnson Orthopedics, Smith & Nephew Merger Collapsed Over Leadership Dispute",
-   "summary": "(Updates with Smith & Nephew's response in the fifth paragraph.) Johnson & Johnson's (JNJ) orthop",
-   "url": "https://finnhub.io/api/news?id=4487dc7eb2c1c75eee42b080ef5482b61791204e4aa029ee2d466846f1ecf299",
-   "source": "Yahoo",
-   "published": "2026-10-23T08:42:39+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "a547e2c0572d",
-   "headline": "This Guardant Health Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Friday",
-   "summary": "Analysts initiated coverage: VSE Sector Weight; Guardant, Quantum, Benitec and Diodes rated Buy/Overweight/Outperform with targets up to $200.",
-   "url": "https://finnhub.io/api/news?id=4552b09ce15f6afcd4af90a6f65e72aff2f3a84a58839c00cf3d17709bc9facb",
-   "source": "Benzinga",
-   "published": "2026-10-23T08:37:19+00:00",
-   "tickers": [
-    "GH"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "73e305221e39",
-   "headline": "Moderna Stock Slides Again Friday: What's Going On?",
-   "summary": "Moderna slides in premarket trading post ESMO data leak, despite Phase 3 vaccine trial showing a 42% cut in melanoma recurrence.",
-   "url": "https://finnhub.io/api/news?id=9dcb1cfe8efa32abf17e26018314b97681e3af4b21f75ce72033245902b9a7b0",
-   "source": "Benzinga",
-   "published": "2026-10-23T08:35:47+00:00",
-   "tickers": [
-    "MRK",
-    "MRNA"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
