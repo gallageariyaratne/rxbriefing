@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-02T00:16:35.008465+00:00",
+ "updated": "2026-11-02T00:31:36.459796+00:00",
  "quotes": {
   "ABBV": {
    "price": 294.89,
@@ -13,6 +13,10 @@
   "AMGN": {
    "price": 466.01,
    "change_pct": 1.15
+  },
+  "BMRN": {
+   "price": 58.51,
+   "change_pct": 1.77
   },
   "CI": {
    "price": 298.23,
@@ -721,6 +725,36 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "cc0ff687d88c",
+   "headline": "BioMarin Pharmaceutical (BMRN) Q3 earnings: what to expect",
+   "summary": "Biotech company BioMarin Pharmaceutical (NASDAQ:BMRN) will be announcing earnings results tomorrow after market hours. Here\u2019s what investors should know.",
+   "url": "https://finnhub.io/api/news?id=9ce7d6e3d2ba789f5f8c56df12a08d28d2079ad75238c634f50d269f5910df95",
+   "source": "Yahoo",
+   "published": "2026-11-01T22:40:07+00:00",
+   "tickers": [
+    "BMRN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "3e0f06e6466e",
+   "headline": "Vertex Pharmaceuticals earnings: what to look for from VRTX",
+   "summary": "Biotech company Vertex Pharmaceuticals (NASDAQ:VRTX) will be announcing earnings results this Monday after market close. Here\u2019s what to expect.",
+   "url": "https://finnhub.io/api/news?id=70bcbcab063435df67a5c8fedc399b9f3cc76a4e4255e780b605aebd22a27a21",
+   "source": "Yahoo",
+   "published": "2026-11-01T22:16:07+00:00",
+   "tickers": [
+    "VRTX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
   {
    "id": "0083456045ea",
    "headline": "1 Dividend-Paying Biotech Stock to Buy Hand Over Fist in November",
@@ -46909,38 +46943,6 @@
    "tag": "Earnings",
    "sectors": [
     "healthit"
-   ]
-  },
-  {
-   "id": "a3e3d9b86910",
-   "headline": "What Higher Interest Rates Mean for Dividend Stocks Like AbbVie and Pfizer",
-   "summary": "They definitely matter... up to a point.",
-   "url": "https://finnhub.io/api/news?id=e1cb5a25981342f9c599c8bdabc79af4d8976b99945110614b8bd9900fca9fee",
-   "source": "Yahoo",
-   "published": "2026-10-23T00:20:00+00:00",
-   "tickers": [
-    "ABBV",
-    "PFE"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "abc02c7cd2fc",
-   "headline": "Moderna stock\u2019s 17% slump was a \u2018sell the news\u2019 event, analyst says",
-   "summary": "Moderna shares tumbled after leaked cancer vaccine trial data showed promising results for its treatment developed with Merck.",
-   "url": "https://finnhub.io/api/news?id=0d7ffdcf4427521e05413591a8631472cb0162192a6e2e7685c51bc24ce4d641",
-   "source": "Yahoo",
-   "published": "2026-10-23T00:18:35+00:00",
-   "tickers": [
-    "MRK",
-    "MRNA"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
