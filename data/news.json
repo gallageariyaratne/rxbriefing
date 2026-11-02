@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-02T02:31:44.227055+00:00",
+ "updated": "2026-11-02T02:46:45.562650+00:00",
  "quotes": {
   "A": {
    "price": 174.87,
@@ -34,6 +34,10 @@
    "price": 58.51,
    "change_pct": 1.77
   },
+  "BRKR": {
+   "price": 57.07,
+   "change_pct": -7.95
+  },
   "CI": {
    "price": 298.23,
    "change_pct": -0.06
@@ -49,10 +53,6 @@
   "DVA": {
    "price": 187.5,
    "change_pct": -3.01
-  },
-  "DXCM": {
-   "price": 82.29,
-   "change_pct": 2.95
   },
   "GEHC": {
    "price": 76.57,
@@ -783,7 +783,9 @@
    "published": "2026-11-02T01:23:28+00:00",
    "tickers": [
     "A",
-    "DHR"
+    "BRKR",
+    "DHR",
+    "ILMN"
    ],
    "tag": "News",
    "sectors": [
