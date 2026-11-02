@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-02T02:01:11.999096+00:00",
+ "updated": "2026-11-02T02:16:37.886394+00:00",
  "quotes": {
   "ABBV": {
    "price": 294.89,
@@ -18,6 +18,14 @@
    "price": 466.01,
    "change_pct": 1.15
   },
+  "AZN": {
+   "price": 186.65,
+   "change_pct": 7.02
+  },
+  "BDX": {
+   "price": 197.88,
+   "change_pct": -0.23
+  },
   "BMRN": {
    "price": 58.51,
    "change_pct": 1.77
@@ -26,13 +34,13 @@
    "price": 298.23,
    "change_pct": -0.06
   },
-  "COR": {
-   "price": 330.84,
-   "change_pct": 0.09
-  },
   "CVS": {
    "price": 90.25,
    "change_pct": -0.09
+  },
+  "DHR": {
+   "price": 232.23,
+   "change_pct": -2.0
   },
   "DVA": {
    "price": 187.5,
@@ -113,6 +121,10 @@
   "SYK": {
    "price": 291.86,
    "change_pct": -6.38
+  },
+  "TEM": {
+   "price": 72.22,
+   "change_pct": -7.22
   },
   "THC": {
    "price": 273.25,
@@ -742,6 +754,52 @@
  },
  "stories": [
   {
+   "id": "448e0377c01d",
+   "headline": "What Sent ResMed Stock Lower?",
+   "summary": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://finnhub.io/api/news?id=92fd884bddab6d101db338ff3e9c25e1c7760ccc779beaae5c8c45489573600c",
+   "source": "Yahoo",
+   "published": "2026-11-02T01:23:30+00:00",
+   "tickers": [
+    "BDX",
+    "MDT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "f6a7cd24339f",
+   "headline": "What Sent Illumina Stock Lower?",
+   "summary": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://finnhub.io/api/news?id=9deada23a048738cff493dfe12a7d2b11a9707264ab71a9db046303b14ec8526",
+   "source": "Yahoo",
+   "published": "2026-11-02T01:23:28+00:00",
+   "tickers": [
+    "DHR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "1072d2b1edf5",
+   "headline": "HUTCHMED Announces Regulatory Filings Accepted for Review for ORPATHYS\u00ae plus TAGRISSO\u00ae in MET-Driven EGFR-Mutated Lung Cancer in Europe and Japan",
+   "summary": "\u2014 Follows US FDA new drug application submission in September 2026, marking important global regulatory progress \u2014 \u2014 Filings supported by positive SAFFRON global Phase III data demonstrating statistically significant and clinically\u2026",
+   "url": "https://finnhub.io/api/news?id=a8cf024af968ce727b11733181d1aacf3a4a9db674efbd10043668fa997b5adc",
+   "source": "Yahoo",
+   "published": "2026-11-02T00:00:00+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "73cea022f980",
    "headline": "Dow Jones Futures Rise After Market Sell-Off; How Midterm Elections May Swing Stocks",
    "summary": "Techs led another stock market sell-off. It's a time to be defensive. Apple, Palantir, jobs and midterm elections loom.",
@@ -956,6 +1014,21 @@
    ]
   },
   {
+   "id": "8af56c455135",
+   "headline": "Cathie Wood buys $11.2 million of popular AI stock",
+   "summary": "Here are Cathie Wood\u2019s latest moves and thoughts.",
+   "url": "https://finnhub.io/api/news?id=939621ff5849a3b3af687e5abebc667745324bc703a81e7d2b056b589b29e430",
+   "source": "Yahoo",
+   "published": "2026-11-01T16:07:00+00:00",
+   "tickers": [
+    "TEM"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "healthai"
+   ]
+  },
+  {
    "id": "628946d06197",
    "headline": "Mark Cuban Says Public Companies Found They Were \u2018Ripped Off\u2019 On Healthcare But Won\u2019t Say So On Earnings Calls",
    "summary": "Cuban said the system supporting big insurers would collapse if employers covering roughly 160 million Americans ran their contracts through AI before signing.",
@@ -1049,6 +1122,21 @@
    ]
   },
   {
+   "id": "5bafd8a2a353",
+   "headline": "AstraZeneca: 3 Key Takeaways for Long-Term Investors",
+   "summary": "Strategic partnerships and accelerating trial readouts position the company to replace revenue lost to patent cliffs.",
+   "url": "https://finnhub.io/api/news?id=4bfeb03531e51d5bc2804a6d5a5bf3627264e63b81b1fdf14c4b7f633f2c3143",
+   "source": "Yahoo",
+   "published": "2026-11-01T14:19:46+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "dfb6db7d11e5",
    "headline": "What To Expect In Markets This Week: AAPL, PLTR, AMD, SMCI, SHOP, Earnings, Jobs Report And More",
    "summary": "The week will bring results from some of the market\u2019s most closely watched technology companies, while a major labor-market report could provide an important read on the health of the U.S. economy.",
@@ -1122,6 +1210,21 @@
    "tag": "Health AI",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "f87c43507de7",
+   "headline": "Haleon And 2 British AI Healthcare Stocks To Watch",
+   "summary": "Corporate investment in artificial intelligence has reached hundreds of billions of dollars, and some global healthcare groups are already reporting AI linked benefits in earnings. That shift in spending puts a spotlight on UK healthcare\u2026",
+   "url": "https://finnhub.io/api/news?id=d4952fd6571d726437639cdd199f8f4671299beae89c8040de68d84ae9341539",
+   "source": "Yahoo",
+   "published": "2026-11-01T10:13:44+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -46946,37 +47049,6 @@
    "tag": "News",
    "sectors": [
     "medtech"
-   ]
-  },
-  {
-   "id": "2c50a671be8d",
-   "headline": "Why GSK Rose Even Though Profit Fell",
-   "summary": "GSK just reported higher revenue but a sharply thinner net margin, with profit squeezed even as sales moved up. Investors who held GSK over the past year are up 20.4%, including dividends. That mix of weaker profitability and strong\u2026",
-   "url": "https://finnhub.io/api/news?id=931a2fe4fa5088ffea159c301ada8da9e64d971df922dd225706d8c494569340",
-   "source": "Yahoo",
-   "published": "2026-10-23T02:15:23+00:00",
-   "tickers": [
-    "GSK"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "45e56183b1ee",
-   "headline": "Why Moderna (MRNA) stock is trading lower today",
-   "summary": "Shares of biotechnology company Moderna (NASDAQ:MRNA) fell 22.7% in the afternoon session after the company's partial Phase 3 data for its personalized cancer vaccine leaked ahead of a planned presentation this weekend, and the stock sold\u2026",
-   "url": "https://finnhub.io/api/news?id=14ce11132406f5225a528e25eed0faa1eb1f096d9f796ad378b19c0c849254fa",
-   "source": "Yahoo",
-   "published": "2026-10-23T02:05:53+00:00",
-   "tickers": [
-    "MRK",
-    "MRNA"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
