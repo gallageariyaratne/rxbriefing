@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-02T13:16:54.877490+00:00",
+ "updated": "2026-11-02T13:32:17.285878+00:00",
  "quotes": {
   "A": {
    "price": 174.87,
@@ -134,6 +134,10 @@
    "price": 40,
    "change_pct": 2.2
   },
+  "NVS": {
+   "price": 160.79,
+   "change_pct": -0.19
+  },
   "PFE": {
    "price": 30.52,
    "change_pct": 1.9
@@ -158,6 +162,10 @@
    "price": 291.86,
    "change_pct": -6.38
   },
+  "TECH": {
+   "price": 72.66,
+   "change_pct": -0.07
+  },
   "TEM": {
    "price": 72.22,
    "change_pct": -7.22
@@ -170,9 +178,17 @@
    "price": 406.97,
    "change_pct": -0.96
   },
+  "UTHR": {
+   "price": 598.72,
+   "change_pct": 0.87
+  },
   "VEEV": {
    "price": 312.96,
    "change_pct": 0.84
+  },
+  "VKTX": {
+   "price": 27.28,
+   "change_pct": 1.56
   },
   "VRTX": {
    "price": 558.88,
@@ -876,6 +892,21 @@
    "sectors": []
   },
   {
+   "id": "e14cb49d16c5",
+   "headline": "UBS Just Initiated Coverage of Viking Therapeutics With a Buy Rating and a $94 Target. Here's the Bull Case.",
+   "summary": "Trial results for its weight loss drugs could justify a higher valuation for the clinical-stage biotech.",
+   "url": "https://finnhub.io/api/news?id=dd27fdd1d7decc494b783cfa87804860e96144148e1d91bde6c51a91139d1236",
+   "source": "Yahoo",
+   "published": "2026-11-02T12:42:00+00:00",
+   "tickers": [
+    "VKTX"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "a4a45c45fb22",
    "headline": "IDEXX Laboratories (NASDAQ:IDXX) Q3 EPS Beat and Raised Guidance Fuel Relief Rally Despite In-Line Revenue",
    "summary": "IDEXX Q3 2026 EPS beat consensus on 11% companion diagnostics growth; revenue was in line and raised guidance was tempered by a lower margin outlook.",
@@ -1011,6 +1042,21 @@
    ]
   },
   {
+   "id": "ead038b80753",
+   "headline": "Bio-Techne's Q1 Earnings on Deck: What's in Store for the Stock?",
+   "summary": "TECH's Q1 earnings are on deck, with revenues and EPS growth expected as investors weigh segment performance and the pending $11.3 billion acquisition.",
+   "url": "https://finnhub.io/api/news?id=bd7f191f6a7aabb114a992842a0f0041198a1adba8b04b525450b91f21616b80",
+   "source": "Yahoo",
+   "published": "2026-11-02T11:44:00+00:00",
+   "tickers": [
+    "TECH"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "d62be244863a",
    "headline": "Idexx: Q3 Earnings Snapshot",
    "summary": "WESTBROOK, Maine (AP) \u2014 WESTBROOK, Maine (AP) \u2014 Idexx Laboratories Inc. (IDXX) on Monday reported third-quarter net income of $317.",
@@ -1079,6 +1125,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "d497eba153a3",
+   "headline": "iShares Core S&P Mid-Cap (IJH) Adds Okta and TechnipFMC on Oct. 29",
+   "summary": "The fund bought $116.0 million of stock, lifting 390 positions and trimming none, with Okta its largest add at $1.3 million.",
+   "url": "https://finnhub.io/api/news?id=ad89a4b1104fb50670e4c92c66e98128585df2b70c8384ec01eb02329f6ce557",
+   "source": "Yahoo",
+   "published": "2026-11-02T11:06:15+00:00",
+   "tickers": [
+    "UTHR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -1310,6 +1371,21 @@
    "tag": "FDA",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "252a26cd8143",
+   "headline": "Deutsche Bank turns bearish on Novartis as shares recover failed trial losses",
+   "summary": "Investing.com -- Deutsche Bank downgraded pharmaceutical company Novartis to \u201csell\u201d from \u201chold\u201d and cut its price target to CHF115 from CHF120, saying the shares have more than recovered losses from two failed drug trials.",
+   "url": "https://finnhub.io/api/news?id=1f5a1a898e28c1e8a4353776bfbb70a9e8c69dd0f3a0a0b24cbf3118b6e68c02",
+   "source": "Yahoo",
+   "published": "2026-11-02T10:16:11+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1931,6 +2007,21 @@
    "tag": "News",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "4912c61baa5a",
+   "headline": "Novartis (SWX:NOVN) Reports Longer Survival In Advanced Kidney Cancer Trial",
+   "summary": "Novartis (SWX:NOVN) reported new trial data showing Votrient plus Roche's Avastin improved overall survival in certain advanced kidney cancer patients. The combination delivered overall survival outcomes much greater than Votrient alone\u2026",
+   "url": "https://finnhub.io/api/news?id=722d2689d973f2d7ab089fb3e2a6e0a74238faa52f9ec9f3f5c93f7bc6da232c",
+   "source": "Yahoo",
+   "published": "2026-11-02T01:07:27+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -45680,140 +45771,6 @@
    "tag": "News",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "370ec487a3a0",
-   "headline": "BMS leads Pathos AI's $237M series E alongside Alzheimer's link-up",
-   "summary": "Pathos AI has closed a $237 million series E round led by pharma giant Bristol Myers Squibb on the same day that the two companies signed a cutting-edge Alzheimer's disease-focused collaboration.",
-   "url": "https://www.fiercebiotech.com/biotech/pathos-ai-closes-237m-series-e-heels-bms-alzheimers-link",
-   "source": "Fierce Biotech",
-   "published": "2026-10-23T13:30:27.919383+00:00",
-   "tickers": [
-    "BMY"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "1ba7d41b7fd3",
-   "headline": "ESMO: Takeda\u2019s $1.2B bet on Innovent \u2018absolutely\u2019 pays off with details of ADC\u2019s phase 3 win",
-   "summary": "Takeda has lifted the lid on the phase 3 win for its next-generation claudin18.2 drug, with the antibody-drug conjugate (ADC) demonstrating overall survival of 10.2 months.",
-   "url": "https://www.fiercebiotech.com/biotech/esmo-takedas-12b-bet-innovent-absolutely-pays-adcs-phase-3-win",
-   "source": "Fierce Biotech",
-   "published": "2026-10-23T13:30:27.917358+00:00",
-   "tickers": [
-    "TAK"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "7eaad9571891",
-   "headline": "What's Going On with Bristol Myers Squibb Stock on Friday?",
-   "summary": "Bristol Myers Squibb releases trial results for their multiple sclerosis CAR T therapy and Phase 3 breast cancer conjugate candidate.",
-   "url": "https://finnhub.io/api/news?id=cfc250eaf8d5a30c4afa8f938012ae6dfa9853fa0200f8d598f698a92c578467",
-   "source": "Benzinga",
-   "published": "2026-10-23T13:28:53+00:00",
-   "tickers": [
-    "BMY"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "ea4484a029c2",
-   "headline": "Hims & Hers Defends Subscription Practices And Privacy Disclosures Against Lawsuit",
-   "summary": "Hims & Hers seeks dismissal of a consumer lawsuit, arguing upfront disclosures refute claims about user privacy, billing, and cancellations.",
-   "url": "https://finnhub.io/api/news?id=2568ba6f7246f192ac07d3c70707dd5b39788b8cde43c937f1d07f3fa15f05f9",
-   "source": "Benzinga",
-   "published": "2026-10-23T13:26:26+00:00",
-   "tickers": [
-    "HIMS"
-   ],
-   "tag": "Legal",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "0db9f5e9f2ae",
-   "headline": "Global Access Device Market Size, Share, Trends, and Forecast, 2026-2032: Trocar and Single-Port Access Devices | Market to Exceed $1.2 Billion as Advanced Trocars Drive Growth",
-   "summary": "New Report available from Research and Markets, values access devices at just over $990m in 2025, led by Applied Medical, Ethicon and Medtronic \u2014 though reprocessing contracts and cheap Asia-Pacific disposables keep prices under\u2026",
-   "url": "https://finnhub.io/api/news?id=c0af1148736b766b58288e8e522a380c9df3b9d536fdfabcbf2b5fec2b9d2164",
-   "source": "Yahoo",
-   "published": "2026-10-23T13:26:00+00:00",
-   "tickers": [
-    "MDT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "c7afedcf3e5d",
-   "headline": "Morgan Stanley Maintains Equal-Weight on Molina Healthcare, Raises Price Target to $192",
-   "summary": "Morgan Stanley analyst Erin Wright maintains Molina Healthcare (NYSE:MOH) with a Equal-Weight and raises the price target from $167 to $192.",
-   "url": "https://finnhub.io/api/news?id=a714b54ea89d346a4178288aa83f54a7315a69b7e03f378785f16006dccdcd4b",
-   "source": "Benzinga",
-   "published": "2026-10-23T13:25:12+00:00",
-   "tickers": [
-    "MOH"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "925f3dbd540e",
-   "headline": "Morgan Stanley Maintains Overweight on argenx, Raises Price Target to $1190",
-   "summary": "Morgan Stanley analyst Sean Laaman maintains argenx (NASDAQ:ARGX) with a Overweight and raises the price target from $1140 to $1190.",
-   "url": "https://finnhub.io/api/news?id=d0e529d32b255b24dbfd5ca4ef8a991028d6ead827ad0d871e7ecf62d2a6dbf2",
-   "source": "Benzinga",
-   "published": "2026-10-23T13:22:51+00:00",
-   "tickers": [
-    "ARGX"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "fd17dad3887b",
-   "headline": "Trump administration sued for second time over ACA broker freeze",
-   "summary": "Another trade association is taking the HHS and CMS to court over their decision to lock out new agents and brokers from participating in open enrollment for 2027 Affordable Care Act plans.",
-   "url": "https://www.healthcaredive.com/news/aca-broker-agent-freeze-lawsuit-hafa-hhs-cms/833828/",
-   "source": "Healthcare Dive",
-   "published": "2026-10-23T13:22:18+00:00",
-   "tickers": [],
-   "tag": "Legal",
-   "sectors": []
-  },
-  {
-   "id": "ac42fe3413e9",
-   "headline": "Moderna Sinks 4% After 18% Plunge as Melanoma Vaccine Selloff Extends; Merck and Pfizer Slip",
-   "summary": "Moderna's personalized melanoma vaccine just posted positive late-stage results alongside Merck, yet shares keep sliding after an 18% collapse. The selloff raises a pointed question about whether the data actually delivered what investors\u2026",
-   "url": "https://finnhub.io/api/news?id=5951d905afce950044c9d6e2bfe16ba48e29264a08468d6e9fd7f0eddd417f3d",
-   "source": "Yahoo",
-   "published": "2026-10-23T13:17:53+00:00",
-   "tickers": [
-    "BNTX",
-    "MRK",
-    "MRNA",
-    "PFE"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
