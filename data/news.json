@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-02T11:31:54.489579+00:00",
+ "updated": "2026-11-02T11:47:23.927774+00:00",
  "quotes": {
   "A": {
    "price": 174.87,
@@ -169,6 +169,10 @@
   "ZBH": {
    "price": 94.52,
    "change_pct": -3.03
+  },
+  "ZTS": {
+   "price": 79.72,
+   "change_pct": 1.17
   }
  },
  "tickers": {
@@ -795,6 +799,21 @@
    "tickers": [],
    "tag": "Clinical",
    "sectors": []
+  },
+  {
+   "id": "d3f9741a1f9e",
+   "headline": "Zoetis (NYSE:ZTS) Dividend Quality Backed by Strong Profitability and Health Ratings",
+   "summary": "Zoetis passes a dividend screen on strong profitability and health, with a modest 1.64% yield and sustainable payout but leverage risks to watch.",
+   "url": "https://finnhub.io/api/news?id=0f10f1ee919b514f59e96dadde4831c00685e4cbf011fe7af48555099bc6946c",
+   "source": "ChartMill",
+   "published": "2026-11-02T11:10:51+00:00",
+   "tickers": [
+    "ZTS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "d336a9126a8a",
@@ -46081,68 +46100,6 @@
    "tag": "Analyst",
    "sectors": [
     "tools"
-   ]
-  },
-  {
-   "id": "37ed30383099",
-   "headline": "Roche pays Zymeworks $55M for trispecific challenger to Amgen\u2019s Imdelltra",
-   "summary": "Roche is paying Zymeworks $55 million upfront for ZW209, bagging global rights to a trispecific designed to improve on the rate and depth of responses achieved by Amgen\u2019s Imdelltra.",
-   "url": "https://www.fiercebiotech.com/biotech/roche-pays-zymeworks-55m-trispecific-challenger-amgens-imdelltra",
-   "source": "Fierce Biotech",
-   "published": "2026-10-23T11:45:20.526519+00:00",
-   "tickers": [
-    "AMGN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "cccdc9da9b4e",
-   "headline": "Stock Market Reels From 2 World-Changing Factors",
-   "summary": "The stock market is reeling from the AI selloff, a Moderna data leak, and high oil prices aren\u2019t helping.",
-   "url": "https://finnhub.io/api/news?id=3a402816244c9b23e4ca0b8ee23de4fec223567ee98c868e0a7ab6187912a4df",
-   "source": "Yahoo",
-   "published": "2026-10-23T11:41:00+00:00",
-   "tickers": [
-    "MRNA"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "4f485cb32d2a",
-   "headline": "Dow Jones Futures Fall After Moderna Crashes, Meta Fuels AI Meltdown. Warren Buffett Market Is Thriving.",
-   "summary": "The S&P 500 and Nasdaq tumbled below 50-day lines as Meta led an AI stock rout. But the Warren Buffett market is thriving.",
-   "url": "https://finnhub.io/api/news?id=842775a4a00dd1343a36615933b5601d7e4c8059640d2be7c19396a352aeedeb",
-   "source": "Yahoo",
-   "published": "2026-10-23T11:40:51+00:00",
-   "tickers": [
-    "MEDP",
-    "MRK",
-    "MRNA"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "97fd9b85c4ae",
-   "headline": "AbbVie\u2019s skin disease drug posts Phase III win as market competition heats up",
-   "summary": "This late-stage readout comes as companies explore the potential of novel mechanisms of action in HS.",
-   "url": "https://finnhub.io/api/news?id=a05c8cee65c8b8218dcc643a6222573bc978a7fdda4e0adebb0c07d61a100c98",
-   "source": "Yahoo",
-   "published": "2026-10-23T11:39:13+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
