@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-02T01:16:35.623202+00:00",
+ "updated": "2026-11-02T01:31:40.875106+00:00",
  "quotes": {
   "ABBV": {
    "price": 294.89,
@@ -85,6 +85,10 @@
   "NVO": {
    "price": 40,
    "change_pct": 2.2
+  },
+  "NVS": {
+   "price": 160.79,
+   "change_pct": -0.19
   },
   "PFE": {
    "price": 30.52,
@@ -1048,6 +1052,21 @@
     "PFE"
    ],
    "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "c03c1feb49ce",
+   "headline": "St. Galler Kantonalbank (SWX:SGKN) Stock Looks Reasonable With Moderate Excess Returns",
+   "summary": "St. Galler Kantonalbank has quietly produced a strong share price story over the past few years, which naturally raises a question for anyone looking at the stock today. Are investors paying a price that is fully backed by the returns the\u2026",
+   "url": "https://finnhub.io/api/news?id=fa4059ed685d8a15dcb735555f92b992d13345e430eba28889d50132cb34a9ae",
+   "source": "Yahoo",
+   "published": "2026-11-01T13:13:06+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "News",
    "sectors": [
     "pharma"
    ]
@@ -46931,37 +46950,6 @@
    "tag": "News",
    "sectors": [
     "healthit"
-   ]
-  },
-  {
-   "id": "6326eda91417",
-   "headline": "MRNA Stock\u2019s Vaccine Rally Cracks As Worst Week In 3 Months Looms \u2014 Analyst Calls It A \u2018Do-Not-Trade\u2019 Over Wild Swings",
-   "summary": "Mizuho analyst Jared Holz said the vaccine data weren\u2019t bad, but Wall Street\u2019s expectations were too high.",
-   "url": "https://finnhub.io/api/news?id=a93087b565be4402a09f764630c5f9ce6c76c82457785cdd8843f4bc756767ed",
-   "source": "Yahoo",
-   "published": "2026-10-23T01:28:49+00:00",
-   "tickers": [
-    "MRK",
-    "MRNA"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "4e628ca2adbe",
-   "headline": "Is Molina Healthcare (MOH) Fairly Valued Following Its Earnings Beat?",
-   "summary": "Molina Healthcare (MOH) just posted third quarter 2026 results that topped analyst revenue and earnings forecasts, reaffirmed full year guidance and pointed to early signs of improving Medicaid margins as medical costs begin to stabilize.\u2026",
-   "url": "https://finnhub.io/api/news?id=65d22738ce4d1118c941e5557c1e6f816617c9b302fbe95f87354a9ab5cb1913",
-   "source": "Yahoo",
-   "published": "2026-10-23T01:18:24+00:00",
-   "tickers": [
-    "MOH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
    ]
   }
  ]
