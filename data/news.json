@@ -1,7 +1,19 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-02T12:32:03.065278+00:00",
+ "updated": "2026-11-02T12:46:57.755476+00:00",
  "quotes": {
+  "A": {
+   "price": 174.87,
+   "change_pct": -3.47
+  },
+  "ABBV": {
+   "price": 294.89,
+   "change_pct": 1.41
+  },
+  "ABT": {
+   "price": 106.2,
+   "change_pct": 1.56
+  },
   "AMGN": {
    "price": 466.01,
    "change_pct": 1.15
@@ -778,6 +790,32 @@
  },
  "stories": [
   {
+   "id": "9c6fc70fb0db",
+   "headline": "Post-midterms, hospitals still face a long road to policy relief, advisers warn",
+   "summary": "Regardless of where this week's midterms land, hospitals have their work cut out for them in navigating impending policy headwinds unlikely to vanish in 2027 and beyond, consultants and health system heads warn.",
+   "url": "https://www.fiercehealthcare.com/providers/hospitals-cant-wait-friendlier-washington-solve-policy-headwinds-brg",
+   "source": "Fierce Healthcare",
+   "published": "2026-11-02T12:45:24.998043+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "16ed1ecdea65",
+   "headline": "Tech Rebound, Crude Slide Lift Wall Street Pre-Bell; Asia Mixed, Europe Up",
+   "summary": "Wall Street futures pointed moderately higher pre-bell Monday as traders waded back into tech shares",
+   "url": "https://finnhub.io/api/news?id=cef85ff0937c7ac1cb4d2d41b349f1b8b3d40b853689a124eadd8ab27530af3b",
+   "source": "Yahoo",
+   "published": "2026-11-02T11:35:58+00:00",
+   "tickers": [
+    "AMGN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "df448c0ba0c5",
    "headline": "China's InventisBio delivers competitive TYK2 data in phase 3 psoriasis win",
    "summary": "A phase 3 trial of InventisBio\u2019s nomelcitinib has hit its primary endpoint, delivering evidence that the TYK2 inhibitor can hold its own against rival psoriasis drugs.",
@@ -804,6 +842,22 @@
    ]
   },
   {
+   "id": "a3f8b03dc222",
+   "headline": "Spdr Dow Jones Industrial Avg ETF (DIA) Adds Goldman Sachs and Caterpillar on Thursday",
+   "summary": "The fund bought $130.6 million of stock, increasing all 30 positions and selling nothing.",
+   "url": "https://finnhub.io/api/news?id=98599e796e54caa34e790ea18e2f6d64fcf92e22aae480b21e15e485ef29bd94",
+   "source": "Yahoo",
+   "published": "2026-11-02T11:06:00+00:00",
+   "tickers": [
+    "AMGN",
+    "UNH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "8b668a67805a",
    "headline": "What Invesco S&P Ultra Dividend Revenue ETF (RDIV) Bought: Chevron Leads on Oct. 29",
    "summary": "The fund bought $239.2 million of stock, adding to all 60 positions and selling nothing, with Chevron and Target the largest purchases.",
@@ -819,6 +873,21 @@
    ]
   },
   {
+   "id": "34a83df7a6bb",
+   "headline": "Invesco S&P 500 Equal Weight (RSP) Buys $0.2 Million More Morgan Stanley on Thursday",
+   "summary": "The $100.66 billion fund bought $0.2 million of stock and sold $174.3 million, increasing 1 position and cutting 498.",
+   "url": "https://finnhub.io/api/news?id=80e76023729953f0328f40b0f484ee81fc35a22e18bced0c3ec3425efed5bdb4",
+   "source": "Yahoo",
+   "published": "2026-11-02T11:04:50+00:00",
+   "tickers": [
+    "ILMN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "754242a0def3",
    "headline": "What State Street Health Care SPDR (XLV) Bought: Eli Lilly Leads on Oct. 29",
    "summary": "The $49.10 billion fund bought $423.4 million of stock, lifting all 60 positions and selling nothing.",
@@ -827,7 +896,8 @@
    "published": "2026-11-02T11:04:43+00:00",
    "tickers": [
     "ABBV",
-    "JNJ"
+    "JNJ",
+    "UNH"
    ],
    "tag": "News",
    "sectors": [
@@ -847,6 +917,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "fa5e7883100a",
+   "headline": "UnitedHealth (UNH) Sees $35.0 Million in Net ETF Buying on Oct. 29",
+   "summary": "ETFs bought $35.0 million of UnitedHealth shares on Thursday, with 41 funds buying and 19 selling.",
+   "url": "https://finnhub.io/api/news?id=6031b38aff07362eea3bcb33c5c016420f023370121657d3d533a3a61f51d6c5",
+   "source": "Yahoo",
+   "published": "2026-11-02T11:01:44+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -45698,127 +45783,6 @@
    "tag": "Clinical",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "e3a6e0a528cc",
-   "headline": "Chutes & Ladders\u2014Troubled CSL enlists GSK vet Deborah Waterhouse to lead",
-   "summary": "CSL has tapped a new leader to steer it through a make-or-break period. Ironwood's CEO since 2021 is hanging up his hat. CytoDyn's new helmsman is highlighting the company's \"transformational period.\" And more.",
-   "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-troubled-csl-enlists-viiv-vet-deborah-waterhouse-lead",
-   "source": "Fierce Biotech",
-   "published": "2026-10-23T12:45:19.779267+00:00",
-   "tickers": [
-    "GSK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "deb640cf33e4",
-   "headline": "CVS Health: Thank You! Phoenix Residential Grand Opening in Milwaukee, Wisconsin",
-   "summary": "WOONSOCKET, RI / ACCESS Newswire / October 23, 2026 / Recently, the Grand Opening of Phoenix Residential in Milwaukee marked a milestone for the residents, local leaders, community and development organizations, who helped bring the\u2026",
-   "url": "https://finnhub.io/api/news?id=b33fdd126616410b2b72638d5666c17ba51ad0fd71f55f77ec07badda527d17a",
-   "source": "Yahoo",
-   "published": "2026-10-23T12:45:00+00:00",
-   "tickers": [
-    "CVS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "6600ef738d71",
-   "headline": "Novartis Announces Remibrutinib Lowers Annualized Relapse Rate By 35.2%, 31.2% In Phase III REMODEL-1, REMODEL-2 Studies To Treat Relapsing Multiple Sclerosis",
-   "summary": "https://www.novartis.com/news/media-releases/novartis-remibrutinib-delivered-comprehensive-disease-control-phase-iii-rms-trials-proven-robust-safety-profile",
-   "url": "https://finnhub.io/api/news?id=30522d63cea2df72c4836bdb5788b71fba09f4523ad855a9d802a56588b5f80c",
-   "source": "Benzinga",
-   "published": "2026-10-23T12:44:46+00:00",
-   "tickers": [
-    "NVS"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "50f3fb5df1dd",
-   "headline": "BofA Names Preferred Picks Among European Chipmakers Ahead of Earnings",
-   "summary": "Investing.com -- Ahead of earnings, BofA Securities prefers STMicroelectronics NV (EPA:STMPA), Infineon (ETR:IFXGn), Tower Semiconductor (TASE:TSEM) and Nordic Semiconductor (OL:NOD) over Melexis.",
-   "url": "https://finnhub.io/api/news?id=9a02a4fa0a16d622f3ddac7c1f9ea50c41675bd1de19838bd94a012acecaa60c",
-   "source": "Yahoo",
-   "published": "2026-10-23T12:43:27+00:00",
-   "tickers": [
-    "NVS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "74e48349ec81",
-   "headline": "J&J Stock Reclaims 50-Day SMA: Is it Time to Buy, Sell or Hold?",
-   "summary": "J&J stock reclaims its 50-day SMA, but falling earnings estimates, a premium valuation and MedTech weakness raise questions about its near-term outlook.",
-   "url": "https://finnhub.io/api/news?id=fc5979f9a3776aab201a10de8b5ef9bc85ca65d8bb4a59d3de051a6e0ac973af",
-   "source": "Yahoo",
-   "published": "2026-10-23T12:37:00+00:00",
-   "tickers": [
-    "JNJ",
-    "LLY"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "c79216d3e507",
-   "headline": "Western Digital's Q1 Earnings & Revenues Beat, Dividend Hiked by 17%",
-   "summary": "WDC's fiscal Q1 earnings and revenue beat estimates, fueled by strong cloud demand and pricing gains, as higher-capacity drives and new technology transitions drive growth.",
-   "url": "https://finnhub.io/api/news?id=4658b9e5015eaefa9d5928e5205c9f8f6f9f7b9fa9321c18d7be3e2289f49538",
-   "source": "Yahoo",
-   "published": "2026-10-23T12:37:00+00:00",
-   "tickers": [
-    "DGX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "8cf3afd0d809",
-   "headline": "S&P 500 Premarket Movers: CCI and SBAC Lead Gainers, TYL and DECK Top Decliners",
-   "summary": "S&P 500 premarket scan: CCI and SBAC led gainers, while TYL and DECK topped declines ahead of the open.",
-   "url": "https://finnhub.io/api/news?id=f7aeafe2d5b153f5909d94565469f4bc1606dd552cf8f7821b8778b910e7a703",
-   "source": "ChartMill",
-   "published": "2026-10-23T12:36:03+00:00",
-   "tickers": [
-    "MRNA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "b8b9bc91011b",
-   "headline": "McKesson's Quarterly Earnings Preview: What You Need to Know",
-   "summary": "McKesson will release its second-quarter earnings next month, and analysts anticipate a single-digit bottom-line growth.",
-   "url": "https://finnhub.io/api/news?id=b5956f2994deaeb83c20f35c18934576da50d0c3ba7cdbe0cdb0ff55aabcd933",
-   "source": "Yahoo",
-   "published": "2026-10-23T12:32:41+00:00",
-   "tickers": [
-    "MCK"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharmacy"
    ]
   }
  ]
