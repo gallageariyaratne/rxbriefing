@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-02T02:46:45.562650+00:00",
+ "updated": "2026-11-02T03:01:58.285271+00:00",
  "quotes": {
   "A": {
    "price": 174.87,
@@ -122,6 +122,10 @@
    "price": 191.31,
    "change_pct": 0.55
   },
+  "SNY": {
+   "price": 44.34,
+   "change_pct": 2.81
+  },
   "SYK": {
    "price": 291.86,
    "change_pct": -6.38
@@ -133,6 +137,10 @@
   "THC": {
    "price": 273.25,
    "change_pct": 0.99
+  },
+  "TMO": {
+   "price": 697,
+   "change_pct": -1.72
   },
   "UNH": {
    "price": 406.97,
@@ -767,7 +775,8 @@
    "tickers": [
     "BDX",
     "MDT",
-    "RMD"
+    "RMD",
+    "SYK"
    ],
    "tag": "News",
    "sectors": [
@@ -785,7 +794,8 @@
     "A",
     "BRKR",
     "DHR",
-    "ILMN"
+    "ILMN",
+    "TMO"
    ],
    "tag": "News",
    "sectors": [
@@ -1218,6 +1228,21 @@
    "tag": "Health AI",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "502129bc0a8a",
+   "headline": "Sanofi (ENXTPA:SAN) Stock Can Q3 Earnings Sustain Its Revenue Strength",
+   "summary": "Sanofi walked into its Q3 2026 report with the share price at \u20ac79.74 after a solid run over the past month, and the mood already leaning optimistic. The headline was clear: quarterly revenue landed at \u20ac15.2b and basic earnings per share\u2026",
+   "url": "https://finnhub.io/api/news?id=322d82b6adcabb3aa5763b1df933e6e310468a73ac5a43505c22b348aaa230f8",
+   "source": "Yahoo",
+   "published": "2026-11-01T10:14:17+00:00",
+   "tickers": [
+    "SNY"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
    ]
   },
   {
