@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-02T10:46:46.516109+00:00",
+ "updated": "2026-11-02T11:02:02.921542+00:00",
  "quotes": {
   "A": {
    "price": 174.87,
@@ -81,6 +81,10 @@
   "GSK": {
    "price": 49.51,
    "change_pct": 1.71
+  },
+  "HSIC": {
+   "price": 84.88,
+   "change_pct": -1.8
   },
   "HUM": {
    "price": 414.5,
@@ -165,6 +169,10 @@
   "WAT": {
    "price": 462.72,
    "change_pct": -3.61
+  },
+  "ZBH": {
+   "price": 94.52,
+   "change_pct": -3.03
   }
  },
  "tickers": {
@@ -830,6 +838,21 @@
    ]
   },
   {
+   "id": "9b849deaaa5a",
+   "headline": "Nvidia, Costco and 10 More Issuers Opt Out of ICE and OKX\u2019s Tokenized Stock Venue",
+   "summary": "The venue\u2019s Oct. 30 notice lists 50 objecting companies, up from 38 two days earlier, and still gives no date for trading to start.",
+   "url": "https://finnhub.io/api/news?id=d2b86b2bee10efb041a762b0f9b1ec90fbf3f152b3813bb7fc086d05003144ca",
+   "source": "Yahoo",
+   "published": "2026-11-02T09:30:05+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "68f3ce988e67",
    "headline": "Are you pursuing MRT as a treatment for infertility?",
    "summary": "Are you pursuing MRT as a treatment for infertility? STAT wants to hear from you",
@@ -885,6 +908,21 @@
    "sectors": []
   },
   {
+   "id": "3fbfd9a9e69d",
+   "headline": "Stock Split Watch: Is Moderna Next?",
+   "summary": "Moderna stock has skyrocketed this year.",
+   "url": "https://finnhub.io/api/news?id=69c7610c1a218a2b3c975dd7270a5c7efe4ea7751e5d637cd7a42ed9cadf3ccd",
+   "source": "Yahoo",
+   "published": "2026-11-02T09:15:02+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "5b6b5cec7c9e",
    "headline": "What Is Johnson & Johnson (JNJ) Signaling With Its New Impella Heart Pump Data?",
    "summary": "Johnson & Johnson (NYSE:JNJ) reported positive real-world outcomes for its Impella heart pumps at the TCT 2026 meeting on 2 November 2026. Registry data from U.S. and European hospitals showed Impella use in high-risk percutaneous\u2026",
@@ -915,6 +953,21 @@
    ]
   },
   {
+   "id": "9707667db05a",
+   "headline": "Henry Schein (HSIC) reports earnings tomorrow: what to expect",
+   "summary": "Dental and medical products company Henry Schein (NASDAQ:HSIC) will be reporting earnings this Tuesday before market hours. Here\u2019s what you need to know.",
+   "url": "https://finnhub.io/api/news?id=d7f4c0e5c819e6897763d01264d04c9a2f3abcabee00b6218f14ae4f9d68eec5",
+   "source": "Yahoo",
+   "published": "2026-11-02T08:45:36+00:00",
+   "tickers": [
+    "HSIC"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
+  {
    "id": "922c71ffd831",
    "headline": "Stock Market Today: Intel\u2019s Worst Day in Four Decades Drags Chips and the Nasdaq to a Rough October Finish",
    "summary": "Intel lost nearly 29% and dragged chip stocks lower as the Nasdaq had its worst day since June. Oil rose about 15% in October, Treasury yields fell, and Regeneron, FedEx Freight and the oil majors went the other way.",
@@ -940,6 +993,8 @@
     "ABBV",
     "AMGN",
     "JNJ",
+    "LLY",
+    "MRK",
     "PFE"
    ],
    "tag": "News",
@@ -958,7 +1013,9 @@
     "GMED",
     "ISRG",
     "JNJ",
-    "MDT"
+    "MDT",
+    "SYK",
+    "ZBH"
    ],
    "tag": "News",
    "sectors": [
@@ -46308,62 +46365,6 @@
     "UTHR"
    ],
    "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "b8ff64654b3d",
-   "headline": "Star Therapeutics Announces $200 Million Private Financing to Advance Pipeline of Best-in-Disease Therapies",
-   "summary": "SOUTH SAN FRANCISCO, Calif., October 23, 2026--Star Therapeutics, a biotechnology company focused on the discovery and development of life-changing therapies for diseases with significant unmet need, today announced a $200 million private\u2026",
-   "url": "https://finnhub.io/api/news?id=0f45093d94ec333a4be247452f42dd718663748de09ef2fe4a2489fc37f5844d",
-   "source": "Yahoo",
-   "published": "2026-10-23T11:00:00+00:00",
-   "tickers": [
-    "INCY"
-   ],
-   "tag": "Financing",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "06176ef829a0",
-   "headline": "Moderna Named a Top Employer by Science for Twelfth Consecutive Year",
-   "summary": "CAMBRIDGE, MA / ACCESS Newswire / October 23, 2026 / (NASDAQ:MRNA) today announced it was ranked as a top employer in the global biopharmaceutical industry in Science and Science Careers' 2026 Top Employers Survey for the twelfth\u2026",
-   "url": "https://finnhub.io/api/news?id=520ade087e404d06bc724ba197cedceb5cc148fb146435d9e9e913db81f5cbf1",
-   "source": "Yahoo",
-   "published": "2026-10-23T11:00:00+00:00",
-   "tickers": [
-    "MRNA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "1b1ba69c5352",
-   "headline": "Star adds $200M after spinout successes",
-   "summary": "Following exits for its subsidiaries Electra Therapeutics and Vega Therapeutics, Star is now mining for a new drug prospect.",
-   "url": "https://www.biopharmadive.com/news/star-therapeutics-financing-vega-electra/833733/",
-   "source": "BioPharma Dive",
-   "published": "2026-10-23T11:00:00+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "1d5da647070e",
-   "headline": "TG Therapeutics' Initial Data From Its Phase 1 Trial Of Azercabtagene Zapreleucel In Patients With Progressive Multiple Sclerosis Demonstrates 89% Of Evaluable Participants Had Stable Or Improved Disability Scores At Day 90",
-   "summary": "TG Therapeutics, Inc. (NASDAQ:TGTX), today announced initial results from the Company\u2019s Phase 1 study evaluating azercabtagene zapreleucel (azer-cel), an investigational, allogeneic CD19-directed chimeric antigen",
-   "url": "https://finnhub.io/api/news?id=67ede4d3f04f358e0c0a0b4737bb0a4dd43b2d8250a645df09d84da8dd3c843b",
-   "source": "Benzinga",
-   "published": "2026-10-23T10:58:48+00:00",
-   "tickers": [
-    "TGTX"
-   ],
-   "tag": "Clinical",
    "sectors": [
     "biotech"
    ]
