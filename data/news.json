@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-02T13:32:17.285878+00:00",
+ "updated": "2026-11-02T13:47:24.615464+00:00",
  "quotes": {
   "A": {
    "price": 174.87,
@@ -21,6 +21,10 @@
   "AMGN": {
    "price": 466.01,
    "change_pct": 1.15
+  },
+  "AXSM": {
+   "price": 144.43,
+   "change_pct": 0.68
   },
   "AZN": {
    "price": 186.65,
@@ -81,6 +85,10 @@
   "GMED": {
    "price": 78.05,
    "change_pct": -5.86
+  },
+  "GSK": {
+   "price": 49.51,
+   "change_pct": 1.71
   },
   "HSIC": {
    "price": 84.88,
@@ -173,6 +181,10 @@
   "TMO": {
    "price": 697,
    "change_pct": -1.72
+  },
+  "TWST": {
+   "price": 152.78,
+   "change_pct": -11.92
   },
   "UNH": {
    "price": 406.97,
@@ -822,6 +834,21 @@
  },
  "stories": [
   {
+   "id": "cc0dd6b56854",
+   "headline": "HSS Medical Supply Announces Distributor Agreement for Abbott's ID NOW Rapid Molecular Testing Platform",
+   "summary": "NEW YORK, Nov. 2, 2026 /PRNewswire/ -- One of the fastest-growing healthcare suppliers, HSS Medical Supply, announced a new vendor agreement with Abbott. The family-owned distribution company now includes Abbott's ID NOW\u2122, a rapid\u2026",
+   "url": "https://www.prnewswire.com/news-releases/hss-medical-supply-announces-distributor-agreement-for-abbotts-id-now-rapid-molecular-testing-platform-302924892.html",
+   "source": "PR Newswire",
+   "published": "2026-11-02T13:38:00+00:00",
+   "tickers": [
+    "ABT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "aa54ac72f6f1",
    "headline": "How MRD is powering the next wave of precision oncology",
    "summary": "The Oncodetect\u00ae molecular residual disease test is giving clinicians insights that can reshape cancer treatment and monitoring.",
@@ -871,6 +898,36 @@
    "summary": "WARREN, N.J., Nov. 2, 2026 /PRNewswire/ -- PTC Therapeutics, Inc. (NASDAQ: PTCT) today announced that its executives will speak at the following conferences: Jefferies Global Healthcare Conference Monday, Nov. 16 at 11 a.m. GMT/6 a.m. ET\u2026",
    "url": "https://www.prnewswire.com/news-releases/ptc-therapeutics-to-participate-in-upcoming-investor-conferences-302925133.html",
    "source": "PR Newswire",
+   "published": "2026-11-02T13:00:00+00:00",
+   "tickers": [
+    "PTCT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "95e1db6cac9b",
+   "headline": "Alfasigma Announces New Linerixibat Data Across PBC and Liver Disease to be Presented at AASLD\u2019s The Liver Meeting 2026",
+   "summary": "Five presentations will highlight new analyses of linerixibat in cholestatic pruritus associated with primary biliary cholangitis, including an oral presentation and four posters from the Phase 3 GLISTEN study and real-world\u2026",
+   "url": "https://finnhub.io/api/news?id=b2c013c88bf5f2a346593a85816a9d813af2eacca7484b0eecbc75a5a3bbb369",
+   "source": "Yahoo",
+   "published": "2026-11-02T13:00:00+00:00",
+   "tickers": [
+    "GSK"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "ac3b7744e6cc",
+   "headline": "PTC Therapeutics to Participate in Upcoming Investor Conferences",
+   "summary": "PTC Therapeutics, Inc. (NASDAQ: PTCT) today announced that its executives will speak at the following conferences:",
+   "url": "https://finnhub.io/api/news?id=d36cca5a23343170466c2c5a86d1522d4adf3b24e000921823355b47d875b6b5",
+   "source": "Yahoo",
    "published": "2026-11-02T13:00:00+00:00",
    "tickers": [
     "PTCT"
@@ -1012,6 +1069,36 @@
    ]
   },
   {
+   "id": "07b9e126ff44",
+   "headline": "Axsome Therapeutics Reports Third Quarter 2026 Financial Results and Provides Business Update",
+   "summary": "Total 3Q 2026 net product revenue of $259.7 million, representing 52% year-over-year growth",
+   "url": "https://www.globenewswire.com/news-release/2026/11/02/3392981/33090/en/axsome-therapeutics-reports-third-quarter-2026-financial-results-and-provides-business-update.html",
+   "source": "GlobeNewswire",
+   "published": "2026-11-02T12:00:00+00:00",
+   "tickers": [
+    "AXSM"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "e902b9913c18",
+   "headline": "Krystal Biotech Announces Third Quarter 2026 Financial and Operating Results",
+   "summary": "$127.3 million in 3Q VYJUVEK global revenue and $1.1 billion since launch",
+   "url": "https://www.globenewswire.com/news-release/2026/11/02/3392990/0/en/krystal-biotech-announces-third-quarter-2026-financial-and-operating-results.html",
+   "source": "GlobeNewswire",
+   "published": "2026-11-02T12:00:00+00:00",
+   "tickers": [
+    "KRYS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "b520e06f1cea",
    "headline": "Idexx Laboratories (IDXX) Beats Q3 Earnings and Revenue Estimates",
    "summary": "Idexx (IDXX) delivered earnings and revenue surprises of +7.28% and +2.21%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
@@ -1078,6 +1165,21 @@
    "url": "https://finnhub.io/api/news?id=cef85ff0937c7ac1cb4d2d41b349f1b8b3d40b853689a124eadd8ab27530af3b",
    "source": "Yahoo",
    "published": "2026-11-02T11:35:58+00:00",
+   "tickers": [
+    "AMGN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "de7345e8d11b",
+   "headline": "Beat the Market Like Zacks: Marathon Petroleum, Amgen, Chevron in Focus",
+   "summary": "Zacks highlights MPC, AMGN and CVX as standout performers, with strong returns across its stock recommendations and model portfolios despite market volatility.",
+   "url": "https://finnhub.io/api/news?id=a3b07f3d31bdb3a55242380ff746bb001803953779d80e9a4bb6c1ae034a27dd",
+   "source": "Yahoo",
+   "published": "2026-11-02T11:34:00+00:00",
    "tickers": [
     "AMGN"
    ],
@@ -1186,6 +1288,36 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "bc153a401443",
+   "headline": "iShares Russell 2000 (IWM) Adds Jackson Financial, Trims Glaukos on Thursday",
+   "summary": "The fund sold $292.1 million more than it bought, with 1,876 positions decreased and one increased.",
+   "url": "https://finnhub.io/api/news?id=fa75bda021253fd3a55b08cb19a882e4ad2f2019fb3ba63ca9700da3a618f87b",
+   "source": "Yahoo",
+   "published": "2026-11-02T11:05:01+00:00",
+   "tickers": [
+    "TWST"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "ca358a6c481f",
+   "headline": "iShares A.I. Innovation (BAI) Buys $33.6 Million More Twist Bioscience on Thursday",
+   "summary": "The fund bought $33.6 million of Twist Bioscience and $13.8 million of SpaceX, while exiting its Alphabet Class A stake for $250.5 million.",
+   "url": "https://finnhub.io/api/news?id=206b29827e297b99ba54ddcb232ac81cc857a0d006e2fcd50267b0925a1477ca",
+   "source": "Yahoo",
+   "published": "2026-11-02T11:04:57+00:00",
+   "tickers": [
+    "TWST"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -45679,98 +45811,6 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "10caf67cd9e0",
-   "headline": "STAT+: Pharmalittle: We\u2019re reading about a cancer vaccine, an experimental pancreatic cancer drug, and more",
-   "summary": "A personalized mRNA cancer vaccine reduced the risk of disease recurrence in patients with melanoma by 42% compared to a standard treatment",
-   "url": "https://www.statnews.com/pharmalot/2026/10/23/moderna-merck-cancer-vaccine-experimental-pancreatic-cancer-drug-esmo/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-10-23T13:45:14+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "3b8e9eeffaec",
-   "headline": "Vertex Pharmaceuticals Announces Phase 3 RAINIER Results Supporting Potential Of Povetacicept In IgA Nephropathy Published In The New England Journal Of Medicine; Vertex\u2019s Povetacicept Shows 49.8% Greater Proteinuria Reduction vs. Placebo In Phase 3 IgAN Trial; FDA Decision Expected November 30",
-   "summary": "- Vertex is on track for the U.S. FDA Prescription Drug User Fee Act (PDUFA) date of November 30 for potential accelerated approval of povetacicept \u2013- Data published in NEJM and presented at ASN highlight povetacicept\u2019s",
-   "url": "https://finnhub.io/api/news?id=7bf434c0ccbe5ba3d62b42e7e47d658d82d5e63122da079c85b6b4b5d46e4aaf",
-   "source": "Benzinga",
-   "published": "2026-10-23T13:43:13+00:00",
-   "tickers": [
-    "VRTX"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "f3b7c8f417af",
-   "headline": "Global Breast Cancer Screening and Diagnostics Market, 2026-2036 | AI Imaging and Wider Screening Push Breast-Cancer Diagnostics Toward $12 Billion",
-   "summary": "The global breast cancer screening and diagnostics market is projected to roughly double from $5.9 billion in 2026 to $12.15 billion by 2036, a new Research and Markets report finds, as GE HealthCare, Hologic and Siemens Healthineers roll\u2026",
-   "url": "https://finnhub.io/api/news?id=baba66237eaf4480628d9bb74ea598e9019d0f591c44a540ca5e487c8ea22680",
-   "source": "Yahoo",
-   "published": "2026-10-23T13:43:00+00:00",
-   "tickers": [
-    "GEHC"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "e036d755a5ae",
-   "headline": "Stocks extend declines, 10-year Treasury holds below 5%: AlphaCheck",
-   "summary": "Tech stocks wobbled on Friday as the overall market declined.",
-   "url": "https://finnhub.io/api/news?id=1296d63edc9ec7a266a4c9e382b0a91977461335d8f8ce0b80ad3a2863319b1e",
-   "source": "Yahoo",
-   "published": "2026-10-23T13:42:24+00:00",
-   "tickers": [
-    "MRNA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "49bee54de0e2",
-   "headline": "Global Dental Soft Tissue Wound Care Market Size, Share, and Forecast by Product, 2026-2032 | Plug, Tape, and Foam Demand to Drive 11.8% CAGR and a $390 Million Market",
-   "summary": "The global dental soft tissue wound care market is projected to grow from nearly $180 million in 2025 to nearly $390 million by 2032, a new Research and Markets report finds, with ZimVie leading ahead of AbbVie and Henry Schein, though\u2026",
-   "url": "https://finnhub.io/api/news?id=a09272192ee4bb502bed8a7657ed02794d6b2c30eb4793f58babb16bbd76a6d0",
-   "source": "Yahoo",
-   "published": "2026-10-23T13:36:00+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "cb5577c09147",
-   "headline": "10 Health Care Stocks Whale Activity In Today\u2019s Session",
-   "summary": "This whale alert can help traders discover the next big trading opportunities. Whales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner. Traders will",
-   "url": "https://finnhub.io/api/news?id=d174ca90034defae886831e386df4ea98868fbb7296e4c9f5deb4ea4237492dd",
-   "source": "Benzinga",
-   "published": "2026-10-23T13:35:10+00:00",
-   "tickers": [
-    "CI",
-    "ELV",
-    "GILD",
-    "HIMS",
-    "LLY",
-    "MRK",
-    "UNH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
    ]
   }
  ]
