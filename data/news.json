@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-03T12:47:38.925112+00:00",
+ "updated": "2026-11-03T13:03:03.888573+00:00",
  "quotes": {
   "A": {
    "price": 171.99,
@@ -41,10 +41,6 @@
   "ARGX": {
    "price": 874.97,
    "change_pct": -2.0
-  },
-  "ASND": {
-   "price": 248.98,
-   "change_pct": -0.91
   },
   "AXSM": {
    "price": 136.01,
@@ -321,6 +317,10 @@
   "THC": {
    "price": 268.89,
    "change_pct": -1.6
+  },
+  "TMO": {
+   "price": 682.65,
+   "change_pct": -2.06
   }
  },
  "tickers": {
@@ -938,6 +938,17 @@
  },
  "stories": [
   {
+   "id": "aeb02a9c81fa",
+   "headline": "First U.S. bird flu death of the year after cattle exposure",
+   "summary": "A person in Washington state has died from complications of the bird flu, the AP reported yesterday. It\u2019s the first such death this year in the U.S., and the third\u2026",
+   "url": "https://www.statnews.com/2026/11/03/health-news-first-us-bird-flu-death-after-cattle-exposure-2026/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-11-03T12:52:30+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
    "id": "b799452dd005",
    "headline": "LeanTaaS expands iQueue into ambient intelligence with LookDeep acquisition",
    "summary": "LeanTaaS is expanding iQueue beyond hospital capacity management into ambient intelligence, using its acquisition of LookDeep Health to add computer vision that monitors patient rooms and turns real-time signals into prioritized actions\u2026",
@@ -947,6 +958,36 @@
    "tickers": [],
    "tag": "M&A",
    "sectors": []
+  },
+  {
+   "id": "33c4dae0ac0a",
+   "headline": "Sophia Genetics (NASDAQ:SOPH) Q3 2026: Revenue In Line, Wider Loss Weighs on Shares",
+   "summary": "SOPHiA Genetics Q3 2026 revenue of $24.27M was in line with estimates, but a wider non-GAAP EPS loss of -$0.24 modestly pressured premarket shares.",
+   "url": "https://finnhub.io/api/news?id=55d99e288cfd9e775ff8a5e5d17629f6b251f77e1ea89e36921d9e940eeaed83",
+   "source": "ChartMill",
+   "published": "2026-11-03T12:37:46+00:00",
+   "tickers": [
+    "SOPH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthai"
+   ]
+  },
+  {
+   "id": "3fb958401b69",
+   "headline": "Henry Schein (NASDAQ:HSIC) Falls 13.9% Premarket as Mixed Q3 Results Raise Earnings Quality Concerns",
+   "summary": "Henry Schein Q3 2026: revenue misses, EPS beat lifted by tariff refunds, FY profit guidance raised, but HSIC shares fall premarket on sales concerns.",
+   "url": "https://finnhub.io/api/news?id=95be5b284731cb4468b624ae2df753568526f2224a12b63b09d133fc82a9d3dd",
+   "source": "ChartMill",
+   "published": "2026-11-03T12:30:37+00:00",
+   "tickers": [
+    "HSIC"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharmacy"
+   ]
   },
   {
    "id": "75e308649398",
@@ -1024,6 +1065,36 @@
    ]
   },
   {
+   "id": "e6be1cc8366d",
+   "headline": "Merck Initiates Phase 3 Study Evaluating Ohtuvayre\u00ae (ensifentrine) for the Prevention of COPD Exacerbations in Adult Patients Receiving Standard of Care With a History of Exacerbations",
+   "summary": "RAHWAY, N.J., November 03, 2026--Merck (NYSE: MRK), known as MSD outside of the United States and Canada, today announced the initiation of ENHANCE-3 (NCT07874815), a Phase 3 randomized clinical trial evaluating OHTUVAYRE (ensifentrine)\u2026",
+   "url": "https://finnhub.io/api/news?id=c4283b2dd4b56c3b9ef61f748ea9b9073dea99b09f1781c56698906b598ebcbb",
+   "source": "Yahoo",
+   "published": "2026-11-03T11:45:00+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "03259b1703eb",
+   "headline": "BioNTech Announces Third Quarter 2026 Financial Results and Corporate Update",
+   "summary": "Delivered the first global data for any PD-(L)1xVEGF bispecific immunomodulator candidate in combination with an investigational antibody-drug conjugate in lung cancer, with pumitamig plus elfetabart drozuntecanAdvanced the first global\u2026",
+   "url": "https://finnhub.io/api/news?id=abab5f2465de33140cba4212fbd6abbf6c170266345e6dd6b7e9c6d8507ab798",
+   "source": "Yahoo",
+   "published": "2026-11-03T11:45:00+00:00",
+   "tickers": [
+    "GILD"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "2938d6307b1e",
    "headline": "Pfizer Appoints Cecile Guegan as Chief Financial Officer",
    "summary": "NEW YORK, November 03, 2026--Pfizer Inc. (NYSE: PFE) today announced that its Board of Directors has unanimously appointed Cecile Guegan as Chief Financial Officer and Executive Vice President, effective November 1, 2026. Cecile has\u2026",
@@ -1036,6 +1107,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "3711f8776c1b",
+   "headline": "Henry Schein\u2019s (NASDAQ:HSIC) Q3 2026 earnings results: revenue in line with expectations",
+   "summary": "Dental and medical products company Henry Schein (NASDAQ:HSIC) met Wall Street\u2019s revenue expectations in Q3 2026, with revenue up 4% year on year to $3.47 billion. Its non-GAAP profit of $1.56 per share was 14.9% above analysts\u2019 consensus\u2026",
+   "url": "https://finnhub.io/api/news?id=70805477b13caa3ca2e97f807bd201d9e37a8c520312d48ee0891b8e62721506",
+   "source": "Yahoo",
+   "published": "2026-11-03T11:34:38+00:00",
+   "tickers": [
+    "HSIC"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharmacy"
    ]
   },
   {
@@ -1100,6 +1186,51 @@
    ]
   },
   {
+   "id": "4eb0eaa5e725",
+   "headline": "Eli Lilly Just Gained 22% in a Month: Take Profits, or Buy More?",
+   "summary": "Key TakeawaysEli Lilly (LLY) stock gained 22% in the month through October 30, supported by strong third-quarter earnings, higher revenue guidance, and encouraging clinical trial results. Novo Nordisk (NVO) faces growing competition after\u2026",
+   "url": "https://finnhub.io/api/news?id=fd5d4f88688c59017f88c8226da3d629da1abf9d09c5b5ed90cd1d30613da80d",
+   "source": "Yahoo",
+   "published": "2026-11-03T11:08:45+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "6d511c53ece4",
+   "headline": "Waters: Q3 Earnings Snapshot",
+   "summary": "(WAT) on Tuesday reported third-quarter earnings of $81 million.On a per-share basis, the Milford, Massachusetts-based company said it had net income of 82 cents.",
+   "url": "https://finnhub.io/api/news?id=01f4257beebbd18bfeb5baa42684f55710a61ff14cf787216be41e98afa925f4",
+   "source": "Yahoo",
+   "published": "2026-11-03T11:07:34+00:00",
+   "tickers": [
+    "WAT"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "51fb648766e7",
+   "headline": "Waters Corporation\u2019s (NYSE:WAT) Q3 2026 sales beat estimates, quarterly revenue guidance slightly exceeds expectations",
+   "summary": "Scientific instruments company Waters Corporation (NYSE:WAT) reported Q3 2026 results beating Wall Street\u2019s revenue expectations, with revenue up 121% year on year to $1.77 billion. Guidance for next quarter\u2019s revenue was better than\u2026",
+   "url": "https://finnhub.io/api/news?id=80678955e874666d8adaefea516f21f7ad8874a7117286697ff1e343901d1a7e",
+   "source": "Yahoo",
+   "published": "2026-11-03T11:07:26+00:00",
+   "tickers": [
+    "WAT"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "1dc145ce7078",
    "headline": "Should Strong Q3 Revenue Require Action From Vertex Pharmaceuticals (VRTX) Investors?",
    "summary": "Vertex Pharmaceuticals reported Q3 2026 revenue of US$3.44b compared with US$3.08b a year earlier, while quarterly net income and earnings per share were lower even as nine month profit and per share earnings were slightly higher than the\u2026",
@@ -1110,6 +1241,36 @@
     "VRTX"
    ],
    "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "34c1d86be494",
+   "headline": "Henry Schein: Q3 Earnings Snapshot",
+   "summary": "(HSIC) on Tuesday reported third-quarter net income of $119 million.On a per-share basis, the Melville, New York-based company said it had profit of $1.",
+   "url": "https://finnhub.io/api/news?id=2217356ab0cd301f4a5fbcbeb3c60db46dc109105b838c0ad2a5a80480505712",
+   "source": "Yahoo",
+   "published": "2026-11-03T11:06:27+00:00",
+   "tickers": [
+    "HSIC"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
+  {
+   "id": "66c7a1219bab",
+   "headline": "What Invesco S&P 500 Equal Weight ETF (RSP) Bought: Moderna Leads on Oct. 30",
+   "summary": "The fund added $167.6 million in gross purchases on Friday, increasing all 502 positions and selling nothing.",
+   "url": "https://finnhub.io/api/news?id=db9b3e59ea0ef0d5203dc0d69d915383c4491877628c7c3653830474791d3939",
+   "source": "Yahoo",
+   "published": "2026-11-03T11:05:57+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "News",
    "sectors": [
     "pharma"
    ]
@@ -1142,6 +1303,66 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "ded206ed137d",
+   "headline": "ETFs Bought $147.9 Million of Eli Lilly (LLY) on Oct. 30",
+   "summary": "ETFs bought $147.9 million of Eli Lilly on Friday, with 42 funds buying and 22 selling.",
+   "url": "https://finnhub.io/api/news?id=030fc58e2011e8cfce4d0b89f8a70a772894498258424e272181ca65f43a651a",
+   "source": "Yahoo",
+   "published": "2026-11-03T11:01:11+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "2c45d2a3f9fe",
+   "headline": "Waters Corporation (NYSE: WAT) Reports Third Quarter 2026 Financial Results",
+   "summary": "Waters Corporation (NYSE: WAT) today announced its financial results for the third quarter of 2026.",
+   "url": "https://finnhub.io/api/news?id=01bbd96309b2f3ec93980eab6dc44efb5de7ff6f5852861c9a11a1f868212960",
+   "source": "Yahoo",
+   "published": "2026-11-03T11:00:00+00:00",
+   "tickers": [
+    "WAT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "d6c3fc6d3b4a",
+   "headline": "Henry Schein Reports Strong 2026 Third Quarter and Raises FY2026 Guidance",
+   "summary": "MELVILLE, N.Y., November 03, 2026--Henry Schein, Inc. (Nasdaq: HSIC), the world\u2019s largest provider of healthcare solutions to office-based dental and medical practitioners, today reported financial results for the third quarter ended\u2026",
+   "url": "https://finnhub.io/api/news?id=140b90b47e3d2b8f8b778e18a5b387fd102cf706fbe2a07625e80eca883cfcb8",
+   "source": "Yahoo",
+   "published": "2026-11-03T11:00:00+00:00",
+   "tickers": [
+    "HSIC"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
+  {
+   "id": "d6a3f69d5c72",
+   "headline": "Waters Acquires MOBILion Systems, Bringing Advanced Ion-Mobility Separation to its Mass Spectrometry Portfolio with the Speed and Resolution AI Workflows Require for Proteomics Biomarker Discovery",
+   "summary": "Waters Corporation (NYSE: WAT), a global life sciences and diagnostics leader, today announced that it has acquired MOBILion Systems, Inc., the pioneer of SLIM high-resolution ion mobility separation technology for complex molecular\u2026",
+   "url": "https://finnhub.io/api/news?id=b57a62d28f268a0f1603c216c9504634f582e89ecca6743559a6c96d879115b5",
+   "source": "Yahoo",
+   "published": "2026-11-03T10:55:00+00:00",
+   "tickers": [
+    "WAT"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -1197,7 +1418,8 @@
    "source": "Yahoo",
    "published": "2026-11-03T10:20:00+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "TMO"
    ],
    "tag": "News",
    "sectors": [
@@ -49292,21 +49514,6 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "ab4003e66972",
-   "headline": "Johnson & Johnson announces ERLEADA\u00ae (apalutamide) treatment before and after surgery reduces risk of recurrence or death by 62% versus surgery alone in high-risk prostate cancer",
-   "summary": "New substudy results showed a 51% lower estimated risk of metastasis or death over time with perioperative apalutamide plus ADT compared with immediate surgery Twice as many patients remained free from subsequent treatment at three years\u2026",
-   "url": "https://www.prnewswire.com/news-releases/johnson--johnson-announces-erleada-apalutamide-treatment-before-and-after-surgery-reduces-risk-of-recurrence-or-death-by-62-versus-surgery-alone-in-high-risk-prostate-cancer-302918654.html",
-   "source": "PR Newswire",
-   "published": "2026-10-24T12:54:00+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
