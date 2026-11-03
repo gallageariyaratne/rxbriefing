@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-03T10:02:57.566249+00:00",
+ "updated": "2026-11-03T10:17:43.391490+00:00",
  "quotes": {
   "A": {
    "price": 171.99,
@@ -182,10 +182,6 @@
    "price": 226.58,
    "change_pct": -3.99
   },
-  "INSM": {
-   "price": 109.31,
-   "change_pct": -2.9
-  },
   "IONS": {
    "price": 41.24,
    "change_pct": -5.24
@@ -321,6 +317,10 @@
   "THC": {
    "price": 268.89,
    "change_pct": -1.6
+  },
+  "TMO": {
+   "price": 682.65,
+   "change_pct": -2.06
   }
  },
  "tickers": {
@@ -938,6 +938,36 @@
  },
  "stories": [
   {
+   "id": "37ab08fbddfe",
+   "headline": "BioArctic left out in the cold as Novartis walks away from $800M neuro collab",
+   "summary": "Just 14 months after Novartis signed an $800 million biobucks neuroscience partnership with BioArctic, the Swiss pharma has walked away from the deal.",
+   "url": "https://www.fiercebiotech.com/biotech/novartis-scraps-800m-bioartic-neuroscience-collab-after-barely-year",
+   "source": "Fierce Biotech",
+   "published": "2026-11-03T10:15:25.601542+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "66ebd885b4a1",
+   "headline": "AbbVie (NYSE:ABBV): A Quality Investing Candidate With Caveats",
+   "summary": "ABBVIE (ABBV) passes key Caviar Cruise quality filters, but ROIC methodology, high payout ratio, and weak liquidity warrant scrutiny.",
+   "url": "https://finnhub.io/api/news?id=be7958d81411a8a57307cab08e9d287d42cf81ffd6302fc29531a9c59469b970",
+   "source": "ChartMill",
+   "published": "2026-11-03T09:31:00+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "35c68d520640",
    "headline": "Opinion: What the 2024 electoral map reveals about America\u2019s mortality divide",
    "summary": "Leading drivers of mortality look different according to political geography, experts write.",
@@ -1298,6 +1328,22 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "aac8fd97f1ec",
+   "headline": "Conventum - Alluvium Global Fund Q3 2026 Performance Update",
+   "summary": "Once again, for the third consecutive quarter, the most notable highlight for investors is a new position - this time, it is Jack Henry. Read more here.",
+   "url": "https://finnhub.io/api/news?id=a48da546e2d6b44cd21c0715ba051456fc90c1a6e731424c8ec58a880643073a",
+   "source": "SeekingAlpha",
+   "published": "2026-11-03T04:00:00+00:00",
+   "tickers": [
+    "HCA",
+    "MCK"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -49103,36 +49149,6 @@
    "tag": "News",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "e20d8ad8e3c9",
-   "headline": "What Glaukos Doubters Missed",
-   "summary": "Investors who held Glaukos from the start of the year are up 61.6%, including dividends. That headline result lands next to a reminder that fresh Epioxa data, a new retinal licensing deal and record 2026 guidance all arrived only after\u2026",
-   "url": "https://finnhub.io/api/news?id=0291014861c1327dda75542a8947b240f33b2c6641631cb8d021fab73a1b9867",
-   "source": "Yahoo",
-   "published": "2026-10-24T10:13:07+00:00",
-   "tickers": [
-    "GKOS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "2f31b21ee88c",
-   "headline": "Abbott Laboratories (ABT) Posted Higher Sensitivity Data For Colorectal Cancer Recurrence Detection",
-   "summary": "Abbott Laboratories (NYSE:ABT) reported new Beta-CORRECT study data on its Oncodetect test at ESMO 2026. The Beta-CORRECT trial showed a significant sensitivity improvement for detecting colorectal cancer recurrence using circulating\u2026",
-   "url": "https://finnhub.io/api/news?id=87e959d2df195c559e17f6278a6e575c5f55a92cf43e8de9086c54d8532ecab4",
-   "source": "Yahoo",
-   "published": "2026-10-24T10:13:00+00:00",
-   "tickers": [
-    "ABT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
