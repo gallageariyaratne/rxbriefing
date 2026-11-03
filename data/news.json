@@ -1,7 +1,23 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-03T12:32:49.521230+00:00",
+ "updated": "2026-11-03T12:47:38.925112+00:00",
  "quotes": {
+  "A": {
+   "price": 171.99,
+   "change_pct": -1.65
+  },
+  "ABBV": {
+   "price": 288.84,
+   "change_pct": -2.05
+  },
+  "ABSI": {
+   "price": 9.69,
+   "change_pct": -12.94
+  },
+  "ABT": {
+   "price": 110.16,
+   "change_pct": 3.73
+  },
   "ACAD": {
    "price": 20.47,
    "change_pct": -0.58
@@ -286,6 +302,10 @@
    "price": 306.81,
    "change_pct": 5.12
   },
+  "TDOC": {
+   "price": 8.63,
+   "change_pct": 1.41
+  },
   "TECH": {
    "price": 72.67,
    "change_pct": 0.01
@@ -301,10 +321,6 @@
   "THC": {
    "price": 268.89,
    "change_pct": -1.6
-  },
-  "TMO": {
-   "price": 682.65,
-   "change_pct": -2.06
   }
  },
  "tickers": {
@@ -922,6 +938,17 @@
  },
  "stories": [
   {
+   "id": "b799452dd005",
+   "headline": "LeanTaaS expands iQueue into ambient intelligence with LookDeep acquisition",
+   "summary": "LeanTaaS is expanding iQueue beyond hospital capacity management into ambient intelligence, using its acquisition of LookDeep Health to add computer vision that monitors patient rooms and turns real-time signals into prioritized actions\u2026",
+   "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/leantaas-expands-iqueue-ambient-intelligence-lookdeep-acquisition",
+   "source": "Fierce Healthcare",
+   "published": "2026-11-03T12:45:24.894984+00:00",
+   "tickers": [],
+   "tag": "M&A",
+   "sectors": []
+  },
+  {
    "id": "75e308649398",
    "headline": "PTC Therapeutics Board of Directors Authorizes $500 Million Share Repurchase Program",
    "summary": "WARREN, N.J., Nov. 3, 2026 /PRNewswire/ -- PTC Therapeutics, Inc., (NASDAQ: PTCT) today announced that its Board of Directors has authorized a share repurchase program under which PTC may repurchase up to $500 million of the Company's\u2026",
@@ -952,6 +979,21 @@
    ]
   },
   {
+   "id": "c274ee924647",
+   "headline": "Pfizer: Q3 Earnings Snapshot",
+   "summary": "NEW YORK (AP) \u2014 NEW YORK (AP) \u2014 Pfizer Inc. (PFE) on Tuesday reported third-quarter net income of $3.",
+   "url": "https://finnhub.io/api/news?id=205c6baf245871ff1d0bd9e4a4b2902f4e64ecb3c76e3b2a1ad9509656f03124",
+   "source": "Yahoo",
+   "published": "2026-11-03T11:53:27+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "e3be14de29c9",
    "headline": "SOPHiA GENETICS Reports Third Quarter 2026 Results",
    "summary": "BOSTON and ROLLE, Switzerland, Nov. 3, 2026 /PRNewswire/ -- SOPHiA GENETICS (Nasdaq: SOPH), a global leader in AI-driven precision medicine, today reported financial results for the third quarter ended September 30, 2026. Third Quarter\u2026",
@@ -964,6 +1006,36 @@
    "tag": "Health AI",
    "sectors": [
     "healthai"
+   ]
+  },
+  {
+   "id": "82d7f62ef4b2",
+   "headline": "Pfizer Reports Strong Third-Quarter 2026 Results And Raises 2026 Guidance",
+   "summary": "NEW YORK, November 03, 2026--Pfizer Inc. (NYSE: PFE) reported financial results for the third quarter of 2026 and raised its full-year 2026 guidance(2) for both Revenues and Adjusted(3) diluted EPS.",
+   "url": "https://finnhub.io/api/news?id=00dc280d675dc1c5422a34afbbb49df4b1cdfeeb05ef9b67995a51ab4cb7990f",
+   "source": "Yahoo",
+   "published": "2026-11-03T11:45:00+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "2938d6307b1e",
+   "headline": "Pfizer Appoints Cecile Guegan as Chief Financial Officer",
+   "summary": "NEW YORK, November 03, 2026--Pfizer Inc. (NYSE: PFE) today announced that its Board of Directors has unanimously appointed Cecile Guegan as Chief Financial Officer and Executive Vice President, effective November 1, 2026. Cecile has\u2026",
+   "url": "https://finnhub.io/api/news?id=a7a7178d147651ed372fdd76856a5d77d5b7af46996988f2e73f7f24dc2852d7",
+   "source": "Yahoo",
+   "published": "2026-11-03T11:40:00+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -997,6 +1069,37 @@
    ]
   },
   {
+   "id": "f6e9bf80443c",
+   "headline": "Tech Jumps Over Apple Q3 Report on Wall Street Pre-Bell; Asia, Europe Off",
+   "summary": "Wall Street futures pointed mixed and higher pre-bell Tuesday as tech issues, excluding Apple (AAPL)",
+   "url": "https://finnhub.io/api/news?id=22b1b0a11c0dc3c627ae0065f8d87fab4f6cf5af34b614cdf084693cb5dba671",
+   "source": "Yahoo",
+   "published": "2026-11-03T11:09:38+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "019db28fb860",
+   "headline": "1 healthcare stock with impressive fundamentals and 2 we ignore",
+   "summary": "Personal health and wellness is one of the many secular tailwinds for healthcare companies. Shareholders who bet on the industry have been rewarded lately as healthcare stocks have returned 33.2% over the past six months, topping the S&P\u2026",
+   "url": "https://finnhub.io/api/news?id=8d0c68bcc58a31083163d4485f8449c0c0993ba465b19a2a1b0437684bc8ced0",
+   "source": "Yahoo",
+   "published": "2026-11-03T11:09:36+00:00",
+   "tickers": [
+    "HUM",
+    "ZTS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "1dc145ce7078",
    "headline": "Should Strong Q3 Revenue Require Action From Vertex Pharmaceuticals (VRTX) Investors?",
    "summary": "Vertex Pharmaceuticals reported Q3 2026 revenue of US$3.44b compared with US$3.08b a year earlier, while quarterly net income and earnings per share were lower even as nine month profit and per share earnings were slightly higher than the\u2026",
@@ -1007,6 +1110,21 @@
     "VRTX"
    ],
    "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "004ba19edce7",
+   "headline": "Spdr Dow Jones Industrial Avg ETF (DIA) Sells Goldman Sachs and Caterpillar on Oct. 30",
+   "summary": "The fund cut all 30 of its positions, selling $258.4 million of stock and buying nothing.",
+   "url": "https://finnhub.io/api/news?id=23e5f16e1d7c00c017197236f666caefd415f03703505e860d005daa06f7dbf4",
+   "source": "Yahoo",
+   "published": "2026-11-03T11:05:19+00:00",
+   "tickers": [
+    "AMGN"
+   ],
+   "tag": "News",
    "sectors": [
     "pharma"
    ]
@@ -1569,6 +1687,21 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "8143396abdde",
+   "headline": "TDOC Q3 deep dive: insurance-fueled BetterHelp pivot offsets cash pay headwinds, new care model launches",
+   "summary": "Digital medical services platform Teladoc Health (NYSE:TDOC) reported Q3 2026 results beating Wall Street\u2019s revenue expectations, but sales fell by 3.4% year on year to $605.1 million. On the other hand, next quarter\u2019s revenue guidance of\u2026",
+   "url": "https://finnhub.io/api/news?id=c6b9a8df554f0f041b9056d25a8c05e49ce13992789817e8758c5ffe13235395",
+   "source": "Yahoo",
+   "published": "2026-11-03T03:57:36+00:00",
+   "tickers": [
+    "TDOC"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
    ]
   },
   {
@@ -49175,17 +49308,6 @@
    "sectors": [
     "pharma"
    ]
-  },
-  {
-   "id": "631bd04a82f9",
-   "headline": "Bayer's Nubeqa scores phase 3 win in high-risk prostate cancer",
-   "summary": "Nubeqa, when added to standard-of-care treatment, significantly improved metastasis-free survival in patients with very high-risk localized prostate cancer.",
-   "url": "https://www.fiercepharma.com/pharma/bayers-nubeqa-lands-phase-3-win-very-high-risk-prostate-cancer",
-   "source": "Fierce Pharma",
-   "published": "2026-10-24T12:45:21.426606+00:00",
-   "tickers": [],
-   "tag": "Clinical",
-   "sectors": []
   }
  ]
 }
