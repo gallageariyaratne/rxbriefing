@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-03T13:17:42.051305+00:00",
+ "updated": "2026-11-03T13:32:56.021124+00:00",
  "quotes": {
   "A": {
    "price": 171.99,
@@ -121,10 +121,6 @@
   "EW": {
    "price": 93.26,
    "change_pct": 1.36
-  },
-  "GEHC": {
-   "price": 79.55,
-   "change_pct": 3.89
   },
   "GH": {
    "price": 170.73,
@@ -258,10 +254,6 @@
    "price": 153.61,
    "change_pct": 2.63
   },
-  "PRVA": {
-   "price": 21.28,
-   "change_pct": -0.93
-  },
   "PTCT": {
    "price": 60.88,
    "change_pct": 1.52
@@ -321,6 +313,14 @@
   "TWST": {
    "price": 129.04,
    "change_pct": -15.54
+  },
+  "TXG": {
+   "price": 61.63,
+   "change_pct": -12.1
+  },
+  "UHS": {
+   "price": 180.65,
+   "change_pct": 2.61
   }
  },
  "tickers": {
@@ -938,6 +938,21 @@
  },
  "stories": [
   {
+   "id": "8698f54c2ada",
+   "headline": "Beckman Coulter Diagnostics Receives U.S. FDA Clearance for Rapid Bacterial vs. Viral Assay Providing Results in as Little as 15 Minutes for Adults and Children",
+   "summary": "BREA, Calif., Nov. 3, 2026 /PRNewswire/ -- Beckman Coulter Diagnostics, a Danaher company and a global leader in clinical diagnostics, today announced U.S. FDA clearance of the Access MeMed BV\u00ae assay, a rapid host-response blood test that\u2026",
+   "url": "https://www.prnewswire.com/news-releases/beckman-coulter-diagnostics-receives-us-fda-clearance-for-rapid-bacterial-vs-viral-assay-providing-results-in-as-little-as-15-minutes-for-adults-and-children-302927223.html",
+   "source": "PR Newswire",
+   "published": "2026-11-03T13:30:00+00:00",
+   "tickers": [
+    "DHR"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "aeb02a9c81fa",
    "headline": "First U.S. bird flu death of the year after cattle exposure",
    "summary": "A person in Washington state has died from complications of the bird flu, the AP reported yesterday. It\u2019s the first such death this year in the U.S., and the third\u2026",
@@ -1152,6 +1167,21 @@
    "tag": "News",
    "sectors": [
     "healthit"
+   ]
+  },
+  {
+   "id": "ffd7da2ae6cb",
+   "headline": "BioMarin Beats Q3 Revenue Forecasts but Cuts 2026 Outlook on Voxzogo Timing and Deal Costs",
+   "summary": "BioMarin Pharmaceutical Inc. (NASDAQ:BMRN) reported third-quarter revenue above Wall Street expectations, supported by stronger-than-anticipated sales across several treatments for rare diseases.",
+   "url": "https://finnhub.io/api/news?id=fae950ddb21d22cb9b104be5702adf2c3841e22eb2a68830da5150e5eb89ff7a",
+   "source": "Yahoo",
+   "published": "2026-11-03T11:19:04+00:00",
+   "tickers": [
+    "BMRN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -1577,6 +1607,21 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "c15e1efb8246",
+   "headline": "Veeva Systems: AI Is The Icing, Not The Cake",
+   "summary": "Veeva Systems earns a buy, as core business growth re-accelerates, with AI-driven upside from Falcon agents not yet priced in. Read more on VEEV stock here.",
+   "url": "https://finnhub.io/api/news?id=476cb1bd4298588650a090432333c9f8ef5230790572b9309b10d9e590c3516b",
+   "source": "SeekingAlpha",
+   "published": "2026-11-03T07:28:12+00:00",
+   "tickers": [
+    "VEEV"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "healthit"
    ]
   },
   {
