@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-03T14:03:08.963590+00:00",
+ "updated": "2026-11-03T14:17:57.075505+00:00",
  "quotes": {
   "A": {
    "price": 171.99,
@@ -266,6 +266,10 @@
    "price": 961.26,
    "change_pct": 3.6
   },
+  "RGEN": {
+   "price": 172.95,
+   "change_pct": -2.25
+  },
   "RMD": {
    "price": 232.94,
    "change_pct": 1.3
@@ -317,10 +321,6 @@
   "TXG": {
    "price": 61.63,
    "change_pct": -12.1
-  },
-  "UHS": {
-   "price": 180.65,
-   "change_pct": 2.61
   }
  },
  "tickers": {
@@ -938,6 +938,21 @@
  },
  "stories": [
   {
+   "id": "a18bde41d3f8",
+   "headline": "Lilly\u2019s R&D whirlwind \u2014 what the large pharma has taken in and what it\u2019s dropped",
+   "summary": "While its GLP-1 franchise is still booming, prospects in other arenas haven\u2019t panned out. Here\u2019s a look at where Lilly\u2019s investing the candidates it\u2019s recently had to drop.",
+   "url": "https://finnhub.io/api/news?id=ed6f22697db6d8fec052e6167ecdb49613fff3c55fcdcb09199a083c85f3d439",
+   "source": "Yahoo",
+   "published": "2026-11-03T13:48:25+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "c75b56753e67",
    "headline": "Child dies of measles in New York\u2019s first such death in 30 years",
    "summary": "A child in rural northern New York has died after contracting measles, marking the state's first death from the disease in 30 years.",
@@ -1005,6 +1020,21 @@
    ]
   },
   {
+   "id": "867c74b808a2",
+   "headline": "Allergan Aesthetics to Present New Research on Aesthetic Care Following Medical Weight Loss and Evolving Patient Needs at ASDS 2026",
+   "summary": "Allergan Aesthetics, an AbbVie company (NYSE: ABBV), will present nine abstracts at the 2026 American Society for Dermatologic Surgery (ASDS) Annual Meeting, Nov. 5-8 in San Diego, underscoring the company's continued investment in\u2026",
+   "url": "https://finnhub.io/api/news?id=7d0e99db33945f746a6cb717b00ec58e43f29c95227a04131e9fe2fd5185bbe2",
+   "source": "Yahoo",
+   "published": "2026-11-03T13:00:00+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "aeb02a9c81fa",
    "headline": "First U.S. bird flu death of the year after cattle exposure",
    "summary": "A person in Washington state has died from complications of the bird flu, the AP reported yesterday. It\u2019s the first such death this year in the U.S., and the third\u2026",
@@ -1040,6 +1070,21 @@
    "tickers": [],
    "tag": "M&A",
    "sectors": []
+  },
+  {
+   "id": "cbb181f69165",
+   "headline": "Why Did Boston Scientific Stock Jump?",
+   "summary": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://finnhub.io/api/news?id=ac6a9b454eca3f0be7620e8e2ea05d4aba97c255c8fc5dc14ab9b4eec28e63f9",
+   "source": "Yahoo",
+   "published": "2026-11-03T12:41:29+00:00",
+   "tickers": [
+    "BDX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
   },
   {
    "id": "bd231773ae17",
@@ -1125,6 +1170,21 @@
    "published": "2026-11-03T12:00:00+00:00",
    "tickers": [
     "PODD"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "aaa342910706",
+   "headline": "What Are Danaher Investors Betting On?",
+   "summary": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://finnhub.io/api/news?id=99c96a46a9ab4395c45af895796f5d3de7a1a31b5f539da561035778b52c630c",
+   "source": "Yahoo",
+   "published": "2026-11-03T11:56:29+00:00",
+   "tickers": [
+    "BDX"
    ],
    "tag": "News",
    "sectors": [
@@ -1277,6 +1337,36 @@
     "DXCM"
    ],
    "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "b14769f1738e",
+   "headline": "Mettler-Toledo's Q3 Earnings on Deck: What's in Store for the Stock?",
+   "summary": "MTD's Q3'26 results are expected to benefit from improving markets, automation demand, acquisitions and growth across key regions.",
+   "url": "https://finnhub.io/api/news?id=aa0950febecf83f57b9606aa3da71f2cfe25bbbbd869cd9265cc3491edc3f764",
+   "source": "Yahoo",
+   "published": "2026-11-03T11:13:00+00:00",
+   "tickers": [
+    "BDX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "a7d411aa89ed",
+   "headline": "Henry Schein (HSIC) Tops Q3 Earnings Estimates",
+   "summary": "Henry Schein (HSIC) delivered earnings and revenue surprises of +16.42% and 0.00%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=7d62d56ff517c31df46d4d7e045e7aa0ce4f92e253f1908228b8cf412bbd16b1",
+   "source": "Yahoo",
+   "published": "2026-11-03T11:10:02+00:00",
+   "tickers": [
+    "BDX"
+   ],
+   "tag": "Earnings",
    "sectors": [
     "medtech"
    ]
@@ -1689,6 +1779,22 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "e5768b7186cf",
+   "headline": "Baron SMID Cap ETF Q3 2026 Contributors And Detractors",
+   "summary": "Baron SMID Cap ETF returned -2.87% (NAV) in the third quarter, outperforming its benchmark, the Russell 2500 Growth Index, which returned -10.35%. Read more here.",
+   "url": "https://finnhub.io/api/news?id=007b2a5f9277838c9d42dbb9f76721c7efefebd04ab260c11d465297381fae9a",
+   "source": "SeekingAlpha",
+   "published": "2026-11-03T08:10:00+00:00",
+   "tickers": [
+    "RGEN",
+    "TEM"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -6290,7 +6396,8 @@
    "source": "Benzinga",
    "published": "2026-11-02T13:32:47+00:00",
    "tickers": [
-    "IDXX"
+    "IDXX",
+    "TEM"
    ],
    "tag": "News",
    "sectors": [
@@ -7159,6 +7266,21 @@
    ]
   },
   {
+   "id": "2402703caa10",
+   "headline": "Growth And Cyclical Sectors Lead Monday Trading",
+   "summary": "Seven sectors are higher and four are lower in Monday\u2019s regular session, with growth and cyclical sectors splitting the top of the table. The leaders are separated rather than clustered, with no single gap clearly standing apart from the\u2026",
+   "url": "https://finnhub.io/api/news?id=a2220f001bd42eaba791db61df194e577f612208d641a7515c667cb45b04184e",
+   "source": "Benzinga",
+   "published": "2026-11-02T12:00:25+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "289efb3ff93e",
    "headline": "PaperFoam secures funds to expand manufacturing footprint",
    "summary": "The proceeds will support capital expenditure at the Barneveld-headquartered company's production facility in the Czech Republic.",
@@ -7355,6 +7477,21 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "222094e5a3fb",
+   "headline": "AstraZeneca Analyst Raises Price Target On Q3 Results, Shift In Avanzar Timing",
+   "summary": "AstraZeneca posts strong Q3; RBC raises target, citing reduced AVANZAR uncertainty and promising pipeline catalysts.",
+   "url": "https://finnhub.io/api/news?id=aa0a976cc122f19de81072108c921cdc1dc372dd56b04b0ca9f5b2ec3b2d3ae6",
+   "source": "Benzinga",
+   "published": "2026-11-02T11:40:26+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -49641,21 +49778,6 @@
    "tag": "News",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "d18376dd0cc3",
-   "headline": "DaVita (DVA) Settles Ransomware Case As Kidney Week Research Takes Center Stage",
-   "summary": "DaVita (NYSE:DVA) agreed to a legal settlement resolving a class action tied to a major 2025 ransomware attack affecting patient data. The 2025 cyber incident involved both personal and clinical information from DaVita kidney care\u2026",
-   "url": "https://finnhub.io/api/news?id=0b44efcd03ed442a875f0543e2f54ca42e437015f7b98a5045132fae737700bb",
-   "source": "Yahoo",
-   "published": "2026-10-24T14:11:19+00:00",
-   "tickers": [
-    "DVA"
-   ],
-   "tag": "Legal",
-   "sectors": [
-    "payers"
    ]
   }
  ]
