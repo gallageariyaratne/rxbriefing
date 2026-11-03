@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-03T23:02:53.154972+00:00",
+ "updated": "2026-11-03T23:17:41.560204+00:00",
  "quotes": {
   "A": {
    "price": 175.46,
@@ -14,10 +14,6 @@
    "price": 109.4,
    "change_pct": -0.69
   },
-  "ACAD": {
-   "price": 20.57,
-   "change_pct": 0.49
-  },
   "ALGN": {
    "price": 151.58,
    "change_pct": -1.65
@@ -29,10 +25,6 @@
   "AMGN": {
    "price": 461.26,
    "change_pct": -0.9
-  },
-  "AMWL": {
-   "price": 12.74,
-   "change_pct": 1.76
   },
   "ARGX": {
    "price": 901.12,
@@ -97,6 +89,10 @@
   "CVS": {
    "price": 91.41,
    "change_pct": 3.28
+  },
+  "CYTK": {
+   "price": 62.31,
+   "change_pct": 0.45
   },
   "DGX": {
    "price": 247.06,
@@ -321,6 +317,10 @@
   "VEEV": {
    "price": 303.21,
    "change_pct": -1.23
+  },
+  "VKTX": {
+   "price": 26.09,
+   "change_pct": -2.76
   }
  },
  "tickers": {
@@ -938,6 +938,21 @@
  },
  "stories": [
   {
+   "id": "c4b122a883a7",
+   "headline": "Novo Nordisk A/S Repurchases B Shares Under DKK 15 Billion Programme",
+   "summary": "",
+   "url": "https://finnhub.io/api/news?id=9abae3f127320dab0434566f1fb7917e5c6cefe345dbe5443631ed4f7cfb8dbd",
+   "source": "Fintel",
+   "published": "2026-11-03T21:51:45+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "a78e4ca3f258",
    "headline": "Stock Market Election Night Live Coverage: Dow Futures, AI Stocks, Elon Musk In Focus; AMD, Arista, Amgen, Astera Move On Earnings",
    "summary": "IBD's stock market election night coverage will focus on midterm results' impact on Dow Jones futures, Treasury yields, AI and more.",
@@ -1209,6 +1224,21 @@
    ]
   },
   {
+   "id": "02ea4857c762",
+   "headline": "Neurocrine Biosciences to Spotlight Its Scientific Journey and Growing Neuropsychiatry Pipeline at 2026 NEI Fall Congress",
+   "summary": "Neurocrine Biosciences, Inc. (Nasdaq: NBIX) today announced its participation in the 2026 Neuroscience Education Institute (NEI) Fall Congress, taking place Nov. 5-8 in Colorado Springs, Colo. Through a special industry-sponsored session,\u2026",
+   "url": "https://finnhub.io/api/news?id=6f52cfd8b98e04d055261220a735d18de8186bbe8eba1adf183e5c49d1479c9e",
+   "source": "Yahoo",
+   "published": "2026-11-03T21:05:00+00:00",
+   "tickers": [
+    "NBIX"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "2e72ec200fd9",
    "headline": "Jazz Pharmaceuticals PLC (JAZZ) (Q3 2026) Earnings Call Highlights: Record $1. ...",
    "summary": "Jazz Pharmaceuticals PLC (JAZZ) posts 10% revenue growth on 35% oncology gains, lifts its 2026 outlook, and adds a differentiated rare epilepsy asset with the Actio Biosciences acquisition.",
@@ -1279,6 +1309,21 @@
     "ARWR"
    ],
    "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "2e8bd2d9aa0c",
+   "headline": "Cytokinetics to Participate in November Investor Conferences",
+   "summary": "SOUTH SAN FRANCISCO, Calif., Nov. 03, 2026 (GLOBE NEWSWIRE) -- Cytokinetics, Incorporated (Nasdaq: CYTK) today announced that members of the Company management team will participate in the following investor conferences in November:\u2026",
+   "url": "https://finnhub.io/api/news?id=53936b3e4e5d8355c11709856de03c8c1b9cfd99fe61ce0b7a2d900721ed4d21",
+   "source": "Yahoo",
+   "published": "2026-11-03T21:00:00+00:00",
+   "tickers": [
+    "CYTK"
+   ],
+   "tag": "News",
    "sectors": [
     "biotech"
    ]
@@ -1378,6 +1423,21 @@
    "tag": "Analyst",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "ee678e813f23",
+   "headline": "Is Neurocrine Biosciences (NBIX) A Bargain On Raised INGREZZA Guidance?",
+   "summary": "Neurocrine Biosciences (NBIX) just delivered a busy quarter, with better than expected earnings, strong year over year revenue growth, and a higher full year sales outlook for INGREZZA following solid uptake across its key franchises.\u2026",
+   "url": "https://finnhub.io/api/news?id=a6af330d7b3d1789492df7327722be185e6292bef23d446d2995911a6c2db768",
+   "source": "Yahoo",
+   "published": "2026-11-03T20:09:54+00:00",
+   "tickers": [
+    "NBIX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -54470,36 +54530,6 @@
     "EXEL"
    ],
    "tag": "FDA",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "5a37dc17c6ba",
-   "headline": "Revolution Medicines (RVMD) Stock Looks Above Fair Value Today",
-   "summary": "Revolution Medicines has become one of the most eye-catching moves in biotech over the past few years, and the latest regulatory milestones now put a sharper spotlight on what investors are actually paying for on its balance sheet. With\u2026",
-   "url": "https://finnhub.io/api/news?id=991c2287d72436f937519ea85d748343aa719e502480504504a91b1e592e5246",
-   "source": "Yahoo",
-   "published": "2026-10-24T23:15:02+00:00",
-   "tickers": [
-    "RVMD"
-   ],
-   "tag": "Policy",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "a768b5755c46",
-   "headline": "Is Incyte (INCY) Cheap After A 120% Three Year Run?",
-   "summary": "Incyte has logged a strong multi year share price performance, and the question now is whether the business can back up that move with the cash flows needed to justify today\u2019s valuation. Over the past 3 years, Incyte has returned 120.2%,\u2026",
-   "url": "https://finnhub.io/api/news?id=f66dcbf25511a08b878438d105c6c1273bf9472aed9001c951afe82ace8015fa",
-   "source": "Yahoo",
-   "published": "2026-10-24T23:11:06+00:00",
-   "tickers": [
-    "INCY"
-   ],
-   "tag": "News",
    "sectors": [
     "biotech"
    ]
