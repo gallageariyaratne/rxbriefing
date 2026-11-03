@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-03T22:32:39.061752+00:00",
+ "updated": "2026-11-03T22:47:39.176093+00:00",
  "quotes": {
   "A": {
    "price": 175.46,
@@ -125,6 +125,10 @@
   "EW": {
    "price": 95.19,
    "change_pct": 2.07
+  },
+  "EXEL": {
+   "price": 72.31,
+   "change_pct": 3.11
   },
   "GEHC": {
    "price": 80.66,
@@ -317,10 +321,6 @@
   "VKTX": {
    "price": 26.09,
    "change_pct": -2.76
-  },
-  "VRTX": {
-   "price": 530.76,
-   "change_pct": -4.05
   }
  },
  "tickers": {
@@ -938,6 +938,21 @@
  },
  "stories": [
   {
+   "id": "a78e4ca3f258",
+   "headline": "Stock Market Election Night Live Coverage: Dow Futures, AI Stocks, Elon Musk In Focus; AMD, Arista, Amgen, Astera Move On Earnings",
+   "summary": "IBD's stock market election night coverage will focus on midterm results' impact on Dow Jones futures, Treasury yields, AI and more.",
+   "url": "https://finnhub.io/api/news?id=69838ae550f572e3d3d578dbf2ce8c7dab10dbec7d2071ccc398abf0eb71aacc",
+   "source": "Yahoo",
+   "published": "2026-11-03T21:48:15+00:00",
+   "tickers": [
+    "AMGN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "365f30e0897f",
    "headline": "Viking Therapeutics to Participate at Upcoming Investor Conferences",
    "summary": "SAN DIEGO, Nov. 3, 2026 /PRNewswire/ -- Viking Therapeutics, Inc. (\"Viking\") (NASDAQ: VKTX), a clinical-stage biopharmaceutical company focused on the development of novel therapies for metabolic and endocrine disorders, today announced\u2026",
@@ -968,6 +983,66 @@
    ]
   },
   {
+   "id": "1fc63d8ccddd",
+   "headline": "Amgen, Up 41% This Year, Is Broadly Outperforming Its Peers. Here's What Its Earnings Say.",
+   "summary": "Amgen beat Wall Street's top- and bottom-line expectations late Tuesday, but there were puts and takes across the board.",
+   "url": "https://finnhub.io/api/news?id=f1e4408ebb80c7540a584a571e538b08010cdb3ddfce9c3e359fe132773f9199",
+   "source": "Yahoo",
+   "published": "2026-11-03T21:24:46+00:00",
+   "tickers": [
+    "AMGN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "b1e3482acf39",
+   "headline": "Pfizer (PFE) Q3 2026 Earnings Call Transcript",
+   "summary": "Pfizer lifts guidance as newer drugs grow, even as COVID sales keep falling.",
+   "url": "https://finnhub.io/api/news?id=54cf2cdd3555f7a1d099be1f763f906801719114bb562fda56e45ba1e97372ba",
+   "source": "Yahoo",
+   "published": "2026-11-03T21:19:42+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "d73b5770347a",
+   "headline": "Illumina (ILMN) Selected For Singapore Genome Sequencing Program Covering 450,000 People",
+   "summary": "Illumina (NasdaqGS:ILMN) has been chosen to perform whole genome sequencing for Singapore's SG-INSIGHT study under National Precision Medicine Phase III. The SG-INSIGHT project targets around 450,000 people, covering roughly one in ten\u2026",
+   "url": "https://finnhub.io/api/news?id=f88c564f3e0eae95ad72924205f98d70d59f0d927e54ee8dd27f54ea48f63735",
+   "source": "Yahoo",
+   "published": "2026-11-03T21:16:30+00:00",
+   "tickers": [
+    "ILMN"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "6061c4f8d881",
+   "headline": "Apple, Palantir, Pfizer, Marvell, AMD, Bloom Energy, Gartner, and More Stocks That Explain Today\u2019s Market",
+   "summary": "Apple falls after the iPhone maker\u2019s guidance fails to meet investors\u2019 high bar.",
+   "url": "https://finnhub.io/api/news?id=4a1c1a5f2bbf2ce994b251c5a1229ae53dd8d66167dabc857cd0a767af92a13b",
+   "source": "Yahoo",
+   "published": "2026-11-03T21:16:00+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "a394c11a8bc8",
    "headline": "Jazz Pharmaceuticals to Participate in Upcoming Investor Conferences",
    "summary": "Jazz Pharmaceuticals plc (Nasdaq: JAZZ) today announced that company management will participate in fireside chats at the following investor conferences:",
@@ -983,6 +1058,21 @@
    ]
   },
   {
+   "id": "d06cc5e8f3be",
+   "headline": "Amgen: Q3 Earnings Snapshot",
+   "summary": "(AMGN) on Tuesday reported third-quarter net income of $3.On a per-share basis, the Thousand Oaks, California-based company said it had profit of $7.",
+   "url": "https://finnhub.io/api/news?id=a550cf60dbcef39ec62d7d78d51d884d152a86d59dde41b2a5225f9988d516c2",
+   "source": "Yahoo",
+   "published": "2026-11-03T21:12:40+00:00",
+   "tickers": [
+    "AMGN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "4907757babe0",
    "headline": "Patterson Companies Appoints Ryan Steines as Chief Financial Officer",
    "summary": "ST. PAUL, Minn., November 03, 2026--Patterson Companies, Inc. today announced the appointment of Ryan Steines as Chief Financial Officer, effective Nov. 3, 2026.",
@@ -993,6 +1083,21 @@
     "MDT"
    ],
    "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "40d3ac87caaa",
+   "headline": "GE HealthCare Technologies (GEHC) Unveils New Imaging Tools, Is It Still 8% Undervalued?",
+   "summary": "GE HealthCare Technologies (GEHC) has drawn fresh attention after unveiling the Allia Celeo ceiling-mounted image guiding system and new AI-assisted features for its Vscan Air handheld ultrasound, highlighting a sharper push into advanced\u2026",
+   "url": "https://finnhub.io/api/news?id=3cc525750cad7da51a1cd72c8537ceb59e21cde49974ca19d07ba6e3c9b8b542",
+   "source": "Yahoo",
+   "published": "2026-11-03T21:09:05+00:00",
+   "tickers": [
+    "GEHC"
+   ],
+   "tag": "Health AI",
    "sectors": [
     "medtech"
    ]
@@ -1025,6 +1130,21 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "b181968de002",
+   "headline": "Exelixis to Webcast Fireside Chats as Part of Upcoming Investor Conferences in November",
+   "summary": "ALAMEDA, Calif., November 03, 2026--Exelixis, Inc. (Nasdaq: EXEL) today announced that company management will participate in fireside chats at the following investor conferences in November:",
+   "url": "https://finnhub.io/api/news?id=eb7502b60111b019c93f7accc6f2c00a3a3a334009325f3f10fa8ffe4604b9a5",
+   "source": "Yahoo",
+   "published": "2026-11-03T21:05:00+00:00",
+   "tickers": [
+    "EXEL"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -1073,6 +1193,21 @@
    ]
   },
   {
+   "id": "3044ef9af875",
+   "headline": "AMGEN REPORTS THIRD QUARTER 2026 FINANCIAL RESULTS",
+   "summary": "Amgen (NASDAQ: AMGN) today announced financial results for the third quarter of 2026.",
+   "url": "https://finnhub.io/api/news?id=0bab98a152793557d23dc15e404d96b0b0714fc4dc9dabe1b8b22f67f2f89a2c",
+   "source": "Yahoo",
+   "published": "2026-11-03T21:01:00+00:00",
+   "tickers": [
+    "AMGN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "a24026e6595b",
    "headline": "Arrowhead Pharmaceuticals to Webcast 2026 Fiscal Year-End Results",
    "summary": "PASADENA, Calif., November 03, 2026--Arrowhead Pharmaceuticals, Inc. (NASDAQ: ARWR) today announced that it will host a webcast and conference call on November 12, 2026, at 4:30 p.m. ET to discuss its financial results for the 2026 fiscal\u2026",
@@ -1085,6 +1220,21 @@
    "tag": "Earnings",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "3a1932f8f804",
+   "headline": "Sector Update: Healthcare Stocks Softer Late Afternoon",
+   "summary": "Healthcare stocks were lower late Tuesday afternoon, with the NYSE Healthcare Index easing 0.2% and",
+   "url": "https://finnhub.io/api/news?id=739deffa818c3bb460b8fb582c9886a9202b64c63daa2a0fe6ff30dab0cb6529",
+   "source": "Yahoo",
+   "published": "2026-11-03T20:57:27+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1147,6 +1297,7 @@
    "source": "Yahoo",
    "published": "2026-11-03T19:54:31+00:00",
    "tickers": [
+    "ABT",
     "BDX",
     "JNJ",
     "MDT"
@@ -2839,6 +2990,21 @@
    "tag": "Earnings",
    "sectors": [
     "healthit"
+   ]
+  },
+  {
+   "id": "a1f42ac3c384",
+   "headline": "Is Wall Street Bullish or Bearish on Amgen Stock?",
+   "summary": "Amgen has outperformed the broader market over the past year, and analysts are moderately optimistic about the stock\u2019s prospects.",
+   "url": "https://finnhub.io/api/news?id=6cacff772ab5f75f714afe95935abf3326a73dfbebc10012b75df9e767803da6",
+   "source": "Yahoo",
+   "published": "2026-11-03T14:18:12+00:00",
+   "tickers": [
+    "AMGN"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "pharma"
    ]
   },
   {
