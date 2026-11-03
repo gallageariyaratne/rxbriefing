@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-03T10:17:43.391490+00:00",
+ "updated": "2026-11-03T10:32:34.539763+00:00",
  "quotes": {
   "A": {
    "price": 171.99,
@@ -258,10 +258,6 @@
    "price": 36.41,
    "change_pct": -0.65
   },
-  "OPCH": {
-   "price": 31.69,
-   "change_pct": -0.44
-  },
   "OSCR": {
    "price": 31,
    "change_pct": 2.07
@@ -321,6 +317,10 @@
   "TMO": {
    "price": 682.65,
    "change_pct": -2.06
+  },
+  "TWST": {
+   "price": 129.04,
+   "change_pct": -15.54
   }
  },
  "tickers": {
@@ -999,6 +999,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "d8f73feae460",
+   "headline": "2 unpopular stocks that deserve some love and 1 we avoid",
+   "summary": "Wall Street\u2019s bearish price targets for the stocks in this article signal serious concerns. Such forecasts are uncommon in an industry where maintaining cordial corporate relationships often trumps delivering the hard truth.",
+   "url": "https://finnhub.io/api/news?id=fa40a64c931fde3439580c9ddadd532b5ba3c48bf0eb9a24c74d9fff72618ea0",
+   "source": "Yahoo",
+   "published": "2026-11-03T09:25:36+00:00",
+   "tickers": [
+    "THC"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "payers"
+   ]
   },
   {
    "id": "ab32bbca2a33",
@@ -49134,21 +49149,6 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
-   ]
-  },
-  {
-   "id": "c58a5216c713",
-   "headline": "Amgen says drug combo cuts risk of death by 58% in patients with aggressive lung cancer",
-   "summary": "A drug from Amgen could give patients with an aggressive form of lung cancer significantly more time to live when added to an immunotherapy from AstraZeneca.",
-   "url": "https://finnhub.io/api/news?id=ef7c9153b81a0a250ec48c531133f8f2912c7ea2ce2b0418089eec81ffb07460",
-   "source": "CNBC",
-   "published": "2026-10-24T10:30:01+00:00",
-   "tickers": [
-    "AMGN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
