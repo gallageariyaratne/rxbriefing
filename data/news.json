@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-03T05:17:41.233000+00:00",
+ "updated": "2026-11-03T05:32:43.986929+00:00",
  "quotes": {
   "A": {
    "price": 171.99,
@@ -278,6 +278,10 @@
    "price": 60.88,
    "change_pct": 1.52
   },
+  "QGEN": {
+   "price": 50.35,
+   "change_pct": 0.26
+  },
   "REGN": {
    "price": 961.26,
    "change_pct": 3.6
@@ -317,10 +321,6 @@
   "TMO": {
    "price": 682.65,
    "change_pct": -2.06
-  },
-  "TWST": {
-   "price": 129.04,
-   "change_pct": -15.54
   }
  },
  "tickers": {
@@ -1156,6 +1156,21 @@
    "published": "2026-11-03T01:00:00+00:00",
    "tickers": [
     "ILMN"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "c4bd0a2f34f8",
+   "headline": "Ultima Genomics Major Sequencing Award for Singapore's National Precision Medicine (NPM) Program Phase III",
+   "summary": "Ultima Genomics, a company offering a new architecture for enabling ultra-high-throughput next generation sequencing, today announced that its UG200 Sequencing Platform has been selected for the SG-INSIGHT study, a cohort under Phase III\u2026",
+   "url": "https://finnhub.io/api/news?id=dae27523201efb7f4a52676f242a55f7868d5be804b5f6cc5ccd2b8518180fe0",
+   "source": "Yahoo",
+   "published": "2026-11-03T01:00:00+00:00",
+   "tickers": [
+    "QGEN"
    ],
    "tag": "Clinical",
    "sectors": [
