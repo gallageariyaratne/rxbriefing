@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-03T22:17:34.387930+00:00",
+ "updated": "2026-11-03T22:32:39.061752+00:00",
  "quotes": {
   "A": {
    "price": 175.46,
@@ -37,6 +37,10 @@
   "ARGX": {
    "price": 901.12,
    "change_pct": 2.99
+  },
+  "ARWR": {
+   "price": 59.53,
+   "change_pct": -0.07
   },
   "AXSM": {
    "price": 139.61,
@@ -317,10 +321,6 @@
   "VRTX": {
    "price": 530.76,
    "change_pct": -4.05
-  },
-  "WAT": {
-   "price": 459.9,
-   "change_pct": 2.31
   }
  },
  "tickers": {
@@ -968,6 +968,21 @@
    ]
   },
   {
+   "id": "a394c11a8bc8",
+   "headline": "Jazz Pharmaceuticals to Participate in Upcoming Investor Conferences",
+   "summary": "Jazz Pharmaceuticals plc (Nasdaq: JAZZ) today announced that company management will participate in fireside chats at the following investor conferences:",
+   "url": "https://finnhub.io/api/news?id=b9bf1fbfd7594dd326a460f5d7c7ff2f984044ef784ce8a65805d7fc17595b2a",
+   "source": "Yahoo",
+   "published": "2026-11-03T21:15:00+00:00",
+   "tickers": [
+    "JAZZ"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "4907757babe0",
    "headline": "Patterson Companies Appoints Ryan Steines as Chief Financial Officer",
    "summary": "ST. PAUL, Minn., November 03, 2026--Patterson Companies, Inc. today announced the appointment of Ryan Steines as Chief Financial Officer, effective Nov. 3, 2026.",
@@ -1013,6 +1028,36 @@
    ]
   },
   {
+   "id": "2e72ec200fd9",
+   "headline": "Jazz Pharmaceuticals PLC (JAZZ) (Q3 2026) Earnings Call Highlights: Record $1. ...",
+   "summary": "Jazz Pharmaceuticals PLC (JAZZ) posts 10% revenue growth on 35% oncology gains, lifts its 2026 outlook, and adds a differentiated rare epilepsy asset with the Actio Biosciences acquisition.",
+   "url": "https://finnhub.io/api/news?id=1eecff4e256dc08203887d505026679e3849f4c2cdaf1bde59cdfe4f0404f5b2",
+   "source": "Yahoo",
+   "published": "2026-11-03T21:02:27+00:00",
+   "tickers": [
+    "JAZZ"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "281cc0e229be",
+   "headline": "Globus Medical Acquires Synaptive Medical, Strengthening Its Position in Cranial Neurosurgery",
+   "summary": "AUDUBON, Pa., Nov. 03, 2026 (GLOBE NEWSWIRE) -- Globus Medical, Inc. a leading musculoskeletal technology company, today announced that it completed the acquisition of Synaptive Medical, deepening the Company's presence in cranial\u2026",
+   "url": "https://finnhub.io/api/news?id=ac8de00e4ea879cbff35d19541c06527147167fe76560f3dcaf36fd400fee2cf",
+   "source": "Yahoo",
+   "published": "2026-11-03T21:02:00+00:00",
+   "tickers": [
+    "GMED"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "a2f1c946b7df",
    "headline": "AMGEN REPORTS THIRD QUARTER 2026 FINANCIAL RESULTS",
    "summary": "THOUSAND OAKS, Calif., Nov. 3, 2026 /PRNewswire/ -- Amgen (NASDAQ: AMGN) today announced financial results for the third quarter of 2026. \"Amgen delivered another strong quarter as our strategy for long-term growth continued to produce\u2026",
@@ -1025,6 +1070,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "a24026e6595b",
+   "headline": "Arrowhead Pharmaceuticals to Webcast 2026 Fiscal Year-End Results",
+   "summary": "PASADENA, Calif., November 03, 2026--Arrowhead Pharmaceuticals, Inc. (NASDAQ: ARWR) today announced that it will host a webcast and conference call on November 12, 2026, at 4:30 p.m. ET to discuss its financial results for the 2026 fiscal\u2026",
+   "url": "https://finnhub.io/api/news?id=eda1fa68f4d764a17fce24854b7810a1cb3afc861fc065583953ff72aadabe5f",
+   "source": "Yahoo",
+   "published": "2026-11-03T21:00:00+00:00",
+   "tickers": [
+    "ARWR"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -1088,6 +1148,7 @@
    "published": "2026-11-03T19:54:31+00:00",
    "tickers": [
     "BDX",
+    "JNJ",
     "MDT"
    ],
    "tag": "News",
@@ -1803,6 +1864,21 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "799a33f86803",
+   "headline": "Veeva: A Premium Business With More Room To Compound",
+   "summary": "Veeva earns a Buy rating, justified by re-accelerating revenue growth, rare 45% operating margins, and sticky regulated software. Read more on VEEV stock here.",
+   "url": "https://finnhub.io/api/news?id=036c9aa2e11d58ab6a8a92b18500e467fd02283eee28b140483a2b8d81aa4c57",
+   "source": "SeekingAlpha",
+   "published": "2026-11-03T17:07:58+00:00",
+   "tickers": [
+    "VEEV"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
    ]
   },
   {
@@ -54122,22 +54198,6 @@
    "tag": "News",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "528e6ea03b2a",
-   "headline": "Forget Casgevy: CRISPR Therapeutics' Heart-Disease Data Could Matter More",
-   "summary": "The company's gene-editing-focused platform looks promising.",
-   "url": "https://finnhub.io/api/news?id=4eaf0acb3316447083c94261a89a31b2ccf18e13aba019c2cc4b936fea495114",
-   "source": "Yahoo",
-   "published": "2026-10-24T22:20:00+00:00",
-   "tickers": [
-    "CRSP",
-    "VRTX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
