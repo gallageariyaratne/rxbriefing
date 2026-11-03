@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-03T02:02:47.107179+00:00",
+ "updated": "2026-11-03T02:17:32.417744+00:00",
  "quotes": {
   "A": {
    "price": 171.99,
@@ -9,6 +9,10 @@
   "ABBV": {
    "price": 288.84,
    "change_pct": -2.05
+  },
+  "ABSI": {
+   "price": 9.69,
+   "change_pct": -12.94
   },
   "ABT": {
    "price": 110.16,
@@ -122,6 +126,10 @@
    "price": 79.55,
    "change_pct": 3.89
   },
+  "GH": {
+   "price": 170.73,
+   "change_pct": -4.51
+  },
   "GILD": {
    "price": 170.33,
    "change_pct": -0.21
@@ -185,6 +193,10 @@
   "LEGN": {
    "price": 21.1,
    "change_pct": -2.45
+  },
+  "LFST": {
+   "price": 13.26,
+   "change_pct": -1.04
   },
   "LH": {
    "price": 355.59,
@@ -282,6 +294,10 @@
    "price": 129.04,
    "change_pct": -15.54
   },
+  "TXG": {
+   "price": 61.63,
+   "change_pct": -12.1
+  },
   "UHS": {
    "price": 180.65,
    "change_pct": 2.61
@@ -305,22 +321,6 @@
   "VRTX": {
    "price": 553.15,
    "change_pct": -1.03
-  },
-  "WAT": {
-   "price": 449.53,
-   "change_pct": -2.85
-  },
-  "WAY": {
-   "price": 28.14,
-   "change_pct": 0.5
-  },
-  "ZBH": {
-   "price": 97.35,
-   "change_pct": 2.99
-  },
-  "ZTS": {
-   "price": 83.18,
-   "change_pct": 4.34
   }
  },
  "tickers": {
@@ -1133,6 +1133,21 @@
    ]
   },
   {
+   "id": "37accde3d993",
+   "headline": "Neurocrine Biosciences (NBIX) Q3 Earnings and Revenues Top Estimates",
+   "summary": "Neurocrine (NBIX) delivered earnings and revenue surprises of +29.53% and +8.12%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=864ed77e3b91ed4bbd759cf777911078a6bfffb33448220c8e41d0935b93e8aa",
+   "source": "Yahoo",
+   "published": "2026-11-02T23:10:05+00:00",
+   "tickers": [
+    "NBIX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "83f98da6db2f",
    "headline": "BioMarin Pharmaceutical (NASDAQ:BMRN) Q3 EPS Beat, Revenue Miss, Soft Sales Outlook",
    "summary": "BioMarin Q3 revenue of $1.025B misses estimates and EPS of $0.23 beats, but softer full-year sales guidance sends shares down 4.8% after hours.",
@@ -1928,7 +1943,9 @@
    "source": "Yahoo",
    "published": "2026-11-02T20:46:12+00:00",
    "tickers": [
-    "ILMN"
+    "ABSI",
+    "ILMN",
+    "TXG"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -2293,6 +2310,7 @@
    "source": "Yahoo",
    "published": "2026-11-02T18:25:06+00:00",
    "tickers": [
+    "LFST",
     "THC"
    ],
    "tag": "News",
@@ -2728,6 +2746,7 @@
    "source": "Yahoo",
    "published": "2026-11-02T17:00:43+00:00",
    "tickers": [
+    "GH",
     "TEM"
    ],
    "tag": "Earnings",
@@ -3997,7 +4016,8 @@
    "source": "Yahoo",
    "published": "2026-11-02T14:00:05+00:00",
    "tickers": [
-    "CRSP"
+    "CRSP",
+    "GH"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -4142,6 +4162,36 @@
    "tag": "Analyst",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "9482705a6b75",
+   "headline": "10x Genomics Launches Sentira Single Cell, A New Agentic AI Experience for Chromium Analysis",
+   "summary": "10x Genomics, Inc. (Nasdaq: TXG), the life science technology leader focused on accelerating science and advancing human health, today announced the commercial launch of Sentira Single Cell, a cloud-based agentic analysis application that\u2026",
+   "url": "https://finnhub.io/api/news?id=622504c3924b4b884c09d9209aa02d5f39bca4f5b2fc2e676f9f41a0cbec1cc4",
+   "source": "Yahoo",
+   "published": "2026-11-02T14:00:00+00:00",
+   "tickers": [
+    "TXG"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "cddc1a2ecc65",
+   "headline": "1 profitable stock to research further and 2 we ignore",
+   "summary": "Even if a company is profitable, it doesn\u2019t always mean it\u2019s a great investment. Some struggle to maintain growth, face looming threats, or fail to reinvest wisely, limiting their future potential.",
+   "url": "https://finnhub.io/api/news?id=2fb79fe8658b0dc21e005815262843cb600cd9afa585c1198ca1ccb3bdff6e0c",
+   "source": "Yahoo",
+   "published": "2026-11-02T13:57:36+00:00",
+   "tickers": [
+    "LFST"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
    ]
   },
   {
@@ -48306,53 +48356,6 @@
    "published": "2026-10-24T03:02:03+00:00",
    "tickers": [
     "VRTX"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "81a5f8b52723",
-   "headline": "Amgen (AMGN) Reports Positive Phase 3 TEZSPIRE Results In Eosinophilic Esophagitis",
-   "summary": "Amgen (NasdaqGS:AMGN) and AstraZeneca reported positive full Phase 3 results for TEZSPIRE in eosinophilic esophagitis (EoE). The Phase 3 trial showed significant and clinically meaningful improvements in EoE symptoms and endoscopic\u2026",
-   "url": "https://finnhub.io/api/news?id=07e15ed8deec4b4889c778c89d24f4d0ab7d1dd4f3d2ed5b21588097ff55bc90",
-   "source": "Yahoo",
-   "published": "2026-10-24T02:14:40+00:00",
-   "tickers": [
-    "AMGN",
-    "AZN"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "d2eae5597e38",
-   "headline": "Arrowhead Pharmaceuticals And 2 Biotech Stocks To Own",
-   "summary": "Biotech stocks live and die on access to capital, so the Federal Reserve\u2019s signal that interest rates may pause for now gives this high risk corner of the market some breathing room. Cheaper money can make it easier to fund drug pipelines\u2026",
-   "url": "https://finnhub.io/api/news?id=5d68ab619842c1ac95b53ec51d99f579df14414d07ed1cc506ef36f85594fb9f",
-   "source": "Yahoo",
-   "published": "2026-10-24T02:09:34+00:00",
-   "tickers": [
-    "ARWR",
-    "JNJ"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "5285e7798965",
-   "headline": "Novartis Remibrutinib Cuts MS Relapses in Phase III, Eyes $4B Opportunity",
-   "summary": "Novartis (NYSE:NVS) presented Phase III results for remibrutinib in relapsing multiple sclerosis, reporting that the oral Bruton\u2019s tyrosine kinase inhibitor reduced relapse rates and MRI lesion activity versus teriflunomide in the\u2026",
-   "url": "https://finnhub.io/api/news?id=112d93cac11b5e62c021329f7d42c866d924ffe27038184603637631141ecdc6",
-   "source": "Yahoo",
-   "published": "2026-10-24T02:02:03+00:00",
-   "tickers": [
-    "NVS"
    ],
    "tag": "Clinical",
    "sectors": [
