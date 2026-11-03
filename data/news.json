@@ -1,23 +1,7 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-03T12:17:32.218743+00:00",
+ "updated": "2026-11-03T12:32:49.521230+00:00",
  "quotes": {
-  "A": {
-   "price": 171.99,
-   "change_pct": -1.65
-  },
-  "ABBV": {
-   "price": 288.84,
-   "change_pct": -2.05
-  },
-  "ABSI": {
-   "price": 9.69,
-   "change_pct": -12.94
-  },
-  "ABT": {
-   "price": 110.16,
-   "change_pct": 3.73
-  },
   "ACAD": {
    "price": 20.47,
    "change_pct": -0.58
@@ -41,10 +25,6 @@
   "ARGX": {
    "price": 874.97,
    "change_pct": -2.0
-  },
-  "ARWR": {
-   "price": 59.57,
-   "change_pct": -0.55
   },
   "ASND": {
    "price": 248.98,
@@ -105,10 +85,6 @@
   "CVS": {
    "price": 88.51,
    "change_pct": -1.93
-  },
-  "CYTK": {
-   "price": 62.03,
-   "change_pct": -1.52
   },
   "DGX": {
    "price": 250.81,
@@ -177,6 +153,10 @@
   "HUM": {
    "price": 410.41,
    "change_pct": -0.99
+  },
+  "IART": {
+   "price": 13.61,
+   "change_pct": 6.75
   },
   "IDXX": {
    "price": 671.64,
@@ -265,6 +245,10 @@
   "PFE": {
    "price": 30.67,
    "change_pct": 0.49
+  },
+  "PODD": {
+   "price": 153.61,
+   "change_pct": 2.63
   },
   "PRVA": {
    "price": 21.28,
@@ -953,6 +937,21 @@
    ]
   },
   {
+   "id": "747dbe15773e",
+   "headline": "Insulet to Participate in the 2026 Jefferies Global Healthcare Conference in London",
+   "summary": "ACTON, Mass., November 03, 2026--Insulet Corporation (NASDAQ: PODD), the global leader in tubeless insulin pump technology with its Omnipod\u00ae brand of products, today announced that management will present at the 2026 Jefferies Global\u2026",
+   "url": "https://finnhub.io/api/news?id=8c368edb1ee21278b2209ddce50ce3556459da48af6d8ac915f7d69d30226dab",
+   "source": "Yahoo",
+   "published": "2026-11-03T12:00:00+00:00",
+   "tickers": [
+    "PODD"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "e3be14de29c9",
    "headline": "SOPHiA GENETICS Reports Third Quarter 2026 Results",
    "summary": "BOSTON and ROLLE, Switzerland, Nov. 3, 2026 /PRNewswire/ -- SOPHiA GENETICS (Nasdaq: SOPH), a global leader in AI-driven precision medicine, today reported financial results for the third quarter ended September 30, 2026. Third Quarter\u2026",
@@ -965,6 +964,21 @@
    "tag": "Health AI",
    "sectors": [
     "healthai"
+   ]
+  },
+  {
+   "id": "32115a9a3fb2",
+   "headline": "1 momentum stock to keep an eye on and 2 that underwhelm",
+   "summary": "The stocks in this article are all trading near their 52-week highs. This strength often reflects positive developments such as new product launches, favorable industry trends, or improved financial performance.",
+   "url": "https://finnhub.io/api/news?id=7e617609752cf3f1752da5a384b230aad727f817039e8207c7fe2afa2fa0b522",
+   "source": "Yahoo",
+   "published": "2026-11-03T11:25:36+00:00",
+   "tickers": [
+    "VEEV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
    ]
   },
   {
@@ -983,6 +997,21 @@
    ]
   },
   {
+   "id": "1dc145ce7078",
+   "headline": "Should Strong Q3 Revenue Require Action From Vertex Pharmaceuticals (VRTX) Investors?",
+   "summary": "Vertex Pharmaceuticals reported Q3 2026 revenue of US$3.44b compared with US$3.08b a year earlier, while quarterly net income and earnings per share were lower even as nine month profit and per share earnings were slightly higher than the\u2026",
+   "url": "https://finnhub.io/api/news?id=2d1f4819fe31b1b85862e522b22b03c7f87d6496564da01e4dc08777da0d94b1",
+   "source": "Yahoo",
+   "published": "2026-11-03T11:07:09+00:00",
+   "tickers": [
+    "VRTX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "845440c6fc40",
    "headline": "ETFs Are Net Sellers of Becton Dickinson (BDX) on Oct. 30",
    "summary": "ETFs sold a net $175.1 million of Becton Dickinson shares on Friday.",
@@ -991,6 +1020,21 @@
    "published": "2026-11-03T11:02:29+00:00",
    "tickers": [
     "BDX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "045fde743292",
+   "headline": "Boston Scientific and Blackstone agree on $455m VITALYST heart pump deal",
+   "summary": "VITALYST is a microaxial flow pump designed to improve efficacy and safety for critically ill cardiogenic shock patients.",
+   "url": "https://finnhub.io/api/news?id=d9079f7da6815b77bbc9bcca5dbd1bbb2fc77e02815f282504ac55bbe385845c",
+   "source": "Yahoo",
+   "published": "2026-11-03T10:44:33+00:00",
+   "tickers": [
+    "BSX"
    ],
    "tag": "News",
    "sectors": [
@@ -1148,6 +1192,21 @@
    "tag": "News",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "234862354194",
+   "headline": "Ramsay G\u00e9n\u00e9rale de Sant\u00e9 (ENXTPA:GDS) Stock Could Be Undervalued On Sales Alone",
+   "summary": "Ramsay G\u00e9n\u00e9rale de Sant\u00e9 has seen its share price under pressure in recent years, which naturally puts the focus on whether the current \u20ac8.80 level is adequately explained by the revenue it generates. With that backdrop, the key issue for\u2026",
+   "url": "https://finnhub.io/api/news?id=b659cfcb56229f6f9a68fa05dfb15af0684f4efe20740d240a143d07c7f2aace",
+   "source": "Yahoo",
+   "published": "2026-11-03T08:15:07+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1723,6 +1782,21 @@
    ]
   },
   {
+   "id": "2cbe180aaed9",
+   "headline": "Integra LifeSciences Holdings (IART) Could Be 41% Undervalued On Third Quarter Profit Turnaround",
+   "summary": "Integra LifeSciences Holdings: Why Third Quarter Earnings Matter Now Integra LifeSciences Holdings (IART) has drawn fresh attention after third quarter 2026 results showed sales of US$411.18 million and a move from a prior net loss to\u2026",
+   "url": "https://finnhub.io/api/news?id=a0ba7f051161d112aa7d19f955eaa0b3617b357ecbb72526fff5680fa311584c",
+   "source": "Yahoo",
+   "published": "2026-11-03T01:24:20+00:00",
+   "tickers": [
+    "IART"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "3e7003a48168",
    "headline": "BioMarin (BMRN) Stock May Be A Bargain After Fabry Therapy Deal",
    "summary": "BioMarin Pharmaceutical has been busy, with a large acquisition, fresh Fabry disease assets and a stock price that is still down over the longer stretch, which naturally raises a question about how much investors are paying today for the\u2026",
@@ -2063,6 +2137,7 @@
    "published": "2026-11-02T23:34:00+00:00",
    "tickers": [
     "ILMN",
+    "NVS",
     "TEM"
    ],
    "tag": "Earnings",
