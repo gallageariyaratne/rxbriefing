@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-03T02:47:37.419571+00:00",
+ "updated": "2026-11-03T03:02:49.420538+00:00",
  "quotes": {
   "A": {
    "price": 171.99,
@@ -29,6 +29,10 @@
   "AMGN": {
    "price": 465.45,
    "change_pct": -0.12
+  },
+  "AMWL": {
+   "price": 12.52,
+   "change_pct": -1.65
   },
   "ARWR": {
    "price": 59.57,
@@ -178,6 +182,10 @@
    "price": 109.31,
    "change_pct": -2.9
   },
+  "IONS": {
+   "price": 41.24,
+   "change_pct": -5.24
+  },
   "ISRG": {
    "price": 436.87,
    "change_pct": 1.12
@@ -233,6 +241,10 @@
   "NBIX": {
    "price": 145.35,
    "change_pct": -0.51
+  },
+  "NTRA": {
+   "price": 378.92,
+   "change_pct": -8.54
   },
   "NVO": {
    "price": 40.45,
@@ -294,6 +306,10 @@
    "price": 78.48,
    "change_pct": 8.67
   },
+  "TGTX": {
+   "price": 59.95,
+   "change_pct": -2.01
+  },
   "THC": {
    "price": 268.89,
    "change_pct": -1.6
@@ -305,22 +321,6 @@
   "TWST": {
    "price": 129.04,
    "change_pct": -15.54
-  },
-  "TXG": {
-   "price": 61.63,
-   "change_pct": -12.1
-  },
-  "UHS": {
-   "price": 180.65,
-   "change_pct": 2.61
-  },
-  "UNH": {
-   "price": 400.44,
-   "change_pct": -1.6
-  },
-  "UTHR": {
-   "price": 596.13,
-   "change_pct": -0.43
   }
  },
  "tickers": {
@@ -968,6 +968,21 @@
    ]
   },
   {
+   "id": "86ba5bbc895a",
+   "headline": "What Waystar (WAY) Said on Its Q3 Earnings Call",
+   "summary": "Waystar (NASDAQ:WAY) reported third-quarter 2026 revenue of $326 million, up 21% year over year, as the healthcare revenue-cycle technology company cited growth in subscriptions, larger customer relationships and demand for its AI-enabled\u2026",
+   "url": "https://finnhub.io/api/news?id=635daa066dd035b6b8cdce401c630b95bc181eb2578e1a2c40a046d56bee2cfe",
+   "source": "Yahoo",
+   "published": "2026-11-03T01:14:07+00:00",
+   "tickers": [
+    "WAY"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "1a158916548a",
    "headline": "Jazz Pharmaceuticals Q3 Earnings Call Highlights",
    "summary": "Jazz Pharmaceuticals (NASDAQ:JAZZ) reported record third-quarter revenue of $1.24 billion, up 10% from a year earlier, and raised its full-year 2026 revenue outlook as growth in its sleep and oncology businesses offset product-specific\u2026",
@@ -1038,6 +1053,21 @@
     "ABT"
    ],
    "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "cb162227b51d",
+   "headline": "IDEXX stock soars 21.9% after earnings beat and higher outlook",
+   "summary": "The veterinary diagnostics company saw sales and profit grow more than Wall Street expected.",
+   "url": "https://finnhub.io/api/news?id=435ea864d0603d50acbcb48a15e0c9c49f1ccd760931bf8c058671d73228f38f",
+   "source": "Yahoo",
+   "published": "2026-11-03T00:00:44+00:00",
+   "tickers": [
+    "IDXX"
+   ],
+   "tag": "Earnings",
    "sectors": [
     "medtech"
    ]
@@ -1240,6 +1270,21 @@
    ]
   },
   {
+   "id": "02a45e7c539a",
+   "headline": "Inspire Medical Systems (INSP) Q3 Earnings and Revenues Beat Estimates",
+   "summary": "Inspire (INSP) delivered earnings and revenue surprises of +40.00% and +1.17%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=4e22026db629ea6102a8a13c4da725cde83d53061609e24debf9af123086359d",
+   "source": "Yahoo",
+   "published": "2026-11-02T23:10:05+00:00",
+   "tickers": [
+    "AMWL"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "297c888e5485",
    "headline": "Hinge Health Inc. (HNGE) Beats Q3 Earnings and Revenue Estimates",
    "summary": "Hinge Health Inc. (HNGE) delivered earnings and revenue surprises of +12.70% and +4.33%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
@@ -1267,6 +1312,21 @@
    "tag": "Earnings",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "19d537b8d1ac",
+   "headline": "Waystar shares tumble 7% on weak fiscal 2026 guidance",
+   "summary": "Investing.com -- Waystar Holding Corp (NASDAQ:WAY) reported third quarter results that exceeded analyst expectations, but shares fell 7.3% in after-hours trading Monday as the company's full-year guidance disappointed investors.",
+   "url": "https://finnhub.io/api/news?id=341386dfe964c9f2db801132463175211678f0c9b28d3fec3903ec85ad0f98e3",
+   "source": "Yahoo",
+   "published": "2026-11-02T23:05:05+00:00",
+   "tickers": [
+    "WAY"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
    ]
   },
   {
@@ -1438,6 +1498,21 @@
    ]
   },
   {
+   "id": "d395dea712d3",
+   "headline": "Waystar (WAY) Q3 Earnings: Taking a Look at Key Metrics Versus Estimates",
+   "summary": "While the top- and bottom-line numbers for Waystar (WAY) give a sense of how the business performed in the quarter ended September 2026, it could be worth looking at how some of its key metrics compare to Wall Street estimates and\u2026",
+   "url": "https://finnhub.io/api/news?id=303857c325b37aa0b05dc5d5bb494a92bace4187bc798bbc3c3c926e488c5d29",
+   "source": "Yahoo",
+   "published": "2026-11-02T22:00:02+00:00",
+   "tickers": [
+    "WAY"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "bce9fec67d4e",
    "headline": "BMY Q3 deep dive: pipeline advances offset margin pressure as guidance shifts",
    "summary": "Biopharmaceutical company Bristol Myers Squibb (NYSE:BMY) reported Q3 2026 results beating Wall Street\u2019s revenue expectations, with sales up 6.9% year on year to $13.07 billion. The company expects the full year\u2019s revenue to be around $50\u2026",
@@ -1467,6 +1542,21 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "6d20412286e8",
+   "headline": "Waystar Holding (WAY) Beats Q3 Earnings and Revenue Estimates",
+   "summary": "Waystar (WAY) delivered earnings and revenue surprises of +7.32% and +0.47%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=6301ba1931c36ce13187169508538c1bed61d15b15fd678b8f969cbc20b964fa",
+   "source": "Yahoo",
+   "published": "2026-11-02T21:55:07+00:00",
+   "tickers": [
+    "WAY"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
    ]
   },
   {
@@ -1715,6 +1805,21 @@
    ]
   },
   {
+   "id": "d3bbb3be43c1",
+   "headline": "Ionis to hold third quarter 2026 financial results webcast",
+   "summary": "CARLSBAD, Calif., November 02, 2026--Ionis Pharmaceuticals, Inc. (Nasdaq: IONS) announced today that it will host a live webcast on Monday, November 9 at 9:00 a.m. Eastern Time to discuss its third quarter 2026 financial results and\u2026",
+   "url": "https://finnhub.io/api/news?id=2986c56e8ed9413da958af871287ee001cd3d10778a7dc3299517b2b674e62c9",
+   "source": "Yahoo",
+   "published": "2026-11-02T21:27:00+00:00",
+   "tickers": [
+    "IONS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "e784772f4a08",
    "headline": "BioMarin Pharmaceutical (NASDAQ:BMRN) reports Q3 2026 in line with expectations but full-year sales guidance misses expectations",
    "summary": "Biotech company BioMarin Pharmaceutical (NASDAQ:BMRN) met Wall Street\u2019s revenue expectations in Q3 2026, with revenue up 32% year on year to $1.02 billion. On the other hand, the company\u2019s full-year revenue guidance of $3.85 billion at\u2026",
@@ -1934,6 +2039,21 @@
    "tag": "Health AI",
    "sectors": [
     "healthai"
+   ]
+  },
+  {
+   "id": "4ca715f4c086",
+   "headline": "Waystar Reports Third Quarter 2026 Results",
+   "summary": "Waystar Holding Corp. (Nasdaq: WAY), a provider of leading healthcare payment software, today reported results for the third quarter ended September 30, 2026.",
+   "url": "https://finnhub.io/api/news?id=318866da522c7ad7c737b3b17298720dff2354658b0dd729c25f085281d853fe",
+   "source": "Yahoo",
+   "published": "2026-11-02T21:05:00+00:00",
+   "tickers": [
+    "WAY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
    ]
   },
   {
@@ -2870,6 +2990,7 @@
    "published": "2026-11-02T17:00:43+00:00",
    "tickers": [
     "GH",
+    "NTRA",
     "TEM"
    ],
    "tag": "Earnings",
@@ -3337,6 +3458,21 @@
    "tag": "Earnings",
    "sectors": [
     "healthai"
+   ]
+  },
+  {
+   "id": "8af7a605e531",
+   "headline": "ETON Gears Up to Report Q3 Earnings: What Can Investors Expect?",
+   "summary": "Eton's Q3 growth is likely to have been driven by rising sales of Increlex, Alkindi Sprinkle and other key products, alongside contributions from recent launches.",
+   "url": "https://finnhub.io/api/news?id=aa500ad45338b0fa2f1403097e249aa98981f449fdb1ce17f2b78f2353899bb5",
+   "source": "Yahoo",
+   "published": "2026-11-02T16:00:00+00:00",
+   "tickers": [
+    "TGTX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -3857,6 +3993,7 @@
     "ALNY",
     "BIIB",
     "GILD",
+    "IONS",
     "REGN",
     "VRTX"
    ],
@@ -5302,6 +5439,21 @@
    ]
   },
   {
+   "id": "846e9e817e59",
+   "headline": "TG Therapeutics to Host Conference Call on Third Quarter 2026 Financial Results and Business Update",
+   "summary": "NEW YORK, November 02, 2026--TG Therapeutics, Inc. (NASDAQ: TGTX), today announced that a conference call will be held, Monday, November 9, 2026, at 8:30 AM ET to discuss results for the third quarter 2026 and to provide a business\u2026",
+   "url": "https://finnhub.io/api/news?id=ef7a16803dc148333b12e01e0d5d8524ec915918cca73fe70dbc51d3cda6c59b",
+   "source": "Yahoo",
+   "published": "2026-11-02T12:30:00+00:00",
+   "tickers": [
+    "TGTX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "8b1626fedfb2",
    "headline": "Dexcom lifts 2026 revenue outlook after positive Q3",
    "summary": "Dexcom now expects 2026 revenues to land in the $5.2bn to $5.25bn range, up from $5.18bn at the low-end as previously outlined.",
@@ -5549,7 +5701,8 @@
    "source": "Yahoo",
    "published": "2026-11-02T11:44:00+00:00",
    "tickers": [
-    "TECH"
+    "TECH",
+    "TGTX"
    ],
    "tag": "M&A",
    "sectors": [
@@ -21379,7 +21532,8 @@
    "published": "2026-10-29T15:21:38+00:00",
    "tickers": [
     "AXSM",
-    "ENSG"
+    "ENSG",
+    "IDXX"
    ],
    "tag": "Earnings",
    "sectors": [
