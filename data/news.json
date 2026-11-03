@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-03T22:02:10.291754+00:00",
+ "updated": "2026-11-03T22:17:34.387930+00:00",
  "quotes": {
   "A": {
    "price": 175.46,
@@ -222,10 +222,6 @@
    "price": 159.26,
    "change_pct": -1.4
   },
-  "OMCL": {
-   "price": 35.46,
-   "change_pct": -2.61
-  },
   "PFE": {
    "price": 30,
    "change_pct": -2.18
@@ -321,6 +317,10 @@
   "VRTX": {
    "price": 530.76,
    "change_pct": -4.05
+  },
+  "WAT": {
+   "price": 459.9,
+   "change_pct": 2.31
   }
  },
  "tickers": {
@@ -953,6 +953,36 @@
    ]
   },
   {
+   "id": "708978cc52da",
+   "headline": "Kevin Sayer Joins Guardant Health Board of Directors",
+   "summary": "PALO ALTO, Calif., November 03, 2026--Guardant Health, Inc. (Nasdaq: GH), a leading precision oncology company, today announced the appointment of Kevin Sayer to its board of directors. Mr. Sayer is former CEO of Dexcom, Inc. and current\u2026",
+   "url": "https://finnhub.io/api/news?id=bce3289bca83d976dcb365a9194d6a2881bd3571b9f1b7f9916b39edcb5bc991",
+   "source": "Yahoo",
+   "published": "2026-11-03T21:30:00+00:00",
+   "tickers": [
+    "DXCM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "4907757babe0",
+   "headline": "Patterson Companies Appoints Ryan Steines as Chief Financial Officer",
+   "summary": "ST. PAUL, Minn., November 03, 2026--Patterson Companies, Inc. today announced the appointment of Ryan Steines as Chief Financial Officer, effective Nov. 3, 2026.",
+   "url": "https://finnhub.io/api/news?id=a167f70fb414490993c4a304e8a6d1931e19a0549a45b674cb5536fdc6d79cb8",
+   "source": "Yahoo",
+   "published": "2026-11-03T21:10:00+00:00",
+   "tickers": [
+    "MDT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "01a1d54ea18e",
    "headline": "Neurocrine Biosciences to Spotlight Its Scientific Journey and Growing Neuropsychiatry Pipeline at 2026 NEI Fall Congress",
    "summary": "SAN DIEGO, Nov. 3, 2026 /PRNewswire/ -- Neurocrine Biosciences, Inc. (Nasdaq: NBIX) today announced its participation in the 2026 Neuroscience Education Institute (NEI) Fall Congress, taking place Nov. 5-8 in Colorado Springs, Colo.\u2026",
@@ -1047,6 +1077,22 @@
    "tag": "FDA",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "b2eb5669f5fa",
+   "headline": "Should You Buy Baxter Stock For Its Cash?",
+   "summary": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://finnhub.io/api/news?id=133f617da8488d7cbc514fd0b24189781525a22afed5eef5f5290f4256f8fd80",
+   "source": "Yahoo",
+   "published": "2026-11-03T19:54:31+00:00",
+   "tickers": [
+    "BDX",
+    "MDT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -1975,6 +2021,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "efae92fc49f0",
+   "headline": "BioNTech SE (BNTX) Q3 2026 Earnings Call Transcript",
+   "summary": "",
+   "url": "https://finnhub.io/api/news?id=d3c740bdc1a692c2dec3fac045449baeb8ea0d4aa865aa92c0af5af668493a2b",
+   "source": "SeekingAlpha",
+   "published": "2026-11-03T16:16:06+00:00",
+   "tickers": [
+    "BNTX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -54075,36 +54136,6 @@
     "VRTX"
    ],
    "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "808d079bb45c",
-   "headline": "Pfizer And 2 Other AI Healthcare Stocks To Watch",
-   "summary": "Warning signs around heavily indebted AI infrastructure firms have grown louder after analysts raised the risk of a tech debt spiral, with some newer players struggling to finance data centers and high-end chips. That strain shifts\u2026",
-   "url": "https://finnhub.io/api/news?id=5879be54ec187cc6861d2f250a3a13733d6b1037c3ff06004c8211877b000cab",
-   "source": "Yahoo",
-   "published": "2026-10-24T22:09:44+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "6f211be94ee8",
-   "headline": "Moderna Melanoma Therapy Cuts Recurrence Risk 42% in Phase 3 Trial",
-   "summary": "Moderna (NASDAQ:MRNA) presented Phase 3 results for intismeran, its individualized neoantigen therapy, in combination with Merck\u2019s pembrolizumab for patients with resected high-risk melanoma. The INTerpath-001 trial met its primary\u2026",
-   "url": "https://finnhub.io/api/news?id=36496c13e3aa0140f6b806a54569f570dadc198bbce8eab0d2dcabd99315d3c2",
-   "source": "Yahoo",
-   "published": "2026-10-24T22:02:03+00:00",
-   "tickers": [
-    "MRNA"
-   ],
-   "tag": "Clinical",
    "sectors": [
     "pharma"
    ]
