@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-03T02:17:32.417744+00:00",
+ "updated": "2026-11-03T02:32:39.430289+00:00",
  "quotes": {
   "A": {
    "price": 171.99,
@@ -33,6 +33,10 @@
   "ARWR": {
    "price": 59.57,
    "change_pct": -0.55
+  },
+  "ASND": {
+   "price": 248.98,
+   "change_pct": -0.91
   },
   "AXSM": {
    "price": 136.01,
@@ -242,6 +246,10 @@
    "price": 31.69,
    "change_pct": -0.44
   },
+  "OSCR": {
+   "price": 31,
+   "change_pct": 2.07
+  },
   "PFE": {
    "price": 30.67,
    "change_pct": 0.49
@@ -313,14 +321,6 @@
   "VEEV": {
    "price": 307,
    "change_pct": -1.9
-  },
-  "VKTX": {
-   "price": 26.83,
-   "change_pct": -1.65
-  },
-  "VRTX": {
-   "price": 553.15,
-   "change_pct": -1.03
   }
  },
  "tickers": {
@@ -938,6 +938,51 @@
  },
  "stories": [
   {
+   "id": "3e7003a48168",
+   "headline": "BioMarin (BMRN) Stock May Be A Bargain After Fabry Therapy Deal",
+   "summary": "BioMarin Pharmaceutical has been busy, with a large acquisition, fresh Fabry disease assets and a stock price that is still down over the longer stretch, which naturally raises a question about how much investors are paying today for the\u2026",
+   "url": "https://finnhub.io/api/news?id=c0390b5953bd85205de0496bb485979c45934d265af06f16b1683014047e229f",
+   "source": "Yahoo",
+   "published": "2026-11-03T01:24:10+00:00",
+   "tickers": [
+    "BMRN"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "6faec9b84be5",
+   "headline": "Jazz Pharmaceuticals (JAZZ) Stock Could Be Undervalued On Ziihera Launch News",
+   "summary": "Jazz Pharmaceuticals has delivered a strong multi year share price run alongside high profile product and pipeline news, which naturally raises the question of whether its current valuation is still grounded in the earnings backing the\u2026",
+   "url": "https://finnhub.io/api/news?id=bd51cc3b72e79368098ef18fef0cd4c70d85ed901b7a698b77499df96d9d0d75",
+   "source": "Yahoo",
+   "published": "2026-11-03T01:22:06+00:00",
+   "tickers": [
+    "JAZZ"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "1a158916548a",
+   "headline": "Jazz Pharmaceuticals Q3 Earnings Call Highlights",
+   "summary": "Jazz Pharmaceuticals (NASDAQ:JAZZ) reported record third-quarter revenue of $1.24 billion, up 10% from a year earlier, and raised its full-year 2026 revenue outlook as growth in its sleep and oncology businesses offset product-specific\u2026",
+   "url": "https://finnhub.io/api/news?id=b90367afd8d188559ffb712db6137883f22ba228f87bd9b28e39fce58d248158",
+   "source": "Yahoo",
+   "published": "2026-11-03T01:14:06+00:00",
+   "tickers": [
+    "JAZZ"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "b77c56a31890",
    "headline": "Illumina selected to help bring precision medicine into everyday healthcare in Singapore",
    "summary": "SG-INSIGHT study will extend whole-genome sequencing to nearly 1 in 10 Singapore residents, generating evidence to inform how precision medicine could be implemented in Singapore's healthcare system SINGAPORE, Nov. 2, 2026 /PRNewswire/ --\u2026",
@@ -950,6 +995,21 @@
    "tag": "News",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "99ebf1f2e684",
+   "headline": "Does Earnings Beat Change The Bull Case For Jazz Pharmaceuticals Stock (JAZZ)?",
+   "summary": "Jazz Pharmaceuticals reported record Q3 2026 revenue of US$1.24b, raised full year sales guidance, and highlighted new FDA approved Ziihera regimens in HER2 positive gastroesophageal adenocarcinoma, supported by extended overall survival\u2026",
+   "url": "https://finnhub.io/api/news?id=788d4c8b512623491d9a172a2f3bec35d7ee1534c2900b588c7e5f13586e0dd9",
+   "source": "Yahoo",
+   "published": "2026-11-03T00:23:26+00:00",
+   "tickers": [
+    "JAZZ"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -1145,6 +1205,21 @@
    "tag": "Earnings",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "297c888e5485",
+   "headline": "Hinge Health Inc. (HNGE) Beats Q3 Earnings and Revenue Estimates",
+   "summary": "Hinge Health Inc. (HNGE) delivered earnings and revenue surprises of +12.70% and +4.33%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=fbcc3199ea9507caf3f7111e9c828ca8f1582c6e79875b17863bf8bf22025e79",
+   "source": "Yahoo",
+   "published": "2026-11-02T23:10:04+00:00",
+   "tickers": [
+    "VEEV"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
    ]
   },
   {
@@ -3050,6 +3125,21 @@
    ]
   },
   {
+   "id": "46410172aac0",
+   "headline": "What's in the Cards for Oscar Health This Earnings Season?",
+   "summary": "Can Oscar Health deliver a Q3 earnings surprise? Its revenues are projected to surge 58.1% to $4.7 billion, but it is still expected to incur an 11-cent loss.",
+   "url": "https://finnhub.io/api/news?id=8cf66dc5b8680fd860acbecc0a47a63910dedd844f8776bb3d35a9ecf28395fd",
+   "source": "Yahoo",
+   "published": "2026-11-02T16:16:00+00:00",
+   "tickers": [
+    "OSCR"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "df8c95c0dbeb",
    "headline": "OpenAI-funded Biossil snags Theriva's unwanted antibiotic degrader portfolio for up to $91M",
    "summary": "Canada's OpenAI-backed startup Biossil Labs has extended its pharma shopping spree with a deal worth up to $91 million for Theriva Biologics' deprioritized early- to mid-stage portfolio of antibiotic-degrading enzymes.",
@@ -4195,6 +4285,17 @@
    ]
   },
   {
+   "id": "ae2418d0ea2f",
+   "headline": "FDA Provides Clarity to Support Cell and Gene Therapy Development and Quality",
+   "summary": "The U.S. Food and Drug Administration today issued final guidance for manufacturers of cellular and gene therapy (CGT) products to implement a comprehensive, science- and risk-based plan for making sure their products meet potency\u2026",
+   "url": "http://www.fda.gov/news-events/press-announcements/fda-provides-clarity-support-cell-and-gene-therapy-development-and-quality",
+   "source": "FDA",
+   "published": "2026-11-02T13:56:06+00:00",
+   "tickers": [],
+   "tag": "FDA",
+   "sectors": []
+  },
+  {
    "id": "b7138c702d2a",
    "headline": "Wall Street Analysts Think Globus Medical (GMED) Could Surge 30.52%: Read This Before Placing a Bet",
    "summary": "The consensus price target hints at a 30.5% upside potential for Globus Medical (GMED). While empirical research shows that this sought-after metric is hardly effective, an upward trend in earnings estimate revisions could mean that the\u2026",
@@ -4317,6 +4418,21 @@
    "tag": "Earnings",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "de78b3df7953",
+   "headline": "Are Finance Stocks Lagging Oscar Health (OSCR) This Year?",
+   "summary": "Here is how Oscar Health, Inc. (OSCR) and Alerus (ALRS) have performed compared to their sector so far this year.",
+   "url": "https://finnhub.io/api/news?id=65a1f1818ab49857df52a2f7c968841585a6a25bcbd9c07834f7d2c7ac3c0812",
+   "source": "Yahoo",
+   "published": "2026-11-02T13:40:03+00:00",
+   "tickers": [
+    "OSCR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -4702,6 +4818,21 @@
    ]
   },
   {
+   "id": "4382cc1b4a0f",
+   "headline": "Unveiling Oscar Health (OSCR) Q3 Outlook: Wall Street Estimates for Key Metrics",
+   "summary": "Beyond analysts' top-and-bottom-line estimates for Oscar Health (OSCR), evaluate projections for some of its key metrics to gain a better insight into how the business might have performed for the quarter ended September 2026.",
+   "url": "https://finnhub.io/api/news?id=f43cd4e537cddcd14f7107d5e83cacac2ff274e54ee597c1c58af397ebde2d8a",
+   "source": "Yahoo",
+   "published": "2026-11-02T13:15:02+00:00",
+   "tickers": [
+    "OSCR"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "493bbc200f56",
    "headline": "TEM Stock Jumps On Upbeat Revenue, Raised Outlook \u2014 Cathie Wood\u2019s ARK Buys Over 154K Shares Ahead Of Earnings",
    "summary": "The company also cleared regulatory review of its pending acquisition of Personalis (PSNL), with a shareholder vote scheduled for November 30.",
@@ -4894,6 +5025,21 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "44377a95c4f1",
+   "headline": "Eyconis to Participate in Upcoming Investor Conferences",
+   "summary": "REDWOOD CITY, Calif., Nov. 02, 2026 (GLOBE NEWSWIRE) -- Eyconis, Inc., a clinical-stage biotechnology company advancing next-generation, long-acting ophthalmic therapeutics, today announced that members of its management team will\u2026",
+   "url": "https://finnhub.io/api/news?id=4506ffc81aa0989e1b93cb911edde70065a4805834b49ac06883f6271da89b8f",
+   "source": "Yahoo",
+   "published": "2026-11-02T13:00:00+00:00",
+   "tickers": [
+    "ASND"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
