@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-03T13:03:03.888573+00:00",
+ "updated": "2026-11-03T13:17:42.051305+00:00",
  "quotes": {
   "A": {
    "price": 171.99,
@@ -121,10 +121,6 @@
   "EW": {
    "price": 93.26,
    "change_pct": 1.36
-  },
-  "EXEL": {
-   "price": 70.13,
-   "change_pct": 1.07
   },
   "GEHC": {
    "price": 79.55,
@@ -321,6 +317,10 @@
   "TMO": {
    "price": 682.65,
    "change_pct": -2.06
+  },
+  "TWST": {
+   "price": 129.04,
+   "change_pct": -15.54
   }
  },
  "tickers": {
@@ -949,6 +949,21 @@
    "sectors": []
   },
   {
+   "id": "4dc716d7e3bd",
+   "headline": "Regeneron Pharmaceuticals (NASDAQ:REGN) Looks Undervalued Under the Decent Value Framework",
+   "summary": "Regeneron fits the Decent Value screen: cheap vs peers and S&P 500, strong health and profitability, and moderate growth support a quality-at-a-fair-price case.",
+   "url": "https://finnhub.io/api/news?id=fabb8d0e02a97f9ed4356d74b6bb229cb3fe8d69396815b339c767f341546cf1",
+   "source": "ChartMill",
+   "published": "2026-11-03T12:52:03+00:00",
+   "tickers": [
+    "REGN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "b799452dd005",
    "headline": "LeanTaaS expands iQueue into ambient intelligence with LookDeep acquisition",
    "summary": "LeanTaaS is expanding iQueue beyond hospital capacity management into ambient intelligence, using its acquisition of LookDeep Health to add computer vision that monitors patient rooms and turns real-time signals into prioritized actions\u2026",
@@ -1288,6 +1303,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "7d1d30b89fa7",
+   "headline": "ETFs Are Net Sellers of Medtronic (MDT) on Friday",
+   "summary": "ETFs sold $110.6 million of Medtronic on Friday, with 35 funds buying and 15 selling.",
+   "url": "https://finnhub.io/api/news?id=975e0476a72457e00ba4a2c3b2ea636b78f924a3a06bf13af69e346599c6138e",
+   "source": "Yahoo",
+   "published": "2026-11-03T11:02:39+00:00",
+   "tickers": [
+    "MDT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -49484,36 +49514,6 @@
    "tag": "News",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "864b1fb68455",
-   "headline": "Incyte (INCY) Starts KRAS G12D Colorectal Cancer Trial Collaboration",
-   "summary": "Incyte (NasdaqGS:INCY) and Genmab announced a new clinical trial collaboration targeting KRAS G12D-mutated metastatic colorectal cancer. The study will test a combination of Genmab\u2019s bispecific antibody with Incyte\u2019s selective KRAS G12D\u2026",
-   "url": "https://finnhub.io/api/news?id=ca7e61755e0b25a11b06334d1f4ebde1210d7747635539d931cc266851b6a2e6",
-   "source": "Yahoo",
-   "published": "2026-10-24T13:14:45+00:00",
-   "tickers": [
-    "INCY"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "eca521546c3e",
-   "headline": "CVS Health (CVS) Stock May Be Undervalued Despite Opioid Settlement",
-   "summary": "CVS Health has delivered solid gains over the past few years, and recent headlines have kept the company firmly in focus. With the stock around US$93, the question for you is whether that price is well supported by the earnings CVS\u2026",
-   "url": "https://finnhub.io/api/news?id=35564b72987a83409d6315e7906b2514c11b69a833b39831466dd6e7a6a0f5f8",
-   "source": "Yahoo",
-   "published": "2026-10-24T13:07:24+00:00",
-   "tickers": [
-    "CVS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
    ]
   }
  ]
