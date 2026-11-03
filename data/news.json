@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-03T01:17:30.412850+00:00",
+ "updated": "2026-11-03T01:32:51.166939+00:00",
  "quotes": {
   "A": {
    "price": 171.99,
@@ -53,10 +53,6 @@
   "BMY": {
    "price": 63.02,
    "change_pct": 0.86
-  },
-  "BRKR": {
-   "price": 55.69,
-   "change_pct": -2.42
   },
   "BSX": {
    "price": 44.32,
@@ -321,6 +317,10 @@
   "ZBH": {
    "price": 97.35,
    "change_pct": 2.99
+  },
+  "ZTS": {
+   "price": 83.18,
+   "change_pct": 4.34
   }
  },
  "tickers": {
@@ -998,6 +998,21 @@
    ]
   },
   {
+   "id": "44746b318f86",
+   "headline": "Dow Jones Futures: AI Trade Dives As Marvell, Lumentum Plunge; Apple Tumbles On Earnings With Midterm Elections Next",
+   "summary": "Dow Jones Futures: The AI trade dived Monday, while Apple stock dropped on earnings late. The midterm elections are Tuesday.",
+   "url": "https://finnhub.io/api/news?id=b8b8c9c3ee917d95f6d0a92f487a2fce15eb85248f3f3468471d4ba5ed05ae1d",
+   "source": "Yahoo",
+   "published": "2026-11-02T23:40:43+00:00",
+   "tickers": [
+    "VRTX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "6539455d9041",
    "headline": "3 Stocks to Watch Following Guidance Upgrades",
    "summary": "The Q3 earnings cycle continues to roll along, with several healthcare companies delivering positive results and raising their outlooks as a result.",
@@ -1010,6 +1025,21 @@
    "tag": "Earnings",
    "sectors": [
     "healthai"
+   ]
+  },
+  {
+   "id": "4aeb01f2c090",
+   "headline": "AXSM Stock Hits Fresh 52-Week Lows As Launch Concerns Of Auvelity In Alzheimer's Care Outweigh Q3 Beat",
+   "summary": "Axsome reported total net product revenue of $259.7 million, up 52% from $171.0 million a year earlier, with Auvelity accounting for a majority of it.",
+   "url": "https://finnhub.io/api/news?id=b2974d4158c66a3845faedc265642df369abc7bc0aee18746167ee35e7ec15d8",
+   "source": "Yahoo",
+   "published": "2026-11-02T23:32:24+00:00",
+   "tickers": [
+    "AXSM"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -1053,6 +1083,21 @@
     "LLY"
    ],
    "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "1d6f2262bd1b",
+   "headline": "Jungfraubahn Holding (SWX:JFN) Stock May Be 9% Undervalued On Cash Flow",
+   "summary": "Jungfraubahn Holding has delivered a 105.3% share price gain over the past 5 years, which naturally puts the spotlight on whether the current Swiss franc price is adequately backed by the cash the business can generate. After such a long\u2026",
+   "url": "https://finnhub.io/api/news?id=ea743db8f598fef088d5c6add668b93cbf43bdc014c4e7c651bc5c784cc5f786",
+   "source": "Yahoo",
+   "published": "2026-11-02T23:17:56+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "News",
    "sectors": [
     "pharma"
    ]
@@ -1183,6 +1228,21 @@
    "tickers": [],
    "tag": "Legal",
    "sectors": []
+  },
+  {
+   "id": "84ddbb87c079",
+   "headline": "3 European Industrial Stocks If Lower Energy Prices Start Lifting Margins",
+   "summary": "European energy policy has taken an unexpected twist, with talk of Russian gas potentially returning to the continent through a U.S. intermediary just as winter demand builds. Lower gas and power prices would reshuffle cost structures\u2026",
+   "url": "https://finnhub.io/api/news?id=50d574486acb6eda9add298de43133e76717ae8d4b5080739edaa2e203ee16b8",
+   "source": "Yahoo",
+   "published": "2026-11-02T22:13:40+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "605629daee30",
@@ -1349,6 +1409,21 @@
    ]
   },
   {
+   "id": "4763e315ca22",
+   "headline": "Why Veeva Systems (VEEV) Dipped More Than Broader Market Today",
+   "summary": "Veeva Systems (VEEV) reached $307 at the closing of the latest trading day, reflecting a -1.9% change compared to its last close.",
+   "url": "https://finnhub.io/api/news?id=5bff9f1e355625e7e74a388cc012170305eec3255f33a87e43decf798f999291",
+   "source": "Yahoo",
+   "published": "2026-11-02T21:45:02+00:00",
+   "tickers": [
+    "VEEV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "c7efc29bc386",
    "headline": "Vertex Yo-Yos On Mixed Third-Quarter Report, Light Guidance Hike",
    "summary": "Vertex stock yo-yoed on its third-quarter report late Monday after earnings came up short and full-year guidance missed views.",
@@ -1380,6 +1455,21 @@
    ]
   },
   {
+   "id": "90f1c1a97556",
+   "headline": "BioArctic collaborator Novartis terminates agreement",
+   "summary": "BioArctic AB (publ) (Nasdaq Stockholm: BIOA B) today announced that Novartis Pharma AG has notified BioArctic that it has decided to terminate the Option, Collaboration and License Agreement entered into in August 2025 to explore a\u2026",
+   "url": "https://finnhub.io/api/news?id=0243c6ebe8cf9a17169729074650bb7122edb3fa9bef948f04af68f1136d451a",
+   "source": "Yahoo",
+   "published": "2026-11-02T21:36:00+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "3fd98b22d279",
    "headline": "Casgevy Starts Paying Off for CRISPR: Rapid Earnings Reaction",
    "summary": "CRISPR's first approved therapy is gaining traction, but the company's finances still lean on its cash reserves and an expensive pipeline.",
@@ -1391,6 +1481,21 @@
     "VRTX"
    ],
    "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "80b3cabb08fb",
+   "headline": "Vertex (VRTX) Q3 Earnings: Taking a Look at Key Metrics Versus Estimates",
+   "summary": "While the top- and bottom-line numbers for Vertex (VRTX) give a sense of how the business performed in the quarter ended September 2026, it could be worth looking at how some of its key metrics compare to Wall Street estimates and\u2026",
+   "url": "https://finnhub.io/api/news?id=64859ca9585bf493ab362d410356f400021de135cbb993b92f27fd42f3564f33",
+   "source": "Yahoo",
+   "published": "2026-11-02T21:30:01+00:00",
+   "tickers": [
+    "VRTX"
+   ],
+   "tag": "Earnings",
    "sectors": [
     "pharma"
    ]
@@ -1469,6 +1574,21 @@
    "tag": "Earnings",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "1c84d785b50e",
+   "headline": "Vertex Pharmaceuticals (VRTX) Misses Q3 Earnings Estimates",
+   "summary": "Vertex (VRTX) delivered earnings and revenue surprises of -3.25% and +1.11%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=253bf617861b5d2f96ec88218f25b3d60318d49ae352d50a82826babd91ebd58",
+   "source": "Yahoo",
+   "published": "2026-11-02T21:25:03+00:00",
+   "tickers": [
+    "VRTX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1994,6 +2114,7 @@
    "source": "Yahoo",
    "published": "2026-11-02T18:56:53+00:00",
    "tickers": [
+    "AXSM",
     "JAZZ"
    ],
    "tag": "Earnings",
@@ -2218,6 +2339,36 @@
    "published": "2026-11-02T17:57:52+00:00",
    "tickers": [
     "KRYS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "6299f4add7f4",
+   "headline": "Gecina: Information Regarding the Total Voting Rights and Shares of Gecina as of October 31, 2026 (1)",
+   "summary": "PARIS, November 02, 2026--Regulatory News: Gecina (Paris:GFC):",
+   "url": "https://finnhub.io/api/news?id=a0e33e6575827a689dae437256311602e42f2a458fe32e2ce1a94c1f5276631f",
+   "source": "Yahoo",
+   "published": "2026-11-02T17:56:00+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "95d28cd11ce0",
+   "headline": "Axsome Therapeutics, Inc. Q3 2026 Earnings Call Summary",
+   "summary": "Moby summary of Axsome Therapeutics, Inc.'s Q3 2026 earnings call",
+   "url": "https://finnhub.io/api/news?id=8dd1749cf8e2878035adf85c001b24b05fb22f7c3e46a2c7205ce6b5afacadc5",
+   "source": "Yahoo",
+   "published": "2026-11-02T17:55:33+00:00",
+   "tickers": [
+    "AXSM"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -2538,6 +2689,21 @@
    ]
   },
   {
+   "id": "56ea6d0426d3",
+   "headline": "Axsome (AXSM) Q3 2026 Earnings Call Transcript",
+   "summary": "AUVELITY revenue surged 52% as Alzheimer's disease agitation gains traction.",
+   "url": "https://finnhub.io/api/news?id=126f59a691bc5eb1aa9bd26a2c5203e4b51d84f53c27b89b4ad1f97f7e153fe9",
+   "source": "Yahoo",
+   "published": "2026-11-02T16:58:21+00:00",
+   "tickers": [
+    "AXSM"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "dae97aac52ae",
    "headline": "STAT+: Psilocybin\u2019s lasting benefits prove elusive in mice",
    "summary": "Five Bay Area labs teamed up to compare lasting effects of psilocybin on anxiety and depression-like behavior in mice, with limited results:",
@@ -2572,6 +2738,21 @@
    "published": "2026-11-02T16:45:16+00:00",
    "tickers": [
     "MRK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "dda78efc4cb9",
+   "headline": "Melexis: update on the share buy-back program",
+   "summary": "Press release - Regulated Information Melexis: update on the share buy-back program Ieper, Belgium \u2013 2 November 2026, 17.45 hrs CET Melexis reports the purchase of 9,800 Melexis shares on Euronext Brussels in the period from 26 October\u2026",
+   "url": "https://finnhub.io/api/news?id=7ff11d7cf36e6629292aba866c94181cfaa4cedcb10fd34e363d6d37fab7ce2d",
+   "source": "Yahoo",
+   "published": "2026-11-02T16:45:00+00:00",
+   "tickers": [
+    "NVS"
    ],
    "tag": "News",
    "sectors": [
@@ -2826,6 +3007,21 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "8ce5f291981e",
+   "headline": "What Axsome Therapeutics (AXSM) Said on Its Q3 Earnings Call",
+   "summary": "Axsome Therapeutics (NASDAQ:AXSM) reported third-quarter revenue growth of 52% year over year, driven primarily by continued expansion of AUVELITY sales in major depressive disorder and Alzheimer\u2019s disease agitation. Total revenue reached\u2026",
+   "url": "https://finnhub.io/api/news?id=7602e3c0f71374000dee1536914103bdf09d7dcd32aa7071aea33a47329b4842",
+   "source": "Yahoo",
+   "published": "2026-11-02T16:13:54+00:00",
+   "tickers": [
+    "AXSM"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -4070,6 +4266,21 @@
    ]
   },
   {
+   "id": "b14f2acdfe1b",
+   "headline": "Axsome (AXSM) Reports Q3 Earnings: What Key Metrics Have to Say",
+   "summary": "While the top- and bottom-line numbers for Axsome (AXSM) give a sense of how the business performed in the quarter ended September 2026, it could be worth looking at how some of its key metrics compare to Wall Street estimates and\u2026",
+   "url": "https://finnhub.io/api/news?id=83a695b5d3daf6ae1d5d8c7a26767a75059714e556840975760ba3aa48d87a21",
+   "source": "Yahoo",
+   "published": "2026-11-02T13:30:02+00:00",
+   "tickers": [
+    "AXSM"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "34531ca61958",
    "headline": "Gilead to Present Late-Breaking Clinical Data and Real-World Evidence at HIV Glasgow",
    "summary": "FOSTER CITY, Calif., November 02, 2026--Gilead Sciences, Inc. (Nasdaq: GILD) today announced its upcoming participation in the International Congress on Drug Therapy in HIV Infection (HIV Glasgow 2026), taking place from November 8-11. As\u2026",
@@ -4609,7 +4820,8 @@
    "published": "2026-11-02T12:49:00+00:00",
    "tickers": [
     "LLY",
-    "NVO"
+    "NVO",
+    "VKTX"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -20811,6 +21023,7 @@
    "source": "Yahoo",
    "published": "2026-10-29T15:21:38+00:00",
    "tickers": [
+    "AXSM",
     "ENSG"
    ],
    "tag": "Earnings",
@@ -48047,66 +48260,6 @@
     "NVS"
    ],
    "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "341141e89299",
-   "headline": "Cencora's Q4 2026 Earnings: What to Expect",
-   "summary": "Cencora is scheduled to release its fourth-quarter results next month, with analysts projecting double-digit earnings growth.",
-   "url": "https://finnhub.io/api/news?id=98deff20668ec3b8bdd1f20d8f9e2e5f8a649f690e54a40ba95d5e528be4b39d",
-   "source": "Yahoo",
-   "published": "2026-10-24T01:28:19+00:00",
-   "tickers": [
-    "COR"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharmacy"
-   ]
-  },
-  {
-   "id": "669b7ee02cb3",
-   "headline": "Lunit and Summit Therapeutics Announce Agreement to Apply AI-powered SCOPE IO Platform for Tumor Microenvironment Analysis in Immuno-Oncology Development",
-   "summary": "Research Will Use Lunit's AI-powered Pathology Platform to Analyze H&E Whole-Slide Images and Generate Scalable Insights into Tumor Microenvironment Biology SEOUL, South Korea, Oct. 24, 2026 /PRNewswire/ -- Lunit Inc. (KRX: 328130) and\u2026",
-   "url": "https://www.prnewswire.com/news-releases/lunit-and-summit-therapeutics-announce-agreement-to-apply-ai-powered-scope-io-platform-for-tumor-microenvironment-analysis-in-immuno-oncology-development-302918571.html",
-   "source": "PR Newswire",
-   "published": "2026-10-24T01:26:00+00:00",
-   "tickers": [
-    "SMMT"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "7b1cfaf35c0b",
-   "headline": "Lunit and Summit Therapeutics Announce Agreement to Apply AI-powered SCOPE IO Platform for Tumor Microenvironment Analysis in Immuno-Oncology Development",
-   "summary": "Lunit Inc. (KRX: 328130) and Summit Therapeutics Inc. (NASDAQ: SMMT) today announced a research agreement to evaluate the use of Lunit SCOPE IO, Lunit's AI-powered pathology platform, for tumor microenvironment analysis in support of\u2026",
-   "url": "https://finnhub.io/api/news?id=6619fcd514a6caf9d12b2054a5d88b2be2a2d93782c5d569ca806d99b0b9abee",
-   "source": "Yahoo",
-   "published": "2026-10-24T01:26:00+00:00",
-   "tickers": [
-    "SMMT"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "b8a3ce2e1696",
-   "headline": "Q2 earnings highs and lows: Eli Lilly (NYSE:LLY) vs the rest of the branded pharmaceuticals stocks",
-   "summary": "Quarterly earnings results are a good time to check in on a company\u2019s progress, especially compared to its peers in the same sector. Today we are looking at Eli Lilly (NYSE:LLY) and the best and worst performers in the branded\u2026",
-   "url": "https://finnhub.io/api/news?id=3acf4aef796e3be6e0ea055f11f802e111f779931f2a68497b5649002e9154dd",
-   "source": "Yahoo",
-   "published": "2026-10-24T01:20:39+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "Earnings",
    "sectors": [
     "pharma"
    ]
