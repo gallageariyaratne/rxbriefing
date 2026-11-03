@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-03T22:47:39.176093+00:00",
+ "updated": "2026-11-03T23:02:53.154972+00:00",
  "quotes": {
   "A": {
    "price": 175.46,
@@ -145,6 +145,10 @@
   "HCA": {
    "price": 462.86,
    "change_pct": -1.04
+  },
+  "HIMS": {
+   "price": 25.7,
+   "change_pct": 1.82
   },
   "HQY": {
    "price": 102.03,
@@ -317,10 +321,6 @@
   "VEEV": {
    "price": 303.21,
    "change_pct": -1.23
-  },
-  "VKTX": {
-   "price": 26.09,
-   "change_pct": -2.76
   }
  },
  "tickers": {
@@ -1073,6 +1073,37 @@
    ]
   },
   {
+   "id": "db240ce910e6",
+   "headline": "Moderna's Cancer Vaccine Is Incredibly Promising, but This Could Be a Major Obstacle to Its Success",
+   "summary": "Even if the company's vaccine obtains approval, producing it at scale could be a big challenge.",
+   "url": "https://finnhub.io/api/news?id=470ec20ffc183e50f94c6913ccce87a4b49bd01121a94acb76169fce0b1a8216",
+   "source": "Yahoo",
+   "published": "2026-11-03T21:12:01+00:00",
+   "tickers": [
+    "MRK",
+    "MRNA"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "0b690359727e",
+   "headline": "HealthEquity Schedules Third Quarter Earnings Release Date",
+   "summary": "DRAPER, Utah, Nov. 03, 2026 (GLOBE NEWSWIRE) -- HealthEquity, Inc. (NASDAQ: HQY) (\u201cHealthEquity\u201d or the \u201cCompany\u201d), the largest independent health savings account (HSA) custodian by account volume and a leader in consumer-directed\u2026",
+   "url": "https://finnhub.io/api/news?id=fee8a959d3410f140fbb67e5d548f8d30c73c13914a50beee0128d2e1e94498a",
+   "source": "Yahoo",
+   "published": "2026-11-03T21:11:00+00:00",
+   "tickers": [
+    "HQY"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "4907757babe0",
    "headline": "Patterson Companies Appoints Ryan Steines as Chief Financial Officer",
    "summary": "ST. PAUL, Minn., November 03, 2026--Patterson Companies, Inc. today announced the appointment of Ryan Steines as Chief Financial Officer, effective Nov. 3, 2026.",
@@ -1100,6 +1131,21 @@
    "tag": "Health AI",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "ac405c1a87a9",
+   "headline": "Waters Corp (WAT) Q3 2026 Earnings Call Highlights: Raised Guidance, 21% EPS Growth and a ...",
+   "summary": "Waters Corp (WAT) posted 10% constant currency organic growth, beat adjusted EPS guidance and lifted its full-year 2026 outlook while laying out a mid-single-digit-plus growth framework for 2027.",
+   "url": "https://finnhub.io/api/news?id=b1b5006a83e23ff653d914f7e95d366cf60917052334fe7f20689a8627309688",
+   "source": "Yahoo",
+   "published": "2026-11-03T21:06:09+00:00",
+   "tickers": [
+    "WAT"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -1145,6 +1191,21 @@
    "tag": "News",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "1d0c91095b97",
+   "headline": "DaVita Inc. to Participate in Upcoming Investor Conferences",
+   "summary": "DaVita Inc. (NYSE: DVA) today announced that its Chief Financial Officer, Joel Ackerman, and its Group Vice President of Investor Relations, Nic Eliason, will participate in fireside chats at the following upcoming investor conferences:",
+   "url": "https://finnhub.io/api/news?id=34e744bc077721792806b9ff21e76c05ce3521b715aed53f0c80b977f99bb335",
+   "source": "Yahoo",
+   "published": "2026-11-03T21:05:00+00:00",
+   "tickers": [
+    "DVA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -1249,6 +1310,21 @@
    "sectors": []
   },
   {
+   "id": "51ebcc96a33e",
+   "headline": "Henry Schein (HSIC) Q3 2026 Earnings Call Transcript",
+   "summary": "Guidance raised on strong dental merchandise growth and tariff refunds.",
+   "url": "https://finnhub.io/api/news?id=e19e6073ee2f6816f562138d079d4bbd31b9295c839aedc66be595ff822f3a78",
+   "source": "Yahoo",
+   "published": "2026-11-03T20:36:21+00:00",
+   "tickers": [
+    "HSIC"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
+  {
    "id": "968404794e5a",
    "headline": "STAT+: Amid Mass General Brigham layoffs, CEO pens vague letter, stirring staff anxiety",
    "summary": "A cryptic email sent to Mass General Brigham employees by the health system's CEO is stirring staff anxiety less than two weeks after a round of layoffs.",
@@ -1290,6 +1366,21 @@
    ]
   },
   {
+   "id": "a5d2f9f5ec2a",
+   "headline": "Top Analyst Reports for Eli Lilly, Cisco & KLA",
+   "summary": "Eli Lilly, Cisco and KLA lead today's featured research reports, with strong demand, AI-driven growth and expanding product opportunities supporting their prospects.",
+   "url": "https://finnhub.io/api/news?id=f069da5b540a9866425553c2afeecd135dc49616498fd43c782bc064215e291a",
+   "source": "Yahoo",
+   "published": "2026-11-03T20:12:00+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "b2eb5669f5fa",
    "headline": "Should You Buy Baxter Stock For Its Cash?",
    "summary": "For questions about this article or underlying research, email help@trefis.com.",
@@ -1300,7 +1391,8 @@
     "ABT",
     "BDX",
     "JNJ",
-    "MDT"
+    "MDT",
+    "SYK"
    ],
    "tag": "News",
    "sectors": [
@@ -2090,6 +2182,21 @@
    ]
   },
   {
+   "id": "c598a13a0d43",
+   "headline": "Recursion Pharmaceuticals, Inc. (RXRX) Q3 2026 Earnings Call Transcript",
+   "summary": "Recursion Pharmaceuticals, Inc. (RXRX) Q3 2026 Earnings Call November 3, 2026 8:00 AM ESTCompany ParticipantsNajat Khan - CEO, President & DirectorVicki...",
+   "url": "https://finnhub.io/api/news?id=986dc3b06f5828de1493ed8312eb5c15507edb41c685ef5a9cc2ba62063d6c89",
+   "source": "SeekingAlpha",
+   "published": "2026-11-03T16:56:02+00:00",
+   "tickers": [
+    "RXRX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthai"
+   ]
+  },
+  {
    "id": "5e63402f74e6",
    "headline": "Edwards Lifesciences' Progress Data Unlikely to Expand TAVR Market, RBC Says",
    "summary": "Edwards Lifesciences' (EW) Progress trial is unlikely to meaningfully expand the market for transcat",
@@ -2266,6 +2373,21 @@
    ]
   },
   {
+   "id": "db68017ee59d",
+   "headline": "Henry Schein, Inc. (HSIC) Q3 2026 Earnings Call Transcript",
+   "summary": "Henry Schein, Inc. (HSIC) Q3 2026 Earnings Call November 3, 2026 8:00 AM ESTCompany ParticipantsGraham Stanley - VP of Investor Relations & Strategic...",
+   "url": "https://finnhub.io/api/news?id=3232506391b406d27d3b66f6ca72d1baf59d8e899e9184def28a9b30661b4750",
+   "source": "SeekingAlpha",
+   "published": "2026-11-03T16:15:57+00:00",
+   "tickers": [
+    "HSIC"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
+  {
    "id": "28ef3ace23d5",
    "headline": "Waters Corporation Reports Third Quarter 2026 Financial Results",
    "summary": "",
@@ -2288,6 +2410,7 @@
    "source": "SeekingAlpha",
    "published": "2026-11-03T16:12:00+00:00",
    "tickers": [
+    "HIMS",
     "UNH"
    ],
    "tag": "News",
@@ -2792,6 +2915,21 @@
    "tag": "Health AI",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "2a5d42b050cb",
+   "headline": "Gilead Sciences Stock: Analyst Estimates & Ratings",
+   "summary": "Gilead Sciences has rallied the broader market over the past year, and analysts remain highly bullish about the stock\u2019s prospects.",
+   "url": "https://finnhub.io/api/news?id=1cc36bfba69d436668f1444afbfc1e915e25fd80a270911fce49937900894f64",
+   "source": "Yahoo",
+   "published": "2026-11-03T14:41:13+00:00",
+   "tickers": [
+    "GILD"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "pharma"
    ]
   },
   {
