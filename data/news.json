@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-03T11:47:32.330369+00:00",
+ "updated": "2026-11-03T12:02:51.148117+00:00",
  "quotes": {
   "A": {
    "price": 171.99,
@@ -294,6 +294,10 @@
    "price": 45.55,
    "change_pct": 2.73
   },
+  "SOPH": {
+   "price": 7.11,
+   "change_pct": -6.82
+  },
   "SYK": {
    "price": 306.81,
    "change_pct": 5.12
@@ -317,10 +321,6 @@
   "TMO": {
    "price": 682.65,
    "change_pct": -2.06
-  },
-  "TWST": {
-   "price": 129.04,
-   "change_pct": -15.54
   }
  },
  "tickers": {
@@ -938,6 +938,36 @@
  },
  "stories": [
   {
+   "id": "e3be14de29c9",
+   "headline": "SOPHiA GENETICS Reports Third Quarter 2026 Results",
+   "summary": "BOSTON and ROLLE, Switzerland, Nov. 3, 2026 /PRNewswire/ -- SOPHiA GENETICS (Nasdaq: SOPH), a global leader in AI-driven precision medicine, today reported financial results for the third quarter ended September 30, 2026. Third Quarter\u2026",
+   "url": "https://www.prnewswire.com/news-releases/sophia-genetics-reports-third-quarter-2026-results-302927003.html",
+   "source": "PR Newswire",
+   "published": "2026-11-03T11:45:00+00:00",
+   "tickers": [
+    "SOPH"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "healthai"
+   ]
+  },
+  {
+   "id": "2768e707617d",
+   "headline": "Could Investing in Moderna's Stock Double Your Money?",
+   "summary": "The healthcare stock has generated massive returns this year and may still have room to rise even higher in the future.",
+   "url": "https://finnhub.io/api/news?id=acb9ce63cfad4358aaaa0c0db4cf54c41cbcb834bd55e9405d3c247a7b5f2554",
+   "source": "Yahoo",
+   "published": "2026-11-03T10:28:02+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "fc6a1980a3db",
    "headline": "Clean Sweep for Seven Companies in Extel\u2019s 2026 U.S. Corporates Survey",
    "summary": "NEW YORK, November 03, 2026--Seven companies swept all seven categories on the Overall leaderboard of Extel\u2019s 2026 All-America Executive Team Survey, which published today. Each placed first in its sector for Best CEO, Best CFO, Best\u2026",
@@ -1091,6 +1121,21 @@
    ]
   },
   {
+   "id": "89d9d3a446cc",
+   "headline": "AI Bubble Burst: Where To Hide?",
+   "summary": "AI bubble fears are rising as Amazon and Meta struggle to monetize AI.",
+   "url": "https://finnhub.io/api/news?id=46fe764486b9f3628d2698b80ac20aa937b88af2b3cdff2f401eaa47d949a7c3",
+   "source": "SeekingAlpha",
+   "published": "2026-11-03T06:30:42+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "aae0f6cb36a0",
    "headline": "Kimberly-Clark Acquires Kenvue. Here\u2019s What Investors Need to Know Ahead of Its Nov. 5 Earnings Report.",
    "summary": "The enterprise value of the monster deal was estimated at almost $49 billion.",
@@ -1158,6 +1203,7 @@
    "source": "SeekingAlpha",
    "published": "2026-11-03T05:40:00+00:00",
    "tickers": [
+    "LLY",
     "REGN"
    ],
    "tag": "News",
@@ -49049,23 +49095,6 @@
    "tag": "Earnings",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "438574b53a12",
-   "headline": "Fed Decision, Microsoft, Alphabet Earnings Highlight Blockbuster Week",
-   "summary": "Preview the week ahead with the Fed decision, Q3 GDP, and Big Tech earnings in focus. Read here for more details.",
-   "url": "https://finnhub.io/api/news?id=53ac13576c8631a6302c4fb020ea5d83e6e1c2e792591ef99f429680b275bace",
-   "source": "SeekingAlpha",
-   "published": "2026-10-24T12:00:47+00:00",
-   "tickers": [
-    "ABBV",
-    "LLY",
-    "MRK"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
