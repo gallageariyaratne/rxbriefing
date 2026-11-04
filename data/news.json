@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-04T11:47:28.553085+00:00",
+ "updated": "2026-11-04T12:02:48.368961+00:00",
  "quotes": {
   "A": {
    "price": 175.46,
@@ -262,10 +262,6 @@
    "price": 12.23,
    "change_pct": -1.69
   },
-  "PODD": {
-   "price": 154.86,
-   "change_pct": 0.81
-  },
   "PTCT": {
    "price": 68.12,
    "change_pct": 11.89
@@ -298,10 +294,6 @@
    "price": 4.59,
    "change_pct": -4.38
   },
-  "SDGR": {
-   "price": 27.18,
-   "change_pct": 3.78
-  },
   "SMMT": {
    "price": 15.8,
    "change_pct": 6.76
@@ -321,6 +313,14 @@
   "TDOC": {
    "price": 8.89,
    "change_pct": 3.01
+  },
+  "TECH": {
+   "price": 72.66,
+   "change_pct": -0.01
+  },
+  "TEM": {
+   "price": 77.8,
+   "change_pct": -0.87
   }
  },
  "tickers": {
@@ -998,6 +998,21 @@
    ]
   },
   {
+   "id": "b815a2789662",
+   "headline": "TG Therapeutics (NASDAQ:TGTX): Affordable Growth With Strong Expansion and a Reasonable Forward Valuation",
+   "summary": "TG Therapeutics fits an affordable growth profile with rapid revenue and EPS growth, reasonable forward valuation, strong margins, and mixed financial health.",
+   "url": "https://finnhub.io/api/news?id=6775d70261d21e1800e521b2621a773df338d295af162cfa9039b2db9173d74c",
+   "source": "ChartMill",
+   "published": "2026-11-04T11:10:54+00:00",
+   "tickers": [
+    "TGTX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "d8fcd89e6d87",
    "headline": "Halozyme Therapeutics (NASDAQ:HALO): An Undervalued Value Stock With Strong Profitability",
    "summary": "Halozyme (HALO) stands out on the Decent Value screen: cheap forward valuation, strong profitability, and adequate financial health despite slower growth.",
@@ -1241,6 +1256,36 @@
     "PFE"
    ],
    "tag": "M&A",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "640624894906",
+   "headline": "IDEXX Laboratories: Q3 Results Confirm They Are Best-In-Class",
+   "summary": "IDEXX Laboratories has best-in-class diagnostics, high recurring revenue, and a robust innovation pipeline. Find out why IDXX stock is a buy.",
+   "url": "https://finnhub.io/api/news?id=9e53e43ed0b700ba6430ad861917e93dd1c13932227e9fb11231697f90820cac",
+   "source": "SeekingAlpha",
+   "published": "2026-11-04T06:07:00+00:00",
+   "tickers": [
+    "IDXX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "ad57baa8a335",
+   "headline": "Eli Lilly: Higher Volume, Lower Realized Prices",
+   "summary": "Eli Lilly\u00e2\u0080\u0099s revenue surged on strong tirzepatide demand, but pricing and patent risks loom. Click here to read an analysis of LLY stock now.",
+   "url": "https://finnhub.io/api/news?id=f62485764834ac58aa52028136074369fe19ea007144e0ba4bf9fdf56d35c264",
+   "source": "SeekingAlpha",
+   "published": "2026-11-04T05:46:49+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "GLP-1",
    "sectors": [
     "pharma"
    ]
@@ -56172,21 +56217,6 @@
     "GILD"
    ],
    "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "460650fbe490",
-   "headline": "Dow Jones Futures Loom; Microsoft, Google, Amazon Earnings Due In Doom-And-Bloom Market",
-   "summary": "The S&P 500 and Nasdaq are below key levels, but many non-AI stocks are flashing buy signals. Microsoft, Google, Amazon loom.",
-   "url": "https://finnhub.io/api/news?id=f5336236e700318c2cf2666aa031fed703571756ed421fb993e4d3861ee39af8",
-   "source": "Yahoo",
-   "published": "2026-10-25T11:48:29+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "Earnings",
    "sectors": [
     "pharma"
    ]
