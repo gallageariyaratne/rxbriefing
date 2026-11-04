@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-04T14:03:02.511484+00:00",
+ "updated": "2026-11-04T14:17:40.329390+00:00",
  "quotes": {
   "A": {
    "price": 175.46,
@@ -38,6 +38,10 @@
    "price": 139.61,
    "change_pct": 2.65
   },
+  "AZN": {
+   "price": 183.88,
+   "change_pct": -1.45
+  },
   "BDX": {
    "price": 198.17,
    "change_pct": -0.22
@@ -61,6 +65,10 @@
   "BSX": {
    "price": 43.5,
    "change_pct": -1.85
+  },
+  "CI": {
+   "price": 295.44,
+   "change_pct": 0.08
   },
   "CNC": {
    "price": 67.48,
@@ -202,6 +210,10 @@
    "price": 1409.38,
    "change_pct": -0.11
   },
+  "MCK": {
+   "price": 999.62,
+   "change_pct": 0.12
+  },
   "MDGL": {
    "price": 396.32,
    "change_pct": -8.08
@@ -309,18 +321,6 @@
   "TECH": {
    "price": 72.66,
    "change_pct": -0.01
-  },
-  "TEM": {
-   "price": 77.8,
-   "change_pct": -0.87
-  },
-  "TGTX": {
-   "price": 60.75,
-   "change_pct": 1.33
-  },
-  "THC": {
-   "price": 266.69,
-   "change_pct": -0.82
   }
  },
  "tickers": {
@@ -938,6 +938,36 @@
  },
  "stories": [
   {
+   "id": "06c6701b6157",
+   "headline": "BioMarin to Participate in Upcoming Investor Conferences",
+   "summary": "Stifel Healthcare Conference, November 11 at 3:20 pm EST UBS Global Biopharma Conference, November 16 at 9:20 am GMT Jefferies Global Healthcare Conference, November 17 at 11:30 am GMT SAN RAFAEL, Calif., Nov. 4, 2026 /PRNewswire/ --\u2026",
+   "url": "https://www.prnewswire.com/news-releases/biomarin-to-participate-in-upcoming-investor-conferences-302928633.html",
+   "source": "PR Newswire",
+   "published": "2026-11-04T14:00:00+00:00",
+   "tickers": [
+    "BMRN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "11b6cf73db79",
+   "headline": "Lunit Presents AI-Powered Pathology Research in Ovarian and Bladder Cancers at SITC 2026",
+   "summary": "Studies with Labcorp and CellCarta identify proliferation-related tissue differences in HRD ovarian cancer and explore spatial immune features associated with immunotherapy response in bladder cancer SEOUL, South Korea, Nov. 4, 2026\u2026",
+   "url": "https://www.prnewswire.com/news-releases/lunit-presents-ai-powered-pathology-research-in-ovarian-and-bladder-cancers-at-sitc-2026-302928942.html",
+   "source": "PR Newswire",
+   "published": "2026-11-04T14:00:00+00:00",
+   "tickers": [
+    "LH"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "f61d776655f9",
    "headline": "STAT+: Sens. Wyden and Sanders, backers of Medicare for All, set to take charge of key committees",
    "summary": "The Democratic flip of the Senate is expected to put two Democrats who support Medicare for All in charge of key committees.",
@@ -947,6 +977,36 @@
    "tickers": [],
    "tag": "Policy",
    "sectors": []
+  },
+  {
+   "id": "c0856b2ffab2",
+   "headline": "Exxon Mobil Just Raised Its Dividend for the 44th Year. Here Are 3 More Wall Street Favorites",
+   "summary": "Four dividend stocks just delivered strong earnings, but free cash flow and balance sheet strength separate the ones built to keep raising payouts from the ones that just look good on paper.",
+   "url": "https://finnhub.io/api/news?id=959d1f3530ee0168350e3edc2b9031c38b1fb94af746852d571ab87e80019c16",
+   "source": "Yahoo",
+   "published": "2026-11-04T13:37:50+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "c448781f1635",
+   "headline": "S&P 500 Premarket Movers for Nov. 4",
+   "summary": "S&P 500 premarket movers for Nov. 4 include Block up 9.87% and Fidelity National Information Services down 21.77%, with gainers and losers ahead of the U.S. open.",
+   "url": "https://finnhub.io/api/news?id=64e1e067d297cd9663b262f6d082f583dbfbe776196f3e9d8bb027b27c38301b",
+   "source": "ChartMill",
+   "published": "2026-11-04T13:36:19+00:00",
+   "tickers": [
+    "HCA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
   },
   {
    "id": "ff43b2386b92",
@@ -959,6 +1019,21 @@
     "BRKR"
    ],
    "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "0150406ad21b",
+   "headline": "Danaher (DHR) Stock Looks Fully Priced Despite Its 18% Three Year Gain",
+   "summary": "Danaher has delivered an 18.1% gain over the past three years, and the question now is whether that share price level matches what its cash flows can reasonably support. Recent product clearances in its diagnostics and life sciences units\u2026",
+   "url": "https://finnhub.io/api/news?id=141f09bf4774fd676c42ac92e5e15c0c85f00e87d7b2c5d7223ab0c81aac2728",
+   "source": "Yahoo",
+   "published": "2026-11-04T13:11:30+00:00",
+   "tickers": [
+    "DHR"
+   ],
+   "tag": "News",
    "sectors": [
     "tools"
    ]
@@ -1095,6 +1170,21 @@
    ]
   },
   {
+   "id": "c0d6618e7628",
+   "headline": "AbbVie bolsters UK R&D presence, inks $1.38bn IBD deal with Nxera",
+   "summary": "AbbVie will use the Oxford site to advance treatments for immunological, neurological and oncological diseases.",
+   "url": "https://finnhub.io/api/news?id=250c6fc2108a4707ac8623fbc15463f12adc1a4c94aa57fed05e64f1bb2848aa",
+   "source": "Yahoo",
+   "published": "2026-11-04T12:36:25+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "fa881db5d6e5",
    "headline": "STAT+: Former Madrigal Pharmaceuticals executive alleges coverup of safety issues tied to its drug",
    "summary": "A top former executive at Madrigal Pharmaceuticals has filed a lawsuit in federal court alleging a coverup of drug safety issues.",
@@ -1148,6 +1238,36 @@
    "tag": "Earnings",
    "sectors": [
     "pharmacy"
+   ]
+  },
+  {
+   "id": "a94434282c44",
+   "headline": "The One Thing To Settle Before Buying Eli Lilly Stock",
+   "summary": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://finnhub.io/api/news?id=97905111e39cb61e2d0c02e4528877714f18a82f2021a33bd77731c95e69f76d",
+   "source": "Yahoo",
+   "published": "2026-11-04T12:24:44+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "65fb52e404c3",
+   "headline": "If Johnson & Johnson Stock Looks Expensive, You Need To Read This",
+   "summary": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://finnhub.io/api/news?id=548871e4acacb1fbc6c909fb2e9addf2fdcaa8b72e4b0c449ad8e759b4bb8f55",
+   "source": "Yahoo",
+   "published": "2026-11-04T12:24:39+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1862,6 +1982,21 @@
    ]
   },
   {
+   "id": "1b289d80506d",
+   "headline": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 100 Futures Rise as Democrats Take Control of Congress\u2014AMD, AMGN, NVO in Focus (UPDATED)",
+   "summary": "U.S. stocks rose on Wednesday, as the Dow Jones, S&P 500, and Nasdaq 100 index futures advanced, following Tuesday's mixed close.",
+   "url": "https://finnhub.io/api/news?id=067011569ebccd9a43a3e8dc80e5f704b541b4848f6e2fbd6dda65c96434daaa",
+   "source": "Benzinga",
+   "published": "2026-11-04T09:40:09+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "41e25e497a58",
    "headline": "Opinion: I moved to Europe for free health care. I miss my patient portal",
    "summary": "\u201cTo be honest, in Malta, I pay for medical care all the time. I just pay differently,\u201d writes Mariska Breland.",
@@ -1918,6 +2053,36 @@
    ]
   },
   {
+   "id": "4ff30bcbf991",
+   "headline": "Danaher Companies Integrated DNA Technologies And Aldevron Jointly Launch New Research-Grade mRNA Solutions Designed For Base And Prime Editing Workflows",
+   "summary": "The launch brings IDT\u2019s gene editing expertise and Aldevron\u2019s mRNA manufacturing together within Danaher\u2019s connected ecosystem to address researchers\u2019 increasingly specialized editing needs. Building on the companies\u2019",
+   "url": "https://finnhub.io/api/news?id=6a4d094db1d9e971f11bc6774f94a5e45be5ed5f66bde4cc5ef59d35f1c792fe",
+   "source": "Benzinga",
+   "published": "2026-11-04T09:10:18+00:00",
+   "tickers": [
+    "DHR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "a66bb4888342",
+   "headline": "Amdocs Posts Downbeat Q4 Earnings, Joins Skyworks Solutions, Tesla And Other Big Stocks Moving Lower In Wednesday\u2019s Pre-Market Session",
+   "summary": "U.S. stock futures rose, while Amdocs plunged 39% after missing Q4 estimates and issuing weak FY27 guidance; several other stocks also fell premarket.",
+   "url": "https://finnhub.io/api/news?id=b6defc66bb6a3883ff694d3a02838d4597ad7e80f4dcb2b198261a95b650ec55",
+   "source": "Benzinga",
+   "published": "2026-11-04T09:02:05+00:00",
+   "tickers": [
+    "RARE"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "f6813a8dbfa4",
    "headline": "Near 52-Week Highs: Is This 88% Margin Biotech Still a Bargain?",
    "summary": "Investing.com and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
@@ -1930,6 +2095,21 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "bffd6e3cef85",
+   "headline": "Neurocrine Biosciences: Up 15% After Q3, And The Research Engine Is Still Almost Free",
+   "summary": "Neurocrine Biosciences remains a Buy as strong Q3 results and an underappreciated pipeline lift fair value. Read more on NBIX stock here.",
+   "url": "https://finnhub.io/api/news?id=7bd7c42dda004890d5210868861a874f7eef803836889465120351bb75beeca3",
+   "source": "SeekingAlpha",
+   "published": "2026-11-04T08:45:00+00:00",
+   "tickers": [
+    "NBIX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -1993,6 +2173,37 @@
    ]
   },
   {
+   "id": "12f9996d0535",
+   "headline": "Drugmaker CEOs Say AI Alone Can't Cure Diseases, Challenge Silicon Valley's Bold Predictions: 'To Say AI Is Going to Cure Cancer...'",
+   "summary": "Drugmaker executives doubt AI will cure disease soon, saying biology is too complicated.",
+   "url": "https://finnhub.io/api/news?id=0d973425012270df5fe88a7dbdf02ccbc7e44efd69f6d06e1b259856af9e81e3",
+   "source": "Benzinga",
+   "published": "2026-11-04T08:29:53+00:00",
+   "tickers": [
+    "AZN",
+    "REGN"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "f325042aefca",
+   "headline": "Novo Nordisk Q3: Just The Report I Was Waiting For",
+   "summary": "Novo Nordisk A/S\u00e2\u0080\u0099s strong Q3, raised guidance, and Wegovy pill growth signal a turnaround. Click here to read this NVO earnings update.",
+   "url": "https://finnhub.io/api/news?id=60d7479728997a69c99ca29603f5d5d06c40e8c6ddf07b19a0067af43a0c53fe",
+   "source": "SeekingAlpha",
+   "published": "2026-11-04T08:19:02+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "bb12b0c566d7",
    "headline": "Eli Lilly: The True Frontier Of Real-World AI Monetization",
    "summary": "Eli Lilly and Company is a top AI-driven drug discovery stock, with strong earnings growth, new market potential, and near-term upside. Learn more about LLY stock here.",
@@ -2005,6 +2216,36 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "30cd00bacf47",
+   "headline": "Novo Nordisk A/S 2026 Q3 - Results - Earnings Call Presentation",
+   "summary": "2026-11-04. The following slide deck was published by Novo Nordisk A/S in conjunction with their 2026 Q3 earnings call.",
+   "url": "https://finnhub.io/api/news?id=248d3036e0fb4e6ea7c6166ad46a08c452ebf4b49d39dde4684568d384fd5b56",
+   "source": "SeekingAlpha",
+   "published": "2026-11-04T08:04:33+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "aadb12b1b6cc",
+   "headline": "How to Earn $500 A Month From Cigna Stock Ahead Of Q3 Earnings",
+   "summary": "Cigna expects Q3 EPS of $7.51 and $72.45B revenue. Its 2.11% dividend requires about $284,213 invested to earn $500 monthly.",
+   "url": "https://finnhub.io/api/news?id=c9cd5616e04c6c62d186f37c0b65f49f7c9ce1a6edc1e0cbf7d08c798caf0142",
+   "source": "Benzinga",
+   "published": "2026-11-04T08:00:07+00:00",
+   "tickers": [
+    "CI"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -2437,6 +2678,21 @@
    "tag": "Earnings",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "8e8770eff0b3",
+   "headline": "Stock Market: Will S&P 500 Open Up or Down Today?",
+   "summary": "Will the S&P 500 open higher? Polymarket odds plunge to 22% as Wall Street digests midterm results, a tech futures drop, and key earnings.",
+   "url": "https://finnhub.io/api/news?id=9691a7f926266cc05f1c04e7eaf09a63f1396451e9436cdb402556305f51e99b",
+   "source": "Benzinga",
+   "published": "2026-11-04T01:57:08+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -3965,6 +4221,21 @@
    ]
   },
   {
+   "id": "882d36387c4b",
+   "headline": "Nancy Pelosi Isn't Running for Re-Election in 2026 Midterms: Say Goodbye to Her Stock Picks in Two Months",
+   "summary": "Nancy Pelosi is not seeking re-election Tuesday and will leave Congress in January 2027.",
+   "url": "https://finnhub.io/api/news?id=6fc3bf7bfc770e75966e2258d029525116722ff57ec9c7f106d2b4123b9a96e7",
+   "source": "Benzinga",
+   "published": "2026-11-03T19:55:14+00:00",
+   "tickers": [
+    "TEM"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "healthai"
+   ]
+  },
+  {
    "id": "b2eb5669f5fa",
    "headline": "Should You Buy Baxter Stock For Its Cash?",
    "summary": "For questions about this article or underlying research, email help@trefis.com.",
@@ -4897,6 +5168,21 @@
    ]
   },
   {
+   "id": "fb4be84a0d2c",
+   "headline": "12 Health Care Stocks Moving In Tuesday's After-Market Session",
+   "summary": "Gainers Nordicus Partners (NASDAQ:NORD) stock increased by 10.8% to $4.5 during Tuesday's after-market session. The market value of their outstanding shares is at $71.5 million. Gelteq (NASDAQ:GELS) shares rose",
+   "url": "https://finnhub.io/api/news?id=069883cf5c9fc352f3fb2c0b1549082a85c03c1e5813106ca3857220669de43d",
+   "source": "Benzinga",
+   "published": "2026-11-03T17:05:59+00:00",
+   "tickers": [
+    "RARE"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "cdbb58906362",
    "headline": "Pfizer Raises 2026 Outlook and Names New CFO After Earnings Beat",
    "summary": "Pfizer Makes Major Leadership Move as Drugmaker Lifts Full-Year Forecast",
@@ -5092,6 +5378,8 @@
    "published": "2026-11-03T16:31:01+00:00",
    "tickers": [
     "EW",
+    "MCK",
+    "NVO",
     "RVMD"
    ],
    "tag": "Health AI",
@@ -5202,6 +5490,21 @@
    "tag": "News",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "2f2af4a4d8f3",
+   "headline": "Jefferies Upgrades Tempus AI to Hold, Raises Price Target to $70",
+   "summary": "Jefferies analyst Tycho Peterson upgrades Tempus AI (NASDAQ:TEM) from Underperform to Hold and raises the price target from $35 to $70.",
+   "url": "https://finnhub.io/api/news?id=fd395544abeb02f6711aa85c3f62c4f1715c950429c8940a775cbb8eb5a9b546",
+   "source": "Benzinga",
+   "published": "2026-11-03T16:13:32+00:00",
+   "tickers": [
+    "TEM"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "healthai"
    ]
   },
   {
@@ -5343,6 +5646,21 @@
    "tickers": [],
    "tag": "GLP-1",
    "sectors": []
+  },
+  {
+   "id": "916a5f67c0ca",
+   "headline": "Freedom Capital Markets Maintains Hold on Tempus AI, Raises Price Target to $89",
+   "summary": "Freedom Capital Markets analyst Gene Mannheimer maintains Tempus AI (NASDAQ:TEM) with a Hold and raises the price target from $73 to $89.",
+   "url": "https://finnhub.io/api/news?id=878e0b9038e41e21334b9399d62821fea38563c9817433233faf1e68e4723205",
+   "source": "Benzinga",
+   "published": "2026-11-03T15:41:39+00:00",
+   "tickers": [
+    "TEM"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "healthai"
+   ]
   },
   {
    "id": "b4b96d64189b",
@@ -6532,6 +6850,21 @@
    ]
   },
   {
+   "id": "91f37f3bf789",
+   "headline": "Nasdaq 100 Gets a Lift As Nvidia Overtakes Apple: Stock Market Today",
+   "summary": "Apple's memory-cost margin warning hands Nvidia the top market value as chipmakers rebound. Here's what's happening in the stock market today.",
+   "url": "https://finnhub.io/api/news?id=40c247a869524b5a509ff521ec7779c9ef6dd383879922d8c456a25f5feaa5c0",
+   "source": "Benzinga",
+   "published": "2026-11-03T13:24:36+00:00",
+   "tickers": [
+    "NBIX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "e5dd7b966f29",
    "headline": "Company News for Nov 3, 2026",
    "summary": "Companies in The News Are: CNA, IDXX, VLO, MAR",
@@ -6703,6 +7036,21 @@
    "tag": "GLP-1",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "f74c48baac14",
+   "headline": "Fabrinet, EverQuote, Lattice Semiconductor, Fiserv And Other Big Stocks Moving Higher On Tuesday",
+   "summary": "U.S. stocks mixed as Dow fell 200 points; Fabrinet surged 13.7% on strong results, guidance and buyback, while several small caps rallied.",
+   "url": "https://finnhub.io/api/news?id=e2d73d51940816c1caa967687d54c5a10306a0e77676401dbfc0be156ddef8d6",
+   "source": "Benzinga",
+   "published": "2026-11-03T13:02:46+00:00",
+   "tickers": [
+    "NBIX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
