@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-04T08:02:47.640697+00:00",
+ "updated": "2026-11-04T08:17:40.566592+00:00",
  "quotes": {
   "A": {
    "price": 175.46,
@@ -290,10 +290,6 @@
    "price": 973.36,
    "change_pct": 1.26
   },
-  "RGEN": {
-   "price": 178.27,
-   "change_pct": 3.08
-  },
   "RMD": {
    "price": 227.08,
    "change_pct": -2.52
@@ -321,6 +317,10 @@
   "SMMT": {
    "price": 15.8,
    "change_pct": 6.76
+  },
+  "SNY": {
+   "price": 45.33,
+   "change_pct": -0.48
   }
  },
  "tickers": {
@@ -56089,51 +56089,6 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "c16b159fccd6",
-   "headline": "CRISPR Therapeutics (CRSP) Promotes Andrew Silver To CFO As Raju Prasad Resigns",
-   "summary": "CRISPR Therapeutics (NasdaqGM:CRSP) has promoted Andrew J. Silver to Chief Financial Officer, effective October 19, 2026. Outgoing CFO Raju Prasad, Ph.D., has resigned from his role, also effective October 19, 2026. Silver steps into the\u2026",
-   "url": "https://finnhub.io/api/news?id=97cd9135b95b04506f1f74474d26dd76f7fdd298691619d7a3d18f6436f40742",
-   "source": "Yahoo",
-   "published": "2026-10-25T08:12:08+00:00",
-   "tickers": [
-    "CRSP"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "f356ae8bcfb8",
-   "headline": "DaVita (DVA) Has The Market Looking Again, What Is Behind The Attention?",
-   "summary": "DaVita (DVA) has been pulled back into focus after agreeing to a settlement of up to $15,000,000 related to a ransomware attack in April 2025 that affected patient and financial data. Against this legal backdrop, DaVita\u2019s share price has\u2026",
-   "url": "https://finnhub.io/api/news?id=bc995599b7a744c27aeed3c021e7a3b4adcf6005f9b6161027bc5202b20fcb63",
-   "source": "Yahoo",
-   "published": "2026-10-25T08:11:16+00:00",
-   "tickers": [
-    "DVA"
-   ],
-   "tag": "Legal",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "097f712e65da",
-   "headline": "Globus Medical (GMED) Unveiled SCRIPT Patient Specific Spinal Implant Platform",
-   "summary": "Globus Medical (NYSE:GMED) introduced its SCRIPT patient-specific spinal implant platform at the 41st Annual North American Spine Society Meeting. The SCRIPT system is FDA cleared and is designed to provide customized spinal implants\u2026",
-   "url": "https://finnhub.io/api/news?id=29a232bb80d7ab69a57419c674b20dd67e1fafc0dc1c504f35b73887000cbca1",
-   "source": "Yahoo",
-   "published": "2026-10-25T08:07:40+00:00",
-   "tickers": [
-    "GMED"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
