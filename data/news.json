@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-04T22:03:22.521599+00:00",
+ "updated": "2026-11-04T22:17:35.552798+00:00",
  "quotes": {
   "A": {
    "price": 177.17,
@@ -250,10 +250,6 @@
    "price": 178.2,
    "change_pct": -0.04
   },
-  "RXRX": {
-   "price": 3.88,
-   "change_pct": 5.43
-  },
   "RXST": {
    "price": 4.99,
    "change_pct": 8.71
@@ -321,6 +317,10 @@
   "ZBH": {
    "price": 110.15,
    "change_pct": 13.49
+  },
+  "ZTS": {
+   "price": 89.2,
+   "change_pct": 7.48
   }
  },
  "tickers": {
@@ -953,6 +953,51 @@
    ]
   },
   {
+   "id": "a0256cc3a701",
+   "headline": "The Biggest Drug Wholesaler Just Crushed Earnings Views \u2014 Here's What To Know",
+   "summary": "McKesson stock was flat late Wednesday, though the drug wholesaler topped fiscal second-quarter views and hiked its earnings guide.",
+   "url": "https://finnhub.io/api/news?id=4b77a98878581be567fba76033daf4025818bc20d9f7458b2b225f0336e09221",
+   "source": "Yahoo",
+   "published": "2026-11-04T21:28:05+00:00",
+   "tickers": [
+    "MCK"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
+  {
+   "id": "164ed1dfbe28",
+   "headline": "Medline Soars 18% on Q3 Earnings Beat, Raised Sales Outlook and $1 Billion Buyback",
+   "summary": "Key TakeawaysMedline shares jumped 18% after a third-quarter beat, a raised sales outlook and a $1 billion buyback. Organic sales grew 10.",
+   "url": "https://finnhub.io/api/news?id=2fffc916bebf01ad4c04f66b7f171f3340aea507db404b76107a912a8f4d00d0",
+   "source": "Yahoo",
+   "published": "2026-11-04T21:19:10+00:00",
+   "tickers": [
+    "MCK"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
+  {
+   "id": "2a6c71911b79",
+   "headline": "McKesson: Fiscal Q2 Earnings Snapshot",
+   "summary": "IRVING, Texas (AP) \u2014 IRVING, Texas (AP) \u2014 McKesson Corp. (MCK) on Wednesday reported fiscal second-quarter net income of $1.",
+   "url": "https://finnhub.io/api/news?id=42e842ff981290eda3a75351db05e3f7679b2b6d50c77c846bb81ee42403f672",
+   "source": "Yahoo",
+   "published": "2026-11-04T21:19:01+00:00",
+   "tickers": [
+    "MCK"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
+  {
    "id": "01f528ed577e",
    "headline": "STAT+: Pharma critic Bernie Sanders is set to hold major sway over FDA funding bill",
    "summary": "Sanders could use his role in crafting the bill to push for reforms.",
@@ -991,6 +1036,21 @@
    "tag": "Financing",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "6a93f9f7e354",
+   "headline": "Was There Any Sign Regeneron Stock Would Run?",
+   "summary": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://finnhub.io/api/news?id=7441f3ccc0faf14efb7b188f42009938af5f6ec174aa60cdcae1728c5054eaea",
+   "source": "Yahoo",
+   "published": "2026-11-04T20:59:19+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -62733,36 +62793,6 @@
     "LLY"
    ],
    "tag": "Health AI",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "38fd8398b48e",
-   "headline": "Weekly Rundown: Quest Diagnostics reports cybersecurity breach; Novant Health launches virtual men\u2019s health clinic",
-   "summary": "The latest news from Novant Health, Function, Withings, Quest Diagnostics and more.",
-   "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-quest-diagnostics-reports-cybersecurity-breach-novant-health-launches",
-   "source": "Fierce Healthcare",
-   "published": "2026-10-25T22:15:23.160253+00:00",
-   "tickers": [
-    "DGX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "a5cd299f89a2",
-   "headline": "Eli Lilly (LLY) Reports Strong Phase 1 Ovarian Cancer Data",
-   "summary": "Eli Lilly (NYSE: LLY) reported new Phase 1 data for Sofe-M plus bevacizumab in platinum-sensitive ovarian cancer patients. The regimen showed a high confirmed response rate and disease control rate in both PARP inhibitor-experienced and\u2026",
-   "url": "https://finnhub.io/api/news?id=ebcde4cebfa030069608d59fed5af7b334172bdb53597ffcbc779d3ab8dd8d9c",
-   "source": "Yahoo",
-   "published": "2026-10-25T22:06:31+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "Clinical",
    "sectors": [
     "pharma"
    ]
