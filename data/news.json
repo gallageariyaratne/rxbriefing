@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-04T02:32:34.620850+00:00",
+ "updated": "2026-11-04T02:47:30.742038+00:00",
  "quotes": {
   "A": {
    "price": 175.46,
@@ -145,6 +145,10 @@
   "GILD": {
    "price": 167.47,
    "change_pct": -1.68
+  },
+  "GKOS": {
+   "price": 233.04,
+   "change_pct": -2.33
   },
   "GMED": {
    "price": 79.58,
@@ -317,10 +321,6 @@
   "SDGR": {
    "price": 27.18,
    "change_pct": 3.78
-  },
-  "SMMT": {
-   "price": 15.8,
-   "change_pct": 6.76
   }
  },
  "tickers": {
@@ -991,6 +991,36 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "b350c519e1e0",
+   "headline": "What Amgen (AMGN) Said on Its Q3 Earnings Call",
+   "summary": "Amgen (NASDAQ:AMGN) reported third-quarter revenue growth of 8% year over year to $10.4 billion, supported by broad-based demand across its portfolio and continued clinical progress in several late-stage programs. The company raised its\u2026",
+   "url": "https://finnhub.io/api/news?id=90034801c6a1ac05830aa2dae6acb71b3682d7b8d86c9f06df724f4dd82518de",
+   "source": "Yahoo",
+   "published": "2026-11-04T01:14:09+00:00",
+   "tickers": [
+    "AMGN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "f72bbf0b9dac",
+   "headline": "How To Earn $500 A Month From Pfizer Stock Ahead Of Q3 Earnings",
+   "summary": "Pfizer Inc investors may be eyeing potential gains from the company\u2019s dividends ahead of its third-quarter report on Tuesday, Nov. 3. Currently, Pfizer has an annual dividend yield of 5.64%, with a quarterly dividend of 43 cents per share\u2026",
+   "url": "https://finnhub.io/api/news?id=454acbb7ba2968abdde25d99040a3844b9610ec3b05445f87a0ca8f98cf40830",
+   "source": "Yahoo",
+   "published": "2026-11-04T00:30:07+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1854,6 +1884,21 @@
    ]
   },
   {
+   "id": "652f374e159e",
+   "headline": "Teladoc Health Announces Employee Inducement Awards under NYSE Rule 303A.08",
+   "summary": "NEW YORK, Nov. 03, 2026 (GLOBE NEWSWIRE) -- Teladoc Health, Inc. (NYSE:TDOC), the global leader in virtual care, today announced that it issued inducement awards to three new employees. Effective November 1, 2026, in connection with the\u2026",
+   "url": "https://finnhub.io/api/news?id=59c0437da2263c3f20a3e598cc6edea37e429c0ac83d91e1b3e2d448659f2a05",
+   "source": "Yahoo",
+   "published": "2026-11-03T21:05:00+00:00",
+   "tickers": [
+    "TDOC"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "9f396ca4bfc7",
    "headline": "Alamar Biosciences Partners with GSK on Large-Scale Proteomic Study to Advance Precision Medicine",
    "summary": "Alamar\u2019s NULISAseq\u2122 Immune 340 and NULISAseq\u2122 Neuro 220 panels will be used to investigate disease progression, biological subtypes and treatment responseFREMONT, Calif., Nov. 03, 2026 (GLOBE NEWSWIRE) -- Alamar Biosciences, Inc. (Nasdaq:\u2026",
@@ -2011,7 +2056,8 @@
    "source": "Yahoo",
    "published": "2026-11-03T20:57:27+00:00",
    "tickers": [
-    "PFE"
+    "PFE",
+    "PTCT"
    ],
    "tag": "News",
    "sectors": [
@@ -3063,6 +3109,21 @@
    ]
   },
   {
+   "id": "5095de289096",
+   "headline": "McGrath RentCorp Soars 9% as It Prepares to Join the S&P SmallCap 600",
+   "summary": "Key TakeawaysMcGrath RentCorp shares jumped 9% on Monday on news it will join the S&P SmallCap 600 on Nov. 4.",
+   "url": "https://finnhub.io/api/news?id=18f4f032344fae4f48727b58bc79106a268cc964cf7ba617f8b35b7f8309c481",
+   "source": "Yahoo",
+   "published": "2026-11-03T17:33:01+00:00",
+   "tickers": [
+    "GKOS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "03d9a53d9c48",
    "headline": "Vertex, ahead of FDA decision, calms fears surrounding kidney drug",
    "summary": "On a conference call, executives expressed conviction in the coming launch of an IgA nephropathy medicine viewed by Wall Street investors as important to Vertex\u2019s future.",
@@ -3173,6 +3234,7 @@
    "published": "2026-11-03T17:06:00+00:00",
    "tickers": [
     "BDX",
+    "GKOS",
     "GMED"
    ],
    "tag": "Earnings",
@@ -4919,6 +4981,7 @@
    "published": "2026-11-03T13:15:00+00:00",
    "tickers": [
     "BDX",
+    "GKOS",
     "GMED",
     "MCK"
    ],
@@ -5656,6 +5719,36 @@
    "tag": "Policy",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "d2278e0b57db",
+   "headline": "PTC Therapeutics Board of Directors Authorizes $500 Million Share Repurchase Program",
+   "summary": "PTC Therapeutics, Inc., (NASDAQ: PTCT) today announced that its Board of Directors has authorized a share repurchase program under which PTC may repurchase up to $500 million of the Company's outstanding shares of common stock, subject to\u2026",
+   "url": "https://finnhub.io/api/news?id=963b83088073acf902636d85197501c360e2e7b8c6522945b5d0026c43ff1575",
+   "source": "Yahoo",
+   "published": "2026-11-03T12:00:00+00:00",
+   "tickers": [
+    "PTCT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "7e59a3711b9d",
+   "headline": "Glaukos Announces Participation in Upcoming Investor Conferences",
+   "summary": "ALISO VIEJO, Calif., November 03, 2026--Glaukos Corporation (NYSE: GKOS), an ophthalmic pharmaceutical and medical technology company focused on novel therapies for the treatment of glaucoma, corneal disorders, and retinal diseases, today\u2026",
+   "url": "https://finnhub.io/api/news?id=c026dedecf146290d1fe2ce4bb8b88d773c75bf3675e922f00e5a48ebbf341a2",
+   "source": "Yahoo",
+   "published": "2026-11-03T12:00:00+00:00",
+   "tickers": [
+    "GKOS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
    ]
   },
   {
