@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-04T13:32:59.998518+00:00",
+ "updated": "2026-11-04T13:49:51.321119+00:00",
  "quotes": {
   "A": {
    "price": 175.46,
@@ -57,6 +57,10 @@
   "BNTX": {
    "price": 86.92,
    "change_pct": -0.7
+  },
+  "BRKR": {
+   "price": 56.5,
+   "change_pct": 1.45
   },
   "BSX": {
    "price": 43.5,
@@ -317,10 +321,6 @@
   "THC": {
    "price": 266.69,
    "change_pct": -0.82
-  },
-  "TMO": {
-   "price": 698.34,
-   "change_pct": 2.3
   }
  },
  "tickers": {
@@ -937,6 +937,32 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "f61d776655f9",
+   "headline": "STAT+: Sens. Wyden and Sanders, backers of Medicare for All, set to take charge of key committees",
+   "summary": "The Democratic flip of the Senate is expected to put two Democrats who support Medicare for All in charge of key committees.",
+   "url": "https://www.statnews.com/2026/11/04/democratic-wins-medicare-for-all-momentum/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-11-04T13:38:17+00:00",
+   "tickers": [],
+   "tag": "Policy",
+   "sectors": []
+  },
+  {
+   "id": "ff43b2386b92",
+   "headline": "BRUKER CORP (NASDAQ:BRKR) Q3 EPS Beat and Margin Expansion Offset Slight Revenue Miss",
+   "summary": "Bruker Q3 revenue came in roughly in line while adjusted EPS beat estimates; margin expansion and reiterated FY EPS outlook lifted shares premarket.",
+   "url": "https://finnhub.io/api/news?id=80d6cd910dc977736edec95bd164e37e7d7eb8440cb68caa497a12bbf18b19cf",
+   "source": "ChartMill",
+   "published": "2026-11-04T13:24:10+00:00",
+   "tickers": [
+    "BRKR"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
   {
    "id": "bffad026407d",
    "headline": "STAT+: The biotech startups skipping AI for drug discovery",
@@ -56997,21 +57023,6 @@
     "BNTX"
    ],
    "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "ae5c004f2916",
-   "headline": "RYBREVANT FASPRO\u2122 (amivantamab and hyaluronidase-lpuj) combination demonstrates 77% overall response rate in first-line treatment of patients with advanced head and neck cancer",
-   "summary": "Johnson & Johnson (NYSE:JNJ) today announced new results from Cohort 5 of the Phase 1b/2 OrigAMI-4 study showing deep and durable responses with first-line subcutaneous amivantamab and hyaluronidase-lpuj plus a PD-1 inhibitor and\u2026",
-   "url": "https://finnhub.io/api/news?id=96c54d96be92c2f31981915f60c816abfb7b55214c028f5cc2bdbeb0db70ca70",
-   "source": "Yahoo",
-   "published": "2026-10-25T13:45:00+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "News",
    "sectors": [
     "pharma"
    ]
