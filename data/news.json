@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-04T01:02:45.165807+00:00",
+ "updated": "2026-11-04T01:17:38.808191+00:00",
  "quotes": {
   "A": {
    "price": 175.46,
@@ -13,6 +13,10 @@
   "ABT": {
    "price": 109.4,
    "change_pct": -0.69
+  },
+  "ACAD": {
+   "price": 20.57,
+   "change_pct": 0.49
   },
   "ALGN": {
    "price": 151.58,
@@ -130,6 +134,10 @@
    "price": 80.66,
    "change_pct": 1.4
   },
+  "GH": {
+   "price": 175,
+   "change_pct": 2.5
+  },
   "GILD": {
    "price": 167.47,
    "change_pct": -1.68
@@ -189,6 +197,10 @@
   "KRYS": {
    "price": 305.03,
    "change_pct": 3.09
+  },
+  "LFST": {
+   "price": 13.37,
+   "change_pct": 0.83
   },
   "LH": {
    "price": 353.92,
@@ -309,18 +321,6 @@
   "TWST": {
    "price": 140.3,
    "change_pct": 8.73
-  },
-  "UHS": {
-   "price": 177.13,
-   "change_pct": -1.95
-  },
-  "UNH": {
-   "price": 404.44,
-   "change_pct": 1.0
-  },
-  "VEEV": {
-   "price": 303.21,
-   "change_pct": -1.23
   }
  },
  "tickers": {
@@ -1246,7 +1246,8 @@
    "source": "Yahoo",
    "published": "2026-11-03T21:30:00+00:00",
    "tickers": [
-    "DXCM"
+    "DXCM",
+    "GH"
    ],
    "tag": "News",
    "sectors": [
@@ -1694,6 +1695,21 @@
    "tag": "FDA",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "92aa9bec3f02",
+   "headline": "3 Dirt Cheap Dividend Stocks to Buy in November 2026",
+   "summary": "These high-yielding stocks pay up to 7.4% in dividends.",
+   "url": "https://finnhub.io/api/news?id=db5af490c8e0fcb2ad1deb55c7af08c1a189c04b960001ca2536fe770c27f855",
+   "source": "Yahoo",
+   "published": "2026-11-03T20:23:02+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -3388,6 +3404,21 @@
    ]
   },
   {
+   "id": "4dac5ad25604",
+   "headline": "Novo Nordisk A/S - share repurchase programme",
+   "summary": "Bagsv\u00e6rd, Denmark, 3 November 2026 \u2013 On 6 May 2026, Novo Nordisk initiated a share repurchase programme in accordance with Article 5 of Regulation No 596/2014 of the European Parliament and Council of 16 April 2014 (MAR) and the\u2026",
+   "url": "https://finnhub.io/api/news?id=257c1192150e37a3187fdc048a1f363774080fb54371b33382bed14a72e0bd98",
+   "source": "Yahoo",
+   "published": "2026-11-03T14:51:00+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "7a241e99804d",
    "headline": "Competent Cells - Global Strategic Business Report 2026: Secure Share of the $3.2 Billion Market by 2032 - Agilent, Bio-Rad, GenScript, and Merck Drive 9.2% CAGR",
    "summary": "Dublin, Nov. 03, 2026 (GLOBE NEWSWIRE) -- \"Competent Cells - Global Strategic Business Report 2026\" has been added to ResearchAndMarkets.com's offering. The global competent cells market was valued at US$1.7 billion in 2025 and is\u2026",
@@ -3846,6 +3877,21 @@
    ]
   },
   {
+   "id": "d34088d76dd8",
+   "headline": "TEM Q3 Earnings Call Highlights Growth and 2027 Pricing Upside",
+   "summary": "Tempus AI raises its 2026 revenue outlook as oncology demand, expanding data partnerships and reimbursement-driven pricing gains fuel growth prospects for 2027.",
+   "url": "https://finnhub.io/api/news?id=4cdba2c08fba5188595c3272039fb192904a016ba32e7cb29cdbcd8d2291b135",
+   "source": "Yahoo",
+   "published": "2026-11-03T14:00:00+00:00",
+   "tickers": [
+    "TEM"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthai"
+   ]
+  },
+  {
    "id": "908d2effeb2a",
    "headline": "Pfizer Bets on Cancer and Weight-Loss Drugs in Post-Pandemic Second Act",
    "summary": "Pfizer boosts full-year guidance on the back of its latest quarter, citing growth in non-Covid offerings and acquired products.",
@@ -3859,6 +3905,21 @@
    "tag": "M&A",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "b799e21d451f",
+   "headline": "Viatris Gears Up to Report Q3 Earnings: Is a Beat in the Cards?",
+   "summary": "VTRS heads into Q3 earnings with new product growth, regional sales trends and supply challenges shaping its outlook.",
+   "url": "https://finnhub.io/api/news?id=9baa6c7b6981343ac973c462ab73f62ac8edaa0f434c7158a96dbb8ca94381d6",
+   "source": "Yahoo",
+   "published": "2026-11-03T13:51:00+00:00",
+   "tickers": [
+    "ACAD"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -4299,6 +4360,21 @@
    ]
   },
   {
+   "id": "d725f0b11418",
+   "headline": "Guardant Health Wins 2026 Prix Galien USA Award for Best Medical Technology for Shield Blood Test",
+   "summary": "PALO ALTO, Calif., November 03, 2026--Guardant Health, Inc. (Nasdaq: GH), a leading precision oncology company, announced it received the 2026 Prix Galien USA Award for Best Medical Technology for Shield\u2122, the leading blood test for\u2026",
+   "url": "https://finnhub.io/api/news?id=11b41a6427a25cea5010de243f491562e7e67822d95edab139e7210824cd0cee",
+   "source": "Yahoo",
+   "published": "2026-11-03T13:05:00+00:00",
+   "tickers": [
+    "GH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "916612d83372",
    "headline": "Eli Lilly Just Delivered Another Monster Quarter. But There\u2019s More to This Story Than Weight-Loss Drugs",
    "summary": "Eli Lilly's weight-loss drugs get all the headlines, but CEO David Ricks is betting the company's next act looks nothing like its last one. Here is what it would actually take for shares to reach $1,700 in 2027.",
@@ -4684,6 +4760,7 @@
    "published": "2026-11-03T12:18:36+00:00",
    "tickers": [
     "DGX",
+    "GH",
     "ILMN",
     "LH"
    ],
@@ -4777,7 +4854,8 @@
    "source": "Yahoo",
    "published": "2026-11-03T12:09:50+00:00",
    "tickers": [
-    "BMY"
+    "BMY",
+    "TEM"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -4860,6 +4938,21 @@
    ]
   },
   {
+   "id": "15e46cfffb34",
+   "headline": "MitoRx Therapeutics Appoints Neil Anderson as Chief Business Officer",
+   "summary": "Neil joins from Novo Nordisk and brings more than 20 years of experience in business development and strategic transactionsAppointment strengthens MitoRx\u2019s business development capabilities as the Company advances MTRX31 towards the\u2026",
+   "url": "https://finnhub.io/api/news?id=b5170623aa5ae129f442732e0bc688fb87709f11809940a3d8ab3e39c752d9ae",
+   "source": "Yahoo",
+   "published": "2026-11-03T12:00:00+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "fff7b5724f98",
    "headline": "Pfizer Just Gained 12% in a Month to a 52-Week High: Take Profits, or Buy More?",
    "summary": "Key TakeawaysPfizer (PFE:NYSE) shares are up 12% in the past month to a 52-week high, while the S&P 500 and the Nasdaq 100 both fell. Two FDA approvals, a Phase 3 win in multiple myeloma and new infant-vaccine data, gave investors reasons\u2026",
@@ -4872,6 +4965,22 @@
    "tag": "FDA",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "f8717600a431",
+   "headline": "How Long Can GRAIL Keep Burning Cash?",
+   "summary": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://finnhub.io/api/news?id=e12c389a3090e0c52d0498b7ae4fb77e30f46c116d9a485dfb043a7fdd4fdf7e",
+   "source": "Yahoo",
+   "published": "2026-11-03T11:56:55+00:00",
+   "tickers": [
+    "GH",
+    "TEM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -5052,6 +5161,7 @@
    "source": "Yahoo",
    "published": "2026-11-03T11:25:36+00:00",
    "tickers": [
+    "LFST",
     "VEEV"
    ],
    "tag": "News",
@@ -5191,6 +5301,7 @@
    "published": "2026-11-03T11:11:00+00:00",
    "tickers": [
     "LLY",
+    "NVO",
     "PFE"
    ],
    "tag": "M&A",
@@ -5318,6 +5429,21 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "bf4c9df6be1e",
+   "headline": "Tempus AI (TEM) Stock Looks Fully Priced Following Its 26% Run",
+   "summary": "Tempus AI has delivered a strong year to date gain, and a stream of new partnerships and regulatory milestones has helped keep the stock in focus. With the share price moving faster than many investors can track the underlying business,\u2026",
+   "url": "https://finnhub.io/api/news?id=7a26accacd0042de568faf80f3eee479832d2d244af01831ba0c753ddeaa3dab",
+   "source": "Yahoo",
+   "published": "2026-11-03T11:07:03+00:00",
+   "tickers": [
+    "TEM"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "healthai"
    ]
   },
   {
@@ -54969,36 +55095,6 @@
     "VRTX"
    ],
    "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "b9b0b6625d81",
-   "headline": "The Call Bristol-Myers Squibb Bulls Got Right",
-   "summary": "If you had been weighing Bristol-Myers Squibb against its looming patent cliffs and the promise of late-stage oncology drugs back in October 2025, the result now looks very different on paper. Holding Bristol-Myers Squibb over the past\u2026",
-   "url": "https://finnhub.io/api/news?id=5fdf203340ab90fc6e92fd8d77e11224da1bdf07135fd9c1c52d8df1d0f1d77c",
-   "source": "Yahoo",
-   "published": "2026-10-25T01:13:05+00:00",
-   "tickers": [
-    "BMY"
-   ],
-   "tag": "Legal",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "57a24ac50c61",
-   "headline": "Stille (OM:STIL) Q3 Earnings Highlight Margin Gains And Cash Strength",
-   "summary": "Stille came into Q3 earnings with its stock at SEK257.5 after a steady few months, backed by a reputation as a high quality, steadily compounding surgical equipment business. The headline today is clear: Q3 2026 saw revenue of SEK170.6m\u2026",
-   "url": "https://finnhub.io/api/news?id=1e0d64f4a11d903cf5178770bc9e6c31621f6bedd31d4f3ea8848de5a7e107a0",
-   "source": "Yahoo",
-   "published": "2026-10-25T01:12:59+00:00",
-   "tickers": [
-    "NVS"
-   ],
-   "tag": "Earnings",
    "sectors": [
     "pharma"
    ]
