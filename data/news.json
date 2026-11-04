@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-04T06:17:42.227755+00:00",
+ "updated": "2026-11-04T06:32:34.044677+00:00",
  "quotes": {
   "A": {
    "price": 175.46,
@@ -174,6 +174,10 @@
    "price": 417.87,
    "change_pct": 1.82
   },
+  "IART": {
+   "price": 13.63,
+   "change_pct": 0.15
+  },
   "ICLR": {
    "price": 203.77,
    "change_pct": -0.67
@@ -317,10 +321,6 @@
   "SMMT": {
    "price": 15.8,
    "change_pct": 6.76
-  },
-  "SNY": {
-   "price": 45.33,
-   "change_pct": -0.48
   }
  },
  "tickers": {
@@ -948,6 +948,21 @@
     "MDT"
    ],
    "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "edc1621fd37a",
+   "headline": "Will Profit Return Change Integra LifeSciences Stock Narrative?",
+   "summary": "Integra LifeSciences reported third quarter 2026 sales of US$411.18 million and net income of US$14.85 million, with diluted earnings per share from continuing operations of US$0.19 compared with a diluted loss a year earlier. The company\u2026",
+   "url": "https://finnhub.io/api/news?id=c3b06403b5cc556ccbaa0a4610ceb032e9b33cd22963133cfa2540e5e44f4576",
+   "source": "Yahoo",
+   "published": "2026-11-04T05:13:20+00:00",
+   "tickers": [
+    "IART"
+   ],
+   "tag": "Earnings",
    "sectors": [
     "medtech"
    ]
