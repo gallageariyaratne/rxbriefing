@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-04T21:17:43.189147+00:00",
+ "updated": "2026-11-04T21:32:48.663441+00:00",
  "quotes": {
   "A": {
    "price": 177.17,
@@ -98,10 +98,6 @@
    "price": 20.96,
    "change_pct": 7.76
   },
-  "DXCM": {
-   "price": 88.48,
-   "change_pct": 6.64
-  },
   "ELV": {
    "price": 434.18,
    "change_pct": 4.94
@@ -113,10 +109,6 @@
   "GEHC": {
    "price": 85.81,
    "change_pct": 6.38
-  },
-  "GH": {
-   "price": 168.58,
-   "change_pct": -3.67
   },
   "GILD": {
    "price": 174.48,
@@ -314,13 +306,21 @@
    "price": 310.63,
    "change_pct": 2.45
   },
-  "VKTX": {
-   "price": 27.97,
-   "change_pct": 7.21
-  },
   "VRTX": {
    "price": 549.04,
    "change_pct": 3.44
+  },
+  "WAT": {
+   "price": 467.6,
+   "change_pct": 1.67
+  },
+  "WAY": {
+   "price": 29.69,
+   "change_pct": 7.36
+  },
+  "ZBH": {
+   "price": 110.15,
+   "change_pct": 13.49
   }
  },
  "tickers": {
@@ -937,6 +937,47 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "01f528ed577e",
+   "headline": "STAT+: Pharma critic Bernie Sanders is set to hold major sway over FDA funding bill",
+   "summary": "Sanders could use his role in crafting the bill to push for reforms.",
+   "url": "https://www.statnews.com/2026/11/04/bernie-sanders-senate-help-key-role-pdufa-reauthorization/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-11-04T21:17:19+00:00",
+   "tickers": [],
+   "tag": "FDA",
+   "sectors": []
+  },
+  {
+   "id": "7279bc561125",
+   "headline": "Medtronic to announce financial results for its second quarter of fiscal year 2027",
+   "summary": "GALWAY, Ireland, Nov. 4, 2026 /PRNewswire/ -- Medtronic plc (NYSE: MDT), a global leader in healthcare technology, today announced that it will report financial results on Tuesday, November 24, 2026, for its second quarter of fiscal year\u2026",
+   "url": "https://www.prnewswire.com/news-releases/medtronic-to-announce-financial-results-for-its-second-quarter-of-fiscal-year-2027-302929617.html",
+   "source": "PR Newswire",
+   "published": "2026-11-04T21:15:00+00:00",
+   "tickers": [
+    "MDT"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "41ce81231de2",
+   "headline": "Laza Medical Raises Up to $160 Million in Series B Financing Led by GE HealthCare to Advance Intelligent Imaging for Transforming the Cath Lab",
+   "summary": "Company's first-of-a-kind intelligent imaging system aims to expand patient access, streamline high-quality cardiac care, and establish the foundation for future robotic interventions LOS GATOS, Calif., Nov. 4, 2026 /PRNewswire/ -- Laza\u2026",
+   "url": "https://www.prnewswire.com/news-releases/laza-medical-raises-up-to-160-million-in-series-b-financing-led-by-ge-healthcare-to-advance-intelligent-imaging-for-transforming-the-cath-lab-302929797.html",
+   "source": "PR Newswire",
+   "published": "2026-11-04T21:14:00+00:00",
+   "tickers": [
+    "GEHC"
+   ],
+   "tag": "Financing",
+   "sectors": [
+    "medtech"
+   ]
+  },
   {
    "id": "b4092f3b40c0",
    "headline": "With oncology pipeline at \u2018inflection point,\u2019 Merck puts finish line in focus with new corporate campaign",
