@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-04T00:17:44.442040+00:00",
+ "updated": "2026-11-04T00:32:39.586616+00:00",
  "quotes": {
   "A": {
    "price": 175.46,
@@ -157,6 +157,10 @@
   "IART": {
    "price": 13.63,
    "change_pct": 0.15
+  },
+  "ICLR": {
+   "price": 203.77,
+   "change_pct": -0.67
   },
   "IDXX": {
    "price": 672.04,
@@ -317,10 +321,6 @@
   "VKTX": {
    "price": 26.09,
    "change_pct": -2.76
-  },
-  "VRTX": {
-   "price": 530.76,
-   "change_pct": -4.05
   }
  },
  "tickers": {
@@ -937,6 +937,96 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "2fcc1507c754",
+   "headline": "Stock Market Election Night: Dow Futures, AI Stocks, Elon Musk In Focus; AMD, Arista Lead Earnings Winners (Live)",
+   "summary": "IBD's stock market election night coverage will focus on midterm results' impact on Dow Jones futures, Treasury yields, AI and more.",
+   "url": "https://finnhub.io/api/news?id=66a957fd9ea828523ddd20d41168ae0df47ca0ad1c179b59c013acc2a0811fbe",
+   "source": "Yahoo",
+   "published": "2026-11-03T23:47:33+00:00",
+   "tickers": [
+    "THC"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "55bcfcd5fd8f",
+   "headline": "CVS Stock Rises After Hours On Alleged Pharmacy Spin-Off Ahead Of Q3 Earnings Report",
+   "summary": "CVS is considering spinning off its retail pharmacy division as a separately listed company, The Financial Times reported, citing people familiar with the matter.",
+   "url": "https://finnhub.io/api/news?id=93ebe420ee1d6948f24c9f2ab4891bf5733aa18d2b406d0c6f567b66538cd969",
+   "source": "Yahoo",
+   "published": "2026-11-03T23:37:40+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "2a12b4557dcf",
+   "headline": "CVS Jumps on Report It Plans to Break Up Health Conglomerate",
+   "summary": "CVS Health Corp. is discussing plans to spin off its retail pharmacy business, according to the Financial Times, a shocking retreat for the country\u2019s largest drugstore chain.",
+   "url": "https://finnhub.io/api/news?id=ed5996a3483046e3a319403cffa196ba1480b6782d8760cd3f7152df9f4e64a6",
+   "source": "Yahoo",
+   "published": "2026-11-03T22:45:29+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "663aa5a40fcd",
+   "headline": "CVS Earnings Will Be About One Federal Drug Program",
+   "summary": "Wall Street expects CVS to report third-quarter adjusted earnings of $1.65 a share, up from $1.60 a share in the same quarter last year.",
+   "url": "https://finnhub.io/api/news?id=55623ccbe34ee8d18f4bf8f6e1bca8400bc03b8f7982961c42aa6982ae421c2a",
+   "source": "Yahoo",
+   "published": "2026-11-03T22:38:00+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "5d68fefe3dbf",
+   "headline": "CVS Health moves to dismantle $117bn healthcare empire",
+   "summary": "CVS Health is plotting a break-up of its $117bn healthcare empire, separating its retail pharmacy chain from its insurance business in what would...",
+   "url": "https://finnhub.io/api/news?id=57b59cdb9d4c816bb857575c3bb479075394ae8fa07129653acf4c958a1bc3ce",
+   "source": "Yahoo",
+   "published": "2026-11-03T22:33:06+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "16cbcb92a6bd",
+   "headline": "Jazz Pharmaceuticals (JAZZ) Stock Jumps On Q2 Earnings Turnaround",
+   "summary": "Jazz Pharmaceuticals entered this earnings season trading like a problem child with potential, well below many fair value models and still dealing with the memory of a large one off loss. Q2 2026 results landed with a jolt. The stock rose\u2026",
+   "url": "https://finnhub.io/api/news?id=b84e00fda097c523f38e7a9f737cb04e1e38a1de9d535efb46194b63fe2310ab",
+   "source": "Yahoo",
+   "published": "2026-11-03T22:20:08+00:00",
+   "tickers": [
+    "JAZZ"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
   {
    "id": "c4b122a883a7",
    "headline": "Novo Nordisk A/S Repurchases B Shares Under DKK 15 Billion Programme",
@@ -2548,6 +2638,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "4a7be9303db9",
+   "headline": "ICON PLC (ICLR) Is Leveraging AI to Accelerate Clinical Trials",
+   "summary": "Riverwater Partners, an investment management company, released its \u201cSustainable Value Strategy\u201d Q3 2026 investor letter. The letter can be downloaded here. The strategy underperformed the Russell 2500 Value Index in Q3 2026, mainly\u2026",
+   "url": "https://finnhub.io/api/news?id=18943deffef9b55b7902ec99a78300a671edf143377e332356b635ba23c8c0f8",
+   "source": "Yahoo",
+   "published": "2026-11-03T15:49:52+00:00",
+   "tickers": [
+    "ICLR"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -54487,21 +54592,6 @@
    "tag": "News",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "9c8254e2dfc8",
-   "headline": "What Bears Saw Before Hims & Hers Health Slid",
-   "summary": "If you only glanced at the headlines on Hims & Hers Health, the story looked exciting. AI-native care, GLP-1 partnerships and global expansion sounded like the textbook setup for a win. For Hims & Hers Health shareholders, the loss over\u2026",
-   "url": "https://finnhub.io/api/news?id=23d51222bd147c2605ffa3b0a2134fcccfbafd7ff1ae093f9aad9172f39cb6a9",
-   "source": "Yahoo",
-   "published": "2026-10-25T00:17:19+00:00",
-   "tickers": [
-    "HIMS"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "healthit"
    ]
   }
  ]
