@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-04T01:47:43.569248+00:00",
+ "updated": "2026-11-04T02:02:39.461119+00:00",
  "quotes": {
   "A": {
    "price": 175.46,
@@ -105,6 +105,10 @@
   "DHR": {
    "price": 230.11,
    "change_pct": 0.94
+  },
+  "DNLI": {
+   "price": 19.45,
+   "change_pct": 3.13
   },
   "DOCS": {
    "price": 32.6,
@@ -238,6 +242,10 @@
    "price": 164.85,
    "change_pct": 13.42
   },
+  "NTRA": {
+   "price": 388.63,
+   "change_pct": 2.56
+  },
   "NVO": {
    "price": 40.19,
    "change_pct": -0.64
@@ -282,6 +290,10 @@
    "price": 36.04,
    "change_pct": 0.42
   },
+  "RVMD": {
+   "price": 194.23,
+   "change_pct": 3.22
+  },
   "RXRX": {
    "price": 3.68,
    "change_pct": -3.92
@@ -309,18 +321,6 @@
   "SYK": {
    "price": 310.55,
    "change_pct": 1.22
-  },
-  "TDOC": {
-   "price": 8.89,
-   "change_pct": 3.01
-  },
-  "TECH": {
-   "price": 72.66,
-   "change_pct": -0.01
-  },
-  "TEM": {
-   "price": 77.8,
-   "change_pct": -0.87
   }
  },
  "tickers": {
@@ -964,6 +964,21 @@
    ]
   },
   {
+   "id": "b1a9310517d0",
+   "headline": "Denali Therapeutics Q3 Earnings Call Highlights",
+   "summary": "Denali Therapeutics (NASDAQ:DNLI) reported third-quarter 2026 net product revenue of $17.8 million from AVLAYAH, its treatment for Hunter syndrome, as expanding payer coverage and transitions of clinical-trial participants to commercial\u2026",
+   "url": "https://finnhub.io/api/news?id=7a3c963805688bf80792a7a954691de875f0f91d08e024bb4f3058777c12f698",
+   "source": "Yahoo",
+   "published": "2026-11-04T00:14:03+00:00",
+   "tickers": [
+    "DNLI"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "703e599d0dd9",
    "headline": "RxSight (NASDAQ:RXST) Q3 Revenue Miss and Margin Pressure Drive After-Market Selloff",
    "summary": "RxSight Q3 2026 revenue missed estimates as Light Adjustable Lens sales fell 19%, gross margin narrowed, and shares dropped despite a narrower adjusted loss.",
@@ -976,6 +991,36 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "9f4f1fd20ed1",
+   "headline": "InnovAge Holding Corp. (INNV) Tops Q1 Earnings and Revenue Estimates",
+   "summary": "InnovAge (INNV) delivered earnings and revenue surprises of +27.27% and +3.74%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=6dfa3982cfe61ff1cdc14e7ea621a93d1947128405c265dea86784b8e854c4e9",
+   "source": "Yahoo",
+   "published": "2026-11-03T23:55:05+00:00",
+   "tickers": [
+    "NTRA"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "ef24339f5602",
+   "headline": "American Well Corporation (AMWL) Reports Q3 Loss, Tops Revenue Estimates",
+   "summary": "American Well (AMWL) delivered earnings and revenue surprises of -1.52% and +4.10%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=96a0c10790c5bf515a9b6ff72c6119573d390d03c76c579ca7705974799921e5",
+   "source": "Yahoo",
+   "published": "2026-11-03T23:55:03+00:00",
+   "tickers": [
+    "AMWL"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
    ]
   },
   {
@@ -1050,6 +1095,21 @@
     "AMGN"
    ],
    "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "0c7197babe15",
+   "headline": "NRIX Slumps 35% After-Hours \u2014 What\u2019s Driving The Selloff?",
+   "summary": "Sanofi notified Nurix that it is ending the early-stage first-in-human trial of SAR448272 and terminating the program entirely.",
+   "url": "https://finnhub.io/api/news?id=5cef96e8e9095b57e25a2923d991613cf01c485f6ceb45dfb71e503c768cd0c0",
+   "source": "Yahoo",
+   "published": "2026-11-03T22:58:21+00:00",
+   "tickers": [
+    "SNY"
+   ],
+   "tag": "News",
    "sectors": [
     "pharma"
    ]
@@ -1130,6 +1190,21 @@
    ]
   },
   {
+   "id": "11faecb3b655",
+   "headline": "Denali Therapeutics soars on earnings beat",
+   "summary": "Investing.com -- Denali Therapeutics Inc (NASDAQ:DNLI) reported third-quarter earnings that exceeded analyst expectations, driven by accelerating sales of its recently launched product AVLAYAH, sending shares up 9.8% in after-hours\u2026",
+   "url": "https://finnhub.io/api/news?id=d852b792e486bcb2576c4416b1bd97a3732830c82a9c8a8a2e0075c89e0c7dc2",
+   "source": "Yahoo",
+   "published": "2026-11-03T22:24:19+00:00",
+   "tickers": [
+    "DNLI"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "0206c1ddafd4",
    "headline": "Humana (HUM) Declares Dividend, Is The Stock Still Cheap?",
    "summary": "Humana dividend announcement and why it matters now Humana (HUM) just confirmed a cash dividend of $0.885 per share, payable on January 29, 2027, to shareholders on record as of December 24, 2026. For income focused investors, that fixed\u2026",
@@ -1175,6 +1250,21 @@
    ]
   },
   {
+   "id": "0cdd363c14d6",
+   "headline": "SOPHiA GENETICS S.A. Q3 2026 Earnings Call Summary",
+   "summary": "Moby summary of SOPHiA GENETICS S.A.'s Q3 2026 earnings call",
+   "url": "https://finnhub.io/api/news?id=57d4997dc075b03cdefbd8ae6ec46b23609147f735c4602803552ffdcfec3e08",
+   "source": "Yahoo",
+   "published": "2026-11-03T22:17:37+00:00",
+   "tickers": [
+    "SOPH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthai"
+   ]
+  },
+  {
    "id": "db70cc1b7e63",
    "headline": "Amgen (NASDAQ:AMGN) exceeds Q3 2026 expectations, full-year outlook slightly exceeds expectations",
    "summary": "Biotech company Amgen (NASDAQ:AMGN) beat Wall Street\u2019s revenue expectations in Q3 2026, with revenue up 8.5% year on year to $10.37 billion. The company\u2019s full-year revenue guidance of $39.3 billion at the midpoint came in 0.8% above\u2026",
@@ -1197,11 +1287,27 @@
    "source": "Yahoo",
    "published": "2026-11-03T22:08:17+00:00",
    "tickers": [
-    "RXRX"
+    "RXRX",
+    "SNY"
    ],
    "tag": "Earnings",
    "sectors": [
     "healthai"
+   ]
+  },
+  {
+   "id": "9d1720f59090",
+   "headline": "Nurix Therapeutics stock tumbles on Sanofi program termination",
+   "summary": "Investing.com -- Nurix Therapeutics Inc. (NASDAQ:NRIX) shares fell 34% in after-hours trading Tuesday following Sanofi\u2019s decision to discontinue development of SAR448272, an oral STAT6 degrader.",
+   "url": "https://finnhub.io/api/news?id=d83e460be26859c7b81b0e808d6a5f1b0a6252d2494237a514abb2d3b99e04c5",
+   "source": "Yahoo",
+   "published": "2026-11-03T21:54:20+00:00",
+   "tickers": [
+    "SNY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1232,6 +1338,21 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "c6a732559ec0",
+   "headline": "Denali Therapeutics Inc. (DNLI) Reports Q3 Loss, Beats Revenue Estimates",
+   "summary": "Denali Therapeutics (DNLI) delivered earnings and revenue surprises of +7.25% and +41.88%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=6b567877c4f1421bef394c36fb7bae35cb10582ce1a4212919186dbb1492d553",
+   "source": "Yahoo",
+   "published": "2026-11-03T21:50:03+00:00",
+   "tickers": [
+    "DNLI"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -1522,6 +1643,21 @@
    ]
   },
   {
+   "id": "393ab01f18f3",
+   "headline": "Madrigal Pharmaceuticals Inc (MDGL) Q3 2026 Earnings Call Highlights: First Profitable Quarter ...",
+   "summary": "Madrigal Pharmaceuticals Inc (MDGL) posts $431.3 million in quarterly net sales, swings to $55.4 million net income, and expands its F4C pipeline with a new Phase 3 Maestro CSPH trial.",
+   "url": "https://finnhub.io/api/news?id=50a0b46a35f79594781a82aef37bfc8e970a563419970a315238bec7c6a594c6",
+   "source": "Yahoo",
+   "published": "2026-11-03T21:05:42+00:00",
+   "tickers": [
+    "MDGL"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "01a1d54ea18e",
    "headline": "Neurocrine Biosciences to Spotlight Its Scientific Journey and Growing Neuropsychiatry Pipeline at 2026 NEI Fall Congress",
    "summary": "SAN DIEGO, Nov. 3, 2026 /PRNewswire/ -- Neurocrine Biosciences, Inc. (Nasdaq: NBIX) today announced its participation in the 2026 Neuroscience Education Institute (NEI) Fall Congress, taking place Nov. 5-8 in Colorado Springs, Colo.\u2026",
@@ -1612,6 +1748,21 @@
    ]
   },
   {
+   "id": "1435e4ec29e4",
+   "headline": "Amwell\u00ae Announces Results for the Third Quarter 2026",
+   "summary": "BOSTON, Nov. 03, 2026 (GLOBE NEWSWIRE) -- Amwell\u00ae (NYSE: AMWL), a leading provider of a comprehensive SaaS-based technology-enabled healthcare platform, today announced financial results for the third quarter ended September 30, 2026.\u2026",
+   "url": "https://finnhub.io/api/news?id=aaefde5096b19e67805e39418bc15059aff6e4140c9ccce653a924b6be5383e1",
+   "source": "Yahoo",
+   "published": "2026-11-03T21:05:00+00:00",
+   "tickers": [
+    "AMWL"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "9f396ca4bfc7",
    "headline": "Alamar Biosciences Partners with GSK on Large-Scale Proteomic Study to Advance Precision Medicine",
    "summary": "Alamar\u2019s NULISAseq\u2122 Immune 340 and NULISAseq\u2122 Neuro 220 panels will be used to investigate disease progression, biological subtypes and treatment responseFREMONT, Calif., Nov. 03, 2026 (GLOBE NEWSWIRE) -- Alamar Biosciences, Inc. (Nasdaq:\u2026",
@@ -1687,6 +1838,36 @@
    ]
   },
   {
+   "id": "16f9aa9e30c4",
+   "headline": "Nurix Therapeutics Announces Sanofi\u2019s Decision to Discontinue Development of STAT6 Degrader SAR448272",
+   "summary": "BRISBANE, Calif., Nov. 03, 2026 (GLOBE NEWSWIRE) -- Nurix Therapeutics, Inc. (Nasdaq: NRIX), a clinical-stage biopharmaceutical company focused on targeted protein degradation medicines, today announced that Sanofi notified Nurix of its\u2026",
+   "url": "https://finnhub.io/api/news?id=acb8f1942ad00d882a8d64271123fc62c7b62d6b1d64fe89ef3bc06f9376f9d5",
+   "source": "Yahoo",
+   "published": "2026-11-03T21:01:00+00:00",
+   "tickers": [
+    "SNY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "355d97b8bc8b",
+   "headline": "Denali Therapeutics Reports Third Quarter 2026 Financial Results and Business Highlights",
+   "summary": "AVLAYAH\u00ae (tividenofusp alfa-eknm) net product revenue accelerated to $17.8 million in its second full commercial quarterContinued growth expectations drive Q4 2026 net product revenue guidance of $30.0 million to $32.0 millionAVLAYAH\u2026",
+   "url": "https://finnhub.io/api/news?id=71bb2b105fb6ef104f4a0e79e17005838a2219d7d5964116eba21e1164507772",
+   "source": "Yahoo",
+   "published": "2026-11-03T21:01:00+00:00",
+   "tickers": [
+    "DNLI"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "a24026e6595b",
    "headline": "Arrowhead Pharmaceuticals to Webcast 2026 Fiscal Year-End Results",
    "summary": "PASADENA, Calif., November 03, 2026--Arrowhead Pharmaceuticals, Inc. (NASDAQ: ARWR) today announced that it will host a webcast and conference call on November 12, 2026, at 4:30 p.m. ET to discuss its financial results for the 2026 fiscal\u2026",
@@ -1751,6 +1932,36 @@
    "published": "2026-11-03T20:47:13+00:00",
    "tickers": [
     "RXRX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthai"
+   ]
+  },
+  {
+   "id": "88a6c4ad7b08",
+   "headline": "Madrigal (MDGL) Q3 2026 Earnings Call Transcript",
+   "summary": "Rezdiffra hits blockbuster status as net income turns positive for first time.",
+   "url": "https://finnhub.io/api/news?id=d2ed60568684abe8bb622e7cc22c92b7f60c23313d07a0761b1a9fbb98823a79",
+   "source": "Yahoo",
+   "published": "2026-11-03T20:38:21+00:00",
+   "tickers": [
+    "MDGL"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "e23f7ffd205d",
+   "headline": "SOPHiA (SOPH) Q3 2026 Earnings Call Transcript",
+   "summary": "Liquid biopsy volumes doubled while U.S. market revenue surged 41% year over year.",
+   "url": "https://finnhub.io/api/news?id=bfb8d81c8389838ec92b9ec7e44c48b3203b5b302bcd7e3d0fa9bbc836f7941e",
+   "source": "Yahoo",
+   "published": "2026-11-03T20:38:13+00:00",
+   "tickers": [
+    "SOPH"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -1826,6 +2037,21 @@
    "tag": "M&A",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "2000321abc6a",
+   "headline": "MDGL Stock Hits Fresh 52-Week Low On Near-Term Profitability Concerns, But Citi Sees Over 75% Upside",
+   "summary": "On the company\u2019s earnings call, CFO Mardi Dier said that Madrigal \u201cmay dip in and out of profitability in the near term\u201d depending on the timing of investments and seasonal patterns.",
+   "url": "https://finnhub.io/api/news?id=824d72b1eeac0594d88b7b585bb019e743fc7aa7a2c8405f7c946d891f8504a3",
+   "source": "Yahoo",
+   "published": "2026-11-03T20:15:06+00:00",
+   "tickers": [
+    "MDGL"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -2020,7 +2246,8 @@
    "source": "Yahoo",
    "published": "2026-11-03T19:14:39+00:00",
    "tickers": [
-    "RXRX"
+    "RXRX",
+    "SNY"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -2581,6 +2808,21 @@
    ]
   },
   {
+   "id": "2963ce24db20",
+   "headline": "Madrigal Pharmaceuticals, Inc. Q3 2026 Earnings Call Summary",
+   "summary": "Moby summary of Madrigal Pharmaceuticals, Inc.'s Q3 2026 earnings call",
+   "url": "https://finnhub.io/api/news?id=39de3e395c90ff64f1b465e1aedf7c819ce1d8df4e86415c6edc7c4f747c361c",
+   "source": "Yahoo",
+   "published": "2026-11-03T18:02:41+00:00",
+   "tickers": [
+    "MDGL"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "3953560de1b9",
    "headline": "4 GARP Stocks to Buy Now as Volatility Fuels Value vs. Growth Debate",
    "summary": "Discover four GARP stocks, APA, T-Mobile, BP and Centene, that combine attractive valuations with sustainable earnings growth potential amid market volatility.",
@@ -2739,6 +2981,21 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "0637ef548fa5",
+   "headline": "What Madrigal Pharmaceuticals (MDGL) Said on Its Q3 Earnings Call",
+   "summary": "Madrigal Pharmaceuticals (NASDAQ:MDGL) reported third-quarter 2026 net sales of $431.3 million for its MASH treatment Rezdiffra, up 50% from the prior-year period, as the company said it continued to add patients and expand its prescriber\u2026",
+   "url": "https://finnhub.io/api/news?id=009d329c4f305b578c6f5fb658a16e572d3eb3cb281d9ebbecd0205623d5fc04",
+   "source": "Yahoo",
+   "published": "2026-11-03T17:14:55+00:00",
+   "tickers": [
+    "MDGL"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -3108,6 +3365,21 @@
    ]
   },
   {
+   "id": "41256536a88f",
+   "headline": "How Did Madrigal Pharmaceuticals Turn a $114 Million Loss Into a Q3 Profit as Rezdiffra Sales Surpassed $1 Billion?",
+   "summary": "Madrigal Pharmaceuticals (NASDAQ:MDGL) reported a return to profitability in the third quarter of 2026, supported by growing demand for its liver disease treatment Rezdiffra. The biopharmaceutical company\u2019s quarterly revenue increased 50%\u2026",
+   "url": "https://finnhub.io/api/news?id=74971b905f2f715f3feb92e0cc2a5567c8e471a627fee8a8e164db9e9bcd7d01",
+   "source": "Yahoo",
+   "published": "2026-11-03T16:05:19+00:00",
+   "tickers": [
+    "MDGL"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "80c13f39e900",
    "headline": "AbbVie Hit a New High After Earnings. There\u2019s More Upside Left.",
    "summary": "AbbVie just logged a 33% gain for the year and raised its guidance again, but the real question is whether Skyrizi and a newly closed pipeline deal can push shares even further past a valuation that already looks stretched.",
@@ -3332,11 +3604,27 @@
    "source": "Yahoo",
    "published": "2026-11-03T15:15:00+00:00",
    "tickers": [
-    "NBIX"
+    "NBIX",
+    "TGTX"
    ],
    "tag": "Earnings",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "eea2f5e697c3",
+   "headline": "SOPHiA GENETICS Q3 Earnings Call Highlights",
+   "summary": "SOPHiA GENETICS (NASDAQ:SOPH) reported third-quarter 2026 revenue growth of 25% year over year, supported by expansion in the U.S., growing adoption of liquid biopsy testing and contributions from biopharma collaborations. The company\u2026",
+   "url": "https://finnhub.io/api/news?id=5e9e147ad9da63e4ef06a426a0592360e1dc6b5975ab14edd89ff0522f9b05cc",
+   "source": "Yahoo",
+   "published": "2026-11-03T15:14:34+00:00",
+   "tickers": [
+    "SOPH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthai"
    ]
   },
   {
@@ -3395,7 +3683,8 @@
    "source": "Yahoo",
    "published": "2026-11-03T15:12:00+00:00",
    "tickers": [
-    "JAZZ"
+    "JAZZ",
+    "TGTX"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -3532,7 +3821,8 @@
    "source": "Yahoo",
    "published": "2026-11-03T14:59:00+00:00",
    "tickers": [
-    "RXRX"
+    "RXRX",
+    "SNY"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -3830,6 +4120,7 @@
    "published": "2026-11-03T14:24:00+00:00",
    "tickers": [
     "CRSP",
+    "TGTX",
     "VRTX"
    ],
    "tag": "Earnings",
@@ -3920,6 +4211,7 @@
    "source": "Yahoo",
    "published": "2026-11-03T14:15:00+00:00",
    "tickers": [
+    "TGTX",
     "ZTS"
    ],
    "tag": "Earnings",
@@ -4002,6 +4294,7 @@
    "published": "2026-11-03T14:02:00+00:00",
    "tickers": [
     "CRSP",
+    "TGTX",
     "VRTX"
    ],
    "tag": "Earnings",
@@ -4078,7 +4371,8 @@
    "source": "Yahoo",
    "published": "2026-11-03T13:51:00+00:00",
    "tickers": [
-    "ACAD"
+    "ACAD",
+    "TGTX"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -4925,7 +5219,8 @@
     "DGX",
     "GH",
     "ILMN",
-    "LH"
+    "LH",
+    "NTRA"
    ],
    "tag": "News",
    "sectors": [
@@ -4962,6 +5257,21 @@
    "tag": "Earnings",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "c604a10620f0",
+   "headline": "Madrigal (MDGL) Q3 Earnings and Revenues Beat Estimates",
+   "summary": "Madrigal (MDGL) delivered earnings and revenue surprises of +267.89% and +7.81%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=ecdc5cda37b06efdb8502749d3797a2f47df84adc9416832f0e32aaffd92f8b3",
+   "source": "Yahoo",
+   "published": "2026-11-03T12:15:03+00:00",
+   "tickers": [
+    "MDGL"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -5011,6 +5321,21 @@
    ]
   },
   {
+   "id": "7a1641442946",
+   "headline": "Genmab Stock Price Shock Puts 3 Oncology Biotech Names In Focus",
+   "summary": "Genmab has gone from specialist biotech to front-page story after three cancer drugs cleared key Phase 3 hurdles and the stock price doubled in just three months. That kind of sudden spotlight often leaves some investors overexposed while\u2026",
+   "url": "https://finnhub.io/api/news?id=736eb9b92ad5213b5637bd1ca52e774c0dbf618030dc6d272c89a029ac646ba7",
+   "source": "Yahoo",
+   "published": "2026-11-03T12:10:22+00:00",
+   "tickers": [
+    "RVMD"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "d3d5572135b1",
    "headline": "Why Tempus AI Stock Is Up 8.7% And What's Next",
    "summary": "Tempus AI reported Q3 2026 revenue of US$411.54 million and a net loss of US$14.85 million, with management raising full-year revenue guidance to a range of US$1.60 billion to US$1.605 billion and signing multi-year data agreements with\u2026",
@@ -5024,6 +5349,21 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "97d3c0826570",
+   "headline": "Madrigal: Q3 Earnings Snapshot",
+   "summary": "(AP) \u2014 Madrigal Pharmaceuticals Inc. (MDGL) on Tuesday reported third-quarter earnings of $55.",
+   "url": "https://finnhub.io/api/news?id=4ce6d0894d8373d5663ebfa257ab3f8959629e29f95c960ddc2e25f6a1144515",
+   "source": "Yahoo",
+   "published": "2026-11-03T12:09:41+00:00",
+   "tickers": [
+    "MDGL"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -5049,7 +5389,8 @@
    "source": "Yahoo",
    "published": "2026-11-03T12:00:03+00:00",
    "tickers": [
-    "SDGR"
+    "SDGR",
+    "SOPH"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -5147,6 +5488,36 @@
    ]
   },
   {
+   "id": "c55ad430d130",
+   "headline": "Madrigal Pharmaceuticals Reports Third-Quarter 2026 Financial Results and Provides Corporate Updates",
+   "summary": "Third-quarter 2026 Rezdiffra\u00ae (resmetirom) net sales of $431.3 million, representing year-over-year growth of 50%; achieved first quarter of profitability Rezdiffra reaches a major milestone, achieving blockbuster status with year-to-date\u2026",
+   "url": "https://finnhub.io/api/news?id=669bd18181cdb2b3490846fd02861e430e4ffe23c6fab48d9f2fb24b09b6240d",
+   "source": "Yahoo",
+   "published": "2026-11-03T12:00:00+00:00",
+   "tickers": [
+    "MDGL"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "62881d72cce2",
+   "headline": "Medicare Expands Coverage for Signatera\u2122 MRD Test in Hepatocellular Carcinoma",
+   "summary": "AUSTIN, Texas, November 03, 2026--Natera, Inc. (NASDAQ: NTRA), a global leader in cell-free DNA and precision medicine, today announced that its Signatera molecular residual disease (MRD) test has received Medicare coverage through the\u2026",
+   "url": "https://finnhub.io/api/news?id=98ac0d75cb9137f20a2c1b0fb2ce741e547464230ae01951f21649cca9ff7ea5",
+   "source": "Yahoo",
+   "published": "2026-11-03T12:00:00+00:00",
+   "tickers": [
+    "NTRA"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "fff7b5724f98",
    "headline": "Pfizer Just Gained 12% in a Month to a 52-Week High: Take Profits, or Buy More?",
    "summary": "Key TakeawaysPfizer (PFE:NYSE) shares are up 12% in the past month to a 52-week high, while the S&P 500 and the Nasdaq 100 both fell. Two FDA approvals, a Phase 3 win in multiple myeloma and new infant-vaccine data, gave investors reasons\u2026",
@@ -5170,6 +5541,7 @@
    "published": "2026-11-03T11:56:55+00:00",
    "tickers": [
     "GH",
+    "NTRA",
     "TEM"
    ],
    "tag": "News",
@@ -5285,6 +5657,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "3cb804d23775",
+   "headline": "SOPHiA GENETICS Reports Third Quarter 2026 Results",
+   "summary": "SOPHiA GENETICS (Nasdaq: SOPH), a global leader in AI-driven precision medicine, today reported financial results for the third quarter ended September 30, 2026.",
+   "url": "https://finnhub.io/api/news?id=5bb004fcd1888cb48063f7f0c0a12c8d9507555cd7ba8bcbfbd867ee426d84a4",
+   "source": "Yahoo",
+   "published": "2026-11-03T11:45:00+00:00",
+   "tickers": [
+    "SOPH"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "healthai"
    ]
   },
   {
