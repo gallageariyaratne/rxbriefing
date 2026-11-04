@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-04T01:32:51.430301+00:00",
+ "updated": "2026-11-04T01:47:43.569248+00:00",
  "quotes": {
   "A": {
    "price": 175.46,
@@ -146,6 +146,10 @@
    "price": 79.58,
    "change_pct": 0.15
   },
+  "GSK": {
+   "price": 48.7,
+   "change_pct": -0.88
+  },
   "HCA": {
    "price": 462.86,
    "change_pct": -1.04
@@ -250,6 +254,10 @@
    "price": 30,
    "change_pct": -2.18
   },
+  "PHR": {
+   "price": 12.23,
+   "change_pct": -1.69
+  },
   "PODD": {
    "price": 154.86,
    "change_pct": 0.81
@@ -282,6 +290,14 @@
    "price": 4.59,
    "change_pct": -4.38
   },
+  "SDGR": {
+   "price": 27.18,
+   "change_pct": 3.78
+  },
+  "SMMT": {
+   "price": 15.8,
+   "change_pct": 6.76
+  },
   "SNY": {
    "price": 45.33,
    "change_pct": -0.48
@@ -305,22 +321,6 @@
   "TEM": {
    "price": 77.8,
    "change_pct": -0.87
-  },
-  "THC": {
-   "price": 266.69,
-   "change_pct": -0.82
-  },
-  "TMO": {
-   "price": 698.34,
-   "change_pct": 2.3
-  },
-  "TRXB": {
-   "price": 13.73,
-   "change_pct": 0.66
-  },
-  "TWST": {
-   "price": 140.3,
-   "change_pct": 8.73
   }
  },
  "tickers": {
@@ -938,6 +938,17 @@
  },
  "stories": [
   {
+   "id": "507f29dd41f5",
+   "headline": "Medicare Part D premiums projected to rise 50% in 2027 without plan switching: KFF",
+   "summary": "Medicare beneficiaries who stay in their current stand-alone Part D plans could face sharply higher premiums, deductibles and other out-of-pocket costs in 2027, a KFF analysis found.",
+   "url": "https://www.fiercehealthcare.com/payers/medicare-part-d-premiums-projected-rise-50-2027-without-plan-switching-kff",
+   "source": "Fierce Healthcare",
+   "published": "2026-11-04T01:45:25.120966+00:00",
+   "tickers": [],
+   "tag": "Policy",
+   "sectors": []
+  },
+  {
    "id": "d8255cd6b165",
    "headline": "BIO-TECHNE DECLARES DIVIDEND",
    "summary": "MINNEAPOLIS, Nov. 3, 2026 /PRNewswire/ -- Bio-Techne Corporation (NASDAQ: TECH) announced that its Board of Directors has decided to pay a dividend of $0.08 per share for the quarter ended September 30, 2026. The quarterly dividend will\u2026",
@@ -1405,6 +1416,21 @@
    ]
   },
   {
+   "id": "1af8ddbfdc34",
+   "headline": "Phreesia\u2019s Sophia Wagner Named to Becker\u2019s 2026 List of Health IT & Revenue Cycle Up-and-Comers",
+   "summary": "ALL-REMOTE COMPANY/WILMINGTON, Del., November 03, 2026--Phreesia\u2019s Sophia Wagner named to Becker\u2019s 2026 list of Health IT & Revenue Cycle Up-and-Comers.",
+   "url": "https://finnhub.io/api/news?id=8558f22a359e4b66af370e0bd7e7280740251d46d19db64048f786e6525fbac6",
+   "source": "Yahoo",
+   "published": "2026-11-03T21:13:00+00:00",
+   "tickers": [
+    "PHR"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "d06cc5e8f3be",
    "headline": "Amgen: Q3 Earnings Snapshot",
    "summary": "(AMGN) on Tuesday reported third-quarter net income of $3.On a per-share basis, the Thousand Oaks, California-based company said it had profit of $7.",
@@ -1568,6 +1594,36 @@
    "tag": "Policy",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "e747babdbb72",
+   "headline": "Notice of Proposed Derivative Settlement: Twist Bioscience Corporation",
+   "summary": "SOUTH SAN FRANCISCO, Calif., November 03, 2026--Twist Bioscience Corporation (NASDAQ: TWST):",
+   "url": "https://finnhub.io/api/news?id=bc788bb2ed50dfdaf207f84c40bf6371124af333d6bfe4a7a1275bdf1ee845cc",
+   "source": "Yahoo",
+   "published": "2026-11-03T21:05:00+00:00",
+   "tickers": [
+    "TWST"
+   ],
+   "tag": "Legal",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "9f396ca4bfc7",
+   "headline": "Alamar Biosciences Partners with GSK on Large-Scale Proteomic Study to Advance Precision Medicine",
+   "summary": "Alamar\u2019s NULISAseq\u2122 Immune 340 and NULISAseq\u2122 Neuro 220 panels will be used to investigate disease progression, biological subtypes and treatment responseFREMONT, Calif., Nov. 03, 2026 (GLOBE NEWSWIRE) -- Alamar Biosciences, Inc. (Nasdaq:\u2026",
+   "url": "https://finnhub.io/api/news?id=ce0b8a22f894b4be0333b8c2e0231142db4639c9f41686d9109517feec225b50",
+   "source": "Yahoo",
+   "published": "2026-11-03T21:03:00+00:00",
+   "tickers": [
+    "GSK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1845,6 +1901,21 @@
    "tag": "News",
    "sectors": [
     "pharmacy"
+   ]
+  },
+  {
+   "id": "8ba0ad6f4877",
+   "headline": "Amgen Inc. 2026 Q3 - Results - Earnings Call Presentation",
+   "summary": "2026-11-03. The following slide deck was published by Amgen Inc.",
+   "url": "https://finnhub.io/api/news?id=41f6bac6690c79abea005dbda09c437c3719a5235bccdcf0b24335aace6186d0",
+   "source": "SeekingAlpha",
+   "published": "2026-11-03T20:01:35+00:00",
+   "tickers": [
+    "AMGN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -3212,9 +3283,11 @@
    "source": "Yahoo",
    "published": "2026-11-03T15:26:00+00:00",
    "tickers": [
+    "GSK",
     "LLY",
     "MRK",
-    "PFE"
+    "PFE",
+    "SMMT"
    ],
    "tag": "News",
    "sectors": [
@@ -4914,7 +4987,8 @@
    "source": "Yahoo",
    "published": "2026-11-03T12:15:02+00:00",
    "tickers": [
-    "BEAM"
+    "BEAM",
+    "TWST"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -4965,6 +5039,21 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "799858e4c93d",
+   "headline": "SOPHiA GENETICS SA (SOPH) Reports Q3 Loss, Beats Revenue Estimates",
+   "summary": "SOPHiA GENETICS (SOPH) delivered earnings and revenue surprises of -84.62% and +1.58%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=e0f2476498fa4abcb499168f24a86d1ccec535734ab2670866fa299565ea9df9",
+   "source": "Yahoo",
+   "published": "2026-11-03T12:00:03+00:00",
+   "tickers": [
+    "SDGR"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthai"
    ]
   },
   {
@@ -5597,6 +5686,21 @@
    ]
   },
   {
+   "id": "bbe85a7d645c",
+   "headline": "iShares A.I. Innovation ETF (BAI) Adds Twist and Entegris on Friday",
+   "summary": "The fund bought $39.8 million of Twist Bioscience and $37.6 million of Entegris while selling $114.0 million of Intel, with net sales of $174.1 million.",
+   "url": "https://finnhub.io/api/news?id=d83a9ed7857c356f7295200df97867fbc844ebee796b459f35d66837332c3892",
+   "source": "Yahoo",
+   "published": "2026-11-03T11:04:28+00:00",
+   "tickers": [
+    "TWST"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "7d1d30b89fa7",
    "headline": "ETFs Are Net Sellers of Medtronic (MDT) on Friday",
    "summary": "ETFs sold $110.6 million of Medtronic on Friday, with 35 funds buying and 15 selling.",
@@ -6064,6 +6168,21 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "d02a6a20051f",
+   "headline": "Twist Bioscience (TWST) Stock Looks Richly Valued As Its 7x Run Continues",
+   "summary": "Twist Bioscience has seen its stock price move sharply in recent years. This puts a spotlight on a simple but important question for investors who care about valuation: Is the current share price sensibly linked to the sales the company\u2026",
+   "url": "https://finnhub.io/api/news?id=7951d817ab775f8ae385475a612124bd47420b22d3c72c46056c9a96acc71856",
+   "source": "Yahoo",
+   "published": "2026-11-03T09:09:08+00:00",
+   "tickers": [
+    "TWST"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
    ]
   },
   {
