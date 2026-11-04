@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-04T11:02:39.688711+00:00",
+ "updated": "2026-11-04T11:32:39.158839+00:00",
  "quotes": {
   "A": {
    "price": 175.46,
@@ -74,14 +74,6 @@
    "price": 67.48,
    "change_pct": 1.43
   },
-  "COR": {
-   "price": 340.5,
-   "change_pct": 0.79
-  },
-  "CRL": {
-   "price": 351.87,
-   "change_pct": 3.94
-  },
   "CRSP": {
    "price": 49.99,
    "change_pct": 0
@@ -154,6 +146,10 @@
    "price": 48.7,
    "change_pct": -0.88
   },
+  "HALO": {
+   "price": 128.62,
+   "change_pct": -0.26
+  },
   "HCA": {
    "price": 462.86,
    "change_pct": -1.04
@@ -201,10 +197,6 @@
   "JNJ": {
    "price": 266.17,
    "change_pct": -1.62
-  },
-  "LFST": {
-   "price": 13.37,
-   "change_pct": 0.83
   },
   "LH": {
    "price": 353.92,
@@ -254,6 +246,10 @@
    "price": 40.19,
    "change_pct": -0.64
   },
+  "NVS": {
+   "price": 159.26,
+   "change_pct": -1.4
+  },
   "OPCH": {
    "price": 31.77,
    "change_pct": 0.25
@@ -286,10 +282,6 @@
    "price": 973.36,
    "change_pct": 1.26
   },
-  "RMD": {
-   "price": 227.08,
-   "change_pct": -2.52
-  },
   "ROIV": {
    "price": 36.04,
    "change_pct": 0.42
@@ -321,6 +313,14 @@
   "SOPH": {
    "price": 6.91,
    "change_pct": -2.81
+  },
+  "SYK": {
+   "price": 310.55,
+   "change_pct": 1.22
+  },
+  "TDOC": {
+   "price": 8.89,
+   "change_pct": 3.01
   }
  },
  "tickers": {
@@ -938,6 +938,21 @@
  },
  "stories": [
   {
+   "id": "d8fcd89e6d87",
+   "headline": "Halozyme Therapeutics (NASDAQ:HALO): An Undervalued Value Stock With Strong Profitability",
+   "summary": "Halozyme (HALO) stands out on the Decent Value screen: cheap forward valuation, strong profitability, and adequate financial health despite slower growth.",
+   "url": "https://finnhub.io/api/news?id=e83861ba6cc289396742d87ccbcc810aaaf20feee897efe061214f391c4641cc",
+   "source": "ChartMill",
+   "published": "2026-11-04T10:51:06+00:00",
+   "tickers": [
+    "HALO"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "902ff4326f37",
    "headline": "Sanofi scraps STAT6 degrader from Nurix just 2 months after entering clinic",
    "summary": "Sanofi has decided to end work on a STAT6 degrader from Nurix just two months after taking the inflammatory disease drug into the clinic.",
@@ -962,6 +977,21 @@
    "tickers": [],
    "tag": "Earnings",
    "sectors": []
+  },
+  {
+   "id": "9624197a0ee1",
+   "headline": "Should You Pick Boston Scientific Stock Over Its Competitors?",
+   "summary": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://finnhub.io/api/news?id=d3384d7653ae6cb2ed6170a83f99615826a3bf1d1d27cefe677690726e5b85b4",
+   "source": "Yahoo",
+   "published": "2026-11-04T09:43:26+00:00",
+   "tickers": [
+    "BSX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
   },
   {
    "id": "bb0f22f594e7",
@@ -1404,6 +1434,21 @@
    "tag": "Earnings",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "4e6ef5ca1d85",
+   "headline": "Novartis: 3 Key Takeaways for Long-Term Investors",
+   "summary": "Operating margins are on track to hit 40% by 2029 as cost discipline accelerates alongside new drug launches.",
+   "url": "https://finnhub.io/api/news?id=b74d80c46dcce2dc2e94170b2957a419aa793d4d178df0b5222fbd064ac8a8b1",
+   "source": "Yahoo",
+   "published": "2026-11-04T01:47:03+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -56083,37 +56128,6 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "c8a8a0866bc8",
-   "headline": "Buy 8 Barron's Big Better Bets (Than T-Bills) Out Of 14 'Safer' October DiviDogs",
-   "summary": "",
-   "url": "https://finnhub.io/api/news?id=310ee1c3da03605918a65c5e2ab945f7ee58ce597d31d3f5ff8e6cfd75092f4b",
-   "source": "SeekingAlpha",
-   "published": "2026-10-25T11:15:13+00:00",
-   "tickers": [
-    "BMY",
-    "PFE"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "646c8e8c9248",
-   "headline": "Where Will Neurocrine Biosciences Be in 5 Years?",
-   "summary": "Neurocrine's expanding drug portfolio could drive substantial growth through 2031.",
-   "url": "https://finnhub.io/api/news?id=919a04b055d23a12e1b5f994226f995bfbc2b059d8c9280889b57c227930dfa1",
-   "source": "Yahoo",
-   "published": "2026-10-25T11:05:00+00:00",
-   "tickers": [
-    "NBIX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
    ]
   }
  ]
