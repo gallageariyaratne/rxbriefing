@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-04T22:39:12.051643+00:00",
+ "updated": "2026-11-04T22:47:35.961336+00:00",
  "quotes": {
   "A": {
    "price": 177.17,
@@ -69,6 +69,10 @@
   "BSX": {
    "price": 45.82,
    "change_pct": 5.33
+  },
+  "CAH": {
+   "price": 261.93,
+   "change_pct": 3.55
   },
   "CI": {
    "price": 305.41,
@@ -1001,6 +1005,7 @@
    "source": "Yahoo",
    "published": "2026-11-04T21:19:10+00:00",
    "tickers": [
+    "CAH",
     "MCK"
    ],
    "tag": "Earnings",
@@ -1035,6 +1040,21 @@
    "sectors": []
   },
   {
+   "id": "ad2c3cde19ee",
+   "headline": "Amgen, Up 46% This Year, Is Broadly Outperforming Its Peers. Here's What Its Earnings Say.",
+   "summary": "Amgen beat Wall Street's top- and bottom-line expectations late Tuesday, but there were puts and takes across the board.",
+   "url": "https://finnhub.io/api/news?id=d8b5ae345d10190e4afa96e284ca4eeabfa45feb8f04667e5ba885496d784c24",
+   "source": "Yahoo",
+   "published": "2026-11-04T21:15:26+00:00",
+   "tickers": [
+    "AMGN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "7279bc561125",
    "headline": "Medtronic to announce financial results for its second quarter of fiscal year 2027",
    "summary": "GALWAY, Ireland, Nov. 4, 2026 /PRNewswire/ -- Medtronic plc (NYSE: MDT), a global leader in healthcare technology, today announced that it will report financial results on Tuesday, November 24, 2026, for its second quarter of fiscal year\u2026",
@@ -1065,6 +1085,21 @@
    ]
   },
   {
+   "id": "239839e78d69",
+   "headline": "3 Medicaid Focused Health Stocks Investors Are Watching As Debt Ceiling Pressure Builds",
+   "summary": "Debt ceiling fights usually sound like background noise in Washington, until they start to shape where trillions of government dollars might flow next. The latest 2027 showdown risk has put Medicaid and broader health-care spending back\u2026",
+   "url": "https://finnhub.io/api/news?id=f622eea133aef6a582744c7231b37a5e7f91e21623ae89cbe7011e33918b0d42",
+   "source": "Yahoo",
+   "published": "2026-11-04T21:13:19+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "097bff34ffb1",
    "headline": "United Therapeutics Corp (UTHR) Q3 2026 Earnings Call Highlights: Record Revenue of $833 ...",
    "summary": "United Therapeutics Corp (UTHR) posted record Q3 2026 revenue of $833 million and Tyvaso revenue of $504 million, while navigating pipeline delays and regulatory hurdles.",
@@ -1087,11 +1122,43 @@
    "source": "Yahoo",
    "published": "2026-11-04T21:06:00+00:00",
    "tickers": [
+    "AMGN",
+    "INCY",
     "VRTX"
    ],
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "9a37bc0ad8f6",
+   "headline": "Medicus Pharma to Host Third Quarter 2026 Financial Performance and Business Update Call on November 9, 2026",
+   "summary": "Company highlights to include strategy for entering CD228V Co-development and Licensing Agreement and Proposed SkinJect\u00ae Business Combination and Concurrent Financing LOIPHILADELPHIA, Nov. 04, 2026 (GLOBE NEWSWIRE) -- Medicus Pharma Ltd.\u2026",
+   "url": "https://finnhub.io/api/news?id=10db4327bc52391af68a7f932848e533980d5546ead7acba7fbc4214c41ca24a",
+   "source": "Yahoo",
+   "published": "2026-11-04T21:05:00+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "Financing",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "4476861f28c6",
+   "headline": "Laza Medical Raises Up to $160 Million in Series B Financing Led by GE HealthCare to Advance Intelligent Imaging for Transforming the Cath Lab",
+   "summary": "Laza Medical, Inc., a Shifamed portfolio company pioneering AI-powered robotic imaging solutions for cardiac interventions, today announced it has raised up to $160 million in Series B structured financing. GE HealthCare led the round,\u2026",
+   "url": "https://finnhub.io/api/news?id=fa984acec2982980deced66b3d3c0a19cb12c034bbfda166bb7fb9add841dfb4",
+   "source": "Yahoo",
+   "published": "2026-11-04T21:05:00+00:00",
+   "tickers": [
+    "GEHC"
+   ],
+   "tag": "Financing",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -1103,7 +1170,9 @@
    "published": "2026-11-04T20:59:19+00:00",
    "tickers": [
     "ABBV",
-    "BMY"
+    "AMGN",
+    "BMY",
+    "PFE"
    ],
    "tag": "News",
    "sectors": [
