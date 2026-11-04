@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-04T12:02:48.368961+00:00",
+ "updated": "2026-11-04T12:17:47.158645+00:00",
  "quotes": {
   "A": {
    "price": 175.46,
@@ -45,10 +45,6 @@
   "BDX": {
    "price": 198.17,
    "change_pct": -0.22
-  },
-  "BEAM": {
-   "price": 26.33,
-   "change_pct": 1.78
   },
   "BMRN": {
    "price": 55.66,
@@ -186,6 +182,10 @@
    "price": 238.21,
    "change_pct": 5.13
   },
+  "INSM": {
+   "price": 104.44,
+   "change_pct": -4.46
+  },
   "ISRG": {
    "price": 440.75,
    "change_pct": 0.89
@@ -278,14 +278,6 @@
    "price": 973.36,
    "change_pct": 1.26
   },
-  "ROIV": {
-   "price": 36.04,
-   "change_pct": 0.42
-  },
-  "RVMD": {
-   "price": 194.23,
-   "change_pct": 3.22
-  },
   "RXRX": {
    "price": 3.68,
    "change_pct": -3.92
@@ -321,6 +313,14 @@
   "TEM": {
    "price": 77.8,
    "change_pct": -0.87
+  },
+  "TGTX": {
+   "price": 60.75,
+   "change_pct": 1.33
+  },
+  "THC": {
+   "price": 266.69,
+   "change_pct": -0.82
   }
  },
  "tickers": {
@@ -938,6 +938,62 @@
  },
  "stories": [
   {
+   "id": "97c5be55637e",
+   "headline": "Top health takeaways from the midterm elections",
+   "summary": "Democrats gained control of both chambers of Congress, and doctors and scientists won key seats. Here are the top health takeaways from the midterms.",
+   "url": "https://www.statnews.com/2026/11/04/health-news-midterm-elections-2026-democrats-control-congress/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-11-04T12:15:08+00:00",
+   "tickers": [],
+   "tag": "Policy",
+   "sectors": []
+  },
+  {
+   "id": "0e1f2642039a",
+   "headline": "Option Care Health Announces Financial Results for the Third Quarter Ended September 30, 2026",
+   "summary": "BANNOCKBURN, Ill., Nov. 04, 2026 (GLOBE NEWSWIRE) -- Option Care Health, Inc. (the \u201cCompany\u201d or \u201cOption Care Health\u201d) (Nasdaq: OPCH), the nation\u2019s largest independent provider of home and alternate site infusion services, announced today\u2026",
+   "url": "https://www.globenewswire.com/news-release/2026/11/04/3395158/0/en/option-care-health-announces-financial-results-for-the-third-quarter-ended-september-30-2026.html",
+   "source": "GlobeNewswire",
+   "published": "2026-11-04T12:00:00+00:00",
+   "tickers": [
+    "OPCH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "c83d53dcefc0",
+   "headline": "Insmed to Present at November and December 2026 Investor Conferences",
+   "summary": "BRIDGEWATER, N.J., Nov. 4, 2026 /PRNewswire/ -- Insmed Incorporated (Nasdaq: INSM), a people-first global biopharmaceutical company striving to deliver first- and best-in-class therapies to transform the lives of patients facing serious\u2026",
+   "url": "https://www.prnewswire.com/news-releases/insmed-to-present-at-november-and-december-2026-investor-conferences-302926989.html",
+   "source": "PR Newswire",
+   "published": "2026-11-04T12:00:00+00:00",
+   "tickers": [
+    "INSM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "ab16ecfb718b",
+   "headline": "BD Names Bridget Bagnato Worldwide President of Peripheral Intervention",
+   "summary": "BD (Becton, Dickinson and Company) (NYSE: BDX), a leading global medical technology company, today announced that Bridget Bagnato has been appointed worldwide president of its Peripheral Intervention business unit, effective November 16.",
+   "url": "https://finnhub.io/api/news?id=1b7993810437e39d2e4d4317416375cb09124886e03e1495c148d86c774f8a32",
+   "source": "Yahoo",
+   "published": "2026-11-04T11:50:00+00:00",
+   "tickers": [
+    "BDX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "d29c4fafb615",
    "headline": "Ultragenyx shrinks workforce and axes assets to halve R&D spend",
    "summary": "Ultragenyx is laying off 20% of its workforce and axing drug development programs to cut its annual R&D budget to half of the amount it spent in 2025.",
@@ -998,6 +1054,21 @@
    ]
   },
   {
+   "id": "3eda5879f011",
+   "headline": "Learn Why The Bull Case For Danaher (DHR) Could Change Following FDA Test Clearance",
+   "summary": "Danaher reported third quarter 2026 sales of US$6,554 million and net income of US$1,235 million, alongside FDA clearance for Beckman Coulter Diagnostics' Access MeMed BV rapid assay that distinguishes bacterial from viral infections in\u2026",
+   "url": "https://finnhub.io/api/news?id=e3cd95421add1711a334d6d1c2cc83d07a0a76a2330b01b97476a79f4ab5fb19",
+   "source": "Yahoo",
+   "published": "2026-11-04T11:14:52+00:00",
+   "tickers": [
+    "DHR"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "b815a2789662",
    "headline": "TG Therapeutics (NASDAQ:TGTX): Affordable Growth With Strong Expansion and a Reasonable Forward Valuation",
    "summary": "TG Therapeutics fits an affordable growth profile with rapid revenue and EPS growth, reasonable forward valuation, strong margins, and mixed financial health.",
@@ -1010,6 +1081,51 @@
    "tag": "Earnings",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "9990ea451103",
+   "headline": "What iShares Core High Dividend (HDV) Bought: Exxon Leads on Nov. 2",
+   "summary": "The fund added $134.1 million across 72 positions, led by a $13.4 million increase in Exxon Mobil.",
+   "url": "https://finnhub.io/api/news?id=9e917472ff73e2338c5703d66bb6133284b906a49a1c3d0c246d54a0cfbfd656",
+   "source": "Yahoo",
+   "published": "2026-11-04T11:06:09+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "41b962979257",
+   "headline": "Capital Group Cons. Equity (CGCV) Adds Microsoft and Philip Morris on Monday",
+   "summary": "The fund bought $158.6 million of stock, lifting all 69 of its increased positions with no sales.",
+   "url": "https://finnhub.io/api/news?id=ded18f82131191a23b4b991d08be723869d8113d0c9803e69a8f6c86d7345033",
+   "source": "Yahoo",
+   "published": "2026-11-04T11:06:05+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "976f00b4213b",
+   "headline": "State Street Health Care SPDR (XLV) Adds Eli Lilly and J&J on Nov. 2",
+   "summary": "The fund bought $175.3 million of stock, lifting all 60 of its positions with no sales.",
+   "url": "https://finnhub.io/api/news?id=b8e2361f309b0de9ccc4cd0933cf3c1843ec3161da81907e8b85e17bb042b671",
+   "source": "Yahoo",
+   "published": "2026-11-04T11:05:36+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1054,6 +1170,21 @@
    "sectors": []
   },
   {
+   "id": "ce000cb8befa",
+   "headline": "Danaher (DHR), Why Is It Drawing Fresh Attention Today?",
+   "summary": "Danaher (DHR) is back in focus after U.S. regulators cleared the Access MeMed BV assay, a rapid test that helps clinicians distinguish bacterial from viral infections and potentially curb unnecessary antibiotic use. That regulatory win\u2026",
+   "url": "https://finnhub.io/api/news?id=a1af6ec12f756c4074bff31f7c3c108ee4c4fe84d4401397fcd41f2b1608afb9",
+   "source": "Yahoo",
+   "published": "2026-11-04T10:14:07+00:00",
+   "tickers": [
+    "DHR"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "9624197a0ee1",
    "headline": "Should You Pick Boston Scientific Stock Over Its Competitors?",
    "summary": "For questions about this article or underlying research, email help@trefis.com.",
@@ -1062,6 +1193,7 @@
    "published": "2026-11-04T09:43:26+00:00",
    "tickers": [
     "ABT",
+    "BDX",
     "BSX"
    ],
    "tag": "News",
@@ -1171,6 +1303,21 @@
    ]
   },
   {
+   "id": "a471cca95f5a",
+   "headline": "European shares gain on Novo\u2019s results; markets weigh U.S. midterms",
+   "summary": "Investing.com - European shares inched up on Wednesday, boosted by heavyweight Novo Nordisk, but overall sentiment was subdued as early results from the U.S. midterm elections indicated Democrats were making strong gains in their bid to\u2026",
+   "url": "https://finnhub.io/api/news?id=da1ae995c0f70642d8ce1d4e74e4f85c68916d52d4a6edd920a3907abc8f0779",
+   "source": "Yahoo",
+   "published": "2026-11-04T08:40:56+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "010119f38411",
    "headline": "Zacks.com featured highlights include APA, T-Mobile, BP and Centene",
    "summary": "As market volatility intensifies the value-versus-growth debate, APA and three other GARP stocks combine attractive valuations with sustainable earnings growth potential.",
@@ -1216,6 +1363,36 @@
    ]
   },
   {
+   "id": "8265c9fc977b",
+   "headline": "Novo Nordisk raises 2026 outlook as Q3 obesity sales jump 22%",
+   "summary": "Investing.com -- Novo Nordisk raised its full-year 2026 sales and operating profit outlook on Wednesday after stronger-than-expected third-quarter performance, driven by demand for its obesity treatments, although impairment charges\u2026",
+   "url": "https://finnhub.io/api/news?id=faaa30dae97900998617f8b1f4d774a35df246456ca20b3deffb41e7deed46d0",
+   "source": "Yahoo",
+   "published": "2026-11-04T07:20:39+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "f1a8cbd238e0",
+   "headline": "Novo Nordisk: Q3 Earnings Snapshot",
+   "summary": "BAGSVAERD, Denmark (AP) \u2014 BAGSVAERD, Denmark (AP) \u2014 Novo Nordisk A/S (NVO) on Wednesday reported third-quarter profit of $2.The Bagsvaerd, Denmark-based company said it had net income of 58 cents per share.",
+   "url": "https://finnhub.io/api/news?id=a229eb8829f15997e1f5423164a5153c4be6aced8e8fd39d987cb80ed0e819ae",
+   "source": "Yahoo",
+   "published": "2026-11-04T07:06:32+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "7c6fa931f7c9",
    "headline": "Pfizer Inc (PFE) (Q3 2026) Earnings Call Highlights: Raised Guidance, Cost Savings Momentum, ...",
    "summary": "Pfizer Inc (PFE) lifted full-year 2026 revenue guidance to $62--$64 billion and adjusted EPS to $2.95--$3.05, as non-COVID products grew 7% operationally and launched and acquired products surged 32%.",
@@ -1226,6 +1403,21 @@
     "PFE"
    ],
    "tag": "M&A",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "cf9ad72b0a39",
+   "headline": "Novo raises full-year outlook on continued GLP-1 momentum, with third-quarter adjusted operating profit increasing 27% at CER to DKK 31,720 million",
+   "summary": "4 November - Financial report for the period 1 January 2026 to 30 September 2026Financial performance Q3 2026 adjusted and reported sales increased by 4% at CER, driven by continued GLP-1 volume growth across the US and International\u2026",
+   "url": "https://finnhub.io/api/news?id=71c77c5c315be9fb5d168a31b64dcf8f96ddb5319864218a9ce18d5e161bdf3c",
+   "source": "Yahoo",
+   "published": "2026-11-04T06:30:00+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "GLP-1",
    "sectors": [
     "pharma"
    ]
@@ -1273,6 +1465,21 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "1dc52bef430e",
+   "headline": "Tempus AI: An Inflection Point Has Arrived (Earnings Analysis)",
+   "summary": "Tempus AI Q3 results show 23% revenue growth, soaring diagnostics, and key pharma partnerships. Read here for more on TEM stock.",
+   "url": "https://finnhub.io/api/news?id=8d78a622edf1653d3dc289733ab350f83b0b23ad770a037a905ed1be493f6afb",
+   "source": "SeekingAlpha",
+   "published": "2026-11-04T05:49:19+00:00",
+   "tickers": [
+    "TEM"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthai"
    ]
   },
   {
@@ -56201,22 +56408,6 @@
     "MRNA"
    ],
    "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "7a4892c436e0",
-   "headline": "BioNTech (BNTX) Reworks Phase 3 Breast Cancer Trial Around New Combination Approach",
-   "summary": "BioNTech (NasdaqGS:BNTX) and Gilead Sciences agreed to a clinical trial collaboration to study pumitamig with sacituzumab govitecan in first-line metastatic triple-negative breast cancer. The partners plan to adapt an existing global\u2026",
-   "url": "https://finnhub.io/api/news?id=56337e0231dfb5f04a7556bd709080048af6a96d374bd6b0f0577a84ad1341e2",
-   "source": "Yahoo",
-   "published": "2026-10-25T12:14:11+00:00",
-   "tickers": [
-    "BNTX",
-    "GILD"
-   ],
-   "tag": "Clinical",
    "sectors": [
     "pharma"
    ]
