@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-04T12:17:47.158645+00:00",
+ "updated": "2026-11-04T12:32:52.799382+00:00",
  "quotes": {
   "A": {
    "price": 175.46,
@@ -70,6 +70,10 @@
    "price": 67.48,
    "change_pct": 1.43
   },
+  "COR": {
+   "price": 340.5,
+   "change_pct": 0.79
+  },
   "CRSP": {
    "price": 49.99,
    "change_pct": 0
@@ -81,10 +85,6 @@
   "CYTK": {
    "price": 62.31,
    "change_pct": 0.45
-  },
-  "DGX": {
-   "price": 247.06,
-   "change_pct": -1.5
   },
   "DHR": {
    "price": 230.11,
@@ -198,10 +198,6 @@
    "price": 266.17,
    "change_pct": -1.62
   },
-  "LH": {
-   "price": 353.92,
-   "change_pct": -0.47
-  },
   "LLY": {
    "price": 1409.38,
    "change_pct": -0.11
@@ -301,6 +297,10 @@
   "SYK": {
    "price": 310.55,
    "change_pct": 1.22
+  },
+  "TAK": {
+   "price": 20.75,
+   "change_pct": -0.57
   },
   "TDOC": {
    "price": 8.89,
@@ -938,6 +938,17 @@
  },
  "stories": [
   {
+   "id": "4d2f68fad468",
+   "headline": "Rising Stars: Publicis Health\u2019s Ariel Rabinowitz knows what it takes to 'meet people where they are'",
+   "summary": "Publicis Health\u2019s Ariel Rabinowitz learned lessons about health literacy, trust and access firsthand while teaching at a school in the Bronx.",
+   "url": "https://www.fiercepharma.com/marketing/rising-stars-publicis-healths-ariel-rabinowitz",
+   "source": "Fierce Pharma",
+   "published": "2026-11-04T12:30:31.203378+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
    "id": "97c5be55637e",
    "headline": "Top health takeaways from the midterm elections",
    "summary": "Democrats gained control of both chambers of Congress, and doctors and scientists won key seats. Here are the top health takeaways from the midterms.",
@@ -947,6 +958,21 @@
    "tickers": [],
    "tag": "Policy",
    "sectors": []
+  },
+  {
+   "id": "dfca9b12d488",
+   "headline": "UCB Selects Veeva Vault CRM",
+   "summary": "Veeva Systems (NYSE: VEEV) today announced that UCB has committed to Veeva Vault CRM, the agentic engagement platform for life sciences. Vault CRM provides industry-specific AI to accelerate launch and drive better customer experiences.",
+   "url": "https://finnhub.io/api/news?id=883bcfb8e54a6a3b16b5e6ca36c2ee82021a5d149fe354c07298ccfbda1bedfd",
+   "source": "Yahoo",
+   "published": "2026-11-04T12:03:00+00:00",
+   "tickers": [
+    "VEEV"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "healthit"
+   ]
   },
   {
    "id": "0e1f2642039a",
@@ -979,6 +1005,21 @@
    ]
   },
   {
+   "id": "b8f884287502",
+   "headline": "Cencora: Fiscal Q4 Earnings Snapshot",
+   "summary": "(COR) on Wednesday reported fiscal fourth-quarter earnings of $519.The Conshohocken, Pennsylvania-based company said it had net income of $2.",
+   "url": "https://finnhub.io/api/news?id=5c3290420393fba49ae0efb7cd67d65e3c2b915137e00be31486bb43811d22d4",
+   "source": "Yahoo",
+   "published": "2026-11-04T11:51:04+00:00",
+   "tickers": [
+    "COR"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
+  {
    "id": "ab16ecfb718b",
    "headline": "BD Names Bridget Bagnato Worldwide President of Peripheral Intervention",
    "summary": "BD (Becton, Dickinson and Company) (NYSE: BDX), a leading global medical technology company, today announced that Bridget Bagnato has been appointed worldwide president of its Peripheral Intervention business unit, effective November 16.",
@@ -991,6 +1032,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "66497e76e1b0",
+   "headline": "CVS Is Reportedly Breaking Itself in Two",
+   "summary": "Reports say CVS Health is weighing a split that would unwind its landmark Aetna merger, but the structure, timeline, and who absorbs billions in debt remain unanswered questions heading into a critical earnings call.",
+   "url": "https://finnhub.io/api/news?id=6f26a331c433fb74b2b9348de418db06310b7dd93bbc9db15843000a262ad755",
+   "source": "Yahoo",
+   "published": "2026-11-04T11:47:22+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -1009,11 +1065,71 @@
    ]
   },
   {
+   "id": "6c8795c335a8",
+   "headline": "CVS Health: Q3 Earnings Snapshot",
+   "summary": "(AP) \u2014 CVS Health Corporation (CVS) on Wednesday reported third-quarter net income of $2.The Woonsocket, Rhode Island-based company said it had net income of $1.",
+   "url": "https://finnhub.io/api/news?id=62940adb84860eaa2893612a01c1f7e9e829332bb07dce7e041a25e275dfbb7b",
+   "source": "Yahoo",
+   "published": "2026-11-04T11:39:39+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "cf03b061af26",
+   "headline": "Cencora Announces New Organizational and Reporting Structure to Enhance Visibility and Focus",
+   "summary": "CONSHOHOCKEN, Pa., November 04, 2026--Cencora, Inc. (NYSE: COR) today announced that it is realigning its corporate and reporting structure to strengthen execution and visibility.",
+   "url": "https://finnhub.io/api/news?id=a48a682d012df437815e19fafb07a57646382b6bc4e319b015c9aa7d6629b373",
+   "source": "Yahoo",
+   "published": "2026-11-04T11:35:00+00:00",
+   "tickers": [
+    "COR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
+  {
+   "id": "e716394c7184",
+   "headline": "Cencora Reports Fiscal 2026 Fourth Quarter and Fiscal Year End Results",
+   "summary": "CONSHOHOCKEN, Pa., November 04, 2026--Cencora, Inc. (NYSE: COR) today reported that in its fiscal year 2026 fourth quarter ended September 30, 2026, revenue increased 5.5 percent to $88.4 billion. Revenue increased 5.0 percent to $337.4\u2026",
+   "url": "https://finnhub.io/api/news?id=ab1d6bacc27735f6014f22b27cdf7b223aa02f1e77b8e70f3d8671c210daad56",
+   "source": "Yahoo",
+   "published": "2026-11-04T11:35:00+00:00",
+   "tickers": [
+    "COR"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
+  {
    "id": "1a4060d80628",
    "headline": "CVS Health Announces Intent to Create Two Distinct Leaders in Healthcare",
    "summary": "A leading healthcare solutions company with health benefits, pharmacy services and care delivery The leading national retail pharmacy and community healthcare company Ongoing strategic execution creates opportunity for CVS Health to\u2026",
    "url": "https://www.prnewswire.com/news-releases/cvs-health-announces-intent-to-create-two-distinct-leaders-in-healthcare-302928585.html",
    "source": "PR Newswire",
+   "published": "2026-11-04T11:31:00+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "20531b1132b4",
+   "headline": "CVS Health Announces Intent to Create Two Distinct Leaders in Healthcare",
+   "summary": "CVS Health\u00ae (NYSE: CVS) today announced that it intends to separate into two independent, publicly traded companies, each committed to innovating to make healthcare more affordable, accessible, and simpler to navigate for the millions of\u2026",
+   "url": "https://finnhub.io/api/news?id=85e285bd8d0ccab4f157071bbc31e8ec9623ad84047a2d7fc281e93274e8fac3",
+   "source": "Yahoo",
    "published": "2026-11-04T11:31:00+00:00",
    "tickers": [
     "CVS"
@@ -1044,6 +1160,21 @@
    "summary": "Third quarter total revenues increased to $108.4 billion, up 5.4% year-over-year Third quarter GAAP diluted EPS of $1.68 and Adjusted EPS of $2.09 Generated year-to-date cash flow from operations of $15.3 billion Raising full-year 2026\u2026",
    "url": "https://www.prnewswire.com/news-releases/cvs-health-corporation-reports-third-quarter-2026-results-and-raises-full-year-2026-guidance-302928358.html",
    "source": "PR Newswire",
+   "published": "2026-11-04T11:30:00+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "89d571dbb3a8",
+   "headline": "CVS HEALTH CORPORATION REPORTS THIRD QUARTER 2026 RESULTS AND RAISES FULL-YEAR 2026 GUIDANCE",
+   "summary": "CVS Health Corporation (NYSE: CVS) today announced operating results for the three months ended September 30, 2026.",
+   "url": "https://finnhub.io/api/news?id=0a556197cfac1c11d365b5c44124007a610f45487778ca5225507a63f64692f6",
+   "source": "Yahoo",
    "published": "2026-11-04T11:30:00+00:00",
    "tickers": [
     "CVS"
@@ -1121,11 +1252,42 @@
    "source": "Yahoo",
    "published": "2026-11-04T11:05:36+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "JNJ"
    ],
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "b09f742606fd",
+   "headline": "Vertex Pharmaceuticals Inc (VRTX) Q3 2026 Earnings Call Highlights: Revenue Up 12% as CF, ...",
+   "summary": "Vertex Pharmaceuticals Inc (VRTX) raised full-year 2026 revenue guidance to $13.15--$13.25 billion while preparing for a key November 30 PDUFA date for povetacicept in IgAN.",
+   "url": "https://finnhub.io/api/news?id=9c6c17f77d8b587c9a404b44df8029c24c4b3f58003247c5514ae44dac449a56",
+   "source": "Yahoo",
+   "published": "2026-11-04T11:02:11+00:00",
+   "tickers": [
+    "VRTX"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "feefdc122e5c",
+   "headline": "Market Chatter: CVS Health Reportedly Planning to Split Businesses in 2028",
+   "summary": "CVS Health (CVS) plans to split its business into two companies in early 2028, separating retail pha",
+   "url": "https://finnhub.io/api/news?id=695e0222feda66c855e18746006bfad8192708854e43fa47df243e9d4356f860",
+   "source": "Yahoo",
+   "published": "2026-11-04T10:57:31+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -1152,6 +1314,21 @@
    "published": "2026-11-04T10:45:26.526142+00:00",
    "tickers": [
     "SNY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "d008d7b6c45b",
+   "headline": "Most Investors Own VEA. Few Know About This International Cash Cows ETF",
+   "summary": "VEA dominates international portfolios, but a smaller rival fund uses a completely different logic to pick foreign stocks, and over the past five years it has quietly beaten the giant on both returns and income.",
+   "url": "https://finnhub.io/api/news?id=d7fdb6ae88afcc5a1763f539a14051edd64f00cf8870257a6ec9697a1b2e3677",
+   "source": "Yahoo",
+   "published": "2026-11-04T10:17:34+00:00",
+   "tickers": [
+    "TAK"
    ],
    "tag": "News",
    "sectors": [
@@ -1194,7 +1371,8 @@
    "tickers": [
     "ABT",
     "BDX",
-    "BSX"
+    "BSX",
+    "JNJ"
    ],
    "tag": "News",
    "sectors": [
@@ -1226,6 +1404,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "697343fdd789",
+   "headline": "CVS Reveals Plan to Split Insurance and Pharmacy Businesses, Earnings to Come",
+   "summary": "CVS said it would split into two companies as Wall Street awaits third-quarter adjusted earnings which are expected at $1.65 a share.",
+   "url": "https://finnhub.io/api/news?id=3913737256f8a8587a5d52679e1bdef5ed52c256e3eec1e1d46ccb060878903b",
+   "source": "Yahoo",
+   "published": "2026-11-04T09:29:00+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
   },
   {
    "id": "f01f20169e02",
