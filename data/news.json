@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-04T00:47:42.093498+00:00",
+ "updated": "2026-11-04T01:02:45.165807+00:00",
  "quotes": {
   "A": {
    "price": 175.46,
@@ -25,6 +25,10 @@
   "AMGN": {
    "price": 461.26,
    "change_pct": -0.9
+  },
+  "AMWL": {
+   "price": 12.74,
+   "change_pct": 1.76
   },
   "ARGX": {
    "price": 901.12,
@@ -230,6 +234,10 @@
    "price": 159.26,
    "change_pct": -1.4
   },
+  "OPCH": {
+   "price": 31.77,
+   "change_pct": 0.25
+  },
   "PFE": {
    "price": 30,
    "change_pct": -2.18
@@ -241,10 +249,6 @@
   "PTCT": {
    "price": 68.12,
    "change_pct": 11.89
-  },
-  "QGEN": {
-   "price": 50.38,
-   "change_pct": 0.06
   },
   "REGN": {
    "price": 973.36,
@@ -317,10 +321,6 @@
   "VEEV": {
    "price": 303.21,
    "change_pct": -1.23
-  },
-  "VKTX": {
-   "price": 26.09,
-   "change_pct": -2.76
   }
  },
  "tickers": {
@@ -969,6 +969,36 @@
    ]
   },
   {
+   "id": "2649f8476eab",
+   "headline": "IDEXX Laboratories (IDXX) Q3 Earnings Leave Its Premium Valuation In Focus",
+   "summary": "IDEXX Laboratories stock barely moved after its Q3 2026 report, edging up about 0.1% to around US$672. For a business trading on a rich P/E multiple of roughly 45x, that muted reaction might look like a shrug. It is not; the real story\u2026",
+   "url": "https://finnhub.io/api/news?id=ff8e4b5b49ddffdfa7de3692bdf4a89f8fc82f0a467c0c1cd7900c9ea6526e10",
+   "source": "Yahoo",
+   "published": "2026-11-03T23:22:37+00:00",
+   "tickers": [
+    "IDXX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "6bfabff8ee46",
+   "headline": "American Well (NYSE:AMWL) Q3 2026: Narrower Loss and Raised Revenue Outlook",
+   "summary": "Amwell Q3 2026 revenue slightly beats consensus and loss narrows, but Q4 sales guidance misses estimates; shares gain 2% after hours.",
+   "url": "https://finnhub.io/api/news?id=6de8a442404b5a1cb546c89486e55aa4e2616a99f25646c7f89b3d750d999707",
+   "source": "ChartMill",
+   "published": "2026-11-03T23:07:55+00:00",
+   "tickers": [
+    "AMWL"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "a9d6fcf0c481",
    "headline": "Amgen (NASDAQ:AMGN) Q3 2026: EPS Beat, Revenue In Line as Shares Dip After-Hours",
    "summary": "Amgen Q3 2026: EPS beat estimates while revenue rose 8.5% to $10.37B and met expectations; shares slipped after-hours after a strong run.",
@@ -1119,6 +1149,21 @@
    ]
   },
   {
+   "id": "ba1ff1ebf1ba",
+   "headline": "Recursion Pharmaceuticals, Inc. Q3 2026 Earnings Call Summary",
+   "summary": "Moby summary of Recursion Pharmaceuticals, Inc.'s Q3 2026 earnings call",
+   "url": "https://finnhub.io/api/news?id=784de37f75c2ad05fcd33947fe79d668fe04acfc2450ed04f0279e15715d62c8",
+   "source": "Yahoo",
+   "published": "2026-11-03T22:08:17+00:00",
+   "tickers": [
+    "RXRX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthai"
+   ]
+  },
+  {
    "id": "c4b122a883a7",
    "headline": "Novo Nordisk A/S Repurchases B Shares Under DKK 15 Billion Programme",
    "summary": "",
@@ -1131,6 +1176,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "a66fc0b52673",
+   "headline": "Addus HomeCare (ADUS) Surpasses Q3 Earnings Estimates",
+   "summary": "Addus HomeCare (ADUS) delivered earnings and revenue surprises of +2.81% and -0.16%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=2f8a0cdf34afa3b52b4f48fe8ed33921371694038bc4ceee48f7d215b8e6e18c",
+   "source": "Yahoo",
+   "published": "2026-11-03T21:50:02+00:00",
+   "tickers": [
+    "OPCH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -1566,6 +1626,21 @@
    "sectors": []
   },
   {
+   "id": "3b01af815117",
+   "headline": "Recursion (RXRX) Q3 2026 Earnings Call Transcript",
+   "summary": "Cash runway now stretches into 2029 as clinical programs advance.",
+   "url": "https://finnhub.io/api/news?id=c862b82c4a8a98eea69a57ee5c5d14ffdf3ca54eac3843f8cfab916bf82774dc",
+   "source": "Yahoo",
+   "published": "2026-11-03T20:47:13+00:00",
+   "tickers": [
+    "RXRX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthai"
+   ]
+  },
+  {
    "id": "51ebcc96a33e",
    "headline": "Henry Schein (HSIC) Q3 2026 Earnings Call Transcript",
    "summary": "Guidance raised on strong dental merchandise growth and tariff refunds.",
@@ -1637,6 +1712,21 @@
    ]
   },
   {
+   "id": "b4c9dea585d6",
+   "headline": "Dow Jones Losers on Nov. 3, 2026: SHW, HD and MRK Lead Declines",
+   "summary": "Sherwin-Williams, Home Depot and Merck led Dow Jones declines on Nov. 3, 2026, followed by Apple, Nike and Walmart, based on session price moves.",
+   "url": "https://finnhub.io/api/news?id=e488819485fef5b37ef2e956a14727057ebdb8f3df57cbee970dbd5486fead0a",
+   "source": "ChartMill",
+   "published": "2026-11-03T20:11:01+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "ee678e813f23",
    "headline": "Is Neurocrine Biosciences (NBIX) A Bargain On Raised INGREZZA Guidance?",
    "summary": "Neurocrine Biosciences (NBIX) just delivered a busy quarter, with better than expected earnings, strong year over year revenue growth, and a higher full year sales outlook for INGREZZA following solid uptake across its key franchises.\u2026",
@@ -1649,6 +1739,36 @@
    "tag": "Earnings",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "bf6f6c2e08f7",
+   "headline": "Why Did CRISPR Therapeutics (CRSP) Stock Slide After Its Latest Update?",
+   "summary": "CRISPR Therapeutics (CRSP) has released its third quarter 2026 results, reporting revenue of US$12.67 million and a net loss of US$111.44 million, providing investors with updated financial data to review. The latest quarterly update and\u2026",
+   "url": "https://finnhub.io/api/news?id=c73fbb8abd4b30dbb1acaf6040d0ebe1ca3f53134d2bd6babb1e6bfd1c3ff272",
+   "source": "Yahoo",
+   "published": "2026-11-03T20:09:42+00:00",
+   "tickers": [
+    "CRSP"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "7a36050a6fc5",
+   "headline": "S&P 500 Top Movers for Today: Gainers and Losers",
+   "summary": "S&P 500 top movers in today's session: Fiserv gained 13.67% to lead gainers, while Gartner fell 13.41% to lead losers amid company updates.",
+   "url": "https://finnhub.io/api/news?id=7ec64d703f666f974768c541ddf76f51f8ef6236393ec9baa9390a7e6afbe0e0",
+   "source": "ChartMill",
+   "published": "2026-11-03T20:06:24+00:00",
+   "tickers": [
+    "HSIC"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharmacy"
    ]
   },
   {
@@ -1716,6 +1836,21 @@
    ]
   },
   {
+   "id": "b9f30782fc6a",
+   "headline": "Madrigal Pharmaceuticals, Inc. (MDGL) Q3 2026 Earnings Call Transcript",
+   "summary": "Madrigal Pharmaceuticals, Inc. (MDGL) Q3 2026 Earnings Call November 3, 2026 8:00 AM ESTCompany ParticipantsTina Ventura - Chief Investor Relations...",
+   "url": "https://finnhub.io/api/news?id=e66a42d02ed938748bffe7b50175201232a3ab41fac7605d13c26aea3bca2d72",
+   "source": "SeekingAlpha",
+   "published": "2026-11-03T19:25:54+00:00",
+   "tickers": [
+    "MDGL"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "b5e3caa2d6b3",
    "headline": "Is Humana (HUM) Getting Too Expensive For Its Earnings?",
    "summary": "Humana has delivered a sharp upswing this year, and the share price now bakes a lot more expectation into the story. The key issue for you is whether that higher tag still lines up with what the insurer is actually earning. The stock is\u2026",
@@ -1728,6 +1863,21 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "b96021e284be",
+   "headline": "What Recursion Pharmaceuticals (RXRX) Said on Its Q3 Earnings Call",
+   "summary": "Recursion Pharmaceuticals (NASDAQ:RXRX) reported updated clinical data for its investigational treatment for familial adenomatous polyposis, or FAP, along with early activity in its solid-tumor program REC-1245, partnership progress and\u2026",
+   "url": "https://finnhub.io/api/news?id=bf7ee2878431e4b4c9763f7aea3e4f25205fafdad3ffafa10011325a1d9264c4",
+   "source": "Yahoo",
+   "published": "2026-11-03T19:14:39+00:00",
+   "tickers": [
+    "RXRX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthai"
    ]
   },
   {
@@ -1756,6 +1906,21 @@
     "NBIX"
    ],
    "tag": "Clinical",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "e6404861a389",
+   "headline": "CRISPR Therapeutics (CRSP) Stock Looks Fully Valued As It Names A New CTO",
+   "summary": "CRISPR Therapeutics has been a volatile ride for shareholders, and the latest moves raise a straightforward question for anyone looking at the stock today. Is the current share price meaningfully supported by what sits on its balance\u2026",
+   "url": "https://finnhub.io/api/news?id=0f212cf9cda858375410fb7c754ee4870ac84adde0faccdae56d16a7de2fd005",
+   "source": "Yahoo",
+   "published": "2026-11-03T19:13:04+00:00",
+   "tickers": [
+    "CRSP"
+   ],
+   "tag": "News",
    "sectors": [
     "biotech"
    ]
@@ -2044,6 +2209,7 @@
    "source": "Yahoo",
    "published": "2026-11-03T18:18:21+00:00",
    "tickers": [
+    "CRSP",
     "VRTX"
    ],
    "tag": "News",
@@ -2161,6 +2327,21 @@
    ]
   },
   {
+   "id": "b7fe72ce1851",
+   "headline": "CRISPR Therapeutics (CRSP) Appoints Siva Sakhamuri As Chief Technical Officer",
+   "summary": "CRISPR Therapeutics (NasdaqGM:CRSP) appointed Siva Sakhamuri, Ph.D., as Chief Technical Officer, according to a recent company announcement. Dr. Sakhamuri brings experience leading technical operations and manufacturing functions at\u2026",
+   "url": "https://finnhub.io/api/news?id=515e420c5225aa96cbdda141d7c591582894e719efb0b2333611735bd9dc40ef",
+   "source": "Yahoo",
+   "published": "2026-11-03T18:07:25+00:00",
+   "tickers": [
+    "CRSP"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "d44dee7d1fee",
    "headline": "Neurocrine Biosciences (NBIX) Stock Looks Cheap After Its 55% Five Year Run",
    "summary": "Neurocrine Biosciences has delivered a solid multi year return. With the share price recently around US$145, the key issue for investors is whether that level is still in line with what its earnings can support. Strong headlines around\u2026",
@@ -2186,6 +2367,21 @@
     "HSIC"
    ],
    "tag": "Earnings",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
+  {
+   "id": "5b7b0d76b5b8",
+   "headline": "S&P 500 Unusual Volume Standouts for Nov. 3, 2026",
+   "summary": "Oracle, Zebra, Keurig Dr Pepper, Fiserv, Gartner, Palantir, DuPont, Henry Schein and VeriSign traded above 50-day average volume as S&P 500 large caps moved both ways.",
+   "url": "https://finnhub.io/api/news?id=e4c3ea4b0f0ba10b0dbe46bf38b605f546ccc1794b71a09c6bc884ae0fc9435b",
+   "source": "ChartMill",
+   "published": "2026-11-03T18:06:09+00:00",
+   "tickers": [
+    "HSIC"
+   ],
+   "tag": "News",
    "sectors": [
     "pharmacy"
    ]
@@ -2277,6 +2473,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "5259291a3e74",
+   "headline": "Dow Jones Biggest Decliners in Today's US Session",
+   "summary": "Today's US session Dow Jones decliners include Sherwin-Williams, Home Depot, Merck, Walmart and Apple, led by SHW down 3.2%.",
+   "url": "https://finnhub.io/api/news?id=0664b2d339a44f93694f8cb289f874fb5e4c88d9f7dfee2a8e2f1f3b1630aaab",
+   "source": "ChartMill",
+   "published": "2026-11-03T17:41:02+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "886ccac672be",
@@ -2480,6 +2691,21 @@
    "tag": "Earnings",
    "sectors": [
     "healthai"
+   ]
+  },
+  {
+   "id": "6cc5a1b92d87",
+   "headline": "Crispr Therapeutics Reports Growing Casgevy Use Ahead of Key Pipeline Data, RBC Says",
+   "summary": "Crispr Therapeutics (CRSP) is seeing continued growth in the use of its gene-editing treatment Casge",
+   "url": "https://finnhub.io/api/news?id=d0ec6a3b8547e50722bd226638efbed3918fb79d1bc247341ff5e5bdf06fae68",
+   "source": "Yahoo",
+   "published": "2026-11-03T16:54:10+00:00",
+   "tickers": [
+    "CRSP"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -3120,6 +3346,21 @@
    ]
   },
   {
+   "id": "d2a3151e086f",
+   "headline": "Recursion's Q3 Earnings Beat Estimates on Sanofi Milestone Revenues",
+   "summary": "RXRX Q3 revenues surge 258.5%, beating estimates as a $10 million Sanofi milestone payment boosts results and advances its drug pipeline.",
+   "url": "https://finnhub.io/api/news?id=c693783747052aca6fb6e4e3acbef9db462876fcc4ad383e6eeac26411e155f3",
+   "source": "Yahoo",
+   "published": "2026-11-03T14:59:00+00:00",
+   "tickers": [
+    "RXRX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthai"
+   ]
+  },
+  {
    "id": "2b50f5b771fd",
    "headline": "STAT+: FDA, CMS look to collaborate with states on health AI",
    "summary": "In this edition of STAT Health Tech: Federal officials look to work with states on regulating AI, protecting doctors from AI liability, and more.",
@@ -3251,6 +3492,21 @@
    ]
   },
   {
+   "id": "e9b8371098a2",
+   "headline": "Cloudflare upgraded, Marvell downgraded: Wall Street's top analyst calls",
+   "summary": "Cloudflare upgraded, Marvell downgraded: Wall Street's top analyst calls",
+   "url": "https://finnhub.io/api/news?id=c3e9b505b42487c4a069bc6e89f75eaa229f3186e37cfbd9b5a49e8fd98968fa",
+   "source": "Yahoo",
+   "published": "2026-11-03T14:40:44+00:00",
+   "tickers": [
+    "TRXB"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "334e63e413c6",
    "headline": "Q3 Earnings & JOLTS Report on Midterm Voting Day",
    "summary": "Early voting has seen some 60+ million Americans take to the ballot this year -- far ahead of normal levels of midterm voting.",
@@ -3379,6 +3635,7 @@
    "source": "Yahoo",
    "published": "2026-11-03T14:24:00+00:00",
    "tickers": [
+    "CRSP",
     "VRTX"
    ],
    "tag": "Earnings",
@@ -3550,6 +3807,7 @@
    "source": "Yahoo",
    "published": "2026-11-03T14:02:00+00:00",
    "tickers": [
+    "CRSP",
     "VRTX"
    ],
    "tag": "Earnings",
