@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-04T01:17:38.808191+00:00",
+ "updated": "2026-11-04T01:32:51.430301+00:00",
  "quotes": {
   "A": {
    "price": 175.46,
@@ -166,10 +166,6 @@
    "price": 417.87,
    "change_pct": 1.82
   },
-  "IART": {
-   "price": 13.63,
-   "change_pct": 0.15
-  },
   "ICLR": {
    "price": 203.77,
    "change_pct": -0.67
@@ -281,6 +277,10 @@
   "RXRX": {
    "price": 3.68,
    "change_pct": -3.92
+  },
+  "RXST": {
+   "price": 4.59,
+   "change_pct": -4.38
   },
   "SNY": {
    "price": 45.33,
@@ -938,6 +938,36 @@
  },
  "stories": [
   {
+   "id": "d8255cd6b165",
+   "headline": "BIO-TECHNE DECLARES DIVIDEND",
+   "summary": "MINNEAPOLIS, Nov. 3, 2026 /PRNewswire/ -- Bio-Techne Corporation (NASDAQ: TECH) announced that its Board of Directors has decided to pay a dividend of $0.08 per share for the quarter ended September 30, 2026. The quarterly dividend will\u2026",
+   "url": "https://www.prnewswire.com/news-releases/bio-techne-declares-dividend-302928623.html",
+   "source": "PR Newswire",
+   "published": "2026-11-04T01:30:00+00:00",
+   "tickers": [
+    "TECH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "703e599d0dd9",
+   "headline": "RxSight (NASDAQ:RXST) Q3 Revenue Miss and Margin Pressure Drive After-Market Selloff",
+   "summary": "RxSight Q3 2026 revenue missed estimates as Light Adjustable Lens sales fell 19%, gross margin narrowed, and shares dropped despite a narrower adjusted loss.",
+   "url": "https://finnhub.io/api/news?id=375a7ad4b7d2a0a4a442b29e8c9946bcbb280f7435d4da9b74a6ba3f6bdbe120",
+   "source": "ChartMill",
+   "published": "2026-11-04T00:03:18+00:00",
+   "tickers": [
+    "RXST"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "2fcc1507c754",
    "headline": "Stock Market Election Night: Dow Futures, AI Stocks, Elon Musk In Focus; AMD, Arista Lead Earnings Winners (Live)",
    "summary": "IBD's stock market election night coverage will focus on midterm results' impact on Dow Jones futures, Treasury yields, AI and more.",
@@ -1179,6 +1209,21 @@
    ]
   },
   {
+   "id": "1575ebbfa49f",
+   "headline": "RxSight, Inc. (RXST) Reports Q3 Loss, Lags Revenue Estimates",
+   "summary": "RxSight (RXST) delivered earnings and revenue surprises of +27.59% and -10.56%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=8df04eeed3143ed807516aa54caa94c95916fbb5033ff74f57f4e0d67f8d9840",
+   "source": "Yahoo",
+   "published": "2026-11-03T21:50:07+00:00",
+   "tickers": [
+    "GMED"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "a66fc0b52673",
    "headline": "Addus HomeCare (ADUS) Surpasses Q3 Earnings Estimates",
    "summary": "Addus HomeCare (ADUS) delivered earnings and revenue surprises of +2.81% and -0.16%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
@@ -1252,6 +1297,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "3dd44eb99f41",
+   "headline": "Viking Therapeutics to Participate at Upcoming Investor Conferences",
+   "summary": "Viking Therapeutics, Inc. (\"Viking\") (NASDAQ: VKTX), a clinical-stage biopharmaceutical company focused on the development of novel therapies for metabolic and endocrine disorders, today announced that it will participate at the Stifel\u2026",
+   "url": "https://finnhub.io/api/news?id=eacbc6a81fa2e81c49da4fec1b5a88b7c7c6bcaac1866c2be044869da3dc3d4c",
+   "source": "Yahoo",
+   "published": "2026-11-03T21:30:00+00:00",
+   "tickers": [
+    "VKTX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -2465,6 +2525,21 @@
    ]
   },
   {
+   "id": "26b04c4edd7a",
+   "headline": "AXSM Stock Has Slumped Nearly 20% Over The Past Month, But BofA Sees Selloff As Overdone",
+   "summary": "BofA said concerns about adoption of Axsome\u2019s Alzheimer\u2019s agitation treatment and its ability to meet full-year 2027 revenue estimates have weighed on shares.",
+   "url": "https://finnhub.io/api/news?id=ff68846dc3bad6edca1c0c515ce7b9745c5bc5ac62acc6b9bde15cbae0b63c99",
+   "source": "Yahoo",
+   "published": "2026-11-03T17:57:32+00:00",
+   "tickers": [
+    "AXSM"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "8e2147ee55b1",
    "headline": "Ensign Group Posts Strong Q3 Results Amid Positive Outlook for Florida Expansion, RBC Says",
    "summary": "Ensign Group (ENSG) delivered strong Q3 financial results, with the recent expansion into Florida a",
@@ -2853,6 +2928,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "46622ac020b0",
+   "headline": "Axsome Therapeutics Could Achieve Earnings in 2027 Amid Growing Auvelity Revenue, RBC Says",
+   "summary": "Axsome Therapeutics (AXSM) could achieve earnings in 2027, backed by its recent financials and growi",
+   "url": "https://finnhub.io/api/news?id=c6a874131dc5542a5076e2f212ce6c63bed61363a0a9e56d379e3abb40caa481",
+   "source": "Yahoo",
+   "published": "2026-11-03T16:28:50+00:00",
+   "tickers": [
+    "AXSM"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -4950,6 +5040,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "18d959efd096",
+   "headline": "Axsome Therapeutics to Participate in Upcoming Investor Conferences",
+   "summary": "NEW YORK, Nov. 03, 2026 (GLOBE NEWSWIRE) -- Axsome Therapeutics, Inc. (NASDAQ: AXSM), a biopharmaceutical company leading a new era in the treatment of central nervous system (CNS) disorders, today announced that it will participate in\u2026",
+   "url": "https://finnhub.io/api/news?id=2f0736a19ec7481d1d594a2f213275f3607d03de3cebfbdf2d7913daad71d7b8",
+   "source": "Yahoo",
+   "published": "2026-11-03T12:00:00+00:00",
+   "tickers": [
+    "AXSM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
