@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-04T23:02:40.360711+00:00",
+ "updated": "2026-11-04T23:17:38.029735+00:00",
  "quotes": {
   "A": {
    "price": 177.17,
@@ -93,6 +93,10 @@
   "CVS": {
    "price": 79.96,
    "change_pct": -12.53
+  },
+  "CYTK": {
+   "price": 63.6,
+   "change_pct": 2.07
   },
   "DHR": {
    "price": 234.93,
@@ -317,10 +321,6 @@
   "ZBH": {
    "price": 110.15,
    "change_pct": 13.49
-  },
-  "ZTS": {
-   "price": 89.2,
-   "change_pct": 7.48
   }
  },
  "tickers": {
@@ -1100,6 +1100,21 @@
    ]
   },
   {
+   "id": "49e6d5038b95",
+   "headline": "Medtronic to announce financial results for its second quarter of fiscal year 2027",
+   "summary": "Medtronic plc (NYSE: MDT), a global leader in healthcare technology, today announced that it will report financial results on Tuesday, November 24, 2026, for its second quarter of fiscal year 2027, which ended on Friday, October 30, 2026.",
+   "url": "https://finnhub.io/api/news?id=9a1caee4bdd4d3da405c4640548381e81050a44cc446d13a3b77889f75ae968e",
+   "source": "Yahoo",
+   "published": "2026-11-04T21:15:00+00:00",
+   "tickers": [
+    "MDT"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "41ce81231de2",
    "headline": "Laza Medical Raises Up to $160 Million in Series B Financing Led by GE HealthCare to Advance Intelligent Imaging for Transforming the Cath Lab",
    "summary": "Company's first-of-a-kind intelligent imaging system aims to expand patient access, streamline high-quality cardiac care, and establish the foundation for future robotic interventions LOS GATOS, Calif., Nov. 4, 2026 /PRNewswire/ -- Laza\u2026",
@@ -1123,7 +1138,8 @@
    "published": "2026-11-04T21:13:19+00:00",
    "tickers": [
     "CNC",
-    "HUM"
+    "HUM",
+    "MOH"
    ],
    "tag": "Policy",
    "sectors": [
@@ -1139,6 +1155,21 @@
    "published": "2026-11-04T21:10:27+00:00",
    "tickers": [
     "UTHR"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "a6edbd06d90f",
+   "headline": "Cytokinetics: Q3 Earnings Snapshot",
+   "summary": "(AP) \u2014 SOUTH SAN FRANCISCO, Calif. (CYTK) on Wednesday reported a loss of $190.",
+   "url": "https://finnhub.io/api/news?id=8b779e69d0c3f0e6ce0d6bb7bfb9fba42539bb6aeeaf16cc99d9748d2fca4149",
+   "source": "Yahoo",
+   "published": "2026-11-04T21:06:34+00:00",
+   "tickers": [
+    "CYTK"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -1195,6 +1226,21 @@
    ]
   },
   {
+   "id": "ff5d8fa1b76d",
+   "headline": "Cytokinetics Reports Third Quarter 2026 Financial Results and Provides Business Update",
+   "summary": "MYQORZO\u00ae (aficamten) Net Product Revenue of $44.5 Million Expect to Submit Supplemental NDA for Aficamten in Non-Obstructive HCM in Q4 2026 and Type II Variation in the European Union in Early 2027 ~$1.6 Billion in Cash, Cash Equivalents\u2026",
+   "url": "https://finnhub.io/api/news?id=c766958b36c44d40a936a88b5af2fcfdbe5cff887850fc8b98188fbf2fa2aa15",
+   "source": "Yahoo",
+   "published": "2026-11-04T21:00:00+00:00",
+   "tickers": [
+    "CYTK"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "6a93f9f7e354",
    "headline": "Was There Any Sign Regeneron Stock Would Run?",
    "summary": "For questions about this article or underlying research, email help@trefis.com.",
@@ -1206,7 +1252,8 @@
     "AMGN",
     "BMY",
     "MRK",
-    "PFE"
+    "PFE",
+    "REGN"
    ],
    "tag": "News",
    "sectors": [
@@ -1997,6 +2044,21 @@
    "tag": "M&A",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "c86753b657cf",
+   "headline": "McKesson Corporation 2027 Q2 - Results - Earnings Call Presentation",
+   "summary": "2026-11-04. The following slide deck was published by McKesson Corporation in conjunction with their 2027 Q2 earnings call.",
+   "url": "https://finnhub.io/api/news?id=3436c2d3e1742aff9a18e1eb8b7f5311d2a6c5ded22dcbdb9054092debb37d55",
+   "source": "SeekingAlpha",
+   "published": "2026-11-04T17:01:42+00:00",
+   "tickers": [
+    "MCK"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharmacy"
    ]
   },
   {
