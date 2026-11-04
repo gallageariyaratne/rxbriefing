@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-04T02:17:28.747694+00:00",
+ "updated": "2026-11-04T02:32:34.620850+00:00",
  "quotes": {
   "A": {
    "price": 175.46,
@@ -278,6 +278,10 @@
    "price": 68.12,
    "change_pct": 11.89
   },
+  "QGEN": {
+   "price": 50.38,
+   "change_pct": 0.06
+  },
   "RARE": {
    "price": 16.63,
    "change_pct": 2.02
@@ -317,10 +321,6 @@
   "SMMT": {
    "price": 15.8,
    "change_pct": 6.76
-  },
-  "SNY": {
-   "price": 45.33,
-   "change_pct": -0.48
   }
  },
  "tickers": {
@@ -964,6 +964,36 @@
    ]
   },
   {
+   "id": "3a8d9374fc86",
+   "headline": "BIO-TECHNE DECLARES DIVIDEND",
+   "summary": "Bio-Techne Corporation (NASDAQ: TECH) announced that its Board of Directors has decided to pay a dividend of $0.08 per share for the quarter ended September 30, 2026. The quarterly dividend will be payable November 23, 2026, to all common\u2026",
+   "url": "https://finnhub.io/api/news?id=51d68206ee6b5e187e8e798c63f8f58a24bbc5b0fcf2535861001242741b559e",
+   "source": "Yahoo",
+   "published": "2026-11-04T01:30:00+00:00",
+   "tickers": [
+    "TECH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "ac8b123bf73a",
+   "headline": "CVS Health to split into two publicly traded companies by 2028, FT reports",
+   "summary": "Investing.com-- CVS Health Corp (NYSE:CVS) is planning to split its retail pharmacy business from its insurance operations, potentially unwinding one of the U.S. healthcare industry's largest vertical integration deals, the Financial\u2026",
+   "url": "https://finnhub.io/api/news?id=bb1e528681868ef86e5edd6c99c263f6f3a4e8ccc7fa21e555602ad923725a3b",
+   "source": "Yahoo",
+   "published": "2026-11-04T01:24:07+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "b1a9310517d0",
    "headline": "Denali Therapeutics Q3 Earnings Call Highlights",
    "summary": "Denali Therapeutics (NASDAQ:DNLI) reported third-quarter 2026 net product revenue of $17.8 million from AVLAYAH, its treatment for Hunter syndrome, as expanding payer coverage and transitions of clinical-trial participants to commercial\u2026",
@@ -1333,7 +1363,8 @@
    "source": "Yahoo",
    "published": "2026-11-03T21:50:07+00:00",
    "tickers": [
-    "GMED"
+    "GMED",
+    "RXST"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -1805,6 +1836,21 @@
    "tag": "News",
    "sectors": [
     "healthit"
+   ]
+  },
+  {
+   "id": "6e5f73545e9b",
+   "headline": "RxSight, Inc. Reports Third Quarter 2026 Results",
+   "summary": "ALISO VIEJO, Calif., Nov. 03, 2026 (GLOBE NEWSWIRE) -- RxSight, Inc. (NASDAQ: RXST) today reported financial results for the quarter ended September 30, 2026. Third Quarter 2026 Financial Highlights Total revenue of $24.6 million\u2026",
+   "url": "https://finnhub.io/api/news?id=6be9f94bc4ca82dc00ff62c64c06cf267e333dac71e320a53c1d10f7d25f924e",
+   "source": "Yahoo",
+   "published": "2026-11-03T21:05:00+00:00",
+   "tickers": [
+    "RXST"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -3823,6 +3869,7 @@
    "source": "Yahoo",
    "published": "2026-11-03T15:06:00+00:00",
    "tickers": [
+    "QGEN",
     "TMO"
    ],
    "tag": "News",
