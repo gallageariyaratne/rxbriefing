@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-05T02:32:46.534202+00:00",
+ "updated": "2026-11-05T02:47:42.785173+00:00",
  "quotes": {
   "A": {
    "price": 177.17,
@@ -89,6 +89,10 @@
   "CI": {
    "price": 305.41,
    "change_pct": 3.37
+  },
+  "CLDX": {
+   "price": 29.93,
+   "change_pct": 0.74
   },
   "CLOV": {
    "price": 4.69,
@@ -290,6 +294,10 @@
    "price": 165.02,
    "change_pct": 6.56
   },
+  "PTCT": {
+   "price": 68.97,
+   "change_pct": 1.25
+  },
   "QGEN": {
    "price": 50.83,
    "change_pct": 0.89
@@ -313,14 +321,6 @@
   "RXRX": {
    "price": 3.88,
    "change_pct": 5.43
-  },
-  "RXST": {
-   "price": 4.99,
-   "change_pct": 8.71
-  },
-  "SDGR": {
-   "price": 28.52,
-   "change_pct": 4.93
   }
  },
  "tickers": {
@@ -979,6 +979,21 @@
    ]
   },
   {
+   "id": "46f423b97551",
+   "headline": "Bruker Corp (BRKR) Q3 2026 Earnings Call Highlights: Margin Expansion and Strong Bookings ...",
+   "summary": "Bruker Corp (BRKR) delivered 400 basis points of operating margin expansion and 24% non-GAAP EPS growth despite flat organic revenue and a $175 million goodwill impairment.",
+   "url": "https://finnhub.io/api/news?id=292eb5fe76b52e8890be01b5bd5460a2ad9ec9ca79edd795e979aa6d356fd306",
+   "source": "Yahoo",
+   "published": "2026-11-05T01:09:42+00:00",
+   "tickers": [
+    "BRKR"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "526cbfa78d33",
    "headline": "Missed Out On Pfizer's Run? Here Is What Holders Saw",
    "summary": "If Pfizer sat on your watchlist instead of in your portfolio, the past few months may feel like a missed call. Holding Pfizer from the start of the year would have returned 28.6%, including dividends. That outcome followed fresh oncology\u2026",
@@ -1066,6 +1081,21 @@
    "tag": "Earnings",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "353c67abf421",
+   "headline": "Staar Surgical (STAA) Surpasses Q3 Earnings and Revenue Estimates",
+   "summary": "Staar Surgical (STAA) delivered earnings and revenue surprises of +78.95% and +2.31%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=483e35ab1d0d22dc79a2ce9b3cfb7785ab413dd6fd3eedb5ec0ff34cba99757e",
+   "source": "Yahoo",
+   "published": "2026-11-04T23:45:04+00:00",
+   "tickers": [
+    "CAH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharmacy"
    ]
   },
   {
@@ -1601,7 +1631,8 @@
    "source": "Yahoo",
    "published": "2026-11-04T21:36:00+00:00",
    "tickers": [
-    "AZN"
+    "AZN",
+    "SMMT"
    ],
    "tag": "News",
    "sectors": [
@@ -2088,6 +2119,21 @@
    "published": "2026-11-04T21:05:00+00:00",
    "tickers": [
     "ACAD"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "5b95529e68be",
+   "headline": "Celldex to Present at Upcoming Investor Conferences",
+   "summary": "HAMPTON, N.J., Nov. 04, 2026 (GLOBE NEWSWIRE) -- Celldex (NASDAQ:CLDX) announced today that management will participate in fireside chats at two upcoming investor conferences: The Guggenheim 3rd Annual Healthcare Innovation Conference on\u2026",
+   "url": "https://finnhub.io/api/news?id=bb1521ee7db641787276cb39126569cc4e195b3b10b2d988d44da5c210d282f1",
+   "source": "Yahoo",
+   "published": "2026-11-04T21:01:00+00:00",
+   "tickers": [
+    "CLDX"
    ],
    "tag": "News",
    "sectors": [
@@ -4140,6 +4186,21 @@
    "sectors": []
   },
   {
+   "id": "591d356a441d",
+   "headline": "Bloom Energy (BE) Raises Full-Year Outlook Following 166% Revenue Surge",
+   "summary": "Polen Capital, an investment management company, released its Q3 2026 investor letter for its \u201c5Perspectives Growth Opportunities Strategy\u201d. The letter can be downloaded here. The Portfolio fell 6.2% in Q3 2026, underperforming the\u2026",
+   "url": "https://finnhub.io/api/news?id=25c3bdb40ede9007fdd269c5ba242cee3c1879325eb926871f0ed504e19b4a61",
+   "source": "Yahoo",
+   "published": "2026-11-04T15:26:25+00:00",
+   "tickers": [
+    "TWST"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "9c05bb461432",
    "headline": "Apple, Microsoft hit all-time highs as Nasdaq surges 2% in post-election rally: AlphaCheck",
    "summary": "Stocks bounced on Wednesday after Democrats' sweeping mid-term elections.",
@@ -4152,6 +4213,21 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "32f0b8aa419a",
+   "headline": "Argan (AGX) Shares Fall After Record Q2 Earnings as Backlog Dips to $2.5 Billion",
+   "summary": "Polen Capital, an investment management company, released its Q3 2026 investor letter for its \u201c5Perspectives Growth Opportunities Strategy\u201d. The letter can be downloaded here. The Portfolio fell 6.2% in Q3 2026, underperforming the\u2026",
+   "url": "https://finnhub.io/api/news?id=6e7651d62b8387bdf2232fe50da178a4441a3769c48854da71cdca4f07d0db04",
+   "source": "Yahoo",
+   "published": "2026-11-04T15:24:39+00:00",
+   "tickers": [
+    "TWST"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -7741,6 +7817,21 @@
    "tag": "Analyst",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "7c0fbd9fb487",
+   "headline": "Should You Pick Autodesk Stock Over Its Competitors?",
+   "summary": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://finnhub.io/api/news?id=f83c5d32d6b8c0874fe43ba78369c995344a62aa277ee1981c54b6d77863286a",
+   "source": "Yahoo",
+   "published": "2026-11-04T09:59:11+00:00",
+   "tickers": [
+    "PTCT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
