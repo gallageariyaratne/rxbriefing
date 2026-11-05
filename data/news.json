@@ -1,7 +1,19 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-05T12:32:39.350675+00:00",
+ "updated": "2026-11-05T12:47:33.936425+00:00",
  "quotes": {
+  "A": {
+   "price": 177.17,
+   "change_pct": 0.97
+  },
+  "ABBV": {
+   "price": 294.83,
+   "change_pct": 3.09
+  },
+  "ABT": {
+   "price": 115.51,
+   "change_pct": 5.58
+  },
   "ACAD": {
    "price": 21.47,
    "change_pct": 4.38
@@ -926,6 +938,36 @@
  },
  "stories": [
   {
+   "id": "08683aeadd22",
+   "headline": "Cigna beats the Street with $1.4B in profit, $73.7B in revenue for Q3",
+   "summary": "Cigna is the latest health insurance company to boost its guidance for the year on the back of its Q3 results.",
+   "url": "https://www.fiercehealthcare.com/payers/cigna-beats-street-14b-profit-737b-revenue-q3",
+   "source": "Fierce Healthcare",
+   "published": "2026-11-05T12:45:20.814816+00:00",
+   "tickers": [
+    "CI"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "844a4818f506",
+   "headline": "STAT+: Revolution\u2019s pancreatic cancer drug has stunning commercial debut",
+   "summary": "Rasonque, Revolution Medicines' new pancreatic cancer drug, is off to one of the best oncology drug launches in history.",
+   "url": "https://www.statnews.com/2026/11/05/rasonque-revolution-medicines-pancreatic-cancer-commercial-launch/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-11-05T12:33:01+00:00",
+   "tickers": [
+    "RVMD"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "ff1b49ebba4d",
    "headline": "Alnylam seeks new commercial leader as Tolga Tanguler exits amid faltering Amvuttra trajectory",
    "summary": "Alnylam Pharmaceuticals is seeking a new chief commercial officer as the biopharma announced that its six-year CCO veteran Tolga Tanguler is leaving the company.",
@@ -1050,6 +1092,21 @@
    ]
   },
   {
+   "id": "d17d9e1f65ad",
+   "headline": "Cardinal: Fiscal Q1 Earnings Snapshot",
+   "summary": "DUBLIN, Ohio (AP) \u2014 DUBLIN, Ohio (AP) \u2014 Cardinal Health Inc. (CAH) on Thursday reported fiscal first-quarter net income of $554 million.",
+   "url": "https://finnhub.io/api/news?id=b1dd31798ab34c5c09cd1333ba2a7a78242ce968df80e1f660848af9bd2dd78c",
+   "source": "Yahoo",
+   "published": "2026-11-05T11:52:04+00:00",
+   "tickers": [
+    "CAH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
+  {
    "id": "fb966826338a",
    "headline": "Becton Dickinson: Fiscal Q4 Earnings Snapshot",
    "summary": "(AP) \u2014 Becton Dickinson and Co. (BDX) on Thursday reported fiscal fourth-quarter profit of $696 million.",
@@ -1085,6 +1142,21 @@
    "summary": "First quarter revenue increased 5% to $67.5 billion GAAP1 operating earnings increased 13% to $753 million; GAAP diluted EPS increased 27% to $2.38 Non-GAAP operating earnings increased 17% to $1.0 billion; non-GAAP diluted EPS increased\u2026",
    "url": "https://www.prnewswire.com/news-releases/cardinal-health-reports-first-quarter-fiscal-year-2027-results-and-raises-outlook-302930631.html",
    "source": "PR Newswire",
+   "published": "2026-11-05T11:45:00+00:00",
+   "tickers": [
+    "CAH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
+  {
+   "id": "aa43ec4c0e09",
+   "headline": "Cardinal Health Reports First Quarter Fiscal Year 2027 Results and Raises Outlook",
+   "summary": "Cardinal Health (NYSE: CAH) today reported first quarter fiscal year 2027 revenues of $67.5 billion, an increase of 5% from the first quarter of fiscal year 2026. First quarter GAAP operating earnings increased 13% to $753 million and\u2026",
+   "url": "https://finnhub.io/api/news?id=401303e99bdd93729d4c1fc6e6455abd8eac07388eb3dd01f9de5525d17636c1",
+   "source": "Yahoo",
    "published": "2026-11-05T11:45:00+00:00",
    "tickers": [
     "CAH"
@@ -1196,6 +1268,21 @@
    ]
   },
   {
+   "id": "7bbb9a14bf2d",
+   "headline": "What iShares Trust (IJT) Bought: McGrath Rent Leads on Nov. 3",
+   "summary": "The fund bought $15.5 million of McGrath Rent and $14.0 million of Loar Holdings, while selling $84.8 million of Glaukos in a day of $148.9 million gross trading.",
+   "url": "https://finnhub.io/api/news?id=f7947b6fc0f94df95b5d637f098ee42768cd7f15d699137a86febbedd21ba185",
+   "source": "Yahoo",
+   "published": "2026-11-05T11:05:31+00:00",
+   "tickers": [
+    "GKOS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "4b69a0324494",
    "headline": "Spdr Dow Jones Industrial Average ETF (DIA) Sells Goldman Sachs, Caterpillar on Nov. 3",
    "summary": "The $44.89 billion fund sold $310.2 million of stock, trimming all 30 positions and buying nothing.",
@@ -1219,11 +1306,27 @@
    "published": "2026-11-05T11:05:02+00:00",
    "tickers": [
     "ABBV",
-    "JNJ"
+    "JNJ",
+    "UNH"
    ],
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "cce89e3c13d9",
+   "headline": "SPDR Portfolio S&P 400 Mid Cap ETF (SPMD) Buys $75.3 Million More Glaukos on Tuesday",
+   "summary": "The fund bought $75.3 million of Glaukos and sold out of Okta, a $171.9 million exit, on gross trading of $337.2 million.",
+   "url": "https://finnhub.io/api/news?id=f3cde89609d7ff82dff9915071cde191dc4cbbf8c51442f71695d34bda6e54ed",
+   "source": "Yahoo",
+   "published": "2026-11-05T11:04:58+00:00",
+   "tickers": [
+    "GKOS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -1234,11 +1337,27 @@
    "source": "Yahoo",
    "published": "2026-11-05T11:04:37+00:00",
    "tickers": [
+    "GKOS",
     "UTHR"
    ],
    "tag": "News",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "862efc4d9396",
+   "headline": "iShares Russell 2000 (IWM) Buys $2.4 Million More Jackson Financial on Tuesday",
+   "summary": "The ETF added $387.1 million in net new exposure, raising 1,860 positions and trimming just two, on gross trading of $389.2 million.",
+   "url": "https://finnhub.io/api/news?id=c190b6b1be231fb1c52f387b476ba73ce0628696324af3dfd6a0c53b9e379369",
+   "source": "Yahoo",
+   "published": "2026-11-05T11:04:00+00:00",
+   "tickers": [
+    "GKOS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -1249,11 +1368,42 @@
    "source": "Yahoo",
    "published": "2026-11-05T11:03:38+00:00",
    "tickers": [
+    "GKOS",
     "UTHR"
    ],
    "tag": "News",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "a9d1d9dc779c",
+   "headline": "ETFs Bought $385.0 Million of Glaukos (GKOS) on Tuesday",
+   "summary": "Fifteen ETFs bought Glaukos stock versus seven that sold on Tuesday.",
+   "url": "https://finnhub.io/api/news?id=799fb9d75f088e2ed64eccff25edfe297ad1e75b65dee2812be1af61b65868a3",
+   "source": "Yahoo",
+   "published": "2026-11-05T11:00:35+00:00",
+   "tickers": [
+    "GKOS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "e418bd51a877",
+   "headline": "ETF Activity: IVV Leads With $1.48 Billion Inflow on Nov. 3",
+   "summary": "Broad-market funds pulled in the bulk of estimated inflows while leveraged and sector funds shed assets.",
+   "url": "https://finnhub.io/api/news?id=3aed0eb6622415285c3a007bdf036ea0cf1d8f4f64636a693799724fb315dbdd",
+   "source": "Yahoo",
+   "published": "2026-11-05T11:00:10+00:00",
+   "tickers": [
+    "GKOS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -1326,7 +1476,8 @@
    "tickers": [
     "ABBV",
     "AMGN",
-    "BMY"
+    "BMY",
+    "PFE"
    ],
    "tag": "News",
    "sectors": [
@@ -1343,7 +1494,8 @@
    "tickers": [
     "CI",
     "CVS",
-    "HUM"
+    "HUM",
+    "UNH"
    ],
    "tag": "News",
    "sectors": [
@@ -1360,11 +1512,27 @@
    "tickers": [
     "ABBV",
     "BMY",
-    "JNJ"
+    "JNJ",
+    "PFE"
    ],
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "696b96a5df4f",
+   "headline": "Laza Medical secures $160m to advance robotic imaging system",
+   "summary": "The technology remains under active development and has not received regulatory clearance or approval.",
+   "url": "https://finnhub.io/api/news?id=4e141af1cbbba5580d03d4d3142fb96a492570a3f197115fa3c8368372ad8d1b",
+   "source": "Yahoo",
+   "published": "2026-11-05T10:29:59+00:00",
+   "tickers": [
+    "GEHC"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -7480,6 +7648,21 @@
     "LLY"
    ],
    "tag": "GLP-1",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "109a6f468828",
+   "headline": "Amgen Inc. Q3 2026 Earnings Call Summary",
+   "summary": "Moby summary of Amgen Inc.'s Q3 2026 earnings call",
+   "url": "https://finnhub.io/api/news?id=f97852d9eaa67034a9ba5c55cea1b29f4c157d44b3fc7cc3989f0dc56002ac5e",
+   "source": "Yahoo",
+   "published": "2026-11-04T13:30:00+00:00",
+   "tickers": [
+    "AMGN"
+   ],
+   "tag": "Earnings",
    "sectors": [
     "pharma"
    ]
@@ -64721,99 +64904,6 @@
     "PFE"
    ],
    "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "4fe7ed036683",
-   "headline": "2 Safe S&P 500 Dividend Stocks Boomers Can Buy and Hold Forever",
-   "summary": "One of these household-name S&P 500 stocks has raised its dividend every single year for seven decades, and both pay their checks from cash left over after covering every other business need. Here is what stands between them and an eighth\u2026",
-   "url": "https://finnhub.io/api/news?id=954caf04cefc5f0d351a28cc17d75b0c19bbbbf5cfe29a9e3992042f649c2f96",
-   "source": "Yahoo",
-   "published": "2026-10-26T12:45:55+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "2e1cb761882f",
-   "headline": "Forget Chasing High Yields: These 4 Dividend Kings Play the Long Game",
-   "summary": "Fifty-plus years of unbroken dividend raises sounds impressive until you ask whether the cash flow actually backs it up. Four Dividend Kings with half-century track records face that test right now, and the answers reveal which ones\u2026",
-   "url": "https://finnhub.io/api/news?id=318708890b0cee04efbb82a2889fb1f3bfc3d5d315d0b81c3a2d110f914ce733",
-   "source": "Yahoo",
-   "published": "2026-10-26T12:45:32+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "adad38822e64",
-   "headline": "$1000 Invested In argenx 5 Years Ago Would Be Worth This Much Today",
-   "summary": "argenx (NASDAQ:ARGX) has outperformed the market over the past 5 years by 12.9% on an annualized basis producing an average annual return of 23.66%. Currently, argenx has a market capitalization of $55.07 billion.",
-   "url": "https://finnhub.io/api/news?id=59c2e2106c8447b41bef8762b9807c2e362a8d48bdfabb8538bebafef7a6c186",
-   "source": "Benzinga",
-   "published": "2026-10-26T12:45:20+00:00",
-   "tickers": [
-    "ARGX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "47682f94370c",
-   "headline": "Bristol-Myers Squibb (NYSE:BMY): Weighing Dividend Quality for Income Investors",
-   "summary": "See how the Best Dividend Stocks screen balances high yield with profitability and health, using Bristol-Myers Squibb as a dividend case study.",
-   "url": "https://finnhub.io/api/news?id=e7cd4372cf6b0031347da984d80be081b29e03bb2cc2219829b48bc2bb625cec",
-   "source": "ChartMill",
-   "published": "2026-10-26T12:40:40+00:00",
-   "tickers": [
-    "BMY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "1193b4ef80ab",
-   "headline": "Biogen Q3 Preview: Will Growth Products Drive an Earnings Beat?",
-   "summary": "Biogen heads into Q3 earnings with growth from new drugs and acquisitions potentially offsetting declining multiple sclerosis sales.",
-   "url": "https://finnhub.io/api/news?id=16a7bc6d08aceeea8f390458bad4f92e66e9dfc2d8069874e0beca1b6575ad2b",
-   "source": "Yahoo",
-   "published": "2026-10-26T12:38:00+00:00",
-   "tickers": [
-    "BIIB",
-    "GILD",
-    "PFE"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "f48af10316f9",
-   "headline": "ESMO26: Key data breathing new life into the lung cancer field",
-   "summary": "Clinical Trials Arena brings you the lung cancer highlights from ESMO 2026, with readouts from key players MSD, AstraZeneca, Roche and BioNTech.",
-   "url": "https://finnhub.io/api/news?id=57cf6f283265758884ba6f1d262662e99730c8d9ef927a1b0505a88d923cd3c8",
-   "source": "Yahoo",
-   "published": "2026-10-26T12:36:06+00:00",
-   "tickers": [
-    "AMGN",
-    "AZN"
-   ],
-   "tag": "Clinical",
    "sectors": [
     "pharma"
    ]
