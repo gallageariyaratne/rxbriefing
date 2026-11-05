@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-05T14:03:04.954826+00:00",
+ "updated": "2026-11-05T14:17:46.310795+00:00",
  "quotes": {
   "A": {
    "price": 177.17,
@@ -206,6 +206,10 @@
    "price": 22.77,
    "change_pct": 6.01
   },
+  "LFST": {
+   "price": 14.21,
+   "change_pct": 6.28
+  },
   "LH": {
    "price": 367.79,
    "change_pct": 3.92
@@ -317,10 +321,6 @@
   "SDGR": {
    "price": 28.52,
    "change_pct": 4.93
-  },
-  "SMMT": {
-   "price": 16.17,
-   "change_pct": 2.34
   }
  },
  "tickers": {
@@ -953,6 +953,32 @@
    ]
   },
   {
+   "id": "f77845000ea7",
+   "headline": "STAT+: Beyond statins, one drug lowered heart attack risk by 20%",
+   "summary": "A new study could help doctors figure out what medicine to prescribe for cholesterol when statins don't cut it: It's \u201canswering a really challenging clinical question.\"",
+   "url": "https://www.statnews.com/2026/11/05/repatha-vs-zetia-cholesterol-study-heart-attack-risk/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-11-05T14:00:00+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "a01d0a58359c",
+   "headline": "Evolent Health (NYSE:EVH) Q3 2026 Earnings: In-Line Revenue, EPS Beat, but Premarket Shares Slide",
+   "summary": "Evolent Health Q3 2026 revenue of $725.4M was in line, EPS beat at $0.06, yet EVH shares fell 10.77% premarket amid growth concerns.",
+   "url": "https://finnhub.io/api/news?id=aec511cd17aeca670135b8a14a67ccff655c987abadd895e66286c8286398715",
+   "source": "ChartMill",
+   "published": "2026-11-05T13:39:32+00:00",
+   "tickers": [
+    "EVH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "04d57cdd0083",
    "headline": "S&P 500 Premarket Movers for Nov. 5: Gainers and Losers",
    "summary": "S&P 500 premarket movers for Nov. 5: AppLovin and Tapestry lead gainers, while Qualcomm and Fair Isaac pace declines ahead of the open.",
@@ -1040,6 +1066,21 @@
    "tickers": [],
    "tag": "Health AI",
    "sectors": []
+  },
+  {
+   "id": "d4c5500afafd",
+   "headline": "What Changed In Bristol Myers Squibb's Story?",
+   "summary": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://finnhub.io/api/news?id=8fae970b95fc6740d2f14e0b531f89644b6005dd2d4480c74dc7fea79bebd3f1",
+   "source": "Yahoo",
+   "published": "2026-11-05T13:12:39+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "9a870bc81c33",
@@ -1150,6 +1191,21 @@
    ]
   },
   {
+   "id": "d88e51baccec",
+   "headline": "Are You Overpaying For Abbott Stock Versus Its Rivals?",
+   "summary": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://finnhub.io/api/news?id=d5b50455bbcdd6d8f8e71ef7b9ea33ca4b4f3d1d0a60495d992a23db75fd3939",
+   "source": "Yahoo",
+   "published": "2026-11-05T12:32:40+00:00",
+   "tickers": [
+    "DHR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "fb8a8d18751d",
    "headline": "The Cigna Group (NYSE:CI) Q3 Earnings Beat and Raised Outlook Lift Stock",
    "summary": "Cigna (CI) Q3 2026 revenue was in line, adjusted EPS beat estimates, and a raised full-year outlook drove shares higher in premarket trading.",
@@ -1207,6 +1263,36 @@
    "tag": "News",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "d70490a94eea",
+   "headline": "Becton Dickinson (BDX) Surpasses Q4 Earnings and Revenue Estimates",
+   "summary": "Becton Dickinson (BDX) delivered earnings and revenue surprises of +2.22% and +2.96%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=fbc57daaae6ce6c6071bf1800b629c5091c9d059825d53ee6e94a6bfab0483e1",
+   "source": "Yahoo",
+   "published": "2026-11-05T12:15:04+00:00",
+   "tickers": [
+    "BDX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "ba363697fc9c",
+   "headline": "What Needs To Be True To Buy Elevance Health Stock?",
+   "summary": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://finnhub.io/api/news?id=25550e94d490018c56fe67dad3ecd4eb69a50bfd4ac4e3395c6e376dd4d44004",
+   "source": "Yahoo",
+   "published": "2026-11-05T12:06:34+00:00",
+   "tickers": [
+    "CI"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -1319,6 +1405,36 @@
    ]
   },
   {
+   "id": "e82fda40977f",
+   "headline": "This Cigna Health Unit Is Key Growth Engine for Earnings Beat",
+   "summary": "Cigna posts a beat-and-raise quarter. Growth in its specialty and services remains a key focus area for investors.",
+   "url": "https://finnhub.io/api/news?id=f798decc6dca0098fed234ceb87e1f01113ea35e061f7b6086361198b4b809d0",
+   "source": "Yahoo",
+   "published": "2026-11-05T11:53:00+00:00",
+   "tickers": [
+    "CI"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "5e1ee6593251",
+   "headline": "Cigna Shares Rise as Third-Quarter Earnings Beat Estimates and 2026 Profit Outlook Increases",
+   "summary": "Cigna Group (NYSE:CI) shares gained 1. 5% in premarket trading on Thursday after the US health insurer reported third-quarter earnings and revenue above analysts\u2019 expectations and raised its adjusted earnings guidance for 2026.",
+   "url": "https://finnhub.io/api/news?id=90348eab6320fd13a56801466d4c882b891ca20551bf6addf85149a713573986",
+   "source": "Yahoo",
+   "published": "2026-11-05T11:52:44+00:00",
+   "tickers": [
+    "CI"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "d17d9e1f65ad",
    "headline": "Cardinal: Fiscal Q1 Earnings Snapshot",
    "summary": "DUBLIN, Ohio (AP) \u2014 DUBLIN, Ohio (AP) \u2014 Cardinal Health Inc. (CAH) on Thursday reported fiscal first-quarter net income of $554 million.",
@@ -1424,6 +1540,21 @@
    ]
   },
   {
+   "id": "3e23177b9426",
+   "headline": "Cigna (NYSE:CI) beats Q3 2026 sales expectations",
+   "summary": "Health insurance company Cigna (NYSE:CI) announced better-than-expected revenue in Q3 2026, with revenue up 6.1% year on year to $73.79 billion. Its non-GAAP profit of $7.98 per share was 6.3% above analysts\u2019 consensus estimates.",
+   "url": "https://finnhub.io/api/news?id=4e5ff2acdf70d9528a134dbbeaea2657ae0799054ff94ec74a6e579eda2cd24f",
+   "source": "Yahoo",
+   "published": "2026-11-05T11:34:31+00:00",
+   "tickers": [
+    "CI"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "54dab14b19ab",
    "headline": "Thermo Fisher Scientific (NYSE:TMO) Breakout Setup Backed by Strong Technicals",
    "summary": "Thermo Fisher (TMO) nears a 52-week high with strong technical and setup scores, offering a defined breakout entry and tight stop.",
@@ -1507,6 +1638,21 @@
    "tag": "Earnings",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "283fcd42572f",
+   "headline": "Cigna (CI) Q3 Earnings and Revenues Beat Estimates",
+   "summary": "Cigna (CI) delivered earnings and revenue surprises of +6.97% and +0.35%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=767c8cb333a36dee7d52503fcfe5e4dafca1bad5e0acfa568981c6742002c485",
+   "source": "Yahoo",
+   "published": "2026-11-05T11:10:02+00:00",
+   "tickers": [
+    "CI"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -1918,6 +2064,21 @@
    ]
   },
   {
+   "id": "046385916c66",
+   "headline": "Cigna Says Advancing Contracts With Drugmakers, Pharmacy Networks For New Pharmacy-Benefit Model",
+   "summary": "-Conference Call.",
+   "url": "https://finnhub.io/api/news?id=d225068f9dd1a0fec1650b118af7e95fa42c79f4f30135f616a7b5aa470c940f",
+   "source": "Benzinga",
+   "published": "2026-11-05T09:51:19+00:00",
+   "tickers": [
+    "CI"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "6e961d5cc0b8",
    "headline": "AstraZeneca (NYSE:AZN) Stands Out for Dividend Quality and Sustainable Payout",
    "summary": "AstraZeneca fits a quality dividend screen with a 2.3% yield, strong profitability, and adequate financial health, though liquidity remains a caveat.",
@@ -2063,6 +2224,21 @@
    ]
   },
   {
+   "id": "203503a56562",
+   "headline": "Becton, Dickinson and Company 2026 Q4 - Results - Earnings Call Presentation",
+   "summary": "2026-11-05. The following slide deck was published by Becton, Dickinson and Company in conjunction with their 2026 Q4 earnings call.",
+   "url": "https://finnhub.io/api/news?id=1aea6a774771ead43f4a02de4c27718423683b4b238bf9466f4739f656dc0055",
+   "source": "SeekingAlpha",
+   "published": "2026-11-05T08:34:30+00:00",
+   "tickers": [
+    "BDX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "67817b88d92f",
    "headline": "Hospitals under pressure? This surgery-center chain is up 40.8% since April",
    "summary": "Investing.com and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
@@ -2074,6 +2250,21 @@
     "THC"
    ],
    "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "821adc36f365",
+   "headline": "Cigna Continues To Expect Adjusted EPS Growth Of At Least 10% In 2027 Off Its Run-Rate; 2027 Headwind For Cigna Healthcare Is Exit From The ACA Exchange Business; 2027 Headwind For Pharmacy Benefit Services Is Compression Of Industry Rebate Pools And Lower Employer Coverage Of GLP-1s For Weight Loss; 2027 Headwind For Specialty And Care Services Is A More Limited Pipeline Of Biosimilar And Specialty Generic Launches",
+   "summary": "-Presentation.",
+   "url": "https://finnhub.io/api/news?id=6c1ca37b43847e95d86898c7c0bf1a77fa07c2600b29af1cc8506602f581c976",
+   "source": "Benzinga",
+   "published": "2026-11-05T08:23:05+00:00",
+   "tickers": [
+    "CI"
+   ],
+   "tag": "GLP-1",
    "sectors": [
     "payers"
    ]
@@ -2279,6 +2470,81 @@
    "published": "2026-11-05T07:06:22+00:00",
    "tickers": [
     "CVS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "2aa7da11abe6",
+   "headline": "LifeStance Health Gr Sees Q4 Sales $446.000M-$466.000M vs $438.561M Est",
+   "summary": "LifeStance Health Gr (NASDAQ:LFST) sees Q4 sales of $446.000 million-$466.000 million vs $438.561 million analyst estimate.",
+   "url": "https://finnhub.io/api/news?id=27d0bd2882a1b91d481b64b2064e92cfa6f62ca8e9d5c2f015f5d03001568de5",
+   "source": "Benzinga",
+   "published": "2026-11-05T07:05:22+00:00",
+   "tickers": [
+    "LFST"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
+   "id": "0084cc8115d3",
+   "headline": "LifeStance Health Gr Raises FY2026 Sales Guidance from $1.685B-$1.725B to $1.741B-$1.761B vs $1.709B Est",
+   "summary": "LifeStance Health Gr (NASDAQ:LFST) raises FY2026 sales outlook from $1.685 billion-$1.725 billion to $1.741 billion-$1.761 billion vs $1.709 billion estimate.",
+   "url": "https://finnhub.io/api/news?id=186a5bf480f595b94519a38bb4650d5043472636a6590c0f1950ab4873823d2b",
+   "source": "Benzinga",
+   "published": "2026-11-05T07:05:17+00:00",
+   "tickers": [
+    "LFST"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
+   "id": "0d5a80b03751",
+   "headline": "LifeStance Health Gr Q3 EPS $0.06 Beats $0.04 Estimate, Sales $455.900M Beat $431.816M Estimate",
+   "summary": "LifeStance Health Gr (NASDAQ:LFST) reported quarterly earnings of $0.06 per share which beat the analyst consensus estimate of $0.04 by 50 percent. The company reported quarterly sales of $455.900 million which beat",
+   "url": "https://finnhub.io/api/news?id=5d4dccf4f608dc9afb081d6027d35965125137d42b64eb13c63c1c618aab2529",
+   "source": "Benzinga",
+   "published": "2026-11-05T07:04:16+00:00",
+   "tickers": [
+    "LFST"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
+   "id": "e9d7d71dc6d2",
+   "headline": "Cigna Group FY2026 Adj EPS expected to be more than $30.60 vs $30.51 Est",
+   "summary": "Cigna Group (NYSE:CI) FY2026 expected to be more than $30.60 vs $30.51 Est..",
+   "url": "https://finnhub.io/api/news?id=09f7f5a9f2119adc69b5c39dea471a436a0023a63ace27e4142341f1a2aab8ff",
+   "source": "Benzinga",
+   "published": "2026-11-05T07:01:51+00:00",
+   "tickers": [
+    "CI"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "ef76009bece9",
+   "headline": "Cigna Group Q3 Adj. EPS $7.98 Beats $7.50 Estimate, Sales $73.683B Beat $72.720B Estimate",
+   "summary": "Cigna Group (NYSE:CI) reported quarterly earnings of $7.98 per share which beat the analyst consensus estimate of $7.50 by 6.4 percent. This is a 1.92 percent increase over earnings of $7.83 per share from the same",
+   "url": "https://finnhub.io/api/news?id=11e166d492886263345e1e510710ee2a675a5deccfba25b30cf9778edc9d2cc2",
+   "source": "Benzinga",
+   "published": "2026-11-05T07:01:50+00:00",
+   "tickers": [
+    "CI"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -4866,6 +5132,21 @@
    ]
   },
   {
+   "id": "c5a48aa77f40",
+   "headline": "Cytokinetics Q3 2026 Earnings Call Transcript",
+   "summary": "Cytokinetics (NASDAQ:CYTK) reported third-quarter financial results on Wednesday. The transcript from the company\u2019s third-quarter earnings call has been provided below.This transcript is brought to you by Benzinga APIs.",
+   "url": "https://finnhub.io/api/news?id=21f039c9e7e05e21acae27b4d5654537dec0d4973b8b11ac54e855e2713cdd7c",
+   "source": "Benzinga",
+   "published": "2026-11-04T18:48:44+00:00",
+   "tickers": [
+    "CYTK"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "bc1c91b06882",
    "headline": "United Therapeutics (UTHR) Q3 2026 Earnings Call Transcript",
    "summary": "Tyvaso DPI growth lifted revenue while R&D spending weighed on profit.",
@@ -5621,6 +5902,21 @@
    ]
   },
   {
+   "id": "96a17ac92e75",
+   "headline": "Cytokinetics Q3 EPS $(1.37) Beats $(1.44) Estimate, Sales $47.557M Beat $41.879M Estimate",
+   "summary": "Cytokinetics (NASDAQ:CYTK) reported quarterly losses of $(1.37) per share which beat the analyst consensus estimate of $(1.44) by 4.86 percent. This is a 11.04 percent increase over losses of $(1.54) per share from the",
+   "url": "https://finnhub.io/api/news?id=8c1fdbcaab9e2712a8c0685b360b283c19a596ab2b5cb78d9510c97e650e9dfa",
+   "source": "Benzinga",
+   "published": "2026-11-04T17:01:04+00:00",
+   "tickers": [
+    "CYTK"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "260f291dfa7a",
    "headline": "European Stocks Rally in Wednesday Trading Following US Elections; Euro Area Inflation Rises",
    "summary": "The European stock markets surged in Wednesday trading following US elections that saw the Democrats",
@@ -5826,6 +6122,22 @@
    "tag": "News",
    "sectors": [
     "healthit"
+   ]
+  },
+  {
+   "id": "35129bcebaac",
+   "headline": "Toyota, ConocoPhillips On Deck Thursday As Auto Demand, Oil Prices Face Test",
+   "summary": "Toyota Motor headlines Thursday\u2019s reports, with investors weighing the automaker\u2019s earnings outlook against a stock still well below its 52-week high. ConocoPhillips, Sony Group, Parker Hannifin and Canadian Natural",
+   "url": "https://finnhub.io/api/news?id=556485568e8138e2aaae636bf628537078f73f20c08f9e3ac7d9d1bb877060c7",
+   "source": "Benzinga",
+   "published": "2026-11-04T16:31:08+00:00",
+   "tickers": [
+    "BDX",
+    "CI"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -7086,6 +7398,22 @@
    ]
   },
   {
+   "id": "5a41f7e5e63c",
+   "headline": "Human Genome Sciences Announces Rejects Offer from GlaxoSmithKline; HGS Board of Directors Authorizes Exploration of Strategic Alternatives",
+   "summary": "",
+   "url": "https://finnhub.io/api/news?id=767034aa492baf2d4eabfc6e27c7e418c0ed1536957fecf956e1cf8d1747ddfc",
+   "source": "Benzinga",
+   "published": "2026-11-04T14:25:08+00:00",
+   "tickers": [
+    "AZN",
+    "BNTX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "72fd9acc2ad3",
    "headline": "CVS Q3 Earnings & Revenues Top Estimates, Stock Up in Pre-Market",
    "summary": "CVS Health's Q3 earnings and revenues beat estimates as stronger margins and improved operating performance prompt management to raise its 2026 outlook.",
@@ -7885,6 +8213,21 @@
    "tag": "Earnings",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "baf93bb5775b",
+   "headline": "Dow Rallies 2.9%, Oil Sinks 7% After Midterms: Stock Market Today",
+   "summary": "Democrats' sweep of Congress lifted hyperscalers and retailers, sank oil and data-center builders, and pulled yields lower.",
+   "url": "https://finnhub.io/api/news?id=da864d1f6364ece8aef14815dea42ecff8d8d346521c81e737da789fc2f4bcf6",
+   "source": "Benzinga",
+   "published": "2026-11-04T13:31:02+00:00",
+   "tickers": [
+    "MCK"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "pharmacy"
    ]
   },
   {
@@ -64494,54 +64837,6 @@
    "sectors": [
     "biotech"
    ]
-  },
-  {
-   "id": "682fcecc9103",
-   "headline": "What You Need to Know Ahead of Bio-Techne\u2019s Earnings Release",
-   "summary": "Bio-Techne will report its Q1 earnings soon, and analysts see single-digit earnings growth.",
-   "url": "https://finnhub.io/api/news?id=336a6c6fbf4bb07865f131e875bbfaab3c856d6d9e461a618ae442460707ca34",
-   "source": "Yahoo",
-   "published": "2026-10-26T14:15:42+00:00",
-   "tickers": [
-    "TECH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "c32ca8e7eda6",
-   "headline": "ESMO: Genmab posts phase 3 win for Elahere rival, ahead of \u2018very interesting\u2019 data from Merus buyout",
-   "summary": "Genmab may have arrived in Spain with updated data from a pair of phase 2 studies from the main prize of its Merus buyout, but the company had bigger news to share.",
-   "url": "https://www.fiercebiotech.com/biotech/esmo-genmabs-phase-3-win-elahere-rival-ahead-very-interesting-data-merus-buyout",
-   "source": "Fierce Biotech",
-   "published": "2026-10-26T14:15:22.624395+00:00",
-   "tickers": [],
-   "tag": "M&A",
-   "sectors": []
-  },
-  {
-   "id": "96bb187de85a",
-   "headline": "Lycia leaps onto Nasdaq with upsized $318M IPO as Windward breezes toward listing",
-   "summary": "Lycia Therapeutics went public with an upsized $317.5 million IPO on Friday, while immunology-focused Windward Bio is hoping to catch the same tailwinds.",
-   "url": "https://www.fiercebiotech.com/biotech/lycia-leaps-nasdaq-upsized-318m-ipo-while-windward-also-plans-listing",
-   "source": "Fierce Biotech",
-   "published": "2026-10-26T14:15:22.619398+00:00",
-   "tickers": [],
-   "tag": "Financing",
-   "sectors": []
-  },
-  {
-   "id": "5463f008118c",
-   "headline": "Uninsured rate rises to 11% ahead of Medicaid work requirements",
-   "summary": "Cuts to federal programs and the loss of enhanced subsidies on the exchanges could deepen an existing healthcare affordability crisis, according to a new report from the Commonwealth Fund.",
-   "url": "https://www.healthcaredive.com/news/uninsured-rate-rises-ahead-medicaid-work-requirements/833832/",
-   "source": "Healthcare Dive",
-   "published": "2026-10-26T14:05:39+00:00",
-   "tickers": [],
-   "tag": "Policy",
-   "sectors": []
   }
  ]
 }
