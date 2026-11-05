@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-05T11:47:28.381087+00:00",
+ "updated": "2026-11-05T12:02:58.046226+00:00",
  "quotes": {
   "A": {
    "price": 177.17,
@@ -314,13 +314,13 @@
    "price": 930.67,
    "change_pct": -4.39
   },
-  "RGEN": {
-   "price": 178.2,
-   "change_pct": -0.04
-  },
   "RMD": {
    "price": 240.51,
    "change_pct": 5.91
+  },
+  "ROIV": {
+   "price": 38.23,
+   "change_pct": 6.08
   }
  },
  "tickers": {
@@ -938,6 +938,51 @@
  },
  "stories": [
   {
+   "id": "c45d71beec7a",
+   "headline": "Lilly to showcase new retatrutide, Taltz (ixekizumab) and Zepbound (tirzepatide) data at ACR Convergence 2026, advancing science at the intersection of rheumatologic conditions and obesity",
+   "summary": "Pivotal results from the Phase 3 TRIUMPH-1 and TRIUMPH-4 trials showed retatrutide delivered substantial reductions in knee pain and weight in adults with knee osteoarthritis and obesity, with some experiencing no knee pain at the end of\u2026",
+   "url": "https://www.prnewswire.com/news-releases/lilly-to-showcase-new-retatrutide-taltz-ixekizumab-and-zepbound-tirzepatide-data-at-acr-convergence-2026-advancing-science-at-the-intersection-of-rheumatologic-conditions-and-obesity-302930037.html",
+   "source": "PR Newswire",
+   "published": "2026-11-05T11:45:00+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "69c75e041f0a",
+   "headline": "Cardinal Health Reports First Quarter Fiscal Year 2027 Results and Raises Outlook",
+   "summary": "First quarter revenue increased 5% to $67.5 billion GAAP1 operating earnings increased 13% to $753 million; GAAP diluted EPS increased 27% to $2.38 Non-GAAP operating earnings increased 17% to $1.0 billion; non-GAAP diluted EPS increased\u2026",
+   "url": "https://www.prnewswire.com/news-releases/cardinal-health-reports-first-quarter-fiscal-year-2027-results-and-raises-outlook-302930631.html",
+   "source": "PR Newswire",
+   "published": "2026-11-05T11:45:00+00:00",
+   "tickers": [
+    "CAH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
+  {
+   "id": "54dab14b19ab",
+   "headline": "Thermo Fisher Scientific (NYSE:TMO) Breakout Setup Backed by Strong Technicals",
+   "summary": "Thermo Fisher (TMO) nears a 52-week high with strong technical and setup scores, offering a defined breakout entry and tight stop.",
+   "url": "https://finnhub.io/api/news?id=39ee69be26662e4796d0a84c6d08c27a25d1959e39393689e4d3fcfb6b7c3c32",
+   "source": "ChartMill",
+   "published": "2026-11-05T11:31:23+00:00",
+   "tickers": [
+    "TMO"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "7e9c8585ab63",
    "headline": "STAT+: A closer look at ProMis Neurosciences and its Alzheimer\u2019s drug",
    "summary": "Shares of ProMis Neurosciences, developer of a treatment for Alzheimer\u2019s disease, sold off sharply last week. A closer look at the reason why \u2014 and whether it holds up.",
@@ -1209,6 +1254,21 @@
    "tag": "Earnings",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "853c3f8d2b32",
+   "headline": "Is Recursion Pharmaceuticals (RXRX) A Bargain After Q3 Earnings And Clinical Updates?",
+   "summary": "Q3 earnings and clinical updates put Recursion Pharmaceuticals (RXRX) in focus Recursion Pharmaceuticals (RXRX) just delivered a busy Q3 2026, pairing an earnings update and ongoing losses with fresh clinical data and leadership changes\u2026",
+   "url": "https://finnhub.io/api/news?id=179fd60f36e7e50d8eb73c749fc0b081e8fd7adfdf88b0deb14e2e0656c2cca2",
+   "source": "Yahoo",
+   "published": "2026-11-05T08:16:01+00:00",
+   "tickers": [
+    "RXRX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthai"
    ]
   },
   {
@@ -2079,6 +2139,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "d6447cb4d9e8",
+   "headline": "REC 4881 Trial Results Could Change The Case For Recursion Pharmaceuticals Stock",
+   "summary": "Recursion Pharmaceuticals reported Q3 2026 revenue of US$18.55 million and a net loss of US$119.04 million, while highlighting an extended cash runway into 2029, new financing and ongoing pharma collaborations. Fresh Phase 2 data for\u2026",
+   "url": "https://finnhub.io/api/news?id=25d5d6664b892001890343d6afd15c54007c0058eac2beea80fa7bc1f6dc163d",
+   "source": "Yahoo",
+   "published": "2026-11-05T00:15:09+00:00",
+   "tickers": [
+    "RXRX"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "healthai"
    ]
   },
   {
@@ -64527,234 +64602,6 @@
    "tag": "News",
    "sectors": [
     "tools"
-   ]
-  },
-  {
-   "id": "183515e782a8",
-   "headline": "Mark Cuban Warns CEOs If Your Health Benefits Do Not Actually Help Employees You Are Legally Liable - 'It\u2019s All On You\u2019",
-   "summary": "Billionaire entrepreneur Mark Cuban says company leaders who treat employee health benefits as someone else's problem may be setting themselves up for a legal reckoning, and he wants them to know it.",
-   "url": "https://finnhub.io/api/news?id=ed7848ee09fdaaed82f9469ddfa68caaefe4a9b36e7aa886f0de80475da3d841",
-   "source": "Benzinga",
-   "published": "2026-10-26T12:00:10+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "d5ac69cb6008",
-   "headline": "Intuitive Surgical, Inc. (ISRG) Is a Trending Stock: Facts to Know Before Betting on It",
-   "summary": "Intuitive Surgical (ISRG) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
-   "url": "https://finnhub.io/api/news?id=cc28411b39337468519bb33ee8639798793ace61b3608ac59b2136ab88f3219d",
-   "source": "Yahoo",
-   "published": "2026-10-26T12:00:02+00:00",
-   "tickers": [
-    "ISRG"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "b3c95282fd97",
-   "headline": "Amwell\u00ae to report third quarter 2026 operating results",
-   "summary": "BOSTON, Oct. 26, 2026 (GLOBE NEWSWIRE) -- Amwell\u00ae (NYSE: AMWL a leading provider of technology-enabled care, will report third quarter 2026 operating results after stock market trading hours on Tuesday, November 3. Following the\u2026",
-   "url": "https://finnhub.io/api/news?id=3506ec45bd48d73e406a2e91da7b2683c99de8305e0a5943cd0d4ab094e73ad5",
-   "source": "Yahoo",
-   "published": "2026-10-26T12:00:00+00:00",
-   "tickers": [
-    "AMWL"
-   ],
-   "tag": "News",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "685aa1b54bbc",
-   "headline": "The Conference Board Announces 2027 Corporate Citizenship Award Honorees: Bristol Myers Squibb, Cargill, Navy Federal Credit Union, Science Applications International Corporation (SAIC), TD, and The Mosaic Company",
-   "summary": "The Conference Board is pleased to announce the honorees of its fourth annual Corporate Citizenship Awards. The recipients will be honored at a special awards dinner on April 13, 2027, in New York City.",
-   "url": "https://finnhub.io/api/news?id=d742ef5ccd41957a45a61403e7ce4d63acb5ef42e93718021caf961a2e6d5281",
-   "source": "Yahoo",
-   "published": "2026-10-26T12:00:00+00:00",
-   "tickers": [
-    "BMY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "d117c60e4804",
-   "headline": "Boston Scientific to participate in Stifel's 2026 Healthcare Conference",
-   "summary": "Boston Scientific Corporation (NYSE: BSX) will participate in Stifel's 2026 Healthcare Conference on Wednesday, November 11, 2026. Kenneth Stein, M.D., senior vice president and global chief medical officer, and Lance Bates, executive\u2026",
-   "url": "https://finnhub.io/api/news?id=0bfc52f8550ec757a6c435b4baa678ee99ee0cf14dba0c604325f62b75e16f15",
-   "source": "Yahoo",
-   "published": "2026-10-26T12:00:00+00:00",
-   "tickers": [
-    "BSX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "27f98444617e",
-   "headline": "Certara to Report Third Quarter 2026 Financial Results on November 5th, 2026",
-   "summary": "RADNOR, Pa., Oct. 26, 2026 (GLOBE NEWSWIRE) -- Certara, Inc. (Nasdaq: CERT), a global leader in model-informed drug development, today announced that it will release financial results for the third quarter of 2026 before market open on\u2026",
-   "url": "https://finnhub.io/api/news?id=73ef56f49a4b5ef67e1c418e226aa6328ab41b5952c901cae3a71ea55c5b5ead",
-   "source": "Yahoo",
-   "published": "2026-10-26T12:00:00+00:00",
-   "tickers": [
-    "CERT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "healthai"
-   ]
-  },
-  {
-   "id": "4feee3a85e69",
-   "headline": "Allergan Aesthetics Celebrates Eight Years of Engaging Girls in STEM Through Continued Partnership with Girls Inc.",
-   "summary": "Allergan Aesthetics, an AbbVie company, is celebrating eight years of partnership with Girls Inc., a nonprofit organization dedicated to inspiring girls to be strong, smart and bold through mentorship, education and advocacy. Together,\u2026",
-   "url": "https://finnhub.io/api/news?id=e3981e35fc330573948c5fa953abbc46ea821ba5cae0aae12a1bbe67cb68e41b",
-   "source": "Yahoo",
-   "published": "2026-10-26T12:00:00+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "7e590a032a9d",
-   "headline": "TransCon\u00ae PTH (Palopegteriparatide) Demonstrates Sustained, Clinically Meaningful Improvements in Kidney Function in Adults with Hypoparathyroidism Treated Up to 5 Years",
-   "summary": "COPENHAGEN, Denmark, Oct. 26, 2026 (GLOBE NEWSWIRE) -- Ascendis Pharma A/S (Nasdaq: ASND) today announced new data demonstrating early, sustained, and clinically meaningful improvements in kidney function in adults with hypoparathyroidism\u2026",
-   "url": "https://finnhub.io/api/news?id=4ba9b0e5c1690e5509d6432f634ede46b82bf7ce35095ab4b51a7667af700376",
-   "source": "Yahoo",
-   "published": "2026-10-26T12:00:00+00:00",
-   "tickers": [
-    "ASND"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "eb84ab5b9aea",
-   "headline": "Twist Bioscience to Report Fiscal 2026 Fourth Quarter and Full Year Financial Results on Thursday, November 12, 2026",
-   "summary": "SOUTH SAN FRANCISCO, Calif., October 26, 2026--Twist Bioscience Corporation (NASDAQ: TWST), a mid-cap growth and value healthcare company, today announced that it will issue its financial results for the fiscal 2026 fourth quarter and\u2026",
-   "url": "https://finnhub.io/api/news?id=9ec5034fd428f8656714951053f9639c6e4fe95e2ebd0601a2d686542a14d8ce",
-   "source": "Yahoo",
-   "published": "2026-10-26T12:00:00+00:00",
-   "tickers": [
-    "TWST"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "7ee14f164e39",
-   "headline": "Stryker completes acquisition of ZuriMED to enhance its shoulder offering",
-   "summary": "Portage, Michigan, Oct. 26, 2026 (GLOBE NEWSWIRE) -- Stryker has completed its acquisition of ZuriMED, adding the FiberLocker System to its Sports Medicine portfolioThe acquisition adds a commercialized rotator cuff augmentation\u2026",
-   "url": "https://finnhub.io/api/news?id=e0e404960b3f6c6590a53ebe00abae8d567fcd4585eb2720712945c2c44f050c",
-   "source": "Yahoo",
-   "published": "2026-10-26T12:00:00+00:00",
-   "tickers": [
-    "SYK"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "d32fd15d297f",
-   "headline": "US Equity Futures Rise Pre-Bell as Traders Assess Declining Oil Prices, Await Fed Rate Decision This Week",
-   "summary": "US equity futures were edging higher pre-bell Monday as traders observed oil prices declining while",
-   "url": "https://finnhub.io/api/news?id=14f86e0b5ee81c897498d6b56b2ed129d718943c39c72fda7fe6fe3f16655540",
-   "source": "Yahoo",
-   "published": "2026-10-26T11:59:12+00:00",
-   "tickers": [
-    "LLY",
-    "MRK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "07a67b70b76a",
-   "headline": "Implied Volatility Surging for Elevance Health Stock Options",
-   "summary": "Investors need to pay close attention to ELV stock based on the movements in the options market lately.",
-   "url": "https://finnhub.io/api/news?id=91004a5c12f9535eadc3551b5a3d4c644d6bb479ea4a6556d6b78779398b82b5",
-   "source": "Yahoo",
-   "published": "2026-10-26T11:58:00+00:00",
-   "tickers": [
-    "ELV"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "5afc98f13714",
-   "headline": "Premarket movers: Moderna, Brazil ADRs drop; SpaceX rises",
-   "summary": "Investing.com - U.S. stock index futures rose on Monday after technology-driven losses battered Wall Street in the previous session, with investors turning their attention to this week\u2019s Federal Reserve policy announcement and a slate of\u2026",
-   "url": "https://finnhub.io/api/news?id=3108bb9944de46ac15869e0b6d5e084355e552cf6805860a390718c435434128",
-   "source": "Yahoo",
-   "published": "2026-10-26T11:56:28+00:00",
-   "tickers": [
-    "MRK",
-    "MRNA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "25f9b31847e0",
-   "headline": "Novartis Reports Lower Relapse Rates and No Hy\u2019s Law Cases in Phase 3 Remibrutinib MS Trials",
-   "summary": "Novartis (NYSE:NVS) reported that its experimental multiple sclerosis treatment remibrutinib reduced annualised relapse rates by more than 30% compared with Sanofi\u2019s Aubagio (teriflunomide) in two Phase 3 clinical trials, with no cases of\u2026",
-   "url": "https://finnhub.io/api/news?id=20e7f50dcb8f488f857c235ac1bac0dc4c93bd0f05aca460f887086884f5fa43",
-   "source": "Yahoo",
-   "published": "2026-10-26T11:52:42+00:00",
-   "tickers": [
-    "NVS",
-    "SNY"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "531805158a37",
-   "headline": "AbbVie Options Price In a Sudden 5% Swing\u2014What Investors Must Know Before Oct. 30",
-   "summary": "AbbVie (NYSE:ABBV) reports third-quarter results before the open on October 30. Shares are up 28.55% year to date, and options pricing implies a roughly 5% move on the release. That leaves little room for a stumble. Big Momentum Meets a\u2026",
-   "url": "https://finnhub.io/api/news?id=e524268219c818f9858ad315d5de88189e07478175bfb9d3596e0fb620cb48f5",
-   "source": "Yahoo",
-   "published": "2026-10-26T11:51:26+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
