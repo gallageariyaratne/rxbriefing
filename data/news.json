@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-05T10:02:44.921747+00:00",
+ "updated": "2026-11-05T10:09:38.163881+00:00",
  "quotes": {
   "A": {
    "price": 177.17,
@@ -254,10 +254,6 @@
    "price": 258.38,
    "change_pct": 13.11
   },
-  "NBIX": {
-   "price": 166.05,
-   "change_pct": 0.73
-  },
   "NTLA": {
    "price": 12.31,
    "change_pct": 3.79
@@ -321,6 +317,10 @@
   "RVMD": {
    "price": 199.7,
    "change_pct": 2.82
+  },
+  "RXRX": {
+   "price": 3.88,
+   "change_pct": 5.43
   }
  },
  "tickers": {
@@ -64732,36 +64732,6 @@
     "REGN"
    ],
    "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "12e4dd20aa58",
-   "headline": "IQVIA (IQV) Q3 earnings report preview: what to look for",
-   "summary": "Clinical research company IQVIA (NYSE: IQV) will be reporting results this Tuesday before market open. Here\u2019s what to expect.",
-   "url": "https://finnhub.io/api/news?id=6dafb1d9b540443ae582b0664f1e473ad69e063c810a58dff0a5db35746ef87e",
-   "source": "Yahoo",
-   "published": "2026-10-26T10:06:47+00:00",
-   "tickers": [
-    "IQV"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "13a13fd8f9d3",
-   "headline": "Piper Sandler Reiterates Overweight on Moderna, Raises Price Target to $230",
-   "summary": "Piper Sandler analyst Edward Tenthoff reiterates Moderna (NASDAQ:MRNA) with a Overweight and raises the price target from $167 to $230.",
-   "url": "https://finnhub.io/api/news?id=f2ed4806efae984f289a2e7a999c9abf654f67cb3e053deeb93b58be00460b97",
-   "source": "Benzinga",
-   "published": "2026-10-26T10:04:17+00:00",
-   "tickers": [
-    "MRNA"
-   ],
-   "tag": "Analyst",
    "sectors": [
     "pharma"
    ]
