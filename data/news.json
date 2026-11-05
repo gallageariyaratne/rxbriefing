@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-05T02:02:49.946779+00:00",
+ "updated": "2026-11-05T02:17:29.280562+00:00",
  "quotes": {
   "A": {
    "price": 177.17,
@@ -13,6 +13,10 @@
   "ABT": {
    "price": 115.51,
    "change_pct": 5.58
+  },
+  "ACAD": {
+   "price": 21.47,
+   "change_pct": 4.38
   },
   "ALHC": {
    "price": 8.14,
@@ -133,6 +137,10 @@
   "EW": {
    "price": 99.37,
    "change_pct": 4.39
+  },
+  "GDRX": {
+   "price": 3.72,
+   "change_pct": 6.59
   },
   "GEHC": {
    "price": 85.81,
@@ -313,14 +321,6 @@
   "SNY": {
    "price": 47.47,
    "change_pct": 4.72
-  },
-  "SOPH": {
-   "price": 6.97,
-   "change_pct": 0.87
-  },
-  "SRPT": {
-   "price": 18.99,
-   "change_pct": 2.43
   }
  },
  "tickers": {
@@ -938,6 +938,32 @@
  },
  "stories": [
   {
+   "id": "662e4bfff26e",
+   "headline": "CMS finalizes steeper Medicare physician pay cuts for 2027, delays restriction on third-party RPM vendors",
+   "summary": "CMS finalized sweeping Medicare payment reforms it says will shift the program from volume-based \"sick care\" toward prevention, primary care and accountable care.",
+   "url": "https://www.fiercehealthcare.com/regulatory/cms-finalizes-final-medicare-rule-deeper-cuts-physician-pay-delays-rpm-restrictions-2029",
+   "source": "Fierce Healthcare",
+   "published": "2026-11-05T02:15:20.448483+00:00",
+   "tickers": [],
+   "tag": "Policy",
+   "sectors": []
+  },
+  {
+   "id": "ed5f68ee9502",
+   "headline": "What ACADIA Pharmaceuticals (ACAD) Said on Its Q3 Earnings Call",
+   "summary": "ACADIA Pharmaceuticals (NASDAQ:ACAD) reported third-quarter 2026 revenue of $342 million, up 22% from a year earlier on an adjusted basis, as demand for its Rett syndrome treatment DAYBUE and Parkinson\u2019s disease psychosis drug NUPLAZID\u2026",
+   "url": "https://finnhub.io/api/news?id=1351429c5dada6dee977e4633887a8c056d2ea8af648894d1f84f3de8eacda38",
+   "source": "Yahoo",
+   "published": "2026-11-05T01:14:17+00:00",
+   "tickers": [
+    "ACAD"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "526cbfa78d33",
    "headline": "Missed Out On Pfizer's Run? Here Is What Holders Saw",
    "summary": "If Pfizer sat on your watchlist instead of in your portfolio, the past few months may feel like a missed call. Holding Pfizer from the start of the year would have returned 28.6%, including dividends. That outcome followed fresh oncology\u2026",
@@ -965,6 +991,21 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "2291626fdcf2",
+   "headline": "Acadia Pharmaceuticals (ACAD) Tops Q3 Earnings and Revenue Estimates",
+   "summary": "Acadia (ACAD) delivered earnings and revenue surprises of +63.16% and +2.22%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=0a241f4544e2a88adfae3b15bace70e06378c319fca4533f280481927fd0cfdd",
+   "source": "Yahoo",
+   "published": "2026-11-04T23:45:16+00:00",
+   "tickers": [
+    "ACAD"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -1235,6 +1276,21 @@
    ]
   },
   {
+   "id": "f48e21a58aea",
+   "headline": "RYTM Stock Clocks Best Day In Nearly 16 Months On AstraZeneca $10B Bid Report",
+   "summary": "According to a report from The Wall Street Journal, citing people familiar with the matter, AstraZeneca offered $124 per share last month for Rhythm.",
+   "url": "https://finnhub.io/api/news?id=f412d08957624784a701423a827a51b6d84f20f765faed9405bcf57800a2eb9a",
+   "source": "Yahoo",
+   "published": "2026-11-04T22:20:36+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "b40e2847d963",
    "headline": "Recursion Pharmaceuticals (RXRX) Puts Fred Hassan In The Chair After Phase 2 Win",
    "summary": "Recursion Pharmaceuticals (NasdaqGS:RXRX) reported positive Phase 2 data for oral MEK1/2 inhibitor REC-4881 in familial adenomatous polyposis. The biotech plans to start a registrational trial of REC-4881, subject to discussions with the\u2026",
@@ -1385,6 +1441,21 @@
    ]
   },
   {
+   "id": "7ab1bcb4fc43",
+   "headline": "Acadia: Q3 Earnings Snapshot",
+   "summary": "SAN DIEGO (AP) \u2014 SAN DIEGO (AP) \u2014 Acadia Pharmaceuticals Inc. (ACAD) on Wednesday reported third-quarter earnings of $53.",
+   "url": "https://finnhub.io/api/news?id=d99d65ff1ba357cc523da3f76cd2c573ba8415a58cb8c3a2cb60f1711f2d8c83",
+   "source": "Yahoo",
+   "published": "2026-11-04T21:57:39+00:00",
+   "tickers": [
+    "ACAD"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "0b36f40ff290",
    "headline": "Which Dates Could Move Moderna Stock Most?",
    "summary": "For questions about this article or underlying research, email help@trefis.com.",
@@ -1398,6 +1469,21 @@
     "SRPT"
    ],
    "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "61fe131883b9",
+   "headline": "Rhythm Pharmaceuticals stock surges 28% on AstraZeneca bid report",
+   "summary": "Investing.com -- Rhythm Pharmaceuticals (NASDAQ) shares surged 28% on Wednesday after The Wall Street Journal reported that AstraZeneca (NASDAQ) had made a $10 billion acquisition offer for the biotech company.",
+   "url": "https://finnhub.io/api/news?id=1d6784c3b76e5c8ca250732718c529491fc441d310b49e54fddb1efaca5bcf58",
+   "source": "Yahoo",
+   "published": "2026-11-04T21:53:11+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "M&A",
    "sectors": [
     "pharma"
    ]
@@ -1490,6 +1576,21 @@
    "tag": "M&A",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "231be6925d99",
+   "headline": "Summit Therapeutics Reports Financial Results and Operational Progress for the Third Quarter and Nine Months Ended September 30, 2026",
+   "summary": "MIAMI, November 04, 2026--Summit Therapeutics Inc. (NASDAQ: SMMT) today reported its financial results for the third quarter and nine months ended September 30, 2026, and provided an update on clinical and operational progress.",
+   "url": "https://finnhub.io/api/news?id=ff89ef54949857e433fcf40f7f99371069e1436051036a555e86df7adf218745",
+   "source": "Yahoo",
+   "published": "2026-11-04T21:36:00+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1964,6 +2065,21 @@
    ]
   },
   {
+   "id": "85f77268bf7f",
+   "headline": "Acadia Pharmaceuticals Reports Third Quarter 2026 Financial Results",
+   "summary": "SAN DIEGO, November 04, 2026--Acadia Pharmaceuticals Inc. (Nasdaq: ACAD), today announced its financial results for the third quarter ended September 30, 2026.",
+   "url": "https://finnhub.io/api/news?id=67962e9301849111fb280c741736848f3229ba1f124fb8f7d0ae6a34f779adec",
+   "source": "Yahoo",
+   "published": "2026-11-04T21:05:00+00:00",
+   "tickers": [
+    "ACAD"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "ff5d8fa1b76d",
    "headline": "Cytokinetics Reports Third Quarter 2026 Financial Results and Provides Business Update",
    "summary": "MYQORZO\u00ae (aficamten) Net Product Revenue of $44.5 Million Expect to Submit Supplemental NDA for Aficamten in Non-Obstructive HCM in Q4 2026 and Type II Variation in the European Union in Early 2027 ~$1.6 Billion in Cash, Cash Equivalents\u2026",
@@ -2054,6 +2170,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "442c434fd938",
+   "headline": "McKesson Corporation (MCK) Q2 2027 Earnings Call Transcript",
+   "summary": "McKesson Corporation (MCK) Q2 2027 Earnings Call November 4, 2026 4:30 PM ESTCompany ParticipantsPaula Adkison - Senior Vice President of Corporate Finance,...",
+   "url": "https://finnhub.io/api/news?id=699c8b4d332efc81d1ed70bf2007190eb8720f48009be7db07671e71546610c4",
+   "source": "SeekingAlpha",
+   "published": "2026-11-04T20:24:40+00:00",
+   "tickers": [
+    "MCK"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharmacy"
+   ]
   },
   {
    "id": "1c76bd9fe64f",
@@ -2160,6 +2291,7 @@
    "source": "Yahoo",
    "published": "2026-11-04T19:18:32+00:00",
    "tickers": [
+    "AZN",
     "NVO"
    ],
    "tag": "GLP-1",
@@ -3178,6 +3310,7 @@
    "source": "Yahoo",
    "published": "2026-11-04T17:00:00+00:00",
    "tickers": [
+    "AZN",
     "BMY",
     "JNJ",
     "LLY",
@@ -3536,6 +3669,21 @@
    "tag": "GLP-1",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "101efc089c9a",
+   "headline": "Ultragenyx Pharmaceutical (RARE) Stock Looks Fairly Valued After Upcoming FDA Decisions",
+   "summary": "Ultragenyx Pharmaceutical has seen its stock lose ground over several years even as new rare disease treatments and regulatory decisions continue to reshape its outlook. With the share price recently around US$16.63 after a long slide,\u2026",
+   "url": "https://finnhub.io/api/news?id=29d4c3fc3db7f1aaaa2b284299d272d4fc9124a2f2f6751b48ea3ad90486b528",
+   "source": "Yahoo",
+   "published": "2026-11-04T16:12:11+00:00",
+   "tickers": [
+    "RARE"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -3920,6 +4068,21 @@
    ]
   },
   {
+   "id": "ff19ac7dbcc1",
+   "headline": "Ultragenyx (RARE) Q3 2026 Earnings Call Transcript",
+   "summary": "Workforce cuts and a $350 million voucher sale reshape its path to profit.",
+   "url": "https://finnhub.io/api/news?id=f4c3c82da06c9e1172dc3d4edf7359ad0b3949efe004487a566f0fd502afb974",
+   "source": "Yahoo",
+   "published": "2026-11-04T15:29:38+00:00",
+   "tickers": [
+    "RARE"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "9bc894817168",
    "headline": "Amgen (AMGN) Q3 2026 Earnings Call Transcript",
    "summary": "Six growth drivers now account for 70% of product sales as guidance was raised.",
@@ -4037,6 +4200,21 @@
    "sectors": []
   },
   {
+   "id": "7e5624d1e2d9",
+   "headline": "3 Penny Stocks With Revenue Growth Up To 44%",
+   "summary": "Elon Musk\u2019s plan to spend about $100b building a new US wireless network has investors rethinking where the next wave of growth could come from. When giants commit that kind of capital, strong smaller companies trading under US$5 can\u2026",
+   "url": "https://finnhub.io/api/news?id=df5a5c2edf4478b9c096c4ac94d844fa595cb764e430fcd35b6783f0b9dbd807",
+   "source": "Yahoo",
+   "published": "2026-11-04T15:12:24+00:00",
+   "tickers": [
+    "GDRX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
+  {
    "id": "7f07f8683656",
    "headline": "UnitedHealth Group (UNH) Draws Breakup Pressure As AI Threat Enters The Story",
    "summary": "UnitedHealth Group (NYSE:UNH) is facing renewed breakup calls from Senator Elizabeth Warren after its Amedisys acquisition settlement. Warren has urged federal regulators to revisit antitrust concerns around UnitedHealth's growing role\u2026",
@@ -4049,6 +4227,21 @@
    "tag": "M&A",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "7b13d9525b65",
+   "headline": "AstraZeneca (LSE:AZN) Filing Acceptance In Europe And Japan Puts Lung Cancer Combo Forward",
+   "summary": "AstraZeneca (LSE:AZN) has secured acceptance of regulatory filings in Europe and Japan for the TAGRISSO plus ORPATHYS regimen in MET driven, EGFR mutated non small cell lung cancer. The submissions are backed by phase III data in MET\u2026",
+   "url": "https://finnhub.io/api/news?id=fedb8f5885d5546c380d7fb5a0e12ebab44affe02576d763b8a722f60787936c",
+   "source": "Yahoo",
+   "published": "2026-11-04T15:11:32+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -5542,6 +5735,21 @@
    ]
   },
   {
+   "id": "b61e62dc1c19",
+   "headline": "Gene Therapy Launches Could Be A Game Changer For Ultragenyx Stock (RARE)",
+   "summary": "Ultragenyx Pharmaceutical reported Q3 2026 revenue of US$173 million and a net loss of US$118 million, while securing FDA approval and first commercial launches for its gene therapies GENGLYCOS and FAYUVI, alongside cost cuts and program\u2026",
+   "url": "https://finnhub.io/api/news?id=64bc6b589299f57b292f532a973b0f0e3ce77e279393d9d1342cd53f40255ae8",
+   "source": "Yahoo",
+   "published": "2026-11-04T13:10:07+00:00",
+   "tickers": [
+    "RARE"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "bffad026407d",
    "headline": "STAT+: The biotech startups skipping AI for drug discovery",
    "summary": "In this edition of AI Prognosis: These biotech startups don't think drug discovery is where AI can make the biggest difference.",
@@ -6184,6 +6392,7 @@
    "published": "2026-11-04T12:19:00+00:00",
    "tickers": [
     "AMGN",
+    "AZN",
     "LLY"
    ],
    "tag": "Earnings",
@@ -6987,6 +7196,21 @@
    ]
   },
   {
+   "id": "f55f3c6d186e",
+   "headline": "Ultragenyx Pharmaceutical (RARE) Recasts The Story After FDA Approvals As Valuation Debate Builds",
+   "summary": "Ultragenyx Pharmaceutical (RARE) is in focus after receiving FDA approvals for its first two commercial gene therapies, GENGLYCOS and FAYUVI, while simultaneously cutting 20% of its workforce and discontinuing two development programs.\u2026",
+   "url": "https://finnhub.io/api/news?id=24261624f3a41cf1359e4dacc340a4b50547734f450098f41cd3aa6b15ed2d4f",
+   "source": "Yahoo",
+   "published": "2026-11-04T11:14:53+00:00",
+   "tickers": [
+    "RARE"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "3eda5879f011",
    "headline": "Learn Why The Bull Case For Danaher (DHR) Could Change Following FDA Test Clearance",
    "summary": "Danaher reported third quarter 2026 sales of US$6,554 million and net income of US$1,235 million, alongside FDA clearance for Beckman Coulter Diagnostics' Access MeMed BV rapid assay that distinguishes bacterial from viral infections in\u2026",
@@ -7697,6 +7921,21 @@
    "tag": "Policy",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "e7789428797d",
+   "headline": "Sentira AI Launch Puts 10x Genomics Stock In Focus Before Earnings",
+   "summary": "10x Genomics recently launched Sentira Single Cell, a cloud-based AI application built on Anthropic's Claude that lets researchers run natural language single cell analysis on Chromium data, alongside new board appointments and upcoming\u2026",
+   "url": "https://finnhub.io/api/news?id=61fb44c37e972c8be950092b87b7372db0e62dacba9f43a560b6e94ffffd4d88",
+   "source": "Yahoo",
+   "published": "2026-11-04T09:12:18+00:00",
+   "tickers": [
+    "TXG"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -64410,21 +64649,6 @@
    "tag": "FDA",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "dac2dbfb4fd1",
-   "headline": "Stanley Druckenmiller Has Bet Big on This 1 Healthcare Stock. Here's Why I Disagree.",
-   "summary": "The business is promising, but the valuation today has gone to the stratosphere.",
-   "url": "https://finnhub.io/api/news?id=69927146d486efe9912f98c7acaf9b2386be3778b11752c8c846ef67a5d74e3b",
-   "source": "Yahoo",
-   "published": "2026-10-26T02:05:00+00:00",
-   "tickers": [
-    "NTRA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
    ]
   }
  ]
