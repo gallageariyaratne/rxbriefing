@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-05T01:47:43.963371+00:00",
+ "updated": "2026-11-05T02:02:49.946779+00:00",
  "quotes": {
   "A": {
    "price": 177.17,
@@ -101,6 +101,10 @@
   "CRL": {
    "price": 326.29,
    "change_pct": -7.27
+  },
+  "CRSP": {
+   "price": 51.77,
+   "change_pct": 3.57
   },
   "CVS": {
    "price": 79.96,
@@ -246,6 +250,10 @@
    "price": 12.31,
    "change_pct": 3.79
   },
+  "NTRA": {
+   "price": 391.03,
+   "change_pct": 0.62
+  },
   "NVO": {
    "price": 42.18,
    "change_pct": 4.95
@@ -257,6 +265,10 @@
   "OPCH": {
    "price": 31.65,
    "change_pct": -0.38
+  },
+  "PACB": {
+   "price": 2.55,
+   "change_pct": 4.51
   },
   "PFE": {
    "price": 30.79,
@@ -282,6 +294,10 @@
    "price": 178.2,
    "change_pct": -0.04
   },
+  "RVMD": {
+   "price": 199.7,
+   "change_pct": 2.82
+  },
   "RXRX": {
    "price": 3.88,
    "change_pct": 5.43
@@ -305,22 +321,6 @@
   "SRPT": {
    "price": 18.99,
    "change_pct": 2.43
-  },
-  "SYK": {
-   "price": 339.65,
-   "change_pct": 9.37
-  },
-  "TAK": {
-   "price": 21.06,
-   "change_pct": 1.49
-  },
-  "TECH": {
-   "price": 72.73,
-   "change_pct": 0.1
-  },
-  "TEM": {
-   "price": 75.61,
-   "change_pct": -2.81
   }
  },
  "tickers": {
@@ -998,6 +998,21 @@
    ]
   },
   {
+   "id": "d6b5adb4ea5b",
+   "headline": "Pacific Biosciences of California (PACB) Reports Q3 Loss, Beats Revenue Estimates",
+   "summary": "Pacific Biosciences (PACB) delivered earnings and revenue surprises of +15.39% and +7.16%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=b4e06dd228a21400d1eb8352fde182284b731869f270ccc8c05b21fd59565cb0",
+   "source": "Yahoo",
+   "published": "2026-11-04T23:45:07+00:00",
+   "tickers": [
+    "PACB"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "3be2b5a2a136",
    "headline": "McKesson (NYSE:MCK) Posts Q2 EPS Beat, In-Line Revenue, and Raises Outlook",
    "summary": "McKesson beat Q2 EPS estimates, matched revenue, and raised FY adjusted EPS guidance despite a flat after-hours reaction following a strong recent rally.",
@@ -1057,6 +1072,36 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "12ad1c81cd0e",
+   "headline": "First Profitable Quarter Might Change The Case For Investing In Madrigal Pharmaceuticals (MDGL)",
+   "summary": "Madrigal Pharmaceuticals reported its first profitable quarter in Q3 2026, with net income of US$55.44 million and diluted earnings of US$1.83 per share, supported by blockbuster-level year-to-date Rezdiffra sales above US$1b. The shift\u2026",
+   "url": "https://finnhub.io/api/news?id=18a8f57613d169e246bcd087f876dbf27a173fe64c3e7d1aa13234fc37eaca90",
+   "source": "Yahoo",
+   "published": "2026-11-04T23:17:35+00:00",
+   "tickers": [
+    "MDGL"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "17c4e86ea8c4",
+   "headline": "What Pacific Biosciences of California (PACB) Said on Its Q3 Earnings Call",
+   "summary": "Pacific Biosciences of California (NASDAQ:PACB) reported 6% revenue growth for the third quarter of 2026 as customers adopted its SPRQ-Nx sequencing chemistry, though consumables revenue declined from a year earlier and academic funding\u2026",
+   "url": "https://finnhub.io/api/news?id=21ae2d8514b1c6ab80eba71baaff9248da6d2bd1a4227efa753927f4e8c5d3f1",
+   "source": "Yahoo",
+   "published": "2026-11-04T23:14:31+00:00",
+   "tickers": [
+    "PACB"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -1148,6 +1193,21 @@
    "published": "2026-11-04T22:28:51+00:00",
    "tickers": [
     "QGEN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "21880db20e22",
+   "headline": "Pacific Biosciences: Q3 Earnings Snapshot",
+   "summary": "(AP) \u2014 Pacific Biosciences of California Inc. (PACB) on Wednesday reported a loss of $37.",
+   "url": "https://finnhub.io/api/news?id=a42a0227008bbcbf66d9d8724e64d19282c4c392f2e4c21b2ae1884a410ee3ae",
+   "source": "Yahoo",
+   "published": "2026-11-04T22:24:43+00:00",
+   "tickers": [
+    "PACB"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -1388,6 +1448,36 @@
    ]
   },
   {
+   "id": "0e05acbf4e9c",
+   "headline": "Caris Life Sciences,?Inc. (CAI) Q3 Earnings and Revenues Top Estimates",
+   "summary": "Caris Life Sciences,?Inc. (CAI) delivered earnings and revenue surprises of +66.67% and +9.75%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=127d8df8d1ceb8e3b706ab61539dd87e076ec2ca610cf9a9643190bd5444737f",
+   "source": "Yahoo",
+   "published": "2026-11-04T21:50:04+00:00",
+   "tickers": [
+    "NTRA"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "3fb4a85151f3",
+   "headline": "PacBio (NASDAQ:PACB) reports bullish Q3 2026",
+   "summary": "Genomics company Pacific Biosciences of California (NASDAQ:PACB) reported Q3 2026 results beating Wall Street\u2019s revenue expectations, with revenue rising 5.5% year on year to $40.56 million. Its non-GAAP loss of $0.11 per share was 16.1%\u2026",
+   "url": "https://finnhub.io/api/news?id=9e400b516956590eff3a120d10221309d9f8195e76249dad89037ec6f915d9c0",
+   "source": "Yahoo",
+   "published": "2026-11-04T21:45:55+00:00",
+   "tickers": [
+    "PACB"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "233470b377d2",
    "headline": "Best Biotech Stocks to Buy Now as AI Stocks Tank: ARGX",
    "summary": "Investors should consider buying resurgent healthcare and biotech stocks amid the AI selloff. Today, we are digging into why it might be time to buy biopharmaceutical stock Argenx (ARGX).",
@@ -1460,6 +1550,21 @@
     "NVO"
    ],
    "tag": "GLP-1",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "9fbf07e4c1f6",
+   "headline": "Nurix, Sanofi Diverge \u2014 And One Breaks Out \u2014 On A Shocking Eczema Development",
+   "summary": "Shares of Nurix Therapeutics crashed Wednesday after Sanofi unexpectedly scrapped an experimental eczema drug that two were codeveloping.",
+   "url": "https://finnhub.io/api/news?id=d72af90ba877836c6cf304b1a3a6a757939d0ee40f628b4af3baa125768ac0aa",
+   "source": "Yahoo",
+   "published": "2026-11-04T21:19:22+00:00",
+   "tickers": [
+    "SNY"
+   ],
+   "tag": "News",
    "sectors": [
     "pharma"
    ]
@@ -1609,6 +1714,21 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "330fc29f512f",
+   "headline": "NRIX Stock Clocks Worst Day Ever After Sanofi Discontinues Trial Of Licensed Drug: Wells Fargo Slashes Price Target",
+   "summary": "Paris-headquartered Sanofi notified Nurix on Tuesday that it is ending the early-stage first-in-human trial of SAR448272 and terminating the program entirely.",
+   "url": "https://finnhub.io/api/news?id=b6172cdc1c8d32d9df5f35432f32fa1474d7132f4dcb0300e30123f797b12027",
+   "source": "Yahoo",
+   "published": "2026-11-04T21:14:46+00:00",
+   "tickers": [
+    "SNY"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1829,6 +1949,21 @@
    ]
   },
   {
+   "id": "c491ecc1d750",
+   "headline": "PacBio Announces Third Quarter 2026 Financial Results",
+   "summary": "MENLO PARK, Calif., Nov. 04, 2026 (GLOBE NEWSWIRE) -- PacBio (NASDAQ: PACB) today announced financial results for the quarter ended September 30, 2026. Recent Business Highlights Delivered total revenue of $40.6 million, reflecting\u2026",
+   "url": "https://finnhub.io/api/news?id=5dd90618d18f44e0ff394b74197a24fa16b5a0c1626b31f337cc7e6928df44ff",
+   "source": "Yahoo",
+   "published": "2026-11-04T21:05:00+00:00",
+   "tickers": [
+    "PACB"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "ff5d8fa1b76d",
    "headline": "Cytokinetics Reports Third Quarter 2026 Financial Results and Provides Business Update",
    "summary": "MYQORZO\u00ae (aficamten) Net Product Revenue of $44.5 Million Expect to Submit Supplemental NDA for Aficamten in Non-Obstructive HCM in Q4 2026 and Type II Variation in the European Union in Early 2027 ~$1.6 Billion in Cash, Cash Equivalents\u2026",
@@ -1871,7 +2006,8 @@
     "BMY",
     "MRK",
     "PFE",
-    "REGN"
+    "REGN",
+    "SNY"
    ],
    "tag": "News",
    "sectors": [
@@ -1891,6 +2027,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "a0a1588a43f4",
+   "headline": "Revolution Medicines, Inc. (RVMD) Q3 2026 Earnings Call Transcript",
+   "summary": "",
+   "url": "https://finnhub.io/api/news?id=1af5a3284c6c5fc452211e9c25ec3ab945378abf4ef67957344ffcabe0638c45",
+   "source": "SeekingAlpha",
+   "published": "2026-11-04T20:34:34+00:00",
+   "tickers": [
+    "RVMD"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -2085,6 +2236,21 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "0b954f2a65d7",
+   "headline": "Sanofi (ENXTPA:SAN) Drops SAR448272 And Backs New Immunology Candidate",
+   "summary": "Sanofi (ENXTPA:SAN) has halted development of its oral STAT6 degrader SAR448272, affecting its immunology research plans with Nurix Therapeutics. The pharmaceutical group has exercised an option on a first-in-class immunology small\u2026",
+   "url": "https://finnhub.io/api/news?id=9c8bcd11bcffe87e728ec0749c29ae220eed87c330a5b739890871d2efa2ac08",
+   "source": "Yahoo",
+   "published": "2026-11-04T19:14:18+00:00",
+   "tickers": [
+    "SNY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -2463,6 +2629,21 @@
    ]
   },
   {
+   "id": "7500d1add243",
+   "headline": "Madrigal Pharmaceuticals (MDGL) Stock May Be Below Fair Value Despite First Profit",
+   "summary": "Madrigal Pharmaceuticals has gone from a relatively small specialist to a business with more than US$1b in annualised sales from its liver drug Rezdiffra, yet the share price has been under pressure in recent months. With the stock well\u2026",
+   "url": "https://finnhub.io/api/news?id=2bcb4a726aea5bf5531cb6249981e8885e757edb391aca20f5b12d8113e1953f",
+   "source": "Yahoo",
+   "published": "2026-11-04T18:11:07+00:00",
+   "tickers": [
+    "MDGL"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "b9670b8c075e",
    "headline": "Bruker Corporation Q3 2026 Earnings Call Summary",
    "summary": "Moby summary of Bruker Corporation's Q3 2026 earnings call",
@@ -2743,6 +2924,21 @@
    ]
   },
   {
+   "id": "6e183a32e0a5",
+   "headline": "Sanofi stops development of Nurix-partnered immune drug",
+   "summary": "The decision sparked a sell-off in Nurix shares as well as analyst debate about the prospects of drugs designed to degrade a tough-to-reach protein called STAT6.",
+   "url": "https://finnhub.io/api/news?id=0080e792ccb8bda44a7588958ff74231a7f42cd782dbcffb64ee07562a4cf12e",
+   "source": "Yahoo",
+   "published": "2026-11-04T17:18:00+00:00",
+   "tickers": [
+    "SNY"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "f190325c634a",
    "headline": "Bruker Q3 Earnings Call Highlights",
    "summary": "Bruker (NASDAQ:BRKR) reported third-quarter 2026 revenue growth of 1.6% to $874 million, while non-GAAP earnings per share rose 24.4% year over year to $0.56 as cost-saving actions and favorable product mix supported margin expansion.\u2026",
@@ -2855,6 +3051,21 @@
    ]
   },
   {
+   "id": "5a3428856111",
+   "headline": "Denali Therapeutics Inc (DNLI) Q3 2026 Earnings Call Highlights: AVLAYAH Revenue Soars Nearly ...",
+   "summary": "Denali Therapeutics Inc (DNLI) beat Q3 revenue guidance on rapid payer coverage gains and faster patient transitions, guided Q4 to $30--32 million, and ended the quarter with $1.01 billion in cash.",
+   "url": "https://finnhub.io/api/news?id=5157bbebe584e275a46d3d81192e0ab8fe7c0140927cad55aa9f044e1967ebe9",
+   "source": "Yahoo",
+   "published": "2026-11-04T17:05:31+00:00",
+   "tickers": [
+    "DNLI"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "cf7c89cb78db",
    "headline": "RxSight (RXST) Q3 2026 Earnings Call Transcript",
    "summary": "Sampling rivals and a sales force overhaul pressured quarterly revenue results.",
@@ -2867,6 +3078,21 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "4d666e1eb94d",
+   "headline": "American Well (AMWL) Q3 2026 Earnings Call Transcript",
+   "summary": "Virtual primary care grew 41%, and management targets positive Q4 cash flow.",
+   "url": "https://finnhub.io/api/news?id=9b8c19e43f98148638c55d3104895b215013fa8fa631abf32ed40c0451141a35",
+   "source": "Yahoo",
+   "published": "2026-11-04T17:05:10+00:00",
+   "tickers": [
+    "AMWL"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
    ]
   },
   {
@@ -2955,7 +3181,8 @@
     "BMY",
     "JNJ",
     "LLY",
-    "NVO"
+    "NVO",
+    "SNY"
    ],
    "tag": "News",
    "sectors": [
@@ -3678,6 +3905,21 @@
    "sectors": []
   },
   {
+   "id": "35266afc149b",
+   "headline": "Denali (DNLI) Q3 2026 Earnings Call Transcript",
+   "summary": "Management says some expected growth was pulled forward into this quarter.",
+   "url": "https://finnhub.io/api/news?id=7e40393ece6c117fe124ebbd881d37913d569da379e7e8618cbf82e9de8a0b53",
+   "source": "Yahoo",
+   "published": "2026-11-04T15:29:38+00:00",
+   "tickers": [
+    "DNLI"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "9bc894817168",
    "headline": "Amgen (AMGN) Q3 2026 Earnings Call Transcript",
    "summary": "Six growth drivers now account for 70% of product sales as guidance was raised.",
@@ -4114,11 +4356,27 @@
    "source": "Yahoo",
    "published": "2026-11-04T14:40:00+00:00",
    "tickers": [
-    "BMY"
+    "BMY",
+    "TGTX"
    ],
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "8202c9a56983",
+   "headline": "CORT's Q3 Earnings Beat, Higher Product Sales Aid Y/Y Revenues",
+   "summary": "Corcept's Q3 earnings and revenues beat estimates, driven by strong Lifyorli uptake and higher Korlym sales, as the company advances its pipeline.",
+   "url": "https://finnhub.io/api/news?id=bdab6b38dd7196f2574f6d868f5b2eb3bdf85ed0ebdb9617f8107e2c916e9c4c",
+   "source": "Yahoo",
+   "published": "2026-11-04T14:36:00+00:00",
+   "tickers": [
+    "TGTX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -4440,6 +4698,21 @@
    ]
   },
   {
+   "id": "a9de7ac58475",
+   "headline": "AMRX Q3 Earnings & Sales Beat Estimates, FY'26 Guidance Raised",
+   "summary": "Amneal tops Q3 estimates as strong Affordable Medicines and Specialty growth drives higher 2026 guidance and boosts its growth outlook.",
+   "url": "https://finnhub.io/api/news?id=e84dfccf8d3d995672f34438bbbc9343d1514857091bea956a0da12b33e46834",
+   "source": "Yahoo",
+   "published": "2026-11-04T14:02:00+00:00",
+   "tickers": [
+    "TGTX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "9141f4891e9a",
    "headline": "Charles River Q3 Earnings & Revenues Top Estimates, Stock Rises",
    "summary": "CRL beats Q3 earnings and revenue estimates as organic growth and margin expansion drive results, prompting the company to raise its 2026 outlook.",
@@ -4469,6 +4742,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "6559c1dcd2c3",
+   "headline": "CRISPR Therapeutics to Present Clinical Data from Zugo-cel in Large B-Cell Lymphoma at the 68th American Society of Hematology (ASH) Annual Meeting and Exposition",
+   "summary": "ZUG, Switzerland and BOSTON, Nov. 04, 2026 (GLOBE NEWSWIRE) -- CRISPR Therapeutics (Nasdaq: CRSP) today announced that clinical data in patients with relapsed or refractory large B-cell lymphoma from the ongoing Phase 1/2 trial of\u2026",
+   "url": "https://finnhub.io/api/news?id=0f69ab6dfedbaff201165ccc8ef48efcfc946d16f43633d7f6a5ba0b58e2f11d",
+   "source": "Yahoo",
+   "published": "2026-11-04T14:01:00+00:00",
+   "tickers": [
+    "CRSP"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -4717,6 +5005,21 @@
    ]
   },
   {
+   "id": "ab7805e37a77",
+   "headline": "Nurix Therapeutics Shares Plunge 28.4% as Sanofi Terminates STAT6 Drug Development Programme",
+   "summary": "Nurix Therapeutics (NASDAQ:NRIX) shares plunged 28. 4% in premarket trading on Wednesday after pharmaceutical partner Sanofi announced plans to discontinue the Phase 1 clinical trial of SAR448272, an investigational oral STAT6 degrader,\u2026",
+   "url": "https://finnhub.io/api/news?id=0545489be74ff05d2d1aa2ff8e2ebd851113d9faba3c723caf06bea27efa354e",
+   "source": "Yahoo",
+   "published": "2026-11-04T13:47:28+00:00",
+   "tickers": [
+    "SNY"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "8af180c76fd6",
    "headline": "November Dogs Of The Dow: No Buys, Yet 5 Are Worth Watching",
    "summary": "Dow Dogs November update: see which stocks look safer on free cash flow, projected gains through 2027, and where yield investors may find entry points. Read the full analysis here.",
@@ -4896,7 +5199,8 @@
     "BIIB",
     "BMY",
     "JNJ",
-    "NVS"
+    "NVS",
+    "TGTX"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -4949,6 +5253,21 @@
    "tag": "M&A",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "9ec9802f2547",
+   "headline": "NVO Q3 Earnings Beat Estimates on Wegovy Pill Growth, Outlook Raised",
+   "summary": "Novo beats Q3 earnings and revenue estimates as Wegovy pill sales surge, driving a higher 2026 outlook despite diabetes weakness and pricing pressures.",
+   "url": "https://finnhub.io/api/news?id=1588b17a95bad31a202ffe67ba0d9f419ece2273301585fd9cb369f686c58f1d",
+   "source": "Yahoo",
+   "published": "2026-11-04T13:35:00+00:00",
+   "tickers": [
+    "TGTX"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -6168,6 +6487,21 @@
    "tag": "News",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "33f988143d20",
+   "headline": "Signatera\u2122 in Head and Neck Cancer: Three New Publications Demonstrate Strong Clinical Performance and Actionability",
+   "summary": "AUSTIN, Texas, November 04, 2026--Natera, Inc. (NASDAQ: NTRA), a global leader in cell-free DNA and precision medicine, today announced three peer-reviewed publications in npj Precision Oncology, JAMA Otolaryngology, and Advances in\u2026",
+   "url": "https://finnhub.io/api/news?id=507d27f7da1b2fc79061d0f1d844804fb4c7005d9c7ad10bb8a79b59ef25e5b1",
+   "source": "Yahoo",
+   "published": "2026-11-04T12:00:00+00:00",
+   "tickers": [
+    "NTRA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -8411,6 +8745,21 @@
    "tag": "Earnings",
    "sectors": [
     "healthit"
+   ]
+  },
+  {
+   "id": "4bc5fd189bdb",
+   "headline": "Madrigal Pharmaceuticals (MDGL) Turns Profitable, Is The 42% Undervaluation Case Still Convincing?",
+   "summary": "Madrigal Pharmaceuticals (MDGL) flipped to profitability in the third quarter of 2026, reporting net income of US$55.44 million after a net loss of US$114.19 million in the prior year period. The latest results land against a rough tape\u2026",
+   "url": "https://finnhub.io/api/news?id=c0d2cbc1504b0e43a5458ac11ea73ab02edfebcbdf00e76c6dde74cacbe91ad7",
+   "source": "Yahoo",
+   "published": "2026-11-04T03:22:56+00:00",
+   "tickers": [
+    "MDGL"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
