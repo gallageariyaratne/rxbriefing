@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-05T06:02:58.890594+00:00",
+ "updated": "2026-11-05T06:17:26.782213+00:00",
  "quotes": {
   "A": {
    "price": 177.17,
@@ -133,6 +133,10 @@
   "DNLI": {
    "price": 20.96,
    "change_pct": 7.76
+  },
+  "DXCM": {
+   "price": 88.48,
+   "change_pct": 6.64
   },
   "ELV": {
    "price": 434.18,
@@ -317,10 +321,6 @@
   "RXRX": {
    "price": 3.88,
    "change_pct": 5.43
-  },
-  "RXST": {
-   "price": 4.99,
-   "change_pct": 8.71
   }
  },
  "tickers": {
@@ -938,6 +938,53 @@
  },
  "stories": [
   {
+   "id": "f275c6fc05a0",
+   "headline": "Cytokinetics Inc (CYTK) (Q3 2026) Earnings Call Highlights: Micorzo Launch Surges with 76% ...",
+   "summary": "Cytokinetics Inc (CYTK) posts $47.6 million in Q3 2026 revenue as Micorzo demand accelerates, prescriber base nears 1,100, and Acacia HCM data bolster the pipeline.",
+   "url": "https://finnhub.io/api/news?id=668d887024743c1885df24c5007d813337c6735b656956e3a80a849de27cd836",
+   "source": "Yahoo",
+   "published": "2026-11-05T05:19:46+00:00",
+   "tickers": [
+    "CYTK"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "73643b12372b",
+   "headline": "Guardant Health (GH) Could Be 17% Undervalued As Board Appointment Tests Valuation",
+   "summary": "Guardant Health (GH) has drawn fresh attention after appointing Kevin Sayer, former Dexcom CEO and current Executive Chairman, to its board of directors. The move is raising new questions about where the stock\u2019s story goes next. Guardant\u2026",
+   "url": "https://finnhub.io/api/news?id=22770743e95a4ade82ae31f73c6321d35e1a0039001e56606deb2c0efb59b522",
+   "source": "Yahoo",
+   "published": "2026-11-05T05:19:03+00:00",
+   "tickers": [
+    "DXCM",
+    "GH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "1b216730471a",
+   "headline": "Will Shield Award Recognition Change Guardant Health Stock Narrative",
+   "summary": "Guardant Health reported that its Shield blood test for colorectal cancer screening received the 2026 Prix Galien USA Award for Best Medical Technology, recognizing the first FDA approved blood test for primary colorectal cancer screening\u2026",
+   "url": "https://finnhub.io/api/news?id=51078047cbeae56ef286d928cf12b877f7d2c0a92e30701187a27450454c8845",
+   "source": "Yahoo",
+   "published": "2026-11-05T04:41:39+00:00",
+   "tickers": [
+    "DXCM",
+    "GH"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "ac3163ebd2a6",
    "headline": "Dow Jones Futures Rise, Techs Fall; Apple, Microsoft, Amazon Flash Buy Signals In Postelection Rally",
    "summary": "Elections and diving oil prices sparked a stock market surge. Stocks from many sectors flash buy signals, but avoid this area.",
@@ -1055,6 +1102,21 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "18c610d7da75",
+   "headline": "Novo Nordisk: 3 Key Takeaways for Long-Term Investors",
+   "summary": "U.S. pricing pressure weighs on Novo Nordisk's growth, but management is counting on the pipeline to offset it over the long haul.",
+   "url": "https://finnhub.io/api/news?id=721141e89c06bc6e34c36ebc988d6b12df31445c1a8f2fa59b0006cf3ec92ff9",
+   "source": "Yahoo",
+   "published": "2026-11-05T02:15:55+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1212,6 +1274,21 @@
    "published": "2026-11-04T23:45:16+00:00",
    "tickers": [
     "ACAD"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "f11e3ad27570",
+   "headline": "Alpha Teknova (TKNO) Reports Q3 Loss, Tops Revenue Estimates",
+   "summary": "Alpha Teknova (TKNO) delivered earnings and revenue surprises of 0.00% and +8.58%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=88aef077bc8be8a4157748ff0b5655e0470a0a3e059081f6ba972d9e1579411c",
+   "source": "Yahoo",
+   "published": "2026-11-04T23:45:13+00:00",
+   "tickers": [
+    "NTLA"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -64923,21 +65000,6 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "7f0f06af38de",
-   "headline": "Insulet (PODD) Could Be 11% Undervalued On Omnipod Discover Launch",
-   "summary": "Omnipod Discover launch puts Insulet\u2019s data platform in focus Insulet (PODD) has rolled out Omnipod Discover nationwide in the US, extending a web-based data platform that earlier limited-release users and healthcare professionals had\u2026",
-   "url": "https://finnhub.io/api/news?id=b41857e04933f98030d3188004f97c7befff19bb2ca92f673631d74b93b4e4f4",
-   "source": "Yahoo",
-   "published": "2026-10-26T06:07:18+00:00",
-   "tickers": [
-    "PODD"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
