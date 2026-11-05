@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-05T13:47:30.424528+00:00",
+ "updated": "2026-11-05T14:03:04.954826+00:00",
  "quotes": {
   "A": {
    "price": 177.17,
@@ -54,10 +54,6 @@
    "price": 209.19,
    "change_pct": 5.56
   },
-  "BEAM": {
-   "price": 27.79,
-   "change_pct": 5.54
-  },
   "BIIB": {
    "price": 254.46,
    "change_pct": 2.22
@@ -109,10 +105,6 @@
   "CRL": {
    "price": 326.29,
    "change_pct": -7.27
-  },
-  "CRSP": {
-   "price": 51.77,
-   "change_pct": 3.57
   },
   "CVS": {
    "price": 79.96,
@@ -321,6 +313,14 @@
   "RXST": {
    "price": 4.99,
    "change_pct": 8.71
+  },
+  "SDGR": {
+   "price": 28.52,
+   "change_pct": 4.93
+  },
+  "SMMT": {
+   "price": 16.17,
+   "change_pct": 2.34
   }
  },
  "tickers": {
@@ -938,6 +938,36 @@
  },
  "stories": [
   {
+   "id": "f9065acbb577",
+   "headline": "Lilac Biosciences Names Adriana Coll De Pe\u00f1a, Ph.D., Chief Executive Officer to Bring Fast, Quantitative RNA Measurement to Every Lab",
+   "summary": "The recently appointed CEO, a former Moderna scientist and Brown University Ph.D., will grow the Brown spinout from its first ModQuant\u2122 RNA modification kit into a platform of RNA tools for research and therapeutic discovery, all on\u2026",
+   "url": "https://www.prnewswire.com/news-releases/lilac-biosciences-names-adriana-coll-de-pena-phd-chief-executive-officer-to-bring-fast-quantitative-rna-measurement-to-every-lab-302929753.html",
+   "source": "PR Newswire",
+   "published": "2026-11-05T14:00:00+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "04d57cdd0083",
+   "headline": "S&P 500 Premarket Movers for Nov. 5: Gainers and Losers",
+   "summary": "S&P 500 premarket movers for Nov. 5: AppLovin and Tapestry lead gainers, while Qualcomm and Fair Isaac pace declines ahead of the open.",
+   "url": "https://finnhub.io/api/news?id=a3584bd2b7926e84133cecf2ef00f2978f108c1bc0095db3018e1c25cf984983",
+   "source": "ChartMill",
+   "published": "2026-11-05T13:36:24+00:00",
+   "tickers": [
+    "EW"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "29fce646a905",
    "headline": "Avanlee Care, platform for family caregivers, raises $3.5M, targeting Medicare Advantage plans",
    "summary": "Avanlee Care helps MA plans and other organizations engage caregivers within their member populations, enabling them to take action and measure what happens as a result.",
@@ -1061,6 +1091,17 @@
    "published": "2026-11-05T12:58:19+00:00",
    "tickers": [],
    "tag": "FDA",
+   "sectors": []
+  },
+  {
+   "id": "7f3c83b7c28d",
+   "headline": "T-Therapeutics reloads with a $133M megaround for bispecifics",
+   "summary": "The startup is built around technology it claims can help get after known, but undruggable cancer targets and design particularly selective autoimmune disease treatments.",
+   "url": "https://www.biopharmadive.com/news/t-therapeutics-series-b-tces-bispecifics-cancer-autoimmune/873786/",
+   "source": "BioPharma Dive",
+   "published": "2026-11-05T12:52:00+00:00",
+   "tickers": [],
+   "tag": "News",
    "sectors": []
   },
   {
@@ -5743,6 +5784,21 @@
    ]
   },
   {
+   "id": "b6fbd00366b3",
+   "headline": "NetEase shares are trading lower after the company reported worse-than-expected Q4 financial results.",
+   "summary": "",
+   "url": "https://finnhub.io/api/news?id=9bcd5a1f0ed2657d85d60c78b702625498d401b96f05479d66db81fba0e7c6e7",
+   "source": "Benzinga",
+   "published": "2026-11-04T16:36:44+00:00",
+   "tickers": [
+    "LEGN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "061278a472a2",
    "headline": "CVS Is Breaking Itself Up. Here\u2019s What That Means for Your Healthcare ETF",
    "summary": "CVS just announced a plan to split into two separate public companies, and if you own a healthcare ETF, a dividend fund, or an S&P 500 index fund, your portfolio is already caught in the middle of what happens next.",
@@ -9788,6 +9844,21 @@
     "VRTX"
    ],
    "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "94330f5d8ef6",
+   "headline": "Wayfair, Lendingtree, Bruker, Zimmer Biomet And Other Big Stocks Moving Higher On Wednesday",
+   "summary": "U.S. stocks surged, led by Wayfair after strong results; Cricut, Array Technologies, Clear Secure and others also posted double-digit gains.",
+   "url": "https://finnhub.io/api/news?id=50d2e64ce11cb977255941d20536f44a3447579d0f7913e7eafd2387e6b1eecd",
+   "source": "Benzinga",
+   "published": "2026-11-04T11:02:05+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "News",
    "sectors": [
     "pharma"
    ]
@@ -64471,130 +64542,6 @@
    "tickers": [],
    "tag": "Policy",
    "sectors": []
-  },
-  {
-   "id": "b11ee4f3c559",
-   "headline": "ESMO: Why Incyte sees itself \u2018neck and neck\u2019 with RevMed in KRAS G12D pancreatic cancer race",
-   "summary": "Incyte has pointed to a spread of phase 1 data for its KRAS G12D inhibitor as evidence that the company has a worthy rival to Revolution Medicines in this increasingly competitive cancer space.",
-   "url": "https://www.fiercebiotech.com/biotech/esmo-why-incyte-sees-itself-neck-and-neck-revmed-kras-g12d-race",
-   "source": "Fierce Biotech",
-   "published": "2026-10-26T14:01:00.698747+00:00",
-   "tickers": [
-    "INCY",
-    "RVMD"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "5b90e58f92a0",
-   "headline": "Concurrence Appoints Dr. Hythem Sidky, Former Lead of the NIH National Clinical Cohort Collaborative, as Head of Applied AI",
-   "summary": "Dr. Sidky, who has built clinical data and AI systems at the NIH, Verily, AstraZeneca, and Kaiser Permanente, will lead the teams that take Concurrence's data foundations and AI into production inside enterprise healthcare organizations.\u2026",
-   "url": "https://www.prnewswire.com/news-releases/concurrence-appoints-dr-hythem-sidky-former-lead-of-the-nih-national-clinical-cohort-collaborative-as-head-of-applied-ai-302919415.html",
-   "source": "PR Newswire",
-   "published": "2026-10-26T14:01:00+00:00",
-   "tickers": [
-    "AZN"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "a078bd3f0a3d",
-   "headline": "Concurrence Appoints Dr. Hythem Sidky, Former Lead of the NIH National Clinical Cohort Collaborative, as Head of Applied AI",
-   "summary": "Concurrence, the healthcare data and AI company building AI that learns for health systems, biopharma companies, and public health agencies, today named Hythem Sidky, PhD, Head of Applied AI, effective October 12. The appointment comes as\u2026",
-   "url": "https://finnhub.io/api/news?id=f59b8e1825219bacc71197ce85d9e7e94789968d97bdfd112ea0d57075d3871e",
-   "source": "Yahoo",
-   "published": "2026-10-26T14:00:00+00:00",
-   "tickers": [
-    "AZN"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "8d27aab8f62e",
-   "headline": "Another autoimmune CAR-T death; Treasury zeroes in on China deals",
-   "summary": "A patient who received Bristol Myers\u2019 zola-cell died 44 days later. Elswehere, Gilead paid nearly $1.3 billion for a potential threat to J&J\u2019s newly approved psoriasis pill.",
-   "url": "https://www.biopharmadive.com/news/autoimmune-bristol-death-treasury-china-gilead-pepstar-zymeworks/833901/",
-   "source": "BioPharma Dive",
-   "published": "2026-10-26T13:59:35+00:00",
-   "tickers": [
-    "BMY",
-    "GILD",
-    "JNJ"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "b3573df6daf0",
-   "headline": "Another autoimmune CAR-T death; Treasury zeroes in on China deals",
-   "summary": "A patient who received Bristol Myers\u2019 zola-cell died 44 days later. Elswehere, Gilead paid nearly $1.3 billion for a potential threat to J&J\u2019s newly approved psoriasis pill.",
-   "url": "https://finnhub.io/api/news?id=d27c6374925e82e757b979684084af8319768612ff646507e4e9fc73d466a1b0",
-   "source": "Yahoo",
-   "published": "2026-10-26T13:59:35+00:00",
-   "tickers": [
-    "BMY",
-    "GILD"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "d94b20186a63",
-   "headline": "STAT+: Incyte pancreatic cancer medicine induces lasting tumor responses, company says at ESMO",
-   "summary": "A targeted drug from Incyte, when used in combination with chemotherapy, induced lasting tumor responses in certain patients with pancreatic cancer",
-   "url": "https://www.statnews.com/2026/10/26/incyte-esmo-pancreatic-cancer-incb161734-results/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-10-26T13:57:14+00:00",
-   "tickers": [
-    "INCY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "075f2279a6e1",
-   "headline": "Citigroup Maintains Neutral on Qiagen, Raises Price Target to $52",
-   "summary": "Citigroup analyst Albert Hu maintains Qiagen (NYSE:QGEN) with a Neutral and raises the price target from $45 to $52.",
-   "url": "https://finnhub.io/api/news?id=b933c902022659a6edad5f69c0df742d6b356c9d227407ce8e9831952d5689f2",
-   "source": "Benzinga",
-   "published": "2026-10-26T13:54:30+00:00",
-   "tickers": [
-    "QGEN"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "6c614ec1012a",
-   "headline": "High Business Quality and Resilient Moat Drive Veeva Systems\u2019 (VEEV) Long-Term Investment Conviction",
-   "summary": "Investment management company Vulcan Value Partners recently released its third-quarter 2026 investor letter. The letter can be downloaded here. The portfolio reported a strong quarter, with all strategies except Small Cap reporting\u2026",
-   "url": "https://finnhub.io/api/news?id=5f735b9db94135a450a4a22e2e1aaabd23d6f805ff8e111c1c3093c6b97a4d6e",
-   "source": "Yahoo",
-   "published": "2026-10-26T13:52:24+00:00",
-   "tickers": [
-    "VEEV"
-   ],
-   "tag": "News",
-   "sectors": [
-    "healthit"
-   ]
   }
  ]
 }
