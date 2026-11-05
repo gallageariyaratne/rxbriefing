@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-05T12:47:33.936425+00:00",
+ "updated": "2026-11-05T13:03:03.076228+00:00",
  "quotes": {
   "A": {
    "price": 177.17,
@@ -202,10 +202,6 @@
    "price": 122.85,
    "change_pct": 4.47
   },
-  "INSM": {
-   "price": 110,
-   "change_pct": 5.32
-  },
   "IONS": {
    "price": 40.15,
    "change_pct": -0.67
@@ -321,6 +317,10 @@
   "ROIV": {
    "price": 38.23,
    "change_pct": 6.08
+  },
+  "RVMD": {
+   "price": 199.7,
+   "change_pct": 2.82
   }
  },
  "tickers": {
@@ -938,6 +938,17 @@
  },
  "stories": [
   {
+   "id": "817487016c16",
+   "headline": "Single-payer health care system proponents were thrown a big bone this election",
+   "summary": "Sen. Bernie Sanders is likely to lead the Senate\u2019s health committee next year, which could grant him a chance to fundamentally alter how the FDA interacts with the companies it\u2026",
+   "url": "https://www.statnews.com/2026/11/05/morning-rounds-single-payer-health-care-system-after-midterms/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-11-05T12:58:19+00:00",
+   "tickers": [],
+   "tag": "FDA",
+   "sectors": []
+  },
+  {
    "id": "08683aeadd22",
    "headline": "Cigna beats the Street with $1.4B in profit, $73.7B in revenue for Q3",
    "summary": "Cigna is the latest health insurance company to boost its guidance for the year on the back of its Q3 results.",
@@ -1167,6 +1178,21 @@
    ]
   },
   {
+   "id": "f820011732ca",
+   "headline": "Lilly to showcase new retatrutide, Taltz (ixekizumab) and Zepbound (tirzepatide) data at ACR Convergence 2026, advancing science at the intersection of rheumatologic conditions and obesity",
+   "summary": "Eli Lilly and Company (NYSE: LLY) will present new clinical and real-world research in people with knee osteoarthritis pain and obesity and those with psoriatic arthritis and obesity at the American College of Rheumatology (ACR)\u2026",
+   "url": "https://finnhub.io/api/news?id=81b5fcd224d287614fd7fc342ad5e68ad43c26132318084ec9b80edba4727ee4",
+   "source": "Yahoo",
+   "published": "2026-11-05T11:45:00+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "ae976c10179c",
    "headline": "Cigna shares climb on raised earnings outlook, Q3 beat",
    "summary": "Investing.com -- Cigna shares climbed 1.5% in premarket trading Thursday after the health insurer beat third-quarter profit and revenue estimates and raised its full-year earnings outlook.",
@@ -1220,6 +1246,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "18e5885784bd",
+   "headline": "Henry Schein to Participate in Upcoming Investor Conferences in November and December",
+   "summary": "MELVILLE, N.Y., November 05, 2026--Henry Schein, Inc. (Nasdaq: HSIC), the world\u2019s largest provider of healthcare solutions to office-based dental and medical practitioners, announced today that the Company will present at the following\u2026",
+   "url": "https://finnhub.io/api/news?id=3a88ed2dc8429dc7f632522a08ec22e4f7de2592b45a30b8788b192c38c371dd",
+   "source": "Yahoo",
+   "published": "2026-11-05T11:30:00+00:00",
+   "tickers": [
+    "HSIC"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharmacy"
    ]
   },
   {
@@ -1307,7 +1348,23 @@
    "tickers": [
     "ABBV",
     "JNJ",
+    "LLY",
     "UNH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "95e17f204bc5",
+   "headline": "Gilead Sciences Has Raised Its Dividend for 11 Straight Years. Here's Why the Streak Looks Safe.",
+   "summary": "Gilead Sciences increased its quarterly dividend by 3.8% this year.",
+   "url": "https://finnhub.io/api/news?id=75e80a4d9fa7d575e1c34d0d9e0fe19c20ebe4a78b42462e00693539aac6d6b2",
+   "source": "Yahoo",
+   "published": "2026-11-05T11:05:00+00:00",
+   "tickers": [
+    "GILD"
    ],
    "tag": "News",
    "sectors": [
@@ -1346,6 +1403,21 @@
    ]
   },
   {
+   "id": "64a8e3c9e8ba",
+   "headline": "Invesco S&P 500 Equal Weight (RSP) Adds Kimberly-Clark and Moderna on Nov. 3",
+   "summary": "The fund bought $608.1 million of stock and sold nothing, lifting 500 positions.",
+   "url": "https://finnhub.io/api/news?id=54ca81bc6b666bddfd699db4caabe201364dbaa466b71534ad8e88f609b6b8e0",
+   "source": "Yahoo",
+   "published": "2026-11-05T11:04:09+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "862efc4d9396",
    "headline": "iShares Russell 2000 (IWM) Buys $2.4 Million More Jackson Financial on Tuesday",
    "summary": "The ETF added $387.1 million in net new exposure, raising 1,860 positions and trimming just two, on gross trading of $389.2 million.",
@@ -1374,6 +1446,21 @@
    "tag": "News",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "2871856a286c",
+   "headline": "ETFs Bought $90.0 Million of Lilly (LLY) on Nov. 3",
+   "summary": "39 ETFs bought Lilly shares versus 12 that sold on Tuesday, Nov. 3.",
+   "url": "https://finnhub.io/api/news?id=ba85e53bf8b1006fd7fee6f0ba21df149938de136b88da9aef0fceddd0e00be2",
+   "source": "Yahoo",
+   "published": "2026-11-05T11:01:12+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1477,6 +1564,7 @@
     "ABBV",
     "AMGN",
     "BMY",
+    "MRK",
     "PFE"
    ],
    "tag": "News",
@@ -1493,7 +1581,9 @@
    "published": "2026-11-05T10:35:49+00:00",
    "tickers": [
     "CI",
+    "CNC",
     "CVS",
+    "ELV",
     "HUM",
     "UNH"
    ],
@@ -1513,6 +1603,8 @@
     "ABBV",
     "BMY",
     "JNJ",
+    "LLY",
+    "MRK",
     "PFE"
    ],
    "tag": "News",
@@ -1584,6 +1676,7 @@
    "source": "Yahoo",
    "published": "2026-11-05T10:15:00+00:00",
    "tickers": [
+    "CNC",
     "HCA",
     "THC"
    ],
@@ -64552,358 +64645,6 @@
     "VKTX"
    ],
    "tag": "GLP-1",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "02eb10f42a8e",
-   "headline": "BioNTech sees \u2018limited\u2019 benefit to ADC after phase 3 reveals modest efficacy, ILD cases",
-   "summary": "BioNTech has reported modest efficacy and unexpected safety findings in a phase 3 breast cancer trial, leading the company to conclude its HER2-directed candidate may offer limited benefits in the current treatment landscape.",
-   "url": "https://www.fiercebiotech.com/biotech/biontech-sees-limited-benefit-adc-after-phase-3-reveals-modest-efficacy-ild-cases",
-   "source": "Fierce Biotech",
-   "published": "2026-10-26T13:00:49.385592+00:00",
-   "tickers": [
-    "BNTX"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "47713ce2b3e7",
-   "headline": "Analysts Estimate Jazz Pharmaceuticals (JAZZ) to Report a Decline in Earnings: What to Look Out for",
-   "summary": "Jazz (JAZZ) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-   "url": "https://finnhub.io/api/news?id=3b4b78aabb140f93017c4b3ee15d0c3ce2c17a4d095b861aa16a3780ffa8be3b",
-   "source": "Yahoo",
-   "published": "2026-10-26T13:00:12+00:00",
-   "tickers": [
-    "JAZZ",
-    "REGN"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "cb441dcad8b6",
-   "headline": "Analysts Estimate Krystal Biotech, Inc. (KRYS) to Report a Decline in Earnings: What to Look Out for",
-   "summary": "Krystal Biotech (KRYS) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-   "url": "https://finnhub.io/api/news?id=47ad580f77d7c90052fb0fb58dddf5fc5709832d4110cd826c609cafbc9f86e2",
-   "source": "Yahoo",
-   "published": "2026-10-26T13:00:12+00:00",
-   "tickers": [
-    "ALNY",
-    "KRYS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "022a21d64bb8",
-   "headline": "Neurocrine Biosciences (NBIX) Earnings Expected to Grow: Should You Buy?",
-   "summary": "Neurocrine (NBIX) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-   "url": "https://finnhub.io/api/news?id=42d58ff02c281590f09821cea78b5aff13e80da2a0b3f822e9f734a3dae409d5",
-   "source": "Yahoo",
-   "published": "2026-10-26T13:00:12+00:00",
-   "tickers": [
-    "NBIX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "f801029c32cd",
-   "headline": "Idexx Laboratories (IDXX) Reports Next Week: Wall Street Expects Earnings Growth",
-   "summary": "Idexx (IDXX) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-   "url": "https://finnhub.io/api/news?id=1d076e9f7ff5612c6f6c0677e3b7890c25cfe4d5a892792ddac12c66fb450509",
-   "source": "Yahoo",
-   "published": "2026-10-26T13:00:12+00:00",
-   "tickers": [
-    "IDXX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "92dc082f53aa",
-   "headline": "Liquidia Corporation (LQDA) Earnings Expected to Grow: Should You Buy?",
-   "summary": "Liquidia Corporation (LQDA) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-   "url": "https://finnhub.io/api/news?id=a56df9a21473f95dccb4887b51f99dcda18b0c657f6109cc3aae2b0693cce6f4",
-   "source": "Yahoo",
-   "published": "2026-10-26T13:00:12+00:00",
-   "tickers": [
-    "PTCT"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "492916e23672",
-   "headline": "Will Axsome Therapeutics (AXSM) Report Negative Earnings Next Week? What You Should Know",
-   "summary": "Axsome (AXSM) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-   "url": "https://finnhub.io/api/news?id=302fce4410685eed39b99b800f64cd6aab9ac78c8fa517d65e4ca1b2a862ed14",
-   "source": "Yahoo",
-   "published": "2026-10-26T13:00:11+00:00",
-   "tickers": [
-    "AXSM"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "899085b46246",
-   "headline": "Tempus AI (TEM) Expected to Beat Earnings Estimates: Can the Stock Move Higher?",
-   "summary": "Tempus (TEM) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-   "url": "https://finnhub.io/api/news?id=e1ac1821dcb0138e057a5ab45dd71488231cc88a25ab5b8652f32ad776b457ea",
-   "source": "Yahoo",
-   "published": "2026-10-26T13:00:07+00:00",
-   "tickers": [
-    "TEM"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "healthai"
-   ]
-  },
-  {
-   "id": "294c815ab155",
-   "headline": "Vertex Pharmaceuticals (VRTX) Earnings Expected to Grow: Should You Buy?",
-   "summary": "Vertex (VRTX) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-   "url": "https://finnhub.io/api/news?id=bdf18ee067ea52c5f3bd1f611b3a76971489aa2dbbfa8270d566be8aa6a65fc8",
-   "source": "Yahoo",
-   "published": "2026-10-26T13:00:06+00:00",
-   "tickers": [
-    "VRTX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "044d15f01fa7",
-   "headline": "TG Therapeutics (TGTX) Expected to Beat Earnings Estimates: What to Know Ahead of Q3 Release",
-   "summary": "TG Therapeutics (TGTX) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-   "url": "https://finnhub.io/api/news?id=fe1eeb0132a4efdde1129a31344808f3361645d9d1beff466c8faabef28ffe5b",
-   "source": "Yahoo",
-   "published": "2026-10-26T13:00:03+00:00",
-   "tickers": [
-    "GILD",
-    "TGTX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "18a86ccdaacb",
-   "headline": "Syndax Pharmaceuticals (SNDX) May Report Negative Earnings: Know the Trend Ahead of Q3 Release",
-   "summary": "Syndax (SNDX) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-   "url": "https://finnhub.io/api/news?id=8bbddcfb2cd0867edf77c63bb56b135c6e8c6ed8cfc7ee0473d7b5a2d01aba2d",
-   "source": "Yahoo",
-   "published": "2026-10-26T13:00:02+00:00",
-   "tickers": [
-    "INCY"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "2c3e70fc2608",
-   "headline": "BioMarin to Host Third Quarter 2026 Financial Results Conference Call and Webcast on Monday, November 2, 2026, at 4:30pm ET",
-   "summary": "BioMarin Pharmaceutical Inc. (NASDAQ: BMRN) today announced that Alexander Hardy, President and Chief Executive Officer of BioMarin, will host a conference call and webcast on Monday, November 2, 2026, at 4:30 p.m. ET to discuss third\u2026",
-   "url": "https://finnhub.io/api/news?id=2f3e9635eaa1b0ca6846a1944b1106891ef44b38f4cdacb898c95ceb2646aa52",
-   "source": "Yahoo",
-   "published": "2026-10-26T13:00:00+00:00",
-   "tickers": [
-    "BMRN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "6dcd7e44f198",
-   "headline": "Former FDA Head Steve Hahn Joins BreakBio, a Personalized Cancer Drug Company, as Advisor",
-   "summary": "BreakBio, a biotech company developing personalized drugs for cancer, today announced that Stephen M. Hahn, M.D., former Commissioner of the U.S. Food and Drug Administration (FDA), has joined the company as an advisor.",
-   "url": "https://finnhub.io/api/news?id=ab63aff4e9a69c5266c474fda0d68cae8b67be77590064279888dc2494d562ed",
-   "source": "Yahoo",
-   "published": "2026-10-26T13:00:00+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "0c82cbe39fdd",
-   "headline": "Abbott launches whole-genome sequencing Oncodetect\u00ae molecular residual disease (MRD) test to detect traces of cancer during and after treatment",
-   "summary": "For many people with cancer, completing treatment can bring a new uncertainty: Is my cancer really gone?",
-   "url": "https://finnhub.io/api/news?id=6eba44db048aa2b5fb78c51d3d0cfc5be81ab76eb06984b446561401cef5dc1d",
-   "source": "Yahoo",
-   "published": "2026-10-26T13:00:00+00:00",
-   "tickers": [
-    "ABT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "badd2b8a4cd8",
-   "headline": "Align Technology Commits Additional $1 Million to the American Association of Orthodontists Foundation to Support the Next Generation of Orthodontic Educators and Leaders",
-   "summary": "TEMPE, Ariz., October 26, 2026--Align Technology, Inc. (Nasdaq: ALGN), a leading global medical device company that designs, manufactures, and sells the Invisalign\u00ae System of clear aligners, iTero\u2122 intraoral scanners, and exocad\u2122 CAD/CAM\u2026",
-   "url": "https://finnhub.io/api/news?id=167ce2772e89bdc508c695d406dd6f5bea9c9bde3765a8a64bea8cd294bf0df1",
-   "source": "Yahoo",
-   "published": "2026-10-26T13:00:00+00:00",
-   "tickers": [
-    "ALGN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "37cadd7be0ba",
-   "headline": "CareDx to Report Q3 Earnings: Transplant Testing Growth in Focus",
-   "summary": "CareDx's Q3 earnings are in focus as transplant testing growth, stronger reimbursement and oncology expansion drive revenue prospects despite potential margin pressures.",
-   "url": "https://finnhub.io/api/news?id=17d1de96afb4be76bff0c040e451945dca7eae0bf590db2132141c5ac2406852",
-   "source": "Yahoo",
-   "published": "2026-10-26T12:58:00+00:00",
-   "tickers": [
-    "TGTX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "6d51bd0cee63",
-   "headline": "Prior authorization in the real world: Takeaways from Epic ahead of looming API deadline",
-   "summary": "As a Jan. 1 deadline looms for payers to adopt new prior authorization tech, Epic\u2019s Vice President of Value-Based Care Ryan Bohochik breaks down the industry\u2019s progress so far.",
-   "url": "https://www.healthcaredive.com/news/prior-authorization-takeaways-from-epic-ahead-of-looming-API-deadline/833919/",
-   "source": "Healthcare Dive",
-   "published": "2026-10-26T12:56:08+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "87d689ebac72",
-   "headline": "Centene sues the CMS over 2027 Medicare Advantage star ratings",
-   "summary": "The St. Louis-based insurer is adding onto a growing pile of lawsuits from insurers trying to get their quality scores recalculated \u2014 and nab hundreds of millions of dollars in extra payments as a result.",
-   "url": "https://www.healthcaredive.com/news/centene-medicare-advantage-stars-lawsuit-cms-2027/833922/",
-   "source": "Healthcare Dive",
-   "published": "2026-10-26T12:55:44+00:00",
-   "tickers": [
-    "CNC"
-   ],
-   "tag": "Legal",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "7c4a2b638047",
-   "headline": "Centene sues the CMS over 2027 Medicare Advantage star ratings",
-   "summary": "The St. Louis-based insurer is adding onto a growing pile of lawsuits from insurers trying to get their quality scores recalculated \u2014 and nab hundreds of millions of dollars in extra payments as a result.",
-   "url": "https://finnhub.io/api/news?id=a33e9504cd5f4a5bc425fe1b7ccd54195cc349db6d99021de62a2baa56c1f065",
-   "source": "Yahoo",
-   "published": "2026-10-26T12:55:44+00:00",
-   "tickers": [
-    "CNC"
-   ],
-   "tag": "Legal",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "3f9b062bf019",
-   "headline": "Are Medical Stocks Lagging Cronos Group (CRON) This Year?",
-   "summary": "Here is how Cronos Group (CRON) and Amgen (AMGN) have performed compared to their sector so far this year.",
-   "url": "https://finnhub.io/api/news?id=8735aeadcca3afcd374134cf91ff1069818152ffe83c913816c27612a8a32127",
-   "source": "Yahoo",
-   "published": "2026-10-26T12:50:02+00:00",
-   "tickers": [
-    "AMGN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "d21f19f5e361",
-   "headline": "The One Number CVS Health Stock Investors Should Watch",
-   "summary": "For questions about this article or underlying research, email help@trefis.com.",
-   "url": "https://finnhub.io/api/news?id=a4ffd1d26d0ec214bea670f03a243aba086d4d889a9196489eff002d108a2b19",
-   "source": "Yahoo",
-   "published": "2026-10-26T12:48:00+00:00",
-   "tickers": [
-    "CI",
-    "CVS",
-    "ELV",
-    "HUM",
-    "UNH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "216d2a87c058",
-   "headline": "What Happens To Tempus AI Stock If Its Cash Burn Continues?",
-   "summary": "For questions about this article or underlying research, email help@trefis.com.",
-   "url": "https://finnhub.io/api/news?id=ce48ef883f67882a4307f4418299634ed7f64dd3b6c414d6b03cb073e5780273",
-   "source": "Yahoo",
-   "published": "2026-10-26T12:47:57+00:00",
-   "tickers": [
-    "GH",
-    "ILMN",
-    "IQV",
-    "NTRA",
-    "TEM"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "1a0ae9acb9d1",
-   "headline": "FDA Approves Talazoparib With Enzalutamide For Metastatic Androgen Pathway Modulation-Naive Or -Sensitive Prostate Cancer With HRR Gene Mutations",
-   "summary": "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-talazoparib-enzalutamide-metastatic-androgen-pathway-modulation-naive-or-sensitive",
-   "url": "https://finnhub.io/api/news?id=0706a536fc47934f8074c6189222e40bc964efafa5e9b3e716f30474e01d36ba",
-   "source": "Benzinga",
-   "published": "2026-10-26T12:46:31+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "FDA",
    "sectors": [
     "pharma"
    ]
