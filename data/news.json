@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-05T21:47:38.915729+00:00",
+ "updated": "2026-11-05T22:02:43.530581+00:00",
  "quotes": {
   "A": {
    "price": 171.78,
@@ -33,10 +33,6 @@
   "AMGN": {
    "price": 460.28,
    "change_pct": -3.8
-  },
-  "AMWL": {
-   "price": 12.11,
-   "change_pct": -1.94
   },
   "AZN": {
    "price": 186.85,
@@ -254,10 +250,6 @@
    "price": 11.1,
    "change_pct": -9.83
   },
-  "NTRA": {
-   "price": 363.76,
-   "change_pct": -6.97
-  },
   "NVO": {
    "price": 40.3,
    "change_pct": -4.46
@@ -321,6 +313,14 @@
   "RXRX": {
    "price": 3.5,
    "change_pct": -9.79
+  },
+  "SDGR": {
+   "price": 28.77,
+   "change_pct": 0.88
+  },
+  "SNY": {
+   "price": 46.91,
+   "change_pct": -1.18
   }
  },
  "tickers": {
@@ -937,6 +937,17 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "00e9c775ab80",
+   "headline": "Court blocks CMS' moratorium on new ACA broker registrations",
+   "summary": "CMS had instituted the moratorium in late September as part of its broader push to combat fraud on the Affordable Care Act's exchanges.",
+   "url": "https://www.fiercehealthcare.com/payers/nabip-sues-cms-over-moratorium-new-aca-broker-registrations",
+   "source": "Fierce Healthcare",
+   "published": "2026-11-05T22:00:27.223123+00:00",
+   "tickers": [],
+   "tag": "Legal",
+   "sectors": []
+  },
   {
    "id": "44558e33cb4e",
    "headline": "STAT+: Pharma\u2019s trade group spent heavily on search ads to sway public opinion",
@@ -67755,62 +67766,6 @@
     "MRK"
    ],
    "tag": "Financing",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "53de0ff780fb",
-   "headline": "STAT+: Nonprofit Bon Secours Mercy Health strikes $5.7 billion deal for surgery center chain",
-   "summary": "The deal would make the Catholic system one of the largest operators of outpatient surgery centers.",
-   "url": "https://www.statnews.com/2026/10/26/bon-secours-mercy-health-surgery-partners-deal-ambulatory-surgery-centers-bain-capital/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-10-26T21:54:24+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "56888870fc3a",
-   "headline": "AMGEN APPOINTS DAVID W. GIBBS TO BOARD OF DIRECTORS",
-   "summary": "THOUSAND OAKS, Calif., Oct. 26, 2026 /PRNewswire/ -- Amgen (NASDAQ: AMGN) today announced the appointment of David W. Gibbs to its Board of Directors, effective immediately. Gibbs will serve on the Board's Audit Committee and Compensation\u2026",
-   "url": "https://www.prnewswire.com/news-releases/amgen-appoints-david-w-gibbs-to-board-of-directors-302919950.html",
-   "source": "PR Newswire",
-   "published": "2026-10-26T21:52:00+00:00",
-   "tickers": [
-    "AMGN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "75328c0394b1",
-   "headline": "AMGEN APPOINTS DAVID W. GIBBS TO BOARD OF DIRECTORS",
-   "summary": "Amgen (NASDAQ: AMGN) today announced the appointment of David W. Gibbs to its Board of Directors, effective immediately. Gibbs will serve on the Board's Audit Committee and Compensation and Management Development Committee.",
-   "url": "https://finnhub.io/api/news?id=274e06ffea2d05716afb1d543cb12e566cd0e68104bb7bb66e831d62ff947e02",
-   "source": "Yahoo",
-   "published": "2026-10-26T21:52:00+00:00",
-   "tickers": [
-    "AMGN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "bb880c443867",
-   "headline": "Don't Miss This Week's 5 Most Important Earnings Charts",
-   "summary": "Microsoft, Alphabet, Vertiv, Sandisk, and Eli Lilly are must-see charts.",
-   "url": "https://finnhub.io/api/news?id=d4c9863d45a5463a1c76152135ad3724b407a471ef11427bcef9fbabf466ee86",
-   "source": "Yahoo",
-   "published": "2026-10-26T21:48:00+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "Earnings",
    "sectors": [
     "pharma"
    ]
