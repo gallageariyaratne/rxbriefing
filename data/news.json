@@ -1,62 +1,62 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-05T21:02:50.340751+00:00",
+ "updated": "2026-11-05T21:17:48.623912+00:00",
  "quotes": {
   "A": {
-   "price": 171.58,
-   "change_pct": -3.16
+   "price": 171.78,
+   "change_pct": -3.04
   },
   "ABBV": {
-   "price": 288.22,
+   "price": 288.24,
    "change_pct": -2.24
   },
   "ABT": {
-   "price": 113.55,
-   "change_pct": -1.7
+   "price": 113.6,
+   "change_pct": -1.65
   },
   "ACAD": {
-   "price": 21.21,
-   "change_pct": -1.19
+   "price": 21.24,
+   "change_pct": -1.07
   },
   "ALGN": {
    "price": 159.37,
    "change_pct": -3.35
   },
   "ALHC": {
-   "price": 7.55,
-   "change_pct": -7.19
+   "price": 7.56,
+   "change_pct": -7.13
   },
   "ALNY": {
    "price": 156.66,
    "change_pct": -2.74
   },
   "AMGN": {
-   "price": 460.45,
-   "change_pct": -3.77
+   "price": 460.28,
+   "change_pct": -3.8
   },
   "AMWL": {
-   "price": 12.21,
-   "change_pct": -1.13
+   "price": 12.11,
+   "change_pct": -1.94
   },
   "ARGX": {
-   "price": 894.73,
-   "change_pct": -3.94
+   "price": 894.77,
+   "change_pct": -3.93
   },
   "AZN": {
-   "price": 186.82,
-   "change_pct": -1.16
+   "price": 186.85,
+   "change_pct": -1.14
   },
   "BDX": {
-   "price": 213.3,
-   "change_pct": 1.96
+   "price": 213.55,
+   "change_pct": 2.08
   },
   "BEAM": {
    "price": 25.87,
    "change_pct": -6.91
   },
   "BIIB": {
-   "price": 244.03,
-   "change_pct": -4.1
+   "price": 243.93,
+   "change_pct": -4.14
   },
   "BMRN": {
    "price": 56.12,
@@ -159,12 +159,16 @@
    "change_pct": -10.83
   },
   "GMED": {
-   "price": 81.52,
-   "change_pct": -6.41
+   "price": 81.44,
+   "change_pct": -6.5
   },
   "GSK": {
    "price": 50.41,
    "change_pct": -1.45
+  },
+  "HALO": {
+   "price": 122.96,
+   "change_pct": -5.66
   },
   "HCA": {
    "price": 507.48,
@@ -179,20 +183,20 @@
    "change_pct": -3.32
   },
   "HUM": {
-   "price": 411.55,
-   "change_pct": -1.41
+   "price": 411.79,
+   "change_pct": -1.35
   },
   "ILMN": {
    "price": 208,
    "change_pct": -8.18
   },
-  "INCY": {
-   "price": 118.01,
-   "change_pct": -3.94
-  },
   "IONS": {
    "price": 38.8,
    "change_pct": -3.36
+  },
+  "IRTC": {
+   "price": 130.19,
+   "change_pct": -2.84
   },
   "ISRG": {
    "price": 468.52,
@@ -215,8 +219,8 @@
    "change_pct": -1.22
   },
   "LLY": {
-   "price": 1367.71,
-   "change_pct": -3.55
+   "price": 1364.73,
+   "change_pct": -3.76
   },
   "MCK": {
    "price": 1072,
@@ -239,8 +243,8 @@
    "change_pct": -4.32
   },
   "MRK": {
-   "price": 146.9,
-   "change_pct": -2.3
+   "price": 146.94,
+   "change_pct": -2.27
   },
   "MRNA": {
    "price": 241.46,
@@ -317,10 +321,6 @@
   "RVMD": {
    "price": 177.65,
    "change_pct": -11.04
-  },
-  "RXRX": {
-   "price": 3.5,
-   "change_pct": -9.79
   }
  },
  "tickers": {
@@ -938,6 +938,77 @@
  },
  "stories": [
   {
+   "id": "a21e1f9b8626",
+   "headline": "Medicare will cut billions from 340B, expand site-neutral payments in 2027",
+   "summary": "Regulators finalized a rule Wednesday that would slash payments for drugs in the controversial 340B program and equalize some payments between care sites. Hospitals railed against the rule.",
+   "url": "https://www.biopharmadive.com/news/medicare-will-cut-billions-from-340b-expand-site-neutral-payments-in-2027/873909/",
+   "source": "BioPharma Dive",
+   "published": "2026-11-05T21:06:00+00:00",
+   "tickers": [],
+   "tag": "Policy",
+   "sectors": []
+  },
+  {
+   "id": "a1e82fac3505",
+   "headline": "iRhythm Holdings Announces Third Quarter 2026 Financial Results",
+   "summary": "SAN FRANCISCO, Nov. 05, 2026 (GLOBE NEWSWIRE) -- iRhythm Holdings, Inc. (NASDAQ: IRTC), a leading digital health care company with a mission to create trusted solutions that detect, predict, and prevent disease, today reported financial\u2026",
+   "url": "https://www.globenewswire.com/news-release/2026/11/05/3397028/0/en/irhythm-holdings-announces-third-quarter-2026-financial-results.html",
+   "source": "GlobeNewswire",
+   "published": "2026-11-05T21:05:00+00:00",
+   "tickers": [
+    "IRTC"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "45f2794a92ef",
+   "headline": "HALOZYME REPORTS THIRD QUARTER 2026 RESULTS AND RAISES FULL YEAR 2026 FINANCIAL GUIDANCE",
+   "summary": "Total Revenue Increased 39% YOY to $493 million Royalty Revenue Increased 44% YOY to $341 million Raising 2026 Financial Guidance Ranges: Total Revenue of $1.860 - $1.925 billion, YOY Growth of 33% - 38% Royalty Revenue of $1.235 - $1.255\u2026",
+   "url": "https://www.prnewswire.com/news-releases/halozyme-reports-third-quarter-2026-results-and-raises-full-year-2026-financial-guidance-302931338.html",
+   "source": "PR Newswire",
+   "published": "2026-11-05T21:05:00+00:00",
+   "tickers": [
+    "HALO"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "34d0ad7b6a8b",
+   "headline": "10x Genomics Reports Third Quarter 2026 Financial Results",
+   "summary": "PLEASANTON, Calif., Nov. 5, 2026 /PRNewswire/ -- 10x Genomics, Inc. (Nasdaq: TXG), the life science technology leader focused on accelerating science and advancing human health, today reported financial results for the third quarter ended\u2026",
+   "url": "https://www.prnewswire.com/news-releases/10x-genomics-reports-third-quarter-2026-financial-results-302931240.html",
+   "source": "PR Newswire",
+   "published": "2026-11-05T21:05:00+00:00",
+   "tickers": [
+    "TXG"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "31f5e88ba9b7",
+   "headline": "TransMedics Reports Third Quarter 2026 Financial Results",
+   "summary": "Strong Revenue Generation Drives Increase in Full-Year 2026 Guidance; Recent Progress Positions Company for Continued Growth with Several Near- and Mid-Term Catalysts ANDOVER, Mass., Nov. 5, 2026 /PRNewswire/ -- TransMedics Group, Inc.\u2026",
+   "url": "https://www.prnewswire.com/news-releases/transmedics-reports-third-quarter-2026-financial-results-302931330.html",
+   "source": "PR Newswire",
+   "published": "2026-11-05T21:02:00+00:00",
+   "tickers": [
+    "TMDX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "55f24157532a",
    "headline": "Ballot measures affirm divisions over abortion and transgender issues",
    "summary": "Voters in 2026 midterm elections decided state health policy ballot measures on abortion rights, marijuana laws, science bonds, and transgender youth care.",
@@ -1042,6 +1113,21 @@
    "headline": "STAT+: Novartis cites cases of previously unknown tumors possibly tied to its SMA gene therapy",
    "summary": "Novartis has acknowledged seven previously unknown instances in which tumors were found in children who were treated with its spinal muscular atrophy therapy, Zolgensma.",
    "url": "https://www.statnews.com/2026/11/05/novartis-sma-zolgensma-tumor-case-reports/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-11-05T18:53:34+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "b0529cf1093c",
+   "headline": "STAT+: Novartis cites cases of previously unknown tumors possibly tied to its SMA gene therapy",
+   "summary": "Novartis has acknowledged seven previously unknown instances in which tumors were found in children who were treated with its spinal muscular atrophy therapy, Zolgensma.",
+   "url": "https://www.statnews.com/pharmalot/2026/11/05/novartis-sma-zolgensma-tumor-case-reports/?utm_campaign=rss",
    "source": "STAT",
    "published": "2026-11-05T18:53:34+00:00",
    "tickers": [
@@ -2103,6 +2189,21 @@
    "sectors": []
   },
   {
+   "id": "7d6334c19526",
+   "headline": "Becton, Dickinson and Company Reports Fourth Quarter and Full Year Fiscal 2026 Results",
+   "summary": "",
+   "url": "https://finnhub.io/api/news?id=31ed2b5cf672cffbc25fb5cf509388e2db35dfc11fa234665a6eeea7ac3334db",
+   "source": "Fintel",
+   "published": "2026-11-05T15:42:05+00:00",
+   "tickers": [
+    "BDX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "40684af8ba69",
    "headline": "STAT+: Winners, losers, and MAHA",
    "summary": "Democratic doctors won big, MAHA faces an uncertain future, and what the election could mean for Medicare for All.",
@@ -2288,6 +2389,21 @@
    "published": "2026-11-05T15:04:10+00:00",
    "tickers": [
     "CVS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "8007804b8ab1",
+   "headline": "The Cigna Group Reports Third Quarter 2026 Revenues of $73.7 billion and Raises Full Year Outlook",
+   "summary": "",
+   "url": "https://finnhub.io/api/news?id=cdc06e11e52c5b6fc8bf4a53f77a23f3bc284d8bd6e78258a245105b65b27c65",
+   "source": "Fintel",
+   "published": "2026-11-05T15:01:35+00:00",
+   "tickers": [
+    "CI"
    ],
    "tag": "News",
    "sectors": [
@@ -67658,21 +67774,6 @@
    "tickers": [],
    "tag": "Policy",
    "sectors": []
-  },
-  {
-   "id": "ec0e7542d408",
-   "headline": "DoorDash in advanced talks to acquire Instacart: WSJ",
-   "summary": "Market Domination Overtime host Brooke DIPalma summarizes The Wall Street Journal reporting on DoorDash (DASH) in advanced talks to acquire Instacart \u2014 valued at $17 billion \u2014 in a deal that could be completed in the coming week.",
-   "url": "https://finnhub.io/api/news?id=d2258dbe00ab0a0dec1c6b085423d7cba2c8bb2b836e844e8b2ed16b59fd76b1",
-   "source": "Yahoo",
-   "published": "2026-10-26T21:14:15+00:00",
-   "tickers": [
-    "CVS"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "payers"
-   ]
   }
  ]
 }
