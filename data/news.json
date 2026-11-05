@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-05T00:17:42.162138+00:00",
+ "updated": "2026-11-05T00:32:33.151475+00:00",
  "quotes": {
   "A": {
    "price": 177.17,
@@ -97,6 +97,10 @@
   "CYTK": {
    "price": 63.6,
    "change_pct": 2.07
+  },
+  "DH": {
+   "price": 1.23,
+   "change_pct": 5.13
   },
   "DHR": {
    "price": 234.93,
@@ -317,10 +321,6 @@
   "ZBH": {
    "price": 110.15,
    "change_pct": 13.49
-  },
-  "ZTS": {
-   "price": 89.2,
-   "change_pct": 7.48
   }
  },
  "tickers": {
@@ -938,6 +938,21 @@
  },
  "stories": [
   {
+   "id": "5aec26a7698d",
+   "headline": "Where Does Agilent Technologies (A) Value Sit After Proscia?",
+   "summary": "Agilent Technologies has delivered strong gains over the past few years, and the question now is whether its current US$177.17 share price lines up with the cash the business is expected to generate. With the stock moving alongside a\u2026",
+   "url": "https://finnhub.io/api/news?id=06fa5bfa40fadb4e6ff5db0abc1bd4d606e49248574b4e563b8bc4f7e974d4b1",
+   "source": "Yahoo",
+   "published": "2026-11-04T23:23:50+00:00",
+   "tickers": [
+    "A"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "1a179b701aa7",
    "headline": "What Could Go Wrong At Gilead From Here?",
    "summary": "For questions about this article or underlying research, email help@trefis.com.",
@@ -945,7 +960,9 @@
    "source": "Yahoo",
    "published": "2026-11-04T23:12:57+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "BMY",
+    "JNJ"
    ],
    "tag": "News",
    "sectors": [
@@ -960,7 +977,8 @@
    "source": "Yahoo",
    "published": "2026-11-04T22:22:08+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "BMY"
    ],
    "tag": "News",
    "sectors": [
@@ -978,6 +996,21 @@
     "CI"
    ],
    "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "91dc0d2baf2e",
+   "headline": "Stock Market Today, Nov. 4: Dow Surges 3% in Biggest Post-Midterm Rally in 44 Years",
+   "summary": "Wall Street surged following the midterm elections, with the Dow posting its strongest post-election rally in decades as oil prices retreated and investors reassessed the market outlook.",
+   "url": "https://finnhub.io/api/news?id=76dfeca1e3549aeadb441c020ef97d95e53bf2180818ba004313bc68b545f6ac",
+   "source": "Yahoo",
+   "published": "2026-11-04T22:10:01+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "tag": "News",
    "sectors": [
     "payers"
    ]
@@ -1035,6 +1068,7 @@
    "source": "Yahoo",
    "published": "2026-11-04T21:28:05+00:00",
    "tickers": [
+    "COR",
     "MCK"
    ],
    "tag": "Earnings",
@@ -1283,6 +1317,21 @@
    "tag": "FDA",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "eb873dbd8ad2",
+   "headline": "Vertex to Participate in Upcoming Investor Conferences",
+   "summary": "BOSTON, November 04, 2026--Vertex Pharmaceuticals Incorporated (Nasdaq: VRTX) today announced management participation in three upcoming investor conferences.",
+   "url": "https://finnhub.io/api/news?id=37a415cfa636031f77f67dbfead9a660a7eb3d323a8770407abd1de3ac008f58",
+   "source": "Yahoo",
+   "published": "2026-11-04T21:00:00+00:00",
+   "tickers": [
+    "VRTX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1747,6 +1796,21 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "d702d1ee8903",
+   "headline": "Definitive Healthcare announces executive appointments to bolster AI-powered initiatives across the company",
+   "summary": "Healthcare Data and Analytics Organization Hires Head of AI and Promotes New Chief Product OfficerFRAMINGHAM, Mass., Nov. 04, 2026 (GLOBE NEWSWIRE) -- Definitive Healthcare (Nasdaq: DH), a provider of healthcare data and analytics, today\u2026",
+   "url": "https://finnhub.io/api/news?id=e991d1564bb9ff33eb2de08ce02c4ebb3219dc3833623efe293f1c338fbec11c",
+   "source": "Yahoo",
+   "published": "2026-11-04T18:13:00+00:00",
+   "tickers": [
+    "DH"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "healthit"
    ]
   },
   {
