@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-05T00:47:38.862667+00:00",
+ "updated": "2026-11-05T01:02:52.206084+00:00",
  "quotes": {
   "A": {
    "price": 177.17,
@@ -77,6 +77,10 @@
   "CI": {
    "price": 305.41,
    "change_pct": 3.37
+  },
+  "CLOV": {
+   "price": 4.69,
+   "change_pct": 9.32
   },
   "CNC": {
    "price": 76.01,
@@ -182,6 +186,10 @@
    "price": 276.32,
    "change_pct": 3.81
   },
+  "LEGN": {
+   "price": 22.77,
+   "change_pct": 6.01
+  },
   "LH": {
    "price": 367.79,
    "change_pct": 3.92
@@ -258,6 +266,10 @@
    "price": 178.2,
    "change_pct": -0.04
   },
+  "RXRX": {
+   "price": 3.88,
+   "change_pct": 5.43
+  },
   "RXST": {
    "price": 4.99,
    "change_pct": 8.71
@@ -273,6 +285,10 @@
   "SOPH": {
    "price": 6.97,
    "change_pct": 0.87
+  },
+  "SRPT": {
+   "price": 18.99,
+   "change_pct": 2.43
   },
   "SYK": {
    "price": 339.65,
@@ -305,22 +321,6 @@
   "TWST": {
    "price": 142.58,
    "change_pct": 1.63
-  },
-  "UHS": {
-   "price": 196.46,
-   "change_pct": 10.91
-  },
-  "UNH": {
-   "price": 409.38,
-   "change_pct": 1.22
-  },
-  "UTHR": {
-   "price": 608.49,
-   "change_pct": 1.19
-  },
-  "VEEV": {
-   "price": 310.63,
-   "change_pct": 2.45
   }
  },
  "tickers": {
@@ -960,6 +960,7 @@
    "source": "Yahoo",
    "published": "2026-11-04T23:21:05+00:00",
    "tickers": [
+    "CLOV",
     "UNH"
    ],
    "tag": "Earnings",
@@ -977,12 +978,29 @@
    "tickers": [
     "ABBV",
     "BMY",
+    "GILD",
     "JNJ",
+    "MRK",
     "PFE"
    ],
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "1852f8d88b0b",
+   "headline": "LivaNova PLC Q3 2026 Earnings Call Summary",
+   "summary": "Moby summary of LivaNova PLC's Q3 2026 earnings call",
+   "url": "https://finnhub.io/api/news?id=ef5fb767e41e8bfc238c2fa0d30831fe76119e8ac2bcc36923b98ab4f2377c9a",
+   "source": "Yahoo",
+   "published": "2026-11-04T23:07:33+00:00",
+   "tickers": [
+    "TMO"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -1011,11 +1029,42 @@
     "ABBV",
     "AMGN",
     "BMY",
+    "MRK",
     "PFE"
    ],
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "b40e2847d963",
+   "headline": "Recursion Pharmaceuticals (RXRX) Puts Fred Hassan In The Chair After Phase 2 Win",
+   "summary": "Recursion Pharmaceuticals (NasdaqGS:RXRX) reported positive Phase 2 data for oral MEK1/2 inhibitor REC-4881 in familial adenomatous polyposis. The biotech plans to start a registrational trial of REC-4881, subject to discussions with the\u2026",
+   "url": "https://finnhub.io/api/news?id=69d5b037ac3b729abf878536ea14177221117d3339d34cb98940a3c0a67eb9cd",
+   "source": "Yahoo",
+   "published": "2026-11-04T22:15:32+00:00",
+   "tickers": [
+    "RXRX"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "healthai"
+   ]
+  },
+  {
+   "id": "885045b40075",
+   "headline": "Alnylam Announces $1 Billion Share Repurchase Program and Change in Commercial Leadership",
+   "summary": "CAMBRIDGE, Mass., November 04, 2026--Alnylam Pharmaceuticals, Inc. (Nasdaq: ALNY), the leading RNAi therapeutics company, today announced that its Board of Directors has authorized a $1 billion share repurchase program and that the\u2026",
+   "url": "https://finnhub.io/api/news?id=24c300c5d2a77fddc634ef71b808c30e141385641d833ef5d62a662704b96a74",
+   "source": "Yahoo",
+   "published": "2026-11-04T22:15:00+00:00",
+   "tickers": [
+    "ALNY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -1116,7 +1165,10 @@
    "source": "Yahoo",
    "published": "2026-11-04T21:56:16+00:00",
    "tickers": [
-    "PFE"
+    "ALNY",
+    "MRNA",
+    "PFE",
+    "SRPT"
    ],
    "tag": "News",
    "sectors": [
@@ -1139,6 +1191,21 @@
    ]
   },
   {
+   "id": "eb671fc1854c",
+   "headline": "X4 Pharmaceuticals (XFOR) Reports Q3 Loss, Tops Revenue Estimates",
+   "summary": "X4 Pharmaceuticals (XFOR) delivered earnings and revenue surprises of +15.79% and +43.95%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=ab70ea04c19407567bc407627783c228ff9b72a252ffc66db8329dbc2441537c",
+   "source": "Yahoo",
+   "published": "2026-11-04T21:50:10+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "4637f3ec8953",
    "headline": "Will Beauty and Wellness Have More Space to Shine in a Revamped CVS?",
    "summary": "As the drugstore giant prepares to decouple its retail pharmacy and health care businesses, industry analysts assess the impact on beauty.",
@@ -1149,6 +1216,21 @@
     "CVS"
    ],
    "tag": "Analyst",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "4e360131e476",
+   "headline": "Clover Health (NASDAQ:CLOV) posts better-than-expected sales in Q3 2026, full-year outlook slightly exceeds expectations",
+   "summary": "Health insurance company Clover Health (NASDAQ:CLOV) announced better-than-expected revenue in Q3 2026, with revenue up 52.9% year on year to $759.3 million. The company\u2019s full-year revenue guidance of $2.99 billion at the midpoint came\u2026",
+   "url": "https://finnhub.io/api/news?id=153182359b6b18af78dce628d5ac3a59f40bf82c7c6444130075a7b8da46554d",
+   "source": "Yahoo",
+   "published": "2026-11-04T21:31:36+00:00",
+   "tickers": [
+    "CLOV"
+   ],
+   "tag": "Earnings",
    "sectors": [
     "payers"
    ]
@@ -1429,6 +1511,36 @@
    ]
   },
   {
+   "id": "b5cd76714d7d",
+   "headline": "Vir Biotechnology Provides Corporate Update and Reports Third Quarter 2026 Financial Results",
+   "summary": "SAN FRANCISCO, November 04, 2026--Vir Biotechnology, Inc. (Nasdaq: VIR), today provided a corporate update and reported financial results for the third quarter ended September 30, 2026.",
+   "url": "https://finnhub.io/api/news?id=f1e2955dcd15a4000ca8e6672e9e5a980d37a92ed5f0e049b8b489fc1bf7e455",
+   "source": "Yahoo",
+   "published": "2026-11-04T21:05:00+00:00",
+   "tickers": [
+    "GILD"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "ecda3b5bcdce",
+   "headline": "Clover Health Reports Third Quarter 2026 Results",
+   "summary": "Business Highlights: Strong third quarter performance brings year-to-date GAAP Net Income to $62 million alongside 49% year-over-year Medicare Advantage membership growthImproved Full Year 2026 guidance across all metrics2027 AEP tracking\u2026",
+   "url": "https://finnhub.io/api/news?id=658c4b1cff7e19945a0cfe40e89427fc1f0db32c8433f61dc11069afa284cccf",
+   "source": "Yahoo",
+   "published": "2026-11-04T21:05:00+00:00",
+   "tickers": [
+    "CLOV"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "ff5d8fa1b76d",
    "headline": "Cytokinetics Reports Third Quarter 2026 Financial Results and Provides Business Update",
    "summary": "MYQORZO\u00ae (aficamten) Net Product Revenue of $44.5 Million Expect to Submit Supplemental NDA for Aficamten in Non-Obstructive HCM in Q4 2026 and Type II Variation in the European Union in Early 2027 ~$1.6 Billion in Cash, Cash Equivalents\u2026",
@@ -1526,6 +1638,22 @@
     "EW"
    ],
    "tag": "Policy",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "2d2c33d02c65",
+   "headline": "S&P 500 Top Movers: Gainers and Losers in Today's US Session",
+   "summary": "S&P 500 top movers for today's US session, with XYZ leading gainers at 15.99% and FIS leading losers at -24.87%.",
+   "url": "https://finnhub.io/api/news?id=00de67f364a0e9c6936a8e31ef13f5ce904883d14b7a6c891acd5b259df9a819",
+   "source": "ChartMill",
+   "published": "2026-11-04T20:06:08+00:00",
+   "tickers": [
+    "CNC",
+    "ZBH"
+   ],
+   "tag": "News",
    "sectors": [
     "medtech"
    ]
@@ -2144,7 +2272,8 @@
    "source": "ChartMill",
    "published": "2026-11-04T17:36:07+00:00",
    "tickers": [
-    "UHS"
+    "UHS",
+    "ZBH"
    ],
    "tag": "News",
    "sectors": [
@@ -3078,7 +3207,8 @@
    "source": "ChartMill",
    "published": "2026-11-04T15:36:48+00:00",
    "tickers": [
-    "ISRG"
+    "ISRG",
+    "ZBH"
    ],
    "tag": "News",
    "sectors": [
@@ -4005,6 +4135,36 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "d1734c27cd6b",
+   "headline": "Legend Biotech to Showcase CARVYKTI\u00ae Leadership and Next-Generation Cell Therapy Innovation at ASH 2026",
+   "summary": "New CARTITUDE-4 subgroup analyses provide further insights into durable clinical outcomes with CARVYKTI in earlier-line treatmentUpdated data to be presented from first-in-human trial of LB2501, an investigational, off-the-shelf in vivo\u2026",
+   "url": "https://finnhub.io/api/news?id=8dfe0660eaff3fcbf5a82b3f29fb3f0ad1507949f23b4ea188f199129f742767",
+   "source": "Yahoo",
+   "published": "2026-11-04T14:00:00+00:00",
+   "tickers": [
+    "LEGN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "301c46e59216",
+   "headline": "RXRX Q3 Earnings Call Highlights Clinical Progress and Cash Runway",
+   "summary": "Recursion highlights promising clinical data for REC-4881 and REC-1245, beats Q3 earnings estimates and extends its cash runway into 2029 through disciplined spending.",
+   "url": "https://finnhub.io/api/news?id=5ebba0930ea592b629412ee2c83ef43df72df1c459b3364f5b91f5a5574d7872",
+   "source": "Yahoo",
+   "published": "2026-11-04T14:00:00+00:00",
+   "tickers": [
+    "RXRX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthai"
    ]
   },
   {
@@ -12778,6 +12938,21 @@
    "tag": "Earnings",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "48f5355bfafa",
+   "headline": "Waystar Holding Corp. Q3 2026 Earnings Call Summary",
+   "summary": "Moby summary of Waystar Holding Corp.'s Q3 2026 earnings call",
+   "url": "https://finnhub.io/api/news?id=edc109daa892439970b70370a28e3be1c43484685e3c0dd2372e140883216dbb",
+   "source": "Yahoo",
+   "published": "2026-11-03T13:30:00+00:00",
+   "tickers": [
+    "WAY"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
    ]
   },
   {
