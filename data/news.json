@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-05T10:09:38.163881+00:00",
+ "updated": "2026-11-05T10:17:30.917078+00:00",
  "quotes": {
   "A": {
    "price": 177.17,
@@ -254,6 +254,10 @@
    "price": 258.38,
    "change_pct": 13.11
   },
+  "NBIX": {
+   "price": 166.05,
+   "change_pct": 0.73
+  },
   "NTLA": {
    "price": 12.31,
    "change_pct": 3.79
@@ -317,10 +321,6 @@
   "RVMD": {
    "price": 199.7,
    "change_pct": 2.82
-  },
-  "RXRX": {
-   "price": 3.88,
-   "change_pct": 5.43
   }
  },
  "tickers": {
@@ -938,6 +938,32 @@
  },
  "stories": [
   {
+   "id": "02149fe235a4",
+   "headline": "Cloudbreak posts phase 3 eye disease win amid IPO storm",
+   "summary": "A phase 3 study of Cloudbreak Pharma\u2019s eye disease drug candidate has hit its co-primary endpoints, boosting a biotech embroiled in an IPO investigation.",
+   "url": "https://www.fiercebiotech.com/biotech/cloudbreak-posts-phase-3-eye-disease-win-amid-ipo-storm",
+   "source": "Fierce Biotech",
+   "published": "2026-11-05T10:15:20.524224+00:00",
+   "tickers": [],
+   "tag": "Clinical",
+   "sectors": []
+  },
+  {
+   "id": "6e961d5cc0b8",
+   "headline": "AstraZeneca (NYSE:AZN) Stands Out for Dividend Quality and Sustainable Payout",
+   "summary": "AstraZeneca fits a quality dividend screen with a 2.3% yield, strong profitability, and adequate financial health, though liquidity remains a caveat.",
+   "url": "https://finnhub.io/api/news?id=b3402f563dde719e625375ca6d3f34aee79caa006f6557095881aa0c31c30c08",
+   "source": "ChartMill",
+   "published": "2026-11-05T09:51:00+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "5dc2e966fd57",
    "headline": "STAT+: What the midterms could mean for the future of health AI",
    "summary": "The midterms highlighted the negative sentiment around AI across the U.S. How will those attitudes trickle down to legislating AI use in health care?",
@@ -993,6 +1019,21 @@
    "sectors": []
   },
   {
+   "id": "67817b88d92f",
+   "headline": "Hospitals under pressure? This surgery-center chain is up 40.8% since April",
+   "summary": "Investing.com and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
+   "url": "https://finnhub.io/api/news?id=05249637c3a6ca372740f1d154f29d47f45434a99851d8ac53629bb1a27aee69",
+   "source": "Yahoo",
+   "published": "2026-11-05T08:27:45+00:00",
+   "tickers": [
+    "HCA"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "0ce41ec542ca",
    "headline": "Alethio raises $90M to target rare blood cancers",
    "summary": "The startup is working on a medicine one of its investors claimed could have a broader reach than other approved drugs for a group of conditions known as myeloproliferative neoplasms.",
@@ -1031,6 +1072,21 @@
    "tag": "M&A",
    "sectors": [
     "pharmacy"
+   ]
+  },
+  {
+   "id": "10e045100763",
+   "headline": "ACADIA Pharmaceuticals Inc (ACAD) Q3 2026 Earnings Call Highlights: Record Debut Sales and ...",
+   "summary": "ACADIA Pharmaceuticals Inc (ACAD) posted $342 million in quarterly revenue and lifted its Debut outlook, even as the remlifanserin Phase 2 study narrowly missed statistical significance.",
+   "url": "https://finnhub.io/api/news?id=73e6e149f17a5c9db0a84bc6f66258ccf751f043de3a85624d3df31e558017f4",
+   "source": "Yahoo",
+   "published": "2026-11-05T07:15:09+00:00",
+   "tickers": [
+    "ACAD"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -1290,6 +1346,21 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "9f5bf2891396",
+   "headline": "Neurocrine Biosciences: Breaking Down A Solid Quarter",
+   "summary": "Neurocrine Biosciences posts strong Q3 earnings as INGREZZA drives growth and rare disease expansion gains traction. Find out why NBIX stock is a buy.",
+   "url": "https://finnhub.io/api/news?id=111606acb56395a0a8ed538acb33630cdf7cb2326c1e3267da7077e2fb9fd9a4",
+   "source": "SeekingAlpha",
+   "published": "2026-11-05T04:05:25+00:00",
+   "tickers": [
+    "NBIX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -64712,26 +64783,6 @@
     "BMY"
    ],
    "tag": "Health AI",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "f0617f2f0a9d",
-   "headline": "Can Incyte Stock Hit $170?",
-   "summary": "For questions about this article or underlying research, email help@trefis.com.",
-   "url": "https://finnhub.io/api/news?id=af69d860fc2e812aa59388e3be42f34827b19f840f3e708773d6a0340009dc66",
-   "source": "Yahoo",
-   "published": "2026-10-26T10:13:49+00:00",
-   "tickers": [
-    "AMGN",
-    "BMY",
-    "GILD",
-    "INCY",
-    "PFE",
-    "REGN"
-   ],
-   "tag": "News",
    "sectors": [
     "pharma"
    ]
