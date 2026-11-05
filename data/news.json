@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-05T23:02:57.269722+00:00",
+ "updated": "2026-11-05T23:17:34.356327+00:00",
  "quotes": {
   "A": {
    "price": 171.78,
@@ -57,10 +57,6 @@
   "BMY": {
    "price": 63.13,
    "change_pct": -1.65
-  },
-  "BNTX": {
-   "price": 85.86,
-   "change_pct": -5.34
   },
   "BRKR": {
    "price": 58.06,
@@ -321,6 +317,10 @@
   "SDGR": {
    "price": 28.77,
    "change_pct": 0.88
+  },
+  "SNY": {
+   "price": 46.91,
+   "change_pct": -1.18
   }
  },
  "tickers": {
@@ -990,6 +990,21 @@
    ]
   },
   {
+   "id": "cddbe01b1a17",
+   "headline": "Evolent Health, Inc. Reports Third Quarter 2026 Financial Results",
+   "summary": "",
+   "url": "https://finnhub.io/api/news?id=3dff16ac3fe5b82aa20bc9e53cb80e1e74ce28c79aeff1d8da79451a79331ed8",
+   "source": "Fintel",
+   "published": "2026-11-05T21:43:18+00:00",
+   "tickers": [
+    "EVH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "44558e33cb4e",
    "headline": "STAT+: Pharma\u2019s trade group spent heavily on search ads to sway public opinion",
    "summary": "PhRMA spent an estimated $59 million on search advertising over a recent seven-year period to influence how Americans view prescription drug costs.",
@@ -1296,6 +1311,21 @@
    "tag": "News",
    "sectors": [
     "healthit"
+   ]
+  },
+  {
+   "id": "8079d6072440",
+   "headline": "Voyager Reports Third Quarter 2026 Financial and Operating Results",
+   "summary": "- VY7523 clinical data readout on track for Q4 2026 and VY1706 dosing expected in the next few months pending enrollment - - Neurocrine Biosciences partnered Friedreich\u2019s ataxia gene therapy program expected to enter the clinic in the\u2026",
+   "url": "https://finnhub.io/api/news?id=d98bee92b85288f14de3a625dc0af6264ba67a6067a2d6cf089e2be73dd3965a",
+   "source": "Yahoo",
+   "published": "2026-11-05T21:01:00+00:00",
+   "tickers": [
+    "NBIX"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -1701,6 +1731,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "641097a3dfdf",
+   "headline": "The Cigna Group (CI) Q3 2026 Earnings Call Transcript",
+   "summary": "The Cigna Group (CI) Q3 2026 Earnings Call November 5, 2026 8:30 AM ESTCompany ParticipantsRalph Giacobbe - Senior Vice President of Investor RelationsBrian...",
+   "url": "https://finnhub.io/api/news?id=86c86af536d72fd2a130fafe54345b0eb454b984d439f4952dbdcd425bcd8bab",
+   "source": "SeekingAlpha",
+   "published": "2026-11-05T17:44:34+00:00",
+   "tickers": [
+    "CI"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -67976,21 +68021,6 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
-  },
-  {
-   "id": "43d09b1be6b9",
-   "headline": "Alnylam Pharmaceuticals, Inc. (ALNY) RNAi Roundtable: Exon 1 Targeting With Brezosiran for Huntington's Disease Transcript",
-   "summary": "Alnylam Pharmaceuticals, Inc. (ALNY) RNAi Roundtable: Exon 1 Targeting With Brezosiran for Huntington's Disease October 26, 2026 10:00 AM EDTCompany...",
-   "url": "https://finnhub.io/api/news?id=23ea8fb07c33ab6c2d50e5714f7a05c691eeaa1269337f96f4f3807fdc81a2ac",
-   "source": "SeekingAlpha",
-   "published": "2026-10-26T23:09:51+00:00",
-   "tickers": [
-    "ALNY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
   }
  ]
 }
