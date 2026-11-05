@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-05T00:32:33.151475+00:00",
+ "updated": "2026-11-05T00:47:38.862667+00:00",
  "quotes": {
   "A": {
    "price": 177.17,
@@ -134,6 +134,10 @@
    "price": 87.1,
    "change_pct": 9.45
   },
+  "GSK": {
+   "price": 51.15,
+   "change_pct": 5.03
+  },
   "HALO": {
    "price": 130.34,
    "change_pct": 1.34
@@ -258,6 +262,10 @@
    "price": 4.99,
    "change_pct": 8.71
   },
+  "SDGR": {
+   "price": 28.52,
+   "change_pct": 4.93
+  },
   "SNY": {
    "price": 47.47,
    "change_pct": 4.72
@@ -294,6 +302,14 @@
    "price": 706.16,
    "change_pct": 1.12
   },
+  "TWST": {
+   "price": 142.58,
+   "change_pct": 1.63
+  },
+  "UHS": {
+   "price": 196.46,
+   "change_pct": 10.91
+  },
   "UNH": {
    "price": 409.38,
    "change_pct": 1.22
@@ -305,22 +321,6 @@
   "VEEV": {
    "price": 310.63,
    "change_pct": 2.45
-  },
-  "VRTX": {
-   "price": 549.04,
-   "change_pct": 3.44
-  },
-  "WAT": {
-   "price": 467.6,
-   "change_pct": 1.67
-  },
-  "WAY": {
-   "price": 29.69,
-   "change_pct": 7.36
-  },
-  "ZBH": {
-   "price": 110.15,
-   "change_pct": 13.49
   }
  },
  "tickers": {
@@ -953,6 +953,21 @@
    ]
   },
   {
+   "id": "76264c0181fe",
+   "headline": "UnitedHealth Stock And Medicare Advantage Insurers In Focus After Midterm Gridlock",
+   "summary": "Democrats\u2019 midterm gains have cooled talk of sweeping policy change and pushed investors toward areas where government programs quietly control the revenue tap. Medicaid and ACA-focused insurers suddenly look far more interesting as\u2026",
+   "url": "https://finnhub.io/api/news?id=29eece2445feec90d6b4d66b91f69b9988c4a8ad59b461098b4ccb96473edc3b",
+   "source": "Yahoo",
+   "published": "2026-11-04T23:21:05+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "1a179b701aa7",
    "headline": "What Could Go Wrong At Gilead From Here?",
    "summary": "For questions about this article or underlying research, email help@trefis.com.",
@@ -962,11 +977,27 @@
    "tickers": [
     "ABBV",
     "BMY",
-    "JNJ"
+    "JNJ",
+    "PFE"
    ],
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "5e22136a7e13",
+   "headline": "Illumina selected to help bring precision medicine into everyday healthcare in Singapore",
+   "summary": "Illumina, Inc. (Nasdaq: ILMN) announced it has been selected to provide whole-genome sequencing services for the SG-INSIGHT study, a cohort under Phase III of Singapore's National Precision Medicine (NPM) programme. Expected to include\u2026",
+   "url": "https://finnhub.io/api/news?id=305095648e8aedc33cf28cf0ac649d0c48aa25fa762893c1d1cac7187e6ed3f0",
+   "source": "Yahoo",
+   "published": "2026-11-04T23:00:00+00:00",
+   "tickers": [
+    "ILMN"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -978,7 +1009,9 @@
    "published": "2026-11-04T22:22:08+00:00",
    "tickers": [
     "ABBV",
-    "BMY"
+    "AMGN",
+    "BMY",
+    "PFE"
    ],
    "tag": "News",
    "sectors": [
@@ -998,6 +1031,36 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "f66d467152d7",
+   "headline": "Zoetis Stock Faces Earnings Test As US Weakness Weighs",
+   "summary": "Zoetis recently entered its third quarter earnings season with analysts projecting earnings of US$1.51 per share and US$2.3b in revenue, both lower than the same period a year earlier, reflecting pressure in U.S. companion animal demand\u2026",
+   "url": "https://finnhub.io/api/news?id=ed6622714382639261f78ea026e018f92e68d587016c3680dc3ebf4a52da9633",
+   "source": "Yahoo",
+   "published": "2026-11-04T22:10:49+00:00",
+   "tickers": [
+    "ZTS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "27e9600953ce",
+   "headline": "Charles River Laboratories International, Inc. Q3 2026 Earnings Call Summary",
+   "summary": "Moby summary of Charles River Laboratories International, Inc.'s Q3 2026 earnings call",
+   "url": "https://finnhub.io/api/news?id=7bfe73b4e54b5e4eafec8d9a3ab8d85dffd7a876613ed064443001ce3c8a7ac5",
+   "source": "Yahoo",
+   "published": "2026-11-04T22:10:45+00:00",
+   "tickers": [
+    "CRL"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -1028,6 +1091,36 @@
    "tag": "Health AI",
    "sectors": [
     "healthit"
+   ]
+  },
+  {
+   "id": "822d5bcb5853",
+   "headline": "Grail Comes Up Short, Reporting Light Sales Of Its Cancer-Detecting Blood Test",
+   "summary": "Grail stock took a mighty hit late Wednesday after the DNA-testing outfit reported light third-quarter sales.",
+   "url": "https://finnhub.io/api/news?id=21c556ed11c4c3f7b1ca9e107082329e93edccc23527d36f2343cfa2a78d5c2c",
+   "source": "Yahoo",
+   "published": "2026-11-04T21:58:00+00:00",
+   "tickers": [
+    "ILMN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "0b36f40ff290",
+   "headline": "Which Dates Could Move Moderna Stock Most?",
+   "summary": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://finnhub.io/api/news?id=09e5d815f6d4d1181cbcaa906a0079d0e0fbca5328232092853f7fd7eae3cdd9",
+   "source": "Yahoo",
+   "published": "2026-11-04T21:56:16+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1068,6 +1161,7 @@
    "source": "Yahoo",
    "published": "2026-11-04T21:28:05+00:00",
    "tickers": [
+    "CAH",
     "COR",
     "MCK"
    ],
@@ -1302,6 +1396,36 @@
    "tag": "Financing",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "2ab1437a6443",
+   "headline": "Laza Medical Raises Up to $160 Million in Series B Financing Led by GE HealthCare to Advance Intelligent Imaging for Transforming the Cath Lab",
+   "summary": "Laza Medical, Inc., a Shifamed portfolio company pioneering AI-powered robotic imaging solutions for cardiac interventions, today announced it has raised up to $160 million in Series B structured financing. GE HealthCare led the round,\u2026",
+   "url": "https://finnhub.io/api/news?id=274044d23a5d7bfd359a2d90fc83d655f3419e8af5dd70cf21486b0a5de359df",
+   "source": "Yahoo",
+   "published": "2026-11-04T21:05:00+00:00",
+   "tickers": [
+    "GEHC"
+   ],
+   "tag": "Financing",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "f946e7f94adf",
+   "headline": "Schr\u00f6dinger Reports Third Quarter 2026 Financial Results",
+   "summary": "NEW YORK, November 04, 2026--Schr\u00f6dinger, Inc. (Nasdaq: SDGR) today announced financial results for the quarter ended September 30, 2026.",
+   "url": "https://finnhub.io/api/news?id=d87edd94f146eff75f660f7bcd051f841e0e0bdcf84f11618e8dcb11b2a348fe",
+   "source": "Yahoo",
+   "published": "2026-11-04T21:05:00+00:00",
+   "tickers": [
+    "SDGR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthai"
    ]
   },
   {
@@ -1558,6 +1682,36 @@
    ]
   },
   {
+   "id": "2a3fddeaeace",
+   "headline": "Polen 5Perspectives Small Growth Composite Q3 2026 Portfolio Attribution And Activity",
+   "summary": "Review Polen 5Perspectives Small Growth Composite Portfolio Q3 2026 performance highlights and strategy. Read now for complete investment commentary.",
+   "url": "https://finnhub.io/api/news?id=07a96d48f9e4d9b73852d43bd8ac5d7b282e70fc520b05efa7d0c71885a2d62d",
+   "source": "SeekingAlpha",
+   "published": "2026-11-04T19:10:00+00:00",
+   "tickers": [
+    "TWST"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "0a511cc6b2c5",
+   "headline": "Most-Active S&P 500 Stocks for Nov. 4, 2026",
+   "summary": "Nov. 4, 2026 most-active S&P 500 list: SMCI led volume at 61.87M shares and fell 4.71%, while UBER rose 6.92% and CVS dropped 12.33%.",
+   "url": "https://finnhub.io/api/news?id=8713d2afdf63db720d31e32e8a5c703e167551bea0e93beb4202799cfb3bf45f",
+   "source": "ChartMill",
+   "published": "2026-11-04T19:06:09+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "1e3e265a8df2",
    "headline": "Novo Nordisk A/S Reports Q3 2026 Adjusted Operating Profit of DKK 31,720 million",
    "summary": "",
@@ -1688,6 +1842,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "90523f41eded",
+   "headline": "Bruker Corporation (BRKR) Q3 2026 Earnings Call Transcript",
+   "summary": "Bruker Corporation (BRKR) Q3 2026 Earnings Call November 4, 2026 8:30 AM ESTCompany ParticipantsJoe KostkaFrank Laukien - Chairman, CEO &...",
+   "url": "https://finnhub.io/api/news?id=1850c612b43c659e7cc81ce973ee688cbcff845d9ffad6eadebd34731551883e",
+   "source": "SeekingAlpha",
+   "published": "2026-11-04T18:44:39+00:00",
+   "tickers": [
+    "BRKR"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
   },
   {
    "id": "d5f5cd255bd3",
@@ -1844,6 +2013,21 @@
    ]
   },
   {
+   "id": "90d59a16f033",
+   "headline": "S&P 500 Unusual Volume Movers for Today",
+   "summary": "S&P 500 unusual-volume movers today include FIS down 23.74%, DDOG down 13.67%, VRT down 13.34% and CVNA up 8.89%, with several names trading above average volume.",
+   "url": "https://finnhub.io/api/news?id=f7ba0eaf79cf651858edbf5f8621b8677db7558bfd6433659cf8eb69176e8c2b",
+   "source": "ChartMill",
+   "published": "2026-11-04T18:05:55+00:00",
+   "tickers": [
+    "GEHC"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "24022709f857",
    "headline": "Amgen earnings analysis: questions answered and next catalysts",
    "summary": "Investing.com -- Amgen Inc (AMGN) reported Q3 on Nov 3, 2026, and the numbers were strong. Adjusted EPS was $6.45 against a $5.76 estimate (+11.98%), and revenue was $10.40B against $10.06B. The stock is $478.5 (+3.74%) as of Nov 4, 12:25\u2026",
@@ -1950,6 +2134,21 @@
    "tag": "News",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "ae1bdc0565d1",
+   "headline": "S&P 500 Top Movers: Nov. 4, 2026 Session Gainers and Losers",
+   "summary": "S&P 500 top movers for Nov. 4, 2026: XYZ and SWK lead gainers while FIS and TRMB lead decliners in today's US session.",
+   "url": "https://finnhub.io/api/news?id=055d9c0317330336a8c177655c3143ea2fc418e7048759f97d7078b780156b7d",
+   "source": "ChartMill",
+   "published": "2026-11-04T17:36:07+00:00",
+   "tickers": [
+    "UHS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -2589,6 +2788,7 @@
    "source": "Yahoo",
    "published": "2026-11-04T16:05:00+00:00",
    "tickers": [
+    "GKOS",
     "GMED",
     "ISRG"
    ],
@@ -2702,6 +2902,7 @@
    "source": "Yahoo",
    "published": "2026-11-04T15:57:00+00:00",
    "tickers": [
+    "GKOS",
     "GMED",
     "ISRG"
    ],
@@ -2734,6 +2935,21 @@
    "tag": "News",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "f9c48bf627ab",
+   "headline": "HP Inc. Looks Outside Tech, Tapping Pharma Heavyweight as New CEO",
+   "summary": "HP Inc. stock was gaining on the appointment of Emma Walmsley as its next chief executive.",
+   "url": "https://finnhub.io/api/news?id=cc9469cf09fc9e94be3a09fdc3ea3e2f5d26d56c714e5ac8a4f5469506013ccb",
+   "source": "Yahoo",
+   "published": "2026-11-04T15:50:00+00:00",
+   "tickers": [
+    "GSK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -2852,6 +3068,21 @@
    "tag": "News",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "6f5c49cc78fe",
+   "headline": "Today's S&P 500 Gap Movers: XYZ and ZBH Lead Gap-Ups, FIS and TRMB Top Gap-Downs",
+   "summary": "S&P 500 gap movers today: XYZ, ZBH, SWK and FSLR led gap-ups, while FIS, TRMB, FIX and SWKS topped gap-downs, with opening gaps, percentage changes and prices.",
+   "url": "https://finnhub.io/api/news?id=e529c5258033b90232cc48825b175958f03281b5b20038d1a63260517485474d",
+   "source": "ChartMill",
+   "published": "2026-11-04T15:36:48+00:00",
+   "tickers": [
+    "ISRG"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -3026,6 +3257,21 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "c35519e47519",
+   "headline": "Is Glaukos (GKOS) Still Cheap After Record Sales And Profit?",
+   "summary": "Glaukos has turned into one of the market\u2019s stronger healthcare stories in 2026, with the share price climbing sharply as investors respond to record sales, index moves and a shift into profitability. With the stock now at US$233.04, the\u2026",
+   "url": "https://finnhub.io/api/news?id=e4cb504e8ca093314bd99d027bafbcf90e86471f9bf4981737768bbd6e1a8ce7",
+   "source": "Yahoo",
+   "published": "2026-11-04T15:10:10+00:00",
+   "tickers": [
+    "GKOS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -3885,6 +4131,7 @@
    "published": "2026-11-04T13:43:00+00:00",
    "tickers": [
     "BDX",
+    "GKOS",
     "GMED"
    ],
    "tag": "Earnings",
@@ -3916,6 +4163,7 @@
    "published": "2026-11-04T13:42:00+00:00",
    "tickers": [
     "BDX",
+    "GKOS",
     "GMED"
    ],
    "tag": "Earnings",
@@ -4640,6 +4888,21 @@
     "PFE"
    ],
    "tag": "Health AI",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "8321167595df",
+   "headline": "HP Names Emma Walmsley as New CEO, Ending Monthlong Search",
+   "summary": "HP Inc. named former GSK Plc chief executive officer Emma Walmsley as its new CEO, permanently filling the role after HP\u2019s Enrique Lores departed earlier this year.",
+   "url": "https://finnhub.io/api/news?id=1ac6c7e67a2b1564b7d6e41a45076648bf3d8b6f7954454afdbd32a630f59d28",
+   "source": "Yahoo",
+   "published": "2026-11-04T12:44:39+00:00",
+   "tickers": [
+    "GSK"
+   ],
+   "tag": "News",
    "sectors": [
     "pharma"
    ]
@@ -5837,6 +6100,21 @@
    "tag": "News",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "88b684363683",
+   "headline": "iShares Russell 2000 (IWM) Buys $1.9 Million More Jackson Financial on Nov. 2",
+   "summary": "The ETF added $285.0 million in net buys against $287.9 million in gross trading, lifting 1,880 positions and trimming just 3.",
+   "url": "https://finnhub.io/api/news?id=8f77dfe91e17b9cac379a693edc75af3216bd9e6b3767ce4a21243277c49b8c1",
+   "source": "Yahoo",
+   "published": "2026-11-04T11:04:59+00:00",
+   "tickers": [
+    "GKOS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
    ]
   },
   {
