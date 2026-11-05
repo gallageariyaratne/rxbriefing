@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-05T01:02:52.206084+00:00",
+ "updated": "2026-11-05T01:17:42.730355+00:00",
  "quotes": {
   "A": {
    "price": 177.17,
@@ -25,6 +25,10 @@
   "AMWL": {
    "price": 12.35,
    "change_pct": -3.06
+  },
+  "ARGX": {
+   "price": 931.38,
+   "change_pct": 3.36
   },
   "ARWR": {
    "price": 61.65,
@@ -125,6 +129,10 @@
   "GEHC": {
    "price": 85.81,
    "change_pct": 6.38
+  },
+  "GH": {
+   "price": 168.58,
+   "change_pct": -3.67
   },
   "GILD": {
    "price": 174.48,
@@ -313,14 +321,6 @@
   "THC": {
    "price": 292.25,
    "change_pct": 9.58
-  },
-  "TMO": {
-   "price": 706.16,
-   "change_pct": 1.12
-  },
-  "TWST": {
-   "price": 142.58,
-   "change_pct": 1.63
   }
  },
  "tickers": {
@@ -938,6 +938,51 @@
  },
  "stories": [
   {
+   "id": "c4decfa33898",
+   "headline": "Viemed Healthcare, Inc. (VMD) Lags Q3 Earnings and Revenue Estimates",
+   "summary": "Viemed Healthcare (VMD) delivered earnings and revenue surprises of -8.33% and -0.13%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=79fa8df591884d0dc19cb8cd990a8cecde5da56b14f6b4a00d0f4526d9768760",
+   "source": "Yahoo",
+   "published": "2026-11-04T23:45:09+00:00",
+   "tickers": [
+    "MDT"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "3be2b5a2a136",
+   "headline": "McKesson (NYSE:MCK) Posts Q2 EPS Beat, In-Line Revenue, and Raises Outlook",
+   "summary": "McKesson beat Q2 EPS estimates, matched revenue, and raised FY adjusted EPS guidance despite a flat after-hours reaction following a strong recent rally.",
+   "url": "https://finnhub.io/api/news?id=1828fbc103628dbe2a4434947b273e02aa2487e999f1af4ca9671cc64d200992",
+   "source": "ChartMill",
+   "published": "2026-11-04T23:35:19+00:00",
+   "tickers": [
+    "MCK"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
+  {
+   "id": "d01f3d7d4ef7",
+   "headline": "McKesson\u2019s (NYSE:MCK) Q3 CY2026 adjusted EPS top estimates",
+   "summary": "Healthcare distributor and services company McKesson (NYSE:MCK) beat Wall Street\u2019s revenue expectations in calendar Q3 2026 (fiscal Q2 2027), with revenue up 7.6% year on year to $111 billion. Its non-GAAP profit of $11.68 per share was\u2026",
+   "url": "https://finnhub.io/api/news?id=141f454024a199f0f6522a9041ab7b2cef6b8a24c43e81fe014593b41720ca9c",
+   "source": "Yahoo",
+   "published": "2026-11-04T23:35:11+00:00",
+   "tickers": [
+    "MCK"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
+  {
    "id": "5aec26a7698d",
    "headline": "Where Does Agilent Technologies (A) Value Sit After Proscia?",
    "summary": "Agilent Technologies has delivered strong gains over the past few years, and the question now is whether its current US$177.17 share price lines up with the cash the business is expected to generate. With the stock moving alongside a\u2026",
@@ -962,6 +1007,21 @@
    "tickers": [
     "CLOV",
     "UNH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "6ed76104e85f",
+   "headline": "Myriad Genetics Q3 Earnings Call Highlights",
+   "summary": "Myriad Genetics (NASDAQ:MYGN) reported third-quarter revenue of $202.7 million, down 1% from a year earlier, as growth in cancer and mental health testing was offset by a decline in its prenatal business. The company raised its full-year\u2026",
+   "url": "https://finnhub.io/api/news?id=148e808865515734268eb5c22a2ce6e35530a00508695cd22d0ad8f69c5de578",
+   "source": "Yahoo",
+   "published": "2026-11-04T23:14:30+00:00",
+   "tickers": [
+    "LH"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -1030,7 +1090,8 @@
     "AMGN",
     "BMY",
     "MRK",
-    "PFE"
+    "PFE",
+    "REGN"
    ],
    "tag": "News",
    "sectors": [
@@ -1143,6 +1204,21 @@
    ]
   },
   {
+   "id": "e1120eaea5a9",
+   "headline": "Here's What Key Metrics Tell Us About McKesson (MCK) Q2 Earnings",
+   "summary": "The headline numbers for McKesson (MCK) give insight into how the company performed in the quarter ended September 2026, but it may be worthwhile to compare some of its key metrics to Wall Street estimates and the year-ago actuals.",
+   "url": "https://finnhub.io/api/news?id=5fd8763439e2b5985b167760608e8f4078eda7916417e4f6ddd66f6a6ac41524",
+   "source": "Yahoo",
+   "published": "2026-11-04T22:00:02+00:00",
+   "tickers": [
+    "MCK"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
+  {
    "id": "822d5bcb5853",
    "headline": "Grail Comes Up Short, Reporting Light Sales Of Its Cancer-Detecting Blood Test",
    "summary": "Grail stock took a mighty hit late Wednesday after the DNA-testing outfit reported light third-quarter sales.",
@@ -1206,6 +1282,36 @@
    ]
   },
   {
+   "id": "607cb2dade8d",
+   "headline": "McKesson (MCK) Beats Q2 Earnings and Revenue Estimates",
+   "summary": "McKesson (MCK) delivered earnings and revenue surprises of +9.26% and +0.77%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=ef2f12a79a4c57b8bd46758334f5a9b35245233df37f5560e186d02c867fa83d",
+   "source": "Yahoo",
+   "published": "2026-11-04T21:50:07+00:00",
+   "tickers": [
+    "MCK"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
+  {
+   "id": "233470b377d2",
+   "headline": "Best Biotech Stocks to Buy Now as AI Stocks Tank: ARGX",
+   "summary": "Investors should consider buying resurgent healthcare and biotech stocks amid the AI selloff. Today, we are digging into why it might be time to buy biopharmaceutical stock Argenx (ARGX).",
+   "url": "https://finnhub.io/api/news?id=5e530af87d617b9a2114d0c04a477c9c1c1f8ed493a984b05733e283a171ac6b",
+   "source": "Yahoo",
+   "published": "2026-11-04T21:42:00+00:00",
+   "tickers": [
+    "ARGX"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "4637f3ec8953",
    "headline": "Will Beauty and Wellness Have More Space to Shine in a Revamped CVS?",
    "summary": "As the drugstore giant prepares to decouple its retail pharmacy and health care businesses, industry analysts assess the impact on beauty.",
@@ -1250,6 +1356,21 @@
    "tag": "Earnings",
    "sectors": [
     "pharmacy"
+   ]
+  },
+  {
+   "id": "f4d3de2a0656",
+   "headline": "Novo Nordisk Stock Jumped After Earnings \u2014 But Its CEO Won't Give 2027 Guidance. Here's What Investors Should Know",
+   "summary": "The Wegovy maker raised its outlook again and the stock jumped. But its CEO refused to forecast next year, and handed investors six clues instead.",
+   "url": "https://finnhub.io/api/news?id=0baee1ca3894cbc76a994ac0c366fde6d20a0d5d30030fd05127e3c6e23dca00",
+   "source": "Yahoo",
+   "published": "2026-11-04T21:21:48+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1299,6 +1420,21 @@
    ]
   },
   {
+   "id": "134835fe54de",
+   "headline": "Novo Surges 5% After Walloping Expectations On The Back Of Its GLP-1 Drugs",
+   "summary": "Novo stock popped early Wednesday on better-than-expected third-quarter sales and profit thanks to resounding beats from its GLP-1 drugs.",
+   "url": "https://finnhub.io/api/news?id=6e7f9224495a46b820cfc9c908b058ed2e1e7b502f1183c10c327d91fcfc670a",
+   "source": "Yahoo",
+   "published": "2026-11-04T21:17:22+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "01f528ed577e",
    "headline": "STAT+: Pharma critic Bernie Sanders is set to hold major sway over FDA funding bill",
    "summary": "Sanders could use his role in crafting the bill to push for reforms.",
@@ -1308,6 +1444,21 @@
    "tickers": [],
    "tag": "FDA",
    "sectors": []
+  },
+  {
+   "id": "812251a9eb21",
+   "headline": "Will Raised Outlook Change Novo Nordisk Stock Narrative",
+   "summary": "Novo Nordisk reported third quarter 2026 sales of DKK 79,195 million and net income of DKK 16,740 million, raised its full year sales and profit outlook, and cited strong demand for GLP 1 obesity and diabetes treatments, especially the\u2026",
+   "url": "https://finnhub.io/api/news?id=25e0f913ab4a0c54ef0bd7f950cee1068401764f8036efd475f1d73dad11a644",
+   "source": "Yahoo",
+   "published": "2026-11-04T21:16:44+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "ad2c3cde19ee",
@@ -1414,6 +1565,37 @@
    "tag": "Earnings",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "4fa18aa4e6b2",
+   "headline": "Cytokinetics (CYTK) Reports Q3 Loss, Beats Revenue Estimates",
+   "summary": "Cytokinetics (CYTK) delivered earnings and revenue surprises of +8.67% and +10.57%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=409b8fd70f2958d20d304cb2af72457f159ac54e480022b831c2804146f25fc8",
+   "source": "Yahoo",
+   "published": "2026-11-04T21:10:02+00:00",
+   "tickers": [
+    "CYTK",
+    "GH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "e5cdf0919053",
+   "headline": "McKesson Reports Fiscal 2027 Second Quarter Results and Raises Full Year Adjusted EPS Guidance",
+   "summary": "IRVING, Texas, November 04, 2026--McKesson Corporation (NYSE: MCK) has released its fiscal 2027 second quarter financial results. Results can be accessed on McKesson\u2019s Investor Relations website at\u2026",
+   "url": "https://finnhub.io/api/news?id=00189ce3faed7dc1ebbb226dab2b436f810533015720067c00873cb1784a1bde",
+   "source": "Yahoo",
+   "published": "2026-11-04T21:10:00+00:00",
+   "tickers": [
+    "MCK"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharmacy"
    ]
   },
   {
@@ -1651,6 +1833,7 @@
    "published": "2026-11-04T20:06:08+00:00",
    "tickers": [
     "CNC",
+    "HCA",
     "ZBH"
    ],
    "tag": "News",
@@ -1710,6 +1893,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "d47bc9eed9a9",
+   "headline": "Novo hires new CFO as Wegovy pill hits more markets",
+   "summary": "By the end of Q3, the Denmark-based pharmaceutical company said it had rolled out the pill form of its weight-loss drug in eight countries.",
+   "url": "https://finnhub.io/api/news?id=904d1ee9b4b68e095a58f7469501f59be001ebc1027eb9fff5cebeabb3c926c0",
+   "source": "Yahoo",
+   "published": "2026-11-04T19:18:32+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "aae3f3652c1b",
@@ -1822,6 +2020,21 @@
    "tag": "Earnings",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "dc4af1f78945",
+   "headline": "Novo Nordisk AS (NVO) (Q3 2026) Earnings Call Highlights: Obesity Sales Surge 22% as Wegovy ...",
+   "summary": "Novo Nordisk AS (NVO) returned to growth with adjusted sales up 4% and operating profit up 27%, prompting an upward revision of its full-year 2026 outlook.",
+   "url": "https://finnhub.io/api/news?id=c4291869aa737ba62126d04b9b67fb39664afa97066bb961f8700d51637912d9",
+   "source": "Yahoo",
+   "published": "2026-11-04T19:07:19+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1972,6 +2185,21 @@
    "sectors": []
   },
   {
+   "id": "3c76dcdd66ac",
+   "headline": "Novo Nordisk (NVO) Q3 2026 Earnings Call Transcript",
+   "summary": "Wegovy pill uptake and CagriSema trial results shape the growth recovery story.",
+   "url": "https://finnhub.io/api/news?id=ce631b5671b3f2ef586d89af45d5159416905c48251ebbcb5173aa5616e08cb1",
+   "source": "Yahoo",
+   "published": "2026-11-04T18:46:29+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "90523f41eded",
    "headline": "Bruker Corporation (BRKR) Q3 2026 Earnings Call Transcript",
    "summary": "Bruker Corporation (BRKR) Q3 2026 Earnings Call November 4, 2026 8:30 AM ESTCompany ParticipantsJoe KostkaFrank Laukien - Chairman, CEO &...",
@@ -1984,6 +2212,21 @@
    "tag": "Earnings",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "c6eadfb49510",
+   "headline": "Novo Nordisk Stocks Rise 5.65% While Higher Guidance Meets Diverging Profit Measures",
+   "summary": "Wegovy pill growth strengthens the outlook, while impairments complicate the earnings comparison.",
+   "url": "https://finnhub.io/api/news?id=0487083d36ae553e0edc48635126a5e95b1c51222f8881ea83c4b9fdf9cabfb1",
+   "source": "Yahoo",
+   "published": "2026-11-04T18:36:20+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -2010,7 +2253,8 @@
    "published": "2026-11-04T18:31:22+00:00",
    "tickers": [
     "CVS",
-    "MRNA"
+    "MRNA",
+    "NVO"
    ],
    "tag": "News",
    "sectors": [
@@ -2224,7 +2468,8 @@
    "source": "Yahoo",
    "published": "2026-11-04T17:49:16+00:00",
    "tickers": [
-    "CVS"
+    "CVS",
+    "NVO"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -2239,7 +2484,8 @@
    "source": "Yahoo",
    "published": "2026-11-04T17:47:46+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -2272,6 +2518,7 @@
    "source": "ChartMill",
    "published": "2026-11-04T17:36:07+00:00",
    "tickers": [
+    "HCA",
     "UHS",
     "ZBH"
    ],
@@ -2339,6 +2586,21 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "28ce104c2d09",
+   "headline": "Wegovy CEO Reveals a Surprise in Weight-Loss Drug Race",
+   "summary": "Wegovy pill sales beat forecasts and helped Novo raise guidance again.",
+   "url": "https://finnhub.io/api/news?id=180d1451e3350a8f07f8d521474e1772e997972f3725e6b154c591ff89023809",
+   "source": "Yahoo",
+   "published": "2026-11-04T17:22:14+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -2529,6 +2791,21 @@
    ]
   },
   {
+   "id": "260f291dfa7a",
+   "headline": "European Stocks Rally in Wednesday Trading Following US Elections; Euro Area Inflation Rises",
+   "summary": "The European stock markets surged in Wednesday trading following US elections that saw the Democrats",
+   "url": "https://finnhub.io/api/news?id=266128e30100df8131105bf2adcd52388612249cd4750d2f52f17049f13a4440",
+   "source": "Yahoo",
+   "published": "2026-11-04T17:00:19+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "7e4c63ae6985",
    "headline": "CNS Summit Announces Sanofi as No. 1 in the 2026 Digital Innovation Index",
    "summary": "BOSTON, Nov. 4, 2026 /PRNewswire/ -- Sanofi ranked first in the 2026 CNS Summit Digital Innovation Index, developed in collaboration with IDEA Pharma, a division of SAI MedPartners, placing in the top three in all three categories. The\u2026",
@@ -2553,7 +2830,8 @@
    "tickers": [
     "BMY",
     "JNJ",
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "News",
    "sectors": [
@@ -2800,7 +3078,8 @@
    "source": "Yahoo",
    "published": "2026-11-04T16:19:56+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -2853,6 +3132,21 @@
    ]
   },
   {
+   "id": "eef0884e3395",
+   "headline": "European Equities Traded in the US as American Depositary Receipts Advance Sharply in Wednesday Trading",
+   "summary": "European equities traded in the US as American depositary receipts were tracking significantly highe",
+   "url": "https://finnhub.io/api/news?id=a7c95bd3d68a2e83222858580d2bf32ea026b4958500fd7fe39bf7c353763a03",
+   "source": "Yahoo",
+   "published": "2026-11-04T16:13:39+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "304151c6a495",
    "headline": "Philips settles with DOJ over recalled CPAP machines",
    "summary": "Philips will pay 288 million euros to settle an investigation related to its recall of millions of sleep and respiratory devices.",
@@ -2872,6 +3166,21 @@
    "published": "2026-11-04T16:13:00+00:00",
    "tickers": [
     "LLY"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "db466242601c",
+   "headline": "Novo gets much-needed lift as Wegovy pill tops Wall Street forecasts",
+   "summary": "The drug\u2019s third-quarter sales numbers came in well above consensus estimates, widening Novo\u2019s early edge over Eli Lilly in the latest battleground for weight loss medicines.",
+   "url": "https://finnhub.io/api/news?id=90c9c9805792b08f97e0073938509c3b8210372331a3eaee9f65fc41ae9a41b0",
+   "source": "Yahoo",
+   "published": "2026-11-04T16:13:00+00:00",
+   "tickers": [
+    "NVO"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -3207,6 +3516,7 @@
    "source": "ChartMill",
    "published": "2026-11-04T15:36:48+00:00",
    "tickers": [
+    "HCA",
     "ISRG",
     "ZBH"
    ],
@@ -3385,6 +3695,21 @@
     "PFE"
    ],
    "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "9dcc0acf9243",
+   "headline": "Wegovy pill launch 'exceeded our expectations': Novo Nordisk CEO",
+   "summary": "Novo Nordisk (NVO) CEO and president Mike Doustdar sits down Yahoo Finance Executive Editor Brian Sozzi to discuss the success that the pharmaceutical giant has seen in launching its Wegovy GLP-1 weight-loss pill.",
+   "url": "https://finnhub.io/api/news?id=dac59d05b43c5c6836f4a3f6783ff2f702382cecb8cb3519d11094e72bd466ab",
+   "source": "Yahoo",
+   "published": "2026-11-04T15:10:23+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "GLP-1",
    "sectors": [
     "pharma"
    ]
@@ -4667,6 +4992,21 @@
    ]
   },
   {
+   "id": "44c8f1b1e0b6",
+   "headline": "Countdown to Guardant Health (GH) Q3 Earnings: Wall Street Forecasts for Key Metrics",
+   "summary": "Evaluate the expected performance of Guardant Health (GH) for the quarter ended September 2026, looking beyond the conventional Wall Street top-and-bottom-line estimates and examining some of its key metrics for better insight.",
+   "url": "https://finnhub.io/api/news?id=8cce3c757f6137fcdb0df04f2bcb416316f810725efe4e749b1254620bca6095",
+   "source": "Yahoo",
+   "published": "2026-11-04T13:15:04+00:00",
+   "tickers": [
+    "GH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "1a5c1a40c855",
    "headline": "Insulet Corporation (PODD) Q3 2026 Earnings Call Transcript",
    "summary": "Insulet Corporation (PODD) Q3 2026 Earnings Call November 4, 2026 8:00 AM ESTCompany ParticipantsClare Trachtman - Vice President of Investor...",
@@ -4945,6 +5285,21 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "1e425a982adc",
+   "headline": "Intellia Therapeutics Completes Enrollment in Phase 3 MAGNITUDE-2 Trial of Nexiguran Ziclumeran (Nex-z) for Patients with Hereditary Transthyretin Amyloidosis with Polyneuropathy (ATTRv-PN)",
+   "summary": "CAMBRIDGE, Mass., Nov. 04, 2026 (GLOBE NEWSWIRE) -- Intellia Therapeutics, Inc. (Nasdaq: NTLA), a leading biopharmaceutical company focused on revolutionizing medicine leveraging CRISPR gene editing and other core technologies, today\u2026",
+   "url": "https://finnhub.io/api/news?id=bed7cd62608c87fb6c43a06f61f82170f49d71dace2be8809b652d5dad0fd374",
+   "source": "Yahoo",
+   "published": "2026-11-04T13:00:00+00:00",
+   "tickers": [
+    "NTLA"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -63546,22 +63901,6 @@
     "JNJ"
    ],
    "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "98736aaa3a9b",
-   "headline": "ESMO: BMS\u2019 Massacesi hails \u2018very promising\u2019 data for BioNTech-partnered PD-L1xVEGF-A drug",
-   "summary": "Bristol Myers Squibb Chief Medical Officer Cristian Massacesi, M.D., has told Fierce that the latest data for its BioNTech-partnered PD-L1xVEGF-A drug are \u201cvery promising,\u201d as phase 3 ambitions ramp up.v",
-   "url": "https://www.fiercebiotech.com/biotech/esmo-bms-massacesi-hails-very-promising-data-biontech-partnered-pd-l1xvegf-drug",
-   "source": "Fierce Biotech",
-   "published": "2026-10-26T01:15:21.306481+00:00",
-   "tickers": [
-    "BMY",
-    "BNTX"
-   ],
-   "tag": "Clinical",
    "sectors": [
     "pharma"
    ]
