@@ -1,19 +1,7 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-05T12:17:43.430241+00:00",
+ "updated": "2026-11-05T12:32:39.350675+00:00",
  "quotes": {
-  "A": {
-   "price": 177.17,
-   "change_pct": 0.97
-  },
-  "ABBV": {
-   "price": 294.83,
-   "change_pct": 3.09
-  },
-  "ABT": {
-   "price": 115.51,
-   "change_pct": 5.58
-  },
   "ACAD": {
    "price": 21.47,
    "change_pct": 4.38
@@ -41,10 +29,6 @@
   "ARGX": {
    "price": 931.38,
    "change_pct": 3.36
-  },
-  "ARWR": {
-   "price": 61.65,
-   "change_pct": 3.56
   },
   "AXSM": {
    "price": 137,
@@ -321,6 +305,10 @@
   "RMD": {
    "price": 240.51,
    "change_pct": 5.91
+  },
+  "ROIV": {
+   "price": 38.23,
+   "change_pct": 6.08
   }
  },
  "tickers": {
@@ -1005,8 +993,8 @@
    "source": "PR Newswire",
    "published": "2026-11-05T12:00:00+00:00",
    "tickers": [
-    "NVS",
-    "BMRN"
+    "BMRN",
+    "NVS"
    ],
    "tag": "M&A",
    "sectors": [
@@ -1022,13 +1010,43 @@
    "source": "PR Newswire",
    "published": "2026-11-05T12:00:00+00:00",
    "tickers": [
-    "NVS",
-    "BMRN"
+    "BMRN",
+    "NVS"
    ],
    "tag": "M&A",
    "sectors": [
     "biotech",
     "pharma"
+   ]
+  },
+  {
+   "id": "6a8e10764988",
+   "headline": "Monte Rosa Therapeutics Announces Third Quarter 2026 Financial Results and Business Updates",
+   "summary": "Positive GFORCE-1 Phase 1 results showed MRT-8102 reduced key pathogenic drivers of atherosclerotic cardiovascular disease (ASCVD) to levels comparable to healthy volunteers across all three dose levels, with treatment-emergent adverse\u2026",
+   "url": "https://finnhub.io/api/news?id=685beb4a6229c14e598d53026c8b2e9e0adee603f3c6693bbf9f1871a1e08763",
+   "source": "Yahoo",
+   "published": "2026-11-05T12:00:00+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "86974455208b",
+   "headline": "Dow Jones Futures Rise As Techs Fall; Apple, Microsoft, Amazon Flash Buy Signals",
+   "summary": "The Dow is still leading the postelection rally. Stocks from many sectors flash buy signals, but avoid this area.",
+   "url": "https://finnhub.io/api/news?id=22d3420505da267288919568aa0918efb5652b523890bdbdbe088df0977a206f",
+   "source": "Yahoo",
+   "published": "2026-11-05T11:53:56+00:00",
+   "tickers": [
+    "THC"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -1148,6 +1166,21 @@
    ]
   },
   {
+   "id": "f44c880e6ac0",
+   "headline": "Should Record Revenue Require Action From United Therapeutics Stock Investors?",
+   "summary": "United Therapeutics reported Q3 2026 revenue of US$832.5 million compared with US$799.5 million a year earlier, while net income and earnings per share were lower year on year as the company increased spending and absorbed mixed product\u2026",
+   "url": "https://finnhub.io/api/news?id=0a7bec076886f1593685af9d620a7e73b962d11be75872d8ba26cc3c98920754",
+   "source": "Yahoo",
+   "published": "2026-11-05T11:10:43+00:00",
+   "tickers": [
+    "UTHR"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "cc8fef381f07",
    "headline": "Cigna: Q3 Earnings Snapshot",
    "summary": "(AP) \u2014 The Cigna Group (CI) on Thursday reported third-quarter net income of $1.On a per-share basis, the Bloomfield, Connecticut-based company said it had profit of $5.",
@@ -1185,11 +1218,42 @@
    "source": "Yahoo",
    "published": "2026-11-05T11:05:02+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "JNJ"
    ],
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "e6dbe9e76528",
+   "headline": "iShares S&P Mid-Cap 400 Growth (IJK) Buys $58 Million More Glaukos on Tuesday",
+   "summary": "The fund bought $58.0 million of Glaukos and exited Okta, with gross trades of $378.0 million against a net outflow of $1.3 million.",
+   "url": "https://finnhub.io/api/news?id=6c1fca1952283410b6367cf37d504d704f70da1a4cf5a8e87446f16c3f7a7fc4",
+   "source": "Yahoo",
+   "published": "2026-11-05T11:04:37+00:00",
+   "tickers": [
+    "UTHR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "e5bb3316d3b2",
+   "headline": "iShares Core S&P Mid-Cap (IJH) Adds Glaukos and TechnipFMC on Nov. 3",
+   "summary": "The fund bought $497.6 million of Glaukos and $5.5 million of TechnipFMC while exiting Okta, a $1.13 billion sale.",
+   "url": "https://finnhub.io/api/news?id=5fb1eb5a3394741128e6262ee8b889dcd066f935d94e92835526591b3f0159a4",
+   "source": "Yahoo",
+   "published": "2026-11-05T11:03:38+00:00",
+   "tickers": [
+    "UTHR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -1238,6 +1302,21 @@
    ]
   },
   {
+   "id": "f4eff1f21f55",
+   "headline": "Oscar Health Announces Financial Results for Third Quarter 2026 and Raises Full Year 2026 Outlook",
+   "summary": "NEW YORK, November 05, 2026--Oscar Health announced its financial results for the third quarter ended September 30, 2026, and updates to its full year 2026 outlook.",
+   "url": "https://finnhub.io/api/news?id=c11c05d21849019b4eb2977fc15de9ea3f0a7e0630a3ed8a1b56c50f30b0e4dd",
+   "source": "Yahoo",
+   "published": "2026-11-05T11:00:00+00:00",
+   "tickers": [
+    "OSCR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "3997dece5203",
    "headline": "Is Regeneron Stock Riskier Than It Looks?",
    "summary": "For questions about this article or underlying research, email help@trefis.com.",
@@ -1246,7 +1325,8 @@
    "published": "2026-11-05T10:36:41+00:00",
    "tickers": [
     "ABBV",
-    "AMGN"
+    "AMGN",
+    "BMY"
    ],
    "tag": "News",
    "sectors": [
@@ -1278,7 +1358,9 @@
    "source": "Yahoo",
    "published": "2026-11-05T10:35:37+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "BMY",
+    "JNJ"
    ],
    "tag": "News",
    "sectors": [
@@ -1301,6 +1383,21 @@
    ]
   },
   {
+   "id": "f5da2d6c6035",
+   "headline": "Finshape launches Agentic DBOS: agentic AI already supporting digital banking projects",
+   "summary": "Finshape has launched Agentic DBOS (ADBOS), adding agentic AI to its established Digital Bank Operating System (DBOS). The solution helps banks analyse, design, develop, test and launch digital services faster, while helping them\u2026",
+   "url": "https://finnhub.io/api/news?id=54126e6ea4db90c5d611c1de17fe8c8e131c58510dc4d70e9e9777ef95457e81",
+   "source": "Yahoo",
+   "published": "2026-11-05T10:18:00+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "02149fe235a4",
    "headline": "Cloudbreak posts phase 3 eye disease win amid IPO storm",
    "summary": "A phase 3 study of Cloudbreak Pharma\u2019s eye disease drug candidate has hit its co-primary endpoints, boosting a biotech embroiled in an IPO investigation.",
@@ -1319,7 +1416,8 @@
    "source": "Yahoo",
    "published": "2026-11-05T10:15:00+00:00",
    "tickers": [
-    "HCA"
+    "HCA",
+    "THC"
    ],
    "tag": "Policy",
    "sectors": [
@@ -1695,6 +1793,36 @@
    ]
   },
   {
+   "id": "bb29c2bd3813",
+   "headline": "MARKETS LIVE: Graphite deal, helium programme and pharma agreement feature in small-cap roundup",
+   "summary": "FTSE 100 up 90 points at 10,920 Index above February record close Gold miners lead gains BT extends pension-led rally 11:00 am GMT: Small-cap roundup Small-cap companies delivered a mix of funding, operational progress and commercial\u2026",
+   "url": "https://finnhub.io/api/news?id=f0a277cf101f652d503bf9876484ba94f269dfc1185f4c7259e5f818c03df83b",
+   "source": "Yahoo",
+   "published": "2026-11-05T07:00:00+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "16a46ef30ae9",
+   "headline": "Suominen Corporation\u2019s Interim Report for January 1\u2013September 30, 2026: Continued performance improvement in the third quarter",
+   "summary": "Suominen Corporation\u2019s Interim Report on November 5, 2026, at 9:00 a.m. (EET) Suominen Corporation\u2019s Half-Year Financial Report for January 1\u2013June 30, 2026: Continued performance improvement in the third quarter In this financial report,\u2026",
+   "url": "https://finnhub.io/api/news?id=d2b505c9c3c9d14468c3ca7b517b99222ff5bab1fc6a1fadc0ff6dd23eeb7071",
+   "source": "Yahoo",
+   "published": "2026-11-05T07:00:00+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "4a682e9f6aec",
    "headline": "Best Value Stocks to Buy for November 5th",
    "summary": "HTO, and OMCL made it to the Zacks Rank #1 (Strong Buy) value stocks list on November 5, 2026.",
@@ -1722,6 +1850,21 @@
    "tag": "Earnings",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "e2786e5fa6e7",
+   "headline": "Growth in the Q3 Revenue, Reaching CHF 310.2 Million, an Increase of 10.2% at Constant Exchange Rates",
+   "summary": "Ad hoc announcement pursuant to Art. 53 LRDownload PDF - ENLausanne, Switzerland--(Newsfile Corp. - November 5, 2026) - Ad hoc announcement pursuant to Article 53 of the SIX Exchange Regulation Listing Rules Growth in the Q3 revenue1),\u2026",
+   "url": "https://finnhub.io/api/news?id=6c732e984f41a1889d5964d621cb7782c7efe819e8d04c09034b829513768175",
+   "source": "Yahoo",
+   "published": "2026-11-05T06:17:00+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1810,6 +1953,21 @@
     "AZN"
    ],
    "tag": "Policy",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "d9c9f5beefe9",
+   "headline": "Q3 2026 Update: Tecan reports acceleration of sales growth in Q3 and raises full-year 2026 outlook",
+   "summary": "Ad hoc announcement pursuant to Article 53 of the SIX Exchange Regulation Listing Rules Q3 2026 Update: Tecan reports acceleration of sales growth in Q3 and raises full-year 2026 outlook M\u00e4nnedorf, Switzerland, November 5, 2026 \u2013 The\u2026",
+   "url": "https://finnhub.io/api/news?id=b88c0097978789beba626144ca0828901d02b5b180ea2116c2b9dbd21a93c335",
+   "source": "Yahoo",
+   "published": "2026-11-05T06:00:00+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "Earnings",
    "sectors": [
     "pharma"
    ]
@@ -2056,6 +2214,21 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "ba1e167dee4e",
+   "headline": "RaySearch Laboratories AB (RSLBF) (Q3 2026) Earnings Call Highlights: Record Sales and 18% ...",
+   "summary": "RaySearch Laboratories AB (RSLBF) posted record Q3 2026 sales of SEK 394 million with license orders up 65%, though a softer license sales mix and negative free cash flow tempered the quarter.",
+   "url": "https://finnhub.io/api/news?id=0a32ca4f7df1ace41f23baa9d978f5bcf62569c3ca29980600eeefd6a0d29583",
+   "source": "Yahoo",
+   "published": "2026-11-05T03:13:01+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -64644,136 +64817,6 @@
    "sectors": [
     "pharma"
    ]
-  },
-  {
-   "id": "14527b7203ad",
-   "headline": "If Intuitive Surgical Stock Looks Expensive, You Need To Read This",
-   "summary": "For questions about this article or underlying research, email help@trefis.com.",
-   "url": "https://finnhub.io/api/news?id=c2c027bdd91422f716f73eb20d8fdfb32c311c7be6e75c0d3d20be0c69f5adcd",
-   "source": "Yahoo",
-   "published": "2026-10-26T12:30:52+00:00",
-   "tickers": [
-    "GMED",
-    "ISRG",
-    "JNJ",
-    "MDT",
-    "SYK",
-    "ZBH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "d851d3f5237b",
-   "headline": "Can Pfizer Stock Get Back To Where It Was?",
-   "summary": "For questions about this article or underlying research, email help@trefis.com.",
-   "url": "https://finnhub.io/api/news?id=4a2beb3fb1bc97e921004e47a070a24f48a39deeb443732a83793809defbea8e",
-   "source": "Yahoo",
-   "published": "2026-10-26T12:30:51+00:00",
-   "tickers": [
-    "ABBV",
-    "BMY",
-    "JNJ",
-    "LLY",
-    "MRK",
-    "PFE"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "e4e7bc175840",
-   "headline": "Neurocrine Biosciences Presents New Analysis Establishing Benchmark for Clinically Meaningful Change in Overall Health Reported by Patients with Tardive Dyskinesia",
-   "summary": "Neurocrine Biosciences, Inc. (Nasdaq: NBIX) today announced new research that helps define clinically meaningful improvement in overall health reported by people living with tardive dyskinesia who were treated with INGREZZA\u00ae (valbenazine)\u2026",
-   "url": "https://finnhub.io/api/news?id=963d4dbd2cbcfabc15214aae3fdf7df2f941267f2763f6187032d232fa035f23",
-   "source": "Yahoo",
-   "published": "2026-10-26T12:30:00+00:00",
-   "tickers": [
-    "NBIX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "813abd87a35a",
-   "headline": "Schr\u00f6dinger Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
-   "summary": "NEW YORK, October 26, 2026--Schr\u00f6dinger, Inc. (Nasdaq: SDGR) today reported that on October 21, 2026, the company granted restricted stock units (RSUs) with respect to 5,716 shares of the company\u2019s common stock to five newly hired\u2026",
-   "url": "https://finnhub.io/api/news?id=3914546f0911e221e0ead448253fab0869946c8ad37279a85258bf717eac8bf6",
-   "source": "Yahoo",
-   "published": "2026-10-26T12:30:00+00:00",
-   "tickers": [
-    "SDGR"
-   ],
-   "tag": "News",
-   "sectors": [
-    "healthai"
-   ]
-  },
-  {
-   "id": "12c91091589f",
-   "headline": "LLY vs. MRK: Which Stock Offers the More Compelling Investment Case?",
-   "summary": "Lilly and Merck boast blockbuster drugs, expanding pipelines and new growth opportunities but pricing pressure, patent risks & competition shape their outlooks.",
-   "url": "https://finnhub.io/api/news?id=7fac3686738df5b8114999b4b64962805e303e362758785aeda2fcaa79e64eff",
-   "source": "Yahoo",
-   "published": "2026-10-26T12:30:00+00:00",
-   "tickers": [
-    "LLY",
-    "MRK",
-    "MRNA",
-    "NVO"
-   ],
-   "tag": "Legal",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "3b998f83d2fa",
-   "headline": "Tempus Receives IVDR Certification for xR RNA Sequencing for Solid Tumor Profiling",
-   "summary": "CHICAGO, October 26, 2026--Tempus AI, Inc. (NASDAQ: TEM) today announced that its xR assay has received certification under the European Union\u2019s In Vitro Diagnostic Regulation (IVDR) as a Class C in vitro diagnostic device. The\u2026",
-   "url": "https://finnhub.io/api/news?id=89d4cc9284bcb0e7cfb99eb6f0dd4705aa2aab533f6737ac7bd120e58a2ac5b8",
-   "source": "Yahoo",
-   "published": "2026-10-26T12:30:00+00:00",
-   "tickers": [
-    "TEM"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "healthai"
-   ]
-  },
-  {
-   "id": "602d591f1b05",
-   "headline": "First Eagle U.S. Value Fund Q3 2026 Portfolio Review",
-   "summary": "The First Eagle U.S. Fund reported a 4.36% return for Q3 2026, outperforming the S&P 500. Read the full analysis for more details.",
-   "url": "https://finnhub.io/api/news?id=57e35b2bd284eb30a47293b8018e99be671d9e323f6d25cb064a537adbbe968a",
-   "source": "SeekingAlpha",
-   "published": "2026-10-26T12:30:00+00:00",
-   "tickers": [
-    "BDX",
-    "WAT"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "4b70680e37e9",
-   "headline": "Walmart taps startup General Medicine to expand Better Care Services",
-   "summary": "Walmart is teaming up with startup General Medicine to expand its Better Care Services, turning the digital healthcare platform into a more comprehensive healthcare marketplace.",
-   "url": "https://www.fiercehealthcare.com/health-tech/walmart-taps-startup-general-medicine-expand-better-care-services",
-   "source": "Fierce Healthcare",
-   "published": "2026-10-26T12:17:34.693890+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
   }
  ]
 }
