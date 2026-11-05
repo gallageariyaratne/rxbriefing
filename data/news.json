@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-05T07:32:31.128207+00:00",
+ "updated": "2026-11-05T07:47:46.828847+00:00",
  "quotes": {
   "A": {
    "price": 177.17,
@@ -314,13 +314,13 @@
    "price": 178.2,
    "change_pct": -0.04
   },
+  "ROIV": {
+   "price": 38.23,
+   "change_pct": 6.08
+  },
   "RVMD": {
    "price": 199.7,
    "change_pct": 2.82
-  },
-  "RXRX": {
-   "price": 3.88,
-   "change_pct": 5.43
   }
  },
  "tickers": {
@@ -938,6 +938,21 @@
  },
  "stories": [
   {
+   "id": "2177d182c6a0",
+   "headline": "Roivant Sciences (ROIV) Stock Looks Expensive Against Its Book Value",
+   "summary": "Roivant Sciences has seen its stock deliver significant gains in recent years, which naturally raises the question of whether the current share price still lines up with the value on its balance sheet. With the stock now reflecting years\u2026",
+   "url": "https://finnhub.io/api/news?id=e746ee3cc816cc5903e7fe01ccf4309b93c58b6992156414ffb4b32bff59d008",
+   "source": "Yahoo",
+   "published": "2026-11-05T06:13:48+00:00",
+   "tickers": [
+    "ROIV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "defd384e5195",
    "headline": "Insulet Stock What\u2019s Changed After Earnings Beat",
    "summary": "Insulet reported third quarter 2026 revenue of US$842 million and net income of US$141.1 million, with earnings per share of US$2.03 from continuing operations, alongside a US$1 billion share repurchase authorization running through 2028.\u2026",
@@ -1204,6 +1219,21 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "452d444ea80c",
+   "headline": "Polen 5Perspectives Growth Opportunities Q3 2026 Portfolio Review",
+   "summary": "During Q3 2026, Polen 5Perspectives Growth Opportunities Composite Portfolio returned -6.2% net of fees compared to the 0.5% return of the Russell 3000 Growth Index. Read more here.",
+   "url": "https://finnhub.io/api/news?id=c50f0d4a6a069a6f1f6b4775d3733aaf252a3fcc07838a7f97127bb4e4ba942e",
+   "source": "SeekingAlpha",
+   "published": "2026-11-05T02:00:00+00:00",
+   "tickers": [
+    "TWST"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -64864,21 +64894,6 @@
    "tag": "News",
    "sectors": [
     "medtech"
-   ]
-  },
-  {
-   "id": "f11941f58e90",
-   "headline": "ESMO: Bristol Myers CMO touts \u20185 out of 5\u2019 positive phase 3 trials for bispecific ADC iza-bren",
-   "summary": "Buoyed by a clean sweep of five positive phase 3 readouts in China, Bristol Myers\u2019 Chief Medical Officer Cristian Massacesi, M.D., is voicing growing confidence in the company's first-in-class bispecific ADC iza-bren, even as the New\u2026",
-   "url": "https://www.fiercepharma.com/pharma/bristol-myers-cmo-touts-5-out-5-positive-phase-3-trials-bispecific-adc-iza-bren",
-   "source": "Fierce Pharma",
-   "published": "2026-10-26T07:45:34.997171+00:00",
-   "tickers": [
-    "BMY"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
