@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-05T08:32:33.840806+00:00",
+ "updated": "2026-11-05T08:47:27.023910+00:00",
  "quotes": {
   "A": {
    "price": 177.17,
@@ -190,10 +190,6 @@
    "price": 417.42,
    "change_pct": -0.11
   },
-  "IDXX": {
-   "price": 698.55,
-   "change_pct": 3.94
-  },
   "ILMN": {
    "price": 226.54,
    "change_pct": -4.9
@@ -321,6 +317,10 @@
   "ROIV": {
    "price": 38.23,
    "change_pct": 6.08
+  },
+  "RVMD": {
+   "price": 199.7,
+   "change_pct": 2.82
   }
  },
  "tickers": {
@@ -964,6 +964,21 @@
    ]
   },
   {
+   "id": "08f3aac6ca54",
+   "headline": "Adaptive Biotechnologies Corp (ADPT) Q3 2026 Earnings Call Highlights: First Profitable Quarter ...",
+   "summary": "Adaptive Biotechnologies Corp (ADPT) posted $83.9 million in quarterly revenue, swung to positive adjusted EBITDA of $14.3 million, and raised full-year MRD guidance on strong ClonoSeq volume growth.",
+   "url": "https://finnhub.io/api/news?id=00d66f3e164856a0d17fecdc99e5cef385aaeac54ff6b23abbab1f1f69278350",
+   "source": "Yahoo",
+   "published": "2026-11-05T07:14:47+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "aae30595dd6c",
    "headline": "What Cencora (COR) Said on Its Q4 Earnings Call",
    "summary": "Cencora (NYSE:COR) reported higher fiscal fourth-quarter revenue and adjusted earnings as specialty drug sales and its acquisition of OneOncology contributed to growth. The company also introduced a new reporting structure that separates\u2026",
@@ -971,6 +986,7 @@
    "source": "Yahoo",
    "published": "2026-11-05T07:14:18+00:00",
    "tickers": [
+    "CAH",
     "COR"
    ],
    "tag": "M&A",
@@ -1260,7 +1276,8 @@
    "source": "SeekingAlpha",
    "published": "2026-11-05T02:52:27+00:00",
    "tickers": [
-    "RMD"
+    "RMD",
+    "ZTS"
    ],
    "tag": "News",
    "sectors": [
@@ -64842,66 +64859,6 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "255dd59e794d",
-   "headline": "Cantargia Appoints Dr. Monic Stuart as Chief Medical Officer",
-   "summary": "LUND, SE / ACCESS Newswire / October 26, 2026 / AB (publ)(STO:CANTA), a clinical-stage biotechnology company focused on antibody-based therapeutics targeting IL1RAP, today announced the appointment of Monic Stuart, MD, PhD, MBA as Chief\u2026",
-   "url": "https://finnhub.io/api/news?id=87f2b91a5b1e60466c7a916cd1214e91bfe37a7d4252960d4cb7639279dd7364",
-   "source": "Yahoo",
-   "published": "2026-10-26T08:45:00+00:00",
-   "tickers": [
-    "RVMD"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "b76cd0028a64",
-   "headline": "AstraZeneca: Stomach Cancer Drug With $3 to $5 Billion Sales Potential, and One Significant Wrinkle",
-   "summary": "AstraZeneca (AZN) said on Sunday, October 25, that its Claudin 18. 2 antibody-drug conjugate sonesitatug vedotin (sone-ve) doubled median survival in stomach cancer patients who had already tried at least two treatments: 10.",
-   "url": "https://finnhub.io/api/news?id=27f22fa71d302ae0b32cd5b71a06691f8e4e524b3f4146e22e3fd25656d8571b",
-   "source": "Yahoo",
-   "published": "2026-10-26T08:35:57+00:00",
-   "tickers": [
-    "AZN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "c7b8e841a582",
-   "headline": "Tempus AI's XR Assay Receives EU Certification As A Class C In Vitro Diagnostic Device",
-   "summary": "The certification covers Tempus\u2019 quality management system for \"next-generation sequencing devices for cancer genomic profiling to support clinical management.\"xR detects gene rearrangements and specific splice",
-   "url": "https://finnhub.io/api/news?id=b5a6215211711967c935180dde7e85425e4197a6c0e0f8a1b124a561074f565e",
-   "source": "Benzinga",
-   "published": "2026-10-26T08:35:18+00:00",
-   "tickers": [
-    "TEM"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "healthai"
-   ]
-  },
-  {
-   "id": "61ecd0fd46de",
-   "headline": "Neurocrine Biosciences Identifies Clinically Meaningful Health Improvement Threshold For INGREZZA In Tardive Dyskinesia Patients",
-   "summary": "New analysis establishes a 6-point increase on the EQ Visual Analogue Scale as a threshold for clinically meaningful change in overall health ratings in patients with tardive dyskinesia treated with",
-   "url": "https://finnhub.io/api/news?id=efd3cf8844b279252eade61ab54cb617a43a371f798d6b1e3ccadb2e8487c641",
-   "source": "Benzinga",
-   "published": "2026-10-26T08:34:33+00:00",
-   "tickers": [
-    "NBIX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
    ]
   }
  ]
