@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-05T10:32:40.973807+00:00",
+ "updated": "2026-11-05T10:47:39.192655+00:00",
  "quotes": {
   "A": {
    "price": 177.17,
@@ -17,6 +17,10 @@
   "ACAD": {
    "price": 21.47,
    "change_pct": 4.38
+  },
+  "ALGN": {
+   "price": 164.9,
+   "change_pct": 8.79
   },
   "ALHC": {
    "price": 8.14,
@@ -274,6 +278,10 @@
    "price": 164.98,
    "change_pct": 3.59
   },
+  "OMCL": {
+   "price": 39.41,
+   "change_pct": 11.14
+  },
   "OPCH": {
    "price": 31.65,
    "change_pct": -0.38
@@ -313,14 +321,6 @@
   "RMD": {
    "price": 240.51,
    "change_pct": 5.91
-  },
-  "ROIV": {
-   "price": 38.23,
-   "change_pct": 6.08
-  },
-  "RVMD": {
-   "price": 199.7,
-   "change_pct": 2.82
   }
  },
  "tickers": {
@@ -938,6 +938,21 @@
  },
  "stories": [
   {
+   "id": "e7a9e93a12cf",
+   "headline": "ALIGN TECHNOLOGY INC (NASDAQ:ALGN) Screens as an Undervalued Value Stock",
+   "summary": "Align Technology looks like a decent value stock: low P/E, no debt, strong profitability, and modest growth, but margin and liquidity risks persist.",
+   "url": "https://finnhub.io/api/news?id=c223ce6f96546dc090240f21563ad9c79d70cd652b81fa3cc85dab80ab80b1ea",
+   "source": "ChartMill",
+   "published": "2026-11-05T10:21:15+00:00",
+   "tickers": [
+    "ALGN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "02149fe235a4",
    "headline": "Cloudbreak posts phase 3 eye disease win amid IPO storm",
    "summary": "A phase 3 study of Cloudbreak Pharma\u2019s eye disease drug candidate has hit its co-primary endpoints, boosting a biotech embroiled in an IPO investigation.",
@@ -1019,6 +1034,51 @@
    "sectors": []
   },
   {
+   "id": "641bb04addbe",
+   "headline": "Is Alzheimer\u2019s Data Altering The Investment Case For Biogen (BIIB)?",
+   "summary": "Biogen recently shared new clinical, biomarker and safety data on its Alzheimer\u2019s portfolio at the CTAD 2026 conference, including extended Phase 2 CELIA results for diranersen and long term analyses for lecanemab. The breadth of\u2026",
+   "url": "https://finnhub.io/api/news?id=5b78cc2529b52fb4719df552569c1aa0c2b9673a00594527bd0eee6ead46649c",
+   "source": "Yahoo",
+   "published": "2026-11-05T09:13:37+00:00",
+   "tickers": [
+    "BIIB"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "1d8b92744d45",
+   "headline": "Charles River Laboratories International Inc (CRL) (Q3 2026) Earnings Call Highlights: ...",
+   "summary": "Charles River Laboratories International Inc (CRL) posted 4.7% organic revenue growth, 27% EPS growth, and lifted its 2026 outlook on four straight quarters of DSA book-to-bill above 1x.",
+   "url": "https://finnhub.io/api/news?id=520a95659487b7569893b2ec3777cf723360d89b96c2259567f785eaff0b7286",
+   "source": "Yahoo",
+   "published": "2026-11-05T09:06:01+00:00",
+   "tickers": [
+    "CRL"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "f00d4e470285",
+   "headline": "European Enterprises Face Growing Pressure to Turn AI Investment into Business Value, ISG Says",
+   "summary": "PARIS, November 05, 2026--The ISG AI Impact Summit will explore operating models and data and governance frameworks to scale AI, November 9\u201310 at the Pullman Paris Tour Eiffel.",
+   "url": "https://finnhub.io/api/news?id=add1641e0aaa4a4c5f58f8056adfc655bc2656a504e6745d9c25b697e302604e",
+   "source": "Yahoo",
+   "published": "2026-11-05T09:00:00+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "67817b88d92f",
    "headline": "Hospitals under pressure? This surgery-center chain is up 40.8% since April",
    "summary": "Investing.com and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
@@ -1032,6 +1092,21 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "93ad99c4682d",
+   "headline": "Bruker (BRKR) Jumped, What Is Behind The Fresh Attention?",
+   "summary": "Bruker (BRKR) reported Q3 2026 results and updated guidance, combining margin gains and solid bookings with a reaffirmed outlook and a more positive initial view on 2027. Bruker\u2019s latest update landed alongside a sharp 1-day share price\u2026",
+   "url": "https://finnhub.io/api/news?id=85db7399553101c6a3aa3ac73483a913ee2fc3d4e6f2c448cad1e231f207cb3d",
+   "source": "Yahoo",
+   "published": "2026-11-05T08:16:54+00:00",
+   "tickers": [
+    "BRKR"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -1182,6 +1257,21 @@
    ]
   },
   {
+   "id": "4a682e9f6aec",
+   "headline": "Best Value Stocks to Buy for November 5th",
+   "summary": "HTO, and OMCL made it to the Zacks Rank #1 (Strong Buy) value stocks list on November 5, 2026.",
+   "url": "https://finnhub.io/api/news?id=2fc94d3bf6920b1e273317d2f74e985131b05da7beef19327f204f85fa3cc516",
+   "source": "Yahoo",
+   "published": "2026-11-05T06:51:00+00:00",
+   "tickers": [
+    "OMCL"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "64ee86dd9a4b",
    "headline": "Danaher (DHR) Stock Fair Value Rises After Higher Analyst Targets And Q3 Commentary",
    "summary": "Danaher is back in focus as analysts cluster around higher price targets, with several recent updates now sitting in the US$260 to US$275 range. These moves line up with research that highlights the company\u2019s 2027 core growth framing, Q3\u2026",
@@ -1269,6 +1359,21 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "479b3eb11e1e",
+   "headline": "Pfizer: The Portfolio Transformation Is Gaining Momentum",
+   "summary": "Pfizer remains a Buy as its robust pipeline and strategic acquisitions drive portfolio adaptation ahead of the LOE cliff. Learn more about PFE stock here.",
+   "url": "https://finnhub.io/api/news?id=233e93c0257446b656263234fa6c4bc9956406254f39620c9eb461a5b90719e6",
+   "source": "SeekingAlpha",
+   "published": "2026-11-05T05:23:39+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -64725,67 +64830,6 @@
    "tag": "Earnings",
    "sectors": [
     "tools"
-   ]
-  },
-  {
-   "id": "2ce3474d4c5f",
-   "headline": "Truist Securities Maintains Hold on Integra Lifesciences, Lowers Price Target to $13",
-   "summary": "Truist Securities analyst Ravi Misra maintains Integra Lifesciences (NASDAQ:IART) with a Hold and lowers the price target from $15 to $13.",
-   "url": "https://finnhub.io/api/news?id=eeda67d3274620ec9504e47bd135dc12983b5a15b960103438fba6f7b7db05c2",
-   "source": "Benzinga",
-   "published": "2026-10-26T10:44:10+00:00",
-   "tickers": [
-    "IART"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "f07f93034412",
-   "headline": "InnoCare Reports 2026 Q3 Results, Sustained Profitability and Accelerating Globalization",
-   "summary": "BEIJING, Oct. 26, 2026 (GLOBE NEWSWIRE) -- InnoCare Pharma (HKEX: 09969; SSE: 688428), a leading biopharmaceutical company focusing on cancer and autoimmune diseases, today announced its third quarter 2026 results and business highlights\u2026",
-   "url": "https://finnhub.io/api/news?id=20d3d4a4d8502a0a0947850c2aa7c4fef7ccf0ce1b0c2e9e51c6e24349e6922f",
-   "source": "Yahoo",
-   "published": "2026-10-26T10:42:00+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "c11d609599a5",
-   "headline": "Pathos AI completes $237m Series E round to expand oncology pipeline",
-   "summary": "Pathos AI will use the proceeds to scale its Foundry platform and advance four active clinical cancer programmes.",
-   "url": "https://finnhub.io/api/news?id=6b71db9c0b57db2429e60ee6206b1a7a1b0d03e5e983585094b6e7b06bdaaa74",
-   "source": "Yahoo",
-   "published": "2026-10-26T10:39:42+00:00",
-   "tickers": [
-    "AZN",
-    "BMY"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "0d2438780ea8",
-   "headline": "Pathos AI completes $237m Series E round to expand oncology pipeline",
-   "summary": "Pathos AI will use the proceeds to scale its Foundry platform and advance four active clinical cancer programmes.",
-   "url": "https://finnhub.io/api/news?id=b994d97152ed1a7a4c601b760a62b0d0b367e28af298d751ea5590ea917ab45a",
-   "source": "Yahoo",
-   "published": "2026-10-26T10:39:42+00:00",
-   "tickers": [
-    "BMY"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
