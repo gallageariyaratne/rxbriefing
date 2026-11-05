@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-05T01:32:40.849575+00:00",
+ "updated": "2026-11-05T01:47:43.963371+00:00",
  "quotes": {
   "A": {
    "price": 177.17,
@@ -13,6 +13,10 @@
   "ABT": {
    "price": 115.51,
    "change_pct": 5.58
+  },
+  "ALHC": {
+   "price": 8.14,
+   "change_pct": 10.15
   },
   "ALNY": {
    "price": 161.08,
@@ -317,10 +321,6 @@
   "TEM": {
    "price": 75.61,
    "change_pct": -2.81
-  },
-  "TGTX": {
-   "price": 61.63,
-   "change_pct": 1.45
   }
  },
  "tickers": {
@@ -938,6 +938,21 @@
  },
  "stories": [
   {
+   "id": "526cbfa78d33",
+   "headline": "Missed Out On Pfizer's Run? Here Is What Holders Saw",
+   "summary": "If Pfizer sat on your watchlist instead of in your portfolio, the past few months may feel like a missed call. Holding Pfizer from the start of the year would have returned 28.6%, including dividends. That outcome followed fresh oncology\u2026",
+   "url": "https://finnhub.io/api/news?id=261491f169498ec5d59786f8582b47cd156dfb7b5614dd13a355ac9d76933e16",
+   "source": "Yahoo",
+   "published": "2026-11-05T00:18:30+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "d483aa39e7f6",
    "headline": "Dow Jones Futures Rise After Apple, Microsoft, Amazon Flash Buy Signals In Postelection Rally. CoreWeave, SpaceX Skid.",
    "summary": "Elections and diving oil prices sparked a stock market surge. Stocks from many sectors flash buy signals, but avoid this area.",
@@ -1035,6 +1050,7 @@
    "source": "Yahoo",
    "published": "2026-11-04T23:21:05+00:00",
    "tickers": [
+    "ALHC",
     "CLOV",
     "UNH"
    ],
@@ -4617,6 +4633,21 @@
    ]
   },
   {
+   "id": "c657d1e022b8",
+   "headline": "Beam Therapeutics to Present Updated Clinical Data from BEACON Phase 1/2 Trial of Risto-cel in Sickle Cell Disease in an Oral Presentation at American Society of Hematology (ASH) Annual Meeting",
+   "summary": "BEACON Trial Results Selected for Official ASH Press Program Initial Patient-Reported Outcomes Demonstrate Early and Sustained Improvements in Physical Function, Pain, Fatigue, Emotional and Social Well-Being and Symptom Severity U.S.\u2026",
+   "url": "https://finnhub.io/api/news?id=c8663e562ee1062339264fbcf05f591231b31cc7cef59a1aaf6da141e30c58ec",
+   "source": "Yahoo",
+   "published": "2026-11-04T14:00:00+00:00",
+   "tickers": [
+    "BEAM"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "8bafea273906",
    "headline": "BSX Q3 Results Reset Growth Expectations as 2027 Outlook Stays Weak",
    "summary": "Boston Scientific's cyber disruption cuts Q3 growth and earnings, forcing lower 2026 guidance as management sees 2027 as the cycle's trough.",
@@ -5480,7 +5511,8 @@
    "source": "Yahoo",
    "published": "2026-11-04T12:51:38+00:00",
    "tickers": [
-    "EW"
+    "EW",
+    "INSM"
    ],
    "tag": "Analyst",
    "sectors": [
@@ -6121,6 +6153,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "88b26c05a668",
+   "headline": "Insmed to Present at November and December 2026 Investor Conferences",
+   "summary": "Insmed Incorporated (Nasdaq: INSM), a people-first global biopharmaceutical company striving to deliver first- and best-in-class therapies to transform the lives of patients facing serious diseases, today announced that management will\u2026",
+   "url": "https://finnhub.io/api/news?id=fe387cf3876835285c0d9faeeae80393747423d4c60046550b3f76ac1d265cd4",
+   "source": "Yahoo",
+   "published": "2026-11-04T12:00:00+00:00",
+   "tickers": [
+    "INSM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
