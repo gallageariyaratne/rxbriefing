@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-05T01:17:42.730355+00:00",
+ "updated": "2026-11-05T01:32:40.849575+00:00",
  "quotes": {
   "A": {
    "price": 177.17,
@@ -262,6 +262,10 @@
    "price": 165.02,
    "change_pct": 6.56
   },
+  "QGEN": {
+   "price": 50.83,
+   "change_pct": 0.89
+  },
   "RARE": {
    "price": 17.16,
    "change_pct": 3.19
@@ -317,10 +321,6 @@
   "TGTX": {
    "price": 61.63,
    "change_pct": 1.45
-  },
-  "THC": {
-   "price": 292.25,
-   "change_pct": 9.58
   }
  },
  "tickers": {
@@ -938,6 +938,36 @@
  },
  "stories": [
   {
+   "id": "d483aa39e7f6",
+   "headline": "Dow Jones Futures Rise After Apple, Microsoft, Amazon Flash Buy Signals In Postelection Rally. CoreWeave, SpaceX Skid.",
+   "summary": "Elections and diving oil prices sparked a stock market surge. Stocks from many sectors flash buy signals, but avoid this area.",
+   "url": "https://finnhub.io/api/news?id=bd94200a841a17ec957529ce3b50994f2869aecca695dd519db6c16500753c39",
+   "source": "Yahoo",
+   "published": "2026-11-04T23:51:39+00:00",
+   "tickers": [
+    "THC"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "84f94ef86dd2",
+   "headline": "Qiagen (QGEN) Surpasses Q3 Earnings and Revenue Estimates",
+   "summary": "Qiagen (QGEN) delivered earnings and revenue surprises of +3.18% and +1.56%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=5f1559b363c3f5c330a7c6690f84d0b4d188fada29db4fdf4b911bb4a610a890",
+   "source": "Yahoo",
+   "published": "2026-11-04T23:45:10+00:00",
+   "tickers": [
+    "QGEN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "c4decfa33898",
    "headline": "Viemed Healthcare, Inc. (VMD) Lags Q3 Earnings and Revenue Estimates",
    "summary": "Viemed Healthcare (VMD) delivered earnings and revenue surprises of -8.33% and -0.13%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
@@ -1064,6 +1094,21 @@
    ]
   },
   {
+   "id": "31a16975c5d8",
+   "headline": "United Therapeutics Corporation Q3 2026 Earnings Call Summary",
+   "summary": "Moby summary of United Therapeutics Corporation's Q3 2026 earnings call",
+   "url": "https://finnhub.io/api/news?id=1fd84f03c8440ee1965f495fb8582e6fbbfd3d4bdfa88c9079f0b3ceaa25e1fc",
+   "source": "Yahoo",
+   "published": "2026-11-04T23:05:31+00:00",
+   "tickers": [
+    "UTHR"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "5e22136a7e13",
    "headline": "Illumina selected to help bring precision medicine into everyday healthcare in Singapore",
    "summary": "Illumina, Inc. (Nasdaq: ILMN) announced it has been selected to provide whole-genome sequencing services for the SG-INSIGHT study, a cohort under Phase III of Singapore's National Precision Medicine (NPM) programme. Expected to include\u2026",
@@ -1074,6 +1119,21 @@
     "ILMN"
    ],
    "tag": "Clinical",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "f4bb33c38df5",
+   "headline": "Qiagen: Q3 Earnings Snapshot",
+   "summary": "PL VENLO, Netherlands (AP) \u2014 PL VENLO, Netherlands (AP) \u2014 Qiagen NV (QGEN) on Wednesday reported third-quarter earnings of $105.On a per-share basis, the Pl Venlo, Netherlands-based company said it had net income of 51 cents.",
+   "url": "https://finnhub.io/api/news?id=d834feab94310b106b738f5d9dc4189fe488fe71fd8b13d6b04a44a11773ede3",
+   "source": "Yahoo",
+   "published": "2026-11-04T22:28:51+00:00",
+   "tickers": [
+    "QGEN"
+   ],
+   "tag": "Earnings",
    "sectors": [
     "tools"
    ]
@@ -1124,6 +1184,21 @@
     "ALNY"
    ],
    "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "eed2ec0bb508",
+   "headline": "What United Therapeutics (UTHR) Said on Its Q3 Earnings Call",
+   "summary": "United Therapeutics (NASDAQ:UTHR) reported record third-quarter 2026 revenue of $833 million, driven in part by record Tyvaso sales of $504 million, while pushing back a planned regulatory submission for its soft mist inhaler to 2027.\u2026",
+   "url": "https://finnhub.io/api/news?id=2c8ba6d7b0f1166b5ca1ca1810800454e6818919e03b63d47f380df9b1dd1d93",
+   "source": "Yahoo",
+   "published": "2026-11-04T22:14:34+00:00",
+   "tickers": [
+    "UTHR"
+   ],
+   "tag": "Earnings",
    "sectors": [
     "biotech"
    ]
@@ -1723,6 +1798,21 @@
    ]
   },
   {
+   "id": "351e2cbd9ab5",
+   "headline": "QIAGEN Reports Full Q3 2026 Results",
+   "summary": "VENLO, Netherlands & GERMANTOWN, Md., November 04, 2026--QIAGEN N.V. (NYSE: QGEN; Frankfurt Prime Standard: QIA) today announced full results for the third quarter of 2026, with net sales and adjusted diluted earnings per share (EPS)\u2026",
+   "url": "https://finnhub.io/api/news?id=36d71f90ed0d402c73c0f4639c02ba041d174a90b4e169787045f23bb4662b08",
+   "source": "Yahoo",
+   "published": "2026-11-04T21:05:00+00:00",
+   "tickers": [
+    "QGEN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "ff5d8fa1b76d",
    "headline": "Cytokinetics Reports Third Quarter 2026 Financial Results and Provides Business Update",
    "summary": "MYQORZO\u00ae (aficamten) Net Product Revenue of $44.5 Million Expect to Submit Supplemental NDA for Aficamten in Non-Obstructive HCM in Q4 2026 and Type II Variation in the European Union in Early 2027 ~$1.6 Billion in Cash, Cash Equivalents\u2026",
@@ -1833,6 +1923,7 @@
    "published": "2026-11-04T20:06:08+00:00",
    "tickers": [
     "CNC",
+    "CVS",
     "HCA",
     "ZBH"
    ],
@@ -2045,6 +2136,7 @@
    "source": "ChartMill",
    "published": "2026-11-04T19:06:09+00:00",
    "tickers": [
+    "CVS",
     "PFE"
    ],
    "tag": "News",
@@ -2518,6 +2610,7 @@
    "source": "ChartMill",
    "published": "2026-11-04T17:36:07+00:00",
    "tickers": [
+    "CVS",
     "HCA",
     "UHS",
     "ZBH"
@@ -2743,6 +2836,21 @@
    "tag": "M&A",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "cf7c89cb78db",
+   "headline": "RxSight (RXST) Q3 2026 Earnings Call Transcript",
+   "summary": "Sampling rivals and a sales force overhaul pressured quarterly revenue results.",
+   "url": "https://finnhub.io/api/news?id=a639b4b920e64c8c20ed8d5fd60261118724a761cbc5aca4c598f114b134eb0a",
+   "source": "Yahoo",
+   "published": "2026-11-04T17:05:10+00:00",
+   "tickers": [
+    "RXST"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -3516,6 +3624,7 @@
    "source": "ChartMill",
    "published": "2026-11-04T15:36:48+00:00",
    "tickers": [
+    "CVS",
     "HCA",
     "ISRG",
     "ZBH"
@@ -4493,6 +4602,21 @@
    ]
   },
   {
+   "id": "40b24c7b55db",
+   "headline": "Changes in the Supervisory Council of AB Artea bankas",
+   "summary": "Tomas Okmanas, who has served as a member of the Supervisory Council of Artea Bank since 2 February 2023, has decided to step down from the Supervisory Council. T. Okmanas made this decision taking into account the recent changes in the\u2026",
+   "url": "https://finnhub.io/api/news?id=fdbcbc962de5fc241a7f2bf0df431818a8fcb48262c58841fe34f04cc9c93c35",
+   "source": "Yahoo",
+   "published": "2026-11-04T14:00:00+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "8bafea273906",
    "headline": "BSX Q3 Results Reset Growth Expectations as 2027 Outlook Stays Weak",
    "summary": "Boston Scientific's cyber disruption cuts Q3 growth and earnings, forcing lower 2026 guidance as management sees 2027 as the cycle's trough.",
@@ -4740,7 +4864,8 @@
    "tickers": [
     "BIIB",
     "BMY",
-    "JNJ"
+    "JNJ",
+    "NVS"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -5505,7 +5630,8 @@
    "source": "Yahoo",
    "published": "2026-11-04T12:35:00+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "VKTX"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -7912,6 +8038,21 @@
    "tag": "GLP-1",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "96802c910749",
+   "headline": "RxSight Inc (RXST) (Q3 2026) Earnings Call Highlights: Revenue Slides 19% as Sales Force ...",
+   "summary": "RxSight Inc (RXST) posted $24.6 million in Q3 2026 revenue amid competitive and internal disruption, while completing a restructuring and advancing its Alcon partnership and next-gen lens pipeline.",
+   "url": "https://finnhub.io/api/news?id=2146fc09eeff583f1fc1bf7f8d828ac725066cd88146320c655cb0bd990f4e8c",
+   "source": "Yahoo",
+   "published": "2026-11-04T07:10:03+00:00",
+   "tickers": [
+    "RXST"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -63888,21 +64029,6 @@
    "tag": "News",
    "sectors": [
     "tools"
-   ]
-  },
-  {
-   "id": "44db6958f8e3",
-   "headline": "Johnson & Johnson Won UK Approval for Its Psoriasis Pill. Here\u2019s Where the Stock Could Go by 2030",
-   "summary": "Key Stats for Johnson & Johnson StockCurrent Price: $263. 81Target Price (Mid): ~$342Street Target: ~$279Potential Total Return: ~30%Annualized IRR: ~6% / year__Now Live: Discover how much upside your favorite stocks could have using\u2026",
-   "url": "https://finnhub.io/api/news?id=bd13a31e7f87e29e4b69caff19fb2fa1a80bfafc3c3b330d47f25ed05f9516f2",
-   "source": "Yahoo",
-   "published": "2026-10-26T01:24:23+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
