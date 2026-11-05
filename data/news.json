@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-05T21:32:44.733901+00:00",
+ "updated": "2026-11-05T21:47:38.915729+00:00",
  "quotes": {
   "A": {
    "price": 171.78,
@@ -37,10 +37,6 @@
   "AMWL": {
    "price": 12.11,
    "change_pct": -1.94
-  },
-  "ARGX": {
-   "price": 894.77,
-   "change_pct": -3.93
   },
   "AZN": {
    "price": 186.85,
@@ -321,6 +317,10 @@
   "RVMD": {
    "price": 177.65,
    "change_pct": -11.04
+  },
+  "RXRX": {
+   "price": 3.5,
+   "change_pct": -9.79
   }
  },
  "tickers": {
@@ -938,6 +938,17 @@
  },
  "stories": [
   {
+   "id": "44558e33cb4e",
+   "headline": "STAT+: Pharma\u2019s trade group spent heavily on search ads to sway public opinion",
+   "summary": "PhRMA spent an estimated $59 million on search advertising over a recent seven-year period to influence how Americans view prescription drug costs.",
+   "url": "https://www.statnews.com/pharmalot/2026/11/05/phrma-blamed-pbms-high-drug-prices-search-ads/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-11-05T21:36:52+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
    "id": "a21e1f9b8626",
    "headline": "Medicare will cut billions from 340B, expand site-neutral payments in 2027",
    "summary": "Regulators finalized a rule Wednesday that would slash payments for drugs in the controversial 340B program and equalize some payments between care sites. Hospitals railed against the rule.",
@@ -1151,6 +1162,21 @@
    "tag": "Legal",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "c606cb96e0b2",
+   "headline": "Zoetis Inc. Reports Third Quarter 2026 Results and Updates Full Year 2026 Guidance",
+   "summary": "",
+   "url": "https://finnhub.io/api/news?id=cfe19561c039ffb27ae8e43a51ac4cae8d0b0bf6e218d7f6f2ae87e957a5ad1a",
+   "source": "Fintel",
+   "published": "2026-11-05T18:21:46+00:00",
+   "tickers": [
+    "ZTS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1473,6 +1499,21 @@
     "CAH",
     "COR",
     "MCK"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
+  {
+   "id": "767f274938ad",
+   "headline": "Cardinal Health Reports First Quarter Fiscal Year 2027 Results and Raises Outlook",
+   "summary": "",
+   "url": "https://finnhub.io/api/news?id=e5343d1829aa99396c63a049935ca134fa04d4625300df4fba2a927bc247a0fa",
+   "source": "Fintel",
+   "published": "2026-11-05T17:14:16+00:00",
+   "tickers": [
+    "CAH"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -1970,6 +2011,21 @@
    "tag": "Analyst",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "03ad52fe4b84",
+   "headline": "Cardinal Health, Inc. (CAH) Q1 2027 Earnings Call Transcript",
+   "summary": "",
+   "url": "https://finnhub.io/api/news?id=28084e93bb61daeb3568ecd83d0f5d663eacc82ed88b9fde686e08542c2c1838",
+   "source": "SeekingAlpha",
+   "published": "2026-11-05T16:14:44+00:00",
+   "tickers": [
+    "CAH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharmacy"
    ]
   },
   {
