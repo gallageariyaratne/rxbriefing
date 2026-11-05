@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-05T22:32:42.318039+00:00",
+ "updated": "2026-11-05T22:47:41.474385+00:00",
  "quotes": {
   "A": {
    "price": 171.78,
@@ -113,6 +113,10 @@
   "DHR": {
    "price": 226.34,
    "change_pct": -3.66
+  },
+  "DOCS": {
+   "price": 33.18,
+   "change_pct": -4.3
   },
   "DVA": {
    "price": 194.82,
@@ -317,10 +321,6 @@
   "SDGR": {
    "price": 28.77,
    "change_pct": 0.88
-  },
-  "SNY": {
-   "price": 46.91,
-   "change_pct": -1.18
   }
  },
  "tickers": {
@@ -1005,6 +1005,36 @@
    ]
   },
   {
+   "id": "45261a7ff202",
+   "headline": "Zoetis (ZTS) Q3 2026 Earnings Call Transcript",
+   "summary": "Competitive pressure eased in dermatology, but clinic visits softened",
+   "url": "https://finnhub.io/api/news?id=8a00c830314355264c135c74e77b3cc64920dc67dbb0b60897e6da56b516514d",
+   "source": "Yahoo",
+   "published": "2026-11-05T21:35:04+00:00",
+   "tickers": [
+    "ZTS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "823461fd55c5",
+   "headline": "Doximity: Fiscal Q2 Earnings Snapshot",
+   "summary": "SAN FRANCISCO (AP) \u2014 SAN FRANCISCO (AP) \u2014 Doximity Inc. (DOCS) on Thursday reported fiscal second-quarter earnings of $34.",
+   "url": "https://finnhub.io/api/news?id=0662a84670ebe0437005dd083124bd2ddc745534d937e6744f9293bf4a0637f3",
+   "source": "Yahoo",
+   "published": "2026-11-05T21:33:52+00:00",
+   "tickers": [
+    "DOCS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "d651dd03266b",
    "headline": "Pfizer (PFE) Stock Looks Attractive for Income Investors",
    "summary": "Pfizer (PFE) stock looks attractive for income investors because of its well-covered dividend and modest valuation. The drug maker\u2019s shares have outperformed the S&P 500 (SPX) in 2026, mirroring the strong performance of the healthcare\u2026",
@@ -1012,11 +1042,27 @@
    "source": "Yahoo",
    "published": "2026-11-05T21:32:00+00:00",
    "tickers": [
-    "JNJ"
+    "JNJ",
+    "PFE"
    ],
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "63e63cca1df0",
+   "headline": "Doximity\u2019s (NYSE:DOCS) Q3 CY2026 sales beat estimates but stock drops",
+   "summary": "Medical professional network Doximity (NYSE:DOCS) announced better-than-expected revenue in calendar Q3 2026 (fiscal Q2 2027), with revenue up 3.6% year on year to $174.5 million. The company expects next quarter\u2019s revenue to be around\u2026",
+   "url": "https://finnhub.io/api/news?id=3e27ca09600ea0ed6c3be31db3e26d780610a0a92760ac0d4019e540a059932e",
+   "source": "Yahoo",
+   "published": "2026-11-05T21:31:18+00:00",
+   "tickers": [
+    "DOCS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
    ]
   },
   {
@@ -1047,6 +1093,21 @@
    "tag": "Health AI",
    "sectors": [
     "healthit"
+   ]
+  },
+  {
+   "id": "9519061668c6",
+   "headline": "Cardinal Health (CAH) Q1 2027 Earnings Call Transcript",
+   "summary": "Record operating income and a raised profit outlook drove a strong quarter.",
+   "url": "https://finnhub.io/api/news?id=fec10fa41c727644a75efa2d8d5f50193106c0fac9a83299c92568dfc3d45461",
+   "source": "Yahoo",
+   "published": "2026-11-05T21:18:14+00:00",
+   "tickers": [
+    "CAH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharmacy"
    ]
   },
   {
@@ -1211,6 +1272,21 @@
    ]
   },
   {
+   "id": "308523784b14",
+   "headline": "Doximity Announces Fiscal 2027 Second Quarter Financial Results",
+   "summary": "SAN FRANCISCO, November 05, 2026--Doximity, Inc. (NYSE: DOCS), the leading digital platform for U.S. medical professionals, today announced results of its fiscal 2027 second quarter ended September 30, 2026.",
+   "url": "https://finnhub.io/api/news?id=ef66cffac54578c99d01f54ebfeba737f203acaaa7cfb3fa44dc4ef8807a8a21",
+   "source": "Yahoo",
+   "published": "2026-11-05T21:01:00+00:00",
+   "tickers": [
+    "DOCS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "55f24157532a",
    "headline": "Ballot measures affirm divisions over abortion and transgender issues",
    "summary": "Voters in 2026 midterm elections decided state health policy ballot measures on abortion rights, marijuana laws, science bonds, and transgender youth care.",
@@ -1285,6 +1361,7 @@
    "source": "Yahoo",
    "published": "2026-11-05T20:12:51+00:00",
    "tickers": [
+    "CAH",
     "CVS"
    ],
    "tag": "Earnings",
@@ -1300,7 +1377,8 @@
    "source": "Yahoo",
    "published": "2026-11-05T20:05:00+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "ABT"
    ],
    "tag": "M&A",
    "sectors": [
