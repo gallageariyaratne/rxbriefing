@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-05T13:03:03.076228+00:00",
+ "updated": "2026-11-05T13:17:43.323577+00:00",
  "quotes": {
   "A": {
    "price": 177.17,
@@ -178,10 +178,6 @@
    "price": 51.15,
    "change_pct": 5.03
   },
-  "HALO": {
-   "price": 130.34,
-   "change_pct": 1.34
-  },
   "HCA": {
    "price": 510.7,
    "change_pct": 10.34
@@ -321,6 +317,10 @@
   "RVMD": {
    "price": 199.7,
    "change_pct": 2.82
+  },
+  "RXRX": {
+   "price": 3.88,
+   "change_pct": 5.43
   }
  },
  "tickers": {
@@ -938,6 +938,58 @@
  },
  "stories": [
   {
+   "id": "d70fe495533e",
+   "headline": "Fairview Health Services Partners with hellocare.ai to Expand Enterprise Virtual Care and Bring Connected Care to the NICU",
+   "summary": "Minneapolis, MN and Clearwater, FL \u2014 Fairview Health Services and hellocare.ai today announced an enterprise partnership to expand virtual care capabilities across Fairview\u2019s inpatient environments, including a dedicated deployment\u2026",
+   "url": "https://www.fiercehealthcare.com/sponsored/fairview-health-services-partners-hellocareai-expand-enterprise-virtual-care-and-bring",
+   "source": "Fierce Healthcare",
+   "published": "2026-11-05T13:15:23.094858+00:00",
+   "tickers": [],
+   "tag": "Health AI",
+   "sectors": []
+  },
+  {
+   "id": "9a870bc81c33",
+   "headline": "STAT+: Medicare delays controversial RPM rule update",
+   "summary": "Despite widespread opposition, Medicare will finalize a controversial proposal that will prevent providers, such as hospitals, from using third parties to deliver remote patient monitoring services.",
+   "url": "https://www.statnews.com/2026/11/05/health-tech-news-medicare-delays-controversial-rpm-rule-update/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-11-05T13:04:15+00:00",
+   "tickers": [],
+   "tag": "Policy",
+   "sectors": []
+  },
+  {
+   "id": "81dff84ea63b",
+   "headline": "Sunflower Health Plan Earns 4 out of 5 Stars in NCQA's Health Plan Ratings 2026: Medicaid",
+   "summary": "LENEXA, Kan., Nov. 5, 2026 /PRNewswire/ -- Sunflower State Health Plan, Inc. (Sunflower Health Plan), a wholly owned subsidiary of Centene Corporation, announced today it has earned 4 out of 5 stars in NCQA's Medicaid Health Plan Ratings\u2026",
+   "url": "https://www.prnewswire.com/news-releases/sunflower-health-plan-earns-4-out-of-5-stars-in-ncqas-health-plan-ratings-2026-medicaid-302929083.html",
+   "source": "PR Newswire",
+   "published": "2026-11-05T13:00:00+00:00",
+   "tickers": [
+    "CNC"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "da55da25c928",
+   "headline": "Cadara Partners with Waystar to Advance Connected Payments for Post-Acute Care",
+   "summary": "New Cadara Exchange\u2122 solution connects Cadara RLM\u2122 with Waystar's AI-powered revenue cycle platform to reduce administrative burden, improve productivity, and deliver greater visibility across the revenue lifecycle NEW YORK, Nov. 5, 2026\u2026",
+   "url": "https://www.prnewswire.com/news-releases/cadara-partners-with-waystar-to-advance-connected-payments-for-post-acute-care-302928526.html",
+   "source": "PR Newswire",
+   "published": "2026-11-05T13:00:00+00:00",
+   "tickers": [
+    "WAY"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "817487016c16",
    "headline": "Single-payer health care system proponents were thrown a big bone this election",
    "summary": "Sen. Bernie Sanders is likely to lead the Senate\u2019s health committee next year, which could grant him a chance to fundamentally alter how the FDA interacts with the companies it\u2026",
@@ -976,6 +1028,36 @@
    "tag": "News",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "fb8a8d18751d",
+   "headline": "The Cigna Group (NYSE:CI) Q3 Earnings Beat and Raised Outlook Lift Stock",
+   "summary": "Cigna (CI) Q3 2026 revenue was in line, adjusted EPS beat estimates, and a raised full-year outlook drove shares higher in premarket trading.",
+   "url": "https://finnhub.io/api/news?id=30dc6a8ba9599fd84bdacb804296a01a8d7e2a5d8822ea90186a13e90b603b12",
+   "source": "ChartMill",
+   "published": "2026-11-05T12:29:36+00:00",
+   "tickers": [
+    "CI"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "3a6c641df570",
+   "headline": "Becton Dickinson (NYSE:BDX) Slides Premarket as Modest Q4 Beat Meets Profit-Taking After Strong Run",
+   "summary": "BDX Q4 revenue $5.274B tops estimates, EPS $4.15 in line; shares fall premarket as investors weigh strong run despite 55th dividend hike and buyback.",
+   "url": "https://finnhub.io/api/news?id=bb6b20254b0d9ddc004cc74e5ad2991aab3979c104b256dabe6fe417e55783d4",
+   "source": "ChartMill",
+   "published": "2026-11-05T12:24:43+00:00",
+   "tickers": [
+    "BDX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -1565,7 +1647,8 @@
     "AMGN",
     "BMY",
     "MRK",
-    "PFE"
+    "PFE",
+    "REGN"
    ],
    "tag": "News",
    "sectors": [
@@ -1683,6 +1766,21 @@
    "tag": "Policy",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "79033eef3e95",
+   "headline": "Cytokinetics (CYTK) Could Be 41% Undervalued Following Strong Q3 And Aficamten Data",
+   "summary": "Cytokinetics (CYTK) is back in focus after its third quarter update, with revenue of US$47.56 million, a narrower loss, and fresh late stage data for heart drug aficamten adding to the MYQORZO story. The third quarter update has arrived\u2026",
+   "url": "https://finnhub.io/api/news?id=e9614a1d6bd5ce5e14fbeaaf08944246c2b49c439dce16e1655dfa98cdb7ad1d",
+   "source": "Yahoo",
+   "published": "2026-11-05T10:11:42+00:00",
+   "tickers": [
+    "CYTK"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -64550,101 +64648,6 @@
     "PFE"
    ],
    "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "d226b9ad4737",
-   "headline": "Becton, Dickinson and Company's Q4 2026 Earnings: What to Expect",
-   "summary": "Becton, Dickinson and Company will release its fourth-quarter earnings next week, and analysts anticipate a single-digit bottom-line growth.",
-   "url": "https://finnhub.io/api/news?id=a74ffebdd34e717dd0a1baffb58ba857069c80f77c644922eefdd96523e240bc",
-   "source": "Yahoo",
-   "published": "2026-10-26T13:14:28+00:00",
-   "tickers": [
-    "BDX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "ca69cdd57841",
-   "headline": "Moderna Tumbles 7% as Cancer Vaccine Selloff Deepens; BioNTech Falls 3%, Pfizer Holds Steady",
-   "summary": "Moderna's personalized melanoma vaccine cleared its primary hurdle in a late-stage trial, yet shares are sinking fast. The gap between what the data promised and what it delivered is forcing traders to rethink how much the company's\u2026",
-   "url": "https://finnhub.io/api/news?id=42f99c9c4d4b3abbf468367861f854b0aab6b2e05fb3a861f13e83823d0455fb",
-   "source": "Yahoo",
-   "published": "2026-10-26T13:14:02+00:00",
-   "tickers": [
-    "BNTX",
-    "MRK",
-    "MRNA",
-    "PFE"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "b7b5eb4ef154",
-   "headline": "Committee stocks on the move: EQT Corporation, Amgen and Lockheed Martin",
-   "summary": "The Investment Committee discusses some stocks they own that are on the move.",
-   "url": "https://finnhub.io/api/news?id=d67a0919262f09d116c96a86cf3b44b5c7181d6f883bc4163c1440c2cd766b65",
-   "source": "CNBC",
-   "published": "2026-10-26T13:11:32+00:00",
-   "tickers": [
-    "AMGN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "8984921b2fa3",
-   "headline": "Teledyne FLIR Defense Wins $48M Contract to Provide Next-Gen Nuclear, Biological and Chemical Reconnaissance Sensors for Bulgaria Strykers",
-   "summary": "BOSTON, October 26, 2026--Teledyne FLIR Defense, part of Teledyne Technologies Incorporated (NYSE:TDY), announced it has been awarded a $48 million contract by the U.S. Army to deliver Nuclear, Biological and Chemical Reconnaissance\u2026",
-   "url": "https://finnhub.io/api/news?id=101a007e3f4e41d7abd1ccf85b5d033c2ee50b5f71293a89195250d2f3caa097",
-   "source": "Yahoo",
-   "published": "2026-10-26T13:04:00+00:00",
-   "tickers": [
-    "SYK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "ac8397483849",
-   "headline": "The Fed + tech, oil earnings = an exciting week for investors",
-   "summary": "Interest rates and Alphabet, Microsoft, Exxon and Chevron results will dominate the week.",
-   "url": "https://finnhub.io/api/news?id=9725dd3a41c7c2ac4d47fcacee64eb3625dc93dd3762c5ab3ddd8f3fde0bb297",
-   "source": "Yahoo",
-   "published": "2026-10-26T13:03:00+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "b9c95b86f888",
-   "headline": "Should You Buy Viking Therapeutics Stock Ahead of Q3 Results?",
-   "summary": "VKTX is likely to report Q3 results Oct. 28 as investors await updates on VK2735's oral and injectable obesity programs and 2027 data readouts.",
-   "url": "https://finnhub.io/api/news?id=caaa420a558e970ea8e7330532701c9bb0c6ce83629c64787ef9c8c42b1c49d5",
-   "source": "Yahoo",
-   "published": "2026-10-26T13:02:00+00:00",
-   "tickers": [
-    "LLY",
-    "NVO",
-    "VKTX"
-   ],
-   "tag": "GLP-1",
    "sectors": [
     "pharma"
    ]
