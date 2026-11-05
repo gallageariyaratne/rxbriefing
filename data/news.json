@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-05T02:17:29.280562+00:00",
+ "updated": "2026-11-05T02:32:46.534202+00:00",
  "quotes": {
   "A": {
    "price": 177.17,
@@ -274,6 +274,10 @@
    "price": 31.65,
    "change_pct": -0.38
   },
+  "OSCR": {
+   "price": 35.19,
+   "change_pct": 8.58
+  },
   "PACB": {
    "price": 2.55,
    "change_pct": 4.51
@@ -317,10 +321,6 @@
   "SDGR": {
    "price": 28.52,
    "change_pct": 4.93
-  },
-  "SNY": {
-   "price": 47.47,
-   "change_pct": 4.72
   }
  },
  "tickers": {
@@ -947,6 +947,21 @@
    "tickers": [],
    "tag": "Policy",
    "sectors": []
+  },
+  {
+   "id": "aaea5326f1b3",
+   "headline": "Dow Jones Futures Rise, But Techs Tumble; Apple, Microsoft, Amazon Flash Buy Signals In Postelection Rally",
+   "summary": "Elections and diving oil prices sparked a stock market surge. Stocks from many sectors flash buy signals, but avoid this area.",
+   "url": "https://finnhub.io/api/news?id=ec179365dbfe82f329601f439ee225305cbcdd49cb7c9508bda507007718190b",
+   "source": "Yahoo",
+   "published": "2026-11-05T01:51:20+00:00",
+   "tickers": [
+    "THC"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
   },
   {
    "id": "ed5f68ee9502",
@@ -2198,6 +2213,21 @@
    "sectors": []
   },
   {
+   "id": "12270990724d",
+   "headline": "Royalty Pharma Q3 Earnings Call Highlights",
+   "summary": "Royalty Pharma (NASDAQ:RPRX) reported third-quarter portfolio receipts of $890 million, up 9% from a year earlier, as growth in its diversified royalty portfolio offset declines in certain products. The company raised its full-year 2026\u2026",
+   "url": "https://finnhub.io/api/news?id=6e70b246c6bae72d02068930391d995be430a0729213a923dae0948f4e1ad51f",
+   "source": "Yahoo",
+   "published": "2026-11-04T20:14:42+00:00",
+   "tickers": [
+    "TAK"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "f3d5047c985c",
    "headline": "Edwards Lifesciences (EW) Trial Win Puts Fair Value Back In Focus",
    "summary": "Edwards Lifesciences (EW) is back in focus after new data showed its PASCAL tricuspid repair system outperformed medical therapy in the CLASP II TR trial, with benefits sustained through one year. Recent data and regulatory milestones\u2026",
@@ -2708,6 +2738,7 @@
     "HCA",
     "HUM",
     "MOH",
+    "OSCR",
     "THC"
    ],
    "tag": "Policy",
@@ -4648,6 +4679,21 @@
    ]
   },
   {
+   "id": "def2714125f0",
+   "headline": "Axsome: 3 Key Takeaways for Long-Term Investors",
+   "summary": "A late-stage pipeline with 10 programs in development offers multiple growth catalysts beyond Auvelity's current commercial momentum.",
+   "url": "https://finnhub.io/api/news?id=46cb21cdf1444f6af5f446bba29598cc7622ecadbddbbec04089376e834fdf7b",
+   "source": "Yahoo",
+   "published": "2026-11-04T14:29:16+00:00",
+   "tickers": [
+    "AXSM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "4b8daeb46913",
    "headline": "CVS beats third-quarter earnings estimates and raises 2026 outlook",
    "summary": "CVS Health Corp (NYSE:CVS) beat third-quarter earnings estimates, raised its 2026 financial forecasts and announced plans to split into two independent, publicly traded companies. Adjusted earnings reached $2.09 a share, exceeding Wall\u2026",
@@ -5175,6 +5221,7 @@
    "tickers": [
     "CNC",
     "HCA",
+    "OSCR",
     "THC"
    ],
    "tag": "M&A",
@@ -6736,6 +6783,7 @@
    "source": "Yahoo",
    "published": "2026-11-04T11:57:21+00:00",
    "tickers": [
+    "TAK",
     "UTHR",
     "ZTS"
    ],
@@ -7511,6 +7559,7 @@
     "ELV",
     "HUM",
     "MOH",
+    "OSCR",
     "UNH"
    ],
    "tag": "M&A",
@@ -8011,6 +8060,21 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "dfed815464ad",
+   "headline": "Best Growth Stocks to Buy for November 4th",
+   "summary": "MDB, ATI, and OSCR it to the Zacks Rank #1 (Strong Buy) growth stocks list on November 4, 2026.",
+   "url": "https://finnhub.io/api/news?id=a8f64b0489a3e16898c499db760a66a7ea61b6385c9a7f1a5154213d79f55702",
+   "source": "Yahoo",
+   "published": "2026-11-04T08:54:00+00:00",
+   "tickers": [
+    "OSCR"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -64632,23 +64696,6 @@
    "tag": "News",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "acc15a0b4f2f",
-   "headline": "Stocktwits Pharma Pulse: Big Pharma Earnings, Cancer Updates And 2 FDA Deadlines \u2014 The Week\u2019s Biotech Watchlist",
-   "summary": "Lilly and Merck report earnings on Thursday, followed by AbbVie on Friday.",
-   "url": "https://finnhub.io/api/news?id=5e1ddfbcba549a6d858f693e7118505de51e4c94384298344edcc0216f3ff367",
-   "source": "Yahoo",
-   "published": "2026-10-26T02:28:29+00:00",
-   "tickers": [
-    "INCY",
-    "LLY",
-    "MRK"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "biotech"
    ]
   }
  ]
