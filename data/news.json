@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-06T00:47:37.120614+00:00",
+ "updated": "2026-11-06T01:02:42.096210+00:00",
  "quotes": {
   "A": {
    "price": 171.78,
@@ -106,6 +106,10 @@
    "price": 226.34,
    "change_pct": -3.66
   },
+  "DNLI": {
+   "price": 19.72,
+   "change_pct": -5.92
+  },
   "DOCS": {
    "price": 33.18,
    "change_pct": -4.3
@@ -165,6 +169,10 @@
   "HIMS": {
    "price": 24.06,
    "change_pct": -9.75
+  },
+  "HQY": {
+   "price": 103.46,
+   "change_pct": -4.94
   },
   "HSIC": {
    "price": 85.31,
@@ -270,6 +278,10 @@
    "price": 33.18,
    "change_pct": -5.71
   },
+  "PACB": {
+   "price": 2.43,
+   "change_pct": -4.71
+  },
   "PFE": {
    "price": 29.88,
    "change_pct": -2.96
@@ -281,10 +293,6 @@
   "PRVA": {
    "price": 23.94,
    "change_pct": 6.88
-  },
-  "QGEN": {
-   "price": 50.86,
-   "change_pct": 0.06
   },
   "REGN": {
    "price": 902.9,
@@ -313,14 +321,6 @@
   "SDGR": {
    "price": 28.77,
    "change_pct": 0.88
-  },
-  "SMMT": {
-   "price": 14.19,
-   "change_pct": -12.24
-  },
-  "SNY": {
-   "price": 46.91,
-   "change_pct": -1.18
   }
  },
  "tickers": {
@@ -953,6 +953,22 @@
    ]
   },
   {
+   "id": "d8dbcad8d95a",
+   "headline": "Did The Market Read Molina Healthcare Stock Right?",
+   "summary": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://finnhub.io/api/news?id=7e10d39f2ceca16ae9234dfceca40f94184d7b3eaaa5924835ad08a3954b2872",
+   "source": "Yahoo",
+   "published": "2026-11-05T23:50:13+00:00",
+   "tickers": [
+    "CNC",
+    "ELV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "435e53b397bd",
    "headline": "Evolent Health, Inc. Q3 2026 Earnings Call Summary",
    "summary": "Moby summary of Evolent Health, Inc.'s Q3 2026 earnings call",
@@ -1046,11 +1062,42 @@
    "source": "Yahoo",
    "published": "2026-11-05T22:22:00+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "LLY"
    ],
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "bcefd1298d9e",
+   "headline": "Health Canada Authorizes Moderna's mRNA Influenza and Combination Influenza and COVID-19 Vaccines",
+   "summary": "Canada becomes the first country to authorize both Moderna's mRNA seasonal influenza vaccine, mFLUSIVA\u00ae, and combination influenza and COVID-19 vaccine, mCOFLU\u00aeCAMBRIDGE, MA / ACCESS Newswire / November 5, 2026 / (NASDAQ:MRNA) today\u2026",
+   "url": "https://finnhub.io/api/news?id=a0d831b42bafe34a431a879c3ef2653c969b5cbbd8dfa2f1fcd75a4b9ce0ee35",
+   "source": "Yahoo",
+   "published": "2026-11-05T22:20:00+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "a84ac2175bea",
+   "headline": "Thermo Fisher Scientific Authorizes $5 Billion of Share Repurchases",
+   "summary": "WALTHAM, Mass., November 05, 2026--Thermo Fisher Scientific Inc. (NYSE: TMO), the world leader in serving science, today announced that its Board of Directors has authorized the repurchase of up to an aggregate of $5 billion of shares of\u2026",
+   "url": "https://finnhub.io/api/news?id=a2425c7afcf21c429fa49a0fd7bf00144ed6e0d434bb0c7393cf684d3b2a9707",
+   "source": "Yahoo",
+   "published": "2026-11-05T22:15:00+00:00",
+   "tickers": [
+    "TMO"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -1140,6 +1187,36 @@
    ]
   },
   {
+   "id": "67706fb00b20",
+   "headline": "Thermo Fisher Scientific Announces Quarterly Dividend",
+   "summary": "WALTHAM, Mass., November 05, 2026--Thermo Fisher Scientific Inc. (NYSE: TMO), the world leader in serving science, today announced that its Board of Directors authorized a quarterly cash dividend of $0.47 per common share, payable on\u2026",
+   "url": "https://finnhub.io/api/news?id=b7e5927f53f56b196f71bd568afae7995f3182f67ee9ab8f12e1f64046d08670",
+   "source": "Yahoo",
+   "published": "2026-11-05T22:00:00+00:00",
+   "tickers": [
+    "TMO"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "ed1417785fd6",
+   "headline": "Edwards Life (EW) Q3 2026 Earnings Call Transcript",
+   "summary": "Edwards raised its sales outlook after a quarter that beat internal projections.",
+   "url": "https://finnhub.io/api/news?id=76d84f8dd6eae3fd1872bf1d650c91118e2e4686ed41af8845cd002def7e7a9f",
+   "source": "Yahoo",
+   "published": "2026-11-05T21:59:27+00:00",
+   "tickers": [
+    "EW"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "d02e6d1d6c2c",
    "headline": "Dow Jones Futures: Nasdaq Dives 5.5%, Nvidia, Sandisk, CoreWeave, SpaceX Plunge, But Sell-Off Spreads Beyond AI",
    "summary": "Nvidia, CoreWeave, SpaceX plunged, but the stock market sell-off spread far beyond AI. The October jobs report looms.",
@@ -1200,6 +1277,21 @@
    ]
   },
   {
+   "id": "2a2959f02246",
+   "headline": "CryoPort, Inc. (CYRX) Reports Q3 Loss, Tops Revenue Estimates",
+   "summary": "CryoPort (CYRX) delivered earnings and revenue surprises of -31.58% and +3.16%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=7a38fec9e7ab800e7acc08c381d683805ad04173b91af8911553e7a6c13e3e2a",
+   "source": "Yahoo",
+   "published": "2026-11-05T21:45:06+00:00",
+   "tickers": [
+    "HQY"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "1f972785a7d4",
    "headline": "Voyager Therapeutics (VYGR) Reports Q3 Loss, Lags Revenue Estimates",
    "summary": "Voyager Therapeutics (VYGR) delivered earnings and revenue surprises of +2.44% and -11.00%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
@@ -1212,6 +1304,21 @@
    "tag": "Earnings",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "9f9ab5af6887",
+   "headline": "Why Hims & Hers Health, Inc. (HIMS) Dipped More Than Broader Market Today",
+   "summary": "In the most recent trading session, Hims & Hers Health, Inc. (HIMS) closed at $24.06, indicating a -9.75% shift from the previous trading day.",
+   "url": "https://finnhub.io/api/news?id=231a17fd3e0983a5a472b3831a680005d86d1ca16be3079221ae18a05df262c1",
+   "source": "Yahoo",
+   "published": "2026-11-05T21:45:02+00:00",
+   "tickers": [
+    "HIMS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
    ]
   },
   {
@@ -1333,6 +1440,21 @@
    ]
   },
   {
+   "id": "359b97e8e62f",
+   "headline": "AI and Tech Selloff Heats Up: Buy Big Pharma Stock LLY as a Safe Haven?",
+   "summary": "The massive AI-driven selloff is leaving investors looking for safe-haven stocks. Now might be a good time to consider buying Eli Lilly (LLY) stock for value and huge growth far outside of AI.",
+   "url": "https://finnhub.io/api/news?id=9630dc4296147851a4e7f2db4c4a6358f8614bd7d171438bec18116f07e9aa04",
+   "source": "Yahoo",
+   "published": "2026-11-05T21:27:00+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "b75f18f18867",
    "headline": "Veeva Systems (VEEV) Becomes Core CRM Choice For Major Biopharma AI Rollout",
    "summary": "Veeva Systems (NYSE:VEEV) said UCB has selected Veeva Vault CRM as a key platform for its commercial operations. UCB plans to use industry-specific AI within Vault CRM to support product launches and day-to-day customer engagement in life\u2026",
@@ -1375,6 +1497,21 @@
    "tag": "Earnings",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "4a7891eadb03",
+   "headline": "Pacific Biosciences of California Inc (PACB) (Q3 2026) Earnings Call Highlights: Revenue Grows ...",
+   "summary": "Pacific Biosciences of California Inc (PACB) posted $40.6 million in Q3 2026 revenue, narrowed full-year guidance to $155--$160 million, and reaffirmed a path to cash flow breakeven in 2028.",
+   "url": "https://finnhub.io/api/news?id=26cdb5b4b958f04fdf30e7fa1b8ba12ac26c70a3cea5906b4cbb88fd88521b4c",
+   "source": "Yahoo",
+   "published": "2026-11-05T21:08:37+00:00",
+   "tickers": [
+    "PACB"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -1922,7 +2059,8 @@
    "source": "Yahoo",
    "published": "2026-11-05T18:01:00+00:00",
    "tickers": [
-    "BIIB"
+    "BIIB",
+    "DNLI"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -2019,6 +2157,21 @@
    ]
   },
   {
+   "id": "628f4dce8765",
+   "headline": "Ahead of Moderna Earnings, Here's What Barchart Data Says Comes Next for MRNA Stock",
+   "summary": "Moderna is set to report its fiscal Q3 earnings on Nov. 6. Options data suggests MRNA shares could tumble after the quarterly update.",
+   "url": "https://finnhub.io/api/news?id=f9a4f68079f047fba0775bbfdfd94162dd47862640cf6ba87ecc23ed75bb2c29",
+   "source": "Yahoo",
+   "published": "2026-11-05T17:42:12+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "c2f25f94b3c0",
    "headline": "What Are Amgen Investors Betting On?",
    "summary": "For questions about this article or underlying research, email help@trefis.com.",
@@ -2082,6 +2235,21 @@
    "tag": "Earnings",
    "sectors": [
     "pharmacy"
+   ]
+  },
+  {
+   "id": "51ab30ba9385",
+   "headline": "Madrigal\u2019s MASH Drug Shows Improvements In Liver Health Across 4 Studies, Days After Company Disclosed $1.1B Rezdiffra Sales",
+   "summary": "Across four studies, 37% to 55% of patients experienced at least a 25% improvement in liver stiffness after about one year of treatment",
+   "url": "https://finnhub.io/api/news?id=d7bb0bbe2b2f5a09a303b6016ea9fd9de299a256ae792696117644754739f97f",
+   "source": "Yahoo",
+   "published": "2026-11-05T17:25:30+00:00",
+   "tickers": [
+    "MDGL"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -2295,6 +2463,21 @@
    "tag": "Earnings",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "95b91c2518d4",
+   "headline": "Clover Health (CLOV) Q3 2026 Earnings Call Transcript",
+   "summary": "Cohort maturation and a path to first full-year GAAP profit are central to the company's outlook.",
+   "url": "https://finnhub.io/api/news?id=76f067937f680a5d3d45c98115a36f63294894e9a7f3e0919b925b8135639793",
+   "source": "Yahoo",
+   "published": "2026-11-05T16:59:19+00:00",
+   "tickers": [
+    "CLOV"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -2708,7 +2891,8 @@
    "published": "2026-11-05T16:10:48+00:00",
    "tickers": [
     "JNJ",
-    "LLY"
+    "LLY",
+    "SNY"
    ],
    "tag": "News",
    "sectors": [
@@ -3164,6 +3348,21 @@
    ]
   },
   {
+   "id": "88533fd1943a",
+   "headline": "Madrigal Announces New Real-World Data at AASLD 2026 Demonstrating Improvements in Liver Stiffness and Cardiometabolic Health Markers with Rezdiffra",
+   "summary": "In real-world studies, up to 93% of patients experienced improvement or stabilization in liver stiffness with ultrasound elastography, with many patients moving into lower liver stiffness categories one year after treatment\u2026",
+   "url": "https://finnhub.io/api/news?id=ccab1a6e55317b9ffe37869af9636a17fccf0b632879ff6e76b87055fd03b29f",
+   "source": "Yahoo",
+   "published": "2026-11-05T15:00:00+00:00",
+   "tickers": [
+    "MDGL"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "1ddf70446bce",
    "headline": "STAT+: Pharmalittle: We\u2019re reading about India\u2019s new manufacturing rules, clinical trials in China, and more",
    "summary": "India proposed rules requiring regulators to immediately suspend manufacturing licenses for drugs that fail quality standards in government testing",
@@ -3334,6 +3533,21 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "25d091069bd7",
+   "headline": "Novavax\u2019s (NASDAQ:NVAX) Q3 2026: strong sales, guides for strong full-year sales",
+   "summary": "Vaccine biotechnology company Novavax (NASDAQ:NVAX) beat Wall Street\u2019s revenue expectations in Q3 2026, but revenue fell by 3% year on year to $68.3 million. The company\u2019s full-year revenue guidance of $400 million at the midpoint came in\u2026",
+   "url": "https://finnhub.io/api/news?id=9468d7602c9c6647f687c4bbf01630333c66f4b8054ec980f33839ea30cdf32f",
+   "source": "Yahoo",
+   "published": "2026-11-05T14:07:35+00:00",
+   "tickers": [
+    "SNY"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -4195,6 +4409,36 @@
    "tag": "GLP-1",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "00671ae193bd",
+   "headline": "Novavax Reports Third Quarter 2026 Financial Results and Operational Highlights",
+   "summary": "Novavax, Inc. (Nasdaq: NVAX) today announced its financial results and operational highlights for the third quarter ended September 30, 2026.",
+   "url": "https://finnhub.io/api/news?id=3a1fad592dc1e6843df60e98de6073c600f842f2352b7b662a1dd3eaf44b289b",
+   "source": "Yahoo",
+   "published": "2026-11-05T13:00:00+00:00",
+   "tickers": [
+    "SNY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "a5d2ab1c8c29",
+   "headline": "Cadara Partners with Waystar to Advance Connected Payments for Post-Acute Care",
+   "summary": "Cadara\u2122, formerly National Care Systems, today announced a strategic partnership with Waystar and the availability of Cadara Exchange\u2122, an integrated experience purpose-built for post-acute revenue management. The solution connects Cadara\u2026",
+   "url": "https://finnhub.io/api/news?id=10209dd79fadb0f18473659a4ba4af7a36f5b8ac60b1edec3408aac511a6986c",
+   "source": "Yahoo",
+   "published": "2026-11-05T13:00:00+00:00",
+   "tickers": [
+    "WAY"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
    ]
   },
   {
@@ -5599,6 +5843,21 @@
    ]
   },
   {
+   "id": "85df0351826f",
+   "headline": "Sanofi (ENXTPA:SAN) Could Be 16% Overvalued After Strong Q3 Results And Higher 2026 Guidance",
+   "summary": "Sanofi (ENXTPA:SAN) is back in focus after third quarter results and an earnings guidance upgrade for 2026, paired with a strong month-long share move of about 20%. For context, Sanofi\u2019s share price has climbed about 20.2% over the past\u2026",
+   "url": "https://finnhub.io/api/news?id=43fa9cd6b5866670b075b1f71124508d1e0526dba080c3809e76bd14e7951980",
+   "source": "Yahoo",
+   "published": "2026-11-05T10:22:55+00:00",
+   "tickers": [
+    "SNY"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "e7a9e93a12cf",
    "headline": "ALIGN TECHNOLOGY INC (NASDAQ:ALGN) Screens as an Undervalued Value Stock",
    "summary": "Align Technology looks like a decent value stock: low P/E, no debt, strong profitability, and modest growth, but margin and liquidity risks persist.",
@@ -6193,6 +6452,21 @@
    ]
   },
   {
+   "id": "48072ede8354",
+   "headline": "Sanofi Stock And Why Earnings Guidance Raised Matters For Shareholders",
+   "summary": "Sanofi reported third quarter 2026 sales of \u20ac14,444 million and net income of \u20ac3,021 million, and raised full year 2026 earnings guidance while projecting low teens % sales growth and mid teens % business EPS growth at constant exchange\u2026",
+   "url": "https://finnhub.io/api/news?id=dde0e765a70b3592744f2d7d3955303fe5b89869468cf01b107c9d6efc6ed14d",
+   "source": "Yahoo",
+   "published": "2026-11-05T08:14:51+00:00",
+   "tickers": [
+    "SNY"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "a923572bf992",
    "headline": "Evolent Health Affirms FY2026 Sales Guidance of $2.600B-$2.700B vs $2.626B Est",
    "summary": "Evolent Health (NYSE:EVH) affirms FY2026 sales outlook from $2.600 billion-$2.700 billion to $2.600 billion-$2.700 billion vs $2.626 billion estimate.",
@@ -6502,6 +6776,21 @@
    "tag": "M&A",
    "sectors": [
     "pharmacy"
+   ]
+  },
+  {
+   "id": "9b72cc5b20f3",
+   "headline": "Clover Health Investments Corp (CLOV) Q3 2026 Earnings Call Highlights: First Full-Year GAAP ...",
+   "summary": "Clover Health Investments Corp (CLOV) expects its first full year of GAAP net income profitability in 2026, with membership up nearly 50% and revenue climbing 57% to $2.3 billion.",
+   "url": "https://finnhub.io/api/news?id=e1fb5def2b818e395493d9d75a289a84d4ceded385dfb3ea5878003b3882538e",
+   "source": "Yahoo",
+   "published": "2026-11-05T07:11:50+00:00",
+   "tickers": [
+    "CLOV"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -13631,6 +13920,36 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "7559d49c481c",
+   "headline": "Denali Therapeutics Inc. Q3 2026 Earnings Call Summary",
+   "summary": "Moby summary of Denali Therapeutics Inc.'s Q3 2026 earnings call",
+   "url": "https://finnhub.io/api/news?id=f5359b92fde3c4843b978e7bfc823cc4b06df381a076c922db5e120987ea98b5",
+   "source": "Yahoo",
+   "published": "2026-11-04T13:30:00+00:00",
+   "tickers": [
+    "DNLI"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "f34e4c76595f",
+   "headline": "American Well Corporation Q3 2026 Earnings Call Summary",
+   "summary": "Moby summary of American Well Corporation's Q3 2026 earnings call",
+   "url": "https://finnhub.io/api/news?id=4603c1b84971928bbf4c2e1b282498d3eda39cc0947822ae7606760ed55b0313",
+   "source": "Yahoo",
+   "published": "2026-11-04T13:30:00+00:00",
+   "tickers": [
+    "AMWL"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
    ]
   },
   {
