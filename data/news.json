@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-06T12:47:33.468234+00:00",
+ "updated": "2026-11-06T13:03:01.753776+00:00",
  "quotes": {
   "A": {
    "price": 171.78,
@@ -126,10 +126,6 @@
    "price": 33.18,
    "change_pct": -4.3
   },
-  "DVA": {
-   "price": 194.82,
-   "change_pct": 1.12
-  },
   "ELV": {
    "price": 432,
    "change_pct": -0.5
@@ -198,10 +194,6 @@
    "price": 14.12,
    "change_pct": -4.72
   },
-  "ICLR": {
-   "price": 201.65,
-   "change_pct": -0.72
-  },
   "IDXX": {
    "price": 670.71,
    "change_pct": -3.99
@@ -233,10 +225,6 @@
   "LFST": {
    "price": 13.43,
    "change_pct": -5.49
-  },
-  "LH": {
-   "price": 363.3,
-   "change_pct": -1.22
   },
   "LLY": {
    "price": 1364.73,
@@ -321,6 +309,18 @@
   "PRVA": {
    "price": 23.94,
    "change_pct": 6.88
+  },
+  "QGEN": {
+   "price": 50.86,
+   "change_pct": 0.06
+  },
+  "RARE": {
+   "price": 15.57,
+   "change_pct": -9.27
+  },
+  "REGN": {
+   "price": 902.9,
+   "change_pct": -2.98
   }
  },
  "tickers": {
@@ -953,6 +953,21 @@
    ]
   },
   {
+   "id": "da330f7f12fe",
+   "headline": "Moderna (NASDAQ:MRNA) Q3 Earnings Beat and Raised Guidance Fuel Stock Rally",
+   "summary": "Moderna Q3 revenue and EPS beat consensus, swung to profit, raised 2026 revenue guidance, and shares rose 7.9% premarket on strong results.",
+   "url": "https://finnhub.io/api/news?id=44f0fdcfa627338f82c211b9f2488c8bacdddfb75e63ee789f29c28ee56b952f",
+   "source": "ChartMill",
+   "published": "2026-11-06T12:28:06+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "c3601e91b8ab",
    "headline": "Humana (NYSE:HUM) Posts Mixed Q3 Results and Raises FY2026 Adjusted EPS Guidance",
    "summary": "Humana's mixed Q3 2026 results met revenue views, adjusted loss was narrower, and FY adjusted EPS guidance rose, though shares dipped premarket.",
@@ -994,6 +1009,21 @@
    ]
   },
   {
+   "id": "e0ea6819952f",
+   "headline": "Moderna: Q3 Earnings Snapshot",
+   "summary": "(MRNA) on Friday reported third-quarter profit of $162 million.On a per-share basis, the Cambridge, Massachusetts-based company said it had profit of 38 cents.",
+   "url": "https://finnhub.io/api/news?id=526d5159c04812f2ecc2298aff13eb71f3e5e83ea2323f81c07bab2ac8bdbff8",
+   "source": "Yahoo",
+   "published": "2026-11-06T11:51:41+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "0663a51606fc",
    "headline": "Lilly and Hims & Hers expand access to FDA-approved Lilly medicines",
    "summary": "Agreement gives patients a path to FDA-approved treatments at self-pay price through the Hims & Hers platform INDIANAPOLIS, Nov. 6, 2026 /PRNewswire/ -- Eli Lilly and Company (NYSE: LLY) and Hims & Hers Health, Inc. (NYSE: HIMS) today\u2026",
@@ -1007,6 +1037,37 @@
    "tag": "FDA",
    "sectors": [
     "healthit",
+    "pharma"
+   ]
+  },
+  {
+   "id": "19f3abecef1b",
+   "headline": "Lilly and Hims & Hers expand access to FDA-approved Lilly medicines",
+   "summary": "INDIANAPOLIS, November 06, 2026--Eli Lilly and Company (NYSE: LLY) and Hims & Hers Health, Inc. (NYSE: HIMS) today announced an agreement to help expand access to Zepbound (tirzepatide) and Foundayo (orforglipron). Through the agreement,\u2026",
+   "url": "https://finnhub.io/api/news?id=c217b84822e73a1b0a935d7fde9c9d88454efbf95ce9a69b3b526ac1286283b3",
+   "source": "Yahoo",
+   "published": "2026-11-06T11:47:00+00:00",
+   "tickers": [
+    "HIMS",
+    "LLY"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "da77d909ad47",
+   "headline": "Moderna Reports Third Quarter 2026 Financial Results and Provides Business Updates",
+   "summary": "Reports third quarter revenue of $1.3 billion, GAAP net income of $0.",
+   "url": "https://finnhub.io/api/news?id=340447f5dff23208f01d532339634d09cc078857b5492d22a53ab559707fe463",
+   "source": "Yahoo",
+   "published": "2026-11-06T11:45:00+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "Earnings",
+   "sectors": [
     "pharma"
    ]
   },
@@ -1056,6 +1117,21 @@
    ]
   },
   {
+   "id": "16b48266d3ab",
+   "headline": "Capital Group Growth (CGGR) Buys $16.8 Million More Seagate on Nov. 4",
+   "summary": "The ETF bought $16.8 million of Seagate and $10.4 million of Meta while selling $119.5 million of Apple on Wednesday.",
+   "url": "https://finnhub.io/api/news?id=edafee5d6dff8c12c571ededdf693578dd8201730c797f6d0e5249cec5123071",
+   "source": "Yahoo",
+   "published": "2026-11-06T11:06:02+00:00",
+   "tickers": [
+    "TMO"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "376ac20ec04a",
    "headline": "State Street Health Care SPDR (XLV) Adds Eli Lilly and J&J on Nov. 4",
    "summary": "The $50.93 billion fund bought $284.5 million of stock, lifting all 60 positions and selling nothing.",
@@ -1065,6 +1141,7 @@
    "tickers": [
     "ABBV",
     "JNJ",
+    "LLY",
     "UNH"
    ],
    "tag": "News",
@@ -1097,6 +1174,21 @@
    "published": "2026-11-06T11:04:37+00:00",
    "tickers": [
     "AMGN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "20737421d87f",
+   "headline": "Invesco S&P 500 Equal Weight (RSP) Adds Okta and Moderna on Nov. 4",
+   "summary": "The fund bought $585.6 million more than it sold, with Okta Inc. its largest new position at $224.7 million.",
+   "url": "https://finnhub.io/api/news?id=27658733d4f4c4c46c2195333471ab042f3e55c76ff1b52ffcc425c42b840fee",
+   "source": "Yahoo",
+   "published": "2026-11-06T11:04:30+00:00",
+   "tickers": [
+    "MRNA"
    ],
    "tag": "News",
    "sectors": [
@@ -1187,7 +1279,8 @@
    "published": "2026-11-06T10:35:59+00:00",
    "tickers": [
     "AMGN",
-    "BIIB"
+    "BIIB",
+    "MRNA"
    ],
    "tag": "Clinical",
    "sectors": [
@@ -6948,6 +7041,21 @@
    "tag": "News",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "ed8a7ad37f61",
+   "headline": "McKesson Corporation Q2 2027 Earnings Call Summary",
+   "summary": "Moby summary of McKesson Corporation's Q2 2027 earnings call",
+   "url": "https://finnhub.io/api/news?id=e437b13a05aef2e0a7cf1b4b4d7c539e4c966b34dd43e7f2c3125e7251c2e209",
+   "source": "Yahoo",
+   "published": "2026-11-05T13:30:00+00:00",
+   "tickers": [
+    "OPCH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -69154,341 +69262,6 @@
    "tag": "News",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "7e896f745ecf",
-   "headline": "IntegriChain Appoints Chris Hare as Chief Revenue Officer",
-   "summary": "IntegriChain, the leading provider of revenue optimization technology and consulting for the pharmaceutical industry, today announced the appointment of Chris Hare as Chief Revenue Officer. Hare brings more than two decades of experience\u2026",
-   "url": "https://finnhub.io/api/news?id=6f415db7ae9b65d738e8e8cd1247f3f471cb4bca9617837bc5ca9d782dbbc514",
-   "source": "Yahoo",
-   "published": "2026-10-27T13:01:00+00:00",
-   "tickers": [
-    "GEHC"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "9c28629b8548",
-   "headline": "Artiva lays off 94% of staff after deaths and durability sink autoimmune cell therapy",
-   "summary": "Artiva Biotherapeutics has halted development of an autoimmune disease cell therapy and laid off 94% of its staff after two patients died and durability data fell short of expectations.",
-   "url": "https://www.fiercebiotech.com/biotech/artiva-lays-94-staff-after-deaths-and-durability-sink-autoimmune-cell-therapy",
-   "source": "Fierce Biotech",
-   "published": "2026-10-27T13:00:28.045469+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "e949ab12a7e7",
-   "headline": "Ultragenyx (RARE) May Report Negative Earnings: Know the Trend Ahead of Q3 Release",
-   "summary": "Ultragenyx (RARE) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-   "url": "https://finnhub.io/api/news?id=43e3403b01a4009c4dd538e80e14546655a46c0a48b43c105218993dc9301076",
-   "source": "Yahoo",
-   "published": "2026-10-27T13:00:18+00:00",
-   "tickers": [
-    "JAZZ",
-    "RARE"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "6788aa176df7",
-   "headline": "Rhythm Pharmaceuticals, Inc. (RYTM) Expected to Beat Earnings Estimates: What to Know Ahead of Q3 Release",
-   "summary": "Rhythm Pharmaceuticals (RYTM) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-   "url": "https://finnhub.io/api/news?id=e916ec39796e5c9059bdd5c3c46c9588b37194fae2a5fb6c613d42ee26d21912",
-   "source": "Yahoo",
-   "published": "2026-10-27T13:00:18+00:00",
-   "tickers": [
-    "AXSM"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "4ce4edc960cc",
-   "headline": "Will Madrigal (MDGL) Report Negative Earnings Next Week? What You Should Know",
-   "summary": "Madrigal (MDGL) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-   "url": "https://finnhub.io/api/news?id=0b625e042b2e52a971d3556384f55af832a699d2ac3abd7bffe0698ca05eb162",
-   "source": "Yahoo",
-   "published": "2026-10-27T13:00:17+00:00",
-   "tickers": [
-    "MDGL"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "bebfff9bb6d8",
-   "headline": "Mirum Pharmaceuticals, Inc. (MIRM) Expected to Beat Earnings Estimates: What to Know Ahead of Q3 Release",
-   "summary": "Mirum Pharmaceuticals (MIRM) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-   "url": "https://finnhub.io/api/news?id=9908ec6d1b1474a7fe90b1a4206cdb09366b823e917775e7bc1a83e96cc4a284",
-   "source": "Yahoo",
-   "published": "2026-10-27T13:00:17+00:00",
-   "tickers": [
-    "TGTX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "14faff256939",
-   "headline": "Will Kura Oncology (KURA) Report Negative Q3 Earnings? What You Should Know",
-   "summary": "Kura Oncology (KURA) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-   "url": "https://finnhub.io/api/news?id=e7ebb6350689952d47b6c6246f2f8f5a9bbbddc3d4f0750444359f6b9055b0af",
-   "source": "Yahoo",
-   "published": "2026-10-27T13:00:16+00:00",
-   "tickers": [
-    "INSM"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "b0a916f6b226",
-   "headline": "AnaptysBio, Inc. (ANAB) Expected to Beat Earnings Estimates: Should You Buy?",
-   "summary": "AnaptysBio (ANAB) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-   "url": "https://finnhub.io/api/news?id=51d4c068d17e860f40c6da1577da7fea3641fce0ab7454c8962679281f57b665",
-   "source": "Yahoo",
-   "published": "2026-10-27T13:00:15+00:00",
-   "tickers": [
-    "BMY"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "11395265fb75",
-   "headline": "IDEAYA Biosciences, Inc. (IDYA) Expected to Beat Earnings Estimates: Can the Stock Move Higher?",
-   "summary": "IDEAYA Biosciences (IDYA) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-   "url": "https://finnhub.io/api/news?id=5b6e7a7f82542c61c0eed84582cda3360aff924c96b2a8d67c3a58a1925500d2",
-   "source": "Yahoo",
-   "published": "2026-10-27T13:00:14+00:00",
-   "tickers": [
-    "EXEL"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "a8fdabce8efd",
-   "headline": "Amneal Pharmaceuticals (AMRX) Earnings Expected to Grow: Should You Buy?",
-   "summary": "Amneal (AMRX) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-   "url": "https://finnhub.io/api/news?id=909c50b4a0817cf1e9c0c54d837b1d5679b36cd81a71597f3bdda4a1a9f62371",
-   "source": "Yahoo",
-   "published": "2026-10-27T13:00:14+00:00",
-   "tickers": [
-    "NBIX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "daf0f3aa23dc",
-   "headline": "Amgen (AMGN) Reports Next Week: Wall Street Expects Earnings Growth",
-   "summary": "Amgen (AMGN) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-   "url": "https://finnhub.io/api/news?id=b189e848d3dbac066601a03e8f4b82d8099199ddeff5d2b921ccbf3b0beed18b",
-   "source": "Yahoo",
-   "published": "2026-10-27T13:00:14+00:00",
-   "tickers": [
-    "AMGN",
-    "KRYS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "e52c01cbbea8",
-   "headline": "Analysts Estimate Henry Schein (HSIC) to Report a Decline in Earnings: What to Look Out for",
-   "summary": "Henry Schein (HSIC) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-   "url": "https://finnhub.io/api/news?id=c88f1f2552642d45a4795f0b27139650d4c67e7dcece0352275c8939bc780503",
-   "source": "Yahoo",
-   "published": "2026-10-27T13:00:13+00:00",
-   "tickers": [
-    "HSIC"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharmacy"
-   ]
-  },
-  {
-   "id": "1ead14730c2c",
-   "headline": "Pfizer (PFE) Expected to Beat Earnings Estimates: Should You Buy?",
-   "summary": "Pfizer (PFE) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-   "url": "https://finnhub.io/api/news?id=79aef36055d9b5d0d83ed652b9d1eefbbf4047bd59d33a32e1b00ff5f9db8179",
-   "source": "Yahoo",
-   "published": "2026-10-27T13:00:09+00:00",
-   "tickers": [
-    "MRK",
-    "PFE"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "4e6892ff621c",
-   "headline": "DaVita Brings Preventive Health Screenings Into Communities to Help Identify Hidden Health Risks",
-   "summary": "Nearly 1,000 people screened in Houston and Los Angeles, with a majority showing signs of elevated chronic disease risk DENVER, Oct. 27, 2026 /PRNewswire/ -- Millions of Americans are living with chronic disease and don't know it. The\u2026",
-   "url": "https://www.prnewswire.com/news-releases/davita-brings-preventive-health-screenings-into-communities-to-help-identify-hidden-health-risks-302920573.html",
-   "source": "PR Newswire",
-   "published": "2026-10-27T13:00:00+00:00",
-   "tickers": [
-    "DVA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "2c5f11204489",
-   "headline": "Counsel Health Launches Weight Management Program, Bringing Continuous Physician-Led, AI-Native Care to GLP-1 Treatment",
-   "summary": "NEW YORK, October 27, 2026--Counsel Health, the AI-native primary care company, today announced the launch of its weight management program, bringing its comprehensive care model to obesity treatment. As part of this launch, Counsel is\u2026",
-   "url": "https://finnhub.io/api/news?id=40590c2f77102f8721456877bbb884fdea2f71cf502fffa9d013d9bce321150b",
-   "source": "Yahoo",
-   "published": "2026-10-27T13:00:00+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "303e07acb78e",
-   "headline": "DaVita Brings Preventive Health Screenings Into Communities to Help Identify Hidden Health Risks",
-   "summary": "Millions of Americans are living with chronic disease and don't know it. The risks are often interconnected: High blood pressure and diabetes can increase the risk of kidney disease, while chronic kidney disease (CKD) often progresses\u2026",
-   "url": "https://finnhub.io/api/news?id=0c43daeebef13ef2367dd0dd673ea69b21893adcd0f534155a6f42767c4dcf3b",
-   "source": "Yahoo",
-   "published": "2026-10-27T13:00:00+00:00",
-   "tickers": [
-    "DVA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "aadfff480692",
-   "headline": "Moderna Has Its Doubters. CEO Bancel Plans to Answer With a Cancer Shot.",
-   "summary": "Moderna CEO St\u00e9phane Bancel says the biotech\u2019s competitive edge stems from its mRNA platform, likening it to software in Big Tech.",
-   "url": "https://finnhub.io/api/news?id=47a4c9861a4ffc7f18afd77bd050974f815dc357b5c9a22c55c56be75c64e638",
-   "source": "Yahoo",
-   "published": "2026-10-27T13:00:00+00:00",
-   "tickers": [
-    "LLY",
-    "MRK",
-    "MRNA",
-    "PFE"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "d14085a4c9a8",
-   "headline": "Moderna\u2019s CEO Gives an Inside Look at the Biotech\u2019s New Era",
-   "summary": "Moderna CEO St\u00e9phane Bancel says the biotech\u2019s competitive edge stems from its mRNA platform, likening it to software in Big Tech.",
-   "url": "https://finnhub.io/api/news?id=9c083115074c79f1179f698f1b77797ca6384fc8781fb43c1e76be7507c5dc10",
-   "source": "Yahoo",
-   "published": "2026-10-27T13:00:00+00:00",
-   "tickers": [
-    "LLY",
-    "MRK",
-    "MRNA",
-    "PFE"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "d598f0b2facd",
-   "headline": "IQVIA Holdings Inc. (IQV) Q3 2026 Earnings Call Transcript",
-   "summary": "IQVIA Holdings Inc. (IQV) Q3 2026 Earnings Call October 27, 2026 9:00 AM EDTCompany ParticipantsKerri Joseph - Senior Vice President of Investor...",
-   "url": "https://finnhub.io/api/news?id=068d5c17ad31539d2ad1bc03e0bd4248f82ec955e57e0cfde3ba1e6e4ea7189f",
-   "source": "SeekingAlpha",
-   "published": "2026-10-27T12:49:54+00:00",
-   "tickers": [
-    "IQV"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "9e8f5b6df51b",
-   "headline": "BTIG Maintains Buy on Natera, Raises Price Target to $430",
-   "summary": "BTIG analyst Mark Massaro maintains Natera (NASDAQ:NTRA) with a Buy and raises the price target from $320 to $430.",
-   "url": "https://finnhub.io/api/news?id=5e51ba365f43ac87155fa7f548c794a076729840edb089716cf9b9fb9533f03d",
-   "source": "Benzinga",
-   "published": "2026-10-27T12:49:17+00:00",
-   "tickers": [
-    "NTRA"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "a3eb25f3b63b",
-   "headline": "What 3 multibillion dollar biotechs still have to prove",
-   "summary": "Summit, Abivax and Viking have lofty valuations but no FDA-approved products. Each faces a different test of its clinical promise and commercial potential.",
-   "url": "https://finnhub.io/api/news?id=de6e14ec844cf0832060ba40081f1458085d90ea4dc3841957ef1476563d094f",
-   "source": "Yahoo",
-   "published": "2026-10-27T12:48:59+00:00",
-   "tickers": [
-    "RVMD"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "23ab8988cc7c",
-   "headline": "BTIG Maintains Buy on Guardant Health, Raises Price Target to $210",
-   "summary": "BTIG analyst Mark Massaro maintains Guardant Health (NASDAQ:GH) with a Buy and raises the price target from $195 to $210.",
-   "url": "https://finnhub.io/api/news?id=dfb72cc45e290121c646540adb38dd0e0e733c57fd9e159a81f68cb79cac77a3",
-   "source": "Benzinga",
-   "published": "2026-10-27T12:47:52+00:00",
-   "tickers": [
-    "GH"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "tools"
    ]
   }
  ]
