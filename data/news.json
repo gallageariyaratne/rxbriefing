@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-06T12:02:47.121143+00:00",
+ "updated": "2026-11-06T12:17:32.759493+00:00",
  "quotes": {
   "A": {
    "price": 171.78,
@@ -53,10 +53,6 @@
   "BDX": {
    "price": 213.55,
    "change_pct": 2.08
-  },
-  "BEAM": {
-   "price": 25.87,
-   "change_pct": -6.91
   },
   "BIIB": {
    "price": 243.93,
@@ -218,10 +214,6 @@
    "price": 208,
    "change_pct": -8.18
   },
-  "INSM": {
-   "price": 108.76,
-   "change_pct": -1.13
-  },
   "IONS": {
    "price": 38.8,
    "change_pct": -3.36
@@ -321,6 +313,14 @@
   "PFE": {
    "price": 29.88,
    "change_pct": -2.96
+  },
+  "PHR": {
+   "price": 12.71,
+   "change_pct": -3.57
+  },
+  "PODD": {
+   "price": 156.12,
+   "change_pct": -5.39
   }
  },
  "tickers": {
@@ -956,12 +956,42 @@
    "source": "PR Newswire",
    "published": "2026-11-06T11:47:00+00:00",
    "tickers": [
-    "LLY",
-    "HIMS"
+    "HIMS",
+    "LLY"
    ],
    "tag": "FDA",
    "sectors": [
     "healthit",
+    "pharma"
+   ]
+  },
+  {
+   "id": "bebb98d3dc91",
+   "headline": "Medtronic (NYSE:MDT): A Dividend Quality Play for Income Investors",
+   "summary": "Medtronic passes Best Dividend Stocks screen with 3.5% yield and strong profitability, though a high 69.78% payout ratio limits safety margin.",
+   "url": "https://finnhub.io/api/news?id=c5866150daa5b17a368e006ca591bba099bc623ca0151d4016480dc97785bc65",
+   "source": "ChartMill",
+   "published": "2026-11-06T11:11:10+00:00",
+   "tickers": [
+    "MDT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "376ac20ec04a",
+   "headline": "State Street Health Care SPDR (XLV) Adds Eli Lilly and J&J on Nov. 4",
+   "summary": "The $50.93 billion fund bought $284.5 million of stock, lifting all 60 positions and selling nothing.",
+   "url": "https://finnhub.io/api/news?id=9116e23a41b404dc7708ca7fa4f22176b1cd57c96fb69dd3ac0bef930ac84d71",
+   "source": "Yahoo",
+   "published": "2026-11-06T11:05:33+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
     "pharma"
    ]
   },
@@ -1307,6 +1337,21 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "f745136905a6",
+   "headline": "Novo Nordisk Owns The Oral Weight Loss Market At 7.8x Operating Income",
+   "summary": "Novo Nordisk earns a Strong Buy on strong Q3 results, Wegovy pill growth, and value upside. Click here to read an analysis of NVO stock now.",
+   "url": "https://finnhub.io/api/news?id=7bef73b7070e4d308606ea5e4d0b4d5e4699d1e94b0b17147d022d8a0028b60c",
+   "source": "SeekingAlpha",
+   "published": "2026-11-06T06:16:55+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -69535,66 +69580,6 @@
    "tag": "Earnings",
    "sectors": [
     "pharmacy"
-   ]
-  },
-  {
-   "id": "2901c10923f2",
-   "headline": "Unveiling Teladoc (TDOC) Q3 Outlook: Wall Street Estimates for Key Metrics",
-   "summary": "Get a deeper insight into the potential performance of Teladoc (TDOC) for the quarter ended September 2026 by going beyond Wall Street's top-and-bottom-line estimates and examining the estimates for some of its key metrics.",
-   "url": "https://finnhub.io/api/news?id=719c2e78927472345c9e0887c4c52d0068340317ea52584493f24ee0660db6e2",
-   "source": "Yahoo",
-   "published": "2026-10-27T12:15:06+00:00",
-   "tickers": [
-    "TDOC"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "cc5c96be1206",
-   "headline": "Insights Into Tenet (THC) Q3: Wall Street Projections for Key Metrics",
-   "summary": "Get a deeper insight into the potential performance of Tenet (THC) for the quarter ended September 2026 by going beyond Wall Street's top-and-bottom-line estimates and examining the estimates for some of its key metrics.",
-   "url": "https://finnhub.io/api/news?id=e29755a734efbb7aadb6ff777f4d70dbff3b0e1a6e0bd355dba0fcd9fa51f289",
-   "source": "Yahoo",
-   "published": "2026-10-27T12:15:03+00:00",
-   "tickers": [
-    "THC"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "ebe1ea82488d",
-   "headline": "Pinnacle Food Group Limited Engages Strategic Advisor to Support M&A Initiatives",
-   "summary": "The engagement, which will be led by Noah Friedman, a Partner of the Strategic Advisor and a former Medtronic executive, is intended to support the Company's M&A initiatives.As the Company advances its M&A initiatives, the Strategic\u2026",
-   "url": "https://finnhub.io/api/news?id=36ed8504485c2dc54cf9e4cebc045d864b2b85f8929dc0c803c99f8431e7d3e3",
-   "source": "Yahoo",
-   "published": "2026-10-27T12:15:00+00:00",
-   "tickers": [
-    "MDT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "2e62449eb3af",
-   "headline": "Centene Stock Approaches 52-Week High on Faster-Than-Expected Earnings Recovery",
-   "summary": "Centene reports Q3 adjusted EPS of 58 cents on $50.65B in revenue, beating forecasts and raising full-year 2026 guidance despite Medicaid membership drops.",
-   "url": "https://finnhub.io/api/news?id=a6ea6e0de9619ee026d623fdfecf8f3845815659c402b2c961361f9cdef98355",
-   "source": "Benzinga",
-   "published": "2026-10-27T12:11:42+00:00",
-   "tickers": [
-    "CNC"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
    ]
   }
  ]
