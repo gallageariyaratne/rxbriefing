@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-06T13:03:01.753776+00:00",
+ "updated": "2026-11-06T13:17:32.305178+00:00",
  "quotes": {
   "A": {
    "price": 171.78,
@@ -202,10 +202,6 @@
    "price": 208,
    "change_pct": -8.18
   },
-  "IONS": {
-   "price": 38.8,
-   "change_pct": -3.36
-  },
   "IRTC": {
    "price": 130.19,
    "change_pct": -2.84
@@ -321,6 +317,10 @@
   "REGN": {
    "price": 902.9,
    "change_pct": -2.98
+  },
+  "RGEN": {
+   "price": 168.48,
+   "change_pct": -5.45
   }
  },
  "tickers": {
@@ -7056,6 +7056,21 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "250e09cb6283",
+   "headline": "Cytokinetics, Incorporated Q3 2026 Earnings Call Summary",
+   "summary": "Moby summary of Cytokinetics, Incorporated's Q3 2026 earnings call",
+   "url": "https://finnhub.io/api/news?id=f467ceff171e6c239d62dc4cd6fa1a84f400b32fca9d0643f08bc367473a5d7a",
+   "source": "Yahoo",
+   "published": "2026-11-05T13:30:00+00:00",
+   "tickers": [
+    "CYTK"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -69127,137 +69142,6 @@
    "published": "2026-10-27T13:19:31+00:00",
    "tickers": [
     "BIIB"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "7b50853e2105",
-   "headline": "Vera Health secures $28.5M series A for AI-driven clinical search engine",
-   "summary": "Vera Health\u2019s platform scans more than 60 million peer-reviewed publications, clinical guidelines, consensus statements and drug labels, executives say.",
-   "url": "https://www.fiercehealthcare.com/finance/vera-health-secures-285m-series-ai-driven-clinical-search-engine",
-   "source": "Fierce Healthcare",
-   "published": "2026-10-27T13:15:24.194731+00:00",
-   "tickers": [],
-   "tag": "Financing",
-   "sectors": []
-  },
-  {
-   "id": "90b6567d005e",
-   "headline": "Did New CFO Hire Just Shift FedEx (FDX) Investment Narrative?",
-   "summary": "FedEx appointed Jamere Jackson as Chief Financial Officer and Executive Vice President, effective November 30, 2026, replacing interim CFO Claude Russ after a transition period that followed the FedEx Freight spinoff. Jackson brings a\u2026",
-   "url": "https://finnhub.io/api/news?id=f1287ab0f0266faace1a4af424cfacaeb72fa34f1dd72cb6c51272a7213bd04d",
-   "source": "Yahoo",
-   "published": "2026-10-27T13:14:46+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "8dc8d67b41e6",
-   "headline": "Is AbbVie (ABBV) Fully Valued Following Its Crohn's Disease SKYRIZI Approval?",
-   "summary": "AbbVie (ABBV) just secured U.S. FDA approval for a subcutaneous induction regimen of SKYRIZI in adults with moderately to severely active Crohn's disease, giving patients a home-based start option using an on-body injector. Against this\u2026",
-   "url": "https://finnhub.io/api/news?id=d1de1c530e8859f52a05336d7569ffc982ffa15c8c22608dbbd0f575d4d6e822",
-   "source": "Yahoo",
-   "published": "2026-10-27T13:12:08+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "ef3610985eee",
-   "headline": "HCA Healthcare Beats Wall Street Estimates, But $400 Million Coverage Gap Trips the Stock",
-   "summary": "HCA Healthcare beat Q3 2026 estimates and raised guidance, but shares slid following a $400 million pretax hit from rising uninsured patient volumes.",
-   "url": "https://finnhub.io/api/news?id=b15749a974dbf3a2d67b5e8effb836c710072bae58337d530e89c2b41afc99df",
-   "source": "Benzinga",
-   "published": "2026-10-27T13:11:15+00:00",
-   "tickers": [
-    "HCA"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "df92a3349ca4",
-   "headline": "Labcorp earnings: what to look for from LH",
-   "summary": "Healthcare diagnostics company Labcorp Holdings (NYSE:LH) will be reporting earnings this Wednesday before market hours. Here\u2019s what to expect.",
-   "url": "https://finnhub.io/api/news?id=4a78312fc24614fd12cd4456305f632b3ff884537b296327a15c8ea7fdda750a",
-   "source": "Yahoo",
-   "published": "2026-10-27T13:10:47+00:00",
-   "tickers": [
-    "LH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "856ecc4d9064",
-   "headline": "Beam Therapeutics Inc. (BEAM) Reviews Initial Phase I II BEAM-301 Data in Glycogen Storage Disease Type 1a Transcript",
-   "summary": "",
-   "url": "https://finnhub.io/api/news?id=9c56f4fbb2c33c9d9a672a04f90a89e4455868f62fa3084f8e07a43cd7f9b011",
-   "source": "SeekingAlpha",
-   "published": "2026-10-27T13:10:14+00:00",
-   "tickers": [
-    "BEAM"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "33564123b649",
-   "headline": "BofA Names this Drugmaker a Top Pick on Promising Kidney Drug Data",
-   "summary": "Investing.com -- BofA Securities kept this drugmaker a \u201ctop pick\u201d and reiterated its \u201cbuy\u201d rating and $667 price objective after the company presented new kidney drug data at the American Society of Nephrology meeting.",
-   "url": "https://finnhub.io/api/news?id=ec7e39c6c4ea26add9e2e2c26a84f149da9e9de859dd8aad122a504ad06f0c21",
-   "source": "Yahoo",
-   "published": "2026-10-27T13:09:05+00:00",
-   "tickers": [
-    "VRTX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "896233b12dc7",
-   "headline": "Final Trades: Delta Air Lines, American Tower, UnitedHealth and Apple",
-   "summary": "The Investment Committee give you their top stocks to watch for the second half.",
-   "url": "https://finnhub.io/api/news?id=ace50282b8e5f7b2638412a8601faf6d0c6d9b029a85b82dec0a42583aa3ebb4",
-   "source": "CNBC",
-   "published": "2026-10-27T13:05:55+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "c54c07ae279c",
-   "headline": "Novartis raises 2026 profit outlook as drug sales offset $1.9 billion impairment",
-   "summary": "Novartis AG (ADR) (NYSE:NVS), the Swiss pharmaceutical group, raised its 2026 core operating income outlook after third-quarter sales growth and improving margins offset pressure from generic competition. The company now expects core\u2026",
-   "url": "https://finnhub.io/api/news?id=4e0697bdf298bb508e60f3cfdf52a1fb9c65417a8bdd2c4bb880d05f6c077068",
-   "source": "Yahoo",
-   "published": "2026-10-27T13:05:00+00:00",
-   "tickers": [
-    "NVS"
    ],
    "tag": "News",
    "sectors": [
