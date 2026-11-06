@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-06T06:47:36.622924+00:00",
+ "updated": "2026-11-06T07:02:48.151124+00:00",
  "quotes": {
   "A": {
    "price": 171.78,
@@ -218,6 +218,10 @@
    "price": 201.65,
    "change_pct": -0.72
   },
+  "IDXX": {
+   "price": 670.71,
+   "change_pct": -3.99
+  },
   "ILMN": {
    "price": 208,
    "change_pct": -8.18
@@ -317,10 +321,6 @@
   "OSCR": {
    "price": 33.18,
    "change_pct": -5.71
-  },
-  "PACB": {
-   "price": 2.43,
-   "change_pct": -4.71
   }
  },
  "tickers": {
@@ -960,7 +960,8 @@
    "source": "Yahoo",
    "published": "2026-11-06T05:28:36+00:00",
    "tickers": [
-    "HALO"
+    "HALO",
+    "MRK"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -991,11 +992,27 @@
    "published": "2026-11-06T05:14:27+00:00",
    "tickers": [
     "BMY",
-    "HALO"
+    "HALO",
+    "MRK"
    ],
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "0c7ba644b36a",
+   "headline": "Stryker (SYK) Stock May Be 22% Undervalued On Manufacturing Issues",
+   "summary": "Stryker has had a mixed few years on the market, and a series of headlines around manufacturing issues and shifting demand now puts the focus squarely on whether the current share price can be explained by the cash the business is\u2026",
+   "url": "https://finnhub.io/api/news?id=14a8e39e0fe22f40a415c6347ad3ca2fb8e928adae8031360fe96cc51432aca2",
+   "source": "Yahoo",
+   "published": "2026-11-06T05:14:22+00:00",
+   "tickers": [
+    "SYK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -1021,6 +1038,8 @@
    "source": "Yahoo",
    "published": "2026-11-06T04:21:38+00:00",
    "tickers": [
+    "IDXX",
+    "MRK",
     "ZTS"
    ],
    "tag": "Earnings",
@@ -1157,6 +1176,21 @@
    "tag": "FDA",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "937041adfa59",
+   "headline": "Madison Mid Cap Fund Q3 2026 Portfolio Activity",
+   "summary": "The Madison Mid Cap Fund (Class I) returned -2.09% in the third quarter, compared to the Russell Midcap Index return of -3.00%. Read more here.",
+   "url": "https://finnhub.io/api/news?id=eefbedc3bebbac5cd124995ad9daf5b6d29ab77aa15d0cf11eca1f3ae050a812",
+   "source": "SeekingAlpha",
+   "published": "2026-11-06T01:30:00+00:00",
+   "tickers": [
+    "WAT"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -70506,82 +70540,6 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "cb84a4d06fcb",
-   "headline": "IQVIA Holdings Raises FY2026 Adj EPS Guidance from $12.80-$13.00 to $12.90-$13.00 vs $12.96 Est; Raises FY2026 Sales Guidance from $17.275B-$17.475B to $17.350B-$17.500B vs $17.419B Est",
-   "summary": "IQVIA Holdings (NYSE:IQV) raises FY2026 Adj EPS guidance from $12.80-$13.00 to $12.90-$13.00 vs $12.96 analyst estimate. Raises FY2026 sales outlook from $17.275 billion-$17.475 billion to $17.350 billion-$17.500",
-   "url": "https://finnhub.io/api/news?id=c6fdabaf8b687b57ed933eaf0b543125738a381c3619994ac1d905cfce99999c",
-   "source": "Benzinga",
-   "published": "2026-10-27T07:01:07+00:00",
-   "tickers": [
-    "IQV"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "21d271871495",
-   "headline": "Repligen Raises FY2026 Adj EPS Guidance from $2.03-$2.09 to $2.05-$2.09 vs $2.06 Est; Raises FY2026 Sales Guidance from $813.000M-$835.000M to $844.000M-$852.000M vs $829.693M Est",
-   "summary": "Repligen (NASDAQ:RGEN) raises FY2026 Adj EPS guidance from $2.03-$2.09 to $2.05-$2.09 vs $2.06 analyst estimate. Raises FY2026 sales outlook from $813.000 million-$835.000 million to $844.000 million-$852.000 million vs",
-   "url": "https://finnhub.io/api/news?id=af91fb69eecb306f2551e2f1c89c68baa8c1352b9a0aeabe5293792f5c95b143",
-   "source": "Benzinga",
-   "published": "2026-10-27T07:01:07+00:00",
-   "tickers": [
-    "RGEN"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "5cfbae8b39be",
-   "headline": "Novartis raises annual profit outlook after strong Q3 sales growth",
-   "summary": "Investing.com-- Novartis AG (SIX:NOVN) raised its full-year core operating income outlook on Tuesday after third-quarter sales growth and margin expansion, as strong demand for key medicines and newer products offset continued generic\u2026",
-   "url": "https://finnhub.io/api/news?id=36031c0934aacfdbcc7281ac32bd9c6344d7ddba6e59bd9f8ac7241e0fa73de2",
-   "source": "Yahoo",
-   "published": "2026-10-27T06:53:37+00:00",
-   "tickers": [
-    "NVS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "a4c2239cae34",
-   "headline": "Novo Nordisk Loses Court Bid Against Eli Lilly\u2019s Weight-Loss Drug Ads \u2014 Judge Says Sales Impact Was Negligible",
-   "summary": "Novo Nordisk fails to block Eli Lilly\u2019s weight-loss drug ads as a judge finds little evidence of market impact or lasting harm.",
-   "url": "https://finnhub.io/api/news?id=03525e2b0066573e9e3bb582ef229f93bb0c991c499a214530267feaae089db5",
-   "source": "Benzinga",
-   "published": "2026-10-27T06:51:41+00:00",
-   "tickers": [
-    "LLY",
-    "NVO"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "5059abef4ab8",
-   "headline": "Pfizer Announces That Topline Results In The Phase 3 MagnetisMM-32 Trial Of ELREXFIO Demonstrated Clinically Meaningful And Statistically Significant Benefit For Patients Whose Disease Progressed After Anti-CD38 Therapy And Lenalidomide, With Median PFS Not Yet Reached",
-   "summary": "Pfizer Inc. (NYSE:PFE) today announced topline results from the Phase 3 MagnetisMM-32 study evaluating ELREXFIO\u00ae (elranatamab) as monotherapy in adults with relapsed or refractory multiple myeloma (RRMM) who received at",
-   "url": "https://finnhub.io/api/news?id=6c97e702b4569b9cbaefbd6a0f2c8d63923528fdad0f9f45e308eb9daa4b6e23",
-   "source": "Benzinga",
-   "published": "2026-10-27T06:49:12+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
