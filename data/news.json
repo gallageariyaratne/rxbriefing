@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-06T01:17:44.969379+00:00",
+ "updated": "2026-11-06T01:32:34.190680+00:00",
  "quotes": {
   "A": {
    "price": 171.78,
@@ -37,6 +37,10 @@
   "AMGN": {
    "price": 460.28,
    "change_pct": -3.8
+  },
+  "AXSM": {
+   "price": 129.8,
+   "change_pct": -5.26
   },
   "AZN": {
    "price": 186.85,
@@ -109,6 +113,10 @@
   "CYTK": {
    "price": 55.55,
    "change_pct": -12.66
+  },
+  "DH": {
+   "price": 1.13,
+   "change_pct": -8.13
   },
   "DHR": {
    "price": 226.34,
@@ -313,14 +321,6 @@
   "REGN": {
    "price": 902.9,
    "change_pct": -2.98
-  },
-  "RGEN": {
-   "price": 168.48,
-   "change_pct": -5.45
-  },
-  "RMD": {
-   "price": 239.31,
-   "change_pct": -0.5
   }
  },
  "tickers": {
@@ -953,6 +953,21 @@
    ]
   },
   {
+   "id": "52e1a1705e76",
+   "headline": "Halozyme Therapeutics (NASDAQ:HALO) Q3 In Line, Guidance Midpoint Below Consensus, Shares Fall After Hours",
+   "summary": "Halozyme Q3 2026 results met estimates; raised guidance midpoints lagged consensus, sending HALO shares lower after hours despite 44% royalty growth.",
+   "url": "https://finnhub.io/api/news?id=59194b8148c24e8bea7782091f663c11d6d78cee3d395eb21604914d10c0e10b",
+   "source": "ChartMill",
+   "published": "2026-11-05T23:51:13+00:00",
+   "tickers": [
+    "HALO"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "d8dbcad8d95a",
    "headline": "Did The Market Read Molina Healthcare Stock Right?",
    "summary": "For questions about this article or underlying research, email help@trefis.com.",
@@ -982,6 +997,66 @@
    "tag": "Earnings",
    "sectors": [
     "healthit"
+   ]
+  },
+  {
+   "id": "609ddc5fd0b2",
+   "headline": "Definitive Healthcare (NASDAQ:DH) Q3 Revenue Miss Overshadows EPS Beat as Shares Slip",
+   "summary": "Definitive Healthcare Q3 2026 revenue missed estimates at $54.7M, but non-GAAP EPS beat; shares fell after hours amid a 9% sales decline.",
+   "url": "https://finnhub.io/api/news?id=b2b579abed10b2ebc7e6176d86636ab2bfe0838d04694b56e7b3590281b582c8",
+   "source": "ChartMill",
+   "published": "2026-11-05T23:32:47+00:00",
+   "tickers": [
+    "DH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
+   "id": "b33f3c4e6548",
+   "headline": "Compared to Estimates, Globus Medical (GMED) Q3 Earnings: A Look at Key Metrics",
+   "summary": "The headline numbers for Globus Medical (GMED) give insight into how the company performed in the quarter ended September 2026, but it may be worthwhile to compare some of its key metrics to Wall Street estimates and the year-ago actuals.",
+   "url": "https://finnhub.io/api/news?id=4982c7c486b387d59a544e7d9f99e72b7583cf78e52d200c025fb68a6735b0bc",
+   "source": "Yahoo",
+   "published": "2026-11-05T23:30:02+00:00",
+   "tickers": [
+    "GMED"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "46493eb01427",
+   "headline": "Halozyme falls 6% as raised guidance fails to impress investors",
+   "summary": "Investing.com -- Halozyme Therapeutics Inc (NASDAQ:HALO) reported third-quarter results that exceeded Wall Street expectations, but shares tumbled 6% in after-hours trading Thursday as the company's raised full-year guidance met elevated\u2026",
+   "url": "https://finnhub.io/api/news?id=1d061fdd902a04bca116029a1e4ea743ed3a674e8d17c34e54feb7eca1c280b8",
+   "source": "Yahoo",
+   "published": "2026-11-05T23:29:57+00:00",
+   "tickers": [
+    "HALO"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "ab51e32c6e3a",
+   "headline": "Globus Medical (NYSE:GMED) reports sales below analyst estimates in Q3 2026 earnings",
+   "summary": "Medical device company Globus Medical (NYSE:GMED) fell short of the market\u2019s revenue expectations in Q3 2026, with revenue flat year on year at $763.7 million. The company\u2019s full-year revenue guidance of $3.09 billion at the midpoint came\u2026",
+   "url": "https://finnhub.io/api/news?id=f233c84a2a115b30bf21e9c10f719be8d654e4c20f29d3d562db7b0f426a4804",
+   "source": "Yahoo",
+   "published": "2026-11-05T23:28:28+00:00",
+   "tickers": [
+    "GMED"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -1233,6 +1308,21 @@
    ]
   },
   {
+   "id": "f22a2ad52793",
+   "headline": "Compared to Estimates, Halozyme Therapeutics (HALO) Q3 Earnings: A Look at Key Metrics",
+   "summary": "The headline numbers for Halozyme Therapeutics (HALO) give insight into how the company performed in the quarter ended September 2026, but it may be worthwhile to compare some of its key metrics to Wall Street estimates and the year-ago\u2026",
+   "url": "https://finnhub.io/api/news?id=0f2feb66012817e9c45f67c91ffe4e9257c309027c45e24e5842c9f64b8b4dc0",
+   "source": "Yahoo",
+   "published": "2026-11-05T22:00:03+00:00",
+   "tickers": [
+    "HALO"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "67706fb00b20",
    "headline": "Thermo Fisher Scientific Announces Quarterly Dividend",
    "summary": "WALTHAM, Mass., November 05, 2026--Thermo Fisher Scientific Inc. (NYSE: TMO), the world leader in serving science, today announced that its Board of Directors authorized a quarterly cash dividend of $0.47 per common share, payable on\u2026",
@@ -1320,6 +1410,36 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "376a2d1c7ba5",
+   "headline": "Halozyme Therapeutics (HALO) Tops Q3 Earnings and Revenue Estimates",
+   "summary": "Halozyme Therapeutics (HALO) delivered earnings and revenue surprises of +4.37% and +2.27%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=0bee58c3cc34c72da3225eede689769c411fa4c6673b7330a83498b054bdf46e",
+   "source": "Yahoo",
+   "published": "2026-11-05T21:45:09+00:00",
+   "tickers": [
+    "HALO"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "6bb2b49cd2b8",
+   "headline": "Globus Medical (GMED) Q3 Earnings Top Estimates",
+   "summary": "Globus Medical (GMED) delivered earnings and revenue surprises of +2.50% and -3.69%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=5d1927cf2e55b87fb3538771af50c9cc98369b7db16bf54c9573fd298c79ff44",
+   "source": "Yahoo",
+   "published": "2026-11-05T21:45:09+00:00",
+   "tickers": [
+    "GMED"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -1926,6 +2046,21 @@
    "tag": "GLP-1",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "0389f167e934",
+   "headline": "Axsome Therapeutics vs. BioNTech: Which Healthcare Stock Is a Better Buy for 2027?",
+   "summary": "Axsome Therapeutics is growing quickly but is not yet profitable. BioNTech has a big cash cushion but is losing its COVID vaccine sales.",
+   "url": "https://finnhub.io/api/news?id=ff1c60d4665f647111b2ccf5e1418a12f36039183fbd9b6a976d975d0908e2e3",
+   "source": "Yahoo",
+   "published": "2026-11-05T19:37:43+00:00",
+   "tickers": [
+    "AXSM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
