@@ -1,7 +1,19 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-06T12:32:48.946719+00:00",
+ "updated": "2026-11-06T12:47:33.468234+00:00",
  "quotes": {
+  "A": {
+   "price": 171.78,
+   "change_pct": -3.04
+  },
+  "ABBV": {
+   "price": 288.24,
+   "change_pct": -2.24
+  },
+  "ABSI": {
+   "price": 9.39,
+   "change_pct": -10.4
+  },
   "ABT": {
    "price": 113.6,
    "change_pct": -1.65
@@ -105,10 +117,6 @@
   "DH": {
    "price": 1.13,
    "change_pct": -8.13
-  },
-  "DHR": {
-   "price": 226.34,
-   "change_pct": -3.66
   },
   "DNLI": {
    "price": 19.72,
@@ -309,6 +317,10 @@
   "PODD": {
    "price": 156.12,
    "change_pct": -5.39
+  },
+  "PRVA": {
+   "price": 23.94,
+   "change_pct": 6.88
   }
  },
  "tickers": {
@@ -926,6 +938,36 @@
  },
  "stories": [
   {
+   "id": "f21a1250ffa0",
+   "headline": "Zimmer Biomet Introduces Surgeon-Guided Autonomy, a New Category in Intelligent Surgery",
+   "summary": "New Category Will Introduce a Closed-Loop Framework: Predict. Perform. Recover. Keeping the Surgeon's Expertise and Control at the Center of the OR DALLAS, Nov. 6, 2026 /PRNewswire/ -- Zimmer Biomet Holdings, Inc. (NYSE and SIX: ZBH)\u2026",
+   "url": "https://www.prnewswire.com/news-releases/zimmer-biomet-introduces-surgeon-guided-autonomy-a-new-category-in-intelligent-surgery-302931589.html",
+   "source": "PR Newswire",
+   "published": "2026-11-06T12:30:00+00:00",
+   "tickers": [
+    "ZBH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "c3601e91b8ab",
+   "headline": "Humana (NYSE:HUM) Posts Mixed Q3 Results and Raises FY2026 Adjusted EPS Guidance",
+   "summary": "Humana's mixed Q3 2026 results met revenue views, adjusted loss was narrower, and FY adjusted EPS guidance rose, though shares dipped premarket.",
+   "url": "https://finnhub.io/api/news?id=d0a1821246dd9307295b05dfc1a54332e96c1fc457aa864b981818ec9e4a639e",
+   "source": "ChartMill",
+   "published": "2026-11-06T12:26:59+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "bcf55bd60756",
    "headline": "This week in charts: 3 drug launches Wall Street is watching",
    "summary": "The latest installment in BioPharma Dive\u2019s visualization-focused series features a look at investors\u2019 response to a trio of medicines highlighted in quarterly earnings this week.",
@@ -969,6 +1011,21 @@
    ]
   },
   {
+   "id": "a5b7ba19e4a5",
+   "headline": "Humana: Q3 Earnings Snapshot",
+   "summary": "(HUM) on Friday reported third-quarter net income of $162 million.The Louisville, Kentucky-based company said it had profit of $1.",
+   "url": "https://finnhub.io/api/news?id=59a3dc8d9ad89f903b7a0c6b50f1ce7381f1cbdf9c57b9af005386e2b2c77505",
+   "source": "Yahoo",
+   "published": "2026-11-06T11:24:25+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "976bb37ccbd3",
    "headline": "CVS Health plans standalone retail pharmacy business by 2028",
    "summary": "The retail company will be named CVS Pharmacy.",
@@ -1007,7 +1064,8 @@
    "published": "2026-11-06T11:05:33+00:00",
    "tickers": [
     "ABBV",
-    "JNJ"
+    "JNJ",
+    "UNH"
    ],
    "tag": "News",
    "sectors": [
@@ -1022,11 +1080,72 @@
    "source": "Yahoo",
    "published": "2026-11-06T11:04:50+00:00",
    "tickers": [
+    "GKOS",
     "UTHR"
    ],
    "tag": "News",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "c5705df6566e",
+   "headline": "Dow Jones Industrial Average ETF (DIA) Buys $96.4 Million More Goldman on Nov. 4",
+   "summary": "The fund added $932.2 million across all 30 of its positions, with no sales, on a day it held $45.93 billion in assets.",
+   "url": "https://finnhub.io/api/news?id=285a2f91534bc78ea80308c3cd87a055158b3ce62d798662d31dbc1846b54f96",
+   "source": "Yahoo",
+   "published": "2026-11-06T11:04:37+00:00",
+   "tickers": [
+    "AMGN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "6f132f51faf7",
+   "headline": "What iShares Russell 2000 Index Fund (IWM) Bought: Glaukos Leads on Wednesday",
+   "summary": "The fund added $1.58 billion in new buying across 1,851 positions, with Glaukos topping the list at $7.7 million.",
+   "url": "https://finnhub.io/api/news?id=12f85300f884824fd2754c1d6e8b237e4bdf0af8d861127bf11e275b4afe3e00",
+   "source": "Yahoo",
+   "published": "2026-11-06T11:04:19+00:00",
+   "tickers": [
+    "GKOS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "d6ec40ed5ac9",
+   "headline": "ETFs Are Buying UnitedHealth (UNH) on Nov. 4",
+   "summary": "ETFs bought $56.4 million of UnitedHealth stock on Nov. 4.",
+   "url": "https://finnhub.io/api/news?id=366b075ca7890d156165fe79c4308c5edfe1e8f864d0974737d3ecf8d3da1b3b",
+   "source": "Yahoo",
+   "published": "2026-11-06T11:01:32+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "224cb26a3e7c",
+   "headline": "57 ETFs Add to Amgen (AMGN) Holdings on Wednesday",
+   "summary": "ETFs bought a net $79.8 million of Amgen stock in Wednesday's session.",
+   "url": "https://finnhub.io/api/news?id=89844a0b9906f68fb43749e433e05a65d5527324dd365223cf8175822e26fa8c",
+   "source": "Yahoo",
+   "published": "2026-11-06T11:01:10+00:00",
+   "tickers": [
+    "AMGN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1045,6 +1164,21 @@
    ]
   },
   {
+   "id": "b603a750df17",
+   "headline": "Humana Reports Third Quarter 2026 Financial Results; Raises Full Year 2026 Adjusted EPS Guidance",
+   "summary": "LOUISVILLE, Ky., November 06, 2026--Humana Inc. (NYSE: HUM) today reported consolidated pretax results and diluted earnings per share for the quarter ended September 30, 2026 (3Q26) versus the quarter ended September 30, 2025 (3Q25) and\u2026",
+   "url": "https://finnhub.io/api/news?id=2a8d3b200badf58beb97120bb9bd1adeaa412a21b2c80f6837a603b5e4313de6",
+   "source": "Yahoo",
+   "published": "2026-11-06T11:00:00+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "6184ccfb58bc",
    "headline": "While biotech bets swing on trial data, this dividend payer gained 72% since 2024",
    "summary": "Investing.com and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
@@ -1052,7 +1186,8 @@
    "source": "Yahoo",
    "published": "2026-11-06T10:35:59+00:00",
    "tickers": [
-    "AMGN"
+    "AMGN",
+    "BIIB"
    ],
    "tag": "Clinical",
    "sectors": [
@@ -69354,100 +69489,6 @@
    "tag": "Analyst",
    "sectors": [
     "tools"
-   ]
-  },
-  {
-   "id": "114fe6c31d6f",
-   "headline": "Here\u2019s How Much You Would Have Made Owning Regeneron Pharmaceuticals Stock In The Last 15 Years",
-   "summary": "Regeneron Pharmaceuticals (NASDAQ:REGN) has outperformed the market over the past 15 years by 6.58% on an annualized basis producing an average annual return of 19.53%. Currently, Regeneron Pharmaceuticals has a market",
-   "url": "https://finnhub.io/api/news?id=c6addf8747d4de9c6d0e8f19e69e2b7e9fc4f234d1eb5432653dcfb69272f04f",
-   "source": "Benzinga",
-   "published": "2026-10-27T12:45:26+00:00",
-   "tickers": [
-    "REGN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "31d637ae85b9",
-   "headline": "Healthcare Stocks Become Anti-AI Bet as Investors Turn Defensive",
-   "summary": "With investor confidence in the artificial intelligence trade under pressure, traders are turning to healthcare stocks for refuge.",
-   "url": "https://finnhub.io/api/news?id=dbe5f04f06a3ecdbf20c846430c0b79a884e11e98833057cb09c732eb0ebe547",
-   "source": "Yahoo",
-   "published": "2026-10-27T12:45:25+00:00",
-   "tickers": [
-    "ABBV",
-    "JNJ",
-    "LLY"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "4127fbffd17d",
-   "headline": "WST Q3 Earnings Preview: Will HVP Strength Offset Vantage Weakness?",
-   "summary": "WST's Q3 earnings may benefit from strong HVP demand, biologics and GLP-1 growth, but West Vantage weakness and the SmartDose divestiture could weigh on sales.",
-   "url": "https://finnhub.io/api/news?id=ce470b0cbb1f140b8cae1a6b8a3176382d7d1cb9919ad0dabc5f0f5f56412647",
-   "source": "Yahoo",
-   "published": "2026-10-27T12:39:00+00:00",
-   "tickers": [
-    "EW",
-    "GKOS",
-    "GMED"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "4a323bce370f",
-   "headline": "What to expect from Align Technology\u2019s (ALGN) Q3 earnings",
-   "summary": "Dental technology company Align Technology (NASDAQ:ALGN) will be announcing earnings results this Wednesday after market close. Here\u2019s what you need to know.",
-   "url": "https://finnhub.io/api/news?id=22584d91d8e004c519850ab95dee240df7523a243c8c5d83437954ee8fa33b8e",
-   "source": "Yahoo",
-   "published": "2026-10-27T12:38:47+00:00",
-   "tickers": [
-    "ALGN"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "09b578b2903e",
-   "headline": "HCA Healthcare (NYSE:HCA) Q3 Earnings Clear EPS Bar as Payer Mix Drag Persists",
-   "summary": "HCA Q3 2026 revenue hit $19.849B, adjusted EPS of $7.22 beat estimates, but a $400M uninsured payer-mix hit tempered guidance optimism.",
-   "url": "https://finnhub.io/api/news?id=effb143dcb270ff5d2c5eac202e086cf512fdba6a50599bac792b12799ad029b",
-   "source": "ChartMill",
-   "published": "2026-10-27T12:32:48+00:00",
-   "tickers": [
-    "HCA"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "2e058459d2be",
-   "headline": "AbbVie: Analyzing Performance, Pipeline, And Pricing Ahead Of Q3 (Strong Buy)",
-   "summary": "AbbVie hits all-time highs on strong 2026 guidance, Skyrizi and Rinvoq growth, and leading margins. Click here to read this ABBV earnings preview.",
-   "url": "https://finnhub.io/api/news?id=0d4e1c1f02ab11e5652b8dc78d2d38221db0d36a720e60dab3e07de92ee7f461",
-   "source": "SeekingAlpha",
-   "published": "2026-10-27T12:31:24+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
