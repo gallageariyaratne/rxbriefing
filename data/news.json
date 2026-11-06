@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-06T13:32:39.603397+00:00",
+ "updated": "2026-11-06T13:47:46.902467+00:00",
  "quotes": {
   "A": {
    "price": 171.78,
@@ -254,10 +254,6 @@
    "price": 159.76,
    "change_pct": -3.79
   },
-  "NTLA": {
-   "price": 11.1,
-   "change_pct": -9.83
-  },
   "NTRA": {
    "price": 363.76,
    "change_pct": -6.97
@@ -321,6 +317,10 @@
   "ROIV": {
    "price": 36.62,
    "change_pct": -4.21
+  },
+  "RVMD": {
+   "price": 177.65,
+   "change_pct": -11.04
   }
  },
  "tickers": {
@@ -68947,67 +68947,6 @@
     "MRK"
    ],
    "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "abd4659c1d06",
-   "headline": "FDA's Office Of Prescription Drug Promotion Reviews Amgen's Submitted Video For VECTIBIX Injection For Intravenous Use; FDA Determines Video Is False Or Misleading And Breaches Federal Food, Drug, And Cosmetic Act",
-   "summary": "https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/amgen-inc-739641-08122026",
-   "url": "https://finnhub.io/api/news?id=ca046b02f81f49d24c720a6793e8d3cccd18cc60285a49e4a2d8cf796f2e0cb4",
-   "source": "Benzinga",
-   "published": "2026-10-27T13:45:36+00:00",
-   "tickers": [
-    "AMGN"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "6485d6b86fc2",
-   "headline": "IQVIA Holdings Q3 Earnings Beat Estimates, Revenues Increase 8% Y/Y",
-   "summary": "IQV's Q3'26 earnings beat estimates as revenues rise 8% y/y, led by strong clinical demand, robust R&D bookings and improved execution, prompting a view hike.",
-   "url": "https://finnhub.io/api/news?id=b5757f5e55d20813d6502866ed00dcf26b46036ec885a60ffac9d6cd24cf1eaf",
-   "source": "Yahoo",
-   "published": "2026-10-27T13:42:00+00:00",
-   "tickers": [
-    "IQV"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "5c8399447395",
-   "headline": "Broadcom upgraded, Ultragenyx downgraded: Wall Street's top analyst calls",
-   "summary": "Broadcom upgraded, Ultragenyx downgraded: Wall Street's top analyst calls",
-   "url": "https://finnhub.io/api/news?id=4ed8f6ae48feabcf393751419af7282790ba8eb20c99c119c963c3abc6ab6946",
-   "source": "Yahoo",
-   "published": "2026-10-27T13:40:27+00:00",
-   "tickers": [
-    "ABT"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "40e51bfe564e",
-   "headline": "S&P 500 Premarket Movers: Royal Caribbean, S&P Global Gain; Xylem, Sherwin-Williams Fall",
-   "summary": "S&P 500 premarket movers: Royal Caribbean and S&P Global lead gainers, while Xylem and Sherwin-Williams lead decliners ahead of the open.",
-   "url": "https://finnhub.io/api/news?id=989a6a14a4c8194858f23373acd4391ecaedabeef8547d64e87724082895003b",
-   "source": "ChartMill",
-   "published": "2026-10-27T13:36:32+00:00",
-   "tickers": [
-    "IQV",
-    "MRNA"
-   ],
-   "tag": "News",
    "sectors": [
     "pharma"
    ]
