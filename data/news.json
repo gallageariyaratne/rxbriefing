@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-06T02:02:46.426808+00:00",
+ "updated": "2026-11-06T02:17:29.491578+00:00",
  "quotes": {
   "A": {
    "price": 171.78,
@@ -37,6 +37,10 @@
   "AMGN": {
    "price": 460.28,
    "change_pct": -3.8
+  },
+  "ARGX": {
+   "price": 894.77,
+   "change_pct": -3.93
   },
   "AXSM": {
    "price": 129.8,
@@ -317,10 +321,6 @@
   "PODD": {
    "price": 156.12,
    "change_pct": -5.39
-  },
-  "PRVA": {
-   "price": 23.94,
-   "change_pct": 6.88
   }
  },
  "tickers": {
@@ -938,6 +938,21 @@
  },
  "stories": [
   {
+   "id": "75e957a2fd98",
+   "headline": "Johnson & Johnson announces U.S. FDA Approval of RYBREVANT FASPRO\u2122 (amivantamab and hyaluronidase-lpuj) as First and Only Dual-Targeted Therapy for Advanced Head and Neck Cancer",
+   "summary": "Accelerated approval based on data demonstrating clinically meaningful efficacy, including a 42 percent overall response rate (95 percent confidence interval, 32\u201352 percent)1 First advancement in the second-line treatment setting for\u2026",
+   "url": "https://www.prnewswire.com/news-releases/johnson--johnson-announces-us-fda-approval-of-rybrevant-faspro-amivantamab-and-hyaluronidase-lpuj-as-first-and-only-dual-targeted-therapy-for-advanced-head-and-neck-cancer-302931583.html",
+   "source": "PR Newswire",
+   "published": "2026-11-06T02:03:00+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "b0bc8fe99dab",
    "headline": "Cathie Wood Sells $12.8 Million Of Alphabet, Days After The Stock Suffered Its Worst Day Since Its 2004 IPO, Losing Nearly Half A Trillion Dollars In Market Value",
    "summary": "Cathie Wood\u2019s ARK Invest reduced its stake in Alphabet (NASDAQ:GOOGL) on Wednesday, Nov. 4. According to CoinCentral\u2019s report of ARK\u2019s daily trades, the firm sold 46,164 shares worth $12.8 million through the ARK Innovation ETF\u2026",
@@ -950,6 +965,67 @@
    "tag": "Financing",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "1d31177a6560",
+   "headline": "Dow Jones Futures Fall, Techs Bounce After Nasdaq Dives 5.5%; Nvidia, Sandisk, CoreWeave, SpaceX Plunge",
+   "summary": "Nvidia, CoreWeave, SpaceX plunged, but the stock market sell-off spread far beyond AI. The October jobs report looms.",
+   "url": "https://finnhub.io/api/news?id=5a4e6f528bfd91f6cab26b379bf7e410264e32fd3385866eb9b95d8c8094c286",
+   "source": "Yahoo",
+   "published": "2026-11-06T01:18:01+00:00",
+   "tickers": [
+    "GH",
+    "TXG"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "64faff8261df",
+   "headline": "The Cigna Group (CI) (Q3 2026) Earnings Call Highlights: Raised Full-Year EPS Outlook and 2027 ...",
+   "summary": "The Cigna Group (CI) lifted its 2026 adjusted EPS outlook to at least $30.60 while outlining a 2027 run-rate of roughly $30 and $3 billion in planned savings by 2030.",
+   "url": "https://finnhub.io/api/news?id=b5d178994106509026f1a5941098859482e8c1e668a607cbd6ef450f0e6e3ce0",
+   "source": "Yahoo",
+   "published": "2026-11-06T01:13:45+00:00",
+   "tickers": [
+    "CI"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "896bd89a6ae8",
+   "headline": "10X Genomics (NASDAQ:TXG) Earnings: EPS Beat, Revenue In Line, Shares Fall 10.4%",
+   "summary": "10x Genomics Q3 2026 revenue was in line and EPS beat consensus, yet TXG shares dropped 10.4% after hours on concerns about growth durability.",
+   "url": "https://finnhub.io/api/news?id=eeacb46e77a00c999618db35064038effa4c08a8fb824d3c91e6cb04b9955a16",
+   "source": "ChartMill",
+   "published": "2026-11-06T00:56:23+00:00",
+   "tickers": [
+    "TXG"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "1f54e4141204",
+   "headline": "TransMedics Group Inc (NASDAQ:TMDX) Q3 Beat and Raised Outlook Spark After-Hours Rally",
+   "summary": "TransMedics (TMDX) Q3 2026 revenue $203M and EPS $0.51 beat estimates; raised FY guidance, shares rally 14.3% after hours on strong quarterly results.",
+   "url": "https://finnhub.io/api/news?id=32525de856041494651db625a1796ca622aa5da2897bb8209366991e11924950",
+   "source": "ChartMill",
+   "published": "2026-11-06T00:53:54+00:00",
+   "tickers": [
+    "TMDX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -995,6 +1071,36 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "9b22c0cd0d0f",
+   "headline": "ICU Medical (ICUI) Beats Q3 Earnings and Revenue Estimates",
+   "summary": "ICU Medical (ICUI) delivered earnings and revenue surprises of +14.02% and +0.55%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=652a88d3593a1a9a22efbee757c703a4e12b73f2dadbe368dd8b946abaf41215",
+   "source": "Yahoo",
+   "published": "2026-11-06T00:00:13+00:00",
+   "tickers": [
+    "MDT"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "76369c7f8de1",
+   "headline": "Guardant Health (GH) Reports Q3 Loss, Tops Revenue Estimates",
+   "summary": "Guardant Health (GH) delivered earnings and revenue surprises of 0.00% and +2.89%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=2cc4118f64278b00a645a3ffbdb5c07f9635df7f5aec19e417a9486ec29c7dcd",
+   "source": "Yahoo",
+   "published": "2026-11-06T00:00:08+00:00",
+   "tickers": [
+    "GH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -1061,6 +1167,21 @@
    ]
   },
   {
+   "id": "92a2c348aa2d",
+   "headline": "Guardant Health Inc (NASDAQ:GH) Falls 12% Despite In-Line Q3 Revenue as Guidance Disappoints",
+   "summary": "Guardant Health Q3 2026 revenue was in line and loss narrowed, but shares fell 12% after guidance missed consensus on higher spend and cash burn.",
+   "url": "https://finnhub.io/api/news?id=85b66377560d9282d6e352fff4b0512d077473e0b823e5d36e562113128d384f",
+   "source": "ChartMill",
+   "published": "2026-11-05T23:47:54+00:00",
+   "tickers": [
+    "GH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "c127e21cc6cb",
    "headline": "Doximity (NYSE:DOCS) Shares Fall on Soft Guidance and Margin Pressure",
    "summary": "Doximity Q2 revenue and EPS met estimates, but soft guidance and a sharp year-over-year margin decline sent shares down 6% after hours on margin worries.",
@@ -1091,6 +1212,21 @@
    ]
   },
   {
+   "id": "7479ef0fb0bb",
+   "headline": "Compared to Estimates, 10x Genomics (TXG) Q3 Earnings: A Look at Key Metrics",
+   "summary": "The headline numbers for 10x Genomics (TXG) give insight into how the company performed in the quarter ended September 2026, but it may be worthwhile to compare some of its key metrics to Wall Street estimates and the year-ago actuals.",
+   "url": "https://finnhub.io/api/news?id=4634f4c5d2b92e92c485e8849e81bc6c34d4d358bce34ef621978c2cc3effccb",
+   "source": "Yahoo",
+   "published": "2026-11-05T23:30:03+00:00",
+   "tickers": [
+    "TXG"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "b33f3c4e6548",
    "headline": "Compared to Estimates, Globus Medical (GMED) Q3 Earnings: A Look at Key Metrics",
    "summary": "The headline numbers for Globus Medical (GMED) give insight into how the company performed in the quarter ended September 2026, but it may be worthwhile to compare some of its key metrics to Wall Street estimates and the year-ago actuals.",
@@ -1106,6 +1242,21 @@
    ]
   },
   {
+   "id": "cbb318eaa8ed",
+   "headline": "Guardant Health (GH) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
+   "summary": "The headline numbers for Guardant Health (GH) give insight into how the company performed in the quarter ended September 2026, but it may be worthwhile to compare some of its key metrics to Wall Street estimates and the year-ago actuals.",
+   "url": "https://finnhub.io/api/news?id=418e983e621b469b2d285275d088a29465c4a77ea8ef46aecd2c2433ff32b4b2",
+   "source": "Yahoo",
+   "published": "2026-11-05T23:30:02+00:00",
+   "tickers": [
+    "GH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "46493eb01427",
    "headline": "Halozyme falls 6% as raised guidance fails to impress investors",
    "summary": "Investing.com -- Halozyme Therapeutics Inc (NASDAQ:HALO) reported third-quarter results that exceeded Wall Street expectations, but shares tumbled 6% in after-hours trading Thursday as the company's raised full-year guidance met elevated\u2026",
@@ -1113,6 +1264,7 @@
    "source": "Yahoo",
    "published": "2026-11-05T23:29:57+00:00",
    "tickers": [
+    "ARGX",
     "HALO"
    ],
    "tag": "Earnings",
@@ -1196,6 +1348,21 @@
    ]
   },
   {
+   "id": "c7a575b00a5d",
+   "headline": "Guardant Health falls 12% as cash burn guidance disappoints",
+   "summary": "Investing.com -- Guardant Health Inc (NASDAQ:GH) reported third quarter results that exceeded analyst expectations, but shares tumbled 12% in after-hours trading Thursday as the company raised its free cash flow burn guidance despite\u2026",
+   "url": "https://finnhub.io/api/news?id=72c82d935b562d2f47f65e5593fc2f1f2ae4c33a21e9bae045398ef115b8e38e",
+   "source": "Yahoo",
+   "published": "2026-11-05T23:16:26+00:00",
+   "tickers": [
+    "GH"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "561fdb5b9912",
    "headline": "Here's What Key Metrics Tell Us About Health Catalyst (HCAT) Q3 Earnings",
    "summary": "While the top- and bottom-line numbers for Health Catalyst (HCAT) give a sense of how the business performed in the quarter ended September 2026, it could be worth looking at how some of its key metrics compare to Wall Street estimates\u2026",
@@ -1241,6 +1408,21 @@
    ]
   },
   {
+   "id": "667afebb98e5",
+   "headline": "Guardant Health: Q3 Earnings Snapshot",
+   "summary": "(GH) on Thursday reported a loss of $124.On a per-share basis, the Palo Alto, California-based company said it had a loss of 93 cents.",
+   "url": "https://finnhub.io/api/news?id=f06b5534532b18c97fc33383ebede378d41974684272b93121b0b0d980273fea",
+   "source": "Yahoo",
+   "published": "2026-11-05T22:39:47+00:00",
+   "tickers": [
+    "GH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "867051790657",
    "headline": "FDA Grants Accelerated Approval to a New Treatment for Head and Neck Squamous Cell Carcinoma",
    "summary": "The U.S. Food and Drug Administration today granted accelerated approval to Rybrevant Faspro (amivantamab and hyaluronidase-lpuj) for the treatment of adults with recurrent or metastatic head and neck squamous cell carcinoma (HNSCC) whose\u2026",
@@ -1259,6 +1441,7 @@
    "source": "Yahoo",
    "published": "2026-11-05T22:25:51+00:00",
    "tickers": [
+    "GH",
     "NTRA"
    ],
    "tag": "News",
@@ -1425,7 +1608,8 @@
    "source": "ChartMill",
    "published": "2026-11-05T22:00:38+00:00",
    "tickers": [
-    "NTRA"
+    "NTRA",
+    "TMDX"
    ],
    "tag": "News",
    "sectors": [
@@ -1564,6 +1748,21 @@
    ]
   },
   {
+   "id": "f4537f617200",
+   "headline": "10x Genomics\u2019s (NASDAQ:TXG) Q3 2026 sales top estimates but stock drops",
+   "summary": "Biotech company 10x Genomics (NASDAQ:TXG) reported Q3 2026 results topping the market\u2019s revenue expectations, with revenue up 1.1% year on year to $150.7 million. The company\u2019s full-year revenue guidance of $630 million at the midpoint\u2026",
+   "url": "https://finnhub.io/api/news?id=3d799d62204d110244fe630dd6745a3e86977ce9f7dda1c635f039d8f43b35fa",
+   "source": "Yahoo",
+   "published": "2026-11-05T21:47:01+00:00",
+   "tickers": [
+    "TXG"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "376a2d1c7ba5",
    "headline": "Halozyme Therapeutics (HALO) Tops Q3 Earnings and Revenue Estimates",
    "summary": "Halozyme Therapeutics (HALO) delivered earnings and revenue surprises of +4.37% and +2.27%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
@@ -1654,6 +1853,21 @@
    ]
   },
   {
+   "id": "b6052d4ef917",
+   "headline": "10x Genomics (TXG) Reports Q3 Loss, Beats Revenue Estimates",
+   "summary": "10x Genomics (TXG) delivered earnings and revenue surprises of +48.28% and +2.35%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=967deb787d5f0146c02a50998cba1aa6d3b75ef0b38ba17217c3567fbbb7a913",
+   "source": "Yahoo",
+   "published": "2026-11-05T21:45:03+00:00",
+   "tickers": [
+    "TXG"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "9f9ab5af6887",
    "headline": "Why Hims & Hers Health, Inc. (HIMS) Dipped More Than Broader Market Today",
    "summary": "In the most recent trading session, Hims & Hers Health, Inc. (HIMS) closed at $24.06, indicating a -9.75% shift from the previous trading day.",
@@ -1666,6 +1880,21 @@
    "tag": "News",
    "sectors": [
     "healthit"
+   ]
+  },
+  {
+   "id": "c7ef7e149aa4",
+   "headline": "10x Genomics: Q3 Earnings Snapshot",
+   "summary": "(TXG) on Thursday reported a loss of $19.On a per-share basis, the Pleasanton, California-based company said it had a loss of 15 cents.",
+   "url": "https://finnhub.io/api/news?id=b705a18a0d77741e46feeb91952b3507c4e05efdac478bdcd10be1e0d1e60cea",
+   "source": "Yahoo",
+   "published": "2026-11-05T21:44:58+00:00",
+   "tickers": [
+    "TXG"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -1772,6 +2001,21 @@
    ]
   },
   {
+   "id": "8c8983890e2c",
+   "headline": "Guardant Health\u2019s (NASDAQ:GH) Q3 2026 sales beat estimates but stock drops 10.2%",
+   "summary": "Diagnostics company Guardant Health (NASDAQ:GH) beat Wall Street\u2019s revenue expectations in Q3 2026, with revenue up 36.1% year on year to $361 million. The company expects the full year\u2019s revenue to be around $1.37 billion, close to\u2026",
+   "url": "https://finnhub.io/api/news?id=b0d4af1af104559b640350d10476247aa1c420877fae27d932916c216e8ccbd4",
+   "source": "Yahoo",
+   "published": "2026-11-05T21:31:08+00:00",
+   "tickers": [
+    "GH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "560dfedbaa5b",
    "headline": "Halozyme Therapeutics: Q3 Earnings Snapshot",
    "summary": "SAN DIEGO (AP) \u2014 SAN DIEGO (AP) \u2014 Halozyme Therapeutics Inc. (HALO) on Thursday reported third-quarter net income of $247 million.",
@@ -1832,6 +2076,21 @@
    ]
   },
   {
+   "id": "3d02d2930cd4",
+   "headline": "TransMedics (TMDX) Q3 Earnings and Revenues Surpass Estimates",
+   "summary": "TransMedics (TMDX) delivered earnings and revenue surprises of +88.89% and +11.66%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=c8528b8256c4808f1b28ee3a4935c0f7080addd35e601e991da38c9a7eb3367e",
+   "source": "Yahoo",
+   "published": "2026-11-05T21:20:03+00:00",
+   "tickers": [
+    "TMDX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "b75f18f18867",
    "headline": "Veeva Systems (VEEV) Becomes Core CRM Choice For Major Biopharma AI Rollout",
    "summary": "Veeva Systems (NYSE:VEEV) said UCB has selected Veeva Vault CRM as a key platform for its commercial operations. UCB plans to use industry-specific AI within Vault CRM to support product launches and day-to-day customer engagement in life\u2026",
@@ -1859,6 +2118,21 @@
    "tag": "Earnings",
    "sectors": [
     "pharmacy"
+   ]
+  },
+  {
+   "id": "a8e0f015a283",
+   "headline": "TransMedics: Q3 Earnings Snapshot",
+   "summary": "(TMDX) on Thursday reported third-quarter earnings of $17.On a per-share basis, the Andover, Massachusetts-based company said it had profit of 46 cents.",
+   "url": "https://finnhub.io/api/news?id=70464afce26022d3961cd0b200652610f7cdbc9d5202cd619e5235df77416d52",
+   "source": "Yahoo",
+   "published": "2026-11-05T21:12:18+00:00",
+   "tickers": [
+    "TMDX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -2053,6 +2327,36 @@
    ]
   },
   {
+   "id": "56400132fd29",
+   "headline": "Guardant Health Reports Third Quarter 2026 Financial Results and Increases 2026 Revenue Guidance",
+   "summary": "PALO ALTO, Calif., November 05, 2026--Guardant Health, Inc. (Nasdaq: GH), a leading precision oncology company, today reported financial results for the quarter ended September 30, 2026.",
+   "url": "https://finnhub.io/api/news?id=bb4e1bf44daf945ee99ed97492d0e49798395beb5b1f0cfb96aeab687ad9f79c",
+   "source": "Yahoo",
+   "published": "2026-11-05T21:05:00+00:00",
+   "tickers": [
+    "GH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "9bb99694623c",
+   "headline": "10x Genomics Reports Third Quarter 2026 Financial Results",
+   "summary": "10x Genomics, Inc. (Nasdaq: TXG), the life science technology leader focused on accelerating science and advancing human health, today reported financial results for the third quarter ended September 30, 2026.",
+   "url": "https://finnhub.io/api/news?id=b6cf0380bfa6318633cfa5dbd34149a36c14362bbe6ac17bf9f38a0ab2c47b04",
+   "source": "Yahoo",
+   "published": "2026-11-05T21:05:00+00:00",
+   "tickers": [
+    "TXG"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "efeb7d1c2c09",
    "headline": "Becton Dickinson (BDX) Q4 2026 Earnings Call Transcript",
    "summary": "Management sets out a fiscal 2027 plan to absorb inflation and tougher comparisons.",
@@ -2113,6 +2417,21 @@
    ]
   },
   {
+   "id": "29a7696fae44",
+   "headline": "TransMedics Reports Third Quarter 2026 Financial Results",
+   "summary": "TransMedics Group, Inc. (\"TransMedics\") (Nasdaq: TMDX), a medical technology company that is transforming organ transplant therapy for patients with end-stage lung, heart, and liver failure, today reported financial results for the\u2026",
+   "url": "https://finnhub.io/api/news?id=e58074151b2c9455aaecff34a073cf8df4ec9e49b074ea00aab746480fb30a36",
+   "source": "Yahoo",
+   "published": "2026-11-05T21:02:00+00:00",
+   "tickers": [
+    "TMDX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "308523784b14",
    "headline": "Doximity Announces Fiscal 2027 Second Quarter Financial Results",
    "summary": "SAN FRANCISCO, November 05, 2026--Doximity, Inc. (NYSE: DOCS), the leading digital platform for U.S. medical professionals, today announced results of its fiscal 2027 second quarter ended September 30, 2026.",
@@ -2158,6 +2477,21 @@
    ]
   },
   {
+   "id": "4fab94b7122e",
+   "headline": "Guardant Health, Inc. (GH) Q3 2026 Earnings Call Transcript",
+   "summary": "",
+   "url": "https://finnhub.io/api/news?id=9f4849a2a6bbdafa10483a165bc26df24619c0b423b98602e1f284e1f96b7c69",
+   "source": "SeekingAlpha",
+   "published": "2026-11-05T20:54:37+00:00",
+   "tickers": [
+    "GH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "55f24157532a",
    "headline": "Ballot measures affirm divisions over abortion and transgender issues",
    "summary": "Voters in 2026 midterm elections decided state health policy ballot measures on abortion rights, marijuana laws, science bonds, and transgender youth care.",
@@ -2178,6 +2512,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "51237eb02e92",
+   "headline": "10x Genomics, Inc. (TXG) Q3 2026 Earnings Call Transcript",
+   "summary": "10x Genomics, Inc. (TXG) Q3 2026 Earnings Call November 5, 2026 4:30 PM ESTCompany ParticipantsCassie Corneau - Manager of Investor Relations &...",
+   "url": "https://finnhub.io/api/news?id=f543ff9a542d022b530f248f8a2e9b5fba0b3a26c567a8e2218d3c16e71790df",
+   "source": "SeekingAlpha",
+   "published": "2026-11-05T20:24:36+00:00",
+   "tickers": [
+    "TXG"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
   },
   {
    "id": "944e0f58bfd9",
@@ -3083,6 +3432,21 @@
    ]
   },
   {
+   "id": "a7156e8b372e",
+   "headline": "European Stocks Close Mostly Lower in Thursday Trading as Investors Parse Earnings Reports, US Elections, Rising Oil Prices",
+   "summary": "After tracking higher during earlier in trading, the European stock markets closed mostly lower Thur",
+   "url": "https://finnhub.io/api/news?id=665e5c8d358fefb5e4e56f5f5054d7b0ecf12242296d0ab921b332defe5ad5f5",
+   "source": "Yahoo",
+   "published": "2026-11-05T16:55:59+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "0c310b916a1d",
    "headline": "Improving Biopharma Spending Lifts Thermo Fisher (TMO)",
    "summary": "Baron Capital, an investment management company, released its Q3 2026 investor letter for the \u201cBaron Health Care Fund\u201d. The letter can be downloaded here. During the quarter ended September 30, 2026, Baron Health Care Fund\u00ae advanced\u2026",
@@ -3422,6 +3786,21 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "0a5bd0a8a340",
+   "headline": "Antibody-Drug Conjugates (ADC) Market Size, Share, Trends, and Global Forecast to 2036 | Market Set to Reach $74.15 Billion at 13.5% CAGR as Next-Generation ADCs and Asia-Pacific Drive Growth",
+   "summary": "Dublin, Nov. 05, 2026 (GLOBE NEWSWIRE) -- \"Antibody-Drug Conjugates (ADC) Market Size, Share, and Industry Analysis - Global Forecast to 2036\" has been added to ResearchAndMarkets.com's offering. The global antibody-drug conjugates (ADC)\u2026",
+   "url": "https://finnhub.io/api/news?id=8d12ca727c0819dd3e538e4a5174ac7a069cb16165527ff9b083305fede68bec",
+   "source": "Yahoo",
+   "published": "2026-11-05T16:16:00+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -3793,7 +4172,8 @@
    "source": "ChartMill",
    "published": "2026-11-05T15:36:17+00:00",
    "tickers": [
-    "CAH"
+    "CAH",
+    "CI"
    ],
    "tag": "News",
    "sectors": [
@@ -3863,6 +4243,21 @@
    "tickers": [],
    "tag": "Clinical",
    "sectors": []
+  },
+  {
+   "id": "88010a614008",
+   "headline": "Drugmaker CEOs Say AI Alone Can't Cure Diseases, Challenge Silicon Valley's Bold Predictions: 'To Say AI Is Going to Cure Cancer...'",
+   "summary": "Pharmaceutical executives say human biology is too complicated for artificial intelligence (AI) to cure disease on its own, with AstraZeneca PLC CEO Pascal Soriot saying, \"Disease is complicated, biology is complicated.\" No drug designed\u2026",
+   "url": "https://finnhub.io/api/news?id=333b95580da069ea6024d5967982cd9a45a19df2f9d94145896191c8b5edf60a",
+   "source": "Yahoo",
+   "published": "2026-11-05T15:30:14+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "cf3b4bd0dcb8",
@@ -4165,6 +4560,21 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "961a9bf50519",
+   "headline": "Innate Pharma Q3 Earnings Call Highlights",
+   "summary": "Innate Pharma (NASDAQ:IPHA) said it has initiated a Phase 3 study of its lymphoma drug lacutamab and expects to present Phase 1 data for its experimental cancer treatment IPH4502 on Nov. 18, as the company outlined its third-quarter 2026\u2026",
+   "url": "https://finnhub.io/api/news?id=16e14dae1e6d4155ee646727870074eb58edf137051226dc62d9ae7ba9aa1e27",
+   "source": "Yahoo",
+   "published": "2026-11-05T14:14:26+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -5347,6 +5757,7 @@
    "source": "Yahoo",
    "published": "2026-11-05T12:46:00+00:00",
    "tickers": [
+    "AZN",
     "BMY",
     "MRK"
    ],
@@ -5450,6 +5861,21 @@
    "tag": "GLP-1",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "a85a92ce51f2",
+   "headline": "TwinStrand Biosciences Announces USPTO Confirmation of Patentability of Core Duplex Sequencing Patent",
+   "summary": "SEATTLE, November 05, 2026--TwinStrand Biosciences (TwinStrand), the pioneer in Duplex Sequencing technology, today announced that the U.S. Patent and Trademark Office (USPTO) has confirmed the patentability of all 23 claims of U.S.\u2026",
+   "url": "https://finnhub.io/api/news?id=128874cb2d71c8da584ed4e9fedab4a730892505628a379a4bd9bfb223b3f703",
+   "source": "Yahoo",
+   "published": "2026-11-05T12:30:00+00:00",
+   "tickers": [
+    "GH"
+   ],
+   "tag": "Legal",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -6093,6 +6519,7 @@
    "source": "Yahoo",
    "published": "2026-11-05T11:37:00+00:00",
    "tickers": [
+    "AZN",
     "MRK",
     "SMMT"
    ],
@@ -6216,6 +6643,21 @@
    "tag": "Earnings",
    "sectors": [
     "healthit"
+   ]
+  },
+  {
+   "id": "d65fe5c86767",
+   "headline": "Our Pick Of The Best British Undervalued Stocks In November 2026",
+   "summary": "The Bank of England is poised to lift interest rates for the first time in three years, which puts fresh pressure on expensive, highly indebted businesses and rewards those with strong balance sheets and healthy cash generation. That\u2026",
+   "url": "https://finnhub.io/api/news?id=a951050e29c92663f7d334d5a48a98a11978f870a7c666afc52aa425d1775b45",
+   "source": "Yahoo",
+   "published": "2026-11-05T11:12:57+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -69429,51 +69871,6 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "14fa2ed25852",
-   "headline": "Is LifeStance Health Group (LFST) A Bargain on Cash Flow?",
-   "summary": "LifeStance Health Group has seen its share price move sharply in recent years, which puts fresh attention on a simple question. Are investors paying a level today that its cash flows can reasonably support? The stock has returned 155.6%\u2026",
-   "url": "https://finnhub.io/api/news?id=9d6ec4dbd6ff1a6e0f3728b93de6b9abd96fbe44a188519b1dd10544819ef1fb",
-   "source": "Yahoo",
-   "published": "2026-10-27T02:07:16+00:00",
-   "tickers": [
-    "LFST"
-   ],
-   "tag": "News",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "477e74b4d14f",
-   "headline": "Stock Market: Will S&P 500 Open Up or Down Today?",
-   "summary": "Futures edge higher as earnings, the Fed meeting and Anthropic IPO drive markets; oil falls as traders see 67% odds of an S&P 500 up open.",
-   "url": "https://finnhub.io/api/news?id=b676b94908d545d2c2f5c3d3412526e875ec96697d3188ef04c05659161489e4",
-   "source": "Benzinga",
-   "published": "2026-10-27T02:04:37+00:00",
-   "tickers": [
-    "NVS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "44ca3f826fb2",
-   "headline": "Incyte Highlights Promising Early Data for \u2019890 and \u2019734 in GI Cancers",
-   "summary": "Incyte (NASDAQ:INCY) presented updated clinical data and development plans for two experimental solid-tumor programs at ESMO in Madrid: INCA33890, a TGF\u03b2R2-by-PD-1 bispecific antibody known as \u201c\u2019890,\u201d and INCB161734, a KRAS G12D-targeted\u2026",
-   "url": "https://finnhub.io/api/news?id=e161d3e93334681d2b42b52ed86c177d55c1333f6ec136deec71ef91dbf6c33f",
-   "source": "Yahoo",
-   "published": "2026-10-27T02:02:07+00:00",
-   "tickers": [
-    "INCY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
    ]
   }
  ]
