@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-06T21:32:51.753574+00:00",
+ "updated": "2026-11-06T21:47:34.742350+00:00",
  "quotes": {
   "A": {
    "price": 174.76,
@@ -9,10 +9,6 @@
   "ABBV": {
    "price": 291.31,
    "change_pct": 1.07
-  },
-  "ABSI": {
-   "price": 10.17,
-   "change_pct": 8.31
   },
   "ABT": {
    "price": 109.93,
@@ -258,10 +254,6 @@
    "price": 904.35,
    "change_pct": 0.16
   },
-  "ROIV": {
-   "price": 38.88,
-   "change_pct": 6.17
-  },
   "RVMD": {
    "price": 192.28,
    "change_pct": 8.24
@@ -321,6 +313,14 @@
   "WAY": {
    "price": 28.35,
    "change_pct": -1.84
+  },
+  "ZBH": {
+   "price": 105.59,
+   "change_pct": -1.18
+  },
+  "ZTS": {
+   "price": 79.4,
+   "change_pct": -3.3
   }
  },
  "tickers": {
@@ -71942,21 +71942,6 @@
     "THC"
    ],
    "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "c44bcb53fc07",
-   "headline": "Universal Health Services-B (NYSE:UHS) Q3 2026 Results In Line, Shares Fall on EBITDA Decline",
-   "summary": "UHS Q3 2026 results were in line with estimates: revenue $4.733B and EPS $5.22, but lower EBITDA, net income and a legal reserve weighed on shares.",
-   "url": "https://finnhub.io/api/news?id=0d3101f073ea4e43159d4f950dde7d797f810df1b8dc2a5352649103af99fc03",
-   "source": "ChartMill",
-   "published": "2026-10-27T21:39:01+00:00",
-   "tickers": [
-    "UHS"
-   ],
-   "tag": "Earnings",
    "sectors": [
     "payers"
    ]
