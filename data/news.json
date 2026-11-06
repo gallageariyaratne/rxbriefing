@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-06T10:17:36.458250+00:00",
+ "updated": "2026-11-06T10:32:34.478878+00:00",
  "quotes": {
   "A": {
    "price": 171.78,
@@ -21,10 +21,6 @@
   "ACAD": {
    "price": 21.24,
    "change_pct": -1.07
-  },
-  "ALGN": {
-   "price": 159.37,
-   "change_pct": -3.35
   },
   "ALNY": {
    "price": 156.66,
@@ -321,6 +317,10 @@
   "OSCR": {
    "price": 33.18,
    "change_pct": -5.71
+  },
+  "PACB": {
+   "price": 2.43,
+   "change_pct": -4.71
   }
  },
  "tickers": {
@@ -982,6 +982,21 @@
    "sectors": []
   },
   {
+   "id": "4285e18cb91a",
+   "headline": "Bristol Myers Squibb (BMY) Expands Neuroscience Push With Multi Year AI Alliance",
+   "summary": "Bristol Myers Squibb (NYSE:BMY) has entered a multi-year collaboration with Pathos AI and Tempus AI focused on neuroscience. The alliance aims to build an AI-driven dataset and analytical toolkit targeting Alzheimer's disease and other\u2026",
+   "url": "https://finnhub.io/api/news?id=8a619148a3ebe4b76be823ac41720c4a3cadd7dd5d13d9400217829c60468678",
+   "source": "Yahoo",
+   "published": "2026-11-06T09:14:23+00:00",
+   "tickers": [
+    "BMY"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "04658697ba2f",
    "headline": "Doximity (DOCS) Q2 2027 Earnings Call Transcript",
    "summary": "Health system AI adoption climbed sharply, while accuracy and data security emerged as key concerns.",
@@ -1039,6 +1054,21 @@
    "tag": "Earnings",
    "sectors": [
     "healthit"
+   ]
+  },
+  {
+   "id": "58949e241ee9",
+   "headline": "What Does Qiagen (QGEN) Joining Singapore\u2019s Precision Medicine Program Mean?",
+   "summary": "Qiagen (NYSE:QGEN) joined Ultima Genomics and Lucence as collaborators in Singapore's Phase III National Precision Medicine initiative. The partnership supports a nationwide genomics effort that aims to reach as many as 450,000\u2026",
+   "url": "https://finnhub.io/api/news?id=fa02c8d316e780557a62901edcc93a785d2154e26cd03bab60113e8a56121183",
+   "source": "Yahoo",
+   "published": "2026-11-06T08:11:10+00:00",
+   "tickers": [
+    "QGEN"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -70141,112 +70171,6 @@
    "tag": "Earnings",
    "sectors": [
     "tools"
-   ]
-  },
-  {
-   "id": "fc688f57d702",
-   "headline": "Wells Fargo Maintains Overweight on UnitedHealth Group, Lowers Price Target to $487",
-   "summary": "Wells Fargo analyst Stephen Baxter maintains UnitedHealth Group (NYSE:UNH) with a Overweight and lowers the price target from $526 to $487.",
-   "url": "https://finnhub.io/api/news?id=fa23a4b8cad0cc8894c4b9644925c978d8c8c2ea9b3df8201f77659ce72f2920",
-   "source": "Benzinga",
-   "published": "2026-10-27T10:25:15+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "126b6df26678",
-   "headline": "Centene (CNC) Q3 Earnings and Revenues Surpass Estimates",
-   "summary": "Centene (CNC) delivered earnings and revenue surprises of +728.57% and +7.63%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
-   "url": "https://finnhub.io/api/news?id=733ae3adb1e84c423303565fd596ade5690c85250afcc7f86446915f5dfca720",
-   "source": "Yahoo",
-   "published": "2026-10-27T10:25:01+00:00",
-   "tickers": [
-    "CI",
-    "CNC"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "af605c44e245",
-   "headline": "Centene Corporation Reports Third Quarter 2026 Results",
-   "summary": "",
-   "url": "https://finnhub.io/api/news?id=837a680dbb6cbf9929cd2dfeda69fdc4800b4f0ccd8018077a6ae336c0d680aa",
-   "source": "Fintel",
-   "published": "2026-10-27T10:23:25+00:00",
-   "tickers": [
-    "CNC"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "f38144796c97",
-   "headline": "Humana's Q3 2026 Earnings: What to Expect",
-   "summary": "Humana is expected to release its third-quarter earnings next month, and analysts anticipate a triple-digit decline in its bottom line.",
-   "url": "https://finnhub.io/api/news?id=ea2d901a6ac6d6eee719621afde466a6da137f0c780050e1cf0647e116a91c78",
-   "source": "Yahoo",
-   "published": "2026-10-27T10:22:54+00:00",
-   "tickers": [
-    "HUM"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "51482c337a23",
-   "headline": "Biogen earnings: what to look for from BIIB",
-   "summary": "Biotech company Biogen (NASDAQ:BIIB) will be announcing earnings results this Wednesday before market open. Here\u2019s what to look for.",
-   "url": "https://finnhub.io/api/news?id=74aab667e93c48b17302c90a31f34ca9928c6d3a47a5857ea90b05480fafc1a3",
-   "source": "Yahoo",
-   "published": "2026-10-27T10:22:47+00:00",
-   "tickers": [
-    "BIIB"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "350e936a5ba0",
-   "headline": "Centene (NYSE:CNC) delivers strong Q3 2026 numbers, full-year outlook slightly exceeds expectations",
-   "summary": "Health coverage company Centene (NYSE:CNC) reported Q3 2026 results topping the market\u2019s revenue expectations, with revenue rising 1.9% year on year to $50.65 billion. The company\u2019s full-year revenue guidance of $198.5 billion at the\u2026",
-   "url": "https://finnhub.io/api/news?id=d02a3c617f85c73be5ce29574d3bfe274a1e21a25478be563d7f0994c8a90db0",
-   "source": "Yahoo",
-   "published": "2026-10-27T10:19:34+00:00",
-   "tickers": [
-    "CNC"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "9c8bf24cb76d",
-   "headline": "European Energy Stocks Helping Households Manage High Gas Bills",
-   "summary": "European benchmark gas prices around \u20ac96/MWh and tight storage heading into another winter have turned household energy bills into a financial fault line for millions of customers. That pressure can hurt some residential energy retailers\u2026",
-   "url": "https://finnhub.io/api/news?id=7a64c3b4803793dd67b06c412054acfd72e614e26a26020c4d96664fec2c707f",
-   "source": "Yahoo",
-   "published": "2026-10-27T10:16:15+00:00",
-   "tickers": [
-    "NVS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
