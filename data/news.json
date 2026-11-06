@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-06T21:17:30.584888+00:00",
+ "updated": "2026-11-06T21:32:51.753574+00:00",
  "quotes": {
   "A": {
    "price": 174.76,
@@ -65,10 +65,6 @@
   "CI": {
    "price": 293.59,
    "change_pct": -2.62
-  },
-  "CLDX": {
-   "price": 29.87,
-   "change_pct": 5.66
   },
   "CLOV": {
    "price": 4.82,
@@ -321,6 +317,10 @@
   "WAT": {
    "price": 457.6,
    "change_pct": 1.0
+  },
+  "WAY": {
+   "price": 28.35,
+   "change_pct": -1.84
   }
  },
  "tickers": {
@@ -937,6 +937,17 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "b0efdf357bbf",
+   "headline": "CMS makes it official, codifying Medicare drug price negotiations established under IRA",
+   "summary": "Against a backdrop of repeated industry challenges in court, the Centers for Medicare and Medicaid Services is locking in the drug price negotiation framework established under the Biden-era Inflation Reduction Act.",
+   "url": "https://www.fiercehealthcare.com/pharma/cms-makes-it-official-codifying-medicare-drug-price-negotiations-rolled-out-under-ira",
+   "source": "Fierce Healthcare",
+   "published": "2026-11-06T21:30:26.383985+00:00",
+   "tickers": [],
+   "tag": "Legal",
+   "sectors": []
+  },
   {
    "id": "1856c8b022ee",
    "headline": "From Fragmentation to Integration: A New Model for Specialty Care",
@@ -71944,53 +71955,6 @@
    "published": "2026-10-27T21:39:01+00:00",
    "tickers": [
     "UHS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "0665f845eb99",
-   "headline": "Universal Health Services (UHS) Misses Q3 Earnings Estimates",
-   "summary": "Universal Health Services (UHS) delivered earnings and revenue surprises of -1.70% and +0.16%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
-   "url": "https://finnhub.io/api/news?id=caa5a3c0f2bea4a59893847d353696990947d80e626f26d729a3a7433f921b0e",
-   "source": "Yahoo",
-   "published": "2026-10-27T21:20:11+00:00",
-   "tickers": [
-    "THC",
-    "UHS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "481e22816b8c",
-   "headline": "Icon PLC (ICLR) Q3 Earnings and Revenues Beat Estimates",
-   "summary": "Icon PLC (ICLR) delivered earnings and revenue surprises of +0.76% and +0.78%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
-   "url": "https://finnhub.io/api/news?id=56433da1fc7ef2980edfbb79799a1d3ddd43d9a0c16116a92e577ee272c96d34",
-   "source": "Yahoo",
-   "published": "2026-10-27T21:20:07+00:00",
-   "tickers": [
-    "GDRX",
-    "ICLR"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharmacy"
-   ]
-  },
-  {
-   "id": "fe08385f168b",
-   "headline": "Ensign Group (ENSG) Beats Q3 Earnings Estimates",
-   "summary": "Ensign Group (ENSG) delivered earnings and revenue surprises of +4.64% and -0.71%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
-   "url": "https://finnhub.io/api/news?id=f6ef019731f8075f54a3e7e88e6c513b886ac6db8f5191d396a71b1d4fef106c",
-   "source": "Yahoo",
-   "published": "2026-10-27T21:20:05+00:00",
-   "tickers": [
-    "ENSG"
    ],
    "tag": "Earnings",
    "sectors": [
