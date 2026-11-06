@@ -1,19 +1,7 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-06T12:17:32.759493+00:00",
+ "updated": "2026-11-06T12:32:48.946719+00:00",
  "quotes": {
-  "A": {
-   "price": 171.78,
-   "change_pct": -3.04
-  },
-  "ABBV": {
-   "price": 288.24,
-   "change_pct": -2.24
-  },
-  "ABSI": {
-   "price": 9.39,
-   "change_pct": -10.4
-  },
   "ABT": {
    "price": 113.6,
    "change_pct": -1.65
@@ -949,6 +937,21 @@
    "sectors": []
   },
   {
+   "id": "bb28f80f4cfe",
+   "headline": "Dow Jones Futures Fall, AI Stocks Nvidia, Sandisk, CoreWeave, SpaceX Bounce After Nasdaq Dives 5.5%",
+   "summary": "Nvidia, CoreWeave, SpaceX plunged, but the stock market sell-off spread far beyond AI. The October jobs report looms.",
+   "url": "https://finnhub.io/api/news?id=95b59bd8f47de260d46738b64c90e844408c54863d178e678537dbd953e4560b",
+   "source": "Yahoo",
+   "published": "2026-11-06T11:56:54+00:00",
+   "tickers": [
+    "VEEV"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "0663a51606fc",
    "headline": "Lilly and Hims & Hers expand access to FDA-approved Lilly medicines",
    "summary": "Agreement gives patients a path to FDA-approved treatments at self-pay price through the Hims & Hers platform INDIANAPOLIS, Nov. 6, 2026 /PRNewswire/ -- Eli Lilly and Company (NYSE: LLY) and Hims & Hers Health, Inc. (NYSE: HIMS) today\u2026",
@@ -963,6 +966,21 @@
    "sectors": [
     "healthit",
     "pharma"
+   ]
+  },
+  {
+   "id": "976bb37ccbd3",
+   "headline": "CVS Health plans standalone retail pharmacy business by 2028",
+   "summary": "The retail company will be named CVS Pharmacy.",
+   "url": "https://finnhub.io/api/news?id=c5a103b8627359f85b18c04c48159b476c325432884375f9ecee3e99adfa4913",
+   "source": "Yahoo",
+   "published": "2026-11-06T11:13:40+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -988,11 +1006,42 @@
    "source": "Yahoo",
    "published": "2026-11-06T11:05:33+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "JNJ"
    ],
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "119114cd7ff4",
+   "headline": "SPDR S&P MidCap 400 ETF (MDY) Adds Glaukos and United Therapeutics on Wednesday",
+   "summary": "The fund bought $109.8 million of Glaukos as a new position and sold out of Okta for $238.4 million.",
+   "url": "https://finnhub.io/api/news?id=ba8748ffbddb6c0568e5c34ffdd37171924f658a07cad5ba0bd8119132492e4c",
+   "source": "Yahoo",
+   "published": "2026-11-06T11:04:50+00:00",
+   "tickers": [
+    "UTHR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "529728738912",
+   "headline": "Hiltzik: CVS unwinds its big mergers, ending a dream of healthcare dominance",
+   "summary": "CVS thought bigness would be better, but it turned out to be wrong.",
+   "url": "https://finnhub.io/api/news?id=1b78cfd6b46ac7e4aa65c967f630f9fe7740a40b48c16a8e5bcfa8a12edad7c5",
+   "source": "Yahoo",
+   "published": "2026-11-06T11:00:00+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -69399,187 +69448,6 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "2f64a0a7c11c",
-   "headline": "Compared to Estimates, Centene (CNC) Q3 Earnings: A Look at Key Metrics",
-   "summary": "Although the revenue and EPS for Centene (CNC) give a sense of how its business performed in the quarter ended September 2026, it might be worth considering how some key metrics compare with Wall Street estimates and the year-ago numbers.",
-   "url": "https://finnhub.io/api/news?id=5c8344148546390e8821bf37df125a6b6fc551efbcdcd3bcf5483e81077469aa",
-   "source": "Yahoo",
-   "published": "2026-10-27T12:30:05+00:00",
-   "tickers": [
-    "CNC"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "79004a9d1898",
-   "headline": "Novartis (NVS) Q3 Earnings: Taking a Look at Key Metrics Versus Estimates",
-   "summary": "Although the revenue and EPS for Novartis (NVS) give a sense of how its business performed in the quarter ended September 2026, it might be worth considering how some key metrics compare with Wall Street estimates and the year-ago numbers.",
-   "url": "https://finnhub.io/api/news?id=f8d8012196b9845a87f53d73bf9f053380197561bf2436e3dc24f8c1bd498555",
-   "source": "Yahoo",
-   "published": "2026-10-27T12:30:04+00:00",
-   "tickers": [
-    "NVS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "0c08a4c37373",
-   "headline": "Is It Worth Investing in Intuitive Surgical (ISRG) Based on Wall Street's Bullish Views?",
-   "summary": "The average brokerage recommendation (ABR) for Intuitive Surgical (ISRG) is equivalent to a Buy. The overly optimistic recommendations of Wall Street analysts make the effectiveness of this highly sought-after metric questionable. So, is\u2026",
-   "url": "https://finnhub.io/api/news?id=4e4d45ca45587cb34d78a36b253745267497abad84f165fa6350771561eba0ad",
-   "source": "Yahoo",
-   "published": "2026-10-27T12:30:02+00:00",
-   "tickers": [
-    "ISRG"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "babd31aab5d9",
-   "headline": "Is Abbott (ABT) a Buy as Wall Street Analysts Look Optimistic?",
-   "summary": "Based on the average brokerage recommendation (ABR), Abbott (ABT) should be added to one's portfolio. Wall Street analysts' overly optimistic recommendations cast doubt on the effectiveness of this highly sought-after metric. So, is the\u2026",
-   "url": "https://finnhub.io/api/news?id=2e3977993b7f7c721a96bc7be1c5f2fbad5e76d77893a5d0e9ac62186f45cfd1",
-   "source": "Yahoo",
-   "published": "2026-10-27T12:30:02+00:00",
-   "tickers": [
-    "ABT"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "2f410d719035",
-   "headline": "Legend Biotech Corporation Sponsored ADR (LEGN) Crossed Above the 50-Day Moving Average: What That Means for Investors",
-   "summary": "Is it a good or bad thing when a stock surpasses resistance at the 50-day simple moving average?",
-   "url": "https://finnhub.io/api/news?id=eb3030e66533ad69c7b1c8c10bf5562aeeb9866e903e62f73ca3a9f26ec74731",
-   "source": "Yahoo",
-   "published": "2026-10-27T12:30:02+00:00",
-   "tickers": [
-    "LEGN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "2abb257afd8a",
-   "headline": "NORD and Amgen Launch Learning Collaborative to Improve Rare Disease Diagnosis and Care",
-   "summary": "New Initiative Will Bring Together NORD\u00ae Rare Disease Centers of Excellence to Address Challenges in Two Rare Autoimmune Diseases and Develop Approaches that Could Benefit Other Rare Disease Communities WASHINGTON, Oct. 27, 2026\u2026",
-   "url": "https://www.prnewswire.com/news-releases/nord-and-amgen-launch-learning-collaborative-to-improve-rare-disease-diagnosis-and-care-302920624.html",
-   "source": "PR Newswire",
-   "published": "2026-10-27T12:30:00+00:00",
-   "tickers": [
-    "AMGN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "c07c998054a2",
-   "headline": "Allergan Aesthetics Announces 2026 Grant Recipients of The Confidence Collective, Funded by BOTOX\u00ae Cosmetic (onabotulinumtoxinA)",
-   "summary": "Allergan Aesthetics, an AbbVie company (NYSE: ABBV), today announced the 20 grant recipients who each received $20,000 from BOTOX\u00ae Cosmetic through The Confidence Collective: Empowering Women Entrepreneurs. This ongoing initiative is\u2026",
-   "url": "https://finnhub.io/api/news?id=71f4ad526660f31cab94c6638541a104e6061d2e198c9a6c4e5b62b3049503bc",
-   "source": "Yahoo",
-   "published": "2026-10-27T12:30:00+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "890c7cefae34",
-   "headline": "HCA Healthcare Stock Nears Buy Point Despite Uninsured Cost Jump",
-   "summary": "The jump in uninsured patient costs sliced $400 million from pre-tax earnings.",
-   "url": "https://finnhub.io/api/news?id=f2b5c04fd7791d52fe97de905f5f4221522a743a9215f7fe26656566ef190795",
-   "source": "Yahoo",
-   "published": "2026-10-27T12:29:51+00:00",
-   "tickers": [
-    "HCA",
-    "THC"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "4093c97d356d",
-   "headline": "Centene (NYSE:CNC) Q3 2026 Beat Overshadowed by GAAP Loss",
-   "summary": "Centene Q3 2026 results beat revenue and adjusted EPS estimates and raised 2026 guidance, but shares fell on a GAAP loss and profit-taking.",
-   "url": "https://finnhub.io/api/news?id=6c17976cf74d09e7767bfcff12d8ae4a758ff18da71e22754f3f6b21e6ef34a6",
-   "source": "ChartMill",
-   "published": "2026-10-27T12:28:28+00:00",
-   "tickers": [
-    "CNC"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "1f2c5093ad3f",
-   "headline": "GEHC Ahead of Q3 Earnings: Can Strong Demand Offset Macro Headwinds?",
-   "summary": "GEHC heads into Q3 earnings with strong imaging demand and a record backlog, but PCS weakness, inflation and supply challenges could weigh on margins.",
-   "url": "https://finnhub.io/api/news?id=0e4607bc059b5cfd75a7b897a7d87cefdfada8b2a0be0ff3fb2f87413a2c79dd",
-   "source": "Yahoo",
-   "published": "2026-10-27T12:23:00+00:00",
-   "tickers": [
-    "EW",
-    "GEHC",
-    "GKOS",
-    "GMED"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "a9aaaca7036d",
-   "headline": "A possible treatment for brain-eating amoebas, found in the sea",
-   "summary": "Brain-eating amoebas are hard to treat and nearly always fatal. But researchers have isolated a compound that could help stop the disease.",
-   "url": "https://www.statnews.com/2026/10/27/health-news-possible-treatment-for-brain-eating-amoebas-found-in-sea/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-10-27T12:22:28+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "a25bc5e59a01",
-   "headline": "Henry Schein to Report Q3 Earnings: Here's What You Should Know",
-   "summary": "HSIC gears up for Q3 earnings with revenue growth expected across its three segments, fueled by dental products, specialty demand and cloud-based technology.",
-   "url": "https://finnhub.io/api/news?id=5491d74548f6cdd1a26faca6e225353d298cb39cd81221885d4784c83e851c43",
-   "source": "Yahoo",
-   "published": "2026-10-27T12:21:00+00:00",
-   "tickers": [
-    "HSIC",
-    "TGTX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharmacy"
    ]
   }
  ]
