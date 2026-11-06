@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-06T13:17:32.305178+00:00",
+ "updated": "2026-11-06T13:32:39.603397+00:00",
  "quotes": {
   "A": {
    "price": 171.78,
@@ -61,10 +61,6 @@
   "BMY": {
    "price": 63.13,
    "change_pct": -1.65
-  },
-  "BRKR": {
-   "price": 58.06,
-   "change_pct": -8.98
   },
   "BSX": {
    "price": 44.64,
@@ -321,6 +317,10 @@
   "RGEN": {
    "price": 168.48,
    "change_pct": -5.45
+  },
+  "ROIV": {
+   "price": 36.62,
+   "change_pct": -4.21
   }
  },
  "tickers": {
@@ -69006,142 +69006,6 @@
    "tickers": [
     "IQV",
     "MRNA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "333015bd9fa4",
-   "headline": "DCLA's Sarat Sethi on buying health care like Stryker and Intuitive Surgical",
-   "summary": "Sarat Sethi, DCLA managing partner, joins 'The Exchange' to discuss finding opportunity in health care.",
-   "url": "https://finnhub.io/api/news?id=4eccceff0a2b8d45a2c204d2585377ae941db84f5216a44581269b4556a50391",
-   "source": "CNBC",
-   "published": "2026-10-27T13:30:34+00:00",
-   "tickers": [
-    "ISRG",
-    "SYK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "606bbaeadfa7",
-   "headline": "Sun locks in first DTC spot for alopecia areata med Leqselvi",
-   "summary": "The new 60-second spot follows Sun\u2019s fashion-forward \u201cRegrowth Restyled\u201d campaign and aims to spark awareness and hope for people living with alopecia areata.",
-   "url": "https://www.fiercepharma.com/marketing/sun-locks-first-dtc-spot-alopecia-areata-med-leqselvi",
-   "source": "Fierce Pharma",
-   "published": "2026-10-27T13:30:25.753310+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "b27f53454549",
-   "headline": "Regeneron lands $270M in renewed US supply pact for approved Ebola med Inmazeb",
-   "summary": "As the fastest-spreading Ebola outbreak on record continues to grip the Democratic Republic of Congo, the United States is taking renewed steps to protect its own citizens from the devastating virus.",
-   "url": "https://www.fiercepharma.com/pharma/regeneron-lands-270m-renewed-us-supply-pact-approved-ebola-med-inmazeb",
-   "source": "Fierce Pharma",
-   "published": "2026-10-27T13:30:25.752307+00:00",
-   "tickers": [
-    "REGN"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "150c53b97374",
-   "headline": "The $1.5 Billion Question Facing Tempus AI Ahead of Nov. 2 Earnings",
-   "summary": "Tempus AI heads into its Nov. 2 earnings report with a $1.5 billion acquisition pending and shares down more than 20% in a month, putting serious pressure on the core business to prove it can carry the weight.",
-   "url": "https://finnhub.io/api/news?id=3d24eb4910396f44d81da378fb90f649b5a6b0ffc1cb759263dc4fa9bcc0df26",
-   "source": "Yahoo",
-   "published": "2026-10-27T13:28:55+00:00",
-   "tickers": [
-    "BNTX",
-    "INCY",
-    "TEM"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "6083cbd41b81",
-   "headline": "Medicus Pharma CEO to present precision oncology progress at global biotech conferences",
-   "summary": "Medicus Pharma (NASDAQ:MDCX) CEO Dr Raza Bokhari will present at BioFuture 2026 in New York and deliver a keynote at the Global Biotechnology Summit 2026 in Abu Dhabi. Bokhari will join a BioFuture panel today titled \u201cBeyond the Cure: The\u2026",
-   "url": "https://finnhub.io/api/news?id=88d6a9e1f99c574f35d3a52ca0aacffdec66f2e25ca8068633b1bd2fe53768e8",
-   "source": "Yahoo",
-   "published": "2026-10-27T13:26:00+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "106d44d7b2cc",
-   "headline": "STAT+: Pharmalittle: We\u2019re reading about a Novo setback in court, a House probe into big PBMs, and more",
-   "summary": "A U.S. judge rejected a bid to block \u200cEli Lilly from running what Novo Nordisk claims is a \u201cdeceptive\u201d advertising campaign about weight loss drugs",
-   "url": "https://www.statnews.com/pharmalot/2026/10/27/novo-setback-in-court-house-probe-into-big-pbms/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-10-27T13:25:50+00:00",
-   "tickers": [
-    "LLY",
-    "NVO"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "9249ff1ba6fa",
-   "headline": "Pfizer Cancer Therapy Shows Extended Progression-Free Survival in Multiple Myeloma Patients",
-   "summary": "Pfizer reports positive Phase 3 ELREXFIO data showing reduced disease progression risk in relapsed or refractory multiple myeloma patients.",
-   "url": "https://finnhub.io/api/news?id=0532125f8c48e3ebdc28616d2b8a1f87a10bf529949396239b2d5db01dd670e5",
-   "source": "Benzinga",
-   "published": "2026-10-27T13:25:38+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "3389f27f53e0",
-   "headline": "Moderna shares slip as William Blair cuts rating on valuation after rally",
-   "summary": "Investing.com -- Moderna Inc (NASDAQ:MRNA) slid 3% in premarket trading after William Blair downgraded the biotechnology company to Market Perform from Outperform, citing valuation constraints following a meteoric run. The downgrade\u2026",
-   "url": "https://finnhub.io/api/news?id=a93b516c7b3ff42ae8dc6b5a79d3611bfb2f99b447e83da15cf56c77bba390e8",
-   "source": "Yahoo",
-   "published": "2026-10-27T13:19:38+00:00",
-   "tickers": [
-    "MRK",
-    "MRNA"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "fd87fd697079",
-   "headline": "Biogen (BIIB) Stock May Be 45% Undervalued Despite Fresh Kidney Data",
-   "summary": "Biogen has delivered a strong run over the past year, and the key issue for you now is whether the current share price lines up with the cash the business is expected to generate. After a move like this, the question is how much of\u2026",
-   "url": "https://finnhub.io/api/news?id=67b92752082a6fb569388db66a39d75b3effb46d8721b147d1999fd96c60b4e6",
-   "source": "Yahoo",
-   "published": "2026-10-27T13:19:31+00:00",
-   "tickers": [
-    "BIIB"
    ],
    "tag": "News",
    "sectors": [
