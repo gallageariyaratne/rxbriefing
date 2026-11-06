@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-06T01:32:34.190680+00:00",
+ "updated": "2026-11-06T01:47:43.458074+00:00",
  "quotes": {
   "A": {
    "price": 171.78,
@@ -85,6 +85,10 @@
   "CI": {
    "price": 301.48,
    "change_pct": -1.29
+  },
+  "CLDX": {
+   "price": 28.27,
+   "change_pct": -5.55
   },
   "CLOV": {
    "price": 4.48,
@@ -317,10 +321,6 @@
   "RARE": {
    "price": 15.57,
    "change_pct": -9.27
-  },
-  "REGN": {
-   "price": 902.9,
-   "change_pct": -2.98
   }
  },
  "tickers": {
@@ -977,7 +977,8 @@
    "tickers": [
     "CNC",
     "ELV",
-    "MOH"
+    "MOH",
+    "UNH"
    ],
    "tag": "News",
    "sectors": [
@@ -993,6 +994,21 @@
    "published": "2026-11-05T23:49:18+00:00",
    "tickers": [
     "EVH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
+   "id": "c127e21cc6cb",
+   "headline": "Doximity (NYSE:DOCS) Shares Fall on Soft Guidance and Margin Pressure",
+   "summary": "Doximity Q2 revenue and EPS met estimates, but soft guidance and a sharp year-over-year margin decline sent shares down 6% after hours on margin worries.",
+   "url": "https://finnhub.io/api/news?id=465ef6da7d94326f851623a48559cd4f42916260abfa02234eb1af211c0938a1",
+   "source": "ChartMill",
+   "published": "2026-11-05T23:35:48+00:00",
+   "tickers": [
+    "DOCS"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -1651,6 +1667,21 @@
    ]
   },
   {
+   "id": "c7fe74326be1",
+   "headline": "Celldex: Q3 Earnings Snapshot",
+   "summary": "(AP) \u2014 Celldex Therapeutics Inc. (CLDX) on Thursday reported a loss of $75.",
+   "url": "https://finnhub.io/api/news?id=f0d824fd102ac36c30479723994e4b0a008cdbbe934cdbdf253039bc85f0c000",
+   "source": "Yahoo",
+   "published": "2026-11-05T21:26:20+00:00",
+   "tickers": [
+    "CLDX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "b75f18f18867",
    "headline": "Veeva Systems (VEEV) Becomes Core CRM Choice For Major Biopharma AI Rollout",
    "summary": "Veeva Systems (NYSE:VEEV) said UCB has selected Veeva Vault CRM as a key platform for its commercial operations. UCB plans to use industry-specific AI within Vault CRM to support product launches and day-to-day customer engagement in life\u2026",
@@ -1917,6 +1948,21 @@
    ]
   },
   {
+   "id": "b9d7ff509c15",
+   "headline": "Celldex Reports Third Quarter Financial Results and Provides Corporate Update",
+   "summary": "Best-in-disease results from Phase 3 EMBARQ-CSU1 and EMBARQ-CSU2 studies showed rapid, profound, sustained efficacy supporting barzolvolimab\u2019s potential to be a transformational therapy in CSUBLA submission for barzolvolimab in CSU\u2026",
+   "url": "https://finnhub.io/api/news?id=4a096bae983e0aeb8900681eebce18c74785928b3cd95a9a43e29cedfe77c826",
+   "source": "Yahoo",
+   "published": "2026-11-05T21:01:00+00:00",
+   "tickers": [
+    "CLDX"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "55f24157532a",
    "headline": "Ballot measures affirm divisions over abortion and transgender issues",
    "summary": "Voters in 2026 midterm elections decided state health policy ballot measures on abortion rights, marijuana laws, science bonds, and transgender youth care.",
@@ -1997,6 +2043,36 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "f902827a4efb",
+   "headline": "Dow Jones Top Decliners: NVIDIA and Cisco Post Steepest Losses in Today's Session",
+   "summary": "NVIDIA and Cisco led Dow Jones components lower in today's top-movers session, with NVIDIA down 7.9% and Cisco down 6.36%.",
+   "url": "https://finnhub.io/api/news?id=64f655ac143a4694ef88b55b1e7fc07dbc4568eb115d25e2db6c91062ad5a2cf",
+   "source": "ChartMill",
+   "published": "2026-11-05T20:11:07+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "84066a49e977",
+   "headline": "S&P 500 Top Movers: Gainers and Losers in Nov. 5, 2026 Session",
+   "summary": "S&P 500 top movers for Nov. 5, 2026: AppLovin led gainers at 30.24%, while SanDisk led losers at -17.67% in the US session.",
+   "url": "https://finnhub.io/api/news?id=d946045c52036d63964febb6fb508ce4e092cf56e438ce86e3f3afb5497bb4dd",
+   "source": "ChartMill",
+   "published": "2026-11-05T20:06:00+00:00",
+   "tickers": [
+    "CAH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharmacy"
    ]
   },
   {
@@ -2106,6 +2182,21 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "dc015e34e108",
+   "headline": "Most Active S&P 500 Stocks: Marvell, Oracle, Ford Lead Nov. 5 Trading",
+   "summary": "Marvell, Oracle and Ford topped the most-active S&P 500 list on Nov. 5 as heavy trading hit large-cap names. See volume, price moves and performance details.",
+   "url": "https://finnhub.io/api/news?id=ccdee529daf98cebd042cc9c18710b9bf10bf1549adde12ec054ff3e77786a1a",
+   "source": "ChartMill",
+   "published": "2026-11-05T19:05:58+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -2445,6 +2536,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "553a2275a30b",
+   "headline": "S&P 500 Top Movers: AppLovin Leads Today's Session With 29.19% Gain",
+   "summary": "S&P 500 top movers for today's session: AppLovin led gainers with a 29.19% jump, while Sandisk, Bloom Energy, and Western Digital posted double-digit declines.",
+   "url": "https://finnhub.io/api/news?id=d0d789d0fbfdece788b4443bb7721d4d64e7b743b3438bef707a65381ed45e4d",
+   "source": "ChartMill",
+   "published": "2026-11-05T17:36:10+00:00",
+   "tickers": [
+    "CAH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharmacy"
    ]
   },
   {
@@ -3032,6 +3138,21 @@
    "sectors": []
   },
   {
+   "id": "bec965f17301",
+   "headline": "Why Omnicell (OMCL) Might be Well Poised for a Surge",
+   "summary": "Omnicell (OMCL) shares have started gaining and might continue moving higher in the near term, as indicated by solid earnings estimate revisions.",
+   "url": "https://finnhub.io/api/news?id=2770bed94f1a3e30b924aed1a75c538545489b1e41f2a09e2e60c014ffeb01b5",
+   "source": "Yahoo",
+   "published": "2026-11-05T16:20:02+00:00",
+   "tickers": [
+    "OMCL"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "af757dfc2eab",
    "headline": "Hospital Leader Tenet Healthcare Soars Above Buy Point As Earnings Growth Accelerates",
    "summary": "Hospital leader Tenet Healthcare gapped above its latest buy point this week and is hitting new highs.",
@@ -3415,6 +3536,7 @@
    "source": "Yahoo",
    "published": "2026-11-05T15:40:03+00:00",
    "tickers": [
+    "OMCL",
     "VEEV"
    ],
    "tag": "News",
@@ -3451,6 +3573,36 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "6be7e9d6c358",
+   "headline": "S&P 500 Gap-Up and Gap-Down Stocks for Nov. 5, 2026",
+   "summary": "S&P 500 stocks with the largest gap-up and gap-down moves on Nov. 5, 2026, including session changes for AppLovin, Bloom Energy, SanDisk, AMD, and others.",
+   "url": "https://finnhub.io/api/news?id=00a936d046e1880fbaca72711950c8dd94392c73e66f255397e72504b850c177",
+   "source": "ChartMill",
+   "published": "2026-11-05T15:36:17+00:00",
+   "tickers": [
+    "CAH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
+  {
+   "id": "fb95eb31c5b1",
+   "headline": "Top Robotics Stocks With Strong Potential for Long-Term Growth",
+   "summary": "Robotics is poised for robust long-term growth. Consider OMCL, SNPS, CDNS and MCHP for potential market dominance across sectors.",
+   "url": "https://finnhub.io/api/news?id=47ff5d3d08c180af66b8846fa0fe8fcc79e4e3acc07f321a578d036c98e7a654",
+   "source": "Yahoo",
+   "published": "2026-11-05T15:33:00+00:00",
+   "tickers": [
+    "OMCL"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
    ]
   },
   {
@@ -3986,6 +4138,21 @@
    ]
   },
   {
+   "id": "416326e85008",
+   "headline": "Best Momentum Stocks to Buy for November 5th",
+   "summary": "HTO, CR and OMCL made it to the Zacks Rank #1 (Strong Buy) momentum stocks list on November 5, 2026.",
+   "url": "https://finnhub.io/api/news?id=8e3ec46b96dd70a882a130c999476c18d900c7bfe14e7772b90f3e6a8ae26836",
+   "source": "Yahoo",
+   "published": "2026-11-05T14:00:00+00:00",
+   "tickers": [
+    "OMCL"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "3d15e55c4973",
    "headline": "Are Wall Street Analysts Bullish on AbbVie Stock?",
    "summary": "AbbVie has outperformed the broader market over the past year, and analysts are highly optimistic about the stock\u2019s prospects.",
@@ -4013,6 +4180,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "aae053825603",
+   "headline": "Does Omnicell (OMCL) Have the Potential to Rally 40.83% as Wall Street Analysts Expect?",
+   "summary": "The consensus price target hints at a 40.8% upside potential for Omnicell (OMCL). While empirical research shows that this sought-after metric is hardly effective, an upward trend in earnings estimate revisions could mean that the stock\u2026",
+   "url": "https://finnhub.io/api/news?id=8bb1465a5970f0eb223c139cfdf66eb71a88077d796ad28f590e584521f3e6eb",
+   "source": "Yahoo",
+   "published": "2026-11-05T13:55:02+00:00",
+   "tickers": [
+    "OMCL"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
    ]
   },
   {
@@ -5211,6 +5393,21 @@
    ]
   },
   {
+   "id": "15bed6f6e6db",
+   "headline": "ANI Pharmaceuticals (ANIP) Surpasses Q3 Earnings and Revenue Estimates",
+   "summary": "ANI (ANIP) delivered earnings and revenue surprises of +24.42% and +3.79%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=b2282d9d4651dc4e03912474df1238905f9f940f18cee8b1d8c05b235e59f19c",
+   "source": "Yahoo",
+   "published": "2026-11-05T12:15:03+00:00",
+   "tickers": [
+    "TWST"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "011564513e99",
    "headline": "Zenith Epigenetics Announces Clinical Trial Collaboration and Supply Agreement with Lilly for Registration Enabling Study of ZEN-3694 and Verzenio(R) (Abemaciclib) in NUT Carcinoma",
    "summary": "Calgary, Alberta--(Newsfile Corp. - November 5, 2026) - Zenith Epigenetics Ltd. (\"Zenith\" or the \"Company\") today announced that the Company has executed a Clinical Trial Collaboration and Supply Agreement (\"CTCSA\") with Eli Lilly &\u2026",
@@ -6232,6 +6429,21 @@
    "tag": "FDA",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "ea1921ed8588",
+   "headline": "New Strong Buy Stocks for November 5th",
+   "summary": "HTO, SWKS, OMCL, CR and EXPD have been added to the Zacks Rank #1 (Strong Buy) List on November 5, 2026.",
+   "url": "https://finnhub.io/api/news?id=df6f9cc86b50a4b77caf9d6eba0cfd3ffdc87a70a47c6bc1e4f8ce2faac98baa",
+   "source": "Yahoo",
+   "published": "2026-11-05T10:27:00+00:00",
+   "tickers": [
+    "OMCL"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
    ]
   },
   {
