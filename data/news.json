@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-06T02:17:29.491578+00:00",
+ "updated": "2026-11-06T02:32:46.194070+00:00",
  "quotes": {
   "A": {
    "price": 171.78,
@@ -41,6 +41,10 @@
   "ARGX": {
    "price": 894.77,
    "change_pct": -3.93
+  },
+  "ASND": {
+   "price": 253.45,
+   "change_pct": -1.74
   },
   "AXSM": {
    "price": 129.8,
@@ -210,6 +214,14 @@
    "price": 411.79,
    "change_pct": -1.35
   },
+  "IART": {
+   "price": 14.12,
+   "change_pct": -4.72
+  },
+  "ICLR": {
+   "price": 201.65,
+   "change_pct": -0.72
+  },
   "ILMN": {
    "price": 208,
    "change_pct": -8.18
@@ -309,18 +321,6 @@
   "OSCR": {
    "price": 33.18,
    "change_pct": -5.71
-  },
-  "PACB": {
-   "price": 2.43,
-   "change_pct": -4.71
-  },
-  "PFE": {
-   "price": 29.88,
-   "change_pct": -2.96
-  },
-  "PODD": {
-   "price": 156.12,
-   "change_pct": -5.39
   }
  },
  "tickers": {
@@ -976,7 +976,8 @@
    "published": "2026-11-06T01:18:01+00:00",
    "tickers": [
     "GH",
-    "TXG"
+    "TXG",
+    "VEEV"
    ],
    "tag": "Health AI",
    "sectors": [
@@ -1044,6 +1045,21 @@
    ]
   },
   {
+   "id": "9d60643530f1",
+   "headline": "Mark Cuban says CVS breakup may not make prescriptions more affordable",
+   "summary": "Wall Street sees change, but will consumers really pay less for their medications?",
+   "url": "https://finnhub.io/api/news?id=13998a528393a5832ab89a2f104a2261496f45db3b2e5435b7adaa57736125ec",
+   "source": "Yahoo",
+   "published": "2026-11-06T00:37:00+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "0f132333fddb",
    "headline": "Natera (NASDAQ:NTRA) Q3 Revenue Beat Overshadowed by Profitability Miss and Selloff",
    "summary": "Natera Q3 2026 revenue beat estimates but wider loss and higher costs drove a selloff, even as it raised full-year revenue guidance.",
@@ -1071,6 +1087,36 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "d264d3435dd4",
+   "headline": "Nyxoah SA (NYXH) Reports Q3 Loss, Lags Revenue Estimates",
+   "summary": "Nyxoah (NYXH) delivered earnings and revenue surprises of +16.67% and -5.02%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=e0cf1c4a82fbd62290e59f5b1c2c424e4f44770a9f8ce16f5eb4bf7029ef3bbd",
+   "source": "Yahoo",
+   "published": "2026-11-06T00:00:19+00:00",
+   "tickers": [
+    "VEEV"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
+   "id": "7e2f18a16836",
+   "headline": "Definitive Healthcare Corp. (DH) Tops Q3 Earnings and Revenue Estimates",
+   "summary": "Definitive Healthcare (DH) delivered earnings and revenue surprises of +50.00% and +0.19%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=f6b87d7e024463edfe29cf4c1088053f8e2009ee59a66ccf30885c3b21246c10",
+   "source": "Yahoo",
+   "published": "2026-11-06T00:00:17+00:00",
+   "tickers": [
+    "DH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
    ]
   },
   {
@@ -1142,6 +1188,7 @@
    "published": "2026-11-05T23:50:13+00:00",
    "tickers": [
     "CNC",
+    "CVS",
     "ELV",
     "MOH",
     "UNH"
@@ -1360,6 +1407,21 @@
    "tag": "Analyst",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "d2fb60ea499f",
+   "headline": "Certara Inc (CERT) Q3 2026 Earnings Call Highlights: Software Growth Accelerates as Margins Expand",
+   "summary": "Certara Inc (CERT) posts 11% software revenue growth and a 31.8% adjusted EBITDA margin, even as services softness narrows full-year revenue guidance to 2%-3%.",
+   "url": "https://finnhub.io/api/news?id=9b1a04ff730dc159afb0f8f7ac2e9e8af60951ea220b066d9b7a8f70de197169",
+   "source": "Yahoo",
+   "published": "2026-11-05T23:16:12+00:00",
+   "tickers": [
+    "CERT"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthai"
    ]
   },
   {
@@ -1726,6 +1788,21 @@
    "published": "2026-11-05T21:53:46+00:00",
    "tickers": [
     "HCAT"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthai"
+   ]
+  },
+  {
+   "id": "a51883c3c74b",
+   "headline": "Certara, Inc. Q3 2026 Earnings Call Summary",
+   "summary": "Moby summary of Certara, Inc.'s Q3 2026 earnings call",
+   "url": "https://finnhub.io/api/news?id=24373599ce85b08139194e678745bf4af8f0a76865fabca9cca729647fc1fefa",
+   "source": "Yahoo",
+   "published": "2026-11-05T21:49:45+00:00",
+   "tickers": [
+    "CERT"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -2121,6 +2198,36 @@
    ]
   },
   {
+   "id": "2efe487fdabb",
+   "headline": "What Integra LifeSciences Doubters Got Wrong",
+   "summary": "If Integra LifeSciences was on your watchlist instead of in your portfolio, the past year probably felt expensive to sit out. Investors who held Integra LifeSciences over the past year are up 30.0%, including dividends. That outcome\u2026",
+   "url": "https://finnhub.io/api/news?id=947d5239b059dd933c81a7716ce82f3ec96440735c8556b82f625b8d26ccbce7",
+   "source": "Yahoo",
+   "published": "2026-11-05T21:14:16+00:00",
+   "tickers": [
+    "IART"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "72a3bccdeb25",
+   "headline": "3 Eurozone Dividend Stocks Built For Higher Rates",
+   "summary": "With the European Central Bank weighing a December rate hike as eurozone inflation hovers at 4% and energy costs squeeze growth, the gap between fragile payouts and sturdier dividends is getting wider. Income investors risk being left\u2026",
+   "url": "https://finnhub.io/api/news?id=e6cda0eb0d4f02017e3a94cb6099696bc2ddc3c076fc886be693d56c3b3c2b74",
+   "source": "Yahoo",
+   "published": "2026-11-05T21:14:12+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "a8e0f015a283",
    "headline": "TransMedics: Q3 Earnings Snapshot",
    "summary": "(TMDX) on Thursday reported third-quarter earnings of $17.On a per-share basis, the Andover, Massachusetts-based company said it had profit of 46 cents.",
@@ -2357,6 +2464,21 @@
    ]
   },
   {
+   "id": "9a57a08078af",
+   "headline": "Definitive Healthcare Reports Financial Results for Third Quarter 2026",
+   "summary": "Third Quarter Revenue Within Guidance Range; Profit Surpasses ExpectationsFRAMINGHAM, Mass., Nov. 05, 2026 (GLOBE NEWSWIRE) -- Definitive Healthcare Corp. (\u201cDefinitive Healthcare\u201d or the \u201cCompany\u201d) (Nasdaq: DH), an industry leader in\u2026",
+   "url": "https://finnhub.io/api/news?id=554b1495c3c4a2e18ee5ce2db22e55ac13fd6c5f09ee57b2bb19dc7d35777df1",
+   "source": "Yahoo",
+   "published": "2026-11-05T21:05:00+00:00",
+   "tickers": [
+    "DH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "efeb7d1c2c09",
    "headline": "Becton Dickinson (BDX) Q4 2026 Earnings Call Transcript",
    "summary": "Management sets out a fiscal 2027 plan to absorb inflation and tougher comparisons.",
@@ -2477,6 +2599,21 @@
    ]
   },
   {
+   "id": "743c4537a56e",
+   "headline": "Ascendis to Report Third Quarter 2026 Financial Results and Provide Business Update on November 12, 2026",
+   "summary": "COPENHAGEN, Denmark, Nov. 05, 2026 (GLOBE NEWSWIRE) -- Ascendis Pharma A/S (Nasdaq: ASND) today announced it plans to report third quarter 2026 financial results and provide a business update on Thursday, November 12, 2026, before the\u2026",
+   "url": "https://finnhub.io/api/news?id=9118596e167caf920b1d0567bad37ef2c53b399076ab4f318493dbb78808cd83",
+   "source": "Yahoo",
+   "published": "2026-11-05T21:01:00+00:00",
+   "tickers": [
+    "ASND"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "4fab94b7122e",
    "headline": "Guardant Health, Inc. (GH) Q3 2026 Earnings Call Transcript",
    "summary": "",
@@ -2492,6 +2629,21 @@
    ]
   },
   {
+   "id": "cd469ffe1d8c",
+   "headline": "Halozyme Therapeutics, Inc. (HALO) Q3 2026 Earnings Call Transcript",
+   "summary": "Halozyme Therapeutics, Inc. (HALO) Q3 2026 Earnings Call November 5, 2026 4:30 PM ESTCompany ParticipantsTram Bui - Head of Investor Relations &...",
+   "url": "https://finnhub.io/api/news?id=93792c1eefe8fcd36d22e713d719c91dfdd9eac145976c65edc5ff677fb938f0",
+   "source": "SeekingAlpha",
+   "published": "2026-11-05T20:54:34+00:00",
+   "tickers": [
+    "HALO"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "55f24157532a",
    "headline": "Ballot measures affirm divisions over abortion and transgender issues",
    "summary": "Voters in 2026 midterm elections decided state health policy ballot measures on abortion rights, marijuana laws, science bonds, and transgender youth care.",
@@ -2501,6 +2653,36 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "01cb1e59dd12",
+   "headline": "Globus Medical, Inc. (GMED) Q3 2026 Earnings Call Transcript",
+   "summary": "Globus Medical, Inc. (GMED) Q3 2026 Earnings Call November 5, 2026 4:30 PM ESTCompany ParticipantsShagun SinghKeith Pfeil - CEO, President &...",
+   "url": "https://finnhub.io/api/news?id=c6292faf196f2b5f9026ba81ccbafb57d7a02274bd4d4dcee19543c0f71f28ec",
+   "source": "SeekingAlpha",
+   "published": "2026-11-05T20:44:41+00:00",
+   "tickers": [
+    "GMED"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "6033f3af673a",
+   "headline": "Veeva Systems Inc. (VEEV) Analyst/Investor Day - Slideshow",
+   "summary": "2026-11-05. The following slide deck was published by Veeva Systems Inc.",
+   "url": "https://finnhub.io/api/news?id=8266784b7b957f1806494ee6b9a39b6ada6a6824ed6ae1e648e4a8245ff9cf99",
+   "source": "SeekingAlpha",
+   "published": "2026-11-05T20:40:36+00:00",
+   "tickers": [
+    "VEEV"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "healthit"
+   ]
   },
   {
    "id": "2795fdfe3c3f",
@@ -2636,6 +2818,21 @@
    ]
   },
   {
+   "id": "5440f365b5f6",
+   "headline": "Certara (CERT) Q3 2026 Earnings Call Transcript",
+   "summary": "Software momentum and cloud migration progress lifted margins despite a services slowdown.",
+   "url": "https://finnhub.io/api/news?id=a5fcad6cc2fd5de24b184e3b710971092a2cb127ddc7266b2cec751f358b6e57",
+   "source": "Yahoo",
+   "published": "2026-11-05T19:49:22+00:00",
+   "tickers": [
+    "CERT"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthai"
+   ]
+  },
+  {
    "id": "61853004f6ac",
    "headline": "Hospital Stocks Soared as Democrats Took Congress",
    "summary": "HCA posted its biggest one-day jump in four years before a single law changed. Wall Street is pricing in relief that needs Congress, a presidential signature, and a December funding fight to survive. Who is betting on what?",
@@ -2645,6 +2842,7 @@
    "tickers": [
     "CNC",
     "HCA",
+    "OSCR",
     "THC",
     "UHS"
    ],
@@ -2696,6 +2894,36 @@
    "tag": "Earnings",
    "sectors": [
     "healthit"
+   ]
+  },
+  {
+   "id": "a72aedf9dcb7",
+   "headline": "BayCare Proton Center Treats First Patient on Mevion S250 FIT\u2122 with Leo Cancer Care's Marie\u00ae Solution",
+   "summary": "The BayCare Proton Center has treated its first patient with upright proton therapy, marking an important milestone in its mission to bring advanced cancer care closer to the communities it serves.",
+   "url": "https://finnhub.io/api/news?id=022daebc2e6191971355b097123013dc0b6d662bc1ec3d060aa66f6ca36999a0",
+   "source": "Yahoo",
+   "published": "2026-11-05T19:15:00+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "83d99c2e7985",
+   "headline": "Certara Q3 Earnings Call Highlights",
+   "summary": "Certara (NASDAQ:CERT) reported 4% revenue growth in the third quarter of 2026 as double-digit software growth offset a decline in services, while cost reductions and a favorable sales mix helped lift profitability. Revenue from continuing\u2026",
+   "url": "https://finnhub.io/api/news?id=6c1c53459cfaef09bdbcea85440891d23531778b2bac911aee91278c3daed08a",
+   "source": "Yahoo",
+   "published": "2026-11-05T19:14:39+00:00",
+   "tickers": [
+    "CERT"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthai"
    ]
   },
   {
@@ -2958,6 +3186,21 @@
    "sectors": []
   },
   {
+   "id": "d5e0fae8e470",
+   "headline": "HRMY Q3 Earnings Miss Estimates on Higher Costs Despite Wakix Growth",
+   "summary": "Harmony Biosciences' Q3 earnings missed estimates as higher costs weighed on profits, while Wakix demand and pipeline progress supported its 2026 revenue outlook.",
+   "url": "https://finnhub.io/api/news?id=50d0d2e3188d6c949bef46a1f8fa29bdd2f134195a773b172d7056c3a245fc62",
+   "source": "Yahoo",
+   "published": "2026-11-05T18:04:00+00:00",
+   "tickers": [
+    "TAK"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "de2b344b61a4",
    "headline": "DNLI Up 7.8% Post Q3 Earnings: Should You Buy, Sell or Hold the Stock?",
    "summary": "Denali Therapeutics gains 7.8% as Avlayah sales surge nearly fivefold, reimbursement coverage expands and multiple pipeline catalysts approach.",
@@ -2966,7 +3209,8 @@
    "published": "2026-11-05T18:01:00+00:00",
    "tickers": [
     "BIIB",
-    "DNLI"
+    "DNLI",
+    "TAK"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -3477,6 +3721,21 @@
    ]
   },
   {
+   "id": "c8751ac6f047",
+   "headline": "Here's the 1 Stock I'd Most Want to Buy If the Market Crashes",
+   "summary": "Investors should look to defensive stocks in the healthcare sector during a major market correction.",
+   "url": "https://finnhub.io/api/news?id=7f1fa172ac78efb914bd846de01fc2b8e7af73335a2cfc3a312b88fd9f248e62",
+   "source": "Yahoo",
+   "published": "2026-11-05T16:50:00+00:00",
+   "tickers": [
+    "VKTX"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "b02d8de7af6c",
    "headline": "If You Invested $25,000 in These 4 Dividend Stocks, Here\u2019s What They\u2019d Pay You",
    "summary": "A pipeline operator, a tower REIT, a chicken giant, and a healthcare conglomerate each get an equal slice of $25,000. One of them cut its dividend by more than 75% a decade ago, and another is about to split in two.",
@@ -3606,6 +3865,21 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "4e1a08505983",
+   "headline": "RAMSAY SANTE : Unaudited interim results at the end of September 2026",
+   "summary": "PRESS RELEASE Paris, 5th November 2026 Unaudited interim results at the end of September 2026 Ramsay Sant\u00e9 delivers solid first-quarter performance, with continued revenue growth and improved operational performancePositive operating\u2026",
+   "url": "https://finnhub.io/api/news?id=f03931bd2efeb5858dba0ab62eaebb62716555e2613d8cb6a69f52fe0c02e7df",
+   "source": "Yahoo",
+   "published": "2026-11-05T16:35:00+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -4023,6 +4297,21 @@
    ]
   },
   {
+   "id": "a878978d1eb7",
+   "headline": "Asian Equities Traded in the US as American Depositary Receipts Drop Sharply in Thursday Trading",
+   "summary": "Asian equities traded in the US as American depositary receipts were sharply lower Thursday morning,",
+   "url": "https://finnhub.io/api/news?id=e172758510c22ce924963db3dc84dd15571b97d7bfbc828db85a6865285ccb45",
+   "source": "Yahoo",
+   "published": "2026-11-05T15:58:25+00:00",
+   "tickers": [
+    "TAK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "c2ed5b2b2b21",
    "headline": "Eli Lilly and Company\u2019s (LLY) GLP-1 Franchise Faces Growing Price Competition",
    "summary": "Baron Capital, an investment management company, released its Q3 2026 investor letter for the \u201cBaron Health Care Fund\u201d. The letter can be downloaded here. During the quarter ended September 30, 2026, Baron Health Care Fund\u00ae advanced\u2026",
@@ -4300,6 +4589,21 @@
     "AZN"
    ],
    "tag": "M&A",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "91f18cbb553e",
+   "headline": "CapMan Oyj (OHEL:CAPMAN) (Q3 2026) Earnings Call Highlights: Revenue Jumps 19% as AUM Hits EUR ...",
+   "summary": "CapMan Oyj (OHEL:CAPMAN) posted strong top-line growth and record investor distributions in Q3 2026, yet flat fee profit and delayed real asset fundraising tempered the quarter's momentum.",
+   "url": "https://finnhub.io/api/news?id=38c12d126bed5aa68d99238ebe356f3b689b7673e811f443e847b0d3dec5db85",
+   "source": "Yahoo",
+   "published": "2026-11-05T15:10:23+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "Clinical",
    "sectors": [
     "pharma"
    ]
@@ -4586,6 +4890,7 @@
    "published": "2026-11-05T14:12:20+00:00",
    "tickers": [
     "HCA",
+    "OSCR",
     "THC"
    ],
    "tag": "Earnings",
@@ -4938,6 +5243,21 @@
    ]
   },
   {
+   "id": "ceff4a7d6a20",
+   "headline": "Certara, Inc. (CERT) Tops Q3 Earnings and Revenue Estimates",
+   "summary": "Certara (CERT) delivered earnings and revenue surprises of +12.50% and +2.93%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=073aa91bd9b272132e26fd8a11d1c5b89393b26d3577f2294106798850b590eb",
+   "source": "Yahoo",
+   "published": "2026-11-05T13:35:11+00:00",
+   "tickers": [
+    "CERT"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthai"
+   ]
+  },
+  {
    "id": "6ae9b5497608",
    "headline": "Intellia Therapeutics, Inc. (NTLA) Reports Q3 Loss, Lags Revenue Estimates",
    "summary": "Intellia Therapeutics (NTLA) delivered earnings and revenue surprises of -10.98% and -28.36%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
@@ -5058,6 +5378,21 @@
    "tag": "Earnings",
    "sectors": [
     "healthit"
+   ]
+  },
+  {
+   "id": "dea89fa91957",
+   "headline": "Oscar Health (OSCR) Reports Q3 Earnings: What Key Metrics Have to Say",
+   "summary": "The headline numbers for Oscar Health (OSCR) give insight into how the company performed in the quarter ended September 2026, but it may be worthwhile to compare some of its key metrics to Wall Street estimates and the year-ago actuals.",
+   "url": "https://finnhub.io/api/news?id=c41b55f958b85b6d78b8d6fe12053d3e5cf56e8367aa2bd265eac98ebe31494b",
+   "source": "Yahoo",
+   "published": "2026-11-05T13:30:06+00:00",
+   "tickers": [
+    "OSCR"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -5398,6 +5733,7 @@
    "published": "2026-11-05T13:12:56+00:00",
    "tickers": [
     "CNC",
+    "OSCR",
     "THC"
    ],
    "tag": "News",
@@ -5636,6 +5972,21 @@
    ]
   },
   {
+   "id": "ccb2bde001c1",
+   "headline": "ICON Launches FIRECREST AI-Directed Video Engine, Changing the Economics of Site Communications",
+   "summary": "DUBLIN, November 05, 2026--ICON plc (NASDAQ: ICLR), a world-leading clinical research organisation, today announced the release of AI-directed video production capabilities within its FIRECREST site & patient communications platform.",
+   "url": "https://finnhub.io/api/news?id=e81258cd09925e9f0d275847ccde01701eaa72f8235a9aec9ea1c79cefb65847",
+   "source": "Yahoo",
+   "published": "2026-11-05T13:00:00+00:00",
+   "tickers": [
+    "ICLR"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "a1f507f5e94a",
    "headline": "Buy, Sell, or Hold? Thursday\u2019s Top Upgrades and Downgrades: Block, Cisco Systems, Dollar Tree, First Solar, HubSpot, JetBlue Airways, Nike, Space-X, Skyworks Solutions, and More",
    "summary": "Stocks surged after a political shake-up, but Wall Street analysts were far from unanimous on Thursday. Some household names got slashed while a struggling airline and a solar giant won new fans. Which side of the call are you on?",
@@ -5675,6 +6026,21 @@
    "tickers": [],
    "tag": "FDA",
    "sectors": []
+  },
+  {
+   "id": "c66d0c8c91fa",
+   "headline": "Oscar Health CEO Says Firm On Track For Strongest Financial Performance In History \u2013 OSCR Stock On Track To Hit Over 5 Year Highs",
+   "summary": "Oscar Health raised its operating earnings forecast to $850 million to $950 million, a third upward revision this year.",
+   "url": "https://finnhub.io/api/news?id=aee6a4772627303e29807280d4e73093cde148ea253e39fdc9e8693d0fe5c406",
+   "source": "Yahoo",
+   "published": "2026-11-05T12:56:36+00:00",
+   "tickers": [
+    "OSCR"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
   },
   {
    "id": "71e084fa8d2d",
@@ -6332,6 +6698,21 @@
    ]
   },
   {
+   "id": "687cde799a25",
+   "headline": "Certara Reports Third Quarter 2026 Financial Results",
+   "summary": "Certara delivers a solid quarter with double-digit software revenue growth Updates 2026 financial outlook Appoints Grant Peterson Chief Product Officer Company to host conference call and webcast today at 8:30 a.m. ET RADNOR, Pa., Nov.\u2026",
+   "url": "https://finnhub.io/api/news?id=ce5644f756fd120c0c6327e44a84ef657f30a782aebcabf12185ff50a2d48c45",
+   "source": "Yahoo",
+   "published": "2026-11-05T12:00:00+00:00",
+   "tickers": [
+    "CERT"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthai"
+   ]
+  },
+  {
    "id": "86974455208b",
    "headline": "Dow Jones Futures Rise As Techs Fall; Apple, Microsoft, Amazon Flash Buy Signals",
    "summary": "The Dow is still leading the postelection rally. Stocks from many sectors flash buy signals, but avoid this area.",
@@ -6545,6 +6926,21 @@
    ]
   },
   {
+   "id": "5c0775cb16c3",
+   "headline": "Oscar Health, Inc. (OSCR) Beats Q3 Earnings and Revenue Estimates",
+   "summary": "Oscar Health (OSCR) delivered earnings and revenue surprises of +545.46% and +8.84%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=c38819639b0ff638351ab992ac626d9832ab4f6ea3032a2b9513f4941ebf688f",
+   "source": "Yahoo",
+   "published": "2026-11-05T11:35:04+00:00",
+   "tickers": [
+    "OSCR"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "3e23177b9426",
    "headline": "Cigna (NYSE:CI) beats Q3 2026 sales expectations",
    "summary": "Health insurance company Cigna (NYSE:CI) announced better-than-expected revenue in Q3 2026, with revenue up 6.1% year on year to $73.79 billion. Its non-GAAP profit of $7.98 per share was 6.3% above analysts\u2019 consensus estimates.",
@@ -6553,6 +6949,21 @@
    "published": "2026-11-05T11:34:31+00:00",
    "tickers": [
     "CI"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "6b5ba1a15a44",
+   "headline": "Oscar Health (NYSE:OSCR) surprises with strong Q3 2026, full-year sales guidance is optimistic",
+   "summary": "Health insurance company Oscar Health (NYSE:OSCR) reported Q3 2026 results beating Wall Street\u2019s revenue expectations, with revenue up 72.1% year on year to $5.14 billion. The company\u2019s full-year revenue guidance of $19.15 billion at the\u2026",
+   "url": "https://finnhub.io/api/news?id=b32c6a2f0705c6836ef9094be7e51de10cbba4df53e1314fda7339bc3f501fac",
+   "source": "Yahoo",
+   "published": "2026-11-05T11:33:14+00:00",
+   "tickers": [
+    "OSCR"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -15253,6 +15664,21 @@
    "tag": "Earnings",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "5ff533d36573",
+   "headline": "RxSight, Inc. Q3 2026 Earnings Call Summary",
+   "summary": "Moby summary of RxSight, Inc.'s Q3 2026 earnings call",
+   "url": "https://finnhub.io/api/news?id=f6fd3acb6edfbd229abc7e03f676ed23e18218921ae3c5f64ffa39df7286fc4f",
+   "source": "Yahoo",
+   "published": "2026-11-04T13:30:00+00:00",
+   "tickers": [
+    "RXST"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -69806,67 +70232,6 @@
    "published": "2026-10-27T03:01:55+00:00",
    "tickers": [
     "NVS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "d598de93b490",
-   "headline": "Alignment Healthcare: The Star Cost $1.25 In A Day, The Cost Base Is The Bigger Problem",
-   "summary": "",
-   "url": "https://finnhub.io/api/news?id=f3afbb022845fb702b7dc0923969645ba0a0b371dc750d6df758941e6b0e33b3",
-   "source": "SeekingAlpha",
-   "published": "2026-10-27T02:26:42+00:00",
-   "tickers": [
-    "ALHC"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "1a140f516cf0",
-   "headline": "Artisan Mid Cap Fund Q3 2026 Portfolio Update",
-   "summary": "During the quarter, we initiated new positions in Manhattan Associates, Okta and Clean Harbors. Read more here.",
-   "url": "https://finnhub.io/api/news?id=e0c6017891e06b856c7e59b302a47e4a118cdf207766ff4ff787ed98687b5186",
-   "source": "SeekingAlpha",
-   "published": "2026-10-27T02:20:00+00:00",
-   "tickers": [
-    "IONS",
-    "TWST"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "d69faa8b0bde",
-   "headline": "Nasdaq Gains Over 200 Points As Chip Stocks Rise: Investor Sentiment Improves, Fear & Greed Index Moves to \u2018Fear\u2019 Zone",
-   "summary": "U.S. stocks rose Monday as AI shares gained, but CNN\u2019s Fear & Greed Index remained in the Fear zone at 27. Investors await major earnings.",
-   "url": "https://finnhub.io/api/news?id=0d763c95656ad79e02594dd5e0358edc9d1e1a959b06856095f99658cd161d13",
-   "source": "Benzinga",
-   "published": "2026-10-27T02:19:54+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "a6aec69267ae",
-   "headline": "Coca-Cola, Boeing and 3 Stocks to Watch Heading Into Tuesday",
-   "summary": "Coca-Cola, Boeing and J&J report; Whirlpool cuts guidance after weak results, while Celestica beats estimates and lifts outlook.",
-   "url": "https://finnhub.io/api/news?id=966287a33567a8ad36e5c87e5cbd5ef48b32022883d8daf598305d43a287c212",
-   "source": "Benzinga",
-   "published": "2026-10-27T02:16:48+00:00",
-   "tickers": [
-    "JNJ"
    ],
    "tag": "Earnings",
    "sectors": [
