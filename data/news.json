@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-06T01:02:42.096210+00:00",
+ "updated": "2026-11-06T01:17:44.969379+00:00",
  "quotes": {
   "A": {
    "price": 171.78,
@@ -9,6 +9,10 @@
   "ABBV": {
    "price": 288.24,
    "change_pct": -2.24
+  },
+  "ABSI": {
+   "price": 9.39,
+   "change_pct": -10.4
   },
   "ABT": {
    "price": 113.6,
@@ -25,6 +29,10 @@
   "ALNY": {
    "price": 156.66,
    "change_pct": -2.74
+  },
+  "ALT": {
+   "price": 1.97,
+   "change_pct": -7.08
   },
   "AMGN": {
    "price": 460.28,
@@ -166,6 +174,10 @@
    "price": 507.48,
    "change_pct": -0.63
   },
+  "HCAT": {
+   "price": 1.5,
+   "change_pct": -5.66
+  },
   "HIMS": {
    "price": 24.06,
    "change_pct": -9.75
@@ -294,6 +306,10 @@
    "price": 23.94,
    "change_pct": 6.88
   },
+  "RARE": {
+   "price": 15.57,
+   "change_pct": -9.27
+  },
   "REGN": {
    "price": 902.9,
    "change_pct": -2.98
@@ -305,22 +321,6 @@
   "RMD": {
    "price": 239.31,
    "change_pct": -0.5
-  },
-  "ROIV": {
-   "price": 36.62,
-   "change_pct": -4.21
-  },
-  "RVMD": {
-   "price": 177.65,
-   "change_pct": -11.04
-  },
-  "RXRX": {
-   "price": 3.5,
-   "change_pct": -9.79
-  },
-  "SDGR": {
-   "price": 28.77,
-   "change_pct": 0.88
   }
  },
  "tickers": {
@@ -961,7 +961,8 @@
    "published": "2026-11-05T23:50:13+00:00",
    "tickers": [
     "CNC",
-    "ELV"
+    "ELV",
+    "MOH"
    ],
    "tag": "News",
    "sectors": [
@@ -1014,6 +1015,21 @@
    ]
   },
   {
+   "id": "3d3f0cc58b9c",
+   "headline": "Lexicon Pharmaceuticals Inc (LXRX) (Q3 2026) Earnings Call Highlights: Sonata HCM Data and ...",
+   "summary": "Lexicon Pharmaceuticals Inc (LXRX) ended Q3 2026 with $183.2 million in cash as it advances pivotal sotagliflozin programs and reports promising preclinical obesity data for pilavapidin.",
+   "url": "https://finnhub.io/api/news?id=6327d4aac550669348386efe9be23a1bdf57402ee2adce9420e6b5e5f8a13572",
+   "source": "Yahoo",
+   "published": "2026-11-05T23:18:50+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "40cabfbd1147",
    "headline": "Cardinal Health Inc (CAH) (Q1 2027) Earnings Call Highlights: Record $1 Billion Operating ...",
    "summary": "Cardinal Health Inc (CAH) posted 5% revenue growth to $67.5 billion, lifted fiscal 2027 EPS guidance to $12.80--$13.00, and renewed its largest customer through 2032.",
@@ -1029,6 +1045,21 @@
    ]
   },
   {
+   "id": "561fdb5b9912",
+   "headline": "Here's What Key Metrics Tell Us About Health Catalyst (HCAT) Q3 Earnings",
+   "summary": "While the top- and bottom-line numbers for Health Catalyst (HCAT) give a sense of how the business performed in the quarter ended September 2026, it could be worth looking at how some of its key metrics compare to Wall Street estimates\u2026",
+   "url": "https://finnhub.io/api/news?id=b8b373ba81518c7d85a3acd28983c129e376d94a08ed508648969fdaf3bafcec",
+   "source": "Yahoo",
+   "published": "2026-11-05T23:00:03+00:00",
+   "tickers": [
+    "HCAT"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthai"
+   ]
+  },
+  {
    "id": "e0ad817d7c81",
    "headline": "Becton, Dickinson and Company Q4 2026 Earnings Call Summary",
    "summary": "Moby summary of Becton, Dickinson and Company's Q4 2026 earnings call",
@@ -1041,6 +1072,21 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "5db2f90200bc",
+   "headline": "Health Catalyst (NASDAQ:HCAT) exceeds Q3 2026 expectations",
+   "summary": "Healthcare data analytics company Health Catalyst (NASDAQ:HCAT) beat Wall Street\u2019s revenue expectations in Q3 2026, but revenue fell by 26.3% year on year to $56.28 million. The company expects the full year\u2019s revenue to be around $247.5\u2026",
+   "url": "https://finnhub.io/api/news?id=62c13eb20ccdbcf68cce195d849f9f75c0ae550bd9aac62a2aaad28fc56f4710",
+   "source": "Yahoo",
+   "published": "2026-11-05T22:51:13+00:00",
+   "tickers": [
+    "HCAT"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthai"
    ]
   },
   {
@@ -1247,6 +1293,21 @@
    ]
   },
   {
+   "id": "c815f7a5cda5",
+   "headline": "Health Catalyst: Q3 Earnings Snapshot",
+   "summary": "SOUTH JORDAN, Utah (AP) \u2014 SOUTH JORDAN, Utah (AP) \u2014 Health Catalyst Inc. (HCAT) on Thursday reported net income of $40.",
+   "url": "https://finnhub.io/api/news?id=b2b80baea401efdcfd43ad9dfba63d5ad8f54a35d6c7708be8e1aa47b3f4316b",
+   "source": "Yahoo",
+   "published": "2026-11-05T21:53:46+00:00",
+   "tickers": [
+    "HCAT"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthai"
+   ]
+  },
+  {
    "id": "12145ce5d480",
    "headline": "AM Best Places Credit Ratings of CVS Health Corporation\u2019s Aetna Inc. Subsidiaries Under Review with Developing Implications",
    "summary": "OLDWICK, N.J., November 05, 2026--AM Best has placed under review with developing implications the Financial Strength Rating (FSR) of A (Excellent) and the Long-Term Issuer Credit Ratings (Long-Term ICR) of \"a\" (Excellent) of Aetna Life\u2026",
@@ -1304,6 +1365,21 @@
    "tag": "Earnings",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "cecae27cca36",
+   "headline": "Verastem (VSTM) Reports Q3 Loss, Misses Revenue Estimates",
+   "summary": "Verastem (VSTM) delivered earnings and revenue surprises of -68.18% and -15.60%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=0694af7024d5094e013707af1ad706d283e1b4487d4f3b0525532979a54cc83d",
+   "source": "Yahoo",
+   "published": "2026-11-05T21:45:04+00:00",
+   "tickers": [
+    "ABSI"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthai"
    ]
   },
   {
@@ -1646,6 +1722,21 @@
    ]
   },
   {
+   "id": "3a6e7fe56769",
+   "headline": "Health Catalyst Reports Third Quarter 2026 Results",
+   "summary": "SALT LAKE CITY, Nov. 05, 2026 (GLOBE NEWSWIRE) -- Health Catalyst, Inc. (\u201cHealth Catalyst,\u201d Nasdaq: HCAT), a healthcare intelligence company designed to accelerate measurable improvement for health systems, today reported financial\u2026",
+   "url": "https://finnhub.io/api/news?id=ef48f1da04f36283825a675664c30cf6be3f2905da37bd575a676e06288465c5",
+   "source": "Yahoo",
+   "published": "2026-11-05T21:03:00+00:00",
+   "tickers": [
+    "HCAT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthai"
+   ]
+  },
+  {
    "id": "31f5e88ba9b7",
    "headline": "TransMedics Reports Third Quarter 2026 Financial Results",
    "summary": "Strong Revenue Generation Drives Increase in Full-Year 2026 Guidance; Recent Progress Positions Company for Continued Growth with Several Near- and Mid-Term Catalysts ANDOVER, Mass., Nov. 5, 2026 /PRNewswire/ -- TransMedics Group, Inc.\u2026",
@@ -1913,6 +2004,21 @@
    ]
   },
   {
+   "id": "dfbccc1c1791",
+   "headline": "McKesson Corp.: Normalized Earnings Suggest Attractive Valuation",
+   "summary": "Aristotle Capital details its investment thesis for McKesson in Q3 2026 commentary. Read more for full analytical insights.",
+   "url": "https://finnhub.io/api/news?id=c7e4d8db9e6bb828b20c307f0dc58816c84a9a3f06871fc2256028157784b3b7",
+   "source": "SeekingAlpha",
+   "published": "2026-11-05T18:50:00+00:00",
+   "tickers": [
+    "MCK"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
+  {
    "id": "197c3017dfd2",
    "headline": "CVS split leaves shareholders with two stocks and three big questions",
    "summary": "CVS Health shareholders will own both halves of the breakup. 3M\u2019s split shows why the fine print matters more than the headline.",
@@ -1966,6 +2072,21 @@
    "tag": "News",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "83f57e9d4519",
+   "headline": "Novo Nordisk (CPSE:NOVO B) Stock Faces Q3 Earnings Profit Squeeze",
+   "summary": "Novo Nordisk walked into this Q3 2026 release with a mixed recent run, the stock up about 10% over the past month but still down roughly 11% over three months. Today the headline is simple: solid top line, tighter profits. Revenue for the\u2026",
+   "url": "https://finnhub.io/api/news?id=96766825cecdaddd8fc18fc9c79c5f3154f6d1119bebefc3ff62161257bc03d1",
+   "source": "Yahoo",
+   "published": "2026-11-05T18:15:43+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -2433,6 +2554,21 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "d958492f5218",
+   "headline": "Ultragenyx Pharmaceutical Inc (RARE) Q3 2026 Earnings Call Highlights: Gene Therapy Launches, ...",
+   "summary": "Ultragenyx Pharmaceutical Inc (RARE) reaffirms 2026 revenue guidance of $730M--$760M, banks ~$350M in non-dilutive PRV proceeds, and trims its workforce by 20% while discontinuing two programs.",
+   "url": "https://finnhub.io/api/news?id=62e04d9c58720199cf7499a0e213f7157cd1a84744f7fe9568371563ead39fa6",
+   "source": "Yahoo",
+   "published": "2026-11-05T17:03:57+00:00",
+   "tickers": [
+    "RARE"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -3292,6 +3428,21 @@
    ]
   },
   {
+   "id": "439c60cec13c",
+   "headline": "Novo Nordisk A/S: Trading in Novo Nordisk shares by board members, executives and associated persons",
+   "summary": "Bagsv\u00e6rd, Denmark. 5 November 2026 \u2013 This company announcement discloses the data of the transaction(s) made in Novo Nordisk shares by the company\u2019s board members, executives and their associated persons in accordance with Article 19 of\u2026",
+   "url": "https://finnhub.io/api/news?id=288fab30aeb2c9d31c677a49fb23ff2db7b4453a239d3d386999d1991c2d59bd",
+   "source": "Yahoo",
+   "published": "2026-11-05T15:02:00+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "8007804b8ab1",
    "headline": "The Cigna Group Reports Third Quarter 2026 Revenues of $73.7 billion and Raises Full Year Outlook",
    "summary": "",
@@ -3358,6 +3509,21 @@
     "MDGL"
    ],
    "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "c0e19dc8cb64",
+   "headline": "Altimmune Announces Data from RECLAIM Phase 2 Trial of Pemvidutide in Alcohol Use Disorder Selected as Late-Breaking Oral Presentation at AASLD The Liver Meeting\u00ae 2026",
+   "summary": "First presentation at a scientific conference of key data from RECLAIM, a multicenter Phase 2 trial of a balanced 1:1 glucagon/GLP-1 receptor agonist in alcohol use disorder (AUD) Presentation to take place on Monday, November 9, 2026, at\u2026",
+   "url": "https://finnhub.io/api/news?id=0fa529258fe998b35a59118cb1fe188d3e5e453586c6a3e2783e164187629ba7",
+   "source": "Yahoo",
+   "published": "2026-11-05T15:00:00+00:00",
+   "tickers": [
+    "ALT"
+   ],
+   "tag": "GLP-1",
    "sectors": [
     "biotech"
    ]
@@ -3559,7 +3725,8 @@
    "published": "2026-11-05T14:03:54+00:00",
    "tickers": [
     "LLY",
-    "MRK"
+    "MRK",
+    "NVO"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -3664,6 +3831,21 @@
     "GSK"
    ],
    "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "3df1aa9e55f8",
+   "headline": "NVO Q3 Earnings Call Highlights GLP-1 Growth and Raised Outlook",
+   "summary": "Novo raises its 2026 outlook as Wegovy pill adoption accelerates, while Medicare-driven demand, pricing pressures and 2027 growth remain in focus.",
+   "url": "https://finnhub.io/api/news?id=1a1c38f4e80620745babe7e4a17973d1827debdadf42e0f64c3253862e573f21",
+   "source": "Yahoo",
+   "published": "2026-11-05T14:00:00+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "GLP-1",
    "sectors": [
     "pharma"
    ]
@@ -3816,6 +3998,21 @@
    "tag": "Earnings",
    "sectors": [
     "healthit"
+   ]
+  },
+  {
+   "id": "6ae9b5497608",
+   "headline": "Intellia Therapeutics, Inc. (NTLA) Reports Q3 Loss, Lags Revenue Estimates",
+   "summary": "Intellia Therapeutics (NTLA) delivered earnings and revenue surprises of -10.98% and -28.36%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=3c0f9cc2bf566ce62d7a5e8dcfaafa726ffcb1602a927ea5eb2ea00c6e86bccd",
+   "source": "Yahoo",
+   "published": "2026-11-05T13:35:04+00:00",
+   "tickers": [
+    "NTLA"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -4059,6 +4256,21 @@
    "tag": "Policy",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "986992ddafc3",
+   "headline": "Company News for Nov 5, 2026",
+   "summary": "Companies in The News Are: MCD, GWW, IREN, NVO",
+   "url": "https://finnhub.io/api/news?id=3f0c8f56815ff59b1a237f9e1d7da13a7ce5b22aec8515fcb8d4babc26ce8415",
+   "source": "Yahoo",
+   "published": "2026-11-05T13:26:00+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -4439,6 +4651,36 @@
    "tag": "Earnings",
    "sectors": [
     "healthit"
+   ]
+  },
+  {
+   "id": "06d5b774fb8a",
+   "headline": "Intellia Therapeutics Announces Third Quarter 2026 Financial Results and Business Updates",
+   "summary": "On track to complete lonvo-z commercial readiness efforts in advance of March 10, 2027 PDUFA date New lonvo-z patient perspectives and Phase 1/2 durability data to be included in investor webcast and multiple presentations next week at\u2026",
+   "url": "https://finnhub.io/api/news?id=e14762b93e894e0bb0ba1e38a1eb467bc74c8976b80ee2c9f67722a5c46c443d",
+   "source": "Yahoo",
+   "published": "2026-11-05T13:00:00+00:00",
+   "tickers": [
+    "NTLA"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "060ceb7006b7",
+   "headline": "Altimmune to Report Third Quarter 2026 Financial Results and Provide Business Update on November 12, 2026",
+   "summary": "MORRISTOWN, N.J., Nov. 05, 2026 (GLOBE NEWSWIRE) -- Altimmune, Inc. (Nasdaq: ALT), a biopharmaceutical company advancing pemvidutide, an investigational balanced 1:1 glucagon/GLP-1 receptor agonist, in serious liver diseases, today\u2026",
+   "url": "https://finnhub.io/api/news?id=ad57efc476aad7c143e07bf5cf9b319f40dd4da9dee14b1f34797729ea928225",
+   "source": "Yahoo",
+   "published": "2026-11-05T13:00:00+00:00",
+   "tickers": [
+    "ALT"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -5239,6 +5481,21 @@
    "tag": "GLP-1",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "0e557eb4994b",
+   "headline": "Intellia concludes Phase III ATTRv-PN study enrolment",
+   "summary": "The trial recruited around 60 adult participants to assess the candidate's safety and efficacy.",
+   "url": "https://finnhub.io/api/news?id=1695c91b065fec199db907f2e682d1852013cba3fc77fe0c2412b88a1b1b2631",
+   "source": "Yahoo",
+   "published": "2026-11-05T11:38:53+00:00",
+   "tickers": [
+    "NTLA"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -7376,7 +7633,8 @@
    "source": "Yahoo",
    "published": "2026-11-05T03:23:53+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -7885,6 +8143,7 @@
    "source": "Yahoo",
    "published": "2026-11-04T23:45:21+00:00",
    "tickers": [
+    "HCAT",
     "SDGR"
    ],
    "tag": "Earnings",
@@ -13950,6 +14209,21 @@
    "tag": "Earnings",
    "sectors": [
     "healthit"
+   ]
+  },
+  {
+   "id": "c4b9e2ab8dfd",
+   "headline": "Ultragenyx Pharmaceutical Inc. Q3 2026 Earnings Call Summary",
+   "summary": "Moby summary of Ultragenyx Pharmaceutical Inc.'s Q3 2026 earnings call",
+   "url": "https://finnhub.io/api/news?id=baabffee9bdc6a0c9ff2bbfea1eee439ad409ed52edb38115633496596dc85e9",
+   "source": "Yahoo",
+   "published": "2026-11-04T13:30:00+00:00",
+   "tickers": [
+    "RARE"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -68628,36 +68902,6 @@
    "tag": "Analyst",
    "sectors": [
     "tools"
-   ]
-  },
-  {
-   "id": "701fbd86e025",
-   "headline": "Novartis (SWX:NOVN) Gains Fresh Trial Focus, Is The Good News Already Priced In?",
-   "summary": "Novartis (SWX:NOVN) is back in focus after new late stage data on remibrutinib in relapsing multiple sclerosis and six year follow up results for Kisqali in early breast cancer reshaped attention on its pipeline. Against that backdrop,\u2026",
-   "url": "https://finnhub.io/api/news?id=c1d9a89a136ebb06d659293df3d6826debb4d94c3b5c86666ab4234952588754",
-   "source": "Yahoo",
-   "published": "2026-10-27T01:09:36+00:00",
-   "tickers": [
-    "NVS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "19dc75c68872",
-   "headline": "AstraZeneca Highlights Breakthrough Cancer Data at ESMO 2026 Investor Update",
-   "summary": "Astrazeneca (NYSE:AZN) highlighted new clinical data across bladder, lung and gastric cancers at its ESMO 2026 investor event, including four presidential presentations that executives said support the company\u2019s oncology growth strategy.\u2026",
-   "url": "https://finnhub.io/api/news?id=36e86fec8dac107cc67c14b783ea3bf2d63cc3478467c976d25d63ab1db92492",
-   "source": "Yahoo",
-   "published": "2026-10-27T01:02:19+00:00",
-   "tickers": [
-    "AZN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
