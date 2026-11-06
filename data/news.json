@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-06T01:47:43.458074+00:00",
+ "updated": "2026-11-06T02:02:46.426808+00:00",
  "quotes": {
   "A": {
    "price": 171.78,
@@ -282,6 +282,10 @@
    "price": 11.1,
    "change_pct": -9.83
   },
+  "NTRA": {
+   "price": 363.76,
+   "change_pct": -6.97
+  },
   "NVO": {
    "price": 40.3,
    "change_pct": -4.46
@@ -317,10 +321,6 @@
   "PRVA": {
    "price": 23.94,
    "change_pct": 6.88
-  },
-  "RARE": {
-   "price": 15.57,
-   "change_pct": -9.27
   }
  },
  "tickers": {
@@ -938,6 +938,66 @@
  },
  "stories": [
   {
+   "id": "b0bc8fe99dab",
+   "headline": "Cathie Wood Sells $12.8 Million Of Alphabet, Days After The Stock Suffered Its Worst Day Since Its 2004 IPO, Losing Nearly Half A Trillion Dollars In Market Value",
+   "summary": "Cathie Wood\u2019s ARK Invest reduced its stake in Alphabet (NASDAQ:GOOGL) on Wednesday, Nov. 4. According to CoinCentral\u2019s report of ARK\u2019s daily trades, the firm sold 46,164 shares worth $12.8 million through the ARK Innovation ETF\u2026",
+   "url": "https://finnhub.io/api/news?id=c7444a72762a334874186f36a828f87f416a2cc37f7131a0fed7c6809bf94cde",
+   "source": "Yahoo",
+   "published": "2026-11-06T01:20:15+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "Financing",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "d9805c5e20fa",
+   "headline": "Sarepta Therapeutics (NASDAQ:SRPT) Q3 2026 Beat Fails to Lift Shares as Pipeline Readouts Loom",
+   "summary": "Sarepta Q3 2026 beats revenue and EPS estimates, but shares slip as ELEVIDYS sales decline and investors await key DM1 and FSHD pipeline data.",
+   "url": "https://finnhub.io/api/news?id=2ac72eac339f31d4de11aa86ae2c834a66a6c537c5f95700bcf4e45468a428d2",
+   "source": "ChartMill",
+   "published": "2026-11-06T00:48:41+00:00",
+   "tickers": [
+    "SRPT"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "0f132333fddb",
+   "headline": "Natera (NASDAQ:NTRA) Q3 Revenue Beat Overshadowed by Profitability Miss and Selloff",
+   "summary": "Natera Q3 2026 revenue beat estimates but wider loss and higher costs drove a selloff, even as it raised full-year revenue guidance.",
+   "url": "https://finnhub.io/api/news?id=4b1ad1d2c166153615cd5d56694511d0ced6f1b9f1665839c5e89ef5106c4b07",
+   "source": "ChartMill",
+   "published": "2026-11-06T00:23:15+00:00",
+   "tickers": [
+    "NTRA"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "f20d0afc75bc",
+   "headline": "iRhythm Holdings (NASDAQ:IRTC) Slides 15.5% as Q3 Revenue Miss Overshadows Strong EPS and Raised Guidance",
+   "summary": "iRhythm Q3 revenue missed consensus but adjusted EPS beat; raised 2026 guidance, yet IRTC shares fell 15.5% after hours on soft sales and GAAP loss.",
+   "url": "https://finnhub.io/api/news?id=a1df2b38ae3170b18ece3d672c8657704c2867c853ffe41929a26cfd552c368a",
+   "source": "ChartMill",
+   "published": "2026-11-06T00:01:43+00:00",
+   "tickers": [
+    "IRTC"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "a28b514d1803",
    "headline": "Dow Jones Futures Fall; Nasdaq Dives 5.5%, Nvidia, Sandisk, CoreWeave, SpaceX Plunge, But Sell-Off Spreads Beyond AI",
    "summary": "Nvidia, CoreWeave, SpaceX plunged, but the stock market sell-off spread far beyond AI. The October jobs report looms.",
@@ -1192,6 +1252,36 @@
    "sectors": []
   },
   {
+   "id": "00d43e3098c0",
+   "headline": "It Was Already A Gory Day For Blood-Testing Stocks \u2014 Then, Natera And Guardant Reported",
+   "summary": "Guardant Health stock and Natera stock extended their regular-session losses late Thursday, though the duo beat third-quarter sales views.",
+   "url": "https://finnhub.io/api/news?id=14a1be17dbb1e23ca73db65c1519640c1aa2265beb7f898d7721f29fe80e6581",
+   "source": "Yahoo",
+   "published": "2026-11-05T22:25:51+00:00",
+   "tickers": [
+    "NTRA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "10669f097963",
+   "headline": "Natera: Q3 Earnings Snapshot",
+   "summary": "AUSTIN, Texas (AP) \u2014 AUSTIN, Texas (AP) \u2014 Natera Inc. (NTRA) on Thursday reported a loss of $59.",
+   "url": "https://finnhub.io/api/news?id=e87b8f99ba82eb9bd2458eaa669f1721a444bdb132100ba721a6230ce2e388cf",
+   "source": "Yahoo",
+   "published": "2026-11-05T22:23:42+00:00",
+   "tickers": [
+    "NTRA"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "9ba536b77d76",
    "headline": "2 Defensive Healthcare Stocks Hitting New 52-Week Highs: ABBV & LLY",
    "summary": "As tech stocks retreat, AbbVie (ABBV) and Eli Lilly (LLY) are hitting fresh 52-week highs, offering investors defensive healthcare exposure with compelling growth potential.",
@@ -1283,6 +1373,21 @@
    ]
   },
   {
+   "id": "4bc5b92b5c1a",
+   "headline": "iRhythm\u2019s (NASDAQ:IRTC) Q3 2026 earnings results: revenue in line with expectations but stock drops 12.4%",
+   "summary": "Medical technology company iRhythm Technologies (NASDAQ:IRTC) met Wall Street\u2019s revenue expectations in Q3 2026, with revenue up 14.9% year on year to $221.6 million. On the other hand, the company\u2019s full-year revenue guidance of $892.5\u2026",
+   "url": "https://finnhub.io/api/news?id=06a7c6546ee6c97725fe6a7c269333c630a3a116264e4ecb1d8f549784274b75",
+   "source": "Yahoo",
+   "published": "2026-11-05T22:08:57+00:00",
+   "tickers": [
+    "IRTC"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "21185d1b4eb4",
    "headline": "Prediction: Vertex Pharmaceuticals Will Be 1 of the Best Biotech Stocks to Own Over the Next 5 Years",
    "summary": "The drugmaker hasn't disappointed long-term shareholders.",
@@ -1295,6 +1400,36 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "3248a2a49d01",
+   "headline": "S&P 500 After-Hours Movers: ABNB and SNDK Gain, AXON and SOLV Fall",
+   "summary": "S&P 500 after-hours movers after today's U.S. session included ABNB up 10.68%, SNDK up 3.17%, AXON down 12.14% and SOLV down 7.03%.",
+   "url": "https://finnhub.io/api/news?id=c8baf959ed6ac7e6a8a6c13e13dd7b2a5e7d98ce47ba0c504559205276777cab",
+   "source": "ChartMill",
+   "published": "2026-11-05T22:06:16+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "3a762c335e75",
+   "headline": "After-Hours Market Movers for Nov. 5, 2026: Gainers and Losers",
+   "summary": "After the Nov. 5, 2026 US session, LABT and ETON led after-hours gainers while HODO and ACH led after-hours losers among the largest moves.",
+   "url": "https://finnhub.io/api/news?id=7cddd149eb7e6bdc30f97fa9f6609544a8a82778cf285779defd9f573699093c",
+   "source": "ChartMill",
+   "published": "2026-11-05T22:00:38+00:00",
+   "tickers": [
+    "NTRA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -1682,6 +1817,21 @@
    ]
   },
   {
+   "id": "cab9782e8df6",
+   "headline": "Natera (NASDAQ:NTRA) delivers impressive Q3 2026 but stock drops 19.7%",
+   "summary": "Genetic testing company Natera (NASDAQ:NTRA) reported Q3 2026 results exceeding the market\u2019s revenue expectations, with revenue up 34.1% year on year to $794 million. The company\u2019s full-year revenue guidance of $3.02 billion at the\u2026",
+   "url": "https://finnhub.io/api/news?id=155d19c80ff24556ebe83be90b9aee7ddcf05040361d751a2e6bb39691267b3b",
+   "source": "Yahoo",
+   "published": "2026-11-05T21:22:56+00:00",
+   "tickers": [
+    "NTRA"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "b75f18f18867",
    "headline": "Veeva Systems (VEEV) Becomes Core CRM Choice For Major Biopharma AI Rollout",
    "summary": "Veeva Systems (NYSE:VEEV) said UCB has selected Veeva Vault CRM as a key platform for its commercial operations. UCB plans to use industry-specific AI within Vault CRM to support product launches and day-to-day customer engagement in life\u2026",
@@ -1751,6 +1901,21 @@
    "tickers": [],
    "tag": "Policy",
    "sectors": []
+  },
+  {
+   "id": "701022f157ae",
+   "headline": "Natera Announces Leadership Transition",
+   "summary": "AUSTIN, Texas, November 05, 2026--Natera, Inc. (Nasdaq: NTRA), a global leader in cell-free DNA and precision medicine, today announced that Solomon Moshkevich has been appointed Chief Executive Officer and a member of the Board of\u2026",
+   "url": "https://finnhub.io/api/news?id=878e66ea3b3cebd0e6c68b674b7d57242d70354d53079f1cde1d19c0eaf17ea5",
+   "source": "Yahoo",
+   "published": "2026-11-05T21:06:00+00:00",
+   "tickers": [
+    "NTRA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
   },
   {
    "id": "8ca803869e0b",
@@ -1855,6 +2020,36 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "203fd19835f7",
+   "headline": "iRhythm Holdings Announces Third Quarter 2026 Financial Results",
+   "summary": "SAN FRANCISCO, Nov. 05, 2026 (GLOBE NEWSWIRE) -- iRhythm Holdings, Inc. (NASDAQ: IRTC), a leading digital health care company with a mission to create trusted solutions that detect, predict, and prevent disease, today reported financial\u2026",
+   "url": "https://finnhub.io/api/news?id=062ddbe86e99073e8a037b9b18d15c2d40eefcb09f28a3cd7ca768106eed08ea",
+   "source": "Yahoo",
+   "published": "2026-11-05T21:05:00+00:00",
+   "tickers": [
+    "IRTC"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "e92aecfca50a",
+   "headline": "Natera Reports Third Quarter 2026 Financial Results",
+   "summary": "AUSTIN, Texas, November 05, 2026--Natera, Inc. (NASDAQ: NTRA), a global leader in cell-free DNA and precision medicine, today reported its financial results for the third quarter ended September 30, 2026.",
+   "url": "https://finnhub.io/api/news?id=53497e5fd62b70a0252c6ec4e71fb84d2f2ecfd6de8b6c8ce557afd6d211aa37",
+   "source": "Yahoo",
+   "published": "2026-11-05T21:05:00+00:00",
+   "tickers": [
+    "NTRA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -2370,6 +2565,21 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "8c96dd97ec01",
+   "headline": "S&P 500 Unusual Volume Movers for Nov. 5, 2026",
+   "summary": "S&P 500 unusual-volume stocks on Nov. 5, 2026 included FIS, DDOG, INTC, EW, DASH, FSLR, CAT, ANET, MPWR and TER, with price moves and volume versus 50-day averages.",
+   "url": "https://finnhub.io/api/news?id=46862f1f441e7a69cabfac1ff87b1dc809ca235d4be164b474649d10b6a82c9d",
+   "source": "ChartMill",
+   "published": "2026-11-05T18:06:09+00:00",
+   "tickers": [
+    "EW"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -4648,6 +4858,21 @@
    "sectors": []
   },
   {
+   "id": "c7c6c4cd8b4c",
+   "headline": "Curious about Ionis Pharmaceuticals (IONS) Q3 Performance? Explore Wall Street Estimates for Key Metrics",
+   "summary": "Evaluate the expected performance of Ionis Pharmaceuticals (IONS) for the quarter ended September 2026, looking beyond the conventional Wall Street top-and-bottom-line estimates and examining some of its key metrics for better insight.",
+   "url": "https://finnhub.io/api/news?id=d1199b01951b509acf980858226089857b7559227a5f06a42242e4f0cf301da4",
+   "source": "Yahoo",
+   "published": "2026-11-05T13:15:10+00:00",
+   "tickers": [
+    "IONS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "1882444fc4fa",
    "headline": "SiBone (SIBN) Hit a 52 Week High, Can the Run Continue?",
    "summary": "Si-Bone (SIBN) is at a 52-week high, but can investors hope for more gains in the future? We take a look at the company's fundamentals for clues.",
@@ -5663,6 +5888,21 @@
    "tag": "News",
    "sectors": [
     "healthit"
+   ]
+  },
+  {
+   "id": "5111754c8f93",
+   "headline": "Signatera\u2122 Monitoring During First-Line Immunotherapy Showed ctDNA Clearance is Associated with Long-Term Survival Across Four Metastatic Cancers",
+   "summary": "AUSTIN, Texas, November 05, 2026--Natera, Inc. (NASDAQ: NTRA), a global leader in cell-free DNA and precision medicine, today announced it will present important new Signatera data at the Society for Immunotherapy of Cancer (SITC) Annual\u2026",
+   "url": "https://finnhub.io/api/news?id=e2ed1a4c14281352559c5d66c3bea64e1dfb595adaf8a9c54e10298e0595b359",
+   "source": "Yahoo",
+   "published": "2026-11-05T12:00:00+00:00",
+   "tickers": [
+    "NTRA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -69234,21 +69474,6 @@
    "tag": "News",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "1d0d2d54fb3d",
-   "headline": "Deutsche Bank Initiates Coverage of Agilent Technologies at Buy",
-   "summary": "",
-   "url": "https://finnhub.io/api/news?id=62c9e537512e6cb978d648e347ec2aa3a50766d750d6f92ee0d52c2445aeb54f",
-   "source": "Fintel",
-   "published": "2026-10-27T01:49:21+00:00",
-   "tickers": [
-    "A"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "tools"
    ]
   }
  ]
