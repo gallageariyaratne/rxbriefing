@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-07T15:02:43.456504+00:00",
+ "updated": "2026-11-07T15:17:31.859998+00:00",
  "quotes": {
   "ABBV": {
    "price": 291.31,
@@ -13,6 +13,10 @@
   "ABT": {
    "price": 109.93,
    "change_pct": -3.23
+  },
+  "ACAD": {
+   "price": 21.23,
+   "change_pct": -0.05
   },
   "ALGN": {
    "price": 166,
@@ -110,10 +114,6 @@
    "price": 425.62,
    "change_pct": -1.48
   },
-  "EW": {
-   "price": 102.14,
-   "change_pct": 1.31
-  },
   "GEHC": {
    "price": 82.38,
    "change_pct": -1.64
@@ -149,10 +149,6 @@
   "HIMS": {
    "price": 26,
    "change_pct": 8.06
-  },
-  "HQY": {
-   "price": 103.63,
-   "change_pct": 0.16
   },
   "HSIC": {
    "price": 86.05,
@@ -938,6 +934,36 @@
  },
  "stories": [
   {
+   "id": "5bce5e5bfb83",
+   "headline": "Johnson & Johnson announces new Phase 2 nipocalimab study data in Sj\u00f6gren's disease that reveal insights on importance of symptom improvements most valued by patients",
+   "summary": "New patient experience dataa to be presented at ACR 2026 show mouth dryness was reported as the most important symptom to improve, followed by eye dryness, fatigue and joint pain Patient insights complement Phase 2 study results\u2026",
+   "url": "https://www.prnewswire.com/news-releases/johnson--johnson-announces-new-phase-2-nipocalimab-study-data-in-sjogrens-disease-that-reveal-insights-on-importance-of-symptom-improvements-most-valued-by-patients-302932516.html",
+   "source": "PR Newswire",
+   "published": "2026-11-07T15:03:00+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "e0888a81a916",
+   "headline": "Johnson & Johnson announces ICOTYDE\u00ae (icotrokinra) delivers significant improvement in psoriatic arthritis disease activity among biologic-naive patients with once-daily targeted oral peptide",
+   "summary": "Late-breaking data from Phase 3 investigational study presented at the American College of Rheumatology Convergence show 58% of ICOTYDE-treated patients achieved an ACR20 response and 29% achieved an ACR50 response at Week 16 ICOTYDE is a\u2026",
+   "url": "https://www.prnewswire.com/news-releases/johnson--johnson-announces-icotyde-icotrokinra-delivers-significant-improvement-in-psoriatic-arthritis-disease-activity-among-biologic-naive-patients-with-once-daily-targeted-oral-peptide-302932455.html",
+   "source": "PR Newswire",
+   "published": "2026-11-07T15:03:00+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "60e1a105563d",
    "headline": "Novartis\u2019 Lp(a) drug shows zero benefit, casting shadow over Amgen and Lilly programs",
    "summary": "Novartis has lifted the lid on data from its failed cardiovascular outcomes trial, reporting a total absence of efficacy that could intensify questions about upcoming readouts from Amgen and Eli Lilly.",
@@ -945,8 +971,8 @@
    "source": "Fierce Biotech",
    "published": "2026-11-07T15:00:26.500689+00:00",
    "tickers": [
-    "LLY",
     "AMGN",
+    "LLY",
     "NVS"
    ],
    "tag": "News",
@@ -988,7 +1014,8 @@
    "source": "Yahoo",
    "published": "2026-11-07T13:55:33+00:00",
    "tickers": [
-    "CNC"
+    "CNC",
+    "HCA"
    ],
    "tag": "M&A",
    "sectors": [
@@ -1055,7 +1082,23 @@
    "tickers": [
     "ABT",
     "DXCM",
+    "MDT",
     "PODD"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "e32bce5e16fb",
+   "headline": "Can Medtronic (MDT) Still Justify Its Price On Cash Flow?",
+   "summary": "Medtronic has delivered a 58.9% share price gain over the past three years, and the real question now is whether that kind of run is still supported by the cash the business can generate. With fresh clinical data, updated product labeling\u2026",
+   "url": "https://finnhub.io/api/news?id=d3d8212f7d8d8ea99b08d3b65f21e1e76c4e95d305da6b7bb8c4cd3adfdee675",
+   "source": "Yahoo",
+   "published": "2026-11-07T12:13:27+00:00",
+   "tickers": [
+    "MDT"
    ],
    "tag": "News",
    "sectors": [
@@ -2378,6 +2421,21 @@
    ]
   },
   {
+   "id": "64b90a7eb1db",
+   "headline": "UBS Maintains Neutral on 10x Genomics, Lowers Price Target to $61",
+   "summary": "UBS analyst Dan Leonard maintains 10x Genomics (NASDAQ:TXG) with a Neutral and lowers the price target from $90 to $61.",
+   "url": "https://finnhub.io/api/news?id=e1678680849404aefb4a1a84615e0f910ec84b86894e7ad7e09fd0eba1c91fb0",
+   "source": "Benzinga",
+   "published": "2026-11-06T19:14:05+00:00",
+   "tickers": [
+    "TXG"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "3af12a293162",
    "headline": "UBS Maintains Neutral on Veeva Systems, Raises Price Target to $325",
    "summary": "UBS analyst Karl Keirstead maintains Veeva Systems (NYSE:VEEV) with a Neutral and raises the price target from $290 to $325.",
@@ -2810,6 +2868,21 @@
    ]
   },
   {
+   "id": "882c172f59e5",
+   "headline": "Citigroup Maintains Buy on Becton Dickinson, Raises Price Target to $241",
+   "summary": "Citigroup analyst Joanna Wiensch maintains Becton Dickinson (NYSE:BDX) with a Buy and raises the price target from $208 to $241.",
+   "url": "https://finnhub.io/api/news?id=a510e7dd5745847a96c0d44a1db015aabb171c44e4e9ccff7dc6d12f89ac5d90",
+   "source": "Benzinga",
+   "published": "2026-11-06T17:46:42+00:00",
+   "tickers": [
+    "BDX"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "d1402a16d31e",
    "headline": "STAT+: Democrats\u2019 midterm landslide spells relief for hospitals",
    "summary": "Democrats are likely to focus on reversing Medicaid cuts and expanding insurance coverage, giving a boost to health care providers.",
@@ -3009,6 +3082,21 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "64e1475ebb4b",
+   "headline": "Citigroup Maintains Neutral on 10x Genomics, Raises Price Target to $60",
+   "summary": "Citigroup analyst Albert Hu maintains 10x Genomics (NASDAQ:TXG) with a Neutral and raises the price target from $50 to $60.",
+   "url": "https://finnhub.io/api/news?id=2c2ec19389d570556f402aac8adc48c4ed3c0e222a1305cce5f05b8f37c251e8",
+   "source": "Benzinga",
+   "published": "2026-11-06T17:23:35+00:00",
+   "tickers": [
+    "TXG"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -3552,6 +3640,21 @@
    ]
   },
   {
+   "id": "3258d40b5aad",
+   "headline": "Needham Maintains Buy on TransMedics Group, Raises Price Target to $110",
+   "summary": "Needham analyst Mike Matson maintains TransMedics Group (NASDAQ:TMDX) with a Buy and raises the price target from $106 to $110.",
+   "url": "https://finnhub.io/api/news?id=22b2ffa212287c705937ec02476ad019271bc70811a4d879f7d9ffc86201d892",
+   "source": "Benzinga",
+   "published": "2026-11-06T16:19:09+00:00",
+   "tickers": [
+    "TMDX"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "035a89baff9c",
    "headline": "Qiagen (QGEN) Stock May Be Fully Priced As Sequencing Project Expands",
    "summary": "Qiagen has delivered a 35.3% gain over the past three years, and recent headlines around genomics partnerships and sequencing markets keep the story in focus. The question now is whether that share price trajectory lines up with what the\u2026",
@@ -3564,6 +3667,21 @@
    "tag": "News",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "962208f13fdd",
+   "headline": "Here's How Much $1000 Invested In AbbVie 10 Years Ago Would Be Worth Today",
+   "summary": "AbbVie (NYSE:ABBV) has outperformed the market over the past 10 years by 3.3% on an annualized basis producing an average annual return of 16.33%. Currently, AbbVie has a market capitalization of $509.83 billion.",
+   "url": "https://finnhub.io/api/news?id=1138c8e5d08dc62276423f6efc1d54e6864c9ce52a73334574f69a656fcf8b12",
+   "source": "Benzinga",
+   "published": "2026-11-06T16:15:20+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -3636,6 +3754,21 @@
    "tag": "Health AI",
    "sectors": [
     "healthit"
+   ]
+  },
+  {
+   "id": "6171f8dde5ea",
+   "headline": "Novo Nordisk Reports Greater Weight Loss And Improved Liver Outcomes With Semaglutide 2.4mg Versus Resmetirom In Real-World MASH Study",
+   "summary": "https://www.novonordisk.com/content/nncorp/global/en/news-and-media/news-and-ir-materials/news-details.html?id=919926",
+   "url": "https://finnhub.io/api/news?id=e90f67439a4b1bd04a362370ba20bdcb2744bbda9a8af2134aad892eef5bca7f",
+   "source": "Benzinga",
+   "published": "2026-11-06T16:08:03+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -3766,6 +3899,21 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "03a9f67fbab1",
+   "headline": "Canaccord Genuity Maintains Buy on Acadia Pharmaceuticals, Raises Price Target to $38",
+   "summary": "Canaccord Genuity analyst Sumant Kulkarni maintains Acadia Pharmaceuticals (NASDAQ:ACAD) with a Buy and raises the price target from $36 to $38.",
+   "url": "https://finnhub.io/api/news?id=d62bb5cf2bc5b2f1ad7fc283e84ab4c00ebf8102c05487585792ef4b9141a368",
+   "source": "Benzinga",
+   "published": "2026-11-06T15:50:09+00:00",
+   "tickers": [
+    "ACAD"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -3948,6 +4096,21 @@
    ]
   },
   {
+   "id": "6d7f2cc7773b",
+   "headline": "Canaccord Genuity Maintains Buy on LifeStance Health Gr, Raises Price Target to $16",
+   "summary": "Canaccord Genuity analyst Richard Close maintains LifeStance Health Gr (NASDAQ:LFST) with a Buy and raises the price target from $15 to $16.",
+   "url": "https://finnhub.io/api/news?id=5b449d55e14891319dd8f2721a5c6a5c27176ee6a69bead745285a0ce206b0ce",
+   "source": "Benzinga",
+   "published": "2026-11-06T15:27:06+00:00",
+   "tickers": [
+    "LFST"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "f137cd308a29",
    "headline": "Moderna, Inc. (MRNA) Q3 2026 Earnings Call Transcript",
    "summary": "Moderna, Inc. (MRNA) Q3 2026 Earnings Call November 6, 2026 8:00 AM ESTCompany ParticipantsLavina Talukdar - Senior VP & Head of Investor...",
@@ -4103,6 +4266,21 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "da958be5b52d",
+   "headline": "Canaccord Genuity Maintains Buy on TransMedics Group, Raises Price Target to $120",
+   "summary": "Canaccord Genuity analyst Jason Mills maintains TransMedics Group (NASDAQ:TMDX) with a Buy and raises the price target from $95 to $120.",
+   "url": "https://finnhub.io/api/news?id=249f90af5d6a5990966f418d2497ad035ff51c417897f913e63753a4e5d6ede4",
+   "source": "Benzinga",
+   "published": "2026-11-06T15:14:33+00:00",
+   "tickers": [
+    "TMDX"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -4854,6 +5032,21 @@
    ]
   },
   {
+   "id": "248cc34bc1c5",
+   "headline": "RBC Capital Maintains Sector Perform on Becton Dickinson, Raises Price Target to $225",
+   "summary": "RBC Capital analyst Kendall Au maintains Becton Dickinson (NYSE:BDX) with a Sector Perform and raises the price target from $190 to $225.",
+   "url": "https://finnhub.io/api/news?id=bd3ac8d08cca5a8b75d9d50c19f429597eb382fe63233f9829b1628969196d91",
+   "source": "Benzinga",
+   "published": "2026-11-06T14:00:33+00:00",
+   "tickers": [
+    "BDX"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "431237007b73",
    "headline": "CAH Q1 Earnings Call Highlights Raised Outlook and Specialty Growth",
    "summary": "Cardinal Health raises its fiscal 2027 earnings outlook as specialty growth, strong generics demand and customer renewals offset medical distribution pressures.",
@@ -5315,6 +5508,21 @@
     "MEDP"
    ],
    "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "adfdf2975d08",
+   "headline": "12 Health Care Stocks Moving In Friday's Intraday Session",
+   "summary": "Gainers Obsidian Therapeutics (NASDAQ:OBX) stock increased by 27.7% to $12.26 during Friday's regular session. The company's market cap stands at $593.0 million. TransMedics Group (NASDAQ:TMDX) shares rose",
+   "url": "https://finnhub.io/api/news?id=9bcf5d198730220f110fd1ce1d3854b5efbe588038cf115786ec0381dbe38dc2",
+   "source": "Benzinga",
+   "published": "2026-11-06T13:05:45+00:00",
+   "tickers": [
+    "TMDX"
+   ],
+   "tag": "News",
    "sectors": [
     "medtech"
    ]
@@ -6375,6 +6583,21 @@
    ]
   },
   {
+   "id": "72808a3383d1",
+   "headline": "Huda Y Zoghbi At Regeneron Pharmaceuticals Executes Options Exercise, Realizing $3.88M",
+   "summary": "Highlighted on November 5, it was unveiled in an SEC filing that Zoghbi, Director at Regeneron Pharmaceuticals (NASDAQ:REGN), executed a significant transaction involving the exercise of company stock options. What",
+   "url": "https://finnhub.io/api/news?id=596bb5477cd37e6a0303a1162b5667f0dd82f9b90b930e5fb466474aeaf07804",
+   "source": "Benzinga",
+   "published": "2026-11-06T11:01:53+00:00",
+   "tickers": [
+    "REGN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "d6ec40ed5ac9",
    "headline": "ETFs Are Buying UnitedHealth (UNH) on Nov. 4",
    "summary": "ETFs bought $56.4 million of UnitedHealth stock on Nov. 4.",
@@ -6597,6 +6820,21 @@
    "tag": "Analyst",
    "sectors": [
     "pharmacy"
+   ]
+  },
+  {
+   "id": "8f6565b5f59b",
+   "headline": "Evercore ISI Group Maintains Outperform on Becton Dickinson, Raises Price Target to $230",
+   "summary": "Evercore ISI Group analyst Vijay Kumar maintains Becton Dickinson (NYSE:BDX) with a Outperform and raises the price target from $210 to $230.",
+   "url": "https://finnhub.io/api/news?id=078ad8b9bdde2976cf94a021490fbaf13229eff07f186331e7e655cf194fd453",
+   "source": "Benzinga",
+   "published": "2026-11-06T10:37:54+00:00",
+   "tickers": [
+    "BDX"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -69279,198 +69517,6 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
-   ]
-  },
-  {
-   "id": "1f08134fd546",
-   "headline": "SYK Q3 Earnings: Can Recovery Momentum Offset Operational Headwinds?",
-   "summary": "SYK's Q3 earnings may reflect strong hospital equipment demand and cybersecurity recovery, but supply constraints, vascular disruptions and margin pressures remain.",
-   "url": "https://finnhub.io/api/news?id=e454def513df0abda0359afb6c3d0112e908665fea0440a7ad17847b5413a586",
-   "source": "Yahoo",
-   "published": "2026-10-28T15:16:00+00:00",
-   "tickers": [
-    "EW",
-    "GKOS",
-    "GMED",
-    "SYK"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "8e630444e1bf",
-   "headline": "ProDex Q1 Earnings Preview: Can Strong Sales Momentum Sustain Growth?",
-   "summary": "PDEX heads into fiscal Q1 earnings with strong medical-device sales and margin momentum, but customer concentration, a shrinking backlog and acquisition risks loom.",
-   "url": "https://finnhub.io/api/news?id=45d5755dd23fee8ec644f7d9a45f3bd151afd89cf9e493a824cc4a015fab1666",
-   "source": "Yahoo",
-   "published": "2026-10-28T15:16:00+00:00",
-   "tickers": [
-    "EW",
-    "GKOS",
-    "GMED"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "0be08e23629c",
-   "headline": "Lilly combines global markets under new leadership role as 36-year veteran retires",
-   "summary": "Eli Lilly is consolidating its U.S. and international commercial divisions into a unified department, tapping current U.S. head Ilya Yuffa in a newly created role as president of Lilly Global Markets.",
-   "url": "https://www.fiercepharma.com/pharma/lilly-combines-global-markets-under-new-leadership-role-36-year-veteran-retires",
-   "source": "Fierce Pharma",
-   "published": "2026-10-28T15:15:25.898736+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "779ad6551800",
-   "headline": "After GSK's Q3 approval spate, Hibsago preps for 'concentrated' US hep B launch",
-   "summary": "Armed with a trio of recent high-profile approvals, GSK is banking on its specialty medicines to drive its next wave of growth, even as investor enthusiasm cooled Wednesday morning amid reports of restructuring charges and a vaccine sales\u2026",
-   "url": "https://www.fiercepharma.com/pharma/after-gsks-q3-approval-spate-hibsago-preps-concentrated-us-hep-b-launch",
-   "source": "Fierce Pharma",
-   "published": "2026-10-28T15:15:25.897269+00:00",
-   "tickers": [
-    "GSK"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "36194d58a62a",
-   "headline": "Biogen CEO tells analysts he\u2019s focused on early-stage R&D as \u2018we were not very good with that\u2019",
-   "summary": "Biogen's CEO has pointed to the company's ability to take five drugs into clinical trials so far this year as evidence of its new focus on early-stage R&D.",
-   "url": "https://www.fiercebiotech.com/biotech/biogen-ceo-focused-early-stage-future-company",
-   "source": "Fierce Biotech",
-   "published": "2026-10-28T15:15:25.727327+00:00",
-   "tickers": [
-    "BIIB"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "e253bcfa9173",
-   "headline": "FDA unveils guidance for \u2018plug and play\u2019 gene therapies",
-   "summary": "The plan advances recent agency moves to accelerate \u201cpersonalized\u201d treatments by offering an approval framework for therapies that can benefit different subsets of patients with the same disease.",
-   "url": "https://www.biopharmadive.com/news/fda-personalized-gene-therapy-rare-disease-guidance/873004/",
-   "source": "BioPharma Dive",
-   "published": "2026-10-28T15:15:00+00:00",
-   "tickers": [],
-   "tag": "FDA",
-   "sectors": []
-  },
-  {
-   "id": "4ca29f85f61a",
-   "headline": "Senate candidate El-Sayed wants to \u2018grill\u2019 RFK Jr., calls him the \u2018most incompetent HHS secretary ever\u2019",
-   "summary": "Abdul El-Sayed has made headlines for his progressive politics and stance on Israel. But some supporters consider his public health background critical.",
-   "url": "https://www.statnews.com/2026/10/28/abdul-el-sayed-profile-midterm-policy-issues-health-care/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-10-28T15:14:49+00:00",
-   "tickers": [],
-   "tag": "Policy",
-   "sectors": []
-  },
-  {
-   "id": "c13a6b3fecd1",
-   "headline": "ICON (ICLR) Q3 2026 Earnings Call Transcript",
-   "summary": "Record $3.15B net business wins drove backlog to $24.5B despite flat revenue.",
-   "url": "https://finnhub.io/api/news?id=24753f356c06134c968db0f69690677468680f7c29ac44aebe1ec4888a199c5e",
-   "source": "Yahoo",
-   "published": "2026-10-28T15:14:47+00:00",
-   "tickers": [
-    "ICLR"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "7ad0c4c78c8a",
-   "headline": "Ahead of Eli Lilly Earnings, Here's What Barchart Data Says Comes Next for LLY Stock",
-   "summary": "Eli Lilly is set to report its fiscal Q3 earnings on Oct. 29. Options data suggests the quarterly update will tank LLY shares.",
-   "url": "https://finnhub.io/api/news?id=17bf2c117d6449f76989685571bca5e0df1ff5f818509dfd69a7216c318ca159",
-   "source": "Yahoo",
-   "published": "2026-10-28T15:14:33+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "a29b8f1edbf0",
-   "headline": "JP Morgan Maintains Overweight on Jazz Pharmaceuticals, Raises Price Target to $300",
-   "summary": "JP Morgan analyst Jessica Fye maintains Jazz Pharmaceuticals (NASDAQ:JAZZ) with a Overweight and raises the price target from $276 to $300.",
-   "url": "https://finnhub.io/api/news?id=59c55d7ae4a7f0ba029c0fafe56950eba17085b3036830f1faee74b763c07b0b",
-   "source": "Benzinga",
-   "published": "2026-10-28T15:12:48+00:00",
-   "tickers": [
-    "JAZZ"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "c7b7a72125c2",
-   "headline": "JP Morgan Maintains Overweight on IQVIA Holdings, Raises Price Target to $325",
-   "summary": "JP Morgan analyst Casey Woodring maintains IQVIA Holdings (NYSE:IQV) with a Overweight and raises the price target from $295 to $325.",
-   "url": "https://finnhub.io/api/news?id=9fa8d3ee8395e76ce4e680ae9a9ccbf064d15df248cd8e27e76538e3368d486d",
-   "source": "Benzinga",
-   "published": "2026-10-28T15:09:42+00:00",
-   "tickers": [
-    "IQV"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "2f58fb12e153",
-   "headline": "Repligen Corporation (RGEN) Surges on Revenue Beat and Raised Full-Year Organic Outlook",
-   "summary": "Conestoga Capital Advisors, an asset management company, released its third-quarter 2026 investor letter. The letter can be downloaded here. In 2026, Small Caps initially outperformed but faced challenges in the third quarter, marked by\u2026",
-   "url": "https://finnhub.io/api/news?id=a06e382759497a2fc22a8eb50ff25120b1c439783a44fc6a38493074740314a8",
-   "source": "Yahoo",
-   "published": "2026-10-28T15:09:35+00:00",
-   "tickers": [
-    "RGEN"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "e3b04e156814",
-   "headline": "Biogen Inc. 2026 Q3 - Results - Earnings Call Presentation",
-   "summary": "2026-10-28. The following slide deck was published by Biogen Inc.",
-   "url": "https://finnhub.io/api/news?id=380d9e75595ab13a3f271bbc2186e20d8075d57c1b72abeef50205567640dcb0",
-   "source": "SeekingAlpha",
-   "published": "2026-10-28T15:01:17+00:00",
-   "tickers": [
-    "BIIB"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
