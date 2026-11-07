@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-07T06:32:31.439194+00:00",
+ "updated": "2026-11-07T06:47:24.454277+00:00",
  "quotes": {
   "A": {
    "price": 174.76,
@@ -257,6 +257,10 @@
   "SYK": {
    "price": 325.87,
    "change_pct": -2.75
+  },
+  "TDOC": {
+   "price": 8.77,
+   "change_pct": -6.8
   },
   "THC": {
    "price": 283.33,
@@ -917,6 +921,7 @@
    "source": "Yahoo",
    "published": "2026-11-07T05:17:12+00:00",
    "tickers": [
+    "AMGN",
     "JNJ"
    ],
    "tag": "News",
@@ -960,7 +965,23 @@
    "source": "Yahoo",
    "published": "2026-11-07T05:14:26+00:00",
    "tickers": [
+    "CAH",
     "CVS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "7d6337d26277",
+   "headline": "How To Earn $500 A Month From Humana Stock Ahead Of Q3 Earnings",
+   "summary": "Humana Inc. investors may be eyeing potential dividend gains ahead of the company\u2019s third-quarter earnings report on Friday, Nov. 6. Currently, Humana has an annual dividend yield of 0.85%, with a quarterly dividend of 88.5 cents per\u2026",
+   "url": "https://finnhub.io/api/news?id=e451895dd9d0d0563c029f4d6e75286fe4d1f794c115fd3b01a5833fda546a0a",
+   "source": "Yahoo",
+   "published": "2026-11-07T03:30:06+00:00",
+   "tickers": [
+    "HUM"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -2612,6 +2633,21 @@
    ]
   },
   {
+   "id": "ebd3bf57c4d1",
+   "headline": "What Teladoc Health Bulls Got Right",
+   "summary": "Teladoc Health spent the past year juggling a Walmart virtual care rollout, an expanding AI toolset like SoloVitals and SoloScribe, and a sharp reset in BetterHelp\u2019s cash-pay demand that even drew securities law firms into the story. For\u2026",
+   "url": "https://finnhub.io/api/news?id=7ae5c6dd2ef6ad0b7a55acc8dca762781a0a3e90df58bcc4020a5dd33833728f",
+   "source": "Yahoo",
+   "published": "2026-11-06T16:11:47+00:00",
+   "tickers": [
+    "TDOC"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "ae1a8c77e78f",
    "headline": "Moderna Climbs 5% as Surprise Profit and Raised Outlook Beat Forecasts; Pfizer Dips, BioNTech Edges Higher",
    "summary": "Moderna flipped a forecasted loss into a profit, yet part of the first pop has already faded while bigger rivals barely budge. What is holding back the rally, and which open question could decide the stock's next move?",
@@ -3304,6 +3340,21 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "eb6c836d11fa",
+   "headline": "AI in Virtual Medical Assistants Market to Worth USD 8.85 Billion by 2030, at a CAGR of 36.6%\u2013 MarketsandMarkets\u2122",
+   "summary": "Delray Beach, FL, Nov. 06, 2026 (GLOBE NEWSWIRE) -- MarketsandMarkets\u2122 projects the global AI in virtual medical assistants market to grow from USD 1.86 billion in 2025 to USD 8.85 billion by 2030, at a CAGR of 36.6% during the forecast\u2026",
+   "url": "https://finnhub.io/api/news?id=650424dae6cdcac04ed41f9df65c48f51f0a81abd6ae4f245c31260d0fa1f9a7",
+   "source": "Yahoo",
+   "published": "2026-11-06T14:30:00+00:00",
+   "tickers": [
+    "TDOC"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "healthit"
    ]
   },
   {
@@ -71881,51 +71932,6 @@
    "published": "2026-10-28T06:46:34+00:00",
    "tickers": [
     "SYK"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "b64a3bb7083a",
-   "headline": "Boston Scientific Lowers FY2026 Adj EPS Guidance from $3.28-$3.32 to $3.16-$3.18 vs $3.23 Est; Lowers FY2026 Sales Guidance from $21.178B-$21.379B to $20.927B vs $21.143B Est",
-   "summary": "Boston Scientific (NYSE:BSX) lowers FY2026 Adj EPS guidance from $3.28-$3.32 to $3.16-$3.18 vs $3.23 analyst estimate. Lowers FY2026 sales outlook from $21.178 billion-$21.379 billion to $20.927 billion vs $21.143",
-   "url": "https://finnhub.io/api/news?id=f4ef908d083eb6c5de49ce47a1865c4b3ae02b81a9a3c45de7d353d66397e0a2",
-   "source": "Benzinga",
-   "published": "2026-10-28T06:33:12+00:00",
-   "tickers": [
-    "BSX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "272686d76e5d",
-   "headline": "Boston Scientific Sees Q4 Adj EPS $0.77-$0.79 vs $0.84 Est; Sees Sales $5.127B-$5.233B vs $5.404B Est",
-   "summary": "Boston Scientific (NYSE:BSX) is looking for Q4 Adj EPS of $0.77-$0.79 vs $0.84 analyst estimate. sees sales of $5.127 billion-$5.233 billion vs $5.404 billion analyst estimate.",
-   "url": "https://finnhub.io/api/news?id=3feb1c838a6483579bc287f482d1f2e6e220c0abf71895ff144b639e8962c4b8",
-   "source": "Benzinga",
-   "published": "2026-10-28T06:32:14+00:00",
-   "tickers": [
-    "BSX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "c6c5f274a341",
-   "headline": "Boston Scientific Q3 Adj. EPS $0.73 Beats $0.72 Estimate, Sales $5.138B Beat $5.046B Estimate",
-   "summary": "Boston Scientific (NYSE:BSX) reported quarterly earnings of $0.73 per share which beat the analyst consensus estimate of $0.72 by 1.39 percent. This is a 2.67 percent decrease over earnings of $0.75 per share from the",
-   "url": "https://finnhub.io/api/news?id=4e33f40aedf4cec783b08f9afc2741525739334103a224aa4b83ffdc24254735",
-   "source": "Benzinga",
-   "published": "2026-10-28T06:31:21+00:00",
-   "tickers": [
-    "BSX"
    ],
    "tag": "Earnings",
    "sectors": [
