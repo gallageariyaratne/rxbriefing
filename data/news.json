@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-07T12:47:35.174054+00:00",
+ "updated": "2026-11-07T13:02:35.767395+00:00",
  "quotes": {
   "A": {
    "price": 174.76,
@@ -41,10 +41,6 @@
   "ARGX": {
    "price": 927.21,
    "change_pct": 3.63
-  },
-  "ASND": {
-   "price": 256.82,
-   "change_pct": 1.33
   },
   "AXSM": {
    "price": 132.37,
@@ -101,10 +97,6 @@
   "CRL": {
    "price": 337.52,
    "change_pct": 7.83
-  },
-  "CRSP": {
-   "price": 50.07,
-   "change_pct": 3.11
   },
   "CVS": {
    "price": 83.85,
@@ -321,6 +313,14 @@
   "TMDX": {
    "price": 88.24,
    "change_pct": 27.92
+  },
+  "TMO": {
+   "price": 694.76,
+   "change_pct": 2.63
+  },
+  "TXG": {
+   "price": 59.28,
+   "change_pct": 2.1
   }
  },
  "tickers": {
@@ -938,6 +938,21 @@
  },
  "stories": [
   {
+   "id": "e3b3a1620804",
+   "headline": "Gilead Pays a $3.28 Annual Dividend Despite Negative Earnings. Is It Safe?",
+   "summary": "A red ink EPS figure usually spells trouble for retirees counting on a payout. Gilead's loss traces back to one strange quarter, and a single cash metric reveals whether the dividend checks are really at risk.",
+   "url": "https://finnhub.io/api/news?id=b275bb27cf237541df1a585cb18281996559e35822f7bc97158eba0d49a12de8",
+   "source": "Yahoo",
+   "published": "2026-11-07T11:37:01+00:00",
+   "tickers": [
+    "GILD"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "708951592a13",
    "headline": "Xeris Biopharma (XERS) Adds Menassie M. Taddese To Its Board",
    "summary": "Xeris Biopharma Holdings (NasdaqGS:XERS) has appointed Menassie M. Taddese to its Board of Directors. Taddese brings nearly 30 years of global biopharma experience, including senior roles at Viatris and Pfizer. His background spans\u2026",
@@ -982,7 +997,9 @@
     "GMED",
     "ISRG",
     "JNJ",
-    "MDT"
+    "MDT",
+    "SYK",
+    "ZBH"
    ],
    "tag": "News",
    "sectors": [
@@ -1021,7 +1038,8 @@
     "BDX",
     "BSX",
     "JNJ",
-    "MDT"
+    "MDT",
+    "SYK"
    ],
    "tag": "News",
    "sectors": [
@@ -1120,6 +1138,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "7c90a6f491fc",
+   "headline": "GLP-1 Drugs Are McDonald\u2019s \u201cMost Powerful Threat\u201d in Decades, Investor Warns",
+   "summary": "Key TakeawaysMcDonald\u2019s shares rose 6% on Nov. 4 after a third-quarter earnings beat, even as U.",
+   "url": "https://finnhub.io/api/news?id=eed3643c01dfe0b0fc899979ab387ce0d1098d4233efc4f7068fbb910cb7ae18",
+   "source": "Yahoo",
+   "published": "2026-11-07T07:59:27+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -69883,383 +69916,6 @@
    "tag": "News",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "cb9bb6f99b45",
-   "headline": "Foghorn Therapeutics Inc. (FHTX) Expected to Beat Earnings Estimates: Should You Buy?",
-   "summary": "Foghorn Therapeutics (FHTX) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-   "url": "https://finnhub.io/api/news?id=a8a4cb71fa8e2943b47a0a932abcab8ea37c5e162236aa03f0f8f06ab1182f3d",
-   "source": "Yahoo",
-   "published": "2026-10-28T13:00:28+00:00",
-   "tickers": [
-    "AMGN"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "bba33567b0b0",
-   "headline": "Cytokinetics (CYTK) Expected to Beat Earnings Estimates: Should You Buy?",
-   "summary": "Cytokinetics (CYTK) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-   "url": "https://finnhub.io/api/news?id=12f0c8279298d0492ef0300ab6ede1bf2fca71603a2a3354e98e4fb78d7a9c7c",
-   "source": "Yahoo",
-   "published": "2026-10-28T13:00:27+00:00",
-   "tickers": [
-    "CYTK"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "5c02e47f8e09",
-   "headline": "Analysts Estimate Cytek Biosciences, Inc. (CTKB) to Report a Decline in Earnings: What to Look Out for",
-   "summary": "Cytek Biosciences (CTKB) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-   "url": "https://finnhub.io/api/news?id=1e4be6e440ba5797d0c945f4a6cee08aac354805eec3e67d55e082060d387902",
-   "source": "Yahoo",
-   "published": "2026-10-28T13:00:27+00:00",
-   "tickers": [
-    "RARE"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "6c4f85215103",
-   "headline": "Earnings Preview: Acadia Pharmaceuticals (ACAD) Q3 Earnings Expected to Decline",
-   "summary": "Acadia (ACAD) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-   "url": "https://finnhub.io/api/news?id=72cd8a07d695fbd6a913a36ab28f9d4c3565bca2513598bb41432477ee2aaf54",
-   "source": "Yahoo",
-   "published": "2026-10-28T13:00:24+00:00",
-   "tickers": [
-    "ACAD"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "cd7bdfb9c7c3",
-   "headline": "Veracyte (VCYT) Expected to Beat Earnings Estimates: Can the Stock Move Higher?",
-   "summary": "Veracyte (VCYT) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-   "url": "https://finnhub.io/api/news?id=538a075e6f13273358ba36b969aa2bd4be50ccd971460e4b00b92521a6d83645",
-   "source": "Yahoo",
-   "published": "2026-10-28T13:00:21+00:00",
-   "tickers": [
-    "IDXX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "3e152aff3e0f",
-   "headline": "McKesson (MCK) Earnings Expected to Grow: Should You Buy?",
-   "summary": "McKesson (MCK) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-   "url": "https://finnhub.io/api/news?id=1ffe7f148a10456b87fe15442bca3242b9880a0191b4023e238e364096b64dd8",
-   "source": "Yahoo",
-   "published": "2026-10-28T13:00:19+00:00",
-   "tickers": [
-    "MCK"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharmacy"
-   ]
-  },
-  {
-   "id": "3737a9bcf9f3",
-   "headline": "Analysts Estimate United Therapeutics (UTHR) to Report a Decline in Earnings: What to Look Out for",
-   "summary": "United Therapeutics (UTHR) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-   "url": "https://finnhub.io/api/news?id=09cbc8bdf2882ef3469e82a30ab8e07ca23b43d41ec723d8749c0d36d62e8548",
-   "source": "Yahoo",
-   "published": "2026-10-28T13:00:18+00:00",
-   "tickers": [
-    "MDGL",
-    "UTHR"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "f025c1bd8839",
-   "headline": "Earnings Preview: Staar Surgical (STAA) Q3 Earnings Expected to Decline",
-   "summary": "Staar Surgical (STAA) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-   "url": "https://finnhub.io/api/news?id=24cec7ab088ff80d47c74b622e69ed4653d7e771978057ce07c7113b4c975377",
-   "source": "Yahoo",
-   "published": "2026-10-28T13:00:17+00:00",
-   "tickers": [
-    "HSIC"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharmacy"
-   ]
-  },
-  {
-   "id": "dbbf05933f4b",
-   "headline": "Royalty Pharma (RPRX) Earnings Expected to Grow: What to Know Ahead of Next Week's Release",
-   "summary": "Royalty Pharma (RPRX) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-   "url": "https://finnhub.io/api/news?id=7e76aad54dea4c9e2458fdaebf2f1825cd0db3b86376920589d128a44c545c17",
-   "source": "Yahoo",
-   "published": "2026-10-28T13:00:16+00:00",
-   "tickers": [
-    "VRTX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "5f311cc4c16a",
-   "headline": "Recursion Pharmaceuticals (RXRX) Expected to Beat Earnings Estimates: What to Know Ahead of Q3 Release",
-   "summary": "Recursion Pharmaceuticals (RXRX) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-   "url": "https://finnhub.io/api/news?id=05526aa64d56a281caaa6a90d7e55de81b9ad449a136e6f3a0ff5128d059b964",
-   "source": "Yahoo",
-   "published": "2026-10-28T13:00:16+00:00",
-   "tickers": [
-    "RXRX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "healthai"
-   ]
-  },
-  {
-   "id": "7ffa3752fa0e",
-   "headline": "Earnings Preview: Schrodinger, Inc. (SDGR) Q3 Earnings Expected to Decline",
-   "summary": "Schrodinger (SDGR) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-   "url": "https://finnhub.io/api/news?id=fbb1704ab11578bac68e89939a08032d594952d0e7bb0bb1575110dbce2fb67a",
-   "source": "Yahoo",
-   "published": "2026-10-28T13:00:16+00:00",
-   "tickers": [
-    "SDGR",
-    "TEM"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "healthai"
-   ]
-  },
-  {
-   "id": "0599e7745735",
-   "headline": "Qiagen (QGEN) Expected to Beat Earnings Estimates: What to Know Ahead of Q3 Release",
-   "summary": "Qiagen (QGEN) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-   "url": "https://finnhub.io/api/news?id=8db2c2ca568a2c227ade7eecbcf7cf5c35df0b25081c69ca08b7ff5337819081",
-   "source": "Yahoo",
-   "published": "2026-10-28T13:00:15+00:00",
-   "tickers": [
-    "QGEN"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "cf300fec1c0d",
-   "headline": "Charles River Laboratories (CRL) Earnings Expected to Grow: Should You Buy?",
-   "summary": "Charles River (CRL) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-   "url": "https://finnhub.io/api/news?id=8f7344c07cd5464a3d1efd89ac942e1153729f25585db053c35ddc063443e3c3",
-   "source": "Yahoo",
-   "published": "2026-10-28T13:00:13+00:00",
-   "tickers": [
-    "CRL"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "5a8c02e8e4b5",
-   "headline": "Cencora (COR) Reports Next Week: Wall Street Expects Earnings Growth",
-   "summary": "Cencora (COR) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-   "url": "https://finnhub.io/api/news?id=e2c50bb6ec56e6abaac2abda52a224b60a209a2cf1bf622bc46c34997dc4392d",
-   "source": "Yahoo",
-   "published": "2026-10-28T13:00:12+00:00",
-   "tickers": [
-    "COR"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharmacy"
-   ]
-  },
-  {
-   "id": "f96b49a35ce8",
-   "headline": "Insulet (PODD) Reports Next Week: Wall Street Expects Earnings Growth",
-   "summary": "Insulet (PODD) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-   "url": "https://finnhub.io/api/news?id=8bf4609fb3e159a75bd0798ea839cd9633d5b0d60668d9b14e13376004758e2f",
-   "source": "Yahoo",
-   "published": "2026-10-28T13:00:11+00:00",
-   "tickers": [
-    "PODD"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "84f105365a33",
-   "headline": "Earnings Preview: Ionis Pharmaceuticals (IONS) Q3 Earnings Expected to Decline",
-   "summary": "Ionis Pharmaceuticals (IONS) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-   "url": "https://finnhub.io/api/news?id=b8a3491a36e5a3c5f032d94c91194d3b58881915b4b16f869ade9bda2c116c3d",
-   "source": "Yahoo",
-   "published": "2026-10-28T13:00:08+00:00",
-   "tickers": [
-    "IONS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "95f598b6bd62",
-   "headline": "Truist Securities Maintains Buy on IQVIA Holdings, Raises Price Target to $346",
-   "summary": "Truist Securities analyst Jailendra Singh maintains IQVIA Holdings (NYSE:IQV) with a Buy and raises the price target from $329 to $346.",
-   "url": "https://finnhub.io/api/news?id=542038b8a5d2f7b1a050db723afb805accdf9c913695ddbee2cbb5b54568f051",
-   "source": "Benzinga",
-   "published": "2026-10-28T13:00:04+00:00",
-   "tickers": [
-    "IQV"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "cea6f90fdef5",
-   "headline": "Visier Launches 'Talk Nerdy to Me,' a New Video Podcast Bringing Bold Conversations and Unexpected Creativity to the Future of Work",
-   "summary": "Visier, the award-winning workforce intelligence leader and creator of Visier Workforce AI, today announced the launch of Talk Nerdy to Me, a new video podcast series that trades traditional executive interviews for conversations that go\u2026",
-   "url": "https://finnhub.io/api/news?id=b2f1aa5ba37d7189d8bb08e5d86b5aff4230fb9a04b79b431cd34e407c24eea5",
-   "source": "Yahoo",
-   "published": "2026-10-28T13:00:00+00:00",
-   "tickers": [
-    "MRK"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "f6b6fe431f26",
-   "headline": "Novo to present new liver data across Wegovy 2.4 mg and investigational efruxifermin at The Liver Meeting\u00ae (AASLD) 2026",
-   "summary": "Novo Nordisk today announced that 12 new abstracts on semaglutide real-world and clinical data will be presented at the American Association for the Study of Liver Diseases congress, The Liver Meeting\u00ae 2026, from November 5-9 in Denver,\u2026",
-   "url": "https://finnhub.io/api/news?id=928d1d86a6d57ab96c919c8987d54aebd52ea5c3717f257f9e27c5a703fb9690",
-   "source": "Yahoo",
-   "published": "2026-10-28T13:00:00+00:00",
-   "tickers": [
-    "NVO"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "cf3dda7a18a1",
-   "headline": "Boston Scientific Falls on Sales Hit After August Cyberattack",
-   "summary": "Boston Scientific Corp.'s shares dropped after it lowered its sales outlook and said it expects fourth-quarter sales to decline.",
-   "url": "https://finnhub.io/api/news?id=f3dd9db9582c0891972408a7e157b58790ad59ba5deece024e063db756d0180b",
-   "source": "Yahoo",
-   "published": "2026-10-28T12:56:24+00:00",
-   "tickers": [
-    "BSX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "1743d3c43f93",
-   "headline": "Top Managed Health Care Stock Pick From BofA Research",
-   "summary": "Investing.com -- BofA Research has identified its top pick in the managed health care sector, highlighting strong growth prospects and improved operational performance across key business segments.",
-   "url": "https://finnhub.io/api/news?id=226b06f4e3456bc31820308416527355b4ba62c701f32dacd5494ae5f85bb711",
-   "source": "Yahoo",
-   "published": "2026-10-28T12:53:16+00:00",
-   "tickers": [
-    "CNC"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "b4651acc70f7",
-   "headline": "Anthropic IPO on Tap, NVIDIA Updates, & Other Investor Days Shaping Markets",
-   "summary": "AI spending concerns, earnings updates, and a potential Anthropic IPO headline a busy calendar for investors.",
-   "url": "https://finnhub.io/api/news?id=38b277f55c8bf4aee07a53a6cfa006998a9f7ac32857e2fd6eba6b4f4a1c5edd",
-   "source": "Yahoo",
-   "published": "2026-10-28T12:51:04+00:00",
-   "tickers": [
-    "MRNA"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "ca5672765dc9",
-   "headline": "GE HealthCare Technologies Inc. (GEHC) Q3 2026 Earnings Call Transcript",
-   "summary": "GE HealthCare Technologies Inc. (GEHC) Q3 2026 Earnings Call October 28, 2026 8:30 AM EDTCompany ParticipantsCarolynne Borders - Chief Investor Relations...",
-   "url": "https://finnhub.io/api/news?id=e0dc403996815d9fbfc39fc3e7c38e60dde9c7cc0a42ada144ff521fe87a8bad",
-   "source": "SeekingAlpha",
-   "published": "2026-10-28T12:49:53+00:00",
-   "tickers": [
-    "GEHC"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "e0a257afafdf",
-   "headline": "Labcorp Holdings (NYSE:LH) Posts In-Line Q3 Results and Raises Full-Year Outlook",
-   "summary": "Labcorp (NYSE:LH) posts in-line Q3 2026 results and raises full-year outlook, sending shares higher premarket despite a slight revenue miss.",
-   "url": "https://finnhub.io/api/news?id=54337a8f2ab2d2f97f00fa9e68c59c59b7dccda8da86cdad2cbffe2e748c7be3",
-   "source": "ChartMill",
-   "published": "2026-10-28T12:47:28+00:00",
-   "tickers": [
-    "LH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "91efd3ce0bb8",
-   "headline": "TD Cowen Maintains Buy on HCA Healthcare, Raises Price Target to $486",
-   "summary": "TD Cowen analyst Ryan Langston maintains HCA Healthcare (NYSE:HCA) with a Buy and raises the price target from $460 to $486.",
-   "url": "https://finnhub.io/api/news?id=06533167b7a9189a8af85f0cce4662bb1b6d66dd9e84b87dccee1e86297966d3",
-   "source": "Benzinga",
-   "published": "2026-10-28T12:47:26+00:00",
-   "tickers": [
-    "HCA"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "payers"
    ]
   }
  ]
