@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-07T15:17:31.859998+00:00",
+ "updated": "2026-11-07T15:32:39.408671+00:00",
  "quotes": {
   "ABBV": {
    "price": 291.31,
@@ -97,10 +97,6 @@
   "DGX": {
    "price": 255.63,
    "change_pct": 0.35
-  },
-  "DNLI": {
-   "price": 20.07,
-   "change_pct": 1.77
   },
   "DOCS": {
    "price": 32.51,
@@ -1015,7 +1011,8 @@
    "published": "2026-11-07T13:55:33+00:00",
    "tickers": [
     "CNC",
-    "HCA"
+    "HCA",
+    "THC"
    ],
    "tag": "M&A",
    "sectors": [
@@ -1048,6 +1045,7 @@
    "published": "2026-11-07T13:07:30+00:00",
    "tickers": [
     "DGX",
+    "THC",
     "VEEV"
    ],
    "tag": "News",
@@ -2117,6 +2115,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "caa535dbf237",
+   "headline": "Leerink Partners Downgrades Halozyme Therapeutics to Market Perform, Raises Price Target to $117",
+   "summary": "Leerink Partners analyst David Risinger downgrades Halozyme Therapeutics (NASDAQ:HALO) from Outperform to Market Perform and raises the price target from $110 to $117.",
+   "url": "https://finnhub.io/api/news?id=6e98f4e4930d87bad0298b379a5f03e20a706c5ab6f303e0ac2f2fc830654209",
+   "source": "Benzinga",
+   "published": "2026-11-06T20:51:24+00:00",
+   "tickers": [
+    "HALO"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -3401,6 +3414,21 @@
    "sectors": []
   },
   {
+   "id": "dfe10a04d64a",
+   "headline": "Bristol Myers Squibb Presents 56-Week Results From Phase 3 SCOUT-HCM Clinical Trial In Late-Breaker Presentation At HCMS Scientific Sessions",
+   "summary": "With a consistent efficacy and safety profile through 56-weeks of follow-up, the Phase 3 SCOUT-HCM clinical trial further reinforces Camzyos as the first approved treatment for pediatric patients \u226530 kg with symptomatic",
+   "url": "https://finnhub.io/api/news?id=0aabc7c3f6201707a08fecc8f6130cb5e6b94798028231c0b1c51a189c9e975d",
+   "source": "Benzinga",
+   "published": "2026-11-06T17:01:15+00:00",
+   "tickers": [
+    "BMY"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "ce011009bc0e",
    "headline": "MRNA Q3 Earnings Beat on COVID Sales, Raises '26 Outlook, Stock Rises",
    "summary": "Moderna's Q3 earnings beat estimates on strong COVID-19 vaccine sales, returning to profitability and boosting its 2026 revenue growth outlook.",
@@ -3605,6 +3633,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "37da03d51aa5",
+   "headline": "Here\u2019s How Much You Would Have Made Owning Cencora Stock In The Last 10 Years",
+   "summary": "Cencora (NYSE:COR) has outperformed the market over the past 10 years by 7.95% on an annualized basis producing an average annual return of 20.98%. Currently, Cencora has a market capitalization of $64.82 billion.",
+   "url": "https://finnhub.io/api/news?id=04ae253ce17af82f84e9275eb452353a6d63c0509eac5bc39392ed8f8ce68b34",
+   "source": "Benzinga",
+   "published": "2026-11-06T16:30:20+00:00",
+   "tickers": [
+    "COR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharmacy"
    ]
   },
   {
@@ -6033,6 +6076,21 @@
    ]
   },
   {
+   "id": "a3b6d1dca277",
+   "headline": "Barclays Maintains Equal-Weight on Insulet, Raises Price Target to $165",
+   "summary": "Barclays analyst Christopher Pasquale maintains Insulet (NASDAQ:PODD) with a Equal-Weight and raises the price target from $150 to $165.",
+   "url": "https://finnhub.io/api/news?id=973e38cfc6f0de315c3f103393f1371b95ccb0a541642ee10f84f32acc85bcc1",
+   "source": "Benzinga",
+   "published": "2026-11-06T12:13:43+00:00",
+   "tickers": [
+    "PODD"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "5846dfb9d1b8",
    "headline": "Humana\u2019s Medical Costs Offer a Surprise, While Its Insurance Business Remains Pressured",
    "summary": "Humana\u2019s medical costs are lower than expected, but its Medicare business remains under pressure.",
@@ -6045,6 +6103,21 @@
    "tag": "Policy",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "e1140b7ce5e2",
+   "headline": "Barclays Maintains Equal-Weight on Certara, Raises Price Target to $12",
+   "summary": "Barclays analyst Luke Sergott maintains Certara (NASDAQ:CERT) with a Equal-Weight and raises the price target from $9 to $12.",
+   "url": "https://finnhub.io/api/news?id=1b58d2297ec9ec11a28a189d2863974cb039730bc470b86b09e229447b58e8f9",
+   "source": "Benzinga",
+   "published": "2026-11-06T12:05:35+00:00",
+   "tickers": [
+    "CERT"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "healthai"
    ]
   },
   {
@@ -6354,6 +6427,21 @@
    ]
   },
   {
+   "id": "2f6daa3722f7",
+   "headline": "Citizens Maintains Market Outperform on Halozyme Therapeutics, Raises Price Target to $149",
+   "summary": "Citizens analyst Jason N. Butler maintains Halozyme Therapeutics (NASDAQ:HALO) with a Market Outperform and raises the price target from $93 to $149.",
+   "url": "https://finnhub.io/api/news?id=b96fa3864c5f4dea430df88dd575d63695b2798c4bae7dc5f9d10afe6f056dd6",
+   "source": "Benzinga",
+   "published": "2026-11-06T11:21:25+00:00",
+   "tickers": [
+    "HALO"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "f82fca2ba537",
    "headline": "Thermo Fisher Scientific Authorizes $5 Billion Share Buyback after Upbeat Earnings",
    "summary": "Thermo Fisher Scientific announces new $5 billion share buyback authorization, as traders balance broader market gains against capital plans.",
@@ -6426,6 +6514,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "651ba0be84d9",
+   "headline": "Halozyme Therapeutics Confirms It Anticipates $0 To Minimal Royalty Revenue Impact Based On Nov. 5 U.S. Centers For Medicare & Medicaid Services's Final Rule For Medicare Drug Price Negotiation Program",
+   "summary": "Halozyme Therapeutics, Inc. (NASDAQ:HALO) (\"Halozyme\" or the \"Company\") today confirmed that the Company expects zero to minimal royalty revenue impact based on its analysis of the final rule for the",
+   "url": "https://finnhub.io/api/news?id=b98b51408e4c94d153feb1ad44d952c24633a0d984f336c081bb032901292e77",
+   "source": "Benzinga",
+   "published": "2026-11-06T11:08:43+00:00",
+   "tickers": [
+    "HALO"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -6598,6 +6701,21 @@
    ]
   },
   {
+   "id": "c7582a57228b",
+   "headline": "Subu Ramachandran Expands Holdings With Quest Diagnostics Stock Options Worth $6K",
+   "summary": "A notable acquisition unfolded on November 6, as Ramachandran, SVP at Quest Diagnostics (NYSE:DGX), reported the acquisition of stock options for 1,386 shares in an SEC filing. What Happened: In a recent Form 4 filing",
+   "url": "https://finnhub.io/api/news?id=af759adfad95e8e8f53478ccd1c3225487fb70b4dcc54a9f72a9e02092a5f594",
+   "source": "Benzinga",
+   "published": "2026-11-06T11:01:52+00:00",
+   "tickers": [
+    "DGX"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "d6ec40ed5ac9",
    "headline": "ETFs Are Buying UnitedHealth (UNH) on Nov. 4",
    "summary": "ETFs bought $56.4 million of UnitedHealth stock on Nov. 4.",
@@ -6718,6 +6836,21 @@
    ]
   },
   {
+   "id": "ab8799a1679c",
+   "headline": "Evercore ISI Group Maintains Outperform on Halozyme Therapeutics, Raises Price Target to $125",
+   "summary": "Evercore ISI Group analyst Michael DiFiore maintains Halozyme Therapeutics (NASDAQ:HALO) with a Outperform and raises the price target from $123 to $125.",
+   "url": "https://finnhub.io/api/news?id=14750f5e9d2c1d1e6b28a6590801ec2b52c3b03bec74f97926935e173c56b459",
+   "source": "Benzinga",
+   "published": "2026-11-06T10:49:30+00:00",
+   "tickers": [
+    "HALO"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "19f1c99fdefc",
    "headline": "Update: Market Chatter: Novartis Reports Two Confirmed Tumor Cases Linked to Neuromuscular Gene Therapy",
    "summary": "(Updates with Novartis' response in the fourth and fifth paragraphs and latest stock moves in the si",
@@ -6823,6 +6956,21 @@
    ]
   },
   {
+   "id": "ea2b09a81dc1",
+   "headline": "Wells Fargo Maintains Equal-Weight on Halozyme Therapeutics, Raises Price Target to $110",
+   "summary": "Wells Fargo analyst Mohit Bansal maintains Halozyme Therapeutics (NASDAQ:HALO) with a Equal-Weight and raises the price target from $95 to $110.",
+   "url": "https://finnhub.io/api/news?id=f5d3a594603f8225f356cd4c6c2411925a81f7e927c2295030e77461f05d6555",
+   "source": "Benzinga",
+   "published": "2026-11-06T10:39:12+00:00",
+   "tickers": [
+    "HALO"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "8f6565b5f59b",
    "headline": "Evercore ISI Group Maintains Outperform on Becton Dickinson, Raises Price Target to $230",
    "summary": "Evercore ISI Group analyst Vijay Kumar maintains Becton Dickinson (NYSE:BDX) with a Outperform and raises the price target from $210 to $230.",
@@ -6897,6 +7045,21 @@
    "tag": "Analyst",
    "sectors": [
     "healthit"
+   ]
+  },
+  {
+   "id": "6a44e569720a",
+   "headline": "Piper Sandler Maintains Overweight on Oscar Health, Lowers Price Target to $45",
+   "summary": "Piper Sandler analyst Jessica Tassan maintains Oscar Health (NYSE:OSCR) with a Overweight and lowers the price target from $48 to $45.",
+   "url": "https://finnhub.io/api/news?id=bf7f9bbd73c6e7dc638a562b11ba476459a51ba3888440e112aa209018b5e7f1",
+   "source": "Benzinga",
+   "published": "2026-11-06T10:24:59+00:00",
+   "tickers": [
+    "OSCR"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -69419,104 +69582,6 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "ce226fed07cc",
-   "headline": "Amazon, Eli Lilly On Deck Thursday As AWS Growth, Drug Demand Face Test",
-   "summary": "Amazon headlines Thursday\u2019s reports, with investors focused on whether accelerating AWS growth and heavy AI spending can support the next leg of its expansion. Eli Lilly, Mastercard, Merck, Caterpillar and Shell report",
-   "url": "https://finnhub.io/api/news?id=94c2679773118cbce5e545bc0d169dcf789128603a39f8d6ce2ebaa3b2d445b6",
-   "source": "Benzinga",
-   "published": "2026-10-28T15:30:28+00:00",
-   "tickers": [
-    "BMY",
-    "GILD",
-    "ILMN",
-    "LLY",
-    "MRK",
-    "SYK"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "32c9bac03617",
-   "headline": "United Therapeutics Receives FDA Clearance to Begin Clinical Trial of Inhaled PAH Treatment",
-   "summary": "United Therapeutics Corporation (NASDAQ:UTHR) has received clearance from the U. S.",
-   "url": "https://finnhub.io/api/news?id=747fea0798962c84f870546da80f108d7c09a044824245280cfaa14915cbb1f4",
-   "source": "Yahoo",
-   "published": "2026-10-28T15:26:28+00:00",
-   "tickers": [
-    "UTHR"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "97dd5680211e",
-   "headline": "Fed on hold? Two discounted blue chips built for high rates",
-   "summary": "Investing.com and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
-   "url": "https://finnhub.io/api/news?id=36c3492634dd2fbcb0014a4afaef6adfd7971718f5bb6d868a95c57a015b106b",
-   "source": "Yahoo",
-   "published": "2026-10-28T15:23:33+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "09b43f794813",
-   "headline": "Labcorp Shares Rise 1.5% as Q3 Earnings Beat Forecasts and Full-Year Guidance Increases",
-   "summary": "Labcorp Holdings Inc. (NYSE:LH) shares advanced 1.",
-   "url": "https://finnhub.io/api/news?id=6a7b22092af40d361a0a653274ce23ee0f4e43c35590d6b628ff64f228b72130",
-   "source": "Yahoo",
-   "published": "2026-10-28T15:22:38+00:00",
-   "tickers": [
-    "LH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "8dd580e7d11b",
-   "headline": "Medtronic Spark Scholarship Applications Now Open for Students Pursuing Careers in Healthcare Technology",
-   "summary": "Up to 100 scholarships will be awarded globally to students pursuing degrees or credentials in health tech fields.NORTHAMPTON, MA / ACCESS Newswire / October 28, 2026 / , a global leader in healthcare technology, announced applications\u2026",
-   "url": "https://finnhub.io/api/news?id=0d5884adbc46e7aa2afce12bcc60b2aa1d9e7381e0b99618388dbe1bc529389a",
-   "source": "Yahoo",
-   "published": "2026-10-28T15:20:00+00:00",
-   "tickers": [
-    "MDT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "19a72ad048f5",
-   "headline": "BSX Q3 Earnings Meet Estimates, Revenues Rise Y/Y, Stock Down",
-   "summary": "Boston Scientific's third-quarter revenues beat estimates, but contracting margins, weaker segment sales and reduced 2026 guidance weigh on shares.",
-   "url": "https://finnhub.io/api/news?id=8bdea02545d8cf5421ddf537c2f4795d01270c15cfb12ad789cec751e56599fb",
-   "source": "Yahoo",
-   "published": "2026-10-28T15:20:00+00:00",
-   "tickers": [
-    "BSX",
-    "ELV",
-    "ISRG",
-    "MEDP"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
