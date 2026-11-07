@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-07T06:47:24.454277+00:00",
+ "updated": "2026-11-07T07:02:41.349284+00:00",
  "quotes": {
   "A": {
    "price": 174.76,
@@ -177,6 +177,10 @@
   "MCK": {
    "price": 1060.84,
    "change_pct": -1.04
+  },
+  "MDGL": {
+   "price": 399.63,
+   "change_pct": -0.12
   },
   "MDT": {
    "price": 101.8,
@@ -922,7 +926,8 @@
    "published": "2026-11-07T05:17:12+00:00",
    "tickers": [
     "AMGN",
-    "JNJ"
+    "JNJ",
+    "LLY"
    ],
    "tag": "News",
    "sectors": [
@@ -1035,6 +1040,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "b339d3ff5ac7",
+   "headline": "Natera, Inc. 2026 Q3 - Results - Earnings Call Presentation",
+   "summary": "2026-11-07. The following slide deck was published by Natera, Inc.",
+   "url": "https://finnhub.io/api/news?id=07f7eb62dd8930212b6fd466772179a96e2f769b577cc0e389eac5443e629525",
+   "source": "SeekingAlpha",
+   "published": "2026-11-07T01:01:51+00:00",
+   "tickers": [
+    "NTRA"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -4285,7 +4305,8 @@
    "source": "Yahoo",
    "published": "2026-11-06T12:20:51+00:00",
    "tickers": [
-    "BIIB"
+    "BIIB",
+    "MDGL"
    ],
    "tag": "News",
    "sectors": [
@@ -12658,6 +12679,21 @@
    "tag": "Earnings",
    "sectors": [
     "healthai"
+   ]
+  },
+  {
+   "id": "44568625124d",
+   "headline": "Revolution Medicines, Inc. Q3 2026 Earnings Call Summary",
+   "summary": "Moby summary of Revolution Medicines, Inc.'s Q3 2026 earnings call",
+   "url": "https://finnhub.io/api/news?id=115a7a07c0754ef009ba5221ada4fd34501ce02bdbdcdadfa79ce17144c7bb9b",
+   "source": "Yahoo",
+   "published": "2026-11-05T13:30:00+00:00",
+   "tickers": [
+    "RVMD"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -71857,85 +71893,6 @@
    "tag": "Analyst",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "769d78f72137",
-   "headline": "Labcorp Holdings Raises FY2026 Adj EPS Guidance from $18.10-$18.55 to $18.30-$18.70 vs $18.36 Est; Raises FY2026 Sales Guidance from $14.710B-$14.827B to $14.779B-$14.887B vs $14.749B Est",
-   "summary": "Labcorp Holdings (NYSE:LH) raises FY2026 Adj EPS guidance from $18.10-$18.55 to $18.30-$18.70 vs $18.36 analyst estimate. Raises FY2026 sales outlook from $14.710 billion-$14.827 billion to $14.779 billion-$14.887",
-   "url": "https://finnhub.io/api/news?id=69b3fa801e0d33299f1cbb05271c00a2012ce8b35027cdb5880bee42bdba692e",
-   "source": "Benzinga",
-   "published": "2026-10-28T06:51:58+00:00",
-   "tickers": [
-    "LH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "20f4f61c4a1b",
-   "headline": "Laboratory Corp Q3 Adj. EPS $4.78 Beats $4.66 Estimate, Sales $3.810B Beat $3.759B Estimate",
-   "summary": "Laboratory Corp (NYSE:LH) reported quarterly earnings of $4.78 per share which beat the analyst consensus estimate of $4.66 by 2.58 percent. This is a 14.35 percent increase over earnings of $4.18 per share from the",
-   "url": "https://finnhub.io/api/news?id=4ee8fe484077f0d8fc5036e547ed96bf6a0f22986ccd361a0c2ceab00a924c48",
-   "source": "Benzinga",
-   "published": "2026-10-28T06:51:45+00:00",
-   "tickers": [
-    "LH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "85e95e8071bf",
-   "headline": "Allspring Emerging Growth Fund: Q3 2026 Top Contributors And Detractors",
-   "summary": "This report details performance drivers for the Allspring Emerging Growth Fund in Q3 2026. Read the full analysis for more details.",
-   "url": "https://finnhub.io/api/news?id=419f7674f6ac86562a2f887ab2515cfa4ce89879597e4408ab1f1474d09ee536",
-   "source": "SeekingAlpha",
-   "published": "2026-10-28T06:50:00+00:00",
-   "tickers": [
-    "ALHC",
-    "AZN",
-    "GH",
-    "TWST",
-    "UNH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "ed00a8210e47",
-   "headline": "Eli Lilly Reports Phase 3 TRANSCEND-T2D-2 Results, With Retatrutide Achieving Greater A1C Reduction And Weight Loss Than Ozempic In Adults With Type 2 Diabetes",
-   "summary": "In adults with type 2 diabetes, retatrutide lowered A1C by an average of 2.2% vs. 1.8% with Ozempic 2 mg at 80 weeksParticipants taking retatrutide lost an average of 44 lbs to 47 lbs (20% to 21%) vs. 21 lbs (9%) with",
-   "url": "https://finnhub.io/api/news?id=bc0419b80679156d4a52226e3d2594f6be226c5c9eaafa94dd31fea7755d1fe9",
-   "source": "Benzinga",
-   "published": "2026-10-28T06:49:41+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "0ff92650753c",
-   "headline": "Stryker (SYK) to report earnings tomorrow: here is what to expect",
-   "summary": "Medical technology company Stryker (NYSE:SYK) will be reporting earnings this Thursday afternoon. Here\u2019s what investors should know.",
-   "url": "https://finnhub.io/api/news?id=2848072a4070ec3441482fa64ffe153682de5ff3a3c425f75e330eebada2d65c",
-   "source": "Yahoo",
-   "published": "2026-10-28T06:46:34+00:00",
-   "tickers": [
-    "SYK"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
