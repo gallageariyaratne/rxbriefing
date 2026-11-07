@@ -1,14 +1,10 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-07T22:17:02.627733+00:00",
+ "updated": "2026-11-07T22:32:15.985983+00:00",
  "quotes": {
   "ABBV": {
    "price": 291.31,
    "change_pct": 1.07
-  },
-  "ABSI": {
-   "price": 10.17,
-   "change_pct": 8.31
   },
   "ABT": {
    "price": 109.93,
@@ -21,6 +17,10 @@
   "AMGN": {
    "price": 460.42,
    "change_pct": 0.03
+  },
+  "ARWR": {
+   "price": 58.16,
+   "change_pct": 1.22
   },
   "AXSM": {
    "price": 132.37,
@@ -114,10 +114,6 @@
    "price": 433.74,
    "change_pct": 5.33
   },
-  "IART": {
-   "price": 13.42,
-   "change_pct": -4.96
-  },
   "IDXX": {
    "price": 676.04,
    "change_pct": 0.79
@@ -185,10 +181,6 @@
   "OPCH": {
    "price": 31.65,
    "change_pct": 0.48
-  },
-  "PEN": {
-   "price": 319.21,
-   "change_pct": -0.59
   },
   "PFE": {
    "price": 29.39,
@@ -859,6 +851,36 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "2a6ccea21c26",
+   "headline": "Arrowhead Pharmaceuticals Presents Plozasiran Data Highlighting Sustained Triglyceride Reductions and Reduced Acute Pancreatitis Rates",
+   "summary": "PASADENA, Calif., November 07, 2026--Arrowhead Pharmaceuticals, Inc. (NASDAQ: ARWR) today presented results on two of the RNA interference (RNAi) based therapies in its cardiometabolic pipeline at the American Heart Association (AHA)\u2026",
+   "url": "https://finnhub.io/api/news?id=b34798d33ec46bfb3e9e587da7ad323c649732dbc884110374775049afdb9d11",
+   "source": "Yahoo",
+   "published": "2026-11-07T21:15:00+00:00",
+   "tickers": [
+    "ARWR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "11441303e64b",
+   "headline": "Wall Street Is Ignoring Bristol Myers Squibb's Cash Machine -- and That's an Opportunity for Income Investors",
+   "summary": "Bristol Myers Squibb has a 4% yield and a 55% payout ratio, which should greatly interest dividend lovers.",
+   "url": "https://finnhub.io/api/news?id=3c81c35275dc44ad2289f8f7be4f7a18fffe86c6fb06c78cd85b88a1acd06c6c",
+   "source": "Yahoo",
+   "published": "2026-11-07T20:35:00+00:00",
+   "tickers": [
+    "BMY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "dfe92d7a6236",
@@ -67548,67 +67570,6 @@
    "tag": "Clinical",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "980f1320fa31",
-   "headline": "Glaukos (GKOS) Q3 Earnings and Revenues Surpass Estimates",
-   "summary": "Glaukos (GKOS) delivered earnings and revenue surprises of +491.67% and +24.99%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
-   "url": "https://finnhub.io/api/news?id=0b55b95458a1e5bc9e8b703a5ea31586a68060b90aeacb9298a62df003caf30c",
-   "source": "Yahoo",
-   "published": "2026-10-28T22:30:08+00:00",
-   "tickers": [
-    "GKOS",
-    "PACB"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "95dd0b9385c7",
-   "headline": "Conmed (CNMD) Q3 Earnings Top Estimates",
-   "summary": "Conmed (CNMD) delivered earnings and revenue surprises of +4.00% and -0.37%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
-   "url": "https://finnhub.io/api/news?id=442306eb471b45dd1b1d10015db3579a8381118ced102efe707eda7e03d3d47e",
-   "source": "Yahoo",
-   "published": "2026-10-28T22:30:05+00:00",
-   "tickers": [
-    "BDX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "818bbbfb1301",
-   "headline": "IPO Edge NYSE Firesides Scheduled for Dec 7",
-   "summary": "IPO Edge and CorpGov will be conducting interviews from the floor of the New York Stock Exchange on Dec. 7, 2026. We invite guests to join 15-minute fireside chats recorded in a [\u2026]",
-   "url": "https://finnhub.io/api/news?id=34ea674bc073a4546b89f530a953ad3f4a825341efd3e9ef3eabe79b99d9e40c",
-   "source": "Yahoo",
-   "published": "2026-10-28T22:21:31+00:00",
-   "tickers": [
-    "TEM"
-   ],
-   "tag": "Financing",
-   "sectors": [
-    "healthai"
-   ]
-  },
-  {
-   "id": "03ded2c56a3d",
-   "headline": "Glaukos Corporation (GKOS) Q3 2026 Earnings Call Transcript",
-   "summary": "Glaukos Corporation (GKOS) Q3 2026 Earnings Call October 28, 2026 4:30 PM EDTCompany ParticipantsChristopher Lewis - Vice President of Investor Relations...",
-   "url": "https://finnhub.io/api/news?id=9f14aa4d8343546be5471b2a79d760f39551170ce62dc1a5468199d8e74650a8",
-   "source": "SeekingAlpha",
-   "published": "2026-10-28T22:20:00+00:00",
-   "tickers": [
-    "GKOS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
