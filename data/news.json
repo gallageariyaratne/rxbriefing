@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-07T08:32:34.721397+00:00",
+ "updated": "2026-11-07T08:47:34.458364+00:00",
  "quotes": {
   "A": {
    "price": 174.76,
@@ -58,6 +58,10 @@
    "price": 62.14,
    "change_pct": -1.57
   },
+  "BRKR": {
+   "price": 61.31,
+   "change_pct": 5.6
+  },
   "BSX": {
    "price": 42.75,
    "change_pct": -4.23
@@ -73,6 +77,10 @@
   "CI": {
    "price": 293.59,
    "change_pct": -2.62
+  },
+  "CLDX": {
+   "price": 29.87,
+   "change_pct": 5.66
   },
   "CNC": {
    "price": 69.74,
@@ -285,10 +293,6 @@
   "TMO": {
    "price": 694.76,
    "change_pct": 2.63
-  },
-  "TXG": {
-   "price": 59.28,
-   "change_pct": 2.1
   },
   "UNH": {
    "price": 394.15,
@@ -1082,6 +1086,21 @@
    ]
   },
   {
+   "id": "2f97c8440314",
+   "headline": "Bruker: Five Quarters Of Orders Are Still Waiting To Show Up In Revenue",
+   "summary": "",
+   "url": "https://finnhub.io/api/news?id=c495a50c15c7714c6080b47cf9ab7a4ff55dafd2a879f15b0fc31abed289d53e",
+   "source": "SeekingAlpha",
+   "published": "2026-11-07T02:46:45+00:00",
+   "tickers": [
+    "BRKR"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "b68b62803eea",
    "headline": "How IDEXX Stock Is Engineered To Make Money For You",
    "summary": "For questions about this article or underlying research, email help@trefis.com.",
@@ -1198,7 +1217,8 @@
    "source": "Yahoo",
    "published": "2026-11-07T00:00:05+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "PFE"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -1607,6 +1627,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "92e028ad29fa",
+   "headline": "Celldex Stock In Focus After Earnings Loss And Shelf Filing",
+   "summary": "Celldex Therapeutics reported third quarter 2026 results with a net loss of US$75.56 million and basic loss per share of US$0.96, alongside a universal shelf registration covering common and preferred stock, warrants, depositary shares\u2026",
+   "url": "https://finnhub.io/api/news?id=e3cff6f75b4e8a65a26f6d236895152be68348311dc352e1c943c6d400f14b9c",
+   "source": "Yahoo",
+   "published": "2026-11-06T20:14:11+00:00",
+   "tickers": [
+    "CLDX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
   },
   {
    "id": "88907585df25",
@@ -71493,97 +71528,6 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
-   ]
-  },
-  {
-   "id": "60e3e9fb428f",
-   "headline": "Biogen Exec Expects Growth From Apellis Acquisition Even Without The Pipeline",
-   "summary": "- Conference Call",
-   "url": "https://finnhub.io/api/news?id=b511fe2d632727e3e2f35a35ff3ae506da4f1c83ecd499126e645912886e9662",
-   "source": "Benzinga",
-   "published": "2026-10-28T08:45:47+00:00",
-   "tickers": [
-    "BIIB"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "0b8816df5741",
-   "headline": "Biogen Exec Says Expecting Growth From Apellis Acquisition Even Without The Pipeline; Our Ambition Is Over The Next Few Years To Have At Least 20 Programs In Early Stage Development",
-   "summary": "https://event.webcasts.com/viewer/event.jsp?ei=1771787&tp_key=52bcd10df0",
-   "url": "https://finnhub.io/api/news?id=ab28e1c0a340a8e906c10614d797de84d929fc8062f2b0acc9ad1726439de942",
-   "source": "Benzinga",
-   "published": "2026-10-28T08:42:13+00:00",
-   "tickers": [
-    "BIIB"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "5bfe8672804c",
-   "headline": "This Spero Therapeutics Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Wednesday",
-   "summary": "Analysts initiated coverage: Hold ALHC; Overweight/$6 SPRO; Buy/$3 LABT; Buy/$6 CLOV.",
-   "url": "https://finnhub.io/api/news?id=a10afd75c316d3533a6dd19489f54d477c7f6716017c34f837d7e4fce1b0c858",
-   "source": "Benzinga",
-   "published": "2026-10-28T08:38:32+00:00",
-   "tickers": [
-    "ALHC",
-    "CLOV"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "99c16d1b9c2f",
-   "headline": "ICON Public Limited Company 2026 Q3 - Results - Earnings Call Presentation",
-   "summary": "2026-10-28. The following slide deck was published by ICON Public Limited Company in conjunction with their 2026 Q3 earnings call.",
-   "url": "https://finnhub.io/api/news?id=cbd0ed8694cbc6617ef43dcf61bfa363bd8a4b8881ab6c3153b92c85e09bfb88",
-   "source": "SeekingAlpha",
-   "published": "2026-10-28T08:35:54+00:00",
-   "tickers": [
-    "ICLR"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "e8ea678e8f29",
-   "headline": "GSK plc 2026 Q3 - Results - Earnings Call Presentation",
-   "summary": "2026-10-28. The following slide deck was published by GSK plc in conjunction with their 2026 Q3 earnings call.",
-   "url": "https://finnhub.io/api/news?id=86c22405453bcf573f14d2a2aaf44ea736a705ee02f93056220692e586fa8b4c",
-   "source": "SeekingAlpha",
-   "published": "2026-10-28T08:35:29+00:00",
-   "tickers": [
-    "GSK"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "c29127b90ac3",
-   "headline": "Barclays Downgrades Qiagen to Equal-Weight, Lowers Price Target to $53",
-   "summary": "Barclays analyst Luke Sergott downgrades Qiagen (NYSE:QGEN) from Overweight to Equal-Weight and lowers the price target from $55 to $53.",
-   "url": "https://finnhub.io/api/news?id=806b7f13e1429b1e6071e4ff4dc8e3ffb750996fa07c84204b8deb35fbc93943",
-   "source": "Benzinga",
-   "published": "2026-10-28T08:32:57+00:00",
-   "tickers": [
-    "QGEN"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "tools"
    ]
   }
  ]
