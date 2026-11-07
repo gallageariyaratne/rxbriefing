@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-07T14:02:35.295403+00:00",
+ "updated": "2026-11-07T14:17:39.661039+00:00",
  "quotes": {
   "A": {
    "price": 174.76,
@@ -69,10 +69,6 @@
   "CAH": {
    "price": 271.72,
    "change_pct": 1.46
-  },
-  "CERT": {
-   "price": 12.05,
-   "change_pct": -1.07
   },
   "CI": {
    "price": 293.59,
@@ -321,6 +317,10 @@
   "ZBH": {
    "price": 105.59,
    "change_pct": -1.18
+  },
+  "ZTS": {
+   "price": 79.4,
+   "change_pct": -3.3
   }
  },
  "tickers": {
@@ -938,6 +938,36 @@
  },
  "stories": [
   {
+   "id": "807de72ae09c",
+   "headline": "3 Medical Device Stocks That Keep Raising Dividends. One Just Hit 55 Years",
+   "summary": "Hospitals reorder syringes, sensors, and implants whether the economy booms or stalls, and three device makers turn that habit into payouts that grow every year. Only one has a streak long enough to outlast most investors' careers, and\u2026",
+   "url": "https://finnhub.io/api/news?id=be4a6af9f59a1bae2156c66dd92452d32c9e32d685635a8b51257a827c7bb8b4",
+   "source": "Yahoo",
+   "published": "2026-11-07T13:47:01+00:00",
+   "tickers": [
+    "BDX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "e63524d275b8",
+   "headline": "What Is Behind The Move In DexCom Stock?",
+   "summary": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://finnhub.io/api/news?id=89f952525c33299c50a36cdb03d989e6f30152386d754930bf1407c52edeaf3c",
+   "source": "Yahoo",
+   "published": "2026-11-07T12:49:51+00:00",
+   "tickers": [
+    "DXCM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "e3b3a1620804",
    "headline": "Gilead Pays a $3.28 Annual Dividend Despite Negative Earnings. Is It Safe?",
    "summary": "A red ink EPS figure usually spells trouble for retirees counting on a payout. Gilead's loss traces back to one strange quarter, and a single cash metric reveals whether the dividend checks are really at risk.",
@@ -1148,6 +1178,7 @@
    "source": "SeekingAlpha",
    "published": "2026-11-07T08:05:00+00:00",
    "tickers": [
+    "NVO",
     "SNY"
    ],
    "tag": "News",
@@ -4748,6 +4779,21 @@
    ]
   },
   {
+   "id": "60aa9e9e2e81",
+   "headline": "Oppenheimer Maintains Outperform on Evolent Health, Raises Price Target to $7",
+   "summary": "Oppenheimer analyst Michael Wiederhorn maintains Evolent Health (NYSE:EVH) with a Outperform and raises the price target from $6 to $7.",
+   "url": "https://finnhub.io/api/news?id=1071b0377be6aeedbe46884fb93e85265f7034434bcaac0ad858c72250a927b1",
+   "source": "Benzinga",
+   "published": "2026-11-06T13:20:16+00:00",
+   "tickers": [
+    "EVH"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "3e2bd550b5b4",
    "headline": "Moderna Shares Jump 10% as Q3 Earnings Beat Forecasts and Revenue Outlook Improves",
    "summary": "Moderna Inc. (NASDAQ:MRNA) shares surged 10% after the biotechnology company reported stronger-than-expected third-quarter 2026 earnings and revenue, raised its full-year sales growth forecast and increased its projected year-end cash\u2026",
@@ -4873,6 +4919,21 @@
    "tag": "Earnings",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "312f93c45a7d",
+   "headline": "Cigna Delivers Strong Q3, Accelerate To One Program Targets $3B Savings By 2030",
+   "summary": "Cigna shares fell after Q3 results; analysts remain bullish, citing raised guidance, 2027 growth, and strong demand.",
+   "url": "https://finnhub.io/api/news?id=e128d6699ffac31baf023216beef50fffcd4839faf8987bda5666be9022764c9",
+   "source": "Benzinga",
+   "published": "2026-11-06T13:11:04+00:00",
+   "tickers": [
+    "CI"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -5493,7 +5554,8 @@
    "source": "Benzinga",
    "published": "2026-11-06T11:51:02+00:00",
    "tickers": [
-    "MRNA"
+    "MRNA",
+    "TMDX"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -5970,6 +6032,21 @@
    "tag": "Analyst",
    "sectors": [
     "healthit"
+   ]
+  },
+  {
+   "id": "2c52ef93b42f",
+   "headline": "Evercore ISI Group Maintains In-Line on Cigna Group, Raises Price Target to $320",
+   "summary": "Evercore ISI Group analyst Elizabeth Anderson maintains Cigna Group (NYSE:CI) with a In-Line and raises the price target from $290 to $320.",
+   "url": "https://finnhub.io/api/news?id=b7a5795fc91a280b9bc876bc645b0e8caa5bd27f6cc8bf03d5cebb1d9588a84f",
+   "source": "Benzinga",
+   "published": "2026-11-06T10:41:44+00:00",
+   "tickers": [
+    "CI"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -69163,159 +69240,6 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "15bbc723179e",
-   "headline": "What GSK Needs to Do After Weak Vaccine Sales Spoil an Earnings Beat",
-   "summary": "GSK beats earnings estimates handily, but suffers soft vaccine sales. The biopharma is moving quickly to bring new medicines to market faster.",
-   "url": "https://finnhub.io/api/news?id=3deb56595794bc273974edbc825f898dd2c90952de90fa03acd6ad3d26413834",
-   "source": "Yahoo",
-   "published": "2026-10-28T14:15:00+00:00",
-   "tickers": [
-    "GSK"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "0693983a58bf",
-   "headline": "Repligen Corporation (RGEN) Benefits From Biotech Momentum and Strong Earnings",
-   "summary": "Wasatch Global Investors, an asset management company, released its \u201cSmall Cap Growth Strategy\u201d Q3 2026 investor letter. The letter can be downloaded here. The Wasatch Small Cap Growth strategy declined in Q3 2026 but outperformed the\u2026",
-   "url": "https://finnhub.io/api/news?id=506e88f93501ce60dc1b20a6e334ccf3c70743c0f194318d80296c35a55ffc98",
-   "source": "Yahoo",
-   "published": "2026-10-28T14:14:47+00:00",
-   "tickers": [
-    "RGEN"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "39d5efc800fb",
-   "headline": "Incyte (INCY) reports Q3: everything you need to know ahead of earnings",
-   "summary": "Biopharmaceutical company Incyte Corporation (NASDAQ:INCY) will be reporting results this Thursday before market open. Here\u2019s what to look for.",
-   "url": "https://finnhub.io/api/news?id=e8d87559535b27a45a8b32782b773b5a2352c735a70a8a70110fbd32833425b1",
-   "source": "Yahoo",
-   "published": "2026-10-28T14:14:34+00:00",
-   "tickers": [
-    "INCY"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "144a6bd804f1",
-   "headline": "What Does Centene (CNC) Gain From Its New 2027 Chronic Care Plans?",
-   "summary": "Centene (NYSE:CNC) subsidiary Ambetter Health has outlined a significant expansion of its 2027 Marketplace health plans across new regions. The 2027 lineup introduces condition specific plans aimed at members managing heart failure,\u2026",
-   "url": "https://finnhub.io/api/news?id=00d18cd182e32cfb65e01467058548849bb94f75b7980fc813af18e9da356b61",
-   "source": "Yahoo",
-   "published": "2026-10-28T14:13:30+00:00",
-   "tickers": [
-    "CNC"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "39403050c8ab",
-   "headline": "Boston Scientific Corporation Reports Third Quarter 2026 Results",
-   "summary": "",
-   "url": "https://finnhub.io/api/news?id=b112ebfe41425b47770fc403e11561908d39e77379147eb20a10a7680119e84f",
-   "source": "Fintel",
-   "published": "2026-10-28T14:12:47+00:00",
-   "tickers": [
-    "BSX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "00e08a189dfe",
-   "headline": "AstraZeneca (LSE:AZN) Stock Trades At A Discount To Cash Flow Value",
-   "summary": "AstraZeneca has ridden a strong oncology and specialty medicines story into a complex valuation debate, and the real question now is whether the current share price is adequately supported by the cash flows that the business can generate\u2026",
-   "url": "https://finnhub.io/api/news?id=a01a94e77a9026da212740cfa5e23053c8175d7409508bbfc06c794ad44ec176",
-   "source": "Yahoo",
-   "published": "2026-10-28T14:11:01+00:00",
-   "tickers": [
-    "AZN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "59ca142557a2",
-   "headline": "GEHC Q3 Earnings Beat Estimates on Strong Growth, '26 View Raised",
-   "summary": "GE HealthCare's Q3 earnings and revenues beat estimates on strong segment growth and higher margins, driving raised 2026 guidance as shares gain 8.3%.",
-   "url": "https://finnhub.io/api/news?id=fcab308b57bc03a3bd201273e286443279b70eff9eb32974e876f554b588bcd1",
-   "source": "Yahoo",
-   "published": "2026-10-28T14:05:00+00:00",
-   "tickers": [
-    "GEHC",
-    "GMED",
-    "ISRG"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "0d2318dfaf52",
-   "headline": "Lilly's Reta Trounces Novo Powerhouse In Head-To-Head Test",
-   "summary": "Eli Lilly's next-generation weight-loss drug, retatrutide, trounced Novo's Ozempic in a head-to-head study, the company said Wednesday.",
-   "url": "https://finnhub.io/api/news?id=1c2b9736e5274f77bdd6fc69c22ca0c1565eadc56f8b24908d3ad14af7206daa",
-   "source": "Yahoo",
-   "published": "2026-10-28T14:02:58+00:00",
-   "tickers": [
-    "LLY",
-    "NVO"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "fb473ef49e72",
-   "headline": "Ensign Group Q3 2026 Earnings Call Transcript",
-   "summary": "Ensign Group (NASDAQ:ENSG) reported third-quarter financial results on Wednesday. The transcript from the company\u2019s third-quarter earnings call has been provided below.This transcript is brought to you by Benzinga APIs.",
-   "url": "https://finnhub.io/api/news?id=6bd912b4701e37c714303dda6cb65df82fde390d04f41667bde0bb3d0b7fef5a",
-   "source": "Benzinga",
-   "published": "2026-10-28T14:02:19+00:00",
-   "tickers": [
-    "ENSG"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "86fcf64c0079",
-   "headline": "Morgan Stanley Maintains Equal-Weight on Centene, Raises Price Target to $71",
-   "summary": "Morgan Stanley analyst Ricky Goldwasser maintains Centene (NYSE:CNC) with a Equal-Weight and raises the price target from $66 to $71.",
-   "url": "https://finnhub.io/api/news?id=8d329a223f1727a1848c0f622354034e38d7fcce80ab4bba3be910505856b7b6",
-   "source": "Benzinga",
-   "published": "2026-10-28T14:01:41+00:00",
-   "tickers": [
-    "CNC"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "payers"
    ]
   }
  ]
