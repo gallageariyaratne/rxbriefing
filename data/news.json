@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-07T00:32:36.557674+00:00",
+ "updated": "2026-11-07T00:47:24.441021+00:00",
  "quotes": {
   "A": {
    "price": 174.76,
@@ -213,6 +213,10 @@
   "OSCR": {
    "price": 30.65,
    "change_pct": -7.63
+  },
+  "PEN": {
+   "price": 319.21,
+   "change_pct": -0.59
   },
   "PFE": {
    "price": 29.39,
@@ -929,6 +933,7 @@
    "source": "Yahoo",
    "published": "2026-11-06T23:26:15+00:00",
    "tickers": [
+    "CAH",
     "COR",
     "CVS",
     "MCK"
@@ -936,6 +941,36 @@
    "tag": "News",
    "sectors": [
     "pharmacy"
+   ]
+  },
+  {
+   "id": "2b645ec222aa",
+   "headline": "Zoetis (ZTS) Stock Price Drops After Q3 Earnings Margin Pressure",
+   "summary": "Zoetis came into this Q3 2026 earnings release with the stock up over the past month, then the mood flipped. The share price dropped about 3% on the first full trading day after results, a sharp move for a mature animal health business\u2026",
+   "url": "https://finnhub.io/api/news?id=f1083a27e65a26ef60f9c38d8eb7ac2d3e2f22a2326bd86888ae2cf4774047e3",
+   "source": "Yahoo",
+   "published": "2026-11-06T23:10:10+00:00",
+   "tickers": [
+    "ZTS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "550df6253770",
+   "headline": "Pfizer (PFE) Maps Out $650 Million Connecticut Center For Global Clinical Trials",
+   "summary": "Pfizer (NYSE:PFE) plans to build a US$650 million manufacturing technology center in Connecticut to support global clinical trials. The planned facility is expected to produce clinical active pharmaceutical ingredients and drug products\u2026",
+   "url": "https://finnhub.io/api/news?id=b62d61be8ef69badba66b45f130739f94b6849d4c74107f5afa66b5ada2199e9",
+   "source": "Yahoo",
+   "published": "2026-11-06T23:09:01+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -957,7 +992,24 @@
    "source": "Yahoo",
    "published": "2026-11-06T22:28:19+00:00",
    "tickers": [
-    "BSX"
+    "BSX",
+    "PEN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "1ebeb678daba",
+   "headline": "What Should Investors Watch After Intuitive Surgical (ISRG) Added Aaron Martin To Its Board?",
+   "summary": "Intuitive Surgical (NasdaqGS: ISRG) has appointed healthcare executive Aaron Martin to its board of directors, effective January 2027. Martin previously led Amazon Health Services and has held senior roles at Humana and Providence St.\u2026",
+   "url": "https://finnhub.io/api/news?id=d3d86beffcaa60d3aa1bfcc47d7d16c69652e19f481d71c8fe258ccb938c1a99",
+   "source": "Yahoo",
+   "published": "2026-11-06T22:14:13+00:00",
+   "tickers": [
+    "HUM",
+    "ISRG"
    ],
    "tag": "News",
    "sectors": [
@@ -1465,6 +1517,7 @@
    "source": "SeekingAlpha",
    "published": "2026-11-06T18:30:37+00:00",
    "tickers": [
+    "ABT",
     "BDX",
     "COR",
     "LLY",
