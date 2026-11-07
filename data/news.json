@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-07T11:47:31.344722+00:00",
+ "updated": "2026-11-07T12:02:39.445083+00:00",
  "quotes": {
   "A": {
    "price": 174.76,
@@ -109,6 +109,10 @@
   "DGX": {
    "price": 255.63,
    "change_pct": 0.35
+  },
+  "DNLI": {
+   "price": 20.07,
+   "change_pct": 1.77
   },
   "DOCS": {
    "price": 32.51,
@@ -317,10 +321,6 @@
   "TMDX": {
    "price": 88.24,
    "change_pct": 27.92
-  },
-  "TMO": {
-   "price": 694.76,
-   "change_pct": 2.63
   }
  },
  "tickers": {
@@ -976,7 +976,8 @@
    "source": "Yahoo",
    "published": "2026-11-07T10:07:00+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "MRK"
    ],
    "tag": "News",
    "sectors": [
@@ -1849,6 +1850,7 @@
     "HIMS",
     "LLY",
     "MRNA",
+    "NTRA",
     "NVS"
    ],
    "tag": "News",
@@ -1961,6 +1963,21 @@
    ]
   },
   {
+   "id": "74d7ae5e94c2",
+   "headline": "Natera Q3 Results, 2029 Revenue Target Support Growth Outlook, RBC Says",
+   "summary": "Natera (NTRA) reported better-than-expected Q3 revenue and raised its 2026 guidance, reinforcing its",
+   "url": "https://finnhub.io/api/news?id=f52083c7b58359778181a85c69c3ff946b309887f98796322c582d561ad19006",
+   "source": "Yahoo",
+   "published": "2026-11-06T19:47:09+00:00",
+   "tickers": [
+    "NTRA"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "64cb72a635f7",
    "headline": "IBD Stock Of The Day Quest Diagnostics Is Bucking The Medtech Malaise",
    "summary": "Quest Diagnostics is Friday's IBD Stock Of The Day. Shares are in a buy zone, shaking off election-tied worries that have hammered healthcare.",
@@ -1969,11 +1986,27 @@
    "published": "2026-11-06T19:46:42+00:00",
    "tickers": [
     "DGX",
-    "GH"
+    "GH",
+    "NTRA"
    ],
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "18a70ada9833",
+   "headline": "Update: Natera Shares Fall After Wider-Than-Expected Q3 Loss",
+   "summary": "(Updates with the latest stock price movement in the headline and the first paragraph.) Natera (N",
+   "url": "https://finnhub.io/api/news?id=42038b7987ea57070e9695d4aaaebd9e9c4d9bf0768bd15a0deb2cda6469dbd9",
+   "source": "Yahoo",
+   "published": "2026-11-06T19:45:18+00:00",
+   "tickers": [
+    "NTRA"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -2510,6 +2543,21 @@
    ]
   },
   {
+   "id": "5152ab932e7b",
+   "headline": "Natera promotes Solomon Moshkevich to CEO",
+   "summary": "The CEO change was unexpected and prompted a stock selloff Friday, analysts said, but the new chief executive is prepared for the role.",
+   "url": "https://finnhub.io/api/news?id=3322657fae5237bd3edeb8483f86dde33e9259011d10b7291520250124fbdf54",
+   "source": "Yahoo",
+   "published": "2026-11-06T17:46:12+00:00",
+   "tickers": [
+    "NTRA"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "6b4f5efdf346",
    "headline": "Doximity, Inc. (DOCS) Q2 2027 Earnings Call Transcript",
    "summary": "Doximity, Inc. (DOCS) Q2 2027 Earnings Call November 5, 2026 5:00 PM ESTCompany ParticipantsPerry Gold - Head of Investor RelationsJeffrey Tangney -...",
@@ -2898,6 +2946,21 @@
    ]
   },
   {
+   "id": "b17d1451669e",
+   "headline": "Natera Stocks Slide 15.07% After Wider Loss and Sudden CEO Change",
+   "summary": "Revenue jumped 34% and guidance rose, but Steve Chapman stepped down as CEO effective immediately.",
+   "url": "https://finnhub.io/api/news?id=b42f74771ca37e90b907abd400def6c412a9a30e3b606f09d1fbb081b0eb1eb8",
+   "source": "Yahoo",
+   "published": "2026-11-06T17:12:39+00:00",
+   "tickers": [
+    "NTRA"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "97c9136b9462",
    "headline": "Merck Stock Shows Sustained Strength: Time to Buy, Sell or Hold?",
    "summary": "MRK's growth momentum faces patent and competitive risks as Keytruda demand and new launches support growth.",
@@ -2928,6 +2991,21 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "58981a76e18d",
+   "headline": "Natera (NTRA) Q3 2026 Earnings Call Transcript",
+   "summary": "Natera's new CEO outlines a path to double revenue by 2029",
+   "url": "https://finnhub.io/api/news?id=5dc4e748f1e0dbb241dc9e0560b3adc654631f497b4b5d18e9670c44dda0c7e4",
+   "source": "Yahoo",
+   "published": "2026-11-06T17:05:16+00:00",
+   "tickers": [
+    "NTRA"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -3582,6 +3660,21 @@
    "sectors": []
   },
   {
+   "id": "7072ccba7d0d",
+   "headline": "Should Earnings Beat Require Action From Denali Therapeutics Stock Investors?",
+   "summary": "Denali Therapeutics reported Q3 2026 AVLAYAH revenue of US$17.8 million, total net income of US$70.1 million, and issued Q4 product revenue guidance of US$30 million to US$32 million. The shift from a net loss a year ago to profitability\u2026",
+   "url": "https://finnhub.io/api/news?id=024ff7c056ae2f7b00d713a076cef5c1bb823aaad4cbd254fc83081a0006f30d",
+   "source": "Yahoo",
+   "published": "2026-11-06T15:17:04+00:00",
+   "tickers": [
+    "DNLI"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "ff0a9ef6753a",
    "headline": "Johnson & Johnson (JNJ) Wins FDA Nod For First Dual Targeted Head And Neck Therapy",
    "summary": "Johnson & Johnson (NYSE: JNJ) received FDA accelerated approval for RYBREVANT FASPRO in advanced head and neck squamous cell carcinoma. The therapy is described as the first dual targeted treatment option for this cancer type and is\u2026",
@@ -4020,7 +4113,8 @@
    "source": "Yahoo",
    "published": "2026-11-06T14:33:45+00:00",
    "tickers": [
-    "GH"
+    "GH",
+    "NTRA"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -5861,6 +5955,21 @@
    ]
   },
   {
+   "id": "51e72f075b0e",
+   "headline": "What Natera (NTRA) Said on Its Q3 Earnings Call",
+   "summary": "Natera (NASDAQ:NTRA) raised its full-year revenue forecast after reporting a 34% increase in third-quarter revenue, as demand for its cancer-monitoring tests grew and the company announced a change in leadership. Steve Chapman is stepping\u2026",
+   "url": "https://finnhub.io/api/news?id=ea2ba0587058e719b22fe42c7e2558516cdaad6d7ca91ce517ab1b2482997ac1",
+   "source": "Yahoo",
+   "published": "2026-11-06T10:14:45+00:00",
+   "tickers": [
+    "NTRA"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "df00f3d299fe",
    "headline": "This Centrus Energy Analyst Turns Bullish; Here Are Top 5 Upgrades For Friday",
    "summary": "Analysts upgraded Centrus Energy, SiTime, MGE Energy, Steven Madden and Becton Dickinson, with new or higher price targets.",
@@ -6812,6 +6921,21 @@
    ]
   },
   {
+   "id": "ae412fe30363",
+   "headline": "Natera Inc (NTRA) Q3 2026 Earnings Call Highlights: Revenue Jumps 34% as Guidance Raised Above ...",
+   "summary": "Natera Inc (NTRA) posted record test volumes and 56% growth in clinical MRD units, prompting a $140 million midpoint guidance hike and a bold $6 billion revenue target for 2029.",
+   "url": "https://finnhub.io/api/news?id=b5256262be98119a30178f3a364ef3b8973155b3a4a10ba3d9631727259d4eed",
+   "source": "Yahoo",
+   "published": "2026-11-06T05:27:28+00:00",
+   "tickers": [
+    "NTRA"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "ef2a27c8538a",
    "headline": "Guardant Health Inc (GH) (Q3 2026) Earnings Call Highlights: Revenue Surges 36% as Shield ...",
    "summary": "Guardant Health Inc (GH) posted $361 million in Q3 2026 revenue, driven by explosive Shield adoption and oncology volume growth, while raising full-year guidance to $1.36-$1.37 billion.",
@@ -7610,6 +7734,21 @@
    "tag": "Earnings",
    "sectors": [
     "healthit"
+   ]
+  },
+  {
+   "id": "1103caf06b04",
+   "headline": "Natera (NTRA) Reports Q3 Loss, Beats Revenue Estimates",
+   "summary": "Natera (NTRA) delivered earnings and revenue surprises of -129.41% and +13.04%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=e89a724f6b2abe4597db6db8ca278ef3c965bb7d38c4b6eff0d937b0f337b08a",
+   "source": "Yahoo",
+   "published": "2026-11-06T00:00:18+00:00",
+   "tickers": [
+    "NTRA"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -70674,175 +70813,6 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
-  },
-  {
-   "id": "fdc68e545336",
-   "headline": "GSK predicts \u2018some limited impact\u2019 to UK roles as restructuring rolls on",
-   "summary": "GSK\u2019s global restructuring plan is likely to see \u201csome limited impact\u201d to roles on the Big Pharma\u2019s home turf of the U.K., executives have confirmed.",
-   "url": "https://www.fiercepharma.com/biotech/gsk-predicts-some-limited-impact-uk-roles-restructuring-rolls",
-   "source": "Fierce Pharma",
-   "published": "2026-10-28T12:00:29.819491+00:00",
-   "tickers": [
-    "GSK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "47fa486fd5d7",
-   "headline": "Veeva Systems Inc. (VEEV) Is a Trending Stock: Facts to Know Before Betting on It",
-   "summary": "Veeva (VEEV) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
-   "url": "https://finnhub.io/api/news?id=030271d117c9ae2506298a4cada8590facc463321160b0f358358a4e3178a596",
-   "source": "Yahoo",
-   "published": "2026-10-28T12:00:04+00:00",
-   "tickers": [
-    "VEEV"
-   ],
-   "tag": "News",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "0751f5042487",
-   "headline": "Here is What to Know Beyond Why Vertex Pharmaceuticals Incorporated (VRTX) is a Trending Stock",
-   "summary": "Recently, Zacks.com users have been paying close attention to Vertex (VRTX). This makes it worthwhile to examine what the stock has in store.",
-   "url": "https://finnhub.io/api/news?id=65a6960f37f236c3fe48f46f49aeb35665c8e827b9cbaffca2766fd554caa764",
-   "source": "Yahoo",
-   "published": "2026-10-28T12:00:03+00:00",
-   "tickers": [
-    "VRTX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "7accc02ed83a",
-   "headline": "Waters Launches AI-Powered Peak Integration Expanding its Suite of Premium AI Subscription Capabilities for Empower Software",
-   "summary": "Waters Corporation (NYSE: WAT) today announced AI-Powered Peak Integration, the next step in its strategy to build intelligent AI, machine learning, and automation cloud-based capabilities directly into Empower Software, the\u2026",
-   "url": "https://finnhub.io/api/news?id=bd2b8f10f776721595a8d1cf58de4dbe08eb9835bfcc493d0d3b4206e5b56833",
-   "source": "Yahoo",
-   "published": "2026-10-28T12:00:00+00:00",
-   "tickers": [
-    "WAT"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "5357c63fe02f",
-   "headline": "The Countdown Is On: BOTOX\u00ae Cosmetic (onabotulinumtoxinA) Day is Back Nov. 18",
-   "summary": "Allergan Aesthetics, an AbbVie company (NYSE: ABBV), today announced the return of BOTOX\u00ae Cosmetic Day on Wednesday, Nov. 18, 2026. Now in its eighth year, BOTOX\u00ae Cosmetic Day invites new and existing patients to book a comprehensive\u2026",
-   "url": "https://finnhub.io/api/news?id=41bcd64067cb15420ec809dfce3adfefc91089efed47202da39c46840655bc78",
-   "source": "Yahoo",
-   "published": "2026-10-28T12:00:00+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "f04ed71f64cb",
-   "headline": "Dexcom G7 15 Day Continuous Glucose Monitoring System to Launch in Canada in November",
-   "summary": "BURNABY, British Columbia, October 28, 2026--DexCom, Inc. (NASDAQ: DXCM), the global leader in glucose biosensing, announced today that the Dexcom G7 15 Day Continuous Glucose Monitoring System (CGM) will be available in Canada beginning\u2026",
-   "url": "https://finnhub.io/api/news?id=c6cad9376d1b83d5bc6190146a292919c2f581b13711c81f16ce7ec521968bc2",
-   "source": "Yahoo",
-   "published": "2026-10-28T12:00:00+00:00",
-   "tickers": [
-    "DXCM"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "f8678261255d",
-   "headline": "AstraZeneca and Mark-Paul Gosselaar Launch Meet Your Mark to Raise Awareness of Cancer Biomarker Testing",
-   "summary": "WILMINGTON, Del., October 28, 2026--AstraZeneca today announced the launch of Meet Your Mark, a new public health campaign featuring actor Mark-Paul Gosselaar. The campaign encourages people to ask about biomarker testing if they or a\u2026",
-   "url": "https://finnhub.io/api/news?id=9d10105bd3b19bb816826da39c4ac46db086042d87817af98d98817e6a56db25",
-   "source": "Yahoo",
-   "published": "2026-10-28T12:00:00+00:00",
-   "tickers": [
-    "AZN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "259ca7ed075a",
-   "headline": "Twist Bioscience Expands High-Throughput Antibody Characterization with Launch of Express Screening Antibodies",
-   "summary": "SOUTH SAN FRANCISCO, Calif., October 28, 2026--Twist Bioscience Corporation (NASDAQ: TWST), a mid-cap growth and value biotech company, today expanded its antibody production and characterization portfolio with the launch of Twist Express\u2026",
-   "url": "https://finnhub.io/api/news?id=336d2d24b6661fa89c06bd5ead7b4576380e7bcd20d50d3f189004c27d0662b9",
-   "source": "Yahoo",
-   "published": "2026-10-28T12:00:00+00:00",
-   "tickers": [
-    "TWST"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "35aa9abd6435",
-   "headline": "Here Are Wednesday\u2019s Top Wall Street Analyst Research Calls: Enphase Energy, F5, Marvell Technology, MSG Rangers, Pentair, Silicon Motion Technology, Spotify Technology, Texas Instruments, Whirlpool, and More",
-   "summary": "With the Fed rate decision dropping at 2:30 PM and Alphabet and Microsoft reporting before the bell, Wednesday's analyst calls on Enphase, Spotify, Whirlpool, and a newly public Rangers franchise land at a pivotal moment for markets.",
-   "url": "https://finnhub.io/api/news?id=f47bf401b08dff5fab54593a8b36e9bc6edfde68b742aed40e25ab253122dd19",
-   "source": "Yahoo",
-   "published": "2026-10-28T11:58:12+00:00",
-   "tickers": [
-    "QGEN"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "2a77997dc1c2",
-   "headline": "Can You Still Buy Tempus AI Stock Today?",
-   "summary": "For questions about this article or underlying research, email help@trefis.com.",
-   "url": "https://finnhub.io/api/news?id=5a430af63baf9127ef70efa8cb6322ac104b052dc82af92d5187fd12223bd40d",
-   "source": "Yahoo",
-   "published": "2026-10-28T11:56:06+00:00",
-   "tickers": [
-    "GH",
-    "ILMN",
-    "IQV",
-    "NTRA",
-    "TEM"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "0474f5480b9a",
-   "headline": "Biogen (NASDAQ:BIIB) delivers impressive Q3 2026",
-   "summary": "Biotech company Biogen (NASDAQ:BIIB) announced better-than-expected revenue in Q3 2026, with revenue up 10.6% year on year to $2.80 billion. Its non-GAAP profit of $2.62 per share was 32.5% above analysts\u2019 consensus estimates.",
-   "url": "https://finnhub.io/api/news?id=c9f1f0c65d832b0c1eee004a85a679e6e18b4ce44f8f13719a96bf346b5c887e",
-   "source": "Yahoo",
-   "published": "2026-10-28T11:54:52+00:00",
-   "tickers": [
-    "BIIB"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
   }
  ]
 }
