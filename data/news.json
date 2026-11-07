@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-07T12:02:39.445083+00:00",
+ "updated": "2026-11-07T12:17:43.325128+00:00",
  "quotes": {
   "A": {
    "price": 174.76,
@@ -38,6 +38,10 @@
    "price": 11.91,
    "change_pct": -1.65
   },
+  "ARGX": {
+   "price": 927.21,
+   "change_pct": 3.63
+  },
   "ASND": {
    "price": 256.82,
    "change_pct": 1.33
@@ -61,6 +65,10 @@
   "BMY": {
    "price": 62.14,
    "change_pct": -1.57
+  },
+  "BNTX": {
+   "price": 87.51,
+   "change_pct": 1.92
   },
   "BRKR": {
    "price": 61.31,
@@ -313,14 +321,6 @@
   "TGTX": {
    "price": 59.83,
    "change_pct": 3.18
-  },
-  "THC": {
-   "price": 283.33,
-   "change_pct": -1.09
-  },
-  "TMDX": {
-   "price": 88.24,
-   "change_pct": 27.92
   }
  },
  "tickers": {
@@ -945,6 +945,7 @@
    "source": "Yahoo",
    "published": "2026-11-07T10:09:08+00:00",
    "tickers": [
+    "CI",
     "CVS",
     "ELV"
    ],
@@ -961,7 +962,8 @@
    "source": "Yahoo",
    "published": "2026-11-07T10:09:00+00:00",
    "tickers": [
-    "ISRG"
+    "ISRG",
+    "MDT"
    ],
    "tag": "News",
    "sectors": [
@@ -976,6 +978,7 @@
    "source": "Yahoo",
    "published": "2026-11-07T10:07:00+00:00",
    "tickers": [
+    "ABBV",
     "LLY",
     "MRK"
    ],
@@ -992,7 +995,8 @@
    "source": "Yahoo",
    "published": "2026-11-07T10:06:53+00:00",
    "tickers": [
-    "BDX"
+    "BDX",
+    "MDT"
    ],
    "tag": "News",
    "sectors": [
@@ -1076,6 +1080,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "63d65b66b79f",
+   "headline": "He went from washing lab equipment for $10 an hour to leading a $30 billion healthcare company. His advice to Gen Z: Raise your hand",
+   "summary": "Dexcom CEO Jake Leach says the secret to getting ahead isn't asking for a promotion\u2014it's becoming the person willing to take on what others won't.",
+   "url": "https://finnhub.io/api/news?id=c7ceae831a6e6ed14b71f9589dca221a799b736ab7c051b87300124fa9de4541",
+   "source": "Yahoo",
+   "published": "2026-11-07T09:00:00+00:00",
+   "tickers": [
+    "DXCM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -3338,6 +3357,7 @@
    "source": "Yahoo",
    "published": "2026-11-06T16:05:54+00:00",
    "tickers": [
+    "BNTX",
     "MRK",
     "MRNA",
     "PFE"
@@ -3417,6 +3437,7 @@
    "source": "Yahoo",
    "published": "2026-11-06T15:58:00+00:00",
    "tickers": [
+    "ARGX",
     "HALO",
     "JNJ"
    ],
@@ -4696,6 +4717,21 @@
    "tag": "News",
    "sectors": [
     "pharmacy"
+   ]
+  },
+  {
+   "id": "c7eb0253c562",
+   "headline": "Health Catalyst Inc (HCAT) (Q3 2026) Earnings Call Highlights: Revenue and EBITDA Beat Guidance ...",
+   "summary": "Health Catalyst Inc (HCAT) exceeded Q3 2026 guidance on revenue and adjusted EBITDA, reaffirmed its full-year outlook, and outlined a four-point plan to tackle churn and simplify operations.",
+   "url": "https://finnhub.io/api/news?id=0c8c011d8610405ec46af74280910a3cb106457f24cdadecc06dd40a050cc3c3",
+   "source": "Yahoo",
+   "published": "2026-11-06T13:14:18+00:00",
+   "tickers": [
+    "HCAT"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthai"
    ]
   },
   {
@@ -70566,253 +70602,6 @@
    "sectors": [
     "pharma"
    ]
-  },
-  {
-   "id": "c7056699d26c",
-   "headline": "Eversana combines forces with UK-based AI health economics research firm Estima in acquisition",
-   "summary": "Estima's AI and automation capabilities for health economics and outcomes research will help Eversana further leverage the \"technology-first solutions\" infused into its platform.",
-   "url": "https://www.fiercepharma.com/marketing/eversana-combines-forces-uk-based-ai-health-economics-research-firm-estima-acquistion",
-   "source": "Fierce Pharma",
-   "published": "2026-10-28T12:15:22.577615+00:00",
-   "tickers": [],
-   "tag": "M&A",
-   "sectors": []
-  },
-  {
-   "id": "c8acb29b8687",
-   "headline": "CVS Q3 Preview: Accelerating Growth, Near 3% Yield, Meaningful Upside Long-Term",
-   "summary": "CVS Health\u00e2\u0080\u0099s turnaround gains steam with stronger earnings, higher guidance, and dividend safety. Click for more on CVS stock.",
-   "url": "https://finnhub.io/api/news?id=5927c2c997e335c10a9d27f2748c3451e6517ad922f72354b6ba5b9452de7d71",
-   "source": "SeekingAlpha",
-   "published": "2026-10-28T12:15:17+00:00",
-   "tickers": [
-    "CI",
-    "CVS",
-    "HUM",
-    "UNH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "8a729bd13f94",
-   "headline": "Ahead of Vertex (VRTX) Q3 Earnings: Get Ready With Wall Street Estimates for Key Metrics",
-   "summary": "Evaluate the expected performance of Vertex (VRTX) for the quarter ended September 2026, looking beyond the conventional Wall Street top-and-bottom-line estimates and examining some of its key metrics for better insight.",
-   "url": "https://finnhub.io/api/news?id=30fcf96a1dba883e8fdada66504c27cb9ed6f7172330bd4b02d36ea375f40191",
-   "source": "Yahoo",
-   "published": "2026-10-28T12:15:07+00:00",
-   "tickers": [
-    "VRTX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "d3a87f40880f",
-   "headline": "Unlocking Q1 Potential of ResMed (RMD): Exploring Wall Street Estimates for Key Metrics",
-   "summary": "Looking beyond Wall Street's top-and-bottom-line estimate forecasts for ResMed (RMD), delve into some of its key metrics to gain a deeper insight into the company's potential performance for the quarter ended September 2026.",
-   "url": "https://finnhub.io/api/news?id=a27a1ad9f094d9c226f745979aea5e2560b2d05bbf9ee3d1f01938609351f89b",
-   "source": "Yahoo",
-   "published": "2026-10-28T12:15:07+00:00",
-   "tickers": [
-    "RMD"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "862941c38c67",
-   "headline": "Alnylam (ALNY) Q3 Earnings on the Horizon: Analysts' Insights on Key Performance Measures",
-   "summary": "Get a deeper insight into the potential performance of Alnylam (ALNY) for the quarter ended September 2026 by going beyond Wall Street's top-and-bottom-line estimates and examining the estimates for some of its key metrics.",
-   "url": "https://finnhub.io/api/news?id=b099c663fb8590af53f2585259a0f1fdd57c2588bdab51fd3dd041e63f837dc1",
-   "source": "Yahoo",
-   "published": "2026-10-28T12:15:06+00:00",
-   "tickers": [
-    "ALNY"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "533ddb07325e",
-   "headline": "Gear Up for Idexx (IDXX) Q3 Earnings: Wall Street Estimates for Key Metrics",
-   "summary": "Get a deeper insight into the potential performance of Idexx (IDXX) for the quarter ended September 2026 by going beyond Wall Street's top-and-bottom-line estimates and examining the estimates for some of its key metrics.",
-   "url": "https://finnhub.io/api/news?id=42d71562daba379e83ccce2c42ff07fed9325d8832e37ea39da17fb370fed9ab",
-   "source": "Yahoo",
-   "published": "2026-10-28T12:15:03+00:00",
-   "tickers": [
-    "IDXX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "e670e94da8ba",
-   "headline": "Illumina (ILMN) Q3 Earnings on the Horizon: Analysts' Insights on Key Performance Measures",
-   "summary": "Evaluate the expected performance of Illumina (ILMN) for the quarter ended September 2026, looking beyond the conventional Wall Street top-and-bottom-line estimates and examining some of its key metrics for better insight.",
-   "url": "https://finnhub.io/api/news?id=e7ee1f6017ac61a15d2e635d5f0d45417e42107a29efa49262a33f4049912e86",
-   "source": "Yahoo",
-   "published": "2026-10-28T12:15:02+00:00",
-   "tickers": [
-    "ILMN"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "9cb3d3329386",
-   "headline": "3 Big Pharma Earnings Reports to Watch: Eli Lilly, Merck and Gilead",
-   "summary": "Eli Lilly's EPS estimate collapsed by a third in just 30 days, Merck faces a comparison it cannot repeat, and Gilead is burning through cash fast. Three pharma giants report Thursday, and the results could reshape the sector's outlook for\u2026",
-   "url": "https://finnhub.io/api/news?id=d212018dc638d9e9924a219752879e88400a37d47468dae957e7f098ebe14c3e",
-   "source": "Yahoo",
-   "published": "2026-10-28T12:14:59+00:00",
-   "tickers": [
-    "GILD",
-    "LLY",
-    "MRK",
-    "MRNA"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "9a17ba5a485b",
-   "headline": "What Biogen Doubters Overlooked",
-   "summary": "If Biogen sat on your watchlist instead of in your portfolio over the past year, the result may feel like a missed shot. Investors who held Biogen over the past year are up 69.5%, including dividends. That outcome sits against a backdrop\u2026",
-   "url": "https://finnhub.io/api/news?id=37dbfb4e6b1e3661246a09d898a581825e6492934194bfc57b2d868b43fc5dd5",
-   "source": "Yahoo",
-   "published": "2026-10-28T12:13:18+00:00",
-   "tickers": [
-    "BIIB"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "810b24e29129",
-   "headline": "Natera (NTRA) Posts Stronger Signatera Data, Is The Stock Fully Priced?",
-   "summary": "Natera (NTRA) is back in focus after new data from the ESMO Congress 2026 linked its Signatera platform to event-free survival across several cancer settings, alongside stronger reported results and fresh regulatory milestones. Natera\u2019s\u2026",
-   "url": "https://finnhub.io/api/news?id=09aa39aaa98c25726832f5102d1d7b364b854b279ac57b22c31e1e6e6ebf8173",
-   "source": "Yahoo",
-   "published": "2026-10-28T12:11:42+00:00",
-   "tickers": [
-    "NTRA"
-   ],
-   "tag": "Policy",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "c3c5a0880d3b",
-   "headline": "2 Reasons Why GE HealthCare Stock Is Climbing After Earnings",
-   "summary": "GE HealthCare points to broad-based growth across all three of its business divisions as its raises annual guidance.",
-   "url": "https://finnhub.io/api/news?id=b3192e7e54e1c45104556e5658544dda2b26e17377c29b1e32208231cfbd2a27",
-   "source": "Yahoo",
-   "published": "2026-10-28T12:08:00+00:00",
-   "tickers": [
-    "GEHC"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "c1d2f05e06c9",
-   "headline": "Barclays Maintains Overweight on Veeva Systems, Raises Price Target to $375",
-   "summary": "Barclays analyst Saket Kalia maintains Veeva Systems (NYSE:VEEV) with a Overweight and raises the price target from $360 to $375.",
-   "url": "https://finnhub.io/api/news?id=4700ce91d7fbf1f06cd0ef10e8470070bdb7ae99c92f6c08b8a151026963510e",
-   "source": "Benzinga",
-   "published": "2026-10-28T12:07:46+00:00",
-   "tickers": [
-    "VEEV"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "22c0f1a6ca7d",
-   "headline": "RBC Capital Maintains Outperform on Repligen, Raises Price Target to $200",
-   "summary": "RBC Capital analyst Dan Leonard maintains Repligen (NASDAQ:RGEN) with a Outperform and raises the price target from $185 to $200.",
-   "url": "https://finnhub.io/api/news?id=9f17ff2d883a6de70628aacb97f6ad9fb9a973de7759114beec7a71e0cff4d80",
-   "source": "Benzinga",
-   "published": "2026-10-28T12:04:54+00:00",
-   "tickers": [
-    "RGEN"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "90c8ddae45a2",
-   "headline": "Why Should Pfizer Stock Holders Watch This One Number?",
-   "summary": "For questions about this article or underlying research, email help@trefis.com.",
-   "url": "https://finnhub.io/api/news?id=f1358d3bf502ccdafc05b0ec6d08ad1bdc361b0d48ad092eb0c94f7b4ba4c0e3",
-   "source": "Yahoo",
-   "published": "2026-10-28T12:01:22+00:00",
-   "tickers": [
-    "ABBV",
-    "BMY",
-    "JNJ",
-    "LLY",
-    "MRK",
-    "PFE"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "8102b1d1cdf4",
-   "headline": "What Would Slower New Drug Sales Do To Vertex Stock?",
-   "summary": "For questions about this article or underlying research, email help@trefis.com.",
-   "url": "https://finnhub.io/api/news?id=c10e8d8b8dc6064c86848c03fc02a1f9204b3b28e4bf018d6f26368bc391a9a5",
-   "source": "Yahoo",
-   "published": "2026-10-28T12:01:20+00:00",
-   "tickers": [
-    "ALNY",
-    "BMRN",
-    "INCY",
-    "REGN",
-    "VRTX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "4e39ba16ca21",
-   "headline": "What has actually caused the decline in drug overdose deaths?",
-   "summary": "After years of steep increases, especially amid the pandemic, U.S. overdose deaths decreased 27% in 2024, and preliminary data from 2025 show another meaningful drop.",
-   "url": "https://www.statnews.com/2026/10/28/health-news-why-are-overdose-deaths-declining/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-10-28T12:01:13+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
   }
  ]
 }
