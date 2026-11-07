@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-07T20:47:10.200109+00:00",
+ "updated": "2026-11-07T21:02:09.502077+00:00",
  "quotes": {
   "ABBV": {
    "price": 291.31,
@@ -97,10 +97,6 @@
   "GMED": {
    "price": 71.05,
    "change_pct": -12.76
-  },
-  "HALO": {
-   "price": 103.63,
-   "change_pct": -15.72
   },
   "HCA": {
    "price": 494.99,
@@ -873,6 +869,21 @@
    ]
   },
   {
+   "id": "4372e29afaa3",
+   "headline": "Eli Lilly Just Raised Its 2026 Revenue Forecast by $5.5 Billion. Is the Stock Still a Buy?",
+   "summary": "The stock is expensive, but the potential market for GLP-1 drugs is likely much larger than forecast.",
+   "url": "https://finnhub.io/api/news?id=93af364d8de0b73e914b73a21a7582bc4f7a6407c19cdd1f80a9f328fedfbd77",
+   "source": "Yahoo",
+   "published": "2026-11-07T18:50:00+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "93bc442f14f8",
    "headline": "Mark Cuban slams CVS's split into two companies as a shareholder play that 'changes nothing' for patients",
    "summary": "Big healthcare is getting in the way of lower consumer medical costs.",
@@ -885,6 +896,22 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "e88a235a9e23",
+   "headline": "Hims & Hers Stock After Lilly Weight Loss Drug Deal Has The Bull Case Changed?",
+   "summary": "Eli Lilly and Company announced an agreement with Hims & Hers Health to offer FDA-approved obesity drugs Zepbound and Foundayo on the Hims & Hers platform, giving eligible telehealth patients access to Lilly\u2019s self-pay prices without\u2026",
+   "url": "https://finnhub.io/api/news?id=c67881c94d9aeb8b5d28637fff7ac634380671c694cb05cec2196b8679e30759",
+   "source": "Yahoo",
+   "published": "2026-11-07T18:13:07+00:00",
+   "tickers": [
+    "HIMS",
+    "LLY"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -67818,92 +67845,6 @@
    "tag": "M&A",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "386016aabbbf",
-   "headline": "Teladoc (TDOC) Q3 Earnings: Taking a Look at Key Metrics Versus Estimates",
-   "summary": "The headline numbers for Teladoc (TDOC) give insight into how the company performed in the quarter ended September 2026, but it may be worthwhile to compare some of its key metrics to Wall Street estimates and the year-ago actuals.",
-   "url": "https://finnhub.io/api/news?id=e89fa81f41d1416887db15530ddc882d3182f5aa9fa3f25e39342761dd535705",
-   "source": "Yahoo",
-   "published": "2026-10-28T21:00:04+00:00",
-   "tickers": [
-    "TDOC"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "6f3f2042af9d",
-   "headline": "Stock Market Today: Dow, Nasdaq Rise After No Fed Rate Hike; Labcorp Blasts Off",
-   "summary": "The Dow Jones index trimmed its gain Wednesday after the Fed held its key interest rate steady. Robinhood slid on earnings.",
-   "url": "https://finnhub.io/api/news?id=b0ab86add5650181134e0f7ad6dfbbcb589e9d55ce1604c623c9242dfd823884",
-   "source": "Yahoo",
-   "published": "2026-10-28T20:59:51+00:00",
-   "tickers": [
-    "LH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "adfae3dd4bd5",
-   "headline": "Glaukos: Q3 Earnings Snapshot",
-   "summary": "(GKOS) on Wednesday reported third-quarter net income of $2 million.On a per-share basis, the Aliso Viejo, California-based company said it had net income of 3 cents.",
-   "url": "https://finnhub.io/api/news?id=85381b1809ddb48dbc3aa273e5c4d0564b5a1cc76726213201316472c6a7064f",
-   "source": "Yahoo",
-   "published": "2026-10-28T20:58:39+00:00",
-   "tickers": [
-    "GKOS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "022a83b4308e",
-   "headline": "AxoGen, Inc. Q3 2026 Earnings Call Summary",
-   "summary": "Moby summary of AxoGen, Inc.'s Q3 2026 earnings call",
-   "url": "https://finnhub.io/api/news?id=eb32d4f86fcb3abb98818528224eba1afee138e4562d7651296477cc2b8dce9a",
-   "source": "Yahoo",
-   "published": "2026-10-28T20:52:47+00:00",
-   "tickers": [
-    "ELV"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "66c06207b59c",
-   "headline": "STAT+: Lawmaker wants government watchdog to probe TrumpRx over claims about drug savings",
-   "summary": "A House lawmaker asked the Government Accountability Office to review whether the TrumpRx platform has saved Americans any money.",
-   "url": "https://www.statnews.com/pharmalot/2026/10/28/lawmaker-wants-gao-probe-trumprx-drug-pricing/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-10-28T20:51:12+00:00",
-   "tickers": [],
-   "tag": "Legal",
-   "sectors": []
-  },
-  {
-   "id": "5d4888d7a870",
-   "headline": "Viking Therapeutics, Inc. (VKTX) Q3 2026 Earnings Call Transcript",
-   "summary": "Viking Therapeutics, Inc. (VKTX) Q3 2026 Earnings Call October 28, 2026 4:30 PM EDTCompany ParticipantsBrian Lian - President, CEO & DirectorGregory...",
-   "url": "https://finnhub.io/api/news?id=8a43330c6db4dc70a949cbaa121722a8e23f674021c4fff29dc671be0be37273",
-   "source": "SeekingAlpha",
-   "published": "2026-10-28T20:50:11+00:00",
-   "tickers": [
-    "VKTX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
    ]
   }
  ]
