@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-07T11:32:32.026827+00:00",
+ "updated": "2026-11-07T11:47:31.344722+00:00",
  "quotes": {
   "A": {
    "price": 174.76,
@@ -182,6 +182,10 @@
    "price": 676.04,
    "change_pct": 0.79
   },
+  "INSM": {
+   "price": 114.41,
+   "change_pct": 5.19
+  },
   "IONS": {
    "price": 39.42,
    "change_pct": 1.6
@@ -317,10 +321,6 @@
   "TMO": {
    "price": 694.76,
    "change_pct": 2.63
-  },
-  "TXG": {
-   "price": 59.28,
-   "change_pct": 2.1
   }
  },
  "tickers": {
@@ -954,6 +954,21 @@
    ]
   },
   {
+   "id": "a7de828a18b7",
+   "headline": "Is Intuitive Surgical's Next Big Thing Already Here?",
+   "summary": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://finnhub.io/api/news?id=565abe922a38cf0e4ae1f621d5a6ec89e9641576353b2458fb817ef6d5c97fc6",
+   "source": "Yahoo",
+   "published": "2026-11-07T10:09:00+00:00",
+   "tickers": [
+    "ISRG"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "96f8280fb286",
    "headline": "What Could Stall AbbVie Stock's Run?",
    "summary": "For questions about this article or underlying research, email help@trefis.com.",
@@ -1108,6 +1123,21 @@
    ]
   },
   {
+   "id": "ee6d4223a7d0",
+   "headline": "Insmed: A Blockbuster Launch, Priced Ahead Of Its Own Guidance",
+   "summary": "",
+   "url": "https://finnhub.io/api/news?id=e9c5d7a39305eaad4f00c949d6410a9eb668d9f1f48482054a0d989c3b4faa47",
+   "source": "SeekingAlpha",
+   "published": "2026-11-07T05:43:48+00:00",
+   "tickers": [
+    "INSM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "da517104d4c0",
    "headline": "69 Dividend Champions Ranked By Quality Scores (November 2026)",
    "summary": "Explore 69 Dividend Champions ranked by quality, safety, and value.",
@@ -1115,6 +1145,8 @@
    "source": "SeekingAlpha",
    "published": "2026-11-07T05:35:27+00:00",
    "tickers": [
+    "ABT",
+    "CAH",
     "SNY",
     "SYK"
    ],
@@ -70810,77 +70842,6 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "81ecc92c4bc6",
-   "headline": "A look at how employers are approaching AI-enabled benefits solutions",
-   "summary": "Most employers are weighing the potential of AI-enabled benefits programs and how best to offer them to workers, according to a new survey.",
-   "url": "https://www.fiercehealthcare.com/payers/look-how-employers-are-approaching-ai-enabled-benefits-solutions",
-   "source": "Fierce Healthcare",
-   "published": "2026-10-28T11:45:24.982222+00:00",
-   "tickers": [],
-   "tag": "Health AI",
-   "sectors": []
-  },
-  {
-   "id": "c47be0ace133",
-   "headline": "GSK\u2019s Specialty Drugs Grow by Double Digits While Vaccines Slip in a Q3 Beat",
-   "summary": "GSK beat Q3 analyst consensus with $1.47 adjusted EPS and $11.95 billion revenue, as specialty drugs offset vaccine drops. 2026 outlook reaffirmed.",
-   "url": "https://finnhub.io/api/news?id=008dfba82d199c3d375f87412ee5a8aedb5987d8bbcc5bc22ed062fce48db835",
-   "source": "Benzinga",
-   "published": "2026-10-28T11:45:12+00:00",
-   "tickers": [
-    "GSK"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "c371cf4fac94",
-   "headline": "Labcorp Holdings (LH) Q3 Earnings and Revenues Surpass Estimates",
-   "summary": "Labcorp (LH) delivered earnings and revenue surprises of +2.80% and +1.13%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
-   "url": "https://finnhub.io/api/news?id=24dcdaa0821f9ca07dc83634ffa633a688ffe9c7be3b052a723eda042642aa63",
-   "source": "Yahoo",
-   "published": "2026-10-28T11:35:05+00:00",
-   "tickers": [
-    "LH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "0fe7a8b09442",
-   "headline": "AxoGen (AXGN) Beats Q3 Earnings and Revenue Estimates",
-   "summary": "AxoGen (AXGN) delivered earnings and revenue surprises of +50.00% and +4.17%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
-   "url": "https://finnhub.io/api/news?id=92027d2983d17d47ddd6098b99f42fee4d55f512d8738a63f6d607c9ac1db9d1",
-   "source": "Yahoo",
-   "published": "2026-10-28T11:35:03+00:00",
-   "tickers": [
-    "DXCM"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "9559cd78f6fe",
-   "headline": "U.S. Department Of Health And Human Services Announces Availability Of Enforcement Discretion Policy Regarding 503a Compounding Using Certain Peptide Bulk Drug Substances; Will Not Enforce Against Pharmacies, Federal Facilities Or Physicians Compounding Drugs Using Peptide Bulk Substances Pending Rulemaking; Interim Policy Permits Peptide Compounding Pending Final Rulemaking On 503a Bulk Drug Substances List",
-   "summary": "https://www.federalregister.gov/public-inspection/2026-22192/enforcement-discretion-policy-regarding-503a-compounding-using-certain-peptide-bulk-drug-substances",
-   "url": "https://finnhub.io/api/news?id=e9c9600cb323921097338c53444404ce395a17512b1b472df903830994114e90",
-   "source": "Benzinga",
-   "published": "2026-10-28T11:31:59+00:00",
-   "tickers": [
-    "HIMS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "healthit"
    ]
   }
  ]
