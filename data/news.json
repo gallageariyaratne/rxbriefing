@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-07T10:47:34.153746+00:00",
+ "updated": "2026-11-07T11:02:44.733027+00:00",
  "quotes": {
   "A": {
    "price": 174.76,
@@ -33,6 +33,10 @@
   "AMGN": {
    "price": 460.42,
    "change_pct": 0.03
+  },
+  "AMWL": {
+   "price": 11.91,
+   "change_pct": -1.65
   },
   "ASND": {
    "price": 256.82,
@@ -178,6 +182,10 @@
    "price": 676.04,
    "change_pct": 0.79
   },
+  "IONS": {
+   "price": 39.42,
+   "change_pct": 1.6
+  },
   "IRTC": {
    "price": 90.22,
    "change_pct": -30.7
@@ -286,9 +294,17 @@
    "price": 17.82,
    "change_pct": 1.42
   },
+  "SYK": {
+   "price": 325.87,
+   "change_pct": -2.75
+  },
   "TDOC": {
    "price": 8.77,
    "change_pct": -6.8
+  },
+  "TGTX": {
+   "price": 59.83,
+   "change_pct": 3.18
   },
   "THC": {
    "price": 283.33,
@@ -305,22 +321,6 @@
   "TXG": {
    "price": 59.28,
    "change_pct": 2.1
-  },
-  "UNH": {
-   "price": 394.15,
-   "change_pct": -0.4
-  },
-  "UTHR": {
-   "price": 562.02,
-   "change_pct": -0.65
-  },
-  "VEEV": {
-   "price": 303.73,
-   "change_pct": -2.05
-  },
-  "VKTX": {
-   "price": 26.84,
-   "change_pct": 4.07
   }
  },
  "tickers": {
@@ -938,6 +938,36 @@
  },
  "stories": [
   {
+   "id": "48b9f4cc8211",
+   "headline": "What Did CVS Health's Quarter Change For Its Stock?",
+   "summary": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://finnhub.io/api/news?id=31ae7a6982cae0644ebffe657c1d51011ae3f241a4f6fe9428ebd13f12b2eb35",
+   "source": "Yahoo",
+   "published": "2026-11-07T10:09:08+00:00",
+   "tickers": [
+    "ELV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "96f8280fb286",
+   "headline": "What Could Stall AbbVie Stock's Run?",
+   "summary": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://finnhub.io/api/news?id=11f10ba29f90e0014f947ebb25c637d8b3064dcce70a54b8ec94d6f973dad363",
+   "source": "Yahoo",
+   "published": "2026-11-07T10:07:00+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "ec8ac211b6d7",
    "headline": "Should You Buy Globus Medical Stock For Its Cash?",
    "summary": "For questions about this article or underlying research, email help@trefis.com.",
@@ -947,7 +977,9 @@
    "tickers": [
     "GMED",
     "JNJ",
-    "MDT"
+    "MDT",
+    "SYK",
+    "ZBH"
    ],
    "tag": "News",
    "sectors": [
@@ -1060,6 +1092,22 @@
    ]
   },
   {
+   "id": "da517104d4c0",
+   "headline": "69 Dividend Champions Ranked By Quality Scores (November 2026)",
+   "summary": "Explore 69 Dividend Champions ranked by quality, safety, and value.",
+   "url": "https://finnhub.io/api/news?id=6624a58dd4f286da3f40c135b6e629ea221061ceba24a865ecdd9493a6ce51f0",
+   "source": "SeekingAlpha",
+   "published": "2026-11-07T05:35:27+00:00",
+   "tickers": [
+    "SNY",
+    "SYK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "400f9202da78",
    "headline": "Is Axsome Therapeutics (AXSM) Fully Priced Given Its Sales Growth?",
    "summary": "Axsome Therapeutics has delivered a very large 5 year share price gain, yet the stock has pulled back sharply in recent months. That mix of long term gains and recent weakness puts a simple question in front of you as an investor: is\u2026",
@@ -1148,6 +1196,21 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "2efe18a7ffff",
+   "headline": "Natera, Inc. (NTRA) Q3 2026 Earnings Call Transcript",
+   "summary": "Natera, Inc. (NTRA) Q3 2026 Earnings Call November 5, 2026 4:30 PM ESTCompany ParticipantsMike Brophy - Chief Financial OfficerSteve Chapman - CEO &...",
+   "url": "https://finnhub.io/api/news?id=7f6c370a9bd0bf11d52948c856922d74bcdf4a4edceced124a354201ec0dc701",
+   "source": "SeekingAlpha",
+   "published": "2026-11-07T04:54:33+00:00",
+   "tickers": [
+    "NTRA"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -1312,6 +1375,7 @@
    "source": "Yahoo",
    "published": "2026-11-07T00:18:24+00:00",
    "tickers": [
+    "IONS",
     "NVS"
    ],
    "tag": "News",
@@ -1638,6 +1702,21 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "f1ea3ec79f03",
+   "headline": "Amwell makes grant to new employees under inducement plan",
+   "summary": "BOSTON, Nov. 06, 2026 (GLOBE NEWSWIRE) -- Amwell\u00ae (NYSE: AMWL), a leading provider of a comprehensive SaaS-based software platform for technology-enabled healthcare, announces that on November 6, Amwell made grants of RSUs covering an\u2026",
+   "url": "https://finnhub.io/api/news?id=1fe4b505b116b57664108e57e4f87d33da7bb157ebedc8cdabdc6eba780942ca",
+   "source": "Yahoo",
+   "published": "2026-11-06T21:15:00+00:00",
+   "tickers": [
+    "AMWL"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
    ]
   },
   {
@@ -2535,7 +2614,8 @@
    "published": "2026-11-06T17:24:00+00:00",
    "tickers": [
     "NTLA",
-    "REGN"
+    "REGN",
+    "TGTX"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -3250,6 +3330,21 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "dcb703b53cef",
+   "headline": "Agenus' Q3 Earnings Match Estimates, Revenues Miss Mark, Stock Down",
+   "summary": "AGEN's Q3 earnings meet estimates, but a revenue miss weighs on shares as pipeline progress, Armenian drug approvals and new funding emerge as key developments.",
+   "url": "https://finnhub.io/api/news?id=b879f767d87f8f2e2b2da15dd4016d6579f4b91763cc2dc4adfc049a4e6d55b1",
+   "source": "Yahoo",
+   "published": "2026-11-06T15:47:00+00:00",
+   "tickers": [
+    "TGTX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -4785,7 +4880,8 @@
    "source": "Yahoo",
    "published": "2026-11-06T12:31:00+00:00",
    "tickers": [
-    "MRK"
+    "MRK",
+    "TGTX"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -71014,272 +71110,6 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
-   ]
-  },
-  {
-   "id": "2d1b987d8a1e",
-   "headline": "Cyclicals Lead Sectors In Wednesday Trading As Real Estate Trails",
-   "summary": "Four sectors are higher and seven are lower in Wednesday\u2019s regular session, with cyclical and defensive sectors split at the top of the table. The leaders are separated rather than clustered, with Health Care well ahead of the next group.",
-   "url": "https://finnhub.io/api/news?id=1e545077f01cf5239df8e0f8787ed019aaded7858ccada2624baf1f22cd6b6ea",
-   "source": "Benzinga",
-   "published": "2026-10-28T11:00:23+00:00",
-   "tickers": [
-    "JNJ",
-    "LLY",
-    "UNH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "72d7b28a9ec5",
-   "headline": "Enanta Pharmaceuticals Announces Planned Retirement of Longstanding Chief Executive Officer Jay R. Luly, Ph.D. After 23 Years of Company Leadership",
-   "summary": "WATERTOWN, Mass., October 28, 2026--Enanta Pharmaceuticals, Inc. (NASDAQ:ENTA), a clinical-stage biotechnology company dedicated to creating small molecule drugs for viral infections and immunological diseases, announces today that Jay R.\u2026",
-   "url": "https://finnhub.io/api/news?id=400e49e09f2ed8ca72a80ef211d3935c5dbd7c90ba9e6269dc54a47c8bcc59ba",
-   "source": "Yahoo",
-   "published": "2026-10-28T11:00:00+00:00",
-   "tickers": [
-    "VRTX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "b40094ffdf20",
-   "headline": "Adagene Announces Dosing of First Patient in Phase 1 Study of Muzastotug in Combination with Incyte\u2019s INCA33890 in Patients with Microsatellite Stable Colorectal Cancer",
-   "summary": "Phase 1 study to evaluate the combination of muzastotug, a masked anti-CTLA-4 SAFEbody, and INCA33890, Incyte\u2019s TGF\u03b2R2 \u00d7 PD-1 bispecific antibody, in 3L MSS CRC patients with and without liver metastases SAN DIEGO and SUZHOU, China, Oct.\u2026",
-   "url": "https://finnhub.io/api/news?id=3974cf7685cbbf2a67d9785081803b41241ff3da5cc6347917985e883bf73565",
-   "source": "Yahoo",
-   "published": "2026-10-28T11:00:00+00:00",
-   "tickers": [
-    "INCY"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "d2dce67b1bb0",
-   "headline": "Monte Rosa Therapeutics Announces Milestone Achievement Associated with Second Phase 2 Clinical Study Initiation for VAV1-directed Molecular Glue Degrader MRT-6160 (DDY391)",
-   "summary": "Phase 2 study to be conducted in participants with active moderate to severe psoriatic arthritis Novartis conducting study under global exclusive development and commercialization license agreement with Monte Rosa Monte Rosa to receive\u2026",
-   "url": "https://finnhub.io/api/news?id=2c1d8ecd60ad6470abc1250c70c3240dddc7b9f7f2d07e9fd3fb7b7b4fea3e64",
-   "source": "Yahoo",
-   "published": "2026-10-28T11:00:00+00:00",
-   "tickers": [
-    "NVS"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "963935a4d626",
-   "headline": "United Therapeutics Announces FDA Clearance to Proceed with Clinical Trial for Treprostinil-Iloprost SMI in Pulmonary Arterial Hypertension",
-   "summary": "SILVER SPRING, Md. & RESEARCH TRIANGLE PARK, N.C., October 28, 2026--United Therapeutics Corporation (Nasdaq: UTHR), a public benefit corporation, today announced that the U.S. Food and Drug Administration (FDA) has granted clearance\u2026",
-   "url": "https://finnhub.io/api/news?id=e962d5b5f9af5c7584315c9122fb0024cd86e4bd6be73decf46ae4fb67508ea9",
-   "source": "Yahoo",
-   "published": "2026-10-28T11:00:00+00:00",
-   "tickers": [
-    "UTHR"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "84af78c91869",
-   "headline": "GSK: Why I'm Still Bullish After Strong Q3 Results",
-   "summary": "",
-   "url": "https://finnhub.io/api/news?id=4acea050db478c0fc99bd980b503ffa593c0f865d5a58c928538e80fbcbab29f",
-   "source": "SeekingAlpha",
-   "published": "2026-10-28T10:57:09+00:00",
-   "tickers": [
-    "GILD",
-    "GSK",
-    "INCY",
-    "JNJ",
-    "MRK"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "4b69b496944a",
-   "headline": "Vertiv, Evercore, Brinker, GE HealthCare And Other Big Stocks Moving Higher On Wednesday",
-   "summary": "U.S. stocks mixed; Dow gained ~100 points. Vertiv jumped 13.3% on strong results and raised guidance; Ultralife soared 145.8% on buyout news.",
-   "url": "https://finnhub.io/api/news?id=0c0eabcf6db929dabdade4f9b814b36b50d6f43d50b3602d31474ac583292909",
-   "source": "Benzinga",
-   "published": "2026-10-28T10:54:10+00:00",
-   "tickers": [
-    "GEHC",
-    "ICLR",
-    "LH",
-    "PACB",
-    "TXG"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "d5937923f7c6",
-   "headline": "Boston Scientific Overshadowed by Hackers, Headwinds, and Lower Guidance",
-   "summary": "Boston Scientific slips after a cyber fallout offsets a Q3 consensus beat. Management targets a 2027 cycle trough and 2030 expansion.",
-   "url": "https://finnhub.io/api/news?id=f94a2589b7c236e69452bd14757a6f49313e62f7c0bedaa0a8c7729e0d2cfdce",
-   "source": "Benzinga",
-   "published": "2026-10-28T10:52:03+00:00",
-   "tickers": [
-    "BSX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "5894c3ff5751",
-   "headline": "Parnassus Mid Cap Fund Q3 2026 Portfolio Review",
-   "summary": "Cboe Global Markets gained on strong growth across its derivatives, cash equities and data services businesses.",
-   "url": "https://finnhub.io/api/news?id=b3805882178dcc1ff5996b57fb4938f49fad4e4bfe7b3f3b77b52340ae315f8d",
-   "source": "SeekingAlpha",
-   "published": "2026-10-28T10:51:00+00:00",
-   "tickers": [
-    "A"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "d00c76be01c0",
-   "headline": "Arrowhead gains UK marketing authorisation for Redemplo",
-   "summary": "The regulatory approval covers patients diagnosed through either genetic testing or clinical criteria.",
-   "url": "https://finnhub.io/api/news?id=404d746a5529ea22b72d8f042c4109ef68168ef253ce3779777f7fb851af9c76",
-   "source": "Yahoo",
-   "published": "2026-10-28T10:50:51+00:00",
-   "tickers": [
-    "ARWR"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "faf86f3fe87e",
-   "headline": "Medtronic: Broader Growth, Attractive Valuation",
-   "summary": "",
-   "url": "https://finnhub.io/api/news?id=b45852306ab3b61da51771678528d7478e0ecfb0611ee2215acf47c81352b825",
-   "source": "SeekingAlpha",
-   "published": "2026-10-28T10:50:27+00:00",
-   "tickers": [
-    "MDT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "546a898178da",
-   "headline": "GE HealthCare Technologies (GEHC) Q3 Earnings and Revenues Beat Estimates",
-   "summary": "GE HealthCare (GEHC) delivered earnings and revenue surprises of +10.74% and +2.87%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
-   "url": "https://finnhub.io/api/news?id=fc1954e5dafa7df02887200bafa12dfd3f9f51d6e55f0bf4641672c7c9be50f2",
-   "source": "Yahoo",
-   "published": "2026-10-28T10:50:03+00:00",
-   "tickers": [
-    "GEHC"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "3298f9d89686",
-   "headline": "Boston Scientific (BSX) Q3 Earnings Match Estimates",
-   "summary": "Boston Scientific (BSX) delivered earnings and revenue surprises of 0.00% and +0.68%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
-   "url": "https://finnhub.io/api/news?id=e919cd91ca8e142c2671568a7de1b06ab1527d8c76ff7f5e1fb1ff268a5c59d5",
-   "source": "Yahoo",
-   "published": "2026-10-28T10:50:02+00:00",
-   "tickers": [
-    "BSX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "b75c80efacb9",
-   "headline": "Biogen Inc. (BIIB) Tops Q3 Earnings and Revenue Estimates",
-   "summary": "Biogen (BIIB) delivered earnings and revenue surprises of +27.18% and +8.06%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
-   "url": "https://finnhub.io/api/news?id=a9f487a9153087d8f8f9ec394803ef83663db960aeece8806438536530b918ad",
-   "source": "Yahoo",
-   "published": "2026-10-28T10:50:02+00:00",
-   "tickers": [
-    "BIIB",
-    "NTLA"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "435126beafb3",
-   "headline": "Labcorp Reports Strong 2026 Third Quarter Results; Raises Full Year 2026 Guidance",
-   "summary": "Results from operations for third quarter 2026 versus third quarter 2025:Revenue: $3.81 billion vs. $3.56 billion, up 6.9% Diluted EPS: $3.22 vs. $3.12, up 3.3% Adjusted EPS: $4.78 vs. $4.18, up 14.5% Raised full-year enterprise revenue\u2026",
-   "url": "https://www.prnewswire.com/news-releases/labcorp-reports-strong-2026-third-quarter-results-raises-full-year-2026-guidance-302921355.html",
-   "source": "PR Newswire",
-   "published": "2026-10-28T10:50:00+00:00",
-   "tickers": [
-    "LH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "f1f09fc4f8f0",
-   "headline": "BD Advances Portal Hypertension Care in the U.S. with Support for More Personalized Treatment Options",
-   "summary": "BD (Becton, Dickinson and Company) (NYSE: BDX), a leading global medical technology company, today announced the U.S. commercial launch of the BD\u00ae Liverty\u2122 TIPS Stent Graft, advancing portal hypertension care by giving physicians greater\u2026",
-   "url": "https://finnhub.io/api/news?id=152b1f73940080ef9a59aa2a20028af13222f64688822d8c6e1899271546a609",
-   "source": "Yahoo",
-   "published": "2026-10-28T10:50:00+00:00",
-   "tickers": [
-    "BDX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "8a750512a4cf",
-   "headline": "Labcorp Reports Strong 2026 Third Quarter Results; Raises Full Year 2026 Guidance",
-   "summary": "Labcorp Holdings Inc. (NYSE: LH), a global leader of innovative and comprehensive laboratory services, today announced results for the third quarter ended September 30, 2026 and updated its full-year financial guidance.",
-   "url": "https://finnhub.io/api/news?id=86d1a124db0660e3d231ece0cb143e55658163a8c75ef55415b4290a0e6d346d",
-   "source": "Yahoo",
-   "published": "2026-10-28T10:50:00+00:00",
-   "tickers": [
-    "LH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
    ]
   }
  ]
