@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-07T07:17:30.628310+00:00",
+ "updated": "2026-11-07T07:32:39.620511+00:00",
  "quotes": {
   "A": {
    "price": 174.76,
@@ -37,6 +37,10 @@
   "ASND": {
    "price": 256.82,
    "change_pct": 1.33
+  },
+  "AXSM": {
+   "price": 132.37,
+   "change_pct": 1.98
   },
   "BDX": {
    "price": 211.88,
@@ -297,6 +301,10 @@
   "VEEV": {
    "price": 303.73,
    "change_pct": -2.05
+  },
+  "VKTX": {
+   "price": 26.84,
+   "change_pct": 4.07
   },
   "ZBH": {
    "price": 105.59,
@@ -921,6 +929,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "400f9202da78",
+   "headline": "Is Axsome Therapeutics (AXSM) Fully Priced Given Its Sales Growth?",
+   "summary": "Axsome Therapeutics has delivered a very large 5 year share price gain, yet the stock has pulled back sharply in recent months. That mix of long term gains and recent weakness puts a simple question in front of you as an investor: is\u2026",
+   "url": "https://finnhub.io/api/news?id=ed79e4c951fd5eb00c39d6d02b65984224976f6dfc87889e6fc71b38bab7d777",
+   "source": "Yahoo",
+   "published": "2026-11-07T05:21:15+00:00",
+   "tickers": [
+    "AXSM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
   {
    "id": "0a71a57b9057",
    "headline": "Top 3 Biotech Stocks To Watch In November 2026",
@@ -4356,7 +4379,8 @@
    "published": "2026-11-06T12:20:51+00:00",
    "tickers": [
     "BIIB",
-    "MDGL"
+    "MDGL",
+    "VKTX"
    ],
    "tag": "News",
    "sectors": [
@@ -4676,6 +4700,21 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "61e08207d36a",
+   "headline": "Axsome Therapeutics (AXSM) Stock Gets Fair Value Trim After Q3 Analyst Revisions",
+   "summary": "The updated fair value estimate for Axsome Therapeutics has shifted from US$282.51 to US$271.05, signaling a modest reset in the price target used in recent models. Street research around the Q3 2026 update clusters in a similar range,\u2026",
+   "url": "https://finnhub.io/api/news?id=234972a21d4465d15f70aaabbf085c015d8e596c7efc5b1d3352142215907371",
+   "source": "Yahoo",
+   "published": "2026-11-06T11:13:29+00:00",
+   "tickers": [
+    "AXSM"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -71805,100 +71844,6 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
-   ]
-  },
-  {
-   "id": "b7cccd467f14",
-   "headline": "Pause Now, Hike Later?",
-   "summary": "Wall Street Breakfast previews today\u00e2\u0080\u0099s Fed decision, December rate hike odds, and key market movers.",
-   "url": "https://finnhub.io/api/news?id=3642a576697958f95b096caa21e9485d3b0ff2831ae621dd44cdc36662936d7c",
-   "source": "SeekingAlpha",
-   "published": "2026-10-28T07:30:09+00:00",
-   "tickers": [
-    "AZN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "d40efb4decf2",
-   "headline": "'Trump Administration Backs Down on an Opioid Ban After Kratom Industry Lobbying' - NY Times",
-   "summary": "https://www.nytimes.com/2026/10/28/us/politics/trump-opioid-kratom.html",
-   "url": "https://finnhub.io/api/news?id=71988cb31f168f37b4959a959978a669e843bdfb5191c12ebc5992efb1f35f09",
-   "source": "Benzinga",
-   "published": "2026-10-28T07:29:13+00:00",
-   "tickers": [
-    "LLY",
-    "VRTX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "65f45e30d86e",
-   "headline": "The Zacks Analyst Blog Highlights Eli Lilly, Novartis, Johnson & Johnson and AbbVie",
-   "summary": "Eli Lilly, Novartis, Johnson & Johnson and AbbVie advance arthritis treatment portfolios through strong drug sales, clinical progress and regulatory expansions.",
-   "url": "https://finnhub.io/api/news?id=5067b5fc4aeb253fd602c80d7b65532a02eaca1f2bba823599082ad7ab1dcd37",
-   "source": "Yahoo",
-   "published": "2026-10-28T07:29:00+00:00",
-   "tickers": [
-    "ABBV",
-    "JNJ",
-    "LLY",
-    "NVS"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "68a8f3d81b6d",
-   "headline": "Melexis posts in-line Q3 results, maintains H2 guidance",
-   "summary": "Investing.com -- Melexis NV (EBR:MLXS) on Wednesday reported third quarter revenue of \u20ac224 million, matching analyst consensus estimates of \u20ac224 million, as the semiconductor company navigates normalized customer inventories while gaining\u2026",
-   "url": "https://finnhub.io/api/news?id=f6972c6dd71537d2aac67eb7895132e5aa5924e7e7d218b66880548091f576b6",
-   "source": "Yahoo",
-   "published": "2026-10-28T07:22:06+00:00",
-   "tickers": [
-    "NVS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "88b03e1fc585",
-   "headline": "Cantor Fitzgerald Maintains Overweight on Centene, Raises Price Target to $79",
-   "summary": "Cantor Fitzgerald analyst Sarah James maintains Centene (NYSE:CNC) with a Overweight and raises the price target from $75 to $79.",
-   "url": "https://finnhub.io/api/news?id=12c391011ab83d6a983f5a391acc1a392b72f4c44b3bd12b6736eb0e9cd1550f",
-   "source": "Benzinga",
-   "published": "2026-10-28T07:18:46+00:00",
-   "tickers": [
-    "CNC"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "5e56773e727a",
-   "headline": "Tenet Healthcare (THC) reports earnings tomorrow: what to expect",
-   "summary": "Hospital operator Tenet Healthcare (NYSE:THC) will be reporting results this Thursday before market open. Here\u2019s what to look for.",
-   "url": "https://finnhub.io/api/news?id=6da4c72b2064d59a296fae35be5921a5c64b5c0266b0d57cf83f2043b35de559",
-   "source": "Yahoo",
-   "published": "2026-10-28T07:18:34+00:00",
-   "tickers": [
-    "THC"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
    ]
   }
  ]
