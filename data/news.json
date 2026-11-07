@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-07T10:32:37.676222+00:00",
+ "updated": "2026-11-07T10:47:34.153746+00:00",
  "quotes": {
   "A": {
    "price": 174.76,
@@ -258,6 +258,10 @@
    "price": 146.51,
    "change_pct": -6.16
   },
+  "PRVA": {
+   "price": 24.42,
+   "change_pct": 2.0
+  },
   "QGEN": {
    "price": 50.33,
    "change_pct": -1.04
@@ -317,10 +321,6 @@
   "VKTX": {
    "price": 26.84,
    "change_pct": 4.07
-  },
-  "ZBH": {
-   "price": 105.59,
-   "change_pct": -1.18
   }
  },
  "tickers": {
@@ -2737,6 +2737,21 @@
    "tag": "Earnings",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "773ad79fec9e",
+   "headline": "Privia Health Group Q3 Earnings Call Highlights",
+   "summary": "Privia Health Group (NASDAQ:PRVA) raised its 2026 financial outlook after reporting growth in providers, patient attribution and adjusted earnings through the first nine months of the year. The company also announced a $36 million\u2026",
+   "url": "https://finnhub.io/api/news?id=ac1dc40d2514c6a9eb3a73c5246b261df34c35c4d23c058bd0006825180f620d",
+   "source": "Yahoo",
+   "published": "2026-11-06T17:14:55+00:00",
+   "tickers": [
+    "PRVA"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
    ]
   },
   {
@@ -71265,100 +71280,6 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "5760562da5eb",
-   "headline": "STAT+: Lilly says \u2018triple-G\u2019 drug beats Novo\u2019s Ozempic in diabetes study",
-   "summary": "Data add to expectations that the drug will be one of Lilly\u2019s greatest growth drivers.",
-   "url": "https://www.statnews.com/2026/10/28/retatrutide-vs-ozempic-lilly-diabetes-study/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-10-28T10:45:00+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "f1770f2625bf",
-   "headline": "Lilly's retatrutide delivered greater A1C reduction and more than double the weight loss of Ozempic's highest approved dose in head-to-head trial",
-   "summary": "In adults with type 2 diabetes, retatrutide lowered A1C by an average of 2.2% vs. 1.8% with Ozempic 2 mg at 80 weeks Participants taking retatrutide lost an average of 44 lbs to 47 lbs (20% to 21%) vs. 21 lbs (9%) with Ozempic 2 mg at 80\u2026",
-   "url": "https://www.prnewswire.com/news-releases/lillys-retatrutide-delivered-greater-a1c-reduction-and-more-than-double-the-weight-loss-of-ozempics-highest-approved-dose-in-head-to-head-trial-302921328.html",
-   "source": "PR Newswire",
-   "published": "2026-10-28T10:45:00+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "e671abc452a7",
-   "headline": "Lilly's retatrutide delivered greater A1C reduction and more than double the weight loss of Ozempic's highest approved dose in head-to-head trial",
-   "summary": "Eli Lilly and Company (NYSE: LLY), the maker of Mounjaro (tirzepatide) and Foundayo (orforglipron), today announced positive topline results from TRANSCEND-T2D-2, a head-to-head Phase 3 trial comparing retatrutide with injectable Ozempic\u2026",
-   "url": "https://finnhub.io/api/news?id=3f2a8eb09a606168dad7205e31abcf15c29d67608812d312da35a11dc3f0e075",
-   "source": "Yahoo",
-   "published": "2026-10-28T10:45:00+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "dec5a4ec3e7d",
-   "headline": "Biogen beats Q3 estimates, raises guidance floor on growth",
-   "summary": "Investing.com -- Biogen Inc (NASDAQ:BIIB) on Wednesday reported third quarter adjusted earnings per share of $2.62, surpassing the analyst consensus of $2.02 by $0.60. Revenue reached $2.8 billion, exceeding the $2.64 billion estimate and\u2026",
-   "url": "https://finnhub.io/api/news?id=bc71f6f78a47ab607cf5b627b41d4ba7c540ced449d93c9193534eba439aeab3",
-   "source": "Yahoo",
-   "published": "2026-10-28T10:44:48+00:00",
-   "tickers": [
-    "BIIB"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "df70c5ed3ca4",
-   "headline": "What Would A Short Seller Say About Stryker?",
-   "summary": "For questions about this article or underlying research, email help@trefis.com.",
-   "url": "https://finnhub.io/api/news?id=b097ef726609b34ae25a1dd428a94232e38826f497f6eeaee167dd3a6d22cad7",
-   "source": "Yahoo",
-   "published": "2026-10-28T10:37:55+00:00",
-   "tickers": [
-    "ABT",
-    "BSX",
-    "ISRG",
-    "MDT",
-    "SYK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "9473f17b9ef4",
-   "headline": "GE HealthCare\u2019s (NASDAQ:GEHC) Q3 2026 sales beat estimates",
-   "summary": "Healthcare technology company GE HealthCare Technologies (NASDAQ:GEHC) reported Q3 2026 results exceeding the market\u2019s revenue expectations, with revenue up 7.2% year on year to $5.51 billion. Its non-GAAP profit of $1.34 per share was\u2026",
-   "url": "https://finnhub.io/api/news?id=cef8be72ea0e889fe2f8ccfc93d7b6dd2a19e8b5cf49d7396cf4f0b695ea6e80",
-   "source": "Yahoo",
-   "published": "2026-10-28T10:31:24+00:00",
-   "tickers": [
-    "GEHC"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
