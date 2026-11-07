@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-07T16:47:20.969272+00:00",
+ "updated": "2026-11-07T17:02:34.795478+00:00",
  "quotes": {
   "ABBV": {
    "price": 291.31,
@@ -97,6 +97,10 @@
   "ELV": {
    "price": 425.62,
    "change_pct": -1.48
+  },
+  "EW": {
+   "price": 102.14,
+   "change_pct": 1.31
   },
   "GH": {
    "price": 150.87,
@@ -902,6 +906,17 @@
  },
  "stories": [
   {
+   "id": "37e18eb5d450",
+   "headline": "STAT+: BIO joins the legal fight against Medicare pilot that ties drug prices to peer countries",
+   "summary": "The model is a test of Trump's most-favored nation approach to drug pricing, though its impact is likely to be limited.",
+   "url": "https://www.statnews.com/2026/11/07/bio-sues-to-block-globe-drug-pricing-model/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-11-07T16:57:13+00:00",
+   "tickers": [],
+   "tag": "Policy",
+   "sectors": []
+  },
+  {
    "id": "5bce5e5bfb83",
    "headline": "Johnson & Johnson announces new Phase 2 nipocalimab study data in Sj\u00f6gren's disease that reveal insights on importance of symptom improvements most valued by patients",
    "summary": "New patient experience dataa to be presented at ACR 2026 show mouth dryness was reported as the most important symptom to improve, followed by eye dryness, fatigue and joint pain Patient insights complement Phase 2 study results\u2026",
@@ -1167,6 +1182,21 @@
    ]
   },
   {
+   "id": "0016ec6cc8d3",
+   "headline": "Anthropic IPO Roadshow Takes Center Stage As Earnings Take A Breather",
+   "summary": "Preview next week's market movers: Fed speeches, inflation data, earnings, IPOs, and volatility trends. Read here for more details.",
+   "url": "https://finnhub.io/api/news?id=f191515b97fdcac2987802edb0d6b323d6b7758989dd5c8a5bce51f79c987849",
+   "source": "SeekingAlpha",
+   "published": "2026-11-07T11:00:00+00:00",
+   "tickers": [
+    "HIMS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "48b9f4cc8211",
    "headline": "What Did CVS Health's Quarter Change For Its Stock?",
    "summary": "For questions about this article or underlying research, email help@trefis.com.",
@@ -1260,6 +1290,21 @@
     "ZBH"
    ],
    "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "762298482c4b",
+   "headline": "Edwards Lifesciences Q3 Earnings Call Highlights",
+   "summary": "Edwards Lifesciences (NYSE:EW) raised its 2026 sales and earnings guidance after third-quarter results exceeded management\u2019s expectations, with growth across its heart-valve businesses and regions. The medical device maker reported sales\u2026",
+   "url": "https://finnhub.io/api/news?id=455cb1370d14cfac9e5e7c6580514eaebe38939798257d53add6d67740bdf6f9",
+   "source": "Yahoo",
+   "published": "2026-11-07T09:18:29+00:00",
+   "tickers": [
+    "EW"
+   ],
+   "tag": "Earnings",
    "sectors": [
     "medtech"
    ]
@@ -69020,98 +69065,6 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
-   ]
-  },
-  {
-   "id": "9db45d9d0e96",
-   "headline": "UHS (UHS) Q3 2026 Earnings Call Transcript",
-   "summary": "Volume growth offset by surgical mix shifts and slower de novo ramp-ups.",
-   "url": "https://finnhub.io/api/news?id=4a923cd5b8cbddf7ffc0739ddad3cfbc9b22949b5e6d3600c04dada1246c8ae3",
-   "source": "Yahoo",
-   "published": "2026-10-28T17:00:35+00:00",
-   "tickers": [
-    "UHS"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "dbd3071dc4bf",
-   "headline": "Elevance Health Files Prospectus For Mixed Shelf Offering; Terms Not Disclosed",
-   "summary": "https://www.sec.gov/Archives/edgar/data/1156039/000119312526436231/d165308ds3asr.htm",
-   "url": "https://finnhub.io/api/news?id=afb744fc6dfae486369ffd1d5bfd98ecd6470a48db3052fca20c1a83a2d4ea76",
-   "source": "Benzinga",
-   "published": "2026-10-28T16:58:52+00:00",
-   "tickers": [
-    "ELV"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "9963b14a7951",
-   "headline": "Glaukos Sees FY2027 Sales $1.000B vs $852.440M Est",
-   "summary": "Glaukos (NYSE:GKOS) sees FY2027 sales of $1.000 billion vs $852.440 million analyst estimate.",
-   "url": "https://finnhub.io/api/news?id=9e5b25f996be63b249ebeda6033ad294338b13cb6b1ad1a4d012f07283888d8b",
-   "source": "Benzinga",
-   "published": "2026-10-28T16:57:03+00:00",
-   "tickers": [
-    "GKOS"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "564f40559abd",
-   "headline": "Waters Gears Up to Report Q3 Results: How to Play the Stock?",
-   "summary": "WAT's Q3 results are likely to benefit from strong revenue growth prospects, rising demand and acquisition gains.",
-   "url": "https://finnhub.io/api/news?id=8d25fea46ee0cc3112adfd0ee5609a5a12e264f0889547fba2b572dfeab8e188",
-   "source": "Yahoo",
-   "published": "2026-10-28T16:51:00+00:00",
-   "tickers": [
-    "BDX",
-    "IDXX",
-    "WAT"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "25c5eded49b8",
-   "headline": "ICON Public Limited Company (ICLR) Q3 2026 Earnings Call Transcript",
-   "summary": "ICON Public Limited Company (ICLR) Q3 2026 Earnings Call October 28, 2026 8:00 AM EDTCompany ParticipantsKate Haven - Vice President of Investor...",
-   "url": "https://finnhub.io/api/news?id=f675f763fa504225a843f9cb5a0065098e0b68a3ecf9cee4a82fd9d8bb162dd5",
-   "source": "SeekingAlpha",
-   "published": "2026-10-28T16:49:59+00:00",
-   "tickers": [
-    "ICLR"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "7c0ba2fec77d",
-   "headline": "Charles River (CRL) Rises on Strong Earnings and Improving Biopharma Demand",
-   "summary": "Ariel Investments, an investment management company, released its \u201cAriel Appreciation Fund\u201d Q3 2026 investor letter. A copy of the letter can be downloaded here. Copy main article 1st para. The Fund faced a challenging third quarter of\u2026",
-   "url": "https://finnhub.io/api/news?id=94e92357eee032bd4a84f153b5aa41405da18ccefb7f29a79819ad6a7689e65d",
-   "source": "Yahoo",
-   "published": "2026-10-28T16:49:10+00:00",
-   "tickers": [
-    "CRL"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "tools"
    ]
   }
  ]
