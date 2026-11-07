@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-07T07:32:39.620511+00:00",
+ "updated": "2026-11-07T07:47:25.073480+00:00",
  "quotes": {
   "A": {
    "price": 174.76,
@@ -25,6 +25,10 @@
   "ALGN": {
    "price": 166,
    "change_pct": 4.16
+  },
+  "ALHC": {
+   "price": 7.34,
+   "change_pct": -2.91
   },
   "ALNY": {
    "price": 155.94,
@@ -129,6 +133,10 @@
   "GMED": {
    "price": 71.05,
    "change_pct": -12.76
+  },
+  "GSK": {
+   "price": 50.33,
+   "change_pct": -0.16
   },
   "HALO": {
    "price": 103.63,
@@ -3973,6 +3981,21 @@
    ]
   },
   {
+   "id": "daeb93ec7059",
+   "headline": "Alignment Healthcare Stock Has The Bull Case Changed After Raised 2026 Outlook",
+   "summary": "Alignment Healthcare reported third quarter 2026 revenue of US$1,358.29 million and a net loss of US$8.05 million, while nine month revenue reached US$3,929.12 million with net income of US$39.92 million. The company paired these results\u2026",
+   "url": "https://finnhub.io/api/news?id=a09f45ceb944bc93db98ad6e3b9cc227927307404d99d36b98536edaf99cf0ac",
+   "source": "Yahoo",
+   "published": "2026-11-06T13:12:27+00:00",
+   "tickers": [
+    "ALHC"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "71466ef8f175",
    "headline": "Halozyme Stock Jumps On Strong Earnings But Guidance Reset Raises Questions",
    "summary": "Halozyme Therapeutics reported strong third quarter 2026 results, with revenue of US$492.97 million, net income of US$247.05 million and record royalty contributions, alongside expanded ENHANZE partnerships and favorable European patent\u2026",
@@ -5051,6 +5074,21 @@
    "tag": "Analyst",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "cd09b34ec04e",
+   "headline": "GSK (LSE:GSK) Stock Still Looks Below Fair Value Following Jemperli Approval",
+   "summary": "GSK plc has delivered strong multi year gains for shareholders, and the latest news around its cancer and specialty medicines raises a straightforward question for you as an investor. Is the current share price near \u00a318.90 adequately\u2026",
+   "url": "https://finnhub.io/api/news?id=1960d7dce80fcccc25f5a609f79c9b260d027c2660e249af7660b92d82915290",
+   "source": "Yahoo",
+   "published": "2026-11-06T10:18:06+00:00",
+   "tickers": [
+    "GSK"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -71784,66 +71822,6 @@
    "tag": "Analyst",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "75d1dd143229",
-   "headline": "Eli Lilly surges up diabetes reputation rankings to close in on Novo",
-   "summary": "Eli Lilly has jumped up a ranking of the corporate reputations of diabetes drugmakers, putting it hot on the heels of Novo.",
-   "url": "https://www.fiercepharma.com/marketing/eli-lilly-surges-diabetes-reputation-rankings-close-novo",
-   "source": "Fierce Pharma",
-   "published": "2026-10-28T07:45:21.132559+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "949d0c765691",
-   "headline": "Regeneron Earnings Preview: Dupixent Is Booming, But It's Still Overvalued",
-   "summary": "Regeneron Pharmaceuticals faces 16.4% downside as Dupixent growth, EYLEA pressure, and pipeline risks cloud valuation. Click to read this REGN stock update.",
-   "url": "https://finnhub.io/api/news?id=f3fb5d2fa4d443db8b70c9a9c348e8d664ca9d81f4c16b7e5dfaae87d9b93ef8",
-   "source": "SeekingAlpha",
-   "published": "2026-10-28T07:43:10+00:00",
-   "tickers": [
-    "REGN"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "32482827f1ec",
-   "headline": "GSK keeps guidance as specialty drugs power sales, but \u00a3328m restructuring charge dents profit",
-   "summary": "GSK PLC (LSE:GSK, NYSE:GSK), the FTSE 100 drugmaker, reckons it is on track for the year after specialty medicines drove another quarter of growth. Sales rose 5% at constant exchange rates to \u00a38.9 billion. Core operating profit, which\u2026",
-   "url": "https://finnhub.io/api/news?id=9bd0b3e4fd2d0d1e3fbb59bb8df689e0ea693695614b6a692b48591ad3634e31",
-   "source": "Yahoo",
-   "published": "2026-10-28T07:37:00+00:00",
-   "tickers": [
-    "GSK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "e4a7fa3402f9",
-   "headline": "What to expect from DexCom\u2019s (DXCM) Q3 earnings",
-   "summary": "Medical device company DexCom (NASDAQ:DXCM) will be reporting results this Thursday after the bell. Here\u2019s what investors should know.",
-   "url": "https://finnhub.io/api/news?id=b9574cd9419f3eec2184ecfa5ab29031253a7338b992b5710f1a78109a5901d9",
-   "source": "Yahoo",
-   "published": "2026-10-28T07:34:34+00:00",
-   "tickers": [
-    "DXCM"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
