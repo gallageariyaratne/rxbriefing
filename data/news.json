@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-07T00:17:25.351287+00:00",
+ "updated": "2026-11-07T00:32:36.557674+00:00",
  "quotes": {
   "A": {
    "price": 174.76,
@@ -45,6 +45,10 @@
   "BMY": {
    "price": 62.14,
    "change_pct": -1.57
+  },
+  "BSX": {
+   "price": 42.75,
+   "change_pct": -4.23
   },
   "CAH": {
    "price": 271.72,
@@ -229,6 +233,10 @@
   "REGN": {
    "price": 904.35,
    "change_pct": 0.16
+  },
+  "RMD": {
+   "price": 235.3,
+   "change_pct": -1.68
   },
   "RVMD": {
    "price": 192.28,
@@ -921,6 +929,8 @@
    "source": "Yahoo",
    "published": "2026-11-06T23:26:15+00:00",
    "tickers": [
+    "COR",
+    "CVS",
     "MCK"
    ],
    "tag": "News",
@@ -938,6 +948,21 @@
    "tickers": [],
    "tag": "M&A",
    "sectors": []
+  },
+  {
+   "id": "01c9259065b4",
+   "headline": "S&P revises Boston Scientific outlook to negative on franchise pressures",
+   "summary": "Investing.com -- S&P Global Ratings has revised its outlook on Boston Scientific Corp. to negative from stable, warning that deepening commercial headwinds across its core product franchises will likely keep financial leverage stretched\u2026",
+   "url": "https://finnhub.io/api/news?id=64f90abb7fcfa9828885e6ca4964206c8e77dee5ee49c2f257d155544aad514e",
+   "source": "Yahoo",
+   "published": "2026-11-06T22:28:19+00:00",
+   "tickers": [
+    "BSX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
   },
   {
    "id": "969309736d0e",
@@ -964,6 +989,21 @@
    "tag": "GLP-1",
    "sectors": [
     "healthit",
+    "pharma"
+   ]
+  },
+  {
+   "id": "997ac671a80f",
+   "headline": "Bristol-Myers Squibb Says Camzyos Shows Sustained Efficacy in Phase 3 Pediatric Trial",
+   "summary": "Bristol-Myers Squibb (BMY) said late Friday that 56-week results from its Phase 3 SCOUT-HCM clinical",
+   "url": "https://finnhub.io/api/news?id=e22929af50cb0b32b873cab77b65cf280a52a2975bf151ad0f2e680fcae29799",
+   "source": "Yahoo",
+   "published": "2026-11-06T21:56:48+00:00",
+   "tickers": [
+    "BMY"
+   ],
+   "tag": "Clinical",
+   "sectors": [
     "pharma"
    ]
   },
@@ -1426,7 +1466,9 @@
    "published": "2026-11-06T18:30:37+00:00",
    "tickers": [
     "BDX",
-    "LLY"
+    "COR",
+    "LLY",
+    "RMD"
    ],
    "tag": "News",
    "sectors": [
@@ -71896,36 +71938,6 @@
     "GSK"
    ],
    "tag": "Policy",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "99ddc7350747",
-   "headline": "Weatherbie Specialized Growth Fund Q3 2026 Portfolio Update",
-   "summary": "",
-   "url": "https://finnhub.io/api/news?id=09dd944adf1b77f25019fd436d73c5e67704e711b40c0d9f17a02d1d5f533546",
-   "source": "SeekingAlpha",
-   "published": "2026-10-28T00:25:00+00:00",
-   "tickers": [
-    "NTRA"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "e3dae1328c14",
-   "headline": "Missed Regeneron Pharmaceuticals' Rally? Here Is The Bull Case",
-   "summary": "If Regeneron Pharmaceuticals sat on your watchlist instead of in your brokerage account, the outcome over the past year may feel like a miss. For Regeneron Pharmaceuticals shareholders, the return over the past year was 25.3%, including\u2026",
-   "url": "https://finnhub.io/api/news?id=aaf4814cd1c2f6644f7f604758910a8d2b83cf1c0847b06ba4a1040160199e6c",
-   "source": "Yahoo",
-   "published": "2026-10-28T00:16:53+00:00",
-   "tickers": [
-    "REGN"
-   ],
-   "tag": "News",
    "sectors": [
     "pharma"
    ]
