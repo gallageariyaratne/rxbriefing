@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-07T10:02:36.074243+00:00",
+ "updated": "2026-11-07T10:17:29.994510+00:00",
  "quotes": {
   "A": {
    "price": 174.76,
@@ -105,6 +105,10 @@
   "DOCS": {
    "price": 32.51,
    "change_pct": -2.02
+  },
+  "DXCM": {
+   "price": 79.41,
+   "change_pct": -5.98
   },
   "ELV": {
    "price": 425.62,
@@ -317,10 +321,6 @@
   "ZBH": {
    "price": 105.59,
    "change_pct": -1.18
-  },
-  "ZTS": {
-   "price": 79.4,
-   "change_pct": -3.3
   }
  },
  "tickers": {
@@ -938,6 +938,21 @@
  },
  "stories": [
   {
+   "id": "ec8ac211b6d7",
+   "headline": "Should You Buy Globus Medical Stock For Its Cash?",
+   "summary": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://finnhub.io/api/news?id=2fee9a8dc9a4d6612dfff696be8e2103f788455cc9fc62ced134fee22cac7aa5",
+   "source": "Yahoo",
+   "published": "2026-11-07T09:19:02+00:00",
+   "tickers": [
+    "MDT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "36f216256eb9",
    "headline": "iRhythm Holdings (IRTC) Stock Could Be A Bargain On Its 49% Slump",
    "summary": "iRhythm Holdings shares have fallen sharply this year, and that kind of reset naturally raises a question for investors about how the current price lines up with the company\u2019s sales base. After a stretch of mixed headlines around product\u2026",
@@ -950,6 +965,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "408f7bae5848",
+   "headline": "What If You Add Gold And Cash To A Dividend Portfolio?",
+   "summary": "Part of our series on building a mix that lasts. Start here: is 60/40 dead.",
+   "url": "https://finnhub.io/api/news?id=fa8b155b5856f03e564c73c30d5f7e498809329d4db2539642e8b255422f69dc",
+   "source": "Yahoo",
+   "published": "2026-11-07T09:14:42+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1008,6 +1038,21 @@
     "AXSM"
    ],
    "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "bddc85965a12",
+   "headline": "Intellia Therapeutics (NTLA) Stock Could Look Stretched On Phase 3 Trial Progress",
+   "summary": "Intellia Therapeutics has had a bruising long run for shareholders, with the stock still down sharply over the past five years even after a positive year to date. That leaves a clear question about how its current US$11.35 share price\u2026",
+   "url": "https://finnhub.io/api/news?id=f6a525bab6a4aa5184daa57efb801f0d1b5ae4c321804948334168b2b4105445",
+   "source": "Yahoo",
+   "published": "2026-11-07T05:20:30+00:00",
+   "tickers": [
+    "NTLA"
+   ],
+   "tag": "Clinical",
    "sectors": [
     "biotech"
    ]
@@ -1594,6 +1639,21 @@
    ]
   },
   {
+   "id": "523349e46edd",
+   "headline": "Intellia Therapeutics Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
+   "summary": "CAMBRIDGE, Mass., Nov. 06, 2026 (GLOBE NEWSWIRE) -- Intellia Therapeutics, Inc. (Nasdaq: NTLA), a leading biopharmaceutical company focused on revolutionizing medicine leveraging CRISPR gene editing and other core technologies, today\u2026",
+   "url": "https://finnhub.io/api/news?id=31c9304fc2131b68607c403baafe4b8df442182f596115aff1ecc2308938b20f",
+   "source": "Yahoo",
+   "published": "2026-11-06T21:05:00+00:00",
+   "tickers": [
+    "NTLA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "1856c8b022ee",
    "headline": "From Fragmentation to Integration: A New Model for Specialty Care",
    "summary": "Health systems are navigating growing demands with increasingly limited resources. As costs rise and teams are stretched, technology has become essential to helping people work smarter.",
@@ -1732,6 +1792,7 @@
    "tickers": [
     "CNC",
     "CRL",
+    "DXCM",
     "MRNA",
     "PODD"
    ],
@@ -2330,6 +2391,7 @@
     "BSX",
     "CNC",
     "CRL",
+    "DXCM",
     "PODD"
    ],
    "tag": "News",
@@ -2440,6 +2502,7 @@
    "source": "Yahoo",
    "published": "2026-11-06T17:24:00+00:00",
    "tickers": [
+    "NTLA",
     "REGN"
    ],
    "tag": "Earnings",
@@ -3076,6 +3139,21 @@
    "tag": "M&A",
    "sectors": [
     "pharmacy"
+   ]
+  },
+  {
+   "id": "62c84b3bb1e1",
+   "headline": "What Makes LifeStance Health Group (LFST) a Strong Momentum Stock: Buy Now?",
+   "summary": "Does LifeStance Health Group (LFST) have what it takes to be a top stock pick for momentum investors? Let's find out.",
+   "url": "https://finnhub.io/api/news?id=1a2d3add0c6d21b1dbb39200f054417ab17e800134cb358f8be1b57321d58df7",
+   "source": "Yahoo",
+   "published": "2026-11-06T16:00:02+00:00",
+   "tickers": [
+    "LFST"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
    ]
   },
   {
@@ -4307,6 +4385,21 @@
    ]
   },
   {
+   "id": "73076dbd01db",
+   "headline": "LifeStance Health Group, Inc. (LFST) Hits Fresh High: Is There Still Room to Run?",
+   "summary": "LifeStance Health (LFST) is at a 52-week high, but can investors hope for more gains in the future? We take a look at the company's fundamentals for clues.",
+   "url": "https://finnhub.io/api/news?id=0c18afb80510063f0a1488240ca3b6c7e621792340662f65c34c7b74fe510654",
+   "source": "Yahoo",
+   "published": "2026-11-06T13:15:16+00:00",
+   "tickers": [
+    "LFST"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "c27512ccc2b3",
    "headline": "McKesson Corporation (MCK) Hit a 52 Week High, Can the Run Continue?",
    "summary": "McKesson (MCK) is at a 52-week high, but can investors hope for more gains in the future? We take a look at the company's fundamentals for clues.",
@@ -4351,7 +4444,8 @@
    "tickers": [
     "ALNY",
     "HIMS",
-    "LLY"
+    "LLY",
+    "RARE"
    ],
    "tag": "M&A",
    "sectors": [
@@ -71368,78 +71462,6 @@
    "tag": "News",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "96093b80308e",
-   "headline": "The 2026 Biotech Graveyard",
-   "summary": "Fierce\u2019s biotech graveyard is an annual tradition in which we remember all the companies we lost over the past year. While we're embracing the spooky spirit of Halloween, we hope the sad stories of drug developers shutting up shop won\u2019t\u2026",
-   "url": "https://www.fiercebiotech.com/biotech/2026-biotech-graveyard",
-   "source": "Fierce Biotech",
-   "published": "2026-10-28T10:15:22.646233+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "5146597df456",
-   "headline": "Labcorp Hldgs Q3 2026 Earnings Call Transcript",
-   "summary": "Labcorp Hldgs (NYSE:LH) reported third-quarter financial results on Wednesday. The transcript from the company\u2019s third-quarter earnings call has been provided below.This transcript is brought to you by Benzinga APIs.",
-   "url": "https://finnhub.io/api/news?id=9bf8c11fc20e35054cc442d92fa4b16a6c2d956e9a85e6b18836b757c5adf1e2",
-   "source": "Benzinga",
-   "published": "2026-10-28T10:15:16+00:00",
-   "tickers": [
-    "LH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "f49091b21331",
-   "headline": "Biogen Has 'Returned To Growth,' Says CEO \u2014 What To Know About Its Report",
-   "summary": "Biogen crushed third-quarter expectations early Tuesday, helped by its suite of newer products and leading to a guidance boost.",
-   "url": "https://finnhub.io/api/news?id=888827508cb920e674aa339923ad30e549d82cbdad45cf9fd064f6dbf91fe2b8",
-   "source": "Yahoo",
-   "published": "2026-10-28T10:11:27+00:00",
-   "tickers": [
-    "BIIB"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "349f20d90a30",
-   "headline": "The Cigna Group: Client Retention Matters, But Contract Profitability Matters More",
-   "summary": "Cigna faces margin pressure, slower buybacks, and limited upside after a downgrade to Hold. Click for more on CI stock.",
-   "url": "https://finnhub.io/api/news?id=f7745780db3c7a64b7fdf2e4e34452fa28c9e1c9622826a831a25e49b056874c",
-   "source": "SeekingAlpha",
-   "published": "2026-10-28T10:11:23+00:00",
-   "tickers": [
-    "CI"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "09322f669394",
-   "headline": "GSK (GSK) Q3 Earnings and Revenues Beat Estimates",
-   "summary": "Glaxo (GSK) delivered earnings and revenue surprises of +5.00% and +1.24%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
-   "url": "https://finnhub.io/api/news?id=2f249b1b26a67da0734db97f73c099e6164b46e7170418c4ca1f10ced7705e86",
-   "source": "Yahoo",
-   "published": "2026-10-28T10:10:02+00:00",
-   "tickers": [
-    "GSK",
-    "RARE"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
    ]
   }
  ]
