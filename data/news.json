@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-07T02:02:40.730467+00:00",
+ "updated": "2026-11-07T02:17:31.771927+00:00",
  "quotes": {
   "A": {
    "price": 174.76,
@@ -189,6 +189,10 @@
   "MEDP": {
    "price": 653.11,
    "change_pct": 2.86
+  },
+  "MOH": {
+   "price": 208.99,
+   "change_pct": -3.53
   },
   "MRK": {
    "price": 146.73,
@@ -917,6 +921,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "f247fcbe22cc",
+   "headline": "Molina Healthcare, Inc. Reaffirms 2026 Guidance of GAAP Diluted EPS of at Least $2.38 and Adjusted Diluted EPS of at Least $5.25",
+   "summary": "",
+   "url": "https://finnhub.io/api/news?id=52ec65618bb0e9728e8dee4269be52a2948586f120033562363df51809d87a87",
+   "source": "Fintel",
+   "published": "2026-11-07T00:21:42+00:00",
+   "tickers": [
+    "MOH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
   {
    "id": "d2f995a6d0a8",
    "headline": "Is McKesson Stock Increasing Your Market Risk?",
@@ -71957,36 +71976,6 @@
    "tickers": [],
    "tag": "Policy",
    "sectors": []
-  },
-  {
-   "id": "4daf7b55193d",
-   "headline": "First Eagle Global Fund Q3 202 Portfolio Update",
-   "summary": "Global Fund A Shares (without sales charge) posted a return of 2.10% in third quarter 2026. Read more here.",
-   "url": "https://finnhub.io/api/news?id=103b88ec663525608967ecdb02b9ba26187cdafc44b884b4425a9ae68666530a",
-   "source": "SeekingAlpha",
-   "published": "2026-10-28T02:10:00+00:00",
-   "tickers": [
-    "BDX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "50e0164ecd15",
-   "headline": "FPE: Better Than Preferred Stock Index Funds, But Inflation Is A Real Risk",
-   "summary": "FPE ETF offers a 6.40% yield, outperforming passive preferred stock ETFs over the past decade. Read why FPE is a Hold.",
-   "url": "https://finnhub.io/api/news?id=8ba66718654ce4b3eab97d048e8739d97254cf34a2b83a6a6c2efe3fee25982d",
-   "source": "SeekingAlpha",
-   "published": "2026-10-28T02:07:53+00:00",
-   "tickers": [
-    "A"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
   }
  ]
 }
