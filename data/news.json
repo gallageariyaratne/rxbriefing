@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-07T10:17:29.994510+00:00",
+ "updated": "2026-11-07T10:32:37.676222+00:00",
  "quotes": {
   "A": {
    "price": 174.76,
@@ -33,6 +33,10 @@
   "AMGN": {
    "price": 460.42,
    "change_pct": 0.03
+  },
+  "ASND": {
+   "price": 256.82,
+   "change_pct": 1.33
   },
   "AXSM": {
    "price": 132.37,
@@ -137,10 +141,6 @@
   "GMED": {
    "price": 71.05,
    "change_pct": -12.76
-  },
-  "GSK": {
-   "price": 50.33,
-   "change_pct": -0.16
   },
   "HALO": {
    "price": 103.63,
@@ -945,6 +945,8 @@
    "source": "Yahoo",
    "published": "2026-11-07T09:19:02+00:00",
    "tickers": [
+    "GMED",
+    "JNJ",
     "MDT"
    ],
    "tag": "News",
@@ -976,6 +978,36 @@
    "published": "2026-11-07T09:14:42+00:00",
    "tickers": [
     "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "859a6191382f",
+   "headline": "Are Dividends The New Bonds?",
+   "summary": "Part of our series on building a mix that lasts. Start here: is 60/40 dead.",
+   "url": "https://finnhub.io/api/news?id=6ec23ff2dbd237185016548aacc146b3d68b1c6c519f4f04b5b226bd6da94c73",
+   "source": "Yahoo",
+   "published": "2026-11-07T09:14:37+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "45eedfba8f35",
+   "headline": "Is Your Retirement Portfolio Built For 2008 Or For 2022?",
+   "summary": "Part of our series on building a mix that lasts. Start here: is 60/40 dead.",
+   "url": "https://finnhub.io/api/news?id=6ce12813797dccb5c6020230dac0cc076e1318b672026ece504275b506b38df0",
+   "source": "Yahoo",
+   "published": "2026-11-07T09:13:03+00:00",
+   "tickers": [
+    "JNJ"
    ],
    "tag": "News",
    "sectors": [
@@ -4609,6 +4641,21 @@
    ]
   },
   {
+   "id": "6cfa58d7dd3f",
+   "headline": "Once-Weekly TransCon\u00ae CNP (Navepegritide) to Receive 10 Years of Market Exclusivity Upon Approval in the European Union",
+   "summary": "\u2013 Final European Commission decision expected during Q4 2026 COPENHAGEN, Denmark, Nov. 06, 2026 (GLOBE NEWSWIRE) -- Ascendis Pharma A/S (Nasdaq: ASND) today announced that the Committee for Orphan Medicinal Products (COMP) of the European\u2026",
+   "url": "https://finnhub.io/api/news?id=d8ea6307fd08c9af8d5f8a3437e61184116dbf9d4a1ff6acc7236f904a01fee6",
+   "source": "Yahoo",
+   "published": "2026-11-06T13:00:00+00:00",
+   "tickers": [
+    "ASND"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "d644ad3f015d",
    "headline": "The Zacks Analyst Blog Highlights Microsoft, Amazon, Alphabet, Nextpower and Centene",
    "summary": "Midterm election results are reshaping market opportunities, putting renewable energy, healthcare and AI stocks in focus as policy expectations shift.",
@@ -5804,6 +5851,21 @@
    "tag": "Analyst",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "54101ea03556",
+   "headline": "Why Did Certara (CERT) Shares Climb After Its Latest Update?",
+   "summary": "How Certara\u2019s Q3 earnings changed the conversation Certara (CERT) put fresh numbers on the table with its Q3 2026 report, giving investors new data on profitability, software momentum, and the trade off between quarterly strength and year\u2026",
+   "url": "https://finnhub.io/api/news?id=83a5f34dabd38d2060d341f706a21125d0de86a01fbee0f5b44b936b3af5a244",
+   "source": "Yahoo",
+   "published": "2026-11-06T09:19:37+00:00",
+   "tickers": [
+    "CERT"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthai"
    ]
   },
   {
@@ -71297,171 +71359,6 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
-   ]
-  },
-  {
-   "id": "6fb9d34698d4",
-   "headline": "$100 Invested In United Therapeutics 15 Years Ago Would Be Worth This Much Today",
-   "summary": "United Therapeutics (NASDAQ:UTHR) has outperformed the market over the past 15 years by 6.41% on an annualized basis producing an average annual return of 19.23%. Currently, United Therapeutics has a market",
-   "url": "https://finnhub.io/api/news?id=efb665c1a40af3448176b8cbcff474df4b297daae3e5eae946ec968a32f6b440",
-   "source": "Benzinga",
-   "published": "2026-10-28T10:30:20+00:00",
-   "tickers": [
-    "UTHR"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "5b78a76bd4ca",
-   "headline": "Boston Scientific announces results for third quarter 2026",
-   "summary": "MARLBOROUGH, Mass., Oct. 28, 2026 /PRNewswire/ -- Boston Scientific Corporation (NYSE: BSX) generated net sales of $5.138 billion during the third quarter of 2026, growing 1.5 percent on a reported, operational1 and organic2 basis, all\u2026",
-   "url": "https://www.prnewswire.com/news-releases/boston-scientific-announces-results-for-third-quarter-2026-302921450.html",
-   "source": "PR Newswire",
-   "published": "2026-10-28T10:30:00+00:00",
-   "tickers": [
-    "BSX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "2443df49cc56",
-   "headline": "Boston Scientific announces results for third quarter 2026",
-   "summary": "Boston Scientific Corporation (NYSE: BSX) generated net sales of $5.138 billion during the third quarter of 2026, growing 1.5 percent on a reported, operational1 and organic2 basis, all compared to the prior year period. The company\u2026",
-   "url": "https://finnhub.io/api/news?id=37a34bebaf5d7fc1c8f9395cdc403feaf3558d42690f0a7cf7fe19a16b557694",
-   "source": "Yahoo",
-   "published": "2026-10-28T10:30:00+00:00",
-   "tickers": [
-    "BSX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "46afb120c335",
-   "headline": "Sales of Leqembi\u00ae totaled 32.2 billion yen in the third quarter 2026",
-   "summary": "STOCKHOLM, October 28, 2026 /PRNewswire/ -- BioArctic AB's (publ) (NASDAQ Stockholm: BIOA B) partner Eisai today published the preliminary global revenue for Leqembi for the third quarter 2026, in conjunction with their partner Biogen's\u2026",
-   "url": "https://www.prnewswire.com/news-releases/sales-of-leqembi-totaled-32-2-billion-yen-in-the-third-quarter-2026--302922006.html",
-   "source": "PR Newswire",
-   "published": "2026-10-28T10:27:00+00:00",
-   "tickers": [
-    "BIIB"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "70bbe9ae482e",
-   "headline": "Sales of Leqembi\u00ae totaled 32.2 billion yen in the third quarter 2026",
-   "summary": "BioArctic AB's (publ) (NASDAQ Stockholm: BIOA B) partner Eisai today published the preliminary global revenue for Leqembi for the third quarter 2026, in conjunction with their partner Biogen's third quarter report. In total, sales of JPY\u2026",
-   "url": "https://finnhub.io/api/news?id=1f7c7197ef94647283f364a62f59fdf57b39d74fdce077fb4203a1ec373cf82e",
-   "source": "Yahoo",
-   "published": "2026-10-28T10:27:00+00:00",
-   "tickers": [
-    "BIIB"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "71ab5e2459af",
-   "headline": "Sales of Leqembi\u00ae totaled 32.2 billion yen in the third quarter 2026",
-   "summary": "STOCKHOLM, October 28, 2026 /PRNewswire/ -- BioArctic AB's (publ) (NASDAQ Stockholm: BIOA B) partner Eisai today published the preliminary global revenue for Leqembi for the third quarter 2026, in conjunction with their partner Biogen's\u2026",
-   "url": "https://www.prnewswire.com/news-releases/sales-of-leqembi-totaled-32-2-billion-yen-in-the-third-quarter-2026--302922002.html",
-   "source": "PR Newswire",
-   "published": "2026-10-28T10:25:00+00:00",
-   "tickers": [
-    "BIIB"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "3c7ee507bd4b",
-   "headline": "UPDATE: GSK Q3 Adj. EPS $1.47 Beats $1.40 Estimate, Sales $11.948B Beat $11.800B Estimate",
-   "summary": "GSK (NYSE:GSK) reported quarterly earnings of $1.47 per share which beat the analyst consensus estimate of $1.40 by 5 percent. This is a 0.68 percent decrease over earnings of $1.48 per share from the same period last",
-   "url": "https://finnhub.io/api/news?id=ea9c32c76ec46b316accf16c8f5cfd3e1c3e665d0c22e0ffcaf69a531f0e2a7d",
-   "source": "Benzinga",
-   "published": "2026-10-28T10:23:39+00:00",
-   "tickers": [
-    "GSK"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "b355b1e09349",
-   "headline": "Novartis (SWX:NOVN) Stock Faces Q3 Earnings Squeeze After Profit Slump",
-   "summary": "Novartis just dropped its Q3 2026 numbers and the headline is simple. Earnings power looks squeezed while the share price into the release had been grinding higher, with a 30\u2011day gain of about 7.5% and a flat 90\u2011day track. That is a\u2026",
-   "url": "https://finnhub.io/api/news?id=0b8ad978fe4a94feac43e3b478c787c09e5c15065dc596440422d5b2cc9f6be7",
-   "source": "Yahoo",
-   "published": "2026-10-28T10:22:37+00:00",
-   "tickers": [
-    "NVS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "d8f711aa9947",
-   "headline": "GE HealthCare reports third quarter 2026 financial results",
-   "summary": "CHICAGO, October 28, 2026--GE HealthCare (Nasdaq: GEHC) today reported financial results for the third quarter ended September 30, 2026.",
-   "url": "https://finnhub.io/api/news?id=46811d6ea80855a3dd4fb81d296b9639f2c04d5843354659138a43fa2ff7f3ab",
-   "source": "Yahoo",
-   "published": "2026-10-28T10:20:00+00:00",
-   "tickers": [
-    "GEHC"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "6dadbb0d5cdc",
-   "headline": "HCA Healthcare (HCA) Stock Dips After Q3 Earnings Expose Margin Strain",
-   "summary": "HCA Healthcare just printed Q3 2026 numbers that keep the long running thesis intact: strong hospital demand and tight cost control, even as the stock slipped about 3.3% the day after the release. You are looking at a company that\u2026",
-   "url": "https://finnhub.io/api/news?id=538211a753f8c9cbbea8091211e587d2198677d3be6512284716f9f944c1ed54",
-   "source": "Yahoo",
-   "published": "2026-10-28T10:18:46+00:00",
-   "tickers": [
-    "HCA"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "b67e4d79e0b9",
-   "headline": "HCA Healthcare: Payer Mix Pressures, But Broad Trends On Track",
-   "summary": "HCA Healthcare, Inc. is reiterated at Hold, with shares trading near fair value and a mixed technical outlook. Read more on HCA stock here.",
-   "url": "https://finnhub.io/api/news?id=0fea5a9550667619ec1726eaf0ac6279bd4e07536e492881da1919e558c30527",
-   "source": "SeekingAlpha",
-   "published": "2026-10-28T10:16:30+00:00",
-   "tickers": [
-    "HCA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
    ]
   }
  ]
