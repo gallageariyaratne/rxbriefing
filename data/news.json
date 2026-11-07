@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-07T18:02:28.202496+00:00",
+ "updated": "2026-11-07T18:17:21.087296+00:00",
  "quotes": {
   "ABBV": {
    "price": 291.31,
@@ -225,10 +225,6 @@
   "SNY": {
    "price": 47.04,
    "change_pct": 0.28
-  },
-  "SRPT": {
-   "price": 17.82,
-   "change_pct": 1.42
   },
   "SYK": {
    "price": 325.87,
@@ -886,6 +882,21 @@
  },
  "stories": [
   {
+   "id": "7ef0cc013c53",
+   "headline": "HCA Healthcare: 3 Key Takeaways for Long-Term Investors",
+   "summary": "Cost discipline and digital initiatives must offset payer mix headwinds for HCA to hit multiyear growth targets.",
+   "url": "https://finnhub.io/api/news?id=deb76b20fe787f4ef0599ae955ac9ef5df4316321c0eb9333beb8d9341a406e3",
+   "source": "Yahoo",
+   "published": "2026-11-07T17:35:02+00:00",
+   "tickers": [
+    "HCA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "37e18eb5d450",
    "headline": "STAT+: BIO joins the legal fight against Medicare pilot that ties drug prices to peer countries",
    "summary": "The model is a test of Trump's most-favored nation approach to drug pricing, though its impact is likely to be limited.",
@@ -895,6 +906,36 @@
    "tickers": [],
    "tag": "Policy",
    "sectors": []
+  },
+  {
+   "id": "578de4abe990",
+   "headline": "McKesson Q2 Earnings Call Highlights",
+   "summary": "McKesson (NYSE:MCK) raised its fiscal 2027 adjusted earnings outlook after reporting higher second-quarter revenue and profit, supported by prescription volumes, specialty distribution and demand for medication access services. The\u2026",
+   "url": "https://finnhub.io/api/news?id=324e7390ffa12872fad435465255a98196015e38918473836ca3a8abdce33f86",
+   "source": "Yahoo",
+   "published": "2026-11-07T16:14:30+00:00",
+   "tickers": [
+    "MCK"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
+  {
+   "id": "0152aa108fe6",
+   "headline": "3 Healthcare Stocks for Expanded Medicaid and ACA Coverage",
+   "summary": "Washington is suddenly friendlier to public health programs, and that shift could ripple straight through hospital billing departments and into share prices. Expanded Medicaid and ACA support would not just tweak policy; it could reshape\u2026",
+   "url": "https://finnhub.io/api/news?id=dad5df03cce637eee5ac8bf8cc6b79dfced80a6dd51003f89ea561134662df96",
+   "source": "Yahoo",
+   "published": "2026-11-07T16:11:10+00:00",
+   "tickers": [
+    "CI"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "payers"
+   ]
   },
   {
    "id": "5bce5e5bfb83",
@@ -68542,100 +68583,6 @@
     "NVO"
    ],
    "tag": "GLP-1",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "e3c52e8eb017",
-   "headline": "'Numbers speak for themselves': Biogen's Apellis buyout fuels best quarter since 2020",
-   "summary": "Biogen CEO Chris Viehbacher said, \"We're dramatically changing Biogen\" on third quarter earnings call where the biotech announced revenue increase 11% year-over-yera.",
-   "url": "https://www.fiercepharma.com/pharma/biogens-claims-return-growth-q3-earnings-boost",
-   "source": "Fierce Pharma",
-   "published": "2026-10-28T18:15:26.756366+00:00",
-   "tickers": [
-    "APLS",
-    "BIIB"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "biotech",
-    "pharma"
-   ]
-  },
-  {
-   "id": "15a91e2248c0",
-   "headline": "GE HealthCare (GEHC) Buys Into PET Supply After Strong Q3 And New Imaging Push",
-   "summary": "GE HealthCare Technologies (NasdaqGS:GEHC) reported robust Q3 performance alongside updates on its molecular imaging and ultrasound portfolio. The company agreed to acquire SOFIE Biosciences to expand its U.S. PET radiopharmaceutical\u2026",
-   "url": "https://finnhub.io/api/news?id=a338d2b034c84168911d32eed150bf3ee55ab760eb448bc6d24e272ba7aa0a14",
-   "source": "Yahoo",
-   "published": "2026-10-28T18:11:42+00:00",
-   "tickers": [
-    "GEHC"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "c521802dee6f",
-   "headline": "GE HealthCare Technologies Inc. Q3 2026 Earnings Call Summary",
-   "summary": "Moby summary of GE HealthCare Technologies Inc.'s Q3 2026 earnings call",
-   "url": "https://finnhub.io/api/news?id=688622a097202c8f0973ff5f43af5cb5cb0cc9e3f9fa7ac3708dc6b4449fc4d2",
-   "source": "Yahoo",
-   "published": "2026-10-28T18:10:47+00:00",
-   "tickers": [
-    "GEHC"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "0259e1f5a941",
-   "headline": "Sector Update: Healthcare Stocks Advance Wednesday Afternoon",
-   "summary": "Healthcare stocks rose Wednesday afternoon, with the NYSE Healthcare Index up 0.2% and the State Str",
-   "url": "https://finnhub.io/api/news?id=58190a2364c2ddb897ef841d58ec5cafa2c8f68b42b71d8abbf28da1144aacc4",
-   "source": "Yahoo",
-   "published": "2026-10-28T18:06:49+00:00",
-   "tickers": [
-    "BSX",
-    "LLY",
-    "NVO"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "28f772853b5a",
-   "headline": "Boston Scientific Sinks 12% as Cyberattack Forces Guidance Cut: \u201cA Challenging Year\u201d",
-   "summary": "Key TakeawaysBoston Scientific shares fell as much as 12% after it cut its 2026 adjusted EPS outlook to $3. 16 to $3.",
-   "url": "https://finnhub.io/api/news?id=6b22c740322c9cd2a00bbe35fe111f9e1435e071d81f51f3bc26c6cfb6226d16",
-   "source": "Yahoo",
-   "published": "2026-10-28T18:06:20+00:00",
-   "tickers": [
-    "BSX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "f500b4769f45",
-   "headline": "What GSK (GSK) Said on Its Q3 Earnings Call",
-   "summary": "GSK (NYSE:GSK) reported third-quarter sales growth of 5% at constant exchange rates to \u00a38.9 billion, supported by specialty medicines, new product launches and oncology growth. Core operating profit increased 5%, while core earnings per\u2026",
-   "url": "https://finnhub.io/api/news?id=c2299e3465b391b011b984ac878ec620bbfc854e0977bf27ccee859482ea531d",
-   "source": "Yahoo",
-   "published": "2026-10-28T18:04:51+00:00",
-   "tickers": [
-    "GSK"
-   ],
-   "tag": "Earnings",
    "sectors": [
     "pharma"
    ]
