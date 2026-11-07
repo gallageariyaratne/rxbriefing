@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-07T09:47:27.416186+00:00",
+ "updated": "2026-11-07T10:02:36.074243+00:00",
  "quotes": {
   "A": {
    "price": 174.76,
@@ -273,6 +273,10 @@
   "SNY": {
    "price": 47.04,
    "change_pct": 0.28
+  },
+  "SRPT": {
+   "price": 17.82,
+   "change_pct": 1.42
   },
   "TDOC": {
    "price": 8.77,
@@ -933,6 +937,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "36f216256eb9",
+   "headline": "iRhythm Holdings (IRTC) Stock Could Be A Bargain On Its 49% Slump",
+   "summary": "iRhythm Holdings shares have fallen sharply this year, and that kind of reset naturally raises a question for investors about how the current price lines up with the company\u2019s sales base. After a stretch of mixed headlines around product\u2026",
+   "url": "https://finnhub.io/api/news?id=b5646e56e7c2fd66c67fab4079503adf835185398d5eac95b4a02436ec4c1e32",
+   "source": "Yahoo",
+   "published": "2026-11-07T09:16:28+00:00",
+   "tickers": [
+    "IRTC"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
   {
    "id": "35dc70e55db3",
    "headline": "Why Is AbbVie (ABBV) Spending $1.37 Billion On Pipeline And UK Research?",
@@ -1711,7 +1730,9 @@
    "source": "ChartMill",
    "published": "2026-11-06T20:06:23+00:00",
    "tickers": [
+    "CNC",
     "CRL",
+    "MRNA",
     "PODD"
    ],
    "tag": "News",
@@ -2128,7 +2149,8 @@
    "source": "Yahoo",
    "published": "2026-11-06T18:15:01+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "SRPT"
    ],
    "tag": "Clinical",
    "sectors": [
@@ -2306,6 +2328,7 @@
    "published": "2026-11-06T17:36:08+00:00",
    "tickers": [
     "BSX",
+    "CNC",
     "CRL",
     "PODD"
    ],
@@ -2936,6 +2959,21 @@
    ]
   },
   {
+   "id": "e60184c97ea8",
+   "headline": "Sarepta (SRPT) Q3 2026 Earnings Call Transcript",
+   "summary": "Gene therapy demand stabilizes while siRNA readouts and FDA talks loom ahead.",
+   "url": "https://finnhub.io/api/news?id=68e2e45dd45686ccde4d044b4868afd252f87045f4b4b76f01cb586eb896b310",
+   "source": "Yahoo",
+   "published": "2026-11-06T16:14:54+00:00",
+   "tickers": [
+    "SRPT"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "9b4543cb93e7",
    "headline": "STAT+: Zolgensma tumor cases show risks of a common gene therapy tool",
    "summary": "New cases show AAV gene therapies like Zolgensma carry tumor risks, raising key concerns for SMA patients and gene therapy researchers in general.",
@@ -3154,6 +3192,7 @@
    "source": "ChartMill",
    "published": "2026-11-06T15:36:11+00:00",
    "tickers": [
+    "CNC",
     "PODD",
     "VEEV"
    ],
@@ -3361,7 +3400,8 @@
    "source": "Yahoo",
    "published": "2026-11-06T15:07:19+00:00",
    "tickers": [
-    "BDX"
+    "BDX",
+    "IRTC"
    ],
    "tag": "Analyst",
    "sectors": [
@@ -3835,6 +3875,21 @@
    ]
   },
   {
+   "id": "6d5c759d55f0",
+   "headline": "SRPT Q3 Earnings Miss Estimates, Stock Down as Elevidys Sales Decline",
+   "summary": "Sarepta's mixed Q3 results send shares down, as earnings miss and weaker Elevidys sales weigh on investor sentiment.",
+   "url": "https://finnhub.io/api/news?id=5e30ba16f6e6ddabeddd99d563b202683b9bd63cf7ed7e1fe24ff000c29e1fa0",
+   "source": "Yahoo",
+   "published": "2026-11-06T14:21:00+00:00",
+   "tickers": [
+    "SRPT"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "dad1aef86533",
    "headline": "Is Eli Lilly Stock Worth More Than Its Competitors?",
    "summary": "For questions about this article or underlying research, email help@trefis.com.",
@@ -3867,6 +3922,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "d9fe25ad8681",
+   "headline": "iRhythm Holdings to Participate in Upcoming Investor Conferences",
+   "summary": "SAN FRANCISCO, Nov. 06, 2026 (GLOBE NEWSWIRE) -- iRhythm Holdings, Inc. (NASDAQ: IRTC), a leading digital health care company with a mission to create trusted solutions that detect, predict, and prevent disease, today announced that it\u2026",
+   "url": "https://finnhub.io/api/news?id=76e71079d2a21090d7432c5ff5aa5e83feba403b88ee39045bcabdecd432daba",
+   "source": "Yahoo",
+   "published": "2026-11-06T14:15:00+00:00",
+   "tickers": [
+    "IRTC"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -5050,6 +5120,21 @@
    ]
   },
   {
+   "id": "3cec4b93a523",
+   "headline": "Sarepta Therapeutics Inc (SRPT) Q3 2026 Earnings Call Highlights: Revenue Guidance Raised ...",
+   "summary": "Sarepta Therapeutics Inc (SRPT) narrows 2026 product revenue guidance to $1.25--$1.3 billion while advancing DM1 and FSHD siRNA programs toward registrational studies.",
+   "url": "https://finnhub.io/api/news?id=69df6cb17096c32ce189ab7f905193e8f87f8304a405c39530be58989069f9ed",
+   "source": "Yahoo",
+   "published": "2026-11-06T11:18:14+00:00",
+   "tickers": [
+    "SRPT"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "976bb37ccbd3",
    "headline": "CVS Health plans standalone retail pharmacy business by 2028",
    "summary": "The retail company will be named CVS Pharmacy.",
@@ -5674,6 +5759,21 @@
    ]
   },
   {
+   "id": "36920ce47731",
+   "headline": "Sarepta Therapeutics Q3 Earnings Call Highlights",
+   "summary": "Sarepta Therapeutics (NASDAQ:SRPT) raised the low end of its 2026 product revenue forecast after reporting stable demand indicators for Duchenne muscular dystrophy gene therapy ELEVIDYS and continued strength in its exon-skipping drug\u2026",
+   "url": "https://finnhub.io/api/news?id=79d88d7beaa29228db6e5b9accd243f973a2931ad8b64602d28f65e9742619c2",
+   "source": "Yahoo",
+   "published": "2026-11-06T09:14:52+00:00",
+   "tickers": [
+    "SRPT"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "6f81eb365e13",
    "headline": "What Lexicon Pharmaceuticals (LXRX) Said on Its Q3 Earnings Call",
    "summary": "Lexicon Pharmaceuticals (NASDAQ:LXRX) expects two key milestones in the first quarter of 2027: results from a pivotal heart disease trial and a resubmission of its application for a type 1 diabetes treatment, executives said on the\u2026",
@@ -5957,6 +6057,21 @@
    "tag": "Earnings",
    "sectors": [
     "healthit"
+   ]
+  },
+  {
+   "id": "b002478ad70f",
+   "headline": "What iRhythm Technologies (IRTC) Said on Its Q3 Earnings Call",
+   "summary": "iRhythm Technologies (NASDAQ:IRTC) raised its 2026 revenue and profitability outlook after reporting third-quarter growth driven by its core Zio monitor business, even as demand for its Zio AT telemetry product fell short of expectations.\u2026",
+   "url": "https://finnhub.io/api/news?id=1d41c7045aed0ef58e653f0a711b03dc99ed028a304874d7bd88e6a508a6b2cf",
+   "source": "Yahoo",
+   "published": "2026-11-06T08:14:42+00:00",
+   "tickers": [
+    "IRTC"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -6288,6 +6403,21 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "725e6807d029",
+   "headline": "iRhythm (IRTC) Q3 2026 Earnings Call Transcript",
+   "summary": "Zio AT softened as buyers waited on VitalConnect, yet margins surged.",
+   "url": "https://finnhub.io/api/news?id=443af3e906d4d6d3a8f8f6e1a7d25a29de72fe00513763a993bbede7a917924e",
+   "source": "Yahoo",
+   "published": "2026-11-06T06:28:49+00:00",
+   "tickers": [
+    "IRTC"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -7191,6 +7321,21 @@
    "published": "2026-11-06T00:00:13+00:00",
    "tickers": [
     "MDT"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "fe365c446a2d",
+   "headline": "iRhythm Holdings, Inc. (IRTC) Q3 Earnings Surpass Estimates",
+   "summary": "IRHYTHM HLDGS (IRTC) delivered earnings and revenue surprises of +4,000.00% and -0.31%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=403d931611aaea5038708f8e8dab055b96a4af57c01b593b8c9ac2652bb116bc",
+   "source": "Yahoo",
+   "published": "2026-11-06T00:00:12+00:00",
+   "tickers": [
+    "IRTC"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -71295,83 +71440,6 @@
    "tag": "Earnings",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "56f06bf026bf",
-   "headline": "Biogen Crushes Earnings Estimates. As Old Blockbusters Fade, New Bets Pick Up the Slack.",
-   "summary": "Biogen is leaning on newer drugs, including recently acquired assets, as its multiple sclerosis franchise faces ongoing competition.",
-   "url": "https://finnhub.io/api/news?id=6d39fdd58057f30a155224114223705b28c4566931152024475047c19ad94c70",
-   "source": "Yahoo",
-   "published": "2026-10-28T10:01:00+00:00",
-   "tickers": [
-    "BIIB",
-    "GILD",
-    "VRTX"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "fde8a333c6d9",
-   "headline": "Here\u2019s How Much Eli Lilly Stock Is Expected to Move After Earnings",
-   "summary": "Eli Lilly is set to report earnings Thursday morning, with traders expecting a move that could send the stock to a fresh high.",
-   "url": "https://finnhub.io/api/news?id=e29ca12f6f9e601d413df690496cb6fee560ae791861415ea0346ea4c5a0f046",
-   "source": "Yahoo",
-   "published": "2026-10-28T10:00:00+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "e6ba34b4b7ad",
-   "headline": "Wedbush Maintains Outperform on Beam Therapeutics, Lowers Price Target to $28",
-   "summary": "Wedbush analyst David Nierengarten maintains Beam Therapeutics (NASDAQ:BEAM) with a Outperform and lowers the price target from $65 to $28.",
-   "url": "https://finnhub.io/api/news?id=4155bb196633175aa173aa96ce7f5716f4c67112ab257b8bf99803fef3f047cb",
-   "source": "Benzinga",
-   "published": "2026-10-28T09:55:26+00:00",
-   "tickers": [
-    "BEAM"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "1c7f6905162e",
-   "headline": "UnitedHealth: Raised Premiums, Market Exits, And Member Attrition Deliver Future Resilience",
-   "summary": "UnitedHealth Group Incorporated remains a Buy, with the growing FCF, disciplined capital returns, and healthy balance sheet. Click here for more on UNH stock.",
-   "url": "https://finnhub.io/api/news?id=de57880bd2f3296c7de0a2187376871e4c878127211ee5f26d1e3c9f92bf22ff",
-   "source": "SeekingAlpha",
-   "published": "2026-10-28T09:49:41+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "a4f3ae02c50a",
-   "headline": "Biogen Q3 2026 Earnings Call Transcript",
-   "summary": "Biogen (NASDAQ:BIIB) reported third-quarter financial results on Wednesday. The transcript from the company\u2019s third-quarter earnings call has been provided below.This transcript is brought to you by Benzinga APIs. For",
-   "url": "https://finnhub.io/api/news?id=a5bae5e39fc2b4daf81ddcb0240db5f6c5ba5c20079563cc74e7dff5d95e1380",
-   "source": "Benzinga",
-   "published": "2026-10-28T09:46:33+00:00",
-   "tickers": [
-    "BIIB"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
