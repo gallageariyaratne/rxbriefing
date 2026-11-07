@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-07T00:47:24.441021+00:00",
+ "updated": "2026-11-07T01:02:41.577489+00:00",
  "quotes": {
   "A": {
    "price": 174.76,
@@ -146,6 +146,10 @@
    "price": 103.63,
    "change_pct": 0.16
   },
+  "HSIC": {
+   "price": 86.05,
+   "change_pct": 0.87
+  },
   "HUM": {
    "price": 433.74,
    "change_pct": 5.33
@@ -249,10 +253,6 @@
   "SNY": {
    "price": 47.04,
    "change_pct": 0.28
-  },
-  "SRPT": {
-   "price": 17.82,
-   "change_pct": 1.42
   },
   "SYK": {
    "price": 325.87,
@@ -936,6 +936,7 @@
     "CAH",
     "COR",
     "CVS",
+    "HSIC",
     "MCK"
    ],
    "tag": "News",
@@ -1364,6 +1365,21 @@
     "LLY"
    ],
    "tag": "GLP-1",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "a678cb5d36f6",
+   "headline": "Tech Stocks Rebound But Nasdaq Is Still In Correction Territory",
+   "summary": "Nvidia, Micron lead tech recovery. Jobs report comes in better than expected",
+   "url": "https://finnhub.io/api/news?id=c7b6c75c168ed93832eef1ecf7cd5b76d8460ecd86fd5da248568a28e38ba4ba",
+   "source": "SeekingAlpha",
+   "published": "2026-11-06T19:10:00+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "News",
    "sectors": [
     "pharma"
    ]
@@ -8438,6 +8454,21 @@
    "tag": "Earnings",
    "sectors": [
     "healthai"
+   ]
+  },
+  {
+   "id": "c4277e39a614",
+   "headline": "Could the Midterms Revive Medicare for All? 3 Healthcare Stocks to Watch",
+   "summary": "As Medicare for All regains attention after Democrats' 2026 midterm wins, Addus HomeCare, Aveanna Healthcare and National Vision stand out as stocks with Medicaid reimbursement upside.",
+   "url": "https://finnhub.io/api/news?id=d130f599e2903bcf41c13032edc575240c3118a27aac83dc2a762104662371f5",
+   "source": "Yahoo",
+   "published": "2026-11-05T18:55:00+00:00",
+   "tickers": [
+    "HIMS"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "healthit"
    ]
   },
   {
