@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-07T18:17:21.087296+00:00",
+ "updated": "2026-11-07T18:32:19.668322+00:00",
  "quotes": {
   "ABBV": {
    "price": 291.31,
@@ -198,10 +198,6 @@
    "price": 162.55,
    "change_pct": 0.38
   },
-  "OSCR": {
-   "price": 30.65,
-   "change_pct": -7.63
-  },
   "PEN": {
    "price": 319.21,
    "change_pct": -0.59
@@ -213,10 +209,6 @@
   "PODD": {
    "price": 146.51,
    "change_pct": -6.16
-  },
-  "RMD": {
-   "price": 235.3,
-   "change_pct": -1.68
   },
   "ROIV": {
    "price": 38.88,
@@ -3007,6 +2999,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "4a9f7cc9cec8",
+   "headline": "CVS Raised Its Outlook and Announced a Breakup\u2014So Why Did the Stock Drop?",
+   "summary": "CVS Health beat Q3 earnings estimates and raised guidance, but shares fell 12% after it announced an unspecified 2028 split of its health services and pharmacy businesses, leaving analysts and investors awaiting more details.",
+   "url": "https://finnhub.io/api/news?id=1df1dee67a742c370fb02ba482e13225e9ed40b9a4214226c62d29600cb06b17",
+   "source": "Yahoo",
+   "published": "2026-11-06T17:50:00+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -68569,22 +68576,6 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "f58a533a5a9d",
-   "headline": "Lilly\u2019s retatrutide beats Ozempic in head-to-head trial",
-   "summary": "This is the first Phase III comparator trial for Lilly\u2019s triple therapy against Novo Nordisk\u2019s Ozempic.",
-   "url": "https://finnhub.io/api/news?id=80bb138cc088ee38ba4e92963e4e15fd9a419973771043debeadb3dbb3c7aa28",
-   "source": "Yahoo",
-   "published": "2026-10-28T18:23:29+00:00",
-   "tickers": [
-    "LLY",
-    "NVO"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
