@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-07T18:32:19.668322+00:00",
+ "updated": "2026-11-07T18:47:11.037318+00:00",
  "quotes": {
   "ABBV": {
    "price": 291.31,
@@ -907,6 +907,7 @@
    "source": "Yahoo",
    "published": "2026-11-07T16:14:30+00:00",
    "tickers": [
+    "CAH",
     "MCK"
    ],
    "tag": "Earnings",
@@ -2065,6 +2066,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "a8bc5bf98b0d",
+   "headline": "Exxon or Pfizer: The One Dividend Stock I\u2019d Hold for the Next 10 Years",
+   "summary": "Key TakeawaysExxonMobil raised its quarterly dividend 4% to $1. 07 a share on Oct.",
+   "url": "https://finnhub.io/api/news?id=417fd4eec5bf4a82a371603659e1c3454e6da5310688264ee6f8ff4d83a9e06a",
+   "source": "Yahoo",
+   "published": "2026-11-06T21:52:33+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "442f479ceeae",
@@ -68424,158 +68440,6 @@
    "tag": "Policy",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "05d9587f5443",
-   "headline": "Counsel Health launches AI-native weight management program, inks partnership with Lilly Direct",
-   "summary": "Counsel Health is moving into the crowded GLP-1 market with an AI-native weight-management program.",
-   "url": "https://www.fiercehealthcare.com/digital-health/counsel-health-launches-weight-management-program-collabs-eli-lillys-lillydirect",
-   "source": "Fierce Healthcare",
-   "published": "2026-10-28T18:45:22.869696+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "f7deed36ccec",
-   "headline": "UHS Misses Q3 Earnings Estimates Despite Higher Patient Volumes",
-   "summary": "Universal Health Services' Q3 earnings fall 8.3% despite revenue growth, as rising costs and Acute Care pricing pressure offset higher patient volumes.",
-   "url": "https://finnhub.io/api/news?id=7cd3d429dd08f8b9416634cf43dbe334d07b1db1d76baea06df52bfbab8ba3a4",
-   "source": "Yahoo",
-   "published": "2026-10-28T18:45:00+00:00",
-   "tickers": [
-    "GMED",
-    "UHS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "85799b958b4c",
-   "headline": "Labcorp: Q3 Earnings Snapshot",
-   "summary": "(LH) on Wednesday reported third-quarter earnings of $262.The Burlington, North Carolina-based company said it had profit of $3.",
-   "url": "https://finnhub.io/api/news?id=4a4f3c92217b58e7ada3d63943c4ae699c4a9ca84eb0a37fa94f9c6e822b7410",
-   "source": "Yahoo",
-   "published": "2026-10-28T18:37:43+00:00",
-   "tickers": [
-    "LH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "a35ad10d5a80",
-   "headline": "GE HealthCare: Q3 Earnings Snapshot",
-   "summary": "CHICAGO (AP) \u2014 CHICAGO (AP) \u2014 GE HealthCare Technologies Inc. (GEHC) on Wednesday reported third-quarter profit of $615 million.",
-   "url": "https://finnhub.io/api/news?id=9d2ef3b1f19a7f444a53606694823373995961fc7e819f5bda79bbf0260b9435",
-   "source": "Yahoo",
-   "published": "2026-10-28T18:36:33+00:00",
-   "tickers": [
-    "GEHC"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "931c5ba7d5c2",
-   "headline": "Glaxo: Q3 Earnings Snapshot",
-   "summary": "LONDON (AP) \u2014 LONDON (AP) \u2014 GSK plc (GSK) on Wednesday reported third-quarter net income of $2.On a per-share basis, the London-based company said it had net income of $1.",
-   "url": "https://finnhub.io/api/news?id=7e156e771f0cd0111b795a28e305999c0694ad6f2edfae78aca1cd54234bd78f",
-   "source": "Yahoo",
-   "published": "2026-10-28T18:36:32+00:00",
-   "tickers": [
-    "GSK"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "09064f9b8eca",
-   "headline": "Boston Scientific: Q3 Earnings Snapshot",
-   "summary": "(BSX) on Wednesday reported third-quarter profit of $582 million.The Marlborough, Massachusetts-based company said it had profit of 40 cents per share.",
-   "url": "https://finnhub.io/api/news?id=a8ad1e5b917ad295e7e31c043519464d8e5beaaab8c4b45c29a9cea4a91993db",
-   "source": "Yahoo",
-   "published": "2026-10-28T18:36:29+00:00",
-   "tickers": [
-    "BSX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "0abbf8f1cfb2",
-   "headline": "Universal Health Services: Q3 Earnings Snapshot",
-   "summary": "(AP) \u2014 Universal Health Services Inc. (UHS) on Tuesday reported third-quarter net income of $308.",
-   "url": "https://finnhub.io/api/news?id=3bd3a35cfac2bbda512ebc4685d19727be9381f7f38d5d89393313b26f9588ab",
-   "source": "Yahoo",
-   "published": "2026-10-28T18:36:08+00:00",
-   "tickers": [
-    "UHS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "84c9dce3b267",
-   "headline": "Canaccord Genuity Maintains Buy on Regeneron Pharmaceuticals, Raises Price Target to $922",
-   "summary": "Canaccord Genuity analyst John Newman maintains Regeneron Pharmaceuticals (NASDAQ:REGN) with a Buy and raises the price target from $875 to $922.",
-   "url": "https://finnhub.io/api/news?id=e7a2b9752e7a602d655f0196d335e8cf67420ae39df04740c275bb98b8348174",
-   "source": "Benzinga",
-   "published": "2026-10-28T18:35:09+00:00",
-   "tickers": [
-    "REGN"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "eba429e55692",
-   "headline": "Twist Bioscience Soars 12%, 10x Genomics Up 12% as Genomics Stocks Rebound",
-   "summary": "Key TakeawaysTwist Bioscience and 10x Genomics both rose 12% today, and neither company had news of its own. ICON rose 13% after its third-quarter gross bookings jumped 26.",
-   "url": "https://finnhub.io/api/news?id=cc43cafef1ca626b001880e5efeb9f966a272223f092db4c195889e8962408dc",
-   "source": "Yahoo",
-   "published": "2026-10-28T18:34:51+00:00",
-   "tickers": [
-    "TWST",
-    "TXG"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "50667c71da20",
-   "headline": "Ensign Group: Q3 Earnings Snapshot",
-   "summary": "(AP) \u2014 SAN JUAN CAPISTRANO, Calif. (ENSG) on Tuesday reported profit of $104.",
-   "url": "https://finnhub.io/api/news?id=7706ebffd312290dab9beb135df423aeed716cc6967dcb645542ce7dbb5f22b2",
-   "source": "Yahoo",
-   "published": "2026-10-28T18:34:22+00:00",
-   "tickers": [
-    "ENSG"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
    ]
   }
  ]
