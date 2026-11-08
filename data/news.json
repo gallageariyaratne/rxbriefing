@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-08T03:02:26.526546+00:00",
+ "updated": "2026-11-08T03:17:20.586153+00:00",
  "quotes": {
   "ABBV": {
    "price": 291.31,
@@ -22,6 +22,10 @@
    "price": 460.42,
    "change_pct": 0.03
   },
+  "ARGX": {
+   "price": 927.21,
+   "change_pct": 3.63
+  },
   "ARWR": {
    "price": 58.16,
    "change_pct": 1.22
@@ -29,6 +33,10 @@
   "AXSM": {
    "price": 132.37,
    "change_pct": 1.98
+  },
+  "AZN": {
+   "price": 186.43,
+   "change_pct": -0.22
   },
   "BDX": {
    "price": 211.88,
@@ -93,6 +101,10 @@
   "GEHC": {
    "price": 82.38,
    "change_pct": -1.64
+  },
+  "GH": {
+   "price": 150.87,
+   "change_pct": -1.67
   },
   "GILD": {
    "price": 166.89,
@@ -225,6 +237,10 @@
   "TAK": {
    "price": 21.02,
    "change_pct": -0.8
+  },
+  "TEM": {
+   "price": 76.05,
+   "change_pct": 7.98
   },
   "THC": {
    "price": 283.33,
@@ -1044,6 +1060,21 @@
    ]
   },
   {
+   "id": "cbc868b22ce1",
+   "headline": "Guardant Health (GH) Now Has A Harder Patent Fight After 23 Claims Survived",
+   "summary": "Guardant Health (NasdaqGS:GH) faces higher legal pressure after the USPTO confirmed patentability of TwinStrand's Duplex Sequencing patent claims. The US patent office upheld all 23 claims in TwinStrand Biosciences' core Duplex Sequencing\u2026",
+   "url": "https://finnhub.io/api/news?id=c0ef1b653d899fb201a45510b7a55ba62f435eba6f8f926b4ec6ef22dc4c65a7",
+   "source": "Yahoo",
+   "published": "2026-11-07T23:10:38+00:00",
+   "tickers": [
+    "GH"
+   ],
+   "tag": "Legal",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "191a55922549",
    "headline": "GE HealthCare Technologies (GEHC) Led A $160 Million Cardiac Imaging Investment",
    "summary": "GE HealthCare Technologies (NasdaqGS:GEHC) led Laza Medical's Series B round, raising US$160 million to fund AI-based cardiac imaging. The financing aims to advance robotic imaging systems for cardiac procedures using artificial\u2026",
@@ -1071,6 +1102,36 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "8ab34265fc77",
+   "headline": "3 British Biotech Stocks With P E Under 27 To Watch",
+   "summary": "The Bank of England has lifted interest rates for the first time in years, pushing up borrowing costs just as living expenses bite harder. Higher rates often squeeze highly indebted firms, which puts financially healthier British biotech\u2026",
+   "url": "https://finnhub.io/api/news?id=564cd6de46597444cd90e9293718eba59893fb13a5bd10511767390aa133d973",
+   "source": "Yahoo",
+   "published": "2026-11-07T22:13:24+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "a986a46db573",
+   "headline": "Tempus AI: Q3 Strengthens The Platform Thesis, But Cash Returns Still Need To Catch Up",
+   "summary": "Tempus is rated hold as valuation reflects future success.",
+   "url": "https://finnhub.io/api/news?id=75c145cf7591f8e8d14d36d72f7376cb3499c6d3a8ca8c93797661301c67e491",
+   "source": "SeekingAlpha",
+   "published": "2026-11-07T21:48:27+00:00",
+   "tickers": [
+    "TEM"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthai"
    ]
   },
   {
@@ -1550,6 +1611,21 @@
    "tag": "Clinical",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "ea8a3138f7b0",
+   "headline": "argenx Presents Phase 3 ALKIVIA Data at ACR Convergence 2026 Showing Rapid and Sustained Improvement with Efgartigimod in Autoimmune Myositis",
+   "summary": "ALKIVIA met its primary and key secondary endpoints in the combined IMNM and DM populationFirst Phase 3 study to demonstrate statistically significant and clinically meaningful benefit in IMNM, an autoimmune myositis subtype with no\u2026",
+   "url": "https://finnhub.io/api/news?id=cdddaec2b681c6b9fad3eca73be2e38055dfded46f474dc753deb0926430ca99",
+   "source": "Yahoo",
+   "published": "2026-11-07T15:01:00+00:00",
+   "tickers": [
+    "ARGX"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -6326,6 +6402,21 @@
    "published": "2026-11-06T13:30:00+00:00",
    "tickers": [
     "TXG"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "f660a070696e",
+   "headline": "Guardant Health, Inc. Q3 2026 Earnings Call Summary",
+   "summary": "Moby summary of Guardant Health, Inc.'s Q3 2026 earnings call",
+   "url": "https://finnhub.io/api/news?id=ac8f9dfcf938c9957ca9da1abbe45844344d4759d7cf3f80b9141b64aed0ffd7",
+   "source": "Yahoo",
+   "published": "2026-11-06T13:30:00+00:00",
+   "tickers": [
+    "GH"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -67872,36 +67963,6 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "a0c64511c2ed",
-   "headline": "Thermo Fisher (TMO) Stock Could Trade At A Premium On Strong Q3 Results",
-   "summary": "Thermo Fisher Scientific has delivered a strong share-price run in recent years, and that kind of climb naturally raises a question for you as an investor. Is the current US$704.15 price still in line with what the business can generate\u2026",
-   "url": "https://finnhub.io/api/news?id=8c261f764f7441473dd38cf8ad5549692c654f22c0703d83bc561564fe62bab4",
-   "source": "Yahoo",
-   "published": "2026-10-29T03:09:55+00:00",
-   "tickers": [
-    "TMO"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "52abde27b19d",
-   "headline": "GE HealthCare Technologies Q3 Earnings Call Highlights",
-   "summary": "GE HealthCare Technologies (NASDAQ:GEHC) reported third-quarter 2026 revenue growth across all of its business segments, supported by demand in imaging and pharmaceutical diagnostics, improved execution in patient care products and margin\u2026",
-   "url": "https://finnhub.io/api/news?id=512b8000b0d5d2f0cb802d6f2332cd42aed4bd748944daf91a20231dd969c022",
-   "source": "Yahoo",
-   "published": "2026-10-29T03:04:21+00:00",
-   "tickers": [
-    "GEHC"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
