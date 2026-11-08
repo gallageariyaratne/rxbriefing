@@ -1,22 +1,14 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-08T22:01:50.010932+00:00",
+ "updated": "2026-11-08T22:16:31.743854+00:00",
  "quotes": {
   "ABBV": {
    "price": 291.31,
    "change_pct": 1.07
   },
-  "ALGN": {
-   "price": 166,
-   "change_pct": 4.16
-  },
   "AMGN": {
    "price": 460.42,
    "change_pct": 0.03
-  },
-  "AZN": {
-   "price": 186.43,
-   "change_pct": -0.22
   },
   "BDX": {
    "price": 211.88,
@@ -113,10 +105,6 @@
   "SDGR": {
    "price": 29.82,
    "change_pct": 3.65
-  },
-  "SRPT": {
-   "price": 17.82,
-   "change_pct": 1.42
   },
   "SYK": {
    "price": 325.87,
@@ -745,6 +733,47 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "5986edcc4bdd",
+   "headline": "Survival after sudden cardiac arrest didn\u2019t improve despite training bystanders, emergency responders",
+   "summary": "A new study found survival after sudden cardiac arrest didn\u2019t improve with advance training of responders \u2014 but researchers aren't ready to shut the door on the possibility.",
+   "url": "https://www.statnews.com/2026/11/08/sudden-cardiac-arrest-survival-cpr-defibrillation-training/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-11-08T22:15:00+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "ed651b3f8646",
+   "headline": "CIDEB siRNA Normalizes Liver Fat and Improves Liver Injury Markers in MASLD Patients, as Highlighted at AASLD",
+   "summary": "Single administration of CIDEBsiRNA resulted in rapid, deep and durable reductions in liver fat by up to 80% that were sustained through 36 weeks Data from first-in-human trial were shared in oral presentation at AASLD The Liver Meeting\u00ae\u2026",
+   "url": "https://finnhub.io/api/news?id=065cca40b55693eb9268651e90fab65c8fa540d701d6524ceb4a23c297757e37",
+   "source": "Yahoo",
+   "published": "2026-11-08T21:00:00+00:00",
+   "tickers": [
+    "REGN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "e9b5eea4b5de",
+   "headline": "5 insightful analyst questions from McKesson\u2019s Q3 CY2026 earnings call",
+   "summary": "McKesson\u2019s results in the third quarter reflected continued momentum in its core pharmaceutical distribution and specialty services. Management highlighted strong performance from North American Pharmaceutical and Oncology &\u2026",
+   "url": "https://finnhub.io/api/news?id=19960924c89d62f77ee0d44f7eb3050c1b73ea79bccf205d94799c88efd60e73",
+   "source": "Yahoo",
+   "published": "2026-11-08T20:37:36+00:00",
+   "tickers": [
+    "MCK"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
   {
    "id": "ea7485203d6c",
    "headline": "Intuitive Surgical Placed 546 da Vinci Systems Last Quarter. Why Wall Street's Sell-Off Misses the Point.",
@@ -3161,6 +3190,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "463c6c7e0eb4",
+   "headline": "Pfizer vs. AbbVie: Which Dividend Stock Pays You More in 10 Years?",
+   "summary": "Key TakeawaysAbbVie raised its quarterly dividend 5. 2% to $1.",
+   "url": "https://finnhub.io/api/news?id=4a30f2c3964fb4ebe187e5ec13b6c8ec14b4e92061ace4345f16602d3152e7e4",
+   "source": "Yahoo",
+   "published": "2026-11-06T21:53:54+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "426dd44ac9a8",
@@ -58107,130 +58151,6 @@
     "MOH"
    ],
    "tag": "Policy",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "6c47ee47e338",
-   "headline": "Eli Lilly and Company Q3 2026 Earnings Call Summary",
-   "summary": "Moby summary of Eli Lilly and Company's Q3 2026 earnings call",
-   "url": "https://finnhub.io/api/news?id=6bce70c20b0e9e3a00c93dab97b06633c3fd30df1e9ead89e309c4f4c6e7fd59",
-   "source": "Yahoo",
-   "published": "2026-10-29T22:15:36+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "58fbdca28b52",
-   "headline": "Merck & Co., Inc. Q3 2026 Earnings Call Summary",
-   "summary": "Moby summary of Merck & Co., Inc.'s Q3 2026 earnings call",
-   "url": "https://finnhub.io/api/news?id=19497c15e1eb174c74b6198e0c129eea99d6aec6c5a1c871aa30890e91f3ecaf",
-   "source": "Yahoo",
-   "published": "2026-10-29T22:15:24+00:00",
-   "tickers": [
-    "MRK"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "93f0f8899e22",
-   "headline": "Cyberattack Fallout Could Be A Game Changer For Boston Scientific (BSX)",
-   "summary": "Boston Scientific reported Q3 2026 sales of US$5,138 million and net income of US$582 million, alongside impairment charges and a reduced full year outlook after a prior cyberattack disrupted manufacturing and shipments. The updated\u2026",
-   "url": "https://finnhub.io/api/news?id=afbd779e76914045065f18b53910a2a935e7e8dd3300ab9ea2cc4d88b66ee413",
-   "source": "Yahoo",
-   "published": "2026-10-29T22:15:12+00:00",
-   "tickers": [
-    "BSX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "098c43396b1d",
-   "headline": "Illumina Q3 Earnings Call Highlights",
-   "summary": "Illumina (NASDAQ:ILMN) reported third-quarter results above its prior guidance, citing strong clinical sequencing demand, elevated NovaSeq X instrument placements and disciplined spending. The company raised its full-year revenue,\u2026",
-   "url": "https://finnhub.io/api/news?id=b3b0e9391584c6f3ac669743e823de39aeb0d79bdf33720cba7cc86108b6323d",
-   "source": "Yahoo",
-   "published": "2026-10-29T22:14:46+00:00",
-   "tickers": [
-    "ILMN"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "7ae5a762e889",
-   "headline": "Earnings Uncertainty Might Change The Case For Investing In McKesson Stock",
-   "summary": "McKesson's board has affirmed a regular quarterly dividend of US$0.94 per share, payable on 4 January 2027 to shareholders of record on 1 December 2026. This highlights ongoing cash returns alongside its broad healthcare distribution and\u2026",
-   "url": "https://finnhub.io/api/news?id=0817b26f43d0835973d9a0a42457c4183273670363aa5e8990605c6f0cbbd69d",
-   "source": "Yahoo",
-   "published": "2026-10-29T22:13:13+00:00",
-   "tickers": [
-    "MCK"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharmacy"
-   ]
-  },
-  {
-   "id": "a3d66f0f0981",
-   "headline": "After-Hours S&P 500 Movers: Mondelez and FedEx Freight Gain, Intel and Reddit Fall",
-   "summary": "S&P 500 after-hours movers: Mondelez International and FedEx Freight were among gainers, while Intel and Reddit were among decliners after today's U.S. session.",
-   "url": "https://finnhub.io/api/news?id=d18d7bab7797845f13b99c24f319750b03a8c72d11cbced0745eeeaf580067bc",
-   "source": "ChartMill",
-   "published": "2026-10-29T22:06:07+00:00",
-   "tickers": [
-    "DVA",
-    "GILD",
-    "ILMN",
-    "SYK",
-    "VRTX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "fea712a1456e",
-   "headline": "CareDx (CDNA) Surpasses Q3 Earnings and Revenue Estimates",
-   "summary": "CareDx (CDNA) delivered earnings and revenue surprises of +191.67% and +13.90%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
-   "url": "https://finnhub.io/api/news?id=86b5bb6d3871908eaf2ff9a3fc187ada119a20bf68b2798110024cc8a87e81e3",
-   "source": "Yahoo",
-   "published": "2026-10-29T22:05:04+00:00",
-   "tickers": [
-    "NTRA"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "14c090c6af15",
-   "headline": "Alignment Healthcare (ALHC) Reports Q3 Loss, Beats Revenue Estimates",
-   "summary": "Alignment Healthcare (ALHC) delivered earnings and revenue surprises of 0.00% and +3.63%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
-   "url": "https://finnhub.io/api/news?id=b6997d04e9f034f3a8d9a71966ebaa7ad4efd3a7e8e4bdec541f995ee002473f",
-   "source": "Yahoo",
-   "published": "2026-10-29T22:05:03+00:00",
-   "tickers": [
-    "ALHC"
-   ],
-   "tag": "Earnings",
    "sectors": [
     "payers"
    ]
