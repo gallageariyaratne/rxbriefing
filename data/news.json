@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-08T02:02:21.620700+00:00",
+ "updated": "2026-11-08T02:17:20.959152+00:00",
  "quotes": {
   "ABBV": {
    "price": 291.31,
@@ -29,10 +29,6 @@
   "AXSM": {
    "price": 132.37,
    "change_pct": 1.98
-  },
-  "AZN": {
-   "price": 186.43,
-   "change_pct": -0.22
   },
   "BDX": {
    "price": 211.88,
@@ -237,6 +233,10 @@
   "TMO": {
    "price": 694.76,
    "change_pct": 2.63
+  },
+  "TXG": {
+   "price": 59.28,
+   "change_pct": 2.1
   },
   "UNH": {
    "price": 394.15,
@@ -904,6 +904,21 @@
    ]
   },
   {
+   "id": "ab6371fc0ba6",
+   "headline": "Novo Nordisk Just Delivered Great News for Investors. Is a Comeback Finally Underway?",
+   "summary": "Novo got a much-needed boost from its latest earnings report.",
+   "url": "https://finnhub.io/api/news?id=b9905cd863054881b2b343e35ff7f5059352a4713db61ee2f115bf2716901f46",
+   "source": "Yahoo",
+   "published": "2026-11-07T23:40:02+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "495ec0e6fd9d",
    "headline": "5 Worst Dow Stocks To Buy According to Analysts",
    "summary": "Yahoo Finance reported on November 5 that the Dow Jones Industrial Average tumbled 3.4%, or more than 1,800 points, while the S&P 500 fell 4.4% and the Nasdaq Composite sank 5.5% into correction territory. Chip stocks took the brunt of\u2026",
@@ -998,6 +1013,7 @@
    "published": "2026-11-07T21:35:00+00:00",
    "tickers": [
     "LLY",
+    "NVO",
     "PFE"
    ],
    "tag": "GLP-1",
@@ -1091,6 +1107,21 @@
     "TAK"
    ],
    "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "c4af5de95402",
+   "headline": "Ginkgo Bioworks: 3 Key Takeaways for Long-Term Investors",
+   "summary": "Ginkgo's shift to physical data for AI labs is the thread tying its cost discipline to its hardware ambitions.",
+   "url": "https://finnhub.io/api/news?id=ee741ba8347510bf8f738f35015c8bbde1f40a028478a0c353e48eb090734310",
+   "source": "Yahoo",
+   "published": "2026-11-07T19:51:04+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "Health AI",
    "sectors": [
     "pharma"
    ]
@@ -1722,6 +1753,21 @@
    ]
   },
   {
+   "id": "ddf75bd849c7",
+   "headline": "10x Genomics (TXG) Could Be 24% Undervalued After Raising Its 2026 Revenue Outlook",
+   "summary": "10x Genomics (TXG) kicked off November with a busy run of news, capped by third quarter 2026 earnings that combined modest top line progress with a narrower loss and a higher full year revenue outlook. That mix of product launches, board\u2026",
+   "url": "https://finnhub.io/api/news?id=f09fa5251e3a6d821ebd0792331580b4545fa477ceda7c54d504823793521182",
+   "source": "Yahoo",
+   "published": "2026-11-07T11:11:16+00:00",
+   "tickers": [
+    "TXG"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "0016ec6cc8d3",
    "headline": "Anthropic IPO Roadshow Takes Center Stage As Earnings Take A Breather",
    "summary": "Preview next week's market movers: Fed speeches, inflation data, earnings, IPOs, and volatility trends. Read here for more details.",
@@ -1865,6 +1911,36 @@
    ]
   },
   {
+   "id": "96ccca88f1f3",
+   "headline": "What Evolent Health (EVH) Said on Its Q3 Earnings Call",
+   "summary": "Evolent Health (NYSE:EVH) raised the lower end of its 2026 adjusted earnings outlook after third-quarter revenue and profitability improved from the preceding quarter, helped by growth in its Performance Suite business and favorable\u2026",
+   "url": "https://finnhub.io/api/news?id=44d79be20307f4454b1051d5dc1938cfbfae518cb1c1529260989403395b12c4",
+   "source": "Yahoo",
+   "published": "2026-11-07T09:17:53+00:00",
+   "tickers": [
+    "EVH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
+   "id": "89230be73b13",
+   "headline": "Novo Nordisk (CPSE:NOVO B) Shares In Focus After Fresh Wegovy MASH Data",
+   "summary": "Novo Nordisk (CPSE:NOVO B) reported new real world data on Wegovy in patients with MASH at a major liver disease conference in early November 2026. The findings provided clinical evidence on semaglutide use in a MASH population identified\u2026",
+   "url": "https://finnhub.io/api/news?id=e828f6c240a909292e2cfb4f1b92e5ca576ee63e0a3a94b8fe33544d18683a1c",
+   "source": "Yahoo",
+   "published": "2026-11-07T09:17:16+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "36f216256eb9",
    "headline": "iRhythm Holdings (IRTC) Stock Could Be A Bargain On Its 49% Slump",
    "summary": "iRhythm Holdings shares have fallen sharply this year, and that kind of reset naturally raises a question for investors about how the current price lines up with the company\u2019s sales base. After a stretch of mixed headlines around product\u2026",
@@ -1967,6 +2043,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "6b5092581ee4",
+   "headline": "Ginkgo Bioworks Q3 Earnings Call Highlights",
+   "summary": "Ginkgo Bioworks (NYSE:DNA) reported lower third-quarter revenue but narrowed its loss as restructuring-related expense cuts took hold, while executives highlighted new customers for its autonomous laboratory systems and cloud-based lab\u2026",
+   "url": "https://finnhub.io/api/news?id=88a4f815ddfac6b85dfda813b1a94ea691e92cdd7bc87af644a56bfcf1174ac4",
+   "source": "Yahoo",
+   "published": "2026-11-07T08:17:55+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -6143,6 +6234,21 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "d67e88373ee1",
+   "headline": "10x Genomics, Inc. Q3 2026 Earnings Call Summary",
+   "summary": "Moby summary of 10x Genomics, Inc.'s Q3 2026 earnings call",
+   "url": "https://finnhub.io/api/news?id=4a517d9253472224bc5d4d59d02599f3e6dbfcf6fc6efd86db21f03508d44c35",
+   "source": "Yahoo",
+   "published": "2026-11-06T13:30:00+00:00",
+   "tickers": [
+    "TXG"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -67775,52 +67881,6 @@
    "published": "2026-10-29T02:16:28+00:00",
    "tickers": [
     "GKOS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "c3d950765e3b",
-   "headline": "Henry Schein (HSIC), What Is Behind The Fresh Attention Now?",
-   "summary": "Henry Schein (HSIC) heads into its upcoming November 3 earnings release with expectations for slightly lower quarterly earnings per share, even as revenue is projected higher, putting the focus firmly on profit resilience. Recent trading\u2026",
-   "url": "https://finnhub.io/api/news?id=287deedfa7953fab0290e4afe0b21220e3e5a2f0035b976cf7a08938772e4e5c",
-   "source": "Yahoo",
-   "published": "2026-10-29T02:09:03+00:00",
-   "tickers": [
-    "HSIC"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharmacy"
-   ]
-  },
-  {
-   "id": "32f6bfcfc631",
-   "headline": "Stock Market: Will S&P 500 Open Up or Down Today?",
-   "summary": "Will S&P 500 open higher? Polymarket odds dip to 47% as Wall Street weighs a tech selloff, Amazon earnings, PCE inflation, and cooling oil.",
-   "url": "https://finnhub.io/api/news?id=eda348712d0a50a8b9922886e8091b4c5f940dd49f04bcfbdf72413256ab3f25",
-   "source": "Benzinga",
-   "published": "2026-10-29T02:04:17+00:00",
-   "tickers": [
-    "LLY",
-    "MRK"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "783bf9d23d05",
-   "headline": "Align Technology Q3 Earnings Call Highlights",
-   "summary": "Align Technology (NASDAQ:ALGN) reported third-quarter 2026 revenue of $1.015 billion, up 1.9% from a year earlier, as higher clear aligner volumes and international growth helped offset continued pressure in discretionary dental spending\u2026",
-   "url": "https://finnhub.io/api/news?id=8e9794dc6cbfcc1a8dd3fddb9f626a2a2604a4b6e5cb70cb98f95a0ae6fa0b84",
-   "source": "Yahoo",
-   "published": "2026-10-29T02:04:03+00:00",
-   "tickers": [
-    "ALGN"
    ],
    "tag": "Earnings",
    "sectors": [
