@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-08T16:11:45.077399+00:00",
+ "updated": "2026-11-08T16:16:48.334295+00:00",
  "quotes": {
   "ABBV": {
    "price": 291.31,
@@ -34,14 +34,6 @@
    "price": 61.31,
    "change_pct": 5.6
   },
-  "CAH": {
-   "price": 271.72,
-   "change_pct": 1.46
-  },
-  "CI": {
-   "price": 293.59,
-   "change_pct": -2.62
-  },
   "CLOV": {
    "price": 4.82,
    "change_pct": 7.59
@@ -53,6 +45,10 @@
   "CVS": {
    "price": 83.85,
    "change_pct": 3.1
+  },
+  "DHR": {
+   "price": 230.25,
+   "change_pct": 1.73
   },
   "DOCS": {
    "price": 32.51,
@@ -122,10 +118,6 @@
    "price": 162.55,
    "change_pct": 0.38
   },
-  "OPCH": {
-   "price": 31.65,
-   "change_pct": 0.48
-  },
   "OSCR": {
    "price": 30.65,
    "change_pct": -7.63
@@ -133,6 +125,10 @@
   "PFE": {
    "price": 29.39,
    "change_pct": -1.64
+  },
+  "REGN": {
+   "price": 904.35,
+   "change_pct": 0.16
   },
   "RVMD": {
    "price": 192.28,
@@ -796,6 +792,51 @@
     "JNJ"
    ],
    "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "aa6eb67c2d3f",
+   "headline": "Is AbbVie Inc. (ABBV) the Best Healthcare Stock to Buy Following the 2026 Democratic Midterm Sweep?",
+   "summary": "We just published the list of the 10 Best Healthcare and Insurance Stocks To Buy Following the 2026 Democratic Midterm Sweep and AbbVie Inc. (ABBV) takes the 10th spot on the list. Healthcare stocks emerged as some of the clearest\u2026",
+   "url": "https://finnhub.io/api/news?id=f7036ed2e8bcf9fa2f07beb3e31c62a58044a850688717d5ff566a044e53bcf9",
+   "source": "Yahoo",
+   "published": "2026-11-08T15:43:13+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "34cbe33d620c",
+   "headline": "Democrats Win Midterms: 5 Best Healthcare and Insurance Stocks To Buy",
+   "summary": "Healthcare stocks emerged as some of the clearest beneficiaries of the Democrats\u2019 sweeping victory in the November 3 midterm elections, as investors reassessed the outlook for federal healthcare spending. With Democrats gaining control of\u2026",
+   "url": "https://finnhub.io/api/news?id=4337132f9f0400648e5c4649c50af84c1a8875a64a144cd167b955a3d8f46ca6",
+   "source": "Yahoo",
+   "published": "2026-11-08T15:42:04+00:00",
+   "tickers": [
+    "DHR"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "1dc32ed23469",
+   "headline": "Regeneron Pharmaceuticals (REGN) Extends BARDA Deal As Libtayo Long Term Data Holds Up",
+   "summary": "Regeneron Pharmaceuticals (NasdaqGS:REGN) reported new long-term Phase 3 data for Libtayo in high-risk cutaneous squamous cell carcinoma. The trial readout highlighted sustained disease-free and overall survival outcomes in patients\u2026",
+   "url": "https://finnhub.io/api/news?id=81af1d19f3a75ddb818ebfe482295df420a3a203405fbc9a825131fcae5b2ff0",
+   "source": "Yahoo",
+   "published": "2026-11-08T14:10:07+00:00",
+   "tickers": [
+    "REGN"
+   ],
+   "tag": "Clinical",
    "sectors": [
     "pharma"
    ]
@@ -60974,68 +61015,6 @@
    "tag": "Earnings",
    "sectors": [
     "tools"
-   ]
-  },
-  {
-   "id": "ef8e21d0c077",
-   "headline": "STAT+: The EPIC investigation, and a Teladoc surprise",
-   "summary": "In this edition of STAT Health Tech: An Epic investigation, a Teladoc surprise, and figuring out how to pay for AI.",
-   "url": "https://www.statnews.com/2026/10/29/epic-investigation-teladoc-surprise-ai-payment-model-health-tech/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-10-29T16:15:20+00:00",
-   "tickers": [
-    "TDOC"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "56655e43dc09",
-   "headline": "Exelixis Affirms FY2026 Sales Guidance of $2.500B-$2.550B vs $2.549B Est",
-   "summary": "Exelixis (NASDAQ:EXEL) affirms FY2026 sales outlook from $2.500 billion-$2.550 billion to $2.500 billion-$2.550 billion vs $2.549 billion estimate.",
-   "url": "https://finnhub.io/api/news?id=807b12f8309390f9a180b3887b5a0f74b9d0edfe33103e627b8b4f94e047c790",
-   "source": "Benzinga",
-   "published": "2026-10-29T16:14:50+00:00",
-   "tickers": [
-    "EXEL"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "f30ef64b8f54",
-   "headline": "Viking Therapeutics: Q3 Update - Why You Can't Discount This GLP-1 Player (Yet)",
-   "summary": "Viking Therapeutics, Inc. is advancing VK2735, a dual GLP-1/GIP agonist, targeting the obesity and diabetes market. I rate VKTX stock as Hold. Read my full update now.",
-   "url": "https://finnhub.io/api/news?id=7bd614fe8371da40056630e2a9671b07a58c834c25804e5f2a60a014af42bbc4",
-   "source": "SeekingAlpha",
-   "published": "2026-10-29T16:13:46+00:00",
-   "tickers": [
-    "LLY",
-    "NVO",
-    "VKTX"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "8c65fe52e277",
-   "headline": "Eli Lilly and Company Reports Q3 2026 Revenue of $24.4 billion and Updates Full-Year Guidance",
-   "summary": "",
-   "url": "https://finnhub.io/api/news?id=d9421ce54d6027a0f4f318fb8e615973b2743b928f8d422bc3514c967bd81e43",
-   "source": "Fintel",
-   "published": "2026-10-29T16:13:02+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
