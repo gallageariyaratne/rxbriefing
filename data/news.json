@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-08T17:01:58.036229+00:00",
+ "updated": "2026-11-08T17:16:50.805938+00:00",
  "quotes": {
   "ABBV": {
    "price": 291.31,
@@ -25,6 +25,10 @@
   "AZN": {
    "price": 186.43,
    "change_pct": -0.22
+  },
+  "BDX": {
+   "price": 211.88,
+   "change_pct": -0.78
   },
   "BMY": {
    "price": 62.14,
@@ -781,6 +785,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "450c4d9ca515",
+   "headline": "Becton, Dickinson and Price Target Increased by 11.04% to $224.78",
+   "summary": "",
+   "url": "https://finnhub.io/api/news?id=1bfd20d2823f210f3b6189b190ed43bbe86dbf3f51e1a8fcaf067799b3a62f5a",
+   "source": "Fintel",
+   "published": "2026-11-08T16:19:10+00:00",
+   "tickers": [
+    "BDX"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "medtech"
+   ]
+  },
   {
    "id": "470cf47ba396",
    "headline": "Johnson & Johnson reports 73% PSA response rate with investigational pasritamig-based immunotherapy combination in advanced prostate cancer",
@@ -60805,115 +60824,6 @@
     "ALNY"
    ],
    "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "1249861b1132",
-   "headline": "12 Health Care Stocks Moving In Thursday's After-Market Session",
-   "summary": "Gainers iSpecimen (NASDAQ:ISPC) stock moved upwards by 16.1% to $0.92 during Thursday's after-market session. The company's market cap stands at $2.2 million. CareDx (NASDAQ:CDNA) stock rose 15.0% to $82.25.",
-   "url": "https://finnhub.io/api/news?id=dd15b17e0f12cde0ce202c1edb1a426c007232b2e5d16219a406c6bbd7d2bd01",
-   "source": "Benzinga",
-   "published": "2026-10-29T17:15:32+00:00",
-   "tickers": [
-    "ALHC",
-    "ILMN",
-    "SYK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "6574fa7bca4b",
-   "headline": "JP Morgan Maintains Neutral on GE HealthCare Techs, Raises Price Target to $80",
-   "summary": "JP Morgan analyst Robbie Marcus maintains GE HealthCare Techs (NASDAQ:GEHC) with a Neutral and raises the price target from $70 to $80.",
-   "url": "https://finnhub.io/api/news?id=1aa5776f1c6b52ca9fd76ef3c54e9b1a5794f603d423550d220dd52d9e280900",
-   "source": "Benzinga",
-   "published": "2026-10-29T17:15:02+00:00",
-   "tickers": [
-    "GEHC"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "028ec6bd5ca0",
-   "headline": "This Stock Offers Juicy Option Premiums, But Also Is Highly Risky",
-   "summary": "Implied volatility currently sits at 87%, close to the highest levels for Tempus AI stock in the last 12 months.",
-   "url": "https://finnhub.io/api/news?id=4ef2ffe703405e608e249649c25b2f37e459abfd59dbf6e5594314731c26d08b",
-   "source": "Yahoo",
-   "published": "2026-10-29T17:14:25+00:00",
-   "tickers": [
-    "TEM"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "healthai"
-   ]
-  },
-  {
-   "id": "0cc10c4afdbd",
-   "headline": "JP Morgan Maintains Overweight on Glaukos, Raises Price Target to $240",
-   "summary": "JP Morgan analyst Allen Gong maintains Glaukos (NYSE:GKOS) with a Overweight and raises the price target from $200 to $240.",
-   "url": "https://finnhub.io/api/news?id=4869328c18462dc502dbf8718b880fb729faebb5ebfd30583a267d35c0f58b4d",
-   "source": "Benzinga",
-   "published": "2026-10-29T17:14:14+00:00",
-   "tickers": [
-    "GKOS"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "acc66183ae0b",
-   "headline": "Alnylam (ALNY) Q3 2026 Earnings Call Transcript",
-   "summary": "AMVUTTRA revenue jumped 65% year over year as TTR franchise momentum accelerates.",
-   "url": "https://finnhub.io/api/news?id=289795ab3720e5ec65377fbc9bbf9c24958e0c7670374b2a65c475203b667948",
-   "source": "Yahoo",
-   "published": "2026-10-29T17:13:00+00:00",
-   "tickers": [
-    "ALNY"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "abc685b6413d",
-   "headline": "Eli Lilly Soars 5% as Mounjaro and Zepbound Demand Drives $5.5 Billion Guidance Raise",
-   "summary": "Key TakeawaysEli Lilly shares rose 5% after third-quarter revenue jumped 39% to $24. 4 billion and it raised 2026 revenue guidance by $5.",
-   "url": "https://finnhub.io/api/news?id=ce569855e0ec0e5de1e514db7b88763832164363a316fac507a6491122fcd34c",
-   "source": "Yahoo",
-   "published": "2026-10-29T17:03:22+00:00",
-   "tickers": [
-    "HIMS",
-    "LLY",
-    "NVO"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "685bc0c0a648",
-   "headline": "Alnylam Pharmaceuticals Q3 Earnings Call Highlights",
-   "summary": "Alnylam Pharmaceuticals (NASDAQ:ALNY) reported third-quarter 2026 global net product revenue of approximately $1.3 billion, up 52% from a year earlier and 10% sequentially, as growth in its transthyretin, or TTR, franchise continued to\u2026",
-   "url": "https://finnhub.io/api/news?id=314b2ee79b312c2bcabd470a36dd411962411c9cedf0c6a5e6047fdb6a102f30",
-   "source": "Yahoo",
-   "published": "2026-10-29T17:01:51+00:00",
-   "tickers": [
-    "ALNY"
-   ],
-   "tag": "Earnings",
    "sectors": [
     "biotech"
    ]
