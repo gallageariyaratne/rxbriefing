@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-08T21:01:45.695301+00:00",
+ "updated": "2026-11-08T21:16:41.028658+00:00",
  "quotes": {
   "ABBV": {
    "price": 291.31,
@@ -13,10 +13,6 @@
   "AMGN": {
    "price": 460.42,
    "change_pct": 0.03
-  },
-  "ARWR": {
-   "price": 58.16,
-   "change_pct": 1.22
   },
   "AZN": {
    "price": 186.43,
@@ -105,10 +101,6 @@
   "NVS": {
    "price": 162.55,
    "change_pct": 0.38
-  },
-  "OSCR": {
-   "price": 30.65,
-   "change_pct": -7.63
   },
   "PFE": {
    "price": 29.39,
@@ -58435,152 +58427,6 @@
    "url": "https://finnhub.io/api/news?id=1508dc24fad0d60c5b7bc5dd966a6c44812e1b439803f819ce921b16aef9bcd8",
    "source": "ChartMill",
    "published": "2026-10-29T21:19:48+00:00",
-   "tickers": [
-    "DVA"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "33e70b996f11",
-   "headline": "BCBSMA, Medzown team up to match members with clinical trials",
-   "summary": "Blue Cross Blue Shield of Massachusetts is teaming up with precision medicine company Medzown to make it easier for members with complex conditions participate in clinical trials.",
-   "url": "https://www.fiercehealthcare.com/payers/bcbsma-medzown-team-match-members-clinical-trials",
-   "source": "Fierce Healthcare",
-   "published": "2026-10-29T21:15:24.470820+00:00",
-   "tickers": [],
-   "tag": "Clinical",
-   "sectors": []
-  },
-  {
-   "id": "d4d86f5524f2",
-   "headline": "Zoetis (ZTS) Ascends While Market Falls: Some Facts to Note",
-   "summary": "In the most recent trading session, Zoetis (ZTS) closed at $78.8, indicating a +1.29% shift from the previous trading day.",
-   "url": "https://finnhub.io/api/news?id=9a586a91663c997c72ca192e595eb09d7ea507e546bd7ea05efff58502f42768",
-   "source": "Yahoo",
-   "published": "2026-10-29T21:15:03+00:00",
-   "tickers": [
-    "ZTS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "415149387f6c",
-   "headline": "Pacific Biosciences of California (PACB) Rises As Market Takes a Dip: Key Facts",
-   "summary": "In the latest trading session, Pacific Biosciences of California (PACB) closed at $2.9, marking a +2.47% move from the previous day.",
-   "url": "https://finnhub.io/api/news?id=3e3ff2e8617fbcf998a515425c76a3028974d55a089d795d24514750c1eab707",
-   "source": "Yahoo",
-   "published": "2026-10-29T21:15:03+00:00",
-   "tickers": [
-    "PACB"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "e4b36d6ab4e5",
-   "headline": "Doximity (DOCS) Registers a Bigger Fall Than the Market: Important Facts to Note",
-   "summary": "Doximity (DOCS) closed the most recent trading day at $33.63, moving 1.81% from the previous trading session.",
-   "url": "https://finnhub.io/api/news?id=97c33c532463b6d664488710f0caf27e77d79e207d812e606d098f72dc439cc5",
-   "source": "Yahoo",
-   "published": "2026-10-29T21:15:02+00:00",
-   "tickers": [
-    "DOCS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "2a44d5a4c3c6",
-   "headline": "Tenet Healthcare Corporation Q3 2026 Earnings Call Summary",
-   "summary": "Moby summary of Tenet Healthcare Corporation's Q3 2026 earnings call",
-   "url": "https://finnhub.io/api/news?id=b815600e45708614fa044ed2b4852726cbca403ae14c6134d98aec6ff563b011",
-   "source": "Yahoo",
-   "published": "2026-10-29T21:14:52+00:00",
-   "tickers": [
-    "THC"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "b8f740da5979",
-   "headline": "Omnicell Q3 Earnings Call Highlights",
-   "summary": "Omnicell (NASDAQ:OMCL) reported third-quarter 2026 revenue and non-GAAP EBITDA above the high end of its prior guidance, while executives said the company is preparing to begin shipments of its Titan XT automated dispensing hardware and\u2026",
-   "url": "https://finnhub.io/api/news?id=f8e64a41861743901722262c471329b0deabe3bd8f4dff9ac09556b39671f228",
-   "source": "Yahoo",
-   "published": "2026-10-29T21:14:17+00:00",
-   "tickers": [
-    "OMCL"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "40a307aef44f",
-   "headline": "Is Agilent Technologies (A) Fully Valued Following Its University Of Chicago Energy Storage Partnership?",
-   "summary": "Agilent Technologies (A) has partnered with the University of Chicago to establish a new Center of Excellence for Energy Materials Research, placing its analytical instruments at the center of next generation battery and grid storage\u2026",
-   "url": "https://finnhub.io/api/news?id=5eb9da18a8981e22140366ebd5b825bd99aad6598e2ba6274c7f79d8a38e27e5",
-   "source": "Yahoo",
-   "published": "2026-10-29T21:12:43+00:00",
-   "tickers": [
-    "A"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "877130fd74fe",
-   "headline": "Merck (MRK) Turns Heads With Phase 3 Endometrial Cancer Data And FDA Review",
-   "summary": "Merck (NYSE:MRK) reported new Phase 3 data at ESMO 2026 showing KEYTRUDA monotherapy benefits in advanced endometrial cancer. Sacituzumab tirumotecan delivered positive outcomes in a separate late stage trial for recurrent endometrial\u2026",
-   "url": "https://finnhub.io/api/news?id=ecfa53ccafbdc731c029697e195391b3121b3f5b64a80e95cfc1031b7ff6f452",
-   "source": "Yahoo",
-   "published": "2026-10-29T21:11:05+00:00",
-   "tickers": [
-    "MRK"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "79f91b71115d",
-   "headline": "Alnylam Pharmaceuticals, Inc. Q3 2026 Earnings Call Summary",
-   "summary": "Moby summary of Alnylam Pharmaceuticals, Inc.'s Q3 2026 earnings call",
-   "url": "https://finnhub.io/api/news?id=cd5e81bc477daaf08b633621174d851e49f9937eb2cf827474203f0203b93407",
-   "source": "Yahoo",
-   "published": "2026-10-29T21:09:17+00:00",
-   "tickers": [
-    "ALNY"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "015ba32ff555",
-   "headline": "DaVita\u2019s (NYSE:DVA) Q3 2026: beats on revenue but stock drops",
-   "summary": "Dialysis provider DaVita Inc. (NYSE:DVA) reported Q3 2026 results exceeding the market\u2019s revenue expectations, with revenue up 4.6% year on year to $3.58 billion. Its non-GAAP profit of $3.82 per share was 6.9% above analysts\u2019 consensus\u2026",
-   "url": "https://finnhub.io/api/news?id=bbe13f51d16bf202e3260ef08e73562290c99c9324178f92f17254b8d7972c47",
-   "source": "Yahoo",
-   "published": "2026-10-29T21:03:54+00:00",
    "tickers": [
     "DVA"
    ],
