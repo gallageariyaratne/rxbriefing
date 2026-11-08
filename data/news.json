@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-08T20:31:41.210692+00:00",
+ "updated": "2026-11-08T20:46:42.335112+00:00",
  "quotes": {
   "ABBV": {
    "price": 291.31,
@@ -25,10 +25,6 @@
   "BDX": {
    "price": 211.88,
    "change_pct": -0.78
-  },
-  "BMY": {
-   "price": 62.14,
-   "change_pct": -1.57
   },
   "CLOV": {
    "price": 4.82,
@@ -761,6 +757,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "ea7485203d6c",
+   "headline": "Intuitive Surgical Placed 546 da Vinci Systems Last Quarter. Why Wall Street's Sell-Off Misses the Point.",
+   "summary": "Intuitive Surgical sells the da Vinci surgical robot, but that's actually not how it generates most of its revenue.",
+   "url": "https://finnhub.io/api/news?id=8a0da48f86eab96b284cebfe2b09b5bf48ef891954c4230f5f2fe1283c8a0ab5",
+   "source": "Yahoo",
+   "published": "2026-11-08T19:35:00+00:00",
+   "tickers": [
+    "ISRG"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
   {
    "id": "add857adf705",
    "headline": "Allergan Aesthetics Reports Improved Satisfaction With Facial Appearance Following Aesthetic Treatment in Two Studies of Patients on GLP-1 Medications",
@@ -58772,188 +58783,6 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "11d0b7c1065a",
-   "headline": "Hims & Hers Health, Inc. (HIMS) Gains As Market Dips: What You Should Know",
-   "summary": "In the latest trading session, Hims & Hers Health, Inc. (HIMS) closed at $29.69, marking a +1.24% move from the previous day.",
-   "url": "https://finnhub.io/api/news?id=3c4e3730f131d7764f0fc1187afef56a9b3bc2d3c8dfe0b818e8dacbe8b2d7c8",
-   "source": "Yahoo",
-   "published": "2026-10-29T20:45:04+00:00",
-   "tickers": [
-    "HIMS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "5da8e39cf9db",
-   "headline": "DaVita Inc. (DVA) Q3 2026 Earnings Call Transcript",
-   "summary": "DaVita Inc. (DVA) Q3 2026 Earnings Call October 29, 2026 5:00 PM EDTCompany ParticipantsNic Eliason - Group Vice President of Investor RelationsJavier...",
-   "url": "https://finnhub.io/api/news?id=e4affa46f1af518a0a3b26ff694284a5a2afca5871e89964425366d01a672438",
-   "source": "SeekingAlpha",
-   "published": "2026-10-29T20:38:51+00:00",
-   "tickers": [
-    "DVA"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "6b3a8fd34a6a",
-   "headline": "Exelixis, Inc. (EXEL) Q3 2026 Earnings Call Transcript",
-   "summary": "Exelixis, Inc. (EXEL) Q3 2026 Earnings Call October 29, 2026 5:00 PM EDTCompany ParticipantsAndrew Peters - Senior Vice President of StrategyMichael...",
-   "url": "https://finnhub.io/api/news?id=8a5a12a9bedf3518bb78cbad090f2fc498733802b4dcb745b51ccce932601cc0",
-   "source": "SeekingAlpha",
-   "published": "2026-10-29T20:38:33+00:00",
-   "tickers": [
-    "EXEL"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "d0c4b65861f2",
-   "headline": "Novo Has Big Plans for 2030. Should You Buy the Stock Now?",
-   "summary": "The company\u2019s comeback strategy looks sound.",
-   "url": "https://finnhub.io/api/news?id=e87d489cb5a4b08d98a8c7f4a262618f04bcd428e54ef2253958ba073bba710d",
-   "source": "Yahoo",
-   "published": "2026-10-29T20:36:02+00:00",
-   "tickers": [
-    "NVO"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "4a5d41995a5b",
-   "headline": "Stryker (SYK) Q3 Earnings and Revenues Lag Estimates",
-   "summary": "Stryker (SYK) delivered earnings and revenue surprises of -1.12% and -0.88%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
-   "url": "https://finnhub.io/api/news?id=18d1ecb872a3e7b61cb38de1aa601892b5504b311ba860dd531557d50890a36e",
-   "source": "Yahoo",
-   "published": "2026-10-29T20:35:06+00:00",
-   "tickers": [
-    "SYK"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "0a0bfb3c02f3",
-   "headline": "ResMed (RMD) Beats Q1 Earnings and Revenue Estimates",
-   "summary": "ResMed (RMD) delivered earnings and revenue surprises of +8.99% and +1.66%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
-   "url": "https://finnhub.io/api/news?id=293444444a0cc0ebf9019768320d94d8747dd26166025073c1de052dea82b1ff",
-   "source": "Yahoo",
-   "published": "2026-10-29T20:35:05+00:00",
-   "tickers": [
-    "RMD"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "78220fb54548",
-   "headline": "PTC Therapeutics (PTCT) Q3 Earnings and Revenues Surpass Estimates",
-   "summary": "PTC Therapeutics (PTCT) delivered earnings and revenue surprises of +258.82% and +15.02%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
-   "url": "https://finnhub.io/api/news?id=7a8fe3a7c20489e9cf3494741dae3b880e55cc7037c89fcefb3ae97e5ff40cb2",
-   "source": "Yahoo",
-   "published": "2026-10-29T20:35:05+00:00",
-   "tickers": [
-    "PTCT"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "13101dd2a77c",
-   "headline": "Gilead Sciences (GILD) Q3 Earnings and Revenues Top Estimates",
-   "summary": "Gilead (GILD) delivered earnings and revenue surprises of +17.51% and +6.21%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
-   "url": "https://finnhub.io/api/news?id=5f858c3c05564cc1180e831f6e87d9861acef760e6c3245aa8edf52f29cb49b9",
-   "source": "Yahoo",
-   "published": "2026-10-29T20:35:04+00:00",
-   "tickers": [
-    "GILD"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "972492ae4053",
-   "headline": "Illumina (ILMN) Q3 Earnings Beat Estimates",
-   "summary": "Illumina (ILMN) delivered earnings and revenue surprises of +5.88% and -0.76%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
-   "url": "https://finnhub.io/api/news?id=93bd7290e40c9e463f4c239633729a64964d5d35570cd13bd34c1cb10f3a0933",
-   "source": "Yahoo",
-   "published": "2026-10-29T20:35:04+00:00",
-   "tickers": [
-    "ILMN"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "249ad171f15e",
-   "headline": "Exelixis (EXEL) Surpasses Q3 Earnings and Revenue Estimates",
-   "summary": "Exelixis (EXEL) delivered earnings and revenue surprises of +5.62% and +0.86%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
-   "url": "https://finnhub.io/api/news?id=ad8e9f518b7fed2510e86d4ceb566981a0c3e52e68a3d188681b8ea88ad60f4f",
-   "source": "Yahoo",
-   "published": "2026-10-29T20:35:03+00:00",
-   "tickers": [
-    "EXEL",
-    "NTLA"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "491b697fe4f6",
-   "headline": "DaVita HealthCare (DVA) Beats Q3 Earnings and Revenue Estimates",
-   "summary": "DaVita HealthCare (DVA) delivered earnings and revenue surprises of +1.06% and +1.34%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
-   "url": "https://finnhub.io/api/news?id=9e420c7f95f6ea56f10dc056751a2e1172589cc129e616cf1a1a32158092de08",
-   "source": "Yahoo",
-   "published": "2026-10-29T20:35:02+00:00",
-   "tickers": [
-    "DVA",
-    "OPCH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "bb983098c9ce",
-   "headline": "Exelixis: Q3 Earnings Snapshot",
-   "summary": "(EXEL) on Thursday reported third-quarter profit of $218.On a per-share basis, the Alameda, California-based company said it had net income of 85 cents.",
-   "url": "https://finnhub.io/api/news?id=3db91cda4a69fdd02dfc347babbd31c10c59ffb899fe48f9a3784b9fbaaea840",
-   "source": "Yahoo",
-   "published": "2026-10-29T20:32:39+00:00",
-   "tickers": [
-    "EXEL"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
    ]
   }
  ]
