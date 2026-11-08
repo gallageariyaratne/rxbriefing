@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-08T22:16:31.743854+00:00",
+ "updated": "2026-11-08T22:31:38.124808+00:00",
  "quotes": {
   "ABBV": {
    "price": 291.31,
@@ -22,6 +22,10 @@
    "price": 69.74,
    "change_pct": -5.97
   },
+  "COR": {
+   "price": 333.56,
+   "change_pct": -1.8
+  },
   "CVS": {
    "price": 83.85,
    "change_pct": 3.1
@@ -33,10 +37,6 @@
   "DOCS": {
    "price": 32.51,
    "change_pct": -2.02
-  },
-  "GEHC": {
-   "price": 82.38,
-   "change_pct": -1.64
   },
   "GH": {
    "price": 150.87,
@@ -117,6 +117,10 @@
   "UNH": {
    "price": 394.15,
    "change_pct": -0.4
+  },
+  "VRTX": {
+   "price": 547.09,
+   "change_pct": 0.85
   }
  },
  "tickers": {
@@ -745,6 +749,51 @@
    "sectors": []
   },
   {
+   "id": "7b15645a26ec",
+   "headline": "The Top 5 Biotech Stocks I'd Buy Right Now Without Any Hesitation",
+   "summary": "These are among the best the industry has to offer.",
+   "url": "https://finnhub.io/api/news?id=7139128692423f9547bfcea9275e9b326d02e30bbb9548b16934adaf8f182e76",
+   "source": "Yahoo",
+   "published": "2026-11-08T21:52:00+00:00",
+   "tickers": [
+    "VRTX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "e87c9a726b0e",
+   "headline": "Cencora\u2019s Q3 CY2026 earnings call: our top 5 analyst questions",
+   "summary": "Cencora delivered calendar Q3 2026 results that aligned with market expectations on revenue and topped analyst profit forecasts. Management credited the quarter\u2019s performance to strong growth in specialty pharmaceuticals, driven by recent\u2026",
+   "url": "https://finnhub.io/api/news?id=c7329ffa66d7104afa01493166e97acb4998650c6fac5b61b9b5dd693c38a551",
+   "source": "Yahoo",
+   "published": "2026-11-08T21:25:36+00:00",
+   "tickers": [
+    "COR"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
+  {
+   "id": "21971c3700d2",
+   "headline": "The top 5 analyst questions from CVS Health\u2019s Q3 2026 earnings call",
+   "summary": "CVS Health\u2019s latest quarter saw the company deliver revenue and profit above Wall Street\u2019s expectations, but the market responded negatively. Management pointed to consistent gains in its core segments, driven by pharmacy strength and\u2026",
+   "url": "https://finnhub.io/api/news?id=cad7056f8af80516017f0472978bf32cce366fef86e00317fa78b8e81145ca7b",
+   "source": "Yahoo",
+   "published": "2026-11-08T21:09:36+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "ed651b3f8646",
    "headline": "CIDEB siRNA Normalizes Liver Fat and Improves Liver Injury Markers in MASLD Patients, as Highlighted at AASLD",
    "summary": "Single administration of CIDEBsiRNA resulted in rapid, deep and durable reductions in liver fat by up to 80% that were sustained through 36 weeks Data from first-in-human trial were shared in oral presentation at AASLD The Liver Meeting\u00ae\u2026",
@@ -772,6 +821,36 @@
    "tag": "Earnings",
    "sectors": [
     "pharmacy"
+   ]
+  },
+  {
+   "id": "c333374eecf0",
+   "headline": "Smith & Nephew SNATS Q3 Earnings Call Highlights",
+   "summary": "Smith & Nephew SNATS (NYSE:SNN) lowered its full-year revenue and trading profit outlook after continued weakness in its U.S. knee and hip businesses tempered otherwise stronger third-quarter growth. The medical technology company\u2026",
+   "url": "https://finnhub.io/api/news?id=dcc5eb379b95429c320e10fc3bf77528773a454304b9296cd1d2943cf3c91d7b",
+   "source": "Yahoo",
+   "published": "2026-11-08T20:14:18+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "f7bcd9920254",
+   "headline": "Missed Vertex Pharmaceuticals' Run? What Holders Had To Believe",
+   "summary": "If you had put fresh money into Vertex Pharmaceuticals a year ago, the result now looks very different from what the more cautious research notes warned about at the time. For Vertex Pharmaceuticals shareholders, the return over the past\u2026",
+   "url": "https://finnhub.io/api/news?id=9b91f87c16b5a4178f15346eb3b58adc97d637a8b50bbe3774080b7be31ba614",
+   "source": "Yahoo",
+   "published": "2026-11-08T20:07:50+00:00",
+   "tickers": [
+    "VRTX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -58138,21 +58217,6 @@
    "tag": "Earnings",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "d14ef377bf17",
-   "headline": "Molina: 3 Key Takeaways for Long-Term Investors",
-   "summary": "Medicaid margins may have bottomed as state rate increases align with care costs, setting up a multiyear recovery cycle.",
-   "url": "https://finnhub.io/api/news?id=bfeeda907f22afbb27096ab2317e48561c802006725691357f7d14e0971d82b8",
-   "source": "Yahoo",
-   "published": "2026-10-29T22:20:02+00:00",
-   "tickers": [
-    "MOH"
-   ],
-   "tag": "Policy",
-   "sectors": [
-    "payers"
    ]
   }
  ]
