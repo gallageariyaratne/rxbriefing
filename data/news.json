@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-08T01:32:13.750222+00:00",
+ "updated": "2026-11-08T01:47:11.448708+00:00",
  "quotes": {
   "ABBV": {
    "price": 291.31,
@@ -97,6 +97,10 @@
   "GILD": {
    "price": 166.89,
    "change_pct": -0.41
+  },
+  "GKOS": {
+   "price": 224.41,
+   "change_pct": 2.01
   },
   "GMED": {
    "price": 71.05,
@@ -857,6 +861,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "3c309e723aea",
+   "headline": "Did Raised Sales Guidance Just Shift Glaukos (GKOS) Investment Narrative?",
+   "summary": "Glaukos reported third quarter 2026 sales of US$211.03 million and returned to profitability, raised full year 2026 net sales guidance to US$775 million to US$785 million, and issued preliminary 2027 net sales guidance of US$1 billion,\u2026",
+   "url": "https://finnhub.io/api/news?id=4d81c10ad1ba085ad826acac3e0f334832e4e4c14c9c8dd35ea05f30758ba3a1",
+   "source": "Yahoo",
+   "published": "2026-11-08T00:25:40+00:00",
+   "tickers": [
+    "GKOS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
   {
    "id": "495ec0e6fd9d",
    "headline": "5 Worst Dow Stocks To Buy According to Analysts",
@@ -67718,51 +67737,6 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "e89613f2166e",
-   "headline": "Glaukos Corporation Reports Record Q3 2026 Net Sales of $211.0 Million and Raises Full-Year Guidance",
-   "summary": "",
-   "url": "https://finnhub.io/api/news?id=69f014f02b98b41db2fde212fccb27aa4f0ad0130c276e993e3221903533c002",
-   "source": "Fintel",
-   "published": "2026-10-29T01:41:43+00:00",
-   "tickers": [
-    "GKOS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "07f270c672d2",
-   "headline": "VKTX Stock Slides Overnight After Q3 Loss: CEO\u2019s Obesity Drug Launch Timeline Frustrates Retail",
-   "summary": "CEO Brian Lian said a potential launch of obesity drug VK2735 remained about 2 and a half years away.",
-   "url": "https://finnhub.io/api/news?id=3053388317beff67e9b08646b3b0e03e9efe6ac718490ebe0c2d99ca7790d167",
-   "source": "Yahoo",
-   "published": "2026-10-29T01:40:32+00:00",
-   "tickers": [
-    "VKTX"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "480cadb71ddd",
-   "headline": "Dow Gains For Third Session Following Fed Decision: Investor Sentiment Improves, Greed Index Remains In \u2018Fear\u2019 Zone",
-   "summary": "U.S. stocks rose after the Fed held rates steady, but CNN's Fear & Greed Index improved to 36, remaining in the Fear zone.",
-   "url": "https://finnhub.io/api/news?id=d890317698a655d5ff932e9554c81d525c3e091247197fa754f892084b5272a7",
-   "source": "Benzinga",
-   "published": "2026-10-29T01:33:20+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
