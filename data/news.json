@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-09T13:32:13.906353+00:00",
+ "updated": "2026-11-09T13:47:11.727333+00:00",
  "quotes": {
   "ABBV": {
    "price": 291.31,
@@ -173,6 +173,10 @@
   "RVMD": {
    "price": 192.28,
    "change_pct": 8.24
+  },
+  "SMMT": {
+   "price": 16.33,
+   "change_pct": 15.08
   },
   "SNY": {
    "price": 47.04,
@@ -830,6 +834,21 @@
  },
  "stories": [
   {
+   "id": "dae2743ad09a",
+   "headline": "Moderna moves UK commercial digs to heart of London's 'knowledge quarter'",
+   "summary": "Sticking by the strong relationship it\u2019s fostered with the U.K., mRNA specialist Moderna is relocating its home base in the country.",
+   "url": "https://www.fiercepharma.com/pharma/moderna-moves-london-commercial-digs-heart-uk-capitals-knowledge-quarter",
+   "source": "Fierce Pharma",
+   "published": "2026-11-09T13:45:23.119900+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "732f6e904dba",
    "headline": "Asking More of Science: How Daiichi Sankyo Is Challenging Assumptions About the Future of Cancer Care",
    "summary": "See how Daiichi Sankyo is asking more of science to bring the next wave of innovation to patients.",
@@ -850,6 +869,21 @@
    "tickers": [],
    "tag": "Health AI",
    "sectors": []
+  },
+  {
+   "id": "350d2ff9e795",
+   "headline": "Humana Commences Offers to Purchase for Cash Certain of its Outstanding Debt Securities",
+   "summary": "LOUISVILLE, Ky., November 09, 2026--Humana Inc. (NYSE: HUM) (\"Humana\", \"we\", or \"our\") today announced that it has commenced cash tender offers (collectively, the \"Offers\") to purchase the outstanding notes described below, in each case\u2026",
+   "url": "https://finnhub.io/api/news?id=3cd1b96082c7b9beb43a825a1a3fa6f36aaec93b222c57d46c8d5c4231b139c8",
+   "source": "Yahoo",
+   "published": "2026-11-09T13:23:00+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
   },
   {
    "id": "8b365cda67e1",
@@ -1143,6 +1177,21 @@
    ]
   },
   {
+   "id": "8ab77673710d",
+   "headline": "Immunovant Provides Corporate Updates and Reports Financial Results for the Quarter Ended September 30, 2026",
+   "summary": "IMVT-1402 600 mg met the primary endpoint of ACR20 response at Week 28 (92.5% vs. 75.6% placebo, p=0.0139) in Period 2 (randomized withdrawal design following open-label lead-in) of the potentially registrational trial in patients with\u2026",
+   "url": "https://finnhub.io/api/news?id=6dc41a0193516dc51dc11aadb6f6e99f593b5aa3eb6ff8c0f6c33b57f2a916cd",
+   "source": "Yahoo",
+   "published": "2026-11-09T12:00:00+00:00",
+   "tickers": [
+    "ROIV"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "8f730f9fc448",
    "headline": "LifeStance Health Group Announces Launch of Secondary Public Offering",
    "summary": "SCOTTSDALE, Ariz., Nov. 09, 2026 (GLOBE NEWSWIRE) -- LifeStance Health Group, Inc. (\u201cLifeStance\u201d or the \u201cCompany\u201d) (Nasdaq: LFST), one of the nation\u2019s largest providers of virtual and in-person outpatient mental health care, today\u2026",
@@ -1412,7 +1461,8 @@
    "published": "2026-11-09T10:23:04+00:00",
    "tickers": [
     "CYTK",
-    "JNJ"
+    "JNJ",
+    "SMMT"
    ],
    "tag": "FDA",
    "sectors": [
@@ -1812,7 +1862,8 @@
    "source": "Yahoo",
    "published": "2026-11-09T01:16:16+00:00",
    "tickers": [
-    "HIMS"
+    "HIMS",
+    "SMMT"
    ],
    "tag": "FDA",
    "sectors": [
@@ -55388,168 +55439,6 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "2ea5475811c6",
-   "headline": "Eli Lilly 'Deserves' Stock Upside: Analyst",
-   "summary": "Eli Lilly beats Q3 estimates on Mounjaro and Zepbound growth. Analysts lift price targets as 2026 revenue guidance jumps to $92 billion.",
-   "url": "https://finnhub.io/api/news?id=37280e881330387edba223ca22c007b709941c6e1c78001bed00cb698cc67b7e",
-   "source": "Benzinga",
-   "published": "2026-10-30T13:45:18+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "09ce035a4f2e",
-   "headline": "Netflix initiated, Instacart upgraded: Wall Street's top analyst calls",
-   "summary": "Netflix initiated, Instacart upgraded: Wall Street's top analyst calls",
-   "url": "https://finnhub.io/api/news?id=062fc488633f8e645b441cd3f1ffd94dbb15cb736792a5011ee02df0dc6b9d88",
-   "source": "Yahoo",
-   "published": "2026-10-30T13:45:17+00:00",
-   "tickers": [
-    "ALNY",
-    "AZN",
-    "INCY"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "5c5efbcd57e6",
-   "headline": "Pre-Markets Spooked on Questions Regarding AI, Oil Prices",
-   "summary": "Led by the Nasdaq shedding another -2.5% (-750 points) ahead of the open, the stock market is looking at a down week of trading.",
-   "url": "https://finnhub.io/api/news?id=090aa1f7ebb0784ecc878e8bf4a46f48f76643e0b8a7afbcd2763d8ef2a639ef",
-   "source": "Yahoo",
-   "published": "2026-10-30T13:44:00+00:00",
-   "tickers": [
-    "ABBV",
-    "AZN",
-    "REGN"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "f78542822adf",
-   "headline": "Stock Market Today: Nasdaq Dives As Amazon, Intel Plunge On Earnings (Live Coverage)",
-   "summary": "The Nasdaq dives Friday as Amazon stock and Intel both plunge on disappointing earnings reports.",
-   "url": "https://finnhub.io/api/news?id=8258627e0aa99eaf7a1867a45093c5f904a056a4b13b870db6d7855c0b94eae3",
-   "source": "Yahoo",
-   "published": "2026-10-30T13:41:33+00:00",
-   "tickers": [
-    "AMGN",
-    "MRK"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "74b7f842eb99",
-   "headline": "AbbVie: Why I See More Upside After Q3",
-   "summary": "AbbVie posts strong Q3 growth, Skyrizi sales surge, and 2026 EPS guidance rises. Click for this ABBV earnings update.",
-   "url": "https://finnhub.io/api/news?id=01dbe2e110b774d5978dac082e1505e54ed66c53bbbb34ff40fdf608e98b5da8",
-   "source": "SeekingAlpha",
-   "published": "2026-10-30T13:39:37+00:00",
-   "tickers": [
-    "ABBV",
-    "AMGN",
-    "PFE"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "ad9289d310ec",
-   "headline": "Morgan Stanley Maintains Equal-Weight on Alnylam Pharmaceuticals, Lowers Price Target to $240",
-   "summary": "Morgan Stanley analyst Michael Ulz maintains Alnylam Pharmaceuticals (NASDAQ:ALNY) with a Equal-Weight and lowers the price target from $300 to $240.",
-   "url": "https://finnhub.io/api/news?id=fc512c5e888ba8e20b963a803cfdcefdf55ad2f321e252008c9c66e55c937b5c",
-   "source": "Benzinga",
-   "published": "2026-10-30T13:38:00+00:00",
-   "tickers": [
-    "ALNY"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "7c64c7a2fa01",
-   "headline": "S&P 500 Premarket Gainers and Losers on Oct. 30, 2026",
-   "summary": "S&P 500 premarket movers for Oct. 30, 2026, including MDLZ, REGN and CL among gainers, and INTC, RDDT and TWLO among decliners.",
-   "url": "https://finnhub.io/api/news?id=f22872d6e0272c8669e32fbda3463c3c58797c748cc6622ca28248a3310b49eb",
-   "source": "ChartMill",
-   "published": "2026-10-30T13:36:25+00:00",
-   "tickers": [
-    "GILD",
-    "ILMN",
-    "REGN",
-    "SYK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "d884ccf48e9b",
-   "headline": "Assessing Merck and Moderna\u2019s mRNA cancer vaccine",
-   "summary": "On this week's \u201cThe Readout LOUD,\u201d we discuss the latest cancer data presented at the annual meeting of the European Society for Medical Oncology.",
-   "url": "https://www.statnews.com/2026/10/30/readout-loud-podcast-oncology-cancer-vaccine-moderna-merck-amgen-roche/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-10-30T13:33:55+00:00",
-   "tickers": [
-    "MRK",
-    "MRNA"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "26a38a17816f",
-   "headline": "Stock Market Today: Nasdaq Futures Plunge 2% as Big Tech Sells Off",
-   "summary": "Big Tech is dragging the Nasdaq toward its worst open in weeks while Dow components post earnings beats and barely budge. Whether the damage stays contained or spreads to the broader market depends on what happens the moment the opening\u2026",
-   "url": "https://finnhub.io/api/news?id=d20964491b70d926853fe61a8a9ec615156a2a4ecd0f5adfeaae7d362eb6c7ea",
-   "source": "Yahoo",
-   "published": "2026-10-30T13:32:17+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "aa9f675a4bc5",
-   "headline": "2 cash-producing stocks with promising prospects and 1 we avoid",
-   "summary": "Generating cash is essential for any business, but not all cash-rich companies are great investments. Some produce plenty of cash but fail to allocate it effectively, leading to missed opportunities.",
-   "url": "https://finnhub.io/api/news?id=2968f24042726c50b91399582692c267505ccf4f938ec2eaba778a9e22a0172f",
-   "source": "Yahoo",
-   "published": "2026-10-30T13:31:29+00:00",
-   "tickers": [
-    "GMED",
-    "TMO"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
    ]
   }
  ]
