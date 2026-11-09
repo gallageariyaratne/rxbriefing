@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-09T13:02:25.672428+00:00",
+ "updated": "2026-11-09T13:17:02.051010+00:00",
  "quotes": {
   "ABBV": {
    "price": 291.31,
@@ -86,6 +86,10 @@
    "price": 224.41,
    "change_pct": 2.01
   },
+  "HCA": {
+   "price": 494.99,
+   "change_pct": -2.46
+  },
   "HCAT": {
    "price": 1.46,
    "change_pct": -2.67
@@ -118,6 +122,10 @@
    "price": 276.22,
    "change_pct": 1.43
   },
+  "LFST": {
+   "price": 13.77,
+   "change_pct": 2.53
+  },
   "LLY": {
    "price": 1354,
    "change_pct": -0.79
@@ -145,6 +153,10 @@
   "PODD": {
    "price": 146.51,
    "change_pct": -6.16
+  },
+  "RARE": {
+   "price": 15.43,
+   "change_pct": -0.9
   },
   "REGN": {
    "price": 904.35,
@@ -818,6 +830,65 @@
  },
  "stories": [
   {
+   "id": "8b365cda67e1",
+   "headline": "Kyorin pens $140M deal for Japan rights to Edesa\u2019s phase 3 respiratory drug",
+   "summary": "Kyorin Pharmaceutical is paying $12 million upfront for the Japan rights to Edesa Biotech\u2019s anti-TLR4 antibody to treat acute respiratory distress syndrome.",
+   "url": "https://www.fiercebiotech.com/biotech/kyorin-pens-140m-deal-japan-rights-edesas-phase-3-stage-respiratory-drug",
+   "source": "Fierce Biotech",
+   "published": "2026-11-09T13:15:21.359890+00:00",
+   "tickers": [],
+   "tag": "Clinical",
+   "sectors": []
+  },
+  {
+   "id": "ff9354728128",
+   "headline": "Advanced Analytics Help Reduce Control Animal Use While Preserving Scientific Rigor",
+   "summary": "Advanced analytics leverage curated historical controls on new studies, supporting fewer animals while preserving scientific rigor.",
+   "url": "https://www.fiercebiotech.com/sponsored/advanced-analytics-help-reduce-control-animal-use-while-preserving-scientific-rigor",
+   "source": "Fierce Biotech",
+   "published": "2026-11-09T13:15:21.358898+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "6c751d11974f",
+   "headline": "Use Kidney Genetics to Strengthen Clinical Trial Design",
+   "summary": "Listen to the podcast to learn how genotype-defined kidney disease data can inform trial populations, endpoints and enrollment strategy.",
+   "url": "https://www.fiercebiotech.com/sponsored/use-kidney-genetics-strengthen-clinical-trial-design",
+   "source": "Fierce Biotech",
+   "published": "2026-11-09T13:15:21.357879+00:00",
+   "tickers": [],
+   "tag": "Clinical",
+   "sectors": []
+  },
+  {
+   "id": "c1213fb12936",
+   "headline": "Looking Beyond the First Answer Towards Delivering Impact",
+   "summary": "Science rarely moves in a straight line. Philippe Lopes-Fernandes explores how an unexpected turn can reveal a credible path to progress.",
+   "url": "https://www.fiercebiotech.com/sponsored/philippe-lopes-fernandes-executive-vice-president-chief-business-officer-ipsen",
+   "source": "Fierce Biotech",
+   "published": "2026-11-09T13:15:21.356884+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "85fb7e5f5fb8",
+   "headline": "Mereo BioPharma Reports Third Quarter 2026 Financial Results",
+   "summary": "Ongoing regulatory interactions in collaboration with Ultragenyx on potential path forward for setrusumab in osteogenesis imperfecta (OI)",
+   "url": "https://www.globenewswire.com/news-release/2026/11/09/3398354/0/en/mereo-biopharma-reports-third-quarter-2026-financial-results.html",
+   "source": "GlobeNewswire",
+   "published": "2026-11-09T13:00:00+00:00",
+   "tickers": [
+    "RARE"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "d8f7888db6b4",
    "headline": "STAT+: A new rule to prevent the spread of bioweapons",
    "summary": "AI makes it easier for people to come up with new potential medicines, but may also increase the possibility of bad actors creating new bioweapons. New guidelines from Trump officials\u2026",
@@ -852,6 +923,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "88a0b49fb15d",
+   "headline": "Cytokinetics Announces Additional Data Related to Aficamten Presented at the Hypertrophic Cardiomyopathy Medical Society (HCMS) Scientific Sessions Held in Collaboration with the American Heart Association Scientific Sessions 2026",
+   "summary": "New Analyses Across Obstructive and Non-obstructive HCM Expand Clinical Evidence for Aficamten SOUTH SAN FRANCISCO, Calif., Nov. 09, 2026 (GLOBE NEWSWIRE) -- Cytokinetics, Incorporated (Nasdaq: CYTK) today announced that new data related\u2026",
+   "url": "https://finnhub.io/api/news?id=5b387f23e8145adec91f9463aa7c4e56d3f58b2e6f30b403fbb16a50f33ca753",
+   "source": "Yahoo",
+   "published": "2026-11-09T12:30:00+00:00",
+   "tickers": [
+    "CYTK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -1020,6 +1106,36 @@
    ]
   },
   {
+   "id": "41d9587416a7",
+   "headline": "Compugen Reports Third Quarter 2026 Results",
+   "summary": "Compugen Ltd. (NASDAQ: CGEN) (TASE: CGEN), a clinical-stage cancer immunotherapy company and a pioneer in computational drug target discovery powered by AI, today reported financial results for the third quarter of 2026 and provided a\u2026",
+   "url": "https://finnhub.io/api/news?id=daf9f5194b2ee20ef97aba30bfadfdf27fe7fd461cf690cf520f21b940eb9b31",
+   "source": "Yahoo",
+   "published": "2026-11-09T12:00:00+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "8f730f9fc448",
+   "headline": "LifeStance Health Group Announces Launch of Secondary Public Offering",
+   "summary": "SCOTTSDALE, Ariz., Nov. 09, 2026 (GLOBE NEWSWIRE) -- LifeStance Health Group, Inc. (\u201cLifeStance\u201d or the \u201cCompany\u201d) (Nasdaq: LFST), one of the nation\u2019s largest providers of virtual and in-person outpatient mental health care, today\u2026",
+   "url": "https://finnhub.io/api/news?id=48a302ec73252160a8f1e68771491c736f84924e9aa3e1cd83ef06d509f8c297",
+   "source": "Yahoo",
+   "published": "2026-11-09T11:54:00+00:00",
+   "tickers": [
+    "LFST"
+   ],
+   "tag": "Financing",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "c9604c3c9c4c",
    "headline": "Sanofi ADR (NASDAQ:SNY): Dividend Quality Just Clears the Bar",
    "summary": "Quality-focused dividend screens highlight SANOFI-ADR\u2019s 4.12% yield, solid profitability, and health checks\u2014showing how to balance income with risk.",
@@ -1057,7 +1173,8 @@
    "source": "Yahoo",
    "published": "2026-11-09T11:30:00+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -1217,6 +1334,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "f5cd7394ff6b",
+   "headline": "Take the Zacks Approach to Beat the Markets: Ulta Beauty, Accenture, HCA in Focus",
+   "summary": "Zacks highlights how its research strategies have delivered strong returns, with ACN, HCA and ULTA among the standout performers.",
+   "url": "https://finnhub.io/api/news?id=f7c19770c6b39343435143fdc85bcace975150f75826ef34ccbfba7c8d31f0db",
+   "source": "Yahoo",
+   "published": "2026-11-09T11:03:00+00:00",
+   "tickers": [
+    "HCA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -55566,204 +55698,6 @@
     "GILD"
    ],
    "tag": "Legal",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "d35d5bb68d6d",
-   "headline": "Edwards' Q3 Earnings on the Horizon: What's in the Cards?",
-   "summary": "EW heads into Q3 with TAVR momentum, expanding mitral and tricuspid therapies and surgical heart growth. Can it beat earnings estimates?",
-   "url": "https://finnhub.io/api/news?id=cac06aa9ff5772b186a86fff9d473d3e4c42f03927e18e7326ee12e0f292852b",
-   "source": "Yahoo",
-   "published": "2026-10-30T13:14:00+00:00",
-   "tickers": [
-    "EW",
-    "TGTX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "7041e80d0671",
-   "headline": "The persisting paradox of men\u2019s health",
-   "summary": "A new series in The Lancet argues for the need to investigate a paradox of men\u2019s health: why men experience worse health outcomes than women, even though they hold undeniable\u2026",
-   "url": "https://www.statnews.com/2026/10/30/health-news-the-paradox-of-men-health/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-10-30T13:12:49+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "586b09874c92",
-   "headline": "Omnicell (OMCL) Q3 Earnings Lift Profit Outlook As Margins Firm",
-   "summary": "Omnicell stock inched higher today, up about 2.6% to roughly $36.90 after posting its Q3 2026 report. On the surface it looked like a routine quarter. The real headline sat in profitability. Management delivered about $45 million of non\u2026",
-   "url": "https://finnhub.io/api/news?id=ed9ca4488cedb36b2c7d4c391671eea356396fbfcf426d987c3a84d87277d4f3",
-   "source": "Yahoo",
-   "published": "2026-10-30T13:12:32+00:00",
-   "tickers": [
-    "OMCL"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "264725cc3b93",
-   "headline": "TEM vs. DOCS: Which Medical Info Systems Stock Is the Better Pick Now?",
-   "summary": "Tempus AI or Doximity: Which medical information systems stock offers better value? Compare growth prospects, AI expansion, earnings estimates and valuation.",
-   "url": "https://finnhub.io/api/news?id=dc0b554d67aae336442dc419c61c8d2fceb02202224d56f8dd4c7817ae7d3538",
-   "source": "Yahoo",
-   "published": "2026-10-30T13:12:00+00:00",
-   "tickers": [
-    "DOCS",
-    "TEM"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "c66394e5642e",
-   "headline": "AbbVie (NYSE:ABBV) posts Q3 2026 sales in line with estimates",
-   "summary": "Pharmaceutical company AbbVie (NYSE:ABBV) met Wall Street\u2019s revenue expectations in Q3 2026, with revenue rising 10.3% year on year to $17.4 billion. Its non-GAAP profit of $3.82 per share was 1.3% above analysts\u2019 consensus estimates.",
-   "url": "https://finnhub.io/api/news?id=53c95e14b7aeebe1c203115e96f9cd58e995c6c1c40fe370adf28b14a1a714ea",
-   "source": "Yahoo",
-   "published": "2026-10-30T13:11:24+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "d8ce699c8220",
-   "headline": "3 Promising Genomics Stocks to Add to Your Portfolio Now",
-   "summary": "Genomics and synthetic biology are transforming healthcare through precision medicine and gene editing, putting ILMN, QURE and TXG in focus as the markets expand.",
-   "url": "https://finnhub.io/api/news?id=7e0d77d9077fa198312dfe252edf6712b2cd4948b461404eeb5ef2ceaa596263",
-   "source": "Yahoo",
-   "published": "2026-10-30T13:09:00+00:00",
-   "tickers": [
-    "BEAM",
-    "CRSP",
-    "ILMN",
-    "TXG"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "01bf88f988fc",
-   "headline": "RBC Capital Maintains Outperform on ResMed, Raises Price Target to $288",
-   "summary": "RBC Capital analyst Craig Wong-Pan maintains ResMed (NYSE:RMD) with a Outperform and raises the price target from $262 to $288.",
-   "url": "https://finnhub.io/api/news?id=d23b85bdf38a5276d706728e126295d034df1871ea3242abc7b4d5fa13f67785",
-   "source": "Benzinga",
-   "published": "2026-10-30T13:08:58+00:00",
-   "tickers": [
-    "RMD"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "df9984281de3",
-   "headline": "12 Health Care Stocks Moving In Friday's Intraday Session",
-   "summary": "Gainers CareDx (NASDAQ:CDNA) shares rose 22.2% to $87.42 during Friday's regular session. The company's market cap stands at $3.7 billion. As per the press release, Q3 earnings came out yesterday. Jin Medical",
-   "url": "https://finnhub.io/api/news?id=a8c7b89596190f1285b9e3362e6cc5192bfc466385c6c97929d940c6beed2817",
-   "source": "Benzinga",
-   "published": "2026-10-30T13:05:40+00:00",
-   "tickers": [
-    "REGN"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "4c3c1a9f3c5f",
-   "headline": "Since HDV Switched to Monthly Pay, Here\u2019s What\u2019s Changed for Income Investors",
-   "summary": "HDV switched to monthly payments and split its shares this year, and both moves look dramatic on paper until you dig into what actually changed for retirees counting on that income.",
-   "url": "https://finnhub.io/api/news?id=fc0e2ff9e81ec821400554167c578e8351c7fd14466066cdf8a6a06c37144023",
-   "source": "Yahoo",
-   "published": "2026-10-30T13:05:39+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "0a9f0d4b49de",
-   "headline": "Nasdaq Tumbles Over 3%, Chip Stocks Sink: Stock Market Today",
-   "summary": "Intel nears its worst day on record after weak guidance, sinking chip stocks as SMH falls 7.0% and the Nasdaq 100 drops 3.2%.",
-   "url": "https://finnhub.io/api/news?id=6c9a3db35704f331bdc289b9f4c8e288533fcd4dfaa49387addea8c06153c018",
-   "source": "Benzinga",
-   "published": "2026-10-30T13:05:05+00:00",
-   "tickers": [
-    "REGN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "10c417fba117",
-   "headline": "Sanofi Q3 Earnings & Sales Beat, 2026 View Up, Shares Rise",
-   "summary": "SNY beats Q3 earnings and sales estimates as Dupixent drives growth and the company raises its 2026 outlook for sales and business EPS.",
-   "url": "https://finnhub.io/api/news?id=213a9f905bd59eff6d63dda7ab443d938d3ab902fa2027da076a38155aec08a0",
-   "source": "Yahoo",
-   "published": "2026-10-30T13:05:00+00:00",
-   "tickers": [
-    "AZN",
-    "REGN",
-    "SNY"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "afecd6822ab2",
-   "headline": "Eli Lilly Stock Rose Nearly 7% to a Record as It Lifted Its 2026 Sales Forecast to as Much as $92 Billion. Here\u2019s Where the Stock Could Go",
-   "summary": "Key Stats for Eli Lilly StockCurrent Price: $1,373. 70Target Price (Mid): ~$2,340Street Target: ~$1,337Potential Total Return: ~70%Annualized IRR: ~14% / yearWhat Happened?Eli Lilly (LLY:NYSE) closed at a record $1,373.",
-   "url": "https://finnhub.io/api/news?id=4796a40231169232152de0e298697f7a02f01cbc604be508b165a0149e022442",
-   "source": "Yahoo",
-   "published": "2026-10-30T13:02:36+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "76024c3e0ed1",
-   "headline": "CNBC Halftime Report Final Trades: Amazon, Alphabet Class A, IBM, Goldman Sachs Nasdaq-100 Premium Income ETF",
-   "summary": "",
-   "url": "https://finnhub.io/api/news?id=f517aeff83e71d8bc25bd501de16afd8af98839872ba49e7261dcf284e6abcfd",
-   "source": "Benzinga",
-   "published": "2026-10-30T13:02:09+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "News",
    "sectors": [
     "pharma"
    ]
