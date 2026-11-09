@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-09T23:02:48.964776+00:00",
+ "updated": "2026-11-09T23:17:40.008733+00:00",
  "quotes": {
   "A": {
    "price": 180.17,
@@ -10,13 +10,13 @@
    "price": 293.3,
    "change_pct": 0.68
   },
-  "ACAD": {
-   "price": 16.5,
-   "change_pct": -22.28
-  },
   "ALNY": {
    "price": 156.61,
    "change_pct": 0.43
+  },
+  "ALT": {
+   "price": 2.12,
+   "change_pct": 1.92
   },
   "AMGN": {
    "price": 465.23,
@@ -1106,7 +1106,8 @@
    "source": "Yahoo",
    "published": "2026-11-09T21:06:12+00:00",
    "tickers": [
-    "ARWR"
+    "ARWR",
+    "CYTK"
    ],
    "tag": "FDA",
    "sectors": [
@@ -1320,6 +1321,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "94ceafd5d582",
+   "headline": "Altimmune's Pemvidutide Meets Primary Endpoint in Phase 2 Alcohol Use Disorder Trial",
+   "summary": "Altimmune (ALT) said Monday its phase 2 trial of pemvidutide in patients with alcohol use disorder m",
+   "url": "https://finnhub.io/api/news?id=8ba0e48f402f1b72c3de6954ade4c67e0381dfab83f1eff764133b07d53ae4ab",
+   "source": "Yahoo",
+   "published": "2026-11-09T20:00:30+00:00",
+   "tickers": [
+    "ALT"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -1770,6 +1786,21 @@
    ]
   },
   {
+   "id": "6fb950c050ae",
+   "headline": "Altimmune Presents Positive Late-Breaking Pemvidutide Data at AASLD The Liver Meeting\u00ae 2026 in Patients with Alcohol Use Disorder",
+   "summary": "Results from RECLAIM Phase 2 study show treatment with pemvidutide led to significant reduction in heavy drinking days and improved outcomes on other key clinical measures in patients with AUD; generally favorable tolerability profile\u2026",
+   "url": "https://finnhub.io/api/news?id=9589a7f6370a0036dd90d303f45dce07193f91c241bbe041b24610e8c828b95f",
+   "source": "Yahoo",
+   "published": "2026-11-09T17:30:00+00:00",
+   "tickers": [
+    "ALT"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "c71e6643e714",
    "headline": "Bristol Myers Squibb (BMY) Reports 56 Week Pediatric Phase 3 Camzyos Data",
    "summary": "Bristol-Myers Squibb (NYSE:BMY) reported new 56-week Phase 3 data for Camzyos in pediatric obstructive hypertrophic cardiomyopathy. The updated results show sustained efficacy over 56 weeks in children with symptomatic oHCM who were\u2026",
@@ -1881,6 +1912,21 @@
    "published": "2026-11-09T17:01:10+00:00",
    "tickers": [
     "TGTX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "e5e87cb8f5ee",
+   "headline": "Immunovant, Inc. (IMVT) Q2 2027 Earnings Call Transcript",
+   "summary": "Immunovant, Inc. (IMVT) Q2 2027 Earnings Call November 9, 2026 8:00 AM ESTCompany ParticipantsConference Call ParticipantsStephanie Lee Griffin - Roivant...",
+   "url": "https://finnhub.io/api/news?id=499b0c9cb6adcebba8c96d9d2efcdb78ea6000fda9f4401353e7d32d406618b5",
+   "source": "SeekingAlpha",
+   "published": "2026-11-09T17:01:00+00:00",
+   "tickers": [
+    "IMVT"
    ],
    "tag": "Earnings",
    "sectors": [
