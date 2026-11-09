@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-09T09:32:00.099361+00:00",
+ "updated": "2026-11-09T09:46:54.882988+00:00",
  "quotes": {
   "ABBV": {
    "price": 291.31,
@@ -13,6 +13,10 @@
   "AMGN": {
    "price": 460.42,
    "change_pct": 0.03
+  },
+  "ARGX": {
+   "price": 927.21,
+   "change_pct": 3.63
   },
   "AZN": {
    "price": 186.43,
@@ -69,10 +73,6 @@
   "GILD": {
    "price": 166.89,
    "change_pct": -0.41
-  },
-  "GKOS": {
-   "price": 224.41,
-   "change_pct": 2.01
   },
   "HCAT": {
    "price": 1.46,
@@ -777,6 +777,24 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "1a59633148ca",
+   "headline": "Argenx inks $1.15B Unnatural Products buyout to expand in oral peptides",
+   "summary": "Argenx has struck a deal to acquire Unnatural Products for $550 million upfront, snapping up the Merck & Co.- and Novartis-partnered biotech to add oral peptide capabilities.",
+   "url": "https://www.fiercebiotech.com/biotech/argenx-inks-115b-unnatural-products-buyout-expand-oral-peptides",
+   "source": "Fierce Biotech",
+   "published": "2026-11-09T09:45:24.495224+00:00",
+   "tickers": [
+    "MRK",
+    "NVS",
+    "ARGX"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "biotech",
+    "pharma"
+   ]
+  },
   {
    "id": "18a0f09df57b",
    "headline": "Opinion: STAT+: CVS\u2019 split doesn\u2019t fix its fundamental problem",
@@ -57177,111 +57195,6 @@
     "LLY"
    ],
    "tag": "Analyst",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "c6bdfea9fdac",
-   "headline": "AstraZeneca cuts early-phase prostate cancer pipeline",
-   "summary": "AstraZeneca has punted a pair of early-phase prostate cancer programs as part of its quarterly pipeline clearout.",
-   "url": "https://www.fiercebiotech.com/biotech/astrazeneca-cuts-early-phase-prostate-cancer-pipeline",
-   "source": "Fierce Biotech",
-   "published": "2026-10-30T09:45:21.951808+00:00",
-   "tickers": [
-    "AZN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "3e40668cf31d",
-   "headline": "Conference call: AbbVie Raises FY2026 Sales Guidance from $67.600B to $67.800B vs $67.585B Est",
-   "summary": "AbbVie (NYSE:ABBV) raises FY2026 sales outlook from $67.600 billion to $67.800 billion vs $67.585 billion estimate.",
-   "url": "https://finnhub.io/api/news?id=098bacc77b92832a2765cfbf00cb4808fe48fbc27407b844ccc1a1ac787ae2ad",
-   "source": "Benzinga",
-   "published": "2026-10-30T09:44:37+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "8e7d246836c6",
-   "headline": "Conference call: AbbVie Sees Q4 Adj EPS $3.83-$3.87 vs $3.89 Est; Sees Sales $18.400B vs $18.300B Est",
-   "summary": "AbbVie (NYSE:ABBV) is looking for Q4 Adj EPS of $3.83-$3.87 vs $3.89 analyst estimate. sees sales of $18.400 billion vs $18.300 billion analyst estimate.",
-   "url": "https://finnhub.io/api/news?id=024d215baf4a95266998dacdea9917b88cd275d36fe7b68f9d85b83b8c390d69",
-   "source": "Benzinga",
-   "published": "2026-10-30T09:43:45+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "6437e6ac7924",
-   "headline": "Regeneron Pharmaceuticals Q3 2026 Earnings Call Transcript",
-   "summary": "Regeneron Pharmaceuticals (NASDAQ:REGN) reported third-quarter financial results on Friday. The transcript from the company\u2019s third-quarter earnings call has been provided below.This transcript is brought to you by",
-   "url": "https://finnhub.io/api/news?id=91a811d6b523fb373a3db8811f836cb12cf53196b905295312c3a81e6b0a9ef4",
-   "source": "Benzinga",
-   "published": "2026-10-30T09:42:18+00:00",
-   "tickers": [
-    "REGN"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "ceb46bafd0e4",
-   "headline": "StoneX Maintains Buy on DexCom, Raises Price Target to $93",
-   "summary": "StoneX analyst Bruce D. Jackson maintains DexCom (NASDAQ:DXCM) with a Buy and raises the price target from $82 to $93.",
-   "url": "https://finnhub.io/api/news?id=225e4669931c1c466dfe22a6f8d5c34bb944cac1d0750ecbd06d17b3bc3e59a6",
-   "source": "Benzinga",
-   "published": "2026-10-30T09:38:18+00:00",
-   "tickers": [
-    "DXCM"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "3c7d39195f7c",
-   "headline": "Barclays Maintains Equal-Weight on Alignment Healthcare, Lowers Price Target to $9",
-   "summary": "Barclays analyst Andrew Mok maintains Alignment Healthcare (NASDAQ:ALHC) with a Equal-Weight and lowers the price target from $10 to $9.",
-   "url": "https://finnhub.io/api/news?id=38f8d4b510e7fa7a5739980d5b877e3aeccbb0adceafd06feeb4d93ff39d6796",
-   "source": "Benzinga",
-   "published": "2026-10-30T09:35:03+00:00",
-   "tickers": [
-    "ALHC"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "3b06898bdbcb",
-   "headline": "Gilead: The Business Is Growing, But The Valuation No Longer Works",
-   "summary": "Gilead faces valuation headwinds as Medicare pricing and HIV reliance pressure grow. Read here for a detailed investment analysis of GILD stock.",
-   "url": "https://finnhub.io/api/news?id=22738f59cb25e3959c49ad63c1d2566d9d049ed46c6025d80179fe5acdbde2d0",
-   "source": "SeekingAlpha",
-   "published": "2026-10-30T09:34:49+00:00",
-   "tickers": [
-    "GILD"
-   ],
-   "tag": "Policy",
    "sectors": [
     "pharma"
    ]
