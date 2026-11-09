@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-09T09:01:55.123446+00:00",
+ "updated": "2026-11-09T09:16:49.114770+00:00",
  "quotes": {
   "ABBV": {
    "price": 291.31,
@@ -73,6 +73,10 @@
   "GKOS": {
    "price": 224.41,
    "change_pct": 2.01
+  },
+  "HCAT": {
+   "price": 1.46,
+   "change_pct": -2.67
   },
   "HIMS": {
    "price": 26,
@@ -819,6 +823,21 @@
    ]
   },
   {
+   "id": "45e539ab4d7d",
+   "headline": "HCAT Q3 2026 deep dive: client retention and cost alignment take center stage",
+   "summary": "Healthcare data analytics company Health Catalyst (NASDAQ:HCAT) beat Wall Street\u2019s revenue expectations in Q3 2026, but sales fell by 26.3% year on year to $56.28 million. The company expects the full year\u2019s revenue to be around $247.5\u2026",
+   "url": "https://finnhub.io/api/news?id=b958b48860da695a8c3a7402fe49bf093f9bc68b1b9089ac84bcedfe4fd9c072",
+   "source": "Yahoo",
+   "published": "2026-11-09T03:57:36+00:00",
+   "tickers": [
+    "HCAT"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthai"
+   ]
+  },
+  {
    "id": "63259228d1f9",
    "headline": "Novo Nordisk: Q3 Earnings Bust The Cannibalization Myth",
    "summary": "Novo Nordisk offers 34% upside as Q3 results ease oral cannibalization fears. Read why I am optimistic about the upside to NVO stock now.",
@@ -826,7 +845,8 @@
    "source": "SeekingAlpha",
    "published": "2026-11-09T02:56:35+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -57246,66 +57266,6 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "09fc8c6d1035",
-   "headline": "Guggenheim Maintains Buy on Tenet Healthcare, Lowers Price Target to $306",
-   "summary": "Guggenheim analyst Jason Cassorla maintains Tenet Healthcare (NYSE:THC) with a Buy and lowers the price target from $307 to $306.",
-   "url": "https://finnhub.io/api/news?id=fc31672f93455dd3fb3e924f5320659e26f42ee483bf90143c9b90e598dbc45e",
-   "source": "Benzinga",
-   "published": "2026-10-30T09:13:15+00:00",
-   "tickers": [
-    "THC"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "ac7dd9394835",
-   "headline": "Guggenheim Maintains Buy on Merck & Co, Raises Price Target to $171",
-   "summary": "Guggenheim analyst Vamil Divan maintains Merck & Co (NYSE:MRK) with a Buy and raises the price target from $170 to $171.",
-   "url": "https://finnhub.io/api/news?id=8ae4f1880cd3064a7be1acc46a7c4c2075158363d50ba53fd01a964ebec2fcde",
-   "source": "Benzinga",
-   "published": "2026-10-30T09:11:28+00:00",
-   "tickers": [
-    "MRK"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "69286ebf3b93",
-   "headline": "Sanofi CEO Belen Garijo Says Beyond 2030, Expect Total Revenues To Be Impacted Only Moderately By Dupixent's Loss Of Exclusivity",
-   "summary": "-Analyst Call.",
-   "url": "https://finnhub.io/api/news?id=14d7a063328cce5b28085b6e876627a76e33277ceaff7cd19050ae8ea2335536",
-   "source": "Benzinga",
-   "published": "2026-10-30T09:08:54+00:00",
-   "tickers": [
-    "SNY"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "d79d7dfd135f",
-   "headline": "Citizens Maintains Market Outperform on Stryker, Lowers Price Target to $390",
-   "summary": "Citizens analyst Daniel Stauder maintains Stryker (NYSE:SYK) with a Market Outperform and lowers the price target from $400 to $390.",
-   "url": "https://finnhub.io/api/news?id=9b66f65e0e7b0391cc26a7c55cfbc046f2d21218b59e99ea8df9524a55a86bc7",
-   "source": "Benzinga",
-   "published": "2026-10-30T09:01:22+00:00",
-   "tickers": [
-    "SYK"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
