@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-09T06:01:56.036532+00:00",
+ "updated": "2026-11-09T06:16:41.963452+00:00",
  "quotes": {
   "ABBV": {
    "price": 291.31,
@@ -57,6 +57,10 @@
   "DOCS": {
    "price": 32.51,
    "change_pct": -2.02
+  },
+  "GH": {
+   "price": 150.87,
+   "change_pct": -1.67
   },
   "GILD": {
    "price": 166.89,
@@ -765,6 +769,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "2e9c81c12349",
+   "headline": "This cancer-testing stock is BTIG\u2019s top pick after another major earnings beat",
+   "summary": "Investing.com -- BTIG has reaffirmed its bullish stance on Guardant Health (BIT:1GH), naming the cancer diagnostics company its \"2026 Top Pick\" after another quarterly revenue beat and an upgrade to its full-year outlook.",
+   "url": "https://finnhub.io/api/news?id=131b6172460e44528b8c4d8389daa018acc8b299abb81f1b54a2fba24f1f7ff6",
+   "source": "Yahoo",
+   "published": "2026-11-09T02:38:17+00:00",
+   "tickers": [
+    "GH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
   {
    "id": "f791a99c6e97",
    "headline": "The 5 most interesting analyst questions from Bruker\u2019s Q3 2026 earnings call",
@@ -57938,66 +57957,6 @@
    "tag": "News",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "3476d7d78ae6",
-   "headline": "Labcorp (LH) Stock Fair Value Edges Higher After Q3 Analyst Revisions",
-   "summary": "The fair value estimate for Labcorp Holdings has been adjusted from US$344.25 to US$354.50, a move of about US$10.25 that reflects updated analyst work after the latest Q3 review. External analysts have gone further, with several price\u2026",
-   "url": "https://finnhub.io/api/news?id=d4c0f1f1232993acafebe54b35d683346ee0b53eab65b7787934806ce5885255",
-   "source": "Yahoo",
-   "published": "2026-10-30T06:14:37+00:00",
-   "tickers": [
-    "LH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "d724d3b6cb1e",
-   "headline": "Needham Maintains Buy on Stryker, Lowers Price Target to $359",
-   "summary": "Needham analyst Mike Matson maintains Stryker (NYSE:SYK) with a Buy and lowers the price target from $418 to $359.",
-   "url": "https://finnhub.io/api/news?id=066f3f72cf618c30fde25aa6ffbef03f37d63fb4d5dce2ebdb9310b4db5f0232",
-   "source": "Benzinga",
-   "published": "2026-10-30T06:12:02+00:00",
-   "tickers": [
-    "SYK"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "512e65c747e3",
-   "headline": "Repligen To Issue $1B Of 0.25% Convertible Senior Notes Due 2031 As Part Of Exchange, With ~$541.4M Of New Notes Issued In Exchange For ~$456.8M Of 2028 Notes And ~$458.6M Of New Notes Issued For Cash",
-   "summary": "Repligen Corporation (NASDAQ:RGEN) (\"Repligen\"), today announced that it entered into privately negotiated exchange and/or subscription agreements with certain holders of its outstanding 1.00% Convertible Senior",
-   "url": "https://finnhub.io/api/news?id=821f3dd24506e0c6613622b125c0fcb8c22c8750d9cfa80f8044afd83f8dc907",
-   "source": "Benzinga",
-   "published": "2026-10-30T06:05:05+00:00",
-   "tickers": [
-    "RGEN"
-   ],
-   "tag": "Financing",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "6fab3486b4de",
-   "headline": "Raymond James Downgrades Alnylam Pharmaceuticals to Outperform, Lowers Price Target to $315",
-   "summary": "Raymond James analyst Martin Auster downgrades Alnylam Pharmaceuticals (NASDAQ:ALNY) from Strong Buy to Outperform and lowers the price target from $420 to $315.",
-   "url": "https://finnhub.io/api/news?id=e7a86067d1f2ba2ad4ab39ecdde1157ec14d53360c75bb8b786d21b1e795352b",
-   "source": "Benzinga",
-   "published": "2026-10-30T06:01:43+00:00",
-   "tickers": [
-    "ALNY"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
    ]
   }
  ]
