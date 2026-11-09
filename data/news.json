@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-09T12:01:59.773129+00:00",
+ "updated": "2026-11-09T12:16:52.321864+00:00",
  "quotes": {
   "ABBV": {
    "price": 291.31,
@@ -17,6 +17,10 @@
   "ARGX": {
    "price": 927.21,
    "change_pct": 3.63
+  },
+  "AZN": {
+   "price": 186.43,
+   "change_pct": -0.22
   },
   "BDX": {
    "price": 211.88,
@@ -78,6 +82,10 @@
    "price": 26,
    "change_pct": 8.06
   },
+  "IMVT": {
+   "price": 30.53,
+   "change_pct": 7.54
+  },
   "IRTC": {
    "price": 90.22,
    "change_pct": -30.7
@@ -118,6 +126,10 @@
    "price": 904.35,
    "change_pct": 0.16
   },
+  "ROIV": {
+   "price": 38.88,
+   "change_pct": 6.17
+  },
   "RVMD": {
    "price": 192.28,
    "change_pct": 8.24
@@ -145,6 +157,10 @@
   "UTHR": {
    "price": 562.02,
    "change_pct": -0.65
+  },
+  "VKTX": {
+   "price": 26.84,
+   "change_pct": 4.07
   },
   "VRTX": {
    "price": 547.09,
@@ -774,6 +790,81 @@
  },
  "stories": [
   {
+   "id": "ade2da405e42",
+   "headline": "Doximity expands clinical AI footprint to more than 190 health systems",
+   "summary": "Doximity is rapidly expanding its clinical AI footprint with health systems. The company is also making clinical reliability a major part of its competitive positioning, launching DoseCheck and a partnership with Wolters Kluwer's UpToDate.",
+   "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/doximity-expands-clinical-ai-footprint-more-190-health-systems",
+   "source": "Fierce Healthcare",
+   "published": "2026-11-09T12:15:23.523592+00:00",
+   "tickers": [
+    "DOCS"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
+   "id": "397df057bac3",
+   "headline": "Viking Therapeutics Announces Two Poster Presentations at ObesityWeek\u00ae 2026",
+   "summary": "Poster Presentations Highlight Baseline Characteristics from the Phase 3 VANQUISH-2 Trial of Subcutaneous VK2735 and the Impact of VK2735 on Obesity Severity and Cardiometabolic Parameters in the Phase 2 VENTURE Study SAN DIEGO, Nov. 9,\u2026",
+   "url": "https://www.prnewswire.com/news-releases/viking-therapeutics-announces-two-poster-presentations-at-obesityweek-2026-302932884.html",
+   "source": "PR Newswire",
+   "published": "2026-11-09T12:05:00+00:00",
+   "tickers": [
+    "VKTX"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "08101a2b0b20",
+   "headline": "Roivant Reports Financial Results for the Second Quarter Ended September 30, 2026, and Provides Business Update",
+   "summary": "BASEL, Switzerland and LONDON and NEW YORK, Nov. 09, 2026 (GLOBE NEWSWIRE) -- Roivant (Nasdaq: ROIV) today reported its financial results for the second quarter ended September 30, 2026, and provided a business update.",
+   "url": "https://www.globenewswire.com/news-release/2026/11/09/3398229/34323/en/roivant-reports-financial-results-for-the-second-quarter-ended-september-30-2026-and-provides-business-update.html",
+   "source": "GlobeNewswire",
+   "published": "2026-11-09T12:00:00+00:00",
+   "tickers": [
+    "ROIV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "77bb7972becf",
+   "headline": "Immunovant Provides Corporate Updates and Reports Financial Results for the Quarter Ended September 30, 2026",
+   "summary": "DURHAM, N.C., Nov. 09, 2026 (GLOBE NEWSWIRE) -- Immunovant (Nasdaq: IMVT), a clinical-stage immunology company dedicated to enabling normal lives for people with autoimmune diseases, today reported corporate updates and financial results\u2026",
+   "url": "https://www.globenewswire.com/news-release/2026/11/09/3398263/0/en/immunovant-provides-corporate-updates-and-reports-financial-results-for-the-quarter-ended-september-30-2026.html",
+   "source": "GlobeNewswire",
+   "published": "2026-11-09T12:00:00+00:00",
+   "tickers": [
+    "IMVT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "cd3cca1e1e08",
+   "headline": "Compugen Reports Third Quarter 2026 Results",
+   "summary": "MAIA-ovarian fully enrolled; results expected by end of Q1 2027 Phase 3 rilvegostomig high-level results from partner AstraZeneca anticipated in H2 2027 from ARTEMIDE-Biliary01 trial UnigenX\u2122 designed to expand AI-powered discovery engine\u2026",
+   "url": "https://www.prnewswire.com/news-releases/compugen-reports-third-quarter-2026-results-302933203.html",
+   "source": "PR Newswire",
+   "published": "2026-11-09T12:00:00+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "c9604c3c9c4c",
    "headline": "Sanofi ADR (NASDAQ:SNY): Dividend Quality Just Clears the Bar",
    "summary": "Quality-focused dividend screens highlight SANOFI-ADR\u2019s 4.12% yield, solid profitability, and health checks\u2014showing how to balance income with risk.",
@@ -799,6 +890,21 @@
     "GILD"
    ],
    "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "5916554e4714",
+   "headline": "What State Street Health Care SPDR (XLV) Sold: Eli Lilly Leads on Nov. 5",
+   "summary": "The fund sold $212.6 million of stock, cutting all 60 of its positions and buying nothing.",
+   "url": "https://finnhub.io/api/news?id=6869290493b43806a3bd3ff01a635782486c9a891f4f63e40546c6a201197258",
+   "source": "Yahoo",
+   "published": "2026-11-09T11:06:30+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
    "sectors": [
     "pharma"
    ]
@@ -956,6 +1062,21 @@
    "tickers": [],
    "tag": "Health AI",
    "sectors": []
+  },
+  {
+   "id": "503625a215c0",
+   "headline": "Zacks Investment Ideas feature highlights: Moderna, AbbVie, Eli Lilly and Merck",
+   "summary": "MRNA hits a 52-week high after crushing Q3 earnings expectations and raising 2026 revenue guidance, but its nearly 800% rally raises valuation concerns.",
+   "url": "https://finnhub.io/api/news?id=28919c93456b4edb347083c386db997daac2af200980c527d98eb84323420a41",
+   "source": "Yahoo",
+   "published": "2026-11-09T09:20:00+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "43130355af19",
@@ -56184,205 +56305,6 @@
     "NVS"
    ],
    "tag": "GLP-1",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "1a299a7d57f8",
-   "headline": "RBC Capital Maintains Sector Perform on Gilead Sciences, Raises Price Target to $131",
-   "summary": "RBC Capital analyst Brian Abrahams maintains Gilead Sciences (NASDAQ:GILD) with a Sector Perform and raises the price target from $126 to $131.",
-   "url": "https://finnhub.io/api/news?id=2fd985f11f4d1a6b8ea12f30a9651f8d7a733bec256f1df9c0aef6480c0d3886",
-   "source": "Benzinga",
-   "published": "2026-10-30T12:15:47+00:00",
-   "tickers": [
-    "GILD"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "21732c97db94",
-   "headline": "If You Invested $100 In Veeva Systems Stock 10 Years Ago, You Would Have This Much Today",
-   "summary": "Veeva Systems (NYSE:VEEV) has outperformed the market over the past 10 years by 9.82% on an annualized basis producing an average annual return of 23.58%. Currently, Veeva Systems has a market capitalization of $50.25",
-   "url": "https://finnhub.io/api/news?id=b0c78fd127149fe0130943a6a1031814a8c4112c2f0c6f83f10343e3608a1174",
-   "source": "Benzinga",
-   "published": "2026-10-30T12:15:28+00:00",
-   "tickers": [
-    "VEEV"
-   ],
-   "tag": "News",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "e2139210c72f",
-   "headline": "Curious about Edwards Lifesciences (EW) Q3 Performance? Explore Wall Street Estimates for Key Metrics",
-   "summary": "Beyond analysts' top-and-bottom-line estimates for Edwards Lifesciences (EW), evaluate projections for some of its key metrics to gain a better insight into how the business might have performed for the quarter ended September 2026.",
-   "url": "https://finnhub.io/api/news?id=3f1ee430e7fc67f59e2bd7ddd214e58d4a5d3a24fcce831a07ff2c53bd1ae0c7",
-   "source": "Yahoo",
-   "published": "2026-10-30T12:15:07+00:00",
-   "tickers": [
-    "EW"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "6f648a2ada13",
-   "headline": "Countdown to CVS Health (CVS) Q3 Earnings: A Look at Estimates Beyond Revenue and EPS",
-   "summary": "Besides Wall Street's top-and-bottom-line estimates for CVS Health (CVS), review projections for some of its key metrics to gain a deeper understanding of how the company might have fared during the quarter ended September 2026.",
-   "url": "https://finnhub.io/api/news?id=eb15f8ac46f4555e1f9b21b37923de7543aefb3be14d3b80c101b164b1f66d29",
-   "source": "Yahoo",
-   "published": "2026-10-30T12:15:06+00:00",
-   "tickers": [
-    "CVS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "d6794f1fca20",
-   "headline": "Unveiling Cencora (COR) Q4 Outlook: Wall Street Estimates for Key Metrics",
-   "summary": "Looking beyond Wall Street's top-and-bottom-line estimate forecasts for Cencora (COR), delve into some of its key metrics to gain a deeper insight into the company's potential performance for the quarter ended September 2026.",
-   "url": "https://finnhub.io/api/news?id=c02072f5223004cbed10eca296424724894ef56b79d37344c0f406e6e028df8c",
-   "source": "Yahoo",
-   "published": "2026-10-30T12:15:04+00:00",
-   "tickers": [
-    "COR"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharmacy"
-   ]
-  },
-  {
-   "id": "ddc7787aaec2",
-   "headline": "Stay Ahead of the Game With McKesson (MCK) Q2 Earnings: Wall Street's Insights on Key Metrics",
-   "summary": "Besides Wall Street's top-and-bottom-line estimates for McKesson (MCK), review projections for some of its key metrics to gain a deeper understanding of how the company might have fared during the quarter ended September 2026.",
-   "url": "https://finnhub.io/api/news?id=4ae21bc22fa76f0ee942b0cbdb3b775d6467e3c98db35ceee0a8736987894871",
-   "source": "Yahoo",
-   "published": "2026-10-30T12:15:02+00:00",
-   "tickers": [
-    "MCK"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharmacy"
-   ]
-  },
-  {
-   "id": "6d4da2d83b1f",
-   "headline": "Buy, Sell, or Hold? Today\u2019s Top Upgrades and Downgrades: Boston Scientific, DoorDash, GE Vernova, Honeywell Aerospace, Incyte. Intel, Reddit, Rivian Automotive, and More",
-   "summary": "Tech giants are rattling pre-market futures on Halloween Eve, and Wall Street analysts are scrambling to reprice everything from chipmakers to delivery apps. Find out which stocks just got upgraded despite the chaos and which ones\u2026",
-   "url": "https://finnhub.io/api/news?id=d569d18b28473863dacb3dcab2dd65c6010f628c18d45a60ba40661266a0ee82",
-   "source": "Yahoo",
-   "published": "2026-10-30T12:14:41+00:00",
-   "tickers": [
-    "BSX",
-    "INCY",
-    "SYK"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "0110319f2a22",
-   "headline": "Merck & Co., Inc. Q3 Earnings Call Highlights",
-   "summary": "Merck & Co., Inc. (NYSE:MRK) reported third-quarter 2026 revenue of $18.1 billion, up 5% from a year earlier, as growth in oncology, vaccines, cardiometabolic products and animal health helped offset product-specific and market headwinds.\u2026",
-   "url": "https://finnhub.io/api/news?id=cb7bb19caa415eccdc76b94b4193e89e3ca1984e03cd2efe604a084138131b3f",
-   "source": "Yahoo",
-   "published": "2026-10-30T12:14:32+00:00",
-   "tickers": [
-    "MRK",
-    "MRNA"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "dd5a2ac85776",
-   "headline": "Are Wall Street Analysts Predicting Pfizer\u2019s Stock Will Climb or Sink?",
-   "summary": "Pfizer has surpassed the broader S&P 500 Index over the past year, and analysts are cautious about the stock\u2019s prospects.",
-   "url": "https://finnhub.io/api/news?id=761bc2c2e4461a65467d6d76e94c39c9c7483e3ad630202e19714e10085be775",
-   "source": "Yahoo",
-   "published": "2026-10-30T12:12:25+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "883f42d52da3",
-   "headline": "RBC Capital Maintains Sector Perform on Exelixis, Raises Price Target to $58",
-   "summary": "RBC Capital analyst Leonid Timashev maintains Exelixis (NASDAQ:EXEL) with a Sector Perform and raises the price target from $51 to $58.",
-   "url": "https://finnhub.io/api/news?id=eeb07f5e082f339f4dc3cfd589d6b76401d59ce9c58b3657ec592b86e7920e15",
-   "source": "Benzinga",
-   "published": "2026-10-30T12:07:40+00:00",
-   "tickers": [
-    "EXEL"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "2f0583eb9258",
-   "headline": "Truist Securities Maintains Hold on Exelixis, Raises Price Target to $60",
-   "summary": "Truist Securities analyst Gregory Renza maintains Exelixis (NASDAQ:EXEL) with a Hold and raises the price target from $54 to $60.",
-   "url": "https://finnhub.io/api/news?id=7931d60a6a344c4eb4dfc1d9fceca7ce84344192e4435b3d78abc0d663f12648",
-   "source": "Benzinga",
-   "published": "2026-10-30T12:06:52+00:00",
-   "tickers": [
-    "EXEL"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "80ab1bd2e1e2",
-   "headline": "AbbVie Is Up 10% in a Month to a 52-Week High: Is There \u201cMore Room for Multiple Expansion\u201d?",
-   "summary": "Key TakeawaysAbbVie stock is up in the past month to a new 52-week high, mostly because investors moved out of AI stocks and into big drugmakers led by Eli Lilly. AbbVie\u2019s own news was steady, but a higher valuation did most of the work,\u2026",
-   "url": "https://finnhub.io/api/news?id=5e9813b4fc8a277363ff0c60dc78d8f9f3c2907f6aa5244ab840cef42e2f26da",
-   "source": "Yahoo",
-   "published": "2026-10-30T12:06:35+00:00",
-   "tickers": [
-    "ABBV",
-    "LLY"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "06b4f91c06c0",
-   "headline": "CFOs On the Move: Week ending Oct. 30",
-   "summary": "Goodyear hires a new finance chief, Norwegian Cruise Line names an insider as chief financial officer and Etsy starts its search for a new CFO.",
-   "url": "https://finnhub.io/api/news?id=32669d77f294fde7a13d05992fd84c4be7796935aa88c62e31bef10013e4fa69",
-   "source": "Yahoo",
-   "published": "2026-10-30T12:01:38+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "News",
    "sectors": [
     "pharma"
    ]
