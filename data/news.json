@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-09T07:31:52.329963+00:00",
+ "updated": "2026-11-09T07:46:50.664300+00:00",
  "quotes": {
   "ABBV": {
    "price": 291.31,
@@ -21,6 +21,10 @@
   "BDX": {
    "price": 211.88,
    "change_pct": -0.78
+  },
+  "BIIB": {
+   "price": 248.35,
+   "change_pct": 1.81
   },
   "BRKR": {
    "price": 61.31,
@@ -769,6 +773,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "a39645c2f5ef",
+   "headline": "ACR 2026: Dapirolizumab Pegol Associated with Greater Treatment Response Rates Versus Placebo in SLE Using Novel Treatment Response Measure",
+   "summary": "Dapirolizumab pegol (DZP) associated with higher response rates using the novel Treatment Response Measure for Systemic Lupus Erythematosus (TRM-SLE): A post-hoc analysis applying TRM-SLE to the DZP Phase 3 PHOENYCS GO data for the first\u2026",
+   "url": "https://finnhub.io/api/news?id=4926dc4426f23902975cff3fb954e55a4e835512ea0a0f3d11fbb5474679b307",
+   "source": "Yahoo",
+   "published": "2026-11-09T06:00:00+00:00",
+   "tickers": [
+    "BIIB"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
   {
    "id": "892970dce899",
    "headline": "Why Did MRNA, XERS, VIR Stocks Surge To 52-Week Highs Last Week?",
@@ -57582,77 +57601,6 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "445d6e8554f7",
-   "headline": "Molecular Partners to lay off up to 44% of workforce in radiotherapy pivot",
-   "summary": "Molecular Partners plans to lay off up to 44% of its staff as it focuses its declining cash reserves on a radiotherapeutic pipeline led by an early-phase small cell lung cancer drug candidate.",
-   "url": "https://www.fiercebiotech.com/biotech/molecular-partners-lay-44-workforce-radiotherapy-pivot",
-   "source": "Fierce Biotech",
-   "published": "2026-10-30T07:45:22.552600+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "3c5fd684bdf2",
-   "headline": "Keybanc Downgrades Alignment Healthcare to Sector Weight",
-   "summary": "Keybanc analyst Matthew Gillmor downgrades Alignment Healthcare (NASDAQ:ALHC) from Overweight to Sector Weight.",
-   "url": "https://finnhub.io/api/news?id=6ba96ff994279a18582430c76d508fb6595d9cf149f41c74406d1c6a4cb45eab",
-   "source": "Benzinga",
-   "published": "2026-10-30T07:43:08+00:00",
-   "tickers": [
-    "ALHC"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "ebb0c48e9f59",
-   "headline": "AstraZeneca Q3 revenue up 7% as cancer drugs offset Farxiga drop",
-   "summary": "Investing.com -- Drugmaker AstraZeneca reported third-quarter revenue of $16.21 billion, up 7% at constant exchange rates, as product sales of cancer drugs rose 15% and outweighed a 25% fall in sales of diabetes drug Farxiga versus a year\u2026",
-   "url": "https://finnhub.io/api/news?id=76f666f2aa3d479b467f6710041a0d200188741d67a769511cad0179c2b3fac3",
-   "source": "Yahoo",
-   "published": "2026-10-30T07:40:09+00:00",
-   "tickers": [
-    "AZN"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "2156fe29db1b",
-   "headline": "Astrazeneca: Q3 Earnings Snapshot",
-   "summary": "CAMBRIDGE, Britain (AP) \u2014 CAMBRIDGE, Britain (AP) \u2014 Astrazeneca PLC (AZN) on Friday reported third-quarter profit of $3.On a per-share basis, the Cambridge, Britain-based company said it had net income of $2.",
-   "url": "https://finnhub.io/api/news?id=70204474562dc858249ae631a589e358aa631fc3e1172feef4faed97e938400c",
-   "source": "Yahoo",
-   "published": "2026-10-30T07:37:41+00:00",
-   "tickers": [
-    "AZN"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "d9b7364d3354",
-   "headline": "Natera, Shake Shack, eBay And More On CNBC\u2019s \u2018Final Trades\u2019",
-   "summary": "CNBC Final Trades: Sechan picked eBay, Simpson Natera, Thomas COWZ ETF and Brown Shake Shack; all four gained Thursday.",
-   "url": "https://finnhub.io/api/news?id=528c92b96affa985a01105c1ea459d9c5170fabdcc9864c47f7e60b05b407ff9",
-   "source": "Benzinga",
-   "published": "2026-10-30T07:36:05+00:00",
-   "tickers": [
-    "NTRA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
    ]
   }
  ]
