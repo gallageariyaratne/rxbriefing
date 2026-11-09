@@ -1,7 +1,91 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-09T12:32:02.779045+00:00",
+ "updated": "2026-11-09T12:46:56.518460+00:00",
  "quotes": {
+  "ABBV": {
+   "price": 291.31,
+   "change_pct": 1.07
+  },
+  "ACAD": {
+   "price": 21.23,
+   "change_pct": -0.05
+  },
+  "AMGN": {
+   "price": 460.42,
+   "change_pct": 0.03
+  },
+  "ARGX": {
+   "price": 927.21,
+   "change_pct": 3.63
+  },
+  "AZN": {
+   "price": 186.43,
+   "change_pct": -0.22
+  },
+  "BDX": {
+   "price": 211.88,
+   "change_pct": -0.78
+  },
+  "BIIB": {
+   "price": 248.35,
+   "change_pct": 1.81
+  },
+  "BMY": {
+   "price": 62.14,
+   "change_pct": -1.57
+  },
+  "BRKR": {
+   "price": 61.31,
+   "change_pct": 5.6
+  },
+  "CLOV": {
+   "price": 4.82,
+   "change_pct": 7.59
+  },
+  "CNC": {
+   "price": 69.74,
+   "change_pct": -5.97
+  },
+  "COR": {
+   "price": 333.56,
+   "change_pct": -1.8
+  },
+  "CRL": {
+   "price": 337.52,
+   "change_pct": 7.83
+  },
+  "CRSP": {
+   "price": 50.07,
+   "change_pct": 3.11
+  },
+  "CVS": {
+   "price": 83.85,
+   "change_pct": 3.1
+  },
+  "CYTK": {
+   "price": 53.69,
+   "change_pct": -3.35
+  },
+  "DHR": {
+   "price": 230.25,
+   "change_pct": 1.73
+  },
+  "DOCS": {
+   "price": 32.51,
+   "change_pct": -2.02
+  },
+  "GH": {
+   "price": 150.87,
+   "change_pct": -1.67
+  },
+  "GILD": {
+   "price": 166.89,
+   "change_pct": -0.41
+  },
+  "GKOS": {
+   "price": 224.41,
+   "change_pct": 2.01
+  },
   "HCAT": {
    "price": 1.46,
    "change_pct": -2.67
@@ -9,6 +93,10 @@
   "HIMS": {
    "price": 26,
    "change_pct": 8.06
+  },
+  "HUM": {
+   "price": 433.74,
+   "change_pct": 5.33
   },
   "IMVT": {
    "price": 30.53,
@@ -726,6 +814,32 @@
  },
  "stories": [
   {
+   "id": "3e64b8d8ed08",
+   "headline": "Faeth\u2019s phase 2 data power oral combo forward in cancer targeted by ADC heavyweights",
+   "summary": "Faeth Therapeutics\u2019 endometrial cancer prospect has cleared the phase 2 efficacy bar, emboldening the biotech to forge ahead with efforts to establish the oral therapy in a field dominated by injectables.",
+   "url": "https://www.fiercebiotech.com/biotech/faeths-phase-2-data-power-oral-combo-forward-cancer-targeted-adc-heavyweights",
+   "source": "Fierce Biotech",
+   "published": "2026-11-09T12:45:20.642135+00:00",
+   "tickers": [],
+   "tag": "Clinical",
+   "sectors": []
+  },
+  {
+   "id": "2d0e993a0eea",
+   "headline": "Zimmer Biomet to Present at the Annual Jefferies Global Healthcare Conference in London",
+   "summary": "WARSAW, Ind., Nov. 9, 2026 /PRNewswire/ -- Zimmer Biomet Holdings, Inc. (NYSE and SIX: ZBH), a global medical technology leader, today announced that members of the Zimmer Biomet management team will be presenting at the Annual Jefferies\u2026",
+   "url": "https://www.prnewswire.com/news-releases/zimmer-biomet-to-present-at-the-annual-jefferies-global-healthcare-conference-in-london-302931217.html",
+   "source": "PR Newswire",
+   "published": "2026-11-09T12:30:00+00:00",
+   "tickers": [
+    "ZBH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "ade2da405e42",
    "headline": "Doximity expands clinical AI footprint to more than 190 health systems",
    "summary": "Doximity is rapidly expanding its clinical AI footprint with health systems. The company is also making clinical reliability a major part of its competitive positioning, launching DoseCheck and a partnership with Wolters Kluwer's UpToDate.",
@@ -831,6 +945,21 @@
    ]
   },
   {
+   "id": "06ac4a623336",
+   "headline": "Roivant Reports Financial Results for the Second Quarter Ended September 30, 2026, and Provides Business Update",
+   "summary": "LISRAYA\u2122 (brepocitinib) generated net product revenue of $31.0 million in its first 5 weeks of launch following FDA approval in August 2026IMVT-1402 600 mg met the primary endpoint of ACR20 response at Week 28 (92.5% vs. 75.6% placebo,\u2026",
+   "url": "https://finnhub.io/api/news?id=5151d12ddab2c4df19b196df28700db0cf94c3efd8ea262710307b5620ba09d1",
+   "source": "Yahoo",
+   "published": "2026-11-09T12:00:00+00:00",
+   "tickers": [
+    "ROIV"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "c9604c3c9c4c",
    "headline": "Sanofi ADR (NASDAQ:SNY): Dividend Quality Just Clears the Bar",
    "summary": "Quality-focused dividend screens highlight SANOFI-ADR\u2019s 4.12% yield, solid profitability, and health checks\u2014showing how to balance income with risk.",
@@ -876,6 +1005,21 @@
    ]
   },
   {
+   "id": "c0fcc310edf4",
+   "headline": "Charles River Laboratories to Acquire Frontage\u2019s Bioanalysis and DMPK Businesses",
+   "summary": "WILMINGTON, Mass., November 09, 2026--Charles River Laboratories to Acquire Frontage's Bioanalysis and DMPK Businesses",
+   "url": "https://finnhub.io/api/news?id=2289dc383a5683940372acf5a6ca8d949fbf273760192deae16ccd599f96d499",
+   "source": "Yahoo",
+   "published": "2026-11-09T11:10:00+00:00",
+   "tickers": [
+    "CRL"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "5916554e4714",
    "headline": "What State Street Health Care SPDR (XLV) Sold: Eli Lilly Leads on Nov. 5",
    "summary": "The fund sold $212.6 million of stock, cutting all 60 of its positions and buying nothing.",
@@ -884,11 +1028,27 @@
    "published": "2026-11-09T11:06:30+00:00",
    "tickers": [
     "ABBV",
-    "JNJ"
+    "JNJ",
+    "UNH"
    ],
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "4a38f29d81fc",
+   "headline": "Dimensional U.S. Small Cap ETF (DFAS) Sells $24.2 Million of Charles River on Nov. 5",
+   "summary": "The fund traded $229.7 million gross and posted a net outflow of $92.0 million, with 475 positions increased and 29 decreased.",
+   "url": "https://finnhub.io/api/news?id=b26c364839f13bf8eaea44dee22bac8458a1443815b07981ee35ba6ae13aa9f4",
+   "source": "Yahoo",
+   "published": "2026-11-09T11:06:16+00:00",
+   "tickers": [
+    "CRL"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -899,11 +1059,27 @@
    "source": "Yahoo",
    "published": "2026-11-09T11:05:20+00:00",
    "tickers": [
+    "GKOS",
     "RGEN"
    ],
    "tag": "News",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "a19ad1949498",
+   "headline": "What SPDR Dow Jones Industrial Avg ETF (DIA) Sold: Goldman Leads on Nov. 5",
+   "summary": "The fund sold $1.08 billion of stock on Thursday, cutting all 30 positions and buying nothing.",
+   "url": "https://finnhub.io/api/news?id=fbf8d9598f5d872f1ff9150966f3d222d0944601bb18ebb7e005e8ba1831d3bc",
+   "source": "Yahoo",
+   "published": "2026-11-09T11:04:45+00:00",
+   "tickers": [
+    "AMGN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -915,6 +1091,21 @@
    "published": "2026-11-09T11:03:43+00:00",
    "tickers": [
     "JNJ"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "1b1ebbf894cc",
+   "headline": "ETFs Are Net Sellers of Amgen (AMGN) on Nov. 5",
+   "summary": "ETFs sold a net $68.5 million of Amgen on Thursday, Nov. 5, with 51 funds buying and 20 selling.",
+   "url": "https://finnhub.io/api/news?id=48f45713f39f41ba1a4439531fde5cbb2ef2c98f680ffbcd3155097383d05756",
+   "source": "Yahoo",
+   "published": "2026-11-09T11:03:39+00:00",
+   "tickers": [
+    "AMGN"
    ],
    "tag": "News",
    "sectors": [
@@ -935,6 +1126,21 @@
    "tag": "FDA",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "2617bfd29d73",
+   "headline": "Company News for Nov 9, 2026",
+   "summary": "Companies In The News Are:FLY,ASTS,LRCX,HUM and BEN",
+   "url": "https://finnhub.io/api/news?id=057ad9137bad302b30892ee6500af2f0f35654171957d00302f21c676b54aeae",
+   "source": "Yahoo",
+   "published": "2026-11-09T10:21:00+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -1134,6 +1340,21 @@
    "tag": "Legal",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "928e2e1926c7",
+   "headline": "Physical AI: Robotics Heading Into 2027",
+   "summary": "",
+   "url": "https://finnhub.io/api/news?id=32c7c07ffb23e348a9cba8d942c721bb254d57b9c9377fe5064dcb237d209e9c",
+   "source": "SeekingAlpha",
+   "published": "2026-11-09T07:17:00+00:00",
+   "tickers": [
+    "ISRG"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -55746,230 +55967,6 @@
     "GILD"
    ],
    "tag": "Analyst",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "3126e0dec04e",
-   "headline": "Chutes & Ladders\u2014Lilly unifies global markets as 36-year vet Patrik Jonsson retires",
-   "summary": "Lilly will unite its U.S. and international commercial units as a long-time exec retires. Enanta's CEO will hang up his hat after 23 year at the helm. Estrella has tapped a new a CEO to lead it through a clinical trial.",
-   "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-lilly-unifies-global-markets-36-year-vet-patrik-jonsson-retires",
-   "source": "Fierce Biotech",
-   "published": "2026-10-30T12:45:24.009817+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "04c1efed6b68",
-   "headline": "Wells Fargo Maintains Equal-Weight on Incyte, Lowers Price Target to $127",
-   "summary": "Wells Fargo analyst Derek Archila maintains Incyte (NASDAQ:INCY) with a Equal-Weight and lowers the price target from $128 to $127.",
-   "url": "https://finnhub.io/api/news?id=c4bfe3306ff57840fbcd3400b9d3c7cbf88610c892586cfc4ab38ceec0913065",
-   "source": "Benzinga",
-   "published": "2026-10-30T12:45:02+00:00",
-   "tickers": [
-    "INCY"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "55896b0a9cd8",
-   "headline": "CVS Health: How Education and Everyday Action Can Support Medication Safety",
-   "summary": "Key points * Red Ribbon Week is a timely opportunity for adults to begin age-appropriate conversations about medication safety, substance misuse and mental health. * Dose of Knowledge provides free lessons and interactive resources for\u2026",
-   "url": "https://finnhub.io/api/news?id=04c2d904acd3724e821ed61c3673efe927248cff0eca98c43bde4d575f81ee8f",
-   "source": "Yahoo",
-   "published": "2026-10-30T12:45:00+00:00",
-   "tickers": [
-    "CVS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "89310f14894e",
-   "headline": "AstraZeneca Has an $80 Billion Dream and a Plan to Fix Its Stalling Stock",
-   "summary": "AstraZeneca aims to free up funds to reinvest into its pipeline and meet its goal of $80 billion in annual revenue by 2030.",
-   "url": "https://finnhub.io/api/news?id=f668ac464085f6bcbc31e17f69475802cf92e4f4721dd74dd0153576ecb2402c",
-   "source": "Yahoo",
-   "published": "2026-10-30T12:43:00+00:00",
-   "tickers": [
-    "AMGN",
-    "AZN",
-    "BMY",
-    "NVS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "8ebc43c12612",
-   "headline": "Wells Fargo Maintains Equal-Weight on Alnylam Pharmaceuticals, Lowers Price Target to $220",
-   "summary": "Wells Fargo analyst Derek Archila maintains Alnylam Pharmaceuticals (NASDAQ:ALNY) with a Equal-Weight and lowers the price target from $253 to $220.",
-   "url": "https://finnhub.io/api/news?id=4c6e4570f1fbf16268cae57159a74c4e94aa5a66190f31eb07904672de73115f",
-   "source": "Benzinga",
-   "published": "2026-10-30T12:42:29+00:00",
-   "tickers": [
-    "ALNY"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "cdbc71ac7137",
-   "headline": "How to Build $6,800 a Month in Dividend Income Without Selling a Single Share",
-   "summary": "Collecting four figures a month from dividends without ever selling a share sounds straightforward until you price out what it actually costs and see which companies are holding the whole structure together.",
-   "url": "https://finnhub.io/api/news?id=bc69b5d230f85aba43e6c449f531eed27d3cb660764c3084aa91b61f9cbeba0d",
-   "source": "Yahoo",
-   "published": "2026-10-30T12:41:43+00:00",
-   "tickers": [
-    "AMGN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "5bf9654f346c",
-   "headline": "Is Avantor (AVTR) Stock Outpacing Its Medical Peers This Year?",
-   "summary": "Here is how Avantor, Inc. (AVTR) and Novartis (NVS) have performed compared to their sector so far this year.",
-   "url": "https://finnhub.io/api/news?id=888317d9ad02438cb9867b4be71bc5fc8b7531e40b6c89106e1b86a8b3e83259",
-   "source": "Yahoo",
-   "published": "2026-10-30T12:40:02+00:00",
-   "tickers": [
-    "NVS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "2a69f57b9040",
-   "headline": "Regeneron Pharmaceuticals (NASDAQ:REGN) Q3 2026 Earnings Beat Driven by Dupixent Growth",
-   "summary": "Regeneron Q3 2026 earnings beat revenue and EPS estimates, sending shares higher premarket on strong Dupixent and EYLEA HD growth.",
-   "url": "https://finnhub.io/api/news?id=4342f4e6b7583f4a182db2939e26b301997ed773e1184d601cdb03a0149e12b8",
-   "source": "ChartMill",
-   "published": "2026-10-30T12:38:27+00:00",
-   "tickers": [
-    "REGN"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "6809f7eb3495",
-   "headline": "Pfizer Yields Nearly 6%, but Its Dividend Exceeds Free Cash Flow. Is It Safe?",
-   "summary": "Pfizer's dividend yield sits near 6%, but the company paid out more in dividends last year than it generated in free cash flow. Before income investors panic or pile in, the real story behind that coverage gap deserves a close look.",
-   "url": "https://finnhub.io/api/news?id=30d50d334a4f65608d0822d1d450aa2d68d69302dd47b9a214cea491fb1146ee",
-   "source": "Yahoo",
-   "published": "2026-10-30T12:37:10+00:00",
-   "tickers": [
-    "BMY",
-    "MRK",
-    "PFE"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "b075d36ae61d",
-   "headline": "Truist Securities Maintains Buy on Gilead Sciences, Raises Price Target to $181",
-   "summary": "Truist Securities analyst Gregory Renza maintains Gilead Sciences (NASDAQ:GILD) with a Buy and raises the price target from $158 to $181.",
-   "url": "https://finnhub.io/api/news?id=312bd5e5247bf26ba0052b5e9b14b7478a8895f3518b1928a86be31149fb695e",
-   "source": "Benzinga",
-   "published": "2026-10-30T12:36:48+00:00",
-   "tickers": [
-    "GILD"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "ab2305cdb4ae",
-   "headline": "HALO Gears Up to Report Q3 Earnings: Is a Beat in the Cards?",
-   "summary": "Halozyme is poised for a Q3 earnings beat as strong demand for partnered drugs is likely to boost royalties and drive the top line.",
-   "url": "https://finnhub.io/api/news?id=97a97e101d6b3cc945c9503e66461779301e4deb708ef426936b5af4ee71df8f",
-   "source": "Yahoo",
-   "published": "2026-10-30T12:36:00+00:00",
-   "tickers": [
-    "ARGX",
-    "HALO",
-    "JNJ",
-    "PFE"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "f2f696242044",
-   "headline": "Regeneron Eyes One of Its Strongest Years Ever, Stock Jumps",
-   "summary": "Regeneron stock hits a 52-week high as earnings surge 70%, revenue jumps 36% and key drugs deliver record sales.",
-   "url": "https://finnhub.io/api/news?id=2cd971c809b371fd6243933e5181ee4caa3e6c98cde41e5980133c5364490236",
-   "source": "Benzinga",
-   "published": "2026-10-30T12:34:56+00:00",
-   "tickers": [
-    "REGN",
-    "SNY"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "827f7332f563",
-   "headline": "Is 50% Crash Risk For Iovance Stock Real?",
-   "summary": "For questions about this article or underlying research, email help@trefis.com.",
-   "url": "https://finnhub.io/api/news?id=e1b00415f35c02a3339017a1df4cf3071868e5cf2518566fdc60639c69733da1",
-   "source": "Yahoo",
-   "published": "2026-10-30T12:32:45+00:00",
-   "tickers": [
-    "BMY",
-    "GILD",
-    "MRK",
-    "REGN",
-    "VRTX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "4caee0783707",
-   "headline": "Regeneron Is Just Getting Started",
-   "summary": "",
-   "url": "https://finnhub.io/api/news?id=34f5994b9fa3cbf8650e0540f5cf7b38d73f7bba2f71aec079861db75c0dcda6",
-   "source": "SeekingAlpha",
-   "published": "2026-10-30T12:32:42+00:00",
-   "tickers": [
-    "REGN",
-    "SNY"
-   ],
-   "tag": "News",
    "sectors": [
     "pharma"
    ]
