@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-09T00:46:39.905509+00:00",
+ "updated": "2026-11-09T01:01:54.303029+00:00",
  "quotes": {
   "ABBV": {
    "price": 291.31,
@@ -29,6 +29,10 @@
   "COR": {
    "price": 333.56,
    "change_pct": -1.8
+  },
+  "CRSP": {
+   "price": 50.07,
+   "change_pct": 3.11
   },
   "CVS": {
    "price": 83.85,
@@ -66,6 +70,10 @@
    "price": 114.41,
    "change_pct": 5.19
   },
+  "IRTC": {
+   "price": 90.22,
+   "change_pct": -30.7
+  },
   "ISRG": {
    "price": 452.8,
    "change_pct": -3.36
@@ -98,6 +106,10 @@
    "price": 904.35,
    "change_pct": 0.16
   },
+  "RVMD": {
+   "price": 192.28,
+   "change_pct": 8.24
+  },
   "SYK": {
    "price": 325.87,
    "change_pct": -2.75
@@ -117,6 +129,10 @@
   "VRTX": {
    "price": 547.09,
    "change_pct": 0.85
+  },
+  "ZBH": {
+   "price": 105.59,
+   "change_pct": -1.18
   },
   "ZTS": {
    "price": 79.4,
@@ -738,6 +754,21 @@
  },
  "stories": [
   {
+   "id": "b2695d2cd052",
+   "headline": "Zimmer Biomet\u2019s Q3 2026 earnings call: our top 5 analyst questions",
+   "summary": "Zimmer Biomet\u2019s latest quarter drew a positive market response, reflecting broad-based growth across most business lines despite continued pressure in the knee franchise. Management attributed the company\u2019s performance to upper\u2026",
+   "url": "https://finnhub.io/api/news?id=20e496e63014bd3de42664d621b394c61317c1cb49afa3934b4fe85401994ab6",
+   "source": "Yahoo",
+   "published": "2026-11-08T23:01:36+00:00",
+   "tickers": [
+    "ZBH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "d2bc832bf9be",
    "headline": "Amgen's new drug could mean fewer shots for obesity patients",
    "summary": "An experimental drug from Amgen could reduce 52 injections to just four a year.",
@@ -768,6 +799,21 @@
    ]
   },
   {
+   "id": "7225bdc515c1",
+   "headline": "5 revealing analyst questions from Clover Health\u2019s Q3 2026 earnings call",
+   "summary": "Clover Health delivered results ahead of Wall Street expectations in the third quarter, driven by robust membership growth and improved operational performance. Management credited its clinically focused AI technology, Clover Assistant,\u2026",
+   "url": "https://finnhub.io/api/news?id=aff47b42e052e08cac7da0e9adc3865ccede09cdc9042e8417987e7f39dbb70c",
+   "source": "Yahoo",
+   "published": "2026-11-08T22:29:36+00:00",
+   "tickers": [
+    "CLOV"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "5986edcc4bdd",
    "headline": "Survival after sudden cardiac arrest didn\u2019t improve despite training bystanders, emergency responders",
    "summary": "A new study found survival after sudden cardiac arrest didn\u2019t improve with advance training of responders \u2014 but researchers aren't ready to shut the door on the possibility.",
@@ -791,6 +837,21 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "87a2d3fca723",
+   "headline": "What Zimmer Biomet (ZBH) Said on Its Q3 Earnings Call",
+   "summary": "Zimmer Biomet (NYSE:ZBH) raised its 2026 sales growth and adjusted earnings outlook after third-quarter growth in hips, surgical specialties and technology offset continued weakness in its knee business. The orthopedic device maker\u2026",
+   "url": "https://finnhub.io/api/news?id=596d5401035fdccd9d61316cf9dd6fc7f95416dc3e87435624b8e37d6c170a94",
+   "source": "Yahoo",
+   "published": "2026-11-08T22:14:09+00:00",
+   "tickers": [
+    "ZBH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -866,6 +927,21 @@
    "tag": "Earnings",
    "sectors": [
     "pharmacy"
+   ]
+  },
+  {
+   "id": "afd00777038d",
+   "headline": "Here\u2019s Why Citi Downgraded iRhythm (IRTC) Despite 14.9% Revenue Growth",
+   "summary": "We just published a list of the 10 High-Profile Stocks Just Dumped by Top Analysts and iRhythm Holdings (NASDAQ:IRTC) ranked 10th on this list. Wall Street had one of its roughest sessions of the year this week. The Nasdaq Composite fell\u2026",
+   "url": "https://finnhub.io/api/news?id=40fc73ff5420c2fa6f543adc9a96a38c7895082ba8cdccd097b5fe6b7b27ab5d",
+   "source": "Yahoo",
+   "published": "2026-11-08T20:25:11+00:00",
+   "tickers": [
+    "IRTC"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -1005,6 +1081,21 @@
    ]
   },
   {
+   "id": "1278788aed52",
+   "headline": "Revolution Medicines' Pancreatic Cancer Drug Nearly Doubled Survival. Is the High-Flying Stock Still a Buy?",
+   "summary": "Revolution Medicines isn't profitable, but it has a drug with blockbuster potential.",
+   "url": "https://finnhub.io/api/news?id=c456f8afbe4667caef5cdc22cd1cc9ce4ed5b0a1e8b73108372a7d4043e2a2a5",
+   "source": "Yahoo",
+   "published": "2026-11-08T16:35:00+00:00",
+   "tickers": [
+    "RVMD"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "450c4d9ca515",
    "headline": "Becton, Dickinson and Price Target Increased by 11.04% to $224.78",
    "summary": "",
@@ -1099,6 +1190,21 @@
    ]
   },
   {
+   "id": "a4e1ea800564",
+   "headline": "Why Royalty Pharma Investors Could Be the Quiet Winners From Revolution Medicines' Groundbreaking Pancreatic Cancer Drug",
+   "summary": "Revolution Medicines has a big drug making headlines, and Royalty Pharma gets a bite of the action without doing anything at all.",
+   "url": "https://finnhub.io/api/news?id=dc21849eb71705ce6918cd84eb7c5b0ebcce68ec178953f73b4b542c780eeb10",
+   "source": "Yahoo",
+   "published": "2026-11-08T15:35:00+00:00",
+   "tickers": [
+    "RVMD"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "fa7a3990ce5d",
    "headline": "Merck & Co., Inc. (MRK): A Top 10 Healthcare Stock to Buy Following the 2026 Democratic Midterm Sweep",
    "summary": "We just published the list of the 10 Best Healthcare and Insurance Stocks To Buy Following the 2026 Democratic Midterm Sweep and Merck & Co., Inc. (MRK) takes the 7th spot on the list. Healthcare stocks emerged as some of the clearest\u2026",
@@ -1111,6 +1217,21 @@
    "tag": "M&A",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "ef2f18e5ac86",
+   "headline": "CRISPR Therapeutics Provides Update on Zugocabtagene Geleucel (Zugo-cel) in Refractory Rheumatologic Autoimmune Diseases",
+   "summary": "Systemic sclerosis (SSc) data presented at ACR Convergence 2026 showed 83% (5/6) of patients receiving standard lymphodepletion achieved a clinical response (rCRISS-25) at Month 3, with all responders maintaining response Zugo-cel has\u2026",
+   "url": "https://finnhub.io/api/news?id=abb17946528d3cf9af34c6313b6987308ca248d0cfc2d036475a9c60a2c931b4",
+   "source": "Yahoo",
+   "published": "2026-11-08T15:30:00+00:00",
+   "tickers": [
+    "CRSP"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -57994,21 +58115,6 @@
     "NVS"
    ],
    "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "05c2763f8fa8",
-   "headline": "Gilead Sciences, Inc. (GILD) Q3 2026 Earnings Call Transcript",
-   "summary": "Gilead Sciences, Inc. (GILD) Q3 2026 Earnings Call October 29, 2026 4:30 PM EDTCompany ParticipantsJacquie Ross - Senior Vice President of Treasury &...",
-   "url": "https://finnhub.io/api/news?id=37fa339b07d8c0ddef88331d5e60bf05c6b3bb5abea12ed6c2a56ecb2fdafdad",
-   "source": "SeekingAlpha",
-   "published": "2026-10-30T00:58:53+00:00",
-   "tickers": [
-    "GILD"
-   ],
-   "tag": "Earnings",
    "sectors": [
     "pharma"
    ]
