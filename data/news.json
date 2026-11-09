@@ -1,79 +1,7 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-09T12:24:56.069349+00:00",
+ "updated": "2026-11-09T12:32:02.779045+00:00",
  "quotes": {
-  "ABBV": {
-   "price": 291.31,
-   "change_pct": 1.07
-  },
-  "ACAD": {
-   "price": 21.23,
-   "change_pct": -0.05
-  },
-  "AMGN": {
-   "price": 460.42,
-   "change_pct": 0.03
-  },
-  "ARGX": {
-   "price": 927.21,
-   "change_pct": 3.63
-  },
-  "AZN": {
-   "price": 186.43,
-   "change_pct": -0.22
-  },
-  "BDX": {
-   "price": 211.88,
-   "change_pct": -0.78
-  },
-  "BIIB": {
-   "price": 248.35,
-   "change_pct": 1.81
-  },
-  "BRKR": {
-   "price": 61.31,
-   "change_pct": 5.6
-  },
-  "CLOV": {
-   "price": 4.82,
-   "change_pct": 7.59
-  },
-  "CNC": {
-   "price": 69.74,
-   "change_pct": -5.97
-  },
-  "COR": {
-   "price": 333.56,
-   "change_pct": -1.8
-  },
-  "CRSP": {
-   "price": 50.07,
-   "change_pct": 3.11
-  },
-  "CVS": {
-   "price": 83.85,
-   "change_pct": 3.1
-  },
-  "CYTK": {
-   "price": 53.69,
-   "change_pct": -3.35
-  },
-  "DHR": {
-   "price": 230.25,
-   "change_pct": 1.73
-  },
-  "DOCS": {
-   "price": 32.51,
-   "change_pct": -2.02
-  },
-  "GH": {
-   "price": 150.87,
-   "change_pct": -1.67
-  },
-  "GILD": {
-   "price": 166.89,
-   "change_pct": -0.41
-  },
   "HCAT": {
    "price": 1.46,
    "change_pct": -2.67
@@ -87,8 +15,8 @@
    "change_pct": 7.54
   },
   "IRTC": {
-   "price": 90.22,
-   "change_pct": -30.7
+   "price": 90.19,
+   "change_pct": -30.72
   },
   "ISRG": {
    "price": 452.8,
@@ -121,6 +49,10 @@
   "NVS": {
    "price": 162.55,
    "change_pct": 0.38
+  },
+  "PODD": {
+   "price": 146.51,
+   "change_pct": -6.16
   },
   "REGN": {
    "price": 904.35,
@@ -869,6 +801,36 @@
    ]
   },
   {
+   "id": "895c85ecb174",
+   "headline": "United Therapeutics Corporation Announces Participation at Upcoming Investor Conferences",
+   "summary": "SILVER SPRING, Md. & RESEARCH TRIANGLE PARK, N.C., November 09, 2026--United Therapeutics Corporation (Nasdaq: UTHR) announced today that James Edgemond, Chief Financial Officer and Treasurer, will provide an overview and update during\u2026",
+   "url": "https://finnhub.io/api/news?id=767341a0cc60dd52d62d956c9afef504228757a069b00e52ea9312756f258a87",
+   "source": "Yahoo",
+   "published": "2026-11-09T12:00:00+00:00",
+   "tickers": [
+    "UTHR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "846d3032209f",
+   "headline": "For World Diabetes Day, Insulet Launches \"Give Yourself the Freedom to\" Campaign, Encouraging People with Diabetes to Prioritize Their Well-Being",
+   "summary": "ACTON, Mass., November 09, 2026--In recognition of World Diabetes Day on November 14, 2026, Insulet Corporation (NASDAQ: PODD) (Insulet or the Company), the global leader in tubeless insulin pump technology with its Omnipod\u00ae brand of\u2026",
+   "url": "https://finnhub.io/api/news?id=293a9a55073a26f9be2a9d9bf65b274776887d50908e1526205938cbff2a55bc",
+   "source": "Yahoo",
+   "published": "2026-11-09T12:00:00+00:00",
+   "tickers": [
+    "PODD"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "c9604c3c9c4c",
    "headline": "Sanofi ADR (NASDAQ:SNY): Dividend Quality Just Clears the Bar",
    "summary": "Quality-focused dividend screens highlight SANOFI-ADR\u2019s 4.12% yield, solid profitability, and health checks\u2014showing how to balance income with risk.",
@@ -899,6 +861,21 @@
    ]
   },
   {
+   "id": "f2fcc16bdf5a",
+   "headline": "Johnson & Johnson Says Icotyde in Psoriatic Arthritis Disease Meets Primary Endpoint in Phase 3 Study",
+   "summary": "Johnson & Johnson (JNJ) said Saturday Icotyde, a targeted oral peptide that blocks the IL-23 recepto",
+   "url": "https://finnhub.io/api/news?id=83996a09bdac6df0e7c5c9ae1df1dd1121f590885db501733b7558e0c1af1be7",
+   "source": "Yahoo",
+   "published": "2026-11-09T11:11:22+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "5916554e4714",
    "headline": "What State Street Health Care SPDR (XLV) Sold: Eli Lilly Leads on Nov. 5",
    "summary": "The fund sold $212.6 million of stock, cutting all 60 of its positions and buying nothing.",
@@ -906,7 +883,8 @@
    "source": "Yahoo",
    "published": "2026-11-09T11:06:30+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "JNJ"
    ],
    "tag": "News",
    "sectors": [
@@ -929,6 +907,21 @@
    ]
   },
   {
+   "id": "02ac34fb7adb",
+   "headline": "ETFs Are Net Sellers of Johnson & Johnson (JNJ) on Nov. 5",
+   "summary": "ETFs sold a net $68.4 million of Johnson & Johnson stock on Nov. 5.",
+   "url": "https://finnhub.io/api/news?id=ae9c5c30e0b9bfcd6e6ce72d74f40db4dce0dce33e4b9823971d4406ef09dfde",
+   "source": "Yahoo",
+   "published": "2026-11-09T11:03:43+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "be73bff01e46",
    "headline": "FDA Decision Watch: Summit\u2019s Lung Cancer Drug, Cytokinetics\u2019 Heart Therapy And Teva\u2019s Igalmi In Spotlight This Week",
    "summary": "The FDA is set to announce its verdict on three closely watched therapies this week, ahead of a busy month which includes a decision on Capricor Therapeutics\u2019 Deramiocel.",
@@ -936,11 +929,27 @@
    "source": "Yahoo",
    "published": "2026-11-09T10:23:04+00:00",
    "tickers": [
-    "CYTK"
+    "CYTK",
+    "JNJ"
    ],
    "tag": "FDA",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "a5b8b7776659",
+   "headline": "BioNTech vs. Moderna: The COVID Vaccine Giants Are Entering a New Era. One Stock Could Have the Edge for 2027",
+   "summary": "Five years after their pandemic-era success, BioNTech and Moderna are racing to transform promising medical breakthroughs into sustainable businesses.",
+   "url": "https://finnhub.io/api/news?id=2a1dc2337461e1a543773683ae563c3d165cfe913cacde307743988ddcb8e845",
+   "source": "Yahoo",
+   "published": "2026-11-09T10:20:02+00:00",
+   "tickers": [
+    "BMY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -55961,322 +55970,6 @@
     "SNY"
    ],
    "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "72ebfb57094f",
-   "headline": "REGN Stock Hits 2-Year Highs Pre-Market: CFO Says Regeneron Is Positioned To Deliver One Of \u2018Strongest Years Ever\u2019 After Q3 Earnings Beat",
-   "summary": "Regeneron reported a 36% surge in Q3 revenue to $5.12 billion, well above Wall Street estimates of $4.56 billion, according to Fiscal.ai",
-   "url": "https://finnhub.io/api/news?id=d7138b75361f18847673c3b1c63ad27aa9644d3d3f4c62ef38bc69621bba91ce",
-   "source": "Yahoo",
-   "published": "2026-10-30T12:30:54+00:00",
-   "tickers": [
-    "REGN",
-    "SNY"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "ad7c07075e78",
-   "headline": "Teladoc Health beats Q3 expectations as BetterHelp insurance growth accelerates",
-   "summary": "Teladoc Health raised its 2026 outlook after better-than-expected third-quarter results, as BetterHelp\u2019s insurance pivot gained traction and Integrated Care profitability improved.",
-   "url": "https://www.fiercehealthcare.com/health-tech/teladoc-health-beats-q3-expectations-betterhelp-insurance-growth-accelerates",
-   "source": "Fierce Healthcare",
-   "published": "2026-10-30T12:30:30.317201+00:00",
-   "tickers": [
-    "TDOC"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "e8b065b7d535",
-   "headline": "Regeneron (REGN) Reports Q3 Earnings: What Key Metrics Have to Say",
-   "summary": "The headline numbers for Regeneron (REGN) give insight into how the company performed in the quarter ended September 2026, but it may be worthwhile to compare some of its key metrics to Wall Street estimates and the year-ago actuals.",
-   "url": "https://finnhub.io/api/news?id=197b028c701a0e6bf89b33bd72588f4e7d45bac314c7e86c57fa704dd7094759",
-   "source": "Yahoo",
-   "published": "2026-10-30T12:30:03+00:00",
-   "tickers": [
-    "REGN"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "6cfe96b2e271",
-   "headline": "Astrazeneca (AZN) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
-   "summary": "Although the revenue and EPS for Astrazeneca (AZN) give a sense of how its business performed in the quarter ended September 2026, it might be worth considering how some key metrics compare with Wall Street estimates and the year-ago\u2026",
-   "url": "https://finnhub.io/api/news?id=360fa6465a0664cdd46c48e207e3c2b915cd962c5af76905d73cea3d1a0ad28e",
-   "source": "Yahoo",
-   "published": "2026-10-30T12:30:03+00:00",
-   "tickers": [
-    "AZN"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "6c1fdd671578",
-   "headline": "Brokers Suggest Investing in Viking Therapeutics (VKTX): Read This Before Placing a Bet",
-   "summary": "Based on the average brokerage recommendation (ABR), Viking Therapeutics (VKTX) should be added to one's portfolio. Wall Street analysts' overly optimistic recommendations cast doubt on the effectiveness of this highly sought-after\u2026",
-   "url": "https://finnhub.io/api/news?id=f714d17421dffa35515c3bb297cfcae0862ebe6a4acd61dd79e6c9e40f97f29e",
-   "source": "Yahoo",
-   "published": "2026-10-30T12:30:02+00:00",
-   "tickers": [
-    "VKTX"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "d44ea357f0ff",
-   "headline": "ResMed (RMD) Reports Q1 Earnings: What Key Metrics Have to Say",
-   "summary": "Although the revenue and EPS for ResMed (RMD) give a sense of how its business performed in the quarter ended September 2026, it might be worth considering how some key metrics compare with Wall Street estimates and the year-ago numbers.",
-   "url": "https://finnhub.io/api/news?id=95168813a9d2fd73e90862e3ca9569790a500ff805ec6874620a020fdaf5ce57",
-   "source": "Yahoo",
-   "published": "2026-10-30T12:30:01+00:00",
-   "tickers": [
-    "RMD"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "e1dd5b51f7bb",
-   "headline": "Neurocrine Biosciences Launches Interactive Educational Resources to Support Clinical Learning in Classic Congenital Adrenal Hyperplasia",
-   "summary": "BootCAHmp\u00ae delivers evidence-based education to strengthen understanding of classic congenital adrenal hyperplasia through interactive learning and real-world patient cases DiscoverCAH\u2122 provides immersive virtual experiences to expand\u2026",
-   "url": "https://www.prnewswire.com/news-releases/neurocrine-biosciences-launches-interactive-educational-resources-to-support-clinical-learning-in-classic-congenital-adrenal-hyperplasia-302924268.html",
-   "source": "PR Newswire",
-   "published": "2026-10-30T12:30:00+00:00",
-   "tickers": [
-    "NBIX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "3f309bded36e",
-   "headline": "Neurocrine Biosciences Launches Interactive Educational Resources to Support Clinical Learning in Classic Congenital Adrenal Hyperplasia",
-   "summary": "Neurocrine Biosciences, Inc. (Nasdaq: NBIX) today announced the launch of educational resources designed to help healthcare providers strengthen their understanding of classic congenital adrenal hyperplasia. The offerings include\u2026",
-   "url": "https://finnhub.io/api/news?id=ceb2e474efbfc673f4a98d6895564b15628316413d3287c1cca80010845ce9c9",
-   "source": "Yahoo",
-   "published": "2026-10-30T12:30:00+00:00",
-   "tickers": [
-    "NBIX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "fa8fd8ff3407",
-   "headline": "Integra LifeSciences to Highlight Hands-On Education and Neurosurgery Innovation at CNS 2026 Annual Meeting",
-   "summary": "Aurora\u00ae Surgiscope \u00ae System Aurora\u00ae Surgiscope \u00ae System PRINCETON, N.J., Oct. 30, 2026 (GLOBE NEWSWIRE) -- Integra LifeSciences Holdings Corporation (Nasdaq: IART), a global leader in medical technology, today announced its participation\u2026",
-   "url": "https://finnhub.io/api/news?id=ac0122bdb60cae8682896b916846ecf37499c9fb7c990ef13b5b27bbd1245985",
-   "source": "Yahoo",
-   "published": "2026-10-30T12:30:00+00:00",
-   "tickers": [
-    "IART"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "24d0d570cac0",
-   "headline": "DexCom, Inc. Q3 2026 Earnings Call Summary",
-   "summary": "Moby summary of DexCom, Inc.'s Q3 2026 earnings call",
-   "url": "https://finnhub.io/api/news?id=9418158d6c4d7295efc59506334ae0d0194b62f85b12b83be0078254282351d5",
-   "source": "Yahoo",
-   "published": "2026-10-30T12:30:00+00:00",
-   "tickers": [
-    "DXCM"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "5d1dcd4104a6",
-   "headline": "ResMed Inc. Q1 2027 Earnings Call Summary",
-   "summary": "Moby summary of ResMed Inc.'s Q1 2027 earnings call",
-   "url": "https://finnhub.io/api/news?id=5d7a83d1c0682251ea292bb500f130627ce60aa47c0b97960402824be61f5c68",
-   "source": "Yahoo",
-   "published": "2026-10-30T12:30:00+00:00",
-   "tickers": [
-    "RMD"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "c918dea691b7",
-   "headline": "Illumina, Inc. Q3 2026 Earnings Call Summary",
-   "summary": "Moby summary of Illumina, Inc.'s Q3 2026 earnings call",
-   "url": "https://finnhub.io/api/news?id=f6913a861f6353875cbcf646266bbfb1b29d79dc5b8c6b54438aa786a9e9ecd9",
-   "source": "Yahoo",
-   "published": "2026-10-30T12:30:00+00:00",
-   "tickers": [
-    "ILMN"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "6f4cbdfc1d02",
-   "headline": "Gilead Sciences, Inc. Q3 2026 Earnings Call Summary",
-   "summary": "Moby summary of Gilead Sciences, Inc.'s Q3 2026 earnings call",
-   "url": "https://finnhub.io/api/news?id=68c0445fad4a2249a49e76105cbfc127115be7c4181a28ce2312a9f0212e71a8",
-   "source": "Yahoo",
-   "published": "2026-10-30T12:30:00+00:00",
-   "tickers": [
-    "GILD"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "8269711f46c9",
-   "headline": "Stryker Corporation Q3 2026 Earnings Call Summary",
-   "summary": "Moby summary of Stryker Corporation's Q3 2026 earnings call",
-   "url": "https://finnhub.io/api/news?id=3b39ca07a062aba12d0e4e8fadcf18c3c0a6c16006f138b6fea61be9b77aacf7",
-   "source": "Yahoo",
-   "published": "2026-10-30T12:30:00+00:00",
-   "tickers": [
-    "SYK"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "da25280ce840",
-   "headline": "DaVita Inc. Q3 2026 Earnings Call Summary",
-   "summary": "Moby summary of DaVita Inc.'s Q3 2026 earnings call",
-   "url": "https://finnhub.io/api/news?id=51a8db9351a23a9d287267a4620e077d314fb3e9762d5f706816299c04f9327f",
-   "source": "Yahoo",
-   "published": "2026-10-30T12:30:00+00:00",
-   "tickers": [
-    "DVA"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "a61c37035fe6",
-   "headline": "Alignment Healthcare, Inc. Q3 2026 Earnings Call Summary",
-   "summary": "Moby summary of Alignment Healthcare, Inc.'s Q3 2026 earnings call",
-   "url": "https://finnhub.io/api/news?id=3e4d21e1eef29eee083085c85f34d1d3f7a339100999870802ae1782625709d9",
-   "source": "Yahoo",
-   "published": "2026-10-30T12:30:00+00:00",
-   "tickers": [
-    "ALHC"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "7b92d98d000b",
-   "headline": "PTC Therapeutics, Inc. Q3 2026 Earnings Call Summary",
-   "summary": "Moby summary of PTC Therapeutics, Inc.'s Q3 2026 earnings call",
-   "url": "https://finnhub.io/api/news?id=d45a88f38e2e73a5bb463a80daa93a171b6496476f84165e7d26d32f3005119b",
-   "source": "Yahoo",
-   "published": "2026-10-30T12:30:00+00:00",
-   "tickers": [
-    "PTCT"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "94a604aa4272",
-   "headline": "AstraZeneca Q3 2026 Earnings Call Transcript",
-   "summary": "AstraZeneca (NASDAQ:AZN) reported third-quarter financial results on Friday. The transcript from the company\u2019s third-quarter earnings call has been provided below.This transcript is brought to you by Benzinga APIs. For",
-   "url": "https://finnhub.io/api/news?id=45e5bd4905be72fa50f2c340a722961d08a421bd94dac9b7a637c2b0769ea620",
-   "source": "Benzinga",
-   "published": "2026-10-30T12:28:02+00:00",
-   "tickers": [
-    "AZN"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "b73fcc838841",
-   "headline": "AbbVie beats estimates but stock dips",
-   "summary": "Investing.com -- AbbVie Inc. (NYSE:ABBV) reported third-quarter results that exceeded analyst expectations, though shares are down 3% premarket as the company's raised full-year guidance came in largely in line with Wall Street estimates.",
-   "url": "https://finnhub.io/api/news?id=e12e83fa605657432995e8d69aa72fae0faf31944c59e82042ee761e4a63494c",
-   "source": "Yahoo",
-   "published": "2026-10-30T12:25:30+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "a74aa61b1554",
-   "headline": "Gilead: Q3 Earnings Overview - It's Time To Consider Selling After Stellar Year",
-   "summary": "Gilead Sciences, Inc. posts its strongest growth in a decade, led by HIV drugs. Click for this GILD earnings update and a look at why it's time to sell.",
-   "url": "https://finnhub.io/api/news?id=d509c8a195a80ddc92c5645d55259a7dad6923e0a62c91308afa07249573ac9b",
-   "source": "SeekingAlpha",
-   "published": "2026-10-30T12:24:42+00:00",
-   "tickers": [
-    "GILD"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "1f6ce7be0848",
-   "headline": "Regeneron (NASDAQ:REGN) surprises with strong Q3 2026, stock soars",
-   "summary": "Biotech company Regeneron (NASDAQ:REGN) reported revenue ahead of Wall Street\u2019s expectations in Q3 2026, with revenue up 36.3% year on year to $5.12 billion. Its non-GAAP profit of $20.07 per share was 23.5% above analysts\u2019 consensus\u2026",
-   "url": "https://finnhub.io/api/news?id=406c0ecb9117ded29b5b9d611726e460186fc6de32a89b23c83a414e52f88ec4",
-   "source": "Yahoo",
-   "published": "2026-10-30T12:24:32+00:00",
-   "tickers": [
-    "REGN"
-   ],
-   "tag": "Earnings",
    "sectors": [
     "pharma"
    ]
