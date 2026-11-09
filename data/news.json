@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-09T12:46:56.518460+00:00",
+ "updated": "2026-11-09T13:02:25.672428+00:00",
  "quotes": {
   "ABBV": {
    "price": 291.31,
@@ -101,6 +101,10 @@
   "IMVT": {
    "price": 30.53,
    "change_pct": 7.54
+  },
+  "IONS": {
+   "price": 39.42,
+   "change_pct": 1.6
   },
   "IRTC": {
    "price": 90.19,
@@ -814,6 +818,17 @@
  },
  "stories": [
   {
+   "id": "d8f7888db6b4",
+   "headline": "STAT+: A new rule to prevent the spread of bioweapons",
+   "summary": "AI makes it easier for people to come up with new potential medicines, but may also increase the possibility of bad actors creating new bioweapons. New guidelines from Trump officials\u2026",
+   "url": "https://www.statnews.com/2026/11/09/health-news-new-rule-to-prevent-bioweapon-spread/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-11-09T12:55:07+00:00",
+   "tickers": [],
+   "tag": "Health AI",
+   "sectors": []
+  },
+  {
    "id": "3e64b8d8ed08",
    "headline": "Faeth\u2019s phase 2 data power oral combo forward in cancer targeted by ADC heavyweights",
    "summary": "Faeth Therapeutics\u2019 endometrial cancer prospect has cleared the phase 2 efficacy bar, emboldening the biotech to forge ahead with efforts to establish the oral therapy in a field dominated by injectables.",
@@ -852,6 +867,21 @@
    "tag": "Health AI",
    "sectors": [
     "healthit"
+   ]
+  },
+  {
+   "id": "08ff66963305",
+   "headline": "Ionis Pharmaceuticals: Q3 Earnings Snapshot",
+   "summary": "(AP) \u2014 Ionis Pharmaceuticals Inc. (IONS) on Monday reported a loss of $110 million in its third quarter.",
+   "url": "https://finnhub.io/api/news?id=dedaf0b43a0ab1c3b0fbee11fd48d9f85c861fbe7b1d9f70879d0fd42b9265ed",
+   "source": "Yahoo",
+   "published": "2026-11-09T12:11:38+00:00",
+   "tickers": [
+    "IONS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -960,6 +990,36 @@
    ]
   },
   {
+   "id": "46d1d3152bcd",
+   "headline": "Adagene Announces Completion of Enrollment in Randomized Dose Optimization Phase 2 Trial of Muzastotug in Combination with KEYTRUDA\u00ae (pembrolizumab) in Microsatellite Stable Colorectal Cancer",
+   "summary": "- Enrollment of 60 patients complete; initial results expected in 1H 2027 to inform dose regimen for the Phase 3 trial- Adagene continues to own worldwide commercial rights to muzastotug SAN DIEGO and SUZHOU, China, Nov. 09, 2026 (GLOBE\u2026",
+   "url": "https://finnhub.io/api/news?id=bb4a9cacbd62e85ddab6e6a8be724a6d26a0c6a55aa30fccf1acf93f8733e96b",
+   "source": "Yahoo",
+   "published": "2026-11-09T12:00:00+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "42e90767a148",
+   "headline": "Ionis reports third quarter 2026 financial results and highlights progress on key programs",
+   "summary": "CARLSBAD, Calif., November 09, 2026--Ionis Pharmaceuticals, Inc. (Nasdaq: IONS) (the \"Company\") today reported financial results and provided key updates for the third quarter ended September 30, 2026.",
+   "url": "https://finnhub.io/api/news?id=b5bdcbeb0324578c54c46b156b541a35dbef32c26b5223b37b31fae05df19691",
+   "source": "Yahoo",
+   "published": "2026-11-09T12:00:00+00:00",
+   "tickers": [
+    "IONS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "c9604c3c9c4c",
    "headline": "Sanofi ADR (NASDAQ:SNY): Dividend Quality Just Clears the Bar",
    "summary": "Quality-focused dividend screens highlight SANOFI-ADR\u2019s 4.12% yield, solid profitability, and health checks\u2014showing how to balance income with risk.",
@@ -985,6 +1045,21 @@
     "GILD"
    ],
    "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "20329286edd8",
+   "headline": "Eli Lilly Is Now Worth Nearly 9 Novo Nordisks. Here's How the Gap Got So Wide.",
+   "summary": "The companies are competing in the weight loss drug market.",
+   "url": "https://finnhub.io/api/news?id=a551440a7a5d198843a39f86be08213a0226817285f8ee76d9ee27fe3279c167",
+   "source": "Yahoo",
+   "published": "2026-11-09T11:30:00+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "GLP-1",
    "sectors": [
     "pharma"
    ]
@@ -1020,6 +1095,21 @@
    ]
   },
   {
+   "id": "1d9538dfc724",
+   "headline": "Merck (MRK) Starts ENHANCE 3 COPD Trial As Cancer Drug Review Nears",
+   "summary": "Merck (NYSE:MRK) has begun the ENHANCE-3 Phase 3 trial to study OHTUVAYRE as a maintenance treatment for COPD. OHTUVAYRE recently received U.S. approval as the first new inhaled COPD maintenance option with dual bronchodilatory and\u2026",
+   "url": "https://finnhub.io/api/news?id=e05e6675d34d66a55665d78885b44ef93c2f0fd0acaeea3d43e253b907e4d34f",
+   "source": "Yahoo",
+   "published": "2026-11-09T11:07:04+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "5916554e4714",
    "headline": "What State Street Health Care SPDR (XLV) Sold: Eli Lilly Leads on Nov. 5",
    "summary": "The fund sold $212.6 million of stock, cutting all 60 of its positions and buying nothing.",
@@ -1029,6 +1119,8 @@
    "tickers": [
     "ABBV",
     "JNJ",
+    "LLY",
+    "MRK",
     "UNH"
    ],
    "tag": "News",
@@ -1065,6 +1157,21 @@
    "tag": "News",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "3aab724c9c37",
+   "headline": "Invesco S&P 500 Equal Weight (RSP) Adds Vylor and Moderna on Nov. 5",
+   "summary": "The $101.82 billion fund bought $976.9 million of stock on Thursday, adding 503 positions and selling none.",
+   "url": "https://finnhub.io/api/news?id=0bda31c4db5aa3e66c7213b9a1a7fb7040ca081a93516b681502909ee5b849f5",
+   "source": "Yahoo",
+   "published": "2026-11-09T11:04:53+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1113,6 +1220,21 @@
    ]
   },
   {
+   "id": "766cdf6f0feb",
+   "headline": "Biodesix to Showcase MRD Strategy at the Association for Molecular Pathology (AMP) 2026 Annual Meeting",
+   "summary": "New data highlighting proprietary bioinformatics, ultrasensitive molecular detection, and collaborations with Bio-Rad Laboratories and Thermo Fisher Scientific to advance scalable MRD solutions for clinical laboratoriesLOUISVILLE, Colo.,\u2026",
+   "url": "https://finnhub.io/api/news?id=bf981ed5ce9b9a05487759e3e82c42f6c3f02c2f6ddacc413d5375ed539e0e54",
+   "source": "Yahoo",
+   "published": "2026-11-09T11:00:00+00:00",
+   "tickers": [
+    "TMO"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "be73bff01e46",
    "headline": "FDA Decision Watch: Summit\u2019s Lung Cancer Drug, Cytokinetics\u2019 Heart Therapy And Teva\u2019s Igalmi In Spotlight This Week",
    "summary": "The FDA is set to announce its verdict on three closely watched therapies this week, ahead of a busy month which includes a decision on Capricor Therapeutics\u2019 Deramiocel.",
@@ -1151,7 +1273,23 @@
    "source": "Yahoo",
    "published": "2026-11-09T10:20:02+00:00",
    "tickers": [
-    "BMY"
+    "BMY",
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "e0542336b542",
+   "headline": "Is Merck (MRK) Undervalued After Its Cancer Trial Wins?",
+   "summary": "Merck has quietly turned into one of the market\u2019s stronger long term performers, and the recent share price level raises a straightforward question for investors who focus on what the business can earn and return in cash. After such a\u2026",
+   "url": "https://finnhub.io/api/news?id=74fb081218ba39ce5afc53664d6462b78bbe1457fd5bba246aec5b6606e45573",
+   "source": "Yahoo",
+   "published": "2026-11-09T10:07:04+00:00",
+   "tickers": [
+    "MRK"
    ],
    "tag": "News",
    "sectors": [
@@ -1320,7 +1458,10 @@
    "source": "Yahoo",
    "published": "2026-11-09T09:20:00+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "LLY",
+    "MRK",
+    "MRNA"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -55623,350 +55764,6 @@
     "ABBV"
    ],
    "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "d0636066446c",
-   "headline": "Fierce Pharma Asia\u2014The hunt for Enhertu\u2019s successor; ESMO data from Merck, BMS, Takeda and more",
-   "summary": "Next-generation ADCs, bispecifics, radiopharmaceuticals, TKIs ... Fierce provides a deep dive into the hunt for the next Enhertu in breast cancer. ESMO 2026 data featured Chinese assets backed by Big Pharma. Gilead and Astellas struck $1\u2026",
-   "url": "https://www.fiercepharma.com/pharma/hunt-enhertu-successor-esmo-data-merck-bms-takeda-and-more",
-   "source": "Fierce Pharma",
-   "published": "2026-10-30T13:00:30.138916+00:00",
-   "tickers": [
-    "GILD",
-    "MRK",
-    "TAK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "4dc79686d0e1",
-   "headline": "Earnings Preview: Moderna (MRNA) Q3 Earnings Expected to Decline",
-   "summary": "Moderna (MRNA) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-   "url": "https://finnhub.io/api/news?id=2d11585ccf23af1c996c176e315b734ea786f42a5567aef83ec3347bba020c38",
-   "source": "Yahoo",
-   "published": "2026-10-30T13:00:06+00:00",
-   "tickers": [
-    "MRNA"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "ce4020686a0c",
-   "headline": "Analysts Estimate Humana (HUM) to Report a Decline in Earnings: What to Look Out for",
-   "summary": "Humana (HUM) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-   "url": "https://finnhub.io/api/news?id=f134445a982544c0509d6ee386335d53c2a588ada6f399a0e4ed662a19b41552",
-   "source": "Yahoo",
-   "published": "2026-10-30T13:00:05+00:00",
-   "tickers": [
-    "CI",
-    "HUM"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "0941c3962cad",
-   "headline": "Here's What Key Metrics Tell Us About AbbVie (ABBV) Q3 Earnings",
-   "summary": "While the top- and bottom-line numbers for AbbVie (ABBV) give a sense of how the business performed in the quarter ended September 2026, it could be worth looking at how some of its key metrics compare to Wall Street estimates and\u2026",
-   "url": "https://finnhub.io/api/news?id=dcb3c2347f78e2f6c937237cacebf2afcd6d30449bec96225bd12e8bd3404d47",
-   "source": "Yahoo",
-   "published": "2026-10-30T13:00:02+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "6a9bdbe426c3",
-   "headline": "BMY Q3 Earnings Call Highlights Raised Outlook and Pipeline Progress",
-   "summary": "BMY raises its 2026 revenue outlook on strong Growth Portfolio sales, even as earnings pressure, patent expirations and drug launch challenges remain in focus.",
-   "url": "https://finnhub.io/api/news?id=513e02587ad23973e869e847c2753df541b4eabc0c851b87915f8db6bc48f30a",
-   "source": "Yahoo",
-   "published": "2026-10-30T13:00:00+00:00",
-   "tickers": [
-    "BMY"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "817bceb45650",
-   "headline": "ILMN Q3 Earnings Call Highlights Higher Guidance and Clinical Growth",
-   "summary": "Illumina raises its 2026 guidance as strong clinical sequencing demand and NovaSeq X adoption fuel growth despite research weakness and pricing pressures.",
-   "url": "https://finnhub.io/api/news?id=44c9f5ab40bf631e16268d4c6d1c7eeb940951ee70fc1cf62e0c2adfcc11f7f8",
-   "source": "Yahoo",
-   "published": "2026-10-30T13:00:00+00:00",
-   "tickers": [
-    "ILMN"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "000bd5f472e8",
-   "headline": "LLY Q3 Earnings Call Highlights Raised Outlook and Obesity Drug Growth",
-   "summary": "Eli Lilly raises its 2026 revenue outlook as Mounjaro and Zepbound sales surge, Medicare access expands and Foundayo gains traction despite pricing pressures.",
-   "url": "https://finnhub.io/api/news?id=de14183d931a9499d812561257b1ebe765ed61cd89d009cd8d905d033fb21d1d",
-   "source": "Yahoo",
-   "published": "2026-10-30T13:00:00+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "83bf8f24c144",
-   "headline": "Merck Q3 Earnings Call Highlights Pipeline Progress and Raised Outlook",
-   "summary": "MRK raises its 2026 outlook as KEYTRUDA demand, newer medicines and oncology pipeline breakthroughs support growth despite looming patent and generic pressures.",
-   "url": "https://finnhub.io/api/news?id=9d1c568767a3971b868ff16b017c8ba3a7a07401206f67378bea1341014e6c94",
-   "source": "Yahoo",
-   "published": "2026-10-30T13:00:00+00:00",
-   "tickers": [
-    "MRK"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "99341bb052ff",
-   "headline": "GILD Q3 Earnings Call Highlights Raised Outlook and Pricing Risks",
-   "summary": "Gilead raises its 2026 sales outlook on strong HIV growth, even as Biktarvy faces a $1.5 billion pricing headwind in 2028. What's driving its momentum?",
-   "url": "https://finnhub.io/api/news?id=5a41adae9191bcaaf0e1a0f56efd723603760d6119fdbcd7d394657c7ae1489e",
-   "source": "Yahoo",
-   "published": "2026-10-30T13:00:00+00:00",
-   "tickers": [
-    "GILD"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "21abd74871bf",
-   "headline": "SYK Q3 Earnings Call Highlights Softer Demand and Revised Outlook",
-   "summary": "Stryker cuts its 2026 outlook amid weaker joint replacement demand and supply disruptions, despite MedSurg strength, margin gains and robotics investments.",
-   "url": "https://finnhub.io/api/news?id=f878f8d5848da614bf3fa981116130fd41d96cc84aba4ecf80be1ec3e6d132c5",
-   "source": "Yahoo",
-   "published": "2026-10-30T13:00:00+00:00",
-   "tickers": [
-    "SYK"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "f03dc9b1dd84",
-   "headline": "THC Q3 Earnings Call Highlights Higher Outlook and Margin Gains",
-   "summary": "Tenet Healthcare raises its 2026 outlook as Q3 earnings surge, hospital margins improve and higher-acuity care drives ambulatory growth despite payer pressures.",
-   "url": "https://finnhub.io/api/news?id=408fecd7dda76fa653e7f9c122ba263f32631be65e73e07c33401d1086284138",
-   "source": "Yahoo",
-   "published": "2026-10-30T13:00:00+00:00",
-   "tickers": [
-    "THC"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "8dc3209b51d2",
-   "headline": "Deutsche Bank Downgrades Novartis to Sell",
-   "summary": "Deutsche Bank analyst Emmanuel Papadakis downgrades Novartis (NYSE:NVS) from Hold to Sell.",
-   "url": "https://finnhub.io/api/news?id=28c705ee8778b276204f27167b6537630f20df742e725c0f1e263988e5c7c5f1",
-   "source": "Benzinga",
-   "published": "2026-10-30T12:59:46+00:00",
-   "tickers": [
-    "NVS"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "f25c02a8a1a0",
-   "headline": "Which Gives You More High-Margin Software Growth, PTC Or Fair Isaac?",
-   "summary": "For questions about this article or underlying research, email help@trefis.com.",
-   "url": "https://finnhub.io/api/news?id=2d11ddaee1d6a147cfc8b88c9b63b82e7173fd3ac2581509a95c59b5fb9387b6",
-   "source": "Yahoo",
-   "published": "2026-10-30T12:59:18+00:00",
-   "tickers": [
-    "PTCT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "7c3daf3bcdb2",
-   "headline": "Wells Fargo Maintains Equal-Weight on ResMed, Raises Price Target to $250",
-   "summary": "Wells Fargo analyst Nathan Treybeck maintains ResMed (NYSE:RMD) with a Equal-Weight and raises the price target from $215 to $250.",
-   "url": "https://finnhub.io/api/news?id=d2bc258153a8d3ba93d9fc7a3a0d2f0b98b3f23d99e915ba6901a5222d55321a",
-   "source": "Benzinga",
-   "published": "2026-10-30T12:57:21+00:00",
-   "tickers": [
-    "RMD"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "b36ae69855da",
-   "headline": "RBC Capital Maintains Sector Perform on PTC Therapeutics, Raises Price Target to $77",
-   "summary": "RBC Capital analyst Brian Abrahams maintains PTC Therapeutics (NASDAQ:PTCT) with a Sector Perform and raises the price target from $75 to $77.",
-   "url": "https://finnhub.io/api/news?id=c79e92a973d561e0e9777ec75a97c6cebbd0792e2cd03d15255c582be72eb7f8",
-   "source": "Benzinga",
-   "published": "2026-10-30T12:56:36+00:00",
-   "tickers": [
-    "PTCT"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "15cac2366cb8",
-   "headline": "Wells Fargo Maintains Overweight on PTC Therapeutics, Raises Price Target to $112",
-   "summary": "Wells Fargo analyst Benjamin Burnett maintains PTC Therapeutics (NASDAQ:PTCT) with a Overweight and raises the price target from $109 to $112.",
-   "url": "https://finnhub.io/api/news?id=cf92500e4574062fa56b61249664a3cb865ae59fb6bf375488df9fa7f3689f99",
-   "source": "Benzinga",
-   "published": "2026-10-30T12:56:00+00:00",
-   "tickers": [
-    "PTCT"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "648eef8cc390",
-   "headline": "RBC Capital Maintains Sector Perform on Merck & Co, Lowers Price Target to $140",
-   "summary": "RBC Capital analyst Trung Huynh maintains Merck & Co (NYSE:MRK) with a Sector Perform and lowers the price target from $145 to $140.",
-   "url": "https://finnhub.io/api/news?id=9298155486492d8aa78b65c7d29ad1a518c79d60acf55c8b27da6f0c343e6533",
-   "source": "Benzinga",
-   "published": "2026-10-30T12:54:37+00:00",
-   "tickers": [
-    "MRK"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "25fbe97a9e2b",
-   "headline": "Judge strikes down CMS \u2018medical frailty\u2019 policy for Medicaid work requirements",
-   "summary": "It\u2019s a victory for more than two dozen states that had sued to block the definition, along with providers, consumer advocates and other critics that had opposed it. The CMS could still appeal the decision.",
-   "url": "https://www.healthcaredive.com/news/judge-strikes-down-cms-medical-frailty-policy-medicaid-work-requirements/873284/",
-   "source": "Healthcare Dive",
-   "published": "2026-10-30T12:53:47+00:00",
-   "tickers": [],
-   "tag": "Policy",
-   "sectors": []
-  },
-  {
-   "id": "5bff3217974e",
-   "headline": "Regeneron, Sanofi Surge As Dupixent Wallops Sales Forecasts",
-   "summary": "Regeneron stock popped Thursday after its Sanofi-partnered allergic conditions drug, Dupixent, easily beat third-quarter calls.",
-   "url": "https://finnhub.io/api/news?id=1f959b343201e4f4062eec6ed15d10c6e982d0fd5cc9401e05e04de4a17bc542",
-   "source": "Yahoo",
-   "published": "2026-10-30T12:49:31+00:00",
-   "tickers": [
-    "REGN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "f61c3156d071",
-   "headline": "Wells Fargo Maintains Equal-Weight on Centene, Raises Price Target to $75",
-   "summary": "Wells Fargo analyst Stephen Baxter maintains Centene (NYSE:CNC) with a Equal-Weight and raises the price target from $69 to $75.",
-   "url": "https://finnhub.io/api/news?id=ed857535d4c8df2e138c8b9f9d1028a2b50b050b451eeedfda1a770eeae7b241",
-   "source": "Benzinga",
-   "published": "2026-10-30T12:47:54+00:00",
-   "tickers": [
-    "CNC"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "58a7bdce71bf",
-   "headline": "AbbVie's Earnings Double As Immunology Powerhouse Skyrizi Beats Again",
-   "summary": "AbbVie stock slipped slightly Friday, but the drug giant easily beat third-quarter forecasts with the help of its biggest drug, Skyrizi.",
-   "url": "https://finnhub.io/api/news?id=2408fb0fdfa48a6cdd7d4d367605496958e29f4ee972d3d2b732a2f260956827",
-   "source": "Yahoo",
-   "published": "2026-10-30T12:47:32+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "700d5c56f3e3",
-   "headline": "Wells Fargo Maintains Overweight on Eli Lilly, Raises Price Target to $1500",
-   "summary": "Wells Fargo analyst Mohit Bansal maintains Eli Lilly (NYSE:LLY) with a Overweight and raises the price target from $1330 to $1500.",
-   "url": "https://finnhub.io/api/news?id=1f83c3c893baf06a02d7c5fe68134cb0676e63de7f7352da9063f1f14b50d097",
-   "source": "Benzinga",
-   "published": "2026-10-30T12:47:14+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "ad1090d43810",
-   "headline": "Wells Fargo Maintains Overweight on Gilead Sciences, Raises Price Target to $190",
-   "summary": "Wells Fargo analyst Mohit Bansal maintains Gilead Sciences (NASDAQ:GILD) with a Overweight and raises the price target from $165 to $190.",
-   "url": "https://finnhub.io/api/news?id=3bf367ac90619eb37d39472b341c2ba4ec5337592657c1a3ace5914e7138eae0",
-   "source": "Benzinga",
-   "published": "2026-10-30T12:46:12+00:00",
-   "tickers": [
-    "GILD"
-   ],
-   "tag": "Analyst",
    "sectors": [
     "pharma"
    ]
