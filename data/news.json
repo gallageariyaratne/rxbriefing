@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-09T12:16:52.321864+00:00",
+ "updated": "2026-11-09T12:24:56.069349+00:00",
  "quotes": {
   "ABBV": {
    "price": 291.31,
@@ -125,6 +125,10 @@
   "REGN": {
    "price": 904.35,
    "change_pct": 0.16
+  },
+  "RGEN": {
+   "price": 173.49,
+   "change_pct": 2.97
   },
   "ROIV": {
    "price": 38.88,
@@ -907,6 +911,36 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "aff34212af43",
+   "headline": "What iShares Russell 2000 Index Fund (IWM) Bought: Jackson Leads on Nov. 5",
+   "summary": "The ETF added $500.0 million in net buys across 1,847 increased positions while trimming just one holding.",
+   "url": "https://finnhub.io/api/news?id=0e3b26c635dfebbdc18e22a5a290b60164b82785972d5d759c034385033077c3",
+   "source": "Yahoo",
+   "published": "2026-11-09T11:05:20+00:00",
+   "tickers": [
+    "RGEN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "be73bff01e46",
+   "headline": "FDA Decision Watch: Summit\u2019s Lung Cancer Drug, Cytokinetics\u2019 Heart Therapy And Teva\u2019s Igalmi In Spotlight This Week",
+   "summary": "The FDA is set to announce its verdict on three closely watched therapies this week, ahead of a busy month which includes a decision on Capricor Therapeutics\u2019 Deramiocel.",
+   "url": "https://finnhub.io/api/news?id=89dc888c18ae70480a67f7948254d7afef7df00db0ecd9ed2a4d61e81ea88024",
+   "source": "Yahoo",
+   "published": "2026-11-09T10:23:04+00:00",
+   "tickers": [
+    "CYTK"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -56243,68 +56277,6 @@
     "REGN"
    ],
    "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "9c94d6a1448d",
-   "headline": "AbbVie (NYSE:ABBV) Q3 2026 Results In Line With Estimates as Guidance and Dividend Rise",
-   "summary": "AbbVie\u2019s Q3 2026 results were in line with estimates; raised guidance and dividend signal confidence despite a slightly lower pre-market reaction.",
-   "url": "https://finnhub.io/api/news?id=cec79ca43838d99480d7e407ba0aa89bc5f12ba01f860bd0ac69cf2f003b3b27",
-   "source": "ChartMill",
-   "published": "2026-10-30T12:20:35+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "473c71f15443",
-   "headline": "RBC Capital Maintains Sector Perform on Incyte, Raises Price Target to $117",
-   "summary": "RBC Capital analyst Brian Abrahams maintains Incyte (NASDAQ:INCY) with a Sector Perform and raises the price target from $114 to $117.",
-   "url": "https://finnhub.io/api/news?id=bccf2d09909181470341ea00ac606b3c5f3a07291fea3fbaab92b324553d281b",
-   "source": "Benzinga",
-   "published": "2026-10-30T12:18:19+00:00",
-   "tickers": [
-    "INCY"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "bb7d9c97c253",
-   "headline": "RBC Capital Maintains Outperform on HCA Healthcare, Raises Price Target to $521",
-   "summary": "RBC Capital analyst Ben Hendrix maintains HCA Healthcare (NYSE:HCA) with a Outperform and raises the price target from $496 to $521.",
-   "url": "https://finnhub.io/api/news?id=4425f2cee129189ea9883eb3f73477c3dfffaa564b6e73979e2bc92287579ee8",
-   "source": "Benzinga",
-   "published": "2026-10-30T12:17:00+00:00",
-   "tickers": [
-    "HCA"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "5cb1df98a91d",
-   "headline": "Eli Lilly\u2019s tirzepatide outperforms big pharma companies in Q3",
-   "summary": "Sales for Eli Lilly\u2019s Mounjaro and Zepbound topped $16bn, exceeding total revenue for many big pharma players.",
-   "url": "https://finnhub.io/api/news?id=6287392195f0f656d3cedf2653d88d9f4c9a77be7750ec074e6afe5c975b1499",
-   "source": "Yahoo",
-   "published": "2026-10-30T12:16:38+00:00",
-   "tickers": [
-    "BMY",
-    "LLY",
-    "NVS"
-   ],
-   "tag": "GLP-1",
    "sectors": [
     "pharma"
    ]
