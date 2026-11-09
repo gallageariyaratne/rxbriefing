@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-09T21:32:50.105172+00:00",
+ "updated": "2026-11-09T21:47:39.831366+00:00",
  "quotes": {
   "A": {
    "price": 180.17,
@@ -302,6 +302,10 @@
    "price": 72.83,
    "change_pct": 0.07
   },
+  "TEM": {
+   "price": 84.44,
+   "change_pct": 11.03
+  },
   "TGTX": {
    "price": 63.38,
    "change_pct": 5.94
@@ -313,10 +317,6 @@
   "UHS": {
    "price": 197.16,
    "change_pct": 0.85
-  },
-  "UNH": {
-   "price": 397.62,
-   "change_pct": 0.88
   }
  },
  "tickers": {
@@ -933,6 +933,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "e553762831bd",
+   "headline": "SOTERIA Collaborates with Tempus to Advance Precision Oncology for U.S. Military and Veterans Battling Cancer",
+   "summary": "SAN DIEGO, Nov. 9, 2026 /PRNewswire/ -- SOTERIA Precision Medicine Foundation, a non-profit 501(c)(3) organization, announced a collaboration with Tempus (NASDAQ: TEM) to deliver personalized, data-driven cancer treatment insights and\u2026",
+   "url": "https://www.prnewswire.com/news-releases/soteria-collaborates-with-tempus-to-advance-precision-oncology-for-us-military-and-veterans-battling-cancer-302933873.html",
+   "source": "PR Newswire",
+   "published": "2026-11-09T21:39:00+00:00",
+   "tickers": [
+    "TEM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthai"
+   ]
+  },
   {
    "id": "3dd298289b13",
    "headline": "Merck\u2019s MASH hopeful efinopegdutide wins in mid-stage study",
@@ -1657,6 +1672,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "877ffb35cbf8",
+   "headline": "Roivant Sciences Ltd. (ROIV) Q2 2026 Earnings Call Transcript",
+   "summary": "",
+   "url": "https://finnhub.io/api/news?id=63b0751c203cf55fc44a1ad51e2c9d88bdf1412f39edb24de996f74db802385d",
+   "source": "SeekingAlpha",
+   "published": "2026-11-09T16:01:15+00:00",
+   "tickers": [
+    "ROIV"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -55400,36 +55430,6 @@
    "tag": "Earnings",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "ccfd6d48c724",
-   "headline": "Illumina CEO on Q3 Results and Business Outlook",
-   "summary": "Jacob Thaysen says Illumina delivered a strong third quarter, beat expectations and raised its fourth-quarter outlook. He said the company has moved from essentially flat performance to mid-single-digit growth over the past 18 months and\u2026",
-   "url": "https://finnhub.io/api/news?id=e18675f38d2c80cf895318cabf3aeb7451e9ca3ccfee30770aba959179d752f5",
-   "source": "Yahoo",
-   "published": "2026-10-30T21:37:43+00:00",
-   "tickers": [
-    "ILMN"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "1603c66bc9d2",
-   "headline": "IQV Q3 deep dive: AI adoption and clinical momentum drive growth, guidance raised",
-   "summary": "Clinical research company IQVIA (NYSE: IQV) reported Q3 2026 results topping the market\u2019s revenue expectations, with sales up 8% year on year to $4.43 billion. The company expects the full year\u2019s revenue to be around $17.43 billion, close\u2026",
-   "url": "https://finnhub.io/api/news?id=179824ecfff2d80de397ee758a8cfbeb32370053130cb19f59429f7e72d03393",
-   "source": "Yahoo",
-   "published": "2026-10-30T21:31:29+00:00",
-   "tickers": [
-    "IQV"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
    ]
   }
  ]
