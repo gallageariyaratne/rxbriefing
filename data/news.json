@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-09T21:47:39.831366+00:00",
+ "updated": "2026-11-09T22:02:57.128407+00:00",
  "quotes": {
   "A": {
    "price": 180.17,
@@ -101,6 +101,10 @@
   "DOCS": {
    "price": 32.87,
    "change_pct": 1.11
+  },
+  "DVA": {
+   "price": 185.54,
+   "change_pct": -3.04
   },
   "DXCM": {
    "price": 81.07,
@@ -313,10 +317,6 @@
   "TMO": {
    "price": 721.63,
    "change_pct": 3.87
-  },
-  "UHS": {
-   "price": 197.16,
-   "change_pct": 0.85
   }
  },
  "tickers": {
@@ -933,6 +933,17 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "17904833f2ae",
+   "headline": "HealthTap unveils virtual primary care program for Medicare Advantage plans",
+   "summary": "HealthTap is rolling out a new program for Medicare Advantage plans that seeks to help members form a connection with a primary care doctor that carries forward.",
+   "url": "https://www.fiercehealthcare.com/health-tech/healthtap-unveils-virtual-primary-care-program-medicare-advantage-plans",
+   "source": "Fierce Healthcare",
+   "published": "2026-11-09T22:00:29.556611+00:00",
+   "tickers": [],
+   "tag": "Policy",
+   "sectors": []
+  },
   {
    "id": "e553762831bd",
    "headline": "SOTERIA Collaborates with Tempus to Advance Precision Oncology for U.S. Military and Veterans Battling Cancer",
@@ -1566,6 +1577,21 @@
    ]
   },
   {
+   "id": "19ca094521bd",
+   "headline": "Ionis Pharmaceuticals, Inc. (IONS) Q3 2026 Earnings Call Transcript",
+   "summary": "Ionis Pharmaceuticals, Inc. (IONS) Q3 2026 Earnings Call November 9, 2026 9:00 AM ESTCompany ParticipantsD.",
+   "url": "https://finnhub.io/api/news?id=a8a6c47fb90ae1c6ddff1ffcf640fcc3eec68cd35e730335ec0c8d626e57a813",
+   "source": "SeekingAlpha",
+   "published": "2026-11-09T16:40:52+00:00",
+   "tickers": [
+    "IONS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "dcee035f266b",
    "headline": "Novocure denied FDA approval for metastatic cancer treatment",
    "summary": "The FDA had uncertainty about the degree of clinical benefit for Novocure\u2019s treatment of brain metastases, the company said.",
@@ -1672,6 +1698,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "681c70303f73",
+   "headline": "DaVita Inc. (DVA) Presents at 2026 UBS Global Healthcare Conference Transcript",
+   "summary": "DaVita Inc. (DVA) 2026 UBS Global Healthcare Conference November 9, 2026 1:15 PM ESTCompany ParticipantsJoel Ackerman - CFO & TreasurerConference Call...",
+   "url": "https://finnhub.io/api/news?id=3e2581a48a766f0a91b27e203a2c5c29e26bbcb088ad2035a304d60a9c2c40b9",
+   "source": "SeekingAlpha",
+   "published": "2026-11-09T16:01:20+00:00",
+   "tickers": [
+    "DVA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -55383,53 +55424,6 @@
    "tag": "GLP-1",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "d6f9008c0867",
-   "headline": "Ultragenyx (RARE) vs. SRPT and BMRN: Can Upcoming Drug Approvals Unlock the Next Phase of Biotech Growth?",
-   "summary": "Is RARE a good stock to buy? We came across a bullish thesis on Ultragenyx Pharmaceutical Inc. on r/ValueInvesting by u/Tallwhitedude123. Since the thesis was published on August 30th, RARE shares have pulled back as a key pipeline\u2026",
-   "url": "https://finnhub.io/api/news?id=368f13877682af992522ecbfcf0fb0965e90e95bc95cc6994057fd6d5928205b",
-   "source": "Yahoo",
-   "published": "2026-10-30T21:53:09+00:00",
-   "tickers": [
-    "PTCT",
-    "RARE",
-    "SRPT"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "9dc6c87ac51d",
-   "headline": "Okta Set to Join S&P 500; Others to Join S&P MidCap 400 and S&P SmallCap 600",
-   "summary": "S&P Dow Jones Indices will make the following changes to the S&P 500, S&P MidCap 400, S&P SmallCap 600 effective prior to the opening of trading on Wednesday, November 4:",
-   "url": "https://finnhub.io/api/news?id=52156954d60e13beb4b28b81dd6c476708abb712a0bbc919e685f788ed1a88c4",
-   "source": "Yahoo",
-   "published": "2026-10-30T21:51:00+00:00",
-   "tickers": [
-    "GKOS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "f48243f87a77",
-   "headline": "Insmed Incorporated (INSM) Q3 2026 Earnings Call Transcript",
-   "summary": "Insmed Incorporated (INSM) Q3 2026 Earnings Call October 29, 2026 8:00 AM EDTCompany ParticipantsWilliam Lewis - President, CEO & ChairmanSara...",
-   "url": "https://finnhub.io/api/news?id=d7a8b24d3b8b4afb1ba8e88aa8007d7889ee855d2a639580e05b38e87b3b1743",
-   "source": "SeekingAlpha",
-   "published": "2026-10-30T21:48:26+00:00",
-   "tickers": [
-    "INSM"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
    ]
   }
  ]
