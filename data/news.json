@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-10T22:03:11.559894+00:00",
+ "updated": "2026-11-10T22:17:46.777459+00:00",
  "quotes": {
   "A": {
    "price": 177.88,
@@ -294,10 +294,6 @@
    "price": 48.23,
    "change_pct": 0.23
   },
-  "SRPT": {
-   "price": 16.42,
-   "change_pct": -4.76
-  },
   "SYK": {
    "price": 324.29,
    "change_pct": -0.44
@@ -321,6 +317,10 @@
   "TMO": {
    "price": 718.2,
    "change_pct": -0.48
+  },
+  "UHS": {
+   "price": 195.41,
+   "change_pct": -0.89
   }
  },
  "tickers": {
@@ -938,6 +938,17 @@
  },
  "stories": [
   {
+   "id": "4ce875c8a46d",
+   "headline": "Positive Medicaid signals, open enrollment trends: Recapping major payers' Q3 results",
+   "summary": "While medical cost trend remains a pressure point for health insurers, leading companies cited some positive trends, too, heading into the final months of 2026.",
+   "url": "https://www.fiercehealthcare.com/payers/positive-medicaid-signals-open-enrollment-trends-recapping-major-payers-q3-results",
+   "source": "Fierce Healthcare",
+   "published": "2026-11-10T22:15:25.058949+00:00",
+   "tickers": [],
+   "tag": "Earnings",
+   "sectors": []
+  },
+  {
    "id": "a96c4270ede2",
    "headline": "Oura to acquire AI virtual primary care partner Counsel Health for $625M",
    "summary": "The companies have worked together since June, and more recently had shared plans to partner on CMS' 10-year ACCESS Model.",
@@ -947,6 +958,21 @@
    "tickers": [],
    "tag": "M&A",
    "sectors": []
+  },
+  {
+   "id": "e08115fe017c",
+   "headline": "PepGen soars on promising early data for muscular dystrophy drug",
+   "summary": "While from a small study, the findings suggest PepGen\u2019s therapy compares favorably to other RNA-based medicines in testing at Novartis and Dyne Therapeutics.",
+   "url": "https://www.biopharmadive.com/news/pepgen-myotonic-dystrophy-dm1-drug-results-freedom/874249/",
+   "source": "BioPharma Dive",
+   "published": "2026-11-10T21:48:00+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "ca9c88b09e7c",
@@ -961,6 +987,21 @@
    "tag": "Earnings",
    "sectors": [
     "healthit"
+   ]
+  },
+  {
+   "id": "31e10b59e46a",
+   "headline": "BD to Host Investor Day on December 10, 2026",
+   "summary": "BD (Becton, Dickinson and Company) (NYSE: BDX), a leading global medical technology company, today announced that it will host an Investor Day for institutional investors and financial analysts on Thursday, December 10, 2026, in New York,\u2026",
+   "url": "https://finnhub.io/api/news?id=86366488363bdd8eb85687d98499d6abacac7e7ba6bd74dca192c2e2e876aa84",
+   "source": "Yahoo",
+   "published": "2026-11-10T21:15:00+00:00",
+   "tickers": [
+    "BDX"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -1020,6 +1061,21 @@
    ]
   },
   {
+   "id": "a0c7874b74ed",
+   "headline": "Can Gilead\u2019s Cash Keep Growing?",
+   "summary": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://finnhub.io/api/news?id=8d79befc4d67abf9a6f6a33b5db6aa42899757ffb4e3891d5572fee39ace8a9c",
+   "source": "Yahoo",
+   "published": "2026-11-10T20:18:49+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "b7b230bcd6f3",
    "headline": "ImmunityBio juggles phase 3 win and 20% stock crash en route to Anktiva front-line expansion",
    "summary": "ImmunityBio's Anktiva secured a pivotal phase 3 win in front-line non-muscle invasive bladder cancer, but lack of detailed data and disappointing third-quarter financials sent the biotech's stock tumbling by 20%.",
@@ -1040,6 +1096,21 @@
    "tickers": [],
    "tag": "Policy",
    "sectors": []
+  },
+  {
+   "id": "dc0274b39c1f",
+   "headline": "VTRS or DHR: Which Is the Better Value Stock Right Now?",
+   "summary": "VTRS vs. DHR: Which Stock Is the Better Value Option?",
+   "url": "https://finnhub.io/api/news?id=ce648b4195bfed805b4e79d3483b8302ce4cb0d70947300caae81af797ef48cd",
+   "source": "Yahoo",
+   "published": "2026-11-10T19:38:10+00:00",
+   "tickers": [
+    "DHR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
   },
   {
    "id": "b5baf020fa05",
@@ -1854,6 +1925,21 @@
     "LLY"
    ],
    "tag": "M&A",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "d75b25be790a",
+   "headline": "Regeneron Pharmaceuticals, Inc. (REGN) Discusses Genetic Center and CIDEB siRNA Development for MASH Transcript",
+   "summary": "Regeneron Pharmaceuticals, Inc. (REGN) Discusses Genetic Center and CIDEB siRNA Development for MASH November 10, 2026 8:30 AM ESTCompany ParticipantsRyan...",
+   "url": "https://finnhub.io/api/news?id=e5b4c8f08b3ae9259d02e2536324d2bbf8fbf6bcd390f246ddb5db8c9495e5ec",
+   "source": "SeekingAlpha",
+   "published": "2026-11-10T16:01:17+00:00",
+   "tickers": [
+    "REGN"
+   ],
+   "tag": "News",
    "sectors": [
     "pharma"
    ]
@@ -60276,36 +60362,6 @@
     "LLY"
    ],
    "tag": "M&A",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "9324929080e1",
-   "headline": "What Does Incyte (INCY) First Patient Dosing Mean For Its Colorectal Cancer Pipeline?",
-   "summary": "Incyte (NasdaqGS: INCY) and Adagene have started first patient dosing in a Phase 1 trial combining INCA33890 with muzastotug for microsatellite stable colorectal cancer. The early stage study is testing the investigational combination in\u2026",
-   "url": "https://finnhub.io/api/news?id=aad6e80055c4d969e1d00f8098fbbde5fa9b8e3129b5f0c33a62a9d9be3dc8d3",
-   "source": "Yahoo",
-   "published": "2026-10-31T22:09:57+00:00",
-   "tickers": [
-    "INCY"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "25348377e0d4",
-   "headline": "MRK Q3 deep dive: oncology launches, clinical pipeline advances, and margin headwinds",
-   "summary": "Global pharmaceutical company Merck (NYSE:MRK) reported revenue ahead of Wall Street\u2019s expectations in Q3 2026, with sales up 4.7% year on year to $18.09 billion. The company expects the full year\u2019s revenue to be around $67.05 billion,\u2026",
-   "url": "https://finnhub.io/api/news?id=d8cfe4e4111d66c252dfe2cab73cc3876f4034f79e72e30f9e3303ab34d63dc1",
-   "source": "Yahoo",
-   "published": "2026-10-31T22:03:00+00:00",
-   "tickers": [
-    "MRK"
-   ],
-   "tag": "Earnings",
    "sectors": [
     "pharma"
    ]
