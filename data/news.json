@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-10T21:32:52.317468+00:00",
+ "updated": "2026-11-10T21:47:42.433577+00:00",
  "quotes": {
   "A": {
    "price": 177.88,
@@ -306,10 +306,6 @@
    "price": 72.82,
    "change_pct": -0.01
   },
-  "TEM": {
-   "price": 80.54,
-   "change_pct": -4.62
-  },
   "TGTX": {
    "price": 64.26,
    "change_pct": 1.39
@@ -321,6 +317,10 @@
   "TMDX": {
    "price": 90.94,
    "change_pct": -3.03
+  },
+  "TMO": {
+   "price": 718.2,
+   "change_pct": -0.48
   }
  },
  "tickers": {
@@ -981,6 +981,17 @@
    "sectors": [
     "biotech"
    ]
+  },
+  {
+   "id": "64ab0e715b50",
+   "headline": "HealthSpan Partners ups Surgery Partners offer to $6B after rival bid",
+   "summary": "Bon Secours\u2019 affiliate HealthSpan Partners is offering $300 million more for Surgery Partners as competition for the extensive surgical care network heats up with a rival bid.",
+   "url": "https://www.healthcaredive.com/news/healthspan-partners-ups-surgery-partners-offer-to-6b-after-rival-bid/874313/",
+   "source": "Healthcare Dive",
+   "published": "2026-11-10T20:42:21+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
   },
   {
    "id": "df7f238757e6",
@@ -1977,6 +1988,21 @@
    "tag": "Financing",
    "sectors": [
     "healthit"
+   ]
+  },
+  {
+   "id": "080daf9cdad3",
+   "headline": "Illumina, Inc. (ILMN) Presents at 2026 UBS Global Healthcare Conference Transcript",
+   "summary": "",
+   "url": "https://finnhub.io/api/news?id=1bda4013db553c25e66beab2beec55a3e04490a365c3305c731dfb940553b16a",
+   "source": "SeekingAlpha",
+   "published": "2026-11-10T15:31:19+00:00",
+   "tickers": [
+    "ILMN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -60252,38 +60278,6 @@
    "published": "2026-10-31T22:03:00+00:00",
    "tickers": [
     "MRK"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "03a9e185e35f",
-   "headline": "5 Best High Growth Stocks Outside Big Tech",
-   "summary": "The market\u2019s growth leadership has become abnormally concentrated in a small number of mega-cap technology stocks, leaving investors with fewer obvious opportunities to find rapid earnings growth outside of the AI trade. Ten AI-related\u2026",
-   "url": "https://finnhub.io/api/news?id=d1ff0c631c86b6847fe099e4b32760afa4fa708413233929af608963462fcebe",
-   "source": "Yahoo",
-   "published": "2026-10-31T21:39:26+00:00",
-   "tickers": [
-    "ALNY"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "6d2c7cd2ce97",
-   "headline": "Emerson Among 14 Dividend Growth Companies To Announce Annual Dividend Increases In First Half Of November",
-   "summary": "Emerson may extend its 70-year dividend growth streak as earnings rebound.",
-   "url": "https://finnhub.io/api/news?id=f70e342250174f88051b34e3ae019b370b384dd1f77cce71f814d562b2b386b5",
-   "source": "SeekingAlpha",
-   "published": "2026-10-31T21:38:41+00:00",
-   "tickers": [
-    "ABBV",
-    "BDX",
-    "COR"
    ],
    "tag": "Earnings",
    "sectors": [
