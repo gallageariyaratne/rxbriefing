@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-10T08:47:36.759609+00:00",
+ "updated": "2026-11-10T09:02:37.348558+00:00",
  "quotes": {
   "A": {
    "price": 180.17,
@@ -93,6 +93,10 @@
   "DHR": {
    "price": 235.12,
    "change_pct": 2.12
+  },
+  "DNLI": {
+   "price": 20.33,
+   "change_pct": 1.3
   },
   "DOCS": {
    "price": 32.87,
@@ -317,10 +321,6 @@
   "SOPH": {
    "price": 7.49,
    "change_pct": 4.9
-  },
-  "SYK": {
-   "price": 325.73,
-   "change_pct": -0.04
   }
  },
  "tickers": {
@@ -1013,6 +1013,36 @@
    ]
   },
   {
+   "id": "d6360f145fec",
+   "headline": "Why is Moderna (MRNA) stock soaring today",
+   "summary": "Shares of biotechnology company Moderna (NASDAQ:MRNA) jumped 6.4% in the afternoon session after the company reported third-quarter 2026 financial results, with revenue rising 29% to $1.3 billion, and raised its full-year revenue growth\u2026",
+   "url": "https://finnhub.io/api/news?id=8888f94ed4007fdd842914feecdeca61893c4f7f92ad95e352276f0243a476b7",
+   "source": "Yahoo",
+   "published": "2026-11-10T07:25:36+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "007bff6d0c56",
+   "headline": "4BIO Capital leads $60M Series A financing of Oyster Therapeutics (formerly Kesmalea Therapeutics) to advance next-generation targeted protein degraders for Alzheimer\u2019s and other neurodegenerative diseases",
+   "summary": "Proceeds to advance oral, brain-penetrant tau degrader into clinical development as a novel treatment for tau-driven diseases like Alzheimer\u2019sSeries A led by 4BIO Capital with participation from new investors, including Eli Lilly and\u2026",
+   "url": "https://finnhub.io/api/news?id=3312962288c8159117275e1a791d0152015538d804ad304d76565ec482e62ad3",
+   "source": "Yahoo",
+   "published": "2026-11-10T07:10:00+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "Financing",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "8bd541cd1314",
    "headline": "HIMS Stock Slides Overnight: Retail Bets On Peptides Comeback As Stanford Neuroscientist Joins Board",
    "summary": "Peptides+ launches by November\u2019s end, offering personalized treatments, blood testing, and ongoing clinical care.",
@@ -1054,6 +1084,51 @@
    ]
   },
   {
+   "id": "9005a4a4b04b",
+   "headline": "London biotech Oyster harvests $60M for tau-targeting brain drugs",
+   "summary": "Oyster says a tweak it's made to traditional protein degrading technology can help break down tau, which has long been a focus of Alzheimer\u2019s drug research.",
+   "url": "https://finnhub.io/api/news?id=583a7978b42a6aa0fdfe4491f6825ad499f0123ef76724700da69a59872833c2",
+   "source": "Yahoo",
+   "published": "2026-11-10T07:00:00+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "b2816247535c",
+   "headline": "Kesmalea Therapeutics Announces $60 Million Series A Financing to Advance Next-Generation Targeted Protein Degraders for Alzheimer\u2019s and Other Neurodegenerative Diseases and Rebrands as Oyster Therapeutics",
+   "summary": "LONDON, November 10, 2026--Oyster Therapeutics (previously known as Kesmalea Therapeutics) announces the closing of a $60 million Series A-2 financing.",
+   "url": "https://finnhub.io/api/news?id=6ea228923a7027d80ad5f3e18ee68d69cb3a1cb766670af8bb341b4e1fac9402",
+   "source": "Yahoo",
+   "published": "2026-11-10T07:00:00+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "Financing",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "4214d78c031e",
+   "headline": "Novavax (NVAX) stock trades up, here is why",
+   "summary": "Shares of vaccine biotechnology company Novavax (NASDAQ:NVAX) jumped 8.8% in the afternoon session after the company reported third-quarter 2026 financial results and raised its full-year adjusted total revenue outlook.",
+   "url": "https://finnhub.io/api/news?id=ed676d13384e72ee4cf70e11d87e08618ac0ebece16607a4509d7aef4055ee89",
+   "source": "Yahoo",
+   "published": "2026-11-10T06:45:36+00:00",
+   "tickers": [
+    "SNY"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "dcc89a80ed57",
    "headline": "Hims & Hers (HIMS) Q3 2026 Earnings Call Transcript",
    "summary": "International expansion offset a U.S. subscriber slowdown in the quarter.",
@@ -1081,6 +1156,21 @@
    "tag": "Analyst",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "70def8120bdb",
+   "headline": "Zacks Industry Outlook Highlights Eli Lilly, Novartis and Bayer",
+   "summary": "LLY, NVS and BAYRY stand out as the pharma sector rebounds in 2026, supported by innovative drug pipelines, strong product demand and rising earnings estimates.",
+   "url": "https://finnhub.io/api/news?id=0c3246c36dbfc041d8fa1703808c7e639de732ee349e1c1cc08767ee4a9d1833",
+   "source": "Yahoo",
+   "published": "2026-11-10T05:50:00+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -2028,6 +2118,21 @@
    ]
   },
   {
+   "id": "98218834fd0f",
+   "headline": "Guggenheim reaffirms top pick in Biotech after Q3 results",
+   "summary": "Investing.com -- Guggenheim analyst Yatin Suneja has reiterated Denali Therapeutics Inc (NASDAQ:DNLI) as a top pick following the company's third-quarter results, maintaining a Buy rating with a $200 price target. The analyst views the\u2026",
+   "url": "https://finnhub.io/api/news?id=fd885bc16e9582d12c6b11079232036e534dd49d84d08c83fda80a910a5b6cf9",
+   "source": "Yahoo",
+   "published": "2026-11-09T20:26:37+00:00",
+   "tickers": [
+    "DNLI"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "fd17c382fe94",
    "headline": "Moderna's Q3 Numbers May Have Seemed Impressive, but They Aren't Enough to Make the Stock a Buy",
    "summary": "Revenue for the vaccine maker rose sharply in the third quarter, but it was largely due to COVID sales, which have been down significantly over the past five years.",
@@ -2812,7 +2917,8 @@
    "tickers": [
     "MRK",
     "MRNA",
-    "PFE"
+    "PFE",
+    "SNY"
    ],
    "tag": "FDA",
    "sectors": [
@@ -56269,53 +56375,6 @@
    "tag": "News",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "391a21301ec6",
-   "headline": "Benzinga's 'Stock Whisper' Index: Five Stocks Investors Secretly Monitor But Don't Talk About Yet",
-   "summary": "The Stock Whisper Index is a market indicator highlighting stocks that are attracting heightened interest from traders and investors over the last trading week.",
-   "url": "https://finnhub.io/api/news?id=f9959dcb791cb0c49dbe24c3ca575e8f144576d0cb1b688a1df5173f55923076",
-   "source": "Benzinga",
-   "published": "2026-10-31T09:00:07+00:00",
-   "tickers": [
-    "NTRA",
-    "TMO"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "fd37b15b3640",
-   "headline": "Eli Lilly Soars 11% in a Week on a $5.5 Billion Guidance Raise: \u201cBeating on the Up\u201d",
-   "summary": "Key TakeawaysEli Lilly shares rose 11% in the week through Oct. 30 to a record close after a third-quarter beat and a $5.",
-   "url": "https://finnhub.io/api/news?id=13322755f3dcf8c5f23d2759140d1a950f9e1fbbf73934dd22f3bd2dec79ca83",
-   "source": "Yahoo",
-   "published": "2026-10-31T09:00:02+00:00",
-   "tickers": [
-    "LLY",
-    "NVO"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "4d53e72ce0f7",
-   "headline": "Why Illumina (ILMN) shares are getting obliterated today",
-   "summary": "Shares of genomics company Illumina (NASDAQ:ILMN) fell 17.7% in the afternoon session after the company reported third-quarter 2026 financial results and highlighted impacts from being placed on China's Unreliable Entities List.",
-   "url": "https://finnhub.io/api/news?id=0c34dbdbf0a81d4ab94c070c36a062b5408fdf811d5bdc4193496fab5eff7e15",
-   "source": "Yahoo",
-   "published": "2026-10-31T08:51:29+00:00",
-   "tickers": [
-    "ILMN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
    ]
   }
  ]
