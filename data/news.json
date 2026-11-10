@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-10T10:32:46.246932+00:00",
+ "updated": "2026-11-10T10:47:33.066720+00:00",
  "quotes": {
   "A": {
    "price": 180.17,
@@ -302,6 +302,10 @@
    "price": 33.39,
    "change_pct": 11.97
   },
+  "SMMT": {
+   "price": 17.84,
+   "change_pct": 9.25
+  },
   "SNY": {
    "price": 48.12,
    "change_pct": 2.3
@@ -313,10 +317,6 @@
   "SYK": {
    "price": 325.73,
    "change_pct": -0.04
-  },
-  "TDOC": {
-   "price": 8.98,
-   "change_pct": 2.39
   }
  },
  "tickers": {
@@ -945,6 +945,21 @@
    "sectors": []
   },
   {
+   "id": "9599dace75f1",
+   "headline": "ZTS Q3 2026 deep dive: competitive pressures and margin headwinds weigh on outlook",
+   "summary": "Animal health company Zoetis (NYSE:ZTS) beat Wall Street\u2019s revenue expectations in Q3 2026, but sales fell by 1.3% year on year to $2.39 billion. The company expects the full year\u2019s revenue to be around $9.27 billion, close to analysts\u2019\u2026",
+   "url": "https://finnhub.io/api/news?id=1dd9809f1330990ca7492a17e3a0fa06ae03fbc3668c0e01a7e350f34698b423",
+   "source": "Yahoo",
+   "published": "2026-11-10T09:41:36+00:00",
+   "tickers": [
+    "ZTS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "d3cf52c85b19",
    "headline": "GMED Q3 2026 deep dive: product launch delays and Nevro drag outlook, margin improvement offsets",
    "summary": "Medical device company Globus Medical (NYSE:GMED) missed Wall Street\u2019s revenue expectations in Q3 2026, with sales flat year on year at $763.7 million. The company\u2019s full-year revenue guidance of $3.09 billion at the midpoint came in 3.4%\u2026",
@@ -1002,6 +1017,36 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "a2b0894bf169",
+   "headline": "Roivant Sciences Ltd (ROIV) (Q2 2026) Earnings Call Highlights: LISRIA Launch Delivers $31 ...",
+   "summary": "Roivant Sciences Ltd (ROIV) posted a strong debut for LISRIA and breakthrough RA and pulmonary hypertension data, while navigating payer dynamics and regulatory uncertainty.",
+   "url": "https://finnhub.io/api/news?id=12381a2657c9c8e3026a132147cfce07fa9f9a2dbef815f1763ae7dce53a05e8",
+   "source": "Yahoo",
+   "published": "2026-11-10T09:02:05+00:00",
+   "tickers": [
+    "ROIV"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "fdb1e34832f4",
+   "headline": "Tigermed to Participate in the Privatization of Frontage Holdings Corporation and Divest Its Overseas Laboratory Services Business",
+   "summary": "Hangzhou Tigermed Consulting Co., Ltd. (Stock Codes: 300347.SZ / 3347.HK, hereinafter referred to as \"Tigermed\"), a leading global provider of integrated research and development solutions for biopharmaceutical and medical device\u2026",
+   "url": "https://finnhub.io/api/news?id=6eac5dbe64aced75b7158597c6ff22587dbad9c880c5d3461449dce1a05e609f",
+   "source": "Yahoo",
+   "published": "2026-11-10T08:55:00+00:00",
+   "tickers": [
+    "CRL"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
   },
   {
    "id": "04de85372820",
@@ -1650,6 +1695,21 @@
    "published": "2026-11-10T00:50:50+00:00",
    "tickers": [
     "IONS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "035a217221ea",
+   "headline": "Summit Therapeutics (SMMT) Stock Looks Richly Priced On Its 7x Run",
+   "summary": "Summit Therapeutics has been on a remarkable multi year run, yet with the stock recently closing at US$17.84 the real puzzle for investors is whether that price still lines up with its book value. A sharp move backed by high profile drug\u2026",
+   "url": "https://finnhub.io/api/news?id=1f05b963dc077dc475d18417144abc51c9ce8b3727f127f408a378005622f0d6",
+   "source": "Yahoo",
+   "published": "2026-11-10T00:21:23+00:00",
+   "tickers": [
+    "SMMT"
    ],
    "tag": "News",
    "sectors": [
@@ -5075,6 +5135,21 @@
    ]
   },
   {
+   "id": "8b28765ea2ce",
+   "headline": "Twist Bioscience to Present at Upcoming Investor Conferences",
+   "summary": "SOUTH SAN FRANCISCO, Calif., November 09, 2026--Twist Bioscience Corporation (NASDAQ: TWST), a mid-cap growth and value healthcare company, today announced that Emily M. Leproust, Ph.D., CEO and co-founder of Twist Bioscience, and Adam\u2026",
+   "url": "https://finnhub.io/api/news?id=3ca29858b69b504388a5346fcad5a0585af6be48fdeab474059493920abc3402",
+   "source": "Yahoo",
+   "published": "2026-11-09T13:00:00+00:00",
+   "tickers": [
+    "TWST"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "d8f7888db6b4",
    "headline": "STAT+: A new rule to prevent the spread of bioweapons",
    "summary": "AI makes it easier for people to come up with new potential medicines, but may also increase the possibility of bad actors creating new bioweapons. New guidelines from Trump officials\u2026",
@@ -5241,6 +5316,21 @@
     "TECH"
    ],
    "tag": "M&A",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "79247421f2ee",
+   "headline": "ADC Therapeutics SA (ADCT) Reports Q3 Loss, Tops Revenue Estimates",
+   "summary": "ADC Therapeutics (ADCT) delivered earnings and revenue surprises of +23.81% and +5.67%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=1978d1c91324c1b53f6e69b42a8486ddb2f02dad4025be43ea82508caadbe5a9",
+   "source": "Yahoo",
+   "published": "2026-11-09T12:40:02+00:00",
+   "tickers": [
+    "TWST"
+   ],
+   "tag": "Earnings",
    "sectors": [
     "tools"
    ]
