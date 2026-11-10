@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-10T00:32:44.448348+00:00",
+ "updated": "2026-11-10T00:47:30.762551+00:00",
  "quotes": {
   "A": {
    "price": 180.17,
@@ -125,6 +125,10 @@
   "EW": {
    "price": 104.71,
    "change_pct": 2.52
+  },
+  "EXEL": {
+   "price": 71.74,
+   "change_pct": 3.12
   },
   "GEHC": {
    "price": 84.03,
@@ -298,6 +302,10 @@
    "price": 40.67,
    "change_pct": 4.6
   },
+  "SDGR": {
+   "price": 33.39,
+   "change_pct": 11.97
+  },
   "SMMT": {
    "price": 17.84,
    "change_pct": 9.25
@@ -309,14 +317,6 @@
   "SYK": {
    "price": 325.73,
    "change_pct": -0.04
-  },
-  "TDOC": {
-   "price": 8.98,
-   "change_pct": 2.39
-  },
-  "TECH": {
-   "price": 72.83,
-   "change_pct": 0.07
   }
  },
  "tickers": {
@@ -982,6 +982,51 @@
    "sectors": []
   },
   {
+   "id": "a53b8188201c",
+   "headline": "Roivant Sciences (ROIV) Q2 2026 Earnings Call Transcript",
+   "summary": "Early LISRAYA launch numbers and payer dynamics headline the update.",
+   "url": "https://finnhub.io/api/news?id=3a2823dcfe29dd808b04c52ce1d2086456b4f64e3dd18e827dda3936b1fb750b",
+   "source": "Yahoo",
+   "published": "2026-11-09T22:13:45+00:00",
+   "tickers": [
+    "ROIV"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "d3b2ed01418f",
+   "headline": "Pfizer (PFE) On A Higher 2026 Outlook Still Looks About Right",
+   "summary": "Pfizer (PFE) just raised its full-year 2026 revenue outlook to US$62b to US$64b, up US$1.5b at the midpoint, which is putting fresh focus on what that reset might mean for the stock. That higher 2026 revenue range lands against a share\u2026",
+   "url": "https://finnhub.io/api/news?id=a1a349df74ce49d4afde4055111cc315228ecb1dd10e9afba28f2497cbfa7f7e",
+   "source": "Yahoo",
+   "published": "2026-11-09T22:10:42+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "1d37a5d3d2f6",
+   "headline": "What Does Amgen (AMGN) Mean For Heart Attack Risk After New Repatha Data?",
+   "summary": "Amgen (NasdaqGS:AMGN) reported new real world data showing Repatha cut heart attack risk more than ezetimibe in patients with atherosclerotic cardiovascular disease. The large scale analysis compared outcomes for high risk patients\u2026",
+   "url": "https://finnhub.io/api/news?id=3c7caf85f7f24d71a6843812c7c48c4368a4deead46351096cdc39eabbcb9473",
+   "source": "Yahoo",
+   "published": "2026-11-09T22:08:30+00:00",
+   "tickers": [
+    "AMGN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "17904833f2ae",
    "headline": "HealthTap unveils virtual primary care program for Medicare Advantage plans",
    "summary": "HealthTap is rolling out a new program for Medicare Advantage plans that seeks to help members form a connection with a primary care doctor that carries forward.",
@@ -1586,6 +1631,21 @@
    ]
   },
   {
+   "id": "355d428d239e",
+   "headline": "Schr\u00f6dinger, Inc. 2026 Q3 - Results - Earnings Call Presentation",
+   "summary": "2026-11-09. The following slide deck was published by Schr\u00c3\u00b6dinger, Inc.",
+   "url": "https://finnhub.io/api/news?id=89dd386092a86e7b342f4a9912994782e7e9b28e61bd1cb1f00c19f3779ccb00",
+   "source": "SeekingAlpha",
+   "published": "2026-11-09T18:33:33+00:00",
+   "tickers": [
+    "SDGR"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthai"
+   ]
+  },
+  {
    "id": "75d4f15d751e",
    "headline": "Trump administration announces $10B in awards for Rural Health Transformation Program\u2019s second year",
    "summary": "In part, funding was determined based on how states have implemented RHTP plans thus far.",
@@ -2169,6 +2229,21 @@
    "tag": "Analyst",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "c540766e0ef8",
+   "headline": "Short Sellers Are Betting Against This Biotech Stock at All-Time Highs, But You Should Still Add it to Your Watchlist",
+   "summary": "Exelixis (EXEL) demonstrates strong technical momentum, recently hitting a new all-time high. Shares are up more than 70% over the past 52 weeks. EXEL maintains a 100% \u201cBuy\u201d technical opinion from Barchart. Valuation appears stretched,\u2026",
+   "url": "https://finnhub.io/api/news?id=7f3f7147d80d8c53e702f476c3b7e25dccb1a3afcc5f118852033ef16c6f4100",
+   "source": "Yahoo",
+   "published": "2026-11-09T16:35:03+00:00",
+   "tickers": [
+    "EXEL"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -55705,21 +55780,6 @@
    "tag": "FDA",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "f5ece54641d5",
-   "headline": "Dividend Income Report: +15.25% And A Listener's Portfolio Roast",
-   "summary": "This month I tried something different on the podcast - a listener sent me one of his portfolios and asked me to roast it. Read more here.",
-   "url": "https://finnhub.io/api/news?id=29195c7330c6a0345435d337c4b578d80e75f3cb148875a665c17671faede09d",
-   "source": "SeekingAlpha",
-   "published": "2026-10-31T00:40:00+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
    ]
   }
  ]
