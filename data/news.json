@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-10T10:47:33.066720+00:00",
+ "updated": "2026-11-10T11:02:41.172465+00:00",
  "quotes": {
   "A": {
    "price": 180.17,
@@ -313,6 +313,10 @@
   "SOPH": {
    "price": 7.49,
    "change_pct": 4.9
+  },
+  "SRPT": {
+   "price": 17.24,
+   "change_pct": -3.25
   },
   "SYK": {
    "price": 325.73,
@@ -945,6 +949,21 @@
    "sectors": []
   },
   {
+   "id": "ee89576e6313",
+   "headline": "Stock Market Today: Nvidia Board Opens Probe Into Jensen Huang as Wall Street Licks Its AI Wounds",
+   "summary": "The Nasdaq jumped 2.7% as bargain hunters returned to AI chip stocks, while Nvidia fell on concerns over CEO Jensen Huang. Anthropic starts its IPO roadshow at a lower valuation, oil slides, and Hims & Hers and Skydance report.",
+   "url": "https://finnhub.io/api/news?id=c7b58852fe9a39b1e586871347531e3bfead8b29b4b84f72295d9e1f127fc156",
+   "source": "ChartMill",
+   "published": "2026-11-10T10:15:02+00:00",
+   "tickers": [
+    "HIMS"
+   ],
+   "tag": "Legal",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "9599dace75f1",
    "headline": "ZTS Q3 2026 deep dive: competitive pressures and margin headwinds weigh on outlook",
    "summary": "Animal health company Zoetis (NYSE:ZTS) beat Wall Street\u2019s revenue expectations in Q3 2026, but sales fell by 1.3% year on year to $2.39 billion. The company expects the full year\u2019s revenue to be around $9.27 billion, close to analysts\u2019\u2026",
@@ -1017,6 +1036,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "d5f2e59ab966",
+   "headline": "3 Gene Editing Stocks Retail Investors Are Watching After BioAdvance",
+   "summary": "Biotech just got a fresh policy tailwind, and the U.S. small and mid\u2011cap corner of the market suddenly looks a lot more interesting. With BIO\u2019s \u201cBioAdvance\u201d plan pointing to potential long term support for research, regulation and\u2026",
+   "url": "https://finnhub.io/api/news?id=40593f6de17daf7674ad76177db04c7fcd581245fe7db94caa6b5c81ec47d278",
+   "source": "Yahoo",
+   "published": "2026-11-10T09:09:10+00:00",
+   "tickers": [
+    "CRSP"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
   },
   {
    "id": "a2b0894bf169",
@@ -1916,6 +1950,21 @@
    ]
   },
   {
+   "id": "755b9957b74c",
+   "headline": "Sarepta Therapeutics Sees Transformational 2027 as Rare Disease Programs Advance",
+   "summary": "Sarepta Therapeutics (NASDAQ:SRPT) expects updates from its experimental neuromuscular disease programs to help shape its next phase of growth, while relying on its Duchenne muscular dystrophy business to fund development, CEO Michael\u2026",
+   "url": "https://finnhub.io/api/news?id=00437567459c5d9388e31921093416855de255c9116c3b2f7dab39e2f090b2bc",
+   "source": "Yahoo",
+   "published": "2026-11-09T22:12:04+00:00",
+   "tickers": [
+    "SRPT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "d3b2ed01418f",
    "headline": "Pfizer (PFE) On A Higher 2026 Outlook Still Looks About Right",
    "summary": "Pfizer (PFE) just raised its full-year 2026 revenue outlook to US$62b to US$64b, up US$1.5b at the midpoint, which is putting fresh focus on what that reset might mean for the stock. That higher 2026 revenue range lands against a share\u2026",
@@ -2178,6 +2227,7 @@
    "published": "2026-11-09T21:06:12+00:00",
    "tickers": [
     "ARWR",
+    "CRSP",
     "CYTK",
     "IONS"
    ],
@@ -2548,6 +2598,21 @@
    "tickers": [],
    "tag": "Health AI",
    "sectors": []
+  },
+  {
+   "id": "1a609da3e7fe",
+   "headline": "ARK Invest Dumps These Shares While They're Hot, Buys Chips The Size Of Your Face",
+   "summary": "Cathie Wood's ARK Invest bought and sold medtech shares Friday. She also bought shares of an unconventional AI chipmaker \u2014 an unpopular one at that.",
+   "url": "https://finnhub.io/api/news?id=02876551d98b3d4690c25a26327bd0bffdadc841448ff577883e2c620e61ac1f",
+   "source": "Yahoo",
+   "published": "2026-11-09T19:29:22+00:00",
+   "tickers": [
+    "NTRA"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "tools"
+   ]
   },
   {
    "id": "9fa55196baa4",
@@ -3097,6 +3162,21 @@
    "tag": "Clinical",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "58eeaba2cd06",
+   "headline": "Natera Q3 Earnings Call Highlights $6B Target & Raised 2026 Outlook",
+   "summary": "NTRA targets $6B in revenues by 2029 as Signatera testing surges, reimbursement expands and higher investments support its long-term growth strategy.",
+   "url": "https://finnhub.io/api/news?id=4d03ddf226c9684a72b8b97f894e3164e63882b2c9f822272e8f79cf41bc96ef",
+   "source": "Yahoo",
+   "published": "2026-11-09T17:29:00+00:00",
+   "tickers": [
+    "NTRA"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -4296,6 +4376,21 @@
    "tag": "Health AI",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "1f77e07011a9",
+   "headline": "CRISPR Therapeutics Presents Phase 1b Data for CTX310\u00ae Demonstrating Reductions in ANGPTL3 and Triglycerides in Patients with Severe Hypertriglyceridemia at the American Heart Association (AHA) Scientific Sessions 2026",
+   "summary": "-Data presented in a late-breaking oral presentation at AHA- -A single-course treatment with CTX310 produced a mean reduction from baseline of 65% in circulating ANGPTL3 and 63% in triglycerides (TG) at Day 30 in patients with severe\u2026",
+   "url": "https://finnhub.io/api/news?id=2d3235d8545b0837b05c6de6d28dec426cd544d13abf6a6a407c7035099ade1c",
+   "source": "Yahoo",
+   "published": "2026-11-09T14:16:00+00:00",
+   "tickers": [
+    "CRSP"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -56624,65 +56719,6 @@
    "tag": "News",
    "sectors": [
     "medtech"
-   ]
-  },
-  {
-   "id": "be8b85682a30",
-   "headline": "ResMed (NYSE:RMD) Delivers Quality Dividend Strength for Income Investors",
-   "summary": "ResMed (RMD) passes a quality dividend screen with a 7/10 dividend rating, strong profitability, and healthy balance sheet despite a modest 1.25% yield.",
-   "url": "https://finnhub.io/api/news?id=7f6d5d91949f038efc333bacd649254cdb1d30401e05b883550a07234e5f5dc1",
-   "source": "ChartMill",
-   "published": "2026-10-31T11:00:59+00:00",
-   "tickers": [
-    "RMD"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "fc7224585a4d",
-   "headline": "STAT+: What are the health stakes of the midterms? Policymakers, lobbyists, and experts weigh in",
-   "summary": "No matter what happens on Election Day, the midterms will have sweeping implications for American health care. More than two dozen experts on what could come next.",
-   "url": "https://www.statnews.com/2026/10/31/midterm-election-tipping-point-healthcare-policy/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-10-31T11:00:00+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "2af712475a5e",
-   "headline": "Apple Leads Packed Earnings Calendar As Investors Eye Tech, Pharma Results",
-   "summary": "Preview next week\u00e2\u0080\u0099s market movers: jobs data, PMI reports, major earnings from Apple and AMD, and IPO buzz. Read here for more details.",
-   "url": "https://finnhub.io/api/news?id=830af5c87daf35a8f602c2ec6680ca3553df23bdc7beabc0bcac73d5ef2dce14",
-   "source": "SeekingAlpha",
-   "published": "2026-10-31T11:00:00+00:00",
-   "tickers": [
-    "AMGN",
-    "MRNA",
-    "PFE",
-    "TRXB"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "107d0c2f133c",
-   "headline": "MarketBeat Week in Review \u2013 10/26 - 10/30",
-   "summary": "Stocks wavered after the Fed held rates steady and Alphabet's earnings missed on Search revenue, fueling AI bubble concerns despite strong results from Microsoft and resilient earnings elsewhere.",
-   "url": "https://finnhub.io/api/news?id=34cc4b510c5ef64adb8eb3762c2ddf83c2621cc279b87890a58bb4b58e1e121d",
-   "source": "Yahoo",
-   "published": "2026-10-31T11:00:00+00:00",
-   "tickers": [
-    "BMY"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
