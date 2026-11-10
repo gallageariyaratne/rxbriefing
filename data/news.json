@@ -1,13 +1,13 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-10T21:03:07.892914+00:00",
+ "updated": "2026-11-10T21:17:51.170881+00:00",
  "quotes": {
   "A": {
-   "price": 177.87,
-   "change_pct": -1.28
+   "price": 177.88,
+   "change_pct": -1.27
   },
   "ABBV": {
-   "price": 293.88,
+   "price": 293.89,
    "change_pct": 0.2
   },
   "ABT": {
@@ -15,8 +15,8 @@
    "change_pct": -0.05
   },
   "ACAD": {
-   "price": 18.27,
-   "change_pct": 10.73
+   "price": 18.28,
+   "change_pct": 10.79
   },
   "ALNY": {
    "price": 151.64,
@@ -79,8 +79,8 @@
    "change_pct": 2.07
   },
   "CNC": {
-   "price": 70.2,
-   "change_pct": 2.42
+   "price": 70.19,
+   "change_pct": 2.41
   },
   "COR": {
    "price": 348.71,
@@ -98,17 +98,13 @@
    "price": 89.01,
    "change_pct": 4.41
   },
-  "CYTK": {
-   "price": 56.18,
-   "change_pct": 1.89
-  },
   "DGX": {
    "price": 258.44,
    "change_pct": -0.47
   },
   "DHR": {
-   "price": 236.24,
-   "change_pct": 0.48
+   "price": 236.11,
+   "change_pct": 0.42
   },
   "DOCS": {
    "price": 32.42,
@@ -150,10 +146,6 @@
    "price": 75.23,
    "change_pct": -1.49
   },
-  "GSK": {
-   "price": 51.23,
-   "change_pct": -0.6
-  },
   "HALO": {
    "price": 102.98,
    "change_pct": 0.06
@@ -171,8 +163,8 @@
    "change_pct": 0.37
   },
   "HUM": {
-   "price": 437.97,
-   "change_pct": 3.49
+   "price": 438.06,
+   "change_pct": 3.51
   },
   "IART": {
    "price": 14.53,
@@ -195,8 +187,8 @@
    "change_pct": -1.3
   },
   "IONS": {
-   "price": 27.77,
-   "change_pct": -10.42
+   "price": 28.19,
+   "change_pct": -9.06
   },
   "IQV": {
    "price": 275.15,
@@ -217,6 +209,10 @@
   "LEGN": {
    "price": 20.41,
    "change_pct": -15.97
+  },
+  "LH": {
+   "price": 370.88,
+   "change_pct": -0.26
   },
   "LLY": {
    "price": 1432.29,
@@ -241,6 +237,10 @@
   "MRNA": {
    "price": 250.83,
    "change_pct": -6.75
+  },
+  "NBIX": {
+   "price": 169.14,
+   "change_pct": 0.17
   },
   "NTRA": {
    "price": 311.98,
@@ -938,6 +938,36 @@
  },
  "stories": [
   {
+   "id": "7c2d1f1ef47f",
+   "headline": "Quest Diagnostics Declares Quarterly Cash Dividend",
+   "summary": "SECAUCUS, N.J., Nov. 10, 2026 /PRNewswire/ -- Quest Diagnostics (NYSE: DGX), a leading provider of diagnostic information services, today announced that its Board of Directors declared a quarterly cash dividend of $0.86 per share, payable\u2026",
+   "url": "https://www.prnewswire.com/news-releases/quest-diagnostics-declares-quarterly-cash-dividend-302935557.html",
+   "source": "PR Newswire",
+   "published": "2026-11-10T21:06:00+00:00",
+   "tickers": [
+    "DGX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "a6839494785a",
+   "headline": "Neurocrine Biosciences to Present at the 2026 Jefferies Global Healthcare Conference",
+   "summary": "SAN DIEGO, Nov. 10, 2026 /PRNewswire/ -- Neurocrine Biosciences, Inc. (Nasdaq: NBIX) announced today that its executives will participate at the 2026 Jefferies Global Healthcare Conference in London at 3:30 p.m. Greenwich Mean Time (10:30\u2026",
+   "url": "https://www.prnewswire.com/news-releases/neurocrine-biosciences-to-present-at-the-2026-jefferies-global-healthcare-conference-302935443.html",
+   "source": "PR Newswire",
+   "published": "2026-11-10T21:01:00+00:00",
+   "tickers": [
+    "NBIX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "df7f238757e6",
    "headline": "Beam\u2019s sickle cell therapy results tee up potential Casgevy, Lyfgenia showdown",
    "summary": "Gearing up for a potential FDA filing by the end of the year, Beam Therapeutics revealed results from a phase 1/2 study of its base-edited cell therapy risto-cel, showing the potential sickle cell treatment reduced the most painful\u2026",
@@ -1170,7 +1200,8 @@
    "source": "Yahoo",
    "published": "2026-11-10T18:39:00+00:00",
    "tickers": [
-    "JNJ"
+    "JNJ",
+    "REGN"
    ],
    "tag": "FDA",
    "sectors": [
@@ -1260,7 +1291,8 @@
    "source": "Yahoo",
    "published": "2026-11-10T18:17:14+00:00",
    "tickers": [
-    "AMGN"
+    "AMGN",
+    "REGN"
    ],
    "tag": "News",
    "sectors": [
@@ -1401,7 +1433,8 @@
    "source": "Yahoo",
    "published": "2026-11-10T17:57:00+00:00",
    "tickers": [
-    "IDXX"
+    "IDXX",
+    "LH"
    ],
    "tag": "Health AI",
    "sectors": [
@@ -1583,6 +1616,17 @@
    "sectors": [
     "tools"
    ]
+  },
+  {
+   "id": "43fa45ba2565",
+   "headline": "7 healthcare experts on adopting AI tools",
+   "summary": "When deciding whether to adopt AI tools, it\u2019s crucial that healthcare organizations consider governance, clinician trust and overall costs, industry experts said at a Healthcare Dive virtual event last week.",
+   "url": "https://www.healthcaredive.com/news/8-healthcare-experts-on-adopting-ai-tools-virtual-event/874130/",
+   "source": "Healthcare Dive",
+   "published": "2026-11-10T16:50:23+00:00",
+   "tickers": [],
+   "tag": "Health AI",
+   "sectors": []
   },
   {
    "id": "149fa5c7eee7",
@@ -60181,21 +60225,6 @@
    "tag": "M&A",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "a32d1f1a4058",
-   "headline": "Teladoc\u2019s Q3 earnings call: our top 5 analyst questions",
-   "summary": "Teladoc\u2019s third-quarter results were met with a significant positive market reaction, reflecting investor confidence in the company\u2019s execution despite a year-over-year revenue decline. Management cited robust progress in its core\u2026",
-   "url": "https://finnhub.io/api/news?id=6134d0d4b9cd532b274d435225756b4e0c2947b3a0e8de7efe32a1985b9aed7c",
-   "source": "Yahoo",
-   "published": "2026-10-31T21:15:00+00:00",
-   "tickers": [
-    "TDOC"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "healthit"
    ]
   }
  ]
