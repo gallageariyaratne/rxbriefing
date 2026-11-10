@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-10T11:02:41.172465+00:00",
+ "updated": "2026-11-10T11:17:35.408547+00:00",
  "quotes": {
   "A": {
    "price": 180.17,
@@ -61,6 +61,10 @@
   "CERT": {
    "price": 12.22,
    "change_pct": 1.41
+  },
+  "CI": {
+   "price": 295.6,
+   "change_pct": 0.68
   },
   "CLOV": {
    "price": 4.83,
@@ -145,10 +149,6 @@
   "GSK": {
    "price": 51.54,
    "change_pct": 2.4
-  },
-  "HCA": {
-   "price": 504.89,
-   "change_pct": 2
   },
   "HIMS": {
    "price": 22.94,
@@ -285,10 +285,6 @@
   "REGN": {
    "price": 919.96,
    "change_pct": 1.73
-  },
-  "RGEN": {
-   "price": 178.94,
-   "change_pct": 3.14
   },
   "ROIV": {
    "price": 40.67,
@@ -938,6 +934,21 @@
  },
  "stories": [
   {
+   "id": "8930fad778cb",
+   "headline": "The Cigna Group Announces Appearance at the 2026 UBS Global Healthcare Conference",
+   "summary": "BLOOMFIELD, Conn., Nov. 10, 2026 /PRNewswire/ -- Global health company The Cigna Group (NYSE:CI) announced that Ann Dennison, Executive Vice President and CFO of The Cigna Group, will present at the 2026 UBS Global Healthcare Conference\u2026",
+   "url": "https://www.prnewswire.com/news-releases/the-cigna-group-announces-appearance-at-the-2026-ubs-global-healthcare-conference-302933621.html",
+   "source": "PR Newswire",
+   "published": "2026-11-10T11:00:00+00:00",
+   "tickers": [
+    "CI"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "963eb6c76738",
    "headline": "AbCellera becomes latest biotech to abandon dream of developing OX40 drug",
    "summary": "AbCellera has become the latest drug developer to abandon its attempts to crack the OX40 code.",
@@ -1347,6 +1358,21 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "80906c96083f",
+   "headline": "TransMedics: Growth Is Accelerating Again And 2027 Looks Promising",
+   "summary": "TransMedics Group Inc. demonstrates accelerating revenue growth, improved service margins and market share gains. Read why TMDX stock is a buy.",
+   "url": "https://finnhub.io/api/news?id=6e35e1f8203f8177ec757ee2351b8a6424d888229722eac19a9e0d283f9fb223",
+   "source": "SeekingAlpha",
+   "published": "2026-11-10T05:41:03+00:00",
+   "tickers": [
+    "TMDX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -2041,6 +2067,21 @@
    "summary": "SAN DIEGO, Nov. 9, 2026 /PRNewswire/ -- SOTERIA Precision Medicine Foundation, a non-profit 501(c)(3) organization, announced a collaboration with Tempus (NASDAQ: TEM) to deliver personalized, data-driven cancer treatment insights and\u2026",
    "url": "https://www.prnewswire.com/news-releases/soteria-collaborates-with-tempus-to-advance-precision-oncology-for-us-military-and-veterans-battling-cancer-302933873.html",
    "source": "PR Newswire",
+   "published": "2026-11-09T21:39:00+00:00",
+   "tickers": [
+    "TEM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthai"
+   ]
+  },
+  {
+   "id": "6bc6871a7aef",
+   "headline": "SOTERIA Collaborates with Tempus to Advance Precision Oncology for U.S. Military and Veterans Battling Cancer",
+   "summary": "SOTERIA Precision Medicine Foundation, a non-profit 501(c)(3) organization, announced a collaboration with Tempus (NASDAQ: TEM) to deliver personalized, data-driven cancer treatment insights and advanced genomic sequencing to members of\u2026",
+   "url": "https://finnhub.io/api/news?id=22e459da0491e6e164243bbd27f5b612ad9e88b9f9aa2847682b3eefbd77c100",
+   "source": "Yahoo",
    "published": "2026-11-09T21:39:00+00:00",
    "tickers": [
     "TEM"
@@ -3930,6 +3971,21 @@
    ]
   },
   {
+   "id": "c5b6f7cdf90b",
+   "headline": "What Compugen (CGEN) Said on Its Q3 Earnings Call",
+   "summary": "Compugen (NASDAQ:CGEN) has completed enrollment in a randomized trial of its ovarian cancer treatment candidate COM701 and expects to report results by the end of the first quarter of 2027, executives said on the company\u2019s third-quarter\u2026",
+   "url": "https://finnhub.io/api/news?id=6f271f05e1a8c65859fa219593fb9348a9d89751d0f6c9a512d07e0ed65fe2df",
+   "source": "Yahoo",
+   "published": "2026-11-09T15:14:41+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "cfc2ffad3f3b",
    "headline": "AI in Predictive Toxicology - Global Strategic Business Report 2026: Capture a $3.2 Billion Market by 2032 as BenevolentAI, Insilico Medicine, Recursion Pharmaceuticals and Revvity Disrupt Testing",
    "summary": "AI-driven toxicology cuts testing time and costs, improves accuracy, reduces animal testing, and strengthens early risk detection and regulatory compliance.Dublin, Nov. 09, 2026 (GLOBE NEWSWIRE) -- \"AI in Predictive Toxicology - Global\u2026",
@@ -5202,6 +5258,7 @@
    "source": "Yahoo",
    "published": "2026-11-09T13:00:00+00:00",
    "tickers": [
+    "AZN",
     "GILD",
     "LEGN",
     "LLY",
@@ -5314,6 +5371,7 @@
    "source": "Yahoo",
    "published": "2026-11-09T12:48:00+00:00",
    "tickers": [
+    "AZN",
     "BMY",
     "MRK"
    ],
@@ -56689,36 +56747,6 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "6a48d80efc1c",
-   "headline": "Regeneron Pharmaceuticals (REGN) Jumped, But What Is The Market Seeing Now?",
-   "summary": "Regeneron Pharmaceuticals (REGN) moved sharply after reporting third quarter 2026 results, with revenue of US$5.12b and net income of US$1.95b, along with stronger non GAAP earnings and record contributions from Dupixent, EYLEA HD and\u2026",
-   "url": "https://finnhub.io/api/news?id=70cdf6414d72940d1e9aad0b5fc90a14ccb7a61044fe63f2194b412b4ff4866f",
-   "source": "Yahoo",
-   "published": "2026-10-31T11:08:17+00:00",
-   "tickers": [
-    "REGN"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "1e6a9760c576",
-   "headline": "Stryker Stock After Guidance Cut Has The Bull Case Changed?",
-   "summary": "Stryker reported third quarter 2026 results with sales of US$6.52b and net income of US$753m, alongside a US$293m goodwill impairment and a cut to full year guidance. The mix of softer hip and knee procedure volumes, higher costs that\u2026",
-   "url": "https://finnhub.io/api/news?id=7d9629aa05b501e029124dcf95d5a02fa82a667f007ebf8d50b1d608adb657a5",
-   "source": "Yahoo",
-   "published": "2026-10-31T11:08:06+00:00",
-   "tickers": [
-    "SYK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
