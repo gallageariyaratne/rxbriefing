@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-10T10:03:05.283234+00:00",
+ "updated": "2026-11-10T10:17:31.085820+00:00",
  "quotes": {
   "A": {
    "price": 180.17,
@@ -129,10 +129,6 @@
   "GEHC": {
    "price": 84.03,
    "change_pct": 2.0
-  },
-  "GH": {
-   "price": 158.79,
-   "change_pct": 5.25
   },
   "GILD": {
    "price": 169.32,
@@ -321,6 +317,10 @@
   "SOPH": {
    "price": 7.49,
    "change_pct": 4.9
+  },
+  "SYK": {
+   "price": 325.73,
+   "change_pct": -0.04
   }
  },
  "tickers": {
@@ -5035,6 +5035,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "6cb61fa5e024",
+   "headline": "Mereo BioPharma Reports Third Quarter 2026 Financial Results",
+   "summary": "Ongoing regulatory interactions in collaboration with Ultragenyx on potential path forward for setrusumab in osteogenesis imperfecta (OI) Ongoing FDA interactions in collaboration with Sentynl Therapeutics to refine Phase 3 trial design\u2026",
+   "url": "https://finnhub.io/api/news?id=00f3fe46fb6665ae70fee8a334c05a7ada0484d51ecf81c598474ce9dec142d5",
+   "source": "Yahoo",
+   "published": "2026-11-09T13:00:00+00:00",
+   "tickers": [
+    "RARE"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -56571,36 +56586,6 @@
    "tag": "M&A",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "1fc0f1a7ff85",
-   "headline": "Is Earnings Beat Altering The Investment Case For AbbVie Stock (ABBV)?",
-   "summary": "AbbVie reported third quarter 2026 sales of US$17.4b and net income of US$4.2b, raised full year revenue and adjusted EPS guidance, and approved a 5.2% quarterly dividend increase to US$1.82 per share starting with the February 16, 2027\u2026",
-   "url": "https://finnhub.io/api/news?id=9d8b6b282f5dd40ec40a79851399264827edaef4889af608f0ef351e88124851",
-   "source": "Yahoo",
-   "published": "2026-10-31T10:14:15+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "f4d2c3745ae9",
-   "headline": "DexCom (DXCM) Stock Looks Below Fair Value on Cash Flow",
-   "summary": "DexCom has enjoyed a strong run over the past year, yet the share price still leaves a basic question on the table for investors who care about cash flows. With the stock now trading around US$82.29, the issue is whether the underlying\u2026",
-   "url": "https://finnhub.io/api/news?id=359137b3052b7ab4c8fb62ef83238fe7da67a778a686541db073d83111caab8e",
-   "source": "Yahoo",
-   "published": "2026-10-31T10:13:28+00:00",
-   "tickers": [
-    "DXCM"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
