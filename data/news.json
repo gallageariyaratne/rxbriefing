@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-10T10:17:31.085820+00:00",
+ "updated": "2026-11-10T10:32:46.246932+00:00",
  "quotes": {
   "A": {
    "price": 180.17,
@@ -186,10 +186,6 @@
    "price": 278.84,
    "change_pct": 2.58
   },
-  "IRTC": {
-   "price": 88.73,
-   "change_pct": -1.65
-  },
   "ISRG": {
    "price": 460.56,
    "change_pct": 1.71
@@ -306,10 +302,6 @@
    "price": 33.39,
    "change_pct": 11.97
   },
-  "SMMT": {
-   "price": 17.84,
-   "change_pct": 9.25
-  },
   "SNY": {
    "price": 48.12,
    "change_pct": 2.3
@@ -321,6 +313,10 @@
   "SYK": {
    "price": 325.73,
    "change_pct": -0.04
+  },
+  "TDOC": {
+   "price": 8.98,
+   "change_pct": 2.39
   }
  },
  "tickers": {
@@ -937,6 +933,32 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "963eb6c76738",
+   "headline": "AbCellera becomes latest biotech to abandon dream of developing OX40 drug",
+   "summary": "AbCellera has become the latest drug developer to abandon its attempts to crack the OX40 code.",
+   "url": "https://www.fiercebiotech.com/biotech/abcellera-becomes-latest-biotech-abandon-dream-developing-ox40-drug",
+   "source": "Fierce Biotech",
+   "published": "2026-11-10T10:30:30.283819+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "d3cf52c85b19",
+   "headline": "GMED Q3 2026 deep dive: product launch delays and Nevro drag outlook, margin improvement offsets",
+   "summary": "Medical device company Globus Medical (NYSE:GMED) missed Wall Street\u2019s revenue expectations in Q3 2026, with sales flat year on year at $763.7 million. The company\u2019s full-year revenue guidance of $3.09 billion at the midpoint came in 3.4%\u2026",
+   "url": "https://finnhub.io/api/news?id=eaa7807a4ccbaa12386d97d8cccb1c5f586826014233566cfa7c3f4a7b2cdc9a",
+   "source": "Yahoo",
+   "published": "2026-11-10T09:33:36+00:00",
+   "tickers": [
+    "GMED"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
   {
    "id": "de0cececc0de",
    "headline": "Coherus shrinks headcount 30% to narrow focus of cancer combo",
@@ -56569,21 +56591,6 @@
     "BMY"
    ],
    "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "fb27a81427de",
-   "headline": "5 Dividend Stocks to Buy and Hold for the Next 5 Years",
-   "summary": "Five consumer dividend stocks with real 2026 catalysts and the risks that could slow them down are worth a look before the next earnings cycle.",
-   "url": "https://finnhub.io/api/news?id=4ffaf9f023b6f59033ef55b15c974db32052c205064251a8a10fd397055da7ae",
-   "source": "Yahoo",
-   "published": "2026-10-31T10:20:00+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "M&A",
    "sectors": [
     "pharma"
    ]
