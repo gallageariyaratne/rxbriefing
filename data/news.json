@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-10T12:02:57.960324+00:00",
+ "updated": "2026-11-10T12:17:57.077850+00:00",
  "quotes": {
   "A": {
    "price": 180.17,
@@ -9,6 +9,10 @@
   "ABBV": {
    "price": 293.3,
    "change_pct": 0.68
+  },
+  "ACAD": {
+   "price": 16.5,
+   "change_pct": -22.28
   },
   "ALNY": {
    "price": 156.61,
@@ -266,6 +270,10 @@
    "price": 29.23,
    "change_pct": -0.54
   },
+  "PODD": {
+   "price": 149.81,
+   "change_pct": 2.25
+  },
   "PRVA": {
    "price": 24.54,
    "change_pct": 0.49
@@ -313,10 +321,6 @@
   "SYK": {
    "price": 325.73,
    "change_pct": -0.04
-  },
-  "TDOC": {
-   "price": 8.98,
-   "change_pct": 2.39
   }
  },
  "tickers": {
@@ -934,11 +938,93 @@
  },
  "stories": [
   {
+   "id": "6f267b43aff2",
+   "headline": "Personify Health launches updated wellbeing platform experience with 2 new capabilities",
+   "summary": "The updated platform experience features two new capabilities: adherence and digital navigation.",
+   "url": "https://www.fiercehealthcare.com/digital-health/personify-health-launches-updated-wellbeing-platform-experience-2-new-capabilities",
+   "source": "Fierce Healthcare",
+   "published": "2026-11-10T12:15:37.311958+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "01461d0ace9e",
+   "headline": "Insulet, Marvel Comics smash diabetes stigma with new Omnipod-powered superhero",
+   "summary": "Insulet's newest Marvel Comics collab looks to empower people with diabetes by representing the community through a new diabetes superhero, Gluconaut in \"Gluconaut: Strength of Stars.\"",
+   "url": "https://www.fiercepharma.com/marketing/insulet-marvel-comics-smash-diabetes-stigma-new-omnipod-powered-superhero",
+   "source": "Fierce Pharma",
+   "published": "2026-11-10T12:15:37.109401+00:00",
+   "tickers": [
+    "PODD"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "f183ddd709bd",
+   "headline": "Cepheid obtiene la marca CE conforme al IVDR para el panel respiratorio Xpert\u00ae",
+   "summary": "Una prueba de PCR conforme al IVDR detecta 13 pat\u00f3genos respiratorios comunes a partir de una \u00fanica muestra. SUNNYVALE, California, 10 de noviembre de 2026 /PRNewswire/ -- Cepheid, una empresa de Danaher, ha anunciado hoy la obtenci\u00f3n de\u2026",
+   "url": "https://www.prnewswire.com/news-releases/cepheid-obtiene-la-marca-ce-conforme-al-ivdr-para-el-panel-respiratorio-xpert-302934855.html",
+   "source": "PR Newswire",
+   "published": "2026-11-10T12:13:00+00:00",
+   "tickers": [
+    "DHR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "3cd2730db831",
+   "headline": "STAT+: PepGen says early trial for muscular dystrophy drug looks promising",
+   "summary": "PepGen says its candidate is correcting more of the genetic stutter found in myotonic dystrophy type 1.",
+   "url": "https://www.statnews.com/2026/11/10/muscular-dystrophy-dm1-pepgen-pgn-edodm1-early-results/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-11-10T12:05:00+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "bba5035c323c",
+   "headline": "CI Q3 2026 deep dive: specialty pharmacy, cost initiatives, and model transition shape outlook",
+   "summary": "Health insurance company Cigna (NYSE:CI) reported Q3 2026 results topping the market\u2019s revenue expectations, with sales up 6.1% year on year to $73.79 billion. Its non-GAAP profit of $7.98 per share was 6.3% above analysts\u2019 consensus\u2026",
+   "url": "https://finnhub.io/api/news?id=6046812b68a8b8f04f45ced5310698d707b622f92e00c30de91f61a003540c48",
+   "source": "Yahoo",
+   "published": "2026-11-10T11:09:36+00:00",
+   "tickers": [
+    "CI"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "8930fad778cb",
    "headline": "The Cigna Group Announces Appearance at the 2026 UBS Global Healthcare Conference",
    "summary": "BLOOMFIELD, Conn., Nov. 10, 2026 /PRNewswire/ -- Global health company The Cigna Group (NYSE:CI) announced that Ann Dennison, Executive Vice President and CFO of The Cigna Group, will present at the 2026 UBS Global Healthcare Conference\u2026",
    "url": "https://www.prnewswire.com/news-releases/the-cigna-group-announces-appearance-at-the-2026-ubs-global-healthcare-conference-302933621.html",
    "source": "PR Newswire",
+   "published": "2026-11-10T11:00:00+00:00",
+   "tickers": [
+    "CI"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "313996627052",
+   "headline": "The Cigna Group Announces Appearance at the 2026 UBS Global Healthcare Conference",
+   "summary": "Global health company The Cigna Group (NYSE:CI) announced that Ann Dennison, Executive Vice President and CFO of The Cigna Group, will present at the 2026 UBS Global Healthcare Conference today, November 10, 2026, in Palm Beach Gardens, FL.",
+   "url": "https://finnhub.io/api/news?id=76c3e67b9dd64a4d4046e8b87969a3a1f498d6b27c90442bea0fad862aa30807",
+   "source": "Yahoo",
    "published": "2026-11-10T11:00:00+00:00",
    "tickers": [
     "CI"
@@ -973,6 +1059,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "20a9834d1b37",
+   "headline": "While pharma peers stumble, AbbVie defeated the patent cliff",
+   "summary": "Investing.com and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
+   "url": "https://finnhub.io/api/news?id=8f38b131c118ba94f5258458a4c6a429e65455635ce35ce311e9c95f2ec8b4cb",
+   "source": "Yahoo",
+   "published": "2026-11-10T10:23:53+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "ee89576e6313",
@@ -1360,6 +1461,21 @@
    ]
   },
   {
+   "id": "2e46fa063d5f",
+   "headline": "Acadia Pharmaceuticals Fell While Sales Rose",
+   "summary": "Acadia Pharmaceuticals ended Q3 2026 touting a revenue beat, stronger Daybue and Nuplazid sales, and fresh guidance pointing to full year revenue between US$1.26b and US$1.3b. Holding Acadia Pharmaceuticals from the start of the year\u2026",
+   "url": "https://finnhub.io/api/news?id=0068a497357fcd08adaf940c07282670be844ae92e3b029ee29f5e7ee192b01d",
+   "source": "Yahoo",
+   "published": "2026-11-10T06:11:13+00:00",
+   "tickers": [
+    "ACAD"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "70def8120bdb",
    "headline": "Zacks Industry Outlook Highlights Eli Lilly, Novartis and Bayer",
    "summary": "LLY, NVS and BAYRY stand out as the pharma sector rebounds in 2026, supported by innovative drug pipelines, strong product demand and rising earnings estimates.",
@@ -1447,6 +1563,21 @@
    "sectors": []
   },
   {
+   "id": "2f84ae4674b7",
+   "headline": "Acadia Pharmaceuticals Comments on Federal Circuit Oral Argument in NUPLAZID\u00ae Formulation Patent Appeal",
+   "summary": "SAN DIEGO, November 10, 2026--Acadia Pharmaceuticals Inc. (Nasdaq: ACAD) today reported that oral arguments were held before the U.S. Court of Appeals for the Federal Circuit in the appeal of the U.S. District Court for the District of\u2026",
+   "url": "https://finnhub.io/api/news?id=37830a8ee916a9b7e780a9df3763948de3c8c5db801b86ea2937e4024865b97f",
+   "source": "Yahoo",
+   "published": "2026-11-10T04:47:00+00:00",
+   "tickers": [
+    "ACAD"
+   ],
+   "tag": "Legal",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "f0e289cbedde",
    "headline": "Why Did U, MRNA, ABNB Stocks Surge To 52-Week Highs Today?",
    "summary": "Investors showed interest in AI gaming tools, advances in cancer vaccines and future business growth.",
@@ -1459,6 +1590,21 @@
    "tag": "Health AI",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "cd297adb5616",
+   "headline": "Acadia Pharmaceuticals (ACAD) Stock Still Looks Like A Bargain Today",
+   "summary": "Acadia Pharmaceuticals shares have dropped sharply so far in 2026, raising a clear question for investors who watch valuation closely. With the stock under pressure and earnings in focus, the issue is whether today's price fairly reflects\u2026",
+   "url": "https://finnhub.io/api/news?id=a493cc3e659835daba4374a25a6988e1b723be11ab6ecea5d37275cdc2903105",
+   "source": "Yahoo",
+   "published": "2026-11-10T04:29:20+00:00",
+   "tickers": [
+    "ACAD"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -1698,6 +1844,21 @@
    "tag": "News",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "3e21a88acc6f",
+   "headline": "Acadia Pharmaceuticals (ACAD) Cuts 2026 R And D Guidance, Is It Still 46% Undervalued?",
+   "summary": "Acadia Pharmaceuticals (ACAD) just paired fresh quarterly results with a guidance tweak and new Alzheimer\u2019s trial data, giving investors several moving parts to assess at the same time. The reaction has been harsh. Acadia Pharmaceuticals\u2019\u2026",
+   "url": "https://finnhub.io/api/news?id=b9e6ba16fb56efb1ed6e535c8ae28e5f1ce5e517e253bcc027873925114989c8",
+   "source": "Yahoo",
+   "published": "2026-11-10T01:17:14+00:00",
+   "tickers": [
+    "ACAD"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -2336,6 +2497,21 @@
    "tag": "News",
    "sectors": [
     "healthit"
+   ]
+  },
+  {
+   "id": "c53e358a6e3c",
+   "headline": "Acadia Pharmaceuticals to Present Remlifanserin Data at the 2026 Clinical Trials on Alzheimer's Disease (CTAD) Conference",
+   "summary": "SAN DIEGO, Calif., November 09, 2026--Acadia Pharmaceuticals Inc. (Nasdaq: ACAD) today announced that it will present two data presentations related to Alzheimer's disease psychosis (ADP) and remlifanserin at the 2026 Clinical Trials on\u2026",
+   "url": "https://finnhub.io/api/news?id=03102dea60f3baf682900384733cfdd7b53999ff9202a7d74b6d0bc4c1eeabaa",
+   "source": "Yahoo",
+   "published": "2026-11-09T21:05:00+00:00",
+   "tickers": [
+    "ACAD"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -56701,36 +56877,6 @@
    "tag": "Health AI",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "211a65078b0c",
-   "headline": "Bristol Myers Squibb (BMY) Reports Positive Phase 2 Pumitamig Lung Cancer Data",
-   "summary": "Bristol-Myers Squibb (NYSE:BMY) and BioNTech reported positive Phase 2 data for pumitamig in metastatic non-small cell lung cancer. The bispecific immunomodulator pumitamig, targeting PD-L1 and VEGF-A, showed strong antitumor activity\u2026",
-   "url": "https://finnhub.io/api/news?id=29a1d4c6e3bced6ee2ad95507c552576f02847a8f8ddf02fdc3debd89fc30977",
-   "source": "Yahoo",
-   "published": "2026-10-31T12:12:42+00:00",
-   "tickers": [
-    "BMY"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "17ccc5a8bd54",
-   "headline": "Earnings Beat Could Be A Game Changer For Exelixis Stock (EXEL)",
-   "summary": "Exelixis reported third quarter 2026 revenue of US$658.7 million and net income of US$218.1 million, with earnings per share above Wall Street expectations and full year revenue guidance maintained at US$2.5b to US$2.55b. The business\u2026",
-   "url": "https://finnhub.io/api/news?id=fd4bfc7c290706e2a747e9e27c3d3ff4007a2c40616111b11507c093ad0b5418",
-   "source": "Yahoo",
-   "published": "2026-10-31T12:08:12+00:00",
-   "tickers": [
-    "EXEL"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
    ]
   }
  ]
