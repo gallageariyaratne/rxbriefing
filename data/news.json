@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-10T12:32:50.773869+00:00",
+ "updated": "2026-11-10T12:47:39.302630+00:00",
  "quotes": {
   "A": {
    "price": 180.17,
@@ -9,6 +9,10 @@
   "ABBV": {
    "price": 293.3,
    "change_pct": 0.68
+  },
+  "ABT": {
+   "price": 110.51,
+   "change_pct": 0.53
   },
   "ACAD": {
    "price": 16.5,
@@ -178,6 +182,10 @@
    "price": 35.15,
    "change_pct": 15.13
   },
+  "INCY": {
+   "price": 121.89,
+   "change_pct": 1.87
+  },
   "IONS": {
    "price": 31,
    "change_pct": -21.36
@@ -313,10 +321,6 @@
   "SRPT": {
    "price": 17.24,
    "change_pct": -3.25
-  },
-  "SYK": {
-   "price": 325.73,
-   "change_pct": -0.04
   }
  },
  "tickers": {
@@ -986,6 +990,21 @@
    "sectors": []
   },
   {
+   "id": "25f23822d2c9",
+   "headline": "Intuitive Surgical (NASDAQ:ISRG): Strong Growth Meets a Constructive Technical Setup",
+   "summary": "Intuitive Surgical pairs strong growth, high margins and a debt-free balance sheet with a tight technical setup near resistance, though valuation risk remains.",
+   "url": "https://finnhub.io/api/news?id=b11ef7bad2b87b46ca290d8c606c013f259eb64d810cb1fc653466cb7941fe1b",
+   "source": "ChartMill",
+   "published": "2026-11-10T12:00:56+00:00",
+   "tickers": [
+    "ISRG"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "97a1bbdc6bce",
    "headline": "Legend Biotech Reports Third Quarter 2026 Results and Recent Highlights",
    "summary": "BRIDGEWATER, N.J., Nov. 10, 2026 (GLOBE NEWSWIRE) -- Legend Biotech Corporation (NASDAQ: LEGN) (Legend Biotech), a global leader in cell therapy, today reported its third quarter 2026 unaudited financial results and recent highlights.",
@@ -998,6 +1017,36 @@
    "tag": "News",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "0c14bdee120f",
+   "headline": "Natera Announces Clinical Collaboration with Incyte on Interventional Phase II Study in Colorectal Cancer",
+   "summary": "AUSTIN, Texas, November 10, 2026--Natera, Inc. (Nasdaq:NTRA), a global leader in cell-free DNA and precision medicine, today announced that it has entered into a clinical collaboration agreement with Incyte (Nasdaq:INCY) for a new phase\u2026",
+   "url": "https://finnhub.io/api/news?id=596b494fb0e743c6eac0079be2a6f5bbd4345c3b7562698b91789d7dd36ee7d3",
+   "source": "Yahoo",
+   "published": "2026-11-10T12:00:00+00:00",
+   "tickers": [
+    "INCY"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "178233a5c001",
+   "headline": "Pfizer Hits a New 52-Week High. Here's Why It's Not Too Late to Buy the Stock",
+   "summary": "This surprising healthcare stock has been outperforming the markets this year.",
+   "url": "https://finnhub.io/api/news?id=9fd9088b7a6fe41dd9739e1e989addb7ed39b912e9aa3a4c64d265e2a854199e",
+   "source": "Yahoo",
+   "published": "2026-11-10T11:20:02+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1016,6 +1065,21 @@
    ]
   },
   {
+   "id": "dcbdeb2c175b",
+   "headline": "New Abbott Panbio\u2122 COVID-19/Flu A&B Self-Test Helps Canadian Families Make Informed Decisions During Respiratory Illness Season",
+   "summary": "As respiratory viruses begin circulating across Canada, many families are left wondering what to do when illness strikes at home. To help provide greater clarity, Abbott (NYSE: ABT) today announced availability of its Panbio\u2122 COVID-19/Flu\u2026",
+   "url": "https://finnhub.io/api/news?id=403e0a225c7d396925590917ec234bcd1971ab62fb61d85b9742cdc2b55f1f66",
+   "source": "Yahoo",
+   "published": "2026-11-10T11:08:00+00:00",
+   "tickers": [
+    "ABT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "d32fccd5e938",
    "headline": "iShares MSCI USA Momentum Factor ETF (MTUM) Adds AMD and Micron on Nov. 6",
    "summary": "The fund bought $178.4 million more than it sold, lifting 123 positions and trimming one.",
@@ -1028,6 +1092,51 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "c7145ca36f1d",
+   "headline": "Spdr Dow Jones Industrial Average ETF (DIA) Buys $36 Million More GS on Friday",
+   "summary": "The fund added $358.4 million across all 30 holdings, with Goldman Sachs its largest purchase at $36.0 million.",
+   "url": "https://finnhub.io/api/news?id=de9ee641492486ee72d144c5b24e232ed1622ba8d9dfad7f46506b2b93fb172e",
+   "source": "Yahoo",
+   "published": "2026-11-10T11:05:30+00:00",
+   "tickers": [
+    "AMGN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "94baa58e0f17",
+   "headline": "What iShares Russell 2000 Index Fund (IWM) Sold: Glaukos Leads on Nov. 6",
+   "summary": "The fund sold $1.02 billion more than it bought, cutting 1,860 positions and adding to just one.",
+   "url": "https://finnhub.io/api/news?id=cccd017c6f0b52875cdecb64cc3b7f583506c98e4d1c89daee5169123b8db0b5",
+   "source": "Yahoo",
+   "published": "2026-11-10T11:04:41+00:00",
+   "tickers": [
+    "GKOS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "872537fe48c2",
+   "headline": "CAH Q3 CY2026 deep dive: specialty growth and contract renewals drive guidance increase",
+   "summary": "Healthcare distributor and services company Cardinal Health (NYSE:CAH) reported calendar Q3 2026 (fiscal Q1 2027) results topping the market\u2019s revenue expectations, with sales up 5.5% year on year to $67.51 billion. Its non-GAAP profit of\u2026",
+   "url": "https://finnhub.io/api/news?id=bd7111ed7a1e5273c38d8b6a95698aefd531c5773062a75846be5b242db5e6dd",
+   "source": "Yahoo",
+   "published": "2026-11-10T11:01:36+00:00",
+   "tickers": [
+    "CAH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharmacy"
    ]
   },
   {
@@ -1095,7 +1204,8 @@
    "published": "2026-11-10T10:23:53+00:00",
    "tickers": [
     "ABBV",
-    "BMY"
+    "BMY",
+    "PFE"
    ],
    "tag": "Earnings",
    "sectors": [
