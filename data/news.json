@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-10T12:47:39.302630+00:00",
+ "updated": "2026-11-10T12:52:49.051490+00:00",
  "quotes": {
   "A": {
    "price": 180.17,
@@ -230,10 +230,6 @@
    "price": 102.79,
    "change_pct": 0.97
   },
-  "MEDP": {
-   "price": 672.93,
-   "change_pct": 3.03
-  },
   "MOH": {
    "price": 203.35,
    "change_pct": -2.7
@@ -321,6 +317,10 @@
   "SRPT": {
    "price": 17.24,
    "change_pct": -3.25
+  },
+  "SYK": {
+   "price": 325.73,
+   "change_pct": -0.04
   }
  },
  "tickers": {
@@ -937,6 +937,17 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "2b10040e6d79",
+   "headline": "Why this year\u2019s flu season could be hitting teens and young adults hard",
+   "summary": "At least 1.7 million cases of flu have been reported so far this year. Here's what experts are expecting for the rest of flu season:",
+   "url": "https://www.statnews.com/2026/11/10/health-news-why-flu-season-could-hit-teens-and-young-adults-hard/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-11-10T12:49:35+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
   {
    "id": "6f267b43aff2",
    "headline": "Personify Health launches updated wellbeing platform experience with 2 new capabilities",
@@ -57015,21 +57026,6 @@
    "tag": "Analyst",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "286c0d75e016",
-   "headline": "Pfizer Just Hit a 52-Week High. Is the Turnaround Finally Real?",
-   "summary": "Pfizer's post-COVID comeback is still only in the early stages.",
-   "url": "https://finnhub.io/api/news?id=92f6f74f75c5154dbc6de40ebdc3664f4103898a7493daa07faab007a5e61679",
-   "source": "Yahoo",
-   "published": "2026-10-31T12:50:00+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
