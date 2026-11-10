@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-09T23:47:36.515000+00:00",
+ "updated": "2026-11-10T00:02:46.388316+00:00",
  "quotes": {
   "A": {
    "price": 180.17,
@@ -262,6 +262,10 @@
    "price": 32.14,
    "change_pct": 4.86
   },
+  "PACB": {
+   "price": 2.36,
+   "change_pct": 4.66
+  },
   "PFE": {
    "price": 29.23,
    "change_pct": -0.54
@@ -313,10 +317,6 @@
   "TEM": {
    "price": 84.44,
    "change_pct": 11.03
-  },
-  "TGTX": {
-   "price": 63.38,
-   "change_pct": 5.94
   }
  },
  "tickers": {
@@ -1550,6 +1550,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "35d045f61bb6",
+   "headline": "Pacific Biosciences of California, Inc. 2026 Q3 - Results - Earnings Call Presentation",
+   "summary": "2026-11-09. The following slide deck was published by Pacific Biosciences of California, Inc.",
+   "url": "https://finnhub.io/api/news?id=6b53d2aa596cbe72953848e497dd9d7bb178cbb5e2134516da36e1b88fb08227",
+   "source": "SeekingAlpha",
+   "published": "2026-11-09T18:17:16+00:00",
+   "tickers": [
+    "PACB"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
   },
   {
    "id": "997099ccd99d",
@@ -55705,21 +55720,6 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "10af82855cd5",
-   "headline": "HCA Q3 deep dive: payer mix shifts and resiliency initiatives shape outlook",
-   "summary": "Hospital operator HCA Healthcare (NYSE:HCA) reported Q3 2026 results beating Wall Street\u2019s revenue expectations, with sales up 3.6% year on year to $19.85 billion. The company expects the full year\u2019s revenue to be around $78.25 billion,\u2026",
-   "url": "https://finnhub.io/api/news?id=382c0abd513b72babcdcf525d6497b4300002c58cba918de387733e5b8aed1a4",
-   "source": "Yahoo",
-   "published": "2026-10-30T23:47:29+00:00",
-   "tickers": [
-    "HCA"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
    ]
   }
  ]
