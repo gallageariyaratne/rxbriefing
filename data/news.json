@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-10T13:32:50.619627+00:00",
+ "updated": "2026-11-10T13:47:45.833052+00:00",
  "quotes": {
   "A": {
    "price": 180.17,
@@ -50,6 +50,10 @@
    "price": 215.25,
    "change_pct": 1.59
   },
+  "BIIB": {
+   "price": 254.87,
+   "change_pct": 2.63
+  },
   "BMRN": {
    "price": 57.18,
    "change_pct": 2.05
@@ -77,10 +81,6 @@
   "CLOV": {
    "price": 4.83,
    "change_pct": 0.21
-  },
-  "CNC": {
-   "price": 68.54,
-   "change_pct": -1.72
   },
   "CRL": {
    "price": 353.34,
@@ -937,6 +937,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "7f02dbf4d92b",
+   "headline": "STAT+: Dutch antitrust regulators probe Biogen over test for its MS drug",
+   "summary": "Dutch anti-trust regulators are investigating allegations that Biogen may have abused its dominant position in the market for MS treatments and associated blood tests.",
+   "url": "https://www.statnews.com/pharmalot/2026/11/10/dutch-antitrust-regulators-probe-biogen-over-multiple-sclerosis-drug-test/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-11-10T13:38:35+00:00",
+   "tickers": [
+    "BIIB"
+   ],
+   "tag": "Legal",
+   "sectors": [
+    "pharma"
+   ]
+  },
   {
    "id": "187dbcaf23a4",
    "headline": "Vertex lays off 78 Crinetics staffers amid $10B integration",
@@ -57214,21 +57229,6 @@
    "tag": "News",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "f78ef5ffb89b",
-   "headline": "Robotics Stocks Diverge as Strong Earnings Meet Uneven Price Action",
-   "summary": "Robotics automation theme cools as investors get selective, with earnings-price disconnects and healthcare robotics holding up as quality counterweight.",
-   "url": "https://finnhub.io/api/news?id=5fa872ffb1b98303d87800faf843447ca48e4ec7441c37c5bce7c00dd4ace35a",
-   "source": "ChartMill",
-   "published": "2026-10-31T13:36:22+00:00",
-   "tickers": [
-    "ISRG"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
