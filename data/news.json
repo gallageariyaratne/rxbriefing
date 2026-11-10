@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-10T14:03:17.770803+00:00",
+ "updated": "2026-11-10T14:23:05.607961+00:00",
  "quotes": {
   "A": {
    "price": 180.17,
@@ -138,6 +138,10 @@
    "price": 84.03,
    "change_pct": 2.0
   },
+  "GH": {
+   "price": 158.79,
+   "change_pct": 5.25
+  },
   "GILD": {
    "price": 169.32,
    "change_pct": 1.46
@@ -161,10 +165,6 @@
   "HIMS": {
    "price": 22.94,
    "change_pct": -11.77
-  },
-  "HSIC": {
-   "price": 88.41,
-   "change_pct": 2.74
   },
   "HUM": {
    "price": 423.22,
@@ -229,10 +229,6 @@
   "MDT": {
    "price": 102.79,
    "change_pct": 0.97
-  },
-  "MOH": {
-   "price": 203.35,
-   "change_pct": -2.7
   },
   "MRK": {
    "price": 148.76,
@@ -321,6 +317,10 @@
   "SYK": {
    "price": 325.73,
    "change_pct": -0.04
+  },
+  "TDOC": {
+   "price": 8.98,
+   "change_pct": 2.39
   }
  },
  "tickers": {
@@ -938,6 +938,32 @@
  },
  "stories": [
   {
+   "id": "e5ffcfbcf6a5",
+   "headline": "After court win, WuXi AppTec scores removal from US list of Chinese military companies",
+   "summary": "Following a back-and-forth with the Pentagon this year, contracting juggernaut WuXi AppTec appears to have largely evaded its designation by the U.S. as a company with ties to the Chinese military.",
+   "url": "https://www.fiercepharma.com/pharma/after-court-win-wuxi-apptec-scores-removal-us-list-chinese-military-companies",
+   "source": "Fierce Pharma",
+   "published": "2026-11-10T14:20:46.574920+00:00",
+   "tickers": [],
+   "tag": "Legal",
+   "sectors": []
+  },
+  {
+   "id": "789475652f36",
+   "headline": "Atman Health forms Strategic Advisory Board as It builds AI-Driven Autonomous Cardiovascular Care",
+   "summary": "Former FDA Commissioner Dr. Robert Califf, CVS Health's Dr. David Fairchild and the Hasso Plattner Institute's Dr. Ariel Stern will help steer Atman through FDA to fully autonomous deployment in clinical care BOSTON, Nov. 10, 2026\u2026",
+   "url": "https://www.prnewswire.com/news-releases/atman-health-forms-strategic-advisory-board-as-it-builds-ai-driven-autonomous-cardiovascular-care-302934594.html",
+   "source": "PR Newswire",
+   "published": "2026-11-10T14:10:00+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "7f02dbf4d92b",
    "headline": "STAT+: Dutch antitrust regulators probe Biogen over test for its MS drug",
    "summary": "Dutch anti-trust regulators are investigating allegations that Biogen may have abused its dominant position in the market for MS treatments and associated blood tests.",
@@ -977,6 +1003,36 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "db337f3845d3",
+   "headline": "Can Cardinal Health Stock Repeat Its Last Five Years?",
+   "summary": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://finnhub.io/api/news?id=5d07a6ebbe04b39fe4ff35b44c0fc06e9073d402ae7d06a86ee9892b48a7b5c8",
+   "source": "Yahoo",
+   "published": "2026-11-10T13:11:29+00:00",
+   "tickers": [
+    "BDX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "aa03fdc40ebd",
+   "headline": "Can You Still Buy Merck Stock Today?",
+   "summary": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://finnhub.io/api/news?id=92157bceddaffe1cf14d9ce78b9bc6ead3f63fa2a1ab784479d88acdb1080496",
+   "source": "Yahoo",
+   "published": "2026-11-10T13:11:28+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "00de77b288f3",
@@ -1559,6 +1615,21 @@
    "tag": "Earnings",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "8c12aee0e3a4",
+   "headline": "Piper Sandler Maintains Overweight on Guardant Health, Lowers Price Target to $190",
+   "summary": "Piper Sandler analyst David Westenberg maintains Guardant Health (NASDAQ:GH) with a Overweight and lowers the price target from $193 to $190.",
+   "url": "https://finnhub.io/api/news?id=153e6126468baaf0ba3c54358943082797052a94854ddcd9692cafb51afdcb3e",
+   "source": "Benzinga",
+   "published": "2026-11-10T08:55:52+00:00",
+   "tickers": [
+    "GH"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -3944,6 +4015,22 @@
    ]
   },
   {
+   "id": "67e7359ebd7a",
+   "headline": "12 Health Care Stocks Moving In Monday's After-Market Session",
+   "summary": "Gainers Karyopharm Therapeutics (NASDAQ:KPTI) stock moved upwards by 10.0% to $0.04 during Monday's after-market session. The company's market cap stands at $1.2 million. Fractyl Health (NASDAQ:GUTS) stock",
+   "url": "https://finnhub.io/api/news?id=e5a607a8fe95cdd775d94736ca5538a53f23d96866213fd784351216b50417a5",
+   "source": "Benzinga",
+   "published": "2026-11-09T17:05:47+00:00",
+   "tickers": [
+    "ACAD",
+    "ALT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "e5e0b1ea5d4a",
    "headline": "TG Therapeutics, Inc. (TGTX) Q3 2026 Earnings Call Transcript",
    "summary": "TG Therapeutics, Inc. (TGTX) Q3 2026 Earnings Call November 9, 2026 8:30 AM ESTCompany ParticipantsJenna Bosco - Senior Vice President of Corporate...",
@@ -5533,6 +5620,21 @@
    ]
   },
   {
+   "id": "cddd4dcd27c3",
+   "headline": "Altimmune Reports Phase 2 Results For Pemvidutide In Alcohol Use Disorder, Plans FDA Meeting In December Ahead Of Phase 3",
+   "summary": "Results from RECLAIM Phase 2 study show treatment with pemvidutide led to significant reduction in heavy drinking days and improved outcomes on other key clinical measures in patients with AUD; generally favorable",
+   "url": "https://finnhub.io/api/news?id=fe3d4cfe335c5490caa2225e65d2031d96b0dfa5900259223deaf5883d486043",
+   "source": "Benzinga",
+   "published": "2026-11-09T13:31:40+00:00",
+   "tickers": [
+    "ALT"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "aef1223378fe",
    "headline": "TG Therapeutics (NASDAQ:TGTX) Delivers Mixed Q3 2026 With Revenue Beat, EPS Miss, and Raised Guidance",
    "summary": "TG Therapeutics Q3 2026: revenue beat on BRIUMVI strength, EPS miss, and raised ~$1B revenue guidance. Shares little changed premarket.",
@@ -5944,6 +6046,21 @@
    "tickers": [],
    "tag": "Health AI",
    "sectors": []
+  },
+  {
+   "id": "f8c89bd37280",
+   "headline": "Hims-Eli Lilly GLP-1 Deal Meets Summit\u2019s FDA Gamble: Which Biotech ETFs Stand to Gain?",
+   "summary": "Biotech ETFs face key FDA catalysts as Summit Therapeutics' decision and the Hims-Lilly GLP-1 deal put XLV, IBB and XBI in focus.",
+   "url": "https://finnhub.io/api/news?id=b3df94d3aa5fe2cc3b56807ab9fae07783eb529469ed10ff651eea49dbb17a26",
+   "source": "Benzinga",
+   "published": "2026-11-09T12:51:46+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "6b97d52730c6",
@@ -6620,6 +6737,21 @@
    "tag": "GLP-1",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "d3d54f3028c4",
+   "headline": "Barclays Maintains Equal-Weight on Cigna Group, Raises Price Target to $320",
+   "summary": "Barclays analyst Andrew Mok maintains Cigna Group (NYSE:CI) with a Equal-Weight and raises the price target from $310 to $320.",
+   "url": "https://finnhub.io/api/news?id=3c83e547e1b5a4555475f3943a139e694068ebda11aaf9d9f24862a65cbdc7ec",
+   "source": "Benzinga",
+   "published": "2026-11-09T11:28:20+00:00",
+   "tickers": [
+    "CI"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -57228,51 +57360,6 @@
     "SNY"
    ],
    "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "ae65a8349c07",
-   "headline": "What Does Cencora (COR) Gain From Expanding Into 12 More States?",
-   "summary": "Cencora (NYSE: COR) agreed to acquire American Oncology Network to expand its community-based cancer care footprint. The deal broadens Cencora's physician practice management services into 12 additional states through American Oncology\u2026",
-   "url": "https://finnhub.io/api/news?id=4f737376cb7ce4d853476d42fbbcc8724ff21a38ee2c117ab9f578b732d68129",
-   "source": "Yahoo",
-   "published": "2026-10-31T14:15:09+00:00",
-   "tickers": [
-    "COR"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "pharmacy"
-   ]
-  },
-  {
-   "id": "6bf573c12756",
-   "headline": "Penumbra (PEN) Stock Faces Q3 Earnings Valuation Scrutiny",
-   "summary": "Penumbra came into this Q3 2026 earnings print priced for perfection, with the stock near US$319 and a rich 80.1x P/E that already reflected big hopes for its medical devices pipeline. The latest quarter delivered solid headline results,\u2026",
-   "url": "https://finnhub.io/api/news?id=f04701ebcd9768d923b78c7e64865ba92fa05840a6fe0970f53481c8ab148e99",
-   "source": "Yahoo",
-   "published": "2026-10-31T14:13:45+00:00",
-   "tickers": [
-    "PEN"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "e3b92e53de91",
-   "headline": "3 Oil Stocks Investors Are Screening As Brent Forecasts Move Higher",
-   "summary": "Oil has quietly moved back to the center of the story, with Brent forecasts being revised higher and geopolitical risk now baked into every barrel. That ripple effect touches funding costs, inflation expectations, and what investors are\u2026",
-   "url": "https://finnhub.io/api/news?id=5e6b3718b5267a3aea8f09f21e9c33034b1856e788ed0106fd6aaf2e33022f8b",
-   "source": "Yahoo",
-   "published": "2026-10-31T14:12:03+00:00",
-   "tickers": [
-    "NVS"
-   ],
-   "tag": "News",
    "sectors": [
     "pharma"
    ]
