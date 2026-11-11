@@ -1,7 +1,19 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-11T12:32:48.046871+00:00",
+ "updated": "2026-11-11T12:47:36.328241+00:00",
  "quotes": {
+  "A": {
+   "price": 177.88,
+   "change_pct": -1.27
+  },
+  "ABBV": {
+   "price": 293.89,
+   "change_pct": 0.2
+  },
+  "ABT": {
+   "price": 110.46,
+   "change_pct": -0.05
+  },
   "ALGN": {
    "price": 174.26,
    "change_pct": 0
@@ -926,6 +938,17 @@
  },
  "stories": [
   {
+   "id": "233c6e7d3173",
+   "headline": "UCB continues reign as largest drug ad spender as Bimzelx once again tops the ranks",
+   "summary": "UCB\u2019s immunology drug Bimzelx has topped the pharma drug ad spending charts for the third month in a row.",
+   "url": "https://www.fiercepharma.com/marketing/ucb-continues-reign-largest-drug-ad-spender-bimzelx-once-again-tops-ranks",
+   "source": "Fierce Pharma",
+   "published": "2026-11-11T12:45:22.097139+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
    "id": "35d2b1914631",
    "headline": "Amazon Web Services commits $100M to AI, cloud tech health initiatives over next 5 years",
    "summary": "The funds are part of the AWS Health Impact Initiative, a five-year program, announced Monday.",
@@ -953,6 +976,21 @@
    ]
   },
   {
+   "id": "30e99eefb4be",
+   "headline": "Natera and Incyte partner on Phase II colorectal cancer trial",
+   "summary": "The trial focuses on individuals with stage 2/3 colorectal cancer who have completed surgical resection and adjuvant chemotherapy.",
+   "url": "https://finnhub.io/api/news?id=5012bad4182c38a754f001bf95617456262e797d91ed965e89b45b0735ca7d2a",
+   "source": "Yahoo",
+   "published": "2026-11-11T11:19:31+00:00",
+   "tickers": [
+    "INCY"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "ec77710f35ce",
    "headline": "What iShares MSCI USA Min Vol Factor ETF (USMV) Bought: Microsoft Leads on Nov. 9",
    "summary": "The fund added $168.9 million in gross purchases, increasing 172 positions and trimming none, with Microsoft the largest buy at $2.9 million.",
@@ -975,6 +1013,7 @@
    "source": "Yahoo",
    "published": "2026-11-11T11:04:18+00:00",
    "tickers": [
+    "AMGN",
     "VRTX"
    ],
    "tag": "News",
@@ -991,11 +1030,42 @@
    "published": "2026-11-11T11:04:02+00:00",
    "tickers": [
     "ABBV",
-    "JNJ"
+    "JNJ",
+    "UNH"
    ],
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "db5991b56d33",
+   "headline": "Spdr Dow Jones Industrial Average ETF (DIA) Buys $40.3 Million More GS on Nov. 9",
+   "summary": "The fund added $392.3 million across all 30 of its positions, with Goldman Sachs its largest buy at $40.3 million.",
+   "url": "https://finnhub.io/api/news?id=e291a2e40ecca531a8186d11ff6133f96466e78aad37b7e85a70add0f8a176ab",
+   "source": "Yahoo",
+   "published": "2026-11-11T11:03:59+00:00",
+   "tickers": [
+    "AMGN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "e2e3e6217d9d",
+   "headline": "What iShares Russell 2000 Index Fund (IWM) Bought: Glaukos Leads on Nov. 9",
+   "summary": "The ETF added $393.0 million in net buys against $1.0 million sold, lifting 1,874 positions and trimming just one.",
+   "url": "https://finnhub.io/api/news?id=199975a0c0e40dae117a588f7c43f9bb8fd431f8e7bd6492218cdc57ee78387a",
+   "source": "Yahoo",
+   "published": "2026-11-11T11:03:55+00:00",
+   "tickers": [
+    "GKOS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
    ]
   },
   {
