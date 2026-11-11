@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-11T10:17:54.223645+00:00",
+ "updated": "2026-11-11T10:32:32.539793+00:00",
  "quotes": {
   "A": {
    "price": 177.88,
@@ -226,10 +226,6 @@
    "price": 20.41,
    "change_pct": -15.97
   },
-  "LFST": {
-   "price": 14.56,
-   "change_pct": -0.27
-  },
   "LH": {
    "price": 370.88,
    "change_pct": -0.26
@@ -321,6 +317,10 @@
   "ROIV": {
    "price": 41.19,
    "change_pct": 1.28
+  },
+  "RVMD": {
+   "price": 193.06,
+   "change_pct": -3.54
   }
  },
  "tickers": {
@@ -938,6 +938,47 @@
  },
  "stories": [
   {
+   "id": "8443cb7a4da9",
+   "headline": "Capricor, NextCure reveal recent layoffs as they gear up for approval decision, merger",
+   "summary": "Capricor and NextCure have shed light on recent rounds of layoffs, as the biotechs brace for a hoped-for drug approval and merger, respectively.",
+   "url": "https://www.fiercebiotech.com/biotech/capricor-nextcure-shed-light-recent-layoffs",
+   "source": "Fierce Biotech",
+   "published": "2026-11-11T10:30:24.542539+00:00",
+   "tickers": [],
+   "tag": "FDA",
+   "sectors": []
+  },
+  {
+   "id": "260e2c43b827",
+   "headline": "Veeva Systems (NYSE:VEEV) Combines Strong Growth With a High-Quality Technical Setup",
+   "summary": "Veeva Systems (VEEV) stands out on ChartMill\u2019s Strong Growth screen with solid fundamentals and a constructive chart setup that may signal a breakout.",
+   "url": "https://finnhub.io/api/news?id=3f5f404d06dc9bcd3c114c17c5f74a52ebcc426ed5f0472bda70ee2c327ee2ff",
+   "source": "ChartMill",
+   "published": "2026-11-11T09:50:36+00:00",
+   "tickers": [
+    "VEEV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
+   "id": "11a759c0624b",
+   "headline": "Ascendis Pharma (NASDAQ:ASND) Offers Strong Growth With a Quality Technical Setup",
+   "summary": "Ascendis Pharma (ASND) combines strong revenue growth with a constructive technical setup, relative strength, and a breakout-ready consolidation.",
+   "url": "https://finnhub.io/api/news?id=83e2c4639b02c51d8c8c819d40db5c1342b1609be2ecf6df3ab58cf3340d1bdf",
+   "source": "ChartMill",
+   "published": "2026-11-11T09:31:00+00:00",
+   "tickers": [
+    "ASND"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "1a8b35d7719d",
    "headline": "STAT+: MDCalc launches a \u2018rumble strip\u2019 for doctors using generative AI tools",
    "summary": "MDCalc, a medical reference tool site, is launching CrossCover, a tool meant to help clinicians trust the answers of medical AI chatbots.",
@@ -980,6 +1021,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "0a33e33aba65",
+   "headline": "Up 42% since January: Why Merck is defeating the patent cliff",
+   "summary": "Investing.com and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
+   "url": "https://finnhub.io/api/news?id=afc44335c82990f3f15efc9384ca2e288e325dd8752443db1f69810dc0522b82",
+   "source": "Yahoo",
+   "published": "2026-11-11T09:16:35+00:00",
+   "tickers": [
+    "BMY"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "b67defa14a19",
@@ -61976,21 +62032,6 @@
    "tag": "FDA",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "b2ed89f88a56",
-   "headline": "Mark Cuban Says AI Could 'Collapse' Big Healthcare Companies: 'The Cost of Healthcare\u2026 Would Drop Like a Rock'",
-   "summary": "Mark Cuban says AI could analyze healthcare contracts, expose costly terms, strengthen negotiations and ultimately slash U.S. healthcare costs.",
-   "url": "https://finnhub.io/api/news?id=e2c3cfcd53fa3b1007806cfcb85d949aac7c48aeecc1d154f181b41330586f50",
-   "source": "Benzinga",
-   "published": "2026-11-01T10:20:13+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "payers"
    ]
   }
  ]
