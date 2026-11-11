@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-11T02:02:48.362456+00:00",
+ "updated": "2026-11-11T02:17:31.767637+00:00",
  "quotes": {
   "A": {
    "price": 177.88,
@@ -146,9 +146,17 @@
    "price": 185.09,
    "change_pct": 1.64
   },
+  "EVH": {
+   "price": 4.8,
+   "change_pct": 1.91
+  },
   "EXEL": {
    "price": 70.58,
    "change_pct": -1.62
+  },
+  "GDRX": {
+   "price": 3.54,
+   "change_pct": -3.01
   },
   "GEHC": {
    "price": 83.65,
@@ -190,10 +198,6 @@
    "price": 438.06,
    "change_pct": 3.51
   },
-  "IART": {
-   "price": 14.53,
-   "change_pct": 1.11
-  },
   "ICLR": {
    "price": 204.63,
    "change_pct": -1.43
@@ -205,10 +209,6 @@
   "ILMN": {
    "price": 214.91,
    "change_pct": -2.66
-  },
-  "IMVT": {
-   "price": 35.71,
-   "change_pct": 1.59
   },
   "INCY": {
    "price": 120.3,
@@ -241,6 +241,10 @@
   "LEGN": {
    "price": 20.41,
    "change_pct": -15.97
+  },
+  "LFST": {
+   "price": 14.56,
+   "change_pct": -0.27
   },
   "LH": {
    "price": 370.88,
@@ -317,10 +321,6 @@
   "ROIV": {
    "price": 41.19,
    "change_pct": 1.28
-  },
-  "RVMD": {
-   "price": 193.06,
-   "change_pct": -3.54
   }
  },
  "tickers": {
@@ -1163,6 +1163,21 @@
    "tag": "Analyst",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "353910a37dbd",
+   "headline": "argenx (ENXTBR:ARGX) Stock May Look Fully Priced Despite Its $1.15B Deal",
+   "summary": "argenx has delivered strong share price gains in recent years, so the immediate question for investors is whether today\u2019s valuation can be explained by the company\u2019s earnings power. With sentiment also shaped by fresh clinical and deal\u2026",
+   "url": "https://finnhub.io/api/news?id=e4b3709865cc0a35f288e7183866b6b98c2d5777b7e934964dd4b0cee5ff0d7a",
+   "source": "Yahoo",
+   "published": "2026-11-10T22:15:51+00:00",
+   "tickers": [
+    "ARGX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -3342,6 +3357,7 @@
    "source": "Yahoo",
    "published": "2026-11-10T15:00:00+00:00",
    "tickers": [
+    "EVH",
     "HUM"
    ],
    "tag": "News",
@@ -3769,6 +3785,21 @@
    ]
   },
   {
+   "id": "f204fa0aaa5f",
+   "headline": "GoodRx stock rises on Google Cloud healthcare AI partnership",
+   "summary": "Investing.com -- Goodrx Holdings Inc (NASDAQ:GDRX) shares rose 4.7% in premarket trading Tuesday following the announcement of a partnership with Google Cloud's Gemini for healthcare platform.",
+   "url": "https://finnhub.io/api/news?id=45eb84bd31d81b94e6a0c53a3e7d74c44259711c16918c9417e204aaf5e1b36f",
+   "source": "Yahoo",
+   "published": "2026-11-10T13:58:39+00:00",
+   "tickers": [
+    "GDRX"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
+  {
    "id": "98633fb7eb3c",
    "headline": "Wall Street Analysts Think Revolution Medicines (RVMD) Could Surge 33.34%: Read This Before Placing a Bet",
    "summary": "The consensus price target hints at a 33.3% upside potential for Revolution Medicines (RVMD). While empirical research shows that this sought-after metric is hardly effective, an upward trend in earnings estimate revisions could mean that\u2026",
@@ -4091,6 +4122,21 @@
    "tag": "M&A",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "c91dcf8d9d76",
+   "headline": "GoodRx Brings Prescription Pricing Intelligence to Google Cloud\u2019s Gemini for Healthcare",
+   "summary": "SANTA MONICA, Calif., November 10, 2026--GoodRx (Nasdaq: GDRX), the trusted platform for prescription access and affordability in the U.S., today announced it is a launch partner for Google Cloud\u2019s Gemini for healthcare. Through the\u2026",
+   "url": "https://finnhub.io/api/news?id=c5273c8b8f867d3edcfae903041f11d475604fb45e62cf3fe6dfb950f185c3d8",
+   "source": "Yahoo",
+   "published": "2026-11-10T13:05:00+00:00",
+   "tickers": [
+    "GDRX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharmacy"
    ]
   },
   {
@@ -5111,6 +5157,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "2b909fd44440",
+   "headline": "LFST Q3 2026 deep dive: specialty services, clinician expansion, and EHR transition shape outlook",
+   "summary": "Behavioral health company LifeStance Health (NASDAQ:LFST) announced better-than-expected revenue in Q3 2026, with sales up 25.3% year on year to $455.9 million. On top of that, next quarter\u2019s revenue guidance ($456 million at the\u2026",
+   "url": "https://finnhub.io/api/news?id=838dae0dfc3391e6e7c991028f5c58278186965640c9839023ce05d9acc48432",
+   "source": "Yahoo",
+   "published": "2026-11-10T10:29:36+00:00",
+   "tickers": [
+    "LFST"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
+   ]
   },
   {
    "id": "20a9834d1b37",
@@ -6353,6 +6414,21 @@
    "tag": "Earnings",
    "sectors": [
     "healthit"
+   ]
+  },
+  {
+   "id": "78605ffc6d78",
+   "headline": "Immunovant, Inc. Q2 2027 Earnings Call Summary",
+   "summary": "Moby summary of Immunovant, Inc.'s Q2 2027 earnings call",
+   "url": "https://finnhub.io/api/news?id=192b2123cc61ae3399c8c3c7ef3eaaab4756a919aec175e9b38d96d2bc16af80",
+   "source": "Yahoo",
+   "published": "2026-11-10T01:55:37+00:00",
+   "tickers": [
+    "IMVT"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -61556,36 +61632,6 @@
    "tag": "Earnings",
    "sectors": [
     "tools"
-   ]
-  },
-  {
-   "id": "9603989208de",
-   "headline": "5% Above Fair Value? Tenet Healthcare (THC) On Raised 2026 Earnings Guidance",
-   "summary": "Tenet Healthcare (THC) moved into focus after management raised full year 2026 earnings guidance, following third quarter results that paired higher revenue with much stronger net income and earnings per share. The latest earnings news\u2026",
-   "url": "https://finnhub.io/api/news?id=2e3caca73ca4dd366bc8a5fa659f8502986cfb1ebd0a92f85ea395290a9fec54",
-   "source": "Yahoo",
-   "published": "2026-11-01T02:09:10+00:00",
-   "tickers": [
-    "THC"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "3def8d96eae9",
-   "headline": "Cencora (COR) Stock Still Looks Undervalued After Its 173% Run",
-   "summary": "Cencora has put up a powerful long term share price performance, yet the current US$330.84 price invites a sharper question. Are the cash flows behind the business strong enough, and predictable enough, to make that level look well\u2026",
-   "url": "https://finnhub.io/api/news?id=b4a71a661b44b3701ced2e30b43984a6e574ec44241b2230b118b145810060d3",
-   "source": "Yahoo",
-   "published": "2026-11-01T02:08:15+00:00",
-   "tickers": [
-    "COR"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharmacy"
    ]
   }
  ]
