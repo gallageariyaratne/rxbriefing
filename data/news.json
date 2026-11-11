@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-11T08:02:37.947001+00:00",
+ "updated": "2026-11-11T08:17:31.699996+00:00",
  "quotes": {
   "A": {
    "price": 177.88,
@@ -70,10 +70,6 @@
    "price": 62.8,
    "change_pct": 1.06
   },
-  "BNTX": {
-   "price": 87.21,
-   "change_pct": -0.34
-  },
   "BSX": {
    "price": 44.7,
    "change_pct": 1.54
@@ -89,10 +85,6 @@
   "CLDX": {
    "price": 30.65,
    "change_pct": -1.89
-  },
-  "CLOV": {
-   "price": 4.93,
-   "change_pct": 2.07
   },
   "CNC": {
    "price": 70.19,
@@ -321,6 +313,14 @@
   "RGEN": {
    "price": 173.98,
    "change_pct": -2.77
+  },
+  "RMD": {
+   "price": 234.11,
+   "change_pct": -0.69
+  },
+  "ROIV": {
+   "price": 41.19,
+   "change_pct": 1.28
   }
  },
  "tickers": {
@@ -937,6 +937,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "b67defa14a19",
+   "headline": "Cigna Group Targets $45 EPS by 2030 as Specialty Growth Offsets Pharmacy Headwinds",
+   "summary": "Cigna Group (NYSE:CI) expects its specialty business to account for a larger share of earnings by 2030, as the company pursues a long-term growth target and prepares for changes in its pharmacy benefit services business, Chief Financial\u2026",
+   "url": "https://finnhub.io/api/news?id=76e40854f16ca0e909869eabdc4a520647fbed41c7f144d3c6984e41ed554102",
+   "source": "Yahoo",
+   "published": "2026-11-11T07:14:31+00:00",
+   "tickers": [
+    "CI"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
   {
    "id": "b6e6836113cf",
    "headline": "Abbott nabs FDA approval, CE Mark for implantable cardioverter-defibrillator lead",
@@ -61919,21 +61934,6 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "b3705ef08bb6",
-   "headline": "Is Tenet Healthcare (THC) Still A Bargain Or Fully Priced?",
-   "summary": "Tenet Healthcare has turned into one of the stronger performers in the hospital sector over recent years, which naturally raises a sharper question for investors. Is the current share price still grounded in the company\u2019s earnings profile\u2026",
-   "url": "https://finnhub.io/api/news?id=349e3945e72d0740f701b3f16aff63359b3edf06d5395b317c2b1746b119211e",
-   "source": "Yahoo",
-   "published": "2026-11-01T08:13:18+00:00",
-   "tickers": [
-    "THC"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
    ]
   }
  ]
