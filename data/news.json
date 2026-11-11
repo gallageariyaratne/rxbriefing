@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-11T00:40:38.996593+00:00",
+ "updated": "2026-11-11T00:47:39.896250+00:00",
  "quotes": {
   "A": {
    "price": 177.88,
@@ -125,6 +125,10 @@
   "ELV": {
    "price": 429.65,
    "change_pct": 2.73
+  },
+  "ENSG": {
+   "price": 185.09,
+   "change_pct": 1.64
   },
   "EXEL": {
    "price": 70.58,
@@ -317,10 +321,6 @@
   "TECH": {
    "price": 72.82,
    "change_pct": -0.01
-  },
-  "TGTX": {
-   "price": 64.26,
-   "change_pct": 1.39
   }
  },
  "tickers": {
@@ -949,6 +949,21 @@
    "sectors": []
   },
   {
+   "id": "ef2016b27b92",
+   "headline": "U.S. News & World Report Names Over 100 Independently Operating Ensign Group Affiliates Among Best Nursing Homes for 2027",
+   "summary": "SAN JUAN CAPISTRANO, Calif., Nov. 10, 2026 (GLOBE NEWSWIRE) -- The Ensign Group, Inc. (Nasdaq: ENSG), which invests in facilities that provide skilled nursing and senior living services, physical, occupational and speech therapies, and\u2026",
+   "url": "https://finnhub.io/api/news?id=7cd3a125669fe9cb3d450d14aa52b428c3dc2e29e671844fcae1a381f8e2e82c",
+   "source": "Yahoo",
+   "published": "2026-11-10T23:40:00+00:00",
+   "tickers": [
+    "ENSG"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "92876c5268c5",
    "headline": "CVS Health (CVS) Stock Fair Value Edges Lower On Separation Risk And Analyst Caution",
    "summary": "The latest analyst work on CVS Health includes a modest trim to fair value, with the estimate moving from US$116.28 to US$113.76 as separation plans are factored into updated models. Recent research leans more cautious on valuation and\u2026",
@@ -1286,6 +1301,7 @@
    "source": "ChartMill",
    "published": "2026-11-10T20:06:07+00:00",
    "tickers": [
+    "HUM",
     "MRNA"
    ],
    "tag": "News",
@@ -1568,6 +1584,21 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "deb6c1c2a322",
+   "headline": "S&P 500 Most Active Stocks in Today's Session: SMCI, AT&T, Ford Lead Volume",
+   "summary": "S&P 500 most-active list led by Super Micro Computer, AT&T and Ford by volume; the ten stocks ranged from a 3.65% gain to a 3.81% decline.",
+   "url": "https://finnhub.io/api/news?id=f21ed546c52d7960595fde31e65328748e7d5dfb9b9a22e9d26f1190275c2277",
+   "source": "ChartMill",
+   "published": "2026-11-10T19:06:05+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -2101,6 +2132,21 @@
    ]
   },
   {
+   "id": "281f7c5d7e1b",
+   "headline": "S&P 500 Top Movers: Today's US Session Gainers and Losers",
+   "summary": "S&P 500 top movers for today's US session: Take-Two Interactive led gainers at 7.57%, while GE Vernova led decliners at 7.19%.",
+   "url": "https://finnhub.io/api/news?id=7298d9b65a4f1c1d8597bf187062a57b8ac62c13c137ce3889144a6764273edf",
+   "source": "ChartMill",
+   "published": "2026-11-10T17:36:03+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "6a7ded0b2cb2",
    "headline": "Novartis ianalumab two-year data at ACR show further improvements in Sj\u00f6gren\u2019s disease activity",
    "summary": "Patients continuing ianalumab saw further improvement in systemic disease activity through Week 108, with no new safety findings1 Nearly two-thirds of patients on continuous ianalumab reached low disease activity at Week 1081 Improvements\u2026",
@@ -2604,7 +2650,8 @@
    "source": "Yahoo",
    "published": "2026-11-10T15:31:28+00:00",
    "tickers": [
-    "HIMS"
+    "HIMS",
+    "UNH"
    ],
    "tag": "Financing",
    "sectors": [
