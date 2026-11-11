@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-11T01:47:37.693767+00:00",
+ "updated": "2026-11-11T02:02:48.362456+00:00",
  "quotes": {
   "A": {
    "price": 177.88,
@@ -37,6 +37,10 @@
   "AMGN": {
    "price": 465.23,
    "change_pct": 0
+  },
+  "AMWL": {
+   "price": 12.02,
+   "change_pct": -3.53
   },
   "ARGX": {
    "price": 971.55,
@@ -250,6 +254,10 @@
    "price": 1082.59,
    "change_pct": 2.19
   },
+  "MDGL": {
+   "price": 432.6,
+   "change_pct": -0.04
+  },
   "MDT": {
    "price": 101.59,
    "change_pct": -1.17
@@ -313,14 +321,6 @@
   "RVMD": {
    "price": 193.06,
    "change_pct": -3.54
-  },
-  "SDGR": {
-   "price": 32.41,
-   "change_pct": -2.94
-  },
-  "SMMT": {
-   "price": 17.83,
-   "change_pct": -0.06
   }
  },
  "tickers": {
@@ -938,6 +938,36 @@
  },
  "stories": [
   {
+   "id": "3e13de9e40d7",
+   "headline": "Hims & Hers (HIMS) Stock Price Faces Q3 Results Margin Reckoning",
+   "summary": "Hims & Hers Health just watched its stock get hit hard. The shares closed at US$22.94 before the Q3 2026 report and now trade around US$19.13, a drop of about 17% as investors react to the latest numbers. The selloff focuses on a fresh\u2026",
+   "url": "https://finnhub.io/api/news?id=5c6e1ef7178485b80dbc7a69165103be74f76b23cd8f307e407d56f972a3cbac",
+   "source": "Yahoo",
+   "published": "2026-11-11T01:10:02+00:00",
+   "tickers": [
+    "HIMS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
+   "id": "0d6394ab9270",
+   "headline": "Recursion Pharmaceuticals Inc (RXRX) Q3 2026 Earnings Call Highlights: Durable FAP Data, Early ...",
+   "summary": "Recursion Pharmaceuticals Inc (RXRX) showcased durable REC-481 polyp reductions, early REC-1245 activity, over $535 million in partnership inflows and a lowered expense outlook.",
+   "url": "https://finnhub.io/api/news?id=3d4e7caca7854df3600c1c78b973e2319926d3a424e4d9c535c7107eb755f2ad",
+   "source": "Yahoo",
+   "published": "2026-11-11T01:07:35+00:00",
+   "tickers": [
+    "SNY"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "d17ada8b4fec",
    "headline": "Two Neighbors Will Start Leqembi, Listed at $28,270 a Year. One With Medigap Plan G Will Owe $0 in Coinsurance After the Part B Deductible, While the Other Will Owe 20% of Medicare-Approved Infusion Costs",
    "summary": "Two neighbors get the same Alzheimer's diagnosis and the same prescription, yet only one can count on a manageable bill. A missed registry rule and a closed enrollment window could decide who pays, and the clock runs out December 7.",
@@ -962,6 +992,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "82c5e36589bb",
+   "headline": "Should You Buy Zoetis Stock At This Price?",
+   "summary": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://finnhub.io/api/news?id=583bd6855cde283c0d408878c96fba9a4e504f9dd9af2782f15f9cd472613b71",
+   "source": "Yahoo",
+   "published": "2026-11-11T00:27:17+00:00",
+   "tickers": [
+    "IDXX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
   },
   {
    "id": "7c8106ce2e26",
@@ -1106,6 +1151,21 @@
    "sectors": []
   },
   {
+   "id": "bb5d79208382",
+   "headline": "Sanofi (SNY) Is Planning for a Patent Loss, Here\u2019s Where Bulls Still See Opportunity",
+   "summary": "We just published a list of the 10 Stocks Analysts Just Upgraded and Sanofi (NASDAQ:SNY) ranked 8th on this list. Wall Street spent last Thursday reminding investors how quickly a favorite theme can turn. Worries that Democratic midterm\u2026",
+   "url": "https://finnhub.io/api/news?id=c075c5c3f641e3030c1422ffe686e7b8d5376c83fcd93b42b818c4372cd485d0",
+   "source": "Yahoo",
+   "published": "2026-11-10T22:22:28+00:00",
+   "tickers": [
+    "SNY"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "4ce875c8a46d",
    "headline": "Positive Medicaid signals, open enrollment trends: Recapping major payers' Q3 results",
    "summary": "While medical cost trend remains a pressure point for health insurers, leading companies cited some positive trends, too, heading into the final months of 2026.",
@@ -1124,7 +1184,8 @@
    "source": "Yahoo",
    "published": "2026-11-10T22:12:53+00:00",
    "tickers": [
-    "NVS"
+    "NVS",
+    "TGTX"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -1144,6 +1205,21 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "c08642de5a89",
+   "headline": "Is Earnings Beat Altering The Investment Case For TG Therapeutics (TGTX)?",
+   "summary": "TG Therapeutics reported third quarter 2026 revenue of US$259.94 million and net income of US$55.46 million, and raised full year 2026 global revenue guidance to about US$1b. The mix of stronger top line performance and lower earnings per\u2026",
+   "url": "https://finnhub.io/api/news?id=f21c12854f8f6eb5b04534e98fd84cfb804ea8484de1933a0baefe518dc3a51f",
+   "source": "Yahoo",
+   "published": "2026-11-10T22:11:56+00:00",
+   "tickers": [
+    "TGTX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -2131,7 +2207,8 @@
    "source": "Yahoo",
    "published": "2026-11-10T18:15:00+00:00",
    "tickers": [
-    "HALO"
+    "HALO",
+    "TGTX"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -3608,7 +3685,8 @@
    "source": "Yahoo",
    "published": "2026-11-10T14:03:00+00:00",
    "tickers": [
-    "HALO"
+    "HALO",
+    "TGTX"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -3691,6 +3769,36 @@
    ]
   },
   {
+   "id": "98633fb7eb3c",
+   "headline": "Wall Street Analysts Think Revolution Medicines (RVMD) Could Surge 33.34%: Read This Before Placing a Bet",
+   "summary": "The consensus price target hints at a 33.3% upside potential for Revolution Medicines (RVMD). While empirical research shows that this sought-after metric is hardly effective, an upward trend in earnings estimate revisions could mean that\u2026",
+   "url": "https://finnhub.io/api/news?id=ec0e9a1e93297f914747598a18cc709c7bcb821a848ea8795f8c46838ad36038",
+   "source": "Yahoo",
+   "published": "2026-11-10T13:55:03+00:00",
+   "tickers": [
+    "RVMD"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "6bf2b3030432",
+   "headline": "American Well (AMWL) Could Find a Support Soon, Here's Why You Should Buy the Stock Now",
+   "summary": "American Well (AMWL) witnesses a hammer chart pattern, indicating support found by the stock after losing some value lately. This coupled with an upward trend in earnings estimate revisions could mean a trend reversal for the stock in the\u2026",
+   "url": "https://finnhub.io/api/news?id=616b85099be320bc325dd18e618a27077cf093cac2ad4da5624abe9e2ef8c3b9",
+   "source": "Yahoo",
+   "published": "2026-11-10T13:55:02+00:00",
+   "tickers": [
+    "AMWL"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "d6d7aa024bfe",
    "headline": "3 Biotech Stocks That Actually Pay Dividends and Keep Raising Them",
    "summary": "Biotech usually torches cash and dilutes shareholders to fund the next trial. Three drugmakers flip that script, and the one with the smallest yield may be hiding the sturdiest payout of all. Coverage, not yield, tells the real story.",
@@ -3699,7 +3807,8 @@
    "published": "2026-11-10T13:47:07+00:00",
    "tickers": [
     "AMGN",
-    "REGN"
+    "REGN",
+    "SNY"
    ],
    "tag": "News",
    "sectors": [
@@ -3842,6 +3951,21 @@
    ]
   },
   {
+   "id": "56b8d054a3c1",
+   "headline": "CRMD to Acquire HRTX Assets for $223M Upfront to Expand Portfolio",
+   "summary": "CorMedix is set to acquire HRTX's commercial assets for $223 million upfront, adding four products, expanding its hospital reach and targeting significant cost synergies.",
+   "url": "https://finnhub.io/api/news?id=6fa7ef68e943bbc93e86ecb9334a20d868a358d2946cdb3d5e85f2c399c0e5e6",
+   "source": "Yahoo",
+   "published": "2026-11-10T13:17:00+00:00",
+   "tickers": [
+    "TGTX"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "187dbcaf23a4",
    "headline": "Vertex lays off 78 Crinetics staffers amid $10B integration",
    "summary": "Vertex has decided to lay off 78 employees at Crinetics Pharmaceuticals following its $10 billion acquisition of the endocrine disease drug developer.",
@@ -3880,6 +4004,22 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "7fef86b3f3df",
+   "headline": "4 Commercial-Stage Biotechs Poised for Sustained Revenue Growth",
+   "summary": "TGTX, BCRX, INSM and MDGL are expanding product sales through rising demand, broader patient access and new market opportunities.",
+   "url": "https://finnhub.io/api/news?id=541dbe469dc3a0d7a4ed4ce543bad807371706d13f215dd4dbc49e347f574e47",
+   "source": "Yahoo",
+   "published": "2026-11-10T13:13:00+00:00",
+   "tickers": [
+    "MDGL",
+    "TGTX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -3966,6 +4106,21 @@
    "tag": "News",
    "sectors": [
     "healthit"
+   ]
+  },
+  {
+   "id": "8181423f49e0",
+   "headline": "NVAX Q3 2026 deep dive: Sanofi milestone and cost controls shape outlook",
+   "summary": "Vaccine biotechnology company Novavax (NASDAQ:NVAX) reported revenue ahead of Wall Street\u2019s expectations in Q3 2026, but sales fell by 3% year on year to $68.3 million. The company\u2019s full-year revenue guidance of $400 million at the\u2026",
+   "url": "https://finnhub.io/api/news?id=18b45cc95eaa3a8475368cc4502c8af064ce3a2c59cc77f32ef48230e9e2496e",
+   "source": "Yahoo",
+   "published": "2026-11-10T13:01:36+00:00",
+   "tickers": [
+    "SNY"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -4187,6 +4342,36 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "2bc98e38f3bc",
+   "headline": "Amwell Will Support New Federally Funded Research to Improve Engagement and Outcomes in Mental Health Care for Veterans and Service Members",
+   "summary": "Two major federal awards totaling nearly $16.8 million will support research over a period of up to five years, including research examining how SilverCloud by Amwell, the digital cognitive behavioral therapy program on the Amwell\u2026",
+   "url": "https://finnhub.io/api/news?id=3b32c841e70d5c74d630a3bd2d053f0a99917b7e47cb3914188842f61666d7e6",
+   "source": "Yahoo",
+   "published": "2026-11-10T13:00:00+00:00",
+   "tickers": [
+    "AMWL"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
+   "id": "c9cc13ddc8e7",
+   "headline": "American Well (AMWL) Shows Fast-paced Momentum But Is Still a Bargain Stock",
+   "summary": "American Well (AMWL) could be a great choice for investors looking to buy stocks that have gained strong momentum recently but are still trading at reasonable prices. It is one of the several stocks that made it through our 'Fast-Paced\u2026",
+   "url": "https://finnhub.io/api/news?id=411a0d5f8bec8dba74be7a21d02d904ae1f98e8b55f9e650339d8064f4e58068",
+   "source": "Yahoo",
+   "published": "2026-11-10T12:55:01+00:00",
+   "tickers": [
+    "AMWL"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "healthit"
    ]
   },
   {
@@ -4485,7 +4670,8 @@
    "source": "Yahoo",
    "published": "2026-11-10T12:00:00+00:00",
    "tickers": [
-    "INCY"
+    "INCY",
+    "NTRA"
    ],
    "tag": "Clinical",
    "sectors": [
@@ -4999,6 +5185,21 @@
     "LEGN"
    ],
    "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "a43d595b7c98",
+   "headline": "Company News for Nov 10, 2026",
+   "summary": "Companies In The Article Are:KKR,NRG,TGTX,AMG",
+   "url": "https://finnhub.io/api/news?id=f247a8413f2a406b175f2eff0e74b93f97b0cc9d9c17b16d27dcefcd0d2064ad",
+   "source": "Yahoo",
+   "published": "2026-11-10T10:02:00+00:00",
+   "tickers": [
+    "TGTX"
+   ],
+   "tag": "News",
    "sectors": [
     "biotech"
    ]
@@ -6002,6 +6203,21 @@
    "published": "2026-11-10T03:11:54+00:00",
    "tickers": [
     "UTHR"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "2a23e3a59e9d",
+   "headline": "TG Therapeutics, Inc. Q3 2026 Earnings Call Summary",
+   "summary": "Moby summary of TG Therapeutics, Inc.'s Q3 2026 earnings call",
+   "url": "https://finnhub.io/api/news?id=6e41d5f1ab165be4fdde32f2b919901ded33dbbbb5c7be97e0a4a070d1dae1ec",
+   "source": "Yahoo",
+   "published": "2026-11-10T03:11:53+00:00",
+   "tickers": [
+    "TGTX"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -61370,21 +61586,6 @@
    "tag": "News",
    "sectors": [
     "pharmacy"
-   ]
-  },
-  {
-   "id": "bba93d946e9b",
-   "headline": "Eli Lilly stock surges as cheaper drugs unlock a bigger market",
-   "summary": "Lilly shares hit a record as weight-loss drugs became more accessible.",
-   "url": "https://finnhub.io/api/news?id=d628ed74b4e21ac4e5ff9e482f1a23de2329d342ad27a276a9ad6f838c3f1077",
-   "source": "Yahoo",
-   "published": "2026-11-01T01:47:00+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
