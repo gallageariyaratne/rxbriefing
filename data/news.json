@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-10T23:47:38.584485+00:00",
+ "updated": "2026-11-11T00:02:47.190501+00:00",
  "quotes": {
   "A": {
    "price": 177.88,
@@ -198,6 +198,10 @@
    "price": 275.15,
    "change_pct": -1.32
   },
+  "IRTC": {
+   "price": 86.06,
+   "change_pct": -3.01
+  },
   "ISRG": {
    "price": 450.04,
    "change_pct": -2.28
@@ -298,6 +302,10 @@
    "price": 48.23,
    "change_pct": 0.23
   },
+  "SRPT": {
+   "price": 16.42,
+   "change_pct": -4.76
+  },
   "SYK": {
    "price": 324.29,
    "change_pct": -0.44
@@ -313,14 +321,6 @@
   "THC": {
    "price": 290.27,
    "change_pct": 0.44
-  },
-  "TMDX": {
-   "price": 90.94,
-   "change_pct": -3.03
-  },
-  "TMO": {
-   "price": 718.2,
-   "change_pct": -0.48
   }
  },
  "tickers": {
@@ -938,6 +938,17 @@
  },
  "stories": [
   {
+   "id": "d208e44263ff",
+   "headline": "STAT+: Democrats take new step toward investigating Trump\u2019s drug pricing deals",
+   "summary": "Incoming Democratic chairs of key committees have taken a step toward investigating MFN drug pricing agreements between drugmakers and the Trump administration.",
+   "url": "https://www.statnews.com/2026/11/10/democrats-investigate-most-favored-nation-deals-letters-drugmakers/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-11-10T23:55:00+00:00",
+   "tickers": [],
+   "tag": "Policy",
+   "sectors": []
+  },
+  {
    "id": "50c1da5da67f",
    "headline": "Lilly\u2019s Foundayo marketing push keeps pace with another celeb partner in comedian Leanne Morgan",
    "summary": "The new celebrity partnership is the second for Lilly's oral GLP-1 Foundayo following its recent partnership with lifestyle guru Martha Stewart.",
@@ -1235,6 +1246,21 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "c1a365fa17a9",
+   "headline": "S&P 500 Top Gainers and Losers for Today's Session",
+   "summary": "S&P 500 market movers for today's session: Charter Communications led gainers at 9.68%, while Carvana led losers at 6.32%.",
+   "url": "https://finnhub.io/api/news?id=6fce76dd7876e030d37b388ebacf02dc819d615b61dee883f327a61f69708576",
+   "source": "ChartMill",
+   "published": "2026-11-10T20:06:07+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1634,6 +1660,21 @@
    ]
   },
   {
+   "id": "299e4ca85894",
+   "headline": "Sarepta Therapeutics, Inc. 2026 Q3 - Results - Earnings Call Presentation",
+   "summary": "2026-11-10. The following slide deck was published by Sarepta Therapeutics, Inc.",
+   "url": "https://finnhub.io/api/news?id=00840a0df24bac355708ebd55f7306e6cc6997b190d5e7f0903535e956c2096a",
+   "source": "SeekingAlpha",
+   "published": "2026-11-10T18:35:12+00:00",
+   "tickers": [
+    "SRPT"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "05aa4619ec81",
    "headline": "INSP Is Up 12.1% in Three Months: Can Its Rally Continue From Here?",
    "summary": "Inspire Medical shares have rallied 12.1% in three months, but reimbursement hurdles and weak revenues raise questions about whether the gains can continue.",
@@ -1769,6 +1810,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "2d77306b6bd8",
+   "headline": "iRhythm Holdings, Inc. 2026 Q3 - Results - Earnings Call Presentation",
+   "summary": "2026-11-10. The following slide deck was published by iRhythm Holdings, Inc.",
+   "url": "https://finnhub.io/api/news?id=926138c2296c29b6be63ce8b8c792b6c33254a42a2bd5506bc5c6834f15f6637",
+   "source": "SeekingAlpha",
+   "published": "2026-11-10T18:09:02+00:00",
+   "tickers": [
+    "IRTC"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -2387,6 +2443,21 @@
    "tag": "Earnings",
    "sectors": [
     "healthit"
+   ]
+  },
+  {
+   "id": "7fc1ce298833",
+   "headline": "S&P 500 Gap-Down Stocks: Nov. 10, 2026 Session",
+   "summary": "S&P 500 gap-down stocks on Nov. 10, 2026, including GEV, APP, LEN, DHI, BBY, MRNA, PHM, NVDA, FSLR and ETN, with session moves and gap details.",
+   "url": "https://finnhub.io/api/news?id=4b6e7e9ee293a5892be5922c2159d3b2fd8682a7b7465976d0cf38d9b250a668",
+   "source": "ChartMill",
+   "published": "2026-11-10T15:36:13+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
