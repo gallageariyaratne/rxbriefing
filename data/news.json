@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-11T12:47:36.328241+00:00",
+ "updated": "2026-11-11T13:02:54.581999+00:00",
  "quotes": {
   "A": {
    "price": 177.88,
@@ -17,10 +17,6 @@
   "ALGN": {
    "price": 174.26,
    "change_pct": 0
-  },
-  "ALHC": {
-   "price": 7.67,
-   "change_pct": 5.5
   },
   "ALNY": {
    "price": 151.64,
@@ -158,10 +154,6 @@
    "price": 102.98,
    "change_pct": 0.06
   },
-  "HCA": {
-   "price": 504.42,
-   "change_pct": -0.09
-  },
   "HIMS": {
    "price": 19.13,
    "change_pct": -16.61
@@ -206,10 +198,6 @@
    "price": 280.78,
    "change_pct": -0.47
   },
-  "KRYS": {
-   "price": 306.5,
-   "change_pct": 1.14
-  },
   "LEGN": {
    "price": 20.41,
    "change_pct": -15.97
@@ -249,10 +237,6 @@
   "NBIX": {
    "price": 169.14,
    "change_pct": 0.17
-  },
-  "NTLA": {
-   "price": 11.17,
-   "change_pct": -7.76
   },
   "NVO": {
    "price": 40.7,
@@ -310,10 +294,6 @@
    "price": 3.55,
    "change_pct": -6.7
   },
-  "SDGR": {
-   "price": 32.41,
-   "change_pct": -2.94
-  },
   "SMMT": {
    "price": 17.83,
    "change_pct": -0.06
@@ -321,6 +301,26 @@
   "SNY": {
    "price": 48.23,
    "change_pct": 0.23
+  },
+  "SRPT": {
+   "price": 16.42,
+   "change_pct": -4.76
+  },
+  "SYK": {
+   "price": 324.29,
+   "change_pct": -0.44
+  },
+  "TDOC": {
+   "price": 8.94,
+   "change_pct": -0.45
+  },
+  "TEM": {
+   "price": 80.54,
+   "change_pct": -4.62
+  },
+  "TGTX": {
+   "price": 64.26,
+   "change_pct": 1.39
   }
  },
  "tickers": {
@@ -938,6 +938,17 @@
  },
  "stories": [
   {
+   "id": "c2cd9f3c4fb8",
+   "headline": "The U.S. may soon lose measles elimination status",
+   "summary": "A regional WHO body will hold a four-day meeting determining whether the U.S. has maintained measles elimination. All signs point to no:",
+   "url": "https://www.statnews.com/2026/11/11/health-news-us-may-soon-lose-measles-elimination-status/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-11-11T12:56:13+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
    "id": "233c6e7d3173",
    "headline": "UCB continues reign as largest drug ad spender as Bimzelx once again tops the ranks",
    "summary": "UCB\u2019s immunology drug Bimzelx has topped the pharma drug ad spending charts for the third month in a row.",
@@ -960,6 +971,21 @@
    "sectors": []
   },
   {
+   "id": "957d0450b663",
+   "headline": "KeyBanc Waits for a Growth Inflection at Hims & Hers",
+   "summary": "The firm kept a Sector Weight rating, saying it wants more signs of a growth inflection",
+   "url": "https://finnhub.io/api/news?id=32bf447a75ea658d90aff4fe2e01a956070f69cda6a71ed5ed5958ec1358d0c0",
+   "source": "Yahoo",
+   "published": "2026-11-11T11:40:37+00:00",
+   "tickers": [
+    "HIMS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "566163b746b0",
    "headline": "Healthcare Just Hit a Record Lead Over Tech. 3 Things Could Shrink It",
    "summary": "Healthcare stocks lead tech by 35.6 points over six months, the widest gap in 25 years, as investors cut AI exposure.",
@@ -968,7 +994,8 @@
    "published": "2026-11-11T11:20:53+00:00",
    "tickers": [
     "ABBV",
-    "JNJ"
+    "JNJ",
+    "LLY"
    ],
    "tag": "Health AI",
    "sectors": [
@@ -1014,6 +1041,8 @@
    "published": "2026-11-11T11:04:18+00:00",
    "tickers": [
     "AMGN",
+    "GILD",
+    "MRNA",
     "VRTX"
    ],
    "tag": "News",
@@ -1031,6 +1060,7 @@
    "tickers": [
     "ABBV",
     "JNJ",
+    "LLY",
     "UNH"
    ],
    "tag": "News",
@@ -1066,6 +1096,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "ef3a10149e75",
+   "headline": "Lilly-backed Oyster Therapeutics raises $60m for neurological degraders",
+   "summary": "The proceeds will help advance the company\u2019s lead programme that centres on an oral degrader directed at tau.",
+   "url": "https://finnhub.io/api/news?id=40797ea57f0900a2639c7c4e7ff3d5313fef88c6d260516fe7d6e7211d2abeb8",
+   "source": "Yahoo",
+   "published": "2026-11-11T10:39:49+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "Financing",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -62251,21 +62296,6 @@
    "published": "2026-11-01T13:13:06+00:00",
    "tickers": [
     "NVS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "0dbf6732aee0",
-   "headline": "Data Show Positive Survival and Patient Outcomes with Best-Practice Impella Support in HRPCI, in Contrast to CHIP-BCIS3 Study Results",
-   "summary": "SAN DIEGO, November 01, 2026--Johnson & Johnson announced results from three clinical analyses being presented during the Transcatheter Cardiovascular Therapeutics annual scientific symposium (TCT 2026) that report positive survival and\u2026",
-   "url": "https://finnhub.io/api/news?id=5c6d7c45940208e5dc7b5b95b3c5bde10ffd80bf66a5e6d4720535e658046b58",
-   "source": "Yahoo",
-   "published": "2026-11-01T13:00:00+00:00",
-   "tickers": [
-    "JNJ"
    ],
    "tag": "News",
    "sectors": [
