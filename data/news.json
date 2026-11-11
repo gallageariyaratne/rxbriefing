@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-11T02:17:31.767637+00:00",
+ "updated": "2026-11-11T02:32:47.932558+00:00",
  "quotes": {
   "A": {
    "price": 177.88,
@@ -310,6 +310,10 @@
    "price": 148.06,
    "change_pct": -1.17
   },
+  "QGEN": {
+   "price": 50.51,
+   "change_pct": -0.08
+  },
   "REGN": {
    "price": 916.06,
    "change_pct": -0.42
@@ -317,10 +321,6 @@
   "RMD": {
    "price": 234.11,
    "change_pct": -0.69
-  },
-  "ROIV": {
-   "price": 41.19,
-   "change_pct": 1.28
   }
  },
  "tickers": {
@@ -3220,6 +3220,7 @@
    "published": "2026-11-10T15:09:00+00:00",
    "tickers": [
     "A",
+    "QGEN",
     "TMO"
    ],
    "tag": "News",
@@ -3267,6 +3268,7 @@
    "tickers": [
     "DHR",
     "ILMN",
+    "QGEN",
     "TMO"
    ],
    "tag": "Earnings",
@@ -3553,6 +3555,7 @@
    "tickers": [
     "A",
     "ILMN",
+    "QGEN",
     "TMO"
    ],
    "tag": "News",
@@ -3595,7 +3598,8 @@
    "source": "Yahoo",
    "published": "2026-11-10T14:19:00+00:00",
    "tickers": [
-    "NVS"
+    "NVS",
+    "QGEN"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -3611,6 +3615,7 @@
    "published": "2026-11-10T14:14:00+00:00",
    "tickers": [
     "ILMN",
+    "QGEN",
     "TMO"
    ],
    "tag": "News",
@@ -61617,21 +61622,6 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "5792ccb6952e",
-   "headline": "RGEN Q3 deep dive: margin headwinds and BioLife integration shape improved full-year outlook",
-   "summary": "Biopharma manufacturing company Repligen Corporation (NASDAQ:RGEN) reported revenue ahead of Wall Street\u2019s expectations in Q3 2026, with sales up 10.9% year on year to $209.3 million. The company\u2019s full-year revenue guidance of $848\u2026",
-   "url": "https://finnhub.io/api/news?id=87fc2d0f33cd5fd5de91e11dcd94e82bb2e610b3aefd78951685b011a01eb60e",
-   "source": "Yahoo",
-   "published": "2026-11-01T02:19:00+00:00",
-   "tickers": [
-    "RGEN"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
    ]
   }
  ]
