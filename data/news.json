@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-11T02:32:47.932558+00:00",
+ "updated": "2026-11-11T02:47:29.427942+00:00",
  "quotes": {
   "A": {
    "price": 177.88,
@@ -93,6 +93,10 @@
   "CI": {
    "price": 303.13,
    "change_pct": 2.55
+  },
+  "CLDX": {
+   "price": 30.65,
+   "change_pct": -1.89
   },
   "CLOV": {
    "price": 4.93,
@@ -214,6 +218,10 @@
    "price": 120.3,
    "change_pct": -1.3
   },
+  "INSM": {
+   "price": 119.49,
+   "change_pct": 2.92
+  },
   "IONS": {
    "price": 28.19,
    "change_pct": -9.06
@@ -298,6 +306,10 @@
    "price": 163.26,
    "change_pct": -0.26
   },
+  "OMCL": {
+   "price": 35.9,
+   "change_pct": -3.88
+  },
   "OSCR": {
    "price": 33.47,
    "change_pct": 4.14
@@ -309,18 +321,6 @@
   "PODD": {
    "price": 148.06,
    "change_pct": -1.17
-  },
-  "QGEN": {
-   "price": 50.51,
-   "change_pct": -0.08
-  },
-  "REGN": {
-   "price": 916.06,
-   "change_pct": -0.42
-  },
-  "RMD": {
-   "price": 234.11,
-   "change_pct": -0.69
   }
  },
  "tickers": {
@@ -938,6 +938,21 @@
  },
  "stories": [
   {
+   "id": "ff2dd164ba9d",
+   "headline": "3 Magnificent Dividend Stocks Yielding 4% or More to Buy in November",
+   "summary": "These three blue chip dividend stocks offer higher yields while standing out in terms of dividend coverage and growth.",
+   "url": "https://finnhub.io/api/news?id=7dde64909cfb43722a991a075715d1a58fe995dd034910306f3de64cb4ea7934",
+   "source": "Yahoo",
+   "published": "2026-11-11T01:50:00+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "3e13de9e40d7",
    "headline": "Hims & Hers (HIMS) Stock Price Faces Q3 Results Margin Reckoning",
    "summary": "Hims & Hers Health just watched its stock get hit hard. The shares closed at US$22.94 before the Q3 2026 report and now trade around US$19.13, a drop of about 17% as investors react to the latest numbers. The selloff focuses on a fresh\u2026",
@@ -1001,9 +1016,25 @@
    "source": "Yahoo",
    "published": "2026-11-11T00:27:17+00:00",
    "tickers": [
-    "IDXX"
+    "IDXX",
+    "ZTS"
    ],
    "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "5c6ae3a67473",
+   "headline": "Intuitive Surgical (ISRG) Stock Fair Value Edges Higher After Mixed Q3 Analyst Revisions",
+   "summary": "Intuitive Surgical is back on many investors\u2019 radar after a fresh tweak to its fair value estimate, which has shifted from about US$476.34 to roughly US$486.57 per share. That change sits against a mixed analyst narrative, with recent Q3\u2026",
+   "url": "https://finnhub.io/api/news?id=cb74e74a205c6aec29053fed3f85c9664fe76688c4518cdb953945f3e7de68e0",
+   "source": "Yahoo",
+   "published": "2026-11-11T00:23:22+00:00",
+   "tickers": [
+    "ISRG"
+   ],
+   "tag": "Earnings",
    "sectors": [
     "medtech"
    ]
@@ -1036,6 +1067,21 @@
    "tag": "Clinical",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "4032510a8719",
+   "headline": "Illumina Bets on Clinical Demand for Growth as Research Funding Uncertainty Persists",
+   "summary": "Illumina (NASDAQ:ILMN) expects clinical demand and sequencing consumables to remain central to its growth strategy, even as research customers continue to face uncertainty over grant funding, executives said at a UBS discussion. CEO Jacob\u2026",
+   "url": "https://finnhub.io/api/news?id=69a295be13dba1d6f177c369b02c705291a04a0aaec4289ab6c85e9371af3946",
+   "source": "Yahoo",
+   "published": "2026-11-11T00:14:39+00:00",
+   "tickers": [
+    "ILMN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -1708,6 +1754,21 @@
    ]
   },
   {
+   "id": "3a094005ebde",
+   "headline": "3 Reasons Why Growth Investors Shouldn't Overlook Privia Health (PRVA)",
+   "summary": "Privia Health (PRVA) could produce exceptional returns because of its solid growth attributes.",
+   "url": "https://finnhub.io/api/news?id=bbd20c6261f7a5397c439a74b1c6f0759924e4713754cae4183b1b84be5ab287",
+   "source": "Yahoo",
+   "published": "2026-11-10T19:42:24+00:00",
+   "tickers": [
+    "PRVA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "dc0274b39c1f",
    "headline": "VTRS or DHR: Which Is the Better Value Stock Right Now?",
    "summary": "VTRS vs. DHR: Which Stock Is the Better Value Option?",
@@ -1968,7 +2029,8 @@
    "published": "2026-11-10T18:52:32+00:00",
    "tickers": [
     "HIMS",
-    "LLY"
+    "LLY",
+    "TDOC"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -2473,6 +2535,36 @@
    "tag": "Earnings",
    "sectors": [
     "healthai"
+   ]
+  },
+  {
+   "id": "561407200442",
+   "headline": "Buy These 3 Stocks with Broker Rating Upgrades for Big Gains",
+   "summary": "Cinemark Holdings, Diamondback Energy and Omnicell stand out with recent broker rating upgrades and strong projected earnings growth for 2026.",
+   "url": "https://finnhub.io/api/news?id=5a5f2eb612755ae5a1177e9c735e09a3289e718d052081471942abdb45fd9249",
+   "source": "Yahoo",
+   "published": "2026-11-10T17:41:00+00:00",
+   "tickers": [
+    "OMCL"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
+   "id": "490cf195c7ff",
+   "headline": "4 Undervalued Stocks That Could Benefit from a Wall Street Rally",
+   "summary": "Wall Street's rally puts undervalued stocks in focus. AVT, OMCL, HPE and LCUT stand out for attractive valuations, earnings growth prospects and upside potential.",
+   "url": "https://finnhub.io/api/news?id=acc1b2d75868d7935e66e532e982d9a861d5e8c9d26624dd127c1ac7ad2b7436",
+   "source": "Yahoo",
+   "published": "2026-11-10T17:38:00+00:00",
+   "tickers": [
+    "OMCL"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
    ]
   },
   {
@@ -3654,6 +3746,21 @@
    ]
   },
   {
+   "id": "159dc2efee37",
+   "headline": "Guggenheim reiterates this biotech stock as a top pick",
+   "summary": "Investing.com -- Guggenheim has reiterated Celldex Therapeutics as its top pick in the biotechnology sector, citing strong Phase III data and expanding pipeline opportunities for the company\u2019s lead drug candidate barzolvolimab.",
+   "url": "https://finnhub.io/api/news?id=8c8a2b2c0e9503bb8e52a5872ef1b12d87c891cd92d24c40da97054a7e25fa71",
+   "source": "Yahoo",
+   "published": "2026-11-10T14:10:07+00:00",
+   "tickers": [
+    "CLDX"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "789475652f36",
    "headline": "Atman Health forms Strategic Advisory Board as It builds AI-Driven Autonomous Cardiovascular Care",
    "summary": "Former FDA Commissioner Dr. Robert Califf, CVS Health's Dr. David Fairchild and the Hasso Plattner Institute's Dr. Ariel Stern will help steer Atman through FDA to fully autonomous deployment in clinical care BOSTON, Nov. 10, 2026\u2026",
@@ -3817,6 +3924,36 @@
    "tag": "Earnings",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "c78b880dd928",
+   "headline": "Wall Street Analysts See a 62.33% Upside in Summit Therapeutics (SMMT): Can the Stock Really Move This High?",
+   "summary": "The average of price targets set by Wall Street analysts indicates a potential upside of 62.3% in Summit Therapeutics (SMMT). While the effectiveness of this highly sought-after metric is questionable, the positive trend in earnings\u2026",
+   "url": "https://finnhub.io/api/news?id=7911dacb7529d44cb1e5f46f08837e337d96dec5fb7435569a70d13428f7480c",
+   "source": "Yahoo",
+   "published": "2026-11-10T13:55:03+00:00",
+   "tickers": [
+    "SMMT"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "aff7009ed20b",
+   "headline": "How Much Upside is Left in Privia Health (PRVA)? Wall Street Analysts Think 29.22%",
+   "summary": "The average of price targets set by Wall Street analysts indicates a potential upside of 29.2% in Privia Health (PRVA). While the effectiveness of this highly sought-after metric is questionable, the positive trend in earnings estimate\u2026",
+   "url": "https://finnhub.io/api/news?id=bfe559d93334a5193ad131bff7250767124c709727374f54dcd53cbb94384830",
+   "source": "Yahoo",
+   "published": "2026-11-10T13:55:03+00:00",
+   "tickers": [
+    "PRVA"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
    ]
   },
   {
@@ -4050,6 +4187,7 @@
    "source": "Yahoo",
    "published": "2026-11-10T13:13:00+00:00",
    "tickers": [
+    "INSM",
     "MDGL",
     "TGTX"
    ],
@@ -4818,6 +4956,21 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "8551fd7e76ea",
+   "headline": "PRVA Q3 2026 deep dive: acquisitions and provider growth drive expansion, profitability lags expectations",
+   "summary": "Healthcare tech company Privia Health Group (NASDAQ:PRVA) reported Q3 2026 results beating Wall Street\u2019s revenue expectations, with sales up 13.2% year on year to $657 million. The company\u2019s full-year revenue guidance of $2.53 billion at\u2026",
+   "url": "https://finnhub.io/api/news?id=bf1f6d060420eca92244884983622c907c16581028c872f65f97a4270104e28f",
+   "source": "Yahoo",
+   "published": "2026-11-10T11:41:36+00:00",
+   "tickers": [
+    "PRVA"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
    ]
   },
   {
@@ -6003,6 +6156,21 @@
    "tag": "Analyst",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "bc44a76c726d",
+   "headline": "Celldex Therapeutics Targets 2027 Filing for Barzolvolimab After Phase 3 Results",
+   "summary": "Celldex Therapeutics (NASDAQ:CLDX) plans to submit a biologics license application for barzolvolimab in 2027, using full 52-week data from its Phase 3 studies in chronic spontaneous urticaria, executives said at Guggenheim\u2019s 3rd Annual\u2026",
+   "url": "https://finnhub.io/api/news?id=0ba1879aa349fa0362ad90cdfbef42925b7e2d021456bd18745a9cd5a0e7bcc1",
+   "source": "Yahoo",
+   "published": "2026-11-10T06:12:47+00:00",
+   "tickers": [
+    "CLDX"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -61577,51 +61745,6 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
-   ]
-  },
-  {
-   "id": "78703487ac6a",
-   "headline": "Dow Jones Futures Loom After Stock Market Sell-Off; Apple, Palantir, Midterm Elections In Focus",
-   "summary": "Techs led another stock market sell-off. It's a time to be defensive. Apple, Palantir, jobs and midterm elections loom.",
-   "url": "https://finnhub.io/api/news?id=125e48825bd1f07d49eaa70961ebe0aab5f08a9db0ad3183a4907b8fa56974a2",
-   "source": "Yahoo",
-   "published": "2026-11-01T02:44:14+00:00",
-   "tickers": [
-    "AMGN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "f7e7512061fc",
-   "headline": "DXCM Q3 deep dive: clinical momentum and new product launches support growth trajectory",
-   "summary": "Medical device company DexCom (NASDAQ:DXCM) reported revenue ahead of Wall Street\u2019s expectations in Q3 2026, with sales up 11.2% year on year to $1.34 billion. The company expects the full year\u2019s revenue to be around $5.23 billion, close\u2026",
-   "url": "https://finnhub.io/api/news?id=7b21385512a711d65108655560d3bf31908571e179dbbff1803bf76f54de6d98",
-   "source": "Yahoo",
-   "published": "2026-11-01T02:43:00+00:00",
-   "tickers": [
-    "DXCM"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "d0916f6d3e6c",
-   "headline": "ALHC Q3 deep dive: rising costs, claims volatility, and cautious outlook amid Stars setback",
-   "summary": "Health insurance company Alignment Healthcare (NASDAQ:ALHC) beat Wall Street\u2019s revenue expectations in Q3 2026, with sales up 36.7% year on year to $1.36 billion. Revenue guidance for the full year exceeded analysts\u2019 estimates, but next\u2026",
-   "url": "https://finnhub.io/api/news?id=7f93a884b99cd5fce96bb1d8840282c7aa7766189d8c0e1d3c4b53ba800ae8ee",
-   "source": "Yahoo",
-   "published": "2026-11-01T02:35:00+00:00",
-   "tickers": [
-    "ALHC"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
    ]
   }
  ]
