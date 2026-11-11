@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-11T13:02:54.581999+00:00",
+ "updated": "2026-11-11T13:17:40.447091+00:00",
  "quotes": {
   "A": {
    "price": 177.88,
@@ -81,10 +81,6 @@
   "CNC": {
    "price": 70.19,
    "change_pct": 2.41
-  },
-  "COR": {
-   "price": 348.71,
-   "change_pct": 0.85
   },
   "CRL": {
    "price": 345.8,
@@ -214,17 +210,9 @@
    "price": 1082.59,
    "change_pct": 2.19
   },
-  "MDGL": {
-   "price": 432.6,
-   "change_pct": -0.04
-  },
   "MDT": {
    "price": 101.59,
    "change_pct": -1.17
-  },
-  "MOH": {
-   "price": 206.35,
-   "change_pct": 1.48
   },
   "MRK": {
    "price": 148.05,
@@ -321,6 +309,18 @@
   "TGTX": {
    "price": 64.26,
    "change_pct": 1.39
+  },
+  "TMDX": {
+   "price": 90.94,
+   "change_pct": -3.03
+  },
+  "TMO": {
+   "price": 718.2,
+   "change_pct": -0.48
+  },
+  "UHS": {
+   "price": 195.41,
+   "change_pct": -0.89
   }
  },
  "tickers": {
@@ -938,6 +938,63 @@
  },
  "stories": [
   {
+   "id": "6dd73733a7d5",
+   "headline": "Aurobindo unit Eugia recalls antibiotic lot, citing glass particle concerns",
+   "summary": "Eugia, a unit of Aurobindo, issued a voluntary recall for one lot of the antibiotic vancomycin hydrochloride for injection, citing the possible presence of glass particles in the vials.",
+   "url": "https://www.fiercepharma.com/manufacturing/aurobindo-unit-eugia-recalls-one-lot-antibiotic-injectables-glass-particles",
+   "source": "Fierce Pharma",
+   "published": "2026-11-11T13:15:24.858910+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "7ef90733f454",
+   "headline": "Amgen builds Sj\u00f6gren\u2019s case with detailed phase 3 data ahead of Novartis showdown",
+   "summary": "Amgen has shared more data from a phase 3 Sj\u00f6gren\u2019s disease trial that dazzled analysts, digging into the details that could shape its showdown with Novartis.",
+   "url": "https://www.fiercebiotech.com/biotech/amgen-builds-sjogrens-case-detailed-phase-3-data-ahead-novartis-showdown",
+   "source": "Fierce Biotech",
+   "published": "2026-11-11T13:15:24.735033+00:00",
+   "tickers": [
+    "AMGN",
+    "NVS"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "efdcb1e4a391",
+   "headline": "AMGEN ANNOUNCES POSITIVE PHASE 3 RESULTS FOR DAZODALIBEP IN SJ\u00d6GREN'S DISEASE",
+   "summary": "Only Global Phase 3 Trial to Show Clinically Meaningful Improvements in Systemic Disease Activity and Patient-Reported Symptoms of Sj\u00f6gren's Disease THOUSAND OAKS, Calif., Nov. 11, 2026 /PRNewswire/ -- Amgen (NASDAQ: AMGN) today announced\u2026",
+   "url": "https://www.prnewswire.com/news-releases/amgen-announces-positive-phase-3-results-for-dazodalibep-in-sjogrens-disease-302935991.html",
+   "source": "PR Newswire",
+   "published": "2026-11-11T13:00:00+00:00",
+   "tickers": [
+    "AMGN"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "ce77ec1b67de",
+   "headline": "Rod O'Reilly Joins Sirona Medical's Board of Directors",
+   "summary": "Former Change Healthcare and McKesson Imaging leader joins to help Sirona scale beyond 12 million contracted exams a year and onboard more than 1,000 additional radiologists in 2027. SAN FRANCISCO, Nov. 11, 2026 /PRNewswire/ -- Sirona\u2026",
+   "url": "https://www.prnewswire.com/news-releases/rod-oreilly-joins-sirona-medicals-board-of-directors-302935659.html",
+   "source": "PR Newswire",
+   "published": "2026-11-11T13:00:00+00:00",
+   "tickers": [
+    "MCK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
+  {
    "id": "c2cd9f3c4fb8",
    "headline": "The U.S. may soon lose measles elimination status",
    "summary": "A regional WHO body will hold a four-day meeting determining whether the U.S. has maintained measles elimination. All signs point to no:",
@@ -1043,6 +1100,7 @@
     "AMGN",
     "GILD",
     "MRNA",
+    "REGN",
     "VRTX"
    ],
    "tag": "News",
@@ -62283,21 +62341,6 @@
     "PFE"
    ],
    "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "c03c1feb49ce",
-   "headline": "St. Galler Kantonalbank (SWX:SGKN) Stock Looks Reasonable With Moderate Excess Returns",
-   "summary": "St. Galler Kantonalbank has quietly produced a strong share price story over the past few years, which naturally raises a question for anyone looking at the stock today. Are investors paying a price that is fully backed by the returns the\u2026",
-   "url": "https://finnhub.io/api/news?id=fa4059ed685d8a15dcb735555f92b992d13345e430eba28889d50132cb34a9ae",
-   "source": "Yahoo",
-   "published": "2026-11-01T13:13:06+00:00",
-   "tickers": [
-    "NVS"
-   ],
-   "tag": "News",
    "sectors": [
     "pharma"
    ]
