@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-11T12:02:54.036322+00:00",
+ "updated": "2026-11-11T12:17:39.469743+00:00",
  "quotes": {
   "A": {
    "price": 177.88,
@@ -9,10 +9,6 @@
   "ABBV": {
    "price": 293.89,
    "change_pct": 0.2
-  },
-  "ABSI": {
-   "price": 9.97,
-   "change_pct": -7.69
   },
   "ABT": {
    "price": 110.46,
@@ -198,10 +194,6 @@
    "price": 119.49,
    "change_pct": 2.92
   },
-  "IONS": {
-   "price": 28.19,
-   "change_pct": -9.06
-  },
   "IRTC": {
    "price": 86.06,
    "change_pct": -3.01
@@ -321,6 +313,14 @@
   "SDGR": {
    "price": 32.41,
    "change_pct": -2.94
+  },
+  "SMMT": {
+   "price": 17.83,
+   "change_pct": -0.06
+  },
+  "SNY": {
+   "price": 48.23,
+   "change_pct": 0.23
   }
  },
  "tickers": {
@@ -938,6 +938,62 @@
  },
  "stories": [
   {
+   "id": "35d2b1914631",
+   "headline": "Amazon Web Services commits $100M to AI, cloud tech health initiatives over next 5 years",
+   "summary": "The funds are part of the AWS Health Impact Initiative, a five-year program, announced Monday.",
+   "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/amazon-web-services-commits-100m-ai-cloud-tech-initiatives-over-next-5",
+   "source": "Fierce Healthcare",
+   "published": "2026-11-11T12:15:21.859782+00:00",
+   "tickers": [],
+   "tag": "Health AI",
+   "sectors": []
+  },
+  {
+   "id": "566163b746b0",
+   "headline": "Healthcare Just Hit a Record Lead Over Tech. 3 Things Could Shrink It",
+   "summary": "Healthcare stocks lead tech by 35.6 points over six months, the widest gap in 25 years, as investors cut AI exposure.",
+   "url": "https://finnhub.io/api/news?id=f46831fa2cb406201cee9efd7b9055032e85575d39800c8f4cd71450342f6c9a",
+   "source": "Yahoo",
+   "published": "2026-11-11T11:20:53+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "ec77710f35ce",
+   "headline": "What iShares MSCI USA Min Vol Factor ETF (USMV) Bought: Microsoft Leads on Nov. 9",
+   "summary": "The fund added $168.9 million in gross purchases, increasing 172 positions and trimming none, with Microsoft the largest buy at $2.9 million.",
+   "url": "https://finnhub.io/api/news?id=c9c19b5b26d72f336ac4d97780c83e5f709a44a559d88066a20f88524da99560",
+   "source": "Yahoo",
+   "published": "2026-11-11T11:04:32+00:00",
+   "tickers": [
+    "MCK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
+  {
+   "id": "73ee0979f210",
+   "headline": "State Street Health Care SPDR (XLV) Sells Eli Lilly and J&J on Nov. 9",
+   "summary": "The fund sold $320.2 million of stock, cutting all 60 positions and adding nothing on Monday.",
+   "url": "https://finnhub.io/api/news?id=13d612304757a052db604ec5b56f58265afe417316d6ba21c7c0a0a6063f4a49",
+   "source": "Yahoo",
+   "published": "2026-11-11T11:04:02+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "8443cb7a4da9",
    "headline": "Capricor, NextCure reveal recent layoffs as they gear up for approval decision, merger",
    "summary": "Capricor and NextCure have shed light on recent rounds of layoffs, as the biotechs brace for a hoped-for drug approval and merger, respectively.",
@@ -947,6 +1003,21 @@
    "tickers": [],
    "tag": "FDA",
    "sectors": []
+  },
+  {
+   "id": "211ca7b83b53",
+   "headline": "Nxera Pharma (TSE:4565) Stock Could Be 18% Overvalued On Licensing Deal",
+   "summary": "Nxera Pharma has delivered a sharp share price run over the past year, which puts fresh attention on whether that move lines up with the cash the business is expected to generate. With a Discounted Cash Flow (DCF) view available, the key\u2026",
+   "url": "https://finnhub.io/api/news?id=6621855400d9932e9a8d169a7abdb744d9e014ad258d6ef1e8c7a97ac15d6a52",
+   "source": "Yahoo",
+   "published": "2026-11-11T10:15:05+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "260e2c43b827",
@@ -1248,6 +1319,21 @@
    "tag": "FDA",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "5babb5056ee5",
+   "headline": "Guardant360\u00ae Tissue Receives MOHW LDTS approval in Taiwan",
+   "summary": "Guardant Health, Inc. (Nasdaq: GH), a leading precision oncology company, announced today that the Guardant360\u00ae Tissue test has received Laboratory Developed Tests and Services (LDTS) approval from the Ministry of Health and Welfare\u2026",
+   "url": "https://finnhub.io/api/news?id=9ca19556003c28df1be683fd943fc2106ae6478c4f2390aa90851931ea8a99ba",
+   "source": "Yahoo",
+   "published": "2026-11-11T04:00:00+00:00",
+   "tickers": [
+    "GH"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "tools"
    ]
   },
   {
