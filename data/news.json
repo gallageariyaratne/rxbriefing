@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-11T13:47:42.117516+00:00",
+ "updated": "2026-11-11T14:03:08.270206+00:00",
  "quotes": {
   "A": {
    "price": 177.88,
@@ -25,10 +25,6 @@
   "AMGN": {
    "price": 465.23,
    "change_pct": 0
-  },
-  "AMWL": {
-   "price": 12.02,
-   "change_pct": -3.53
   },
   "ARGX": {
    "price": 971.55,
@@ -126,10 +122,6 @@
    "price": 70.58,
    "change_pct": -1.62
   },
-  "GDRX": {
-   "price": 3.54,
-   "change_pct": -3.01
-  },
   "GEHC": {
    "price": 83.65,
    "change_pct": -0.45
@@ -165,10 +157,6 @@
   "HUM": {
    "price": 438.06,
    "change_pct": 3.51
-  },
-  "ICLR": {
-   "price": 204.63,
-   "change_pct": -1.43
   },
   "IDXX": {
    "price": 696.64,
@@ -230,6 +218,10 @@
    "price": 169.14,
    "change_pct": 0.17
   },
+  "NTRA": {
+   "price": 311.98,
+   "change_pct": -2.62
+  },
   "NVO": {
    "price": 40.7,
    "change_pct": -1.64
@@ -278,10 +270,6 @@
    "price": 41.19,
    "change_pct": 1.28
   },
-  "RVMD": {
-   "price": 193.06,
-   "change_pct": -3.54
-  },
   "RXRX": {
    "price": 3.55,
    "change_pct": -6.7
@@ -321,6 +309,18 @@
   "TMO": {
    "price": 718.2,
    "change_pct": -0.48
+  },
+  "UHS": {
+   "price": 195.41,
+   "change_pct": -0.89
+  },
+  "UNH": {
+   "price": 405.12,
+   "change_pct": 1.89
+  },
+  "UTHR": {
+   "price": 588.61,
+   "change_pct": 1.06
   }
  },
  "tickers": {
@@ -938,6 +938,21 @@
  },
  "stories": [
   {
+   "id": "5937e25e92a6",
+   "headline": "BioNTech pays $205M for FDA voucher to speed up \u2018late-stage oncology pipeline\u2019",
+   "summary": "BioNTech has agreed to pay $205 million to purchase an FDA priority review voucher to support a future filing of a drug in its \u201clate-stage oncology pipeline.\u201d Fierce breaks down which candidate is most likely to claim the regulatory\u2026",
+   "url": "https://www.fiercebiotech.com/pharma/biontech-pays-205m-fda-voucher-speed-late-stage-oncology-pipeline",
+   "source": "Fierce Biotech",
+   "published": "2026-11-11T14:00:29.064423+00:00",
+   "tickers": [
+    "BNTX"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "c5873e8e2938",
    "headline": "BioNTech pays $205M for FDA voucher to speed up \u2018late-stage oncology pipeline\u2019",
    "summary": "BioNTech has agreed to pay $205 million to purchase an FDA priority review voucher to support a future filing of a drug in its \u201clate-stage oncology pipeline.\u201d Fierce breaks down which candidate is most likely to claim the regulatory\u2026",
@@ -1374,6 +1389,21 @@
     "ILMN"
    ],
    "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "69995a9a9620",
+   "headline": "Natera, Inc. (NTRA) Presents at 8th Annual Wolfe Research Healthcare Conference Transcript",
+   "summary": "Natera, Inc. (NTRA) 8th Annual Wolfe Research Healthcare Conference November 10, 2026 12:00 PM ESTCompany ParticipantsMike Brophy - Chief Financial...",
+   "url": "https://finnhub.io/api/news?id=3789ab7711283d30f087ee51eac291103bad5d7895bcc3050faa2d81d8cf496d",
+   "source": "SeekingAlpha",
+   "published": "2026-11-11T08:08:54+00:00",
+   "tickers": [
+    "NTRA"
+   ],
+   "tag": "News",
    "sectors": [
     "tools"
    ]
