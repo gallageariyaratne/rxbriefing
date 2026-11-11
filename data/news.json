@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-11T22:17:26.784639+00:00",
+ "updated": "2026-11-11T22:32:39.155201+00:00",
  "quotes": {
   "A": {
    "price": 176.95,
@@ -265,6 +265,10 @@
   "TGTX": {
    "price": 65.76,
    "change_pct": 2.33
+  },
+  "THC": {
+   "price": 292.97,
+   "change_pct": 0.93
   },
   "TMDX": {
    "price": 92.01,
@@ -969,7 +973,8 @@
    "source": "Yahoo",
    "published": "2026-11-11T21:23:11+00:00",
    "tickers": [
-    "HCA"
+    "HCA",
+    "THC"
    ],
    "tag": "News",
    "sectors": [
@@ -985,7 +990,8 @@
    "published": "2026-11-11T21:17:59+00:00",
    "tickers": [
     "DXCM",
-    "MDT"
+    "MDT",
+    "PODD"
    ],
    "tag": "News",
    "sectors": [
@@ -1023,6 +1029,21 @@
    ]
   },
   {
+   "id": "52d8f3dbc9cd",
+   "headline": "BioNTech vs. Vertex Pharmaceuticals: Which Healthcare Stock Is a Better Buy for 2027?",
+   "summary": "Vertex Pharmaceuticals earns steady profits from its cystic fibrosis medicines while expanding into new diseases. BioNTech has a large cash cushion and a growing cancer pipeline, but its COVID vaccine sales are fading.",
+   "url": "https://finnhub.io/api/news?id=83f95a3ccd49f03904dd6d5487f01421b4b74ae5244f1c16e53b135d34d4ef9a",
+   "source": "Yahoo",
+   "published": "2026-11-11T21:00:32+00:00",
+   "tickers": [
+    "VRTX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "1f1ede16d67c",
    "headline": "Can You Make Money Off Halozyme Stock Now?",
    "summary": "For questions about this article or underlying research, email help@trefis.com.",
@@ -1031,7 +1052,8 @@
    "published": "2026-11-11T20:55:46+00:00",
    "tickers": [
     "ABBV",
-    "BDX"
+    "BDX",
+    "HALO"
    ],
    "tag": "News",
    "sectors": [
@@ -1054,6 +1076,36 @@
    ]
   },
   {
+   "id": "38f94e9149ef",
+   "headline": "Investors Heavily Search Vertex Pharmaceuticals Incorporated (VRTX): Here is What You Need to Know",
+   "summary": "Vertex (VRTX) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
+   "url": "https://finnhub.io/api/news?id=4c87cfb3b5b2c8d70403f327f1ad01ec0c471806b56bbf244cc0b7d012483f0e",
+   "source": "Yahoo",
+   "published": "2026-11-11T20:21:44+00:00",
+   "tickers": [
+    "VRTX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "587af0dae9bc",
+   "headline": "Here is What to Know Beyond Why CVS Health Corporation (CVS) is a Trending Stock",
+   "summary": "Recently, Zacks.com users have been paying close attention to CVS Health (CVS). This makes it worthwhile to examine what the stock has in store.",
+   "url": "https://finnhub.io/api/news?id=98a996abee371b534c7c9a1f56ada1b5d5e79e45e7802cd594807aa581ea308b",
+   "source": "Yahoo",
+   "published": "2026-11-11T20:21:20+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "61adeddfd18f",
    "headline": "Johnson & Johnson vs. Eli Lilly: Which Healthcare Giant's Stock Is a Better Buy for 2027?",
    "summary": "Eli Lilly's sales jumped 44.7% last year, while Johnson & Johnson's steadier profile raises a different question for cautious portfolios.",
@@ -1061,7 +1113,23 @@
    "source": "Yahoo",
    "published": "2026-11-11T20:20:02+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "JNJ"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "09f3aef50ff4",
+   "headline": "Johnson & Johnson Sees a Path to Double-Digit Growth by 2030. Is the Dividend King a Buy?",
+   "summary": "The business has undergone major changes in recent years, and these might pay off over the medium term.",
+   "url": "https://finnhub.io/api/news?id=c85d6b4ad2ae5d86248804a85faa67965c633dc2fcebdea7e881adec6f111bed",
+   "source": "Yahoo",
+   "published": "2026-11-11T20:17:00+00:00",
+   "tickers": [
+    "JNJ"
    ],
    "tag": "News",
    "sectors": [
@@ -1091,11 +1159,27 @@
    "source": "Yahoo",
    "published": "2026-11-11T20:08:00+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "CVS"
    ],
    "tag": "Analyst",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "30e4171ac8f5",
+   "headline": "Are Medical Stocks Lagging Alector (ALEC) This Year?",
+   "summary": "Here is how Alector (ALEC) and CVS Health (CVS) have performed compared to their sector so far this year.",
+   "url": "https://finnhub.io/api/news?id=536be60ada4fb7edbddc76ad68167ad9f5a32d0391d0cb847dcb690641617464",
+   "source": "Yahoo",
+   "published": "2026-11-11T20:07:11+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -1111,6 +1195,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "8d5ba0623b72",
+   "headline": "A 72-Year-Old With $500,000 in PepsiCo, Nike and Bristol Myers Squibb Collects $1,729 a Month in Dividends. How Safe Is Each Check?",
+   "summary": "Key TakeawaysA hypothetical $500,000 portfolio split evenly across PepsiCo, Nike and Bristol Myers Squibb pays $20,519. 20 a year in dividends, or $1,709.",
+   "url": "https://finnhub.io/api/news?id=a4d9715a337ddbe2d6ac02f57b7de156928f2c5f4411a3017defa7485e21dde5",
+   "source": "Yahoo",
+   "published": "2026-11-11T19:56:16+00:00",
+   "tickers": [
+    "BMY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -64779,21 +64878,6 @@
    "tag": "Earnings",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "3e0f06e6466e",
-   "headline": "Vertex Pharmaceuticals earnings: what to look for from VRTX",
-   "summary": "Biotech company Vertex Pharmaceuticals (NASDAQ:VRTX) will be announcing earnings results this Monday after market close. Here\u2019s what to expect.",
-   "url": "https://finnhub.io/api/news?id=70bcbcab063435df67a5c8fedc399b9f3cc76a4e4255e780b605aebd22a27a21",
-   "source": "Yahoo",
-   "published": "2026-11-01T22:16:07+00:00",
-   "tickers": [
-    "VRTX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
