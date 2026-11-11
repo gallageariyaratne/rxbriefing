@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-11T14:03:08.270206+00:00",
+ "updated": "2026-11-11T14:17:44.222737+00:00",
  "quotes": {
   "A": {
    "price": 177.88,
@@ -74,10 +74,6 @@
    "price": 303.13,
    "change_pct": 2.55
   },
-  "CLDX": {
-   "price": 30.65,
-   "change_pct": -1.89
-  },
   "CNC": {
    "price": 70.19,
    "change_pct": 2.41
@@ -145,6 +141,10 @@
   "HALO": {
    "price": 102.98,
    "change_pct": 0.06
+  },
+  "HCA": {
+   "price": 504.42,
+   "change_pct": -0.09
   },
   "HIMS": {
    "price": 19.13,
@@ -938,6 +938,17 @@
  },
  "stories": [
   {
+   "id": "fef602ab176d",
+   "headline": "Could we see 10 Chinese Big Pharmas within a decade? Some CEOs think so",
+   "summary": "For executives at many of the Chinese drug developers who spoke to Fierce, the real prize is a seat at the Big Pharma table. In recent years, this objective has moved from a vague aspiration to a concrete goal.",
+   "url": "https://www.fiercebiotech.com/biotech/will-we-see-10-chinese-big-pharmas-within-decade-some-ceos-think-so",
+   "source": "Fierce Biotech",
+   "published": "2026-11-11T14:15:21.977540+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
    "id": "5937e25e92a6",
    "headline": "BioNTech pays $205M for FDA voucher to speed up \u2018late-stage oncology pipeline\u2019",
    "summary": "BioNTech has agreed to pay $205 million to purchase an FDA priority review voucher to support a future filing of a drug in its \u201clate-stage oncology pipeline.\u201d Fierce breaks down which candidate is most likely to claim the regulatory\u2026",
@@ -948,6 +959,51 @@
     "BNTX"
    ],
    "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "6cc6f36521e3",
+   "headline": "CVS Health earns global recognition for industry-leading AI and technology innovation",
+   "summary": "Seven Stevie\u00ae Awards honor innovations across enterprise AI portfolio, including clinical operations, disaster response and workforce development WOONSOCKET, R.I., Nov. 11, 2026 /PRNewswire/ -- CVS Health\u00ae (NYSE: CVS) is being recognized\u2026",
+   "url": "https://www.prnewswire.com/news-releases/cvs-health-earns-global-recognition-for-industry-leading-ai-and-technology-innovation-302932347.html",
+   "source": "PR Newswire",
+   "published": "2026-11-11T14:00:00+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "9530570f0d57",
+   "headline": "AstraZeneca buys vaccine startup; FDA issues GLP-1 safety warning",
+   "summary": "The deal gives AstraZeneca a simpler way to make conjugate vaccines. Elsewhere, a psychedelic depression drug was submitted to the FDA and an autoimmune disease-focused biotech\u2019s shares collapsed.",
+   "url": "https://www.biopharmadive.com/news/glp1-naion-compass-zura-abeona/874076/",
+   "source": "BioPharma Dive",
+   "published": "2026-11-11T13:42:00+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "a03bea32bcd3",
+   "headline": "S&P 500 Premarket Movers: Gainers and Losers Ahead of the Open",
+   "summary": "S&P 500 premarket movers: COHR, LITE, STX, MRVL and WDC lead gainers, while ACGL, CLX, ABNB and REGN slip ahead of the opening bell.",
+   "url": "https://finnhub.io/api/news?id=0218f22724d9afec1d16c9c7b82b38e00deb15f27da4d17f2a66eeda38bb8166",
+   "source": "ChartMill",
+   "published": "2026-11-11T13:36:12+00:00",
+   "tickers": [
+    "REGN"
+   ],
+   "tag": "News",
    "sectors": [
     "pharma"
    ]
@@ -965,6 +1021,21 @@
    "tag": "FDA",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "6b07b638c2d7",
+   "headline": "HCA Healthcare Named a Best Employer for Veterans by Military Times for Seventh Consecutive Year",
+   "summary": "NASHVILLE, Tenn.,, November 11, 2026--HCA Healthcare, Inc. (NYSE:HCA), one of the nation\u2019s leading healthcare providers, today announced that it has been recognized for the seventh consecutive year as a Best for Vets Employer by Military\u2026",
+   "url": "https://finnhub.io/api/news?id=f3e04816125b87bdeaaf68cef17b65aac5efddb5d639dbc33f3b739181fe7082",
+   "source": "Yahoo",
+   "published": "2026-11-11T13:30:00+00:00",
+   "tickers": [
+    "HCA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -1015,6 +1086,21 @@
    "summary": "Former Change Healthcare and McKesson Imaging leader joins to help Sirona scale beyond 12 million contracted exams a year and onboard more than 1,000 additional radiologists in 2027. SAN FRANCISCO, Nov. 11, 2026 /PRNewswire/ -- Sirona\u2026",
    "url": "https://www.prnewswire.com/news-releases/rod-oreilly-joins-sirona-medicals-board-of-directors-302935659.html",
    "source": "PR Newswire",
+   "published": "2026-11-11T13:00:00+00:00",
+   "tickers": [
+    "MCK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
+  {
+   "id": "070dc75aad68",
+   "headline": "Rod O'Reilly Joins Sirona Medical's Board of Directors",
+   "summary": "Sirona Medical, Inc. (\"Sirona\"), the market leader in cloud-native radiology software, today announced that Rod O'Reilly has joined its Board of Directors. He brings more than 25 years of executive leadership in healthcare technology and\u2026",
+   "url": "https://finnhub.io/api/news?id=648d3021818e4553765eff7f78f823de48e7d20d9d78e42917d887b682196c96",
+   "source": "Yahoo",
    "published": "2026-11-11T13:00:00+00:00",
    "tickers": [
     "MCK"
@@ -1376,6 +1462,21 @@
    "tag": "News",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "4e0026690edb",
+   "headline": "Brightview Posts Downbeat Q4 Results, Joins Astronics, Spire Global And Other Big Stocks Moving Lower In Wednesday\u2019s Pre-Market Session",
+   "summary": "U.S. futures rose, but BrightView plunged 17.7% after missing earnings and sales estimates; Lightwave Logic and others also fell premarket.",
+   "url": "https://finnhub.io/api/news?id=1aacd2f18877f0888d7621eb717ef592c141177921840287452b94d27143a3c8",
+   "source": "Benzinga",
+   "published": "2026-11-11T09:02:06+00:00",
+   "tickers": [
+    "REGN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -4616,6 +4717,21 @@
    ]
   },
   {
+   "id": "5c305baa810f",
+   "headline": "Why Is Humana Stock Trading Higher Tuesday?",
+   "summary": "Humana (HUM) stock jumped over 3% following a new cancer care initiative and a raised 2026 earnings outlook. Read the latest updates.",
+   "url": "https://finnhub.io/api/news?id=41cdd4f1e7b69223e21352400a7d8132770b399aeca18b015c7e3f71d27bd81c",
+   "source": "Benzinga",
+   "published": "2026-11-10T14:04:47+00:00",
+   "tickers": [
+    "EVH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "49e0ae5e2d56",
    "headline": "IBRX Q3 Earnings Miss, Anktiva Sales Decline Q/Q, Stock Down 18%",
    "summary": "ImmunityBio's revenues jump 53% on Anktiva adoption, but a wider-than-expected loss, sequential sales decline and rising expenses weigh on shares.",
@@ -5694,6 +5810,21 @@
    ]
   },
   {
+   "id": "f7727cc9b119",
+   "headline": "Here's How Much $100 Invested In HCA Healthcare 15 Years Ago Would Be Worth Today",
+   "summary": "HCA Healthcare (NYSE:HCA) has outperformed the market over the past 15 years by 9.26% on an annualized basis producing an average annual return of 21.98%. Currently, HCA Healthcare has a market capitalization of $105.47",
+   "url": "https://finnhub.io/api/news?id=b317ddc1c44261b3868940441ce821b2934a6fc9eb91d14c2f1830aa45b9fd16",
+   "source": "Benzinga",
+   "published": "2026-11-10T12:00:20+00:00",
+   "tickers": [
+    "HCA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "97a1bbdc6bce",
    "headline": "Legend Biotech Reports Third Quarter 2026 Results and Recent Highlights",
    "summary": "BRIDGEWATER, N.J., Nov. 10, 2026 (GLOBE NEWSWIRE) -- Legend Biotech Corporation (NASDAQ: LEGN) (Legend Biotech), a global leader in cell therapy, today reported its third quarter 2026 unaudited financial results and recent highlights.",
@@ -5780,6 +5911,21 @@
     "BEAM"
    ],
    "tag": "Clinical",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "55af84ba1d46",
+   "headline": "Truist Securities Maintains Hold on Immunovant, Raises Price Target to $33",
+   "summary": "Truist Securities analyst Danielle Brill maintains Immunovant (NASDAQ:IMVT) with a Hold and raises the price target from $30 to $33.",
+   "url": "https://finnhub.io/api/news?id=5ae2d0f714e17e422fc9dfcff1628864da6309ba35db4c2e7d8462be0b0a8d8d",
+   "source": "Benzinga",
+   "published": "2026-11-10T11:51:55+00:00",
+   "tickers": [
+    "IMVT"
+   ],
+   "tag": "Analyst",
    "sectors": [
     "biotech"
    ]
@@ -6058,6 +6204,21 @@
    ]
   },
   {
+   "id": "27dfc71f56fa",
+   "headline": "Humana Partners With Evolent Health, American Oncology Network To Introduce New Cancel Care Model In 8 U.S. States",
+   "summary": "Humana Inc., in collaboration with Evolent Health, Inc. and American Oncology Network (AON), today announced the launch of a new cancer care model designed to improve the quality, timeliness and affordability of cancer",
+   "url": "https://finnhub.io/api/news?id=468dd166f6b3f19394e9cb031025d530b5855b2580d7b6b50e4734f821225054",
+   "source": "Benzinga",
+   "published": "2026-11-10T11:03:33+00:00",
+   "tickers": [
+    "EVH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "b19320617498",
    "headline": "Ionis Pharmaceuticals Inc (IONS) (Q3 2026) Earnings Call Highlights: DAWNZERA Momentum and ...",
    "summary": "Ionis Pharmaceuticals Inc (IONS) posted 55% Q3 revenue growth on DAWNZERA strength and pipeline wins, but a slower TRYNGOLZA launch trimmed guidance and pushed cash flow breakeven to 2029.",
@@ -6148,6 +6309,21 @@
    ]
   },
   {
+   "id": "a0ec32822324",
+   "headline": "Wells Fargo Maintains Overweight on Immunovant, Raises Price Target to $47",
+   "summary": "Wells Fargo analyst Derek Archila maintains Immunovant (NASDAQ:IMVT) with a Overweight and raises the price target from $45 to $47.",
+   "url": "https://finnhub.io/api/news?id=085a1773497cfb145e452a942e4f53e10ed034363ec65c322c6fceee9b00e853",
+   "source": "Benzinga",
+   "published": "2026-11-10T10:59:11+00:00",
+   "tickers": [
+    "IMVT"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "546a249dc9a4",
    "headline": "Charles River agrees $470m deal for Frontage assets",
    "summary": "The transaction includes two testing sites in Exton, employing roughly 340 staff, and a CLIA-certified central laboratory.",
@@ -6160,6 +6336,21 @@
    "tag": "News",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "a7c5ec4274c3",
+   "headline": "Barclays Maintains Underweight on Becton Dickinson, Raises Price Target to $195",
+   "summary": "Barclays analyst Christopher Pasquale maintains Becton Dickinson (NYSE:BDX) with a Underweight and raises the price target from $165 to $195.",
+   "url": "https://finnhub.io/api/news?id=6a14bfcc1e30aa87d862aea1ca2137e709ff5d0a733fec1cabb53262cd951593",
+   "source": "Benzinga",
+   "published": "2026-11-10T10:39:00+00:00",
+   "tickers": [
+    "BDX"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -62370,22 +62561,6 @@
     "AZN"
    ],
    "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "dfb6db7d11e5",
-   "headline": "What To Expect In Markets This Week: AAPL, PLTR, AMD, SMCI, SHOP, Earnings, Jobs Report And More",
-   "summary": "The week will bring results from some of the market\u2019s most closely watched technology companies, while a major labor-market report could provide an important read on the health of the U.S. economy.",
-   "url": "https://finnhub.io/api/news?id=d16b8085ff0f4b19b91eb7fe8141f1f639bc465eefc1803211670631621e6991",
-   "source": "Yahoo",
-   "published": "2026-11-01T14:06:16+00:00",
-   "tickers": [
-    "MRNA",
-    "PFE"
-   ],
-   "tag": "Earnings",
    "sectors": [
     "pharma"
    ]
