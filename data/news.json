@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-11T00:17:40.724876+00:00",
+ "updated": "2026-11-11T00:32:47.111945+00:00",
  "quotes": {
   "A": {
    "price": 177.88,
@@ -174,6 +174,10 @@
    "price": 14.53,
    "change_pct": 1.11
   },
+  "ICLR": {
+   "price": 204.63,
+   "change_pct": -1.43
+  },
   "IDXX": {
    "price": 696.64,
    "change_pct": -1.42
@@ -317,10 +321,6 @@
   "TGTX": {
    "price": 64.26,
    "change_pct": 1.39
-  },
-  "THC": {
-   "price": 290.27,
-   "change_pct": 0.44
   }
  },
  "tickers": {
@@ -947,6 +947,21 @@
    "tickers": [],
    "tag": "Policy",
    "sectors": []
+  },
+  {
+   "id": "92876c5268c5",
+   "headline": "CVS Health (CVS) Stock Fair Value Edges Lower On Separation Risk And Analyst Caution",
+   "summary": "The latest analyst work on CVS Health includes a modest trim to fair value, with the estimate moving from US$116.28 to US$113.76 as separation plans are factored into updated models. Recent research leans more cautious on valuation and\u2026",
+   "url": "https://finnhub.io/api/news?id=2c0d555df1d0b6c4e2ea23c0a3b1983b0003af44b6681722f25a7f5a99fc9bef",
+   "source": "Yahoo",
+   "published": "2026-11-10T23:18:15+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "payers"
+   ]
   },
   {
    "id": "50c1da5da67f",
@@ -1683,6 +1698,21 @@
    "published": "2026-11-10T18:35:12+00:00",
    "tickers": [
     "SRPT"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "1d6a305e017e",
+   "headline": "Halozyme Therapeutics, Inc. 2026 Q3 - Results - Earnings Call Presentation",
+   "summary": "2026-11-10. The following slide deck was published by Halozyme Therapeutics, Inc.",
+   "url": "https://finnhub.io/api/news?id=63866d7cd2fc1089761f88993beac0d35790c00a06607b90754ce7723ef8cc11",
+   "source": "SeekingAlpha",
+   "published": "2026-11-10T18:34:17+00:00",
+   "tickers": [
+    "HALO"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -3146,6 +3176,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "86961b22fa62",
+   "headline": "ICON to Participate at Upcoming Investor Conferences",
+   "summary": "DUBLIN, November 10, 2026--ICON to Participate at Upcoming Investor Conferences",
+   "url": "https://finnhub.io/api/news?id=92b59aa863430016042b89ae4c5e7ccafe9d67c68159207d9060dedce2ec6c28",
+   "source": "Yahoo",
+   "published": "2026-11-10T14:00:00+00:00",
+   "tickers": [
+    "ICLR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -60662,36 +60707,6 @@
    "tag": "M&A",
    "sectors": [
     "pharmacy"
-   ]
-  },
-  {
-   "id": "2e7de1a5087b",
-   "headline": "Stryker (SYK) Stock Fair Value Falls After Analysts Reset Expectations Following Q3 Guidance",
-   "summary": "Stryker is now modeled with a Fair Value of about US$351, down from roughly US$369, which points to a lower price target in the latest update. This reset lines up with recent Street commentary that trims expectations after Q3 results and\u2026",
-   "url": "https://finnhub.io/api/news?id=fa3ed37d385c14678369aba7159500a3fd804ce9465539beedb44a5c4a68eac1",
-   "source": "Yahoo",
-   "published": "2026-11-01T00:19:41+00:00",
-   "tickers": [
-    "SYK"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "1e029a2d321f",
-   "headline": "Our Pick Of The Best AI Healthcare Stocks In November 2026",
-   "summary": "Tech giants are pouring an estimated US$828b into AI infrastructure in 2026, and a chunk of that horsepower is already flowing into healthcare. When that much capital chases one idea, the risk is ignoring where it quietly starts to\u2026",
-   "url": "https://finnhub.io/api/news?id=a55d48607a7df56b9f6a7a7ed6e8ba573ea113336fcedc3d5680cf86aa7f911a",
-   "source": "Yahoo",
-   "published": "2026-11-01T00:16:44+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
