@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-11T06:02:45.097311+00:00",
+ "updated": "2026-11-11T06:17:35.224326+00:00",
  "quotes": {
   "A": {
    "price": 177.88,
@@ -17,10 +17,6 @@
   "ABT": {
    "price": 110.46,
    "change_pct": -0.05
-  },
-  "ACAD": {
-   "price": 18.28,
-   "change_pct": 10.79
   },
   "ALGN": {
    "price": 174.26,
@@ -321,6 +317,10 @@
   "QGEN": {
    "price": 50.51,
    "change_pct": -0.08
+  },
+  "REGN": {
+   "price": 916.06,
+   "change_pct": -0.42
   }
  },
  "tickers": {
@@ -1098,6 +1098,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "e72d86e29184",
+   "headline": "Moat Stocks Rebound As Tech Retreats",
+   "summary": "",
+   "url": "https://finnhub.io/api/news?id=b8e75a5f7e03cbcab16edf1449365f2ccb2392f260f9f625c7df68094140d699",
+   "source": "SeekingAlpha",
+   "published": "2026-11-11T00:45:00+00:00",
+   "tickers": [
+    "RGEN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
   },
   {
    "id": "82c5e36589bb",
@@ -61857,38 +61872,6 @@
    "tag": "Earnings",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "a6e106030ac5",
-   "headline": "Medtronic (MDT) Posted Positive Real World Ablation Data",
-   "summary": "Medtronic (NYSE:MDT) reported positive real-world outcomes for its Affera Mapping and Ablation System in atrial fibrillation and ventricular tachycardia patients. The business also highlighted favorable real-world data for its PulseSelect\u2026",
-   "url": "https://finnhub.io/api/news?id=12d7c6457a13c55b569754c2b6a8257514e3aba42ece38331fb147e8f2c523e0",
-   "source": "Yahoo",
-   "published": "2026-11-01T06:06:47+00:00",
-   "tickers": [
-    "MDT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "d5dc2eec96a3",
-   "headline": "Wall Street Week Ahead",
-   "summary": "Wall Street\u00e2\u0080\u0099s big week: midterm elections, October jobs report and key earnings from Apple, AMD and Uber.",
-   "url": "https://finnhub.io/api/news?id=5e8a66c2ae9627fb2b37b602e1abc9cb2514651b3b144ae478cdac85043c7610",
-   "source": "SeekingAlpha",
-   "published": "2026-11-01T06:04:46+00:00",
-   "tickers": [
-    "AMGN",
-    "MRNA",
-    "PFE"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
