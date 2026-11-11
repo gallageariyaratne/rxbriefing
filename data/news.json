@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-11T01:02:43.494619+00:00",
+ "updated": "2026-11-11T01:17:36.636233+00:00",
  "quotes": {
   "A": {
    "price": 177.88,
@@ -9,6 +9,10 @@
   "ABBV": {
    "price": 293.89,
    "change_pct": 0.2
+  },
+  "ABSI": {
+   "price": 9.97,
+   "change_pct": -7.69
   },
   "ABT": {
    "price": 110.46,
@@ -258,6 +262,10 @@
    "price": 169.14,
    "change_pct": 0.17
   },
+  "NTLA": {
+   "price": 11.17,
+   "change_pct": -7.76
+  },
   "NTRA": {
    "price": 311.98,
    "change_pct": -2.62
@@ -313,14 +321,6 @@
   "SRPT": {
    "price": 16.42,
    "change_pct": -4.76
-  },
-  "SYK": {
-   "price": 324.29,
-   "change_pct": -0.44
-  },
-  "TECH": {
-   "price": 72.82,
-   "change_pct": -0.01
   }
  },
  "tickers": {
@@ -990,6 +990,21 @@
    ]
   },
   {
+   "id": "933572f1c28b",
+   "headline": "AstraZeneca (LSE:AZN) Reaffirms Guidance As Pipeline Strength Keeps Undervaluation In View",
+   "summary": "AstraZeneca (LSE:AZN) has been active on the investor circuit, lining up multiple November conference appearances shortly after the company reaffirmed its 2026 earnings guidance and released detailed third quarter and nine month results.\u2026",
+   "url": "https://finnhub.io/api/news?id=517b1ffa0630704e3baa4d391c504aeef1a7c3baada442411da00968b960e7b2",
+   "source": "Yahoo",
+   "published": "2026-11-10T23:16:44+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "50c1da5da67f",
    "headline": "Lilly\u2019s Foundayo marketing push keeps pace with another celeb partner in comedian Leanne Morgan",
    "summary": "The new celebrity partnership is the second for Lilly's oral GLP-1 Foundayo following its recent partnership with lifestyle guru Martha Stewart.",
@@ -1072,6 +1087,36 @@
    ]
   },
   {
+   "id": "8bfc0e21ca4e",
+   "headline": "Can AbbVie (ABBV) Justify Its Valuation After Raised Guidance And Strong Results?",
+   "summary": "AbbVie (ABBV) just raised its full year 2026 revenue guidance to about US$67.8b and lifted its dividend, after reporting third quarter sales of US$17.4b and net income of US$4.2b. Recent price action has been strong, with AbbVie\u2019s share\u2026",
+   "url": "https://finnhub.io/api/news?id=0238ab0ffbe683570b6ced594356dc66c0993b1bcf3766c52d37ee23355a8346",
+   "source": "Yahoo",
+   "published": "2026-11-10T22:12:52+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "7e4ade155a58",
+   "headline": "AstraZeneca (LSE:AZN) Stock Fair Value Edges Higher After Mixed Analyst Target Changes",
+   "summary": "AstraZeneca\u2019s latest update shows a small lift in fair value estimates, moving from \u00a3157.13 to \u00a3161.08, which feeds into how analysts frame their price targets for the stock. This shift sits alongside recent research that mixes confidence\u2026",
+   "url": "https://finnhub.io/api/news?id=31444e5c4fd22e59bdb5d577ce1786bbed9c197e21f7b66cf80d795a6335bb09",
+   "source": "Yahoo",
+   "published": "2026-11-10T22:11:27+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "a96c4270ede2",
    "headline": "Oura to acquire AI virtual primary care partner Counsel Health for $625M",
    "summary": "The companies have worked together since June, and more recently had shared plans to partner on CMS' 10-year ACCESS Model.",
@@ -1095,6 +1140,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "f0cf4d319f55",
+   "headline": "Medtronic (MDT) Dips More Than Broader Market: What You Should Know",
+   "summary": "The latest trading day saw Medtronic (MDT) settling at $101.6, representing a -1.16% change from its previous close.",
+   "url": "https://finnhub.io/api/news?id=5bb25364a65c36556a7e77ce9d25440dcc2c205d4d241ae72cf35d161cd119ee",
+   "source": "Yahoo",
+   "published": "2026-11-10T21:45:02+00:00",
+   "tickers": [
+    "MDT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -1203,6 +1263,21 @@
    ]
   },
   {
+   "id": "dd9f021935da",
+   "headline": "PRECISION Study Published in ESMO Open Highlights Utility of Guardant360\u00ae Liquid and Guardant Reveal\u00ae to Assess Recurrence Risk After Surgery for Colorectal Cancer Metastases",
+   "summary": "PALO ALTO, Calif., November 10, 2026--Guardant Health, Inc. (Nasdaq: GH), a leading precision oncology company, today announced that ESMO Open has published results from PRECISION, a prospective multicenter observational study in Japan\u2026",
+   "url": "https://finnhub.io/api/news?id=468bf4e6801fecaa11119d6453c2f5dedba0884ddfb475a848c726059597e31d",
+   "source": "Yahoo",
+   "published": "2026-11-10T21:05:00+00:00",
+   "tickers": [
+    "GH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "a6839494785a",
    "headline": "Neurocrine Biosciences to Present at the 2026 Jefferies Global Healthcare Conference",
    "summary": "SAN DIEGO, Nov. 10, 2026 /PRNewswire/ -- Neurocrine Biosciences, Inc. (Nasdaq: NBIX) announced today that its executives will participate at the 2026 Jefferies Global Healthcare Conference in London at 3:30 p.m. Greenwich Mean Time (10:30\u2026",
@@ -1286,6 +1361,21 @@
    "tag": "FDA",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "2b0f0d964041",
+   "headline": "AstraZeneca awards $1.6 million for programs to improve access to healthcare for patients across the US",
+   "summary": "WILMINGTON, Del., November 10, 2026--AstraZeneca today announced $1.6 million in grants to nonprofit organizations across the US through its Accelerate Change Together (ACT) on Health Equity initiative. The initiative supports programs\u2026",
+   "url": "https://finnhub.io/api/news?id=2dc53469748d091a9fdb10a6f34550546fd58618fe568bb9eeda2c3aae6cfc2f",
+   "source": "Yahoo",
+   "published": "2026-11-10T20:20:00+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1981,6 +2071,7 @@
    "source": "Yahoo",
    "published": "2026-11-10T18:13:00+00:00",
    "tickers": [
+    "AZN",
     "JNJ",
     "MRK",
     "PFE"
@@ -2185,6 +2276,21 @@
    "tag": "M&A",
    "sectors": [
     "pharmacy"
+   ]
+  },
+  {
+   "id": "8c9477ca6ef5",
+   "headline": "Tempus AI (TEM) Surged on Data Business Momentum and MRD Testing Expansion",
+   "summary": "Baron Capital, an investment management company, released its Q3 2026 investor letter for the \u201cBaron Discovery Fund\u201d. The letter can be downloaded here. In the quarter, the fund declined 4.16% (institutional shares), outperforming the\u2026",
+   "url": "https://finnhub.io/api/news?id=7f7b3d3353e0671ef34c630dbf9d5d2f7444c78dc76d97112acc9a6842a6b591",
+   "source": "Yahoo",
+   "published": "2026-11-10T17:44:54+00:00",
+   "tickers": [
+    "TEM"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthai"
    ]
   },
   {
@@ -2409,6 +2515,21 @@
    "sectors": []
   },
   {
+   "id": "829c79cd3caa",
+   "headline": "European Stocks Close Mostly Higher in Tuesday Trading; Bank, Oil Stocks Rise as Mining, Auto Stocks Drop",
+   "summary": "The European stock markets closed mostly higher in Tuesday trading as crude oil prices continued to",
+   "url": "https://finnhub.io/api/news?id=63f5fefb085769e22f00daec3c3fbfd4d98663c5a9922de11061e2c3ea360483",
+   "source": "Yahoo",
+   "published": "2026-11-10T16:49:27+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "149fa5c7eee7",
    "headline": "Medicus Pharma shares rationale as CD228V becomes lead development priority",
    "summary": "Medicus Pharma CEO Dr Raza Bokhari joined Steve Darling from Proactive to discuss the company's third-quarter 2026 financial results, which showed a narrower net loss and lower general and administrative expenses as Medicus shifts its\u2026",
@@ -2563,6 +2684,7 @@
    "source": "Yahoo",
    "published": "2026-11-10T16:01:00+00:00",
    "tickers": [
+    "AZN",
     "BMY"
    ],
    "tag": "News",
@@ -2623,6 +2745,7 @@
    "source": "Yahoo",
    "published": "2026-11-10T15:51:00+00:00",
    "tickers": [
+    "AZN",
     "MRK",
     "PFE"
    ],
@@ -3509,6 +3632,21 @@
    ]
   },
   {
+   "id": "0dfb4ec66b2a",
+   "headline": "TransMedics (TMDX) Just Reclaimed the 200-Day Moving Average",
+   "summary": "When a stock breaks out above the 200-day simple moving average, good things could be on the horizon. How should investors react?",
+   "url": "https://finnhub.io/api/news?id=1265c36baffbe1f869f392c9ec21d14c4a4eba3ac1f08569d57f933ff2dea82d",
+   "source": "Yahoo",
+   "published": "2026-11-10T13:30:02+00:00",
+   "tickers": [
+    "TMDX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "7701ab73446c",
    "headline": "Wall Street Analysts Look Bullish on Boston Scientific (BSX): Should You Buy?",
    "summary": "Based on the average brokerage recommendation (ABR), Boston Scientific (BSX) should be added to one's portfolio. Wall Street analysts' overly optimistic recommendations cast doubt on the effectiveness of this highly sought-after metric.\u2026",
@@ -3872,6 +4010,36 @@
    ]
   },
   {
+   "id": "010e66b2a3f6",
+   "headline": "Omniose Announces Its Acquisition by AstraZeneca",
+   "summary": "ST. LOUIS, November 10, 2026--Omniose, a preclinical biotechnology company, today announced that it has been acquired by AstraZeneca. The acquisition follows a productive three-year exclusive research collaboration with AstraZeneca.",
+   "url": "https://finnhub.io/api/news?id=cd714d230fda0e31ae6e8670c3267cfb4fbc8caf10c65e13fc7a82764dceb0c2",
+   "source": "Yahoo",
+   "published": "2026-11-10T13:00:00+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "d7845c514329",
+   "headline": "Intellia Therapeutics to Present at Jefferies Global Healthcare Conference in London",
+   "summary": "CAMBRIDGE, Mass., Nov. 10, 2026 (GLOBE NEWSWIRE) -- Intellia Therapeutics, Inc. (Nasdaq: NTLA), a leading biopharmaceutical company focused on revolutionizing medicine leveraging CRISPR gene editing and other core technologies, today\u2026",
+   "url": "https://finnhub.io/api/news?id=7559cbb92b82bdb45dbebf92a2e193a2d66c2fa2b91e87b739ecb9bf4e63b020",
+   "source": "Yahoo",
+   "published": "2026-11-10T13:00:00+00:00",
+   "tickers": [
+    "NTLA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "6c2b18d69665",
    "headline": "Schr\u00f6dinger, Inc. (SDGR) Presents at 2026 UBS Global Healthcare Conference Transcript",
    "summary": "Schr\u00c3\u00b6dinger, Inc. (SDGR) 2026 UBS Global Healthcare Conference November 10, 2026 9:30 AM ESTCompany ParticipantsRichie Jain - Executive VP, CFO &...",
@@ -4071,6 +4239,21 @@
    "tag": "News",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "8e250ca03d50",
+   "headline": "Scholar Rock Holding Corporation (SRRK) Reports Q3 Loss, Beats Revenue Estimates",
+   "summary": "Scholar Rock (SRRK) delivered earnings and revenue surprises of +6.90% and +119.23%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=a5b47991465131f390d84502ccaf13b8f930913d5fa071faf41c16d26020ab92",
+   "source": "Yahoo",
+   "published": "2026-11-10T12:05:02+00:00",
+   "tickers": [
+    "ABSI"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthai"
    ]
   },
   {
@@ -4841,7 +5024,8 @@
    "source": "Yahoo",
    "published": "2026-11-10T09:09:10+00:00",
    "tickers": [
-    "CRSP"
+    "CRSP",
+    "NTLA"
    ],
    "tag": "News",
    "sectors": [
@@ -6286,6 +6470,21 @@
    "tag": "Clinical",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "4e2c6a67abf9",
+   "headline": "Guardant Health to Participate in Upcoming Investor Conferences",
+   "summary": "PALO ALTO, Calif., November 09, 2026--Guardant Health, Inc. (Nasdaq: GH), a leading precision oncology company, today announced the company will be participating in the following investor conferences.",
+   "url": "https://finnhub.io/api/news?id=4cc096995e3b8b7dfc81ccde1378f78b9a5b163d02ba8788b59cee2e884fcc6d",
+   "source": "Yahoo",
+   "published": "2026-11-09T21:30:00+00:00",
+   "tickers": [
+    "GH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -60991,21 +61190,6 @@
    "tag": "GLP-1",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "2f44382b836f",
-   "headline": "Is Cencora (COR) Fully Valued Following Its $2.4b American Oncology Network Deal?",
-   "summary": "Cencora (COR) has moved into the spotlight after agreeing to buy American Oncology Network in a deal valued at up to US$2.4b. The transaction reshapes its community cancer care footprint. Cencora\u2019s latest move comes after a mixed run in\u2026",
-   "url": "https://finnhub.io/api/news?id=957b45c358c1d06eb3e7feb6ddac41d096f3724cdcb7f48011ee4b03a7dc6fa1",
-   "source": "Yahoo",
-   "published": "2026-11-01T01:14:02+00:00",
-   "tickers": [
-    "COR"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "pharmacy"
    ]
   }
  ]
