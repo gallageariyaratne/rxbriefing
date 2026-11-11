@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-11T01:32:45.066236+00:00",
+ "updated": "2026-11-11T01:47:37.693767+00:00",
  "quotes": {
   "A": {
    "price": 177.88,
@@ -25,6 +25,10 @@
   "ALGN": {
    "price": 174.26,
    "change_pct": 0
+  },
+  "ALHC": {
+   "price": 7.67,
+   "change_pct": 5.5
   },
   "ALNY": {
    "price": 151.64,
@@ -317,10 +321,6 @@
   "SMMT": {
    "price": 17.83,
    "change_pct": -0.06
-  },
-  "SNY": {
-   "price": 48.23,
-   "change_pct": 0.23
   }
  },
  "tickers": {
@@ -938,6 +938,21 @@
  },
  "stories": [
   {
+   "id": "d17ada8b4fec",
+   "headline": "Two Neighbors Will Start Leqembi, Listed at $28,270 a Year. One With Medigap Plan G Will Owe $0 in Coinsurance After the Part B Deductible, While the Other Will Owe 20% of Medicare-Approved Infusion Costs",
+   "summary": "Two neighbors get the same Alzheimer's diagnosis and the same prescription, yet only one can count on a manageable bill. A missed registry rule and a closed enrollment window could decide who pays, and the clock runs out December 7.",
+   "url": "https://finnhub.io/api/news?id=a1850751bda7cdba7a00f33cde5775b63f596857044383d2834f18a5830bd607",
+   "source": "Yahoo",
+   "published": "2026-11-11T01:03:24+00:00",
+   "tickers": [
+    "BIIB"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "e6d9da6a249c",
    "headline": "Color Health launches collabs with NCI-designated cancer centers to streamline intake",
    "summary": "Color and collaborating cancer centers aim to streamline time to treatment through coordinated workup and records preparation, as well as custom intake workflows.",
@@ -947,6 +962,36 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "7c8106ce2e26",
+   "headline": "UnitedHealth Group (UNH) Will Drop Medicare Plans In 140 Counties And Leave Wyoming",
+   "summary": "UnitedHealth Group (NYSE:UNH) plans to discontinue some UnitedHealthcare Medicare Advantage products across 140 counties for the 2027 plan year. The insurer will fully exit Medicare coverage in Wyoming in 2027, withdrawing both Medicare\u2026",
+   "url": "https://finnhub.io/api/news?id=906f32e5c385c34c7d72db78716eb91e233f8857e1c86d7ef08723b41d5601e5",
+   "source": "Yahoo",
+   "published": "2026-11-11T00:16:46+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "7c8dbf648a16",
+   "headline": "Beam Therapeutics (BEAM) Clears A Key Trial As The Undervalued Case Faces A Test",
+   "summary": "Beam Therapeutics (BEAM) just crossed a major clinical hurdle. The firm reported that its sickle cell therapy candidate, ristoglogene autogetemcel, met all primary and secondary endpoints in the BEACON Phase 1/2 trial. Beam Therapeutics\u2026",
+   "url": "https://finnhub.io/api/news?id=39098cd0cbe2ae0024ccf5b1a35ef6649106793db2dfc5e1e9bf0cbf7eb6804c",
+   "source": "Yahoo",
+   "published": "2026-11-11T00:16:35+00:00",
+   "tickers": [
+    "BEAM"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
+   ]
   },
   {
    "id": "d208e44263ff",
@@ -2501,6 +2546,36 @@
    "tickers": [],
    "tag": "FDA",
    "sectors": []
+  },
+  {
+   "id": "948baeb9c3a3",
+   "headline": "Beam\u2019s base editing therapy for sickle cell hits goal in pivotal trial",
+   "summary": "The result represents a scientific milestone and positions Beam to submit a first-of-its-kind FDA application as soon as the end of the year.",
+   "url": "https://finnhub.io/api/news?id=b2e92cbe05ba3c14c0255fcf4f97de40e5adf2c55fe388b7091ffb6649749b62",
+   "source": "Yahoo",
+   "published": "2026-11-10T17:06:00+00:00",
+   "tickers": [
+    "BEAM"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "be42381772fe",
+   "headline": "Beam Therapeutics to seek approval of SCD cell therapy after trial success",
+   "summary": "The cell therapy met its primary and secondary endpoints in the study, with Beam now eyeing regulatory approval.",
+   "url": "https://finnhub.io/api/news?id=e4c0abb680538c7836effa87a74efea70892c49468a863128dada15348817187",
+   "source": "Yahoo",
+   "published": "2026-11-10T17:05:03+00:00",
+   "tickers": [
+    "BEAM"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "biotech"
+   ]
   },
   {
    "id": "40119a519b0e",
@@ -4100,6 +4175,21 @@
    ]
   },
   {
+   "id": "bb9e41f92bf1",
+   "headline": "Survey Suggests a Simple Beverage Swap Can Inspire Healthier Habits Among Seniors",
+   "summary": "A survey of Alignment Health Plan members found that a healthier everyday alternative increased motivation to make positive lifestyle choices and left members feeling cared for by their health planORANGE, Calif., Nov. 10, 2026 (GLOBE\u2026",
+   "url": "https://finnhub.io/api/news?id=953289741a1fffd2f3f7cadd8010df2750128bba0419bd38138e2ab870612fb3",
+   "source": "Yahoo",
+   "published": "2026-11-10T13:00:00+00:00",
+   "tickers": [
+    "ALHC"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "6c2b18d69665",
    "headline": "Schr\u00f6dinger, Inc. (SDGR) Presents at 2026 UBS Global Healthcare Conference Transcript",
    "summary": "Schr\u00c3\u00b6dinger, Inc. (SDGR) 2026 UBS Global Healthcare Conference November 10, 2026 9:30 AM ESTCompany ParticipantsRichie Jain - Executive VP, CFO &...",
@@ -4443,6 +4533,21 @@
     "LEGN"
    ],
    "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "e4758ca2ab22",
+   "headline": "Beam Therapeutics Announces Positive Topline Pivotal Data from BEACON Phase 1/2 Trial of Risto-cel in Patients with Sickle Cell Disease",
+   "summary": "BEACON Trial Achieved Primary Efficacy Endpoint of Freedom from Severe Vaso-occlusive Crises (VOCs) for at Least 12 Consecutive Months, Based on Independently Adjudicated Results, and Met All Primary Safety Endpoints at the Prespecified\u2026",
+   "url": "https://finnhub.io/api/news?id=6f24080aba8aa97c615de9fb4473ba1551447a8aed79fad9a372791898cccc8f",
+   "source": "Yahoo",
+   "published": "2026-11-10T12:00:00+00:00",
+   "tickers": [
+    "BEAM"
+   ],
+   "tag": "Clinical",
    "sectors": [
     "biotech"
    ]
