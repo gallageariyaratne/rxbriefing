@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-12T02:17:42.084498+00:00",
+ "updated": "2026-11-12T02:32:44.116016+00:00",
  "quotes": {
   "A": {
    "price": 176.95,
@@ -37,6 +37,10 @@
   "ASND": {
    "price": 259.28,
    "change_pct": 1.05
+  },
+  "AXSM": {
+   "price": 149.24,
+   "change_pct": 5.87
   },
   "AZN": {
    "price": 185.48,
@@ -258,6 +262,10 @@
    "price": 12.81,
    "change_pct": -2.44
   },
+  "PINC": {
+   "price": 49.22,
+   "change_pct": -0.06
+  },
   "PODD": {
    "price": 150.03,
    "change_pct": 1.33
@@ -290,10 +298,6 @@
    "price": 20.84,
    "change_pct": -0.43
   },
-  "TECH": {
-   "price": 72.8,
-   "change_pct": -0.03
-  },
   "TEM": {
    "price": 79.43,
    "change_pct": -1.38
@@ -317,10 +321,6 @@
   "TWST": {
    "price": 122.59,
    "change_pct": -7.22
-  },
-  "UHS": {
-   "price": 196.77,
-   "change_pct": 0.7
   }
  },
  "tickers": {
@@ -938,6 +938,51 @@
  },
  "stories": [
   {
+   "id": "a4b145ac8ffd",
+   "headline": "These 5 Dividend Aristocrats\u00ae Have Raised Payouts for Decades",
+   "summary": "Investors worried about market turmoil may want to look at reliable dividend stocks, and these five stand out.",
+   "url": "https://finnhub.io/api/news?id=58facd99869ab1fa943f556e75eba1b86f93cd90ed151d3c6fc0c84313be3d85",
+   "source": "Yahoo",
+   "published": "2026-11-12T01:35:00+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "a249d109db51",
+   "headline": "BioMarin Pharmaceutical Hits $1 Billion Revenue Milestone, Advances Rare-Disease Pipeline",
+   "summary": "BioMarin Pharmaceutical (NASDAQ:BMRN) is advancing a group of newly acquired rare-disease drug candidates while integrating Amicus Therapeutics and working to reduce debt, executives said during a company discussion. Chief Financial\u2026",
+   "url": "https://finnhub.io/api/news?id=24e496e3f4b4d52ab04c359a85d2753b7a462ee5912c07c9b797e5edca843a45",
+   "source": "Yahoo",
+   "published": "2026-11-12T01:12:39+00:00",
+   "tickers": [
+    "BMRN"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "b745e815c391",
+   "headline": "OTP Bank PLC (OTPBF) Q3 2026 Earnings Call Highlights: Strong Organic Growth and Capital ...",
+   "summary": "OTP Bank PLC (OTPBF) delivered 12% organic loan growth, a 4.6% net interest margin, and a 17.8% CET1 ratio, but one-off provisions, rising costs, and special taxes weighed on profit growth.",
+   "url": "https://finnhub.io/api/news?id=5473bc4e448e82b82bc398ad7656bc0ddfb81c089553f8f43ad71f7b0c20523d",
+   "source": "Yahoo",
+   "published": "2026-11-12T01:05:24+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "1554d0e1ea46",
    "headline": "Novo Nordisk (CPSE:NOVO B) Stock Still Looks Undervalued As Shares Fell 56%",
    "summary": "Novo Nordisk has had a rough three years in the market, even as interest in its GLP-1 obesity and diabetes treatments has grown. This puts an unusual spotlight on what investors are actually paying for its earnings today. With the share\u2026",
@@ -965,6 +1010,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "d851e489fc1c",
+   "headline": "Nasdaq Sell-Off: 2 Stocks to Buy on the Dip and Hold for 5 Years",
+   "summary": "Look beyond the recent volatility.",
+   "url": "https://finnhub.io/api/news?id=b93e5aa60c0fbc3d25b335c8b0893f7235ce842f4a74ee8449b26682a367c178",
+   "source": "Yahoo",
+   "published": "2026-11-11T23:26:02+00:00",
+   "tickers": [
+    "AXSM"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -1410,6 +1470,21 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "0af2d2c3ec3e",
+   "headline": "Is Novartis (SWX:NOVN) A Bargain Or Fully Priced Now?",
+   "summary": "Novartis has delivered strong multi year gains for shareholders, yet the recent run leaves a clear question on the table about whether the current share price is still aligned with what its earnings can support. With new clinical data,\u2026",
+   "url": "https://finnhub.io/api/news?id=855488b423620dfa0e40d5e3c94e7fc20599b9b2c4e56b35866ed9b8c9d572a7",
+   "source": "Yahoo",
+   "published": "2026-11-11T20:12:21+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -2753,6 +2828,21 @@
    ]
   },
   {
+   "id": "6553b021783d",
+   "headline": "De' Longhi Group: Record Results for the Quarter, With Revenue Growing by 7.7% and Net Profit Pertaining to the Group Progressing Significantly by 19%",
+   "summary": "TREVISO, Italy, November 11, 2026--The Board of Directors of De' Longhi S.p.A. approved the consolidated results1 for the nine months of 2026.",
+   "url": "https://finnhub.io/api/news?id=0ee4ccdefbe1861eab7d768279071c286e0860ee0c13f40e97c61a5b55dc251c",
+   "source": "Yahoo",
+   "published": "2026-11-11T14:58:00+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "0f556bc1abcc",
    "headline": "Google Cloud debuts Gemini for healthcare",
    "summary": "Google is the latest big tech company to launch a healthcare-specific agentic AI platform. The company touts the platform\u2019s ability to integrate with third-party tools and automate clinical and administrative tasks.",
@@ -2863,7 +2953,8 @@
    "published": "2026-11-11T14:27:00+00:00",
    "tickers": [
     "BMY",
-    "GILD"
+    "GILD",
+    "NVS"
    ],
    "tag": "News",
    "sectors": [
@@ -3008,6 +3099,21 @@
    "tag": "News",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "5109803099b9",
+   "headline": "Novartis (SWX:NOVN) Halts Pelacarsen After Trial Miss As Ianalumab Data Impresses",
+   "summary": "Novartis (SWX:NOVN) halted development of its cardiovascular drug pelacarsen after a late stage outcome trial failed to meet its goal. The decision affects Novartis' efforts in cardiovascular risk reduction, a major therapeutic area for\u2026",
+   "url": "https://finnhub.io/api/news?id=fc6aa08574e3f3377a68b5e5715723f91c30bc5bf317dd39723a2bc00ed28dbb",
+   "source": "Yahoo",
+   "published": "2026-11-11T14:15:22+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -3272,6 +3378,21 @@
    ]
   },
   {
+   "id": "0d6fd32491d6",
+   "headline": "Polymedco, LLC awarded National Group Purchasing Agreement with Premier, Inc.",
+   "summary": "CORTLANDT MANOR, N.Y., November 11, 2026--Polymedco, LLC has been awarded a national group purchasing agreement for National Group Purchasing Agreement with Premier, Inc. Effective November 1, 2026, the new agreement allows Premier\u2026",
+   "url": "https://finnhub.io/api/news?id=c0f56309642be7e1df53bbc333e67e06ae744bb626987a0f7bef2abf05da99ab",
+   "source": "Yahoo",
+   "published": "2026-11-11T13:41:00+00:00",
+   "tickers": [
+    "PINC"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "153030726cc1",
    "headline": "Moderna Stock Jumped 10% in 5 Sessions: Take Profits, or Buy More?",
    "summary": "Key TakeawaysModerna (MRNA) stock gained approximately 9. 8% over five trading sessions, closing at $250.",
@@ -3519,7 +3640,8 @@
    "source": "Yahoo",
    "published": "2026-11-11T13:00:17+00:00",
    "tickers": [
-    "AMGN"
+    "AMGN",
+    "NVS"
    ],
    "tag": "News",
    "sectors": [
@@ -4513,6 +4635,21 @@
    "tag": "GLP-1",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "a3a43f46ae35",
+   "headline": "QT Imaging Holdings Inc (QTI) Q3 2026 Earnings Call Highlights: Revenue Jumps 75% as CMS ...",
+   "summary": "QT Imaging Holdings Inc (QTI) posted 75% revenue growth and scored its first Medicare reimbursement victory, but Middle East shipment delays forced a cut to full-year guidance.",
+   "url": "https://finnhub.io/api/news?id=9fc300013bd11ce5187bce5297fdf8153abb5d66dd983b110c97211decb125d1",
+   "source": "Yahoo",
+   "published": "2026-11-11T05:09:34+00:00",
+   "tickers": [
+    "PINC"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
    ]
   },
   {
