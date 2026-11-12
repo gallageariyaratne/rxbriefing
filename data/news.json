@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-12T01:47:36.526561+00:00",
+ "updated": "2026-11-12T02:02:45.515551+00:00",
  "quotes": {
   "A": {
    "price": 176.95,
@@ -266,10 +266,6 @@
    "price": 50.3,
    "change_pct": -0.42
   },
-  "RARE": {
-   "price": 16.7,
-   "change_pct": 3.47
-  },
   "REGN": {
    "price": 959.41,
    "change_pct": 4.73
@@ -281,6 +277,10 @@
   "ROIV": {
    "price": 41.85,
    "change_pct": 1.6
+  },
+  "RVMD": {
+   "price": 180.7,
+   "change_pct": -6.4
   },
   "TAK": {
    "price": 20.84,
@@ -317,10 +317,6 @@
   "UNH": {
    "price": 402.94,
    "change_pct": -0.54
-  },
-  "UTHR": {
-   "price": 595.66,
-   "change_pct": 1.2
   }
  },
  "tickers": {
@@ -2233,7 +2229,8 @@
    "source": "Yahoo",
    "published": "2026-11-11T16:02:00+00:00",
    "tickers": [
-    "ALNY"
+    "ALNY",
+    "IONS"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -4380,7 +4377,8 @@
    "source": "Yahoo",
    "published": "2026-11-11T05:03:53+00:00",
    "tickers": [
-    "INSM"
+    "INSM",
+    "RVMD"
    ],
    "tag": "News",
    "sectors": [
