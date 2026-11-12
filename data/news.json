@@ -1,10 +1,46 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-12T12:32:36.236903+00:00",
+ "updated": "2026-11-12T12:47:30.908635+00:00",
  "quotes": {
+  "A": {
+   "price": 176.95,
+   "change_pct": -0.52
+  },
+  "ABBV": {
+   "price": 294.98,
+   "change_pct": 0.37
+  },
+  "ABSI": {
+   "price": 10.12,
+   "change_pct": 1.5
+  },
+  "ABT": {
+   "price": 109.29,
+   "change_pct": -1.06
+  },
+  "ALNY": {
+   "price": 159.85,
+   "change_pct": 5.41
+  },
+  "ALT": {
+   "price": 1.93,
+   "change_pct": -0.52
+  },
+  "AMGN": {
+   "price": 468.11,
+   "change_pct": 0.62
+  },
+  "ARGX": {
+   "price": 977.58,
+   "change_pct": 0.62
+  },
   "ARWR": {
    "price": 49.36,
    "change_pct": 0.73
+  },
+  "ASND": {
+   "price": 259.28,
+   "change_pct": 1.05
   },
   "AXSM": {
    "price": 149.24,
@@ -285,14 +321,6 @@
   "UHS": {
    "price": 196.77,
    "change_pct": 0.7
-  },
-  "UNH": {
-   "price": 402.94,
-   "change_pct": -0.54
-  },
-  "UTHR": {
-   "price": 595.66,
-   "change_pct": 1.2
   }
  },
  "tickers": {
@@ -910,6 +938,58 @@
  },
  "stories": [
   {
+   "id": "e185c5bae2ef",
+   "headline": "Radiopharma player PharmaLogic snaps up Lantheus' CDMO business, plant as Curium acquisition advances",
+   "summary": "With Lantheus in the process of being bought out by fellow radiopharmaceutical player Curium, the company is offloading its CDMO business and a U.S. manufacturing facility to another nuclear medicine specialist, PharmaLogic.",
+   "url": "https://www.fiercepharma.com/pharma/radiopharma-player-pharmalogic-snaps-lantheus-cdmo-business-plant-curium-acquisition",
+   "source": "Fierce Pharma",
+   "published": "2026-11-12T12:45:20.532142+00:00",
+   "tickers": [],
+   "tag": "M&A",
+   "sectors": []
+  },
+  {
+   "id": "61c6a9014360",
+   "headline": "Experts update prostate cancer screening guidelines for men",
+   "summary": "Are you an American man between 50 and 69? You might want to get checked for prostate cancer, ACS says in reversal of previous guidelines.",
+   "url": "https://www.statnews.com/2026/11/12/health-news-experts-update-prostate-cancer-screening-guidelines-for-men/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-11-12T12:32:57+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "623558a0f33c",
+   "headline": "Altimmune Announces Third Quarter 2026 Financial Results and Business Update",
+   "summary": "Global PERFORMA Phase 3 trial in MASH progressing as planned",
+   "url": "https://www.globenewswire.com/news-release/2026/11/12/3401460/0/en/altimmune-announces-third-quarter-2026-financial-results-and-business-update.html",
+   "source": "GlobeNewswire",
+   "published": "2026-11-12T12:30:00+00:00",
+   "tickers": [
+    "ALT"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "adaad265e222",
+   "headline": "Ascendis Pharma Reports Third Quarter 2026 Financial Results",
+   "summary": "COPENHAGEN, Denmark, Nov. 12, 2026 (GLOBE NEWSWIRE) -- Ascendis Pharma A/S (Nasdaq: ASND) today announced financial results for the third quarter ended September 30, 2026, and provided a business update.",
+   "url": "https://www.globenewswire.com/news-release/2026/11/12/3401477/0/en/ascendis-pharma-reports-third-quarter-2026-financial-results.html",
+   "source": "GlobeNewswire",
+   "published": "2026-11-12T12:30:00+00:00",
+   "tickers": [
+    "ASND"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "0987ae6c7901",
    "headline": "Absci Reports Business Updates and Third Quarter 2026 Financial and Operating Results",
    "summary": "ABS-201\u2122 HEADLINE\u2122 trial progressing on track; 13-week interim proof-of-concept data for pattern hair loss (PHL) anticipated next month",
@@ -981,6 +1061,36 @@
    ]
   },
   {
+   "id": "25bdc36cb91b",
+   "headline": "Eli Lilly Shares Rise 2.8% After China Approves Orforglipron Weight-Loss Pill",
+   "summary": "Eli Lilly (NYSE:LLY) shares advanced 2. 8% in pre-market trading on Thursday after China\u2019s medicines regulator approved the company\u2019s oral weight-loss treatment, orforglipron, expanding its presence in the country\u2019s obesity treatment\u2026",
+   "url": "https://finnhub.io/api/news?id=027e265a63f5d37488f309d03e7f7b3bfa87af50aec113af38d97185e73b93f2",
+   "source": "Yahoo",
+   "published": "2026-11-12T11:24:34+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "b25515908045",
+   "headline": "Lilly Stock Rises as China Clears Its Weight-Loss Pill",
+   "summary": "The pill will compete with GLP-1 injections from Novo, Pfizer and Innovent",
+   "url": "https://finnhub.io/api/news?id=9d67f54684c22cc9deb49ff92b2bdcfdbeded44013b273da97a88f5cfe2ff154",
+   "source": "Yahoo",
+   "published": "2026-11-12T11:18:59+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "7aeff11ec8a6",
    "headline": "De'Longhi (BIT:DLG) Stock Trades Near Fair Value Following Its 93% Run",
    "summary": "De'Longhi shares have had a strong few years, which naturally raises the question of whether the current price properly lines up with the cash the business is expected to generate. With the stock recently around \u20ac47.0, the focus turns to\u2026",
@@ -1034,7 +1144,8 @@
    "published": "2026-11-12T11:05:54+00:00",
    "tickers": [
     "ABBV",
-    "JNJ"
+    "JNJ",
+    "UNH"
    ],
    "tag": "News",
    "sectors": [
@@ -1073,6 +1184,21 @@
    ]
   },
   {
+   "id": "0a612b399a7a",
+   "headline": "What iShares Russell 2000 (IWM) Sold: Glaukos Leads on Nov. 10",
+   "summary": "The fund sold $367.5 million of stock and bought nothing, cutting 1,874 positions while increasing none.",
+   "url": "https://finnhub.io/api/news?id=f3b48f308e97bbabd70562aedfaab834acad6728e52a264ea60179cff5180be3",
+   "source": "Yahoo",
+   "published": "2026-11-12T11:05:01+00:00",
+   "tickers": [
+    "GKOS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "fed7c2a28e48",
    "headline": "iShares Core S&P Mid-Cap (IJH) Adds TechnipFMC and United Therapeutics on Tuesday",
    "summary": "The $125.52 billion fund bought $187.1 million of stock and sold almost nothing, lifting 380 positions.",
@@ -1089,6 +1215,21 @@
    ]
   },
   {
+   "id": "2cf839cea6bd",
+   "headline": "45 ETFs Add to Amgen (AMGN) Holdings on Tuesday",
+   "summary": "ETFs bought a net $66.8 million of Amgen stock on Tuesday, Nov. 10.",
+   "url": "https://finnhub.io/api/news?id=09a7fb4decb3d7fd26cceef3c2953cee16f5cc339fbb0ac78bd17103fe1841f0",
+   "source": "Yahoo",
+   "published": "2026-11-12T11:02:01+00:00",
+   "tickers": [
+    "AMGN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "62bd1f3473cd",
    "headline": "QXO Appoints Dev Ahuja as Chief Financial Officer and Promotes Ihsan Essaid to Vice Chairman",
    "summary": "GREENWICH, Conn., November 12, 2026--QXO, Inc. (NYSE: QXO) today announced the appointment of Dev Ahuja as the company\u2019s Chief Financial Officer. He will succeed Ihsan Essaid, who has been promoted to Vice Chairman, an executive role,\u2026",
@@ -1099,6 +1240,36 @@
     "NVS"
    ],
    "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "99a0d085c857",
+   "headline": "Here's Why You Should Retain CONMED Stock in Your Portfolio for Now",
+   "summary": "CONMED's AirSeal, Buffalo Filter and BioBrace platforms offer growth opportunities, while rising robotic procedures and ASC adoption support its long-term prospects despite tariff and operational headwinds.",
+   "url": "https://finnhub.io/api/news?id=d3b63a066de3eddc623784e36506fb439c246c9d9d2d4640b509b79a4e776c0f",
+   "source": "Yahoo",
+   "published": "2026-11-12T10:54:00+00:00",
+   "tickers": [
+    "GKOS"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "c755ab36e264",
+   "headline": "Eli Lilly stock rises after China approves weight-loss pill",
+   "summary": "Investing.com -- Eli Lilly shares gained 2.8% premarket Thursday after China's medicine regulator approved the company's weight-loss pill orforglipron.",
+   "url": "https://finnhub.io/api/news?id=0ffd02aadac67ecc34c9ec79ce0608f44af3a040d7d82b4a15b67e4a28229ae2",
+   "source": "Yahoo",
+   "published": "2026-11-12T10:37:09+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "FDA",
    "sectors": [
     "pharma"
    ]
@@ -1343,6 +1514,21 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "165e20a1b5ab",
+   "headline": "Universal Health Services: The Blue Wave Makes These Shares Very Appealing (Strong Buy)",
+   "summary": "Analyst rates UHS a Strong Buy, expecting its earnings multiple, now around 8x, to re-rate to around 11x in 2027, with a $245 target.",
+   "url": "https://finnhub.io/api/news?id=e773151b015023255411543045ecbe3579114414efc5df41ec39f2f2ce20e35c",
+   "source": "SeekingAlpha",
+   "published": "2026-11-12T06:44:43+00:00",
+   "tickers": [
+    "UHS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -63832,49 +64018,6 @@
    "tag": "Earnings",
    "sectors": [
     "healthai"
-   ]
-  },
-  {
-   "id": "9c6fc70fb0db",
-   "headline": "Post-midterms, hospitals still face a long road to policy relief, advisers warn",
-   "summary": "Regardless of where this week's midterms land, hospitals have their work cut out for them in navigating impending policy headwinds unlikely to vanish in 2027 and beyond, consultants and health system heads warn.",
-   "url": "https://www.fiercehealthcare.com/providers/hospitals-cant-wait-friendlier-washington-solve-policy-headwinds-brg",
-   "source": "Fierce Healthcare",
-   "published": "2026-11-02T12:45:24.998043+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "6c0528f4baa1",
-   "headline": "BMY Up 3% Post Q3 Earnings: Should You Buy, Sell or Hold the Stock?",
-   "summary": "Bristol Myers Squibb gains 3% after beating third-quarter estimates, as its Growth Portfolio and promising pipeline support revenue prospects despite generic competition.",
-   "url": "https://finnhub.io/api/news?id=48405454bdb6f61370d9cf896948802f99b28db71b7d99868b3cefeec0fd09da",
-   "source": "Yahoo",
-   "published": "2026-11-02T12:45:00+00:00",
-   "tickers": [
-    "BMY",
-    "MRK",
-    "PFE"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "e14cb49d16c5",
-   "headline": "UBS Just Initiated Coverage of Viking Therapeutics With a Buy Rating and a $94 Target. Here's the Bull Case.",
-   "summary": "Trial results for its weight loss drugs could justify a higher valuation for the clinical-stage biotech.",
-   "url": "https://finnhub.io/api/news?id=dd27fdd1d7decc494b783cfa87804860e96144148e1d91bde6c51a91139d1236",
-   "source": "Yahoo",
-   "published": "2026-11-02T12:42:00+00:00",
-   "tickers": [
-    "VKTX"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "biotech"
    ]
   }
  ]
