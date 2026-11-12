@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-12T06:02:39.827726+00:00",
+ "updated": "2026-11-12T06:17:33.440447+00:00",
  "quotes": {
   "A": {
    "price": 176.95,
@@ -250,10 +250,6 @@
    "price": 160.32,
    "change_pct": -1.8
   },
-  "OMCL": {
-   "price": 35.57,
-   "change_pct": -0.92
-  },
   "PFE": {
    "price": 29.45,
    "change_pct": 0.31
@@ -321,6 +317,10 @@
   "TWST": {
    "price": 122.59,
    "change_pct": -7.22
+  },
+  "UHS": {
+   "price": 196.77,
+   "change_pct": 0.7
   }
  },
  "tickers": {
@@ -937,6 +937,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "41b52dfe550f",
+   "headline": "Ginkgo Bioworks Holdings Inc (DNA) Q3 2026 Earnings Call Highlights: Cost Cuts, First Big ...",
+   "summary": "Ginkgo Bioworks Holdings Inc (DNA) narrowed its net loss 44% and landed Novo Nordisk as its first autonomous lab customer, even as revenue slipped 6% and cash burn stayed high.",
+   "url": "https://finnhub.io/api/news?id=516ce2aa9848663aa0e68a3136ff46f6669a8ae64454c7d29cc22e05aba17883",
+   "source": "Yahoo",
+   "published": "2026-11-12T05:05:29+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
   {
    "id": "3abe398d64cb",
    "headline": "CVS Beat Earnings by 27% and Split in Two, and Elizabeth Warren Says She Is Not Fooled",
@@ -65368,38 +65383,6 @@
    "tag": "Analyst",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "44f02ec6205d",
-   "headline": "SLS, IBRX, IOVA End October In Red: Merck And AstraZeneca Earnings Put Cancer Bets And Buyout Hopes In Focus",
-   "summary": "AstraZeneca emphasized ADC combinations, cell therapies and internally developed cancer vaccines as key oncology priorities.",
-   "url": "https://finnhub.io/api/news?id=31c078a11e9e6acbe5168571eb2d4c69a7611c7cda96026040de80a41952d863",
-   "source": "Yahoo",
-   "published": "2026-11-02T06:11:35+00:00",
-   "tickers": [
-    "AZN",
-    "MRK",
-    "MRNA"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "55716d29c479",
-   "headline": "Is Doximity (DOCS) Priced Right After Its DoseCheck Launch?",
-   "summary": "Doximity has been a volatile ride for shareholders, with big gains earlier in its life as a listed company followed by steep declines that leave many holders reassessing what they actually own. With the stock now around US$32.76, the key\u2026",
-   "url": "https://finnhub.io/api/news?id=bcbc2dca428bd99c7d7d1dcf9bc59febdca1a4ca287243e4f1529b857545ddf6",
-   "source": "Yahoo",
-   "published": "2026-11-02T06:09:18+00:00",
-   "tickers": [
-    "DOCS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "healthit"
    ]
   }
  ]
