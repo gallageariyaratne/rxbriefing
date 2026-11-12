@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-12T01:32:49.026119+00:00",
+ "updated": "2026-11-12T01:47:36.526561+00:00",
  "quotes": {
   "A": {
    "price": 176.95,
@@ -306,6 +306,10 @@
    "price": 717.71,
    "change_pct": -0.07
   },
+  "TWST": {
+   "price": 122.59,
+   "change_pct": -7.22
+  },
   "UHS": {
    "price": 196.77,
    "change_pct": 0.7
@@ -317,10 +321,6 @@
   "UTHR": {
    "price": 595.66,
    "change_pct": 1.2
-  },
-  "VEEV": {
-   "price": 304.77,
-   "change_pct": -0.26
   }
  },
  "tickers": {
@@ -1851,6 +1851,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "09fc2c82192a",
+   "headline": "BEAM Stock Falls 7% Despite Meeting Primary Endpoints in SCD Study",
+   "summary": "Beam Therapeutics reports positive BEACON study results for risto-cel in sickle cell disease, paving the way for a potential FDA filing by year-end 2026.",
+   "url": "https://finnhub.io/api/news?id=3a7e9e9fadec2c8eb1f17b67d03245a2734e30af11aac9bc360566efb34fb144",
+   "source": "Yahoo",
+   "published": "2026-11-11T17:06:00+00:00",
+   "tickers": [
+    "BEAM"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -3505,6 +3520,21 @@
    ]
   },
   {
+   "id": "daba0575bcea",
+   "headline": "Twist Bioscience Corporation Announces Inducement Grants under NASDAQ Listing Rule 5635(c)(4)",
+   "summary": "SOUTH SAN FRANCISCO, Calif., November 11, 2026--As required by the rules of the Nasdaq Stock Market, Twist Bioscience Corporation (NASDAQ: TWST) (\"Twist\" or the \"Company\"), a mid-cap growth and value healthcare company, today announced\u2026",
+   "url": "https://finnhub.io/api/news?id=bd0c6b2a7091a4b3bb97d4a76c4170f07c21c4b688a531222525e9c2a1352da5",
+   "source": "Yahoo",
+   "published": "2026-11-11T13:00:00+00:00",
+   "tickers": [
+    "TWST"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "6615d0a45593",
    "headline": "Buy, Sell, or Hold? Wednesday\u2019s Top Upgrades and Downgrades: Akamai Technologies, Apple, BILL Holdings, Corning, Form Factor, Guidewire Software, NVIDIA, Riot Platforms, Toast, and More",
    "summary": "Hot inflation data rattled Tuesday's close, and now one chip giant faces a Baird downgrade tied to concerns about its CEO. Which analyst calls, from Apple's upgrade to a steep Akamai cut, deserve your attention before the bell?",
@@ -4340,6 +4370,21 @@
    "tag": "GLP-1",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "4d635ff2f7f7",
+   "headline": "Stanley Druckenmiller\u2019s Best Buy Is Already Up 29%. Is It Too Late to Follow Him?",
+   "summary": "Key TakeawaysFox is up 29% since June 30. That\u2019s the best result among the nine stocks Stanley Druckenmiller\u2019s Duquesne Family Office bought or added to in the second quarter.",
+   "url": "https://finnhub.io/api/news?id=3fd961c9ef24dbaf1a6643783c22df9a3e2166d4207e3aa24a5c265ed00efd85",
+   "source": "Yahoo",
+   "published": "2026-11-11T05:03:53+00:00",
+   "tickers": [
+    "INSM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
