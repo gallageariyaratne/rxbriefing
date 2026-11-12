@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-12T06:32:42.843507+00:00",
+ "updated": "2026-11-12T06:47:34.661600+00:00",
  "quotes": {
   "A": {
    "price": 176.95,
@@ -182,10 +182,6 @@
    "price": 122.27,
    "change_pct": 1.64
   },
-  "INSM": {
-   "price": 120.75,
-   "change_pct": 1.05
-  },
   "IONS": {
    "price": 28.33,
    "change_pct": 0.5
@@ -217,10 +213,6 @@
   "MCK": {
    "price": 1079.79,
    "change_pct": -0.26
-  },
-  "MDGL": {
-   "price": 433.03,
-   "change_pct": 0.1
   },
   "MDT": {
    "price": 101.61,
@@ -298,10 +290,6 @@
    "price": 79.43,
    "change_pct": -1.38
   },
-  "TGTX": {
-   "price": 65.76,
-   "change_pct": 2.33
-  },
   "THC": {
    "price": 292.97,
    "change_pct": 0.93
@@ -321,6 +309,18 @@
   "UHS": {
    "price": 196.77,
    "change_pct": 0.7
+  },
+  "UNH": {
+   "price": 402.94,
+   "change_pct": -0.54
+  },
+  "UTHR": {
+   "price": 595.66,
+   "change_pct": 1.2
+  },
+  "VEEV": {
+   "price": 304.77,
+   "change_pct": -0.26
   }
  },
  "tickers": {
@@ -937,6 +937,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "ca48d3ebaa5a",
+   "headline": "Cardinal Health (CAH) Stock Could Be Pricey Following Raised Earnings Guidance",
+   "summary": "Cardinal Health has turned into one of the stronger long term performers in the healthcare distribution space. This puts fresh attention on whether the current share price lines up with what its earnings can support. After such a strong\u2026",
+   "url": "https://finnhub.io/api/news?id=01279d6f24fe8963c6cc66e489914a2c0d07a0f3d7e05499198d9495c22165c4",
+   "source": "Yahoo",
+   "published": "2026-11-12T05:13:57+00:00",
+   "tickers": [
+    "CAH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
   {
    "id": "41b52dfe550f",
    "headline": "Ginkgo Bioworks Holdings Inc (DNA) Q3 2026 Earnings Call Highlights: Cost Cuts, First Big ...",
