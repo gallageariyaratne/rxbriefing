@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-12T09:02:38.193285+00:00",
+ "updated": "2026-11-12T09:17:35.944275+00:00",
  "quotes": {
   "A": {
    "price": 176.95,
@@ -230,6 +230,10 @@
    "price": 248.69,
    "change_pct": -0.85
   },
+  "NBIX": {
+   "price": 174.41,
+   "change_pct": 3.12
+  },
   "NTRA": {
    "price": 319.82,
    "change_pct": 2.51
@@ -317,10 +321,6 @@
   "UTHR": {
    "price": 595.66,
    "change_pct": 1.2
-  },
-  "VEEV": {
-   "price": 304.77,
-   "change_pct": -0.26
   }
  },
  "tickers": {
@@ -938,6 +938,17 @@
  },
  "stories": [
   {
+   "id": "1900fb3b1e97",
+   "headline": "Addex spinout Neurosterix raises $105M series B to fund phase 2 schizophrenia trial",
+   "summary": "Addex Therapeutics\u2019 neuropsychiatric-focused spinout has raised $105 million in series B funds to bankroll a planned phase 2 study of its schizophrenia treatment.",
+   "url": "https://www.fiercebiotech.com/biotech/addex-spinout-neurosterix-raises-105m-series-b-fund-phase-2-schizophrenia-trial",
+   "source": "Fierce Biotech",
+   "published": "2026-11-12T09:15:20.404542+00:00",
+   "tickers": [],
+   "tag": "Clinical",
+   "sectors": []
+  },
+  {
    "id": "d98f765f2907",
    "headline": "Forget clinical cash burns: Why Exelixis is up 38% since June",
    "summary": "Investing.com and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
@@ -946,7 +957,8 @@
    "published": "2026-11-12T07:15:11+00:00",
    "tickers": [
     "EXEL",
-    "INCY"
+    "INCY",
+    "NBIX"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -64944,51 +64956,6 @@
     "ABBV"
    ],
    "tag": "Analyst",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "3fbfd9a9e69d",
-   "headline": "Stock Split Watch: Is Moderna Next?",
-   "summary": "Moderna stock has skyrocketed this year.",
-   "url": "https://finnhub.io/api/news?id=69c7610c1a218a2b3c975dd7270a5c7efe4ea7751e5d637cd7a42ed9cadf3ccd",
-   "source": "Yahoo",
-   "published": "2026-11-02T09:15:02+00:00",
-   "tickers": [
-    "MRNA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "5b6b5cec7c9e",
-   "headline": "What Is Johnson & Johnson (JNJ) Signaling With Its New Impella Heart Pump Data?",
-   "summary": "Johnson & Johnson (NYSE:JNJ) reported positive real-world outcomes for its Impella heart pumps at the TCT 2026 meeting on 2 November 2026. Registry data from U.S. and European hospitals showed Impella use in high-risk percutaneous\u2026",
-   "url": "https://finnhub.io/api/news?id=3bb1d668b733c22705e8166cda26b81232a75049d24fc348bf241d4972f3c226",
-   "source": "Yahoo",
-   "published": "2026-11-02T09:08:49+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "0a6a227972ec",
-   "headline": "Allarity Therapeutics Settles $4.9M Novartis Liability For $1M Payment",
-   "summary": "On October 28, 2026, Allarity Therapeutics, Inc. (the \"Company\") entered into a Settlement and Release Agreement (the \"Settlement Agreement\") with Novartis Pharma AG (\"Novartis\") relating to an",
-   "url": "https://finnhub.io/api/news?id=96ad27ca740f58b3979e0a2f2c2eab48e30abcf939cbfdfc5b25520cec24b194",
-   "source": "Benzinga",
-   "published": "2026-11-02T09:06:49+00:00",
-   "tickers": [
-    "NVS"
-   ],
-   "tag": "Legal",
    "sectors": [
     "pharma"
    ]
