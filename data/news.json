@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-12T09:47:34.448686+00:00",
+ "updated": "2026-11-12T10:02:46.835476+00:00",
  "quotes": {
   "A": {
    "price": 176.95,
@@ -294,10 +294,6 @@
    "price": 292.97,
    "change_pct": 0.93
   },
-  "TMDX": {
-   "price": 92.01,
-   "change_pct": 1.17
-  },
   "TMO": {
    "price": 717.71,
    "change_pct": -0.07
@@ -321,6 +317,10 @@
   "VEEV": {
    "price": 304.77,
    "change_pct": -0.26
+  },
+  "VKTX": {
+   "price": 28.44,
+   "change_pct": -0.77
   }
  },
  "tickers": {
@@ -64689,159 +64689,6 @@
     "ABT"
    ],
    "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "ebc7fdeaf844",
-   "headline": "These Analysts Raise Their Forecasts On Regeneron Pharmaceuticals After Upbeat Q3 Results",
-   "summary": "Regeneron beat Q3 estimates with EPS up 70% and revenue up 36%; analysts raised price targets to as high as $1,175.",
-   "url": "https://finnhub.io/api/news?id=e1e479f7e50612a0d2ae6d800edb1c567b99645eebd2fac96f66fcbf0004248c",
-   "source": "Benzinga",
-   "published": "2026-11-02T10:01:06+00:00",
-   "tickers": [
-    "REGN"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "4e487a94efe7",
-   "headline": "Axsome Therapeutics Q3 2026 Earnings Call Transcript",
-   "summary": "Axsome Therapeutics (NASDAQ:AXSM) reported third-quarter financial results on Monday. The transcript from the company\u2019s third-quarter earnings call has been provided below.This transcript is brought to you by Benzinga",
-   "url": "https://finnhub.io/api/news?id=7bfe806272dd7acbbefa0e79f667521581b3b137b735f6a94c55198f305a03d1",
-   "source": "Benzinga",
-   "published": "2026-11-02T10:00:07+00:00",
-   "tickers": [
-    "AXSM"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "d336a9126a8a",
-   "headline": "Breaking the silos: What effective scenario modeling looks like in 2026 and beyond",
-   "summary": "Explore how integrated scenario modeling helps pharma leaders navigate pricing uncertainty and the complexity of global launches.",
-   "url": "https://www.biopharmadive.com/spons/breaking-the-silos-what-effective-scenario-modeling-looks-like-in-2026-and/872840/",
-   "source": "BioPharma Dive",
-   "published": "2026-11-02T10:00:00+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "63957f804b7f",
-   "headline": "What happens to a health plan\u2019s payment operation when volume triples",
-   "summary": "Exception volume, return rate and digital share show whether a plan bought capacity or architecture.",
-   "url": "https://www.healthcaredive.com/spons/what-happens-to-a-health-plans-payment-operation-when-volume-triples/873363/",
-   "source": "Healthcare Dive",
-   "published": "2026-11-02T10:00:00+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "0059faf2f491",
-   "headline": "Healthcare employers are planning for growth. Are they watching the right roles?",
-   "summary": "Healthcare growth depends on more than high-profile roles. Is your workforce plan ready?",
-   "url": "https://www.healthcaredive.com/spons/healthcare-employers-are-planning-for-growth-are-they-watching-the-right-r/873127/",
-   "source": "Healthcare Dive",
-   "published": "2026-11-02T10:00:00+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "78c93734c232",
-   "headline": "Wells Fargo Maintains Equal-Weight on Universal Health Services, Raises Price Target to $170",
-   "summary": "Wells Fargo analyst Stephen Baxter maintains Universal Health Services (NYSE:UHS) with a Equal-Weight and raises the price target from $166 to $170.",
-   "url": "https://finnhub.io/api/news?id=860ebcfd889077b58005c5bea6ba103abedd5cc31c245c4795f7b3d9c6ab2e87",
-   "source": "Benzinga",
-   "published": "2026-11-02T09:55:08+00:00",
-   "tickers": [
-    "UHS"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "360a0cfb5701",
-   "headline": "Wells Fargo Maintains Overweight on Tenet Healthcare, Raises Price Target to $321",
-   "summary": "Wells Fargo analyst Stephen Baxter maintains Tenet Healthcare (NYSE:THC) with a Overweight and raises the price target from $281 to $321.",
-   "url": "https://finnhub.io/api/news?id=47575550da7bbf7985ea5e2776199389832406dd210fd031bc7b66e62855f7f3",
-   "source": "Benzinga",
-   "published": "2026-11-02T09:54:00+00:00",
-   "tickers": [
-    "THC"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "d16d228b8630",
-   "headline": "Wells Fargo Maintains Equal-Weight on HCA Healthcare, Raises Price Target to $468",
-   "summary": "Wells Fargo analyst Stephen Baxter maintains HCA Healthcare (NYSE:HCA) with a Equal-Weight and raises the price target from $381 to $468.",
-   "url": "https://finnhub.io/api/news?id=8fc7128e34a15418937482c5ad876558f8e398653f31f2bc261cd194e30d9557",
-   "source": "Benzinga",
-   "published": "2026-11-02T09:52:57+00:00",
-   "tickers": [
-    "HCA"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "677152f532e2",
-   "headline": "Wells Fargo Maintains Equal-Weight on Regeneron Pharmaceuticals, Raises Price Target to $925",
-   "summary": "Wells Fargo analyst Mohit Bansal maintains Regeneron Pharmaceuticals (NASDAQ:REGN) with a Equal-Weight and raises the price target from $750 to $925.",
-   "url": "https://finnhub.io/api/news?id=a82515b7f8681eee4877799696b62261576c1200f28c1a81e54f17916b2c5740",
-   "source": "Benzinga",
-   "published": "2026-11-02T09:50:55+00:00",
-   "tickers": [
-    "REGN"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "307346b3186d",
-   "headline": "Wells Fargo Maintains Overweight on AbbVie, Raises Price Target to $340",
-   "summary": "Wells Fargo analyst Mohit Bansal maintains AbbVie (NYSE:ABBV) with a Overweight and raises the price target from $300 to $340.",
-   "url": "https://finnhub.io/api/news?id=ae4ed3e9c7fdf609daba9b28a39bf78da5002e4b03ec9e5aec96efa751ff6862",
-   "source": "Benzinga",
-   "published": "2026-11-02T09:49:53+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "ecb29e840d9b",
-   "headline": "IDEXX Laboratories Exec Says ~1/4th Of Cancerdx Orders In Q3 Came From Non-Primary Reference Lab Customers; Covet Rev Run Rate Is About $20M Annualized, Growing At Strong Double-Digit Rates",
-   "summary": "https://event.webcasts.com/starthere.jsp?ei=1778007&tp_key=2e8c83027b",
-   "url": "https://finnhub.io/api/news?id=fa5d843c367342d9e55431b1d12c4a113f281fec782fa658fdfbe07a8274de35",
-   "source": "Benzinga",
-   "published": "2026-11-02T09:49:14+00:00",
-   "tickers": [
-    "IDXX"
-   ],
-   "tag": "Earnings",
    "sectors": [
     "medtech"
    ]
