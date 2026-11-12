@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-12T01:17:36.921215+00:00",
+ "updated": "2026-11-12T01:32:49.026119+00:00",
  "quotes": {
   "A": {
    "price": 176.95,
@@ -262,6 +262,10 @@
    "price": 150.03,
    "change_pct": 1.33
   },
+  "QGEN": {
+   "price": 50.3,
+   "change_pct": -0.42
+  },
   "RARE": {
    "price": 16.7,
    "change_pct": 3.47
@@ -277,6 +281,10 @@
   "ROIV": {
    "price": 41.85,
    "change_pct": 1.6
+  },
+  "TAK": {
+   "price": 20.84,
+   "change_pct": -0.43
   },
   "TECH": {
    "price": 72.8,
@@ -313,14 +321,6 @@
   "VEEV": {
    "price": 304.77,
    "change_pct": -0.26
-  },
-  "VRTX": {
-   "price": 547.03,
-   "change_pct": -0.16
-  },
-  "WAT": {
-   "price": 470.9,
-   "change_pct": -0.97
   }
  },
  "tickers": {
@@ -975,7 +975,8 @@
    "source": "Yahoo",
    "published": "2026-11-11T22:54:00+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "VKTX"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -1458,6 +1459,21 @@
    ]
   },
   {
+   "id": "db8f4ba933c1",
+   "headline": "BioMarin Pharmaceutical Inc. (BMRN) Presents at Stifel 2026 Healthcare Conference 2026 Transcript",
+   "summary": "BioMarin Pharmaceutical Inc. (BMRN) Stifel 2026 Healthcare Conference 2026 November 11, 2026 3:20 PM ESTCompany ParticipantsBrian Mueller - CFO &...",
+   "url": "https://finnhub.io/api/news?id=373d78ba7cf1d6fde994fc78f1153a365230a451930bdc885fce1705e3d34b75",
+   "source": "SeekingAlpha",
+   "published": "2026-11-11T19:48:56+00:00",
+   "tickers": [
+    "BMRN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "e0ae9c7cad7a",
    "headline": "CareSource launches $1M grant program to support AI-powered solutions",
    "summary": "Nonprofit insurer CareSource is launching a $1 million program that aims to back responsible AI solutions in healthcare.",
@@ -1898,6 +1914,21 @@
    ]
   },
   {
+   "id": "6ba93f2eabad",
+   "headline": "ADMA Surges 20.9% Post Q3 Earnings: Buy, Sell or Hold the Stock?",
+   "summary": "ADMA Biologics gains 20.9% after strong Q3 results, as surging Asceniv sales and a raised 2026 profit outlook offset Bivigam weakness and competitive pressures.",
+   "url": "https://finnhub.io/api/news?id=2dce51fddea2e880753040479a8e17ac0bfc9867aba50ebb59923ac680d0568d",
+   "source": "Yahoo",
+   "published": "2026-11-11T16:41:00+00:00",
+   "tickers": [
+    "TAK"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "1e1df2cb7c0a",
    "headline": "Oura makes bet on AI in healthcare with $625M Counsel Health buy",
    "summary": "The planned acquisition comes as wearable firms push to up their healthcare offerings.",
@@ -2305,7 +2336,8 @@
    "source": "Yahoo",
    "published": "2026-11-11T15:56:00+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "VKTX"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -2840,6 +2872,7 @@
    "source": "Yahoo",
    "published": "2026-11-11T14:21:00+00:00",
    "tickers": [
+    "QGEN",
     "TMO"
    ],
    "tag": "Earnings",
@@ -2900,6 +2933,7 @@
    "published": "2026-11-11T14:15:00+00:00",
    "tickers": [
     "ILMN",
+    "QGEN",
     "TMO"
    ],
    "tag": "Earnings",
@@ -2965,6 +2999,7 @@
    "published": "2026-11-11T14:12:00+00:00",
    "tickers": [
     "ILMN",
+    "QGEN",
     "TMO"
    ],
    "tag": "Earnings",
@@ -3549,6 +3584,21 @@
    "tag": "Analyst",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "2889f4d56106",
+   "headline": "Qiagen (QGEN) Shareholders Approve Jonathan M Pratt As CEO And Managing Director",
+   "summary": "Qiagen (NYSE:QGEN) received shareholder approval at an Extraordinary General Meeting for Jonathan M. Pratt to become CEO and Managing Director. Jonathan M. Pratt is set to succeed Thierry Bernard in the top leadership role following the\u2026",
+   "url": "https://finnhub.io/api/news?id=12b2e66fa0046d0f3085672642f66d0ed308b86af72c74b4e9869e24e03db407",
+   "source": "Yahoo",
+   "published": "2026-11-11T12:17:36+00:00",
+   "tickers": [
+    "QGEN"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -65194,43 +65244,6 @@
    "tag": "News",
    "sectors": [
     "medtech"
-   ]
-  },
-  {
-   "id": "448e0377c01d",
-   "headline": "What Sent ResMed Stock Lower?",
-   "summary": "For questions about this article or underlying research, email help@trefis.com.",
-   "url": "https://finnhub.io/api/news?id=92fd884bddab6d101db338ff3e9c25e1c7760ccc779beaae5c8c45489573600c",
-   "source": "Yahoo",
-   "published": "2026-11-02T01:23:30+00:00",
-   "tickers": [
-    "BDX",
-    "MDT",
-    "RMD",
-    "SYK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "f6a7cd24339f",
-   "headline": "What Sent Illumina Stock Lower?",
-   "summary": "For questions about this article or underlying research, email help@trefis.com.",
-   "url": "https://finnhub.io/api/news?id=9deada23a048738cff493dfe12a7d2b11a9707264ab71a9db046303b14ec8526",
-   "source": "Yahoo",
-   "published": "2026-11-02T01:23:28+00:00",
-   "tickers": [
-    "A",
-    "BRKR",
-    "DHR",
-    "ILMN",
-    "TMO"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
    ]
   }
  ]
