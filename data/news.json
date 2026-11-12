@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-12T02:47:30.606735+00:00",
+ "updated": "2026-11-12T03:02:46.836727+00:00",
  "quotes": {
   "A": {
    "price": 176.95,
@@ -294,6 +294,10 @@
    "price": 180.7,
    "change_pct": -6.4
   },
+  "RXRX": {
+   "price": 3.59,
+   "change_pct": 1.13
+  },
   "TAK": {
    "price": 20.84,
    "change_pct": -0.43
@@ -317,10 +321,6 @@
   "TMO": {
    "price": 717.71,
    "change_pct": -0.07
-  },
-  "TWST": {
-   "price": 122.59,
-   "change_pct": -7.22
   }
  },
  "tickers": {
@@ -953,6 +953,21 @@
    ]
   },
   {
+   "id": "3f9ca44becba",
+   "headline": "Is Eli Lilly (LLY) Priced Below Its Cash Flow Potential?",
+   "summary": "Eli Lilly has ridden a powerful obesity and diabetes drug story to a share price of US$1,437.29. That raises a straightforward question for investors who own or follow the stock: Is that market value meaningfully backed by the cash flows\u2026",
+   "url": "https://finnhub.io/api/news?id=0dd5e47b5645552f30a4d02bae27c47a9c5c76dcbcd36387d438519816291924",
+   "source": "Yahoo",
+   "published": "2026-11-12T01:18:32+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "a249d109db51",
    "headline": "BioMarin Pharmaceutical Hits $1 Billion Revenue Milestone, Advances Rare-Disease Pipeline",
    "summary": "BioMarin Pharmaceutical (NASDAQ:BMRN) is advancing a group of newly acquired rare-disease drug candidates while integrating Amicus Therapeutics and working to reduce debt, executives said during a company discussion. Chief Financial\u2026",
@@ -1298,6 +1313,21 @@
    "tag": "News",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "c80eeb858358",
+   "headline": "iRhythm Announces Approval of $200 Million Share Repurchase Program",
+   "summary": "SAN FRANCISCO, Nov. 11, 2026 (GLOBE NEWSWIRE) -- iRhythm Holdings, Inc. (Nasdaq: IRTC), a leading digital health care company with a mission to create trusted solutions that detect, predict, and prevent disease, today announced that on\u2026",
+   "url": "https://finnhub.io/api/news?id=af9a0f781982c96237cf2eb298075f6b2dfe3ef18d96a9b0fdeafb8fa22f2757",
+   "source": "Yahoo",
+   "published": "2026-11-11T21:05:00+00:00",
+   "tickers": [
+    "IRTC"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -2044,7 +2074,8 @@
    "source": "Yahoo",
    "published": "2026-11-11T16:43:59+00:00",
    "tickers": [
-    "JNJ"
+    "JNJ",
+    "LEGN"
    ],
    "tag": "News",
    "sectors": [
@@ -3785,6 +3816,21 @@
    ]
   },
   {
+   "id": "209b423acdc9",
+   "headline": "Recursion to Participate in Upcoming Investor Conferences",
+   "summary": "Salt Lake City, UT, Nov. 11, 2026 (GLOBE NEWSWIRE) -- Recursion (Nasdaq: RXRX), a leading clinical-stage company pioneering AI-enabled drug discovery and development, today announced its participation in the following upcoming investor\u2026",
+   "url": "https://finnhub.io/api/news?id=3affde44ecf65f32f45e7f0e44cfb72715a63e7143891da24db2660d70fc8ce6",
+   "source": "Yahoo",
+   "published": "2026-11-11T13:00:00+00:00",
+   "tickers": [
+    "RXRX"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "healthai"
+   ]
+  },
+  {
    "id": "6615d0a45593",
    "headline": "Buy, Sell, or Hold? Wednesday\u2019s Top Upgrades and Downgrades: Akamai Technologies, Apple, BILL Holdings, Corning, Form Factor, Guidewire Software, NVIDIA, Riot Platforms, Toast, and More",
    "summary": "Hot inflation data rattled Tuesday's close, and now one chip giant faces a Baird downgrade tied to concerns about its CEO. Which analyst calls, from Apple's upgrade to a steep Akamai cut, deserve your attention before the bell?",
@@ -4539,7 +4585,8 @@
    "published": "2026-11-11T06:36:00+00:00",
    "tickers": [
     "INSM",
-    "MDGL"
+    "MDGL",
+    "TGTX"
    ],
    "tag": "Analyst",
    "sectors": [
@@ -65510,51 +65557,6 @@
    "tag": "News",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "dd41752d7cf8",
-   "headline": "Johnson & Johnson: A Quality Healthcare Giant, Fairly Priced For Growth",
-   "summary": "Johnson & Johnson's Innovative Medicine segment outperforms, driven by Darzalex, Tremfya, and promising pipeline drugs. See why I rate JNJ stock a Hold.",
-   "url": "https://finnhub.io/api/news?id=42ce3ebc93226c6a566f46fdc0920325c367c9bd98de86f8fc9f88762af31300",
-   "source": "SeekingAlpha",
-   "published": "2026-11-02T02:52:14+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "81ec5ad7e0b7",
-   "headline": "Why Did MO, GILD, XOM Stocks Surge To 52-Week Highs Last Week?",
-   "summary": "Strong tobacco pricing, growing HIV drug sales and improved refining margins supported gains across the three companies.",
-   "url": "https://finnhub.io/api/news?id=3fdf8419e5403f0c473953fc549525d3e51c3ee11aa0cdb823a670ebf22ab153",
-   "source": "Yahoo",
-   "published": "2026-11-02T02:48:50+00:00",
-   "tickers": [
-    "GILD"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "ffbe6ba16a2d",
-   "headline": "Reported Sunday, GE HealthCare Unveils CE-Marked Allia Celeo, Pairing Real-Time Digital Twin With AI Image Chain That Balances Image Quality And Radiation",
-   "summary": "Extra-wide-bore, cable-less ceiling gantry and real-time digital twin aim to keep cases moving, regardless of procedure type or patient sizeAI-powered precision imaging designed to automatically balance image quality",
-   "url": "https://finnhub.io/api/news?id=4ee6f7a0fa67598ba6f3ea4e1f93548b7b6e2b2e761dec1f39581fdfd52f6f50",
-   "source": "Benzinga",
-   "published": "2026-11-02T02:47:01+00:00",
-   "tickers": [
-    "GEHC"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
