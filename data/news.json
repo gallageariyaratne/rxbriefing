@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-12T12:47:30.908635+00:00",
+ "updated": "2026-11-12T13:02:54.799875+00:00",
  "quotes": {
   "A": {
    "price": 176.95,
@@ -194,6 +194,10 @@
    "price": 28.33,
    "change_pct": 0.5
   },
+  "IQV": {
+   "price": 274.53,
+   "change_pct": -0.23
+  },
   "IRTC": {
    "price": 88.68,
    "change_pct": 3.04
@@ -294,9 +298,9 @@
    "price": 41.85,
    "change_pct": 1.6
   },
-  "RXRX": {
-   "price": 3.59,
-   "change_pct": 1.13
+  "RVMD": {
+   "price": 180.7,
+   "change_pct": -6.4
   },
   "TAK": {
    "price": 20.84,
@@ -317,10 +321,6 @@
   "TWST": {
    "price": 122.59,
    "change_pct": -7.22
-  },
-  "UHS": {
-   "price": 196.77,
-   "change_pct": 0.7
   }
  },
  "tickers": {
@@ -938,6 +938,17 @@
  },
  "stories": [
   {
+   "id": "8fb5745fade5",
+   "headline": "AI models from Google, Anthropic and more lean on recommending promoted drugs: study",
+   "summary": "New research out from Mount Sinai has found that a dozen AI models it tested from major tech companies were more likely to recommend an advertised drug when it was promoted alongside a clinician\u2019s question about treatment.",
+   "url": "https://www.fiercepharma.com/marketing/ai-models-google-anthropic-and-more-lean-recommending-promoted-drugs",
+   "source": "Fierce Pharma",
+   "published": "2026-11-12T13:00:31.252722+00:00",
+   "tickers": [],
+   "tag": "Health AI",
+   "sectors": []
+  },
+  {
    "id": "e185c5bae2ef",
    "headline": "Radiopharma player PharmaLogic snaps up Lantheus' CDMO business, plant as Curium acquisition advances",
    "summary": "With Lantheus in the process of being bought out by fellow radiopharmaceutical player Curium, the company is offloading its CDMO business and a U.S. manufacturing facility to another nuclear medicine specialist, PharmaLogic.",
@@ -1005,6 +1016,21 @@
    ]
   },
   {
+   "id": "d2cd2b419ebb",
+   "headline": "Alnylam Pharmaceuticals (NASDAQ:ALNY) Emerges as a Decent Value Stock",
+   "summary": "Alnylam (ALNY) screens as decent value with a low P/E, strong margins, and robust growth, though biotech and dilution risks remain for value investors.",
+   "url": "https://finnhub.io/api/news?id=0f05703f36fa1c08a3cd7baeaa857bdc805de03bd8dc430d29615069e7922c96",
+   "source": "ChartMill",
+   "published": "2026-11-12T12:01:01+00:00",
+   "tickers": [
+    "ALNY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "08744facb52c",
    "headline": "Astrosalva Therapeutics Adds Michael MacLean, Former CFO of Novartis-Acquired Avidity Biosciences, to Strategic Advisory Board",
    "summary": "Former Akcea and Avidity finance chief brings decades of rare disease and life sciences leadership to Astrosalva's work in Alexander disease and cerebral adrenoleukodystrophy SAN MATEO, Calif., Nov. 12, 2026 /PRNewswire/ -- Astrosalva\u2026",
@@ -1029,6 +1055,51 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "41042f2fc14a",
+   "headline": "Parabilis Medicines Reports Third Quarter 2026 Financial Results and Provides Business Updates",
+   "summary": "Presented updated Phase 1/2 data at ESMO Congress 2026 demonstrating a 72.2% objective response rate at the 32-week landmark and a favorable safety and tolerability profile for zolucatetide in desmoid tumors Reached alignment with the\u2026",
+   "url": "https://finnhub.io/api/news?id=4eea86d7592dc7a31af1a1fa23f267d578d234ce52f6815b80cbcd5156d054e6",
+   "source": "Yahoo",
+   "published": "2026-11-12T12:00:00+00:00",
+   "tickers": [
+    "RVMD"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "5f6459623cbd",
+   "headline": "Merck to Participate in the Jefferies Global Healthcare Conference in London",
+   "summary": "RAHWAY, N.J., November 12, 2026--Merck to Participate in the Jefferies Global Healthcare Conference in London",
+   "url": "https://finnhub.io/api/news?id=21a29166ba6b34112b5dd7f5e3661f2004dbb76f075f42d42bcdc63f542a78de",
+   "source": "Yahoo",
+   "published": "2026-11-12T11:45:00+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "7f019ea6f81e",
+   "headline": "Baron Funds Sees Eli Lilly\u2019s (LLY) Mounjaro, Zepbound and Orforglipron as Transformational",
+   "summary": "We recently published the list of the 10 Best Growth Stocks to Buy for the Next Decade, and Eli Lilly (NYSE:LLY) came in 9th. On November 5, the S&P 500 fell 4.36%, its worst day since the April 2025 tariff crash, with roughly $3 trillion\u2026",
+   "url": "https://finnhub.io/api/news?id=f083728fd564b93c6c8c73ad21c96d2e919fecc294c6f92f2ab15632ac16e68e",
+   "source": "Yahoo",
+   "published": "2026-11-12T11:32:52+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "53d427307a93",
@@ -1068,6 +1139,7 @@
    "source": "Yahoo",
    "published": "2026-11-12T11:24:34+00:00",
    "tickers": [
+    "LLY",
     "PFE"
    ],
    "tag": "FDA",
@@ -1083,6 +1155,7 @@
    "source": "Yahoo",
    "published": "2026-11-12T11:18:59+00:00",
    "tickers": [
+    "LLY",
     "PFE"
    ],
    "tag": "GLP-1",
@@ -1145,6 +1218,8 @@
    "tickers": [
     "ABBV",
     "JNJ",
+    "LLY",
+    "MRK",
     "UNH"
    ],
    "tag": "News",
@@ -1196,6 +1271,36 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "0023d6b41901",
+   "headline": "What Avantis U.S. Large Cap Value ETF (AVLV) Bought: AT&T Leads on Tuesday",
+   "summary": "The fund bought $424.8 million of stock and sold none, lifting 161 positions and trimming none.",
+   "url": "https://finnhub.io/api/news?id=0722bb9e5a9062dd9a2c444f35c046d076f4a6bf231580245400d7710559745b",
+   "source": "Yahoo",
+   "published": "2026-11-12T11:04:54+00:00",
+   "tickers": [
+    "ELV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "50815453ecc2",
+   "headline": "What Invesco S&P 500 Equal Weight ETF (RSP) Bought: Moderna Leads on Nov. 10",
+   "summary": "The fund added $739.1 million in net buys against $757.9 million gross traded, lifting 501 positions while trimming just one.",
+   "url": "https://finnhub.io/api/news?id=df905be5e680e96f94abc8d24892a6fa79b0df586ab64fbcfdb173edfadcc228",
+   "source": "Yahoo",
+   "published": "2026-11-12T11:04:26+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1260,6 +1365,21 @@
    ]
   },
   {
+   "id": "72c9d992d198",
+   "headline": "Eli Lilly\u2019s Orforglipron Wins Big In China \u2013 Gains Edge Over Novo In Race For Potential $4.5B Market",
+   "summary": "Orforglipron, which is marketed as Foundayo, became the first weight-loss pill to receive approval in China, according to a Reuters report.",
+   "url": "https://finnhub.io/api/news?id=cbd0079c8179cbbcedb4590ce3a5a92b26cb5130fb21d79fb60b27490c30e8fd",
+   "source": "Yahoo",
+   "published": "2026-11-12T10:51:22+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "c755ab36e264",
    "headline": "Eli Lilly stock rises after China approves weight-loss pill",
    "summary": "Investing.com -- Eli Lilly shares gained 2.8% premarket Thursday after China's medicine regulator approved the company's weight-loss pill orforglipron.",
@@ -1267,6 +1387,7 @@
    "source": "Yahoo",
    "published": "2026-11-12T10:37:09+00:00",
    "tickers": [
+    "LLY",
     "PFE"
    ],
    "tag": "FDA",
@@ -1437,6 +1558,21 @@
    "tag": "FDA",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "bc9048a8fed3",
+   "headline": "Artisan Select Equity Fund Q3 2026 Portfolio Review",
+   "summary": "Meta shares rose 29% after the company launched a new AI product called Muse, which is designed to make agentic AI capabilities accessible to ordinary consumers.",
+   "url": "https://finnhub.io/api/news?id=74b4de61ae7bbca8a1a80843ea0c25f95081af0e981d9b8806f6235de975c046",
+   "source": "SeekingAlpha",
+   "published": "2026-11-12T07:24:00+00:00",
+   "tickers": [
+    "IQV"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -63776,248 +63912,6 @@
    "tag": "News",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "8061ce2b626c",
-   "headline": "PTC Therapeutics to Participate in Upcoming Investor Conferences",
-   "summary": "WARREN, N.J., Nov. 2, 2026 /PRNewswire/ -- PTC Therapeutics, Inc. (NASDAQ: PTCT) today announced that its executives will speak at the following conferences: Jefferies Global Healthcare Conference Monday, Nov. 16 at 11 a.m. GMT/6 a.m. ET\u2026",
-   "url": "https://www.prnewswire.com/news-releases/ptc-therapeutics-to-participate-in-upcoming-investor-conferences-302925133.html",
-   "source": "PR Newswire",
-   "published": "2026-11-02T13:00:00+00:00",
-   "tickers": [
-    "PTCT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "95e1db6cac9b",
-   "headline": "Alfasigma Announces New Linerixibat Data Across PBC and Liver Disease to be Presented at AASLD\u2019s The Liver Meeting 2026",
-   "summary": "Five presentations will highlight new analyses of linerixibat in cholestatic pruritus associated with primary biliary cholangitis, including an oral presentation and four posters from the Phase 3 GLISTEN study and real-world\u2026",
-   "url": "https://finnhub.io/api/news?id=b2c013c88bf5f2a346593a85816a9d813af2eacca7484b0eecbc75a5a3bbb369",
-   "source": "Yahoo",
-   "published": "2026-11-02T13:00:00+00:00",
-   "tickers": [
-    "GSK"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "ac3b7744e6cc",
-   "headline": "PTC Therapeutics to Participate in Upcoming Investor Conferences",
-   "summary": "PTC Therapeutics, Inc. (NASDAQ: PTCT) today announced that its executives will speak at the following conferences:",
-   "url": "https://finnhub.io/api/news?id=d36cca5a23343170466c2c5a86d1522d4adf3b24e000921823355b47d875b6b5",
-   "source": "Yahoo",
-   "published": "2026-11-02T13:00:00+00:00",
-   "tickers": [
-    "PTCT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "74498c3df423",
-   "headline": "CRISPR Therapeutics Announces the Appointment of Siva Sakhamuri, Ph.D., as Chief Technical Officer",
-   "summary": "ZUG, Switzerland and BOSTON, Nov. 02, 2026 (GLOBE NEWSWIRE) -- CRISPR Therapeutics (Nasdaq: CRSP), today announced the appointment of Sivakesava (Siva) Sakhamuri, Ph.D., as Chief Technical Officer, effective immediately. Dr. Sakhamuri\u2026",
-   "url": "https://finnhub.io/api/news?id=5e61ebdaa4918221e83735c0d6de559cf226f35b2f6b65628d2f59e6b48e54e3",
-   "source": "Yahoo",
-   "published": "2026-11-02T13:00:00+00:00",
-   "tickers": [
-    "CRSP"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "925c8290b420",
-   "headline": "Dexcom Invites the Global Diabetes Community to Share Their Stories Through A Letter to Diabetes Campaign",
-   "summary": "SAN DIEGO, November 02, 2026--DexCom, Inc. (NASDAQ: DXCM), the global leader in glucose biosensing, today launched A Letter to Diabetes in honor of National Diabetes Awareness Month and World Diabetes Day, creating a platform for people\u2026",
-   "url": "https://finnhub.io/api/news?id=e691e3d0429f0d0981793cd5865578816e9497964af50618abeeeb9060ee9024",
-   "source": "Yahoo",
-   "published": "2026-11-02T13:00:00+00:00",
-   "tickers": [
-    "DXCM"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "8988017c5c95",
-   "headline": "Agilent Launches 5987A MSD with GC Assist for Faster, Smarter GC/MS Workflows",
-   "summary": "SANTA CLARA, Calif., November 02, 2026--Agilent Technologies Inc. (NYSE: A) today announced the launch of the 5987A single quadrupole mass selective detector (MSD) with GC Assist, along with MassHunter 14 software. When combined with the\u2026",
-   "url": "https://finnhub.io/api/news?id=ac2c21b592d9bde34c233203fba89dd0e84381c35231c694164e7b6200ad2fb7",
-   "source": "Yahoo",
-   "published": "2026-11-02T13:00:00+00:00",
-   "tickers": [
-    "A"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "3ffc399a712b",
-   "headline": "UnitedHealthcare Makes it Easier and Quicker for Children to Get Care for 2,000 Pediatric Care Services",
-   "summary": "November 02, 2026--Beginning Dec. 1, children covered by UnitedHealthcare will no longer need prior authorization for more than 2,000 pediatric care codes spanning common services, diagnostic imaging, sleep studies, cancer treatment and\u2026",
-   "url": "https://finnhub.io/api/news?id=fc4dec71dd2961c9336306cc6429a2aa754a86cb71371e0a3b7f2684c0a75e4d",
-   "source": "Yahoo",
-   "published": "2026-11-02T13:00:00+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "44377a95c4f1",
-   "headline": "Eyconis to Participate in Upcoming Investor Conferences",
-   "summary": "REDWOOD CITY, Calif., Nov. 02, 2026 (GLOBE NEWSWIRE) -- Eyconis, Inc., a clinical-stage biotechnology company advancing next-generation, long-acting ophthalmic therapeutics, today announced that members of its management team will\u2026",
-   "url": "https://finnhub.io/api/news?id=4506ffc81aa0989e1b93cb911edde70065a4805834b49ac06883f6271da89b8f",
-   "source": "Yahoo",
-   "published": "2026-11-02T13:00:00+00:00",
-   "tickers": [
-    "ASND"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "20777f27bd9b",
-   "headline": "Johnson & Johnson\u2019s Javelin Catheter Met Both Trial Goals and Its Impella Data Pushed Back on a Negative Study. Here\u2019s What It Doesn\u2019t Settle",
-   "summary": "Key Stats for Johnson & Johnson StockCurrent Price: $273. 20Target Price (Mid): ~$342Street Target: ~$279Potential Total Return: ~25%Annualized IRR: ~5.",
-   "url": "https://finnhub.io/api/news?id=d5f1469fe7ccb9074cfba27e67429ce49a9bc2fbc1ad1286c578c970abb0d716",
-   "source": "Yahoo",
-   "published": "2026-11-02T12:59:48+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "044fde84ce3f",
-   "headline": "IDEXX Laboratories, Inc. (IDXX) Q3 2026 Earnings Call Transcript",
-   "summary": "",
-   "url": "https://finnhub.io/api/news?id=a4cbb6f6b747e80ee24e427321f3e7680c6abb9ba1708eec0c243fcff9438b91",
-   "source": "SeekingAlpha",
-   "published": "2026-11-02T12:58:34+00:00",
-   "tickers": [
-    "IDXX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "bdad47da9959",
-   "headline": "Globus Medical: The Shrinking Robot Line Hides A Growing Annuity",
-   "summary": "Globus Medical is leveraging flexible leasing models to expand its installed base, prioritizing recurring high-margin implant sales. I rate GMED stock a Buy. Read my full analysis.",
-   "url": "https://finnhub.io/api/news?id=21bd16408a8c6006dabbce98529536c8cc3187557e59ec0006bfda32f70b4d86",
-   "source": "SeekingAlpha",
-   "published": "2026-11-02T12:57:46+00:00",
-   "tickers": [
-    "GMED"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "b0e090b0c534",
-   "headline": "Oppenheimer Maintains Outperform on Teladoc Health, Raises Price Target to $10",
-   "summary": "Oppenheimer analyst Michael Wiederhorn maintains Teladoc Health (NYSE:TDOC) with a Outperform and raises the price target from $7 to $10.",
-   "url": "https://finnhub.io/api/news?id=f490b68f6c1840a6be74f3ce30f805c679d579b5c1ef7e92a2b4b06ab2131944",
-   "source": "Benzinga",
-   "published": "2026-11-02T12:57:44+00:00",
-   "tickers": [
-    "TDOC"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "65b853ec656e",
-   "headline": "TD Cowen Maintains Buy on Alignment Healthcare, Lowers Price Target to $10",
-   "summary": "TD Cowen analyst Ryan Langston maintains Alignment Healthcare (NASDAQ:ALHC) with a Buy and lowers the price target from $12 to $10.",
-   "url": "https://finnhub.io/api/news?id=1241dab02d30c81ab02100b63cf1b3ebcd0a519f9829d376967bf74d94ee5138",
-   "source": "Benzinga",
-   "published": "2026-11-02T12:55:48+00:00",
-   "tickers": [
-    "ALHC"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "c3617d6cb2b3",
-   "headline": "The top 5 analyst questions from AbbVie\u2019s Q3 earnings call",
-   "summary": "AbbVie\u2019s third quarter was marked by a positive market reaction, attributed to robust sales growth across its immunology and neuroscience portfolios. Management highlighted the continued momentum of key products like SKYRIZI, RINVOQ, and\u2026",
-   "url": "https://finnhub.io/api/news?id=5d3c8a4b6cdf0a88202a3b0819f7e8b0aa70f4c419450b7cdc1efebd9a3e699d",
-   "source": "Yahoo",
-   "published": "2026-11-02T12:53:36+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "9161e624f6cf",
-   "headline": "Novo Before Q3 Earnings: How Should Investors Play the Stock?",
-   "summary": "NVO faces intensifying GLP-1 competition, earnings cuts and pricing pressure, challenging its growth outlook ahead of Q3 results.",
-   "url": "https://finnhub.io/api/news?id=32c285cab33036cd1dde20264ea37ba8a5cdaa462acb5753c231835265fe2097",
-   "source": "Yahoo",
-   "published": "2026-11-02T12:49:00+00:00",
-   "tickers": [
-    "LLY",
-    "NVO",
-    "VKTX"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "8f88530de8c1",
-   "headline": "Tempus: Q3 Earnings Snapshot",
-   "summary": "CHICAGO (AP) \u2014 CHICAGO (AP) \u2014 Tempus AI Inc. (TEM) on Monday reported a loss of $14.",
-   "url": "https://finnhub.io/api/news?id=be2e4b001b1ea33f61006b7427a09cc7b048a5a88e263842b03c87bbcc071536",
-   "source": "Yahoo",
-   "published": "2026-11-02T12:47:36+00:00",
-   "tickers": [
-    "TEM"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "healthai"
    ]
   }
  ]
