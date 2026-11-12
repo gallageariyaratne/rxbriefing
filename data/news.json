@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-12T13:47:41.394372+00:00",
+ "updated": "2026-11-12T14:02:52.584391+00:00",
  "quotes": {
   "A": {
    "price": 176.95,
@@ -70,10 +70,6 @@
    "price": 62.91,
    "change_pct": 0.18
   },
-  "BNTX": {
-   "price": 87.65,
-   "change_pct": 0.5
-  },
   "BRKR": {
    "price": 62.41,
    "change_pct": 0.27
@@ -113,10 +109,6 @@
   "DHR": {
    "price": 235.31,
    "change_pct": -0.34
-  },
-  "DOCS": {
-   "price": 33.22,
-   "change_pct": 2.47
   },
   "DVA": {
    "price": 183.5,
@@ -321,6 +313,14 @@
   "UHS": {
    "price": 196.77,
    "change_pct": 0.7
+  },
+  "UNH": {
+   "price": 402.94,
+   "change_pct": -0.54
+  },
+  "UTHR": {
+   "price": 595.66,
+   "change_pct": 1.2
   }
  },
  "tickers": {
@@ -4995,6 +4995,21 @@
    "sectors": []
   },
   {
+   "id": "d786db5a58c7",
+   "headline": "Cyclicals Lead Sectors In Wednesday Trading As Defensives Trail",
+   "summary": "Five sectors are higher and six are lower in Wednesday's regular session, with cyclical sectors holding two of the top three positions. Technology sits well clear of the rest, separated from the next sector by a margin several times wider\u2026",
+   "url": "https://finnhub.io/api/news?id=b2893f36405b9b90f237df63e12ecab04af5e997b7fd2ebe357a34f9974022bb",
+   "source": "Benzinga",
+   "published": "2026-11-11T12:00:22+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "79c2360db7ad",
    "headline": "Arvinas to Present at Jefferies Global Healthcare Conference",
    "summary": "NEW HAVEN, Conn., Nov. 11, 2026 (GLOBE NEWSWIRE) -- Arvinas, Inc. (Nasdaq: ARVN), a clinical-stage biotechnology company creating a new class of drugs based on targeted protein degradation, today announced that management will participate\u2026",
@@ -5167,6 +5182,23 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "d8f1e01de3a5",
+   "headline": "EXCLUSIVE: Lilly, Gilead Face Near-Term Drug Pricing Risks As Washington Turns Up Heat",
+   "summary": "Democrats have two ways to pressure drugmakers. Eli Lilly, Gilead, Merck, Bristol Myers face different levels of Medicare pricing exposure.",
+   "url": "https://finnhub.io/api/news?id=d8628f5638ff87f07544014462be4741b1188017ed4a0369899c55cc0904c6cf",
+   "source": "Benzinga",
+   "published": "2026-11-11T10:56:48+00:00",
+   "tickers": [
+    "GILD",
+    "LLY",
+    "MRK"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -62964,346 +62996,6 @@
    "tag": "Clinical",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "94ea872a43a8",
-   "headline": "The cost of waiting: What reaching clinical proof-of-concept sooner means for biotech cash burn",
-   "summary": "Explore how delays before clinical proof-of-concept increase biotech cash burn, and how connected drug development can preserve capital and runway.",
-   "url": "https://www.fiercebiotech.com/sponsored/cost-waiting-what-reaching-clinical-proof-concept-sooner-means-biotech-cash-burn",
-   "source": "Fierce Biotech",
-   "published": "2026-11-02T14:00:41.361341+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "4cc905dfcf96",
-   "headline": "Connected clinical research: from fragmentation to progress",
-   "summary": "Mike Novotny examines the funding, technology and operational challenges shaping clinical research, and why connected systems matter.",
-   "url": "https://www.fiercebiotech.com/sponsored/connected-clinical-research-fragmentation-progress",
-   "source": "Fierce Biotech",
-   "published": "2026-11-02T14:00:41.360843+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "279485d7e260",
-   "headline": "FDA dims Bright Minds\u2019 outlook with partial hold on seizure trial over toxicity in mice",
-   "summary": "The FDA has put a partial hold on Bright Minds Biosciences\u2019 seizure study application over preclinical toxicity data and concerns about its preparations for enrolling children.",
-   "url": "https://www.fiercebiotech.com/biotech/fda-dims-bright-minds-outlook-partial-hold-seizure-trial",
-   "source": "Fierce Biotech",
-   "published": "2026-11-02T14:00:41.360153+00:00",
-   "tickers": [],
-   "tag": "FDA",
-   "sectors": []
-  },
-  {
-   "id": "4982d20f35d3",
-   "headline": "4D Molecular Therapeutics, Inc. (FDMT) Expected to Beat Earnings Estimates: Can the Stock Move Higher?",
-   "summary": "4D Molecular Therapeutics (FDMT) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-   "url": "https://finnhub.io/api/news?id=7519f5d7a0f3c794da3bcabf8d9f991a07484b9f0adf47cc4a61b6d7dddf7f66",
-   "source": "Yahoo",
-   "published": "2026-11-02T14:00:08+00:00",
-   "tickers": [
-    "ZTS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "b7fd59df3ab7",
-   "headline": "CRISPR Therapeutics AG (CRSP) Expected to Beat Earnings Estimates: What to Know Ahead of Q3 Release",
-   "summary": "CRISPR Therapeutics (CRSP) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-   "url": "https://finnhub.io/api/news?id=9c0a326570a4f29abc6d7e7080f661d91b8455d13bb123df8b591476794137d0",
-   "source": "Yahoo",
-   "published": "2026-11-02T14:00:05+00:00",
-   "tickers": [
-    "CRSP",
-    "GH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "21213b90b484",
-   "headline": "Late-breaking one-year data show Abbott's next-generation Amulet 360\u2122 device continues to demonstrate high rates of left atrial appendage closure and low incidence of stroke",
-   "summary": "Late-breaking one-year VERITAS study results were presented at the Transcatheter Cardiovascular Therapeutics conference and simultaneously published in JACC: Cardiovascular Interventions; data show the device achieved high closure rates\u2026",
-   "url": "https://www.prnewswire.com/news-releases/late-breaking-one-year-data-show-abbotts-next-generation-amulet-360-device-continues-to-demonstrate-high-rates-of-left-atrial-appendage-closure-and-low-incidence-of-stroke-302926412.html",
-   "source": "PR Newswire",
-   "published": "2026-11-02T14:00:00+00:00",
-   "tickers": [
-    "ABT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "0b5c4c2d760a",
-   "headline": "Brise Pharmaceuticals Announces Global License Agreement with AbbVie to Advance the Next-Generation of Migraine Therapies",
-   "summary": "BEIJING, Nov. 2, 2026 /PRNewswire/ -- Brise Pharmaceuticals Co., Ltd. (Brise) today provided an update on its exclusive license agreement with AbbVie (NYSE: ABBV), which the companies entered in 2024. Under the terms of the collaboration\u2026",
-   "url": "https://www.prnewswire.com/news-releases/brise-pharmaceuticals-announces-global-license-agreement-with-abbvie-to-advance-the-next-generation-of-migraine-therapies-302925660.html",
-   "source": "PR Newswire",
-   "published": "2026-11-02T14:00:00+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "79b075cc8466",
-   "headline": "Earnings roundup: AstraZeneca\u2019s cost cuts, Alnylam\u2019s slump and Regeneron\u2019s resilience",
-   "summary": "AstraZeneca will \u201credeploy resources\u201d through a new restructuring program. Meanwhile, Alnylam shares sold off on fears surrounding a top drug and investors rewarded Regeneron for a record quarter.",
-   "url": "https://www.biopharmadive.com/news/astrazeneca-alnylam-regeneron-3q26-earnings-analysis/873410/",
-   "source": "BioPharma Dive",
-   "published": "2026-11-02T14:00:00+00:00",
-   "tickers": [
-    "ALNY",
-    "AZN",
-    "REGN"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech",
-    "pharma"
-   ]
-  },
-  {
-   "id": "69c9efb1661c",
-   "headline": "ABBV Q3 Earnings Call Highlights Raised Outlook and Pipeline Progress",
-   "summary": "AbbVie raises its 2026 revenue and earnings outlook as Skyrizi, Rinvoq and neuroscience growth fuel momentum, while oncology milestones shape prospects.",
-   "url": "https://finnhub.io/api/news?id=2d7564aa05106a69bc7c05042f7e16608e26a0701fea49d3db0d8fd78db0a507",
-   "source": "Yahoo",
-   "published": "2026-11-02T14:00:00+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "7fb8b475e4ce",
-   "headline": "Brise Pharmaceuticals Announces Global License Agreement with AbbVie to Advance the Next-Generation of Migraine Therapies",
-   "summary": "Brise Pharmaceuticals Co., Ltd. (Brise) today provided an update on its exclusive license agreement with AbbVie (NYSE: ABBV), which the companies entered in 2024. Under the terms of the collaboration agreement, Brise is responsible for\u2026",
-   "url": "https://finnhub.io/api/news?id=e4c60c26055cfb878fcd60a4a094358173421bb93e9dbc5f731fc14907d95b28",
-   "source": "Yahoo",
-   "published": "2026-11-02T14:00:00+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "4bf319591c26",
-   "headline": "Late-breaking one-year data show Abbott's next-generation Amulet 360\u2122 device continues to demonstrate high rates of left atrial appendage closure and low incidence of stroke",
-   "summary": "Abbott (NYSE: ABT), the global healthcare leader, announced today one-year results for its investigational Amulet 360\u2122 Left Atrial Appendage (LAA) Occluder from the VERITAS study, which show meaningful closure rates of the left atrial\u2026",
-   "url": "https://finnhub.io/api/news?id=af0875ce225ef495eba2de1cd21a84fbf4ec91497ee72d1c4c14dfae9458e2c1",
-   "source": "Yahoo",
-   "published": "2026-11-02T14:00:00+00:00",
-   "tickers": [
-    "ABT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "b0ff4fd3b829",
-   "headline": "DEFY THE ELEMENTS - DR. MARTENS UNVEILS THE NEW WATERPROOF 101 RAIN BOOT, A WELLINGTON EVOLVED FROM TIMELESS BRAND DNA",
-   "summary": "A nod to Dr. Martens classic 101 Boot, these wellington boots are the latest iteration of the brand's waterproof Rain collection, which debuted with the 1460 Rain Boot in AW25. Inspired by the same DNA as the timeless silhouette but\u2026",
-   "url": "https://finnhub.io/api/news?id=af35194802b8f3a6c5dab6ef2b545f1fd78291428cb29c34f9e9848917cb24df",
-   "source": "Yahoo",
-   "published": "2026-11-02T14:00:00+00:00",
-   "tickers": [
-    "DOCS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "f8fdfd5ac82b",
-   "headline": "Earnings roundup: AstraZeneca\u2019s cost cuts, Alnylam\u2019s slump and Regeneron\u2019s resilience",
-   "summary": "AstraZeneca will \u201credeploy resources\u201d through a new restructuring program. Meanwhile, Alnylam shares sold off on fears surrounding a top drug and investors rewarded Regeneron for a record quarter.",
-   "url": "https://finnhub.io/api/news?id=7ed93174720e73de9f808178ff1b52308e8bc4b5109e8da3d333058954bb8830",
-   "source": "Yahoo",
-   "published": "2026-11-02T14:00:00+00:00",
-   "tickers": [
-    "ALNY",
-    "AZN",
-    "REGN"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "4dee1101ab93",
-   "headline": "AstraZeneca results reassure on long-term growth as three brokers raise price targets",
-   "summary": "AstraZeneca PLC (LSE:AZN, NYSE:AZN), the Anglo-Swedish drugmaker, saw three brokers raise their price targets after its third-quarter results, with analysts highlighting its growth prospects, pipeline opportunities and reduced near-term\u2026",
-   "url": "https://finnhub.io/api/news?id=f10ab8edece9f7c8a08a856e6f075445d820a014d544bd1872d2e794f46f7e46",
-   "source": "Yahoo",
-   "published": "2026-11-02T14:00:00+00:00",
-   "tickers": [
-    "AZN"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "9482705a6b75",
-   "headline": "10x Genomics Launches Sentira Single Cell, A New Agentic AI Experience for Chromium Analysis",
-   "summary": "10x Genomics, Inc. (Nasdaq: TXG), the life science technology leader focused on accelerating science and advancing human health, today announced the commercial launch of Sentira Single Cell, a cloud-based agentic analysis application that\u2026",
-   "url": "https://finnhub.io/api/news?id=622504c3924b4b884c09d9209aa02d5f39bca4f5b2fc2e676f9f41a0cbec1cc4",
-   "source": "Yahoo",
-   "published": "2026-11-02T14:00:00+00:00",
-   "tickers": [
-    "TXG"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "cddc1a2ecc65",
-   "headline": "1 profitable stock to research further and 2 we ignore",
-   "summary": "Even if a company is profitable, it doesn\u2019t always mean it\u2019s a great investment. Some struggle to maintain growth, face looming threats, or fail to reinvest wisely, limiting their future potential.",
-   "url": "https://finnhub.io/api/news?id=2fb79fe8658b0dc21e005815262843cb600cd9afa585c1198ca1ccb3bdff6e0c",
-   "source": "Yahoo",
-   "published": "2026-11-02T13:57:36+00:00",
-   "tickers": [
-    "LFST"
-   ],
-   "tag": "News",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "ae2418d0ea2f",
-   "headline": "FDA Provides Clarity to Support Cell and Gene Therapy Development and Quality",
-   "summary": "The U.S. Food and Drug Administration today issued final guidance for manufacturers of cellular and gene therapy (CGT) products to implement a comprehensive, science- and risk-based plan for making sure their products meet potency\u2026",
-   "url": "http://www.fda.gov/news-events/press-announcements/fda-provides-clarity-support-cell-and-gene-therapy-development-and-quality",
-   "source": "FDA",
-   "published": "2026-11-02T13:56:06+00:00",
-   "tickers": [],
-   "tag": "FDA",
-   "sectors": []
-  },
-  {
-   "id": "b7138c702d2a",
-   "headline": "Wall Street Analysts Think Globus Medical (GMED) Could Surge 30.52%: Read This Before Placing a Bet",
-   "summary": "The consensus price target hints at a 30.5% upside potential for Globus Medical (GMED). While empirical research shows that this sought-after metric is hardly effective, an upward trend in earnings estimate revisions could mean that the\u2026",
-   "url": "https://finnhub.io/api/news?id=a214f3efa6caffabec59083c8486db83540747da3bf2e2f3d92813603beeef67",
-   "source": "Yahoo",
-   "published": "2026-11-02T13:55:02+00:00",
-   "tickers": [
-    "GMED"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "884e384d948e",
-   "headline": "4 Elite Dividend Stocks That Pay You Passive Income Every Quarter",
-   "summary": "Not every dividend that has survived for decades is actually safe, and one of these four blue-chip names is covering its payout with earnings so thin that a drop in oil prices could change everything.",
-   "url": "https://finnhub.io/api/news?id=dcfcba47d835576584be667e8c85ea8f53f17aeaf93bf5c73fdba9520b0df28b",
-   "source": "Yahoo",
-   "published": "2026-11-02T13:51:47+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "c030219232e6",
-   "headline": "The top 5 analyst questions from Regeneron\u2019s Q3 earnings call",
-   "summary": "Regeneron's third quarter was marked by strong commercial execution and pipeline momentum, with the company delivering results that topped Wall Street\u2019s revenue and profit expectations. Management credited growth to robust demand for its\u2026",
-   "url": "https://finnhub.io/api/news?id=cb9f40b4d19ca3c09e4e7171e01eb5d744ae1486095b9cf6f4a6547a8b1042ed",
-   "source": "Yahoo",
-   "published": "2026-11-02T13:49:36+00:00",
-   "tickers": [
-    "REGN",
-    "SNY"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "44b27dc13115",
-   "headline": "Axsome Therapeutics, Inc. (AXSM) Q3 2026 Earnings Call Transcript",
-   "summary": "Axsome Therapeutics, Inc. (AXSM) Q3 2026 Earnings Call November 2, 2026 8:00 AM ESTCompany ParticipantsAshley DongHerriot Tabuteau - Founder, Chairman, CEO...",
-   "url": "https://finnhub.io/api/news?id=87fd98f37333b6999e0b3ecb34b99f3a20e0b70bd262b99f55c04028a0145bb9",
-   "source": "SeekingAlpha",
-   "published": "2026-11-02T13:48:25+00:00",
-   "tickers": [
-    "AXSM"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "f320fec41c98",
-   "headline": "Eli Lilly Jumped 6% After Earnings. It\u2019s Up 68% in a Year. Where Does the Target Go Now?",
-   "summary": "Mounjaro and Zepbound just handed Lilly a blowout quarter, but falling realized drug prices and one-time revenue boosts that won't repeat raise real questions about whether the rally holds from here.",
-   "url": "https://finnhub.io/api/news?id=7874105968162965db4d3f2800cd86a4b5fed72d53b8d1798db2ecdf98b59438",
-   "source": "Yahoo",
-   "published": "2026-11-02T13:47:53+00:00",
-   "tickers": [
-    "AMGN",
-    "LLY",
-    "MRK"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "c6d36b3d738e",
-   "headline": "2 Safe S&P 500 Healthcare Dividend Stocks Boomers Can Buy and Hold Forever",
-   "summary": "Healthcare bills arrive whether the economy cooperates or not, and two S&P 500 drugmakers have quietly turned that reality into decades of unbroken dividend raises. The question is whether their cash flow holds up under the pressures now\u2026",
-   "url": "https://finnhub.io/api/news?id=92df116245946eeaf547b1ee107a6fe0e9a228f14389fc71cc13502f75f3153d",
-   "source": "Yahoo",
-   "published": "2026-11-02T13:47:51+00:00",
-   "tickers": [
-    "ABBV",
-    "ABT",
-    "JNJ"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
