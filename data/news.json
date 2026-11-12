@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-12T00:47:34.024918+00:00",
+ "updated": "2026-11-12T01:03:22.720320+00:00",
  "quotes": {
   "A": {
    "price": 176.95,
@@ -77,6 +77,10 @@
   "CI": {
    "price": 301.45,
    "change_pct": -0.55
+  },
+  "CLOV": {
+   "price": 4.97,
+   "change_pct": 0.81
   },
   "CRSP": {
    "price": 45.75,
@@ -201,6 +205,10 @@
   "MCK": {
    "price": 1079.79,
    "change_pct": -0.26
+  },
+  "MDGL": {
+   "price": 433.03,
+   "change_pct": 0.1
   },
   "MDT": {
    "price": 101.61,
@@ -930,6 +938,21 @@
  },
  "stories": [
   {
+   "id": "579897130b6b",
+   "headline": "MSCI Equity Indexes November 2026 Index Review",
+   "summary": "LONDON, November 11, 2026--MSCI Inc. (NYSE: MSCI), a leading provider of critical decision support tools and services for the global investment community, announced the results of the November 2026 Index Review for the MSCI Equity\u2026",
+   "url": "https://finnhub.io/api/news?id=1a698bcef4650ea6d792480b1db181df97b79003cae9e9922ff46593fc8841da",
+   "source": "Yahoo",
+   "published": "2026-11-11T23:32:00+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "6696a985afd8",
    "headline": "Every December the Nasdaq-100 Reshuffles. QQQ Holders Feel It Even If They Never Trade",
    "summary": "Every December, the Nasdaq-100 reshuffles. When the index changes its lineup, your fund's holdings change that week whether you do anything or not.",
@@ -940,6 +963,21 @@
     "BIIB"
    ],
    "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "e6dc05961670",
+   "headline": "Eli Lilly Just Raised Its 2026 Sales Forecast to as Much as $92 Billion. But Is Viking Therapeutics the Next Big Obesity Winner?",
+   "summary": "These drugmakers offer very different risk-reward profiles.",
+   "url": "https://finnhub.io/api/news?id=6ff706aabd2be52545e88350371f9d958da5bf626fb616a20e1bd27f452f5e8b",
+   "source": "Yahoo",
+   "published": "2026-11-11T22:54:00+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "GLP-1",
    "sectors": [
     "pharma"
    ]
@@ -1040,6 +1078,7 @@
    "published": "2026-11-11T21:34:16+00:00",
    "tickers": [
     "ILMN",
+    "NTRA",
     "TMO"
    ],
    "tag": "News",
@@ -2124,6 +2163,21 @@
    ]
   },
   {
+   "id": "cd24b453c696",
+   "headline": "The Fund Exited Natera (NTRA) on Valuation Concerns Despite Strong Fundamentals",
+   "summary": "Baron Capital, an investment management company, released its third-quarter 2026 investor letter for its \u201cBaron SMID Cap ETF\u201d. The letter can be downloaded here. The Baron SMID Cap ETF showed a solid rebound in Q3, declining 2.87% (NAV)\u2026",
+   "url": "https://finnhub.io/api/news?id=d3ec368b4397fd0591cc03abbdb95e2e83fdbe32a7e00b71a502703c5ad1f3ac",
+   "source": "Yahoo",
+   "published": "2026-11-11T16:04:12+00:00",
+   "tickers": [
+    "NTRA"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "7866082a01c5",
    "headline": "Here's Why Ionis Pharmaceuticals' Stock is Down 28.5% Post Q3 Earnings",
    "summary": "IONS plunges as slower Tryngolza sales, reduced guidance and disappointing Wainua royalties rattle investors.",
@@ -2708,7 +2762,8 @@
    "source": "Yahoo",
    "published": "2026-11-11T14:25:00+00:00",
    "tickers": [
-    "ILMN"
+    "ILMN",
+    "NTRA"
    ],
    "tag": "Health AI",
    "sectors": [
@@ -2754,6 +2809,21 @@
    "published": "2026-11-11T14:22:00+00:00",
    "tickers": [
     "A"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "f1eb2f30a6d2",
+   "headline": "Strong Q2 Results and Raised Revenue Guidance Drive Natera\u2019s (NTRA)Outperformance",
+   "summary": "Carillon Tower Advisers, an investment management company, released its third-quarter 2026 investor letter for the \u201cCarillon Eagle Mid Cap Growth Fund\u201d. The letter can be downloaded here. Mid-cap stocks pulled back in the third quarter of\u2026",
+   "url": "https://finnhub.io/api/news?id=ea850d4ddf6b966c7d177d659eda24d8b0f568c3b7996ee1295c7db3d837b134",
+   "source": "Yahoo",
+   "published": "2026-11-11T14:21:41+00:00",
+   "tickers": [
+    "NTRA"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -3560,7 +3630,8 @@
    "source": "Yahoo",
    "published": "2026-11-11T11:19:31+00:00",
    "tickers": [
-    "INCY"
+    "INCY",
+    "NTRA"
    ],
    "tag": "Clinical",
    "sectors": [
@@ -3963,6 +4034,21 @@
    ]
   },
   {
+   "id": "8a53002629e4",
+   "headline": "Nuvation Bio And 2 More Penny Stocks To Watch",
+   "summary": "Hotter than expected US inflation has traders bracing for more Federal Reserve rate hikes, and that kind of backdrop often punishes unprofitable high flyers while rewarding cleaner balance sheets. This is where lower priced stocks with\u2026",
+   "url": "https://finnhub.io/api/news?id=b8ab5972553a3ce06d4c5e2dc41f1092292fc9a5b2935e67ef27136da5720f79",
+   "source": "Yahoo",
+   "published": "2026-11-11T09:13:26+00:00",
+   "tickers": [
+    "CLOV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "26c5b8617249",
    "headline": "Missed Illumina's 76% Run? Here Is What Holders Saw",
    "summary": "If Illumina sat on your watchlist instead of in your portfolio, the past year might feel like a missed shot. Investors who held Illumina over the past year are up 76.2%, including dividends. That outcome arrived alongside headlines about\u2026",
@@ -4090,7 +4176,8 @@
    "source": "Yahoo",
    "published": "2026-11-11T06:36:00+00:00",
    "tickers": [
-    "INSM"
+    "INSM",
+    "MDGL"
    ],
    "tag": "Analyst",
    "sectors": [
