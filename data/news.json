@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-12T00:17:37.253663+00:00",
+ "updated": "2026-11-12T00:32:46.356809+00:00",
  "quotes": {
   "A": {
    "price": 176.95,
@@ -25,6 +25,10 @@
   "AMGN": {
    "price": 468.11,
    "change_pct": 0.62
+  },
+  "ARWR": {
+   "price": 49.36,
+   "change_pct": 0.73
   },
   "ASND": {
    "price": 259.28,
@@ -149,10 +153,6 @@
   "HUM": {
    "price": 446.31,
    "change_pct": 1.88
-  },
-  "IDXX": {
-   "price": 702.59,
-   "change_pct": 0.85
   },
   "ILMN": {
    "price": 212.93,
@@ -930,6 +930,21 @@
  },
  "stories": [
   {
+   "id": "405f41e12943",
+   "headline": "Exelixis Nears FDA Decision, Key Kidney Cancer Data for Zanzalintinib",
+   "summary": "Exelixis (NASDAQ:EXEL) is preparing for a regulatory decision on its cancer drug candidate zanzalintinib and expects results from a kidney cancer study in the first quarter of next year, Chief Strategy Officer Andrew Peters said at an\u2026",
+   "url": "https://finnhub.io/api/news?id=5652fb757d97aeac21b64a87ef1dab00008eaeccf6be1de2f30feeb0e728b55e",
+   "source": "Yahoo",
+   "published": "2026-11-11T22:12:30+00:00",
+   "tickers": [
+    "BMY"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "7a4e8e712a2e",
    "headline": "S&P 500 After-Hours Movers: MNST, RDDT Among Gainers; VEEV, LLY Among Losers in Latest Session",
    "summary": "S&P 500 after-hours movers from the latest U.S. session include MNST and RDDT among gainers, while VEEV and LLY posted sharp after-hours declines.",
@@ -1502,6 +1517,21 @@
    "tag": "GLP-1",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "12ef5c44d9dc",
+   "headline": "Arrowhead Pharmaceuticals, Inc. (ARWR) Presents at AHA Scientific Sessions 2026 - Slideshow",
+   "summary": "2026-11-11. The following slide deck was published by Arrowhead Pharmaceuticals, Inc.",
+   "url": "https://finnhub.io/api/news?id=52648381b9590468602d3cb9bcbf089f30d12e4304958177c1afefe9a8f061ed",
+   "source": "SeekingAlpha",
+   "published": "2026-11-11T18:16:59+00:00",
+   "tickers": [
+    "ARWR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
