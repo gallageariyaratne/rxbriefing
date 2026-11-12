@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-12T00:32:46.356809+00:00",
+ "updated": "2026-11-12T00:47:34.024918+00:00",
  "quotes": {
   "A": {
    "price": 176.95,
@@ -230,6 +230,10 @@
    "price": 160.32,
    "change_pct": -1.8
   },
+  "OMCL": {
+   "price": 35.57,
+   "change_pct": -0.92
+  },
   "PFE": {
    "price": 29.45,
    "change_pct": 0.31
@@ -245,10 +249,6 @@
   "REGN": {
    "price": 959.41,
    "change_pct": 4.73
-  },
-  "RGEN": {
-   "price": 172.62,
-   "change_pct": -0.78
   },
   "RMD": {
    "price": 238.53,
@@ -930,6 +930,36 @@
  },
  "stories": [
   {
+   "id": "6696a985afd8",
+   "headline": "Every December the Nasdaq-100 Reshuffles. QQQ Holders Feel It Even If They Never Trade",
+   "summary": "Every December, the Nasdaq-100 reshuffles. When the index changes its lineup, your fund's holdings change that week whether you do anything or not.",
+   "url": "https://finnhub.io/api/news?id=6eb0188d7a0dc384645ddb4fbfc15e253548dcf3d024cf220c44891aefda8d82",
+   "source": "Yahoo",
+   "published": "2026-11-11T23:03:03+00:00",
+   "tickers": [
+    "BIIB"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "dc9f6c191193",
+   "headline": "GE HealthCare: 3 Key Takeaways for Long-Term Investors",
+   "summary": "Multiyear supply contracts and higher-margin product launches may help position the company to sustain margin expansion amid industry chip shortages.",
+   "url": "https://finnhub.io/api/news?id=9be243cb5bf7ca67e4314143d94c56520c957f2bcc065f963ee6a0d62c07ba3e",
+   "source": "Yahoo",
+   "published": "2026-11-11T22:20:02+00:00",
+   "tickers": [
+    "GEHC"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "405f41e12943",
    "headline": "Exelixis Nears FDA Decision, Key Kidney Cancer Data for Zanzalintinib",
    "summary": "Exelixis (NASDAQ:EXEL) is preparing for a regulatory decision on its cancer drug candidate zanzalintinib and expects results from a kidney cancer study in the first quarter of next year, Chief Strategy Officer Andrew Peters said at an\u2026",
@@ -937,7 +967,8 @@
    "source": "Yahoo",
    "published": "2026-11-11T22:12:30+00:00",
    "tickers": [
-    "BMY"
+    "BMY",
+    "EXEL"
    ],
    "tag": "FDA",
    "sectors": [
@@ -2105,6 +2136,21 @@
    "tag": "Earnings",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "7398082d281b",
+   "headline": "PLX: Elfabrio Estimates Up, Again",
+   "summary": "By John Vandermosten, CFA NYSE: PLX READ THE FULL PLX RESEARCH REPORT Third Quarter 2026 Financial and Operational Review Protalix BioTherapeutics, Inc. (NYSE: PLX) produced another upside revenue surprise this quarter with a 23% topline\u2026",
+   "url": "https://finnhub.io/api/news?id=3ea2eae1710fbc937b295538fdafcf5563cde6775c2c85e3cb062799eed07135",
+   "source": "Yahoo",
+   "published": "2026-11-11T16:01:00+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -4079,6 +4125,36 @@
    "tag": "Earnings",
    "sectors": [
     "pharmacy"
+   ]
+  },
+  {
+   "id": "00dd38874ed0",
+   "headline": "Zacks.com featured highlights include Cinemark, Diamondback Energy and Omnicell",
+   "summary": "CNK, FANG and OMCL gain momentum from upward broker rating revisions, backed by strong projected 2026 earnings growth.",
+   "url": "https://finnhub.io/api/news?id=1d565b68aa4a6ccd56175cc6e39bb551fa5c37d807a162efe574bd23f0edb358",
+   "source": "Yahoo",
+   "published": "2026-11-11T06:03:00+00:00",
+   "tickers": [
+    "OMCL"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
+   "id": "e6690ba16f1b",
+   "headline": "Zacks.com featured highlights include Avnet, Omnicell, Hewlett Packard and Lifetime Brands",
+   "summary": "AVT, OMCL, HPE and LCUT stand out as undervalued stocks, backed by strong earnings surprises, attractive valuations and robust projected growth.",
+   "url": "https://finnhub.io/api/news?id=7e12eb9a2b02e5655a7bf4896d6bc5f9fb5ceae9578f07e149ba666d6d910e41",
+   "source": "Yahoo",
+   "published": "2026-11-11T05:54:00+00:00",
+   "tickers": [
+    "OMCL"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
    ]
   },
   {
