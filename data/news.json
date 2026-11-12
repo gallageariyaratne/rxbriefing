@@ -1,22 +1,22 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-12T21:02:50.483085+00:00",
+ "updated": "2026-11-12T21:17:34.576044+00:00",
  "quotes": {
   "A": {
-   "price": 173.06,
-   "change_pct": -2.2
+   "price": 173.01,
+   "change_pct": -2.23
   },
   "ABBV": {
-   "price": 294.48,
-   "change_pct": -0.17
+   "price": 294.45,
+   "change_pct": -0.18
   },
   "ABSI": {
    "price": 9.13,
    "change_pct": -9.73
   },
   "ABT": {
-   "price": 107.29,
-   "change_pct": -1.83
+   "price": 107.25,
+   "change_pct": -1.87
   },
   "ALNY": {
    "price": 156.65,
@@ -79,8 +79,8 @@
    "change_pct": -1.81
   },
   "CNC": {
-   "price": 70.28,
-   "change_pct": -0.28
+   "price": 70.27,
+   "change_pct": -0.3
   },
   "CRL": {
    "price": 340.81,
@@ -95,12 +95,12 @@
    "change_pct": 0.3
   },
   "DGX": {
-   "price": 259.67,
-   "change_pct": 0.38
+   "price": 259.65,
+   "change_pct": 0.37
   },
   "DHR": {
-   "price": 232.17,
-   "change_pct": -1.33
+   "price": 232.16,
+   "change_pct": -1.34
   },
   "DOCS": {
    "price": 33.2,
@@ -151,8 +151,8 @@
    "change_pct": -5.19
   },
   "HUM": {
-   "price": 443.74,
-   "change_pct": -0.58
+   "price": 443.68,
+   "change_pct": -0.59
   },
   "ILMN": {
    "price": 209.55,
@@ -163,12 +163,8 @@
    "change_pct": -0.47
   },
   "IQV": {
-   "price": 271.21,
-   "change_pct": -1.21
-  },
-  "IRTC": {
-   "price": 93.56,
-   "change_pct": 5.5
+   "price": 271.11,
+   "change_pct": -1.25
   },
   "ISRG": {
    "price": 439.89,
@@ -187,16 +183,16 @@
    "change_pct": 0.02
   },
   "LLY": {
-   "price": 1430.74,
-   "change_pct": -0.46
+   "price": 1427.28,
+   "change_pct": -0.7
   },
   "MDT": {
    "price": 100.99,
    "change_pct": -0.61
   },
   "MRK": {
-   "price": 146.97,
-   "change_pct": -0.14
+   "price": 146.95,
+   "change_pct": -0.16
   },
   "MRNA": {
    "price": 231.35,
@@ -2777,7 +2773,8 @@
    "source": "Yahoo",
    "published": "2026-11-12T12:56:46+00:00",
    "tickers": [
-    "ABT"
+    "ABT",
+    "MDT"
    ],
    "tag": "News",
    "sectors": [
@@ -62888,198 +62885,6 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "1c61d7de81bf",
-   "headline": "FDA grants uniQure\u2019s Huntington\u2019s gene therapy priority review, teeing up \u2018defining milestone\u2019",
-   "summary": "The FDA has accepted uniQure\u2019s priority review and application for its gene therapy treatment for Huntington\u2019s disease.",
-   "url": "https://www.fiercebiotech.com/biotech/fda-grants-uniqure-review-its-huntingtons-drug-approval-would-be-defining-milestone",
-   "source": "Fierce Biotech",
-   "published": "2026-11-02T21:15:29.876355+00:00",
-   "tickers": [],
-   "tag": "FDA",
-   "sectors": []
-  },
-  {
-   "id": "935f04e1055b",
-   "headline": "US Equity Markets Mixed as Technology Sell-Off Continues, Crude Oil Prices Dip",
-   "summary": "US equity indexes were mixed Monday amid declining crude oil prices and continued sell-off in the te",
-   "url": "https://finnhub.io/api/news?id=8677d94b8759db3cd3c89383650ba34f8edff97e2f9ba4a446813c3c147874d3",
-   "source": "Yahoo",
-   "published": "2026-11-02T21:15:04+00:00",
-   "tickers": [
-    "IDXX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "7f514e3b6469",
-   "headline": "Intuitive Appoints Aaron Martin to its Board of Directors",
-   "summary": "SUNNYVALE, Calif., Nov. 02, 2026 (GLOBE NEWSWIRE) -- Intuitive (NASDAQ: ISRG), a global technology leader in minimally invasive care and the pioneer of robotic-assisted surgery, today announced the appointment of Aaron Martin, President\u2026",
-   "url": "https://finnhub.io/api/news?id=358b534e0e5e55422b4c9dac3e1001cb58536fee7a84d18cca0db037df337fef",
-   "source": "Yahoo",
-   "published": "2026-11-02T21:15:00+00:00",
-   "tickers": [
-    "HUM",
-    "ISRG"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "58d2ab8b2e1c",
-   "headline": "BioArctic collaborator Novartis terminates agreement",
-   "summary": "STOCKHOLM, Nov. 2, 2026 /PRNewswire/ -- BioArctic AB (publ) (Nasdaq Stockholm: BIOA B) today announced that Novartis Pharma AG has notified BioArctic that it has decided to terminate the Option, Collaboration and License Agreement entered\u2026",
-   "url": "https://www.prnewswire.com/news-releases/bioarctic-collaborator-novartis-terminates-agreement-302926959.html",
-   "source": "PR Newswire",
-   "published": "2026-11-02T21:14:00+00:00",
-   "tickers": [
-    "NVS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "844f416d12fe",
-   "headline": "Neurocrine Biosciences, Inc. (NBIX) Q3 2026 Earnings Call Transcript",
-   "summary": "",
-   "url": "https://finnhub.io/api/news?id=108dc6bdf869153840a7e4c4804f7bce92d5af8a1d52133de95243ce8ffacbfc",
-   "source": "SeekingAlpha",
-   "published": "2026-11-02T21:08:26+00:00",
-   "tickers": [
-    "NBIX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "948d193d114d",
-   "headline": "Waystar Reports Third Quarter 2026 Results",
-   "summary": "Q3 revenue of $325.6M, up 21% year over year Q3 net income of $31.0M and non-GAAP net income of $87.1M Q3 net income margin of 10%; adjusted EBITDA margin of 43% LEHI, Utah and LOUISVILLE, Ky., Nov. 2, 2026 /PRNewswire/ -- Waystar Holding\u2026",
-   "url": "https://www.prnewswire.com/news-releases/waystar-reports-third-quarter-2026-results-302926866.html",
-   "source": "PR Newswire",
-   "published": "2026-11-02T21:05:00+00:00",
-   "tickers": [
-    "WAY"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "31979d84a496",
-   "headline": "Jazz Pharmaceuticals Announces Third Quarter 2026 Financial Results",
-   "summary": "Jazz Pharmaceuticals plc (Nasdaq: JAZZ) today announced financial results for the third quarter of 2026 (3Q26).",
-   "url": "https://finnhub.io/api/news?id=659e9a8bf84bbba9ab84f879147e50cb960795f3ff5669d45bd09f9e8efca135",
-   "source": "Yahoo",
-   "published": "2026-11-02T21:05:00+00:00",
-   "tickers": [
-    "JAZZ"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "ceb748373961",
-   "headline": "Regeneron Announces Investor Conference Presentations",
-   "summary": "TARRYTOWN, N.Y., Nov. 02, 2026 (GLOBE NEWSWIRE) -- Regeneron Pharmaceuticals, Inc. (NASDAQ: REGN) will webcast management participation as follows: 2026 Jefferies Global Healthcare Conference in London at 2:00 p.m. GMT (9:00 a.m. ET) on\u2026",
-   "url": "https://finnhub.io/api/news?id=6745dea874ac519494a61d6bd0fd88f46668e72448c6f54b0cd82887f0226e9a",
-   "source": "Yahoo",
-   "published": "2026-11-02T21:05:00+00:00",
-   "tickers": [
-    "REGN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "bb2a34033eee",
-   "headline": "Recursion Appoints Fred Hassan as Chair of the Board",
-   "summary": "Salt Lake City, UT, Nov. 02, 2026 (GLOBE NEWSWIRE) -- Recursion (Nasdaq: RXRX), a leading clinical-stage company pioneering AI-enabled drug discovery and development, today announced that its Board of Directors has appointed Fred Hassan\u2026",
-   "url": "https://finnhub.io/api/news?id=0a7d37a0c89f8654f6d477e078bcf2fcd6d2ff9280ea3d992d59bf7aa4dc2d7a",
-   "source": "Yahoo",
-   "published": "2026-11-02T21:05:00+00:00",
-   "tickers": [
-    "RXRX"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "healthai"
-   ]
-  },
-  {
-   "id": "4ca715f4c086",
-   "headline": "Waystar Reports Third Quarter 2026 Results",
-   "summary": "Waystar Holding Corp. (Nasdaq: WAY), a provider of leading healthcare payment software, today reported results for the third quarter ended September 30, 2026.",
-   "url": "https://finnhub.io/api/news?id=318866da522c7ad7c737b3b17298720dff2354658b0dd729c25f085281d853fe",
-   "source": "Yahoo",
-   "published": "2026-11-02T21:05:00+00:00",
-   "tickers": [
-    "WAY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "b34cd53acc29",
-   "headline": "BioMarin Reports Third Quarter 2026 Financial and Operating Results",
-   "summary": "Third Quarter 2026 Total Revenues Increased 32% Y/Y to $1.025 billion; Growth Driven by 44% Increase in Metabolic Conditions Y/Y, and 12% Increase in Skeletal Conditions Y/Y Updates Full-year 2026 Guidance to Reflect Order Timing\u2026",
-   "url": "https://www.prnewswire.com/news-releases/biomarin-reports-third-quarter-2026-financial-and-operating-results-302926682.html",
-   "source": "PR Newswire",
-   "published": "2026-11-02T21:03:00+00:00",
-   "tickers": [
-    "BMRN"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "e77bfba1021d",
-   "headline": "BioMarin Reports Third Quarter 2026 Financial and Operating Results",
-   "summary": "BioMarin Pharmaceutical Inc. (NASDAQ: BMRN) today announced financial results for the third quarter ended September 30, 2026.",
-   "url": "https://finnhub.io/api/news?id=09cf74d5b547881f02748229fd4830e27f394ba804877022376a6cc58cd05951",
-   "source": "Yahoo",
-   "published": "2026-11-02T21:03:00+00:00",
-   "tickers": [
-    "BMRN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "ae5434a502c1",
-   "headline": "IDEXX Laboratories Inc (IDXX) (Q3 2026) Earnings Call Highlights: Raised Outlook, Record ...",
-   "summary": "IDEXX Laboratories Inc (IDXX) lifted full-year revenue and EPS guidance after 10% organic growth and nearly 5,800 premium instrument placements, even as US clinic visits declined.",
-   "url": "https://finnhub.io/api/news?id=724be196a562e5fd871e66e9c06e5a4428f0bed84e60a959dccf975f78dffa03",
-   "source": "Yahoo",
-   "published": "2026-11-02T21:02:53+00:00",
-   "tickers": [
-    "IDXX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
