@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-12T22:32:41.385366+00:00",
+ "updated": "2026-11-12T22:47:37.184862+00:00",
  "quotes": {
   "A": {
    "price": 173.01,
@@ -117,6 +117,10 @@
   "ELV": {
    "price": 429.9,
    "change_pct": 0.1
+  },
+  "ENSG": {
+   "price": 186.54,
+   "change_pct": 0.19
   },
   "EW": {
    "price": 105.8,
@@ -918,6 +922,17 @@
  },
  "stories": [
   {
+   "id": "fc4a984fdf3d",
+   "headline": "CMS extends moratorium on new Medicare enrollments for hospice, home health agencies",
+   "summary": "The Trump administration is extending its moratorium on new Medicare enrollments from hospice and home health agencies.",
+   "url": "https://www.fiercehealthcare.com/regulatory/cms-pauses-hospice-home-health-medicare-enrollments-fraud-crackdown",
+   "source": "Fierce Healthcare",
+   "published": "2026-11-12T22:45:24.969687+00:00",
+   "tickers": [],
+   "tag": "Policy",
+   "sectors": []
+  },
+  {
    "id": "988cf3949caf",
    "headline": "Arrowhead Pharmaceuticals falls on earnings miss",
    "summary": "Investing.com -- Arrowhead Pharmaceuticals Inc (NASDAQ:ARWR) reported fiscal year 2026 results that fell short of Wall Street expectations, with the stock declining 2.4% in after-hours trading Thursday.",
@@ -1016,6 +1031,21 @@
    "tag": "Earnings",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "20d852f14e86",
+   "headline": "The Ensign Group to Present at the Stephens Annual Investment Conference on November 18, 2026",
+   "summary": "SAN JUAN CAPISTRANO, Calif., Nov. 12, 2026 (GLOBE NEWSWIRE) -- The Ensign Group, Inc. (Nasdaq: ENSG), the parent company of the EnsignTM group of companies, which invest in and provide skilled nursing and senior living services, physical,\u2026",
+   "url": "https://finnhub.io/api/news?id=e68c87f86c3fbb0dd339dd8f7700fec2b2930bc27447bb8b465e5308915ee59e",
+   "source": "Yahoo",
+   "published": "2026-11-12T21:01:00+00:00",
+   "tickers": [
+    "ENSG"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
    ]
   },
   {
