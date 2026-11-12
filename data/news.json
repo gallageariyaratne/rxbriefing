@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-12T14:02:52.584391+00:00",
+ "updated": "2026-11-12T14:17:48.900569+00:00",
  "quotes": {
   "A": {
    "price": 176.95,
@@ -226,6 +226,10 @@
    "price": 664.77,
    "change_pct": 0.03
   },
+  "MOH": {
+   "price": 209.25,
+   "change_pct": 1.41
+  },
   "MRK": {
    "price": 147.18,
    "change_pct": -0.59
@@ -317,10 +321,6 @@
   "UNH": {
    "price": 402.94,
    "change_pct": -0.54
-  },
-  "UTHR": {
-   "price": 595.66,
-   "change_pct": 1.2
   }
  },
  "tickers": {
@@ -938,6 +938,58 @@
  },
  "stories": [
   {
+   "id": "0f0481ce3244",
+   "headline": "Duet nabs $15M series A, plans to launch first NP-led ACO in 2027",
+   "summary": "Alongside the funding round, Duet announced it plans to launch the first-ever NP-led Medicare Accountable Care Organization in 2027.",
+   "url": "https://www.fiercehealthcare.com/finance/duet-nabs-15m-series-plans-launch-first-np-led-aco-2027",
+   "source": "Fierce Healthcare",
+   "published": "2026-11-12T14:15:24.871431+00:00",
+   "tickers": [],
+   "tag": "Policy",
+   "sectors": []
+  },
+  {
+   "id": "91592a4276bd",
+   "headline": "BMS reunites R&D divisions under Cristian Massacesi, while Robert Plenge departs",
+   "summary": "Bristol Myers Squibb is merging its research and development divisions under the leadership of Cristian Massacesi, M.D.",
+   "url": "https://www.fiercepharma.com/biotech/bristol-myers-reunites-rd-divisions-under-cristian-massacesi",
+   "source": "Fierce Pharma",
+   "published": "2026-11-12T14:15:24.686824+00:00",
+   "tickers": [
+    "BMY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "c50db8b41a53",
+   "headline": "STAT+: Pharmalittle: We\u2019re reading about FDA shelving fast-track review, a Canadian importer arrested, and more",
+   "summary": "The FDA has shelved the fast-track drug review initiative launched in June 2025 by former Commissioner Marty Makary",
+   "url": "https://www.statnews.com/pharmalot/2026/11/12/fda-fast-track-review-shelved-canadian-importer-arrested/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-11-12T14:14:55+00:00",
+   "tickers": [],
+   "tag": "FDA",
+   "sectors": []
+  },
+  {
+   "id": "9238e0d53822",
+   "headline": "CVS Pharmacy\u00ae launches latest collection of Caliber\u00ae Artist Series colleague-designed journals",
+   "summary": "New collection highlights creativity, community and the role of journaling in everyday wellness WOONSOCKET, R.I., Nov. 12, 2026 /PRNewswire/ -- CVS Pharmacy\u00ae (NYSE: CVS), the retail division of CVS Health\u00ae, today announced the latest\u2026",
+   "url": "https://www.prnewswire.com/news-releases/cvs-pharmacy-launches-latest-collection-of-caliber-artist-series-colleague-designed-journals-302937951.html",
+   "source": "PR Newswire",
+   "published": "2026-11-12T14:00:00+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "1cbad7fb196b",
    "headline": "BMS reunites R&D divisions under Cristian Massacesi, while Robert Plenge departs",
    "summary": "Bristol Myers Squibb is merging its research and development divisions under the leadership of Cristian Massacesi, M.D.",
@@ -953,6 +1005,21 @@
    ]
   },
   {
+   "id": "1d670e1ee043",
+   "headline": "Absci Corp (NASDAQ:ABSI) Q3 2026 Revenue Miss Puts ABS-201 Data and Cash Runway in Focus",
+   "summary": "ABSI Q3 2026 revenue missed but loss narrowed; investors eye ABS-201 hair-loss proof-of-concept data in Dec 2026 and cash runway into 2H 2028.",
+   "url": "https://finnhub.io/api/news?id=d171398fd692f4b568cd6852e32bb877b30d762b8fb9a5a579115a84937ceb4f",
+   "source": "ChartMill",
+   "published": "2026-11-12T13:30:46+00:00",
+   "tickers": [
+    "ABSI"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthai"
+   ]
+  },
+  {
    "id": "8fb5745fade5",
    "headline": "AI models from Google, Anthropic and more lean on recommending promoted drugs: study",
    "summary": "New research out from Mount Sinai has found that a dozen AI models it tested from major tech companies were more likely to recommend an advertised drug when it was promoted alongside a clinician\u2019s question about treatment.",
@@ -962,6 +1029,21 @@
    "tickers": [],
    "tag": "Health AI",
    "sectors": []
+  },
+  {
+   "id": "895b9541ea08",
+   "headline": "Is There A Risk Hiding In Johnson & Johnson Stock's Earnings?",
+   "summary": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://finnhub.io/api/news?id=d3c0a16642bd992f2a260905be20f5e8b0c0d2e65518b41fca83abbb976cdfff",
+   "source": "Yahoo",
+   "published": "2026-11-12T13:00:10+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "50a3e4e8ff0d",
@@ -1226,6 +1308,21 @@
    ]
   },
   {
+   "id": "fe924382d3ac",
+   "headline": "Can CVS Health's 2028 Split Unlock Value Despite Execution Risks?",
+   "summary": "CVS Health's planned 2028 split aims to sharpen strategic focus, improve capital allocation and unlock growth, but execution costs and operational risks remain.",
+   "url": "https://finnhub.io/api/news?id=24ded081ebaabe999986cb1e0e681659d3578f40c5826dbb03a033551c7f9049",
+   "source": "Yahoo",
+   "published": "2026-11-12T11:14:00+00:00",
+   "tickers": [
+    "CI"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "ad8498edb8ab",
    "headline": "Halozyme Therapeutics (HALO) Stock Looks In Line As ENHANZE Approval Lands",
    "summary": "Halozyme Therapeutics has delivered strong multi year gains for shareholders, yet the stock has recently pulled back. This raises a clear question about whether its current valuation is supported by the business's earnings power. Over the\u2026",
@@ -1460,6 +1557,21 @@
    ]
   },
   {
+   "id": "802dc72bb7d1",
+   "headline": "Coca-Cola or AbbVie: The One Dividend Stock I\u2019d Hold for the Next 20 Years",
+   "summary": "Key TakeawaysAbbVie raised its quarterly dividend 5. 2% to $1.",
+   "url": "https://finnhub.io/api/news?id=cdfad96ace812d97b56a5f8bf9ea5caff81b9329a66b25c9c4905cfaebe711a2",
+   "source": "Yahoo",
+   "published": "2026-11-12T10:27:45+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "ef1e0247b25c",
    "headline": "This Veteran Bond Manager Is Making the Most of Rising Yields. What She Likes Now.",
    "summary": "Mary Ellen Stanek, Baird\u2019s chief investment officer emeritus, sees value in financial-company bonds, higher-quality municipals.",
@@ -1563,6 +1675,51 @@
    "tickers": [],
    "tag": "Clinical",
    "sectors": []
+  },
+  {
+   "id": "fb0ba14834c6",
+   "headline": "Piper Sandler Maintains Overweight on Cigna Group, Lowers Price Target to $360",
+   "summary": "Piper Sandler analyst Jessica Tassan maintains Cigna Group (NYSE:CI) with a Overweight and lowers the price target from $370 to $360.",
+   "url": "https://finnhub.io/api/news?id=f1ba62e4c63817603449ccb3849cd5deea05f9d0ac7181e37f67142a5edbffcc",
+   "source": "Benzinga",
+   "published": "2026-11-12T08:59:49+00:00",
+   "tickers": [
+    "CI"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "ce51b523deba",
+   "headline": "Altimmune Q3 EPS $(0.15) Misses $(0.14) Estimate, Sales $0 Miss $1.400K Estimate",
+   "summary": "Altimmune (NASDAQ:ALT) reported quarterly losses of $(0.15) per share which missed the analyst consensus estimate of $(0.14) by 15.38 percent. This is a 28.57 percent increase over losses of $(0.21) per share from the",
+   "url": "https://finnhub.io/api/news?id=6a765e9798d5e945358f6ae4bcd17fd3ba914cac8953611801dcb576fb4ad3d1",
+   "source": "Benzinga",
+   "published": "2026-11-12T08:40:12+00:00",
+   "tickers": [
+    "ALT"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "16152114ce03",
+   "headline": "Altimmune Publishes IMPACT Phase 2b 48-Week Data In The Lancet Gastroenterology & Hepatology",
+   "summary": "Significant reductions across non-invasive measures of liver fat, inflammation and fibrosis observed at 48 weeks of pemvidutide treatment, with generally favorable tolerability profilePublication of results provides",
+   "url": "https://finnhub.io/api/news?id=726c67232dfee402e853879864f068e78509a77971cded6be83051a66ce9a826",
+   "source": "Benzinga",
+   "published": "2026-11-12T08:22:25+00:00",
+   "tickers": [
+    "ALT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
   },
   {
    "id": "fb5237384061",
@@ -2679,6 +2836,22 @@
    "tag": "News",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "1aec5a2521da",
+   "headline": "Michael Burry\u2019s Portfolio: What the \u2018Big Short\u2019 Investor Owns Now",
+   "summary": "Michael Burry expanded bets on Lululemon, Adobe, Sprouts, PayPal, MercadoLibre and JD.com, favoring buybacks and beaten-down value stocks.",
+   "url": "https://finnhub.io/api/news?id=33dc235efa2140b0421c33e823f138ed217e700e27c7f19eaecb353aa8599ce8",
+   "source": "Benzinga",
+   "published": "2026-11-11T19:45:23+00:00",
+   "tickers": [
+    "HCA",
+    "MOH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -4615,6 +4788,21 @@
    "tag": "News",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "15056caf792d",
+   "headline": "Bernstein Maintains Outperform on Cigna Group, Raises Price Target to $390",
+   "summary": "Bernstein analyst Lance Wilkes maintains Cigna Group (NYSE:CI) with a Outperform and raises the price target from $387 to $390.",
+   "url": "https://finnhub.io/api/news?id=75c747f3a7af79e13c04c59cc41250c8c86bad7712897060e678fe1539a21fc0",
+   "source": "Benzinga",
+   "published": "2026-11-11T13:24:10+00:00",
+   "tickers": [
+    "CI"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -62938,65 +63126,6 @@
    "tickers": [],
    "tag": "Policy",
    "sectors": []
-  },
-  {
-   "id": "6f5cba6e06cd",
-   "headline": "Midstream Health nabs $20M series A to help hospitals recover lost margin",
-   "summary": "Health systems are losing margins they\u2019ve already earned, according to Sumit Kadakia, CEO and co-founder of Midstream Health. The startup bets artificial intelligence can improve hospital margins by finding money that is already embedded\u2026",
-   "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/midstream-health-nabs-20m-ai-financial-platform-improve-hospital-margins",
-   "source": "Fierce Healthcare",
-   "published": "2026-11-02T14:15:26.373546+00:00",
-   "tickers": [],
-   "tag": "Financing",
-   "sectors": []
-  },
-  {
-   "id": "2f4371b2f373",
-   "headline": "Athenahealth launches tool to bring patient health records into Anthropic's Claude",
-   "summary": "Athenahealth is opening up patient health records to outside AI assistants, starting with Anthropic\u2019s Claude, through a new MCP connection designed to give patients personalized answers based on their clinical data.",
-   "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/athenahealth-launches-tool-bring-patient-health-records-anthropics-claude",
-   "source": "Fierce Healthcare",
-   "published": "2026-11-02T14:15:26.372268+00:00",
-   "tickers": [],
-   "tag": "Health AI",
-   "sectors": []
-  },
-  {
-   "id": "5d7362f2b053",
-   "headline": "How AI turns field conversations into actionable insights",
-   "summary": "See how STEM AI turns real-world HCP conversations into personalized coaching, strategic insights and stronger field execution.",
-   "url": "https://www.fiercepharma.com/sponsored/how-ai-turns-field-conversations-actionable-insights",
-   "source": "Fierce Pharma",
-   "published": "2026-11-02T14:15:26.198352+00:00",
-   "tickers": [],
-   "tag": "Health AI",
-   "sectors": []
-  },
-  {
-   "id": "5f3bb4880fc1",
-   "headline": "Lower dose of Tiziana's MS drug reduces neuroinflammation, while higher dose struggles",
-   "summary": "Tiziana Life Sciences\u2019 intranasal drug has hit the dual endpoints of a phase 2a study in patients with a form of multiple sclerosis (MS), although the win was slightly marred by the higher dose missing on a key neuroinflammation goal.",
-   "url": "https://www.fiercebiotech.com/biotech/tiziana-sees-lower-dose-intranasal-ms-drug-hit-neuroinflammation-goal-while-higher-dose",
-   "source": "Fierce Biotech",
-   "published": "2026-11-02T14:15:26.005349+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "449f4d1390b6",
-   "headline": "MAIA Biotechnology Expands Clinical Supply Agreement With Regeneron For Phase 2 Trial Of THIO In Combination With Libtayo For Advanced Non-Small Cell Lung Cancer, With New Patient Enrollment In THIO-101 Expected Soon",
-   "summary": "",
-   "url": "https://finnhub.io/api/news?id=c6e631eb071b595f6db7affe1b700a2836cb1effe2eefbc671bb89d4e3ca6c7f",
-   "source": "Benzinga",
-   "published": "2026-11-02T14:01:41+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "payers"
-   ]
   }
  ]
 }
