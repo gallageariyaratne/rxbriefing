@@ -1,35 +1,7 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-12T12:17:38.945541+00:00",
+ "updated": "2026-11-12T12:32:36.236903+00:00",
  "quotes": {
-  "A": {
-   "price": 176.95,
-   "change_pct": -0.52
-  },
-  "ABBV": {
-   "price": 294.98,
-   "change_pct": 0.37
-  },
-  "ABSI": {
-   "price": 10.12,
-   "change_pct": 1.5
-  },
-  "ABT": {
-   "price": 109.29,
-   "change_pct": -1.06
-  },
-  "ALNY": {
-   "price": 159.85,
-   "change_pct": 5.41
-  },
-  "AMGN": {
-   "price": 468.11,
-   "change_pct": 0.62
-  },
-  "ARGX": {
-   "price": 977.58,
-   "change_pct": 0.62
-  },
   "ARWR": {
    "price": 49.36,
    "change_pct": 0.73
@@ -1009,6 +981,51 @@
    ]
   },
   {
+   "id": "7aeff11ec8a6",
+   "headline": "De'Longhi (BIT:DLG) Stock Trades Near Fair Value Following Its 93% Run",
+   "summary": "De'Longhi shares have had a strong few years, which naturally raises the question of whether the current price properly lines up with the cash the business is expected to generate. With the stock recently around \u20ac47.0, the focus turns to\u2026",
+   "url": "https://finnhub.io/api/news?id=f44f04abbad675193537d3eebf79a831886ea5328ad5cfd6d68fe52736d3ea33",
+   "source": "Yahoo",
+   "published": "2026-11-12T11:15:07+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "7913dd5733a1",
+   "headline": "Boston Scientific (BSX) Is Back In The Spotlight, What Is Driving Attention?",
+   "summary": "Boston Scientific (BSX) is back in focus after a series of voluntary Class II recalls for its Direxion Torqueable Microcatheter lines, raising questions about quality control, regulatory exposure, and how much risk is now priced into the\u2026",
+   "url": "https://finnhub.io/api/news?id=9b86469f8bbf3877056d1bd675707f101869f6e8333b2c9636ad1a3a3dd10c7d",
+   "source": "Yahoo",
+   "published": "2026-11-12T11:10:06+00:00",
+   "tickers": [
+    "BSX"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "24e2de3ae660",
+   "headline": "What iShares MSCI USA Momentum Factor ETF (MTUM) Sold: AMD Leads on Tuesday",
+   "summary": "The $17.32 billion fund sold $122.5 million of stock on Tuesday, cutting 123 positions and adding none.",
+   "url": "https://finnhub.io/api/news?id=82e653a9032cd4e47978cd78be5240f7a12026ea5b27eba5a164ac85eae90b2d",
+   "source": "Yahoo",
+   "published": "2026-11-12T11:06:08+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "4f483eaaed44",
    "headline": "State Street Health Care SPDR (XLV) Adds Eli Lilly and Johnson & Johnson on Nov. 10",
    "summary": "The fund bought $132.2 million of stock, increasing all 60 of its positions and selling nothing.",
@@ -1016,7 +1033,70 @@
    "source": "Yahoo",
    "published": "2026-11-12T11:05:54+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "JNJ"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "7d57b7a2f931",
+   "headline": "JPMorgan Global Select Equity (JGLO) Adds Broadcom and AMD on Nov. 10",
+   "summary": "The fund bought $22.6 million of Broadcom and $22.0 million of AMD while selling $58.8 million of Nvidia.",
+   "url": "https://finnhub.io/api/news?id=8edad6487c075eb38196271b161a407b4335919a056f585527aa7b53606857e1",
+   "source": "Yahoo",
+   "published": "2026-11-12T11:05:40+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "ed845b94f16d",
+   "headline": "What iShares S&P Mid-Cap 400 Growth ETF (IJK) Bought: FTI Leads on Tuesday",
+   "summary": "The fund added $119.8 million in new buying across 245 positions, with TechnipFMC and United Therapeutics each accounting for $1.8 million.",
+   "url": "https://finnhub.io/api/news?id=ddca59cf3a41885e71f3ec2cee3b37add6bbf56a8d7fcac03953df17a5cd7d50",
+   "source": "Yahoo",
+   "published": "2026-11-12T11:05:24+00:00",
+   "tickers": [
+    "THC",
+    "UTHR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "fed7c2a28e48",
+   "headline": "iShares Core S&P Mid-Cap (IJH) Adds TechnipFMC and United Therapeutics on Tuesday",
+   "summary": "The $125.52 billion fund bought $187.1 million of stock and sold almost nothing, lifting 380 positions.",
+   "url": "https://finnhub.io/api/news?id=c4f9d2d378c27444721e689fc51453c2e19a5d8b063ca08de9d297bc1d88b26b",
+   "source": "Yahoo",
+   "published": "2026-11-12T11:04:19+00:00",
+   "tickers": [
+    "THC",
+    "UTHR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "62bd1f3473cd",
+   "headline": "QXO Appoints Dev Ahuja as Chief Financial Officer and Promotes Ihsan Essaid to Vice Chairman",
+   "summary": "GREENWICH, Conn., November 12, 2026--QXO, Inc. (NYSE: QXO) today announced the appointment of Dev Ahuja as the company\u2019s Chief Financial Officer. He will succeed Ihsan Essaid, who has been promoted to Vice Chairman, an executive role,\u2026",
+   "url": "https://finnhub.io/api/news?id=136584c0cf66507cba568f4300535d4b8536817638e6ffdd22390d13e7ab9672",
+   "source": "Yahoo",
+   "published": "2026-11-12T11:00:00+00:00",
+   "tickers": [
+    "NVS"
    ],
    "tag": "News",
    "sectors": [
@@ -1086,6 +1166,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "af848eeb93d1",
+   "headline": "Our Bristol Myers Squibb Stock Pick Is Up 35%. It\u2019s Still a Good Bet in Healthcare.",
+   "summary": "The stock is still attractive trading at 10 times forward earnings.",
+   "url": "https://finnhub.io/api/news?id=d6e80f50b28097938b8a33eae06ad9c9b68dbe806cf5a1ac36e6ba939c5563b5",
+   "source": "Yahoo",
+   "published": "2026-11-12T09:17:00+00:00",
+   "tickers": [
+    "BMY"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "1900fb3b1e97",
@@ -63780,111 +63875,6 @@
    "tag": "GLP-1",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "a4a45c45fb22",
-   "headline": "IDEXX Laboratories (NASDAQ:IDXX) Q3 EPS Beat and Raised Guidance Fuel Relief Rally Despite In-Line Revenue",
-   "summary": "IDEXX Q3 2026 EPS beat consensus on 11% companion diagnostics growth; revenue was in line and raised guidance was tempered by a lower margin outlook.",
-   "url": "https://finnhub.io/api/news?id=72d23b93a13b5c7fefff68e9b0a9043630f3fc21f20ec766b662f419d301aec5",
-   "source": "ChartMill",
-   "published": "2026-11-02T12:30:43+00:00",
-   "tickers": [
-    "IDXX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "2abd6338c66b",
-   "headline": "If You Invested $1000 in Thermo Fisher Scientific a Decade Ago, This is How Much It'd Be Worth Now",
-   "summary": "Why investing for the long run, especially if you buy certain popular stocks, could reap huge rewards.",
-   "url": "https://finnhub.io/api/news?id=ac3c52170bdd921461920c3133b5934fa843dc268f7a48eec3e7b878c6f7ebb6",
-   "source": "Yahoo",
-   "published": "2026-11-02T12:30:02+00:00",
-   "tickers": [
-    "TMO"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "a55dcd352c8d",
-   "headline": "Arrowhead Pharmaceuticals to Present Important Clinical Data at the American Heart Association Scientific Sessions 2026",
-   "summary": "PASADENA, Calif., November 02, 2026--Arrowhead Pharmaceuticals, Inc. (NASDAQ: ARWR) announced today that it will present important data at this week\u2019s American Heart Association Scientific Sessions in Chicago.",
-   "url": "https://finnhub.io/api/news?id=2e45f1db6d2295f7ee84c702916fabc6cc97ab776a3cdfb97da845f3bce2266e",
-   "source": "Yahoo",
-   "published": "2026-11-02T12:30:00+00:00",
-   "tickers": [
-    "ARWR"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "b02d584d60a9",
-   "headline": "Cytokinetics Announces Three Upcoming Presentations at the Hypertrophic Cardiomyopathy Medical Society (HCMS) Scientific Sessions Held in Collaboration with the American Heart Association Scientific Sessions 2026",
-   "summary": "SOUTH SAN FRANCISCO, Calif., Nov. 02, 2026 (GLOBE NEWSWIRE) -- Cytokinetics, Incorporated (Nasdaq: CYTK) today announced three upcoming presentations, including two Late Breaking Oral Abstract presentations and one poster presentation, at\u2026",
-   "url": "https://finnhub.io/api/news?id=7d3b452a16ecf6582700fb2773790c0f4bc6c6c6bdd4ce7faefeae6d07502389",
-   "source": "Yahoo",
-   "published": "2026-11-02T12:30:00+00:00",
-   "tickers": [
-    "CYTK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "846e9e817e59",
-   "headline": "TG Therapeutics to Host Conference Call on Third Quarter 2026 Financial Results and Business Update",
-   "summary": "NEW YORK, November 02, 2026--TG Therapeutics, Inc. (NASDAQ: TGTX), today announced that a conference call will be held, Monday, November 9, 2026, at 8:30 AM ET to discuss results for the third quarter 2026 and to provide a business\u2026",
-   "url": "https://finnhub.io/api/news?id=ef7a16803dc148333b12e01e0d5d8524ec915918cca73fe70dbc51d3cda6c59b",
-   "source": "Yahoo",
-   "published": "2026-11-02T12:30:00+00:00",
-   "tickers": [
-    "TGTX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "8b1626fedfb2",
-   "headline": "Dexcom lifts 2026 revenue outlook after positive Q3",
-   "summary": "Dexcom now expects 2026 revenues to land in the $5.2bn to $5.25bn range, up from $5.18bn at the low-end as previously outlined.",
-   "url": "https://finnhub.io/api/news?id=4613b368654a94e271befc1ab99abde003247c0f2590dad9098a38d2ac563caa",
-   "source": "Yahoo",
-   "published": "2026-11-02T12:24:20+00:00",
-   "tickers": [
-    "DXCM"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "480516a7dafb",
-   "headline": "Here's How Much $1000 Invested In Gilead Sciences 20 Years Ago Would Be Worth Today",
-   "summary": "Gilead Sciences (NASDAQ:GILD) has outperformed the market over the past 20 years by 3.29% on an annualized basis producing an average annual return of 12.2%. Currently, Gilead Sciences has a market capitalization of",
-   "url": "https://finnhub.io/api/news?id=8a34d7006f8cc84f7c7f84557bf0a12414d37bbbb3945c99d429f7d11ab64f82",
-   "source": "Benzinga",
-   "published": "2026-11-02T12:16:10+00:00",
-   "tickers": [
-    "GILD"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
