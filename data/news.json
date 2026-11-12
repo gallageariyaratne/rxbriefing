@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-12T10:47:32.392314+00:00",
+ "updated": "2026-11-12T11:02:44.627980+00:00",
  "quotes": {
   "A": {
    "price": 176.95,
@@ -85,6 +85,10 @@
   "CLOV": {
    "price": 4.97,
    "change_pct": 0.81
+  },
+  "CNC": {
+   "price": 70.48,
+   "change_pct": 0.41
   },
   "CRSP": {
    "price": 45.75,
@@ -317,10 +321,6 @@
   "UTHR": {
    "price": 595.66,
    "change_pct": 1.2
-  },
-  "VEEV": {
-   "price": 304.77,
-   "change_pct": -0.26
   }
  },
  "tickers": {
@@ -945,6 +945,7 @@
    "source": "Yahoo",
    "published": "2026-11-12T09:42:40+00:00",
    "tickers": [
+    "CNC",
     "THC"
    ],
    "tag": "News",
@@ -64536,51 +64537,6 @@
    "published": "2026-11-02T11:01:19+00:00",
    "tickers": [
     "LLY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "50bac7e4d3a5",
-   "headline": "How the next major AI breakthrough could cure cancer: You.com CEO",
-   "summary": "You.com and Recursive CEO, Richard Socher, breaks down to Yahoo Finance Executive Editor Brian Sozzi how superintelligent AI is poised to make biology programmable, leading to massive breakthroughs in curing cancer and extending human\u2026",
-   "url": "https://finnhub.io/api/news?id=2b7e05469852ba8f4db9d311373706ad4988db148b7d8f45cf96679c82f34b94",
-   "source": "Yahoo",
-   "published": "2026-11-02T11:00:00+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "06f3ee7d3b9e",
-   "headline": "Stifel Maintains Buy on Stryker, Lowers Price Target to $325",
-   "summary": "Stifel analyst Rick Wise maintains Stryker (NYSE:SYK) with a Buy and lowers the price target from $330 to $325.",
-   "url": "https://finnhub.io/api/news?id=06294a38ebed1d8d23d735d67b4113e1719179829c0d896486cbd35fefbc3461",
-   "source": "Benzinga",
-   "published": "2026-11-02T10:54:49+00:00",
-   "tickers": [
-    "SYK"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "58385cd0f288",
-   "headline": "J&J data show lower mortality with Impella in HRPCI than CHIP-BCIS3",
-   "summary": "Real-world and observational findings from 1,379 patients across US and European centres reported decreased mortality than the CHIP-BCIS3 trial.",
-   "url": "https://finnhub.io/api/news?id=8b33841ccb4d823de725100766a478d88d1d4d21a298ffcfbacdcc2baaa51691",
-   "source": "Yahoo",
-   "published": "2026-11-02T10:51:02+00:00",
-   "tickers": [
-    "JNJ"
    ],
    "tag": "News",
    "sectors": [
