@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-12T13:32:49.288314+00:00",
+ "updated": "2026-11-12T13:47:41.394372+00:00",
  "quotes": {
   "A": {
    "price": 176.95,
@@ -266,10 +266,6 @@
    "price": 12.81,
    "change_pct": -2.44
   },
-  "PINC": {
-   "price": 49.22,
-   "change_pct": -0.06
-  },
   "PODD": {
    "price": 150.03,
    "change_pct": 1.33
@@ -321,6 +317,10 @@
   "TWST": {
    "price": 122.59,
    "change_pct": -7.22
+  },
+  "UHS": {
+   "price": 196.77,
+   "change_pct": 0.7
   }
  },
  "tickers": {
@@ -937,6 +937,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "1cbad7fb196b",
+   "headline": "BMS reunites R&D divisions under Cristian Massacesi, while Robert Plenge departs",
+   "summary": "Bristol Myers Squibb is merging its research and development divisions under the leadership of Cristian Massacesi, M.D.",
+   "url": "https://www.fiercebiotech.com/biotech/bristol-myers-reunites-rd-divisions-under-cristian-massacesi",
+   "source": "Fierce Biotech",
+   "published": "2026-11-12T13:45:23.382402+00:00",
+   "tickers": [
+    "BMY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
   {
    "id": "8fb5745fade5",
    "headline": "AI models from Google, Anthropic and more lean on recommending promoted drugs: study",
@@ -63289,191 +63304,6 @@
    "tag": "News",
    "sectors": [
     "medtech"
-   ]
-  },
-  {
-   "id": "e05ad343e904",
-   "headline": "Morgan Stanley Maintains Equal-Weight on Regeneron Pharmaceuticals, Raises Price Target to $855",
-   "summary": "Morgan Stanley analyst Matthew Harrison maintains Regeneron Pharmaceuticals (NASDAQ:REGN) with a Equal-Weight and raises the price target from $779 to $855.",
-   "url": "https://finnhub.io/api/news?id=a4fb0960a99f111e587727308a90ad365167ace9b72dee2fd7f259996b0e4e41",
-   "source": "Benzinga",
-   "published": "2026-11-02T13:44:33+00:00",
-   "tickers": [
-    "REGN"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "6f675f315a10",
-   "headline": "Tempus AI Shares Rise 4.18% as Q3 Earnings Beat Forecasts and Revenue Guidance Increases",
-   "summary": "Tempus AI, Inc. (NASDAQ:TEM) shares advanced 4.",
-   "url": "https://finnhub.io/api/news?id=3c0761d32160b23a729aed2c7fd7171544c04acb473212f399cb6310064b8b1f",
-   "source": "Yahoo",
-   "published": "2026-11-02T13:43:54+00:00",
-   "tickers": [
-    "TEM"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "healthai"
-   ]
-  },
-  {
-   "id": "25ef197c3c5a",
-   "headline": "Krystal Biotech Shares Fall 3.7% Despite Q3 Earnings Beat and 30% Revenue Growth",
-   "summary": "Krystal Biotech, Inc. (NASDAQ:KRYS) shares declined 3.",
-   "url": "https://finnhub.io/api/news?id=74d8bbe6db438cb9608e344617be13b39b24bb17344cd121a964067101377551",
-   "source": "Yahoo",
-   "published": "2026-11-02T13:42:57+00:00",
-   "tickers": [
-    "KRYS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "ad5cbc052410",
-   "headline": "Edwards Lifesciences Announces Its PROGRESS Study Demonstrates Transcatheter Aortic Valve Replacement Reduced Composite Endpoint Of Death Or Heart Failure By 30%; Transcatheter Aortic Valve Replacement Lowered Heart Failure Hospitalizations By Over 50%",
-   "summary": "Edwards Lifesciences (NYSE:EW) today announced results from the PROGRESS Trial, marking a turning point in the management of moderate aortic stenosis (AS). The trial demonstrated that transcatheter aortic valve",
-   "url": "https://finnhub.io/api/news?id=7ee4a34d64c5dccf2d4a56374b88f19bb5e6dd4fd8d03c11c7871cc1c66179b8",
-   "source": "Benzinga",
-   "published": "2026-11-02T13:42:45+00:00",
-   "tickers": [
-    "EW"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "19d573ba4be5",
-   "headline": "Needham Maintains Buy on Tempus AI, Raises Price Target to $89",
-   "summary": "Needham analyst Ryan MacDonald maintains Tempus AI (NASDAQ:TEM) with a Buy and raises the price target from $75 to $89.",
-   "url": "https://finnhub.io/api/news?id=36d287fa73fd48c3306da13357077c478540996c67f9261c79a6f7193b07be18",
-   "source": "Benzinga",
-   "published": "2026-11-02T13:42:01+00:00",
-   "tickers": [
-    "TEM"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "healthai"
-   ]
-  },
-  {
-   "id": "de78b3df7953",
-   "headline": "Are Finance Stocks Lagging Oscar Health (OSCR) This Year?",
-   "summary": "Here is how Oscar Health, Inc. (OSCR) and Alerus (ALRS) have performed compared to their sector so far this year.",
-   "url": "https://finnhub.io/api/news?id=65a1f1818ab49857df52a2f7c968841585a6a25bcbd9c07834f7d2c7ac3c0812",
-   "source": "Yahoo",
-   "published": "2026-11-02T13:40:03+00:00",
-   "tickers": [
-    "OSCR"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "cc0dd6b56854",
-   "headline": "HSS Medical Supply Announces Distributor Agreement for Abbott's ID NOW Rapid Molecular Testing Platform",
-   "summary": "NEW YORK, Nov. 2, 2026 /PRNewswire/ -- One of the fastest-growing healthcare suppliers, HSS Medical Supply, announced a new vendor agreement with Abbott. The family-owned distribution company now includes Abbott's ID NOW\u2122, a rapid\u2026",
-   "url": "https://www.prnewswire.com/news-releases/hss-medical-supply-announces-distributor-agreement-for-abbotts-id-now-rapid-molecular-testing-platform-302924892.html",
-   "source": "PR Newswire",
-   "published": "2026-11-02T13:38:00+00:00",
-   "tickers": [
-    "ABT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "2f182600bd69",
-   "headline": "HSS Medical Supply Announces Distributor Agreement for Abbott's ID NOW Rapid Molecular Testing Platform",
-   "summary": "One of the fastest-growing healthcare suppliers, HSS Medical Supply, announced a new vendor agreement with Abbott. The family-owned distribution company now includes Abbott's ID NOW\u2122, a rapid molecular testing platform, in its catalog of\u2026",
-   "url": "https://finnhub.io/api/news?id=9153bfae96f0ebe5dd4d52a4f2f2175472cba1d255814d946f511c9c567eb2d1",
-   "source": "Yahoo",
-   "published": "2026-11-02T13:38:00+00:00",
-   "tickers": [
-    "ABT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "e1bbdd699098",
-   "headline": "Tempus AI Says It Is Uniquely Positioned",
-   "summary": "Tempus AI stock rises after beating Q3 earnings estimates and securing $192.5 million in data deals with Bristol Myers Squibb and Pathos.",
-   "url": "https://finnhub.io/api/news?id=0fec61b885c4e48fb35f7612bc70d46d16276ef10c94c474a4a9e17c3c1734be",
-   "source": "Benzinga",
-   "published": "2026-11-02T13:37:05+00:00",
-   "tickers": [
-    "BMY",
-    "TEM"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "688c3d1f081a",
-   "headline": "S&P 500 Premarket Movers Nov. 2, 2026: IDEXX and Fox Gain, Lumentum and T-Mobile Fall",
-   "summary": "IDEXX Laboratories and Fox Corp. led S&P 500 premarket gainers on Nov. 2, 2026, while Lumentum and T-Mobile led the decliners.",
-   "url": "https://finnhub.io/api/news?id=a735321edbdc2e86fd43a5e32feb00efbdf3249baf4931d8d352b9d161131edd",
-   "source": "ChartMill",
-   "published": "2026-11-02T13:36:46+00:00",
-   "tickers": [
-    "HSIC",
-    "IDXX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "e3f15e66edef",
-   "headline": "Dow Rises 1%, Oil Sinks 7% on Iran Peace Hopes: Stock Market Today",
-   "summary": "Oil tumbles on renewed U.S.-Iran diplomacy, pulling Treasury yields lower and lifting the Dow, airlines and Amazon while energy stocks lag.",
-   "url": "https://finnhub.io/api/news?id=b74f245c1587842980ca7569ce9be71923e152242e64e20e0b9a0e2d2769af1d",
-   "source": "Benzinga",
-   "published": "2026-11-02T13:32:47+00:00",
-   "tickers": [
-    "AXSM",
-    "IDXX",
-    "TEM",
-    "VRTX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "1cee9ecc78c8",
-   "headline": "Company News for Nov 2, 2026",
-   "summary": "Companies in The News Are: ABBV,XOM,CVX,CL",
-   "url": "https://finnhub.io/api/news?id=3c4ae2a96966295e8c9f95e5236269b4b16046dd1d7af14a245686336b14267b",
-   "source": "Yahoo",
-   "published": "2026-11-02T13:32:00+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
