@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-12T21:17:34.576044+00:00",
+ "updated": "2026-11-12T21:32:46.745255+00:00",
  "quotes": {
   "A": {
    "price": 173.01,
@@ -137,6 +137,10 @@
   "GKOS": {
    "price": 246.03,
    "change_pct": -0.46
+  },
+  "GSK": {
+   "price": 50.64,
+   "change_pct": 0.08
   },
   "HALO": {
    "price": 100.67,
@@ -921,6 +925,32 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "e76a6fc7886a",
+   "headline": "Medical transport platform MedHaul, focused on high-needs patients, raises $4.1M",
+   "summary": "The latest capital will be used to expand deeper in oncology, which represents 60% of rides booked on the platform, and to support a forthcoming Epic integration.",
+   "url": "https://www.fiercehealthcare.com/digital-health/medical-transport-booking-platform-medhaul-raises-41m-expand",
+   "source": "Fierce Healthcare",
+   "published": "2026-11-12T21:30:28.526360+00:00",
+   "tickers": [],
+   "tag": "Financing",
+   "sectors": []
+  },
+  {
+   "id": "1f5cdbfd784a",
+   "headline": "Anaptys Reports Fiscal First Quarter 2027 Financial Results and Provides Business Update",
+   "summary": "SAN DIEGO, Nov. 12, 2026 (GLOBE NEWSWIRE) -- AnaptysBio, Inc. (Nasdaq: ANAB), a company focused on managing the financial collaborations for Jemperli with Tesaro, a GSK company, and Quimilza (imsidolimab) with Vanda, today reported\u2026",
+   "url": "https://www.globenewswire.com/news-release/2026/11/12/3402246/0/en/anaptys-reports-fiscal-first-quarter-2027-financial-results-and-provides-business-update.html",
+   "source": "GlobeNewswire",
+   "published": "2026-11-12T21:15:00+00:00",
+   "tickers": [
+    "GSK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
   {
    "id": "dce040c66a00",
    "headline": "Texas AG narrows lawsuit against Epic, dropping claims over parental access settings",
@@ -62688,203 +62718,6 @@
    "tag": "FDA",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "80b3cabb08fb",
-   "headline": "Vertex (VRTX) Q3 Earnings: Taking a Look at Key Metrics Versus Estimates",
-   "summary": "While the top- and bottom-line numbers for Vertex (VRTX) give a sense of how the business performed in the quarter ended September 2026, it could be worth looking at how some of its key metrics compare to Wall Street estimates and\u2026",
-   "url": "https://finnhub.io/api/news?id=64859ca9585bf493ab362d410356f400021de135cbb993b92f27fd42f3564f33",
-   "source": "Yahoo",
-   "published": "2026-11-02T21:30:01+00:00",
-   "tickers": [
-    "VRTX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "660a65dbcb13",
-   "headline": "Danaher to Present at UBS Global and Jefferies Global Healthcare Conferences",
-   "summary": "WASHINGTON, Nov. 2, 2026 /PRNewswire/ -- Danaher Corporation (NYSE: DHR) announced that President and Chief Executive Officer, Julie Sawyer Montgomery, will be presenting at the UBS Global Healthcare Conference in Palm Beach, Florida on\u2026",
-   "url": "https://www.prnewswire.com/news-releases/danaher-to-present-at-ubs-global-and-jefferies-global-healthcare-conferences-302926794.html",
-   "source": "PR Newswire",
-   "published": "2026-11-02T21:30:00+00:00",
-   "tickers": [
-    "DHR"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "f5496ba04958",
-   "headline": "Danaher to Present at UBS Global and Jefferies Global Healthcare Conferences",
-   "summary": "Danaher Corporation (NYSE: DHR) announced that President and Chief Executive Officer, Julie Sawyer Montgomery, will be presenting at the UBS Global Healthcare Conference in Palm Beach, Florida on Monday, November 9, 2026 at 11:45 a.m. ET\u2026",
-   "url": "https://finnhub.io/api/news?id=2fd4938fa8480c6e40b6139390ec4264a3ec5792b673a6d4c4d92e141edacd99",
-   "source": "Yahoo",
-   "published": "2026-11-02T21:30:00+00:00",
-   "tickers": [
-    "DHR"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "85a154270cc9",
-   "headline": "Recursion Reports Third Quarter 2026 Financial Results and Extends Cash Runway; Highlights Positive Clinical Data in REC-4881 and REC-1245, Sanofi Development Candidate Option and Appointment of Fred Hassan as Chair",
-   "summary": "New Phase 2 REC-4881 data presented at CGA-IGC in an expanded adult population aged 18 years and older show deep, durable polyp burden reductions in FAP, with activity throughout the GI tract and in larger, higher-risk polyps.REC-4881\u2026",
-   "url": "https://finnhub.io/api/news?id=4ad033bfa65d71e3025582c203f9fc85d9b0b1560ad03bd039032bf0fe114c7a",
-   "source": "Yahoo",
-   "published": "2026-11-02T21:30:00+00:00",
-   "tickers": [
-    "RXRX",
-    "SNY"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "a50a57fbef4b",
-   "headline": "Earnings live updates: Roku posts earnings beat ahead of acquisition by Fox",
-   "summary": "The third quarter earnings season is over halfway done, and the reports continue to pour in.",
-   "url": "https://finnhub.io/api/news?id=f405697ffef04bc26d1932b0481443c990f3546dc8912e24331cbdc1c2fc1ab2",
-   "source": "Yahoo",
-   "published": "2026-11-02T21:28:56+00:00",
-   "tickers": [
-    "MRNA",
-    "NVO"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "d3bbb3be43c1",
-   "headline": "Ionis to hold third quarter 2026 financial results webcast",
-   "summary": "CARLSBAD, Calif., November 02, 2026--Ionis Pharmaceuticals, Inc. (Nasdaq: IONS) announced today that it will host a live webcast on Monday, November 9 at 9:00 a.m. Eastern Time to discuss its third quarter 2026 financial results and\u2026",
-   "url": "https://finnhub.io/api/news?id=2986c56e8ed9413da958af871287ee001cd3d10778a7dc3299517b2b674e62c9",
-   "source": "Yahoo",
-   "published": "2026-11-02T21:27:00+00:00",
-   "tickers": [
-    "IONS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "e784772f4a08",
-   "headline": "BioMarin Pharmaceutical (NASDAQ:BMRN) reports Q3 2026 in line with expectations but full-year sales guidance misses expectations",
-   "summary": "Biotech company BioMarin Pharmaceutical (NASDAQ:BMRN) met Wall Street\u2019s revenue expectations in Q3 2026, with revenue up 32% year on year to $1.02 billion. On the other hand, the company\u2019s full-year revenue guidance of $3.85 billion at\u2026",
-   "url": "https://finnhub.io/api/news?id=5ca0a783c5a8a5e377660fd54e7b4c2cc5f2b55446d60ec937fd62bb90951a87",
-   "source": "Yahoo",
-   "published": "2026-11-02T21:25:54+00:00",
-   "tickers": [
-    "BMRN"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "02a560d75c34",
-   "headline": "Jazz Pharmaceuticals (JAZZ) Reports Q3 Loss, Tops Revenue Estimates",
-   "summary": "Jazz (JAZZ) delivered earnings and revenue surprises of +5.13% and +2.56%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
-   "url": "https://finnhub.io/api/news?id=cc2c49264e54824be79321293ad8aeea7da38d8209c57b9706d9784d14519b20",
-   "source": "Yahoo",
-   "published": "2026-11-02T21:25:03+00:00",
-   "tickers": [
-    "JAZZ"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "1c84d785b50e",
-   "headline": "Vertex Pharmaceuticals (VRTX) Misses Q3 Earnings Estimates",
-   "summary": "Vertex (VRTX) delivered earnings and revenue surprises of -3.25% and +1.11%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
-   "url": "https://finnhub.io/api/news?id=253bf617861b5d2f96ec88218f25b3d60318d49ae352d50a82826babd91ebd58",
-   "source": "Yahoo",
-   "published": "2026-11-02T21:25:03+00:00",
-   "tickers": [
-    "VRTX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "ef7d2c8f1d24",
-   "headline": "New Phase 2 REC-4881 Data Presented at CGA-IGC Show Deep, Durable Polyp Burden Reductions in FAP, with Activity Across the GI Tract and in Larger, Higher-Risk Polyps",
-   "summary": "Updated TUPELO results featured in a Presidential Plenary at CGA-IGC: Lisa Boardman, M.D., Professor of Medicine at Mayo Clinic, presented updated findings from the Phase 1b/2 TUPELO trial in familial adenomatous polyposis (FAP) at the\u2026",
-   "url": "https://finnhub.io/api/news?id=e0b0ee01ef6c9be09e4aed136db257f7df6e9d5315c1bbb82feb2c7129ddc34a",
-   "source": "Yahoo",
-   "published": "2026-11-02T21:25:00+00:00",
-   "tickers": [
-    "RXRX"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "healthai"
-   ]
-  },
-  {
-   "id": "cb12ab511dc8",
-   "headline": "Vertex Pharmaceuticals\u2019s (NASDAQ:VRTX) Q3 2026 sales top estimates",
-   "summary": "Biotech company Vertex Pharmaceuticals (NASDAQ:VRTX) reported Q3 2026 results exceeding the market\u2019s revenue expectations, with revenue up 11.8% year on year to $3.44 billion. On the other hand, the company\u2019s full-year revenue guidance of\u2026",
-   "url": "https://finnhub.io/api/news?id=40b1d29863a437372f05d8ddae2dc3b45b801f857d5e9115726eddc08db7b928",
-   "source": "Yahoo",
-   "published": "2026-11-02T21:20:26+00:00",
-   "tickers": [
-    "VRTX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "0187d47c77da",
-   "headline": "Jazz Pharmaceuticals (NASDAQ:JAZZ) surprises with Q3 2026 sales, full-year sales guidance is optimistic",
-   "summary": "Biopharma company Jazz Pharmaceuticals (NASDAQ:JAZZ) beat Wall Street\u2019s revenue expectations in Q3 2026, with revenue rising 10.4% year on year to $1.24 billion. The company\u2019s full-year revenue guidance of $4.81 billion at the midpoint\u2026",
-   "url": "https://finnhub.io/api/news?id=48d20dff68016f93352ae764a37004e978c6edd500cad022ac2542e5ff7f0164",
-   "source": "Yahoo",
-   "published": "2026-11-02T21:17:53+00:00",
-   "tickers": [
-    "JAZZ"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "9e654b7ecc19",
-   "headline": "Labcorp\u2019s Q3 earnings call: our top 5 analyst questions",
-   "summary": "Labcorp\u2019s third quarter results were marked by strong growth in specialty testing and continued expansion in biopharma laboratory services, leading to performance that exceeded Wall Street\u2019s expectations. Management highlighted\u2026",
-   "url": "https://finnhub.io/api/news?id=bb3a341aaac6bc8a1fed9a3ed29697abbbfc6d3749f6e2bac89c56d7434a74a2",
-   "source": "Yahoo",
-   "published": "2026-11-02T21:17:36+00:00",
-   "tickers": [
-    "LH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
    ]
   }
  ]
