@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-12T09:17:35.944275+00:00",
+ "updated": "2026-11-12T09:32:41.540526+00:00",
  "quotes": {
   "A": {
    "price": 176.95,
@@ -33,10 +33,6 @@
   "ARWR": {
    "price": 49.36,
    "change_pct": 0.73
-  },
-  "ASND": {
-   "price": 259.28,
-   "change_pct": 1.05
   },
   "AXSM": {
    "price": 149.24,
@@ -321,6 +317,10 @@
   "UTHR": {
    "price": 595.66,
    "change_pct": 1.2
+  },
+  "VEEV": {
+   "price": 304.77,
+   "change_pct": -0.26
   }
  },
  "tickers": {
@@ -938,6 +938,21 @@
  },
  "stories": [
   {
+   "id": "ca8c028c2e3f",
+   "headline": "Pfizer taps Blackstone for up to $1.5B to pave path to GLP-1's obesity launch",
+   "summary": "Pfizer has secured up to $1.5 billion from Blackstone Life Sciences to fund development of its monthly GLP-1 receptor agonist.",
+   "url": "https://www.fiercebiotech.com/biotech/pfizer-taps-blackstone-15b-pave-path-glp-1-launch",
+   "source": "Fierce Biotech",
+   "published": "2026-11-12T09:30:27.175028+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "1900fb3b1e97",
    "headline": "Addex spinout Neurosterix raises $105M series B to fund phase 2 schizophrenia trial",
    "summary": "Addex Therapeutics\u2019 neuropsychiatric-focused spinout has raised $105 million in series B funds to bankroll a planned phase 2 study of its schizophrenia treatment.",
@@ -1049,7 +1064,8 @@
    "published": "2026-11-12T05:05:29+00:00",
    "tickers": [
     "ABBV",
-    "ARGX"
+    "ARGX",
+    "TAK"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -64855,107 +64871,6 @@
     "ABBV"
    ],
    "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "9b849deaaa5a",
-   "headline": "Nvidia, Costco and 10 More Issuers Opt Out of ICE and OKX\u2019s Tokenized Stock Venue",
-   "summary": "The venue\u2019s Oct. 30 notice lists 50 objecting companies, up from 38 two days earlier, and still gives no date for trading to start.",
-   "url": "https://finnhub.io/api/news?id=d2b86b2bee10efb041a762b0f9b1ec90fbf3f152b3813bb7fc086d05003144ca",
-   "source": "Yahoo",
-   "published": "2026-11-02T09:30:05+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "68f3ce988e67",
-   "headline": "Are you pursuing MRT as a treatment for infertility?",
-   "summary": "Are you pursuing MRT as a treatment for infertility? STAT wants to hear from you",
-   "url": "https://www.statnews.com/2026/11/02/mrt-fertility-treatment-advanced-maternal-age-three-parent-ivf-reader-callout/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-11-02T09:30:00+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "f70f76d75238",
-   "headline": "STAT+: Coming readout of Kymera eczema trial is a high-stakes moment in a bid to rival Dupixent",
-   "summary": "Investors and doctors are intensely awaiting mid-stage results of an experimental Kymera therapy positioned to rival Dupixent.",
-   "url": "https://www.statnews.com/2026/11/02/kymera-therapeutics-trial-results-eczema-dupixent-rival/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-11-02T09:30:00+00:00",
-   "tickers": [],
-   "tag": "Clinical",
-   "sectors": []
-  },
-  {
-   "id": "9b3c0059743d",
-   "headline": "Opinion: Cancer patients are often pressured to end a pregnancy early. They shouldn\u2019t be",
-   "summary": "Women can be safely treated for many cancers during pregnancy, a maternal fetal medicine specialist writes.",
-   "url": "https://www.statnews.com/2026/11/02/pregnant-cancer-patients-abortion-early-labor-research/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-11-02T09:30:00+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "5c4af9de319b",
-   "headline": "Opinion: The economics of the U.S. health care system are broken",
-   "summary": "\u201cThe economics of the U.S. health care system are broken,\u201d writes Paul Markovich, president and CEO of Ascendiun.",
-   "url": "https://www.statnews.com/2026/11/02/american-health-care-costs-broken-economics-solutions/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-11-02T09:30:00+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "08a99d250fda",
-   "headline": "Women travel thousands of miles for a reproductive moonshot. Scientists say they\u2019ve been misled",
-   "summary": "Pioneering IVF technique to reduce the risk of children inheriting mitochondrial diseases is being marketed as a fertility procedure for older women, despite little evidence it works.",
-   "url": "https://www.statnews.com/2026/11/02/three-parent-ivf-fertility-tourism-investigation-mrt-therapy/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-11-02T09:30:00+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "fd8e5a3bd60d",
-   "headline": "Regeneron Pharmaceuticals To Rally Around 11%? Here Are 10 Top Analyst Forecasts For Monday",
-   "summary": "Analysts upgraded MHK and CRWD, downgraded PFSI, cut ABOS\u2019s target, and raised targets for NRXP, REGN and NTSK.",
-   "url": "https://finnhub.io/api/news?id=cd27dc2d3095fbcc6627f555c9113a5a2becbe232b5e772b26f7416abf5986b0",
-   "source": "Benzinga",
-   "published": "2026-11-02T09:26:19+00:00",
-   "tickers": [
-    "BIIB",
-    "REGN"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "07862eb992ea",
-   "headline": "RBC Capital Maintains Outperform on AbbVie, Raises Price Target to $330",
-   "summary": "RBC Capital analyst Trung Huynh maintains AbbVie (NYSE:ABBV) with a Outperform and raises the price target from $280 to $330.",
-   "url": "https://finnhub.io/api/news?id=98268ef21f163a7d6e8c8486edc7e4467f3b8d9de7e8752bb04348638df6b663",
-   "source": "Benzinga",
-   "published": "2026-11-02T09:24:44+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "Analyst",
    "sectors": [
     "pharma"
    ]
