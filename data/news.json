@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-12T23:17:40.856078+00:00",
+ "updated": "2026-11-12T23:32:38.817095+00:00",
  "quotes": {
   "A": {
    "price": 173.01,
@@ -41,10 +41,6 @@
   "ASND": {
    "price": 267.07,
    "change_pct": 3.0
-  },
-  "AXSM": {
-   "price": 144.37,
-   "change_pct": -3.26
   },
   "BDX": {
    "price": 215.71,
@@ -925,6 +921,36 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "988d881d52ae",
+   "headline": "UnitedHealth releases independent audit of its medical policy development practices",
+   "summary": "Over the past year, UnitedHealth Group has conducted a series of independent reviews of its practices as part of a broader turnaround effort at the company.",
+   "url": "https://www.fiercehealthcare.com/payers/unitedhealth-releases-independent-audit-its-medical-policy-development-practices",
+   "source": "Fierce Healthcare",
+   "published": "2026-11-12T23:30:25.594893+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "cab07be7394f",
+   "headline": "Arrowhead Pharmaceuticals (NASDAQ:ARWR) Rallies as REDEMPLO Launch and Plozasiran Fast Review Offset Earnings Miss",
+   "summary": "Arrowhead Pharma Q4 missed estimates, but ARWR rallied on REDEMPLO launch momentum and a faster FDA review path for plozasiran in severe hypertriglyceridemia.",
+   "url": "https://finnhub.io/api/news?id=b8f8fef3dc8398b0f7e04cb1437ea6042362de9f537eb7af179c0ffac12292e4",
+   "source": "ChartMill",
+   "published": "2026-11-12T23:02:46+00:00",
+   "tickers": [
+    "ARWR"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "biotech"
+   ]
+  },
   {
    "id": "96de2a27214c",
    "headline": "Zus Health secures $33M to build the infrastructure for AI-powered clinical workflows",
@@ -62326,66 +62352,6 @@
    "tag": "Earnings",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "c118f4991e69",
-   "headline": "Neurocrine Biosciences (NASDAQ:NBIX) Q3 Earnings Beat as INGREZZA Guidance Raised",
-   "summary": "Neurocrine Q3 2026 revenue and EPS beat estimates on strong INGREZZA sales; raised 2026 INGREZZA guidance lifted shares after hours.",
-   "url": "https://finnhub.io/api/news?id=5c88c2439e3b65264935df315f6db41c4de56c4bd99be1da3ca15957621857b6",
-   "source": "ChartMill",
-   "published": "2026-11-02T23:30:28+00:00",
-   "tickers": [
-    "NBIX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "0b1ff6ca078d",
-   "headline": "Jazz Pharmaceuticals (NASDAQ:JAZZ) Q3 Results In Line as Raised Guidance Sparks After-Hours Surge",
-   "summary": "Jazz Pharmaceuticals' Q3 2026 results met estimates, with record $1.243B revenue up 10% and raised FY guidance; shares jumped 26% after hours.",
-   "url": "https://finnhub.io/api/news?id=248f35f438121c30960956aee008354e3d74fe8f337384cfa30c4d90c80835be",
-   "source": "ChartMill",
-   "published": "2026-11-02T23:27:00+00:00",
-   "tickers": [
-    "JAZZ"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "c27f41de19e4",
-   "headline": "Eli Lilly Stock: Is It Still a Buy at $1,400?",
-   "summary": "The company just released some incredible quarterly results, but its valuation is also fairly high.",
-   "url": "https://finnhub.io/api/news?id=10eb13e8dc81c786a4930e73bc59f8b0a1d6219ec1f14836e3e1e80b6703a849",
-   "source": "Yahoo",
-   "published": "2026-11-02T23:20:02+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "1d6f2262bd1b",
-   "headline": "Jungfraubahn Holding (SWX:JFN) Stock May Be 9% Undervalued On Cash Flow",
-   "summary": "Jungfraubahn Holding has delivered a 105.3% share price gain over the past 5 years, which naturally puts the spotlight on whether the current Swiss franc price is adequately backed by the cash the business can generate. After such a long\u2026",
-   "url": "https://finnhub.io/api/news?id=ea743db8f598fef088d5c6add668b93cbf43bdc014c4e7c651bc5c784cc5f786",
-   "source": "Yahoo",
-   "published": "2026-11-02T23:17:56+00:00",
-   "tickers": [
-    "NVS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
