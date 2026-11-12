@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-12T10:02:46.835476+00:00",
+ "updated": "2026-11-12T10:17:31.269939+00:00",
  "quotes": {
   "A": {
    "price": 176.95,
@@ -270,6 +270,10 @@
    "price": 959.41,
    "change_pct": 4.73
   },
+  "RGEN": {
+   "price": 172.62,
+   "change_pct": -0.78
+  },
   "RMD": {
    "price": 238.53,
    "change_pct": 1.89
@@ -317,10 +321,6 @@
   "VEEV": {
    "price": 304.77,
    "change_pct": -0.26
-  },
-  "VKTX": {
-   "price": 28.44,
-   "change_pct": -0.77
   }
  },
  "tickers": {
@@ -997,6 +997,51 @@
    "sectors": []
   },
   {
+   "id": "fb5237384061",
+   "headline": "AbbVie (ABBV) Reports Positive Phase 3 QULIPTA Migraine Trial Results",
+   "summary": "AbbVie (NYSE:ABBV) reported positive Phase 3 TEMPLE trial results for QULIPTA in migraine prevention against topiramate. The TEMPLE study found QULIPTA achieved superior tolerability compared with topiramate in adults with migraine.\u2026",
+   "url": "https://finnhub.io/api/news?id=ef474c924c18c5928f55e449f868ea54daf4303c75ae9822b8c32713a27e1c5a",
+   "source": "Yahoo",
+   "published": "2026-11-12T08:16:57+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "6a3c9695639f",
+   "headline": "DexCom (DXCM) Could Be 32% Undervalued Following Health Canada G7 Pregnancy Clearance",
+   "summary": "DexCom (DXCM) is back in focus after Health Canada cleared its G7 sensor for use with the myLoop system powered by CamAPS FX during pregnancy, creating a tightly defined new clinical use case. Recent trading tells a mixed story. The share\u2026",
+   "url": "https://finnhub.io/api/news?id=c97757c8e353ca8ff5cbbb71bcb8566760080619d3d75dc2a92ae931051c71bf",
+   "source": "Yahoo",
+   "published": "2026-11-12T08:15:33+00:00",
+   "tickers": [
+    "DXCM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "37768ef49f65",
+   "headline": "Regeneron Pharmaceuticals (REGN) Reports Early MASLD Trial Data With 62% Liver Fat Normalization",
+   "summary": "Regeneron Pharmaceuticals (NasdaqGS:REGN) reported first in human data for CIDEBsiRNA, a liver targeted siRNA candidate for MASLD. The early study showed sustained normalization of liver fat and improvement in liver injury markers in\u2026",
+   "url": "https://finnhub.io/api/news?id=9cb0dcef61f0b8c43544a5506a3ff6f9f862fef8a57614c9637d2dd610dc94f6",
+   "source": "Yahoo",
+   "published": "2026-11-12T08:11:45+00:00",
+   "tickers": [
+    "REGN"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "0d379405b71d",
    "headline": "Twist Bioscience Stock Has The Bull Case Changed After MRD Panel Launch?",
    "summary": "Twist Bioscience recently introduced Twist MRD Express, a high throughput custom panel platform that can deliver personalized molecular residual disease research panels with up to 10,000 probes, rapid turnaround starting within one day,\u2026",
@@ -1148,6 +1193,21 @@
    "tag": "News",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "59248f7108a5",
+   "headline": "Voya Small Cap Growth Strategy Q3 2026 Contributors And Detractors",
+   "summary": "Review the Q3 2026 commentary for Voya Small Cap Growth Strategy detailing top performance detractors and contributors. Read the full report now.",
+   "url": "https://finnhub.io/api/news?id=005320803daa3f55dec18285e57c738799d32f4e621d3522d07c8d08db2b7bf7",
+   "source": "SeekingAlpha",
+   "published": "2026-11-12T04:25:00+00:00",
+   "tickers": [
+    "RGEN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -64631,66 +64691,6 @@
    "tag": "Analyst",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "e552ff08ce35",
-   "headline": "Guggenheim Maintains Buy on AbbVie, Raises Price Target to $322",
-   "summary": "Guggenheim analyst Vamil Divan maintains AbbVie (NYSE:ABBV) with a Buy and raises the price target from $288 to $322.",
-   "url": "https://finnhub.io/api/news?id=55b2bbbaea61660d34874968b7c1d3e3e8a3078e3e4d045502e21f9d421a7dac",
-   "source": "Benzinga",
-   "published": "2026-11-02T10:14:53+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "30df30dfd843",
-   "headline": "Guggenheim Maintains Buy on Insmed, Lowers Price Target to $201",
-   "summary": "Guggenheim analyst Vamil Divan maintains Insmed (NASDAQ:INSM) with a Buy and lowers the price target from $205 to $201.",
-   "url": "https://finnhub.io/api/news?id=09dd1a3e0fa8fc4e40dd4bbad9608bda97002de70ba87fbf4e7ff85b07bd6a44",
-   "source": "Benzinga",
-   "published": "2026-11-02T10:13:08+00:00",
-   "tickers": [
-    "INSM"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "050ae07ee428",
-   "headline": "Brise Pharmaceuticals Announces Its 2024 License Deal Value With AbbVie Could Reach Up To $775M For Two Of Brise's Preclinical Migraine Programs",
-   "summary": "Brise Pharmaceuticals Co., Ltd. (Brise) today provided an update on its exclusive license agreement with AbbVie (NYSE: ABBV), which the companies entered in 2024. Under the terms of the collaboration agreement, Brise is",
-   "url": "https://finnhub.io/api/news?id=1a25cd7a3cb8279e72618f5309537ec18dfd8abb3cd19c71be94c13b19501314",
-   "source": "Benzinga",
-   "published": "2026-11-02T10:06:46+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "65382be9db8d",
-   "headline": "Abbott Announces One-Year Results For Its Amulet 360 Left Atrial Appendage Occluder From The VERITAS Study; Data Show Meaningful Closure Rates Of Left Atrial Appendage And A Low Incidence Of Stroke In People With Atrial Fibrillation Not Caused By A Heart Valve Issue",
-   "summary": "The data were presented in a late-breaking session at the Transcatheter Cardiovascular Therapeutics (TCT) conference in San Diego, Calif., on Nov. 1, 2026, and simultaneously published in JACC: Cardiovascular",
-   "url": "https://finnhub.io/api/news?id=4c01aab1a1b8931b1fb4f64fbcf9056a988ab349a46eb1ccf431010804007022",
-   "source": "Benzinga",
-   "published": "2026-11-02T10:06:31+00:00",
-   "tickers": [
-    "ABT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
