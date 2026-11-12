@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-12T22:02:48.299136+00:00",
+ "updated": "2026-11-12T22:32:41.385366+00:00",
  "quotes": {
   "A": {
    "price": 173.01,
@@ -33,6 +33,10 @@
   "ARGX": {
    "price": 981.33,
    "change_pct": 0.38
+  },
+  "ARWR": {
+   "price": 47.15,
+   "change_pct": -4.48
   },
   "ASND": {
    "price": 267.07,
@@ -121,10 +125,6 @@
   "EXEL": {
    "price": 69.84,
    "change_pct": -1.22
-  },
-  "GEHC": {
-   "price": 81.84,
-   "change_pct": -0.92
   },
   "GILD": {
    "price": 167.95,
@@ -918,6 +918,21 @@
  },
  "stories": [
   {
+   "id": "988cf3949caf",
+   "headline": "Arrowhead Pharmaceuticals falls on earnings miss",
+   "summary": "Investing.com -- Arrowhead Pharmaceuticals Inc (NASDAQ:ARWR) reported fiscal year 2026 results that fell short of Wall Street expectations, with the stock declining 2.4% in after-hours trading Thursday.",
+   "url": "https://finnhub.io/api/news?id=a35c18758829df1358082c25bca0743300fd5a6d05ffc631e21b154270c98013",
+   "source": "Yahoo",
+   "published": "2026-11-12T22:03:34+00:00",
+   "tickers": [
+    "ARWR"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "e76a6fc7886a",
    "headline": "Medical transport platform MedHaul, focused on high-needs patients, raises $4.1M",
    "summary": "The latest capital will be used to expand deeper in oncology, which represents 60% of rides booked on the platform, and to support a forthcoming Epic integration.",
@@ -927,6 +942,21 @@
    "tickers": [],
    "tag": "Financing",
    "sectors": []
+  },
+  {
+   "id": "badd278018d2",
+   "headline": "Arrowhead Research: Fiscal Q4 Earnings Snapshot",
+   "summary": "(AP) \u2014 Arrowhead Research Corp. (ARWR) on Thursday reported a loss of $428 million in its fiscal fourth quarter.",
+   "url": "https://finnhub.io/api/news?id=d04665241e61b290d92a9d91dde7ba1a18143c13d4f5a40f28d80b3c1583f294",
+   "source": "Yahoo",
+   "published": "2026-11-12T21:22:30+00:00",
+   "tickers": [
+    "ARWR"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
   },
   {
    "id": "1f5cdbfd784a",
@@ -941,6 +971,51 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "eadbda513284",
+   "headline": "Agilent to Participate in 9th Annual Evercore Healthcare Conference",
+   "summary": "SANTA CLARA, Calif., November 12, 2026--Agilent Technologies Inc. (NYSE: A) today announced that the company will participate in the upcoming 9th Annual Evercore Healthcare Conference. Agilent management is scheduled to participate in a\u2026",
+   "url": "https://finnhub.io/api/news?id=ea31356e2eaddb688846820c8d5802ba395847625a30275c67262cb80f34b7d7",
+   "source": "Yahoo",
+   "published": "2026-11-12T21:15:00+00:00",
+   "tickers": [
+    "A"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "8909ec2a73bf",
+   "headline": "Veeva to Release Fiscal 2027 Third Quarter Results on December 3, 2026",
+   "summary": "Veeva Systems (NYSE: VEEV) will announce financial results for its third quarter ending October 31, 2026 after market close on December 3, 2026. Veeva will host a conference call and webcast that day at 2:00 p.m. PT (5:00 p.m. ET) to\u2026",
+   "url": "https://finnhub.io/api/news?id=89c8551109320e1d8e0daddb4321f41bdf2acc7ed0a9c2489d80a5abbf47e720",
+   "source": "Yahoo",
+   "published": "2026-11-12T21:05:00+00:00",
+   "tickers": [
+    "VEEV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
+   "id": "d8c61289142a",
+   "headline": "Arrowhead Pharmaceuticals Reports 2026 Fiscal Year-End Results",
+   "summary": "PASADENA, Calif., November 12, 2026--Arrowhead Pharmaceuticals, Inc. (NASDAQ: ARWR) today announced financial results for its 2026 fiscal year ended September 30, 2026. The Company is hosting a conference call today, November 12, 2026, at\u2026",
+   "url": "https://finnhub.io/api/news?id=0640fce9750a5f1127ab420b8729ca42523834fcc9213f9585159e4f3256678a",
+   "source": "Yahoo",
+   "published": "2026-11-12T21:01:00+00:00",
+   "tickers": [
+    "ARWR"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -62342,103 +62417,6 @@
    "tag": "News",
    "sectors": [
     "medtech"
-   ]
-  },
-  {
-   "id": "aa55a456bcf9",
-   "headline": "Zocdoc opens infrastructure to AI agents, launches partnership with Instinct",
-   "summary": "The scheduling platform also announced a partnership with AI personal assistant Instinct.",
-   "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/zocdoc-opens-infrastructure-ai-agents-launches-partnership-instinct",
-   "source": "Fierce Healthcare",
-   "published": "2026-11-02T22:30:24.162954+00:00",
-   "tickers": [],
-   "tag": "Health AI",
-   "sectors": []
-  },
-  {
-   "id": "74c8d46dadcf",
-   "headline": "Jazz (JAZZ) Q3 Earnings: Taking a Look at Key Metrics Versus Estimates",
-   "summary": "Although the revenue and EPS for Jazz (JAZZ) give a sense of how its business performed in the quarter ended September 2026, it might be worth considering how some key metrics compare with Wall Street estimates and the year-ago numbers.",
-   "url": "https://finnhub.io/api/news?id=7ceffba5684d4ff1d471fd42ce2bca296ae01ba751c41baeae0267fdbae895b1",
-   "source": "Yahoo",
-   "published": "2026-11-02T22:30:02+00:00",
-   "tickers": [
-    "JAZZ"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "0538081705b7",
-   "headline": "Neurocrine (NBIX) Reports Q3 Earnings: What Key Metrics Have to Say",
-   "summary": "Although the revenue and EPS for Neurocrine (NBIX) give a sense of how its business performed in the quarter ended September 2026, it might be worth considering how some key metrics compare with Wall Street estimates and the year-ago\u2026",
-   "url": "https://finnhub.io/api/news?id=1794d18a4d05c0dfaf0be2178a78dd9e7249c3b515fcbc51fcc3e82667189f65",
-   "source": "Yahoo",
-   "published": "2026-11-02T22:30:01+00:00",
-   "tickers": [
-    "NBIX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "d464cffe162c",
-   "headline": "Waystar Holding Corp. (WAY) Q3 2026 Earnings Call Transcript",
-   "summary": "Waystar Holding Corp. (WAY) Q3 2026 Earnings Call November 2, 2026 4:30 PM ESTCompany ParticipantsEdward Parker - Head of Investor RelationsMatthew Hawkins...",
-   "url": "https://finnhub.io/api/news?id=a1653be857c39541bac4c8d10c24b8ef71cc0848a041c01a4e1c1d4a14ad78a0",
-   "source": "SeekingAlpha",
-   "published": "2026-11-02T22:28:31+00:00",
-   "tickers": [
-    "WAY"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "347e4a22469a",
-   "headline": "FTC issues warning letters over deceptive marketing as ACA enrollment opens",
-   "summary": "Open enrollment season is getting underway, and the Federal Trade Commission sent warning letters to 25 companies that conduct marketing or generate sales leads for insurers.",
-   "url": "https://www.fiercehealthcare.com/regulatory/ftc-issues-warning-letters-over-deceptive-marketing-aca-enrollment-opens",
-   "source": "Fierce Healthcare",
-   "published": "2026-11-02T22:15:22.627268+00:00",
-   "tickers": [],
-   "tag": "Legal",
-   "sectors": []
-  },
-  {
-   "id": "84ddbb87c079",
-   "headline": "3 European Industrial Stocks If Lower Energy Prices Start Lifting Margins",
-   "summary": "European energy policy has taken an unexpected twist, with talk of Russian gas potentially returning to the continent through a U.S. intermediary just as winter demand builds. Lower gas and power prices would reshuffle cost structures\u2026",
-   "url": "https://finnhub.io/api/news?id=50d574486acb6eda9add298de43133e76717ae8d4b5080739edaa2e203ee16b8",
-   "source": "Yahoo",
-   "published": "2026-11-02T22:13:40+00:00",
-   "tickers": [
-    "NVS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "f8277cdd0dc8",
-   "headline": "OMCL Q3 deep dive: disciplined cost control offsets flat sales, software transition in early innings",
-   "summary": "Healthcare tech company Omnicell (NASDAQ:OMCL) reported revenue ahead of Wall Street\u2019s expectations in Q3 2026, but sales were flat year on year at $307.9 million. On the other hand, next quarter\u2019s revenue guidance of $298 million was\u2026",
-   "url": "https://finnhub.io/api/news?id=356ed745e310cce260e61eb5317d9af5f9d0c44b193192f8f68822c2098fe13a",
-   "source": "Yahoo",
-   "published": "2026-11-02T22:05:36+00:00",
-   "tickers": [
-    "OMCL"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "healthit"
    ]
   }
  ]
