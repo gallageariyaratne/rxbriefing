@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-13T21:02:46.518951+00:00",
+ "updated": "2026-11-13T21:17:35.228264+00:00",
  "quotes": {
   "A": {
    "price": 173.96,
@@ -15,8 +15,8 @@
    "change_pct": -7.5
   },
   "ABT": {
-   "price": 108.55,
-   "change_pct": 1.21
+   "price": 108.52,
+   "change_pct": 1.18
   },
   "AMGN": {
    "price": 465.67,
@@ -67,8 +67,8 @@
    "change_pct": 0.25
   },
   "CNC": {
-   "price": 71.28,
-   "change_pct": 1.44
+   "price": 71.27,
+   "change_pct": 1.42
   },
   "COR": {
    "price": 359.03,
@@ -110,10 +110,6 @@
    "price": 69,
    "change_pct": -1.2
   },
-  "GDRX": {
-   "price": 3.56,
-   "change_pct": 1.42
-  },
   "GEHC": {
    "price": 83.02,
    "change_pct": 1.44
@@ -151,8 +147,8 @@
    "change_pct": 0.4
   },
   "HUM": {
-   "price": 450.53,
-   "change_pct": 1.54
+   "price": 450,
+   "change_pct": 1.42
   },
   "IDXX": {
    "price": 704.23,
@@ -167,7 +163,7 @@
    "change_pct": -0.6
   },
   "IQV": {
-   "price": 265.11,
+   "price": 265.12,
    "change_pct": -2.21
   },
   "ISRG": {
@@ -187,8 +183,8 @@
    "change_pct": -0.49
   },
   "LLY": {
-   "price": 1445.4,
-   "change_pct": 1.27
+   "price": 1443.5,
+   "change_pct": 1.14
   },
   "MDT": {
    "price": 102.86,
@@ -199,16 +195,12 @@
    "change_pct": -0.44
   },
   "MRK": {
-   "price": 147.79,
-   "change_pct": 0.57
+   "price": 147.76,
+   "change_pct": 0.55
   },
   "MRNA": {
    "price": 223.37,
    "change_pct": -3.45
-  },
-  "NTLA": {
-   "price": 9.7,
-   "change_pct": -8.06
   },
   "NVO": {
    "price": 41.63,
@@ -221,10 +213,6 @@
   "PFE": {
    "price": 28.89,
    "change_pct": 0.21
-  },
-  "PHR": {
-   "price": 12.69,
-   "change_pct": 0.55
   },
   "REGN": {
    "price": 955.47,
@@ -253,6 +241,10 @@
   "TMO": {
    "price": 700.22,
    "change_pct": 0.11
+  },
+  "TRXB": {
+   "price": 13.67,
+   "change_pct": -3.05
   },
   "TWST": {
    "price": 111.6,
@@ -893,6 +885,43 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "4fef4ca2dd25",
+   "headline": "Digital Twins: Advancing Clinical Evidence Strategy",
+   "summary": "Learn how patient digital twins can model treatment scenarios, strengthen comparator strategies and support evidence generation.",
+   "url": "https://www.fiercepharma.com/sponsored/digital-twins-advancing-clinical-evidence-strategy",
+   "source": "Fierce Pharma",
+   "published": "2026-11-13T21:15:25.434833+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "83578b4124e7",
+   "headline": "Measurement Everywhere: Why the Future Can\u2019t Be Measured in the Rearview Mirror",
+   "summary": "Stop measuring marketing in the rearview mirror. See how continuous measurement turns trusted signals into smarter decisions and action.",
+   "url": "https://www.fiercepharma.com/sponsored/measurement-everywhere-why-future-cant-be-measured-rearview-mirror",
+   "source": "Fierce Pharma",
+   "published": "2026-11-13T21:15:25.433767+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "8d352fc5cec0",
+   "headline": "TRexBio Reports Third Quarter 2026 Financial Results and Recent Business Highlights",
+   "summary": "TRex Bio, Inc. (\"TRexBio\") (Nasdaq: TRXB), reported third quarter 2026 financial results and business highlights.",
+   "url": "https://www.globenewswire.com/news-release/2026/11/13/3402951/0/en/trexbio-reports-third-quarter-2026-financial-results-and-recent-business-highlights.html",
+   "source": "GlobeNewswire",
+   "published": "2026-11-13T21:02:00+00:00",
+   "tickers": [
+    "TRXB"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
   {
    "id": "57516e208680",
    "headline": "New addiction society guidance on medetomidine\u2019s brutal withdrawal",
@@ -57829,352 +57858,6 @@
    "tag": "Clinical",
    "sectors": [
     "tools"
-   ]
-  },
-  {
-   "id": "6061c4f8d881",
-   "headline": "Apple, Palantir, Pfizer, Marvell, AMD, Bloom Energy, Gartner, and More Stocks That Explain Today\u2019s Market",
-   "summary": "Apple falls after the iPhone maker\u2019s guidance fails to meet investors\u2019 high bar.",
-   "url": "https://finnhub.io/api/news?id=4a1c1a5f2bbf2ce994b251c5a1229ae53dd8d66167dabc857cd0a767af92a13b",
-   "source": "Yahoo",
-   "published": "2026-11-03T21:16:00+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "6c207366856c",
-   "headline": "Amgen (AMGN) Tops Q3 Earnings and Revenue Estimates",
-   "summary": "Amgen (AMGN) delivered earnings and revenue surprises of +12.37% and +4.14%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
-   "url": "https://finnhub.io/api/news?id=c35a41691ac92b740f815cf9aaa2b9485557acf5b67b8e0a0e35f2d3795406d1",
-   "source": "Yahoo",
-   "published": "2026-11-03T21:15:01+00:00",
-   "tickers": [
-    "AMGN"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "a394c11a8bc8",
-   "headline": "Jazz Pharmaceuticals to Participate in Upcoming Investor Conferences",
-   "summary": "Jazz Pharmaceuticals plc (Nasdaq: JAZZ) today announced that company management will participate in fireside chats at the following investor conferences:",
-   "url": "https://finnhub.io/api/news?id=b9bf1fbfd7594dd326a460f5d7c7ff2f984044ef784ce8a65805d7fc17595b2a",
-   "source": "Yahoo",
-   "published": "2026-11-03T21:15:00+00:00",
-   "tickers": [
-    "JAZZ"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "1af8ddbfdc34",
-   "headline": "Phreesia\u2019s Sophia Wagner Named to Becker\u2019s 2026 List of Health IT & Revenue Cycle Up-and-Comers",
-   "summary": "ALL-REMOTE COMPANY/WILMINGTON, Del., November 03, 2026--Phreesia\u2019s Sophia Wagner named to Becker\u2019s 2026 list of Health IT & Revenue Cycle Up-and-Comers.",
-   "url": "https://finnhub.io/api/news?id=8558f22a359e4b66af370e0bd7e7280740251d46d19db64048f786e6525fbac6",
-   "source": "Yahoo",
-   "published": "2026-11-03T21:13:00+00:00",
-   "tickers": [
-    "PHR"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "d06cc5e8f3be",
-   "headline": "Amgen: Q3 Earnings Snapshot",
-   "summary": "(AMGN) on Tuesday reported third-quarter net income of $3.On a per-share basis, the Thousand Oaks, California-based company said it had profit of $7.",
-   "url": "https://finnhub.io/api/news?id=a550cf60dbcef39ec62d7d78d51d884d152a86d59dde41b2a5225f9988d516c2",
-   "source": "Yahoo",
-   "published": "2026-11-03T21:12:40+00:00",
-   "tickers": [
-    "AMGN"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "db240ce910e6",
-   "headline": "Moderna's Cancer Vaccine Is Incredibly Promising, but This Could Be a Major Obstacle to Its Success",
-   "summary": "Even if the company's vaccine obtains approval, producing it at scale could be a big challenge.",
-   "url": "https://finnhub.io/api/news?id=470ec20ffc183e50f94c6913ccce87a4b49bd01121a94acb76169fce0b1a8216",
-   "source": "Yahoo",
-   "published": "2026-11-03T21:12:01+00:00",
-   "tickers": [
-    "MRK",
-    "MRNA"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "0b690359727e",
-   "headline": "HealthEquity Schedules Third Quarter Earnings Release Date",
-   "summary": "DRAPER, Utah, Nov. 03, 2026 (GLOBE NEWSWIRE) -- HealthEquity, Inc. (NASDAQ: HQY) (\u201cHealthEquity\u201d or the \u201cCompany\u201d), the largest independent health savings account (HSA) custodian by account volume and a leader in consumer-directed\u2026",
-   "url": "https://finnhub.io/api/news?id=fee8a959d3410f140fbb67e5d548f8d30c73c13914a50beee0128d2e1e94498a",
-   "source": "Yahoo",
-   "published": "2026-11-03T21:11:00+00:00",
-   "tickers": [
-    "HQY"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "4907757babe0",
-   "headline": "Patterson Companies Appoints Ryan Steines as Chief Financial Officer",
-   "summary": "ST. PAUL, Minn., November 03, 2026--Patterson Companies, Inc. today announced the appointment of Ryan Steines as Chief Financial Officer, effective Nov. 3, 2026.",
-   "url": "https://finnhub.io/api/news?id=a167f70fb414490993c4a304e8a6d1931e19a0549a45b674cb5536fdc6d79cb8",
-   "source": "Yahoo",
-   "published": "2026-11-03T21:10:00+00:00",
-   "tickers": [
-    "MDT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "40d3ac87caaa",
-   "headline": "GE HealthCare Technologies (GEHC) Unveils New Imaging Tools, Is It Still 8% Undervalued?",
-   "summary": "GE HealthCare Technologies (GEHC) has drawn fresh attention after unveiling the Allia Celeo ceiling-mounted image guiding system and new AI-assisted features for its Vscan Air handheld ultrasound, highlighting a sharper push into advanced\u2026",
-   "url": "https://finnhub.io/api/news?id=3cc525750cad7da51a1cd72c8537ceb59e21cde49974ca19d07ba6e3c9b8b542",
-   "source": "Yahoo",
-   "published": "2026-11-03T21:09:05+00:00",
-   "tickers": [
-    "GEHC"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "ac405c1a87a9",
-   "headline": "Waters Corp (WAT) Q3 2026 Earnings Call Highlights: Raised Guidance, 21% EPS Growth and a ...",
-   "summary": "Waters Corp (WAT) posted 10% constant currency organic growth, beat adjusted EPS guidance and lifted its full-year 2026 outlook while laying out a mid-single-digit-plus growth framework for 2027.",
-   "url": "https://finnhub.io/api/news?id=b1b5006a83e23ff653d914f7e95d366cf60917052334fe7f20689a8627309688",
-   "source": "Yahoo",
-   "published": "2026-11-03T21:06:09+00:00",
-   "tickers": [
-    "WAT"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "393ab01f18f3",
-   "headline": "Madrigal Pharmaceuticals Inc (MDGL) Q3 2026 Earnings Call Highlights: First Profitable Quarter ...",
-   "summary": "Madrigal Pharmaceuticals Inc (MDGL) posts $431.3 million in quarterly net sales, swings to $55.4 million net income, and expands its F4C pipeline with a new Phase 3 Maestro CSPH trial.",
-   "url": "https://finnhub.io/api/news?id=50a0b46a35f79594781a82aef37bfc8e970a563419970a315238bec7c6a594c6",
-   "source": "Yahoo",
-   "published": "2026-11-03T21:05:42+00:00",
-   "tickers": [
-    "MDGL"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "01a1d54ea18e",
-   "headline": "Neurocrine Biosciences to Spotlight Its Scientific Journey and Growing Neuropsychiatry Pipeline at 2026 NEI Fall Congress",
-   "summary": "SAN DIEGO, Nov. 3, 2026 /PRNewswire/ -- Neurocrine Biosciences, Inc. (Nasdaq: NBIX) today announced its participation in the 2026 Neuroscience Education Institute (NEI) Fall Congress, taking place Nov. 5-8 in Colorado Springs, Colo.\u2026",
-   "url": "https://www.prnewswire.com/news-releases/neurocrine-biosciences-to-spotlight-its-scientific-journey-and-growing-neuropsychiatry-pipeline-at-2026-nei-fall-congress-302928380.html",
-   "source": "PR Newswire",
-   "published": "2026-11-03T21:05:00+00:00",
-   "tickers": [
-    "NBIX"
-   ],
-   "tag": "Policy",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "8c71ce9d5bd1",
-   "headline": "DaVita Inc. to Participate in Upcoming Investor Conferences",
-   "summary": "DENVER, Nov. 3, 2026 /PRNewswire/ -- DaVita Inc. (NYSE: DVA) today announced that its Chief Financial Officer, Joel Ackerman, and its Group Vice President of Investor Relations, Nic Eliason, will participate in fireside chats at the\u2026",
-   "url": "https://www.prnewswire.com/news-releases/davita-inc-to-participate-in-upcoming-investor-conferences-302928240.html",
-   "source": "PR Newswire",
-   "published": "2026-11-03T21:05:00+00:00",
-   "tickers": [
-    "DVA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "b181968de002",
-   "headline": "Exelixis to Webcast Fireside Chats as Part of Upcoming Investor Conferences in November",
-   "summary": "ALAMEDA, Calif., November 03, 2026--Exelixis, Inc. (Nasdaq: EXEL) today announced that company management will participate in fireside chats at the following investor conferences in November:",
-   "url": "https://finnhub.io/api/news?id=eb7502b60111b019c93f7accc6f2c00a3a3a334009325f3f10fa8ffe4604b9a5",
-   "source": "Yahoo",
-   "published": "2026-11-03T21:05:00+00:00",
-   "tickers": [
-    "EXEL"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "1d0c91095b97",
-   "headline": "DaVita Inc. to Participate in Upcoming Investor Conferences",
-   "summary": "DaVita Inc. (NYSE: DVA) today announced that its Chief Financial Officer, Joel Ackerman, and its Group Vice President of Investor Relations, Nic Eliason, will participate in fireside chats at the following upcoming investor conferences:",
-   "url": "https://finnhub.io/api/news?id=34e744bc077721792806b9ff21e76c05ce3521b715aed53f0c80b977f99bb335",
-   "source": "Yahoo",
-   "published": "2026-11-03T21:05:00+00:00",
-   "tickers": [
-    "DVA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "02ea4857c762",
-   "headline": "Neurocrine Biosciences to Spotlight Its Scientific Journey and Growing Neuropsychiatry Pipeline at 2026 NEI Fall Congress",
-   "summary": "Neurocrine Biosciences, Inc. (Nasdaq: NBIX) today announced its participation in the 2026 Neuroscience Education Institute (NEI) Fall Congress, taking place Nov. 5-8 in Colorado Springs, Colo. Through a special industry-sponsored session,\u2026",
-   "url": "https://finnhub.io/api/news?id=6f52cfd8b98e04d055261220a735d18de8186bbe8eba1adf183e5c49d1479c9e",
-   "source": "Yahoo",
-   "published": "2026-11-03T21:05:00+00:00",
-   "tickers": [
-    "NBIX"
-   ],
-   "tag": "Policy",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "e747babdbb72",
-   "headline": "Notice of Proposed Derivative Settlement: Twist Bioscience Corporation",
-   "summary": "SOUTH SAN FRANCISCO, Calif., November 03, 2026--Twist Bioscience Corporation (NASDAQ: TWST):",
-   "url": "https://finnhub.io/api/news?id=bc788bb2ed50dfdaf207f84c40bf6371124af333d6bfe4a7a1275bdf1ee845cc",
-   "source": "Yahoo",
-   "published": "2026-11-03T21:05:00+00:00",
-   "tickers": [
-    "TWST"
-   ],
-   "tag": "Legal",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "1435e4ec29e4",
-   "headline": "Amwell\u00ae Announces Results for the Third Quarter 2026",
-   "summary": "BOSTON, Nov. 03, 2026 (GLOBE NEWSWIRE) -- Amwell\u00ae (NYSE: AMWL), a leading provider of a comprehensive SaaS-based technology-enabled healthcare platform, today announced financial results for the third quarter ended September 30, 2026.\u2026",
-   "url": "https://finnhub.io/api/news?id=aaefde5096b19e67805e39418bc15059aff6e4140c9ccce653a924b6be5383e1",
-   "source": "Yahoo",
-   "published": "2026-11-03T21:05:00+00:00",
-   "tickers": [
-    "AMWL"
-   ],
-   "tag": "News",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "6e5f73545e9b",
-   "headline": "RxSight, Inc. Reports Third Quarter 2026 Results",
-   "summary": "ALISO VIEJO, Calif., Nov. 03, 2026 (GLOBE NEWSWIRE) -- RxSight, Inc. (NASDAQ: RXST) today reported financial results for the quarter ended September 30, 2026. Third Quarter 2026 Financial Highlights Total revenue of $24.6 million\u2026",
-   "url": "https://finnhub.io/api/news?id=6be9f94bc4ca82dc00ff62c64c06cf267e333dac71e320a53c1d10f7d25f924e",
-   "source": "Yahoo",
-   "published": "2026-11-03T21:05:00+00:00",
-   "tickers": [
-    "RXST"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "652f374e159e",
-   "headline": "Teladoc Health Announces Employee Inducement Awards under NYSE Rule 303A.08",
-   "summary": "NEW YORK, Nov. 03, 2026 (GLOBE NEWSWIRE) -- Teladoc Health, Inc. (NYSE:TDOC), the global leader in virtual care, today announced that it issued inducement awards to three new employees. Effective November 1, 2026, in connection with the\u2026",
-   "url": "https://finnhub.io/api/news?id=59c0437da2263c3f20a3e598cc6edea37e429c0ac83d91e1b3e2d448659f2a05",
-   "source": "Yahoo",
-   "published": "2026-11-03T21:05:00+00:00",
-   "tickers": [
-    "TDOC"
-   ],
-   "tag": "News",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "9f396ca4bfc7",
-   "headline": "Alamar Biosciences Partners with GSK on Large-Scale Proteomic Study to Advance Precision Medicine",
-   "summary": "Alamar\u2019s NULISAseq\u2122 Immune 340 and NULISAseq\u2122 Neuro 220 panels will be used to investigate disease progression, biological subtypes and treatment responseFREMONT, Calif., Nov. 03, 2026 (GLOBE NEWSWIRE) -- Alamar Biosciences, Inc. (Nasdaq:\u2026",
-   "url": "https://finnhub.io/api/news?id=ce0b8a22f894b4be0333b8c2e0231142db4639c9f41686d9109517feec225b50",
-   "source": "Yahoo",
-   "published": "2026-11-03T21:03:00+00:00",
-   "tickers": [
-    "GSK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "2e72ec200fd9",
-   "headline": "Jazz Pharmaceuticals PLC (JAZZ) (Q3 2026) Earnings Call Highlights: Record $1. ...",
-   "summary": "Jazz Pharmaceuticals PLC (JAZZ) posts 10% revenue growth on 35% oncology gains, lifts its 2026 outlook, and adds a differentiated rare epilepsy asset with the Actio Biosciences acquisition.",
-   "url": "https://finnhub.io/api/news?id=1eecff4e256dc08203887d505026679e3849f4c2cdaf1bde59cdfe4f0404f5b2",
-   "source": "Yahoo",
-   "published": "2026-11-03T21:02:27+00:00",
-   "tickers": [
-    "JAZZ"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "281cc0e229be",
-   "headline": "Globus Medical Acquires Synaptive Medical, Strengthening Its Position in Cranial Neurosurgery",
-   "summary": "AUDUBON, Pa., Nov. 03, 2026 (GLOBE NEWSWIRE) -- Globus Medical, Inc. a leading musculoskeletal technology company, today announced that it completed the acquisition of Synaptive Medical, deepening the Company's presence in cranial\u2026",
-   "url": "https://finnhub.io/api/news?id=ac8de00e4ea879cbff35d19541c06527147167fe76560f3dcaf36fd400fee2cf",
-   "source": "Yahoo",
-   "published": "2026-11-03T21:02:00+00:00",
-   "tickers": [
-    "GMED"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
