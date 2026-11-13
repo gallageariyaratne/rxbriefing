@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-13T22:47:23.076579+00:00",
+ "updated": "2026-11-13T23:02:39.588170+00:00",
  "quotes": {
   "ABBV": {
    "price": 295.03,
@@ -13,6 +13,10 @@
   "ABT": {
    "price": 108.52,
    "change_pct": 1.18
+  },
+  "ALNY": {
+   "price": 165.04,
+   "change_pct": 5.36
   },
   "AMGN": {
    "price": 465.67,
@@ -870,6 +874,21 @@
  },
  "stories": [
   {
+   "id": "174f1ea90a4e",
+   "headline": "AstraZeneca cuts 600 US sales jobs amid $1.5B savings plan: Bloomberg",
+   "summary": "AstraZeneca\u2019s $1.5 billion cost-savings drive has started to take a toll on its U.S. workforce. The British pharma has cut about 600 jobs from its respiratory and immunology commercial teams in the U.S., Bloomberg reports.",
+   "url": "https://www.fiercepharma.com/pharma/astrazeneca-cuts-600-us-sales-jobs-amid-15b-savings-plan-bloomberg",
+   "source": "Fierce Pharma",
+   "published": "2026-11-13T23:00:31.366438+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "166f36c5a7ff",
    "headline": "AZ keeps pressure on Keytruda with Imfinzi expansion in chemo-ineligible bladder cancer",
    "summary": "Looking to challenge a preeminent Keytruda cocktail in cisplatin-ineligible muscle-invasive bladder cancer (MIBC), AstraZeneca has crossed the finish line with its own doublet wedding Pfizer and Astellas\u2019 Padcev with its PD-L1 inhibitor\u2026",
@@ -877,8 +896,8 @@
    "source": "Fierce Pharma",
    "published": "2026-11-13T22:45:22.123626+00:00",
    "tickers": [
-    "PFE",
-    "AZN"
+    "AZN",
+    "PFE"
    ],
    "tag": "News",
    "sectors": [
@@ -917,6 +936,21 @@
    "tickers": [],
    "tag": "Policy",
    "sectors": []
+  },
+  {
+   "id": "2c88fc3860a6",
+   "headline": "Thermo Fisher Scientific to Participate in UBS 2026 CEO Call Series on November 19, 2026",
+   "summary": "WALTHAM, Mass., November 13, 2026--Thermo Fisher Scientific Inc. (NYSE: TMO), the world leader in serving science, announced that Marc N. Casper, chairman and chief executive officer, will participate in a fireside chat hosted by UBS on\u2026",
+   "url": "https://finnhub.io/api/news?id=e503e11e93db180fb37650bcba40f26a23dbf74daab1bc5ab9db9b11e01434d7",
+   "source": "Yahoo",
+   "published": "2026-11-13T21:30:00+00:00",
+   "tickers": [
+    "TMO"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
   },
   {
    "id": "4fef4ca2dd25",
@@ -989,6 +1023,21 @@
    ]
   },
   {
+   "id": "0ab083aaf61d",
+   "headline": "Weekly Gains Hold Up Despite a Friday Slide as Chips Lead and Yields Climb",
+   "summary": "Stock Preachers News Commentary - Wall Street closed out a volatile week with every major index still higher versus last Friday, even after a broad Friday retreat. The Nasdaq Composite led decliners with a 1.24% drop on the session, while\u2026",
+   "url": "https://finnhub.io/api/news?id=e3bfaadf1fe1e8e2d47fb306c8d6180e7af6bf1ef9cddbbd0c4ac2376b689205",
+   "source": "Yahoo",
+   "published": "2026-11-13T20:47:00+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "57516e208680",
    "headline": "New addiction society guidance on medetomidine\u2019s brutal withdrawal",
    "summary": "The American Society of Addiction Medicine has released the first national guidance for recognizing and treating patients who have taken medetomidine.",
@@ -1036,6 +1085,7 @@
     "CI",
     "CVS",
     "DGX",
+    "HIMS",
     "LH"
    ],
    "tag": "Earnings",
@@ -1051,6 +1101,7 @@
    "source": "Yahoo",
    "published": "2026-11-13T20:19:00+00:00",
    "tickers": [
+    "EW",
     "PFE"
    ],
    "tag": "News",
@@ -1066,6 +1117,8 @@
    "source": "Yahoo",
    "published": "2026-11-13T20:12:30+00:00",
    "tickers": [
+    "ALNY",
+    "MRNA",
     "PFE"
    ],
    "tag": "News",
@@ -1814,6 +1867,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "f18171cde0d6",
+   "headline": "Is Wall Street Bullish or Bearish on DaVita Stock?",
+   "summary": "Though DaVita has outpaced the broader market over the past year, Wall Street analysts maintain a cautiously optimistic outlook on the stock\u2019s prospects.",
+   "url": "https://finnhub.io/api/news?id=1bed433e2bedb0ec618d00f925653ffdd0047ffe607f2c3c496b461d9afa426c",
+   "source": "Yahoo",
+   "published": "2026-11-13T14:59:41+00:00",
+   "tickers": [
+    "DVA"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "payers"
+   ]
   },
   {
    "id": "0feccb721464",
@@ -57502,21 +57570,6 @@
     "AMGN"
    ],
    "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "0c7197babe15",
-   "headline": "NRIX Slumps 35% After-Hours \u2014 What\u2019s Driving The Selloff?",
-   "summary": "Sanofi notified Nurix that it is ending the early-stage first-in-human trial of SAR448272 and terminating the program entirely.",
-   "url": "https://finnhub.io/api/news?id=5cef96e8e9095b57e25a2923d991613cf01c485f6ceb45dfb71e503c768cd0c0",
-   "source": "Yahoo",
-   "published": "2026-11-03T22:58:21+00:00",
-   "tickers": [
-    "SNY"
-   ],
-   "tag": "News",
    "sectors": [
     "pharma"
    ]
