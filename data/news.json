@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-13T03:02:53.217679+00:00",
+ "updated": "2026-11-13T03:17:42.983004+00:00",
  "quotes": {
   "A": {
    "price": 173.01,
@@ -65,6 +65,10 @@
   "BMY": {
    "price": 62.32,
    "change_pct": -0.94
+  },
+  "BNTX": {
+   "price": 85.04,
+   "change_pct": -2.98
   },
   "BSX": {
    "price": 44.2,
@@ -209,10 +213,6 @@
   "JNJ": {
    "price": 283.52,
    "change_pct": 1.11
-  },
-  "LEGN": {
-   "price": 18.54,
-   "change_pct": -5.12
   },
   "LFST": {
    "price": 14.15,
@@ -962,6 +962,7 @@
    "published": "2026-11-13T01:22:00+00:00",
    "tickers": [
     "AMGN",
+    "AZN",
     "SNY"
    ],
    "tag": "Financing",
@@ -998,6 +999,21 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "9e9a67970d4f",
+   "headline": "BioNTech May Be the Next Moderna. Even if it Isn\u2019t, the Stock Is a Buy.",
+   "summary": "BioNTech has multiple catalysts that could generate a rally of 35% for the stock.",
+   "url": "https://finnhub.io/api/news?id=88213bd6e5fb61a3e271bee3ab89cc61c8c8425d7dd346595eaa2deaa4763419",
+   "source": "Yahoo",
+   "published": "2026-11-13T01:02:00+00:00",
+   "tickers": [
+    "BNTX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1107,6 +1123,21 @@
    ]
   },
   {
+   "id": "5a313e989a4d",
+   "headline": "Absci Corp (ABSI) Q3 2026 Earnings Call Highlights: ABS-201 Momentum Builds as Cash Runway ...",
+   "summary": "Absci Corp (ABSI) outlined progress in its HEADLINE trial for ABS-201, a $25 billion U.S. hair loss opportunity, and a cash runway into the second half of 2028 despite rising R&D costs.",
+   "url": "https://finnhub.io/api/news?id=68ca86671e0a9172ba9c0cb6b0daa7e3eea74edb9dd4d7a7b38372f1ed6796bb",
+   "source": "Yahoo",
+   "published": "2026-11-12T23:08:04+00:00",
+   "tickers": [
+    "ABSI"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthai"
+   ]
+  },
+  {
    "id": "749c949c510e",
    "headline": "Compugen Ltd (CGEN) Q3 2026 Earnings Call Highlights: Revenue Doubles as Gilead and AstraZeneca ...",
    "summary": "Compugen Ltd (CGEN) posted $3.8 million in Q3 2026 revenue, completed MAIA-ovarian enrollment with data due by Q1 2027, and holds $117.5 million in cash to fund operations into 2029.",
@@ -1114,6 +1145,7 @@
    "source": "Yahoo",
    "published": "2026-11-12T23:03:28+00:00",
    "tickers": [
+    "AZN",
     "GILD"
    ],
    "tag": "Earnings",
@@ -2006,6 +2038,21 @@
    ]
   },
   {
+   "id": "432af74a1802",
+   "headline": "Absci Corporation Q3 2026 Earnings Call Summary",
+   "summary": "Moby summary of Absci Corporation's Q3 2026 earnings call",
+   "url": "https://finnhub.io/api/news?id=1068ef732f021dc6809ca2a3674a6eb7700aa8732fc838d7f30faef448df085a",
+   "source": "Yahoo",
+   "published": "2026-11-12T17:58:12+00:00",
+   "tickers": [
+    "ABSI"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthai"
+   ]
+  },
+  {
    "id": "3d099176fd86",
    "headline": "GE HealthCare Stock Outlook: Is Wall Street Bullish or Bearish?",
    "summary": "Despite GE HealthCare\u2019s underperformance relative to the broader market over the past year, Wall Street analysts maintain a moderately optimistic outlook about the stock\u2019s prospects.",
@@ -2172,6 +2219,21 @@
    "sectors": []
   },
   {
+   "id": "434b3ab855cb",
+   "headline": "Absci (ABSI) Q3 2026 Earnings Call Transcript",
+   "summary": "Pattern hair loss data is due in December as the company expands into endometriosis.",
+   "url": "https://finnhub.io/api/news?id=ad8812d5fe886ece6876897cbe79985b150cd226036d5288705952c12f680d82",
+   "source": "Yahoo",
+   "published": "2026-11-12T17:14:00+00:00",
+   "tickers": [
+    "ABSI"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthai"
+   ]
+  },
+  {
    "id": "45c44bb87077",
    "headline": "Learn Why The Bull Case For Agilent Stock Could Change Following Pan Heme Launch",
    "summary": "Agilent Technologies recently introduced the SureSelect Cancer Research Pan Heme, a hybrid capture NGS panel that integrates DNA and RNA profiling, automation and bioinformatics to study 359 DNA genes and 124 RNA genes in hematologic\u2026",
@@ -2327,6 +2389,7 @@
    "source": "Yahoo",
    "published": "2026-11-12T16:53:00+00:00",
    "tickers": [
+    "BNTX",
     "MRK",
     "MRNA",
     "PFE"
@@ -2495,6 +2558,21 @@
    "sectors": []
   },
   {
+   "id": "d51ba36c65e4",
+   "headline": "NYSE\u2019s Chris Bergan Explains Why Large Caps are Transferring to the NYSE",
+   "summary": "NYSE Director of Listings Chris Bergin joins NYSE Live to discuss why a growing number of high-profile companies are choosing to transfer their listings to the New York Stock Exchange. The conversation follows Kraft Heinz's transfer to\u2026",
+   "url": "https://finnhub.io/api/news?id=256630abaa0f9708042e64b7e86998e8f49b7fba64311c6205c1e87cfbe5b429",
+   "source": "Yahoo",
+   "published": "2026-11-12T16:27:19+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "1e392856974d",
    "headline": "REGN Soars 27.4% in a Month: Buy, Sell or Hold the Stock?",
    "summary": "Regeneron's strong Eylea HD and Dupixent sales, expanding oncology portfolio and promising pipeline fuel growth prospects as Eylea faces intensifying competition.",
@@ -2605,6 +2683,21 @@
    "tag": "Clinical",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "fe3a3ab7a0e6",
+   "headline": "Absci Q3 Earnings Call Highlights",
+   "summary": "Absci (NASDAQ:ABSI) expects to release interim data from its experimental pattern hair loss treatment in December, followed by a fuller assessment in early 2027, executives said during the company\u2019s third-quarter business update on\u2026",
+   "url": "https://finnhub.io/api/news?id=00d5a7ccef570349d39408442aae46706dc2b9fb8003210a0e420a999fe4e539",
+   "source": "Yahoo",
+   "published": "2026-11-12T16:15:18+00:00",
+   "tickers": [
+    "ABSI"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "healthai"
    ]
   },
   {
@@ -2870,6 +2963,7 @@
    "source": "Yahoo",
    "published": "2026-11-12T15:35:00+00:00",
    "tickers": [
+    "BNTX",
     "MRNA",
     "PFE"
    ],
@@ -4068,6 +4162,21 @@
    "sectors": []
   },
   {
+   "id": "b04dccdfc88c",
+   "headline": "Absci Corporation (ABSI) Reports Q3 Loss, Misses Revenue Estimates",
+   "summary": "ABSCI CORP (ABSI) delivered earnings and revenue surprises of -13.33% and -88.43%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=6242609c25838c1f4dbef2324293bff76c948c9196c2345f918bb7dfe0ccf9db",
+   "source": "Yahoo",
+   "published": "2026-11-12T12:35:01+00:00",
+   "tickers": [
+    "ABSI"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthai"
+   ]
+  },
+  {
    "id": "ab8e6aea3892",
    "headline": "Takeda Launches ORZEYFUL\u2122 (oveporexton), the First and Only Medicine of Its Kind for Narcolepsy Type 1 Now Available in the United States",
    "summary": "OSAKA, Japan & CAMBRIDGE, Mass., November 12, 2026--ORZEYFUL\u2122 (oveporexton), the First and Only Medicine of Its Kind for Narcolepsy Type 1, is Now Available in the United States",
@@ -4229,6 +4338,21 @@
    ]
   },
   {
+   "id": "3c88b0dbabc6",
+   "headline": "AstraZeneca And 2 Other British Undervalued Stocks To Own",
+   "summary": "UK GDP just climbed 0.7% in the third quarter, helped by heavy spending on artificial intelligence and cloud computing. That kind of targeted investment can pull attention away from quieter opportunities in the background. For patient\u2026",
+   "url": "https://finnhub.io/api/news?id=ec3a1de034f919d4c058c079ea9d586c9feba6004a312d7e251e41e91b07f6d4",
+   "source": "Yahoo",
+   "published": "2026-11-12T12:14:30+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "f89692cfc3cc",
    "headline": "Halozyme Therapeutics (HALO) Stock Gets Fair Value Boost After Q3 Analyst Revisions",
    "summary": "Halozyme Therapeutics just saw its modeled fair value move from about US$108.78 to roughly US$119.44, signaling an updated price target range in recent research. Analysts link this shift to Q3 2026 results, the latest ENHANZE driven\u2026",
@@ -4254,6 +4378,21 @@
     "ABSI"
    ],
    "tag": "News",
+   "sectors": [
+    "healthai"
+   ]
+  },
+  {
+   "id": "addf7d12f7dd",
+   "headline": "Absci Reports Business Updates and Third Quarter 2026 Financial and Operating Results",
+   "summary": "ABS-201\u2122 HEADLINE\u2122 trial progressing on track; 13-week interim proof-of-concept data for pattern hair loss (PHL) anticipated next month Announced preliminary details for Phase 2 STORYLINE\u2122 trial of ABS-201 for endometriosis Appointed\u2026",
+   "url": "https://finnhub.io/api/news?id=5bd06178ec99abf92a9c99e142b769f2b04ec9eef40f2a6bb1dff0ba07169814",
+   "source": "Yahoo",
+   "published": "2026-11-12T12:05:00+00:00",
+   "tickers": [
+    "ABSI"
+   ],
+   "tag": "Clinical",
    "sectors": [
     "healthai"
    ]
@@ -4342,6 +4481,21 @@
    "tag": "Analyst",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "7367a2ce3dce",
+   "headline": "Absci Appoints Gerry Muhle as Chief Commercial Officer to Build Category-Defining Brands for ABS-201 and Its Broader Pipeline",
+   "summary": "Global commercial executive brings a track record of launching prescription biologics and building consumer-driven brands at Galderma, Allergan and GSKVANCOUVER, Wash. and NEW YORK, Nov. 12, 2026 (GLOBE NEWSWIRE) -- Absci Corporation\u2026",
+   "url": "https://finnhub.io/api/news?id=e5e2c86c25694161f31ecee5c4039cb5787a4e9295fd23af564f934b8fe8acdf",
+   "source": "Yahoo",
+   "published": "2026-11-12T12:00:00+00:00",
+   "tickers": [
+    "ABSI"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthai"
    ]
   },
   {
@@ -5535,6 +5689,7 @@
    "source": "Yahoo",
    "published": "2026-11-12T05:00:00+00:00",
    "tickers": [
+    "AZN",
     "SNY",
     "TMO"
    ],
@@ -62856,36 +63011,6 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "29dec036d963",
-   "headline": "Unprecedented weight-loss drug craze pushing Lilly to near-record highs",
-   "summary": "Morgan Stanley raised Eli Lilly\u2019s price target as demand for Zepbound and Mounjaro skyrockets.",
-   "url": "https://finnhub.io/api/news?id=a4b98801399bf4b0a77e905c66eb89de50eac6d386e9db1bf3510ca669fa9315",
-   "source": "Yahoo",
-   "published": "2026-11-03T03:03:00+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "c90c889f700e",
-   "headline": "Pfizer, Apple and 3 Stocks to Watch Heading Into Tuesday",
-   "summary": "Pfizer and Keurig Dr Pepper report earnings; Apple, Palantir and AMD draw attention after results, guidance and trading moves.",
-   "url": "https://finnhub.io/api/news?id=6293446620b5a32672bb995cd60a3b65aacc688bb4d32a5bbab9c74a86a22105",
-   "source": "Benzinga",
-   "published": "2026-11-03T03:01:27+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
