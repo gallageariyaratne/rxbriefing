@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-13T11:02:45.494247+00:00",
+ "updated": "2026-11-13T11:17:35.780124+00:00",
  "quotes": {
   "A": {
    "price": 173.01,
@@ -310,10 +310,6 @@
    "price": 405.13,
    "change_pct": 0.54
   },
-  "UTHR": {
-   "price": 593.31,
-   "change_pct": -0.39
-  },
   "VEEV": {
    "price": 302.42,
    "change_pct": -0.77
@@ -321,6 +317,10 @@
   "VRTX": {
    "price": 542.62,
    "change_pct": -0.81
+  },
+  "WAT": {
+   "price": 462.2,
+   "change_pct": -1.85
   }
  },
  "tickers": {
@@ -937,6 +937,17 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "22c11fd47708",
+   "headline": "Novo amps up Wegovy marketing with DJ Khaled spinning his weight-loss tale",
+   "summary": "Novo and DJ Khaled have teamed up to share how the DJ, rapper and record producer has incorporated the GLP-1 drug Wegovy into his weight-loss routine.",
+   "url": "https://www.fiercepharma.com/marketing/novo-amps-wegovy-marketing-dj-khaled-spinning-his-weight-loss-tale",
+   "source": "Fierce Pharma",
+   "published": "2026-11-13T11:15:22.161341+00:00",
+   "tickers": [],
+   "tag": "GLP-1",
+   "sectors": []
+  },
   {
    "id": "00ce1f68b3e4",
    "headline": "Cencora (NYSE:COR): A Quality Investing Candidate",
@@ -61347,358 +61358,6 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
-   ]
-  },
-  {
-   "id": "8380a44f032d",
-   "headline": "How to Invest in the Rise of China\u2019s Biotech: Buy U.S. Drug Stocks",
-   "summary": "Many of the hot new drug candidates in the U.S. were developed Chinese companies.",
-   "url": "https://finnhub.io/api/news?id=42f2acc70d609f7d649dbc90a80b35440f763d4c8a76ec06819794b7642f5273",
-   "source": "Yahoo",
-   "published": "2026-11-03T11:15:00+00:00",
-   "tickers": [
-    "LLY",
-    "MRK",
-    "PFE"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "5f4c0a047b97",
-   "headline": "RBC Capital Maintains Outperform on Vertex Pharmaceuticals, Raises Price Target to $600",
-   "summary": "RBC Capital analyst Brian Abrahams maintains Vertex Pharmaceuticals (NASDAQ:VRTX) with a Outperform and raises the price target from $576 to $600.",
-   "url": "https://finnhub.io/api/news?id=2014a533e84b34539d8c053d4d4ae02176f4030448af124b825640903d49cecb",
-   "source": "Benzinga",
-   "published": "2026-11-03T11:13:50+00:00",
-   "tickers": [
-    "VRTX"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "b14769f1738e",
-   "headline": "Mettler-Toledo's Q3 Earnings on Deck: What's in Store for the Stock?",
-   "summary": "MTD's Q3'26 results are expected to benefit from improving markets, automation demand, acquisitions and growth across key regions.",
-   "url": "https://finnhub.io/api/news?id=aa0950febecf83f57b9606aa3da71f2cfe25bbbbd869cd9265cc3491edc3f764",
-   "source": "Yahoo",
-   "published": "2026-11-03T11:13:00+00:00",
-   "tickers": [
-    "BDX",
-    "COR"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "2fe04859cf2e",
-   "headline": "LLY Stock Up Almost 10% After a Robust Q3: Time to Buy, Sell or Hold?",
-   "summary": "Lilly's stock rose 9.6% after strong Q3 results. Can its obesity pipeline and expanding drug portfolio sustain growth amid rising competition & pricing pressure?",
-   "url": "https://finnhub.io/api/news?id=c9153bb571e9d94f2e6b9f1d1775fb0072d6e6c642ffbf3d06c6c4dcc0fa5772",
-   "source": "Yahoo",
-   "published": "2026-11-03T11:11:00+00:00",
-   "tickers": [
-    "LLY",
-    "NVO",
-    "PFE"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "a7d411aa89ed",
-   "headline": "Henry Schein (HSIC) Tops Q3 Earnings Estimates",
-   "summary": "Henry Schein (HSIC) delivered earnings and revenue surprises of +16.42% and 0.00%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
-   "url": "https://finnhub.io/api/news?id=7d62d56ff517c31df46d4d7e045e7aa0ce4f92e253f1908228b8cf412bbd16b1",
-   "source": "Yahoo",
-   "published": "2026-11-03T11:10:02+00:00",
-   "tickers": [
-    "BDX",
-    "HSIC"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "9e327d95540f",
-   "headline": "Waters (WAT) Beats Q3 Earnings and Revenue Estimates",
-   "summary": "Waters (WAT) delivered earnings and revenue surprises of +2.76% and +0.81%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
-   "url": "https://finnhub.io/api/news?id=07b59cfc54be24598ffa8f0c9b38631b354f55fc9a849014b16bc97d0e38776c",
-   "source": "Yahoo",
-   "published": "2026-11-03T11:10:02+00:00",
-   "tickers": [
-    "WAT"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "f6e9bf80443c",
-   "headline": "Tech Jumps Over Apple Q3 Report on Wall Street Pre-Bell; Asia, Europe Off",
-   "summary": "Wall Street futures pointed mixed and higher pre-bell Tuesday as tech issues, excluding Apple (AAPL)",
-   "url": "https://finnhub.io/api/news?id=22b1b0a11c0dc3c627ae0065f8d87fab4f6cf5af34b614cdf084693cb5dba671",
-   "source": "Yahoo",
-   "published": "2026-11-03T11:09:38+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "019db28fb860",
-   "headline": "1 healthcare stock with impressive fundamentals and 2 we ignore",
-   "summary": "Personal health and wellness is one of the many secular tailwinds for healthcare companies. Shareholders who bet on the industry have been rewarded lately as healthcare stocks have returned 33.2% over the past six months, topping the S&P\u2026",
-   "url": "https://finnhub.io/api/news?id=8d0c68bcc58a31083163d4485f8449c0c0993ba465b19a2a1b0437684bc8ced0",
-   "source": "Yahoo",
-   "published": "2026-11-03T11:09:36+00:00",
-   "tickers": [
-    "HUM",
-    "ZTS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "b755fed62f75",
-   "headline": "RBC Capital Maintains Outperform on Ensign Group, Raises Price Target to $239",
-   "summary": "RBC Capital analyst Ben Hendrix maintains Ensign Group (NASDAQ:ENSG) with a Outperform and raises the price target from $228 to $239.",
-   "url": "https://finnhub.io/api/news?id=ea271226e0be476f2d3ce0a5f47f4aea72585cf81c80139a998e4a7412037899",
-   "source": "Benzinga",
-   "published": "2026-11-03T11:08:59+00:00",
-   "tickers": [
-    "ENSG"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "4eb0eaa5e725",
-   "headline": "Eli Lilly Just Gained 22% in a Month: Take Profits, or Buy More?",
-   "summary": "Key TakeawaysEli Lilly (LLY) stock gained 22% in the month through October 30, supported by strong third-quarter earnings, higher revenue guidance, and encouraging clinical trial results. Novo Nordisk (NVO) faces growing competition after\u2026",
-   "url": "https://finnhub.io/api/news?id=fd5d4f88688c59017f88c8226da3d629da1abf9d09c5b5ed90cd1d30613da80d",
-   "source": "Yahoo",
-   "published": "2026-11-03T11:08:45+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "6d511c53ece4",
-   "headline": "Waters: Q3 Earnings Snapshot",
-   "summary": "(WAT) on Tuesday reported third-quarter earnings of $81 million.On a per-share basis, the Milford, Massachusetts-based company said it had net income of 82 cents.",
-   "url": "https://finnhub.io/api/news?id=01f4257beebbd18bfeb5baa42684f55710a61ff14cf787216be41e98afa925f4",
-   "source": "Yahoo",
-   "published": "2026-11-03T11:07:34+00:00",
-   "tickers": [
-    "WAT"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "51fb648766e7",
-   "headline": "Waters Corporation\u2019s (NYSE:WAT) Q3 2026 sales beat estimates, quarterly revenue guidance slightly exceeds expectations",
-   "summary": "Scientific instruments company Waters Corporation (NYSE:WAT) reported Q3 2026 results beating Wall Street\u2019s revenue expectations, with revenue up 121% year on year to $1.77 billion. Guidance for next quarter\u2019s revenue was better than\u2026",
-   "url": "https://finnhub.io/api/news?id=80678955e874666d8adaefea516f21f7ad8874a7117286697ff1e343901d1a7e",
-   "source": "Yahoo",
-   "published": "2026-11-03T11:07:26+00:00",
-   "tickers": [
-    "WAT"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "1dc145ce7078",
-   "headline": "Should Strong Q3 Revenue Require Action From Vertex Pharmaceuticals (VRTX) Investors?",
-   "summary": "Vertex Pharmaceuticals reported Q3 2026 revenue of US$3.44b compared with US$3.08b a year earlier, while quarterly net income and earnings per share were lower even as nine month profit and per share earnings were slightly higher than the\u2026",
-   "url": "https://finnhub.io/api/news?id=2d1f4819fe31b1b85862e522b22b03c7f87d6496564da01e4dc08777da0d94b1",
-   "source": "Yahoo",
-   "published": "2026-11-03T11:07:09+00:00",
-   "tickers": [
-    "VRTX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "bf4c9df6be1e",
-   "headline": "Tempus AI (TEM) Stock Looks Fully Priced Following Its 26% Run",
-   "summary": "Tempus AI has delivered a strong year to date gain, and a stream of new partnerships and regulatory milestones has helped keep the stock in focus. With the share price moving faster than many investors can track the underlying business,\u2026",
-   "url": "https://finnhub.io/api/news?id=7a26accacd0042de568faf80f3eee479832d2d244af01831ba0c753ddeaa3dab",
-   "source": "Yahoo",
-   "published": "2026-11-03T11:07:03+00:00",
-   "tickers": [
-    "TEM"
-   ],
-   "tag": "Policy",
-   "sectors": [
-    "healthai"
-   ]
-  },
-  {
-   "id": "34c1d86be494",
-   "headline": "Henry Schein: Q3 Earnings Snapshot",
-   "summary": "(HSIC) on Tuesday reported third-quarter net income of $119 million.On a per-share basis, the Melville, New York-based company said it had profit of $1.",
-   "url": "https://finnhub.io/api/news?id=2217356ab0cd301f4a5fbcbeb3c60db46dc109105b838c0ad2a5a80480505712",
-   "source": "Yahoo",
-   "published": "2026-11-03T11:06:27+00:00",
-   "tickers": [
-    "HSIC"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharmacy"
-   ]
-  },
-  {
-   "id": "b7b09ed648a0",
-   "headline": "RBC Capital Maintains Outperform on Neurocrine Biosciences, Raises Price Target to $190",
-   "summary": "RBC Capital analyst Brian Abrahams maintains Neurocrine Biosciences (NASDAQ:NBIX) with a Outperform and raises the price target from $187 to $190.",
-   "url": "https://finnhub.io/api/news?id=d91f3c5b1d14dda57ee78cdc5267934a6001a47bc237027c496eba8a659871f0",
-   "source": "Benzinga",
-   "published": "2026-11-03T11:06:00+00:00",
-   "tickers": [
-    "NBIX"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "66c7a1219bab",
-   "headline": "What Invesco S&P 500 Equal Weight ETF (RSP) Bought: Moderna Leads on Oct. 30",
-   "summary": "The fund added $167.6 million in gross purchases on Friday, increasing all 502 positions and selling nothing.",
-   "url": "https://finnhub.io/api/news?id=db9b3e59ea0ef0d5203dc0d69d915383c4491877628c7c3653830474791d3939",
-   "source": "Yahoo",
-   "published": "2026-11-03T11:05:57+00:00",
-   "tickers": [
-    "MRNA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "004ba19edce7",
-   "headline": "Spdr Dow Jones Industrial Avg ETF (DIA) Sells Goldman Sachs and Caterpillar on Oct. 30",
-   "summary": "The fund cut all 30 of its positions, selling $258.4 million of stock and buying nothing.",
-   "url": "https://finnhub.io/api/news?id=23e5f16e1d7c00c017197236f666caefd415f03703505e860d005daa06f7dbf4",
-   "source": "Yahoo",
-   "published": "2026-11-03T11:05:19+00:00",
-   "tickers": [
-    "AMGN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "bbe85a7d645c",
-   "headline": "iShares A.I. Innovation ETF (BAI) Adds Twist and Entegris on Friday",
-   "summary": "The fund bought $39.8 million of Twist Bioscience and $37.6 million of Entegris while selling $114.0 million of Intel, with net sales of $174.1 million.",
-   "url": "https://finnhub.io/api/news?id=d83a9ed7857c356f7295200df97867fbc844ebee796b459f35d66837332c3892",
-   "source": "Yahoo",
-   "published": "2026-11-03T11:04:28+00:00",
-   "tickers": [
-    "TWST"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "7d1d30b89fa7",
-   "headline": "ETFs Are Net Sellers of Medtronic (MDT) on Friday",
-   "summary": "ETFs sold $110.6 million of Medtronic on Friday, with 35 funds buying and 15 selling.",
-   "url": "https://finnhub.io/api/news?id=975e0476a72457e00ba4a2c3b2ea636b78f924a3a06bf13af69e346599c6138e",
-   "source": "Yahoo",
-   "published": "2026-11-03T11:02:39+00:00",
-   "tickers": [
-    "MDT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "35ea7f67a7fb",
-   "headline": "RBC Capital Maintains Outperform on Krystal Biotech, Lowers Price Target to $375",
-   "summary": "RBC Capital analyst Lisa Walter maintains Krystal Biotech (NASDAQ:KRYS) with a Outperform and lowers the price target from $400 to $375.",
-   "url": "https://finnhub.io/api/news?id=464be236f8ef2fc47e8c2ec6f0a0f72e7188a4682d68897e060f02d2cb12ae7f",
-   "source": "Benzinga",
-   "published": "2026-11-03T11:02:38+00:00",
-   "tickers": [
-    "KRYS"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "845440c6fc40",
-   "headline": "ETFs Are Net Sellers of Becton Dickinson (BDX) on Oct. 30",
-   "summary": "ETFs sold a net $175.1 million of Becton Dickinson shares on Friday.",
-   "url": "https://finnhub.io/api/news?id=ee554e7a7ed9c389cb281b209a05da4f273903c30870d035831dec7678b74246",
-   "source": "Yahoo",
-   "published": "2026-11-03T11:02:29+00:00",
-   "tickers": [
-    "BDX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "18f16e39ecae",
-   "headline": "RBC Capital Maintains Outperform on Jazz Pharmaceuticals, Raises Price Target to $305",
-   "summary": "RBC Capital analyst Leonid Timashev maintains Jazz Pharmaceuticals (NASDAQ:JAZZ) with a Outperform and raises the price target from $296 to $305.",
-   "url": "https://finnhub.io/api/news?id=3cb40e049284a501af9429a310ca5de82bfdd3d960de167ea3e50696fbfc485e",
-   "source": "Benzinga",
-   "published": "2026-11-03T11:01:31+00:00",
-   "tickers": [
-    "JAZZ"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
    ]
   }
  ]
