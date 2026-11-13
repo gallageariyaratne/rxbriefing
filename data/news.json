@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-13T09:47:28.685294+00:00",
+ "updated": "2026-11-13T10:03:00.833621+00:00",
  "quotes": {
   "A": {
    "price": 173.01,
@@ -149,10 +149,6 @@
   "HALO": {
    "price": 100.67,
    "change_pct": -0.99
-  },
-  "HCA": {
-   "price": 500.66,
-   "change_pct": -1.06
   },
   "HIMS": {
    "price": 19.73,
@@ -321,6 +317,10 @@
   "WAT": {
    "price": 462.2,
    "change_pct": -1.85
+  },
+  "ZTS": {
+   "price": 82.96,
+   "change_pct": 0.47
   }
  },
  "tickers": {
@@ -61923,36 +61923,6 @@
     "HUM"
    ],
    "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "af38ca3d5220",
-   "headline": "Waters Corporation 2026 Q3 - Results - Earnings Call Presentation",
-   "summary": "2026-11-03. The following slide deck was published by Waters Corporation in conjunction with their 2026 Q3 earnings call.",
-   "url": "https://finnhub.io/api/news?id=b763aa65e03255d1ccb95097a983109c0fba7d848f465d7be0a34bdfc170149f",
-   "source": "SeekingAlpha",
-   "published": "2026-11-03T10:01:09+00:00",
-   "tickers": [
-    "WAT"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "f8cb06716573",
-   "headline": "Keybanc Maintains Overweight on Tenet Healthcare, Raises Price Target to $300",
-   "summary": "Keybanc analyst Matthew Gillmor maintains Tenet Healthcare (NYSE:THC) with a Overweight and raises the price target from $270 to $300.",
-   "url": "https://finnhub.io/api/news?id=64280ceb7232210002a6293b9603093f7bf53e6023cdbb173004acecd81a59cc",
-   "source": "Benzinga",
-   "published": "2026-11-03T09:48:23+00:00",
-   "tickers": [
-    "THC"
-   ],
-   "tag": "Analyst",
    "sectors": [
     "payers"
    ]
