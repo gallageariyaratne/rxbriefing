@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-13T02:32:44.415548+00:00",
+ "updated": "2026-11-13T02:47:29.330103+00:00",
  "quotes": {
   "A": {
    "price": 173.01,
@@ -17,6 +17,10 @@
   "ABT": {
    "price": 107.25,
    "change_pct": -1.87
+  },
+  "ALHC": {
+   "price": 7.5,
+   "change_pct": -2.47
   },
   "ALNY": {
    "price": 156.65,
@@ -269,10 +273,6 @@
   "QGEN": {
    "price": 50.1,
    "change_pct": -0.4
-  },
-  "RARE": {
-   "price": 16.27,
-   "change_pct": -2.57
   },
   "REGN": {
    "price": 951.19,
@@ -961,9 +961,25 @@
    "source": "Yahoo",
    "published": "2026-11-13T01:22:00+00:00",
    "tickers": [
+    "AMGN",
     "SNY"
    ],
    "tag": "Financing",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "94dce8c63a0f",
+   "headline": "GSK (LSE:GSK) Settles Key Vaccine Patent Case And Wins Broad Europe Injunction",
+   "summary": "GSK (LSE:GSK) reached a cross-licensing agreement with Moderna resolving their COVID-19 vaccine patent dispute in Europe. The pharma group secured a significant injunction against Pfizer-BioNTech covering liposome delivery technology used\u2026",
+   "url": "https://finnhub.io/api/news?id=b38bd35d54c3092ac64639b1360d42c8bcd73cb675723dcbe7e1e825dedbbb54",
+   "source": "Yahoo",
+   "published": "2026-11-13T01:18:33+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "Legal",
    "sectors": [
     "pharma"
    ]
@@ -2096,6 +2112,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "8d2c84d9dc81",
+   "headline": "Alignment Healthcare (ALHC) Shares Fall Amid Rising Cost Concerns",
+   "summary": "Voya Investment Management, an investment management company, released its third-quarter 2026 investor letter for its \u201cVoya MI Dynamic Small Cap Fund.\u201d The letter can be downloaded here. U.S. equities posted modest gains in the third\u2026",
+   "url": "https://finnhub.io/api/news?id=874912d9f7b31f74c248e8ce151c3b03156759e5c6c206f0890cff9b53877622",
+   "source": "Yahoo",
+   "published": "2026-11-12T17:20:02+00:00",
+   "tickers": [
+    "ALHC"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
    ]
   },
   {
