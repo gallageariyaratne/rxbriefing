@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-13T09:32:41.862352+00:00",
+ "updated": "2026-11-13T09:47:28.685294+00:00",
  "quotes": {
   "A": {
    "price": 173.01,
@@ -238,10 +238,6 @@
    "price": 160.25,
    "change_pct": -0.04
   },
-  "OSCR": {
-   "price": 31.94,
-   "change_pct": -0.53
-  },
   "PFE": {
    "price": 28.83,
    "change_pct": -2.11
@@ -321,6 +317,10 @@
   "VRTX": {
    "price": 542.62,
    "change_pct": -0.81
+  },
+  "WAT": {
+   "price": 462.2,
+   "change_pct": -1.85
   }
  },
  "tickers": {
@@ -937,6 +937,65 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "8dd37dd72d4b",
+   "headline": "Senator-elect Abdul El-Sayed on restoring trust in science, the state of public health, and RFK Jr.",
+   "summary": "Senator-elect Abdul El-Sayed talks to STAT about restoring trust in science, the state of public health, and RFK Jr.",
+   "url": "https://www.statnews.com/2026/11/13/senator-abdul-el-sayed-interview-public-health-rfk-jr-trust-in-science/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-11-13T09:30:00+00:00",
+   "tickers": [],
+   "tag": "Policy",
+   "sectors": []
+  },
+  {
+   "id": "824c26c9bc0e",
+   "headline": "STAT+: Oura\u2019s acquisition of health tech startup raises conflict-of-interest questions for Eli Lilly, experts say",
+   "summary": "With a new deal announced this week, the relationship between Eli Lilly and a telehealth company that markets GLP-1s is expected to grow more complicated.",
+   "url": "https://www.statnews.com/2026/11/13/oura-acquisition-counsel-health-eli-lilly/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-11-13T09:30:00+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "d67928a276aa",
+   "headline": "5 takeaways from STAT\u2019s investigation of the sprawling \u2018three-parent IVF\u2019 industry",
+   "summary": "A STAT investigation of the fertility tourism industry found that clinics are offering an unproven IVF procedure to older women. Here are 5 takeaways from the investigation.",
+   "url": "https://www.statnews.com/2026/11/13/fertility-tourism-5-takeaways-mrt-investigation/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-11-13T09:30:00+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "2b879fb6402b",
+   "headline": "Opinion: STAT+: \u2018What will I do with the time I have left?\u2019: What it\u2019s like to find out you might develop Alzheimer\u2019s",
+   "summary": "\u201cWhat people fear isn\u2019t the end of life, the demise of the animated body, but the demise of the mind,\u201d writes Jason Karlawish.",
+   "url": "https://www.statnews.com/2026/11/13/alzheimers-disease-biomarker-tests-psychological-legal-challenges/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-11-13T09:30:00+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "dbd599ba0550",
+   "headline": "STAT+: Across the U.S., homegrown experiments aim to save kids from their phones",
+   "summary": "As researchers struggle to understand phone addiction, young people are finding ways to reclaim their attention and push back against Big Tech.",
+   "url": "https://www.statnews.com/2026/11/13/phone-addiction-young-people-fight-back-attention-activism/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-11-13T09:30:00+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
   {
    "id": "868bcdee3350",
    "headline": "Regeneron posts positive phase 2 data for baloncibart in nervous system disorder, eyes pivotal trial",
@@ -61896,97 +61955,6 @@
    "tag": "Analyst",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "f3ca11809cf3",
-   "headline": "This X-Energy Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Tuesday",
-   "summary": "New coverage: Pony AI Overweight/$10, X-Energy Outperform/$17, TRex Bio Buy/$39, NuScale Underperform/$5.",
-   "url": "https://finnhub.io/api/news?id=2c625023c276e4786fed7a284fdd9b75e1fc4544d4e25d2b6c905899666e0bf9",
-   "source": "Benzinga",
-   "published": "2026-11-03T09:44:05+00:00",
-   "tickers": [
-    "TRXB"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "9134484ca32c",
-   "headline": "Apple To $350? Here Are 10 Top Analyst Forecasts For Tuesday",
-   "summary": "Analysts raised targets for TEM, TWLO, UPWK, MRSH and PLTR; cut MRVL and AAPL targets, with upgrades for TWLO and MRSH.",
-   "url": "https://finnhub.io/api/news?id=6e1882f9b5577670c37977c492e740d4f7f1be3a9eae643b6e3a1f201012592f",
-   "source": "Benzinga",
-   "published": "2026-11-03T09:43:07+00:00",
-   "tickers": [
-    "TEM",
-    "VRTX"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "healthai"
-   ]
-  },
-  {
-   "id": "474bb88f2ab6",
-   "headline": "Waters CFO Says Raised FY26 Organic Constant-Currency Revenue Growth Guidance By 140 Basis Points At Midpoint To 9.1% - 9.7%; Expects Full-Year 2026 Adjusted EBIT Margin Of 28.2%",
-   "summary": "-Conference Call.",
-   "url": "https://finnhub.io/api/news?id=ca7b5e2e803d499b8047f7970aae1eddc59a48ae29e99003a0f51b50468e16bb",
-   "source": "Benzinga",
-   "published": "2026-11-03T09:41:32+00:00",
-   "tickers": [
-    "WAT"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "4f3343df4cd5",
-   "headline": "Waters Exec Says Sees High-Single-digit Growth Potential For Combined Company In 2027; Low-Teens Adjusted EPS Growth In 2027 As Starting Point, With Mid-Teens As Upside Case",
-   "summary": "-Conference Call.",
-   "url": "https://finnhub.io/api/news?id=e6c1a155fb7f4f493562c60e9a8d196fb304230368bb1f9439a5e6345bb510bb",
-   "source": "Benzinga",
-   "published": "2026-11-03T09:35:26+00:00",
-   "tickers": [
-    "WAT"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "03f1d48da464",
-   "headline": "Alnylam Pharmaceuticals To Present New Helios-B Clinical Data At American Heart Association Scientific Sessions 2026",
-   "summary": "Alnylam Pharmaceuticals, Inc. (Nasdaq: ALNY), the leading RNAi therapeutics company, today announced that it will present new clinical and real-world data at the American Heart Association (AHA) Scientific Sessions",
-   "url": "https://finnhub.io/api/news?id=ea3d4ed19c78abfdf3346a761bde1f75c77a57704c1271965a1e57a63b4def79",
-   "source": "Benzinga",
-   "published": "2026-11-03T09:33:00+00:00",
-   "tickers": [
-    "ALNY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "c216d64f9026",
-   "headline": "Canaccord Genuity Maintains Buy on Waystar Holding, Raises Price Target to $34",
-   "summary": "Canaccord Genuity analyst Richard Close maintains Waystar Holding (NASDAQ:WAY) with a Buy and raises the price target from $33 to $34.",
-   "url": "https://finnhub.io/api/news?id=557bef44213e6a0f3714f6197603b01dfd0ea53759fb3c5cfc0124adaae2c350",
-   "source": "Benzinga",
-   "published": "2026-11-03T09:32:08+00:00",
-   "tickers": [
-    "WAY"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "healthit"
    ]
   }
  ]
