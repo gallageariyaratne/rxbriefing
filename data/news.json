@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-13T02:47:29.330103+00:00",
+ "updated": "2026-11-13T03:02:53.217679+00:00",
  "quotes": {
   "A": {
    "price": 173.01,
@@ -190,6 +190,10 @@
    "price": 118.07,
    "change_pct": -2.22
   },
+  "IONS": {
+   "price": 27.31,
+   "change_pct": -3.6
+  },
   "IQV": {
    "price": 271.11,
    "change_pct": -1.25
@@ -317,10 +321,6 @@
   "TMO": {
    "price": 699.44,
    "change_pct": -2.55
-  },
-  "TWST": {
-   "price": 114.22,
-   "change_pct": -6.83
   }
  },
  "tickers": {
@@ -977,6 +977,7 @@
    "source": "Yahoo",
    "published": "2026-11-13T01:18:33+00:00",
    "tickers": [
+    "MRNA",
     "PFE"
    ],
    "tag": "Legal",
@@ -3075,6 +3076,7 @@
     "ALNY",
     "BIIB",
     "GILD",
+    "IONS",
     "REGN",
     "VRTX"
    ],
@@ -3235,6 +3237,21 @@
     "NTLA"
    ],
    "tag": "Clinical",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "b26a796f1aa4",
+   "headline": "Ionis presents new long-term data supporting durable efficacy and disease control with DAWNZERA\u00ae (donidalorsen) at ACAAI 2026 Annual Meeting",
+   "summary": "CARLSBAD, Calif., November 12, 2026--Ionis Pharmaceuticals, Inc. (Nasdaq: IONS) today announced new long-term data for DAWNZERA\u00ae (donidalorsen), the first and only RNA-targeted medicine for hereditary angioedema (HAE), to be presented at\u2026",
+   "url": "https://finnhub.io/api/news?id=3f1124c130cf0d172d405a661a0381ae06cca311074ae44df5b273eda8618701",
+   "source": "Yahoo",
+   "published": "2026-11-12T15:00:00+00:00",
+   "tickers": [
+    "IONS"
+   ],
+   "tag": "News",
    "sectors": [
     "biotech"
    ]
@@ -3511,6 +3528,7 @@
    "published": "2026-11-12T14:06:00+00:00",
    "tickers": [
     "ALNY",
+    "IONS",
     "QGEN"
    ],
    "tag": "Policy",
@@ -8604,6 +8622,7 @@
     "GILD",
     "MRK",
     "MRNA",
+    "RXRX",
     "TEM",
     "VRTX"
    ],
@@ -62863,21 +62882,6 @@
    "published": "2026-11-03T03:01:27+00:00",
    "tickers": [
     "PFE"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "c19c01e20dfb",
-   "headline": "Regeneron Pharmaceuticals, Inc. 2026 Q3 - Results - Earnings Call Presentation",
-   "summary": "2026-11-03. The following slide deck was published by Regeneron Pharmaceuticals, Inc.",
-   "url": "https://finnhub.io/api/news?id=891be3bc6423185c38383ce95dab62c58e935764e51c7c214f005711ed7e62cb",
-   "source": "SeekingAlpha",
-   "published": "2026-11-03T02:50:58+00:00",
-   "tickers": [
-    "REGN"
    ],
    "tag": "Earnings",
    "sectors": [
