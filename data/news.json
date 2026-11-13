@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-13T12:02:49.553729+00:00",
+ "updated": "2026-11-13T12:17:32.809756+00:00",
  "quotes": {
   "A": {
    "price": 173.01,
@@ -154,9 +154,9 @@
    "price": 50.64,
    "change_pct": 0.08
   },
-  "HALO": {
-   "price": 100.67,
-   "change_pct": -0.99
+  "HCA": {
+   "price": 500.66,
+   "change_pct": -1.06
   },
   "HIMS": {
    "price": 19.73,
@@ -938,6 +938,21 @@
  },
  "stories": [
   {
+   "id": "7e747818f844",
+   "headline": "Sanofi-backed Windward hits $225M IPO goal to advance respiratory drugs from China",
+   "summary": "Windward Bio\u2019s IPO has blown to exactly the spot the Swiss biotech had been aiming for, bringing in $225 million to fund a pair of respiratory drugs licensed from China.",
+   "url": "https://www.fiercebiotech.com/biotech/sanofi-backed-windward-hits-225m-ipo-goal-advance-respiratory-drugs-china",
+   "source": "Fierce Biotech",
+   "published": "2026-11-13T12:15:21.213711+00:00",
+   "tickers": [
+    "SNY"
+   ],
+   "tag": "Financing",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "22c11fd47708",
    "headline": "Novo amps up Wegovy marketing with DJ Khaled spinning his weight-loss tale",
    "summary": "Novo and DJ Khaled have teamed up to share how the DJ, rapper and record producer has incorporated the GLP-1 drug Wegovy into his weight-loss routine.",
@@ -947,6 +962,37 @@
    "tickers": [],
    "tag": "GLP-1",
    "sectors": []
+  },
+  {
+   "id": "d5115737d7d6",
+   "headline": "What JPMorgan Active Value ETF (JAVA) Bought: HCA Leads on Nov. 11",
+   "summary": "The fund bought $20.0 million of HCA and $15.8 million of Becton Dickinson while selling $22.4 million of Wells Fargo.",
+   "url": "https://finnhub.io/api/news?id=449f9bbbd5c890a05bf312a4020f455dbf59275e9e5823721bf1783ce9110e0c",
+   "source": "Yahoo",
+   "published": "2026-11-13T11:03:55+00:00",
+   "tickers": [
+    "BDX",
+    "HCA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "0406b9fbcf39",
+   "headline": "State Street Health Care SPDR (XLV) Buys $66.8 Million More Eli Lilly on Nov. 11",
+   "summary": "The fund added $396.8 million across all 60 of its positions, led by a $66.8 million increase in Eli Lilly.",
+   "url": "https://finnhub.io/api/news?id=649387cfd0ea5e6eed2c08883796e81b97df61a8eaf88cec6788ce24c8055741",
+   "source": "Yahoo",
+   "published": "2026-11-13T11:03:27+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "00ce1f68b3e4",
@@ -60566,188 +60612,6 @@
    "tag": "Analyst",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "68b1320779cb",
-   "headline": "Rhythm Pharmaceuticals, Inc. (RYTM) Reports Q3 Loss, Beats Revenue Estimates",
-   "summary": "Rhythm Pharmaceuticals (RYTM) delivered earnings and revenue surprises of +10.29% and +9.07%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
-   "url": "https://finnhub.io/api/news?id=8854c302cdcd988f98082908554edcf9b69f96ed4806e8d35ba368eef847e139",
-   "source": "Yahoo",
-   "published": "2026-11-03T12:15:04+00:00",
-   "tickers": [
-    "TECH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "c604a10620f0",
-   "headline": "Madrigal (MDGL) Q3 Earnings and Revenues Beat Estimates",
-   "summary": "Madrigal (MDGL) delivered earnings and revenue surprises of +267.89% and +7.81%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
-   "url": "https://finnhub.io/api/news?id=ecdc5cda37b06efdb8502749d3797a2f47df84adc9416832f0e32aaffd92f8b3",
-   "source": "Yahoo",
-   "published": "2026-11-03T12:15:03+00:00",
-   "tickers": [
-    "MDGL"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "cf2e71ef66e3",
-   "headline": "Alkermes (ALKS) Surpasses Q3 Earnings and Revenue Estimates",
-   "summary": "Alkermes (ALKS) delivered earnings and revenue surprises of +212.50% and +3.05%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
-   "url": "https://finnhub.io/api/news?id=5a22e89af91cdb3a76ef19a59e40d473900d89ea70c4873757151d14e2ddcc31",
-   "source": "Yahoo",
-   "published": "2026-11-03T12:15:02+00:00",
-   "tickers": [
-    "ROIV"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "3f59b5517c45",
-   "headline": "Beam Therapeutics Inc. (BEAM) Reports Q3 Loss, Misses Revenue Estimates",
-   "summary": "Beam Therapeutics (BEAM) delivered earnings and revenue surprises of -9.40% and -97.23%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
-   "url": "https://finnhub.io/api/news?id=4d9040276834836c69f586552453b6060999e18c5792166c5c375244739120ee",
-   "source": "Yahoo",
-   "published": "2026-11-03T12:15:02+00:00",
-   "tickers": [
-    "BEAM",
-    "TWST"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "f87215f58a63",
-   "headline": "UBS Maintains Buy on Vertex Pharmaceuticals, Raises Price Target to $640",
-   "summary": "UBS analyst Michael Yee maintains Vertex Pharmaceuticals (NASDAQ:VRTX) with a Buy and raises the price target from $615 to $640.",
-   "url": "https://finnhub.io/api/news?id=430bc6331921059826f1ec90c536c914cdce7f0181452f5472f850f9acf06bd9",
-   "source": "Benzinga",
-   "published": "2026-11-03T12:14:15+00:00",
-   "tickers": [
-    "VRTX"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "e33032f0c073",
-   "headline": "2 high-flying stocks worth your attention and 1 we turn down",
-   "summary": "Expensive stocks often command premium valuations because the market thinks their business models are exceptional. However, the downside is that high expectations are already baked into their prices, leaving little room for error if they\u2026",
-   "url": "https://finnhub.io/api/news?id=b37ced51b66b541e11ca2e9ddc753009c12fa0d28cc35588cc78babaaa2837ea",
-   "source": "Yahoo",
-   "published": "2026-11-03T12:13:36+00:00",
-   "tickers": [
-    "TECH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "7a1641442946",
-   "headline": "Genmab Stock Price Shock Puts 3 Oncology Biotech Names In Focus",
-   "summary": "Genmab has gone from specialist biotech to front-page story after three cancer drugs cleared key Phase 3 hurdles and the stock price doubled in just three months. That kind of sudden spotlight often leaves some investors overexposed while\u2026",
-   "url": "https://finnhub.io/api/news?id=736eb9b92ad5213b5637bd1ca52e774c0dbf618030dc6d272c89a029ac646ba7",
-   "source": "Yahoo",
-   "published": "2026-11-03T12:10:22+00:00",
-   "tickers": [
-    "RVMD"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "d3d5572135b1",
-   "headline": "Why Tempus AI Stock Is Up 8.7% And What's Next",
-   "summary": "Tempus AI reported Q3 2026 revenue of US$411.54 million and a net loss of US$14.85 million, with management raising full-year revenue guidance to a range of US$1.60 billion to US$1.605 billion and signing multi-year data agreements with\u2026",
-   "url": "https://finnhub.io/api/news?id=1ff331fab46276cd8c241bffe5941cc8449fd914ab2c6a0de09ceacea91ece07",
-   "source": "Yahoo",
-   "published": "2026-11-03T12:09:50+00:00",
-   "tickers": [
-    "BMY",
-    "TEM"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "97d3c0826570",
-   "headline": "Madrigal: Q3 Earnings Snapshot",
-   "summary": "(AP) \u2014 Madrigal Pharmaceuticals Inc. (MDGL) on Tuesday reported third-quarter earnings of $55.",
-   "url": "https://finnhub.io/api/news?id=4ce6d0894d8373d5663ebfa257ab3f8959629e29f95c960ddc2e25f6a1144515",
-   "source": "Yahoo",
-   "published": "2026-11-03T12:09:41+00:00",
-   "tickers": [
-    "MDGL"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "5ea0976f0f77",
-   "headline": "TD Cowen Maintains Buy on Waystar Holding, Lowers Price Target to $39",
-   "summary": "TD Cowen analyst Charles Rhyee maintains Waystar Holding (NASDAQ:WAY) with a Buy and lowers the price target from $42 to $39.",
-   "url": "https://finnhub.io/api/news?id=95c46f7b4ef3cdc34e5e7a6197c5a960a0445eba15eff7dda706d7186fa7e7be",
-   "source": "Benzinga",
-   "published": "2026-11-03T12:03:40+00:00",
-   "tickers": [
-    "WAY"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "55bca5799d17",
-   "headline": "TD Cowen Maintains Buy on Vertex Pharmaceuticals, Raises Price Target to $575",
-   "summary": "TD Cowen analyst Phil Nadeau maintains Vertex Pharmaceuticals (NASDAQ:VRTX) with a Buy and raises the price target from $550 to $575.",
-   "url": "https://finnhub.io/api/news?id=7f498f5cdc5cf670e3c4a053277250e84b6db6ccc8837b4c54badafac4a0eed0",
-   "source": "Benzinga",
-   "published": "2026-11-03T12:02:14+00:00",
-   "tickers": [
-    "VRTX"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "80463f45483e",
-   "headline": "Here\u2019s How Much You Would Have Made Owning UnitedHealth Group Stock In The Last 20 Years",
-   "summary": "UnitedHealth Group (NYSE:UNH) has outperformed the market over the past 20 years by 2.57% on an annualized basis producing an average annual return of 11.42%. Currently, UnitedHealth Group has a market capitalization of",
-   "url": "https://finnhub.io/api/news?id=75b075f231a2e06c34feb44dbba4db0a0a5026180e46d715f7cc0abbadc1faa3",
-   "source": "Benzinga",
-   "published": "2026-11-03T12:01:24+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
    ]
   }
  ]
