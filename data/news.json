@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-13T01:17:41.984344+00:00",
+ "updated": "2026-11-13T01:32:36.447612+00:00",
  "quotes": {
   "A": {
    "price": 173.01,
@@ -41,6 +41,10 @@
   "ASND": {
    "price": 267.07,
    "change_pct": 3.0
+  },
+  "AZN": {
+   "price": 184.38,
+   "change_pct": -0.59
   },
   "BDX": {
    "price": 215.71,
@@ -317,10 +321,6 @@
   "WAT": {
    "price": 462.2,
    "change_pct": -1.85
-  },
-  "ZTS": {
-   "price": 82.96,
-   "change_pct": 0.47
   }
  },
  "tickers": {
@@ -938,6 +938,22 @@
  },
  "stories": [
   {
+   "id": "762716b23e33",
+   "headline": "Windward prices $175M IPO to advance China-licensed lung drugs",
+   "summary": "The Swiss biotech has two prospects it sees as having the potential to outcompete AstraZeneca and Amgen's blockbuster asthma treatment Tezspire.",
+   "url": "https://www.biopharmadive.com/news/windward-ipo-pricing-immune-drugs-china-deals-tezspire/874533/",
+   "source": "BioPharma Dive",
+   "published": "2026-11-13T01:22:00+00:00",
+   "tickers": [
+    "AMGN",
+    "AZN"
+   ],
+   "tag": "Financing",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "988d881d52ae",
    "headline": "UnitedHealth releases independent audit of its medical policy development practices",
    "summary": "Over the past year, UnitedHealth Group has conducted a series of independent reviews of its practices as part of a broader turnaround effort at the company.",
@@ -965,6 +981,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "3ebaccd0e717",
+   "headline": "Milestone Payment Lifts Zymeworks Stock Outlook After Profitable Quarter",
+   "summary": "Zymeworks reported third quarter 2026 revenue of US$256.46 million and net income of US$173.7 million, with earnings supported by a large milestone payment from Jazz Pharmaceuticals tied to Ziihera\u2019s FDA approval. The update increased\u2026",
+   "url": "https://finnhub.io/api/news?id=21440e35676544116e741d9c58696846554b7bb97b3cb5febb9ad80282a51e60",
+   "source": "Yahoo",
+   "published": "2026-11-12T23:23:19+00:00",
+   "tickers": [
+    "JAZZ"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -62517,96 +62548,6 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "bc5e3da881d9",
-   "headline": "Edwards Lifesciences Corporation (EW) Discusses CLASP II TR and PROGRESS Trial Results in Tricuspid and TAVR Transcript",
-   "summary": "Edwards Lifesciences Corporation (EW) Discusses CLASP II TR and PROGRESS Trial Results in Tricuspid and TAVR November 2, 2026 8:00 PM ESTCompany...",
-   "url": "https://finnhub.io/api/news?id=8a5377e6ef32afd016c11ed6fec85af3c50dabcce61374597ed81714cc29a5db",
-   "source": "SeekingAlpha",
-   "published": "2026-11-03T01:28:26+00:00",
-   "tickers": [
-    "EW"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "2cbe180aaed9",
-   "headline": "Integra LifeSciences Holdings (IART) Could Be 41% Undervalued On Third Quarter Profit Turnaround",
-   "summary": "Integra LifeSciences Holdings: Why Third Quarter Earnings Matter Now Integra LifeSciences Holdings (IART) has drawn fresh attention after third quarter 2026 results showed sales of US$411.18 million and a move from a prior net loss to\u2026",
-   "url": "https://finnhub.io/api/news?id=a0ba7f051161d112aa7d19f955eaa0b3617b357ecbb72526fff5680fa311584c",
-   "source": "Yahoo",
-   "published": "2026-11-03T01:24:20+00:00",
-   "tickers": [
-    "IART"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "3e7003a48168",
-   "headline": "BioMarin (BMRN) Stock May Be A Bargain After Fabry Therapy Deal",
-   "summary": "BioMarin Pharmaceutical has been busy, with a large acquisition, fresh Fabry disease assets and a stock price that is still down over the longer stretch, which naturally raises a question about how much investors are paying today for the\u2026",
-   "url": "https://finnhub.io/api/news?id=c0390b5953bd85205de0496bb485979c45934d265af06f16b1683014047e229f",
-   "source": "Yahoo",
-   "published": "2026-11-03T01:24:10+00:00",
-   "tickers": [
-    "BMRN"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "86ad43436fb5",
-   "headline": "Novo Nordisk (CPSE:NOVO B) Set To Unveil New Obesity Data At ObesityWeek 2026",
-   "summary": "Novo Nordisk (CPSE:NOVO B) plans to unveil new obesity portfolio data at ObesityWeek 2026 in early November. The firm is set to share real-world Wegovy findings that cover treatment experiences from pediatric patients through to elderly\u2026",
-   "url": "https://finnhub.io/api/news?id=5539ec3ccf4cb89d8e18659d23a519742eb9a2116a5852c9b3c924143628602f",
-   "source": "Yahoo",
-   "published": "2026-11-03T01:23:41+00:00",
-   "tickers": [
-    "NVO"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "b59d466e559c",
-   "headline": "Revenue Growth And Narrower Losses Could Change The Case For Axsome Therapeutics Stock",
-   "summary": "Axsome Therapeutics reported third quarter 2026 revenue of US$259.69 million and a net loss of US$12.88 million, with basic and diluted loss per share of US$0.25, compared with the same period a year earlier. The nine month figures show\u2026",
-   "url": "https://finnhub.io/api/news?id=b52cf3f646b510366ec487339693235d3af55f0fa81ecc3bd9dd203d3199a2e9",
-   "source": "Yahoo",
-   "published": "2026-11-03T01:22:30+00:00",
-   "tickers": [
-    "AXSM"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "6faec9b84be5",
-   "headline": "Jazz Pharmaceuticals (JAZZ) Stock Could Be Undervalued On Ziihera Launch News",
-   "summary": "Jazz Pharmaceuticals has delivered a strong multi year share price run alongside high profile product and pipeline news, which naturally raises the question of whether its current valuation is still grounded in the earnings backing the\u2026",
-   "url": "https://finnhub.io/api/news?id=bd51cc3b72e79368098ef18fef0cd4c70d85ed901b7a698b77499df96d9d0d75",
-   "source": "Yahoo",
-   "published": "2026-11-03T01:22:06+00:00",
-   "tickers": [
-    "JAZZ"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
    ]
   }
  ]
