@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-13T10:17:31.373902+00:00",
+ "updated": "2026-11-13T10:32:46.146588+00:00",
  "quotes": {
   "A": {
    "price": 173.01,
@@ -89,6 +89,10 @@
   "CNC": {
    "price": 70.27,
    "change_pct": -0.3
+  },
+  "COR": {
+   "price": 349.38,
+   "change_pct": -0.14
   },
   "CRL": {
    "price": 340.81,
@@ -317,10 +321,6 @@
   "WAT": {
    "price": 462.2,
    "change_pct": -1.85
-  },
-  "ZTS": {
-   "price": 82.96,
-   "change_pct": 0.47
   }
  },
  "tickers": {
@@ -938,6 +938,21 @@
  },
  "stories": [
   {
+   "id": "00ce1f68b3e4",
+   "headline": "Cencora (NYSE:COR): A Quality Investing Candidate",
+   "summary": "Cencora (COR) clears key quality-screen tests on EBIT growth, ROIC, cash conversion and leverage, but liquidity and thin margins warrant closer review.",
+   "url": "https://finnhub.io/api/news?id=9f71711394df84b48b7c6bc53e17c88d271e2876ee7845f66912a98826be74dd",
+   "source": "ChartMill",
+   "published": "2026-11-13T10:01:23+00:00",
+   "tickers": [
+    "COR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
+  {
    "id": "8dd37dd72d4b",
    "headline": "Senator-elect Abdul El-Sayed on restoring trust in science, the state of public health, and RFK Jr.",
    "summary": "Senator-elect Abdul El-Sayed talks to STAT about restoring trust in science, the state of public health, and RFK Jr.",
@@ -995,6 +1010,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "3485d1e32df8",
+   "headline": "Quest Diagnostics (DGX) Stock Could Be 31% Undervalued Following RESULTS Act Push",
+   "summary": "Quest Diagnostics has delivered a powerful share price run, and that kind of climb always raises a practical question for investors. Is the current valuation still grounded in the cash that this healthcare testing giant can realistically\u2026",
+   "url": "https://finnhub.io/api/news?id=e6fefe3238d3d1a3bd36ceb259ce75a95e019705d843384c37ccae2ad84d554a",
+   "source": "Yahoo",
+   "published": "2026-11-13T09:16:08+00:00",
+   "tickers": [
+    "DGX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
   },
   {
    "id": "868bcdee3350",
@@ -61774,97 +61804,6 @@
    "tag": "Analyst",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "2308127a7e93",
-   "headline": "1 profitable stock for long-term investors and 2 we question",
-   "summary": "Even if a company is profitable, it doesn\u2019t always mean it\u2019s a great investment. Some struggle to maintain growth, face looming threats, or fail to reinvest wisely, limiting their future potential.",
-   "url": "https://finnhub.io/api/news?id=168f37583f11935047cafd4d1377c960315c6fe32b3a3f9b20739363443b1ed8",
-   "source": "Yahoo",
-   "published": "2026-11-03T10:29:36+00:00",
-   "tickers": [
-    "DHR"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "2768e707617d",
-   "headline": "Could Investing in Moderna's Stock Double Your Money?",
-   "summary": "The healthcare stock has generated massive returns this year and may still have room to rise even higher in the future.",
-   "url": "https://finnhub.io/api/news?id=acb9ce63cfad4358aaaa0c0db4cf54c41cbcb834bd55e9405d3c247a7b5f2554",
-   "source": "Yahoo",
-   "published": "2026-11-03T10:28:02+00:00",
-   "tickers": [
-    "MRNA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "9f8c29b60a32",
-   "headline": "Madrigal Pharmaceuticals Q3 2026 Earnings Call Transcript",
-   "summary": "Madrigal Pharmaceuticals (NASDAQ:MDGL) reported third-quarter financial results on Tuesday. The transcript from the company\u2019s third-quarter earnings call has been provided below.This transcript is brought to you by",
-   "url": "https://finnhub.io/api/news?id=18ccb0b12d57c5e16a8f3fd589afa12de31d2dd72118f3c721915dfc2a704d82",
-   "source": "Benzinga",
-   "published": "2026-11-03T10:25:29+00:00",
-   "tickers": [
-    "MDGL"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "1938feff36ca",
-   "headline": "BioNTech Q3 2026 Earnings Call Transcript",
-   "summary": "BioNTech (NASDAQ:BNTX) reported third-quarter financial results on Tuesday. The transcript from the company\u2019s third-quarter earnings call has been provided below.This transcript is brought to you by Benzinga APIs. For",
-   "url": "https://finnhub.io/api/news?id=1f814bf303f07a919b1efd3d11c1cb7c41a34240763aa857001ea0b5c0b8509f",
-   "source": "Benzinga",
-   "published": "2026-11-03T10:25:28+00:00",
-   "tickers": [
-    "BNTX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "fc6a1980a3db",
-   "headline": "Clean Sweep for Seven Companies in Extel\u2019s 2026 U.S. Corporates Survey",
-   "summary": "NEW YORK, November 03, 2026--Seven companies swept all seven categories on the Overall leaderboard of Extel\u2019s 2026 All-America Executive Team Survey, which published today. Each placed first in its sector for Best CEO, Best CFO, Best\u2026",
-   "url": "https://finnhub.io/api/news?id=efafbd5f538d5b4f2f7433be5f488b612250a97843b927ca4de7e4489b82679c",
-   "source": "Yahoo",
-   "published": "2026-11-03T10:20:00+00:00",
-   "tickers": [
-    "LLY",
-    "TMO"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "00e6bd5e0b33",
-   "headline": "Henry Schein Q3 2026 Earnings Call Transcript",
-   "summary": "Henry Schein (NASDAQ:HSIC) reported third-quarter financial results on Tuesday. The transcript from the company\u2019s third-quarter earnings call has been provided below.This transcript is brought to you by Benzinga APIs.",
-   "url": "https://finnhub.io/api/news?id=321b5ad5e6eec5223133281e8ea7f7be5b907f95e7dc00c5cfbabcf95feb68ba",
-   "source": "Benzinga",
-   "published": "2026-11-03T10:16:34+00:00",
-   "tickers": [
-    "HSIC"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharmacy"
    ]
   }
  ]
