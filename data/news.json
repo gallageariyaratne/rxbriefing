@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-13T13:02:58.434624+00:00",
+ "updated": "2026-11-13T13:17:36.146659+00:00",
  "quotes": {
   "A": {
    "price": 173.01,
@@ -33,10 +33,6 @@
   "AMGN": {
    "price": 467.06,
    "change_pct": -0.22
-  },
-  "ARGX": {
-   "price": 981.33,
-   "change_pct": 0.38
   },
   "ARWR": {
    "price": 47.15,
@@ -321,6 +317,10 @@
   "WAT": {
    "price": 462.2,
    "change_pct": -1.85
+  },
+  "ZTS": {
+   "price": 82.96,
+   "change_pct": 0.47
   }
  },
  "tickers": {
@@ -937,6 +937,28 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "fbe080fb753c",
+   "headline": "Weekly Rundown: Ohio State Wexner, Microsoft ink tech deal; OpenEvidence launches free Access Intelligence tools",
+   "summary": "The latest news from R1, OpenEvidence, Microsoft, Ohio State Wexner Medical Center, Clear, Epic, Ellipsis Health and Kouper Health.",
+   "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-openevidence-launches-free-access-intelligence-tools-clinicians-r1",
+   "source": "Fierce Healthcare",
+   "published": "2026-11-13T13:15:23.292291+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "c325b9dd1fe2",
+   "headline": "American Cancer Society updates prostate cancer screening guidance",
+   "summary": "For the first time in 16 years the American Cancer Society (ACS) has updated its guideline for prostate cancer screening as it drives to boost detection of the disease before it spreads.",
+   "url": "https://www.fiercebiotech.com/medtech/american-cancer-society-updates-prostate-cancer-screening-guidance",
+   "source": "Fierce Biotech",
+   "published": "2026-11-13T13:15:23.052592+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
   {
    "id": "1938d6820484",
    "headline": "Sanofi teams with British comic Beano for Type 1 diabetes education push",
@@ -60185,190 +60207,6 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "4cbc517db195",
-   "headline": "Insights Into Zoetis (ZTS) Q3: Wall Street Projections for Key Metrics",
-   "summary": "Evaluate the expected performance of Zoetis (ZTS) for the quarter ended September 2026, looking beyond the conventional Wall Street top-and-bottom-line estimates and examining some of its key metrics for better insight.",
-   "url": "https://finnhub.io/api/news?id=dbe87678a66e2c6af85f6e560a3afe4d10f7b173730078c084396c6d92523fad",
-   "source": "Yahoo",
-   "published": "2026-11-03T13:15:06+00:00",
-   "tickers": [
-    "ZTS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "e8d7e7d1443f",
-   "headline": "Curious about Doximity (DOCS) Q2 Performance? Explore Wall Street Estimates for Key Metrics",
-   "summary": "Evaluate the expected performance of Doximity (DOCS) for the quarter ended September 2026, looking beyond the conventional Wall Street top-and-bottom-line estimates and examining some of its key metrics for better insight.",
-   "url": "https://finnhub.io/api/news?id=b35de78cd801a064e858e11c1eab831702181607db3a69e09b5a6751b5465e4f",
-   "source": "Yahoo",
-   "published": "2026-11-03T13:15:04+00:00",
-   "tickers": [
-    "DOCS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "66df35051a85",
-   "headline": "Becton Dickinson (BDX) Q4 Earnings Preview: What You Should Know Beyond the Headline Estimates",
-   "summary": "Besides Wall Street's top-and-bottom-line estimates for Becton Dickinson (BDX), review projections for some of its key metrics to gain a deeper understanding of how the company might have fared during the quarter ended September 2026.",
-   "url": "https://finnhub.io/api/news?id=5145091debe7c82c85b21e40c0d3a9dc48d45e43d745ce2874ebb83423a0053d",
-   "source": "Yahoo",
-   "published": "2026-11-03T13:15:03+00:00",
-   "tickers": [
-    "BDX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "a600e7f99078",
-   "headline": "Will MCK's Pharma & Specialty Demand Offset Pricing Headwind in Q2?",
-   "summary": "McKesson's Q2 earnings outlook hinges on strong prescription volumes, specialty distribution and oncology growth amid branded drug pricing pressures.",
-   "url": "https://finnhub.io/api/news?id=4787c5bf5e374c77161bcecc810f02bf65da9dfdc8def941c1c6ac92e2f43c65",
-   "source": "Yahoo",
-   "published": "2026-11-03T13:15:00+00:00",
-   "tickers": [
-    "BDX",
-    "GKOS",
-    "GMED",
-    "MCK"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "c936ee0b4e07",
-   "headline": "US Stock Market Today: S&P 500 Futures Slip On Firm Manufacturing And Jobs Focus",
-   "summary": "The Morning Bull - US Market Morning Update Tuesday, Nov, 3 2026 US stocks are set for a softer open, with sentiment pulled in two directions by competing signals on growth and inflation. Strong US manufacturing data is the main force\u2026",
-   "url": "https://finnhub.io/api/news?id=31572abbb820c2bf6ff118232c0d0369f7ad077af192bd7203e7c9eceb7255df",
-   "source": "Yahoo",
-   "published": "2026-11-03T13:13:43+00:00",
-   "tickers": [
-    "IDXX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "c28a9c12948f",
-   "headline": "Final Trades: Amazon, BlackRock Inc., Eaton Corp., and Pfizer",
-   "summary": "The Investment Committee gives you its top stocks to watch for the second half.",
-   "url": "https://finnhub.io/api/news?id=1ef3a88c63e9ce3ba8f794b03f7759408b2bbc24b8ed45b85ad017568de9d1d8",
-   "source": "CNBC",
-   "published": "2026-11-03T13:11:59+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "f5f87b47d7c8",
-   "headline": "Oppenheimer Maintains Outperform on BioMarin Pharmaceutical, Lowers Price Target to $94",
-   "summary": "Oppenheimer analyst Leland Gershell maintains BioMarin Pharmaceutical (NASDAQ:BMRN) with a Outperform and lowers the price target from $97 to $94.",
-   "url": "https://finnhub.io/api/news?id=5012b8cd362dac3d1c004880a1f39c4e07c225f0d280d0aee24ad4103d651910",
-   "source": "Benzinga",
-   "published": "2026-11-03T13:11:42+00:00",
-   "tickers": [
-    "BMRN"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "637fd06020a4",
-   "headline": "Truist Securities Reiterates Buy on Tenet Healthcare, Raises Price Target to $305",
-   "summary": "Truist Securities analyst David Macdonald reiterates Tenet Healthcare (NYSE:THC) with a Buy and raises the price target from $290 to $305.",
-   "url": "https://finnhub.io/api/news?id=298abcb47376f2acda8625a6878befc4a26bc66436ea6d4f46e5cbdae52da601",
-   "source": "Benzinga",
-   "published": "2026-11-03T13:06:14+00:00",
-   "tickers": [
-    "THC"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "723c42c65c11",
-   "headline": "HC Wainwright & Co. Reiterates Neutral on BioMarin Pharmaceutical, Maintains $60 Price Target",
-   "summary": "HC Wainwright & Co. analyst Mitchell S. Kapoor reiterates BioMarin Pharmaceutical (NASDAQ:BMRN) with a Neutral and maintains $60 price target.",
-   "url": "https://finnhub.io/api/news?id=ee672f6f1c1ea59dd99a2e7349c6c30952c597a9b6630c1314a70948d0c5d7a7",
-   "source": "Benzinga",
-   "published": "2026-11-03T13:05:37+00:00",
-   "tickers": [
-    "BMRN"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "d725f0b11418",
-   "headline": "Guardant Health Wins 2026 Prix Galien USA Award for Best Medical Technology for Shield Blood Test",
-   "summary": "PALO ALTO, Calif., November 03, 2026--Guardant Health, Inc. (Nasdaq: GH), a leading precision oncology company, announced it received the 2026 Prix Galien USA Award for Best Medical Technology for Shield\u2122, the leading blood test for\u2026",
-   "url": "https://finnhub.io/api/news?id=11b41a6427a25cea5010de243f491562e7e67822d95edab139e7210824cd0cee",
-   "source": "Yahoo",
-   "published": "2026-11-03T13:05:00+00:00",
-   "tickers": [
-    "GH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "916612d83372",
-   "headline": "Eli Lilly Just Delivered Another Monster Quarter. But There\u2019s More to This Story Than Weight-Loss Drugs",
-   "summary": "Eli Lilly's weight-loss drugs get all the headlines, but CEO David Ricks is betting the company's next act looks nothing like its last one. Here is what it would actually take for shares to reach $1,700 in 2027.",
-   "url": "https://finnhub.io/api/news?id=0f26c7fe670c13f11568feffe47f9b213470c3739821ffa7a8a8e4b3db4c1c1b",
-   "source": "Yahoo",
-   "published": "2026-11-03T13:03:39+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "f74c48baac14",
-   "headline": "Fabrinet, EverQuote, Lattice Semiconductor, Fiserv And Other Big Stocks Moving Higher On Tuesday",
-   "summary": "U.S. stocks mixed as Dow fell 200 points; Fabrinet surged 13.7% on strong results, guidance and buyback, while several small caps rallied.",
-   "url": "https://finnhub.io/api/news?id=e2d73d51940816c1caa967687d54c5a10306a0e77676401dbfc0be156ddef8d6",
-   "source": "Benzinga",
-   "published": "2026-11-03T13:02:46+00:00",
-   "tickers": [
-    "NBIX",
-    "SMMT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
    ]
   }
  ]
