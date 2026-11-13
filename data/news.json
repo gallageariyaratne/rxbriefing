@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-13T02:02:53.400711+00:00",
+ "updated": "2026-11-13T02:17:38.763420+00:00",
  "quotes": {
   "A": {
    "price": 173.01,
@@ -125,6 +125,10 @@
   "EXEL": {
    "price": 69.84,
    "change_pct": -1.22
+  },
+  "GDRX": {
+   "price": 3.51,
+   "change_pct": -3.84
   },
   "GEHC": {
    "price": 81.84,
@@ -317,10 +321,6 @@
   "UNH": {
    "price": 405.13,
    "change_pct": 0.54
-  },
-  "UTHR": {
-   "price": 593.31,
-   "change_pct": -0.39
   }
  },
  "tickers": {
@@ -984,6 +984,21 @@
    ]
   },
   {
+   "id": "a0562cd41979",
+   "headline": "Labcorp: 3 Key Takeaways for Long-Term Investors",
+   "summary": "Tuck-in acquisitions and specialty testing momentum give Labcorp tools to offset a looming $125 million Medicare reimbursement hit.",
+   "url": "https://finnhub.io/api/news?id=67d6758c27f05dac9b69225047c87c309f617261001d3f118edd18a869981016",
+   "source": "Yahoo",
+   "published": "2026-11-13T00:41:27+00:00",
+   "tickers": [
+    "LH"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "a56f9a8dc65b",
    "headline": "Elevance Health (ELV) In Focus On AM Best Rating Action And A Fair Value Debate",
    "summary": "Credit Rating Action Puts Elevance Health In Focus AM Best\u2019s new indicative credit ratings on Elevance Health (ELV) shelf registrations, paired with a stable outlook, give investors a fresh lens on the insurer\u2019s balance sheet strength and\u2026",
@@ -1051,7 +1066,8 @@
    "source": "Yahoo",
    "published": "2026-11-12T23:14:27+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -1435,6 +1451,21 @@
    "tag": "News",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "5f5090f1460a",
+   "headline": "Ascend Wellness Holdings, Inc. (AAWH) Reports Q3 Loss, Tops Revenue Estimates",
+   "summary": "Ascend Wellness Holdings, Inc. (AAWH) delivered earnings and revenue surprises of -7.69% and +0.29%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=8281ab9acbcc1858b97219851ab717a70db92f50fadba58ab6b6af97bb537168",
+   "source": "Yahoo",
+   "published": "2026-11-12T21:05:02+00:00",
+   "tickers": [
+    "GDRX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharmacy"
    ]
   },
   {
@@ -1852,6 +1883,36 @@
    ]
   },
   {
+   "id": "4eae5fd9ae7b",
+   "headline": "Altimmune, Inc. Q3 2026 Earnings Call Summary",
+   "summary": "Moby summary of Altimmune, Inc.'s Q3 2026 earnings call",
+   "url": "https://finnhub.io/api/news?id=009010f43c9eccee8e2a1e3fb6f2bb181af8976345bd1add215bccf2cf754a95",
+   "source": "Yahoo",
+   "published": "2026-11-12T18:03:05+00:00",
+   "tickers": [
+    "ALT"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "3adcafd2dbfa",
+   "headline": "Altimmune (ALT) Q3 2026 Earnings Call Transcript",
+   "summary": "Spending is rising fast as the pemvidutide Phase 3 programs move forward.",
+   "url": "https://finnhub.io/api/news?id=579e8b37d24555e2c128ffbf28ce9a0d0f267fd55bf9e7a27c6e7e01845a217d",
+   "source": "Yahoo",
+   "published": "2026-11-12T18:00:53+00:00",
+   "tickers": [
+    "ALT"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "c4689215f984",
    "headline": "What Are Corning Investors Betting On?",
    "summary": "For questions about this article or underlying research, email help@trefis.com.",
@@ -2217,7 +2278,8 @@
    "source": "Yahoo",
    "published": "2026-11-12T16:42:30+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "FDA",
    "sectors": [
@@ -2351,7 +2413,8 @@
    "published": "2026-11-12T16:20:33+00:00",
    "tickers": [
     "HIMS",
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "FDA",
    "sectors": [
@@ -2408,6 +2471,21 @@
    ]
   },
   {
+   "id": "1897033c0256",
+   "headline": "What Altimmune (ALT) Said on Its Q3 Earnings Call",
+   "summary": "Altimmune (NASDAQ:ALT) is ramping up a late-stage trial of its experimental drug pemvidutide for a serious liver disease and preparing for a December meeting with the U.S. Food and Drug Administration on a potential phase III program in\u2026",
+   "url": "https://finnhub.io/api/news?id=bde443437734b138191a335dc1b07ec8f021b30ecb0a65ad1b3d405ac4d2e6b1",
+   "source": "Yahoo",
+   "published": "2026-11-12T16:15:18+00:00",
+   "tickers": [
+    "ALT"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "e692dc425516",
    "headline": "What Merck KGaA (MRK) Said on Its Q3 Earnings Call",
    "summary": "Merck KGaA (ETR:MRK) raised its full-year 2026 outlook for the third time after faster third-quarter sales growth in its Life Science and Electronics businesses offset pressure on its Healthcare portfolio. The company now expects group\u2026",
@@ -2431,6 +2509,7 @@
    "published": "2026-11-12T16:15:00+00:00",
    "tickers": [
     "LLY",
+    "NVO",
     "PFE"
    ],
    "tag": "FDA",
@@ -2582,6 +2661,7 @@
    "published": "2026-11-12T15:42:15+00:00",
    "tickers": [
     "LLY",
+    "NVO",
     "PFE"
    ],
    "tag": "GLP-1",
@@ -2642,6 +2722,21 @@
     "PFE"
    ],
    "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "98659640c941",
+   "headline": "Novo and DJ Khaled team up to take fans behind the scenes of the iconic musician's real-life \"Walk, Golf, and Wegovy\u00ae\" diet and weight-loss routine",
+   "summary": "Novo Nordisk today announced a partnership with DJ Khaled for Wegovy\u00ae (semaglutide). The partnership is personal for Khaled, who has been taking Wegovy\u00ae for weight management since late 2025. Khaled will share his experience, covering\u2026",
+   "url": "https://finnhub.io/api/news?id=9dd374f935203935e080196c127351b726962ae3b84417d6cd743121fa237662",
+   "source": "Yahoo",
+   "published": "2026-11-12T15:35:00+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "GLP-1",
    "sectors": [
     "pharma"
    ]
@@ -3201,7 +3296,8 @@
    "source": "Yahoo",
    "published": "2026-11-12T14:11:19+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -3593,7 +3689,8 @@
    "published": "2026-11-12T13:04:03+00:00",
    "tickers": [
     "HIMS",
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "News",
    "sectors": [
@@ -3609,7 +3706,8 @@
    "published": "2026-11-12T13:00:55+00:00",
    "tickers": [
     "HIMS",
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -3839,6 +3937,21 @@
    ]
   },
   {
+   "id": "cdf82bd58e21",
+   "headline": "Altimmune Announces Third Quarter 2026 Financial Results and Business Update",
+   "summary": "Global PERFORMA Phase 3 trial in MASH progressing as planned Positive RECLAIM Phase 2 data in AUD highlighted in a late-breaking oral presentation at AASLD The Liver Meeting\u00ae 2026 End-of-Phase 2 meeting with FDA for AUD program scheduled\u2026",
+   "url": "https://finnhub.io/api/news?id=046de813347c063a9ed3220e7c1343d99dd8c29579947c2fec10433b51191221",
+   "source": "Yahoo",
+   "published": "2026-11-12T12:30:00+00:00",
+   "tickers": [
+    "ALT"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "74a7a1abf325",
    "headline": "Premarket movers: Nvidia sinks; Lilly gains on China approval",
    "summary": "Invesitng.com - U.S. stock index futures were mixed on Thursday, with Nasdaq 100 futures leading declines as reports that Nvidia\u2019s board was weighing the future of Chief Executive Jensen Huang rattled sentiment toward artificial\u2026",
@@ -3881,6 +3994,21 @@
    "tag": "News",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "daaf39e7e4b6",
+   "headline": "Altimmune Announces Publication of IMPACT Phase 2b 48-Week Data in MASH in The Lancet Gastroenterology & Hepatology",
+   "summary": "Significant reductions across non-invasive measures of liver fat, inflammation and fibrosis observed at 48 weeks of pemvidutide treatment, with generally favorable tolerability profile Publication of results provides further validation\u2026",
+   "url": "https://finnhub.io/api/news?id=7331dcc2d3e9443163722197f3fb78c8402ee077003f5e4ec728f66919127a9d",
+   "source": "Yahoo",
+   "published": "2026-11-12T12:15:00+00:00",
+   "tickers": [
+    "ALT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -4129,6 +4257,7 @@
    "published": "2026-11-12T11:30:00+00:00",
    "tickers": [
     "LLY",
+    "NVO",
     "PFE"
    ],
    "tag": "GLP-1",
@@ -8245,6 +8374,7 @@
     "GILD",
     "MRK",
     "MRNA",
+    "TEM",
     "VRTX"
    ],
    "tag": "Earnings",
@@ -62553,111 +62683,6 @@
    "tag": "Earnings",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "d8e9eaa4c8c6",
-   "headline": "Jazz Pharmaceuticals (JAZZ) Could Be 27% Undervalued As Record Revenue Lifts Outlook",
-   "summary": "Jazz Pharmaceuticals (JAZZ) just delivered third quarter 2026 numbers that paired record revenue with a swing to a sizeable loss, while raising its full year revenue outlook and spotlighting newly approved cancer drug Ziihera. Recent news\u2026",
-   "url": "https://finnhub.io/api/news?id=7028dbf1befaf91c1fff229794519155e29c48ff66b8925b088f40f519725428",
-   "source": "Yahoo",
-   "published": "2026-11-03T02:15:10+00:00",
-   "tickers": [
-    "JAZZ"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "765f202b9b7a",
-   "headline": "Can Q3 Earnings Get Back On Track After Being Rattled By Big Tech's AI Prints?",
-   "summary": "Last week, the AI trade began to crack further with Alphabet\u00e2\u0080\u0099s release, missing on both the top and bottom lines. Read more here.",
-   "url": "https://finnhub.io/api/news?id=ca588afecfda4c4e9771b113fca4f34acdb4a3700836d02ffed867681f772075",
-   "source": "SeekingAlpha",
-   "published": "2026-11-03T02:15:00+00:00",
-   "tickers": [
-    "EW"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "f0647a2acb5a",
-   "headline": "Vertex Pharmaceuticals Q3 Earnings Call Highlights",
-   "summary": "Vertex Pharmaceuticals (NASDAQ:VRTX) reported third-quarter 2026 revenue growth of 12% year over year, supported by continued cystic fibrosis franchise growth and contributions from newer products including CASGEVY, JOURNAVX and\u2026",
-   "url": "https://finnhub.io/api/news?id=b803e41615259742cfc873529e5f62d81ef8c687161229ca7a40584d207afe73",
-   "source": "Yahoo",
-   "published": "2026-11-03T02:14:09+00:00",
-   "tickers": [
-    "VRTX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "4dbfe2de55f7",
-   "headline": "BioMarin Pharmaceutical Q3 Earnings Call Highlights",
-   "summary": "BioMarin Pharmaceutical (NASDAQ:BMRN) reported third-quarter revenue above $1 billion for the first time, driven by growth across its rare-disease portfolio and contributions from acquired Amicus Therapeutics products. The company said\u2026",
-   "url": "https://finnhub.io/api/news?id=a5f393820a8ce528d3d5062d0d2044417ffbfc90512ec1b62f186642fba033c8",
-   "source": "Yahoo",
-   "published": "2026-11-03T02:14:08+00:00",
-   "tickers": [
-    "BMRN"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "b3871ec9d472",
-   "headline": "Neurocrine Biosciences Q3 Earnings Call Highlights",
-   "summary": "Neurocrine Biosciences (NASDAQ:NBIX) reported record third-quarter net product sales exceeding $1.1 billion and record operating profitability, supported by growth across its three marketed medicines: INGREZZA, CRENESSITY and VYKAT XR.\u2026",
-   "url": "https://finnhub.io/api/news?id=48c1122a9f56ed5a88c88f47980eb5b23000ae5609d97934b3c10a80e7f0a7ed",
-   "source": "Yahoo",
-   "published": "2026-11-03T02:14:08+00:00",
-   "tickers": [
-    "NBIX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "d9b255764037",
-   "headline": "BioMarin Pharmaceutical (BMRN) Could Be 21% Undervalued On Mixed Q3 Guidance Cut",
-   "summary": "BioMarin Pharmaceutical (BMRN) is back in focus after a mixed Q3 2026 update, with adjusted profit topping analyst expectations while sales came in slightly below forecasts and full year guidance moved lower. Recent trading tells a mixed\u2026",
-   "url": "https://finnhub.io/api/news?id=006ad7450107c3fede41debdec5d52be37c96231e9336c9055c721c8af784dea",
-   "source": "Yahoo",
-   "published": "2026-11-03T02:09:51+00:00",
-   "tickers": [
-    "BMRN"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "fcde135f1a7f",
-   "headline": "Sanofi 2026 Q3 - Results - Earnings Call Presentation",
-   "summary": "2026-11-03. The following slide deck was published by Sanofi in conjunction with their 2026 Q3 earnings call.",
-   "url": "https://finnhub.io/api/news?id=de5ee392c782f5884eda5af870aeb017d8a044d8fc3c9d2f74311547de40e172",
-   "source": "SeekingAlpha",
-   "published": "2026-11-03T02:09:25+00:00",
-   "tickers": [
-    "SNY"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
