@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-13T07:02:41.554854+00:00",
+ "updated": "2026-11-13T07:17:39.268391+00:00",
  "quotes": {
   "A": {
    "price": 173.01,
@@ -130,10 +130,6 @@
    "price": 105.8,
    "change_pct": -0.01
   },
-  "EXEL": {
-   "price": 69.84,
-   "change_pct": -1.22
-  },
   "GDRX": {
    "price": 3.51,
    "change_pct": -3.84
@@ -234,10 +230,6 @@
    "price": 231.35,
    "change_pct": -6.97
   },
-  "NBIX": {
-   "price": 169.4,
-   "change_pct": -2.87
-  },
   "NTLA": {
    "price": 10.55,
    "change_pct": -7.54
@@ -282,10 +274,6 @@
    "price": 166.52,
    "change_pct": -3.53
   },
-  "ROIV": {
-   "price": 39.99,
-   "change_pct": -4.44
-  },
   "RVMD": {
    "price": 176.35,
    "change_pct": -2.41
@@ -321,6 +309,18 @@
   "TWST": {
    "price": 114.22,
    "change_pct": -6.83
+  },
+  "TXG": {
+   "price": 59.1,
+   "change_pct": -4.75
+  },
+  "UNH": {
+   "price": 405.13,
+   "change_pct": 0.54
+  },
+  "UTHR": {
+   "price": 593.31,
+   "change_pct": -0.39
   }
  },
  "tickers": {
@@ -62530,81 +62530,6 @@
    "tag": "Health AI",
    "sectors": [
     "healthit"
-   ]
-  },
-  {
-   "id": "4ef04edd0d6a",
-   "headline": "Cantor Fitzgerald Initiates Coverage On Trex Bio with Overweight Rating",
-   "summary": "Cantor Fitzgerald analyst Prakhar Agrawal initiates coverage on Trex Bio (NASDAQ:TRXB) with a Overweight rating.",
-   "url": "https://finnhub.io/api/news?id=2f0dd3ed147f9159741ff0e7208de7b7086e24fdda88b7d497d177b72b4d5f2a",
-   "source": "Benzinga",
-   "published": "2026-11-03T07:09:02+00:00",
-   "tickers": [
-    "TRXB"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "2b2580735a3d",
-   "headline": "Henry Schein Raises FY2026 Adj EPS Guidance from $5.29-$5.39 to $5.50-$5.56 vs $5.39 Est; Affirms FY2026 Sales Guidance of $13.794B-$13.926B vs $13.866B Est",
-   "summary": "Henry Schein (NASDAQ:HSIC) raises FY2026 Adj EPS guidance from $5.29-$5.39 to $5.50-$5.56 vs $5.39 analyst estimate. Affirms FY2026 sales outlook from $13.794 billion-$13.926 billion to $13.794 billion-$13.926 billion",
-   "url": "https://finnhub.io/api/news?id=03070c75a4b6ba376da4d23df643e4c85b7c55d36a56a6ddb4b78bfda531b6ab",
-   "source": "Benzinga",
-   "published": "2026-11-03T07:03:46+00:00",
-   "tickers": [
-    "HSIC"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharmacy"
-   ]
-  },
-  {
-   "id": "b0cb643bbc23",
-   "headline": "Waters Sees Q4 Adj EPS $4.58-$4.68 vs $4.67 Est; Sees Sales $1.801B-$1.819B vs $1.789B Est",
-   "summary": "Waters (NYSE:WAT) is looking for Q4 Adj EPS of $4.58-$4.68 vs $4.67 analyst estimate. sees sales of $1.801 billion-$1.819 billion vs $1.789 billion analyst estimate.",
-   "url": "https://finnhub.io/api/news?id=46b3819626ff574ef0113ce6527a68a042fb2a5f4848a0d391c04311c2ce50c0",
-   "source": "Benzinga",
-   "published": "2026-11-03T07:02:25+00:00",
-   "tickers": [
-    "WAT"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "14bf6e15b139",
-   "headline": "Waters Q3 Adj. EPS $4.10 Beats $4.00 Estimate, Sales $1.767B Beat $1.754B Estimate",
-   "summary": "Waters (NYSE:WAT) reported quarterly earnings of $4.10 per share which beat the analyst consensus estimate of $4.00 by 2.5 percent. This is a 20.59 percent increase over earnings of $3.40 per share from the same period",
-   "url": "https://finnhub.io/api/news?id=c22f7b8a78de729ba8fe5e4143dc619a466f2b35eb4eda6a8cfb32c46e9b657b",
-   "source": "Benzinga",
-   "published": "2026-11-03T07:01:47+00:00",
-   "tickers": [
-    "WAT"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "2badadacceaf",
-   "headline": "Waters Raises FY2026 Adj EPS Guidance from $14.45-$14.65 to $14.60-$14.70 vs $14.58 Est; Raises FY2026 Sales Guidance from $6.415B-$6.476B to $6.479B-$6.497B vs $6.456B Est",
-   "summary": "Waters (NYSE:WAT) raises FY2026 Adj EPS guidance from $14.45-$14.65 to $14.60-$14.70 vs $14.58 analyst estimate. Raises FY2026 sales outlook from $6.415 billion-$6.476 billion to $6.479 billion-$6.497 billion vs $6.456",
-   "url": "https://finnhub.io/api/news?id=196c56fd71eef028cc8e0e4449941719f480b3e939b4289a352f6b92aca9a8ba",
-   "source": "Benzinga",
-   "published": "2026-11-03T07:01:40+00:00",
-   "tickers": [
-    "WAT"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
    ]
   }
  ]
