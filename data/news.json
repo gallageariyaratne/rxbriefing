@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-13T13:47:40.405322+00:00",
+ "updated": "2026-11-13T14:03:02.008266+00:00",
  "quotes": {
   "A": {
    "price": 173.01,
@@ -101,10 +101,6 @@
   "DHR": {
    "price": 232.16,
    "change_pct": -1.34
-  },
-  "DOCS": {
-   "price": 33.2,
-   "change_pct": -0.06
   },
   "DVA": {
    "price": 174.07,
@@ -314,9 +310,9 @@
    "price": 462.2,
    "change_pct": -1.85
   },
-  "ZTS": {
-   "price": 82.96,
-   "change_pct": 0.47
+  "ZBH": {
+   "price": 104.56,
+   "change_pct": -2.71
   }
  },
  "tickers": {
@@ -934,6 +930,17 @@
  },
  "stories": [
   {
+   "id": "2ea842bd9c73",
+   "headline": "STAT+: Senators introduce bill to curb conflicts of interest on preventive care panel",
+   "summary": "Some of the panel's members could benefit financially from the decisions they make, STAT's reporting showed.",
+   "url": "https://www.statnews.com/2026/11/13/uspstf-preventive-care-panel-senators-target-conflicts-of-interest/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-11-13T14:00:00+00:00",
+   "tickers": [],
+   "tag": "Policy",
+   "sectors": []
+  },
+  {
    "id": "234192c2f911",
    "headline": "Fierce Pharma Asia\u2014China\u2019s Big Pharma ambition; Treasury\u2019s China crackdown; Takeda\u2019s narcolepsy launch",
    "summary": "Chinese companies have a Big Pharma dream. Experts told Fierce that the U.S. Treasury's draft policy on banning certain U.S. investments in China is too ambiguous and could backfire. Takeda's novel orexin drug has won a favorable DEA\u2026",
@@ -997,6 +1004,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "c73ba4de81a1",
+   "headline": "Zimmer Biomet Holdings, Inc. Completes Offerings of \u20ac500.0 million 4.375% notes due 2033 and $500.0 million 5.850% notes due 2036",
+   "summary": "",
+   "url": "https://finnhub.io/api/news?id=ab7d7113efceabca351d0ff4a5133ce2eff972d93e9a2cd822fd30018cd353a5",
+   "source": "Fintel",
+   "published": "2026-11-13T12:58:47+00:00",
+   "tickers": [
+    "ZBH"
+   ],
+   "tag": "Financing",
+   "sectors": [
+    "medtech"
+   ]
   },
   {
    "id": "1938d6820484",
@@ -59525,185 +59547,6 @@
    "sectors": [
     "pharma"
    ]
-  },
-  {
-   "id": "d366aebab3cc",
-   "headline": "A Big Splash In The ESG Fixed Income Space",
-   "summary": "",
-   "url": "https://finnhub.io/api/news?id=389014958e77d3bad731a6dfd6cec2f3b0eeeb55665ed0fc92884aacb079e037",
-   "source": "Benzinga",
-   "published": "2026-11-03T14:00:41+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "f5d3c23e0376",
-   "headline": "GE HealthCare reinforces leadership in AI with Lung Guidance and AutoAS on Vscan Air for point of care ultrasound assessments",
-   "summary": "CHICAGO, November 03, 2026--GE HealthCare (Nasdaq: GEHC) today announced two new AI-assisted capabilities for its Vscan Air\u2122 handheld ultrasound system: Lung Guidance and AutoAS.1 Designed for clinicians evaluating patients with cardiac\u2026",
-   "url": "https://finnhub.io/api/news?id=e1172d063c2fe6a8a5c55f3b12a11d3963a678f493727629088383230626b13e",
-   "source": "Yahoo",
-   "published": "2026-11-03T14:00:00+00:00",
-   "tickers": [
-    "GEHC"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "b4fc2635e092",
-   "headline": "Humana and athenahealth expand electronic prior authorization capabilities nationwide, reducing administrative burden for physicians and helping patients access care faster",
-   "summary": "BOSTON & LOUISVILLE, Ky., November 03, 2026--Humana and athenahealth today announced an expansion of electronic prior authorization capabilities across athenahealth\u2019s nationwide network of more than 180,000 physicians and clinicians,\u2026",
-   "url": "https://finnhub.io/api/news?id=e4a62f0d22defcb1c843eca779ff6468c71d2c8b7bd0c2e6e9a4912db92a6966",
-   "source": "Yahoo",
-   "published": "2026-11-03T14:00:00+00:00",
-   "tickers": [
-    "HUM"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "d34088d76dd8",
-   "headline": "TEM Q3 Earnings Call Highlights Growth and 2027 Pricing Upside",
-   "summary": "Tempus AI raises its 2026 revenue outlook as oncology demand, expanding data partnerships and reimbursement-driven pricing gains fuel growth prospects for 2027.",
-   "url": "https://finnhub.io/api/news?id=4cdba2c08fba5188595c3272039fb192904a016ba32e7cb29cdbcd8d2291b135",
-   "source": "Yahoo",
-   "published": "2026-11-03T14:00:00+00:00",
-   "tickers": [
-    "TEM"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "healthai"
-   ]
-  },
-  {
-   "id": "5dabfa5ce0eb",
-   "headline": "JP Morgan Maintains Neutral on Halozyme Therapeutics, Raises Price Target to $79",
-   "summary": "JP Morgan analyst Jessica Fye maintains Halozyme Therapeutics (NASDAQ:HALO) with a Neutral and raises the price target from $78 to $79.",
-   "url": "https://finnhub.io/api/news?id=a0c89761d5cedf9e83e1a5f2111c57273888fd58d4c7995e98419b360ab4c0b2",
-   "source": "Benzinga",
-   "published": "2026-11-03T13:57:09+00:00",
-   "tickers": [
-    "HALO"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "908d2effeb2a",
-   "headline": "Pfizer Bets on Cancer and Weight-Loss Drugs in Post-Pandemic Second Act",
-   "summary": "Pfizer boosts full-year guidance on the back of its latest quarter, citing growth in non-Covid offerings and acquired products.",
-   "url": "https://finnhub.io/api/news?id=512a4e4fca57a530ef6f09c3d4860d30d12b760a3d91d1eb53c339290e047934",
-   "source": "Yahoo",
-   "published": "2026-11-03T13:55:00+00:00",
-   "tickers": [
-    "MRNA",
-    "PFE"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "533f49ea9b41",
-   "headline": "Waters CEO Says AI Is Already Fueling Lab Demand As Drugmakers Race to Accelerate Discovery",
-   "summary": "Waters Corporation (WAT) shares jump on strong Q3 earnings beat, raised 2026 outlook, and the strategic acquisition of MOBILion Systems.",
-   "url": "https://finnhub.io/api/news?id=f126f8fe093e88998a75a0185e14d218e46381da7542dfce6d77ecbe36fb9ac4",
-   "source": "Benzinga",
-   "published": "2026-11-03T13:52:07+00:00",
-   "tickers": [
-    "WAT"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "b799e21d451f",
-   "headline": "Viatris Gears Up to Report Q3 Earnings: Is a Beat in the Cards?",
-   "summary": "VTRS heads into Q3 earnings with new product growth, regional sales trends and supply challenges shaping its outlook.",
-   "url": "https://finnhub.io/api/news?id=9baa6c7b6981343ac973c462ab73f62ac8edaa0f434c7158a96dbb8ca94381d6",
-   "source": "Yahoo",
-   "published": "2026-11-03T13:51:00+00:00",
-   "tickers": [
-    "ACAD",
-    "TGTX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "59942ebe3884",
-   "headline": "Pfizer Beats Expectations in Q3 and Raises Its Guidance. Is the Stock Due for a Big Rally?",
-   "summary": "The healthcare stock may finally have the catalyst that it needs to take off before the end of the year.",
-   "url": "https://finnhub.io/api/news?id=c6e4afe4579760b147ec084e1a73c018a60390b7336e21fe907ead740c009dc7",
-   "source": "Yahoo",
-   "published": "2026-11-03T13:50:02+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "870095938fec",
-   "headline": "Goldman Sachs Maintains Buy on Vertex Pharmaceuticals, Raises Price Target to $725",
-   "summary": "Goldman Sachs analyst Salveen Richter maintains Vertex Pharmaceuticals (NASDAQ:VRTX) with a Buy and raises the price target from $654 to $725.",
-   "url": "https://finnhub.io/api/news?id=8b9179674978df1f657e4c86435290cbde08d70ef2ecb8fa0b085c56fd6ccfe5",
-   "source": "Benzinga",
-   "published": "2026-11-03T13:49:17+00:00",
-   "tickers": [
-    "VRTX"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "a18bde41d3f8",
-   "headline": "Lilly\u2019s R&D whirlwind \u2014 what the large pharma has taken in and what it\u2019s dropped",
-   "summary": "While its GLP-1 franchise is still booming, prospects in other arenas haven\u2019t panned out. Here\u2019s a look at where Lilly\u2019s investing the candidates it\u2019s recently had to drop.",
-   "url": "https://finnhub.io/api/news?id=ed6f22697db6d8fec052e6167ecdb49613fff3c55fcdcb09199a083c85f3d439",
-   "source": "Yahoo",
-   "published": "2026-11-03T13:48:25+00:00",
-   "tickers": [
-    "ABBV",
-    "LLY"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "c75b56753e67",
-   "headline": "Child dies of measles in New York\u2019s first such death in 30 years",
-   "summary": "A child in rural northern New York has died after contracting measles, marking the state's first death from the disease in 30 years.",
-   "url": "https://www.statnews.com/2026/11/03/child-dies-measles-new-york-first-death-30-years/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-11-03T13:48:16+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
   }
  ]
 }
