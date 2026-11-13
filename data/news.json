@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-13T01:47:37.155326+00:00",
+ "updated": "2026-11-13T02:02:53.400711+00:00",
  "quotes": {
   "A": {
    "price": 173.01,
@@ -230,6 +230,10 @@
    "price": 10.55,
    "change_pct": -7.54
   },
+  "NTRA": {
+   "price": 322.94,
+   "change_pct": 0.98
+  },
   "NVO": {
    "price": 40.65,
    "change_pct": -1.07
@@ -269,6 +273,10 @@
   "RVMD": {
    "price": 176.35,
    "change_pct": -2.41
+  },
+  "SNY": {
+   "price": 48.46,
+   "change_pct": 0.06
   },
   "SYK": {
    "price": 312.39,
@@ -313,14 +321,6 @@
   "UTHR": {
    "price": 593.31,
    "change_pct": -0.39
-  },
-  "VEEV": {
-   "price": 302.42,
-   "change_pct": -0.77
-  },
-  "VKTX": {
-   "price": 27.58,
-   "change_pct": -3.02
   }
  },
  "tickers": {
@@ -954,6 +954,51 @@
    ]
   },
   {
+   "id": "fc5b40940675",
+   "headline": "Windward prices $175M IPO to advance China-licensed lung drugs",
+   "summary": "The Swiss biotech has two prospects it sees as having the potential to outcompete AstraZeneca and Amgen's blockbuster asthma treatment Tezspire.",
+   "url": "https://finnhub.io/api/news?id=dd2e57569cd5265047213a521bc5deda226b500ab0c1f2253e31b6f9ec2ddcc0",
+   "source": "Yahoo",
+   "published": "2026-11-13T01:22:00+00:00",
+   "tickers": [
+    "SNY"
+   ],
+   "tag": "Financing",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "c814751556c6",
+   "headline": "Elevance Health (ELV) Stock Looks Reasonable After Raised Earnings Outlook",
+   "summary": "Elevance Health has delivered a strong run over the past year, which puts fresh focus on whether the current share price lines up with what its earnings can reasonably support. With the stock now well above where it traded a few years\u2026",
+   "url": "https://finnhub.io/api/news?id=d6269dd1b254c7ae7b7f9d537cd400e74d3a1b5666b1961dd1835fc67e176924",
+   "source": "Yahoo",
+   "published": "2026-11-13T01:14:22+00:00",
+   "tickers": [
+    "ELV"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "a56f9a8dc65b",
+   "headline": "Elevance Health (ELV) In Focus On AM Best Rating Action And A Fair Value Debate",
+   "summary": "Credit Rating Action Puts Elevance Health In Focus AM Best\u2019s new indicative credit ratings on Elevance Health (ELV) shelf registrations, paired with a stable outlook, give investors a fresh lens on the insurer\u2019s balance sheet strength and\u2026",
+   "url": "https://finnhub.io/api/news?id=08cf590c31d79857f50d6a9cdf92d4f622e7e20c6d2ea2b20c8c6106a875602b",
+   "source": "Yahoo",
+   "published": "2026-11-13T00:24:32+00:00",
+   "tickers": [
+    "ELV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "988d881d52ae",
    "headline": "UnitedHealth releases independent audit of its medical policy development practices",
    "summary": "Over the past year, UnitedHealth Group has conducted a series of independent reviews of its practices as part of a broader turnaround effort at the company.",
@@ -1408,6 +1453,21 @@
    ]
   },
   {
+   "id": "6d6682f4eca3",
+   "headline": "Scribe Therapeutics Reports Third Quarter 2026 Financial Results and Recent Corporate Highlights",
+   "summary": "Listed on the Nasdaq Global Market under the ticker symbol \u201cSCTX,\u201d and raised capital to fund the initial clinical development of STX-1150, STX-1200, and STX-1400 Continued enrollment in first-in-human Phase 1 clinical trial of STX-1150,\u2026",
+   "url": "https://finnhub.io/api/news?id=40f6eb2178ddbb8968d5d81c3ddca3e33480146efc73f8e0dbec2aaa539dedc2",
+   "source": "Yahoo",
+   "published": "2026-11-12T21:05:00+00:00",
+   "tickers": [
+    "SNY"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "d8c61289142a",
    "headline": "Arrowhead Pharmaceuticals Reports 2026 Fiscal Year-End Results",
    "summary": "PASADENA, Calif., November 12, 2026--Arrowhead Pharmaceuticals, Inc. (NASDAQ: ARWR) today announced financial results for its 2026 fiscal year ended September 30, 2026. The Company is hosting a conference call today, November 12, 2026, at\u2026",
@@ -1832,7 +1892,8 @@
    "tickers": [
     "DGX",
     "ILMN",
-    "LH"
+    "LH",
+    "NTRA"
    ],
    "tag": "News",
    "sectors": [
@@ -1878,6 +1939,21 @@
    "published": "2026-11-12T17:33:30+00:00",
    "tickers": [
     "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "16a4ed139410",
+   "headline": "Sanofi: Information concerning the total number of voting rights and shares - October 2026",
+   "summary": "Information concerning the total number of voting rights and shares, provided pursuant to article L. 233-8 II of the Code de commerce (the French Commercial Code) and article 223-16 of the R\u00e8glement g\u00e9n\u00e9ral de l\u2019Autorit\u00e9 des March\u00e9s\u2026",
+   "url": "https://finnhub.io/api/news?id=7b6e40e69f2e152aae1c7ff22395400d26dc532e690da87da99dfca28ace608b",
+   "source": "Yahoo",
+   "published": "2026-11-12T17:30:00+00:00",
+   "tickers": [
+    "SNY"
    ],
    "tag": "News",
    "sectors": [
@@ -2489,7 +2565,8 @@
    "published": "2026-11-12T15:45:57+00:00",
    "tickers": [
     "AMGN",
-    "BMY"
+    "BMY",
+    "RVMD"
    ],
    "tag": "News",
    "sectors": [
@@ -3000,7 +3077,8 @@
    "source": "Yahoo",
    "published": "2026-11-12T14:53:59+00:00",
    "tickers": [
-    "INSM"
+    "INSM",
+    "NTRA"
    ],
    "tag": "News",
    "sectors": [
@@ -5080,6 +5158,7 @@
    "source": "Yahoo",
    "published": "2026-11-12T05:00:00+00:00",
    "tickers": [
+    "SNY",
     "TMO"
    ],
    "tag": "Financing",
