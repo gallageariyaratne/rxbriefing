@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-13T12:47:37.092372+00:00",
+ "updated": "2026-11-13T13:02:58.434624+00:00",
  "quotes": {
   "A": {
    "price": 173.01,
@@ -54,10 +54,6 @@
    "price": 215.71,
    "change_pct": 0.55
   },
-  "BEAM": {
-   "price": 24.03,
-   "change_pct": -6.9
-  },
   "BIIB": {
    "price": 250.48,
    "change_pct": -1.15
@@ -97,10 +93,6 @@
   "CRL": {
    "price": 340.81,
    "change_pct": -0.55
-  },
-  "CRSP": {
-   "price": 42.62,
-   "change_pct": -6.84
   },
   "CVS": {
    "price": 89.79,
@@ -190,6 +182,10 @@
    "price": 27.31,
    "change_pct": -3.6
   },
+  "IQV": {
+   "price": 271.11,
+   "change_pct": -1.25
+  },
   "ISRG": {
    "price": 439.89,
    "change_pct": -2.14
@@ -242,6 +238,10 @@
    "price": 160.25,
    "change_pct": -0.04
   },
+  "OPCH": {
+   "price": 31.68,
+   "change_pct": -0.06
+  },
   "PFE": {
    "price": 28.83,
    "change_pct": -2.11
@@ -286,10 +286,6 @@
    "price": 8.69,
    "change_pct": -2.8
   },
-  "TECH": {
-   "price": 72.84,
-   "change_pct": 0.05
-  },
   "THC": {
    "price": 286.86,
    "change_pct": -2.09
@@ -321,6 +317,10 @@
   "VRTX": {
    "price": 542.62,
    "change_pct": -0.81
+  },
+  "WAT": {
+   "price": 462.2,
+   "change_pct": -1.85
   }
  },
  "tickers": {
@@ -968,6 +968,36 @@
    ]
   },
   {
+   "id": "967feba50910",
+   "headline": "Merck Receives Positive EU CHMP Opinion to Expand Marketing Authorization for ENFLONSIA\u00ae (clesrovimab) to Include Children Up to 24 Months of Age Who Remain Vulnerable to Severe RSV Disease Through Their Second RSV Season",
+   "summary": "RAHWAY, N.J., November 13, 2026--Merck (NYSE: MRK), known as MSD outside of the United States and Canada, announced today that the Committee for Medicinal Products for Human Use (CHMP) of the European Medicines Agency (EMA) adopted a\u2026",
+   "url": "https://finnhub.io/api/news?id=dda8df133ef5fbf6c96111621b6c52df085b2ccffa672010a61fd9c1183e1971",
+   "source": "Yahoo",
+   "published": "2026-11-13T11:40:00+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "e443cf780f63",
+   "headline": "Merck Receives Positive EU CHMP Opinion for WELIREG\u00ae (belzutifan) in Combination With Lenvatinib for Adults With Advanced Renal Cell Carcinoma With a Clear Cell Component (ccRCC) Following Treatment With an Anti-PD-1/PD-L1 Therapy",
+   "summary": "RAHWAY, N.J., November 13, 2026--Merck (NYSE: MRK), known as MSD outside of the United States and Canada, today announced the European Medicines Agency\u2019s Committee for Medicinal Products for Human Use (CHMP) adopted a positive opinion\u2026",
+   "url": "https://finnhub.io/api/news?id=524d4998d7794075449ca9d6baf2efc9741a7fac921e810f14f5119320569850",
+   "source": "Yahoo",
+   "published": "2026-11-13T11:35:00+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "22c11fd47708",
    "headline": "Novo amps up Wegovy marketing with DJ Khaled spinning his weight-loss tale",
    "summary": "Novo and DJ Khaled have teamed up to share how the DJ, rapper and record producer has incorporated the GLP-1 drug Wegovy into his weight-loss routine.",
@@ -991,6 +1021,36 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "837a095d5486",
+   "headline": "What Invesco S&P 500 Equal Weight ETF (RSP) Sold: Moderna Leads on Nov. 11",
+   "summary": "The $105.70 billion fund sold $93.1 million of stock on Wednesday, trimming 502 positions and adding to none.",
+   "url": "https://finnhub.io/api/news?id=38b9ca700b3d981d5e0a5acd3af8134c2be314d8073bba8bc8807edaa033c978",
+   "source": "Yahoo",
+   "published": "2026-11-13T11:04:46+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "6a8501b4473f",
+   "headline": "iShares A.I. Innovation (BAI) Buys $11.9 Million More IQVIA on Nov. 11",
+   "summary": "The fund added $124.3 million in new positions on Wednesday, lifting 39 holdings and selling none.",
+   "url": "https://finnhub.io/api/news?id=dd9561acdaf1ee2c690fdbe17297dbbbff584b7bd051e5f24ef45626c564a62b",
+   "source": "Yahoo",
+   "published": "2026-11-13T11:04:25+00:00",
+   "tickers": [
+    "IQV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -1065,11 +1125,28 @@
    "tickers": [
     "ABBV",
     "JNJ",
+    "LLY",
+    "MRK",
     "UNH"
    ],
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "4d76b2463e79",
+   "headline": "ETFs Are Net Sellers of Option Care Health (OPCH) on Nov. 11",
+   "summary": "ETFs sold $21.0 million of Option Care Health stock in Wednesday's session.",
+   "url": "https://finnhub.io/api/news?id=718071d5b37f77351e063c7cb06412b121e90c3ff28c456a51404d3398c673f2",
+   "source": "Yahoo",
+   "published": "2026-11-13T11:02:21+00:00",
+   "tickers": [
+    "OPCH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -1096,6 +1173,21 @@
    "published": "2026-11-13T11:01:51+00:00",
    "tickers": [
     "JNJ"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "64a4d3cbfb15",
+   "headline": "ETFs Are Buying Eli Lilly (LLY) on Nov. 11",
+   "summary": "ETFs bought $154.5 million of Eli Lilly (LLY) on Wednesday, Nov. 11.",
+   "url": "https://finnhub.io/api/news?id=5fb540d9f49af725d2397033913ef19d7734fc049a146100a22f6ce0dc335152",
+   "source": "Yahoo",
+   "published": "2026-11-13T11:01:12+00:00",
+   "tickers": [
+    "LLY"
    ],
    "tag": "News",
    "sectors": [
@@ -60277,201 +60369,6 @@
    "tag": "News",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "e7dc673bf245",
-   "headline": "Stock Market Today: Marvell\u2019s $115 Billion Bet on Lumentum Backfires as Chip Stocks Drag the Nasdaq Lower",
-   "summary": "Marvell and Lumentum sank after a $115 billion all-stock deal, chip stocks fell again and the Nasdaq lost 1.1%. Oil dropped about 8% on US-Iran talk hopes, Apple warned on margins and Palantir raised its outlook.",
-   "url": "https://finnhub.io/api/news?id=95ead1af5f192359af32bbe99608a9d5c1f40b2f3e16b925099b5b3c19443de9",
-   "source": "ChartMill",
-   "published": "2026-11-03T13:01:11+00:00",
-   "tickers": [
-    "IDXX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "e773f5346c1a",
-   "headline": "Eli Lilly and Company (LLY) Is a Trending Stock: Facts to Know Before Betting on It",
-   "summary": "Lilly (LLY) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
-   "url": "https://finnhub.io/api/news?id=c33310e84f3c57b46103644eac5de4b06699a2acddfbb7edef611cc7e1eb1f51",
-   "source": "Yahoo",
-   "published": "2026-11-03T13:00:05+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "bfb2a8c5c7b7",
-   "headline": "Is Trending Stock Johnson & Johnson (JNJ) a Buy Now?",
-   "summary": "Johnson & Johnson (JNJ) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
-   "url": "https://finnhub.io/api/news?id=dc1fd3afc5f6be245deb8503407aa1616fb9ea786162ad22c90dee014c6c2fd9",
-   "source": "Yahoo",
-   "published": "2026-11-03T13:00:04+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "867c74b808a2",
-   "headline": "Allergan Aesthetics to Present New Research on Aesthetic Care Following Medical Weight Loss and Evolving Patient Needs at ASDS 2026",
-   "summary": "Allergan Aesthetics, an AbbVie company (NYSE: ABBV), will present nine abstracts at the 2026 American Society for Dermatologic Surgery (ASDS) Annual Meeting, Nov. 5-8 in San Diego, underscoring the company's continued investment in\u2026",
-   "url": "https://finnhub.io/api/news?id=7d0e99db33945f746a6cb717b00ec58e43f29c95227a04131e9fe2fd5185bbe2",
-   "source": "Yahoo",
-   "published": "2026-11-03T13:00:00+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "51a6f85a4c62",
-   "headline": "Earnings from AMD and Pfizer plus labor market data: What to Watch",
-   "summary": "Yahoo Finance Breaking Business News Reporter Jake Conley takes a closer look at the top stories for investors to watch for Tuesday, Nov. 3, including earnings calls from AMD (AMD) and Pfizer (PFE) and data released from the Job Openings\u2026",
-   "url": "https://finnhub.io/api/news?id=a617381ca0619e484b6c612ac9c46704d5126f82b2bf5606a88fbdeab0f7e3f8",
-   "source": "Yahoo",
-   "published": "2026-11-03T13:00:00+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "342bfcacb67f",
-   "headline": "Intellia Therapeutics Announces Upcoming Nexiguran Ziclumeran (nex-z) Medical Congress Presentations",
-   "summary": "Presentation at AHA on Nov. 9 to highlight cardiac outcomes following a single dose of nex-z in patients with ATTRv-PN with mixed phenotype from the Phase 1 clinical trial Presentation at ISA on Nov. 18 to include up to four years of\u2026",
-   "url": "https://finnhub.io/api/news?id=57947510241c04da3753149a9ccabfbb71a8f89088a21735ef2b27cd6fe0cf6a",
-   "source": "Yahoo",
-   "published": "2026-11-03T13:00:00+00:00",
-   "tickers": [
-    "NTLA"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "1a73cf030df7",
-   "headline": "Buy, Sell, or Hold? Tuesday\u2019s Top Upgrades and Downgrades: AON, Bloom Energy, Chevron, Cloudflare, Marvell Technologies, Lumentum Holdings, Merck & Co., Roku, X-Energy, and More",
-   "summary": "Tech stocks keep beating estimates and then selling off anyway, Apple just joined the club, and Wall Street analysts are busy reshuffling their ratings on everything from nuclear energy plays to insurance giants. Here is who got upgraded,\u2026",
-   "url": "https://finnhub.io/api/news?id=841635119e98e8444ed963065216327ec992ef9f023b0c03685bee38d1fd2f15",
-   "source": "Yahoo",
-   "published": "2026-11-03T12:59:26+00:00",
-   "tickers": [
-    "MRK"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "4620deb0ccec",
-   "headline": "Stocks making the biggest moves midday: Apple, Palantir, Nvidia, Coinbase, Bloom Energy & more",
-   "summary": "Here are some of the companies making headlines in midday trading.",
-   "url": "https://finnhub.io/api/news?id=eb596df8041cafbdb1ec2df42f651282467fb2fbb45285318745d6eab492405b",
-   "source": "CNBC",
-   "published": "2026-11-03T12:55:18+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "34cc7f09adbd",
-   "headline": "Wall Street Lunch: Midterm Elections & Earnings",
-   "summary": "U.S. midterm elections. Palantir beat expectations, AMD faces high expectations;",
-   "url": "https://finnhub.io/api/news?id=a5824fc8373d5d78a96e7fe9e2b5ae8b4a4600f6fbc4c6120dcf404323828585",
-   "source": "SeekingAlpha",
-   "published": "2026-11-03T12:55:00+00:00",
-   "tickers": [
-    "LLY",
-    "NVO",
-    "PFE"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "d7ce05f0ecd1",
-   "headline": "Truist Securities Reiterates Buy on HCA Healthcare, Raises Price Target to $510",
-   "summary": "Truist Securities analyst David Macdonald reiterates HCA Healthcare (NYSE:HCA) with a Buy and raises the price target from $495 to $510.",
-   "url": "https://finnhub.io/api/news?id=119bebe650d37eea634992c3802a4ac012a34041146a1b731e1f1d530649887f",
-   "source": "Benzinga",
-   "published": "2026-11-03T12:52:45+00:00",
-   "tickers": [
-    "HCA"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "aeb02a9c81fa",
-   "headline": "First U.S. bird flu death of the year after cattle exposure",
-   "summary": "A person in Washington state has died from complications of the bird flu, the AP reported yesterday. It\u2019s the first such death this year in the U.S., and the third\u2026",
-   "url": "https://www.statnews.com/2026/11/03/health-news-first-us-bird-flu-death-after-cattle-exposure-2026/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-11-03T12:52:30+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "4dc716d7e3bd",
-   "headline": "Regeneron Pharmaceuticals (NASDAQ:REGN) Looks Undervalued Under the Decent Value Framework",
-   "summary": "Regeneron fits the Decent Value screen: cheap vs peers and S&P 500, strong health and profitability, and moderate growth support a quality-at-a-fair-price case.",
-   "url": "https://finnhub.io/api/news?id=fabb8d0e02a97f9ed4356d74b6bb229cb3fe8d69396815b339c767f341546cf1",
-   "source": "ChartMill",
-   "published": "2026-11-03T12:52:03+00:00",
-   "tickers": [
-    "REGN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "b8b7d002085a",
-   "headline": "Spinal cord stimulator lawsuits surge: what is going wrong?",
-   "summary": "Despite FDA approval and strong efficacy data, the leading SCS manufacturers are currently all facing personal injury lawsuits.",
-   "url": "https://finnhub.io/api/news?id=dba04a65b0a37a98ce8828ad3b49787e59df3a64f04ecbf681d2e110c50206ae",
-   "source": "Yahoo",
-   "published": "2026-11-03T12:52:01+00:00",
-   "tickers": [
-    "ABT",
-    "BSX",
-    "MDT"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
