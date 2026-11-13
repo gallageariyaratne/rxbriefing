@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-13T07:17:39.268391+00:00",
+ "updated": "2026-11-13T07:32:31.994989+00:00",
  "quotes": {
   "A": {
    "price": 173.01,
@@ -190,10 +190,6 @@
    "price": 27.31,
    "change_pct": -3.6
   },
-  "IQV": {
-   "price": 271.11,
-   "change_pct": -1.25
-  },
   "ISRG": {
    "price": 439.89,
    "change_pct": -2.14
@@ -321,6 +317,10 @@
   "UTHR": {
    "price": 593.31,
    "change_pct": -0.39
+  },
+  "VEEV": {
+   "price": 302.42,
+   "change_pct": -0.77
   }
  },
  "tickers": {
@@ -937,6 +937,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "7557e64348a0",
+   "headline": "Gilead rolls out the red carpet for HIV prevention at the Latin Grammy Awards",
+   "summary": "Gilead's collaboration with TelevisaUnivision and the 27th Latin Grammy Awards puts HIV prevention in the spotlight with in-person, social and red carpet activations.",
+   "url": "https://www.fiercepharma.com/marketing/gilead-rolls-out-red-carpet-hiv-prevention-latin-grammy-awards",
+   "source": "Fierce Pharma",
+   "published": "2026-11-13T07:30:24.097442+00:00",
+   "tickers": [
+    "GILD"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
   {
    "id": "860c449a864e",
    "headline": "Arrowhead (ARWR) Q4 2026 Earnings Call Transcript",
@@ -62515,21 +62530,6 @@
    "tag": "Analyst",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "c15e1efb8246",
-   "headline": "Veeva Systems: AI Is The Icing, Not The Cake",
-   "summary": "Veeva Systems earns a buy, as core business growth re-accelerates, with AI-driven upside from Falcon agents not yet priced in. Read more on VEEV stock here.",
-   "url": "https://finnhub.io/api/news?id=476cb1bd4298588650a090432333c9f8ef5230790572b9309b10d9e590c3516b",
-   "source": "SeekingAlpha",
-   "published": "2026-11-03T07:28:12+00:00",
-   "tickers": [
-    "VEEV"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "healthit"
    ]
   }
  ]
