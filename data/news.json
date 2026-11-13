@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-13T22:17:29.123795+00:00",
+ "updated": "2026-11-13T22:32:31.185864+00:00",
  "quotes": {
   "ABBV": {
    "price": 295.03,
@@ -874,6 +874,17 @@
  },
  "stories": [
   {
+   "id": "acbac1dec4ba",
+   "headline": "STAT+: Enforcement of stringent Medicaid work requirements delayed for six months",
+   "summary": "Enforcement of the Trump administration's stringent new Medicaid work requirements have delayed for six months, until July 1, 2027.",
+   "url": "https://www.statnews.com/2026/11/13/medicaid-work-requirements-implementation-delayed-six-months/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-11-13T22:21:56+00:00",
+   "tickers": [],
+   "tag": "Policy",
+   "sectors": []
+  },
+  {
    "id": "3352826055c3",
    "headline": "STAT+: Democrats coalesce around \u2018Medicare for More,\u2019 \u2018Medikids\u2019 proposals",
    "summary": "Democrats are coalescing around a plan to offer Medicare to more Americans, if not all of them.",
@@ -918,6 +929,21 @@
    "sectors": []
   },
   {
+   "id": "2426afc7c954",
+   "headline": "Sell Alert: 5 Stocks Analysts Downgraded on Wednesday",
+   "summary": "Wall Street got a sharp reminder this month of how fast sentiment can turn. Last Thursday the S&P 500 lost 4.4%, its worst day since April 2025, after midterm election results raised fears that regulation could hurt the AI trade. The\u2026",
+   "url": "https://finnhub.io/api/news?id=2f73a9909f1d9c298f51ad7d374389877a04d0c8da05a3130cc3d203cd3896cd",
+   "source": "Yahoo",
+   "published": "2026-11-13T21:09:19+00:00",
+   "tickers": [
+    "HALO"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "8d352fc5cec0",
    "headline": "TRexBio Reports Third Quarter 2026 Financial Results and Recent Business Highlights",
    "summary": "TRex Bio, Inc. (\"TRexBio\") (Nasdaq: TRXB), reported third quarter 2026 financial results and business highlights.",
@@ -941,6 +967,8 @@
    "published": "2026-11-13T20:47:11+00:00",
    "tickers": [
     "ABBV",
+    "BMY",
+    "JNJ",
     "MDT"
    ],
    "tag": "News",
@@ -958,6 +986,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "38f64b9369ce",
+   "headline": "The Price Tag on Jensen Huang\u2019s Resignation: $639 Billion and Counting",
+   "summary": "Nvidia\u2019s market cap tumbled $639.1 billion this week, its worst weekly decline ever. The debate now is whether or not investors want to take advantage of the fall.",
+   "url": "https://finnhub.io/api/news?id=1b77d1df80ed0f5ab6d066e9ab4d2d8c07bac9e2d1cb2a1fb2bed3cff3274c87",
+   "source": "Yahoo",
+   "published": "2026-11-13T20:32:00+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "f72bdf8490de",
@@ -979,11 +1022,28 @@
    "published": "2026-11-13T20:23:04+00:00",
    "tickers": [
     "CI",
+    "CVS",
+    "DGX",
     "LH"
    ],
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "29665f1d1c3a",
+   "headline": "Did Bipolar Drug Win Just Shift JNJ's Investment Narrative?",
+   "summary": "Johnson & Johnson reported that its second pivotal Phase 3 trial of Caplyta in bipolar I mania met primary and key secondary endpoints, with clinically meaningful improvements in manic symptoms versus placebo, supporting a planned U.S.\u2026",
+   "url": "https://finnhub.io/api/news?id=978852203069185c42c556e4cfc34d3912012f3bbe83684128363e0f5901c50e",
+   "source": "Yahoo",
+   "published": "2026-11-13T20:08:45+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -57492,96 +57552,6 @@
    "tag": "News",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "c1528133e5a6",
-   "headline": "Amgen (AMGN) Reports Q3 Earnings: What Key Metrics Have to Say",
-   "summary": "Although the revenue and EPS for Amgen (AMGN) give a sense of how its business performed in the quarter ended September 2026, it might be worth considering how some key metrics compare with Wall Street estimates and the year-ago numbers.",
-   "url": "https://finnhub.io/api/news?id=2e7c29ba98754a4ee3846148b93ecf77fb155947b54beada1fd56e5eec79af80",
-   "source": "Yahoo",
-   "published": "2026-11-03T22:30:02+00:00",
-   "tickers": [
-    "AMGN"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "11faecb3b655",
-   "headline": "Denali Therapeutics soars on earnings beat",
-   "summary": "Investing.com -- Denali Therapeutics Inc (NASDAQ:DNLI) reported third-quarter earnings that exceeded analyst expectations, driven by accelerating sales of its recently launched product AVLAYAH, sending shares up 9.8% in after-hours\u2026",
-   "url": "https://finnhub.io/api/news?id=d852b792e486bcb2576c4416b1bd97a3732830c82a9c8a8a2e0075c89e0c7dc2",
-   "source": "Yahoo",
-   "published": "2026-11-03T22:24:19+00:00",
-   "tickers": [
-    "DNLI"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "0206c1ddafd4",
-   "headline": "Humana (HUM) Declares Dividend, Is The Stock Still Cheap?",
-   "summary": "Humana dividend announcement and why it matters now Humana (HUM) just confirmed a cash dividend of $0.885 per share, payable on January 29, 2027, to shareholders on record as of December 24, 2026. For income focused investors, that fixed\u2026",
-   "url": "https://finnhub.io/api/news?id=f0c7e9a73c360e0e985970b4e6dc485b22d1d8f6c168044a8b88eb8e6753a32f",
-   "source": "Yahoo",
-   "published": "2026-11-03T22:24:10+00:00",
-   "tickers": [
-    "HUM"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "16cbcb92a6bd",
-   "headline": "Jazz Pharmaceuticals (JAZZ) Stock Jumps On Q2 Earnings Turnaround",
-   "summary": "Jazz Pharmaceuticals entered this earnings season trading like a problem child with potential, well below many fair value models and still dealing with the memory of a large one off loss. Q2 2026 results landed with a jolt. The stock rose\u2026",
-   "url": "https://finnhub.io/api/news?id=b84e00fda097c523f38e7a9f737cb04e1e38a1de9d535efb46194b63fe2310ab",
-   "source": "Yahoo",
-   "published": "2026-11-03T22:20:08+00:00",
-   "tickers": [
-    "JAZZ"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "e27f86896788",
-   "headline": "GE HealthCare (GEHC) Stock Looks Like A Bargain After Raised Outlook",
-   "summary": "GE HealthCare Technologies has climbed sharply over the past month, and that quick move invites a closer look at whether the current share price lines up with what its earnings can support. With the stock now in a different zone than it\u2026",
-   "url": "https://finnhub.io/api/news?id=76fc1b4a24ed4c74105ae551bc886edf4aa9dabe31422598b38e286645543120",
-   "source": "Yahoo",
-   "published": "2026-11-03T22:19:15+00:00",
-   "tickers": [
-    "GEHC"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "0cdd363c14d6",
-   "headline": "SOPHiA GENETICS S.A. Q3 2026 Earnings Call Summary",
-   "summary": "Moby summary of SOPHiA GENETICS S.A.'s Q3 2026 earnings call",
-   "url": "https://finnhub.io/api/news?id=57d4997dc075b03cdefbd8ae6ec46b23609147f735c4602803552ffdcfec3e08",
-   "source": "Yahoo",
-   "published": "2026-11-03T22:17:37+00:00",
-   "tickers": [
-    "SOPH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "healthai"
    ]
   }
  ]
