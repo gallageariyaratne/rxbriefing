@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-13T10:47:35.507559+00:00",
+ "updated": "2026-11-13T11:02:45.494247+00:00",
  "quotes": {
   "A": {
    "price": 173.01,
@@ -117,6 +117,10 @@
   "DOCS": {
    "price": 33.2,
    "change_pct": -0.06
+  },
+  "DVA": {
+   "price": 174.07,
+   "change_pct": -5.14
   },
   "ELV": {
    "price": 429.9,
@@ -317,10 +321,6 @@
   "VRTX": {
    "price": 542.62,
    "change_pct": -0.81
-  },
-  "WAT": {
-   "price": 462.2,
-   "change_pct": -1.85
   }
  },
  "tickers": {
@@ -1066,6 +1066,21 @@
    "tickers": [],
    "tag": "FDA",
    "sectors": []
+  },
+  {
+   "id": "456355321041",
+   "headline": "DaVita Expects Fewer Dialysis Treatments in Q4, but Higher Revenue per Visit Could Help Offset the Drop",
+   "summary": "DaVita (NYSE:DVA) expects a meaningful sequential decline in dialysis treatments in the fourth quarter because of calendar effects, but higher revenue per treatment should help offset the impact, Chief Financial Officer Joel Ackerman said\u2026",
+   "url": "https://finnhub.io/api/news?id=d95dfdbf7aa64bc8298f80cf611947a9483b41f00d72f668656bf1f16725c80f",
+   "source": "Yahoo",
+   "published": "2026-11-13T08:14:46+00:00",
+   "tickers": [
+    "DVA"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
   },
   {
    "id": "7557e64348a0",
@@ -61678,111 +61693,6 @@
    "url": "https://finnhub.io/api/news?id=3cb40e049284a501af9429a310ca5de82bfdd3d960de167ea3e50696fbfc485e",
    "source": "Benzinga",
    "published": "2026-11-03T11:01:31+00:00",
-   "tickers": [
-    "JAZZ"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "ded206ed137d",
-   "headline": "ETFs Bought $147.9 Million of Eli Lilly (LLY) on Oct. 30",
-   "summary": "ETFs bought $147.9 million of Eli Lilly on Friday, with 42 funds buying and 22 selling.",
-   "url": "https://finnhub.io/api/news?id=030fc58e2011e8cfce4d0b89f8a70a772894498258424e272181ca65f43a651a",
-   "source": "Yahoo",
-   "published": "2026-11-03T11:01:11+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "2c45d2a3f9fe",
-   "headline": "Waters Corporation (NYSE: WAT) Reports Third Quarter 2026 Financial Results",
-   "summary": "Waters Corporation (NYSE: WAT) today announced its financial results for the third quarter of 2026.",
-   "url": "https://finnhub.io/api/news?id=01bbd96309b2f3ec93980eab6dc44efb5de7ff6f5852861c9a11a1f868212960",
-   "source": "Yahoo",
-   "published": "2026-11-03T11:00:00+00:00",
-   "tickers": [
-    "WAT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "d6c3fc6d3b4a",
-   "headline": "Henry Schein Reports Strong 2026 Third Quarter and Raises FY2026 Guidance",
-   "summary": "MELVILLE, N.Y., November 03, 2026--Henry Schein, Inc. (Nasdaq: HSIC), the world\u2019s largest provider of healthcare solutions to office-based dental and medical practitioners, today reported financial results for the third quarter ended\u2026",
-   "url": "https://finnhub.io/api/news?id=140b90b47e3d2b8f8b778e18a5b387fd102cf706fbe2a07625e80eca883cfcb8",
-   "source": "Yahoo",
-   "published": "2026-11-03T11:00:00+00:00",
-   "tickers": [
-    "HSIC"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharmacy"
-   ]
-  },
-  {
-   "id": "2b7dc1c9ee98",
-   "headline": "RBC Capital Maintains Sector Perform on BioMarin Pharmaceutical, Lowers Price Target to $60",
-   "summary": "RBC Capital analyst Luca Issi maintains BioMarin Pharmaceutical (NASDAQ:BMRN) with a Sector Perform and lowers the price target from $62 to $60.",
-   "url": "https://finnhub.io/api/news?id=dc1bc21238cca47eee2d5c3be1ae7b6cbea0a5341f264529b7ff679aa96c77d5",
-   "source": "Benzinga",
-   "published": "2026-11-03T10:55:35+00:00",
-   "tickers": [
-    "BMRN"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "d6a3f69d5c72",
-   "headline": "Waters Acquires MOBILion Systems, Bringing Advanced Ion-Mobility Separation to its Mass Spectrometry Portfolio with the Speed and Resolution AI Workflows Require for Proteomics Biomarker Discovery",
-   "summary": "Waters Corporation (NYSE: WAT), a global life sciences and diagnostics leader, today announced that it has acquired MOBILion Systems, Inc., the pioneer of SLIM high-resolution ion mobility separation technology for complex molecular\u2026",
-   "url": "https://finnhub.io/api/news?id=b57a62d28f268a0f1603c216c9504634f582e89ecca6743559a6c96d879115b5",
-   "source": "Yahoo",
-   "published": "2026-11-03T10:55:00+00:00",
-   "tickers": [
-    "WAT"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "7debc6c52c3a",
-   "headline": "RBC Capital Maintains Outperform on Axsome Therapeutics, Lowers Price Target to $273",
-   "summary": "RBC Capital analyst Leonid Timashev maintains Axsome Therapeutics (NASDAQ:AXSM) with a Outperform and lowers the price target from $295 to $273.",
-   "url": "https://finnhub.io/api/news?id=0ef5bb30984f4ac06f7b4d531f060875e24cd00d45b2a52dd1bda1e1656cf86c",
-   "source": "Benzinga",
-   "published": "2026-11-03T10:53:17+00:00",
-   "tickers": [
-    "AXSM"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "0b508387f411",
-   "headline": "Barclays Maintains Overweight on Jazz Pharmaceuticals, Raises Price Target to $275",
-   "summary": "Barclays analyst Etzer Darout maintains Jazz Pharmaceuticals (NASDAQ:JAZZ) with a Overweight and raises the price target from $271 to $275.",
-   "url": "https://finnhub.io/api/news?id=6e71ffec8a81bc89d7f682db3f9b7cc936cbffa3a891e4cf6cc767dc2478ff2b",
-   "source": "Benzinga",
-   "published": "2026-11-03T10:48:19+00:00",
    "tickers": [
     "JAZZ"
    ],
