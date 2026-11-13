@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-13T12:29:25.738384+00:00",
+ "updated": "2026-11-13T12:32:52.263653+00:00",
  "quotes": {
   "A": {
    "price": 173.01,
@@ -310,6 +310,10 @@
    "price": 405.13,
    "change_pct": 0.54
   },
+  "UTHR": {
+   "price": 593.31,
+   "change_pct": -0.39
+  },
   "VEEV": {
    "price": 302.42,
    "change_pct": -0.77
@@ -317,10 +321,6 @@
   "VRTX": {
    "price": 542.62,
    "change_pct": -0.81
-  },
-  "WAT": {
-   "price": 462.2,
-   "change_pct": -1.85
   }
  },
  "tickers": {
@@ -938,6 +938,21 @@
  },
  "stories": [
   {
+   "id": "1938d6820484",
+   "headline": "Sanofi teams with British comic Beano for Type 1 diabetes education push",
+   "summary": "Sanofi\u2019s U.K. business is partnering up with British comic stalwart the Beano once again to help British schools boost awareness of Type 1 diabetes.",
+   "url": "https://www.fiercepharma.com/marketing/sanofi-teams-british-comic-beano-type-1-diabetes-education-push",
+   "source": "Fierce Pharma",
+   "published": "2026-11-13T12:30:28.275520+00:00",
+   "tickers": [
+    "SNY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "7e747818f844",
    "headline": "Sanofi-backed Windward hits $225M IPO goal to advance respiratory drugs from China",
    "summary": "Windward Bio\u2019s IPO has blown to exactly the spot the Swiss biotech had been aiming for, bringing in $225 million to fund a pair of respiratory drugs licensed from China.",
@@ -964,6 +979,21 @@
    "sectors": []
   },
   {
+   "id": "afeca56194b2",
+   "headline": "Quest Diagnostics (DGX) Reaffirms Dividend, Is The Stock Already Fully Valued?",
+   "summary": "Quest Diagnostics (DGX) just reaffirmed its capital return approach. The Board declared a quarterly cash dividend of $0.86 per share, payable January 27, 2027, to shareholders of record on January 12. That dividend decision comes after a\u2026",
+   "url": "https://finnhub.io/api/news?id=b4ea2f28ee642fa22f40e7fa66c6a9fa2b60fa957f763641a3a4104fee4c4106",
+   "source": "Yahoo",
+   "published": "2026-11-13T11:10:24+00:00",
+   "tickers": [
+    "DGX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "d5115737d7d6",
    "headline": "What JPMorgan Active Value ETF (JAVA) Bought: HCA Leads on Nov. 11",
    "summary": "The fund bought $20.0 million of HCA and $15.8 million of Becton Dickinson while selling $22.4 million of Wells Fargo.",
@@ -980,6 +1010,22 @@
    ]
   },
   {
+   "id": "f7943d1fda06",
+   "headline": "What State Street SPDR S&P MidCap 400 ETF (MDY) Sold: TechnipFMC Leads on Nov. 11",
+   "summary": "The fund sold $320.2 million of stock and bought nothing, trimming 398 positions while adding to none.",
+   "url": "https://finnhub.io/api/news?id=06a7f9437341e74995cf45eeb40ea25d4457f130c67b093854275a393caf25a5",
+   "source": "Yahoo",
+   "published": "2026-11-13T11:03:40+00:00",
+   "tickers": [
+    "THC",
+    "UTHR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "0406b9fbcf39",
    "headline": "State Street Health Care SPDR (XLV) Buys $66.8 Million More Eli Lilly on Nov. 11",
    "summary": "The fund added $396.8 million across all 60 of its positions, led by a $66.8 million increase in Eli Lilly.",
@@ -987,11 +1033,57 @@
    "source": "Yahoo",
    "published": "2026-11-13T11:03:27+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "JNJ"
    ],
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "f42869c96d6e",
+   "headline": "ETFs Are Buying Johnson & Johnson (JNJ) on Nov. 11",
+   "summary": "ETFs bought $89.7 million of Johnson & Johnson stock on Nov. 11.",
+   "url": "https://finnhub.io/api/news?id=88987ebcf6a98c97ed4a7b3d87a821f3385d846b40f831e08295e63ca7d03531",
+   "source": "Yahoo",
+   "published": "2026-11-13T11:01:51+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "58a80a9b79fe",
+   "headline": "BMS sets unified research and development structure for 2027",
+   "summary": "The new structure will unify the company's scientific and clinical expertise, covering both discovery and development.",
+   "url": "https://finnhub.io/api/news?id=1931e9575d7e435c709364dce042ce9c6ebc32c62378373824ce17f4e3ee88ed",
+   "source": "Yahoo",
+   "published": "2026-11-13T10:31:20+00:00",
+   "tickers": [
+    "BMY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "f9fd6858a803",
+   "headline": "Bear of the Day: Boston Scientific (BSX)",
+   "summary": "BSX growth continues to flatline but expects 2027 to mark cycle's trough, 2028 recovery driven by new launches",
+   "url": "https://finnhub.io/api/news?id=0077e2d95175cde2a6c3311a32f1b8dd4dd13de0c622f917789e6bac293091a2",
+   "source": "Yahoo",
+   "published": "2026-11-13T10:20:00+00:00",
+   "tickers": [
+    "BSX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -60425,51 +60517,6 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "3fb958401b69",
-   "headline": "Henry Schein (NASDAQ:HSIC) Falls 13.9% Premarket as Mixed Q3 Results Raise Earnings Quality Concerns",
-   "summary": "Henry Schein Q3 2026: revenue misses, EPS beat lifted by tariff refunds, FY profit guidance raised, but HSIC shares fall premarket on sales concerns.",
-   "url": "https://finnhub.io/api/news?id=95be5b284731cb4468b624ae2df753568526f2224a12b63b09d133fc82a9d3dd",
-   "source": "ChartMill",
-   "published": "2026-11-03T12:30:37+00:00",
-   "tickers": [
-    "HSIC"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharmacy"
-   ]
-  },
-  {
-   "id": "e1f32a99518f",
-   "headline": "Pfizer (NYSE:PFE) reports strong Q3 2026, full-year outlook slightly exceeds expectations",
-   "summary": "Global pharmaceutical company Pfizer (NYSE:PFE) reported Q3 2026 results exceeding the market\u2019s revenue expectations, but revenue was flat year on year at $16.58 billion. The company\u2019s full-year revenue guidance of $63 billion at the\u2026",
-   "url": "https://finnhub.io/api/news?id=1e901cb5bd24f2858d636e907310672a9d9565bb90fc922cd04d392715dfeea0",
-   "source": "Yahoo",
-   "published": "2026-11-03T12:30:07+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "6ca17addf2e1",
-   "headline": "BridgeBio to Present New Acoramidis Data on Heart Failure Events in ATTR-CM at the American Heart Association Scientific Sessions 2026",
-   "summary": "PALO ALTO, Calif., Nov. 03, 2026 (GLOBE NEWSWIRE) -- BridgeBio Pharma, Inc. (Nasdaq: BBIO) (\"BridgeBio\" or the \"Company\"), a commercial-stage, multi-product biopharmaceutical company focused on developing medicines for genetic conditions,\u2026",
-   "url": "https://finnhub.io/api/news?id=42dad54a405f4fe40e4b7709aa333c16d4fc08014f0c42424c86e0d1afbec530",
-   "source": "Yahoo",
-   "published": "2026-11-03T12:30:00+00:00",
-   "tickers": [
-    "ABT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
