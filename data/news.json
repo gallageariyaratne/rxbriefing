@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-14T00:02:33.884413+00:00",
+ "updated": "2026-11-14T00:17:19.272414+00:00",
  "quotes": {
   "ABBV": {
    "price": 295.03,
@@ -173,6 +173,10 @@
   "LLY": {
    "price": 1443.5,
    "change_pct": 1.14
+  },
+  "MCK": {
+   "price": 1102.81,
+   "change_pct": 2.39
   },
   "MDT": {
    "price": 102.86,
@@ -865,6 +869,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "c254e4a20a7b",
+   "headline": "Amgen vs. Vertex Pharmaceuticals: Which Healthcare Stock Is a Better Buy for 2027?",
+   "summary": "Amgen trades at a lower forward P/E than Vertex, but Vertex's near-zero debt and cystic fibrosis dominance make the trade-off harder to call.",
+   "url": "https://finnhub.io/api/news?id=fa73a28df0dbb8296a581a4e46bd6aff76a1ec8d4dd7fe18ebc1f52a76d445f5",
+   "source": "Yahoo",
+   "published": "2026-11-13T23:02:02+00:00",
+   "tickers": [
+    "MCK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
   {
    "id": "174f1ea90a4e",
    "headline": "AstraZeneca cuts 600 US sales jobs amid $1.5B savings plan: Bloomberg",
@@ -57428,36 +57447,6 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "b1a9310517d0",
-   "headline": "Denali Therapeutics Q3 Earnings Call Highlights",
-   "summary": "Denali Therapeutics (NASDAQ:DNLI) reported third-quarter 2026 net product revenue of $17.8 million from AVLAYAH, its treatment for Hunter syndrome, as expanding payer coverage and transitions of clinical-trial participants to commercial\u2026",
-   "url": "https://finnhub.io/api/news?id=7a3c963805688bf80792a7a954691de875f0f91d08e024bb4f3058777c12f698",
-   "source": "Yahoo",
-   "published": "2026-11-04T00:14:03+00:00",
-   "tickers": [
-    "DNLI"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "703e599d0dd9",
-   "headline": "RxSight (NASDAQ:RXST) Q3 Revenue Miss and Margin Pressure Drive After-Market Selloff",
-   "summary": "RxSight Q3 2026 revenue missed estimates as Light Adjustable Lens sales fell 19%, gross margin narrowed, and shares dropped despite a narrower adjusted loss.",
-   "url": "https://finnhub.io/api/news?id=375a7ad4b7d2a0a4a442b29e8c9946bcbb280f7435d4da9b74a6ba3f6bdbe120",
-   "source": "ChartMill",
-   "published": "2026-11-04T00:03:18+00:00",
-   "tickers": [
-    "RXST"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
