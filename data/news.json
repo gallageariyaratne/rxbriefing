@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-14T11:02:10.467601+00:00",
+ "updated": "2026-11-14T11:17:15.623953+00:00",
  "quotes": {
   "ABBV": {
    "price": 295.03,
@@ -130,6 +130,10 @@
    "price": 285.75,
    "change_pct": 0.79
   },
+  "LFST": {
+   "price": 14.08,
+   "change_pct": -0.49
+  },
   "LH": {
    "price": 370.48,
    "change_pct": -0.49
@@ -157,10 +161,6 @@
   "MRNA": {
    "price": 223.37,
    "change_pct": -3.45
-  },
-  "OPCH": {
-   "price": 31.65,
-   "change_pct": -0.09
   },
   "PFE": {
    "price": 28.89,
@@ -190,10 +190,6 @@
    "price": 21.43,
    "change_pct": 1.47
   },
-  "THC": {
-   "price": 286.03,
-   "change_pct": -0.29
-  },
   "TMO": {
    "price": 700.22,
    "change_pct": 0.11
@@ -205,10 +201,6 @@
   "UNH": {
    "price": 407.46,
    "change_pct": 0.58
-  },
-  "UTHR": {
-   "price": 591.17,
-   "change_pct": -0.36
   },
   "VEEV": {
    "price": 301.53,
@@ -837,6 +829,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "614fa62829ea",
+   "headline": "LifeStance Health Group (NASDAQ:LFST) Meets Minervini Trend Template With High Growth Momentum",
+   "summary": "LFST matches Minervini\u2019s trend template with strong growth and momentum, but its 5/10 setup rating points to waiting for consolidation.",
+   "url": "https://finnhub.io/api/news?id=a3b9d42cd801612fd882482ddc00936f87c131e9316a973ec32e952b52782e5a",
+   "source": "ChartMill",
+   "published": "2026-11-14T10:41:06+00:00",
+   "tickers": [
+    "LFST"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
+   ]
+  },
   {
    "id": "b285ca2d54c9",
    "headline": "Is Labcorp Holdings (LH) Still Cheap Following Its UBS Healthcare Conference Appearance?",
@@ -55387,251 +55394,6 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "f55f3c6d186e",
-   "headline": "Ultragenyx Pharmaceutical (RARE) Recasts The Story After FDA Approvals As Valuation Debate Builds",
-   "summary": "Ultragenyx Pharmaceutical (RARE) is in focus after receiving FDA approvals for its first two commercial gene therapies, GENGLYCOS and FAYUVI, while simultaneously cutting 20% of its workforce and discontinuing two development programs.\u2026",
-   "url": "https://finnhub.io/api/news?id=24261624f3a41cf1359e4dacc340a4b50547734f450098f41cd3aa6b15ed2d4f",
-   "source": "Yahoo",
-   "published": "2026-11-04T11:14:53+00:00",
-   "tickers": [
-    "RARE"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "3eda5879f011",
-   "headline": "Learn Why The Bull Case For Danaher (DHR) Could Change Following FDA Test Clearance",
-   "summary": "Danaher reported third quarter 2026 sales of US$6,554 million and net income of US$1,235 million, alongside FDA clearance for Beckman Coulter Diagnostics' Access MeMed BV rapid assay that distinguishes bacterial from viral infections in\u2026",
-   "url": "https://finnhub.io/api/news?id=e3cd95421add1711a334d6d1c2cc83d07a0a76a2330b01b97476a79f4ab5fb19",
-   "source": "Yahoo",
-   "published": "2026-11-04T11:14:52+00:00",
-   "tickers": [
-    "DHR"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "8b458f2c12da",
-   "headline": "Waters Q3 Earnings Call Highlights",
-   "summary": "Waters (NYSE:WAT) reported third-quarter 2026 revenue of $1.767 billion and adjusted earnings per share of $4.10, as the company cited double-digit organic growth, improving performance in acquired businesses and cost actions that\u2026",
-   "url": "https://finnhub.io/api/news?id=1fbe78680bca2580e29a513d230f8fcf218ceb9ec57536567ba1f766719526f8",
-   "source": "Yahoo",
-   "published": "2026-11-04T11:14:02+00:00",
-   "tickers": [
-    "WAT"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "c6dbcbbe22e0",
-   "headline": "Globus Medical (GMED) Acquires Neurosurgery Technology To Push Further Into Cranial Procedures",
-   "summary": "Globus Medical (NYSE:GMED) has agreed to acquire Synaptive Medical to expand its cranial neurosurgery technology portfolio. The transaction adds Synaptive's visualization, navigation, and surgical planning platforms to Globus Medical's\u2026",
-   "url": "https://finnhub.io/api/news?id=43427f429f3e9e4377f03313a0a393a7ac968df1f0c04713ae79f8e9f6044baf",
-   "source": "Yahoo",
-   "published": "2026-11-04T11:13:01+00:00",
-   "tickers": [
-    "GMED"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "b815a2789662",
-   "headline": "TG Therapeutics (NASDAQ:TGTX): Affordable Growth With Strong Expansion and a Reasonable Forward Valuation",
-   "summary": "TG Therapeutics fits an affordable growth profile with rapid revenue and EPS growth, reasonable forward valuation, strong margins, and mixed financial health.",
-   "url": "https://finnhub.io/api/news?id=6775d70261d21e1800e521b2621a773df338d295af162cfa9039b2db9173d74c",
-   "source": "ChartMill",
-   "published": "2026-11-04T11:10:54+00:00",
-   "tickers": [
-    "TGTX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "4b8a799c1772",
-   "headline": "Madrigal Q3 Earnings: Why I'm Upgrading The Stock Again In 2026, This Time To Buy",
-   "summary": "Madrigal Pharmaceuticals delivered another earnings beat, with Q3 net sales up 50% YoY, and Rezdiffra's blockbuster status confirmed. Click for more on MDGL.",
-   "url": "https://finnhub.io/api/news?id=125eac2731445b4cfdf3238cdfc7507455f9d6d0b13bfe70ee1168bfbd811de8",
-   "source": "SeekingAlpha",
-   "published": "2026-11-04T11:07:26+00:00",
-   "tickers": [
-    "MDGL"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "9990ea451103",
-   "headline": "What iShares Core High Dividend (HDV) Bought: Exxon Leads on Nov. 2",
-   "summary": "The fund added $134.1 million across 72 positions, led by a $13.4 million increase in Exxon Mobil.",
-   "url": "https://finnhub.io/api/news?id=9e917472ff73e2338c5703d66bb6133284b906a49a1c3d0c246d54a0cfbfd656",
-   "source": "Yahoo",
-   "published": "2026-11-04T11:06:09+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "41b962979257",
-   "headline": "Capital Group Cons. Equity (CGCV) Adds Microsoft and Philip Morris on Monday",
-   "summary": "The fund bought $158.6 million of stock, lifting all 69 of its increased positions with no sales.",
-   "url": "https://finnhub.io/api/news?id=ded18f82131191a23b4b991d08be723869d8113d0c9803e69a8f6c86d7345033",
-   "source": "Yahoo",
-   "published": "2026-11-04T11:06:05+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "976f00b4213b",
-   "headline": "State Street Health Care SPDR (XLV) Adds Eli Lilly and J&J on Nov. 2",
-   "summary": "The fund bought $175.3 million of stock, lifting all 60 of its positions with no sales.",
-   "url": "https://finnhub.io/api/news?id=b8e2361f309b0de9ccc4cd0933cf3c1843ec3161da81907e8b85e17bb042b671",
-   "source": "Yahoo",
-   "published": "2026-11-04T11:05:36+00:00",
-   "tickers": [
-    "ABBV",
-    "JNJ",
-    "LLY",
-    "UNH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "897ad71fb7eb",
-   "headline": "What JPMorgan Nasdaq Equity Premium Income (JEPQ) Sold: Marriott Leads on Monday",
-   "summary": "The fund sold $247.7 million more than it bought, cutting 78 positions and adding to just four.",
-   "url": "https://finnhub.io/api/news?id=0c35778503ba93d703cae028c0822eb0ecd3cc5d1c08506b112e9fab7af0af6b",
-   "source": "Yahoo",
-   "published": "2026-11-04T11:05:16+00:00",
-   "tickers": [
-    "TMO"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "88b684363683",
-   "headline": "iShares Russell 2000 (IWM) Buys $1.9 Million More Jackson Financial on Nov. 2",
-   "summary": "The ETF added $285.0 million in net buys against $287.9 million in gross trading, lifting 1,880 positions and trimming just 3.",
-   "url": "https://finnhub.io/api/news?id=8f77dfe91e17b9cac379a693edc75af3216bd9e6b3767ce4a21243277c49b8c1",
-   "source": "Yahoo",
-   "published": "2026-11-04T11:04:59+00:00",
-   "tickers": [
-    "GKOS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "ae12d716626e",
-   "headline": "Moderna's Data From Its Current Phase 1/2 Trial Of mRNA-2808 Selected For Oral Presentation At 68th American Society Of Hematology Annual Meeting",
-   "summary": "Moderna, Inc. (NASDAQ:MRNA) today announced that initial clinical data from its ongoing Phase 1/2 study of mRNA-2808 have been selected for oral presentation at the 68th American Society of Hematology (ASH) Annual",
-   "url": "https://finnhub.io/api/news?id=846dcd6f14f7ed1ad47ffe91b68fc99618d8b1cc33ef6460e23469da67748655",
-   "source": "Benzinga",
-   "published": "2026-11-04T11:03:15+00:00",
-   "tickers": [
-    "MRNA"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "11e084952cf1",
-   "headline": "42 ETFs Add to Lilly (LLY) Holdings on Nov. 2",
-   "summary": "ETFs bought $105.3 million of Eli Lilly (LLY) stock on Monday.",
-   "url": "https://finnhub.io/api/news?id=d7c9df1d45cb70996d95135135ed21a29e867a7cf0b57959cd0d90e431b543ea",
-   "source": "Yahoo",
-   "published": "2026-11-04T11:02:15+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "b09f742606fd",
-   "headline": "Vertex Pharmaceuticals Inc (VRTX) Q3 2026 Earnings Call Highlights: Revenue Up 12% as CF, ...",
-   "summary": "Vertex Pharmaceuticals Inc (VRTX) raised full-year 2026 revenue guidance to $13.15--$13.25 billion while preparing for a key November 30 PDUFA date for povetacicept in IgAN.",
-   "url": "https://finnhub.io/api/news?id=9c6c17f77d8b587c9a404b44df8029c24c4b3f58003247c5514ae44dac449a56",
-   "source": "Yahoo",
-   "published": "2026-11-04T11:02:11+00:00",
-   "tickers": [
-    "VRTX"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "94330f5d8ef6",
-   "headline": "Wayfair, Lendingtree, Bruker, Zimmer Biomet And Other Big Stocks Moving Higher On Wednesday",
-   "summary": "U.S. stocks surged, led by Wayfair after strong results; Cricut, Array Technologies, Clear Secure and others also posted double-digit gains.",
-   "url": "https://finnhub.io/api/news?id=50d2e64ce11cb977255941d20536f44a3447579d0f7913e7eafd2387e6b1eecd",
-   "source": "Benzinga",
-   "published": "2026-11-04T11:02:05+00:00",
-   "tickers": [
-    "BRKR",
-    "MRNA",
-    "ZBH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "b6a510d5a0fd",
-   "headline": "Insider Decision: Edward Barry Balfe Offloads $1.07M Worth Of Icon Stock",
-   "summary": "Revealing a significant insider sell on November 3, Edward Barry Balfe, Chief Executive Officer at Icon (NASDAQ:ICLR), as per the latest SEC filing. What Happened: After conducting a thorough analysis, Balfe sold 5,175",
-   "url": "https://finnhub.io/api/news?id=e438c39c28bbd276fb25d66768471877a07fe25c6fa33d66e9fc2a74ba7af2ff",
-   "source": "Benzinga",
-   "published": "2026-11-04T11:01:16+00:00",
-   "tickers": [
-    "ICLR"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
    ]
   }
  ]
