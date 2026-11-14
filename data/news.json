@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-14T14:16:51.567896+00:00",
+ "updated": "2026-11-14T14:31:54.446078+00:00",
  "quotes": {
   "ABBV": {
    "price": 295.03,
@@ -142,6 +142,10 @@
    "price": 223.37,
    "change_pct": -3.45
   },
+  "OSCR": {
+   "price": 31.05,
+   "change_pct": -2.79
+  },
   "PFE": {
    "price": 28.89,
    "change_pct": 0.21
@@ -173,6 +177,10 @@
   "VEEV": {
    "price": 301.53,
    "change_pct": -0.29
+  },
+  "VKTX": {
+   "price": 29.22,
+   "change_pct": 5.95
   },
   "VRTX": {
    "price": 538.6,
@@ -793,6 +801,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "25d7bcec4c01",
+   "headline": "Bristol Myers Squibb's Growth Portfolio Now Brings In $7.7 Billion a Quarter. Here's Why That Changes the Stock's Story.",
+   "summary": "Bristol Myers Squibb is facing down the expiration of patent protections for older drugs, but new drugs are starting to show promise.",
+   "url": "https://finnhub.io/api/news?id=83753184be5351a79a1111d4787ff19feb4da3ca71f234bd13ebcc6c165003cd",
+   "source": "Yahoo",
+   "published": "2026-11-14T13:35:00+00:00",
+   "tickers": [
+    "BMY"
+   ],
+   "tag": "Legal",
+   "sectors": [
+    "pharma"
+   ]
+  },
   {
    "id": "e9e36a1387d1",
    "headline": "Labcorp (LH) Stock Looks About Right After Its Recent Run",
@@ -1767,6 +1790,21 @@
    ]
   },
   {
+   "id": "0c5b9c11ba01",
+   "headline": "Josh Kushner Bets Big on Elon Musk, More Than Doubles Thrive Capital Stake in SpaceX Stock in Q3",
+   "summary": "By the end of Q3, Thrive Capital's SpaceX position was valued at around $7.1 billion, representing 92% of the investment portfolio.",
+   "url": "https://finnhub.io/api/news?id=b49e6910bd3af28f4df6de73c3852b868ed19d00d03cf35a5c4a5149f136d679",
+   "source": "Benzinga",
+   "published": "2026-11-13T16:37:21+00:00",
+   "tickers": [
+    "OSCR"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "867402df2853",
    "headline": "What Will Decide Merck Stock Over The Next Six Months?",
    "summary": "For questions about this article or underlying research, email help@trefis.com.",
@@ -2276,6 +2314,21 @@
    ]
   },
   {
+   "id": "3aa13407179c",
+   "headline": "AMD Sinks 10.5% as Chip Rally Unwinds, Nasdaq 100 Falls 1.7%: Stock Market Today",
+   "summary": "AMD lost about $100 billion as traders unwound the post-Huang chip rotation, Nvidia's China scandal deepened and Cisco slid on margins. QQQ fell 1.7%.",
+   "url": "https://finnhub.io/api/news?id=d471622d00600a74a936b1600560c7c82e4f5a4ab5c60de1deadbbca8cc4c049",
+   "source": "Benzinga",
+   "published": "2026-11-13T14:41:08+00:00",
+   "tickers": [
+    "VKTX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "612cd86d1c03",
    "headline": "Brain implant startup pauses trials",
    "summary": "Synchron has paused clinical trials of its second-generation brain-computer interface. Leaders say the pause is not safety related.",
@@ -2482,6 +2535,21 @@
    ]
   },
   {
+   "id": "7aae03d1840a",
+   "headline": "Morgan Stanley Maintains Equal-Weight on Axsome Therapeutics, Lowers Price Target to $223",
+   "summary": "Morgan Stanley analyst Sean Laaman maintains Axsome Therapeutics (NASDAQ:AXSM) with a Equal-Weight and lowers the price target from $249 to $223.",
+   "url": "https://finnhub.io/api/news?id=7f161c65be42c8008e9ff7149269fd146887cfa0bbdafc770558879526ac26ab",
+   "source": "Benzinga",
+   "published": "2026-11-13T13:55:19+00:00",
+   "tickers": [
+    "AXSM"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "b2b8df2d70a2",
    "headline": "Morgan Stanley Maintains Overweight on argenx, Lowers Price Target to $1130",
    "summary": "Morgan Stanley analyst Sean Laaman maintains argenx (NASDAQ:ARGX) with a Overweight and lowers the price target from $1190 to $1130.",
@@ -2490,6 +2558,36 @@
    "published": "2026-11-13T13:53:01+00:00",
    "tickers": [
     "ARGX"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "f82a44adb32f",
+   "headline": "Morgan Stanley Maintains Overweight on Jazz Pharmaceuticals, Raises Price Target to $324",
+   "summary": "Morgan Stanley analyst Jeffrey Hung maintains Jazz Pharmaceuticals (NASDAQ:JAZZ) with a Overweight and raises the price target from $319 to $324.",
+   "url": "https://finnhub.io/api/news?id=f5b6e42d7ca9c2bc2309e6acb76633cbc10ab15e879b6e90fd15dc6614db475a",
+   "source": "Benzinga",
+   "published": "2026-11-13T13:51:30+00:00",
+   "tickers": [
+    "JAZZ"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "f3ab4567fbd3",
+   "headline": "Morgan Stanley Maintains Overweight on BioMarin Pharmaceutical, Lowers Price Target to $103",
+   "summary": "Morgan Stanley analyst Matthew Harrison maintains BioMarin Pharmaceutical (NASDAQ:BMRN) with a Overweight and lowers the price target from $119 to $103.",
+   "url": "https://finnhub.io/api/news?id=67df32123bdad091708e43428dea1c222e24a3bd9675fcb10ae66dcfdb0bce0f",
+   "source": "Benzinga",
+   "published": "2026-11-13T13:47:40+00:00",
+   "tickers": [
+    "BMRN"
    ],
    "tag": "Analyst",
    "sectors": [
@@ -2791,6 +2889,21 @@
    ]
   },
   {
+   "id": "6958aca75feb",
+   "headline": "UBS Maintains Buy on Ascendis Pharma, Raises Price Target to $315",
+   "summary": "UBS analyst Joon Lee maintains Ascendis Pharma (NASDAQ:ASND) with a Buy and raises the price target from $269 to $315.",
+   "url": "https://finnhub.io/api/news?id=5b6caa9d057f8b1fe303f6cd664e45bc7601fac0e3645ad0faf4eb3eb80773cb",
+   "source": "Benzinga",
+   "published": "2026-11-13T12:42:40+00:00",
+   "tickers": [
+    "ASND"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "c661a1ddefce",
    "headline": "How Much Does a 69-Year-Old Need Invested in Dividend Stocks to Collect $3,000 a Month?",
    "summary": "The price tag for $3,000 a month in dividends swings by more than a million dollars depending on which stocks you pick. One popular income pick looks cheapest to start and may cost the most by age 79.",
@@ -2861,6 +2974,21 @@
     "EXEL"
    ],
    "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "d15561404c8c",
+   "headline": "Wells Fargo Maintains Overweight on Ascendis Pharma, Raises Price Target to $330",
+   "summary": "Wells Fargo analyst Derek Archila maintains Ascendis Pharma (NASDAQ:ASND) with a Overweight and raises the price target from $326 to $330.",
+   "url": "https://finnhub.io/api/news?id=2f42e8980c6b310a2023befd43a348bc147b6857b9c7002e7c53ae5d4c85d021",
+   "source": "Benzinga",
+   "published": "2026-11-13T12:22:31+00:00",
+   "tickers": [
+    "ASND"
+   ],
+   "tag": "Analyst",
    "sectors": [
     "biotech"
    ]
@@ -2950,6 +3078,7 @@
    "source": "Benzinga",
    "published": "2026-11-13T12:08:53+00:00",
    "tickers": [
+    "A",
     "IQV"
    ],
    "tag": "News",
@@ -3051,6 +3180,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "d400571b6a0a",
+   "headline": "RBC Capital Reiterates Outperform on Ascendis Pharma, Maintains $290 Price Target",
+   "summary": "RBC Capital analyst Luca Issi reiterates Ascendis Pharma (NASDAQ:ASND) with a Outperform and maintains $290 price target.",
+   "url": "https://finnhub.io/api/news?id=e6735e6d0ccdf8a244980ae8512b5dbf69e98f7e1ca5f2baaf15cb89fd271038",
+   "source": "Benzinga",
+   "published": "2026-11-13T11:16:33+00:00",
+   "tickers": [
+    "ASND"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -3251,6 +3395,21 @@
    ]
   },
   {
+   "id": "8d04c72714ac",
+   "headline": "TD Cowen Maintains Buy on Ascendis Pharma, Raises Price Target to $352",
+   "summary": "TD Cowen analyst Yaron Werber maintains Ascendis Pharma (NASDAQ:ASND) with a Buy and raises the price target from $341 to $352.",
+   "url": "https://finnhub.io/api/news?id=c95f765a307b5efb7f7a2cc274f275ae85962de7cedc266dc70f0ffb309cd816",
+   "source": "Benzinga",
+   "published": "2026-11-13T10:49:30+00:00",
+   "tickers": [
+    "ASND"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "58a80a9b79fe",
    "headline": "BMS sets unified research and development structure for 2027",
    "summary": "The new structure will unify the company's scientific and clinical expertise, covering both discovery and development.",
@@ -3338,6 +3497,21 @@
    "tag": "News",
    "sectors": [
     "pharmacy"
+   ]
+  },
+  {
+   "id": "542f2c06a156",
+   "headline": "Evercore ISI Group Maintains Outperform on Ascendis Pharma, Raises Price Target to $356",
+   "summary": "Evercore ISI Group analyst Josh Schimmer maintains Ascendis Pharma (NASDAQ:ASND) with a Outperform and raises the price target from $326 to $356.",
+   "url": "https://finnhub.io/api/news?id=e02700954a352374e77d27f998bf15b4ca8d1b2a0d1613dfca0024dcc94e2a0f",
+   "source": "Benzinga",
+   "published": "2026-11-13T09:53:39+00:00",
+   "tickers": [
+    "ASND"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -52339,204 +52513,6 @@
    "tag": "Analyst",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "5acd60054087",
-   "headline": "Polaris Rx Selected by Bristol Myers Squibb to Dispense ZENBEXUS\u2122 (iberdomide), the First FDA-Approved CELMoD Therapy for Multiple Myeloma",
-   "summary": "FORT LAUDERDALE, Fla., November 04, 2026--Polaris Rx announced today that it has been selected by Bristol Myers Squibb to dispense ZENBEXUS\u2122 (iberdomide), the first cereblon E3 ligase modulator (CELMoD) therapy approved by the U.S. Food\u2026",
-   "url": "https://finnhub.io/api/news?id=88ffe62fe11254429bdadbfa537e013b847d07f1dbdfa38be3cf51393a2445da",
-   "source": "Yahoo",
-   "published": "2026-11-04T14:30:00+00:00",
-   "tickers": [
-    "BMY"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "d6c928d72b16",
-   "headline": "AI in Life Sciences Market to Worth USD 69.34 Billion by 2031, at a CAGR of 26.3% \u2013 MarketsandMarkets\u2122",
-   "summary": "Delray Beach, FL , Nov. 04, 2026 (GLOBE NEWSWIRE) -- MarketsandMarkets\u2122 projects the global AI in life sciences market to grow from USD 21.58 billion in 2026 to USD 69.34 billion by 2031, at a CAGR of 26.3% during the forecast period.\u2026",
-   "url": "https://finnhub.io/api/news?id=cdc9fb29064d73e4b9552dab51b031a1a0ba46daad3d76bd4b695f65d75fb54e",
-   "source": "Yahoo",
-   "published": "2026-11-04T14:30:00+00:00",
-   "tickers": [
-    "ILMN"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "d87220b45dba",
-   "headline": "Are Options Traders Betting on a Big Move in Stryker Stock?",
-   "summary": "Investors need to pay close attention to SYK stock based on the movements in the options market lately.",
-   "url": "https://finnhub.io/api/news?id=04dee60dc3893e2392c2d187bb2d4c1657cb594ebbc68b3a0633e15686554084",
-   "source": "Yahoo",
-   "published": "2026-11-04T14:30:00+00:00",
-   "tickers": [
-    "SYK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "def2714125f0",
-   "headline": "Axsome: 3 Key Takeaways for Long-Term Investors",
-   "summary": "A late-stage pipeline with 10 programs in development offers multiple growth catalysts beyond Auvelity's current commercial momentum.",
-   "url": "https://finnhub.io/api/news?id=46cb21cdf1444f6af5f446bba29598cc7622ecadbddbbec04089376e834fdf7b",
-   "source": "Yahoo",
-   "published": "2026-11-04T14:29:16+00:00",
-   "tickers": [
-    "AXSM"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "4b8daeb46913",
-   "headline": "CVS beats third-quarter earnings estimates and raises 2026 outlook",
-   "summary": "CVS Health Corp (NYSE:CVS) beat third-quarter earnings estimates, raised its 2026 financial forecasts and announced plans to split into two independent, publicly traded companies. Adjusted earnings reached $2.09 a share, exceeding Wall\u2026",
-   "url": "https://finnhub.io/api/news?id=703f00d25a95db77188a74b0a6ee4c09d1acf7e173669d8cf3ba4af5e732a4c3",
-   "source": "Yahoo",
-   "published": "2026-11-04T14:28:00+00:00",
-   "tickers": [
-    "CVS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "6712bdf594d7",
-   "headline": "Bristol Myers Squibb Canada Partners with TANK Worldwide and Ogilvy Health to Turn Autumn Leaves into a Guide for Spotting the Warning Signs of Melanoma",
-   "summary": "CALGARY, AB, Nov. 4, 2026 /PRNewswire/ -- Bristol Myers Squibb (BMS) Canada, in partnership with TANK Worldwide and Ogilvy Health, today launched \"What Summer Leaves Behind,\" a new disease-awareness campaign that transforms the familiar\u2026",
-   "url": "https://www.prnewswire.com/news-releases/bristol-myers-squibb-canada-partners-with-tank-worldwide-and-ogilvy-health-to-turn-autumn-leaves-into-a-guide-for-spotting-the-warning-signs-of-melanoma-302929366.html",
-   "source": "PR Newswire",
-   "published": "2026-11-04T14:27:00+00:00",
-   "tickers": [
-    "BMY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "5a41f7e5e63c",
-   "headline": "Human Genome Sciences Announces Rejects Offer from GlaxoSmithKline; HGS Board of Directors Authorizes Exploration of Strategic Alternatives",
-   "summary": "",
-   "url": "https://finnhub.io/api/news?id=767034aa492baf2d4eabfc6e27c7e418c0ed1536957fecf956e1cf8d1747ddfc",
-   "source": "Benzinga",
-   "published": "2026-11-04T14:25:08+00:00",
-   "tickers": [
-    "AZN",
-    "BNTX",
-    "MRNA",
-    "NVO"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "72fd9acc2ad3",
-   "headline": "CVS Q3 Earnings & Revenues Top Estimates, Stock Up in Pre-Market",
-   "summary": "CVS Health's Q3 earnings and revenues beat estimates as stronger margins and improved operating performance prompt management to raise its 2026 outlook.",
-   "url": "https://finnhub.io/api/news?id=f1d00d250783f58f57b3958149f3baaabfb6fea5d016ed729b593e269eab8e7f",
-   "source": "Yahoo",
-   "published": "2026-11-04T14:25:00+00:00",
-   "tickers": [
-    "CVS",
-    "ISRG",
-    "MEDP"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "1963c1bf0b4d",
-   "headline": "Patients want a human in the loop for AI healthcare tools",
-   "summary": "Patients say they\u2019re open to doctors using AI for more administrative tasks, but they\u2019re less enthusiastic about using it for diagnosing or claims adjudication, according to a new survey.",
-   "url": "https://www.healthcaredive.com/news/patients-want-human-in-loop-ai-healthcare-tools/873704/",
-   "source": "Healthcare Dive",
-   "published": "2026-11-04T14:24:08+00:00",
-   "tickers": [],
-   "tag": "Health AI",
-   "sectors": []
-  },
-  {
-   "id": "29ff696b3c1e",
-   "headline": "Jim Cramer Calls Big Tech \u2018Millstones\u2019 and Names the \u2018New Techs\u2019 Taking Over",
-   "summary": "Jim Cramer just declared the companies that supply drug labs and research instruments the true heirs to the data center trade, and three stocks are already beating the NASDAQ-100 by a wide margin this year. The question is whether this\u2026",
-   "url": "https://finnhub.io/api/news?id=59ed2c4237458c3024b2b810bb2b65b59be5f5c369880097040d92f215e3952c",
-   "source": "Yahoo",
-   "published": "2026-11-04T14:22:25+00:00",
-   "tickers": [
-    "A",
-    "TMO",
-    "WAT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "f13c57c21f4f",
-   "headline": "Stock Market Today: Dow Eyes 2% Jump as AMD Earnings Ease AI Spending Fears",
-   "summary": "AMD just reported a quarter that sent shockwaves through premarket trading, but whether one blowout earnings report can rebuild confidence across the entire AI trade is a question the rest of the day still has to answer.",
-   "url": "https://finnhub.io/api/news?id=221e4205e5ceae69c8b1d97f6e7f2c9b8845dfb1919bfcc34ba38311907b849e",
-   "source": "Yahoo",
-   "published": "2026-11-04T14:20:48+00:00",
-   "tickers": [
-    "AMGN"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "e2715c535373",
-   "headline": "STAT+: Pharmalittle: We\u2019re reading about CVS plans to split up, FDA inspections in India and China and more",
-   "summary": "The Trump administration will survey key components of pharmaceutical production in order to identify domestic supply chain vulnerabilities.",
-   "url": "https://www.statnews.com/pharmalot/2026/11/04/cvs-plans-to-split-up-fda-inspections-in-india-and-china/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-11-04T14:20:46+00:00",
-   "tickers": [
-    "CVS"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "3658c7b591f6",
-   "headline": "Morgan Stanley Maintains Equal-Weight on Ultragenyx Pharmaceutical, Raises Price Target to $22",
-   "summary": "Morgan Stanley analyst Maxwell Skor maintains Ultragenyx Pharmaceutical (NASDAQ:RARE) with a Equal-Weight and raises the price target from $20 to $22.",
-   "url": "https://finnhub.io/api/news?id=1561aa0124c0dc9ab6cdc63590ffc86e3252a4c6e12cd24e75ed1624e164c364",
-   "source": "Benzinga",
-   "published": "2026-11-04T14:17:10+00:00",
-   "tickers": [
-    "RARE"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
    ]
   }
  ]
