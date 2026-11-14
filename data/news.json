@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-14T02:32:20.134495+00:00",
+ "updated": "2026-11-14T02:47:13.339288+00:00",
  "quotes": {
   "ABBV": {
    "price": 295.03,
@@ -873,6 +873,7 @@
    "source": "Yahoo",
    "published": "2026-11-14T01:20:00+00:00",
    "tickers": [
+    "ABT",
     "BDX",
     "BSX",
     "MDT"
@@ -902,6 +903,7 @@
    "published": "2026-11-14T01:08:04+00:00",
    "tickers": [
     "ABBV",
+    "GKOS",
     "JNJ"
    ],
    "tag": "News",
@@ -932,6 +934,21 @@
    "sectors": []
   },
   {
+   "id": "66dc2d86b3d6",
+   "headline": "Biotech Dealmaker: Early-Stage Platforms And Tools Draw Capital As Full Buyouts Remain On The Sidelines This Week",
+   "summary": "Large drugmakers and specialized investors continued to favor targeted capability additions, asset purchases, and co-funding arrangements over outright buyouts of late-stage biotechs this week.",
+   "url": "https://finnhub.io/api/news?id=a652856e17f329907a5f9633baffe3e0dc96ee03abec63ec9e86e229c53e2778",
+   "source": "Yahoo",
+   "published": "2026-11-14T00:54:06+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "880c86e667aa",
    "headline": "Trump administration delays enforcement of Medicaid work requirements for six months",
    "summary": "CMS is offering states an optional six-month enforcement grace period for new Medicaid work requirements, allowing them to test and improve eligibility systems without denying or terminating otherwise eligible beneficiaries for\u2026",
@@ -951,11 +968,43 @@
    "published": "2026-11-14T00:33:08+00:00",
    "tickers": [
     "ABBV",
-    "JNJ"
+    "AMGN",
+    "JNJ",
+    "PFE"
    ],
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "363567c015d2",
+   "headline": "Pfizer (PFE) Secures $1.5 Billion For Berobenatide Development",
+   "summary": "Pfizer (NYSE:PFE) announced a partnership with Blackstone Life Sciences to co-fund late stage development of berobenatide, its GLP-1 obesity drug candidate. The arrangement provides up to $1.5b in development funding for berobenatide,\u2026",
+   "url": "https://finnhub.io/api/news?id=6e6efdb257d6100529c45cea6694fa06ed185687ffaca43ca427d9910e5043a6",
+   "source": "Yahoo",
+   "published": "2026-11-14T00:19:37+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "2c42289102cc",
+   "headline": "Elevance Health Targets 12% Earnings Growth in 2027 as Insurance Margins Recover",
+   "summary": "Elevance Health (NYSE:ELV) expects adjusted earnings per share to grow at least 12% in 2027 from its recently increased 2026 baseline of at least $26.75, Chief Financial Officer Mark Kaye said at a UBS conference. Kaye said the outlook\u2026",
+   "url": "https://finnhub.io/api/news?id=4c5e754df745a643f96c65e0611f698f064db59d083afbe7ac94c03cd6af650d",
+   "source": "Yahoo",
+   "published": "2026-11-14T00:12:18+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
    ]
   },
   {
