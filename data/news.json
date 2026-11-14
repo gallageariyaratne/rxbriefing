@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-14T02:47:13.339288+00:00",
+ "updated": "2026-11-14T03:02:24.471817+00:00",
  "quotes": {
   "ABBV": {
    "price": 295.03,
@@ -89,6 +89,10 @@
   "DXCM": {
    "price": 83.33,
    "change_pct": 2.38
+  },
+  "ELV": {
+   "price": 429.69,
+   "change_pct": -0.05
   },
   "EW": {
    "price": 107.15,
@@ -209,6 +213,10 @@
   "SNY": {
    "price": 48.37,
    "change_pct": -0.19
+  },
+  "SYK": {
+   "price": 309.64,
+   "change_pct": -0.88
   },
   "TAK": {
    "price": 21.43,
@@ -876,7 +884,9 @@
     "ABT",
     "BDX",
     "BSX",
-    "MDT"
+    "EW",
+    "MDT",
+    "SYK"
    ],
    "tag": "News",
    "sectors": [
@@ -893,6 +903,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "613f5bf606c7",
+   "headline": "What Eli Lilly Doubters Overlooked",
+   "summary": "If you only glanced at Eli Lilly\u2019s headlines this year, the drumbeat of new GLP-1 data, obesity trial wins, and fresh acquisitions might feel almost routine. Investors who held Eli Lilly over the past year are up 41.6%, including\u2026",
+   "url": "https://finnhub.io/api/news?id=53509fbe19c5c07c62e5aa7eb908ec84ca67ffadf7a1e7eb184b06d477535590",
+   "source": "Yahoo",
+   "published": "2026-11-14T01:11:12+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "4cffd79b3abc",
@@ -970,6 +995,8 @@
     "ABBV",
     "AMGN",
     "JNJ",
+    "LLY",
+    "MRK",
     "PFE"
    ],
    "tag": "News",
@@ -1000,6 +1027,7 @@
    "source": "Yahoo",
    "published": "2026-11-14T00:12:18+00:00",
    "tickers": [
+    "ELV",
     "UNH"
    ],
    "tag": "Earnings",
@@ -1389,6 +1417,21 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "6ac952defb82",
+   "headline": "Nvidia CEO out \u2014 10 stocks to buy before S&P 500 hits 8,000",
+   "summary": "Nvidia (NVDA) is down over 30% from the highs with CEO Jensen Huang stepping down, yet Blanke Schein Wealth Management CIO Robert Schein says the stock is still a buy. He also names Broadcom (AVGO), Apple (AAPL), and Eli Lilly (LLY) among\u2026",
+   "url": "https://finnhub.io/api/news?id=952f5dd8de3aa9259eed434e1a7dc3c3c3cb47ae77f73d12fff24d99c7a8597e",
+   "source": "Yahoo",
+   "published": "2026-11-13T18:29:38+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -57367,21 +57410,6 @@
    "tag": "Earnings",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "e4d9880ca416",
-   "headline": "Novo Nordisk Q3 Adj. EPS $0.87 Beats $0.81 Estimate, Sales $11.900B Beat $11.390B Estimate",
-   "summary": "Novo Nordisk (NYSE:NVO) reported quarterly earnings of $0.87 per share which beat the analyst consensus estimate of $0.81 by 7.41 percent. This is a 15.53 percent decrease over earnings of $1.03 per share from the same",
-   "url": "https://finnhub.io/api/news?id=c685f6e316b4c05c15bf79a033b9d6b609e08baff3096bd010038f25760e01cb",
-   "source": "Benzinga",
-   "published": "2026-11-04T02:55:43+00:00",
-   "tickers": [
-    "NVO"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
