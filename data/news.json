@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-14T01:02:30.334195+00:00",
+ "updated": "2026-11-14T01:17:18.225221+00:00",
  "quotes": {
   "ABBV": {
    "price": 295.03,
@@ -41,10 +41,6 @@
   "BMY": {
    "price": 63.43,
    "change_pct": 1.78
-  },
-  "BNTX": {
-   "price": 85.6,
-   "change_pct": 0.66
   },
   "BRKR": {
    "price": 61.59,
@@ -93,10 +89,6 @@
   "DXCM": {
    "price": 83.33,
    "change_pct": 2.38
-  },
-  "ELV": {
-   "price": 429.69,
-   "change_pct": -0.05
   },
   "EW": {
    "price": 107.15,
@@ -877,6 +869,17 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "6e06a35aa1c6",
+   "headline": "Patient experience has improved across the healthcare industry. Now comes consistency",
+   "summary": "As metrics like patients' average likelihood to recommend reach or surpass pre-pandemic levels, inconsistency and operational friction are the next hurdles for providers to surmount, according to a new report pulling data from 43.1\u2026",
+   "url": "https://www.fiercehealthcare.com/providers/patient-experience-has-improved-across-healthcare-industry-now-comes-consistency",
+   "source": "Fierce Healthcare",
+   "published": "2026-11-14T01:15:23.093910+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
   {
    "id": "5f9fd7774f39",
    "headline": "Plan sponsor expectations, policy shifts set to pressure payers in 2027",
@@ -57431,36 +57434,6 @@
    "tag": "News",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "b350c519e1e0",
-   "headline": "What Amgen (AMGN) Said on Its Q3 Earnings Call",
-   "summary": "Amgen (NASDAQ:AMGN) reported third-quarter revenue growth of 8% year over year to $10.4 billion, supported by broad-based demand across its portfolio and continued clinical progress in several late-stage programs. The company raised its\u2026",
-   "url": "https://finnhub.io/api/news?id=90034801c6a1ac05830aa2dae6acb71b3682d7b8d86c9f06df724f4dd82518de",
-   "source": "Yahoo",
-   "published": "2026-11-04T01:14:09+00:00",
-   "tickers": [
-    "AMGN"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "863868354e86",
-   "headline": "What Could Alnylam Pharmaceuticals (ALNY) Five Year HELIOS B Data Change?",
-   "summary": "Alnylam Pharmaceuticals (NasdaqGS:ALNY) plans to present five-year HELIOS-B data on AMVUTTRA at major medical meetings in 2026. The company will share long-term efficacy and safety findings from the pivotal HELIOS-B trial at the American\u2026",
-   "url": "https://finnhub.io/api/news?id=7a0aba86e79bd65b0dbefdaa87d3277a427ceb58c4be9c08ee0a2e30025a549c",
-   "source": "Yahoo",
-   "published": "2026-11-04T01:08:23+00:00",
-   "tickers": [
-    "ALNY"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "biotech"
    ]
   }
  ]
