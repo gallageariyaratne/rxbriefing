@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-14T14:31:54.446078+00:00",
+ "updated": "2026-11-14T14:47:03.007295+00:00",
  "quotes": {
   "ABBV": {
    "price": 295.03,
@@ -102,6 +102,10 @@
    "price": 704.23,
    "change_pct": 0.89
   },
+  "INCY": {
+   "price": 120.97,
+   "change_pct": -0.6
+  },
   "IQV": {
    "price": 265.12,
    "change_pct": -2.21
@@ -170,6 +174,10 @@
    "price": 13.67,
    "change_pct": -3.05
   },
+  "TWST": {
+   "price": 111.6,
+   "change_pct": -2.29
+  },
   "UNH": {
    "price": 407.46,
    "change_pct": 0.58
@@ -177,10 +185,6 @@
   "VEEV": {
    "price": 301.53,
    "change_pct": -0.29
-  },
-  "VKTX": {
-   "price": 29.22,
-   "change_pct": 5.95
   },
   "VRTX": {
    "price": 538.6,
@@ -1674,6 +1678,21 @@
    ]
   },
   {
+   "id": "46eb303ef271",
+   "headline": "Incyte Has Decided Not To Proceed With The Planned Phase 3 MAESTRA-3 Study Evaluating INCB123667; Company Does Not Expect This Determination To Affect Its Financial Guidance Or Its Previously Disclosed Long-term Outlook",
+   "summary": "-SEC Filing",
+   "url": "https://finnhub.io/api/news?id=f5ba5b7ffe480032b74db9cc730e0dfb73078ca1f67f0473bd8a427a85a94a2d",
+   "source": "Benzinga",
+   "published": "2026-11-13T17:15:58+00:00",
+   "tickers": [
+    "INCY"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "312a2f01d1ad",
    "headline": "Europe's CHMP backs Baxfendy, gives Hansoh's Aumseqa another chance",
    "summary": "Amid a slate of regulatory decisions this week, the CHMP backed AstraZeneca's Baxfendy and endorsed Hansoh's application for Aumseqa after revoking its original marketing authorization earlier this summer.",
@@ -1875,6 +1894,21 @@
    "tickers": [],
    "tag": "FDA",
    "sectors": []
+  },
+  {
+   "id": "4c2be258e2f4",
+   "headline": "Leerink Partners Maintains Outperform on Twist Bioscience, Lowers Price Target to $175",
+   "summary": "Leerink Partners analyst Puneet Souda maintains Twist Bioscience (NASDAQ:TWST) with a Outperform and lowers the price target from $190 to $175.",
+   "url": "https://finnhub.io/api/news?id=59a83d07496861a3e5ed8b12dfcbaf40a47505f1d0a1b9f959ad125141d8bdff",
+   "source": "Benzinga",
+   "published": "2026-11-13T16:16:23+00:00",
+   "tickers": [
+    "TWST"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "tools"
+   ]
   },
   {
    "id": "a82e320024fb",
@@ -2535,6 +2569,21 @@
    ]
   },
   {
+   "id": "63775f5ab120",
+   "headline": "Morgan Stanley Maintains Equal-Weight on Exelixis, Lowers Price Target to $57",
+   "summary": "Morgan Stanley analyst Sean Laaman maintains Exelixis (NASDAQ:EXEL) with a Equal-Weight and lowers the price target from $60 to $57.",
+   "url": "https://finnhub.io/api/news?id=9de7a0f708b18b619e2f252d04c5a799e9f8e00efe87b59f1213279b81e59ce8",
+   "source": "Benzinga",
+   "published": "2026-11-13T13:59:14+00:00",
+   "tickers": [
+    "EXEL"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "7aae03d1840a",
    "headline": "Morgan Stanley Maintains Equal-Weight on Axsome Therapeutics, Lowers Price Target to $223",
    "summary": "Morgan Stanley analyst Sean Laaman maintains Axsome Therapeutics (NASDAQ:AXSM) with a Equal-Weight and lowers the price target from $249 to $223.",
@@ -2656,6 +2705,21 @@
    "sectors": [
     "biotech",
     "pharma"
+   ]
+  },
+  {
+   "id": "0b1214ef9d9a",
+   "headline": "UnitedHealthcare Policy Assessment Urges Clearer Provider Guidance",
+   "summary": "External consultants praise UnitedHealthcare's evidence-based medical policy process while recommending clearer templates and documentation.",
+   "url": "https://finnhub.io/api/news?id=568da5d2cdbed0f8c0e9af63b2b1160926c229d4c9dd4361dc05c04a92a6d113",
+   "source": "Benzinga",
+   "published": "2026-11-13T13:41:11+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -3079,6 +3143,7 @@
    "published": "2026-11-13T12:08:53+00:00",
    "tickers": [
     "A",
+    "ILMN",
     "IQV"
    ],
    "tag": "News",
@@ -3350,6 +3415,21 @@
    ]
   },
   {
+   "id": "81cd2aa1faf3",
+   "headline": "Pfizer Pulls Menopause Hormone Therapy Premarin From Canadian Market",
+   "summary": "Pfizer will stop selling Premarin cream and tablets in Canada after an internal review, adding strain to ongoing menopause drug shortages.",
+   "url": "https://finnhub.io/api/news?id=39afe031132fb99bbf9b60e7aee13846d63885cdbc88634a30ce33da2f80bb95",
+   "source": "Benzinga",
+   "published": "2026-11-13T11:02:02+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "7d0f906ff0b8",
    "headline": "UnitedHealth (UNH) Sees $86.8 Million in Net ETF Buying on Nov. 11",
    "summary": "Fifty-one ETFs bought UnitedHealth stock while nine sold on Wednesday, Nov. 11.",
@@ -3392,6 +3472,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "42db91827747",
+   "headline": "TD Cowen Maintains Buy on Twist Bioscience, Lowers Price Target to $137",
+   "summary": "TD Cowen analyst Brendan Smith maintains Twist Bioscience (NASDAQ:TWST) with a Buy and lowers the price target from $190 to $137.",
+   "url": "https://finnhub.io/api/news?id=07f3feb11d677407816e49c77c53b0131a371eb2075ad9c02ffd43b67b922390",
+   "source": "Benzinga",
+   "published": "2026-11-13T11:00:44+00:00",
+   "tickers": [
+    "TWST"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -52316,203 +52411,6 @@
    "tag": "News",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "23f0a7107660",
-   "headline": "GE HealthCare debuts ceiling-mounted AI image guidance system",
-   "summary": "GE HealthCare has debuted Allia Celeo, a ceiling-mounted image guiding system, at the Transcatheter Cardiovascular Therapeutics (TCT) 2026 conference.",
-   "url": "https://www.fiercebiotech.com/medtech/ge-healthcare-debuts-ceiling-mounted-ai-image-guidance-system",
-   "source": "Fierce Biotech",
-   "published": "2026-11-04T14:45:23.308975+00:00",
-   "tickers": [
-    "GEHC"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "354eda1e5efd",
-   "headline": "Insulin pump maker MiniMed names David Segal chief medical officer",
-   "summary": "MiniMed has hired David Segal, M.D., as its new chief medical officer, bringing in a diabetes care and digital health veteran as the company enters its next chapter as an independent business.",
-   "url": "https://www.fiercebiotech.com/medtech/diabetes-insulin-maker-minimed-hires-david-segal-new-chief-medical-officer",
-   "source": "Fierce Biotech",
-   "published": "2026-11-04T14:45:23.304837+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "54b4dc9fda93",
-   "headline": "Blackstone Life Sciences teams up with Boston Scientific in $455M heart pump deal",
-   "summary": "Blackstone Life Sciences has penned a $455 million collaboration with Boston Scientific to co-fund the development of the medtech\u2019s next-generation miniature heart pump system.",
-   "url": "https://www.fiercebiotech.com/medtech/blackstone-life-sciences-teams-boston-scientific-455m-heart-pump-deal",
-   "source": "Fierce Biotech",
-   "published": "2026-11-04T14:45:23.301467+00:00",
-   "tickers": [
-    "BSX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "c7351353a5ca",
-   "headline": "Smith+Nephew held failed talks with J&J over potential orthopedics combination",
-   "summary": "Smith+Nephew held talks with Johnson & Johnson\u2019s hip-and-knee replacement unit DePuy Synthes aimed at a potential combination with its orthopedics unit.",
-   "url": "https://www.fiercebiotech.com/medtech/smithnephew-held-failed-talks-jj-orthopaedics-biz-combination",
-   "source": "Fierce Biotech",
-   "published": "2026-11-04T14:45:23.300848+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "3bdcf4511730",
-   "headline": "Life Science Instrumentation - Global Strategic Business Report 2026-2032 Featuring ACHB Enterprise, Agilent Technologies, BD, Bio-Rad Labs, Bruker Corp., ChromaCode, Danaher Corp., Emerson Electric Co., Eppendorf, GE Healthcare, Hitachi High-Tech Corp.",
-   "summary": "Dublin, Nov. 04, 2026 (GLOBE NEWSWIRE) -- \"Life Science Instrumentation - Global Strategic Business Report 2026\" has been added to ResearchAndMarkets.com's offering. The global life science instrumentation market, valued at US$57.8\u2026",
-   "url": "https://finnhub.io/api/news?id=a81d573388e64c99eaf1c7690cf9023f6130e37ac8872f13367802c5ee8d4162",
-   "source": "Yahoo",
-   "published": "2026-11-04T14:44:00+00:00",
-   "tickers": [
-    "A",
-    "BRKR",
-    "DHR"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "ea05f54efd8c",
-   "headline": "Norwegian Cruise downgrade, Duolingo upgraded: Wall Street's top analyst calls",
-   "summary": "Norwegian Cruise downgrade, Duolingo upgraded: Wall Street's top analyst calls",
-   "url": "https://finnhub.io/api/news?id=742dad48caf77a0e5c7649d8dce7e591f42610780316a138f0c02981320750d9",
-   "source": "Yahoo",
-   "published": "2026-11-04T14:43:22+00:00",
-   "tickers": [
-    "EW"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "e1ca78a58de4",
-   "headline": "Glycomics / Glycobiology - Global Strategic Business Report 2026: Capitalize on a $4.5 Billion Market by 2032 | Agilent, Bruker, Danaher, Merck, and Thermo Fisher Battle for Share",
-   "summary": "Dublin, Nov. 04, 2026 (GLOBE NEWSWIRE) -- \"Glycomics / Glycobiology - Global Strategic Business Report 2026\" has been added to ResearchAndMarkets.com's offering. The global glycomics / glycobiology market was valued at US$1.8 billion in\u2026",
-   "url": "https://finnhub.io/api/news?id=6743f01f363d1da19897ac720bdef63fde5a1c35feb604f22de9fd206b929023",
-   "source": "Yahoo",
-   "published": "2026-11-04T14:43:00+00:00",
-   "tickers": [
-    "A",
-    "DHR",
-    "MRK",
-    "TMO"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "b3a5b8d59871",
-   "headline": "CVS Splits In Two, The Morning After The Midterms",
-   "summary": "The $78 billion Aetna marriage ends just as a new Democratic Congress gets the keys",
-   "url": "https://finnhub.io/api/news?id=5d46abc2388ca717c247bba5a7831c794bac416189dc285b03af25a310547c33",
-   "source": "Yahoo",
-   "published": "2026-11-04T14:42:20+00:00",
-   "tickers": [
-    "CVS"
-   ],
-   "tag": "Policy",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "37b19c61ad6d",
-   "headline": "AI data center stocks and Musk's companies take hits as Democrats take control",
-   "summary": "The 8:30 hosts, Pras Subramanian, Jake Conley, and Defiance ETFs CIO Sylvia Jablonski, break down the latest market headlines, including the Democrats retaking Congress and its possible negative effects on AI stocks and Elon Musk's\u2026",
-   "url": "https://finnhub.io/api/news?id=7eddfe7e3d99fdbec6cc7c388fa76ac7084caa8d505215ef6e720279cc657b28",
-   "source": "Yahoo",
-   "published": "2026-11-04T14:41:59+00:00",
-   "tickers": [
-    "CVS"
-   ],
-   "tag": "Policy",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "d7e4515991d0",
-   "headline": "Teva Q3 Earnings Beat Estimates, 2026 Revenue View Raised, Stock Up",
-   "summary": "Teva's Q3 earnings beat estimates as strong branded drug sales fueled growth, prompting higher 2026 revenue and product sales guidance.",
-   "url": "https://finnhub.io/api/news?id=45527268cd1f4f4c88527f99d8e55f3b2da4980b5569c136ad97c9a5635a5bfa",
-   "source": "Yahoo",
-   "published": "2026-11-04T14:40:00+00:00",
-   "tickers": [
-    "BMY",
-    "TGTX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "8202c9a56983",
-   "headline": "CORT's Q3 Earnings Beat, Higher Product Sales Aid Y/Y Revenues",
-   "summary": "Corcept's Q3 earnings and revenues beat estimates, driven by strong Lifyorli uptake and higher Korlym sales, as the company advances its pipeline.",
-   "url": "https://finnhub.io/api/news?id=bdab6b38dd7196f2574f6d868f5b2eb3bdf85ed0ebdb9617f8107e2c916e9c4c",
-   "source": "Yahoo",
-   "published": "2026-11-04T14:36:00+00:00",
-   "tickers": [
-    "TGTX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "0ff3c8c5ba4a",
-   "headline": "Divided Government Sends the Dow Up 1000 Points",
-   "summary": "Between big Democratic wins and the Trump White House, the U.S. now has the epitome of divided government.",
-   "url": "https://finnhub.io/api/news?id=5b7794208a14d050308d77927ac102e97a7bdc467dca24a31018d94f48f30a4b",
-   "source": "Yahoo",
-   "published": "2026-11-04T14:34:00+00:00",
-   "tickers": [
-    "CVS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "650760e11a87",
-   "headline": "Are Wall Street Analysts Predicting Johnson & Johnson Stock Will Climb or Sink?",
-   "summary": "Johnson & Johnson has rallied the broader market over the past year, and analysts remain moderately bullish about the stock\u2019s prospects.",
-   "url": "https://finnhub.io/api/news?id=3763cd507fef0ef117eaa81a24aa2ecb3f656c22453eb061879ba8d339dcee32",
-   "source": "Yahoo",
-   "published": "2026-11-04T14:33:57+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
