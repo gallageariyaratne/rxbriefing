@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-14T15:02:08.126642+00:00",
+ "updated": "2026-11-14T15:16:53.054231+00:00",
  "quotes": {
   "ABBV": {
    "price": 295.03,
@@ -157,10 +157,6 @@
   "REGN": {
    "price": 955.47,
    "change_pct": 0.45
-  },
-  "RMD": {
-   "price": 239.53,
-   "change_pct": 0.27
   },
   "SYK": {
    "price": 309.64,
@@ -816,6 +812,21 @@
     "BMY"
    ],
    "tag": "Legal",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "d7ab9391b6c6",
+   "headline": "Regeneron Has $16 Billion in Net Cash and Trades Near 20 Times Earnings. Is It the Cheapest Big Biotech?",
+   "summary": "The stock has climbed more than 40% in one year.",
+   "url": "https://finnhub.io/api/news?id=ab3a9eb88d5c35f3698647ac1cd70a009ea751ddfa88ceb2cb66a63b1555ce00",
+   "source": "Yahoo",
+   "published": "2026-11-14T12:25:00+00:00",
+   "tickers": [
+    "REGN"
+   ],
+   "tag": "Earnings",
    "sectors": [
     "pharma"
    ]
@@ -2547,6 +2558,36 @@
    ]
   },
   {
+   "id": "2be6c987891e",
+   "headline": "Novo Nordisk Scores EU Win For Hemophilia Drug, Advances Sickle Cell Treatment Toward Approval",
+   "summary": "Novo Nordisk secures EU approval for hemophilia therapy Frehemgo and submits US and European applications for sickle cell drug etavopivat.",
+   "url": "https://finnhub.io/api/news?id=0c63a23305b62f3d10ab8d9e4649fd7f296ba649b0211faf26a08e35f3696571",
+   "source": "Benzinga",
+   "published": "2026-11-13T14:05:16+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "981a2fcb6b02",
+   "headline": "Regeneron Drug Lowers Standing Heart Rate And Improves Symptoms In Heart Disease Study",
+   "summary": "Regeneron reports Phase 2 PINNACLE trial data showing baloncibart reduces standing heart rate and improves symptoms in adults with POTS.",
+   "url": "https://finnhub.io/api/news?id=77bde6c2f9fb75c54067a28004db2353af36bb31a6a0cde00a11b3d171c1c274",
+   "source": "Benzinga",
+   "published": "2026-11-13T14:01:01+00:00",
+   "tickers": [
+    "REGN"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "2ea842bd9c73",
    "headline": "STAT+: Senators introduce bill to curb conflicts of interest on preventive care panel",
    "summary": "Some of the panel's members could benefit financially from the decisions they make, STAT's reporting showed.",
@@ -2637,6 +2678,21 @@
    "published": "2026-11-13T13:51:30+00:00",
    "tickers": [
     "JAZZ"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "8a8e6d897d38",
+   "headline": "Morgan Stanley Maintains Equal-Weight on Neurocrine Biosciences, Raises Price Target to $191",
+   "summary": "Morgan Stanley analyst Jeffrey Hung maintains Neurocrine Biosciences (NASDAQ:NBIX) with a Equal-Weight and raises the price target from $185 to $191.",
+   "url": "https://finnhub.io/api/news?id=46523a281a6d355fac5c6e4c84ad41ef8c9c12bbda97a978bf809b8a195b0fcf",
+   "source": "Benzinga",
+   "published": "2026-11-13T13:50:35+00:00",
+   "tickers": [
+    "NBIX"
    ],
    "tag": "Analyst",
    "sectors": [
@@ -3070,6 +3126,21 @@
    "tag": "News",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "8710df803f14",
+   "headline": "Wells Fargo Maintains Equal-Weight on Cigna Group, Raises Price Target to $325",
+   "summary": "Wells Fargo analyst Stephen Baxter maintains Cigna Group (NYSE:CI) with a Equal-Weight and raises the price target from $307 to $325.",
+   "url": "https://finnhub.io/api/news?id=e5ec166e4ad0bf97008140d7be359c57758f483ee9d273ac54644c8f5b078f44",
+   "source": "Benzinga",
+   "published": "2026-11-13T12:24:46+00:00",
+   "tickers": [
+    "CI"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -52132,214 +52203,6 @@
    "tag": "Health AI",
    "sectors": [
     "tools"
-   ]
-  },
-  {
-   "id": "2012f2d6b46a",
-   "headline": "Cell Counting - Global Strategic Business Report 2026: Capitalize on US$6 Billion Growth by 2032 as Abbott, Becton Dickinson, Bio-Rad, Danaher, and Sysmex Drive Automation",
-   "summary": "Capitalize on demand for automated, AI-enabled cell counting across drug discovery, personalized medicine, diagnostics and biopharma quality control.Dublin, Nov. 04, 2026 (GLOBE NEWSWIRE) -- \"Cell Counting - Global Strategic Business\u2026",
-   "url": "https://finnhub.io/api/news?id=15bf55eadd711073c055ebdbac6c5efe3af886355bbe98eb2422637dfaa373bd",
-   "source": "Yahoo",
-   "published": "2026-11-04T15:16:00+00:00",
-   "tickers": [
-    "ABT",
-    "BDX",
-    "DHR"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "29228b3e7c08",
-   "headline": "STAT+: Five midterm winners and losers: MAHA mowed down, Dem docs scrub in, Medicare for All returns",
-   "summary": "Democratic doctors were among the winners in the midterm elections, while the MAHA movement and President Trump's health agenda were losers.",
-   "url": "https://www.statnews.com/2026/11/04/midterm-health-policy-winners-losers-medicare-for-all-rfk-jr/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-11-04T15:15:21+00:00",
-   "tickers": [],
-   "tag": "Policy",
-   "sectors": []
-  },
-  {
-   "id": "7e5624d1e2d9",
-   "headline": "3 Penny Stocks With Revenue Growth Up To 44%",
-   "summary": "Elon Musk\u2019s plan to spend about $100b building a new US wireless network has investors rethinking where the next wave of growth could come from. When giants commit that kind of capital, strong smaller companies trading under US$5 can\u2026",
-   "url": "https://finnhub.io/api/news?id=df5a5c2edf4478b9c096c4ac94d844fa595cb764e430fcd35b6783f0b9dbd807",
-   "source": "Yahoo",
-   "published": "2026-11-04T15:12:24+00:00",
-   "tickers": [
-    "GDRX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharmacy"
-   ]
-  },
-  {
-   "id": "7f07f8683656",
-   "headline": "UnitedHealth Group (UNH) Draws Breakup Pressure As AI Threat Enters The Story",
-   "summary": "UnitedHealth Group (NYSE:UNH) is facing renewed breakup calls from Senator Elizabeth Warren after its Amedisys acquisition settlement. Warren has urged federal regulators to revisit antitrust concerns around UnitedHealth's growing role\u2026",
-   "url": "https://finnhub.io/api/news?id=a7ffd1938f0c17c3362e92325b19ae740af809d95d3b474d4af343f7841c94d1",
-   "source": "Yahoo",
-   "published": "2026-11-04T15:11:57+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "7b13d9525b65",
-   "headline": "AstraZeneca (LSE:AZN) Filing Acceptance In Europe And Japan Puts Lung Cancer Combo Forward",
-   "summary": "AstraZeneca (LSE:AZN) has secured acceptance of regulatory filings in Europe and Japan for the TAGRISSO plus ORPATHYS regimen in MET driven, EGFR mutated non small cell lung cancer. The submissions are backed by phase III data in MET\u2026",
-   "url": "https://finnhub.io/api/news?id=fedb8f5885d5546c380d7fb5a0e12ebab44affe02576d763b8a722f60787936c",
-   "source": "Yahoo",
-   "published": "2026-11-04T15:11:32+00:00",
-   "tickers": [
-    "AZN"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "e731e350e95b",
-   "headline": "Pfizer Q3: The Street Is Pricing In Too Much Deceleration For This 5.7% Yield",
-   "summary": "",
-   "url": "https://finnhub.io/api/news?id=c13b573971de45faab7ab3eda38229eae38367d8df8bd67eda7c0afd55fdcba8",
-   "source": "SeekingAlpha",
-   "published": "2026-11-04T15:10:30+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "9dcc0acf9243",
-   "headline": "Wegovy pill launch 'exceeded our expectations': Novo Nordisk CEO",
-   "summary": "Novo Nordisk (NVO) CEO and president Mike Doustdar sits down Yahoo Finance Executive Editor Brian Sozzi to discuss the success that the pharmaceutical giant has seen in launching its Wegovy GLP-1 weight-loss pill.",
-   "url": "https://finnhub.io/api/news?id=dac59d05b43c5c6836f4a3f6783ff2f702382cecb8cb3519d11094e72bd466ab",
-   "source": "Yahoo",
-   "published": "2026-11-04T15:10:23+00:00",
-   "tickers": [
-    "NVO"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "c35519e47519",
-   "headline": "Is Glaukos (GKOS) Still Cheap After Record Sales And Profit?",
-   "summary": "Glaukos has turned into one of the market\u2019s stronger healthcare stories in 2026, with the share price climbing sharply as investors respond to record sales, index moves and a shift into profitability. With the stock now at US$233.04, the\u2026",
-   "url": "https://finnhub.io/api/news?id=e4cb504e8ca093314bd99d027bafbcf90e86471f9bf4981737768bbd6e1a8ce7",
-   "source": "Yahoo",
-   "published": "2026-11-04T15:10:10+00:00",
-   "tickers": [
-    "GKOS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "5fb3cd4ae8ec",
-   "headline": "Abbott Laboratories (ABT) Posted Positive Trial Results For Two Heart Devices",
-   "summary": "Abbott Laboratories (NYSE:ABT) reported positive one year VERITAS trial outcomes for its Amulet 360 device in atrial fibrillation patients. The Amulet 360 Left Atrial Appendage Occluder showed high safety and efficacy for stroke risk\u2026",
-   "url": "https://finnhub.io/api/news?id=41011d995618cb16720a31b186e50dcb1865d70ee21d319fc3540ca6c8d2f055",
-   "source": "Yahoo",
-   "published": "2026-11-04T15:09:25+00:00",
-   "tickers": [
-    "ABT"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "deb56cabb437",
-   "headline": "TD Cowen Maintains Hold on American Well, Raises Price Target to $13",
-   "summary": "TD Cowen analyst Charles Rhyee maintains American Well (NYSE:AMWL) with a Hold and raises the price target from $12 to $13.",
-   "url": "https://finnhub.io/api/news?id=9f6c1d99ea87346556bfea2cd7d6a8bec2f2ac2b2b3337479f87ab9e6ed6056d",
-   "source": "Benzinga",
-   "published": "2026-11-04T15:08:07+00:00",
-   "tickers": [
-    "AMWL"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "76fd2dbd5e5a",
-   "headline": "Barclays Maintains Overweight on Waters, Raises Price Target to $530",
-   "summary": "Barclays analyst Luke Sergott maintains Waters (NYSE:WAT) with a Overweight and raises the price target from $500 to $530.",
-   "url": "https://finnhub.io/api/news?id=481c1150191968e2bd0af2ba081ddb522146c566566eff7f70a4b85deb6c421c",
-   "source": "Benzinga",
-   "published": "2026-11-04T15:05:25+00:00",
-   "tickers": [
-    "WAT"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "911d36b1f362",
-   "headline": "Barclays Maintains Overweight on Vertex Pharmaceuticals, Raises Price Target to $626",
-   "summary": "Barclays analyst Eliana Merle maintains Vertex Pharmaceuticals (NASDAQ:VRTX) with a Overweight and raises the price target from $617 to $626.",
-   "url": "https://finnhub.io/api/news?id=e477e4cf80e9f3ba66a41ee86b55a769769c20fd2e7bb272411c005a2d0f4077",
-   "source": "Benzinga",
-   "published": "2026-11-04T15:04:16+00:00",
-   "tickers": [
-    "VRTX"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "c2dcc7355c13",
-   "headline": "TD Cowen Maintains Buy on Amgen, Raises Price Target to $531",
-   "summary": "TD Cowen analyst Yaron Werber maintains Amgen (NASDAQ:AMGN) with a Buy and raises the price target from $452 to $531.",
-   "url": "https://finnhub.io/api/news?id=bd0b4251e5eee5f66562d9342ead23e60db2bbc020bb44d3b8921e81b53ae9aa",
-   "source": "Benzinga",
-   "published": "2026-11-04T15:02:43+00:00",
-   "tickers": [
-    "AMGN"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "aa6d0d51a67c",
-   "headline": "Novo Nordisk Stock Shrugs Off Eli Lilly Threat as Weight-Loss Pill Shines in Earnings",
-   "summary": "The Danish drugmaker has had a dismal year, but its third-quarter earnings on Wednesday finally gave the market a reason to feel hopeful.",
-   "url": "https://finnhub.io/api/news?id=cf1a90b4c9ac714bb1e96f59ee962adad5c6cb81c564adc43a0517682f6ca254",
-   "source": "Yahoo",
-   "published": "2026-11-04T15:02:00+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
