@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-14T00:17:19.272414+00:00",
+ "updated": "2026-11-14T00:32:27.882152+00:00",
  "quotes": {
   "ABBV": {
    "price": 295.03,
@@ -249,6 +249,14 @@
   "UTHR": {
    "price": 591.17,
    "change_pct": -0.36
+  },
+  "VEEV": {
+   "price": 301.53,
+   "change_pct": -0.29
+  },
+  "VRTX": {
+   "price": 538.6,
+   "change_pct": -0.74
   },
   "ZBH": {
    "price": 103.21,
@@ -877,7 +885,9 @@
    "source": "Yahoo",
    "published": "2026-11-13T23:02:02+00:00",
    "tickers": [
-    "MCK"
+    "COR",
+    "MCK",
+    "VRTX"
    ],
    "tag": "News",
    "sectors": [
@@ -927,6 +937,21 @@
    "sectors": []
   },
   {
+   "id": "dab7e26f9d28",
+   "headline": "Update: FTC Sues to Block Covetrus' $3.5 Billion Acquisition of Cencora's MWI Veterinary Supply",
+   "summary": "(Updated to add Covetrus' comment in paragraph four.) Cencora (COR), the parent company of MWI Ve",
+   "url": "https://finnhub.io/api/news?id=e3b465678de2f796cebef7afb00eb153cf5e273db99af3b73d768206cd7b93bb",
+   "source": "Yahoo",
+   "published": "2026-11-13T22:14:39+00:00",
+   "tickers": [
+    "COR"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
+  {
    "id": "3352826055c3",
    "headline": "STAT+: Democrats coalesce around \u2018Medicare for More,\u2019 \u2018Medikids\u2019 proposals",
    "summary": "Democrats are coalescing around a plan to offer Medicare to more Americans, if not all of them.",
@@ -961,6 +986,21 @@
    "tag": "News",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "00cd68e2cfa3",
+   "headline": "Bullfrog AI Holdings Inc. (BFRG) Reports Q3 Loss, Lags Revenue Estimates",
+   "summary": "Bullfrog AI Holdings Inc. (BFRG) delivered earnings and revenue surprises of -22.22% and -71.10%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=eace24ea1445f2b0e291f34f9930a65f0c5935e1b545b24d587ed5b8b4d2b3cc",
+   "source": "Yahoo",
+   "published": "2026-11-13T21:25:01+00:00",
+   "tickers": [
+    "VEEV"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
    ]
   },
   {
@@ -57428,21 +57468,6 @@
    "tickers": [
     "ILMN",
     "ZTS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "f72bbf0b9dac",
-   "headline": "How To Earn $500 A Month From Pfizer Stock Ahead Of Q3 Earnings",
-   "summary": "Pfizer Inc investors may be eyeing potential gains from the company\u2019s dividends ahead of its third-quarter report on Tuesday, Nov. 3. Currently, Pfizer has an annual dividend yield of 5.64%, with a quarterly dividend of 43 cents per share\u2026",
-   "url": "https://finnhub.io/api/news?id=454acbb7ba2968abdde25d99040a3844b9610ec3b05445f87a0ca8f98cf40830",
-   "source": "Yahoo",
-   "published": "2026-11-04T00:30:07+00:00",
-   "tickers": [
-    "PFE"
    ],
    "tag": "Earnings",
    "sectors": [
