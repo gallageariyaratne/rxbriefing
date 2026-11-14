@@ -1,7 +1,19 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-14T12:32:09.367731+00:00",
+ "updated": "2026-11-14T12:46:57.558275+00:00",
  "quotes": {
+  "ABBV": {
+   "price": 295.03,
+   "change_pct": 0.2
+  },
+  "ABT": {
+   "price": 108.52,
+   "change_pct": 1.18
+  },
+  "ALNY": {
+   "price": 165.04,
+   "change_pct": 5.36
+  },
   "AMGN": {
    "price": 465.67,
    "change_pct": -0.3
@@ -858,7 +870,8 @@
    "source": "Yahoo",
    "published": "2026-11-14T10:04:00+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "PFE"
    ],
    "tag": "News",
    "sectors": [
@@ -1587,7 +1600,8 @@
    "source": "Yahoo",
    "published": "2026-11-13T17:39:28+00:00",
    "tickers": [
-    "CI"
+    "CI",
+    "UNH"
    ],
    "tag": "News",
    "sectors": [
@@ -1602,7 +1616,8 @@
    "source": "Yahoo",
    "published": "2026-11-13T17:39:22+00:00",
    "tickers": [
-    "JNJ"
+    "JNJ",
+    "PFE"
    ],
    "tag": "News",
    "sectors": [
@@ -54085,172 +54100,6 @@
    "tag": "Analyst",
    "sectors": [
     "medtech"
-   ]
-  },
-  {
-   "id": "68e66a4c3fef",
-   "headline": "CVS reveals plans to split into two companies",
-   "summary": "CVS Health is splitting up. The healthcare giant announced Wednesday morning that it would divide its business units into two companies.",
-   "url": "https://www.fiercehealthcare.com/payers/cvs-reveals-plans-split-two-companies",
-   "source": "Fierce Healthcare",
-   "published": "2026-11-04T12:45:25.147066+00:00",
-   "tickers": [
-    "CVS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "46cb58fa782b",
-   "headline": "AbbVie pens $1.4B deal for deprioritized IBD drug from Nxera",
-   "summary": "AbbVie has added another angle to its relationship with Nxera, with the Big Pharma paying $100 million upfront for a phase 1 inflammatory bowel disease candidate.",
-   "url": "https://www.fiercebiotech.com/biotech/abbvie-pens-14b-deal-deprioritized-ibd-drug-nxera",
-   "source": "Fierce Biotech",
-   "published": "2026-11-04T12:45:24.863715+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "9b7c8c3e214d",
-   "headline": "Truist Securities Reiterates Buy on Madrigal Pharmaceuticals, Raises Price Target to $743",
-   "summary": "Truist Securities analyst Srikripa Devarakonda reiterates Madrigal Pharmaceuticals (NASDAQ:MDGL) with a Buy and raises the price target from $709 to $743.",
-   "url": "https://finnhub.io/api/news?id=cefed0e8a9b28e61d809b3b5c974bfb2ecee6f7603e2aa40b6ca577052f31933",
-   "source": "Benzinga",
-   "published": "2026-11-04T12:45:14+00:00",
-   "tickers": [
-    "MDGL"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "2ecd339a887b",
-   "headline": "The Market Loves the Democrat Sweep. It\u2019s More Complicated for AI Stocks.",
-   "summary": "All the news you need before the market opens.",
-   "url": "https://finnhub.io/api/news?id=8d70a069558e29c3e987c9ca10b0616d6eaf9cf001704094b75f5c261bb960ed",
-   "source": "Yahoo",
-   "published": "2026-11-04T12:45:00+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "8321167595df",
-   "headline": "HP Names Emma Walmsley as New CEO, Ending Monthlong Search",
-   "summary": "HP Inc. named former GSK Plc chief executive officer Emma Walmsley as its new CEO, permanently filling the role after HP\u2019s Enrique Lores departed earlier this year.",
-   "url": "https://finnhub.io/api/news?id=1ac6c7e67a2b1564b7d6e41a45076648bf3d8b6f7954454afdbd32a630f59d28",
-   "source": "Yahoo",
-   "published": "2026-11-04T12:44:39+00:00",
-   "tickers": [
-    "GSK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "5fe83c6ca64e",
-   "headline": "United Therapeutics (NASDAQ:UTHR) Revenue Beats as R&D Costs Weigh on Earnings",
-   "summary": "United Therapeutics (UTHR) Q3 revenue beat but EPS missed; Tyvaso DPI growth and buyback news lift shares despite higher R&D costs.",
-   "url": "https://finnhub.io/api/news?id=6078b287b0ca82828767e8fcffae067e291f8a9046375cd9e5de9c3340d63223",
-   "source": "ChartMill",
-   "published": "2026-11-04T12:43:30+00:00",
-   "tickers": [
-    "UTHR"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "7425bf5501cb",
-   "headline": "CVS announces plan to split into 2 companies, separating pharmacy from insurance",
-   "summary": "CVS announced plans to separate into two independent, publicly traded companies on Wednesday, reshaping one of the largest healthcare companies in the US.",
-   "url": "https://finnhub.io/api/news?id=c27f37947f10ad07f4ed5a6c3842ec62a839ead069cc5f11fe9fa24452bcd9b9",
-   "source": "Yahoo",
-   "published": "2026-11-04T12:42:51+00:00",
-   "tickers": [
-    "CVS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "c31b852b959a",
-   "headline": "Bristol-Myers Squibb (NYSE:BMY) Breakout Setup Backed by Technical Strength",
-   "summary": "Bristol-Myers Squibb (BMY) passes a technical breakout screen with strong trend and setup ratings, tight consolidation, and defined risk levels.",
-   "url": "https://finnhub.io/api/news?id=0867928bb2f01bba94fb886702faa0561f3b274efa4710d980774c3090e1a2d2",
-   "source": "ChartMill",
-   "published": "2026-11-04T12:40:57+00:00",
-   "tickers": [
-    "BMY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "884cfed9665d",
-   "headline": "Ultragenyx: Still Lacking Appeal Despite 'Commercial-First' Pivot",
-   "summary": "Ultragenyx remains a cautious Hold as R&D cuts support profitability, while CRYSVITA concentration and pipeline setbacks cloud growth. Learn more about RARE stock here.",
-   "url": "https://finnhub.io/api/news?id=70edcf97da192fd2013278cd7d2d2a487f0e00aaee1afcb75edb54d5ebd7f1b2",
-   "source": "SeekingAlpha",
-   "published": "2026-11-04T12:38:28+00:00",
-   "tickers": [
-    "RARE"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "c0d6618e7628",
-   "headline": "AbbVie bolsters UK R&D presence, inks $1.38bn IBD deal with Nxera",
-   "summary": "AbbVie will use the Oxford site to advance treatments for immunological, neurological and oncological diseases.",
-   "url": "https://finnhub.io/api/news?id=250c6fc2108a4707ac8623fbc15463f12adc1a4c94aa57fed05e64f1bb2848aa",
-   "source": "Yahoo",
-   "published": "2026-11-04T12:36:25+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "18e825e6e5bf",
-   "headline": "Viking Therapeutics Trades 23% Below Its Own $35 Secondary Offering Price. Here's Why That Could Be a Gift for Patient Investors.",
-   "summary": "Viking aims to enter the weight loss drug market.",
-   "url": "https://finnhub.io/api/news?id=ba208daa22a9d85875fbe62ba5814206a58ba7e904c423bb6a561c38ed0c9cb3",
-   "source": "Yahoo",
-   "published": "2026-11-04T12:35:00+00:00",
-   "tickers": [
-    "LLY",
-    "VKTX"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
