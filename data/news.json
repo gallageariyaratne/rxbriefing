@@ -1,10 +1,14 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-15T18:31:33.349877+00:00",
+ "updated": "2026-11-15T18:46:35.581396+00:00",
  "quotes": {
   "ABBV": {
    "price": 295.03,
    "change_pct": 0.2
+  },
+  "AMGN": {
+   "price": 465.67,
+   "change_pct": -0.3
   },
   "AZN": {
    "price": 184.45,
@@ -97,6 +101,10 @@
   "TGTX": {
    "price": 64.51,
    "change_pct": -0.08
+  },
+  "UHS": {
+   "price": 194.07,
+   "change_pct": 0.12
   },
   "VKTX": {
    "price": 29.22,
@@ -740,6 +748,7 @@
    "source": "Yahoo",
    "published": "2026-11-15T17:00:51+00:00",
    "tickers": [
+    "AMGN",
     "REGN"
    ],
    "tag": "News",
@@ -769,6 +778,21 @@
     "CVS"
    ],
    "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "3715dd898b7c",
+   "headline": "Universal Health Services Bets on Hospital Recovery as Medicaid Payments Fall in 2027",
+   "summary": "Universal Health Services (NYSE:UHS) expects improving performance at three struggling hospitals to help offset a significant decline in nonrecurring Medicaid supplemental payments in 2027, Chief Financial Officer Steve Filton said at an\u2026",
+   "url": "https://finnhub.io/api/news?id=b76d83dbd8377d87e1a1b183fd12b69a62edb808834be84a36d873d99d23ee9d",
+   "source": "Yahoo",
+   "published": "2026-11-15T16:12:05+00:00",
+   "tickers": [
+    "UHS"
+   ],
+   "tag": "Policy",
    "sectors": [
     "payers"
    ]
@@ -40861,111 +40885,6 @@
    "tag": "Earnings",
    "sectors": [
     "tools"
-   ]
-  },
-  {
-   "id": "57c41a4a0792",
-   "headline": "Doximity Stock Slips on Q2 Earnings: Key Details",
-   "summary": "Doximity Inc (NYSE:DOCS) shares are moving lower in extended trading Thursday after the company reported second-quarter results.",
-   "url": "https://finnhub.io/api/news?id=4be6e9b5d6c82ba6b31938d305d4baa27c59bbc00ff00f228ac5940480fb6192",
-   "source": "Benzinga",
-   "published": "2026-11-05T18:44:48+00:00",
-   "tickers": [
-    "DOCS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "f26f855b0550",
-   "headline": "Globus Medical Q3 2026 Earnings Call Transcript",
-   "summary": "Globus Medical (NYSE:GMED) reported third-quarter financial results on Thursday. The transcript from the company\u2019s third-quarter earnings call has been provided below.This transcript is brought to you by Benzinga APIs.",
-   "url": "https://finnhub.io/api/news?id=8ab8011382c4e0635962315ccb7e4c1c68aff050e16a87c257eef9e658d6ef15",
-   "source": "Benzinga",
-   "published": "2026-11-05T18:44:14+00:00",
-   "tickers": [
-    "GMED"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "897455b77e18",
-   "headline": "Guardant Health Q3 2026 Earnings Call Transcript",
-   "summary": "Guardant Health (NASDAQ:GH) reported third-quarter financial results on Thursday. The transcript from the company\u2019s third-quarter earnings call has been provided below.This transcript is brought to you by Benzinga APIs.",
-   "url": "https://finnhub.io/api/news?id=83ea5f7e88552ebf8d9063b4339bb651c7baa663385c255524124cc4a15dd101",
-   "source": "Benzinga",
-   "published": "2026-11-05T18:37:02+00:00",
-   "tickers": [
-    "GH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "292345a40a76",
-   "headline": "FDA Grants Accelerated Approval To Rybrevant Faspro For Recurrent Or Metastatic Head And Neck Squamous Cell Carcinoma",
-   "summary": "https://www.fda.gov/news-events/press-announcements/fda-grants-accelerated-approval-new-treatment-head-and-neck-squamous-cell-carcinoma",
-   "url": "https://finnhub.io/api/news?id=55c76547551eff5f9031f9faea26b9260da2ff9b7dcdb862158280261901585e",
-   "source": "Benzinga",
-   "published": "2026-11-05T18:36:50+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "fbb108daed9f",
-   "headline": "iRhythm Technologies Q3 2026 Earnings Call Transcript",
-   "summary": "iRhythm Technologies (NASDAQ:IRTC) reported third-quarter financial results on Thursday. The transcript from the company\u2019s third-quarter earnings call has been provided below.This transcript is brought to you by",
-   "url": "https://finnhub.io/api/news?id=15a02bb6650a19e86abcd23981d6872e555e7b03279f5bba0e0956345ba0b546",
-   "source": "Benzinga",
-   "published": "2026-11-05T18:35:08+00:00",
-   "tickers": [
-    "IRTC"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "197c3017dfd2",
-   "headline": "CVS split leaves shareholders with two stocks and three big questions",
-   "summary": "CVS Health shareholders will own both halves of the breakup. 3M\u2019s split shows why the fine print matters more than the headline.",
-   "url": "https://finnhub.io/api/news?id=5d38c6185f8c985d8441ed1fa59f3c6ad2e46713d4fb1c8e374a044637e026bd",
-   "source": "Yahoo",
-   "published": "2026-11-05T18:33:00+00:00",
-   "tickers": [
-    "CVS"
-   ],
-   "tag": "Legal",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "e57cf6df9b69",
-   "headline": "Halozyme Therapeutics Q3 2026 Earnings Call Transcript",
-   "summary": "Halozyme Therapeutics (NASDAQ:HALO) reported third-quarter financial results on Thursday. The transcript from the company\u2019s third-quarter earnings call has been provided below.This transcript is brought to you by",
-   "url": "https://finnhub.io/api/news?id=75101e9e53e9c9107c57fcdc74cf6254c5294c0925346bfd6631337f7dda279c",
-   "source": "Benzinga",
-   "published": "2026-11-05T18:32:02+00:00",
-   "tickers": [
-    "HALO"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
    ]
   }
  ]
