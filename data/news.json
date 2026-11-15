@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-15T09:16:38.958708+00:00",
+ "updated": "2026-11-15T09:31:27.694707+00:00",
  "quotes": {
   "ABBV": {
    "price": 295.03,
@@ -77,6 +77,10 @@
   "NVO": {
    "price": 41.63,
    "change_pct": 2.41
+  },
+  "NVS": {
+   "price": 160.5,
+   "change_pct": 0.16
   },
   "PFE": {
    "price": 28.89,
@@ -744,6 +748,21 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "49069e82ede9",
+   "headline": "3 Space Stocks To Watch As Cheaper Launches Reshape Satellite Economics",
+   "summary": "SpaceX\u2019s latest Starship flight turned what sounded like science fiction into a live demo of cheaper, higher capacity access to orbit, and that ripples far beyond one private company. Lower launch costs can reshape the economics of\u2026",
+   "url": "https://finnhub.io/api/news?id=00bce05efa116c301dd529180b17a0268ee6955cf26cb523d454bf167e16abf5",
+   "source": "Yahoo",
+   "published": "2026-11-15T03:14:08+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -47346,80 +47365,6 @@
    "tag": "News",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "5dc2e966fd57",
-   "headline": "STAT+: What the midterms could mean for the future of health AI",
-   "summary": "The midterms highlighted the negative sentiment around AI across the U.S. How will those attitudes trickle down to legislating AI use in health care?",
-   "url": "https://www.statnews.com/2026/11/05/midterms-shape-future-ai-in-health-care-fda/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-11-05T09:30:00+00:00",
-   "tickers": [],
-   "tag": "Health AI",
-   "sectors": []
-  },
-  {
-   "id": "1bbdc0d831ee",
-   "headline": "STAT+: As more doctors consult chatbots, health systems can block them \u2014 or buy in",
-   "summary": "As hundreds of thousands of doctors consult AI chatbots to make care decisions, health systems see new risks to patients' health data.",
-   "url": "https://www.statnews.com/2026/11/05/doctors-use-ai-chatbots-hipaa-compliance-questions/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-11-05T09:30:00+00:00",
-   "tickers": [],
-   "tag": "Health AI",
-   "sectors": []
-  },
-  {
-   "id": "7ea93072ba3c",
-   "headline": "STAT+: In China, a flood of controversial clinical trials slows to a trickle",
-   "summary": "Following patient deaths, China restricts investigator-initiated biotech trials, leaving rare disease families and US investors facing an uncertain future.",
-   "url": "https://www.statnews.com/2026/11/05/china-biotech-restrictions-impact-rare-disease-investigator-initiated-trial/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-11-05T09:30:00+00:00",
-   "tickers": [],
-   "tag": "Clinical",
-   "sectors": []
-  },
-  {
-   "id": "74eb86c8c1fd",
-   "headline": "Opinion: I\u2019m a neurosurgeon. I\u2019ve learned pain and suffering are very different things",
-   "summary": "\u201cThe cruelest response to suffering is to attempt to explain it away,\u201d writes neurosurgeon Stephen Doran.",
-   "url": "https://www.statnews.com/2026/11/05/neurosurgeon-difference-between-pain-suffering-assisted-dying/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-11-05T09:30:00+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "07e17bf22fc1",
-   "headline": "Zimmer Biomet Stock Rises On Raised 2026 Guidance And Robotics Push",
-   "summary": "Zimmer Biomet Holdings reported Q3 2026 revenue of US$2,062.9 million and net income of US$191.6 million, and raised full year 2026 sales and adjusted EPS guidance after strength in hips, SET, and technology and data offerings. The\u2026",
-   "url": "https://finnhub.io/api/news?id=450b9ea3e16b2f752c2d92b785b4ba6e09e2c5b96ab54108c9202cde6d35c083",
-   "source": "Yahoo",
-   "published": "2026-11-05T09:18:33+00:00",
-   "tickers": [
-    "ZBH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "9be9dfd7681e",
-   "headline": "CVS Health Corporation: Separation Noise Meets Improving Fundamentals - Buy The Meltdown",
-   "summary": "CVS turnaround gains traction as insurance and retail pharmacy margins recover.",
-   "url": "https://finnhub.io/api/news?id=c6b817431194824aae289659b62a8ee04f806ec9fb871e0770434d35e5cc58f9",
-   "source": "SeekingAlpha",
-   "published": "2026-11-05T09:17:50+00:00",
-   "tickers": [
-    "CVS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
    ]
   }
  ]
