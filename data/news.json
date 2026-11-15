@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-15T15:01:42.272190+00:00",
+ "updated": "2026-11-15T15:16:32.980366+00:00",
  "quotes": {
   "ABBV": {
    "price": 295.03,
@@ -21,6 +21,10 @@
   "CLOV": {
    "price": 4.96,
    "change_pct": 1.64
+  },
+  "CVS": {
+   "price": 89.35,
+   "change_pct": -0.49
   },
   "GSK": {
    "price": 50.45,
@@ -709,6 +713,36 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "40a2ec682aed",
+   "headline": "STAT+: FDA rejects lung cancer treatment ivonescimab from Summit Therapeutics",
+   "summary": "The FDA has rejected ivonescimab, a treatment for a type of lung cancer developed by U.S. biotech Summit Therapeutics and the Chinese drugmaker Akeso.",
+   "url": "https://www.statnews.com/2026/11/15/fda-rejects-ivonescimab-lung-cancer-treatment-summit-therapeutics/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-11-15T15:05:15+00:00",
+   "tickers": [
+    "SMMT"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "ba502a488e3e",
+   "headline": "CVS Health study highlights GLP-1 benefits and the affordability challenge",
+   "summary": "Real-world analysis finds better outcomes and lower medical spending, but current prices limit the full economic value WOONSOCKET, R.I., Nov. 15, 2026 /PRNewswire/ -- CVS Health today released new research grounded in real-world data that\u2026",
+   "url": "https://www.prnewswire.com/news-releases/cvs-health-study-highlights-glp-1-benefits-and-the-affordability-challenge-302939570.html",
+   "source": "PR Newswire",
+   "published": "2026-11-15T15:00:00+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "payers"
+   ]
+  },
   {
    "id": "38ca6a5c929d",
    "headline": "How Much Does a 65-Year-Old Need Invested in Dividend Stocks to Collect $2,000 a Month?",
@@ -43162,111 +43196,6 @@
    "tag": "Analyst",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "85101ab8f79e",
-   "headline": "AstraZeneca said to offer $10B to acquire Rhythm, analysts whisper of a bidding war",
-   "summary": "AstraZeneca has made a roughly $10 billion offer to purchase rare obesity disease player Rhythm Pharmaceuticals, The Wall Street Journal reports. At least three teams of analysts suggest a bidding war could be brewing and that Rhythm is\u2026",
-   "url": "https://www.fiercebiotech.com/pharma/astrazeneca-offers-10b-acquire-rhythm-analysts-whisper-bidding-war",
-   "source": "Fierce Biotech",
-   "published": "2026-11-05T15:15:20.112627+00:00",
-   "tickers": [
-    "AZN"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "005973165b60",
-   "headline": "Barclays Maintains Overweight on Ultragenyx Pharmaceutical, Lowers Price Target to $32",
-   "summary": "Barclays analyst Eliana Merle maintains Ultragenyx Pharmaceutical (NASDAQ:RARE) with a Overweight and lowers the price target from $35 to $32.",
-   "url": "https://finnhub.io/api/news?id=a8207c4e607fdd89e3cdaea784ec4ed1257adc5585b4818cd4949347c99fe49d",
-   "source": "Benzinga",
-   "published": "2026-11-05T15:13:39+00:00",
-   "tickers": [
-    "RARE"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "91f18cbb553e",
-   "headline": "CapMan Oyj (OHEL:CAPMAN) (Q3 2026) Earnings Call Highlights: Revenue Jumps 19% as AUM Hits EUR ...",
-   "summary": "CapMan Oyj (OHEL:CAPMAN) posted strong top-line growth and record investor distributions in Q3 2026, yet flat fee profit and delayed real asset fundraising tempered the quarter's momentum.",
-   "url": "https://finnhub.io/api/news?id=38c12d126bed5aa68d99238ebe356f3b689b7673e811f443e847b0d3dec5db85",
-   "source": "Yahoo",
-   "published": "2026-11-05T15:10:23+00:00",
-   "tickers": [
-    "NVS"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "05a8ff42a94d",
-   "headline": "CVS Health Drops 12% on Breakup Plan",
-   "summary": "CVS shares fell about 12.5% following the restructuring announcement.",
-   "url": "https://finnhub.io/api/news?id=fa46791cc4787630b860efc244684f2d6beb8c2168eb2160de522531445cb7ba",
-   "source": "Yahoo",
-   "published": "2026-11-05T15:04:10+00:00",
-   "tickers": [
-    "CVS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "cc1ea4e98c4d",
-   "headline": "RBC Capital Maintains Outperform on Edwards Lifesciences, Raises Price Target to $115",
-   "summary": "RBC Capital analyst Kendall Au maintains Edwards Lifesciences (NYSE:EW) with a Outperform and raises the price target from $110 to $115.",
-   "url": "https://finnhub.io/api/news?id=9f9d52d48411bece5cc1e6a531a9eb4f76086e2462a42a2158bc3dbcf3d2b14d",
-   "source": "Benzinga",
-   "published": "2026-11-05T15:03:17+00:00",
-   "tickers": [
-    "EW"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "439c60cec13c",
-   "headline": "Novo Nordisk A/S: Trading in Novo Nordisk shares by board members, executives and associated persons",
-   "summary": "Bagsv\u00e6rd, Denmark. 5 November 2026 \u2013 This company announcement discloses the data of the transaction(s) made in Novo Nordisk shares by the company\u2019s board members, executives and their associated persons in accordance with Article 19 of\u2026",
-   "url": "https://finnhub.io/api/news?id=288fab30aeb2c9d31c677a49fb23ff2db7b4453a239d3d386999d1991c2d59bd",
-   "source": "Yahoo",
-   "published": "2026-11-05T15:02:00+00:00",
-   "tickers": [
-    "NVO"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "8007804b8ab1",
-   "headline": "The Cigna Group Reports Third Quarter 2026 Revenues of $73.7 billion and Raises Full Year Outlook",
-   "summary": "",
-   "url": "https://finnhub.io/api/news?id=cdc06e11e52c5b6fc8bf4a53f77a23f3bc284d8bd6e78258a245105b65b27c65",
-   "source": "Fintel",
-   "published": "2026-11-05T15:01:35+00:00",
-   "tickers": [
-    "CI"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
    ]
   }
  ]
