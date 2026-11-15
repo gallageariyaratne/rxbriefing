@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-15T07:31:34.443294+00:00",
+ "updated": "2026-11-15T07:46:33.510426+00:00",
  "quotes": {
   "ABBV": {
    "price": 295.03,
@@ -37,6 +37,10 @@
   "HIMS": {
    "price": 19.73,
    "change_pct": 0
+  },
+  "HUM": {
+   "price": 450,
+   "change_pct": 1.42
   },
   "IRTC": {
    "price": 91.91,
@@ -715,6 +719,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "efc1704cf04c",
+   "headline": "Humana (HUM) Launched A New Cancer Care Model",
+   "summary": "Humana (NYSE:HUM) introduced a new cancer care model with Evolent Health and American Oncology Network, focused on quality and affordability. The collaboration uses advanced data analytics and real time insights to support oncologists and\u2026",
+   "url": "https://finnhub.io/api/news?id=123a912218cbb52c64b71aa30b58b9e0a48b7a13f32252a0a20d17e72c94270c",
+   "source": "Yahoo",
+   "published": "2026-11-15T06:07:11+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
   },
   {
    "id": "278a61eed3cf",
@@ -47773,36 +47792,6 @@
    "tickers": [],
    "tag": "FDA",
    "sectors": []
-  },
-  {
-   "id": "7aa3c8b898ab",
-   "headline": "Cardinal Health Q1 Adj. EPS $3.26 Beats $2.94 Estimate, Sales $67.513B Beat $66.588B Estimate",
-   "summary": "Cardinal Health (NYSE:CAH) reported quarterly earnings of $3.26 per share which beat the analyst consensus estimate of $2.94 by 10.88 percent. This is a 27.84 percent increase over earnings of $2.55 per share from the",
-   "url": "https://finnhub.io/api/news?id=6d5a1b19e9f539c7c9b694025941c0d37502afb6f94519b17c71d2d8e74a82c8",
-   "source": "Benzinga",
-   "published": "2026-11-05T07:45:38+00:00",
-   "tickers": [
-    "CAH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharmacy"
-   ]
-  },
-  {
-   "id": "1a1d4ddda0d4",
-   "headline": "Cardinal Health Raises FY2027 Adj EPS Guidance from $12.40-$12.60 to $12.80-$13.00 vs $12.56 Est",
-   "summary": "Cardinal Health (NYSE:CAH) raises FY2027 Adj EPS guidance from $12.40-$12.60 to $12.80-$13.00 vs $12.56 analyst estimate..",
-   "url": "https://finnhub.io/api/news?id=44d49d6f6623be81feee9e0679bb8c259ed8e3ae48928407fbbf1d67979407fa",
-   "source": "Benzinga",
-   "published": "2026-11-05T07:45:33+00:00",
-   "tickers": [
-    "CAH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharmacy"
-   ]
   }
  ]
 }
