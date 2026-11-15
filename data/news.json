@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-15T16:01:44.916671+00:00",
+ "updated": "2026-11-15T16:16:30.830577+00:00",
  "quotes": {
   "ABBV": {
    "price": 295.03,
@@ -25,6 +25,10 @@
   "CVS": {
    "price": 89.35,
    "change_pct": -0.49
+  },
+  "DHR": {
+   "price": 233.02,
+   "change_pct": 0.37
   },
   "GSK": {
    "price": 50.45,
@@ -801,6 +805,21 @@
    "sectors": [
     "biotech",
     "pharma"
+   ]
+  },
+  {
+   "id": "88176d8d6dae",
+   "headline": "A $5.9 Billion Fund Bought These 3 Stocks",
+   "summary": "Key TakeawaysA $5. 9 billion fund more than tripled its Alphabet stake and added heavily to Danaher and Visa in the quarter ended June 30.",
+   "url": "https://finnhub.io/api/news?id=426d8359ec3218ecab8060ad8f058b9abbae82a771f8a4224287f7618a9ef1a2",
+   "source": "Yahoo",
+   "published": "2026-11-15T12:52:32+00:00",
+   "tickers": [
+    "DHR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -2354,6 +2373,21 @@
    "published": "2026-11-13T17:49:47+00:00",
    "tickers": [
     "AZN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "53134650ec44",
+   "headline": "AbbVie or Johnson & Johnson: Only One Gets My Dividend Dollars for the Next 20 Years",
+   "summary": "Key TakeawaysAbbVie raised its quarterly dividend 5% on Oct. 30, while Johnson & Johnson took a $5.",
+   "url": "https://finnhub.io/api/news?id=11c7661717795f758a2c7439e020f8ee3bd9f769bddd0531cef9cd595dae4077",
+   "source": "Yahoo",
+   "published": "2026-11-13T17:40:54+00:00",
+   "tickers": [
+    "ABBV"
    ],
    "tag": "News",
    "sectors": [
@@ -42509,276 +42543,6 @@
    "tag": "News",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "12b14d266051",
-   "headline": "CAH Q1 Earnings & Revenues Beat Estimates on Pharma Strength",
-   "summary": "Cardinal Health beats Q1 FY27 earnings and revenue estimates, fueled by pharmaceutical sales growth, and raises its full-year earnings outlook.",
-   "url": "https://finnhub.io/api/news?id=29102baac33e85fdbd7651d9e577e8ad9a9e4b38e6a9d3d2e465caca92724705",
-   "source": "Yahoo",
-   "published": "2026-11-05T16:16:00+00:00",
-   "tickers": [
-    "CAH",
-    "GKOS",
-    "ISRG"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "0a5bd0a8a340",
-   "headline": "Antibody-Drug Conjugates (ADC) Market Size, Share, Trends, and Global Forecast to 2036 | Market Set to Reach $74.15 Billion at 13.5% CAGR as Next-Generation ADCs and Asia-Pacific Drive Growth",
-   "summary": "Dublin, Nov. 05, 2026 (GLOBE NEWSWIRE) -- \"Antibody-Drug Conjugates (ADC) Market Size, Share, and Industry Analysis - Global Forecast to 2036\" has been added to ResearchAndMarkets.com's offering. The global antibody-drug conjugates (ADC)\u2026",
-   "url": "https://finnhub.io/api/news?id=8d12ca727c0819dd3e538e4a5174ac7a069cb16165527ff9b083305fede68bec",
-   "source": "Yahoo",
-   "published": "2026-11-05T16:16:00+00:00",
-   "tickers": [
-    "AZN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "8adec5d77686",
-   "headline": "RBC Capital Maintains Outperform on Zimmer Biomet Holdings, Raises Price Target to $125",
-   "summary": "RBC Capital analyst Kendall Au maintains Zimmer Biomet Holdings (NYSE:ZBH) with a Outperform and raises the price target from $110 to $125.",
-   "url": "https://finnhub.io/api/news?id=d78fb17152583342058511480c3a61375d71b9ac874bb29f5ae0577731252322",
-   "source": "Benzinga",
-   "published": "2026-11-05T16:15:53+00:00",
-   "tickers": [
-    "ZBH"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "3d02f8079c9f",
-   "headline": "Leerink Partners Maintains Outperform on Cencora, Raises Price Target to $405",
-   "summary": "Leerink Partners analyst Michael Cherny maintains Cencora (NYSE:COR) with a Outperform and raises the price target from $388 to $405.",
-   "url": "https://finnhub.io/api/news?id=b13010b69c9cb6a808cd444ca9e7d1ce7f505783b25b21b04986e5ed4f46f183",
-   "source": "Benzinga",
-   "published": "2026-11-05T16:15:24+00:00",
-   "tickers": [
-    "COR"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharmacy"
-   ]
-  },
-  {
-   "id": "475ca3b09679",
-   "headline": "Clover Health boosts outlook amid continued membership growth, financial momentum in Q3",
-   "summary": "The company posted $130 million in profit, up 77% year-over-year, according to Q3 2026 financial results.",
-   "url": "https://www.fiercehealthcare.com/payers/clover-health-boosts-outlook-amid-continued-membership-growth-financial-momentum-q3",
-   "source": "Fierce Healthcare",
-   "published": "2026-11-05T16:15:21.749751+00:00",
-   "tickers": [
-    "CLOV"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "f7d2b05d1053",
-   "headline": "RevMed\u2019s Rasonque debut nets \u2018eye-popping\u2019 $198M in 5 weeks, even as exec tempers expectations",
-   "summary": "After roughly one month on the market, Revolution Medicines\u2019 RAS inhibitor daraxonrasib is living up to its much-hyped potential, with an initial sales performance that more than one group of analysts considers \u201ceye-popping.\u201d",
-   "url": "https://www.fiercepharma.com/pharma/revmed-wows-analysts-eye-popping-rasonque-debut-even-management-tempers-expectations",
-   "source": "Fierce Pharma",
-   "published": "2026-11-05T16:15:21.618814+00:00",
-   "tickers": [
-    "RVMD"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "03ad52fe4b84",
-   "headline": "Cardinal Health, Inc. (CAH) Q1 2027 Earnings Call Transcript",
-   "summary": "",
-   "url": "https://finnhub.io/api/news?id=28084e93bb61daeb3568ecd83d0f5d663eacc82ed88b9fde686e08542c2c1838",
-   "source": "SeekingAlpha",
-   "published": "2026-11-05T16:14:44+00:00",
-   "tickers": [
-    "CAH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharmacy"
-   ]
-  },
-  {
-   "id": "31eea3cb8ec7",
-   "headline": "Leerink Partners Maintains Outperform on CVS Health, Lowers Price Target to $104",
-   "summary": "Leerink Partners analyst Michael Cherny maintains CVS Health (NYSE:CVS) with a Outperform and lowers the price target from $112 to $104.",
-   "url": "https://finnhub.io/api/news?id=27aaae4074fccd4ee39f840085e8e798505207b12aebea90ff9dc52438f584fa",
-   "source": "Benzinga",
-   "published": "2026-11-05T16:13:09+00:00",
-   "tickers": [
-    "CVS"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "88ca8737fb46",
-   "headline": "HCA Healthcare (HCA) Gains Policy Tailwind After Democratic Midterm Sweep",
-   "summary": "HCA Healthcare (NYSE:HCA) is in focus after a Democratic sweep in the U.S. midterm elections on 5 November 2026. The election outcome signals a likely policy shift on Affordable Care Act subsidies and federal healthcare funding that could\u2026",
-   "url": "https://finnhub.io/api/news?id=13977421f76eec6697b73a913d8b4cd6c728504cef27a3de5050d4b410e265e2",
-   "source": "Yahoo",
-   "published": "2026-11-05T16:12:51+00:00",
-   "tickers": [
-    "HCA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "7e8fda9fa4ec",
-   "headline": "Big pharma-backed T-Therapeutics snags $133m to bring TCEs to clinic",
-   "summary": "T-Therapeutics will now generate proof-of-concept data for its oncology and immunology drugs with \u201cblockbuster\u201d potential.",
-   "url": "https://finnhub.io/api/news?id=2dd89c1f93a0ac3fef4171372a0a5b85a18e8f2bdd0f50b08df97a28e46c0700",
-   "source": "Yahoo",
-   "published": "2026-11-05T16:10:48+00:00",
-   "tickers": [
-    "JNJ",
-    "LLY",
-    "SNY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "1396853935cd",
-   "headline": "Why Baron Health Care Fund Initiated a Position in Humana (HUM) Amid Trough 2026 Earnings",
-   "summary": "Baron Capital, an investment management company, released its Q3 2026 investor letter for the \u201cBaron Health Care Fund\u201d. The letter can be downloaded here. During the quarter ended September 30, 2026, Baron Health Care Fund\u00ae advanced\u2026",
-   "url": "https://finnhub.io/api/news?id=2e9a9ff2532c8038d9592e2711725cacc442bbccd6268caaf36f503aed3b0aaf",
-   "source": "Yahoo",
-   "published": "2026-11-05T16:06:07+00:00",
-   "tickers": [
-    "HUM"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "0f4c7fc36042",
-   "headline": "Mary Tyler Moore Vision Initiative Welcomes Regeneron and Adaptive Sensory Technology to Its Consortium",
-   "summary": "New pharmaceutical and device company members broaden the Consortium's expertise supporting diabetic retinal disease research. ANN ARBOR, Mich., Nov. 5, 2026 /PRNewswire/ -- The Mary Tyler Moore Vision Initiative (MTM Vision) today\u2026",
-   "url": "https://www.prnewswire.com/news-releases/mary-tyler-moore-vision-initiative-welcomes-regeneron-and-adaptive-sensory-technology-to-its-consortium-302931018.html",
-   "source": "PR Newswire",
-   "published": "2026-11-05T16:06:00+00:00",
-   "tickers": [
-    "REGN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "e6b4f4dad057",
-   "headline": "Mary Tyler Moore Vision Initiative Welcomes Regeneron and Adaptive Sensory Technology to Its Consortium",
-   "summary": "The Mary Tyler Moore Vision Initiative (MTM Vision) today announced that Regeneron Pharmaceuticals, Inc. has joined the MTM Vision Consortium as a founding member and Adaptive Sensory Technology as a device company member.",
-   "url": "https://finnhub.io/api/news?id=5373fe32897378a2bac3aed0d16159edeba0afe2d0f101703977daba483d3b78",
-   "source": "Yahoo",
-   "published": "2026-11-05T16:06:00+00:00",
-   "tickers": [
-    "REGN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "9a45e507515d",
-   "headline": "RBC Capital Maintains Outperform on United Therapeutics, Raises Price Target to $725",
-   "summary": "RBC Capital analyst Lisa Walter maintains United Therapeutics (NASDAQ:UTHR) with a Outperform and raises the price target from $697 to $725.",
-   "url": "https://finnhub.io/api/news?id=213b73f73fb47fa03b97a49533483e512e23a59fa484706168d454ceedb77099",
-   "source": "Benzinga",
-   "published": "2026-11-05T16:05:58+00:00",
-   "tickers": [
-    "UTHR"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "948987a840bc",
-   "headline": "This Former Mylan/Pfizer Combo Just Topped Its Buy Zone \u2014 What You Should Know",
-   "summary": "Viatris stock topped its buy zone Thursday, shaking off light sales amid enthusiasm for its continued strength in China.",
-   "url": "https://finnhub.io/api/news?id=aa94ab8c180b74c0d66dc066a49c0ca957009552a8fea75475343e0fc81d1f15",
-   "source": "Yahoo",
-   "published": "2026-11-05T16:03:27+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "ae682cd6ab51",
-   "headline": "Edwards bumps up sales forecast on TAVR strength in Q3",
-   "summary": "Going forward, the heart valve maker expects procedure volumes to rise following positive study data and expanded Medicare reimbursement.",
-   "url": "https://www.medtechdive.com/news/edwards-bumps-up-sales-forecast-on-tavr-strength-in-q3/873876/",
-   "source": "MedTech Dive",
-   "published": "2026-11-05T16:02:26+00:00",
-   "tickers": [],
-   "tag": "Earnings",
-   "sectors": []
-  },
-  {
-   "id": "68a159fac10f",
-   "headline": "Edwards bumps up sales forecast on TAVR strength in Q3",
-   "summary": "Going forward, the heart valve maker expects procedure volumes to rise following positive study data and expanded Medicare reimbursement.",
-   "url": "https://finnhub.io/api/news?id=7f78f76367b218ef64babc7a9b6ce13b571ea214ef60e7356563dcbb63766895",
-   "source": "Yahoo",
-   "published": "2026-11-05T16:02:26+00:00",
-   "tickers": [
-    "EW"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "26fbd4a74861",
-   "headline": "Leerink Partners Maintains Market Perform on Insulet, Raises Price Target to $167",
-   "summary": "Leerink Partners analyst Mike Kratky maintains Insulet (NASDAQ:PODD) with a Market Perform and raises the price target from $143 to $167.",
-   "url": "https://finnhub.io/api/news?id=fa83cea7ae4c541859c9f65e323f69caa46b9376df1a1aa00b27111060db6fea",
-   "source": "Benzinga",
-   "published": "2026-11-05T16:01:37+00:00",
-   "tickers": [
-    "PODD"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
