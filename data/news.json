@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-15T17:01:36.590483+00:00",
+ "updated": "2026-11-15T17:16:28.170867+00:00",
  "quotes": {
   "ABBV": {
    "price": 295.03,
@@ -93,6 +93,10 @@
   "TGTX": {
    "price": 64.51,
    "change_pct": -0.08
+  },
+  "VKTX": {
+   "price": 29.22,
+   "change_pct": 5.95
   }
  },
  "tickers": {
@@ -709,6 +713,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "5da9b770642e",
+   "headline": "Viking Therapeutics Highlights Clinical Data from VK2735 Obesity Program at ObesityWeek\u00ae 2026",
+   "summary": "VENTURE Analysis Finds 74% of Participants Receiving Subcutaneous VK2735 Improved by at Least One BMI Category after 13 Weeks VK2735 Treatment Led to Improvement Across Multiple Cardiometabolic Markers SAN DIEGO, Nov. 15, 2026\u2026",
+   "url": "https://www.prnewswire.com/news-releases/viking-therapeutics-highlights-clinical-data-from-vk2735-obesity-program-at-obesityweek-2026-302939732.html",
+   "source": "PR Newswire",
+   "published": "2026-11-15T17:05:00+00:00",
+   "tickers": [
+    "VKTX"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "biotech"
+   ]
+  },
   {
    "id": "5a9eb5cda94f",
    "headline": "Brigham and Women's avoids 4,000-nurse strike with 11th hour deal",
@@ -41677,415 +41696,6 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "648b47e64a41",
-   "headline": "Drug Wholesalers Go Three-For-Three In Earnings Beats, But Only Two Stocks Pop",
-   "summary": "Drug distributors went three-for-three, with Cardinal Health putting up the last fall-quarter beat on Thursday, following the examples set by McKesson and Cencora.",
-   "url": "https://finnhub.io/api/news?id=0be8e52ea30caf1eaac9ef5b9adf65952f93fb5d34d05013e360b64afa5ca6c4",
-   "source": "Yahoo",
-   "published": "2026-11-05T17:15:55+00:00",
-   "tickers": [
-    "CAH",
-    "COR",
-    "MCK"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharmacy"
-   ]
-  },
-  {
-   "id": "d57d03312874",
-   "headline": "iRhythm Technologies Q3 Adj. EPS $0.82 Beats $0.06 Estimate, Sales $221.592M Miss $222.451M Estimate",
-   "summary": "iRhythm Technologies (NASDAQ:IRTC) reported quarterly earnings of $0.82 per share which beat the analyst consensus estimate of $0.06 by 1266.67 percent. This is a 1466.67 percent increase over losses of $(0.06) per",
-   "url": "https://finnhub.io/api/news?id=334488fbecad5246f39f30f8eceedc9e33b7b2fa87128126ff26b1bf3605e0d9",
-   "source": "Benzinga",
-   "published": "2026-11-05T17:15:41+00:00",
-   "tickers": [
-    "IRTC"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "dd0c8227d449",
-   "headline": "Natera Raises FY2026 Sales Guidance from $2.850B-$2.910B to $3.005B-$3.035B vs $2.907B Est",
-   "summary": "Natera (NASDAQ:NTRA) raises FY2026 sales outlook from $2.850 billion-$2.910 billion to $3.005 billion-$3.035 billion vs $2.907 billion estimate.",
-   "url": "https://finnhub.io/api/news?id=ca0b85161dbd1109b0bbef2acd0ff0947129f3b93866166d795543bad449e472",
-   "source": "Benzinga",
-   "published": "2026-11-05T17:15:14+00:00",
-   "tickers": [
-    "NTRA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "767f274938ad",
-   "headline": "Cardinal Health Reports First Quarter Fiscal Year 2027 Results and Raises Outlook",
-   "summary": "",
-   "url": "https://finnhub.io/api/news?id=e5343d1829aa99396c63a049935ca134fa04d4625300df4fba2a927bc247a0fa",
-   "source": "Fintel",
-   "published": "2026-11-05T17:14:16+00:00",
-   "tickers": [
-    "CAH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharmacy"
-   ]
-  },
-  {
-   "id": "0db8af217abb",
-   "headline": "United Therapeutics (UTHR) Stock May Be Undervalued After $2B Buyback Plan",
-   "summary": "United Therapeutics has seen its share price climb sharply in recent years, so the core question now is whether that move is backed up by the earnings the business is producing today. Over the past 5 years, United Therapeutics has\u2026",
-   "url": "https://finnhub.io/api/news?id=e594eb14157629c46f016b066cc7c1b888cfe1d9dd0ff12c50a6731951ebf88c",
-   "source": "Yahoo",
-   "published": "2026-11-05T17:13:50+00:00",
-   "tickers": [
-    "UTHR"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "c811dced420c",
-   "headline": "Health Catalyst Affirms FY2026 Sales Guidance of $246.000M-$249.000M vs $247.804M Est",
-   "summary": "Health Catalyst (NASDAQ:HCAT) affirms FY2026 sales outlook from $246.000 million-$249.000 million to $246.000 million-$249.000 million vs $247.804 million estimate.",
-   "url": "https://finnhub.io/api/news?id=813e455512820e37c9840f22ec03b9eabe1f96a049e66867aa9fe9fb5a757549",
-   "source": "Benzinga",
-   "published": "2026-11-05T17:12:55+00:00",
-   "tickers": [
-    "HCAT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "healthai"
-   ]
-  },
-  {
-   "id": "ffaaf6236ee5",
-   "headline": "BRC Therapeutics Appoints Kimberly Spancake as Senior Director, Clinical",
-   "summary": "BRC Therapeutics (BRC), a clinical-stage pharmaceutical company developing therapeutics for neurological and inflammatory conditions, today announced that Kimberly Spancake, Ph.D., has joined the company as Senior Director, Clinical.\u2026",
-   "url": "https://finnhub.io/api/news?id=f27091facd3cb2529cdf409ba08646aa4601c1dfeaeb95fe427731ec483b8028",
-   "source": "Yahoo",
-   "published": "2026-11-05T17:12:00+00:00",
-   "tickers": [
-    "JAZZ"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "c2a3cfb5c3ed",
-   "headline": "TransMedics Group Raises FY2026 Sales Guidance from $737.000M-$757.000M to $750.000M-$760.000M vs $743.798M Est",
-   "summary": "TransMedics Group (NASDAQ:TMDX) raises FY2026 sales outlook from $737.000 million-$757.000 million to $750.000 million-$760.000 million vs $743.798 million estimate.",
-   "url": "https://finnhub.io/api/news?id=88176507e943d1e31c8af6ddb93ef4e88579f931f93df6a4a2cfcc4a6333ed02",
-   "source": "Benzinga",
-   "published": "2026-11-05T17:11:06+00:00",
-   "tickers": [
-    "TMDX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "26b7d594ddac",
-   "headline": "Cordavis to stay in CVS Health after bifurcation of $117bn empire",
-   "summary": "Cordavis was established by CVS Health three years ago to capture more of the US biosimilar supply chain.",
-   "url": "https://finnhub.io/api/news?id=a8be13c6f9bb3f5f87ff3fb32ab12dba7f83f96815736b929040580a7eb57c5d",
-   "source": "Yahoo",
-   "published": "2026-11-05T17:10:59+00:00",
-   "tickers": [
-    "CVS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "85d545f3475d",
-   "headline": "Leerink Partners Maintains Market Perform on Exelixis, Raises Price Target to $58",
-   "summary": "Leerink Partners analyst Asthika Goonewardene maintains Exelixis (NASDAQ:EXEL) with a Market Perform and raises the price target from $55 to $58.",
-   "url": "https://finnhub.io/api/news?id=d4836ead7dba119d21014fc6c307462641e977b348f6acc603f499a8af665c1a",
-   "source": "Benzinga",
-   "published": "2026-11-05T17:10:07+00:00",
-   "tickers": [
-    "EXEL"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "bf2e5a5a5855",
-   "headline": "Will Earnings Beat Change Charles River Laboratories' (CRL) Narrative",
-   "summary": "Charles River Laboratories reported third quarter 2026 revenue of US$982.73 million and net income of US$333.07 million, with earnings per share from continuing operations materially higher than the same period a year earlier. Management\u2026",
-   "url": "https://finnhub.io/api/news?id=e65a7e237f3d9c140d221088162961c0912fc1803fdeb52c25b9caca881bbe56",
-   "source": "Yahoo",
-   "published": "2026-11-05T17:09:37+00:00",
-   "tickers": [
-    "CRL"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "37f0b0a95ff3",
-   "headline": "At ASH, drugmakers to showcase early data for three-pronged cancer therapies",
-   "summary": "J&J and AbbVie are among the companies advancing \u201ctrispecific\u201d antibodies that could become another step forward in treatment for multiple myeloma.",
-   "url": "https://www.biopharmadive.com/news/ash-2026-trispecific-multiple-myeloma-johnson-johnson-abbvie/873852/",
-   "source": "BioPharma Dive",
-   "published": "2026-11-05T17:09:00+00:00",
-   "tickers": [
-    "ABBV",
-    "JNJ"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "efb7dcefbba2",
-   "headline": "Globus Medical Q3 Adj. EPS $1.23 Beats $1.20 Estimate, Sales $763.719M Miss $792.415M Estimate",
-   "summary": "Globus Medical (NYSE:GMED) reported quarterly earnings of $1.23 per share which beat the analyst consensus estimate of $1.20 by 2.5 percent. This is a 4.24 percent increase over earnings of $1.18 per share from the same",
-   "url": "https://finnhub.io/api/news?id=5458a8193b2ed0e1f45bf1ce0869f91b7e26ae6bab10c2c4481413cd66e5ebb8",
-   "source": "Benzinga",
-   "published": "2026-11-05T17:08:49+00:00",
-   "tickers": [
-    "GMED"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "e5f33fb4ab7c",
-   "headline": "Guardant Health Q3 Adj. EPS $(0.29) Beats $(0.32) Estimate, Sales $360.975M Beat $350.358M Estimate",
-   "summary": "Guardant Health (NASDAQ:GH) reported quarterly losses of $(0.29) per share which beat the analyst consensus estimate of $(0.32) by 9.38 percent. This is a 25.64 percent increase over losses of $(0.39) per share from the",
-   "url": "https://finnhub.io/api/news?id=54f86fde741a9cb0130c3ed458b525df69c7da94d8e61618776b0380ac5869e4",
-   "source": "Benzinga",
-   "published": "2026-11-05T17:08:39+00:00",
-   "tickers": [
-    "GH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "3887de715a76",
-   "headline": "Edwards Lifesciences Corp (EW) (Q3 2026) Earnings Call Highlights: Broad-Based TAVR and TMTT ...",
-   "summary": "Edwards Lifesciences Corp (EW) posted 11.2% sales growth to $1.72 billion and lifted full-year adjusted EPS guidance to $2.97--$3.05, as TMTT surged 45.6% and TAVR grew 8.8%.",
-   "url": "https://finnhub.io/api/news?id=817083df238bad475271f19af5ae702e1d6df77c905abeff34ef3f5aec521d18",
-   "source": "Yahoo",
-   "published": "2026-11-05T17:07:46+00:00",
-   "tickers": [
-    "EW"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "2280a00a69a2",
-   "headline": "Acadia Pharmaceuticals Sees Continued Daybue Momentum in Q3, RBC Says",
-   "summary": "Acadia Pharmaceuticals (ACAD) reported Q3 results underpinned by continued Daybue growth and steady",
-   "url": "https://finnhub.io/api/news?id=661973a606252c3ffcdb85d1a72c92393ba7af15b84d2497634bb2a0d64c3857",
-   "source": "Yahoo",
-   "published": "2026-11-05T17:07:36+00:00",
-   "tickers": [
-    "ACAD"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "f61a339de105",
-   "headline": "Health Catalyst Q3 Adj. EPS $(0.03) Beats $(0.05) Estimate, Sales $56.283M Beat $55.390M Estimate",
-   "summary": "Health Catalyst (NASDAQ:HCAT) reported quarterly losses of $(0.03) per share which beat the analyst consensus estimate of $(0.05) by 40 percent. This is a 150 percent decrease over earnings of $0.06 per share from the",
-   "url": "https://finnhub.io/api/news?id=f59a8a4601907b4e7140078e73d70e5c86518916f6db2524eee457ff0b3f04b6",
-   "source": "Benzinga",
-   "published": "2026-11-05T17:06:53+00:00",
-   "tickers": [
-    "HCAT"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "healthai"
-   ]
-  },
-  {
-   "id": "0ec77c947df5",
-   "headline": "Halozyme Therapeutics Q3 Adj. EPS $2.39 Beats $2.35 Estimate, Sales $492.974M Beat $491.561M Estimate",
-   "summary": "Halozyme Therapeutics (NASDAQ:HALO) reported quarterly earnings of $2.39 per share which beat the analyst consensus estimate of $2.35 by 1.27 percent. This is a 38.95 percent increase over earnings of $1.72 per share",
-   "url": "https://finnhub.io/api/news?id=78bfaec47e557e6048f9b1fe6d2d5d23eaca30d9a1d6af7c1621fa170a702029",
-   "source": "Benzinga",
-   "published": "2026-11-05T17:06:44+00:00",
-   "tickers": [
-    "HALO"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "2c86bbe28b60",
-   "headline": "Doximity Raises FY2027 Sales Guidance from $671.000M-$681.000M to $678.000M-$683.000M vs $677.558M Est",
-   "summary": "Doximity (NYSE:DOCS) raises FY2027 sales outlook from $671.000 million-$681.000 million to $678.000 million-$683.000 million vs $677.558 million estimate.",
-   "url": "https://finnhub.io/api/news?id=f3a44bc1317dc24e35ec87d96612d109fa837a5446a03ef964087b03af12660b",
-   "source": "Benzinga",
-   "published": "2026-11-05T17:06:05+00:00",
-   "tickers": [
-    "DOCS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "992a930c960e",
-   "headline": "12 Health Care Stocks Moving In Thursday's After-Market Session",
-   "summary": "Gainers TransMedics Group (NASDAQ:TMDX) stock rose 17.6% to $81.16 during Thursday's after-market session. The company's market cap stands at $2.5 billion. The company's, Q3 earnings came out today.",
-   "url": "https://finnhub.io/api/news?id=09f6e96d0e5d7443dd068cd4665db9a2746fe5cc62849c5da1f671c1f74542ba",
-   "source": "Benzinga",
-   "published": "2026-11-05T17:05:56+00:00",
-   "tickers": [
-    "DOCS",
-    "TMDX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "c3f429457445",
-   "headline": "Doximity Sees Q3 Sales $195.000M-$196.000M vs $195.142M Est",
-   "summary": "Doximity (NYSE:DOCS) sees Q3 sales of $195.000 million-$196.000 million vs $195.142 million analyst estimate.",
-   "url": "https://finnhub.io/api/news?id=74c23540b276c45fa4feca190b22eb2e7803e84e86a9254b9b7b4401d3bf150a",
-   "source": "Benzinga",
-   "published": "2026-11-05T17:05:36+00:00",
-   "tickers": [
-    "DOCS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "419c83d0b8b2",
-   "headline": "TransMedics Gr Q3 Adj. EPS $0.51 Beats $0.29 Estimate, Sales $203.005M Beat $177.584M Estimate",
-   "summary": "TransMedics Gr (NASDAQ:TMDX) reported quarterly earnings of $0.51 per share which beat the analyst consensus estimate of $0.29 by 75.86 percent. This is a 23.88 percent decrease over earnings of $0.67 per share from the",
-   "url": "https://finnhub.io/api/news?id=72c27b842a5935fe3e995e2fd397be0befd17bebeb89fde4ece5e390fe0c79e2",
-   "source": "Benzinga",
-   "published": "2026-11-05T17:05:24+00:00",
-   "tickers": [
-    "TMDX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "80968a5ee8e1",
-   "headline": "Globus Medical Affirms FY2026 Adj EPS Guidance of $4.95-$5.05 vs $5.00 Est; Lowers FY2026 Sales Guidance from $3.180B-$3.220B to $3.090B vs $3.199B Est",
-   "summary": "Globus Medical (NYSE:GMED) affirms FY2026 Adj EPS guidance from $4.95-$5.05 to $4.95-$5.05 vs $5.00 analyst estimate. Lowers FY2026 sales outlook from $3.180 billion-$3.220 billion to $3.090 billion vs $3.199 billion",
-   "url": "https://finnhub.io/api/news?id=dd8814f811b26dc7103963f01fd12047a177bf2eaac0cb95e0c39c3787868a7c",
-   "source": "Benzinga",
-   "published": "2026-11-05T17:04:01+00:00",
-   "tickers": [
-    "GMED"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "d958492f5218",
-   "headline": "Ultragenyx Pharmaceutical Inc (RARE) Q3 2026 Earnings Call Highlights: Gene Therapy Launches, ...",
-   "summary": "Ultragenyx Pharmaceutical Inc (RARE) reaffirms 2026 revenue guidance of $730M--$760M, banks ~$350M in non-dilutive PRV proceeds, and trims its workforce by 20% while discontinuing two programs.",
-   "url": "https://finnhub.io/api/news?id=62e04d9c58720199cf7499a0e213f7157cd1a84744f7fe9568371563ead39fa6",
-   "source": "Yahoo",
-   "published": "2026-11-05T17:03:57+00:00",
-   "tickers": [
-    "RARE"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "ac57f475e913",
-   "headline": "Biogen\u2019s (BIIB) Pipelines Offers Multiple Potential Catalysts",
-   "summary": "Baron Capital, an investment management company, released its Q3 2026 investor letter for the \u201cBaron Health Care Fund\u201d. The letter can be downloaded here. During the quarter ended September 30, 2026, Baron Health Care Fund\u00ae advanced\u2026",
-   "url": "https://finnhub.io/api/news?id=e6e8ddb8dee97dadfab88270de56b6aeff048bab24e337e01f6911a65a5b4e15",
-   "source": "Yahoo",
-   "published": "2026-11-05T17:02:48+00:00",
-   "tickers": [
-    "BIIB"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "7633102f0d80",
-   "headline": "Leerink Partners Maintains Outperform on Bruker, Raises Price Target to $85",
-   "summary": "Leerink Partners analyst Puneet Souda maintains Bruker (NASDAQ:BRKR) with a Outperform and raises the price target from $80 to $85.",
-   "url": "https://finnhub.io/api/news?id=301a72c2a7449049ebfddedf384c4983e6110cf2b5bebc7c90008cb9baffc754",
-   "source": "Benzinga",
-   "published": "2026-11-05T17:02:45+00:00",
-   "tickers": [
-    "BRKR"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "7c73c7adfa09",
-   "headline": "Cytokinetics (CYTK) Q3 2026 Earnings Call Transcript",
-   "summary": "MYQORZO sales climbed sharply as prescriber adoption broadened beyond specialists.",
-   "url": "https://finnhub.io/api/news?id=c8c7b73d310eb2d1cfffdaa7865c10b2ecdb46e5c524075c3b04254f6f385ea4",
-   "source": "Yahoo",
-   "published": "2026-11-05T17:02:41+00:00",
-   "tickers": [
-    "CYTK"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
    ]
   }
  ]
