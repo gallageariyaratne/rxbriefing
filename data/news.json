@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-15T02:46:31.635512+00:00",
+ "updated": "2026-11-15T03:01:38.718657+00:00",
  "quotes": {
   "ABBV": {
    "price": 295.03,
@@ -45,6 +45,10 @@
   "HIMS": {
    "price": 19.73,
    "change_pct": 0
+  },
+  "IRTC": {
+   "price": 91.91,
+   "change_pct": -1.76
   },
   "JNJ": {
    "price": 285.75,
@@ -824,7 +828,8 @@
    "source": "Yahoo",
    "published": "2026-11-14T20:08:17+00:00",
    "tickers": [
-    "CLOV"
+    "CLOV",
+    "IRTC"
    ],
    "tag": "News",
    "sectors": [
@@ -2896,6 +2901,21 @@
    ]
   },
   {
+   "id": "d12ae064ec11",
+   "headline": "Stock Market Rebounds Even As Nvidia CEO Jensen Huang Resigns, Treasury Yields Jump: Weekly Review",
+   "summary": "The stock market rebounded bullishly this week, especially techs, even as Nvidia CEO Jensen Huang resigned over affairs and Treasury yields surged.",
+   "url": "https://finnhub.io/api/news?id=8f7d39088cae27ff797e16045afffc9696ea6debbb68b5d3b70497764b98dbb3",
+   "source": "Yahoo",
+   "published": "2026-11-13T15:06:08+00:00",
+   "tickers": [
+    "TGTX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "9f32be941ba6",
    "headline": "How to Use the Years Between 62 and 75 to Turn a $1.05 Million IRA Into $5,100 a Month Tax-Free",
    "summary": "When the paychecks stop at 62 and Social Security can wait, a short stretch of near-zero income opens a tax window most retirees never notice. Miss it, and the IRS decides how much you withdraw at 75.",
@@ -3450,7 +3470,8 @@
    "tickers": [
     "MRK",
     "MRNA",
-    "PFE"
+    "PFE",
+    "SNY"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -3642,6 +3663,21 @@
    "tag": "Earnings",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "f4f17f9e5dff",
+   "headline": "Denali Therapeutics Targets All Eligible Hunter Disease Patients as Pipeline Milestones Near",
+   "summary": "Denali Therapeutics (NASDAQ:DNLI) is targeting all eligible U.S. patients for its Hunter disease treatment AVLAYAH, while preparing data updates across a pipeline that includes treatments for Sanfilippo syndrome, Pompe disease and\u2026",
+   "url": "https://finnhub.io/api/news?id=af6d57f8e9ab780f597a1dc17aa1daf389019dcf0fbde1404aa2be6aa13cca92",
+   "source": "Yahoo",
+   "published": "2026-11-13T13:14:52+00:00",
+   "tickers": [
+    "DNLI"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -5038,6 +5074,21 @@
    "tag": "Analyst",
    "sectors": [
     "healthai"
+   ]
+  },
+  {
+   "id": "0c55b161da29",
+   "headline": "Why Is Sanofi (ENXTPA:SAN) Expanding Its R And D Bets In Vaccines And Gene Editing?",
+   "summary": "Sanofi (ENXTPA:SAN) expanded its collaboration with Scribe Therapeutics to include access to Scribe's ELXR epigenetic silencing platform. The extended agreement gives Sanofi broader gene editing and epigenetic tools for its early stage\u2026",
+   "url": "https://finnhub.io/api/news?id=d79c686be772bc6f806b59aa4721db89ddb07a7f010aeaa16e4f4d88ccd6b22b",
+   "source": "Yahoo",
+   "published": "2026-11-13T06:15:13+00:00",
+   "tickers": [
+    "SNY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -48567,69 +48618,6 @@
     "PODD"
    ],
    "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "db04688f966f",
-   "headline": "BioMarin Pharmaceutical Inc. 2026 Q3 - Results - Earnings Call Presentation",
-   "summary": "2026-11-05. The following slide deck was published by BioMarin Pharmaceutical Inc.",
-   "url": "https://finnhub.io/api/news?id=a45ffa50053c55738516295f3b8896398a1df0a4184559d34f7aabb91f6e5208",
-   "source": "SeekingAlpha",
-   "published": "2026-11-05T02:57:42+00:00",
-   "tickers": [
-    "BMRN"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "93557c25e583",
-   "headline": "Vertex Pharmaceuticals Incorporated 2026 Q3 - Results - Earnings Call Presentation",
-   "summary": "2026-11-05. The following slide deck was published by Vertex Pharmaceuticals Incorporated in conjunction with their 2026 Q3 earnings call.",
-   "url": "https://finnhub.io/api/news?id=e4b4f65a40f75d9988a7b6a1e2a582c0e57441594e672ebf9f2663cfcc75b1a0",
-   "source": "SeekingAlpha",
-   "published": "2026-11-05T02:55:26+00:00",
-   "tickers": [
-    "VRTX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "784bfed2f879",
-   "headline": "Tracking Tweedy Browne Portfolio - Q3 2026 Update",
-   "summary": "Tweedy Browne increased stake in Zoetis, and continued trimming of core holdings like CNH, Berkshire Hathaway, and Alphabet. Read more here.",
-   "url": "https://finnhub.io/api/news?id=a5b8dcc10c10b2b1a1348e8ec90c1ad293e73fa783bde826271976770769dfe5",
-   "source": "SeekingAlpha",
-   "published": "2026-11-05T02:52:29+00:00",
-   "tickers": [
-    "IONS",
-    "JNJ",
-    "VRTX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "af279a45e3a9",
-   "headline": "Top 10 High Growth Dividend Stocks For November 2026",
-   "summary": "",
-   "url": "https://finnhub.io/api/news?id=6e6eaad4512954aeae56102edcca31f0abcb8ecbb9823103812700f53a086757",
-   "source": "SeekingAlpha",
-   "published": "2026-11-05T02:52:27+00:00",
-   "tickers": [
-    "RMD",
-    "ZTS"
-   ],
-   "tag": "News",
    "sectors": [
     "medtech"
    ]
