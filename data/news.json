@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-15T08:31:31.391989+00:00",
+ "updated": "2026-11-15T08:46:27.888645+00:00",
  "quotes": {
   "ABBV": {
    "price": 295.03,
@@ -37,6 +37,10 @@
   "HUM": {
    "price": 450,
    "change_pct": 1.42
+  },
+  "INSM": {
+   "price": 121.16,
+   "change_pct": 2.62
   },
   "IRTC": {
    "price": 91.91,
@@ -715,6 +719,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "610e25dc05cd",
+   "headline": "Tempus AI And 2 More AI Healthcare Stocks",
+   "summary": "Inflation worries are back on the front page, with US wholesale prices rising 6.5% year on year in October and feeding fresh debate about how long higher rates could stick around. Expensive capital and rising costs can be tough for many\u2026",
+   "url": "https://finnhub.io/api/news?id=d759edb5ab6345f02f2b662c7c493eb523140bfeae8f535f1eb9be72aa862aea",
+   "source": "Yahoo",
+   "published": "2026-11-15T06:08:02+00:00",
+   "tickers": [
+    "INSM"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "biotech"
+   ]
   },
   {
    "id": "efc1704cf04c",
@@ -47475,66 +47494,6 @@
    "tag": "Health AI",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "10d68b77ec49",
-   "headline": "Clover Health Investments, Corp. (CLOV) Q3 2026 Earnings Call Transcript",
-   "summary": "Clover Health Investments, Corp. (CLOV) Q3 2026 Earnings Call November 4, 2026 5:00 PM ESTCompany ParticipantsRyan Schmidt - Investor Relations...",
-   "url": "https://finnhub.io/api/news?id=66b8a361e471e302a1e669420fb1e6a99e646e0b96d7924461e3bb7459debb8c",
-   "source": "SeekingAlpha",
-   "published": "2026-11-05T08:44:33+00:00",
-   "tickers": [
-    "CLOV"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "6d689c9cf457",
-   "headline": "TwinStrand Biosciences Announces Confirmation Of U.S. Patent And Trademark Office Regarding Patentability Of All 23 Claims Of U.S. Patent Against Guardant Health",
-   "summary": "TwinStrand Biosciences (TwinStrand), the pioneer in Duplex Sequencing technology, today announced that the U.S. Patent and Trademark Office (USPTO) has confirmed the patentability of all 23 claims of U.S. Patent No.",
-   "url": "https://finnhub.io/api/news?id=60f1477325106eeac1cc9b1d2e49ebb6317e45d0605fc8adcf27db8044c99616",
-   "source": "Benzinga",
-   "published": "2026-11-05T08:38:43+00:00",
-   "tickers": [
-    "GH"
-   ],
-   "tag": "Legal",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "68e332258d73",
-   "headline": "LifeMD Announces Agreement For Its Pharmacies To Directly Dispense, Ship Eli Lilly's Self-Pay GLP-1 Medicines",
-   "summary": "LifeMD, Inc. (Nasdaq: LFMD), a leading provider of virtual primary care, today announced an arrangement with Eli Lilly and Company (Lilly) that enables LifeMD's affiliated pharmacy to directly dispense and ship",
-   "url": "https://finnhub.io/api/news?id=b009edb381a2ac8300a3f2371071ab34b16c359b0b66158e18761594c02082f1",
-   "source": "Benzinga",
-   "published": "2026-11-05T08:36:54+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "203503a56562",
-   "headline": "Becton, Dickinson and Company 2026 Q4 - Results - Earnings Call Presentation",
-   "summary": "2026-11-05. The following slide deck was published by Becton, Dickinson and Company in conjunction with their 2026 Q4 earnings call.",
-   "url": "https://finnhub.io/api/news?id=1aea6a774771ead43f4a02de4c27718423683b4b238bf9466f4739f656dc0055",
-   "source": "SeekingAlpha",
-   "published": "2026-11-05T08:34:30+00:00",
-   "tickers": [
-    "BDX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
