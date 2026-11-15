@@ -1,22 +1,14 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-15T01:16:37.124159+00:00",
+ "updated": "2026-11-15T01:31:29.103009+00:00",
  "quotes": {
   "ABBV": {
    "price": 295.03,
    "change_pct": 0.2
   },
-  "ABT": {
-   "price": 108.52,
-   "change_pct": 1.18
-  },
   "AMGN": {
    "price": 465.67,
    "change_pct": -0.3
-  },
-  "BDX": {
-   "price": 218.03,
-   "change_pct": 1.08
   },
   "BMY": {
    "price": 63.43,
@@ -33,10 +25,6 @@
   "CVS": {
    "price": 89.35,
    "change_pct": -0.49
-  },
-  "EW": {
-   "price": 107.15,
-   "change_pct": 1.28
   },
   "GKOS": {
    "price": 245.72,
@@ -89,10 +77,6 @@
   "REGN": {
    "price": 955.47,
    "change_pct": 0.45
-  },
-  "SYK": {
-   "price": 309.64,
-   "change_pct": -0.88
   },
   "VRTX": {
    "price": 538.6,
@@ -713,6 +697,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "04dc2489063b",
+   "headline": "How Investors Are Reacting To Bristol Myers Squibb (BMY) R&D Leadership Overhaul",
+   "summary": "Bristol Myers Squibb announced that Cristian Massacesi will lead a unified, end-to-end research and development organization from January 2027, with current research chief Robert Plenge staying in an advisory role through March 2027 to\u2026",
+   "url": "https://finnhub.io/api/news?id=5d57a55afc5e66930136999b9fe68c7556e99f86be548c344155cc625cb03300",
+   "source": "Yahoo",
+   "published": "2026-11-15T00:16:48+00:00",
+   "tickers": [
+    "BMY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
   {
    "id": "ee13189f301b",
    "headline": "Coca-Cola and J&J Just Hit Record Highs. A 62-Year-Old Put $300,000 Into Them and Procter & Gamble in 2016. Here\u2019s How Much the Now 72-Year-Old Gets Paid Every Single Month",
@@ -2051,6 +2050,7 @@
    "source": "Yahoo",
    "published": "2026-11-13T16:48:00+00:00",
    "tickers": [
+    "ASND",
     "HALO",
     "LLY"
    ],
@@ -3631,6 +3631,21 @@
    ]
   },
   {
+   "id": "0231461c20f5",
+   "headline": "Ascendis Pharma (ASND) Could Be 12% Below Fair Value Following Q3 Earnings",
+   "summary": "Ascendis Pharma (ASND) just reported a sharp shift in its latest results. Q3 2026 brought \u20ac369.66 million in sales and \u20ac73.97 million in net income, compared with a loss in the prior year period. The fresh Q3 2026 results appear to have\u2026",
+   "url": "https://finnhub.io/api/news?id=19121d86298f742d9b643d3126b5703375a25bed50e3022ab66b0a201de1107e",
+   "source": "Yahoo",
+   "published": "2026-11-13T12:12:15+00:00",
+   "tickers": [
+    "ASND"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "23476f09c27d",
    "headline": "BioNTech (BNTX) Stock Looks Fully Valued As Sales Face Pressure",
    "summary": "BioNTech has seen its share price fall sharply over the past few years, even as the business shifts away from a single COVID-19 product toward a broader oncology portfolio. With the stock now trading well below its earlier peaks, the core\u2026",
@@ -3843,6 +3858,21 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "60453c3cf9ea",
+   "headline": "Ascendis Pharma (ASND) Stock Looks About Right After An 18% Rise",
+   "summary": "Ascendis Pharma has logged a strong one month run, and with fresh regulatory progress in Europe, the question is whether the current share price is adequately supported by its earnings power. For anyone following the stock, the key issue\u2026",
+   "url": "https://finnhub.io/api/news?id=a0fcaf74522c0170d85317fe9093d5dda6ab69ed86e5ab083c592e7138c2b5fd",
+   "source": "Yahoo",
+   "published": "2026-11-13T11:10:18+00:00",
+   "tickers": [
+    "ASND"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -48304,36 +48334,6 @@
    "tag": "Earnings",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "2973fcfbd010",
-   "headline": "Moderna Earnings Preview: The Melanoma Breakthrough Is Real, But $221 Is Way Too Much",
-   "summary": "Moderna's cancer vaccine shows real promise, but vaccine cash burn and uncertain oncology profits don't justify its $221 share price. Read more on MRNA stock here.",
-   "url": "https://finnhub.io/api/news?id=8e8e525bea759126b25d496ace3221fc2682a0ad30d786b863726c3645dec40e",
-   "source": "SeekingAlpha",
-   "published": "2026-11-05T01:23:59+00:00",
-   "tickers": [
-    "MRNA"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "fc193baad9cd",
-   "headline": "Sanofi (ENXTPA:SAN) Stock Looks Discounted Despite Its 20% Monthly Run",
-   "summary": "Sanofi has just delivered a sharp run in its share price, and the move is forcing investors to ask whether the current level is properly supported by the pharmaceutical group\u2019s earnings power. With fresh headlines around partnerships,\u2026",
-   "url": "https://finnhub.io/api/news?id=3529abad9bdd300896fc7790bc385988e4270425399b9767756e8a99b53be411",
-   "source": "Yahoo",
-   "published": "2026-11-05T01:16:21+00:00",
-   "tickers": [
-    "SNY"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
