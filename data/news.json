@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-15T00:31:31.519998+00:00",
+ "updated": "2026-11-15T00:46:27.557259+00:00",
  "quotes": {
   "ABBV": {
    "price": 295.03,
@@ -37,6 +37,10 @@
   "GKOS": {
    "price": 245.72,
    "change_pct": -0.13
+  },
+  "GSK": {
+   "price": 50.45,
+   "change_pct": -0.38
   },
   "HIMS": {
    "price": 19.73,
@@ -830,6 +834,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "b288442ac15c",
+   "headline": "Cigarette Sales Keep Falling. These 2 Tobacco Stocks Still Pay 5.5% Dividends",
+   "summary": "Smokers are quitting, yet two tobacco giants keep raising payouts. One has a Dividend King record, the other pays in a currency that swings every quarter. Which income stock handles the shrinking pack better?",
+   "url": "https://finnhub.io/api/news?id=dc00f5ad0d0c8e330b8a98fa3f91d0ee533fdea51c32191a8b7b48efe2d21bf1",
+   "source": "Yahoo",
+   "published": "2026-11-14T16:26:03+00:00",
+   "tickers": [
+    "GSK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "79a99913b096",
@@ -2550,6 +2569,21 @@
    "tickers": [],
    "tag": "Clinical",
    "sectors": []
+  },
+  {
+   "id": "4b5980a21d40",
+   "headline": "Cathie Wood Is Buying the CoreWeave Dip and Selling Palantir",
+   "summary": "ARK stepped into a sliding AI infrastructure stock while quietly trimming a premium-priced winner. One date next week could decide whether that bet on debt-fueled growth was savvy or early.",
+   "url": "https://finnhub.io/api/news?id=c173865a8ac6aea2a795dce296614328bbc05d8657133ba06949b46840a79ac5",
+   "source": "Yahoo",
+   "published": "2026-11-13T14:37:50+00:00",
+   "tickers": [
+    "TWST"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "tools"
+   ]
   },
   {
    "id": "d0c3bdb572ae",
