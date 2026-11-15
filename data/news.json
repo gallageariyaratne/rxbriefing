@@ -1,7 +1,11 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-15T14:01:38.910021+00:00",
+ "updated": "2026-11-15T14:16:25.319530+00:00",
  "quotes": {
+  "ABBV": {
+   "price": 295.03,
+   "change_pct": 0.2
+  },
   "AXSM": {
    "price": 141.69,
    "change_pct": -1.86
@@ -22,6 +26,10 @@
    "price": 50.45,
    "change_pct": -0.38
   },
+  "HCA": {
+   "price": 499.05,
+   "change_pct": -0.32
+  },
   "HUM": {
    "price": 450,
    "change_pct": 1.42
@@ -41,10 +49,6 @@
   "JNJ": {
    "price": 285.75,
    "change_pct": 0.79
-  },
-  "LH": {
-   "price": 370.48,
-   "change_pct": -0.49
   },
   "LLY": {
    "price": 1443.5,
@@ -736,6 +740,36 @@
    "tag": "FDA",
    "sectors": [
     "biotech",
+    "pharma"
+   ]
+  },
+  {
+   "id": "b69c03e4cfc4",
+   "headline": "A $22 Billion Fund Bought These 3 Stocks",
+   "summary": "Key TakeawaysDarsana Capital Partners, a $22 billion fund, made SpaceX, Amazon and HCA Healthcare its three biggest new or added positions in its latest 13F, for the quarter ended June 30. SpaceX alone was nearly 78% of its 13F stocks,\u2026",
+   "url": "https://finnhub.io/api/news?id=c7ba769cb71ff7cd0a015706fa98f3c0b9cfc165d46c6ba1b210ff191f783552",
+   "source": "Yahoo",
+   "published": "2026-11-15T12:51:19+00:00",
+   "tickers": [
+    "HCA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "dcd4020937f5",
+   "headline": "How Retirees Can Turn $175,000 Into Passive Income With These 4 Dividend Stocks",
+   "summary": "Selling shares to cover bills means accepting whatever price the market offers that month. Four dividend payers from four sectors could replace that gamble, but one of them has already slashed its payout once, and each carries a risk\u2026",
+   "url": "https://finnhub.io/api/news?id=c10a9317ac0ff630a1eb62364f8a46cf55f2de20e619aff0f1d9ea0b076c0b6e",
+   "source": "Yahoo",
+   "published": "2026-11-15T12:30:52+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
     "pharma"
    ]
   },
@@ -43521,162 +43555,6 @@
    "tag": "FDA",
    "sectors": [
     "tools"
-   ]
-  },
-  {
-   "id": "d6f75be6612d",
-   "headline": "Zoetis Lifts Annual Outlook While Braces For Cautious Pet Economy",
-   "summary": "Zoetis beats Q3 earnings and revenue estimates, lifts full-year 2026 guidance, and balances pet care affordability pressures with steady livestock gains.",
-   "url": "https://finnhub.io/api/news?id=9e750acd24d895448c3447b738b5d03ee88a141d7a25e13a37f32f49ed4115a4",
-   "source": "Benzinga",
-   "published": "2026-11-05T14:15:32+00:00",
-   "tickers": [
-    "ZTS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "71765911ca3a",
-   "headline": "Becton, Dickinson and Company (BDX) Q4 2026 Earnings Call Transcript",
-   "summary": "",
-   "url": "https://finnhub.io/api/news?id=6f2b23f6860c8a890a2e5ed992a0f354d905e2572fa95a84cef18be6e5789f98",
-   "source": "SeekingAlpha",
-   "published": "2026-11-05T14:14:35+00:00",
-   "tickers": [
-    "BDX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "961a9bf50519",
-   "headline": "Innate Pharma Q3 Earnings Call Highlights",
-   "summary": "Innate Pharma (NASDAQ:IPHA) said it has initiated a Phase 3 study of its lymphoma drug lacutamab and expects to present Phase 1 data for its experimental cancer treatment IPH4502 on Nov. 18, as the company outlined its third-quarter 2026\u2026",
-   "url": "https://finnhub.io/api/news?id=16e14dae1e6d4155ee646727870074eb58edf137051226dc62d9ae7ba9aa1e27",
-   "source": "Yahoo",
-   "published": "2026-11-05T14:14:26+00:00",
-   "tickers": [
-    "AZN"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "d85358fda484",
-   "headline": "AIM ImmunoTech Highlights Ampligen\u00ae Opportunity to Potentially Extend Benefits of RAS-Targeted Therapies in Pancreatic Cancer",
-   "summary": "New investor presentation outlines scientific rationale for combining Ampligen\u2019s immune-stimulating activity with daraxonrasib\u2019s targeted RAS inhibition to potentially prolong clinical benefit Previously reported Ampligen clinical\u2026",
-   "url": "https://finnhub.io/api/news?id=4afe56c3f49fb00d0f78600a175e064a22a09e18bc2422b649036e76e53f1d14",
-   "source": "Yahoo",
-   "published": "2026-11-05T14:13:00+00:00",
-   "tickers": [
-    "RVMD"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "58dbe750ea3e",
-   "headline": "Oscar Slips As LifeStance, HCA Climb On Earnings, Payment Hike",
-   "summary": "Investors are betting that Democrats will be good for healthcare spending.",
-   "url": "https://finnhub.io/api/news?id=0173c93cbcf64c4c6f898c1178aa986fd96e95392984e8860bb5d84d22a2d7d2",
-   "source": "Yahoo",
-   "published": "2026-11-05T14:12:20+00:00",
-   "tickers": [
-    "HCA",
-    "LFST",
-    "OSCR",
-    "THC"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "ddb6fc07a725",
-   "headline": "CVS Health Stock Earnings Beat Comes With Breakup Plan",
-   "summary": "CVS Health reported third quarter 2026 revenue of US$108.4b and net income of US$2.2b, and outlined a plan to separate into two independent listed businesses by the first half of 2028, splitting healthcare solutions from the retail\u2026",
-   "url": "https://finnhub.io/api/news?id=023f8fabbe66b23d3e881eba36d2d11240183bc304732eb1bfec4255406e4408",
-   "source": "Yahoo",
-   "published": "2026-11-05T14:11:52+00:00",
-   "tickers": [
-    "CVS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "25d091069bd7",
-   "headline": "Novavax\u2019s (NASDAQ:NVAX) Q3 2026: strong sales, guides for strong full-year sales",
-   "summary": "Vaccine biotechnology company Novavax (NASDAQ:NVAX) beat Wall Street\u2019s revenue expectations in Q3 2026, but revenue fell by 3% year on year to $68.3 million. The company\u2019s full-year revenue guidance of $400 million at the midpoint came in\u2026",
-   "url": "https://finnhub.io/api/news?id=9468d7602c9c6647f687c4bbf01630333c66f4b8054ec980f33839ea30cdf32f",
-   "source": "Yahoo",
-   "published": "2026-11-05T14:07:35+00:00",
-   "tickers": [
-    "SNY"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "d4a19a25326a",
-   "headline": "Prediction: The Weight-Loss Drug Boom Could Be Just the Beginning for Lilly",
-   "summary": "Eli Lilly just crushed earnings and raised guidance, yet the most compelling part of its story has almost nothing to do with what already happened. The real question is whether the weight-loss boom is a peak or a launching pad for\u2026",
-   "url": "https://finnhub.io/api/news?id=97a61885022149ddadb466206f98db46368e92c0ad98f755e37ffce6e9218534",
-   "source": "Yahoo",
-   "published": "2026-11-05T14:03:54+00:00",
-   "tickers": [
-    "LLY",
-    "MRK",
-    "NVO"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "31bc65e004cd",
-   "headline": "Messenger Ribonucleic Acid (mRNA) Manufacturing Service Market Report 2026 | Capitalize on 16.2% CAGR in IVT and LNP with Thermo Fisher, Merck, Lonza and GenScript ProBio",
-   "summary": "Boost ROI by outsourcing mRNA production, scaling IVT and end-to-end LNP services, accelerating tech transfer, and localizing inputs to curb tariff costs.Dublin, Nov. 05, 2026 (GLOBE NEWSWIRE) -- \"Messenger Ribonucleic Acid (MRNA)\u2026",
-   "url": "https://finnhub.io/api/news?id=3fd9e7413d7c19e7ec10f341a49842a8080edd380413ba218eb4d40f7d789fb8",
-   "source": "Yahoo",
-   "published": "2026-11-05T14:03:00+00:00",
-   "tickers": [
-    "MRK",
-    "TMO"
-   ],
-   "tag": "Policy",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "16434fe8c379",
-   "headline": "Cardinal Health Deepens Its Grip On The Buy Zone On Street-Beating Guidance",
-   "summary": "Cardinal Health stock rose deeper into a buy zone Thursday on a solid third-quarter report and guidance hike.",
-   "url": "https://finnhub.io/api/news?id=721bb30d16234683c4f2415d857cf1763425dd2e8ffc60c0d961d25077f3195c",
-   "source": "Yahoo",
-   "published": "2026-11-05T14:02:30+00:00",
-   "tickers": [
-    "CAH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharmacy"
    ]
   }
  ]
