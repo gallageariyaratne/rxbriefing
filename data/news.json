@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-16T01:15:38.537370+00:00",
+ "updated": "2026-11-16T01:31:30.901365+00:00",
  "quotes": {
   "ABBV": {
    "price": 295.03,
@@ -709,6 +709,17 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "b98f4cb477a4",
+   "headline": "STAT+: Apple and OpenEvidence launch experimental health chat app",
+   "summary": "Apple and OpenEvidence are launching a study based around an experimental AI-powered health chat app, hinting at possible new directions for both companies.",
+   "url": "https://www.statnews.com/2026/11/15/apple-openevidence-launch-health-chat-app-experiment-ai/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-11-16T01:25:43+00:00",
+   "tickers": [],
+   "tag": "Health AI",
+   "sectors": []
+  },
   {
    "id": "1aba87b4bfdf",
    "headline": "Where Will Intuitive Surgical Be in 10 Years? Hint: Its da Vinci 5 Installed Base Just Topped 2,000",
@@ -38278,114 +38289,6 @@
    "tag": "Earnings",
    "sectors": [
     "tools"
-   ]
-  },
-  {
-   "id": "f4c2917b3fa9",
-   "headline": "TransMedics (TMDX) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
-   "summary": "While the top- and bottom-line numbers for TransMedics (TMDX) give a sense of how the business performed in the quarter ended September 2026, it could be worth looking at how some of its key metrics compare to Wall Street estimates and\u2026",
-   "url": "https://finnhub.io/api/news?id=9de3ffa45004159042fec8deea1e7182074a24d33129452fed101fcf010a8ccc",
-   "source": "Yahoo",
-   "published": "2026-11-06T01:30:02+00:00",
-   "tickers": [
-    "TMDX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "937041adfa59",
-   "headline": "Madison Mid Cap Fund Q3 2026 Portfolio Activity",
-   "summary": "The Madison Mid Cap Fund (Class I) returned -2.09% in the third quarter, compared to the Russell Midcap Index return of -3.00%. Read more here.",
-   "url": "https://finnhub.io/api/news?id=eefbedc3bebbac5cd124995ad9daf5b6d29ab77aa15d0cf11eca1f3ae050a812",
-   "source": "SeekingAlpha",
-   "published": "2026-11-06T01:30:00+00:00",
-   "tickers": [
-    "MEDP",
-    "WAT"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "d261e6059d4b",
-   "headline": "TG Therapeutics (TGTX) Reports Initial Phase 1 Azer Cel Data In Progressive MS",
-   "summary": "TG Therapeutics (NasdaqCM:TGTX) reported initial Phase 1 data for azer-cel, its allogeneic CD19-directed CAR T-cell therapy in progressive multiple sclerosis. The first-in-indication results were presented at a major international MS\u2026",
-   "url": "https://finnhub.io/api/news?id=50b2ce8727680f34ba1d3378f9613f279d86886f98c0725baa09462335313a72",
-   "source": "Yahoo",
-   "published": "2026-11-06T01:23:21+00:00",
-   "tickers": [
-    "TGTX"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "b0bc8fe99dab",
-   "headline": "Cathie Wood Sells $12.8 Million Of Alphabet, Days After The Stock Suffered Its Worst Day Since Its 2004 IPO, Losing Nearly Half A Trillion Dollars In Market Value",
-   "summary": "Cathie Wood\u2019s ARK Invest reduced its stake in Alphabet (NASDAQ:GOOGL) on Wednesday, Nov. 4. According to CoinCentral\u2019s report of ARK\u2019s daily trades, the firm sold 46,164 shares worth $12.8 million through the ARK Innovation ETF\u2026",
-   "url": "https://finnhub.io/api/news?id=c7444a72762a334874186f36a828f87f416a2cc37f7131a0fed7c6809bf94cde",
-   "source": "Yahoo",
-   "published": "2026-11-06T01:20:15+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "Financing",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "cb02c55f20f3",
-   "headline": "Denali Therapeutics (DNLI) Earnings Beat Puts Valuation Back In Focus",
-   "summary": "Denali Therapeutics (DNLI) released third quarter 2026 results that swung to a profit and were driven by stronger than expected AVLAYAH sales, alongside fresh revenue guidance for the fourth quarter. Denali Therapeutics shares closed at\u2026",
-   "url": "https://finnhub.io/api/news?id=bdf57b4ce80e1e599a44cc91c77f52c8d54fd4c4b6ff2a66800a42f1611f077a",
-   "source": "Yahoo",
-   "published": "2026-11-06T01:19:40+00:00",
-   "tickers": [
-    "DNLI"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "1d31177a6560",
-   "headline": "Dow Jones Futures Fall, Techs Bounce After Nasdaq Dives 5.5%; Nvidia, Sandisk, CoreWeave, SpaceX Plunge",
-   "summary": "Nvidia, CoreWeave, SpaceX plunged, but the stock market sell-off spread far beyond AI. The October jobs report looms.",
-   "url": "https://finnhub.io/api/news?id=5a4e6f528bfd91f6cab26b379bf7e410264e32fd3385866eb9b95d8c8094c286",
-   "source": "Yahoo",
-   "published": "2026-11-06T01:18:01+00:00",
-   "tickers": [
-    "GH",
-    "TXG",
-    "VEEV"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "545b9311ca1d",
-   "headline": "Novavax Inc (NVAX) (Q3 2026) Earnings Call Highlights: Sanofi Milestone Lifts Revenue Outlook ...",
-   "summary": "Novavax Inc (NVAX) raised its 2026 revenue framework by $145 million on a $125 million Sanofi milestone, cut operating expenses 41% year over year, and now expects its cash to last into 2029.",
-   "url": "https://finnhub.io/api/news?id=6bacc7569ece54d7e6d2526f2c918b734b10346dddaa3e028aab210a458024e5",
-   "source": "Yahoo",
-   "published": "2026-11-06T01:15:20+00:00",
-   "tickers": [
-    "SNY"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
