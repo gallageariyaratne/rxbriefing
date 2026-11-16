@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-16T22:47:33.517722+00:00",
+ "updated": "2026-11-16T23:02:38.853854+00:00",
  "quotes": {
   "A": {
    "price": 172.92,
@@ -17,6 +17,10 @@
   "ACAD": {
    "price": 18.67,
    "change_pct": -0.43
+  },
+  "ALNY": {
+   "price": 159.73,
+   "change_pct": -3.22
   },
   "ALT": {
    "price": 1.56,
@@ -924,6 +928,21 @@
    ]
   },
   {
+   "id": "b06c89fd595c",
+   "headline": "What's dragging down the S&P 500? Apple in focus",
+   "summary": "Yahoo Finance Markets and Data Editor Jared Blikre joins Deirdre Bosa on Deirdre Bosa Live to discuss Apple's (AAPL) influence on the S&P 500 (^GSPC). Blikre examines what's driving the latest weakness on Wall Street.",
+   "url": "https://finnhub.io/api/news?id=247299d1ab30b189136329f7a2f877cabe730885cc260e39bc2ee29038a00a3f",
+   "source": "Yahoo",
+   "published": "2026-11-16T21:49:49+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "2974d229e6d7",
    "headline": "Povofortay\u00ae (povorcitinib) Approved in Europe as the First Once-Daily Oral Treatment for Adults with Moderate to Severe Hidradenitis Suppurativa",
    "summary": "WILMINGTON, Del., November 16, 2026--Povofortay\u00ae (povorcitinib) Approved in Europe as the First Once-Daily Oral Treatment for Adults with Moderate to Severe Hidradenitis Suppurativa",
@@ -1010,6 +1029,21 @@
    ]
   },
   {
+   "id": "4f65a3058649",
+   "headline": "Gilead Expands Access to Investigational Obeldesivir for Ebola Bundibugyo Virus Disease Through Voluntary Licensing",
+   "summary": "FOSTER CITY, Calif., November 16, 2026--Gilead Sciences, Inc. (Nasdaq: GILD) today announced that it has signed royalty-free voluntary licensing agreements with three generic manufacturers to support potential future access to its\u2026",
+   "url": "https://finnhub.io/api/news?id=5947d5e4cb41657ed09c6f81362ccc4160bf37742a0291424976b6cb6d2df17b",
+   "source": "Yahoo",
+   "published": "2026-11-16T21:05:00+00:00",
+   "tickers": [
+    "GILD"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "7d27e1fc2741",
    "headline": "What Is Driving Alnylam Stock?",
    "summary": "For questions about this article or underlying research, email help@trefis.com.",
@@ -1017,9 +1051,26 @@
    "source": "Yahoo",
    "published": "2026-11-16T21:03:29+00:00",
    "tickers": [
+    "ALNY",
     "BIIB",
+    "GILD",
     "REGN",
     "VRTX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "b30533560d24",
+   "headline": "Stipple Bio Announces Multi-Target Multi-Modality Oncology Research Collaboration with Lilly",
+   "summary": "\u2013 Strategic research collaboration leverages Stipple Bio's innovative Pointillist Platform to identify tumor-specific cell surface epitope binders and Lilly\u2019s proprietary oncology technologies \u2013 CAMBRIDGE, Mass., Nov. 16, 2026 (GLOBE\u2026",
+   "url": "https://finnhub.io/api/news?id=eca633cfb4aad31f33dc38812e0c7858a0c354a8a2d74e1c545a239b455f9086",
+   "source": "Yahoo",
+   "published": "2026-11-16T21:00:00+00:00",
+   "tickers": [
+    "LLY"
    ],
    "tag": "News",
    "sectors": [
@@ -1045,7 +1096,8 @@
    "source": "Yahoo",
    "published": "2026-11-16T20:53:11+00:00",
    "tickers": [
-    "JNJ"
+    "JNJ",
+    "LLY"
    ],
    "tag": "News",
    "sectors": [
@@ -1098,6 +1150,7 @@
    "published": "2026-11-16T19:46:03+00:00",
    "tickers": [
     "AMGN",
+    "LLY",
     "PFE"
    ],
    "tag": "News",
@@ -1962,6 +2015,21 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "bb4625f49f50",
+   "headline": "Are Wall Street Analysts Predicting Edwards Lifesciences Stock Will Climb or Sink?",
+   "summary": "Edwards Lifesciences has outperformed the broader market over the past year, and analysts are highly optimistic about the stock\u2019s prospects.",
+   "url": "https://finnhub.io/api/news?id=008a9d593f5f6aafc11284075f1902ff3ecd94120fcf8d432289b5991d0e48b2",
+   "source": "Yahoo",
+   "published": "2026-11-16T15:27:12+00:00",
+   "tickers": [
+    "EW"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "medtech"
    ]
   },
   {
