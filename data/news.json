@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-16T00:01:45.933170+00:00",
+ "updated": "2026-11-16T00:16:34.126093+00:00",
  "quotes": {
   "ABBV": {
    "price": 295.03,
@@ -21,6 +21,10 @@
   "DHR": {
    "price": 233.02,
    "change_pct": 0.37
+  },
+  "EVH": {
+   "price": 4.9,
+   "change_pct": 2.73
   },
   "HCA": {
    "price": 499.05,
@@ -1022,6 +1026,7 @@
    "source": "Yahoo",
    "published": "2026-11-15T06:07:11+00:00",
    "tickers": [
+    "EVH",
     "HUM"
    ],
    "tag": "News",
@@ -38502,21 +38507,6 @@
    "tag": "Earnings",
    "sectors": [
     "tools"
-   ]
-  },
-  {
-   "id": "f20d0afc75bc",
-   "headline": "iRhythm Holdings (NASDAQ:IRTC) Slides 15.5% as Q3 Revenue Miss Overshadows Strong EPS and Raised Guidance",
-   "summary": "iRhythm Q3 revenue missed consensus but adjusted EPS beat; raised 2026 guidance, yet IRTC shares fell 15.5% after hours on soft sales and GAAP loss.",
-   "url": "https://finnhub.io/api/news?id=a1df2b38ae3170b18ece3d672c8657704c2867c853ffe41929a26cfd552c368a",
-   "source": "ChartMill",
-   "published": "2026-11-06T00:01:43+00:00",
-   "tickers": [
-    "IRTC"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
