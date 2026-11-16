@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-16T02:16:27.545455+00:00",
+ "updated": "2026-11-16T02:31:34.123586+00:00",
  "quotes": {
   "ABBV": {
    "price": 295.03,
@@ -53,10 +53,6 @@
   "MRK": {
    "price": 147.76,
    "change_pct": 0.55
-  },
-  "MRNA": {
-   "price": 223.37,
-   "change_pct": -3.45
   },
   "NTRA": {
    "price": 319.09,
@@ -736,6 +732,21 @@
    "sectors": []
   },
   {
+   "id": "98e8bba64875",
+   "headline": "J&J in talks to buy eye disease biotech Ollin for $3.4 bln, FT reports",
+   "summary": "Investing.com-- Johnson & Johnson (NYSE:JNJ) is in advanced talks to acquire privately held eye disease drug developer Ollin Biosciences for up to $3.4 billion, the Financial Times reported on Sunday, citing people familiar with the matter.",
+   "url": "https://finnhub.io/api/news?id=3afa7d6578a33dc9b722edaa957c1a17502490e414b5ec46f5938120cb82f52b",
+   "source": "Yahoo",
+   "published": "2026-11-16T01:23:54+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "8cb758b369c3",
    "headline": "FDA Doesn't Approve Summit's China-Developed Lung Cancer Drug",
    "summary": "The FDA said Summit Therapeutics' lung cancer drug ivonescimab, developed in China, failed to show a statistically significant survival benefit.",
@@ -818,6 +829,21 @@
    "summary": "VENTURE Analysis Finds 74% of Participants Receiving Subcutaneous VK2735 Improved by at Least One BMI Category after 13 Weeks VK2735 Treatment Led to Improvement Across Multiple Cardiometabolic Markers SAN DIEGO, Nov. 15, 2026\u2026",
    "url": "https://www.prnewswire.com/news-releases/viking-therapeutics-highlights-clinical-data-from-vk2735-obesity-program-at-obesityweek-2026-302939732.html",
    "source": "PR Newswire",
+   "published": "2026-11-15T17:05:00+00:00",
+   "tickers": [
+    "VKTX"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "f026fcb37f10",
+   "headline": "Viking Therapeutics Highlights Clinical Data from VK2735 Obesity Program at ObesityWeek\u00ae 2026",
+   "summary": "Viking Therapeutics, Inc. (Viking) (NASDAQ: VKTX), a clinical-stage biopharmaceutical company focused on the development of novel therapies for metabolic and endocrine disorders, today announced that new clinical data from the company's\u2026",
+   "url": "https://finnhub.io/api/news?id=1797c9eae6fa6efea2d0f8d277d9941f8c8fe5fd3b06491e01e361bdfe2660f6",
+   "source": "Yahoo",
    "published": "2026-11-15T17:05:00+00:00",
    "tickers": [
     "VKTX"
@@ -38215,36 +38241,6 @@
    "tag": "FDA",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "04662af05a58",
-   "headline": "Zoetis Inc. 2026 Q3 - Results - Earnings Call Presentation",
-   "summary": "",
-   "url": "https://finnhub.io/api/news?id=a4894b2d23e5cec1f382e97273b45d51b5a869c35eda926c43b838bb8351f3b4",
-   "source": "SeekingAlpha",
-   "published": "2026-11-06T02:30:43+00:00",
-   "tickers": [
-    "ZTS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "cb95691a1e24",
-   "headline": "Waystar Holding (WAY) Stock Trades At A Premium To Fair Value",
-   "summary": "Waystar Holding has bounced over the past month after a tougher year in the market, which puts a fresh spotlight on whether the current share price is fully supported by the company\u2019s earnings profile. With the stock now around US$28.88,\u2026",
-   "url": "https://finnhub.io/api/news?id=a0318d485153fd0e9d70069cabde2cf8017b3eba5b9b3f1e086a1365f3197525",
-   "source": "Yahoo",
-   "published": "2026-11-06T02:19:25+00:00",
-   "tickers": [
-    "WAY"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "healthit"
    ]
   }
  ]
