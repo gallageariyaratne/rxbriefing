@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-16T13:16:49.297483+00:00",
+ "updated": "2026-11-16T13:31:56.671542+00:00",
  "quotes": {
   "ABBV": {
    "price": 295.03,
@@ -114,6 +114,10 @@
    "price": 160.5,
    "change_pct": 0.16
   },
+  "OSCR": {
+   "price": 31.05,
+   "change_pct": -2.79
+  },
   "PACB": {
    "price": 1.96,
    "change_pct": -0.51
@@ -145,6 +149,10 @@
   "UNH": {
    "price": 407.46,
    "change_pct": 0.58
+  },
+  "UTHR": {
+   "price": 591.17,
+   "change_pct": -0.36
   },
   "VKTX": {
    "price": 29.22,
@@ -766,6 +774,17 @@
  },
  "stories": [
   {
+   "id": "2ef43587eaa3",
+   "headline": "Aclaris scratches TSLP program from pipeline after flunking phase 2 eczema test",
+   "summary": "A phase 2 study of Aclaris Therapeutics\u2019 bosakitug in atopic dermatitis has missed its primary endpoint, adding to the setbacks anti-TSLP antibodies have encountered in the indication.",
+   "url": "https://www.fiercebiotech.com/biotech/aclaris-scratches-tslp-program-pipeline-after-flunking-phase-2-eczema-test",
+   "source": "Fierce Biotech",
+   "published": "2026-11-16T13:30:24.240332+00:00",
+   "tickers": [],
+   "tag": "Clinical",
+   "sectors": []
+  },
+  {
    "id": "13b634271601",
    "headline": "Building resilient biomanufacturing supply networks",
    "summary": "Global scale, regional proximity and harmonized quality systems can strengthen biologics supply resilience",
@@ -901,6 +920,21 @@
    ]
   },
   {
+   "id": "69c19111e24f",
+   "headline": "Oscar Health, Inc. Appoints Tomer Cohen, Eric Larsen, and Rajat Taneja to Board",
+   "summary": "",
+   "url": "https://finnhub.io/api/news?id=1516262ed4378b4f59767a2e66eb0a90a8df9448447af8abf52842e056c6d001",
+   "source": "Fintel",
+   "published": "2026-11-16T11:41:40+00:00",
+   "tickers": [
+    "OSCR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "afe660745407",
    "headline": "Flagship's Afeyan Sees UK Bet Creating Next Moderna",
    "summary": "Flagship Pioneering founder and CEO Noubar Afeyan says the biotech venture firm hopes its new UK investment can grow to as much as \u00a3600 million \"relatively soon,\" as it establishes its first full-scale company-creation operation outside\u2026",
@@ -928,6 +962,21 @@
    "tag": "GLP-1",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "ae29e8c1bb52",
+   "headline": "iShares Core S&P Mid-Cap (IJH) Sells ATI and TechnipFMC on Nov. 12",
+   "summary": "The fund sold $182.6 million of stock and bought nothing, cutting 387 positions while adding none.",
+   "url": "https://finnhub.io/api/news?id=d04dd92f36e8997781b987a9bc2f91ba0d0660b229bee0a1d7603fc127148386",
+   "source": "Yahoo",
+   "published": "2026-11-16T11:05:48+00:00",
+   "tickers": [
+    "UTHR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -35852,279 +35901,6 @@
    "tag": "M&A",
    "sectors": [
     "tools"
-   ]
-  },
-  {
-   "id": "1fafebb97869",
-   "headline": "Moderna Stock Soars After $162 Million Profit Reverses Last Year's Loss",
-   "summary": "Moderna Delivers Stunning Earnings Surprise as Revenue Outlook Gets Major Upgrade",
-   "url": "https://finnhub.io/api/news?id=5a8a20ee0bf55b2c1aeb596d12ef38d39e7219d36579cfcdcb48359aca324dd5",
-   "source": "Yahoo",
-   "published": "2026-11-06T13:30:21+00:00",
-   "tickers": [
-    "MRNA"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "e7cb0683aa94",
-   "headline": "Wall Street Analysts See UnitedHealth (UNH) as a Buy: Should You Invest?",
-   "summary": "The average brokerage recommendation (ABR) for UnitedHealth (UNH) is equivalent to a Buy. The overly optimistic recommendations of Wall Street analysts make the effectiveness of this highly sought-after metric questionable. So, is it\u2026",
-   "url": "https://finnhub.io/api/news?id=03aa52b8b18f18d00d3407975b4c1b8111f1f36eb388e90882876a6fbb3b51ee",
-   "source": "Yahoo",
-   "published": "2026-11-06T13:30:01+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "efb379a5b866",
-   "headline": "Humana (HUM) Q3 Earnings: Taking a Look at Key Metrics Versus Estimates",
-   "summary": "While the top- and bottom-line numbers for Humana (HUM) give a sense of how the business performed in the quarter ended September 2026, it could be worth looking at how some of its key metrics compare to Wall Street estimates and year-ago\u2026",
-   "url": "https://finnhub.io/api/news?id=6a3c4030da16ee6d37067203ff7de54645e0fc2a784d41fd1c67da611fcd6222",
-   "source": "Yahoo",
-   "published": "2026-11-06T13:30:01+00:00",
-   "tickers": [
-    "HUM"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "6000c79786f5",
-   "headline": "Company News for Nov 6, 2026",
-   "summary": "Companies in The News Are: CMI, CAH, APLD, SONY",
-   "url": "https://finnhub.io/api/news?id=6c4da76229841072c3e7bab5f08dfc172528003a2483e167c2c3f76dfdd3af02",
-   "source": "Yahoo",
-   "published": "2026-11-06T13:30:00+00:00",
-   "tickers": [
-    "CAH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharmacy"
-   ]
-  },
-  {
-   "id": "54f8d77bc659",
-   "headline": "Doximity, Inc. Q2 2027 Earnings Call Summary",
-   "summary": "Moby summary of Doximity, Inc.'s Q2 2027 earnings call",
-   "url": "https://finnhub.io/api/news?id=2ada3498028a80e70386704642a098a6979baa60eaa6353ae1b8a02cd5a420a1",
-   "source": "Yahoo",
-   "published": "2026-11-06T13:30:00+00:00",
-   "tickers": [
-    "DOCS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "7286e6a3ff8c",
-   "headline": "Natera, Inc. Q3 2026 Earnings Call Summary",
-   "summary": "Moby summary of Natera, Inc.'s Q3 2026 earnings call",
-   "url": "https://finnhub.io/api/news?id=37f8191b714b26f7fbf883773638b460a0b27b168eeb9d1edfdec3a09fb66aff",
-   "source": "Yahoo",
-   "published": "2026-11-06T13:30:00+00:00",
-   "tickers": [
-    "NTRA"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "358a672fb0f6",
-   "headline": "iRhythm Technologies, Inc. Q3 2026 Earnings Call Summary",
-   "summary": "Moby summary of iRhythm Technologies, Inc.'s Q3 2026 earnings call",
-   "url": "https://finnhub.io/api/news?id=b3e8971d7fde887faf73fadacaf92ca197a3f64407959beff72dfd959b1a8ed0",
-   "source": "Yahoo",
-   "published": "2026-11-06T13:30:00+00:00",
-   "tickers": [
-    "IRTC"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "98b16bc3eafe",
-   "headline": "TransMedics Group, Inc. Q3 2026 Earnings Call Summary",
-   "summary": "Moby summary of TransMedics Group, Inc.'s Q3 2026 earnings call",
-   "url": "https://finnhub.io/api/news?id=bef2ca3625aa8ad31dae715abb93f66e055f8c77df24f3736589e1de8d7da93e",
-   "source": "Yahoo",
-   "published": "2026-11-06T13:30:00+00:00",
-   "tickers": [
-    "TMDX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "ef57ef4fe813",
-   "headline": "Oscar Health, Inc. Q3 2026 Earnings Call Summary",
-   "summary": "Moby summary of Oscar Health, Inc.'s Q3 2026 earnings call",
-   "url": "https://finnhub.io/api/news?id=82ffbf44259eaaef64e45102858daaed06fbd763c5ef985dd6649e4f5c194804",
-   "source": "Yahoo",
-   "published": "2026-11-06T13:30:00+00:00",
-   "tickers": [
-    "OSCR"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "d67e88373ee1",
-   "headline": "10x Genomics, Inc. Q3 2026 Earnings Call Summary",
-   "summary": "Moby summary of 10x Genomics, Inc.'s Q3 2026 earnings call",
-   "url": "https://finnhub.io/api/news?id=4a517d9253472224bc5d4d59d02599f3e6dbfcf6fc6efd86db21f03508d44c35",
-   "source": "Yahoo",
-   "published": "2026-11-06T13:30:00+00:00",
-   "tickers": [
-    "TXG"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "f660a070696e",
-   "headline": "Guardant Health, Inc. Q3 2026 Earnings Call Summary",
-   "summary": "Moby summary of Guardant Health, Inc.'s Q3 2026 earnings call",
-   "url": "https://finnhub.io/api/news?id=ac8f9dfcf938c9957ca9da1abbe45844344d4759d7cf3f80b9141b64aed0ffd7",
-   "source": "Yahoo",
-   "published": "2026-11-06T13:30:00+00:00",
-   "tickers": [
-    "GH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "e9da5bbc4fe6",
-   "headline": "Why Hims & Hers Health Stock Was in Dire Need of This Eli Lilly Agreement",
-   "summary": "Hims & Hers stock rises after the company announces an agreement with Eli Lilly to offer the pharma giant\u2019s GLP-1s on its consumer platform.",
-   "url": "https://finnhub.io/api/news?id=77819a2baaed8f3d32e1ee1eb3823b152c9678d891587ccb55bc9f24b99031a1",
-   "source": "Yahoo",
-   "published": "2026-11-06T13:24:00+00:00",
-   "tickers": [
-    "HIMS",
-    "LLY",
-    "NVO"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "dddd77eb120d",
-   "headline": "The Zacks Analyst Blog Highlights Archer-Daniels-Midland, Freeport-McMoRan, UnitedHealth, Casey's General Stores and Crane",
-   "summary": "Democratic control of Congress could shift investor interest toward cyclical stocks, putting Archer-Daniels-Midland, Freeport-McMoRan and three other picks in focus.",
-   "url": "https://finnhub.io/api/news?id=b6293c9bbe9781841868c3562b853256551656239b91d4e9a170a7fa7f4acdb4",
-   "source": "Yahoo",
-   "published": "2026-11-06T13:23:00+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "5759ac0d530c",
-   "headline": "Qiagen N.V. Announces Public Takeover Offer from EQT Private Equity at \u20ac46.50 Per Share",
-   "summary": "",
-   "url": "https://finnhub.io/api/news?id=897aa356f90ff8bc6c33c7213629b556f0eb0d94aca7459369089bf65050ebc1",
-   "source": "Fintel",
-   "published": "2026-11-06T13:21:18+00:00",
-   "tickers": [
-    "QGEN"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "d55727968d3a",
-   "headline": "Gilead\u2019s Twice-Yearly HIV Prevention Injection Shows 85.6% Persistence And Zero HIV Acquisitions in 52-Week Trial",
-   "summary": "Gilead Sciences, Inc. (NASDAQ:GILD) today announced results from the PURPOSE 5 trial showing significantly higher persistence\u2014defined as consistent and continuous on-time use\u2014among people starting twice-yearly",
-   "url": "https://finnhub.io/api/news?id=e3dbc481bdc100fd4efe5b94954ffc37f90093a54f9a4b259a40adf61c56cd36",
-   "source": "Benzinga",
-   "published": "2026-11-06T13:20:51+00:00",
-   "tickers": [
-    "GILD"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "60aa9e9e2e81",
-   "headline": "Oppenheimer Maintains Outperform on Evolent Health, Raises Price Target to $7",
-   "summary": "Oppenheimer analyst Michael Wiederhorn maintains Evolent Health (NYSE:EVH) with a Outperform and raises the price target from $6 to $7.",
-   "url": "https://finnhub.io/api/news?id=1071b0377be6aeedbe46884fb93e85265f7034434bcaac0ad858c72250a927b1",
-   "source": "Benzinga",
-   "published": "2026-11-06T13:20:16+00:00",
-   "tickers": [
-    "EVH"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "3e2bd550b5b4",
-   "headline": "Moderna Shares Jump 10% as Q3 Earnings Beat Forecasts and Revenue Outlook Improves",
-   "summary": "Moderna Inc. (NASDAQ:MRNA) shares surged 10% after the biotechnology company reported stronger-than-expected third-quarter 2026 earnings and revenue, raised its full-year sales growth forecast and increased its projected year-end cash\u2026",
-   "url": "https://finnhub.io/api/news?id=73f750394c5e59707b610308a023ffe6c41db20b784eb87b792b4729b728b647",
-   "source": "Yahoo",
-   "published": "2026-11-06T13:16:54+00:00",
-   "tickers": [
-    "MRNA"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "d846b1d805d0",
-   "headline": "Telehealth Giant Hims & Hers Partners with Eli Lilly for Direct Weight Loss Drug Delivery",
-   "summary": "Eli Lilly partners with Hims & Hers to offer Zepbound and Foundayo directly to telehealth patients with self-pay options starting at $149.",
-   "url": "https://finnhub.io/api/news?id=b4d2de26ea457637d2c37e20a780b87343a13f5f2c8ca8a0c2515f2316638cc2",
-   "source": "Benzinga",
-   "published": "2026-11-06T13:16:47+00:00",
-   "tickers": [
-    "HIMS",
-    "LLY"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
