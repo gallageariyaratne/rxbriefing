@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-16T22:02:40.269050+00:00",
+ "updated": "2026-11-16T22:17:59.181713+00:00",
  "quotes": {
   "A": {
    "price": 172.92,
@@ -217,6 +217,10 @@
   "PODD": {
    "price": 145.29,
    "change_pct": -4.72
+  },
+  "REGN": {
+   "price": 952.4,
+   "change_pct": -0.32
   },
   "ROIV": {
    "price": 38.61,
@@ -909,6 +913,21 @@
    "tag": "News",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "7d27e1fc2741",
+   "headline": "What Is Driving Alnylam Stock?",
+   "summary": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://finnhub.io/api/news?id=ea5757781e89b4727b4461aaba6b30271f000fd1f484f3120f5a43268559edc0",
+   "source": "Yahoo",
+   "published": "2026-11-16T21:03:29+00:00",
+   "tickers": [
+    "REGN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -34824,48 +34843,6 @@
    "sectors": [
     "medtech"
    ]
-  },
-  {
-   "id": "1ebeb678daba",
-   "headline": "What Should Investors Watch After Intuitive Surgical (ISRG) Added Aaron Martin To Its Board?",
-   "summary": "Intuitive Surgical (NasdaqGS: ISRG) has appointed healthcare executive Aaron Martin to its board of directors, effective January 2027. Martin previously led Amazon Health Services and has held senior roles at Humana and Providence St.\u2026",
-   "url": "https://finnhub.io/api/news?id=d3d86beffcaa60d3aa1bfcc47d7d16c69652e19f481d71c8fe258ccb938c1a99",
-   "source": "Yahoo",
-   "published": "2026-11-06T22:14:13+00:00",
-   "tickers": [
-    "HUM",
-    "ISRG"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "45d2cf377751",
-   "headline": "Medtronic (MDT) Reports SPYRAL AFFIRM Results, Is It Still 9% Undervalued?",
-   "summary": "Medtronic (MDT) is back in focus after releasing SPYRAL AFFIRM study results on its Symplicity Spyral renal denervation system and securing updated FDA labeling that broadens the supporting clinical data for several high risk hypertension\u2026",
-   "url": "https://finnhub.io/api/news?id=6bd9ce02ae8969bf3da0b255a7d06b07395bb5d217d3c6259bf2b9d8d7523b43",
-   "source": "Yahoo",
-   "published": "2026-11-06T22:11:36+00:00",
-   "tickers": [
-    "MDT"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "969309736d0e",
-   "headline": "STAT+: States sue Trump administration again to delay Medicaid work requirements",
-   "summary": "The Trump administration is facing another lawsuit over its sweeping changes to Medicaid less than a week after a federal judge ruled that implementation of work requirements would cause \u201cirreparable\u2026",
-   "url": "https://www.statnews.com/2026/11/06/states-sue-trump-delay-medicaid-work-requirements/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-11-06T22:05:39+00:00",
-   "tickers": [],
-   "tag": "Legal",
-   "sectors": []
   }
  ]
 }
