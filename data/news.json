@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-16T07:01:33.909146+00:00",
+ "updated": "2026-11-16T07:16:24.750043+00:00",
  "quotes": {
   "ABBV": {
    "price": 295.03,
@@ -9,6 +9,10 @@
   "AMGN": {
    "price": 465.67,
    "change_pct": -0.3
+  },
+  "ARGX": {
+   "price": 960.04,
+   "change_pct": -2.17
   },
   "AZN": {
    "price": 184.45,
@@ -689,6 +693,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "33c56e2490ab",
+   "headline": "One of Europe\u2019s leading VCs banks a \u20ac725M \u2018crossover\u2019 fund",
+   "summary": "Sofinnova Partners, which has backed the likes of successful drugmakers such as Abivax, Argenx and Verona Pharma, will use the cash to support a new group of later-stage biotechs.",
+   "url": "https://www.biopharmadive.com/news/sofinnova-crossover-fund-ii-european-investment/874656/",
+   "source": "BioPharma Dive",
+   "published": "2026-11-16T07:00:00+00:00",
+   "tickers": [
+    "ARGX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
   {
    "id": "60249512b8ad",
    "headline": "GSK (LSE:GSK) Is Grappling With Suspected Counterfeit Antibiotics In Nigeria",
@@ -37710,51 +37729,6 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "5435fcd8ec06",
-   "headline": "Humana FY2026 GAAP EPS expected to be more than $15.09 vs $6.71 Est",
-   "summary": "Humana (NYSE:HUM) FY2026 expected to be more than $15.09 vs $6.71 Est..",
-   "url": "https://finnhub.io/api/news?id=e2d788b71793cc0c993bafe83f4fdc6ad42adac407314ba7bb864ad6b44a003e",
-   "source": "Benzinga",
-   "published": "2026-11-06T07:04:48+00:00",
-   "tickers": [
-    "HUM"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "b9c49458e97a",
-   "headline": "Humana FY2026 Adj EPS expected to be more than $9.50 vs $9.15 Est",
-   "summary": "Humana (NYSE:HUM) FY2026 expected to be more than $9.50 vs $9.15 Est..",
-   "url": "https://finnhub.io/api/news?id=f79f6a460434fb629a2f0b9f356edba8710cf4fb356ffd6cebf9c7f02f88bc4e",
-   "source": "Benzinga",
-   "published": "2026-11-06T07:04:35+00:00",
-   "tickers": [
-    "HUM"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "9d6bbb1591cd",
-   "headline": "BMO Capital Downgrades Globus Medical to Market Perform, Lowers Price Target to $78",
-   "summary": "BMO Capital analyst Vik Chopra downgrades Globus Medical (NYSE:GMED) from Outperform to Market Perform and lowers the price target from $94 to $78.",
-   "url": "https://finnhub.io/api/news?id=f285075bde82487815dc7423c7eb7fac8592856ee7b01825a0fa0a0690f9dd14",
-   "source": "Benzinga",
-   "published": "2026-11-06T07:02:59+00:00",
-   "tickers": [
-    "GMED"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
