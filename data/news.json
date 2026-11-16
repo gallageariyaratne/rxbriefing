@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-16T12:46:42.980817+00:00",
+ "updated": "2026-11-16T13:02:07.751776+00:00",
  "quotes": {
   "ABBV": {
    "price": 295.03,
@@ -58,9 +58,9 @@
    "price": 56.13,
    "change_pct": -0.05
   },
-  "DHR": {
-   "price": 233.02,
-   "change_pct": 0.37
+  "ELV": {
+   "price": 429.69,
+   "change_pct": -0.05
   },
   "EW": {
    "price": 107.15,
@@ -74,9 +74,9 @@
    "price": 50.45,
    "change_pct": -0.38
   },
-  "HCA": {
-   "price": 499.05,
-   "change_pct": -0.32
+  "HSIC": {
+   "price": 86.22,
+   "change_pct": 0.09
   },
   "ISRG": {
    "price": 443.59,
@@ -133,6 +133,10 @@
   "SNY": {
    "price": 48.37,
    "change_pct": -0.19
+  },
+  "SYK": {
+   "price": 309.64,
+   "change_pct": -0.88
   },
   "UHS": {
    "price": 194.07,
@@ -839,11 +843,57 @@
     "ABT",
     "BDX",
     "BSX",
-    "JNJ"
+    "JNJ",
+    "SYK"
    ],
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "afe660745407",
+   "headline": "Flagship's Afeyan Sees UK Bet Creating Next Moderna",
+   "summary": "Flagship Pioneering founder and CEO Noubar Afeyan says the biotech venture firm hopes its new UK investment can grow to as much as \u00a3600 million \"relatively soon,\" as it establishes its first full-scale company-creation operation outside\u2026",
+   "url": "https://finnhub.io/api/news?id=edfe663900058f39a87b01cd28ab2063e13840f03048d248e590fdfa9acd3712",
+   "source": "Yahoo",
+   "published": "2026-11-16T11:35:16+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "Financing",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "6184a4934a55",
+   "headline": "What Does Eli Lilly (LLY) Reveal At ObesityWeek 2026 About Its Growth Path?",
+   "summary": "Eli Lilly (NYSE:LLY) released new clinical data at ObesityWeek 2026 on Zepbound, Foundayo, EloraTZP, and retatrutide. The update included late-stage obesity and cardiometabolic results that covered weight loss, metabolic markers, and\u2026",
+   "url": "https://finnhub.io/api/news?id=437c794fcc96a71a2403923f7a5e0688b63f743b5943b8327fbdc8f174604e8d",
+   "source": "Yahoo",
+   "published": "2026-11-16T11:13:39+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "8902d2f83e36",
+   "headline": "Proshares Trust (TQQQ) Buys $72.9 Million More Moderna on Nov. 12",
+   "summary": "The 3x leveraged Nasdaq-100 fund added a $72.9 million Moderna stake while trimming 100 positions and net selling $101.1 million.",
+   "url": "https://finnhub.io/api/news?id=3bf5846e13d0959f330730005428fd8412ac8e7dfc8b4f9d11de060149640c28",
+   "source": "Yahoo",
+   "published": "2026-11-16T11:05:23+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -856,11 +906,43 @@
    "tickers": [
     "ABBV",
     "JNJ",
+    "LLY",
+    "MRK",
     "UNH"
    ],
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "2ce57203c94f",
+   "headline": "What Invesco S&P 500 Equal Weight ETF (RSP) Bought: Moderna Leads on Nov. 12",
+   "summary": "The fund added $319.5 million in gross purchases, lifting all 503 positions and making no sales.",
+   "url": "https://finnhub.io/api/news?id=372849855454ba43706f8d1e2f075d88fcced76e25b8fa1afc98e90c25c10afe",
+   "source": "Yahoo",
+   "published": "2026-11-16T11:05:06+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "83500a5c5af5",
+   "headline": "Avantis U.S. Large Cap Value (AVLV) Adds AT&T and Micron on Thursday",
+   "summary": "The fund sold $332.8 million more than it bought, with Eli Lilly and Accenture its largest sales.",
+   "url": "https://finnhub.io/api/news?id=25c1c1fe2c743cd718d4a5417913d7f2593c37bb3202343b1b6a9872260a542e",
+   "source": "Yahoo",
+   "published": "2026-11-16T11:04:32+00:00",
+   "tickers": [
+    "ELV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -909,6 +991,36 @@
    ]
   },
   {
+   "id": "ad93ed7dffde",
+   "headline": "ETFs Are Net Sellers of Eli Lilly (LLY) on Nov. 12",
+   "summary": "Eli Lilly (LLY) drew $300.9 million in net ETF selling Thursday.",
+   "url": "https://finnhub.io/api/news?id=62962070cabe525a439d4271470ae1150f4787d0b14ecf664d17a2447434adfd",
+   "source": "Yahoo",
+   "published": "2026-11-16T11:02:17+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "4519b2ef80de",
+   "headline": "Moderna (MRNA) Sees $109.7 Million in Net ETF Buying on Nov. 12",
+   "summary": "ETFs bought $109.7 million of Moderna stock on Thursday, Nov. 12.",
+   "url": "https://finnhub.io/api/news?id=e12ac0d5bb5a4b99fcf74ffbf1c3ac3e07432ee4d12b4238e61b2a8d6dfe2a11",
+   "source": "Yahoo",
+   "published": "2026-11-16T11:00:53+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "8adbc9699af9",
    "headline": "STAT+: Venture capitalist John Doerr says AI company, named for his late brother, could help fix primary care",
    "summary": "Venture capitalist John Doerr on Tom Health, a new AI tool for primary care: \"I think this is one of the best possible uses of AI.\"",
@@ -918,6 +1030,21 @@
    "tickers": [],
    "tag": "Financing",
    "sectors": []
+  },
+  {
+   "id": "4d0d330ea653",
+   "headline": "Henry Schein Updates Presentation of Non-GAAP Financial Measures",
+   "summary": "MELVILLE, N.Y., November 16, 2026--Henry Schein, Inc. (Nasdaq: HSIC), the world\u2019s largest provider of health care solutions to office-based dental and medical practitioners, today announced an update to its presentation of certain\u2026",
+   "url": "https://finnhub.io/api/news?id=93817c01d29547659f4a948d92db8c031753511b7fc9ebae1477f86bebe94363",
+   "source": "Yahoo",
+   "published": "2026-11-16T11:00:00+00:00",
+   "tickers": [
+    "HSIC"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharmacy"
+   ]
   },
   {
    "id": "f5ab02dd588e",
@@ -1071,6 +1198,7 @@
    "published": "2026-11-16T10:00:00+00:00",
    "tickers": [
     "CRSP",
+    "LLY",
     "NVS"
    ],
    "tag": "Financing",
@@ -1086,7 +1214,8 @@
    "source": "Yahoo",
    "published": "2026-11-16T10:00:00+00:00",
    "tickers": [
-    "CRSP"
+    "CRSP",
+    "LLY"
    ],
    "tag": "News",
    "sectors": [
@@ -1917,7 +2046,8 @@
    "source": "Yahoo",
    "published": "2026-11-15T07:56:49+00:00",
    "tickers": [
-    "CVS"
+    "CVS",
+    "MRK"
    ],
    "tag": "News",
    "sectors": [
@@ -36154,173 +36284,6 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
-   ]
-  },
-  {
-   "id": "3c459797e4f2",
-   "headline": "Top Funds Feast On Shell, Microsoft, Palantir And 24 More Stocks",
-   "summary": "The best mutual funds place massive bets on Microsoft, Palantir and Apple. But that's just the start. See the full list here.",
-   "url": "https://finnhub.io/api/news?id=f4b8547d5e0bc6abdc467fdbd8f2d1df97dea7e66b7ec30891cd553a40b9b4ac",
-   "source": "Yahoo",
-   "published": "2026-11-06T13:00:49+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "12f5445d344d",
-   "headline": "Buy, Sell, or Hold? Friday\u2019s Top Upgrades and Downgrades: Becton Dickinson, BJ\u2019s Wholesale Club, Cogent Communications, Fervo Energy, JinkoSolar, Molson-Coors, Pfizer, SiTime, Steven Madden, and More",
-   "summary": "After a brutal sell-off erased Wednesday's rally and dragged the Nasdaq back into correction territory, Wall Street analysts are still moving. Some reversed course on Pfizer, Molson Coors, and BJ's, while others spotted fresh\u2026",
-   "url": "https://finnhub.io/api/news?id=ba906ff1eb7f88936b6a073cbb7dd3c83db9bbcd6c8a546471ff88233a97cc39",
-   "source": "Yahoo",
-   "published": "2026-11-06T13:00:10+00:00",
-   "tickers": [
-    "BDX",
-    "PFE"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "32ed71b1977f",
-   "headline": "Intuitive Surgical, Inc. (ISRG) is Attracting Investor Attention: Here is What You Should Know",
-   "summary": "Intuitive Surgical (ISRG) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
-   "url": "https://finnhub.io/api/news?id=1f2144153d667f6d97ca1b1954d0bb9e59d4102e246da7bddb81bc8ac8e661d9",
-   "source": "Yahoo",
-   "published": "2026-11-06T13:00:03+00:00",
-   "tickers": [
-    "ISRG"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "f95da74ad410",
-   "headline": "CRISPR Therapeutics AG (CRSP) Is a Trending Stock: Facts to Know Before Betting on It",
-   "summary": "CRISPR Therapeutics (CRSP) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
-   "url": "https://finnhub.io/api/news?id=3038407c066f353d03c3652979701065efe1fdf92661f49ddcff3dc695a748de",
-   "source": "Yahoo",
-   "published": "2026-11-06T13:00:02+00:00",
-   "tickers": [
-    "CRSP"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "85f8cfe4b53b",
-   "headline": "Integra LifeSciences to Present at the 2026 UBS Global Healthcare Conference",
-   "summary": "PRINCETON, N.J., Nov. 06, 2026 (GLOBE NEWSWIRE) -- Integra LifeSciences Holdings Corporation (Nasdaq: IART), a leading global medical technology company, today announced that Lea Knight, chief financial officer, will present at the 2026\u2026",
-   "url": "https://finnhub.io/api/news?id=f1ee815978f3815253b95f30c209bf7f82bc4948c55f226aa3fb4bba2aa18c59",
-   "source": "Yahoo",
-   "published": "2026-11-06T13:00:00+00:00",
-   "tickers": [
-    "IART"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "6cfa58d7dd3f",
-   "headline": "Once-Weekly TransCon\u00ae CNP (Navepegritide) to Receive 10 Years of Market Exclusivity Upon Approval in the European Union",
-   "summary": "\u2013 Final European Commission decision expected during Q4 2026 COPENHAGEN, Denmark, Nov. 06, 2026 (GLOBE NEWSWIRE) -- Ascendis Pharma A/S (Nasdaq: ASND) today announced that the Committee for Orphan Medicinal Products (COMP) of the European\u2026",
-   "url": "https://finnhub.io/api/news?id=d8ea6307fd08c9af8d5f8a3437e61184116dbf9d4a1ff6acc7236f904a01fee6",
-   "source": "Yahoo",
-   "published": "2026-11-06T13:00:00+00:00",
-   "tickers": [
-    "ASND"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "d644ad3f015d",
-   "headline": "The Zacks Analyst Blog Highlights Microsoft, Amazon, Alphabet, Nextpower and Centene",
-   "summary": "Midterm election results are reshaping market opportunities, putting renewable energy, healthcare and AI stocks in focus as policy expectations shift.",
-   "url": "https://finnhub.io/api/news?id=730fce669488bb256ade493f3dbc537fafb87611a3f4e4f474b1ba502dd2048f",
-   "source": "Yahoo",
-   "published": "2026-11-06T12:58:00+00:00",
-   "tickers": [
-    "CNC"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "67f85b53aa1c",
-   "headline": "Humana Raises 2026 Earnings Outlook After Third-Quarter Revenue Jumps 26%",
-   "summary": "Humana Inc. (NYSE:HUM) reported better-than-expected third-quarter 2026 earnings and revenue, prompting the health insurer to raise its full-year profit guidance.",
-   "url": "https://finnhub.io/api/news?id=1d22db19f0f1054b873fb0afdfef63e6990d32d2d227fbdaf07c39d466f41ce2",
-   "source": "Yahoo",
-   "published": "2026-11-06T12:54:52+00:00",
-   "tickers": [
-    "HUM"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "518d84192113",
-   "headline": "5 European airlines upgraded at Barclays on lower fuel prices",
-   "summary": "Investing.com -- Barclays upgraded five European airlines, citing a drop in spot and forward fuel prices since the U.S. midterm elections that it said suggests the market sees a higher probability of easing tensions in the Middle East.",
-   "url": "https://finnhub.io/api/news?id=2b93a30e8bf44e6634bee7021600debbfe994ed0cad31e8076fb957cb965d3dc",
-   "source": "Yahoo",
-   "published": "2026-11-06T12:52:48+00:00",
-   "tickers": [
-    "NVS"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "0f3dc8ee1e4d",
-   "headline": "Eli Lilly Partners With Hims & Hers to Expand Access to Obesity Treatments Through Telehealth",
-   "summary": "Eli Lilly and Company (NYSE:LLY) and Hims & Hers Health, Inc. (NYSE:HIMS) have announced an agreement to make two of Lilly\u2019s obesity treatments available through the Hims & Hers digital healthcare platform, expanding access to\u2026",
-   "url": "https://finnhub.io/api/news?id=5739395478329288f84440c9ac00d031619a7df83382cfb54f8dd87e5febba64",
-   "source": "Yahoo",
-   "published": "2026-11-06T12:51:05+00:00",
-   "tickers": [
-    "HIMS",
-    "LLY"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "f028f6e8137c",
-   "headline": "Moderna shares surge 10% on earnings beat and raised revenue outlook",
-   "summary": "Investing.com -- Moderna Inc. reported third-quarter earnings that significantly exceeded analyst expectations, prompting shares to jump 10% as the biotechnology company raised its full-year revenue growth forecast.",
-   "url": "https://finnhub.io/api/news?id=b1c6a128c2f2b21aaf3d509604159b4d2c917894f636e24bc14254f6f59081d7",
-   "source": "Yahoo",
-   "published": "2026-11-06T12:50:59+00:00",
-   "tickers": [
-    "MRNA"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
