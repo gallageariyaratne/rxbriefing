@@ -1,7 +1,55 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-16T12:31:41.659708+00:00",
+ "updated": "2026-11-16T12:46:42.980817+00:00",
  "quotes": {
+  "ABBV": {
+   "price": 295.03,
+   "change_pct": 0.2
+  },
+  "ABT": {
+   "price": 108.52,
+   "change_pct": 1.18
+  },
+  "AMGN": {
+   "price": 465.67,
+   "change_pct": -0.3
+  },
+  "ARGX": {
+   "price": 960.04,
+   "change_pct": -2.17
+  },
+  "AZN": {
+   "price": 184.45,
+   "change_pct": 0.04
+  },
+  "BDX": {
+   "price": 218.03,
+   "change_pct": 1.08
+  },
+  "BIIB": {
+   "price": 253.4,
+   "change_pct": 1.17
+  },
+  "BMY": {
+   "price": 63.43,
+   "change_pct": 1.78
+  },
+  "BRKR": {
+   "price": 61.59,
+   "change_pct": 2.09
+  },
+  "BSX": {
+   "price": 44.34,
+   "change_pct": 0.32
+  },
+  "CAH": {
+   "price": 281.1,
+   "change_pct": 1.06
+  },
+  "CRSP": {
+   "price": 42.24,
+   "change_pct": -0.89
+  },
   "CVS": {
    "price": 89.35,
    "change_pct": -0.49
@@ -17,6 +65,10 @@
   "EW": {
    "price": 107.15,
    "change_pct": 1.28
+  },
+  "GKOS": {
+   "price": 245.72,
+   "change_pct": -0.13
   },
   "GSK": {
    "price": 50.45,
@@ -85,6 +137,10 @@
   "UHS": {
    "price": 194.07,
    "change_pct": 0.12
+  },
+  "UNH": {
+   "price": 407.46,
+   "change_pct": 0.58
   },
   "VKTX": {
    "price": 29.22,
@@ -717,6 +773,21 @@
    "sectors": []
   },
   {
+   "id": "4284c50ed312",
+   "headline": "Bruker Announces that Institute Director, Biopharma Entrepreneur and Immunology Leader Dr. Eicke Latz will join its Board of Directors",
+   "summary": "BILLERICA, Mass., November 16, 2026--Bruker Corporation (Nasdaq: BRKR) today announced that its Board of Directors is adding Eicke Latz, MD PhD to serve on its board of directors, effective as of January 1, 2027. Dr. Latz is an\u2026",
+   "url": "https://finnhub.io/api/news?id=1c4bbf84f34f156beab7450021c97645c673d9651bd41d6ae25593dde154acaf",
+   "source": "Yahoo",
+   "published": "2026-11-16T12:00:00+00:00",
+   "tickers": [
+    "BRKR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "6370d0a0ffb9",
    "headline": "Flagship commits \u00a3100M to set up AI-focused biotech incubation outpost in London",
    "summary": "Flagship Pioneering has picked London as the site of the venture capital powerhouse\u2019s first company-creation unit outside of its hometown.",
@@ -765,6 +836,7 @@
    "source": "Yahoo",
    "published": "2026-11-16T11:42:11+00:00",
    "tickers": [
+    "ABT",
     "BDX",
     "BSX",
     "JNJ"
@@ -783,11 +855,27 @@
    "published": "2026-11-16T11:05:10+00:00",
    "tickers": [
     "ABBV",
-    "JNJ"
+    "JNJ",
+    "UNH"
    ],
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "704f95223b9e",
+   "headline": "iShares Russell 2000 (IWM) Buys $56.7 Million More Teekay Tankers on Thursday",
+   "summary": "The fund added $497.4 million in net new positions, led by a $56.7 million stake in Teekay Tankers, while selling just $0.2 million of First Bancorp.",
+   "url": "https://finnhub.io/api/news?id=908744847d4d6a9becea1a35952dc2d46d66036c0f66794ef49e2d933ad69eb0",
+   "source": "Yahoo",
+   "published": "2026-11-16T11:04:21+00:00",
+   "tickers": [
+    "GKOS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -840,6 +928,21 @@
    "published": "2026-11-16T10:15:20.978949+00:00",
    "tickers": [
     "SNY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "453f14dffa6c",
+   "headline": "TRIMTECH Therapeutics Enters Strategic Research Collaboration With Biogen to Advance Small Molecule Degraders for Neurodegenerative Disease",
+   "summary": "CAMBRIDGE, England, November 16, 2026--TRIMTECH Therapeutics, a biotechnology company developing novel small molecule therapies that target and degrade protein aggregates associated with neurodegenerative diseases, today announced it has\u2026",
+   "url": "https://finnhub.io/api/news?id=aa4acbd81feb4b6110653c2dff100df5eea0e4abf85a5ac14063933401ae808f",
+   "source": "Yahoo",
+   "published": "2026-11-16T10:11:00+00:00",
+   "tickers": [
+    "BIIB"
    ],
    "tag": "News",
    "sectors": [
@@ -1302,6 +1405,21 @@
    "tag": "Clinical",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "69a9253f3b31",
+   "headline": "Is Wall Street Bullish or Bearish on Cardinal Health Stock?",
+   "summary": "Cardinal Health has significantly outperformed the broader market and healthcare sector, supported by earnings growth, raised guidance, and bullish analyst sentiment.",
+   "url": "https://finnhub.io/api/news?id=5adec5043987dfddd522347d6a7f97c61aaf109892003c3a06f1be5670a547e8",
+   "source": "Yahoo",
+   "published": "2026-11-16T05:28:43+00:00",
+   "tickers": [
+    "CAH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharmacy"
    ]
   },
   {
@@ -36198,37 +36316,6 @@
    "source": "Yahoo",
    "published": "2026-11-06T12:50:59+00:00",
    "tickers": [
-    "MRNA"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "792875208833",
-   "headline": "Veeva Systems Inc. Expects to Meet or Exceed Q3\u201927 Guidance",
-   "summary": "",
-   "url": "https://finnhub.io/api/news?id=9eb27c2af5d6bd895c7ebaa1297ed2b230114b853fda74f71245d1840fa742d5",
-   "source": "Fintel",
-   "published": "2026-11-06T12:42:19+00:00",
-   "tickers": [
-    "VEEV"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "b92b8ffe03b6",
-   "headline": "Moderna Stuns Wall Street With Surprise Profit, Raises Outlook",
-   "summary": "Moderna (MRNA) jumps as Q3 earnings swing to a surprise profit of $0.38/share on strong global vaccine sales and cost cuts.",
-   "url": "https://finnhub.io/api/news?id=45d96aefc2179192c28b6ace6775133c4e7d229cada1ea916dda1bf997b1089c",
-   "source": "Benzinga",
-   "published": "2026-11-06T12:31:15+00:00",
-   "tickers": [
-    "MRK",
     "MRNA"
    ],
    "tag": "Earnings",
