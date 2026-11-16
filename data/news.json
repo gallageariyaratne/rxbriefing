@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-16T10:46:31.676847+00:00",
+ "updated": "2026-11-16T11:01:41.132608+00:00",
  "quotes": {
   "ABBV": {
    "price": 295.03,
@@ -940,7 +940,9 @@
    "tickers": [
     "ABBV",
     "JNJ",
+    "LLY",
     "MDT",
+    "MRK",
     "PFE"
    ],
    "tag": "News",
@@ -960,6 +962,7 @@
     "AMGN",
     "BMY",
     "JNJ",
+    "MRK",
     "PFE"
    ],
    "tag": "News",
@@ -978,6 +981,8 @@
     "ABBV",
     "BMY",
     "JNJ",
+    "LLY",
+    "MRK",
     "PFE"
    ],
    "tag": "News",
@@ -36927,156 +36932,6 @@
    "tag": "News",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "224cb26a3e7c",
-   "headline": "57 ETFs Add to Amgen (AMGN) Holdings on Wednesday",
-   "summary": "ETFs bought a net $79.8 million of Amgen stock in Wednesday's session.",
-   "url": "https://finnhub.io/api/news?id=89844a0b9906f68fb43749e433e05a65d5527324dd365223cf8175822e26fa8c",
-   "source": "Yahoo",
-   "published": "2026-11-06T11:01:10+00:00",
-   "tickers": [
-    "AMGN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "529728738912",
-   "headline": "Hiltzik: CVS unwinds its big mergers, ending a dream of healthcare dominance",
-   "summary": "CVS thought bigness would be better, but it turned out to be wrong.",
-   "url": "https://finnhub.io/api/news?id=1b78cfd6b46ac7e4aa65c967f630f9fe7740a40b48c16a8e5bcfa8a12edad7c5",
-   "source": "Yahoo",
-   "published": "2026-11-06T11:00:00+00:00",
-   "tickers": [
-    "CVS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "b603a750df17",
-   "headline": "Humana Reports Third Quarter 2026 Financial Results; Raises Full Year 2026 Adjusted EPS Guidance",
-   "summary": "LOUISVILLE, Ky., November 06, 2026--Humana Inc. (NYSE: HUM) today reported consolidated pretax results and diluted earnings per share for the quarter ended September 30, 2026 (3Q26) versus the quarter ended September 30, 2025 (3Q25) and\u2026",
-   "url": "https://finnhub.io/api/news?id=2a8d3b200badf58beb97120bb9bd1adeaa412a21b2c80f6837a603b5e4313de6",
-   "source": "Yahoo",
-   "published": "2026-11-06T11:00:00+00:00",
-   "tickers": [
-    "HUM"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "e7444f0f2385",
-   "headline": "Evercore ISI Group Maintains In-Line on Veeva Systems, Raises Price Target to $325",
-   "summary": "Evercore ISI Group analyst Kirk Materne maintains Veeva Systems (NYSE:VEEV) with a In-Line and raises the price target from $250 to $325.",
-   "url": "https://finnhub.io/api/news?id=052ccb56317f854c9a9a04d34a029fead2c5f629eaf4b269a18d1fff12845021",
-   "source": "Benzinga",
-   "published": "2026-11-06T10:59:37+00:00",
-   "tickers": [
-    "VEEV"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "1dd92958dacb",
-   "headline": "Evercore ISI Group Maintains Outperform on Natera, Lowers Price Target to $400",
-   "summary": "Evercore ISI Group analyst Daniel Markowitz maintains Natera (NASDAQ:NTRA) with a Outperform and lowers the price target from $468 to $400.",
-   "url": "https://finnhub.io/api/news?id=b707e50f2d63205072341085d457b42282cbf2cae86356be63e1d7e9c5129bc0",
-   "source": "Benzinga",
-   "published": "2026-11-06T10:55:34+00:00",
-   "tickers": [
-    "NTRA"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "783d726f309c",
-   "headline": "Wells Fargo Maintains Overweight on iRhythm Holdings, Lowers Price Target to $135",
-   "summary": "Wells Fargo analyst Nathan Treybeck maintains iRhythm Holdings (NASDAQ:IRTC) with a Overweight and lowers the price target from $150 to $135.",
-   "url": "https://finnhub.io/api/news?id=01df99420fe00a64537cc68837ec423ae71e273b82d791989b61361c335f1c87",
-   "source": "Benzinga",
-   "published": "2026-11-06T10:50:50+00:00",
-   "tickers": [
-    "IRTC"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "468081166cb5",
-   "headline": "Evercore ISI Group Maintains Outperform on iRhythm Holdings, Lowers Price Target to $140",
-   "summary": "Evercore ISI Group analyst Vijay Kumar maintains iRhythm Holdings (NASDAQ:IRTC) with a Outperform and lowers the price target from $150 to $140.",
-   "url": "https://finnhub.io/api/news?id=73060db55deca6754c89a955e3adf78bed4e457c02ca8c45a38e98732ee9f26d",
-   "source": "Benzinga",
-   "published": "2026-11-06T10:50:45+00:00",
-   "tickers": [
-    "IRTC"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "ab8799a1679c",
-   "headline": "Evercore ISI Group Maintains Outperform on Halozyme Therapeutics, Raises Price Target to $125",
-   "summary": "Evercore ISI Group analyst Michael DiFiore maintains Halozyme Therapeutics (NASDAQ:HALO) with a Outperform and raises the price target from $123 to $125.",
-   "url": "https://finnhub.io/api/news?id=14750f5e9d2c1d1e6b28a6590801ec2b52c3b03bec74f97926935e173c56b459",
-   "source": "Benzinga",
-   "published": "2026-11-06T10:49:30+00:00",
-   "tickers": [
-    "HALO"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "19f1c99fdefc",
-   "headline": "Update: Market Chatter: Novartis Reports Two Confirmed Tumor Cases Linked to Neuromuscular Gene Therapy",
-   "summary": "(Updates with Novartis' response in the fourth and fifth paragraphs and latest stock moves in the si",
-   "url": "https://finnhub.io/api/news?id=56518904ba0be4358d6376d89a5ac9486b5e65db5184be70b143963623f2624d",
-   "source": "Yahoo",
-   "published": "2026-11-06T10:48:59+00:00",
-   "tickers": [
-    "NVS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "aa9f9e14aba0",
-   "headline": "Charles River Laboratories International, Inc. 2026 Q3 - Results - Earnings Call Presentation",
-   "summary": "",
-   "url": "https://finnhub.io/api/news?id=a827f8d2522730e07b7a247678afd6f545c9591004568266b79650ff3df37409",
-   "source": "SeekingAlpha",
-   "published": "2026-11-06T10:47:57+00:00",
-   "tickers": [
-    "CRL"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
    ]
   }
  ]
