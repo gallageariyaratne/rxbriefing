@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-16T00:46:32.952339+00:00",
+ "updated": "2026-11-16T01:01:42.527470+00:00",
  "quotes": {
   "ABBV": {
    "price": 295.03,
@@ -53,6 +53,10 @@
   "MRNA": {
    "price": 223.37,
    "change_pct": -3.45
+  },
+  "NTRA": {
+   "price": 319.09,
+   "change_pct": -1.19
   },
   "NVO": {
    "price": 41.63,
@@ -718,6 +722,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "ace38524254b",
+   "headline": "Natera CFO Maps Multiple Paths to $6 Billion Revenue Target by 2029",
+   "summary": "Natera (NASDAQ:NTRA) Chief Financial Officer Mike Brophy said the company has multiple paths to its $6 billion revenue target for 2029, citing growth in its Signatera cancer testing business and opportunities to improve reimbursement.\u2026",
+   "url": "https://finnhub.io/api/news?id=432a001d1d4c05b422a6ba57f5bc9c9ae31e47d8646a14ece128fa1bb381245d",
+   "source": "Yahoo",
+   "published": "2026-11-15T19:12:12+00:00",
+   "tickers": [
+    "NTRA"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -38410,82 +38429,6 @@
     "RVMD"
    ],
    "tag": "FDA",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "cc8cca63fe46",
-   "headline": "October jobs report and earnings from Moderna and Humana: What to Watch",
-   "summary": "Yahoo Finance\u2019s Brooke DiPalma takes a closer look at the top stories for investors to watch on Friday, Nov. 6, including third quarter earnings from Moderna (MRNA) and Humana (HUM), and the October jobs report being released.",
-   "url": "https://finnhub.io/api/news?id=4db425e3e9a0c01ab5670d1645f253f4a5f9ac8359e0f8419c4933d41b0162c6",
-   "source": "Yahoo",
-   "published": "2026-11-06T01:00:00+00:00",
-   "tickers": [
-    "HUM",
-    "MRNA"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "896bd89a6ae8",
-   "headline": "10X Genomics (NASDAQ:TXG) Earnings: EPS Beat, Revenue In Line, Shares Fall 10.4%",
-   "summary": "10x Genomics Q3 2026 revenue was in line and EPS beat consensus, yet TXG shares dropped 10.4% after hours on concerns about growth durability.",
-   "url": "https://finnhub.io/api/news?id=eeacb46e77a00c999618db35064038effa4c08a8fb824d3c91e6cb04b9955a16",
-   "source": "ChartMill",
-   "published": "2026-11-06T00:56:23+00:00",
-   "tickers": [
-    "TXG"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "b6c1da3c46a1",
-   "headline": "Are eBay & Deere stocks under-the-radar AI beneficiaries?",
-   "summary": "Gus Scacco, senior portfolio manager at Advisors Capital, looks beyond AI infrastructure to focus on companies using the technology to improve productivity, cash flow, and profitability.",
-   "url": "https://finnhub.io/api/news?id=b14133299a9d12b0c30c479be2b7464819f2fd6d469b684ae6c1cec9e50bedf2",
-   "source": "Yahoo",
-   "published": "2026-11-06T00:54:36+00:00",
-   "tickers": [
-    "TMO"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "1f54e4141204",
-   "headline": "TransMedics Group Inc (NASDAQ:TMDX) Q3 Beat and Raised Outlook Spark After-Hours Rally",
-   "summary": "TransMedics (TMDX) Q3 2026 revenue $203M and EPS $0.51 beat estimates; raised FY guidance, shares rally 14.3% after hours on strong quarterly results.",
-   "url": "https://finnhub.io/api/news?id=32525de856041494651db625a1796ca622aa5da2897bb8209366991e11924950",
-   "source": "ChartMill",
-   "published": "2026-11-06T00:53:54+00:00",
-   "tickers": [
-    "TMDX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "d9805c5e20fa",
-   "headline": "Sarepta Therapeutics (NASDAQ:SRPT) Q3 2026 Beat Fails to Lift Shares as Pipeline Readouts Loom",
-   "summary": "Sarepta Q3 2026 beats revenue and EPS estimates, but shares slip as ELEVIDYS sales decline and investors await key DM1 and FSHD pipeline data.",
-   "url": "https://finnhub.io/api/news?id=2ac72eac339f31d4de11aa86ae2c834a66a6c537c5f95700bcf4e45468a428d2",
-   "source": "ChartMill",
-   "published": "2026-11-06T00:48:41+00:00",
-   "tickers": [
-    "SRPT"
-   ],
-   "tag": "Earnings",
    "sectors": [
     "biotech"
    ]
