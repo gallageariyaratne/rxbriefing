@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-16T08:46:33.813742+00:00",
+ "updated": "2026-11-16T09:01:35.365244+00:00",
  "quotes": {
   "ABBV": {
    "price": 295.03,
@@ -65,6 +65,10 @@
   "NVO": {
    "price": 41.63,
    "change_pct": 2.41
+  },
+  "PACB": {
+   "price": 1.96,
+   "change_pct": -0.51
   },
   "PFE": {
    "price": 28.89,
@@ -713,6 +717,22 @@
    "sectors": []
   },
   {
+   "id": "cc9b225bcdb2",
+   "headline": "SLS, IBRX And IOVA Join Merck And Lilly On BlackRock\u2019s Q3 Buy List \u2014 A Vanguard Unit Adds All Of Them Too",
+   "summary": "BlackRock and Vanguard Capital Management added all five stocks in Q3, including 8.12 million shares across SLS, IBRX and IOVA.",
+   "url": "https://finnhub.io/api/news?id=6981dfbe359abed2ce528abf4bc1aa5722bd965f4ad83a5a8b87f2016c500a22",
+   "source": "Yahoo",
+   "published": "2026-11-16T07:31:33+00:00",
+   "tickers": [
+    "LLY",
+    "MRK"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "70d5f9be6d4e",
    "headline": "Sofinnova books biggest-ever $815M fund with an eye toward up-and-coming \u2018global leaders\u2019",
    "summary": "Life sciences venture capital firm Sofinnova Partners has closed its largest fund ever to the tune of $815 million backing around 15 clinical development companies mostly based in Europe.",
@@ -766,6 +786,21 @@
    "tag": "Health AI",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "00abd095489c",
+   "headline": "PacBio (PACB) Stock Sees Split Analyst Revisions As Fair Value Edges Higher",
+   "summary": "Recent analyst revisions have brought Pacific Biosciences of California into focus as price targets have shifted into a tighter band around the US$2 to US$2.70 range. These changes reflect updated views from both more optimistic and more\u2026",
+   "url": "https://finnhub.io/api/news?id=2be9bb71d641f3995cff26d71c824d8c0c5849937b61bdf3ef254d167ab41c0d",
+   "source": "Yahoo",
+   "published": "2026-11-16T05:14:27+00:00",
+   "tickers": [
+    "PACB"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -37368,51 +37403,6 @@
    "tag": "FDA",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "e339ed225267",
-   "headline": "CVS Health: The Breakup Puts A Price On The Pharmacy",
-   "summary": "CVS Health will split into two public companies by 1H 2028, separating its pharmacy and health services businesses. Read why CVS stock is a buy.",
-   "url": "https://finnhub.io/api/news?id=789e1aca46f29f4d93f1b43a5b48997b425e4d518326adb8ace7225118a2969e",
-   "source": "SeekingAlpha",
-   "published": "2026-11-06T08:53:30+00:00",
-   "tickers": [
-    "CVS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "41afbf7402ce",
-   "headline": "Wells Fargo Upgrades Becton Dickinson to Overweight, Raises Price Target to $242",
-   "summary": "Wells Fargo analyst Lawrence Biegelsen upgrades Becton Dickinson (NYSE:BDX) from Equal-Weight to Overweight and raises the price target from $170 to $242.",
-   "url": "https://finnhub.io/api/news?id=760d9fc41f992ef47ff3b12ec3cffdbde2ab551640f21d250883cac94090e60b",
-   "source": "Benzinga",
-   "published": "2026-11-06T08:48:37+00:00",
-   "tickers": [
-    "BDX"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "576815a9a9d1",
-   "headline": "Health Catalyst (HCAT) Q3 2026 Earnings Call Transcript",
-   "summary": "Debt-free balance sheet and a Vitalware exit shaped this quarter's results.",
-   "url": "https://finnhub.io/api/news?id=88a947e4fb4917c853e5f3be7abbe45c7f7552e7f2f6635b96312feae9e9f045",
-   "source": "Yahoo",
-   "published": "2026-11-06T08:47:32+00:00",
-   "tickers": [
-    "HCAT"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "healthai"
    ]
   }
  ]
