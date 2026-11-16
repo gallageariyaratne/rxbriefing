@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-16T10:01:45.162638+00:00",
+ "updated": "2026-11-16T10:16:28.804631+00:00",
  "quotes": {
   "ABBV": {
    "price": 295.03,
@@ -49,6 +49,10 @@
   "LLY": {
    "price": 1443.5,
    "change_pct": 1.14
+  },
+  "MDT": {
+   "price": 102.86,
+   "change_pct": 1.85
   },
   "MRK": {
    "price": 147.76,
@@ -714,6 +718,21 @@
  },
  "stories": [
   {
+   "id": "f5ab02dd588e",
+   "headline": "Big Pharma-backed Seawolf surfaces with $100M to hand, $1.2B Sanofi DNA med pact",
+   "summary": "Seawolf Therapeutics has emerged from the deep with $100 million to fuel its DNA therapeutic ambitions and a billion-dollar deal with Sanofi.",
+   "url": "https://www.fiercebiotech.com/biotech/dna-delivery-biotech-seawolf-surfaces-alongside-investors-novartis-lilly-and-partner-sanofi",
+   "source": "Fierce Biotech",
+   "published": "2026-11-16T10:15:20.978949+00:00",
+   "tickers": [
+    "SNY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "3ff224b03fa5",
    "headline": "Big-name investors pour $100M into DNA therapeutics developer Seawolf",
    "summary": "The startup, which also just disclosed an up to $1.2 billion partnership with Sanofi, is backed by Versant, MPM BioImpact, Eli Lilly and Novartis\u2019 venture arm.",
@@ -762,6 +781,54 @@
    "tickers": [],
    "tag": "Health AI",
    "sectors": []
+  },
+  {
+   "id": "90fed2a0f627",
+   "headline": "EVS procurement in senior living: 3 ways to manage cost and ensure quality",
+   "summary": "For leaders of senior living and skilled nursing facilities, it\u2019s not a matter of if prices and product availability will change, but when and by how much.",
+   "url": "https://www.healthcaredive.com/spons/evs-procurement-in-senior-living-3-ways-to-manage-cost-and-ensure-quality/874226/",
+   "source": "Healthcare Dive",
+   "published": "2026-11-16T10:00:00+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "5912a0a3aaa6",
+   "headline": "Healthcare cybersecurity and compliance: Why HIPAA alone isn\u2019t enough",
+   "summary": "How healthcare leaders are building resilience beyond HIPAA requirements.",
+   "url": "https://www.healthcaredive.com/spons/healthcare-cybersecurity-and-compliance-why-hipaa-alone-isnt-enough/874037/",
+   "source": "Healthcare Dive",
+   "published": "2026-11-16T10:00:00+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "0cac73552629",
+   "headline": "Emergency medicine has every right to IDR \u2014 and every reason to do it right",
+   "summary": "Few specialties have more riding on Independent Dispute Resolution (IDR) than emergency medicine.",
+   "url": "https://www.healthcaredive.com/spons/emergency-medicine-has-every-right-to-idr-and-every-reason-to-do-it-right/874064/",
+   "source": "Healthcare Dive",
+   "published": "2026-11-16T10:00:00+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "1e4054651aa4",
+   "headline": "STAT+: Versant, Lilly put $100 million behind new startup aimed at solving one of gene therapy\u2019s thorniest issues",
+   "summary": "Versant Ventures, Eli Lilly, and a handful of other investors will pour $100 million into a new startup devoted to solving a thorny gene therapy challenge.",
+   "url": "https://www.statnews.com/2026/11/16/versant-lilly-put-100-million-behind-new-startup-aimed-at-solving-one-of-gene-therapys-thorniest-issues/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-11-16T10:00:00+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "Financing",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "8c502298e280",
@@ -828,6 +895,52 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "0c5a3a91f855",
+   "headline": "Does Johnson & Johnson Stock's Valuation Make Sense?",
+   "summary": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://finnhub.io/api/news?id=a79f701023bd8641e8628f8ed06af01265f57a8fa5f1583dd9c1b275246bde8d",
+   "source": "Yahoo",
+   "published": "2026-11-16T08:08:05+00:00",
+   "tickers": [
+    "ABBV",
+    "MDT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "6b8815d7ba3d",
+   "headline": "Is Amgen Stock Still Telling Investors The Same Thing?",
+   "summary": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://finnhub.io/api/news?id=80178b6d1fb731be9e053b3c6be3477e4e28e4f98c089c0e2f327f9a57f7f3b4",
+   "source": "Yahoo",
+   "published": "2026-11-16T08:08:05+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "948b3261e501",
+   "headline": "One Unsettled Question Sits Under Pfizer Stock",
+   "summary": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://finnhub.io/api/news?id=548ad14b435f4474e7ace55f8d9d98eb48bd68833001bacf5b9b3ec0f0477b8a",
+   "source": "Yahoo",
+   "published": "2026-11-16T08:08:04+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "eb5facdf32d8",
@@ -37163,96 +37276,6 @@
    "tag": "Earnings",
    "sectors": [
     "pharmacy"
-   ]
-  },
-  {
-   "id": "6b4c75e10956",
-   "headline": "Novavax Q3 Earnings Call Highlights",
-   "summary": "Novavax (NASDAQ:NVAX) raised its 2026 revenue framework after partner Sanofi began a late-stage trial of a combination influenza and COVID-19 vaccine in Europe, triggering a $125 million milestone payment for the vaccine technology\u2026",
-   "url": "https://finnhub.io/api/news?id=b8d65ef984f2751a689046f1ef0653891786b03f21530bd3215ba4c90b82dbea",
-   "source": "Yahoo",
-   "published": "2026-11-06T10:14:45+00:00",
-   "tickers": [
-    "SNY"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "51e72f075b0e",
-   "headline": "What Natera (NTRA) Said on Its Q3 Earnings Call",
-   "summary": "Natera (NASDAQ:NTRA) raised its full-year revenue forecast after reporting a 34% increase in third-quarter revenue, as demand for its cancer-monitoring tests grew and the company announced a change in leadership. Steve Chapman is stepping\u2026",
-   "url": "https://finnhub.io/api/news?id=ea2ba0587058e719b22fe42c7e2558516cdaad6d7ca91ce517ab1b2482997ac1",
-   "source": "Yahoo",
-   "published": "2026-11-06T10:14:45+00:00",
-   "tickers": [
-    "NTRA"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "43679f792d11",
-   "headline": "Align Technology Announces $270M Accelerate Buyback Plan",
-   "summary": "Align Technology, Inc. (\"Align\") (NASDAQ:ALGN), a leading global medical device company that designs, manufactures, and sells the Invisalign\u00ae System of clear aligners, iTero\u2122 intraoral scanners, and exocad\u2122",
-   "url": "https://finnhub.io/api/news?id=8208337880ce246a56f506e61c1443fee98998f225ec4db02d6153763cb26c8c",
-   "source": "Benzinga",
-   "published": "2026-11-06T10:10:47+00:00",
-   "tickers": [
-    "ALGN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "df00f3d299fe",
-   "headline": "This Centrus Energy Analyst Turns Bullish; Here Are Top 5 Upgrades For Friday",
-   "summary": "Analysts upgraded Centrus Energy, SiTime, MGE Energy, Steven Madden and Becton Dickinson, with new or higher price targets.",
-   "url": "https://finnhub.io/api/news?id=30093b0cc023c2e313943d20b4af4ae1b6769071b09d634a44d899a34e656e67",
-   "source": "Benzinga",
-   "published": "2026-11-06T10:08:51+00:00",
-   "tickers": [
-    "BDX"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "f8bad9a8c0a3",
-   "headline": "Moderna Q3 2026 Earnings Call Transcript",
-   "summary": "Moderna (NASDAQ:MRNA) reported third-quarter financial results on Friday. The transcript from the company\u2019s third-quarter earnings call has been provided below.This transcript is brought to you by Benzinga APIs. For",
-   "url": "https://finnhub.io/api/news?id=f3803b49850c5542f0f12d0375cbeb07f030a9c91a329605ff27151f2833516c",
-   "source": "Benzinga",
-   "published": "2026-11-06T10:08:12+00:00",
-   "tickers": [
-    "MRNA"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "1349a089eb88",
-   "headline": "Humana Q3 2026 Earnings Call Transcript",
-   "summary": "Humana (NYSE:HUM) reported third-quarter financial results on Friday. The transcript from the company\u2019s third-quarter earnings call has been provided below.This transcript is brought to you by Benzinga APIs. For",
-   "url": "https://finnhub.io/api/news?id=7983c3c60e655cf138ea5381e7f3c2c1fb19ffcb9c6a8e2b651e4d36c3542e8f",
-   "source": "Benzinga",
-   "published": "2026-11-06T10:05:28+00:00",
-   "tickers": [
-    "HUM"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
    ]
   }
  ]
