@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-16T11:01:41.132608+00:00",
+ "updated": "2026-11-16T11:16:32.154910+00:00",
  "quotes": {
   "ABBV": {
    "price": 295.03,
@@ -25,6 +25,10 @@
   "CVS": {
    "price": 89.35,
    "change_pct": -0.49
+  },
+  "CYTK": {
+   "price": 56.13,
+   "change_pct": -0.05
   },
   "DHR": {
    "price": 233.02,
@@ -722,6 +726,17 @@
  },
  "stories": [
   {
+   "id": "8adbc9699af9",
+   "headline": "STAT+: Venture capitalist John Doerr says AI company, named for his late brother, could help fix primary care",
+   "summary": "Venture capitalist John Doerr on Tom Health, a new AI tool for primary care: \"I think this is one of the best possible uses of AI.\"",
+   "url": "https://www.statnews.com/2026/11/16/ai-company-tom-health-fix-primary-care-new-tool/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-11-16T11:00:00+00:00",
+   "tickers": [],
+   "tag": "Financing",
+   "sectors": []
+  },
+  {
    "id": "f5ab02dd588e",
    "headline": "Big Pharma-backed Seawolf surfaces with $100M to hand, $1.2B Sanofi DNA med pact",
    "summary": "Seawolf Therapeutics has emerged from the deep with $100 million to fuel its DNA therapeutic ambitions and a billion-dollar deal with Sanofi.",
@@ -916,6 +931,21 @@
    ]
   },
   {
+   "id": "332c300f04c0",
+   "headline": "Cytokinetics Announces Prescribing Information for MYQORZO\u00ae (aficamten) Expanded to Include Data from Phase 3 MAPLE-HCM",
+   "summary": "MYQORZO is the Only Cardiac Myosin Inhibitor with Data in Its U.S. Label Comparing Its Effectiveness to the Beta Blocker Metoprolol SOUTH SAN FRANCISCO, Calif., Nov. 16, 2026 (GLOBE NEWSWIRE) -- Cytokinetics, Incorporated (Nasdaq: CYTK)\u2026",
+   "url": "https://finnhub.io/api/news?id=e996442770cd39ab717658b6bacdaecd9b9ed14a75b547804624f46528c32033",
+   "source": "Yahoo",
+   "published": "2026-11-16T09:00:00+00:00",
+   "tickers": [
+    "CYTK"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "20251fec41b2",
    "headline": "The Zacks Analyst Blog Highlights Visa, ExxonMobil Holdings and Pfizer",
    "summary": "Visa, ExxonMobil Holdings and Pfizer are included in this Analyst Blog.",
@@ -928,6 +958,21 @@
    "tag": "Analyst",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "fd0cf44e3d07",
+   "headline": "Cytokinetics\u2019 MYQORZO Gains Ground as Company Plans Push Into New Heart-Disease Market",
+   "summary": "Cytokinetics (NASDAQ:CYTK) executives said the launch of its heart drug MYQORZO is gaining prescribers and market share as the company prepares regulatory submissions that could expand use of aficamten, the drug\u2019s active ingredient. Chief\u2026",
+   "url": "https://finnhub.io/api/news?id=331595fcc8c73474d1e6f492301b83c0ecdfe28ea4d9c330a8b824982b49ad09",
+   "source": "Yahoo",
+   "published": "2026-11-16T08:12:07+00:00",
+   "tickers": [
+    "CYTK"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -36673,265 +36718,6 @@
    "tag": "Earnings",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "976bb37ccbd3",
-   "headline": "CVS Health plans standalone retail pharmacy business by 2028",
-   "summary": "The retail company will be named CVS Pharmacy.",
-   "url": "https://finnhub.io/api/news?id=c5a103b8627359f85b18c04c48159b476c325432884375f9ecee3e99adfa4913",
-   "source": "Yahoo",
-   "published": "2026-11-06T11:13:40+00:00",
-   "tickers": [
-    "CVS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "61e08207d36a",
-   "headline": "Axsome Therapeutics (AXSM) Stock Gets Fair Value Trim After Q3 Analyst Revisions",
-   "summary": "The updated fair value estimate for Axsome Therapeutics has shifted from US$282.51 to US$271.05, signaling a modest reset in the price target used in recent models. Street research around the Q3 2026 update clusters in a similar range,\u2026",
-   "url": "https://finnhub.io/api/news?id=234972a21d4465d15f70aaabbf085c015d8e596c7efc5b1d3352142215907371",
-   "source": "Yahoo",
-   "published": "2026-11-06T11:13:29+00:00",
-   "tickers": [
-    "AXSM"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "bebb98d3dc91",
-   "headline": "Medtronic (NYSE:MDT): A Dividend Quality Play for Income Investors",
-   "summary": "Medtronic passes Best Dividend Stocks screen with 3.5% yield and strong profitability, though a high 69.78% payout ratio limits safety margin.",
-   "url": "https://finnhub.io/api/news?id=c5866150daa5b17a368e006ca591bba099bc623ca0151d4016480dc97785bc65",
-   "source": "ChartMill",
-   "published": "2026-11-06T11:11:10+00:00",
-   "tickers": [
-    "MDT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "651ba0be84d9",
-   "headline": "Halozyme Therapeutics Confirms It Anticipates $0 To Minimal Royalty Revenue Impact Based On Nov. 5 U.S. Centers For Medicare & Medicaid Services's Final Rule For Medicare Drug Price Negotiation Program",
-   "summary": "Halozyme Therapeutics, Inc. (NASDAQ:HALO) (\"Halozyme\" or the \"Company\") today confirmed that the Company expects zero to minimal royalty revenue impact based on its analysis of the final rule for the",
-   "url": "https://finnhub.io/api/news?id=b98b51408e4c94d153feb1ad44d952c24633a0d984f336c081bb032901292e77",
-   "source": "Benzinga",
-   "published": "2026-11-06T11:08:43+00:00",
-   "tickers": [
-    "HALO"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "16b48266d3ab",
-   "headline": "Capital Group Growth (CGGR) Buys $16.8 Million More Seagate on Nov. 4",
-   "summary": "The ETF bought $16.8 million of Seagate and $10.4 million of Meta while selling $119.5 million of Apple on Wednesday.",
-   "url": "https://finnhub.io/api/news?id=edafee5d6dff8c12c571ededdf693578dd8201730c797f6d0e5249cec5123071",
-   "source": "Yahoo",
-   "published": "2026-11-06T11:06:02+00:00",
-   "tickers": [
-    "TMO"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "376ac20ec04a",
-   "headline": "State Street Health Care SPDR (XLV) Adds Eli Lilly and J&J on Nov. 4",
-   "summary": "The $50.93 billion fund bought $284.5 million of stock, lifting all 60 positions and selling nothing.",
-   "url": "https://finnhub.io/api/news?id=9116e23a41b404dc7708ca7fa4f22176b1cd57c96fb69dd3ac0bef930ac84d71",
-   "source": "Yahoo",
-   "published": "2026-11-06T11:05:33+00:00",
-   "tickers": [
-    "ABBV",
-    "JNJ",
-    "LLY",
-    "UNH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "119114cd7ff4",
-   "headline": "SPDR S&P MidCap 400 ETF (MDY) Adds Glaukos and United Therapeutics on Wednesday",
-   "summary": "The fund bought $109.8 million of Glaukos as a new position and sold out of Okta for $238.4 million.",
-   "url": "https://finnhub.io/api/news?id=ba8748ffbddb6c0568e5c34ffdd37171924f658a07cad5ba0bd8119132492e4c",
-   "source": "Yahoo",
-   "published": "2026-11-06T11:04:50+00:00",
-   "tickers": [
-    "GKOS",
-    "UTHR"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "c5705df6566e",
-   "headline": "Dow Jones Industrial Average ETF (DIA) Buys $96.4 Million More Goldman on Nov. 4",
-   "summary": "The fund added $932.2 million across all 30 of its positions, with no sales, on a day it held $45.93 billion in assets.",
-   "url": "https://finnhub.io/api/news?id=285a2f91534bc78ea80308c3cd87a055158b3ce62d798662d31dbc1846b54f96",
-   "source": "Yahoo",
-   "published": "2026-11-06T11:04:37+00:00",
-   "tickers": [
-    "AMGN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "20737421d87f",
-   "headline": "Invesco S&P 500 Equal Weight (RSP) Adds Okta and Moderna on Nov. 4",
-   "summary": "The fund bought $585.6 million more than it sold, with Okta Inc. its largest new position at $224.7 million.",
-   "url": "https://finnhub.io/api/news?id=27658733d4f4c4c46c2195333471ab042f3e55c76ff1b52ffcc425c42b840fee",
-   "source": "Yahoo",
-   "published": "2026-11-06T11:04:30+00:00",
-   "tickers": [
-    "MRNA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "6f132f51faf7",
-   "headline": "What iShares Russell 2000 Index Fund (IWM) Bought: Glaukos Leads on Wednesday",
-   "summary": "The fund added $1.58 billion in new buying across 1,851 positions, with Glaukos topping the list at $7.7 million.",
-   "url": "https://finnhub.io/api/news?id=12f85300f884824fd2754c1d6e8b237e4bdf0af8d861127bf11e275b4afe3e00",
-   "source": "Yahoo",
-   "published": "2026-11-06T11:04:19+00:00",
-   "tickers": [
-    "GKOS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "90a4303805f3",
-   "headline": "Takeda Pharmaceutical Co President Trades $1.16M In Company Stock",
-   "summary": "Revealing a significant insider sell on November 5, Giles Platford, President at Takeda Pharmaceutical Co (NYSE:TAK), as per the latest SEC filing. What Happened: After conducting a thorough analysis, Platford sold",
-   "url": "https://finnhub.io/api/news?id=633884160b1259ed0531ef1e0fd0e49bb4c688f60c42610b5a6ce950824aabc9",
-   "source": "Benzinga",
-   "published": "2026-11-06T11:01:57+00:00",
-   "tickers": [
-    "TAK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "6ca04b37bb28",
-   "headline": "Executive Vice President At IDEXX Laboratories Sells $2.74M Of Stock",
-   "summary": "On November 5, a recent SEC filing unveiled that Michael Lane, Executive Vice President at IDEXX Laboratories (NASDAQ:IDXX) made an insider sell. What Happened: Lane's recent move involves selling 3,978 shares of",
-   "url": "https://finnhub.io/api/news?id=6f125a6b21083241804cc8be7f55b8d59b71ccf42f48fe5ae32e42172d390e6a",
-   "source": "Benzinga",
-   "published": "2026-11-06T11:01:55+00:00",
-   "tickers": [
-    "IDXX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "e500576451b9",
-   "headline": "Board Member At IDEXX Laboratories Sells $844K Of Stock",
-   "summary": "A substantial insider sell was reported on November 5, by Daniel M Junius, Board Member at IDEXX Laboratories (NASDAQ:IDXX), based on the recent SEC filing. What Happened: Junius's recent move involves selling 1,200",
-   "url": "https://finnhub.io/api/news?id=45e68e4eaff34a46e79a2c636112cb5fe7fa427b53ff983fecdf7838ed6202e0",
-   "source": "Benzinga",
-   "published": "2026-11-06T11:01:55+00:00",
-   "tickers": [
-    "IDXX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "ae1a3f156376",
-   "headline": "Major Decision: Sharon E Underberg Exercises Options, Realizing $3.35M At IDEXX Laboratories",
-   "summary": "Sharon E Underberg, EVP at IDEXX Laboratories (NASDAQ:IDXX), reported a large exercise of company stock options on November 5, according to a new SEC filing. What Happened: Underberg, EVP at IDEXX Laboratories,",
-   "url": "https://finnhub.io/api/news?id=436d9aef9f3e0ef00fa76294a2c9fd60a34a88644295db4d844714cdcb0d82d7",
-   "source": "Benzinga",
-   "published": "2026-11-06T11:01:53+00:00",
-   "tickers": [
-    "IDXX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "72808a3383d1",
-   "headline": "Huda Y Zoghbi At Regeneron Pharmaceuticals Executes Options Exercise, Realizing $3.88M",
-   "summary": "Highlighted on November 5, it was unveiled in an SEC filing that Zoghbi, Director at Regeneron Pharmaceuticals (NASDAQ:REGN), executed a significant transaction involving the exercise of company stock options. What",
-   "url": "https://finnhub.io/api/news?id=596bb5477cd37e6a0303a1162b5667f0dd82f9b90b930e5fb466474aeaf07804",
-   "source": "Benzinga",
-   "published": "2026-11-06T11:01:53+00:00",
-   "tickers": [
-    "REGN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "c7582a57228b",
-   "headline": "Subu Ramachandran Expands Holdings With Quest Diagnostics Stock Options Worth $6K",
-   "summary": "A notable acquisition unfolded on November 6, as Ramachandran, SVP at Quest Diagnostics (NYSE:DGX), reported the acquisition of stock options for 1,386 shares in an SEC filing. What Happened: In a recent Form 4 filing",
-   "url": "https://finnhub.io/api/news?id=af759adfad95e8e8f53478ccd1c3225487fb70b4dcc54a9f72a9e02092a5f594",
-   "source": "Benzinga",
-   "published": "2026-11-06T11:01:52+00:00",
-   "tickers": [
-    "DGX"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "d6ec40ed5ac9",
-   "headline": "ETFs Are Buying UnitedHealth (UNH) on Nov. 4",
-   "summary": "ETFs bought $56.4 million of UnitedHealth stock on Nov. 4.",
-   "url": "https://finnhub.io/api/news?id=366b075ca7890d156165fe79c4308c5edfe1e8f864d0974737d3ecf8d3da1b3b",
-   "source": "Yahoo",
-   "published": "2026-11-06T11:01:32+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
    ]
   }
  ]
