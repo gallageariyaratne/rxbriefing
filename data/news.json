@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-16T05:31:26.822886+00:00",
+ "updated": "2026-11-16T05:46:31.510390+00:00",
  "quotes": {
   "ABBV": {
    "price": 295.03,
@@ -25,6 +25,10 @@
   "EVH": {
    "price": 4.9,
    "change_pct": 2.73
+  },
+  "GSK": {
+   "price": 50.45,
+   "change_pct": -0.38
   },
   "HCA": {
    "price": 499.05,
@@ -702,6 +706,21 @@
  },
  "stories": [
   {
+   "id": "60249512b8ad",
+   "headline": "GSK (LSE:GSK) Is Grappling With Suspected Counterfeit Antibiotics In Nigeria",
+   "summary": "LSE:GSK is facing fresh scrutiny after NAFDAC in Nigeria uncovered suspected counterfeit Augmentin antibiotic packaging carrying GSK branding. NAFDAC officials reported seizing large quantities of empty Augmentin-labelled packs in a Lagos\u2026",
+   "url": "https://finnhub.io/api/news?id=0c02810e7d8f7a6ec6a7b70f84572aa2768f780a292728a96fc5a05493b7499b",
+   "source": "Yahoo",
+   "published": "2026-11-16T03:12:45+00:00",
+   "tickers": [
+    "GSK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "0f35fd329b99",
    "headline": "Three FDA Decisions Loom After Summit\u2019s Rejection \u2014 Capricor, Savara, Alzheimer\u2019s Data Top Biotech\u2019s Watchlist",
    "summary": "Capricor and Savara face Nov.22 FDA deadlines, while Beren Therapeutics awaits a Tuesday decision on Adrabetadex.",
@@ -709,11 +728,27 @@
    "source": "Yahoo",
    "published": "2026-11-16T02:25:30+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "SMMT"
    ],
    "tag": "FDA",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "022c7d2136d4",
+   "headline": "SMMT Stock Plunges Overnight On FDA Rejection \u2014 CAPR Holders Feel The Jitters Ahead Of Their Own FDA Test",
+   "summary": "SMMT shares plunged 20% overnight late Sunday after the FDA rejected its Ivonescimab-plus-chemotherapy application for a lung cancer indication.",
+   "url": "https://finnhub.io/api/news?id=fcb88f394d1ee2168a839d7ea1bb979546046776aa30050619cd1e5177650281",
+   "source": "Yahoo",
+   "published": "2026-11-16T01:49:10+00:00",
+   "tickers": [
+    "SMMT"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "biotech"
    ]
   },
   {
