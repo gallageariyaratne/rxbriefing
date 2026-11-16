@@ -1,18 +1,18 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-16T21:02:51.447155+00:00",
+ "updated": "2026-11-16T21:17:19.531639+00:00",
  "quotes": {
   "A": {
-   "price": 173.06,
-   "change_pct": -0.52
+   "price": 172.92,
+   "change_pct": -0.6
   },
   "ABBV": {
-   "price": 294.62,
-   "change_pct": -0.14
+   "price": 294.55,
+   "change_pct": -0.16
   },
   "ABT": {
-   "price": 107.52,
-   "change_pct": -0.92
+   "price": 107.45,
+   "change_pct": -0.99
   },
   "ACAD": {
    "price": 18.67,
@@ -91,8 +91,8 @@
    "change_pct": -5.27
   },
   "DHR": {
-   "price": 230.15,
-   "change_pct": -1.23
+   "price": 229.91,
+   "change_pct": -1.33
   },
   "DOCS": {
    "price": 32.77,
@@ -147,8 +147,8 @@
    "change_pct": -1.46
   },
   "HUM": {
-   "price": 461.12,
-   "change_pct": 2.47
+   "price": 461.25,
+   "change_pct": 2.5
   },
   "ISRG": {
    "price": 437.75,
@@ -167,8 +167,8 @@
    "change_pct": 0.53
   },
   "LLY": {
-   "price": 1434.38,
-   "change_pct": -0.63
+   "price": 1431.67,
+   "change_pct": -0.82
   },
   "MCK": {
    "price": 1105.04,
@@ -187,8 +187,8 @@
    "change_pct": 11.27
   },
   "MRK": {
-   "price": 144.52,
-   "change_pct": -2.19
+   "price": 144.46,
+   "change_pct": -2.23
   },
   "MRNA": {
    "price": 215.27,
@@ -231,8 +231,8 @@
    "change_pct": 0.04
   },
   "SYK": {
-   "price": 310.69,
-   "change_pct": 0.34
+   "price": 310.72,
+   "change_pct": 0.35
   },
   "THC": {
    "price": 291.54,
@@ -241,6 +241,10 @@
   "TMO": {
    "price": 691.33,
    "change_pct": -1.27
+  },
+  "TXG": {
+   "price": 54.99,
+   "change_pct": -5.5
   },
   "UNH": {
    "price": 412.02,
@@ -881,6 +885,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "4b6ef68fbe2e",
+   "headline": "10x Genomics Expands Global Research in Blood-Based Diagnostics for Autoimmune Disease with Two New Collaborations",
+   "summary": "Collaborations with Charit\u00e9 and DRFZ, and with Seoul National University, aim to identify biomarkers of disease activity and treatment response using 10x's Flex Apex platform PLEASANTON, Calif., Nov. 16, 2026 /PRNewswire/ -- 10x Genomics,\u2026",
+   "url": "https://www.prnewswire.com/news-releases/10x-genomics-expands-global-research-in-blood-based-diagnostics-for-autoimmune-disease-with-two-new-collaborations-302940831.html",
+   "source": "PR Newswire",
+   "published": "2026-11-16T21:05:00+00:00",
+   "tickers": [
+    "TXG"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
   {
    "id": "b585111cd3da",
    "headline": "STAT+: FDA approves new breast cancer drug, providing new option for some patients, boost for Roche",
@@ -35006,81 +35025,6 @@
    "tag": "FDA",
    "sectors": [
     "medtech"
-   ]
-  },
-  {
-   "id": "d6e998cb7e0b",
-   "headline": "Humana Inc (HUM) (Q3 2026) Earnings Call Highlights: Raised EPS Outlook, Star Ratings Momentum ...",
-   "summary": "Humana Inc (HUM) lifted its 2026 adjusted EPS guidance to at least $9.50, posted a 4.17 member-weighted Star rating for bonus year 2028, and now expects Medicare Advantage membership growth in 2027.",
-   "url": "https://finnhub.io/api/news?id=14e1918f4ead7d42f86f714a69b4f17053925c3993612f1233f1df4ad3b67c8b",
-   "source": "Yahoo",
-   "published": "2026-11-06T21:15:54+00:00",
-   "tickers": [
-    "HUM"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "f1ea3ec79f03",
-   "headline": "Amwell makes grant to new employees under inducement plan",
-   "summary": "BOSTON, Nov. 06, 2026 (GLOBE NEWSWIRE) -- Amwell\u00ae (NYSE: AMWL), a leading provider of a comprehensive SaaS-based software platform for technology-enabled healthcare, announces that on November 6, Amwell made grants of RSUs covering an\u2026",
-   "url": "https://finnhub.io/api/news?id=1fe4b505b116b57664108e57e4f87d33da7bb157ebedc8cdabdc6eba780942ca",
-   "source": "Yahoo",
-   "published": "2026-11-06T21:15:00+00:00",
-   "tickers": [
-    "AMWL"
-   ],
-   "tag": "News",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "7918f164eae5",
-   "headline": "Moderna Inc (MRNA) Q3 2026 Earnings Call Highlights: Revenue Surges 29% as Guidance Raised and ...",
-   "summary": "Moderna Inc (MRNA) posted $1.3 billion in quarterly revenue, swung to net income of $162 million, and lifted its full-year 2026 growth outlook to 15%--25% while trimming R&D spending.",
-   "url": "https://finnhub.io/api/news?id=503544107bf3839a3f194eca8eec5af623596c4160b3d76d0fd32ff80303b51e",
-   "source": "Yahoo",
-   "published": "2026-11-06T21:14:44+00:00",
-   "tickers": [
-    "MRNA"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "9592f9d8884e",
-   "headline": "TransMedics Group Q3 Earnings Call Highlights",
-   "summary": "TransMedics Group (NASDAQ:TMDX) raised its full-year revenue outlook after reporting record third-quarter revenue and transplant case volume, as gains in its liver and heart businesses helped offset a decline in U.S. deceased donor\u2026",
-   "url": "https://finnhub.io/api/news?id=24f04ba5b7b7cc59f5c2a2d6b7020ce81b2095ee280a6f4a0025af02ed4225ad",
-   "source": "Yahoo",
-   "published": "2026-11-06T21:14:41+00:00",
-   "tickers": [
-    "TMDX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "523349e46edd",
-   "headline": "Intellia Therapeutics Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
-   "summary": "CAMBRIDGE, Mass., Nov. 06, 2026 (GLOBE NEWSWIRE) -- Intellia Therapeutics, Inc. (Nasdaq: NTLA), a leading biopharmaceutical company focused on revolutionizing medicine leveraging CRISPR gene editing and other core technologies, today\u2026",
-   "url": "https://finnhub.io/api/news?id=31c9304fc2131b68607c403baafe4b8df442182f596115aff1ecc2308938b20f",
-   "source": "Yahoo",
-   "published": "2026-11-06T21:05:00+00:00",
-   "tickers": [
-    "NTLA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
    ]
   }
  ]
