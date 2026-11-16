@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-16T07:46:20.291287+00:00",
+ "updated": "2026-11-16T08:01:32.818916+00:00",
  "quotes": {
   "ABBV": {
    "price": 295.03,
@@ -26,6 +26,10 @@
    "price": 233.02,
    "change_pct": 0.37
   },
+  "EW": {
+   "price": 107.15,
+   "change_pct": 1.28
+  },
   "GSK": {
    "price": 50.45,
    "change_pct": -0.38
@@ -49,6 +53,10 @@
   "MRK": {
    "price": 147.76,
    "change_pct": 0.55
+  },
+  "MRNA": {
+   "price": 223.37,
+   "change_pct": -3.45
   },
   "NTRA": {
    "price": 319.09,
@@ -716,6 +724,21 @@
    "sectors": []
   },
   {
+   "id": "b28c104d43cb",
+   "headline": "Philips to nominate Dick Boer, Laurence Debroux and Todd Brinton to its Supervisory Board at the 2027 Annual General Meeting of Shareholders (AGM)",
+   "summary": "Dick Boer Dick Boer Laurence Debroux Laurence Debroux Todd Brinton Todd Brinton November 16, 2026 Dick Boer, former President and CEO of Ahold Delhaize, proposed as new member and Vice-Chairman of Philips\u2019 Supervisory BoardLaurence\u2026",
+   "url": "https://finnhub.io/api/news?id=c75038067a51d596f1e5950933b95c058b5cb49bd2a90539e9421da1006c4d1a",
+   "source": "Yahoo",
+   "published": "2026-11-16T07:30:00+00:00",
+   "tickers": [
+    "EW"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "33c56e2490ab",
    "headline": "One of Europe\u2019s leading VCs banks a \u20ac725M \u2018crossover\u2019 fund",
    "summary": "Sofinnova Partners, which has backed the likes of successful drugmakers such as Abivax, Argenx and Verona Pharma, will use the cash to support a new group of later-stage biotechs.",
@@ -728,6 +751,21 @@
    "tag": "News",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "0c55f1dcbb62",
+   "headline": "Flagship Pioneering Launches Flagship Origination Lab in London to Create AI-Native Platform Companies in the U.K.",
+   "summary": "Flagship Pioneering, a scientific innovation engine for transformative platforms and products, today announced the establishment of Flagship Origination Lab, U.K., its first dedicated company creation unit outside of the U.S. Based in\u2026",
+   "url": "https://finnhub.io/api/news?id=b10e86efb07e1be293643f0345cdcdff83d59baabd5f4544d54c78aec1469b03",
+   "source": "Yahoo",
+   "published": "2026-11-16T07:00:00+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -37585,82 +37623,6 @@
    "tag": "Earnings",
    "sectors": [
     "healthit"
-   ]
-  },
-  {
-   "id": "9efc6cc1016f",
-   "headline": "Needham Maintains Buy on iRhythm Holdings, Lowers Price Target to $165",
-   "summary": "Needham analyst David Saxon maintains iRhythm Holdings (NASDAQ:IRTC) with a Buy and lowers the price target from $194 to $165.",
-   "url": "https://finnhub.io/api/news?id=5ca64bf4232b150794d69abbd00fc0b466eb5dc56035bca64938fbd60ce5bde7",
-   "source": "Benzinga",
-   "published": "2026-11-06T07:59:36+00:00",
-   "tickers": [
-    "IRTC"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "467fec18e0ff",
-   "headline": "Eli Lilly And Hims & Hers Partner To Expand Access To Zepbound And Orforglipron At Standard Self-Pay Prices",
-   "summary": "Agreement gives patients a path to FDA-approved treatments at self-pay price through the Hims & Hers platformEli Lilly and Company (NYSE:LLY) and Hims & Hers Health, Inc. (NYSE:HIMS) today announced an agreement",
-   "url": "https://finnhub.io/api/news?id=a09031f7a619d01a1036ab8753f3329bc19f959ee794223bf7853cfabb404895",
-   "source": "Benzinga",
-   "published": "2026-11-06T07:49:46+00:00",
-   "tickers": [
-    "HIMS",
-    "LLY"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "8202cc858608",
-   "headline": "Halozyme (HALO) Q3 2026 Earnings Call Transcript",
-   "summary": "Merck patent setbacks in the U.S. cloud an otherwise strong quarter for royalties.",
-   "url": "https://finnhub.io/api/news?id=5cfa2604b3cdaae42657ee8ad80614f43f8de31f207644b9659303f38265baab",
-   "source": "Yahoo",
-   "published": "2026-11-06T07:48:59+00:00",
-   "tickers": [
-    "HALO"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "7ce140d99553",
-   "headline": "Moderna CEO Stephane Bancel on Q3 results: A big year of growth for us",
-   "summary": "Moderna CEO Stephane Bancel joins 'Squawk Box' to discuss the company's quarterly earnings results, the company's vaccine portfolio, drug pipeline outlook, and more.",
-   "url": "https://finnhub.io/api/news?id=4fc90d9c29f3c0fc39c8e0b6655aab3abf45cf716bf4da9d1089ad8ebf2d4127",
-   "source": "CNBC",
-   "published": "2026-11-06T07:47:01+00:00",
-   "tickers": [
-    "MRNA"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "7399c1d2cf04",
-   "headline": "Moderna Raises FY2026 Sales Guidance from $2.138B to $2.236B-$2.430B vs $2.102B Est",
-   "summary": "Moderna (NASDAQ:MRNA) raises FY2026 sales outlook from $2.138 billion to $2.236 billion-$2.430 billion vs $2.102 billion estimate.",
-   "url": "https://finnhub.io/api/news?id=a0078347780cf87fc74fc0008d4d2b5fea2208673d2c3cf67c713fce6ff8018a",
-   "source": "Benzinga",
-   "published": "2026-11-06T07:46:26+00:00",
-   "tickers": [
-    "MRNA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
