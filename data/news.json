@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-16T22:32:28.047846+00:00",
+ "updated": "2026-11-16T22:47:33.517722+00:00",
  "quotes": {
   "A": {
    "price": 172.92,
@@ -114,6 +114,10 @@
    "price": 107.11,
    "change_pct": -0.04
   },
+  "EXEL": {
+   "price": 67.1,
+   "change_pct": -2.75
+  },
   "GEHC": {
    "price": 82.96,
    "change_pct": -0.07
@@ -149,6 +153,10 @@
   "HUM": {
    "price": 461.25,
    "change_pct": 2.5
+  },
+  "INCY": {
+   "price": 120.27,
+   "change_pct": -0.58
   },
   "ISRG": {
    "price": 437.75,
@@ -901,6 +909,51 @@
    "sectors": []
   },
   {
+   "id": "7c72444dc290",
+   "headline": "Where Will Exelixis Be in 5 Years? 1 Experimental Drug Could Change Everything",
+   "summary": "Exelixis\u2019 leading pipeline candidate is inching closer to approval.",
+   "url": "https://finnhub.io/api/news?id=b671a04234363de73c7b030dfd85a9c2b12ffb10d53e5b42a63f346eb0c1388d",
+   "source": "Yahoo",
+   "published": "2026-11-16T21:52:02+00:00",
+   "tickers": [
+    "EXEL"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "2974d229e6d7",
+   "headline": "Povofortay\u00ae (povorcitinib) Approved in Europe as the First Once-Daily Oral Treatment for Adults with Moderate to Severe Hidradenitis Suppurativa",
+   "summary": "WILMINGTON, Del., November 16, 2026--Povofortay\u00ae (povorcitinib) Approved in Europe as the First Once-Daily Oral Treatment for Adults with Moderate to Severe Hidradenitis Suppurativa",
+   "url": "https://finnhub.io/api/news?id=a3772d4d7e046a8fdf753ab0832b0f9ade311fa999c5edff65474812b8168a6e",
+   "source": "Yahoo",
+   "published": "2026-11-16T21:30:00+00:00",
+   "tickers": [
+    "INCY"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "e27f864ed4bc",
+   "headline": "Charles River Laboratories to Present at Jefferies Global Healthcare Conference",
+   "summary": "WILMINGTON, Mass., November 16, 2026--Charles River Laboratories to Present at Jefferies Global Healthcare Conference",
+   "url": "https://finnhub.io/api/news?id=a449b66b5c768fa00a0931076f5c74fdb4e933bf3231963febe5887e15903608",
+   "source": "Yahoo",
+   "published": "2026-11-16T21:30:00+00:00",
+   "tickers": [
+    "CRL"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "08b23eae32f4",
    "headline": "Apple, OpenEvidence launch conversational health AI study and app",
    "summary": "The tech juggernaut and clinical AI company will research what drives consumer trust and the quality of health AI responses, among other areas. Apple could use the findings to inform product development.",
@@ -922,6 +975,21 @@
     "JNJ"
    ],
    "tag": "M&A",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "827ea84b3709",
+   "headline": "Amgen (AMGN) Just Gave Investors Something To Think About",
+   "summary": "Amgen (AMGN) has just published detailed Phase 3 data for dazodalibep in Sj\u00f6gren's disease, giving investors fresh clinical context for a stock that has climbed about 42% year to date. That clinical backdrop lands on a stock that has\u2026",
+   "url": "https://finnhub.io/api/news?id=681c38c8cca3d71e2036ab9eef2fac1c857ea37eb9cee2923a7630bbbf416479",
+   "source": "Yahoo",
+   "published": "2026-11-16T21:12:32+00:00",
+   "tickers": [
+    "AMGN"
+   ],
+   "tag": "Clinical",
    "sectors": [
     "pharma"
    ]
@@ -949,6 +1017,7 @@
    "source": "Yahoo",
    "published": "2026-11-16T21:03:29+00:00",
    "tickers": [
+    "BIIB",
     "REGN",
     "VRTX"
    ],
