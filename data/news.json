@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-16T12:01:49.758482+00:00",
+ "updated": "2026-11-16T12:16:38.059570+00:00",
  "quotes": {
   "ABBV": {
    "price": 295.03,
@@ -17,6 +17,10 @@
   "AZN": {
    "price": 184.45,
    "change_pct": 0.04
+  },
+  "BDX": {
+   "price": 218.03,
+   "change_pct": 1.08
   },
   "BMY": {
    "price": 63.43,
@@ -730,6 +734,17 @@
  },
  "stories": [
   {
+   "id": "f3098b837631",
+   "headline": "HLTH26: Noom pushes deeper into connected health with new wearable, Noom Band",
+   "summary": "The device, called Noom Band, will be bundled into Noom\u2019s existing enterprise partnerships at no additional upfront cost, starting in early 2027. The wearable is also free for Noom Health employer and health plan customers.",
+   "url": "https://www.fiercehealthcare.com/health-tech/hlth26-noom-expands-metabolic-health-strategy-new-wearable-noom-band",
+   "source": "Fierce Healthcare",
+   "published": "2026-11-16T12:15:21.721691+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
    "id": "6370d0a0ffb9",
    "headline": "Flagship commits \u00a3100M to set up AI-focused biotech incubation outpost in London",
    "summary": "Flagship Pioneering has picked London as the site of the venture capital powerhouse\u2019s first company-creation unit outside of its hometown.",
@@ -766,6 +781,51 @@
     "LLY"
    ],
    "tag": "M&A",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "cdd7d6f99e3f",
+   "headline": "Is Boston Scientific Still The Business You Bought?",
+   "summary": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://finnhub.io/api/news?id=5a3916713866a4663aac1ca9390df46e465190a75a27ce2d9c1dd5db074afc47",
+   "source": "Yahoo",
+   "published": "2026-11-16T11:42:11+00:00",
+   "tickers": [
+    "BDX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "4d02ad41b0c1",
+   "headline": "State Street Health Care SPDR (XLV) Sells Eli Lilly and J&J on Nov. 12",
+   "summary": "The fund sold $300.3 million of stock, cutting all 60 positions and adding nothing, as its assets stood at $50.56 billion.",
+   "url": "https://finnhub.io/api/news?id=1e5ea54a71786e13c716eef77924bb1ddd53a30d211471c9040f69863e9e1752",
+   "source": "Yahoo",
+   "published": "2026-11-16T11:05:10+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "ac5ce7342b2d",
+   "headline": "ETFs Are Net Sellers of AbbVie (ABBV) on Nov. 12",
+   "summary": "ETFs sold a net $62.0 million of AbbVie on Thursday, with 40 funds buying and 16 selling.",
+   "url": "https://finnhub.io/api/news?id=9e5351d71e07a7197996cfe4aa6266afdb147d9099f2e4f37ac562131f96fff7",
+   "source": "Yahoo",
+   "published": "2026-11-16T11:03:13+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
    "sectors": [
     "pharma"
    ]
@@ -36428,66 +36488,6 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "10700a06638b",
-   "headline": "Becton, Dickinson and Company Q4 Earnings Call Highlights",
-   "summary": "Becton, Dickinson and Company (NYSE:BDX) reported higher fiscal fourth-quarter revenue and adjusted earnings as demand for patient monitoring, biologic drug delivery and other products helped offset a difficult comparison for its Alaris\u2026",
-   "url": "https://finnhub.io/api/news?id=aca24d3747b98b06e97d9fc87b9914ab55d2eb4ea2cb442691f8059ff2f83f65",
-   "source": "Yahoo",
-   "published": "2026-11-06T12:14:37+00:00",
-   "tickers": [
-    "BDX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "a3b6d1dca277",
-   "headline": "Barclays Maintains Equal-Weight on Insulet, Raises Price Target to $165",
-   "summary": "Barclays analyst Christopher Pasquale maintains Insulet (NASDAQ:PODD) with a Equal-Weight and raises the price target from $150 to $165.",
-   "url": "https://finnhub.io/api/news?id=973e38cfc6f0de315c3f103393f1371b95ccb0a541642ee10f84f32acc85bcc1",
-   "source": "Benzinga",
-   "published": "2026-11-06T12:13:43+00:00",
-   "tickers": [
-    "PODD"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "5846dfb9d1b8",
-   "headline": "Humana\u2019s Medical Costs Offer a Surprise, While Its Insurance Business Remains Pressured",
-   "summary": "Humana\u2019s medical costs are lower than expected, but its Medicare business remains under pressure.",
-   "url": "https://finnhub.io/api/news?id=78303b8cb554d968da7586a20f0750127bdf35e031c8665a931d5e8f9396cbb2",
-   "source": "Yahoo",
-   "published": "2026-11-06T12:08:00+00:00",
-   "tickers": [
-    "HUM"
-   ],
-   "tag": "Policy",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "e1140b7ce5e2",
-   "headline": "Barclays Maintains Equal-Weight on Certara, Raises Price Target to $12",
-   "summary": "Barclays analyst Luke Sergott maintains Certara (NASDAQ:CERT) with a Equal-Weight and raises the price target from $9 to $12.",
-   "url": "https://finnhub.io/api/news?id=1b58d2297ec9ec11a28a189d2863974cb039730bc470b86b09e229447b58e8f9",
-   "source": "Benzinga",
-   "published": "2026-11-06T12:05:35+00:00",
-   "tickers": [
-    "CERT"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "healthai"
    ]
   }
  ]
