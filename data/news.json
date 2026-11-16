@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-16T14:02:10.162721+00:00",
+ "updated": "2026-11-16T14:16:57.579923+00:00",
  "quotes": {
   "ABBV": {
    "price": 295.03,
@@ -9,6 +9,10 @@
   "ABT": {
    "price": 108.52,
    "change_pct": 1.18
+  },
+  "ALT": {
+   "price": 1.65,
+   "change_pct": 2.17
   },
   "AMGN": {
    "price": 465.67,
@@ -46,6 +50,10 @@
    "price": 281.1,
    "change_pct": 1.06
   },
+  "CI": {
+   "price": 297,
+   "change_pct": 0.25
+  },
   "CRSP": {
    "price": 42.24,
    "change_pct": -0.89
@@ -73,6 +81,10 @@
   "GSK": {
    "price": 50.45,
    "change_pct": -0.38
+  },
+  "HCAT": {
+   "price": 1.51,
+   "change_pct": 11.03
   },
   "HSIC": {
    "price": 86.22,
@@ -774,6 +786,110 @@
  },
  "stories": [
   {
+   "id": "f943400a2061",
+   "headline": "How the eClinicalWorks AI-Native Hospital EHR Is Advancing the Next Frontier of Patient Care",
+   "summary": "Discover how the eClinicalWorks AI-native hospital EHR uses embedded AI, automation, and connected workflows to boost efficiency and care.",
+   "url": "https://www.fiercehealthcare.com/sponsored/how-eclinicalworks-ai-native-hospital-ehr-advancing-next-frontier-patient-care",
+   "source": "Fierce Healthcare",
+   "published": "2026-11-16T14:15:24.200819+00:00",
+   "tickers": [],
+   "tag": "Health AI",
+   "sectors": []
+  },
+  {
+   "id": "78aca4552da8",
+   "headline": "Moving healthcare AI from pilot to practice",
+   "summary": "Healthcare still relies on fax machines, yet it\u2019s leaning into AI. Here\u2019s what it takes to move from promising pilots to enterprise-wide deployment.",
+   "url": "https://www.fiercehealthcare.com/sponsored/moving-healthcare-ai-pilot-practice",
+   "source": "Fierce Healthcare",
+   "published": "2026-11-16T14:15:24.200077+00:00",
+   "tickers": [],
+   "tag": "Health AI",
+   "sectors": []
+  },
+  {
+   "id": "d7bb65f3cf8a",
+   "headline": "How Smarter Healthcare Environments Improve Patient Experience",
+   "summary": "Connected facilities, data and technology can reduce friction for patients and support overburdened caregivers",
+   "url": "https://www.fiercehealthcare.com/sponsored/how-smarter-healthcare-environments-improve-patient-experience",
+   "source": "Fierce Healthcare",
+   "published": "2026-11-16T14:15:24.199416+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "db5e7244002b",
+   "headline": "Engaging Medicaid\u2019s Hardest-to-Reach Members Helps Plans Control Medical Spend",
+   "summary": "Medicaid\u2019s hardest-to-reach members are often among the costliest. Here\u2019s how plans can engage them, improve care and reduce avoidable spending.",
+   "url": "https://www.fiercehealthcare.com/sponsored/engaging-medicaids-hardest-reach-members-helps-plans-control-medical-spend",
+   "source": "Fierce Healthcare",
+   "published": "2026-11-16T14:15:24.198605+00:00",
+   "tickers": [],
+   "tag": "Policy",
+   "sectors": []
+  },
+  {
+   "id": "c6827ffb2bce",
+   "headline": "HLTH26: Calibrate, Withings study finds wraparound care boosts GLP-1 weight loss by more than 60%",
+   "summary": "A two-year real-world study from Withings Health Solutions and Calibrate Health suggests that pairing GLP-1 medications with Calibrate\u2019s integrated obesity care program produced substantially greater weight loss than GLP-1 treatment alone.",
+   "url": "https://www.fiercehealthcare.com/payers/calibrate-health-withings-glp-1-study",
+   "source": "Fierce Healthcare",
+   "published": "2026-11-16T14:15:24.197518+00:00",
+   "tickers": [],
+   "tag": "GLP-1",
+   "sectors": []
+  },
+  {
+   "id": "e5153db49e76",
+   "headline": "HLTH26: Suki unveils agentic OS to automate complex healthcare workflows",
+   "summary": "Executives say Suki OS is built on three pillars: unified AI agents, a partner ecosystem and performance guarantee.",
+   "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/suki-launches-agentic-operating-system",
+   "source": "Fierce Healthcare",
+   "published": "2026-11-16T14:15:24.196804+00:00",
+   "tickers": [],
+   "tag": "Health AI",
+   "sectors": []
+  },
+  {
+   "id": "9acce221b8c7",
+   "headline": "HLTH26: Viz.ai, Wolters Kluwer partner on platform integration",
+   "summary": "The companies say it is the first integration to bring UpToDate into AI-driven care coordination workflows.",
+   "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/vizai-wolters-kluwer-partner-platform-integration",
+   "source": "Fierce Healthcare",
+   "published": "2026-11-16T14:15:24.196141+00:00",
+   "tickers": [],
+   "tag": "Health AI",
+   "sectors": []
+  },
+  {
+   "id": "832557835ece",
+   "headline": "HLTH26: CVS Health, Cigna and Abridge collaborating with OpenAI to test computer-use agents",
+   "summary": "OpenAI is expanding computer-use agents for healthcare, enabling AI to navigate electronic health record systems, payer portals and other software to tackle repetitive and manual tasks.",
+   "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/hlth26-cvs-health-cigna-and-ambience-collaborating-openai-test-computer-use",
+   "source": "Fierce Healthcare",
+   "published": "2026-11-16T14:15:24.195179+00:00",
+   "tickers": [
+    "CI",
+    "CVS"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "fdb2fac66e16",
+   "headline": "Healthcare struggles to scale AI past pilot stage: Google report",
+   "summary": "Healthcare bet big on AI pilots. Now, unpredictable costs and mounting technical complexity are threatening to prevent organizations from scaling the tech, according to Google Cloud\u2019s Aashima Gupta.",
+   "url": "https://www.healthcaredive.com/news/healthcare-struggles-to-scale-ai-past-pilot-stage-google-report/874609/",
+   "source": "Healthcare Dive",
+   "published": "2026-11-16T14:03:00+00:00",
+   "tickers": [],
+   "tag": "Health AI",
+   "sectors": []
+  },
+  {
    "id": "4994ed9239ba",
    "headline": "Democrats settle on a message: \u2018Medicare for More\u2019",
    "summary": "It doesn\u2019t have quite the same ring to it as \u201cMedicare for All.\u201d But House Dems have coalesced around a policy priority to expand health care access:",
@@ -827,6 +943,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "e6fbb45501e8",
+   "headline": "Iambic Provides Business Updates and Third Quarter 2026 Financial Results",
+   "summary": "Launched Enchant\u00ae v3, a 41-billion-parameter transformer model for drug discovery and development, to drive decisions across our internal and partnership activitiesSigned AI discovery collaborations with Bayer and AbbVie; eight total\u2026",
+   "url": "https://finnhub.io/api/news?id=dc4af56c9ab5fda5bcf8f905d45c8426b745241fa2cdb77e35d1a32a0faff84e",
+   "source": "Yahoo",
+   "published": "2026-11-16T13:00:00+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "db4c7384c198",
@@ -1358,6 +1489,21 @@
    "sectors": []
   },
   {
+   "id": "97942c6f8e07",
+   "headline": "This Centrus Energy Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Monday",
+   "summary": "Analysts initiated coverage on CI (In-Line, $290), LEU (Overweight, $130), YARW (Buy, $40), SGHC (Equal-Weight, $13) and OFG (Sell, $50).",
+   "url": "https://finnhub.io/api/news?id=25a9de26c37efd1d41729e57f1a63af478c7d679a9b2cdc2ab9928a20fd6c2fa",
+   "source": "Benzinga",
+   "published": "2026-11-16T09:33:55+00:00",
+   "tickers": [
+    "CI"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "cb4d947bb802",
    "headline": "STAT+: With Stephen Miller as chief of staff, Kennedy\u2019s MAHA agenda is reinvigorated",
    "summary": "The appointment of Stephen Miller as White House chief of staff has health secretary RFK Jr. invigorated. A top deputy is telling people it's go time for MAHA.",
@@ -1425,6 +1571,36 @@
    "tag": "Legal",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "1a7a85a659b2",
+   "headline": "Evercore ISI Group Maintains Outperform on Altimmune, Lowers Price Target to $14",
+   "summary": "Evercore ISI Group analyst Liisa Bayko maintains Altimmune (NASDAQ:ALT) with a Outperform and lowers the price target from $17 to $14.",
+   "url": "https://finnhub.io/api/news?id=d9e22876533ba4ccbfbbcbe0e13c3da25528ee3e7838a1f92137004deed7668e",
+   "source": "Benzinga",
+   "published": "2026-11-16T09:17:35+00:00",
+   "tickers": [
+    "ALT"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "cffa824aad03",
+   "headline": "Piper Sandler Maintains Overweight on argenx, Raises Price Target to $1350",
+   "summary": "Piper Sandler analyst Allison Bratzel maintains argenx (NASDAQ:ARGX) with a Overweight and raises the price target from $1215 to $1350.",
+   "url": "https://finnhub.io/api/news?id=612a849cf73f8c11fa457066a417f4dcf8fbd88497b7981dc11b0dbfa8a7f128",
+   "source": "Benzinga",
+   "published": "2026-11-16T09:04:36+00:00",
+   "tickers": [
+    "ARGX"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -1545,6 +1721,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "db6eacf0646d",
+   "headline": "12 Health Care Stocks Moving In Monday's Pre-Market Session",
+   "summary": "Gainers Akanda (NASDAQ:AKAN) shares increased by 55.1% to $2.11 during Monday's pre-market session. The market value of their outstanding shares is at $3.5 million. Alpha Tau Medical (NASDAQ:DRTS) stock rose",
+   "url": "https://finnhub.io/api/news?id=63587a22aab784dfc13d3ea2d4be7722ae4609483a049a15c58b4096e2a14cbe",
+   "source": "Benzinga",
+   "published": "2026-11-16T08:05:28+00:00",
+   "tickers": [
+    "HCAT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthai"
    ]
   },
   {
@@ -1673,6 +1864,21 @@
    "tag": "Earnings",
    "sectors": [
     "pharmacy"
+   ]
+  },
+  {
+   "id": "bdf4288aae8d",
+   "headline": "Evercore ISI Group Initiates Coverage On Cigna Group with In-Line Rating, Announces Price Target of $290",
+   "summary": "Evercore ISI Group analyst Elizabeth Anderson initiates coverage on Cigna Group (NYSE:CI) with a In-Line rating and announces Price Target of $290.",
+   "url": "https://finnhub.io/api/news?id=c6a0adc8ea1676f5f64b4e1e6c5c8ce6dc44d56acdc0256a69e453540b93c950",
+   "source": "Benzinga",
+   "published": "2026-11-16T05:21:01+00:00",
+   "tickers": [
+    "CI"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -35622,158 +35828,6 @@
    "tag": "News",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "d9fe25ad8681",
-   "headline": "iRhythm Holdings to Participate in Upcoming Investor Conferences",
-   "summary": "SAN FRANCISCO, Nov. 06, 2026 (GLOBE NEWSWIRE) -- iRhythm Holdings, Inc. (NASDAQ: IRTC), a leading digital health care company with a mission to create trusted solutions that detect, predict, and prevent disease, today announced that it\u2026",
-   "url": "https://finnhub.io/api/news?id=76e71079d2a21090d7432c5ff5aa5e83feba403b88ee39045bcabdecd432daba",
-   "source": "Yahoo",
-   "published": "2026-11-06T14:15:00+00:00",
-   "tickers": [
-    "IRTC"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "c8b66d186c2f",
-   "headline": "Certara, Inc. (CERT) Q3 2026 Earnings Call Transcript",
-   "summary": "Certara, Inc. (CERT) Q3 2026 Earnings Call November 5, 2026 8:30 AM ESTCompany ParticipantsJon Resnick - CEO & DirectorFaiz Mohammed - Interim CFO,...",
-   "url": "https://finnhub.io/api/news?id=cd048d56495dc8d12502ab8a537fca5f64b95a4febd42e982ee41c54bd6a48a6",
-   "source": "SeekingAlpha",
-   "published": "2026-11-06T14:14:55+00:00",
-   "tickers": [
-    "CERT"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "healthai"
-   ]
-  },
-  {
-   "id": "1c1d443146a8",
-   "headline": "Qiagen N.V. (QGEN) Shareholder/Analyst Call Prepared Remarks Transcript",
-   "summary": "Qiagen N.V. (QGEN) Shareholder/Analyst Call November 6, 2026 8:00 AM ESTCompany ParticipantsRoland Sackers - CFO, MD & Member of Management...",
-   "url": "https://finnhub.io/api/news?id=7d49451c064a7230ebbad8d5ec933c58e37b323e83778fb35530897ea8d98c84",
-   "source": "SeekingAlpha",
-   "published": "2026-11-06T14:14:35+00:00",
-   "tickers": [
-    "QGEN"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "2cb2f1368b38",
-   "headline": "What 10x Genomics (TXG) Said on Its Q3 Earnings Call",
-   "summary": "10x Genomics (NASDAQ:TXG) raised its full-year revenue outlook after reporting modest third-quarter growth and increased its shipment target for its new Atera spatial biology platform. The company reported revenue of $150.7 million for\u2026",
-   "url": "https://finnhub.io/api/news?id=a5f4827c0bf1cd1e86cc51bec38161d597da34cf869a24d83da79219bcb808e1",
-   "source": "Yahoo",
-   "published": "2026-11-06T14:14:31+00:00",
-   "tickers": [
-    "TXG"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "d9edfdadc66d",
-   "headline": "Global Biohacking Wearable and Consumer Longevity Device Market Report 2026 | Capitalize on AI Biometrics as Apple, Samsung, Abbott, and Oura Drive Market to $45.03 Billion by 2030",
-   "summary": "Apple, Samsung, Huawei, Abbott and ASUS. Profiled: competitors, regional shares, segments, trends and opportunities in biohacking wearables and longevity devices.Dublin, Nov. 06, 2026 (GLOBE NEWSWIRE) -- \"Biohacking Wearable and Consumer\u2026",
-   "url": "https://finnhub.io/api/news?id=9fa461a4255d1b033acf21738e4eb36d2d7039607d52a299bf7ef096e523aafc",
-   "source": "Yahoo",
-   "published": "2026-11-06T14:14:00+00:00",
-   "tickers": [
-    "ABT"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "8fae32286a1f",
-   "headline": "RBC Capital Maintains Outperform on Cardinal Health, Raises Price Target to $295",
-   "summary": "RBC Capital analyst Ryan Halsted maintains Cardinal Health (NYSE:CAH) with a Outperform and raises the price target from $276 to $295.",
-   "url": "https://finnhub.io/api/news?id=4f19c1267ed248d8f57e8dfa12b9d6decbd3351c01eb6bcd444cffdfc7bd1dd4",
-   "source": "Benzinga",
-   "published": "2026-11-06T14:10:56+00:00",
-   "tickers": [
-    "CAH"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharmacy"
-   ]
-  },
-  {
-   "id": "cd55f7be2e7a",
-   "headline": "Oscar Health Stock Earnings Beat Spurs Higher Full Year Outlook",
-   "summary": "Oscar Health reported Q3 2026 revenue of US$5.14b and net income of US$167.28 million, compared with a loss a year earlier, and raised its full year outlook after beating analyst earnings and revenue expectations. The insurer linked its\u2026",
-   "url": "https://finnhub.io/api/news?id=f7b90110e158e7375c153dc193913b0e2272e68d5d1b59d4608b517d87f02d77",
-   "source": "Yahoo",
-   "published": "2026-11-06T14:10:29+00:00",
-   "tickers": [
-    "OSCR"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "222eb8b034b7",
-   "headline": "Align Technology Announces $270 Million Accelerated Stock Repurchase Agreement",
-   "summary": "TEMPE, Ariz., November 06, 2026--Align Technology, Inc. (\"Align\") (Nasdaq: ALGN), a leading global medical device company that designs, manufactures, and sells the Invisalign\u00ae System of clear aligners, iTero\u2122 intraoral scanners, and\u2026",
-   "url": "https://finnhub.io/api/news?id=cc8c1135ca5ab4200b479ad73c7d01c34bf2d845e8c56de4b9ed7c6dac82dbd2",
-   "source": "Yahoo",
-   "published": "2026-11-06T14:10:00+00:00",
-   "tickers": [
-    "ALGN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "c93879cd2205",
-   "headline": "Hims & Hers Surges On 'Surprising And Inevitable' Deal With Eli Lilly",
-   "summary": "Hims & Hers Health inked a deal with Eli Lilly on Friday to sell the company's obesity drugs, further entrenching itself in the GLP-1 space.",
-   "url": "https://finnhub.io/api/news?id=fcf3f86d211b8f84bc9bdece79e3b7b3d2f96bc37629ef782c97de79b2bd68ea",
-   "source": "Yahoo",
-   "published": "2026-11-06T14:07:10+00:00",
-   "tickers": [
-    "HIMS",
-    "LLY",
-    "NVO"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "e5aaa0a1257c",
-   "headline": "Qiagen N.V. (QGEN) Shareholder/Analyst Call - Slideshow",
-   "summary": "",
-   "url": "https://finnhub.io/api/news?id=56e5e2812a994547cc578072ef07252c03ca7f3815cc1ffea7a5343e1762b002",
-   "source": "SeekingAlpha",
-   "published": "2026-11-06T14:05:38+00:00",
-   "tickers": [
-    "QGEN"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "tools"
    ]
   }
  ]
