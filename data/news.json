@@ -1,35 +1,7 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-16T12:16:38.059570+00:00",
+ "updated": "2026-11-16T12:31:41.659708+00:00",
  "quotes": {
-  "ABBV": {
-   "price": 295.03,
-   "change_pct": 0.2
-  },
-  "AMGN": {
-   "price": 465.67,
-   "change_pct": -0.3
-  },
-  "ARGX": {
-   "price": 960.04,
-   "change_pct": -2.17
-  },
-  "AZN": {
-   "price": 184.45,
-   "change_pct": 0.04
-  },
-  "BDX": {
-   "price": 218.03,
-   "change_pct": 1.08
-  },
-  "BMY": {
-   "price": 63.43,
-   "change_pct": 1.78
-  },
-  "CRSP": {
-   "price": 42.24,
-   "change_pct": -0.89
-  },
   "CVS": {
    "price": 89.35,
    "change_pct": -0.49
@@ -793,7 +765,9 @@
    "source": "Yahoo",
    "published": "2026-11-16T11:42:11+00:00",
    "tickers": [
-    "BDX"
+    "BDX",
+    "BSX",
+    "JNJ"
    ],
    "tag": "News",
    "sectors": [
@@ -808,7 +782,8 @@
    "source": "Yahoo",
    "published": "2026-11-16T11:05:10+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "JNJ"
    ],
    "tag": "News",
    "sectors": [
@@ -824,6 +799,21 @@
    "published": "2026-11-16T11:03:13+00:00",
    "tickers": [
     "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "b3d5997443e1",
+   "headline": "ETFs Are Net Sellers of Johnson & Johnson (JNJ) on Thursday",
+   "summary": "Johnson & Johnson saw $72.5 million in net ETF selling on Thursday.",
+   "url": "https://finnhub.io/api/news?id=02d1d194b8b7d7863d3e6322f72d9596719343fcfefef306aafed298d4463429",
+   "source": "Yahoo",
+   "published": "2026-11-16T11:03:07+00:00",
+   "tickers": [
+    "JNJ"
    ],
    "tag": "News",
    "sectors": [
@@ -1799,6 +1789,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "06578c8a1031",
+   "headline": "Merck or CVS: Only One Gets My Dividend Dollars for the Next 10 Years",
+   "summary": "Key TakeawaysMerck raised its dividend 5. 1% in fiscal 2025 and yields 2.",
+   "url": "https://finnhub.io/api/news?id=4da19b8b990c875376e52d3fb7e549f8e446fd55591df2d3658aa016a9d15d73",
+   "source": "Yahoo",
+   "published": "2026-11-15T07:56:49+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -36229,265 +36234,6 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "0015a8e0726a",
-   "headline": "3 Stocks in Focus That Hiked Dividends Amid Ongoing Market Volatility",
-   "summary": "BDX, COR and UNF recently hiked dividends, offering investors steady income opportunities as market volatility, inflation and economic uncertainty persist.",
-   "url": "https://finnhub.io/api/news?id=fc652831445b930433234949b76429f7cb4becf4f95bf583bac89079214d11f7",
-   "source": "Yahoo",
-   "published": "2026-11-06T12:31:00+00:00",
-   "tickers": [
-    "BDX",
-    "COR"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "fe9929360de2",
-   "headline": "IOVA Q3 Earnings Beat on Amtagvi Sales and Lower R&D Costs",
-   "summary": "Iovance beat Q3 2026 earnings and revenue estimates as Amtagvi sales top $100 million, margins improve and R&D costs decline.",
-   "url": "https://finnhub.io/api/news?id=84cf9d03edb0c3f3a6311e49ce5385eaaeae9f540cf8da0918741d1396373da1",
-   "source": "Yahoo",
-   "published": "2026-11-06T12:31:00+00:00",
-   "tickers": [
-    "MRK",
-    "TGTX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "086ac63b3872",
-   "headline": "If You Invested $1000 in Medpace a Decade Ago, This is How Much It'd Be Worth Now",
-   "summary": "Why investing for the long run, especially if you buy certain popular stocks, could reap huge rewards.",
-   "url": "https://finnhub.io/api/news?id=c8bb0688343df613098ff0074e21bd93ed4872e72dcd63ea8d89c34eb431112e",
-   "source": "Yahoo",
-   "published": "2026-11-06T12:30:02+00:00",
-   "tickers": [
-    "MEDP"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "7bc5fe6fe97e",
-   "headline": "If You Invested $1000 in HCA Healthcare a Decade Ago, This is How Much It'd Be Worth Now",
-   "summary": "Why investing for the long run, especially if you buy certain popular stocks, could reap huge rewards.",
-   "url": "https://finnhub.io/api/news?id=2e7e8801d500c48034e16484fc959e8a1827adb2b70e39818eec7a8e7808bd5d",
-   "source": "Yahoo",
-   "published": "2026-11-06T12:30:02+00:00",
-   "tickers": [
-    "HCA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "f21a1250ffa0",
-   "headline": "Zimmer Biomet Introduces Surgeon-Guided Autonomy, a New Category in Intelligent Surgery",
-   "summary": "New Category Will Introduce a Closed-Loop Framework: Predict. Perform. Recover. Keeping the Surgeon's Expertise and Control at the Center of the OR DALLAS, Nov. 6, 2026 /PRNewswire/ -- Zimmer Biomet Holdings, Inc. (NYSE and SIX: ZBH)\u2026",
-   "url": "https://www.prnewswire.com/news-releases/zimmer-biomet-introduces-surgeon-guided-autonomy-a-new-category-in-intelligent-surgery-302931589.html",
-   "source": "PR Newswire",
-   "published": "2026-11-06T12:30:00+00:00",
-   "tickers": [
-    "ZBH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "8ae1cb2e96b6",
-   "headline": "Zimmer Biomet Introduces Surgeon-Guided Autonomy, a New Category in Intelligent Surgery",
-   "summary": "Zimmer Biomet Holdings, Inc. (NYSE and SIX: ZBH) today will announce Surgeon-Guided Autonomy, a new technology category representing the company's vision for the next era of intelligent orthopedic surgery.",
-   "url": "https://finnhub.io/api/news?id=14de522550cfe3de1ee0c0c93d42fa570d09869e3a7337cd2c17b53fae1cf15b",
-   "source": "Yahoo",
-   "published": "2026-11-06T12:30:00+00:00",
-   "tickers": [
-    "ZBH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "da330f7f12fe",
-   "headline": "Moderna (NASDAQ:MRNA) Q3 Earnings Beat and Raised Guidance Fuel Stock Rally",
-   "summary": "Moderna Q3 revenue and EPS beat consensus, swung to profit, raised 2026 revenue guidance, and shares rose 7.9% premarket on strong results.",
-   "url": "https://finnhub.io/api/news?id=44f0fdcfa627338f82c211b9f2488c8bacdddfb75e63ee789f29c28ee56b952f",
-   "source": "ChartMill",
-   "published": "2026-11-06T12:28:06+00:00",
-   "tickers": [
-    "MRNA"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "c3601e91b8ab",
-   "headline": "Humana (NYSE:HUM) Posts Mixed Q3 Results and Raises FY2026 Adjusted EPS Guidance",
-   "summary": "Humana's mixed Q3 2026 results met revenue views, adjusted loss was narrower, and FY adjusted EPS guidance rose, though shares dipped premarket.",
-   "url": "https://finnhub.io/api/news?id=d0a1821246dd9307295b05dfc1a54332e96c1fc457aa864b981818ec9e4a639e",
-   "source": "ChartMill",
-   "published": "2026-11-06T12:26:59+00:00",
-   "tickers": [
-    "HUM"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "ba379cbe2799",
-   "headline": "Natera Stock Plummets After Mixed Q3 Financials",
-   "summary": "Natera shares are plunging Friday after mixed Q3 results, as a wider-than-expected loss offset revenue and guidance that topped estimates.",
-   "url": "https://finnhub.io/api/news?id=1d62eda86ea6ff88797a40fcc3d54956329712bd2aa708f0cec8fc7222fed316",
-   "source": "Benzinga",
-   "published": "2026-11-06T12:25:42+00:00",
-   "tickers": [
-    "NTRA"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "f253ce11c39f",
-   "headline": "Moderna (NASDAQ:MRNA) delivers strong Q3 2026 numbers, stock soars",
-   "summary": "Biotechnology company Moderna (NASDAQ:MRNA) reported Q3 2026 results topping the market\u2019s revenue expectations, with revenue up 29.2% year on year to $1.31 billion. Its GAAP profit of $0.38 per share was significantly above analysts\u2019\u2026",
-   "url": "https://finnhub.io/api/news?id=f5f7bc6b2c4b5e844b23082cd2f53c2140555b4e5e3338150bc09cb77bba87be",
-   "source": "Yahoo",
-   "published": "2026-11-06T12:24:33+00:00",
-   "tickers": [
-    "MRNA"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "99f6ac7ecced",
-   "headline": "OSCR Q3 Earnings Call Highlights Strong Outlook and Margin Gains",
-   "summary": "Oscar Health raises its 2026 earnings outlook as improving medical costs and operating efficiencies boost margins, while expansion fuels 2027 growth ambitions.",
-   "url": "https://finnhub.io/api/news?id=6b3f69ef6edf5398cba910b9f29f4d34eb34d3ddcc4b40d97ae91a58dea2ad69",
-   "source": "Yahoo",
-   "published": "2026-11-06T12:24:00+00:00",
-   "tickers": [
-    "OSCR"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "5deeb2d67ee3",
-   "headline": "Humana expects another year of Medicare Advantage membership growth in 2027",
-   "summary": "More seniors than expected signing up for Humana\u2019s plans in 2026 was a major concern for investors. But Humana is in a much better position to absorb future growing pains, executives said.",
-   "url": "https://www.healthcaredive.com/news/humana-expects-medicare-advantage-membership-growth-2027-hum-q3/873966/",
-   "source": "Healthcare Dive",
-   "published": "2026-11-06T12:23:39+00:00",
-   "tickers": [
-    "HUM"
-   ],
-   "tag": "Policy",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "c864e1ad9fd4",
-   "headline": "Humana expects another year of Medicare Advantage membership growth in 2027",
-   "summary": "More seniors than expected signing up for Humana\u2019s plans in 2026 was a major concern for investors. But Humana is in a much better position to absorb future growing pains, executives said.",
-   "url": "https://finnhub.io/api/news?id=3d935bfcede63742f5acf7fd21d64a5b5307666331e830b3f9b3ba7098c94e02",
-   "source": "Yahoo",
-   "published": "2026-11-06T12:23:39+00:00",
-   "tickers": [
-    "HUM"
-   ],
-   "tag": "Policy",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "b684237a206f",
-   "headline": "Gilead seeks wider use for Livdelzi on Phase III liver disease success",
-   "summary": "This result comes as recent clinical guidance recognises ALP normalisation as a key goal of treatment in PBC.",
-   "url": "https://finnhub.io/api/news?id=6db2ba658dbe9976334eed0768cc37403113ccbca139d7030ea6fe0011618950",
-   "source": "Yahoo",
-   "published": "2026-11-06T12:22:20+00:00",
-   "tickers": [
-    "GILD"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "daea039acc4c",
-   "headline": "Can You Justify Buying Corcept Stock Today?",
-   "summary": "For questions about this article or underlying research, email help@trefis.com.",
-   "url": "https://finnhub.io/api/news?id=64a2744b35d6643b4e82ef932ad511475290314158548d359049ea8132b294e4",
-   "source": "Yahoo",
-   "published": "2026-11-06T12:20:51+00:00",
-   "tickers": [
-    "BIIB",
-    "MDGL",
-    "VKTX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "133ab904becf",
-   "headline": "Canopy Growth Corporation (CGC) Reports Q2 Loss, Lags Revenue Estimates",
-   "summary": "Canopy Growth (CGC) delivered earnings and revenue surprises of -250.00% and -1.63%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
-   "url": "https://finnhub.io/api/news?id=0a36d0bf2a00cfeac92ae0febc7f09a7f11842567d45fb8d7dea27f02c99c909",
-   "source": "Yahoo",
-   "published": "2026-11-06T12:20:02+00:00",
-   "tickers": [
-    "MDT"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "afca3e9425da",
-   "headline": "Humana beats estimates on earnings and revenue, raises guidance",
-   "summary": "Investing.com -- Humana Inc. (NYSE: HUM) reported third-quarter results that exceeded analyst expectations and raised its full-year earnings guidance, though shares slipped 0.8% following the announcement.",
-   "url": "https://finnhub.io/api/news?id=cc905ad3e4bf607a8653a7865445056b7eb3e75cabf3f634992dbbc534ca0900",
-   "source": "Yahoo",
-   "published": "2026-11-06T12:19:15+00:00",
-   "tickers": [
-    "HUM"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
    ]
   }
  ]
