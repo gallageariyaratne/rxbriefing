@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-16T10:16:28.804631+00:00",
+ "updated": "2026-11-16T10:31:39.242234+00:00",
  "quotes": {
   "ABBV": {
    "price": 295.03,
@@ -17,6 +17,10 @@
   "AZN": {
    "price": 184.45,
    "change_pct": 0.04
+  },
+  "BMY": {
+   "price": 63.43,
+   "change_pct": 1.78
   },
   "CVS": {
    "price": 89.35,
@@ -905,6 +909,7 @@
    "published": "2026-11-16T08:08:05+00:00",
    "tickers": [
     "ABBV",
+    "JNJ",
     "MDT"
    ],
    "tag": "News",
@@ -920,7 +925,9 @@
    "source": "Yahoo",
    "published": "2026-11-16T08:08:05+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "BMY",
+    "JNJ"
    ],
    "tag": "News",
    "sectors": [
@@ -935,7 +942,9 @@
    "source": "Yahoo",
    "published": "2026-11-16T08:08:04+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "BMY",
+    "JNJ"
    ],
    "tag": "News",
    "sectors": [
@@ -37171,111 +37180,6 @@
    "tag": "Analyst",
    "sectors": [
     "healthit"
-   ]
-  },
-  {
-   "id": "0723dbc5a9be",
-   "headline": "Cigna's Earnings Growth Deserves A Higher Valuation",
-   "summary": "Cigna earns a Buy rating on raised EPS guidance, margin gains, and valuation upside despite PBM pressure. Click here to read an analysis of CI stock now.",
-   "url": "https://finnhub.io/api/news?id=2e352807b9ec71985b8e9e82a77f07c958ccf96865cc159b44e31b117ff2b8c5",
-   "source": "SeekingAlpha",
-   "published": "2026-11-06T10:30:00+00:00",
-   "tickers": [
-    "CI"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "585e1e47dbda",
-   "headline": "Piper Sandler Maintains Overweight on Privia Health Gr, Raises Price Target to $38",
-   "summary": "Piper Sandler analyst Jessica Tassan maintains Privia Health Gr (NASDAQ:PRVA) with a Overweight and raises the price target from $36 to $38.",
-   "url": "https://finnhub.io/api/news?id=c66c43365b32022961e077ab8e264451e1d7a00b74415c3c8fbf7940266ebabc",
-   "source": "Benzinga",
-   "published": "2026-11-06T10:26:18+00:00",
-   "tickers": [
-    "PRVA"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "6a44e569720a",
-   "headline": "Piper Sandler Maintains Overweight on Oscar Health, Lowers Price Target to $45",
-   "summary": "Piper Sandler analyst Jessica Tassan maintains Oscar Health (NYSE:OSCR) with a Overweight and lowers the price target from $48 to $45.",
-   "url": "https://finnhub.io/api/news?id=bf7f9bbd73c6e7dc638a562b11ba476459a51ba3888440e112aa209018b5e7f1",
-   "source": "Benzinga",
-   "published": "2026-11-06T10:24:59+00:00",
-   "tickers": [
-    "OSCR"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "9f9e7697b96b",
-   "headline": "Piper Sandler Maintains Overweight on iRhythm Holdings, Lowers Price Target to $150",
-   "summary": "Piper Sandler analyst Adam Maeder maintains iRhythm Holdings (NASDAQ:IRTC) with a Overweight and lowers the price target from $160 to $150.",
-   "url": "https://finnhub.io/api/news?id=b918282005cdb22a2a1043f52186ae34856845a3f6ff9a0a387d91a872c3bced",
-   "source": "Benzinga",
-   "published": "2026-11-06T10:24:03+00:00",
-   "tickers": [
-    "IRTC"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "43e461eb8092",
-   "headline": "Piper Sandler Maintains Neutral on Becton Dickinson, Raises Price Target to $200",
-   "summary": "Piper Sandler analyst Jason Bednar maintains Becton Dickinson (NYSE:BDX) with a Neutral and raises the price target from $175 to $200.",
-   "url": "https://finnhub.io/api/news?id=e4aed372af19630ccb1fe5aded1c5e950dbfbe916d7b5a62ae50beaed04973ab",
-   "source": "Benzinga",
-   "published": "2026-11-06T10:20:08+00:00",
-   "tickers": [
-    "BDX"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "cd09b34ec04e",
-   "headline": "GSK (LSE:GSK) Stock Still Looks Below Fair Value Following Jemperli Approval",
-   "summary": "GSK plc has delivered strong multi year gains for shareholders, and the latest news around its cancer and specialty medicines raises a straightforward question for you as an investor. Is the current share price near \u00a318.90 adequately\u2026",
-   "url": "https://finnhub.io/api/news?id=1960d7dce80fcccc25f5a609f79c9b260d027c2660e249af7660b92d82915290",
-   "source": "Yahoo",
-   "published": "2026-11-06T10:18:06+00:00",
-   "tickers": [
-    "GSK"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "7228d6fabe71",
-   "headline": "Does Earnings Beat Change The Bull Case For Cardinal Health Stock (CAH)?",
-   "summary": "Cardinal Health reported first quarter fiscal 2027 results for the period ended September 30, 2026, with sales of US$67.513b, net income of US$554m, and diluted EPS from continuing operations of US$2.38 compared with US$1.88 a year\u2026",
-   "url": "https://finnhub.io/api/news?id=4f9c8769de7729c8f93bd9e0b335dad082de85cd2449f76ba44967be7ae7a387",
-   "source": "Yahoo",
-   "published": "2026-11-06T10:16:46+00:00",
-   "tickers": [
-    "CAH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharmacy"
    ]
   }
  ]
