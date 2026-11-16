@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-16T09:46:25.772325+00:00",
+ "updated": "2026-11-16T10:01:45.162638+00:00",
  "quotes": {
   "ABBV": {
    "price": 295.03,
@@ -66,6 +66,10 @@
    "price": 41.63,
    "change_pct": 2.41
   },
+  "NVS": {
+   "price": 160.5,
+   "change_pct": 0.16
+  },
   "PACB": {
    "price": 1.96,
    "change_pct": -0.51
@@ -81,6 +85,10 @@
   "SMMT": {
    "price": 14.15,
    "change_pct": -6.14
+  },
+  "SNY": {
+   "price": 48.37,
+   "change_pct": -0.19
   },
   "UHS": {
    "price": 194.07,
@@ -705,6 +713,56 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "3ff224b03fa5",
+   "headline": "Big-name investors pour $100M into DNA therapeutics developer Seawolf",
+   "summary": "The startup, which also just disclosed an up to $1.2 billion partnership with Sanofi, is backed by Versant, MPM BioImpact, Eli Lilly and Novartis\u2019 venture arm.",
+   "url": "https://www.biopharmadive.com/news/seawolf-therapeutics-dna-versant-startup-financing/874465/",
+   "source": "BioPharma Dive",
+   "published": "2026-11-16T10:00:00+00:00",
+   "tickers": [
+    "LLY",
+    "NVS",
+    "SNY"
+   ],
+   "tag": "Financing",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "7306218567ee",
+   "headline": "Completing the circle: the next evolution in sustainable pharmaceutical blister packaging",
+   "summary": "Discover how innovative PET and PP lidding are advancing sustainable pharmaceutical blister packaging.",
+   "url": "https://www.biopharmadive.com/spons/completing-the-circle-the-next-evolution-in-sustainable-pharmaceutical-bli/874350/",
+   "source": "BioPharma Dive",
+   "published": "2026-11-16T10:00:00+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "73ace697add6",
+   "headline": "Your AI pilots aren\u2019t stalling because of the AI \u2013 they\u2019re stalling because of your environment",
+   "summary": "As clinical AI adoption accelerates, trust, traceability and readiness matter more than ever.",
+   "url": "https://www.biopharmadive.com/spons/your-ai-pilots-arent-stalling-because-of-the-ai-theyre-stalling-because/874345/",
+   "source": "BioPharma Dive",
+   "published": "2026-11-16T10:00:00+00:00",
+   "tickers": [],
+   "tag": "Health AI",
+   "sectors": []
+  },
+  {
+   "id": "8707e198711f",
+   "headline": "The infrastructure decisions that will enable tomorrow\u2019s biggest breakthroughs",
+   "summary": "Faster drug discovery depends on more than the model. What drug developers need to know about AI.",
+   "url": "https://www.biopharmadive.com/spons/the-infrastructure-decisions-that-will-enable-tomorrows-biggest-breakthrou/874507/",
+   "source": "BioPharma Dive",
+   "published": "2026-11-16T10:00:00+00:00",
+   "tickers": [],
+   "tag": "Health AI",
+   "sectors": []
+  },
   {
    "id": "8c502298e280",
    "headline": "Chinese scientists fired after child dies in gene editing study: report",
@@ -37195,21 +37253,6 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "21d3a4c2b8cc",
-   "headline": "November Buy: 6 IDEAL S&P 500 'Safer' Dividend Dogs",
-   "summary": "Read here for six safer high-yield S&P 500 dividend stocks with strong free cash flow and buy signals; see top projected gains and act now.",
-   "url": "https://finnhub.io/api/news?id=cd5280782e88bd36c8a2b3e80634759ea321aba0512712c145c12490097fa652",
-   "source": "SeekingAlpha",
-   "published": "2026-11-06T10:00:00+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
