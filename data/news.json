@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-17T11:17:28.490430+00:00",
+ "updated": "2026-11-17T11:32:47.240215+00:00",
  "quotes": {
   "A": {
    "price": 172.92,
@@ -37,6 +37,10 @@
   "ARGX": {
    "price": 950.95,
    "change_pct": -0.95
+  },
+  "ASND": {
+   "price": 271.73,
+   "change_pct": -1.33
   },
   "AXSM": {
    "price": 137.01,
@@ -317,10 +321,6 @@
   "TMO": {
    "price": 691.33,
    "change_pct": -1.27
-  },
-  "TWST": {
-   "price": 105.04,
-   "change_pct": -5.88
   }
  },
  "tickers": {
@@ -937,6 +937,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "6b881e98c3cc",
+   "headline": "Ascendis Pharma (NASDAQ:ASND): Affordable Growth at a Reasonable Valuation",
+   "summary": "Ascendis Pharma pairs rapid revenue and EPS growth with reasonable industry valuation and a healthy balance sheet\u2014an affordable growth standout.",
+   "url": "https://finnhub.io/api/news?id=0b98982f4463369e583990591040a356a029f5d670e629eddbade573d3faa571",
+   "source": "ChartMill",
+   "published": "2026-11-17T11:10:35+00:00",
+   "tickers": [
+    "ASND"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
   {
    "id": "433548dc6022",
    "headline": "Medtronic announces FDA clearance of general surgery procedures for the Hugo\u2122 robotic-assisted surgery (RAS) system",
