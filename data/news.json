@@ -1,31 +1,7 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-17T12:17:42.820068+00:00",
+ "updated": "2026-11-17T12:32:39.321280+00:00",
  "quotes": {
-  "A": {
-   "price": 172.92,
-   "change_pct": -0.6
-  },
-  "ABBV": {
-   "price": 294.55,
-   "change_pct": -0.16
-  },
-  "ABSI": {
-   "price": 7.47,
-   "change_pct": -11.54
-  },
-  "ABT": {
-   "price": 107.45,
-   "change_pct": -0.99
-  },
-  "ACAD": {
-   "price": 18.67,
-   "change_pct": -0.43
-  },
-  "ALNY": {
-   "price": 159.73,
-   "change_pct": -3.22
-  },
   "ALT": {
    "price": 1.56,
    "change_pct": -5.17
@@ -93,6 +69,10 @@
   "CYTK": {
    "price": 53.17,
    "change_pct": -5.27
+  },
+  "DGX": {
+   "price": 262.21,
+   "change_pct": 1.01
   },
   "DH": {
    "price": 1.26,
@@ -313,10 +293,6 @@
   "TEM": {
    "price": 64.76,
    "change_pct": -9.55
-  },
-  "THC": {
-   "price": 291.54,
-   "change_pct": 1.93
   },
   "TMO": {
    "price": 691.33,
@@ -993,6 +969,21 @@
    "sectors": []
   },
   {
+   "id": "90067d64dac6",
+   "headline": "Johnson & Johnson vs. Novo Nordisk: Steady Uptrend vs. Flat Revenue",
+   "summary": "Johnson & Johnson's revenue has climbed quarter after quarter, while Novo Nordisk's has stayed largely flat apart from one notable jump.",
+   "url": "https://finnhub.io/api/news?id=a7680e77b73e97d701fe020075d3aacc1bad7472dd344f8ddcaca01a6932e74a",
+   "source": "Yahoo",
+   "published": "2026-11-17T11:45:10+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "a93b21deba55",
    "headline": "A Fund With $1 Billion in US Equities Just Bought These 3 Stocks",
    "summary": "Key TakeawaysA fund with $1. 04 billion in US stocks nearly doubled its Meta Platforms (META:NASDAQ) stake in the Q3, added around 70% more Danaher (DHR:NYSE) shares and bought Boeing (BA:NYSE) for the first time.",
@@ -1016,6 +1007,8 @@
    "published": "2026-11-17T11:29:45+00:00",
    "tickers": [
     "CI",
+    "CVS",
+    "DGX",
     "LH"
    ],
    "tag": "News",
@@ -1031,6 +1024,7 @@
    "source": "Yahoo",
    "published": "2026-11-17T11:29:45+00:00",
    "tickers": [
+    "DGX",
     "LH"
    ],
    "tag": "News",
@@ -1054,6 +1048,21 @@
    ]
   },
   {
+   "id": "1a2751e36f3c",
+   "headline": "What iShares Biotechnology ETF (IBB) Bought: Gilead Leads on Nov. 13",
+   "summary": "The fund added $84.9 million in new buying across 232 positions, led by $7.7 million of Gilead Sciences.",
+   "url": "https://finnhub.io/api/news?id=17449836f3ef3db017ba6a7a32fac137804fd440c93334567fa8f844c430084d",
+   "source": "Yahoo",
+   "published": "2026-11-17T11:05:02+00:00",
+   "tickers": [
+    "VRTX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "bc1d08b8c366",
    "headline": "iShares Core Dividend Growth (DGRO) Buys $4.2 Million More Apple on Nov. 13",
    "summary": "The fund added $106.8 million across 377 positions, with Apple, Microsoft, AbbVie, ExxonMobil and Johnson & Johnson leading the buys.",
@@ -1061,7 +1070,8 @@
    "source": "Yahoo",
    "published": "2026-11-17T11:04:51+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "JNJ"
    ],
    "tag": "News",
    "sectors": [
@@ -1154,6 +1164,21 @@
     "LLY"
    ],
    "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "d67dc0a89d61",
+   "headline": "The Zacks Analyst Blog Highlights Taiwan, Johnson & Johnson, Palantir, Title and Altigen",
+   "summary": "Taiwan, Johnson & Johnson, Palantir, Title and Altigen are included in this Analyst Blog.",
+   "url": "https://finnhub.io/api/news?id=c35d185887088581847493a64355036920f2ce733c3ea9f596fc3eb4ea16b32c",
+   "source": "Yahoo",
+   "published": "2026-11-17T10:08:00+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "Analyst",
    "sectors": [
     "pharma"
    ]
