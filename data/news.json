@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-17T08:32:39.856057+00:00",
+ "updated": "2026-11-17T08:47:27.382024+00:00",
  "quotes": {
   "A": {
    "price": 172.92,
@@ -282,6 +282,10 @@
    "price": 25.26,
    "change_pct": 2.89
   },
+  "PTCT": {
+   "price": 60.97,
+   "change_pct": -3.97
+  },
   "REGN": {
    "price": 952.4,
    "change_pct": -0.32
@@ -317,10 +321,6 @@
   "TAK": {
    "price": 21.59,
    "change_pct": 0.75
-  },
-  "TEM": {
-   "price": 64.76,
-   "change_pct": -9.55
   }
  },
  "tickers": {
@@ -1230,6 +1230,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "3b4f9b9e7705",
+   "headline": "PTC Therapeutics Sees $2 Billion-Plus Sephience Potential, Sets January Guidance Date",
+   "summary": "PTC Therapeutics (NASDAQ:PTCT) expects to provide 2027 sales guidance for its oral phenylketonuria treatment Sephience in January, as executives seek to convince investors that the drug\u2019s strong first year of sales can be sustained.\u2026",
+   "url": "https://finnhub.io/api/news?id=5e14fad967368a7461e6bcbccdcf7d100385f2e68956be94110adddea575cee3",
+   "source": "Yahoo",
+   "published": "2026-11-17T00:14:56+00:00",
+   "tickers": [
+    "PTCT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
