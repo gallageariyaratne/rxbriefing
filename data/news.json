@@ -1,7 +1,31 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-17T12:32:39.321280+00:00",
+ "updated": "2026-11-17T12:47:41.818033+00:00",
  "quotes": {
+  "A": {
+   "price": 172.92,
+   "change_pct": -0.6
+  },
+  "ABBV": {
+   "price": 294.55,
+   "change_pct": -0.16
+  },
+  "ABSI": {
+   "price": 7.47,
+   "change_pct": -11.54
+  },
+  "ABT": {
+   "price": 107.45,
+   "change_pct": -0.99
+  },
+  "ACAD": {
+   "price": 18.67,
+   "change_pct": -0.43
+  },
+  "ALNY": {
+   "price": 159.73,
+   "change_pct": -3.22
+  },
   "ALT": {
    "price": 1.56,
    "change_pct": -5.17
@@ -914,6 +938,17 @@
  },
  "stories": [
   {
+   "id": "42ef2db13f72",
+   "headline": "AriBio\u2019s oral Alzheimer\u2019s drug meets monotherapy goal in phase 3 as Fosun weighs licensing option",
+   "summary": "AriBio\u2019s erectile dysfunction med-turned Alzheimer\u2019s disease candidate mirodenafil has delivered some mixed results from a global phase 3 trial. Fosun Pharma has an option to in-license the PDE5 inhibitor.",
+   "url": "https://www.fiercepharma.com/pharma/aribio-oral-alzheimers-drug-meets-monotherapy-goal-phase-3-fosun-weighs-licensing-option",
+   "source": "Fierce Pharma",
+   "published": "2026-11-17T12:45:27.349481+00:00",
+   "tickers": [],
+   "tag": "Clinical",
+   "sectors": []
+  },
+  {
    "id": "c560619cc4a0",
    "headline": "Marrow extracts $120M series B to advance preclinical blood disease therapy",
    "summary": "A new biotech targeting blood disorders, aptly called Marrow Therapeutics, has launched with $173 million in combined funding and a preclinical lead program aimed at sickle cell disease and beta thalassemia.",
@@ -1025,11 +1060,27 @@
    "published": "2026-11-17T11:29:45+00:00",
    "tickers": [
     "DGX",
+    "ILMN",
     "LH"
    ],
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "6711cb06055d",
+   "headline": "Pfizer CEO Sees Growth Beyond Patent Cliff, Highlights Monthly Obesity Drug Ambitions",
+   "summary": "Pfizer (NYSE:PFE) expects recently launched medicines and a growing pipeline to help it emerge from a period of patent expirations with high single-digit growth, CEO Albert Bourla said at the Jefferies London Healthcare Conference. Bourla\u2026",
+   "url": "https://finnhub.io/api/news?id=f234b30bc43d44805d963edc6c771c29e7a65b9024375cd060c6de20d8b9cdb6",
+   "source": "Yahoo",
+   "published": "2026-11-17T11:12:28+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1055,6 +1106,7 @@
    "source": "Yahoo",
    "published": "2026-11-17T11:05:02+00:00",
    "tickers": [
+    "AMGN",
     "VRTX"
    ],
    "tag": "News",
@@ -1162,6 +1214,21 @@
    "published": "2026-11-17T10:45:20.648636+00:00",
    "tickers": [
     "LLY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "17225396fff3",
+   "headline": "At $215, Moderna Stock Already Prices In A Comeback",
+   "summary": "Our Nov 16 piece, How Much Could Moderna Stock Give Back?, found that Moderna (MRNA) stock had returned 736.3% over the twelve months to Nov 13, against 11.7% for the S&P 500. The next question is the long one: where could the stock be in\u2026",
+   "url": "https://finnhub.io/api/news?id=2a455cc2e878d7e0a5b3fff8ab6a3226be25d5b22fa664b65aaa9dc3e3c529d5",
+   "source": "Yahoo",
+   "published": "2026-11-17T10:38:56+00:00",
+   "tickers": [
+    "PFE"
    ],
    "tag": "News",
    "sectors": [
@@ -1282,6 +1349,36 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "f94fa9ceaefc",
+   "headline": "Incyte Corporation (INCY) Presents at Jefferies Global Healthcare Conference 2026 Transcript",
+   "summary": "Incyte Corporation (INCY) Jefferies Global Healthcare Conference 2026 November 17, 2026 4:00 AM ESTCompany ParticipantsWilliam Meury - CEO &...",
+   "url": "https://finnhub.io/api/news?id=52005713ad754b33b383a33e008d7b9004444460f90718b3bcb5b76fc7a526b5",
+   "source": "SeekingAlpha",
+   "published": "2026-11-17T06:42:50+00:00",
+   "tickers": [
+    "INCY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "55973d0c4ac6",
+   "headline": "Exelixis, Inc. (EXEL) Presents at UBS Global Biopharma Conference 2026 Transcript",
+   "summary": "Exelixis, Inc. (EXEL) UBS Global Biopharma Conference 2026 November 17, 2026 4:20 AM ESTCompany ParticipantsAndrew Peters - Senior Vice President of...",
+   "url": "https://finnhub.io/api/news?id=8c22f25f2332d95b2f15aedbac4084fc2d16838c8dffbac988d3e31a561c317b",
+   "source": "SeekingAlpha",
+   "published": "2026-11-17T06:42:46+00:00",
+   "tickers": [
+    "EXEL"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
   },
   {
    "id": "1d3d287a0091",
@@ -35829,21 +35926,6 @@
     "DXCM",
     "MDT",
     "PODD"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "3015e7d7f3a9",
-   "headline": "Some Experts Think TransMedics Group (TMDX) Has a Near-Monopoly on Keeping Donor Organs Alive",
-   "summary": "We recently released our ranking of the 10 Stocks That Could Skyrocket in 2027, and TransMedics Group (NASDAQ:TMDX) ranked 9th. SpaceX\u2019s public debut in June gave investors a new yardstick for how fast a space-linked stock can move, in\u2026",
-   "url": "https://finnhub.io/api/news?id=abc6a027882b758e77d454a931f7cffb4fa62cbc398e100e750d3b41051c8b57",
-   "source": "Yahoo",
-   "published": "2026-11-07T12:42:06+00:00",
-   "tickers": [
-    "TMDX"
    ],
    "tag": "News",
    "sectors": [
