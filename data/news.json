@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-17T09:48:02.939243+00:00",
+ "updated": "2026-11-17T10:02:48.941057+00:00",
  "quotes": {
   "A": {
    "price": 172.92,
@@ -89,10 +89,6 @@
   "CRL": {
    "price": 335.52,
    "change_pct": -0.72
-  },
-  "CRSP": {
-   "price": 40.37,
-   "change_pct": -4.43
   },
   "CVS": {
    "price": 88.59,
@@ -321,6 +317,10 @@
   "TEM": {
    "price": 64.76,
    "change_pct": -9.55
+  },
+  "THC": {
+   "price": 291.54,
+   "change_pct": 1.93
   }
  },
  "tickers": {
@@ -1050,6 +1050,21 @@
    "tag": "M&A",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "8f99b7b4c2e7",
+   "headline": "Boston Scientific: A Longer Road To Recovery (Rating Downgrade)",
+   "summary": "Analyst rates Boston Scientific a Hold: EP and WATCHMAN sales fell 5.3% and 5.9% in Q3, and recovery remains uncertain with 2027 expected to be the trough.",
+   "url": "https://finnhub.io/api/news?id=41ac1783e20bd74ec8818b0b13da75dbba2df89b96557216b88dec8cbe29aa19",
+   "source": "SeekingAlpha",
+   "published": "2026-11-17T04:19:36+00:00",
+   "tickers": [
+    "EW"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
    ]
   },
   {
