@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-17T01:59:12.623101+00:00",
+ "updated": "2026-11-17T02:03:13.968077+00:00",
  "quotes": {
   "A": {
    "price": 172.92,
@@ -73,6 +73,10 @@
   "CI": {
    "price": 300.16,
    "change_pct": 1.06
+  },
+  "CLOV": {
+   "price": 4.95,
+   "change_pct": -0.2
   },
   "CNC": {
    "price": 74.77,
@@ -181,6 +185,10 @@
   "INCY": {
    "price": 120.27,
    "change_pct": -0.58
+  },
+  "IONS": {
+   "price": 28.01,
+   "change_pct": -3.61
   },
   "ISRG": {
    "price": 437.75,
@@ -313,14 +321,6 @@
   "UNH": {
    "price": 412.02,
    "change_pct": 1.12
-  },
-  "UTHR": {
-   "price": 587.88,
-   "change_pct": -0.56
-  },
-  "VEEV": {
-   "price": 299.28,
-   "change_pct": -0.75
   }
  },
  "tickers": {
@@ -953,6 +953,21 @@
    ]
   },
   {
+   "id": "17bd46272467",
+   "headline": "Stocks Carry Weekly Gains Into a Wall of Chart Resistance as Volatility Cools",
+   "summary": "Stock Preachers News Commentary - Wall Street heads into the new week with solid weekly gains behind it, even after Friday's pullback. The Dow Jones Industrial Average, S&P 500, Nasdaq Composite and Russell 2000 all closed the week\u2026",
+   "url": "https://finnhub.io/api/news?id=6ccb3e0ea3073bfed2c5826ab1fc8ada066508c6f33b68a29382585a28fbb364",
+   "source": "Yahoo",
+   "published": "2026-11-17T00:23:00+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "9dbe39cf70bb",
    "headline": "These 3 Dividend Stocks Have Crushed the Market This Year. Here\u2019s Why They Are Still Buys",
    "summary": "They have excellent long-term prospects.",
@@ -960,7 +975,8 @@
    "source": "Yahoo",
    "published": "2026-11-17T00:00:02+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "GILD"
    ],
    "tag": "News",
    "sectors": [
@@ -1332,6 +1348,7 @@
     "ALNY",
     "BIIB",
     "GILD",
+    "IONS",
     "REGN",
     "VRTX"
    ],
@@ -1897,6 +1914,21 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "0950ad731ae7",
+   "headline": "Ionis Pharmaceuticals Sticks to $3 Billion TRYNGOLZA Sales Goal Despite Slow Start",
+   "summary": "Ionis Pharmaceuticals (NASDAQ:IONS) remains confident that its triglyceride-lowering drug TRYNGOLZA can generate more than $3 billion in peak annual U.S. sales, even as its launch has started more slowly than expected, CEO Brett Monia\u2026",
+   "url": "https://finnhub.io/api/news?id=b495d0baabdc5184c5778284232d6137ed75dbec339bb235f7a13234b09a018c",
+   "source": "Yahoo",
+   "published": "2026-11-16T17:15:15+00:00",
+   "tickers": [
+    "IONS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -3154,6 +3186,21 @@
    ]
   },
   {
+   "id": "79352c39f588",
+   "headline": "Here's Why Pacific Biosciences (PACB) Is a Great 'Buy the Bottom' Stock Now",
+   "summary": "Pacific Biosciences (PACB) witnesses a hammer chart pattern, indicating support found by the stock after losing some value lately. This coupled with an upward trend in earnings estimate revisions could mean a trend reversal for the stock\u2026",
+   "url": "https://finnhub.io/api/news?id=c64eda62a6eb1ec21c0a5c8a4ab1ada978f45974849764988541f67eda56cdd8",
+   "source": "Yahoo",
+   "published": "2026-11-16T13:55:01+00:00",
+   "tickers": [
+    "PACB"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "61e3de31061f",
    "headline": "Eli Lilly to Acquire Calytrix Bio for Up to $1.5 Billion to Expand Blood Cancer Portfolio",
    "summary": "Eli Lilly and Company (NYSE:LLY) has agreed to acquire privately held biotechnology company Calytrix Bio in a cash transaction valued at up to $1. 5 billion, expanding its development portfolio of treatments for rare blood cancers.",
@@ -4105,6 +4152,21 @@
    "tag": "FDA",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "fdc7ef678000",
+   "headline": "Archer Aviation And 2 Financially Strong Penny Stocks",
+   "summary": "When former Federal Reserve official Donald Kohn argues that keeping interest rates too low for too long can carry a higher long term cost than gradual hikes, it highlights a simple truth. Easy money does not last forever. As borrowing\u2026",
+   "url": "https://finnhub.io/api/news?id=e4aa8a39b77f06da5fdd26cada8a72edd835c9c5eb4b447ffc400d01fbdba199",
+   "source": "Yahoo",
+   "published": "2026-11-16T10:07:33+00:00",
+   "tickers": [
+    "CLOV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
    ]
   },
   {
