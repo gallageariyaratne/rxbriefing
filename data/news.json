@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-17T11:32:47.240215+00:00",
+ "updated": "2026-11-17T11:47:32.467521+00:00",
  "quotes": {
   "A": {
    "price": 172.92,
@@ -170,10 +170,6 @@
    "price": 104.58,
    "change_pct": 1.08
   },
-  "HSIC": {
-   "price": 84.96,
-   "change_pct": -1.46
-  },
   "HUM": {
    "price": 461.25,
    "change_pct": 2.5
@@ -250,10 +246,6 @@
    "price": 160.2,
    "change_pct": -0.19
   },
-  "OSCR": {
-   "price": 31.33,
-   "change_pct": 0.9
-  },
   "PACB": {
    "price": 1.84,
    "change_pct": -6.12
@@ -321,6 +313,14 @@
   "TMO": {
    "price": 691.33,
    "change_pct": -1.27
+  },
+  "TWST": {
+   "price": 105.04,
+   "change_pct": -5.88
+  },
+  "TXG": {
+   "price": 54.99,
+   "change_pct": -5.5
   }
  },
  "tickers": {
@@ -1096,6 +1096,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "1d3d287a0091",
+   "headline": "Pfizer Inc. (PFE) Presents at Jefferies Global Healthcare Conference 2026 Transcript",
+   "summary": "Pfizer Inc. (PFE) Jefferies Global Healthcare Conference 2026 November 17, 2026 4:00 AM ESTCompany ParticipantsAlbert Bourla - Chairman of the Board &...",
+   "url": "https://finnhub.io/api/news?id=33a0cf12e10ec78aa8a577c4759750ea275a837de9c1e9e3ab1e60379b3b79b0",
+   "source": "SeekingAlpha",
+   "published": "2026-11-17T06:12:53+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "3c51d0be8450",
@@ -35659,21 +35674,6 @@
    "tickers": [
     "ABBV",
     "TEM"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "e3b3a1620804",
-   "headline": "Gilead Pays a $3.28 Annual Dividend Despite Negative Earnings. Is It Safe?",
-   "summary": "A red ink EPS figure usually spells trouble for retirees counting on a payout. Gilead's loss traces back to one strange quarter, and a single cash metric reveals whether the dividend checks are really at risk.",
-   "url": "https://finnhub.io/api/news?id=b275bb27cf237541df1a585cb18281996559e35822f7bc97158eba0d49a12de8",
-   "source": "Yahoo",
-   "published": "2026-11-07T11:37:01+00:00",
-   "tickers": [
-    "GILD"
    ],
    "tag": "Earnings",
    "sectors": [
