@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-17T00:47:42.121531+00:00",
+ "updated": "2026-11-17T01:02:40.882580+00:00",
  "quotes": {
   "A": {
    "price": 172.92,
@@ -102,6 +102,10 @@
    "price": 32.77,
    "change_pct": -1.71
   },
+  "DVA": {
+   "price": 174.22,
+   "change_pct": -0.19
+  },
   "DXCM": {
    "price": 81.61,
    "change_pct": -2.06
@@ -154,6 +158,10 @@
    "price": 18.56,
    "change_pct": -5.93
   },
+  "HQY": {
+   "price": 104.58,
+   "change_pct": 1.08
+  },
   "HSIC": {
    "price": 84.96,
    "change_pct": -1.46
@@ -189,6 +197,10 @@
   "MCK": {
    "price": 1105.04,
    "change_pct": 0.2
+  },
+  "MDGL": {
+   "price": 423.96,
+   "change_pct": -0.8
   },
   "MDT": {
    "price": 102.88,
@@ -241,6 +253,10 @@
   "ROIV": {
    "price": 38.61,
    "change_pct": -2.33
+  },
+  "RVMD": {
+   "price": 166.87,
+   "change_pct": -3.15
   },
   "SMMT": {
    "price": 11.82,
@@ -958,6 +974,7 @@
    "source": "Yahoo",
    "published": "2026-11-16T23:13:39+00:00",
    "tickers": [
+    "DVA",
     "EVH"
    ],
    "tag": "News",
@@ -990,6 +1007,22 @@
    "tickers": [],
    "tag": "Health AI",
    "sectors": []
+  },
+  {
+   "id": "2ead97ceb54f",
+   "headline": "Is Moderna's Cancer Vaccine a Game Changer for the Stock?",
+   "summary": "The healthcare stock has hit multi-year highs this year amid positive results from its personalized cancer vaccine.",
+   "url": "https://finnhub.io/api/news?id=dafbae0d0593fd4afa9e9d1cce5323b1fda962cdc1421d4f77ebf7cfbda73463",
+   "source": "Yahoo",
+   "published": "2026-11-16T22:27:02+00:00",
+   "tickers": [
+    "MRK",
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "96482b30b9f2",
@@ -1034,6 +1067,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "8c1a57434a67",
+   "headline": "Aytu BioPharma, Inc. (AYTU) Reports Q1 Loss, Beats Revenue Estimates",
+   "summary": "Aytu BioPharma, Inc. (AYTU) delivered earnings and revenue surprises of -100.00% and +2.36%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=880ccfccb55acb7eb9210069f6e8c193791a51cbf1e4501b6abf267a7cb00347",
+   "source": "Yahoo",
+   "published": "2026-11-16T21:45:02+00:00",
+   "tickers": [
+    "HQY"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
    ]
   },
   {
@@ -1291,6 +1339,7 @@
    "tickers": [
     "AMGN",
     "LLY",
+    "MDGL",
     "PFE"
    ],
    "tag": "News",
@@ -1582,6 +1631,21 @@
    ]
   },
   {
+   "id": "16001bc1e37c",
+   "headline": "European Commission Approves Revolution Medicines\u2019 RASONQUE\u00ae (daraxonrasib), the First Broad RAS-Targeted Medicine in Metastatic Pancreatic Cancer",
+   "summary": "RASONQUE once-daily oral tablets indicated as a monotherapy for the treatment of adult patients with metastatic pancreatic adenocarcinoma who have received at least one prior systemic therapy Approval includes patients with or without an\u2026",
+   "url": "https://finnhub.io/api/news?id=248f8fea6da3252bf557c338f4c1d9f92e4510b82cba6284e15090a83e188cc9",
+   "source": "Yahoo",
+   "published": "2026-11-16T18:00:00+00:00",
+   "tickers": [
+    "RVMD"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "ec8c541b1475",
    "headline": "Dow Jones Biotech Giant Amgen In Buy Zone Amid Ongoing Stock Market Weakness",
    "summary": "Dow Jones biotech giant Amgen stock is trading in a buy zone following its recent breakout move amid the ongoing market weakness.",
@@ -1696,6 +1760,21 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "fef1ff1c42a1",
+   "headline": "RevMed CEO on tackling \u201ccomplex\u201d launch for wonder pancreatic drug",
+   "summary": "One of oncology\u2019s biggest success stories this year has started with strong uptake in the US.",
+   "url": "https://finnhub.io/api/news?id=12026d44133eca4cdf6d8cf9488bc7f98288feaabc5cbe0b71a5cdbd0111f4db",
+   "source": "Yahoo",
+   "published": "2026-11-16T17:15:02+00:00",
+   "tickers": [
+    "RVMD"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -2000,7 +2079,8 @@
    "source": "Yahoo",
    "published": "2026-11-16T16:06:31+00:00",
    "tickers": [
-    "AMGN"
+    "AMGN",
+    "LLY"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -2764,6 +2844,21 @@
    ]
   },
   {
+   "id": "94a3dae595c0",
+   "headline": "Sanofi and the pan-Canadian Pharmaceutical Alliance sign Letter of Intent for Sarclisa\u00ae(isatuximab), a step toward public access for newly diagnosed, transplant-ineligible multiple myeloma patients",
+   "summary": "Sanofi today announced the successful completion of negotiations with the pan-Canadian Pharmaceutical Alliance (pCPA), marked by a signed Letter of Intent (LOI) for Sarclisa\u00ae (isatuximab) intravenous (IV) in combination with bortezomib,\u2026",
+   "url": "https://finnhub.io/api/news?id=b5a6e96a8f8f0b4840e1034118070bb4412449d63744b627ac0086f595e53b11",
+   "source": "Yahoo",
+   "published": "2026-11-16T14:15:00+00:00",
+   "tickers": [
+    "SNY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "91a2b6f2cc7a",
    "headline": "Here's Why You Should Retain PHG Stock in Your Portfolio for Now",
    "summary": "Philips' strong order momentum, market share gains and expanding service revenue support growth, despite manufacturing delays and pricing pressures.",
@@ -3190,6 +3285,21 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "d02382480f0b",
+   "headline": "Windward Bio Lists on Nasdaq, Shares Up 68% on Debut",
+   "summary": "Windward Bio Group AG (Nasdaq: WWB), a clinical-stage biotechnology company and a portfolio company of Pivotal bioVenture Partners China, began trading on the Nasdaq Global Select Market on Nov. 13, 2026. The company priced its initial\u2026",
+   "url": "https://finnhub.io/api/news?id=b47e001fdf65bc8b11d59a7c25a281efa39abc1bed952ecf1acbce0c8a9c3eb7",
+   "source": "Yahoo",
+   "published": "2026-11-16T12:30:00+00:00",
+   "tickers": [
+    "SNY"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -3838,7 +3948,8 @@
    "tickers": [
     "CRSP",
     "LLY",
-    "NVS"
+    "NVS",
+    "SNY"
    ],
    "tag": "Financing",
    "sectors": [
@@ -3854,7 +3965,8 @@
    "published": "2026-11-16T10:00:00+00:00",
    "tickers": [
     "CRSP",
-    "LLY"
+    "LLY",
+    "SNY"
    ],
    "tag": "News",
    "sectors": [
