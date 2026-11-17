@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-17T02:47:40.962467+00:00",
+ "updated": "2026-11-17T03:02:38.584789+00:00",
  "quotes": {
   "A": {
    "price": 172.92,
@@ -298,6 +298,10 @@
    "price": 48.39,
    "change_pct": 0.04
   },
+  "SOPH": {
+   "price": 7.44,
+   "change_pct": -9.38
+  },
   "SYK": {
    "price": 310.72,
    "change_pct": 0.35
@@ -317,10 +321,6 @@
   "TMO": {
    "price": 691.33,
    "change_pct": -1.27
-  },
-  "TWST": {
-   "price": 105.04,
-   "change_pct": -5.88
   }
  },
  "tickers": {
@@ -938,6 +938,17 @@
  },
  "stories": [
   {
+   "id": "95c7f36fd1dc",
+   "headline": "Quality over quantity: Healthcare messages not tuned into patient needs, survey finds",
+   "summary": "58% of patients out of a 1,500 patient survey reported that healthcare communications don't consistently feel relevant to their needs, behavioral science-focused Lirio found.",
+   "url": "https://www.fiercepharma.com/marketing/quality-over-quantity-healthcare-messages-not-tuned-patient-needs-survey-finds",
+   "source": "Fierce Pharma",
+   "published": "2026-11-17T03:00:27.859325+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
    "id": "4cbc9bc85fc2",
    "headline": "Pfizer (PFE) Re Enters Obesity Drugs With Metsera Acquisition",
    "summary": "Pfizer (NYSE:PFE) has closed its acquisition of Metsera, marking a re-entry into the obesity drug market focused on injectables. The deal gives Pfizer control of Metsera's portfolio of long-acting obesity drug candidates targeting chronic\u2026",
@@ -953,6 +964,21 @@
    ]
   },
   {
+   "id": "2e03705a0047",
+   "headline": "Gilead Sciences (GILD) Grants Royalty Free Ebola Drug Licenses For Lower Income Countries",
+   "summary": "Gilead Sciences (NasdaqGS:GILD) announced royalty-free licensing deals for its investigational Ebola treatment obeldesivir in low and lower-middle-income countries. The agreements aim to widen future access to obeldesivir through local\u2026",
+   "url": "https://finnhub.io/api/news?id=c6a31172ae827b30e62b0b985c2a67acfb4e8bec98508c265ffe2443e1e91c25",
+   "source": "Yahoo",
+   "published": "2026-11-17T01:06:43+00:00",
+   "tickers": [
+    "GILD"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "576a3f428146",
    "headline": "What Was Waters Telling You Before Its Stock Ran?",
    "summary": "For questions about this article or underlying research, email help@trefis.com.",
@@ -961,7 +987,9 @@
    "published": "2026-11-17T00:53:18+00:00",
    "tickers": [
     "A",
-    "DHR"
+    "DHR",
+    "TMO",
+    "WAT"
    ],
    "tag": "News",
    "sectors": [
@@ -1146,6 +1174,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "817a7b2d645b",
+   "headline": "SOPHiA: 3 Key Takeaways for Long-Term Investors",
+   "summary": "Liquid biopsy volume has more than doubled internationally, yet the company is still loss-making, so profitability timing depends on how fast that growth scales.",
+   "url": "https://finnhub.io/api/news?id=6b00adffc8c2f295b4803cd82794b04cc5957a1181606a1ee54d19aea06fa22e",
+   "source": "Yahoo",
+   "published": "2026-11-16T22:20:02+00:00",
+   "tickers": [
+    "SOPH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthai"
    ]
   },
   {
@@ -35827,21 +35870,6 @@
    "tag": "Analyst",
    "sectors": [
     "medtech"
-   ]
-  },
-  {
-   "id": "2f97c8440314",
-   "headline": "Bruker: Five Quarters Of Orders Are Still Waiting To Show Up In Revenue",
-   "summary": "",
-   "url": "https://finnhub.io/api/news?id=c495a50c15c7714c6080b47cf9ab7a4ff55dafd2a879f15b0fc31abed289d53e",
-   "source": "SeekingAlpha",
-   "published": "2026-11-07T02:46:45+00:00",
-   "tickers": [
-    "BRKR"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
    ]
   }
  ]
