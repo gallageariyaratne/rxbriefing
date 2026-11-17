@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-17T07:02:40.988124+00:00",
+ "updated": "2026-11-17T07:17:29.789170+00:00",
  "quotes": {
   "A": {
    "price": 172.92,
@@ -250,6 +250,10 @@
    "price": 215.27,
    "change_pct": -3.63
   },
+  "NBIX": {
+   "price": 165.31,
+   "change_pct": -1.25
+  },
   "NVO": {
    "price": 41.6,
    "change_pct": -0.07
@@ -317,10 +321,6 @@
   "TAK": {
    "price": 21.59,
    "change_pct": 0.75
-  },
-  "TEM": {
-   "price": 64.76,
-   "change_pct": -9.55
   }
  },
  "tickers": {
@@ -947,6 +947,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "265c709cc211",
+   "headline": "Harbour BioMed Appoints Dr. Sanjay Keswani as Scientific Advisor in Neuroscience",
+   "summary": "Harbour BioMed (the \"Company\"; HKEX: 02142), a global biopharmaceutical company committed to the discovery and development of novel antibody therapeutics in immunology, oncology and other areas, today announced the appointment of Dr.\u2026",
+   "url": "https://finnhub.io/api/news?id=9b00ff6baf4cd171d482a671d92e221d5d8e18163223b1fa3ab61789fb950161",
+   "source": "Yahoo",
+   "published": "2026-11-17T05:08:00+00:00",
+   "tickers": [
+    "NBIX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
   },
   {
    "id": "34747e5add76",
@@ -35864,36 +35879,6 @@
     "LLY"
    ],
    "tag": "GLP-1",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "bbc2748b24cf",
-   "headline": "What Cigna Group (CI) Said on Its Q3 Earnings Call",
-   "summary": "Cigna Group (NYSE:CI) raised its full-year adjusted earnings outlook after reporting $73.8 billion in adjusted revenue and $2.1 billion in adjusted after-tax earnings for the third quarter of 2026. The company reported adjusted earnings\u2026",
-   "url": "https://finnhub.io/api/news?id=3ae87440d488e6b0465d49777411a811646b9b96fddfc82e5c8a029c3443a0a8",
-   "source": "Yahoo",
-   "published": "2026-11-07T07:15:39+00:00",
-   "tickers": [
-    "CI"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "35dc70e55db3",
-   "headline": "Why Is AbbVie (ABBV) Spending $1.37 Billion On Pipeline And UK Research?",
-   "summary": "AbbVie (NYSE: ABBV) agreed a global licensing deal with Nxera Pharma for an oral EP4 receptor agonist targeting inflammatory bowel disease worth up to US$1.37b. The agreement gives AbbVie worldwide rights to develop and commercialize\u2026",
-   "url": "https://finnhub.io/api/news?id=7d6e5528693bc430948ba2b15506e10e001e21d97cbb44bdeab2277935eaed25",
-   "source": "Yahoo",
-   "published": "2026-11-07T07:11:41+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "News",
    "sectors": [
     "pharma"
    ]
