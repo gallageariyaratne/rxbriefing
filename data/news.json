@@ -1,22 +1,22 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-17T21:04:04.917619+00:00",
+ "updated": "2026-11-17T21:17:39.739823+00:00",
  "quotes": {
   "A": {
-   "price": 172.26,
-   "change_pct": -0.38
+   "price": 172.22,
+   "change_pct": -0.4
   },
   "ABBV": {
-   "price": 292.84,
-   "change_pct": -0.58
+   "price": 292.82,
+   "change_pct": -0.59
   },
   "ABSI": {
    "price": 7.58,
    "change_pct": 1.4
   },
   "ABT": {
-   "price": 104.77,
-   "change_pct": -2.49
+   "price": 104.71,
+   "change_pct": -2.55
   },
   "ACAD": {
    "price": 18.32,
@@ -87,8 +87,8 @@
    "change_pct": -2.03
   },
   "CNC": {
-   "price": 72.59,
-   "change_pct": -2.92
+   "price": 72.55,
+   "change_pct": -2.97
   },
   "COR": {
    "price": 350.56,
@@ -107,8 +107,8 @@
    "change_pct": -2.86
   },
   "DGX": {
-   "price": 256.54,
-   "change_pct": -2.16
+   "price": 256.35,
+   "change_pct": -2.23
   },
   "DHR": {
    "price": 225.77,
@@ -145,10 +145,6 @@
   "EXEL": {
    "price": 68.5,
    "change_pct": 2.09
-  },
-  "GDRX": {
-   "price": 3.47,
-   "change_pct": -1.14
   },
   "GEHC": {
    "price": 81.84,
@@ -191,8 +187,8 @@
    "change_pct": -2.38
   },
   "HUM": {
-   "price": 443.16,
-   "change_pct": -3.92
+   "price": 443.34,
+   "change_pct": -3.88
   },
   "IDXX": {
    "price": 690.24,
@@ -283,12 +279,8 @@
    "change_pct": -0.25
   },
   "PFE": {
-   "price": 28.46,
-   "change_pct": -1.39
-  },
-  "PHR": {
-   "price": 12.56,
-   "change_pct": -2.03
+   "price": 28.47,
+   "change_pct": -1.35
   },
   "PODD": {
    "price": 145.34,
@@ -313,6 +305,14 @@
   "RGEN": {
    "price": 162.18,
    "change_pct": -0.37
+  },
+  "ROIV": {
+   "price": 38.71,
+   "change_pct": 0.26
+  },
+  "RVMD": {
+   "price": 162.69,
+   "change_pct": -2.5
   }
  },
  "tickers": {
@@ -930,6 +930,17 @@
  },
  "stories": [
   {
+   "id": "153e23bbac11",
+   "headline": "HLTH 2026: American Hospital Association, West Health Institute announce new collaboration with BD",
+   "summary": "The collaboration, which begins with a cohort of 10 hospitals, aims to accelerate the adoption of technologies shown to improve patient care.",
+   "url": "https://www.fiercehealthcare.com/health-tech/hlth-2026-american-hospital-association-west-health-institute-announce-new",
+   "source": "Fierce Healthcare",
+   "published": "2026-11-17T21:15:20.999013+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
    "id": "89dc6204edf6",
    "headline": "Scientists uncover \u2018very detailed map\u2019 of an enzyme target for rare metabolic disease",
    "summary": "For some rare genetic diseases, the problem isn't a missing protein but the buildup of toxic molecules that the body can no longer clear away.",
@@ -938,6 +949,17 @@
    "published": "2026-11-17T20:45:21.999000+00:00",
    "tickers": [],
    "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "26e7b3b8765d",
+   "headline": "FDA Launches the Global Reliance Disclosure Program to Expand Patient Access to Medicines Worldwide",
+   "summary": "FDA today announced the Global Reliance Disclosure Program (GRDP), a landmark initiative that will fundamentally transform how the FDA's regulatory drug and biologic approval decisions are leveraged by health authorities around the world.",
+   "url": "http://www.fda.gov/news-events/press-announcements/fda-launches-global-reliance-disclosure-program-expand-patient-access-medicines-worldwide",
+   "source": "FDA",
+   "published": "2026-11-17T20:32:16+00:00",
+   "tickers": [],
+   "tag": "FDA",
    "sectors": []
   },
   {
@@ -962,6 +984,7 @@
     "ALNY",
     "BIIB",
     "GILD",
+    "REGN",
     "VRTX"
    ],
    "tag": "News",
@@ -1200,6 +1223,21 @@
    "sectors": []
   },
   {
+   "id": "6d3a6a9099d8",
+   "headline": "Regeneron Pharmaceuticals Sees Growth Ahead, Eyes EYLEA HD Syringe Approval",
+   "summary": "Regeneron Pharmaceuticals (NASDAQ:REGN) expects its three largest growth drivers to continue supporting revenue growth, while planning higher research and development spending and preparing for a specialty drug launch, executives said at\u2026",
+   "url": "https://finnhub.io/api/news?id=9837790f05ce7fd702e2fff22ad1e2f070b5112d457b9942ffb5481e3607f522",
+   "source": "Yahoo",
+   "published": "2026-11-17T18:13:27+00:00",
+   "tickers": [
+    "REGN"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "a0ab0191996c",
    "headline": "Abbott (ABT) Stock May Be 28% Undervalued Despite AI Testing Expansion",
    "summary": "Abbott Laboratories has seen its share price under pressure over the past year, which puts fresh attention on what investors are really paying for in terms of its future cash flows. With the stock closing at US$107.45 most recently, the\u2026",
@@ -1398,6 +1436,7 @@
     "CI",
     "CNC",
     "HUM",
+    "MOH",
     "UNH"
    ],
    "tag": "News",
@@ -2027,6 +2066,21 @@
    "tag": "Analyst",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "7b01604dba9c",
+   "headline": "Neurocrine Biosciences, Inc. (NBIX) Presents at Jefferies Global Healthcare Conference 2026 Transcript",
+   "summary": "Neurocrine Biosciences, Inc. (NBIX) Jefferies Global Healthcare Conference 2026 November 17, 2026 10:30 AM ESTCompany ParticipantsKyle Gano - President, CEO...",
+   "url": "https://finnhub.io/api/news?id=df898205fd55b06d4b87f965687a76392e2c2f3e349d29849ac1d38861d8944f",
+   "source": "SeekingAlpha",
+   "published": "2026-11-17T15:02:46+00:00",
+   "tickers": [
+    "NBIX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -38928,36 +38982,6 @@
    "tag": "GLP-1",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "2a6ccea21c26",
-   "headline": "Arrowhead Pharmaceuticals Presents Plozasiran Data Highlighting Sustained Triglyceride Reductions and Reduced Acute Pancreatitis Rates",
-   "summary": "PASADENA, Calif., November 07, 2026--Arrowhead Pharmaceuticals, Inc. (NASDAQ: ARWR) today presented results on two of the RNA interference (RNAi) based therapies in its cardiometabolic pipeline at the American Heart Association (AHA)\u2026",
-   "url": "https://finnhub.io/api/news?id=b34798d33ec46bfb3e9e587da7ad323c649732dbc884110374775049afdb9d11",
-   "source": "Yahoo",
-   "published": "2026-11-07T21:15:00+00:00",
-   "tickers": [
-    "ARWR"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "9f490b38f280",
-   "headline": "What Oscar Health (OSCR) Said on Its Q3 Earnings Call",
-   "summary": "Oscar Health (NYSE:OSCR) raised its full-year operating earnings outlook for the third time after reporting a profitable third quarter, as higher membership and premium rates helped drive revenue growth and updated risk-adjustment data\u2026",
-   "url": "https://finnhub.io/api/news?id=c20e0245a37a9a39b43e6bb64c39ee1e6c96e02008c07cf83f205d5b12f640ff",
-   "source": "Yahoo",
-   "published": "2026-11-07T21:14:12+00:00",
-   "tickers": [
-    "OSCR"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
    ]
   }
  ]
