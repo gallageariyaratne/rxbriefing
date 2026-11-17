@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-17T12:02:46.290045+00:00",
+ "updated": "2026-11-17T12:17:42.820068+00:00",
  "quotes": {
   "A": {
    "price": 172.92,
@@ -274,6 +274,10 @@
    "price": 60.97,
    "change_pct": -3.97
   },
+  "RARE": {
+   "price": 15.9,
+   "change_pct": -1.12
+  },
   "REGN": {
    "price": 952.4,
    "change_pct": -0.32
@@ -317,10 +321,6 @@
   "TMO": {
    "price": 691.33,
    "change_pct": -1.27
-  },
-  "TWST": {
-   "price": 105.04,
-   "change_pct": -5.88
   }
  },
  "tickers": {
@@ -938,6 +938,107 @@
  },
  "stories": [
   {
+   "id": "c560619cc4a0",
+   "headline": "Marrow extracts $120M series B to advance preclinical blood disease therapy",
+   "summary": "A new biotech targeting blood disorders, aptly called Marrow Therapeutics, has launched with $173 million in combined funding and a preclinical lead program aimed at sickle cell disease and beta thalassemia.",
+   "url": "https://www.fiercebiotech.com/biotech/marrow-kicks-173m-and-preclinical-blood-disease-therapy",
+   "source": "Fierce Biotech",
+   "published": "2026-11-17T12:15:23.429792+00:00",
+   "tickers": [],
+   "tag": "Financing",
+   "sectors": []
+  },
+  {
+   "id": "eb0bf545437a",
+   "headline": "Sellas marks 9-month survival benefit in late-stage leukemia vaccine study",
+   "summary": "Sellas Life Sciences\u2019 cancer vaccine for acute myeloid leukemia has passed a phase 3 test with a more than nine-month improvement in overall survival.",
+   "url": "https://www.fiercebiotech.com/biotech/sellas-marks-nine-month-survival-benefit-late-stage-leukemia-vaccine-study",
+   "source": "Fierce Biotech",
+   "published": "2026-11-17T12:15:23.428764+00:00",
+   "tickers": [],
+   "tag": "Clinical",
+   "sectors": []
+  },
+  {
+   "id": "04f491dd1a36",
+   "headline": "Marrow sets out to challenge genetic medicines for severe blood diseases",
+   "summary": "Armed with $173 million in venture funding, the startup is developing what it\u2019s positioning as a more accessible alternative to gene therapy and gene editing treatments for sickle cell and beta thalassemia.",
+   "url": "https://www.biopharmadive.com/news/marrow-therapeutics-sickle-cell-beta-thalassemia-drug/874789/",
+   "source": "BioPharma Dive",
+   "published": "2026-11-17T12:00:00+00:00",
+   "tickers": [],
+   "tag": "Financing",
+   "sectors": []
+  },
+  {
+   "id": "b711a1ce36b9",
+   "headline": "STAT+: With $173 million, new startup takes aim at sickle cell",
+   "summary": "Researchers are seeking a sickle cell treatment as effective as gene therapy, without the drawbacks. This entrepreneur thinks he might have one.",
+   "url": "https://www.statnews.com/2026/11/17/new-startup-developing-novel-sickle-cell-anemia-infusion-no-gene-therapy/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-11-17T12:00:00+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "10c001b96645",
+   "headline": "STAT+: Sellas\u2019 experimental blood cancer immunotherapy reduced risk of death in clinical trial",
+   "summary": "Sellas' experimental blood cancer immunotherapy reduced the risk of death in clinical trial.",
+   "url": "https://www.statnews.com/2026/11/17/sellas-blood-cancer-immunotherapy-succeeds-clinical-trial/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-11-17T12:00:00+00:00",
+   "tickers": [],
+   "tag": "Clinical",
+   "sectors": []
+  },
+  {
+   "id": "a93b21deba55",
+   "headline": "A Fund With $1 Billion in US Equities Just Bought These 3 Stocks",
+   "summary": "Key TakeawaysA fund with $1. 04 billion in US stocks nearly doubled its Meta Platforms (META:NASDAQ) stake in the Q3, added around 70% more Danaher (DHR:NYSE) shares and bought Boeing (BA:NYSE) for the first time.",
+   "url": "https://finnhub.io/api/news?id=8dc311b874c9ef7238f546838c91ffaab681c817ead5425b85e81c830fe86f95",
+   "source": "Yahoo",
+   "published": "2026-11-17T11:39:25+00:00",
+   "tickers": [
+    "DHR"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "8a1f9dc79be4",
+   "headline": "Hims & Hers Stock Fell 32% As Profit Slipped",
+   "summary": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://finnhub.io/api/news?id=fd67a2154a4c0ebb942a4a9fba2f9c5ac1e77f402b28e8c9725896ac27374977",
+   "source": "Yahoo",
+   "published": "2026-11-17T11:29:45+00:00",
+   "tickers": [
+    "CI",
+    "LH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "75a27fce1657",
+   "headline": "Why Is Natera Stock Up Nearly 41% Since May?",
+   "summary": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://finnhub.io/api/news?id=284ed67e1850e4e6c2c9beb1e395d17366415a79654f31869b0b3c16979ab0d8",
+   "source": "Yahoo",
+   "published": "2026-11-17T11:29:45+00:00",
+   "tickers": [
+    "LH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "6b881e98c3cc",
    "headline": "Ascendis Pharma (NASDAQ:ASND): Affordable Growth at a Reasonable Valuation",
    "summary": "Ascendis Pharma pairs rapid revenue and EPS growth with reasonable industry valuation and a healthy balance sheet\u2014an affordable growth standout.",
@@ -950,6 +1051,21 @@
    "tag": "Earnings",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "bc1d08b8c366",
+   "headline": "iShares Core Dividend Growth (DGRO) Buys $4.2 Million More Apple on Nov. 13",
+   "summary": "The fund added $106.8 million across 377 positions, with Apple, Microsoft, AbbVie, ExxonMobil and Johnson & Johnson leading the buys.",
+   "url": "https://finnhub.io/api/news?id=6397b212cfdccb5a84cbc9c49706fdf2d0dfc91c3d5a66b221c22dddaa173d3d",
+   "source": "Yahoo",
+   "published": "2026-11-17T11:04:51+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1010,6 +1126,21 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "eb7e820dbd5a",
+   "headline": "Medtronic announces FDA clearance of general surgery procedures for the Hugo\u2122 robotic-assisted surgery (RAS) system",
+   "summary": "Medtronic plc (NYSE: MDT), a global leader in healthcare technology, today announced the U.S. Food and Drug Administration (FDA) has cleared the Hugo\u2122 robotic-assisted surgery (RAS) system for use in general surgery procedures.",
+   "url": "https://finnhub.io/api/news?id=a3c4f6a1bfb131697fd5cf7304e8e3f0f59a39dad63ec76319b3bb5dbdf2ed02",
+   "source": "Yahoo",
+   "published": "2026-11-17T11:00:00+00:00",
+   "tickers": [
+    "MDT"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -1155,6 +1286,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "373528617cad",
+   "headline": "Ultragenyx Pharmaceutical Inc. (RARE) Presents at UBS Global Biopharma Conference 2026 Transcript",
+   "summary": "Ultragenyx Pharmaceutical Inc. (RARE) UBS Global Biopharma Conference 2026 November 16, 2026 9:00 AM ESTCompany ParticipantsEmil Kakkis - Founder,...",
+   "url": "https://finnhub.io/api/news?id=13bbf5e90444331a64eaa0080858a4d9eb9346c5aa48b5d474327dfdb10ba3d4",
+   "source": "SeekingAlpha",
+   "published": "2026-11-17T06:02:46+00:00",
+   "tickers": [
+    "RARE"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -35677,36 +35823,6 @@
    "tag": "News",
    "sectors": [
     "medtech"
-   ]
-  },
-  {
-   "id": "e32bce5e16fb",
-   "headline": "Can Medtronic (MDT) Still Justify Its Price On Cash Flow?",
-   "summary": "Medtronic has delivered a 58.9% share price gain over the past three years, and the real question now is whether that kind of run is still supported by the cash the business can generate. With fresh clinical data, updated product labeling\u2026",
-   "url": "https://finnhub.io/api/news?id=d3d8212f7d8d8ea99b08d3b65f21e1e76c4e95d305da6b7bb8c4cd3adfdee675",
-   "source": "Yahoo",
-   "published": "2026-11-07T12:13:27+00:00",
-   "tickers": [
-    "MDT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "889d616dc113",
-   "headline": "Learn Why The Bull Case For Omnicell (OMCL) Could Change Following Raised Revenue Guidance",
-   "summary": "Omnicell reported third quarter 2026 revenue of US$307.85 million with net income of US$11.04 million, and issued fourth quarter guidance of US$295 million to US$301 million along with full year revenue expectations of US$1.225b to\u2026",
-   "url": "https://finnhub.io/api/news?id=cc9ba226949a5d1ba38db00673bcb31471bc6c4c4f3562bf1865d376faf1ef6e",
-   "source": "Yahoo",
-   "published": "2026-11-07T12:12:50+00:00",
-   "tickers": [
-    "OMCL"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "healthit"
    ]
   }
  ]
