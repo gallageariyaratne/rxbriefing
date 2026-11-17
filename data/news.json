@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-17T14:02:50.347292+00:00",
+ "updated": "2026-11-17T14:17:47.432809+00:00",
  "quotes": {
   "A": {
    "price": 172.92,
@@ -17,10 +17,6 @@
   "ABT": {
    "price": 107.45,
    "change_pct": -0.99
-  },
-  "ACAD": {
-   "price": 18.67,
-   "change_pct": -0.43
   },
   "ALNY": {
    "price": 159.73,
@@ -41,10 +37,6 @@
   "ASND": {
    "price": 271.73,
    "change_pct": -1.33
-  },
-  "AXSM": {
-   "price": 137.01,
-   "change_pct": -3.3
   },
   "AZN": {
    "price": 184.02,
@@ -282,10 +274,6 @@
    "price": 11.82,
    "change_pct": -16.47
   },
-  "SNY": {
-   "price": 48.39,
-   "change_pct": 0.04
-  },
   "SOPH": {
    "price": 7.44,
    "change_pct": -9.38
@@ -317,6 +305,18 @@
   "UHS": {
    "price": 197.8,
    "change_pct": 1.92
+  },
+  "UNH": {
+   "price": 412.02,
+   "change_pct": 1.12
+  },
+  "UTHR": {
+   "price": 587.88,
+   "change_pct": -0.56
+  },
+  "VEEV": {
+   "price": 299.28,
+   "change_pct": -0.75
   }
  },
  "tickers": {
@@ -934,6 +934,17 @@
  },
  "stories": [
   {
+   "id": "23e421aae1ec",
+   "headline": "USV chided by FDA over contamination risks at India site",
+   "summary": "Indian drug manufacturer USV was hit with a warning letter from the FDA that outlined three major violations. The observations largely centered on a lack of procedures that could lead to microbial and particulate contamination.",
+   "url": "https://www.fiercepharma.com/manufacturing/usv-private-hit-fda-warning-letter-potential-contamination-issues",
+   "source": "Fierce Pharma",
+   "published": "2026-11-17T14:15:23.233328+00:00",
+   "tickers": [],
+   "tag": "FDA",
+   "sectors": []
+  },
+  {
    "id": "4a128aa77ed5",
    "headline": "AriBio\u2019s oral Alzheimer\u2019s drug meets monotherapy goal in phase 3 as Fosun weighs licensing option",
    "summary": "AriBio\u2019s erectile dysfunction med-turned Alzheimer\u2019s disease candidate mirodenafil has delivered some mixed results from a global phase 3 trial. Fosun Pharma has an option to in-license the PDE5 inhibitor.",
@@ -1525,6 +1536,21 @@
    "sectors": []
   },
   {
+   "id": "2c41e296e214",
+   "headline": "This Medtronic Analyst Turns Bullish; Here Are Top 5 Upgrades For Tuesday",
+   "summary": "Analysts upgraded UNFI, ZBH, NUE, MDT and PRAX, raising price targets and ratings to Buy or Overweight.",
+   "url": "https://finnhub.io/api/news?id=76e0761cbd4700df8f0854ec74afb9331b5800e19c111c068f88fb800c8516de",
+   "source": "Benzinga",
+   "published": "2026-11-17T09:26:15+00:00",
+   "tickers": [
+    "MDT"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "e46e1e65cf03",
    "headline": "Cytokinetics Touts MYQORZO Launch Momentum, Plans New FDA Filing",
    "summary": "Cytokinetics (NASDAQ:CYTK) executives said the company is seeing momentum in the launch of heart drug MYQORZO and is preparing to seek U.S. approval for its use in a second form of hypertrophic cardiomyopathy. Speaking at the UBS\u2026",
@@ -1552,6 +1578,21 @@
    "tag": "News",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "b11f4dc0dbbb",
+   "headline": "Danaher Corporation (DHR) Presents at Jefferies Global Healthcare Conference 2026 Transcript",
+   "summary": "Danaher Corporation (DHR) Jefferies Global Healthcare Conference 2026 November 17, 2026 5:00 AM ESTCompany ParticipantsJulie Montgomery - President, CEO...",
+   "url": "https://finnhub.io/api/news?id=7def365114971fc7d8e50f6e3b98e2b30872ccc708361cce45fa639314716bc9",
+   "source": "SeekingAlpha",
+   "published": "2026-11-17T08:03:04+00:00",
+   "tickers": [
+    "DHR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -1628,6 +1669,21 @@
    "tag": "News",
    "sectors": [
     "pharmacy"
+   ]
+  },
+  {
+   "id": "4c6fd2db6673",
+   "headline": "Ken Griffin Dumps SpaceX, Amazon; Buys ARKK and Bets Big on Marvell",
+   "summary": "Inside Citadel's Q3 13F: Ken Griffin slashed AMD and Amazon, raised Marvell 729%, and quietly unwound Leopold Aschenbrenner's AI fund.",
+   "url": "https://finnhub.io/api/news?id=e8e147d3b9f34ab801716761f85dc784539038aa03e5113eeb32711e2b6af640",
+   "source": "Benzinga",
+   "published": "2026-11-17T06:56:10+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -2721,6 +2777,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "ed4d0986e698",
+   "headline": "Seth Klarman\u2019s Baupost Group Takes New Position in Honeywell Aerospace in Q3",
+   "summary": "A look at the portfolio changes for Baupost Group from Q2 to Q3 and the new stocks Seth Klarman is betting on.",
+   "url": "https://finnhub.io/api/news?id=85bbf3b9b19f8f9dffdbb53a05e5ce0a5fe04611e4c6719d67f29bd7cda6a1ee",
+   "source": "Benzinga",
+   "published": "2026-11-16T19:42:18+00:00",
+   "tickers": [
+    "MOH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -5002,6 +5073,21 @@
    ]
   },
   {
+   "id": "01fd8d650f9c",
+   "headline": "Defensives Lead Sectors Monday As Growth Trails",
+   "summary": "Four sectors are higher and seven are lower in Monday\u2019s regular session, with defensive sectors holding the top three positions. The leaders are clustered rather than widely separated, with the top three staying within a narrow range of\u2026",
+   "url": "https://finnhub.io/api/news?id=20e79e96474f2023d052f0d112f1607ed69a99e19585180b84f2faa31a8df9bc",
+   "source": "Benzinga",
+   "published": "2026-11-16T12:00:35+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "4284c50ed312",
    "headline": "Bruker Announces that Institute Director, Biopharma Entrepreneur and Immunology Leader Dr. Eicke Latz will join its Board of Directors",
    "summary": "BILLERICA, Mass., November 16, 2026--Bruker Corporation (Nasdaq: BRKR) today announced that its Board of Directors is adding Eicke Latz, MD PhD to serve on its board of directors, effective as of January 1, 2027. Dr. Latz is an\u2026",
@@ -5178,6 +5264,21 @@
    "tag": "Financing",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "1a20490e18c9",
+   "headline": "H World Group Posts Upbeat Q3 Earnings, Joins CG Oncology, TELUS And Other Big Stocks Moving Higher On Monday",
+   "summary": "U.S. stocks fell, but H World Group surged 9.3% on strong Q3 results and raised guidance; several other stocks posted notable gains.",
+   "url": "https://finnhub.io/api/news?id=dd907a004418691a79ae27662ddc54c59ff586a8122a3a4c9e7d56cf0f9c933f",
+   "source": "Benzinga",
+   "published": "2026-11-16T11:32:31+00:00",
+   "tickers": [
+    "MOH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
    ]
   },
   {
