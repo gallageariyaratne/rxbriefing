@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-17T11:47:32.467521+00:00",
+ "updated": "2026-11-17T12:02:46.290045+00:00",
  "quotes": {
   "A": {
    "price": 172.92,
@@ -61,10 +61,6 @@
   "BMRN": {
    "price": 57.99,
    "change_pct": 1.33
-  },
-  "BRKR": {
-   "price": 60.62,
-   "change_pct": -1.57
   },
   "BSX": {
    "price": 43.69,
@@ -190,6 +186,10 @@
    "price": 28.01,
    "change_pct": -3.61
   },
+  "IQV": {
+   "price": 264.73,
+   "change_pct": -0.15
+  },
   "ISRG": {
    "price": 437.75,
    "change_pct": -1.32
@@ -245,6 +245,10 @@
   "NVS": {
    "price": 160.2,
    "change_pct": -0.19
+  },
+  "OPCH": {
+   "price": 31.71,
+   "change_pct": 0.19
   },
   "PACB": {
    "price": 1.84,
@@ -317,10 +321,6 @@
   "TWST": {
    "price": 105.04,
    "change_pct": -5.88
-  },
-  "TXG": {
-   "price": 54.99,
-   "change_pct": -5.5
   }
  },
  "tickers": {
@@ -953,6 +953,36 @@
    ]
   },
   {
+   "id": "4f748d64bd8d",
+   "headline": "ETFs Are Net Sellers of Option Care Health (OPCH) on Friday",
+   "summary": "ETFs sold $10.0 million of Option Care Health on Friday, a third straight day of net selling.",
+   "url": "https://finnhub.io/api/news?id=1ec99d602659c4990c0422c92c1403bb50fcb24e95b22fa4761a41a17e6717a2",
+   "source": "Yahoo",
+   "published": "2026-11-17T11:03:09+00:00",
+   "tickers": [
+    "OPCH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "798fd0b1cc1f",
+   "headline": "ETFs Are Net Sellers of IQVIA (IQV) on Nov. 13",
+   "summary": "ETFs sold $14.6 million in IQVIA stock last Friday, with 8 sellers against 29 buyers.",
+   "url": "https://finnhub.io/api/news?id=c2210f15a533030ec31fe3239bccab2ad9e49c2daa8c007dda7116c97f0573fe",
+   "source": "Yahoo",
+   "published": "2026-11-17T11:03:03+00:00",
+   "tickers": [
+    "IQV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "433548dc6022",
    "headline": "Medtronic announces FDA clearance of general surgery procedures for the Hugo\u2122 robotic-assisted surgery (RAS) system",
    "summary": "An expanded U.S. 510(k) extends the Hugo\u2122 RAS system's reach into one of the fastest-growing areas of U.S. robotic surgery. GALWAY, Ireland, Nov. 17, 2026 /PRNewswire/ -- Medtronic plc (NYSE: MDT), a global leader in healthcare\u2026",
@@ -1110,6 +1140,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "c76cef5f1c05",
+   "headline": "Stryker Corporation (SYK) Presents at Jefferies Global Healthcare Conference 2026 Transcript",
+   "summary": "Stryker Corporation (SYK) Jefferies Global Healthcare Conference 2026 November 17, 2026 3:30 AM ESTCompany ParticipantsSpencer Stiles - President &...",
+   "url": "https://finnhub.io/api/news?id=9215ebfb7ea88d8b954fe265bc183fe78078ae58325cabbdf881c9897822a3c2",
+   "source": "SeekingAlpha",
+   "published": "2026-11-17T06:12:45+00:00",
+   "tickers": [
+    "SYK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -35662,22 +35707,6 @@
    "tag": "Earnings",
    "sectors": [
     "healthit"
-   ]
-  },
-  {
-   "id": "4148b7fb4e90",
-   "headline": "MarketBeat Week in Review \u2013 11/2 - 11/6",
-   "summary": "Market volatility persists on data center regulation concerns and rate expectations, as MarketBeat writers analyze earnings from AbbVie, Apple, Amazon, Palantir, Meta, Cameco, and other companies.",
-   "url": "https://finnhub.io/api/news?id=8374a8eaf2e3855e96c32ee45b20424a417901caa56175b2cab23ffb8ce68d1f",
-   "source": "Yahoo",
-   "published": "2026-11-07T12:00:00+00:00",
-   "tickers": [
-    "ABBV",
-    "TEM"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
