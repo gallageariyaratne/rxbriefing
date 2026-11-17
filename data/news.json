@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-17T02:03:13.968077+00:00",
+ "updated": "2026-11-17T02:17:50.944285+00:00",
  "quotes": {
   "A": {
    "price": 172.92,
@@ -302,6 +302,10 @@
    "price": 21.59,
    "change_pct": 0.75
   },
+  "TEM": {
+   "price": 64.76,
+   "change_pct": -9.55
+  },
   "THC": {
    "price": 291.54,
    "change_pct": 1.93
@@ -317,10 +321,6 @@
   "TXG": {
    "price": 54.99,
    "change_pct": -5.5
-  },
-  "UNH": {
-   "price": 412.02,
-   "change_pct": 1.12
   }
  },
  "tickers": {
@@ -945,7 +945,8 @@
    "source": "Yahoo",
    "published": "2026-11-17T00:53:18+00:00",
    "tickers": [
-    "A"
+    "A",
+    "DHR"
    ],
    "tag": "News",
    "sectors": [
@@ -976,6 +977,7 @@
    "published": "2026-11-17T00:00:02+00:00",
    "tickers": [
     "ABBV",
+    "BDX",
     "GILD"
    ],
    "tag": "News",
@@ -1335,6 +1337,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "ad8d0e31e928",
+   "headline": "10x Genomics Expands Global Research in Blood-Based Diagnostics for Autoimmune Disease with Two New Collaborations",
+   "summary": "10x Genomics, Inc. (Nasdaq: TXG), the life science technology leader focused on accelerating science and advancing human health, today announced two new research collaborations focused on identifying blood-based biomarkers of disease\u2026",
+   "url": "https://finnhub.io/api/news?id=00af0072982dacd0ec86f6534c41e036da0026f74c067474b76263d6a2262deb",
+   "source": "Yahoo",
+   "published": "2026-11-16T21:05:00+00:00",
+   "tickers": [
+    "TXG"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -1878,6 +1895,7 @@
    "source": "Yahoo",
    "published": "2026-11-16T17:43:17+00:00",
    "tickers": [
+    "TEM",
     "TWST"
    ],
    "tag": "Earnings",
@@ -3142,6 +3160,21 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "c457a061a975",
+   "headline": "Acadia Pharmaceuticals Enters Exclusive Distribution Agreement with KYORIN Pharmaceutical for DAYBUE\u00ae STIX (trofinetide) in Japan",
+   "summary": "SAN DIEGO, November 16, 2026--Acadia Pharmaceuticals Inc. (Nasdaq: ACAD), today announced that it has entered into an exclusive distribution agreement with KYORIN Pharmaceutical Co., Ltd. (TSE: 4569), for the commercialization of DAYBUE\u00ae\u2026",
+   "url": "https://finnhub.io/api/news?id=a3aeabf6b09407f99e84a86dce200b973423cfc669237ddd469b442bef87e9c7",
+   "source": "Yahoo",
+   "published": "2026-11-16T14:04:00+00:00",
+   "tickers": [
+    "ACAD"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -35597,21 +35630,6 @@
    "tag": "Earnings",
    "sectors": [
     "tools"
-   ]
-  },
-  {
-   "id": "17668074a180",
-   "headline": "British Healthcare Stocks To Watch In November 2026",
-   "summary": "Interest rates are rising as central banks try to bring inflation back under control, which is squeezing household budgets and putting pressure on highly leveraged businesses. Healthcare in the UK often moves on a different rhythm, since\u2026",
-   "url": "https://finnhub.io/api/news?id=bcffa27fde81240bd7a64a9c6344f3cf301e067c6a4085e09e2072cd7e41d6b7",
-   "source": "Yahoo",
-   "published": "2026-11-07T02:15:04+00:00",
-   "tickers": [
-    "AZN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
