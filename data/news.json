@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-17T01:17:51.458507+00:00",
+ "updated": "2026-11-17T01:32:46.579820+00:00",
  "quotes": {
   "A": {
    "price": 172.92,
@@ -33,6 +33,10 @@
   "ARGX": {
    "price": 950.95,
    "change_pct": -0.95
+  },
+  "AXSM": {
+   "price": 137.01,
+   "change_pct": -3.3
   },
   "AZN": {
    "price": 184.02,
@@ -278,6 +282,10 @@
    "price": 310.72,
    "change_pct": 0.35
   },
+  "TAK": {
+   "price": 21.59,
+   "change_pct": 0.75
+  },
   "THC": {
    "price": 291.54,
    "change_pct": 1.93
@@ -305,10 +313,6 @@
   "VEEV": {
    "price": 299.28,
    "change_pct": -0.75
-  },
-  "VKTX": {
-   "price": 26.8,
-   "change_pct": -8.28
   },
   "VRTX": {
    "price": 537.79,
@@ -934,6 +938,21 @@
  },
  "stories": [
   {
+   "id": "576a3f428146",
+   "headline": "What Was Waters Telling You Before Its Stock Ran?",
+   "summary": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://finnhub.io/api/news?id=79034aa8d47c2592f502a6bad3de95a9166b18992e53d28d9a73367a4d6e0c76",
+   "source": "Yahoo",
+   "published": "2026-11-17T00:53:18+00:00",
+   "tickers": [
+    "A"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "9dbe39cf70bb",
    "headline": "These 3 Dividend Stocks Have Crushed the Market This Year. Here\u2019s Why They Are Still Buys",
    "summary": "They have excellent long-term prospects.",
@@ -983,7 +1002,8 @@
    "published": "2026-11-16T23:20:10+00:00",
    "tickers": [
     "DXCM",
-    "MDT"
+    "MDT",
+    "PODD"
    ],
    "tag": "News",
    "sectors": [
@@ -1020,6 +1040,21 @@
    "tag": "News",
    "sectors": [
     "healthit"
+   ]
+  },
+  {
+   "id": "0cee4f62c349",
+   "headline": "NRx Pharmaceuticals, Inc. (NRXP) Reports Q3 Loss, Misses Revenue Estimates",
+   "summary": "NRx Pharmaceuticals (NRXP) delivered earnings and revenue surprises of +82.76% and -14.15%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=400a024f70e8a1b3454cf55d347b9ac17c717e5c5e389cebfaaf10cebf969c9e",
+   "source": "Yahoo",
+   "published": "2026-11-16T23:00:01+00:00",
+   "tickers": [
+    "A"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -2340,6 +2375,21 @@
    ]
   },
   {
+   "id": "6696298acc0f",
+   "headline": "Asian Equities Traded in the US as American Depositary Receipts Start Week Sharply Lower in Monday Trading",
+   "summary": "Asian equities traded in the US as American depositary receipts opened the week sharply lower Monday",
+   "url": "https://finnhub.io/api/news?id=295bde8dd4b133f083343b9460682cb38c8257b495cf36f3fb4295f93b7d28b6",
+   "source": "Yahoo",
+   "published": "2026-11-16T15:48:47+00:00",
+   "tickers": [
+    "TAK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "d021ca4f75c8",
    "headline": "Is A Medicare Delay The Biggest Risk For DexCom Stock?",
    "summary": "DexCom (DXCM) owners have one dated question left for 2026: will Medicare agree to pay for glucose monitors for people with type 2 diabetes who are not on insulin? DexCom said on its call after Q3 results that it expects CMS to announce\u2026",
@@ -2999,6 +3049,21 @@
    ]
   },
   {
+   "id": "7a34590927c7",
+   "headline": "Axsome Therapeutics Sees AUVELITY Prescription Surge After Alzheimer\u2019s Agitation Launch",
+   "summary": "Axsome Therapeutics (NASDAQ:AXSM) executives said growth in new prescriptions for AUVELITY and an expanded sales team are positioning the company for further growth following the drug\u2019s launch for Alzheimer\u2019s disease agitation. Speaking\u2026",
+   "url": "https://finnhub.io/api/news?id=7e321fdc42ac024f12652e16858229f60a81b6923bff31692ab5e1f9dd3c2608",
+   "source": "Yahoo",
+   "published": "2026-11-16T14:13:08+00:00",
+   "tickers": [
+    "AXSM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "91a2b6f2cc7a",
    "headline": "Here's Why You Should Retain PHG Stock in Your Portfolio for Now",
    "summary": "Philips' strong order momentum, market share gains and expanding service revenue support growth, despite manufacturing delays and pricing pressures.",
@@ -3300,7 +3365,8 @@
    "source": "Yahoo",
    "published": "2026-11-16T13:00:00+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "TAK"
    ],
    "tag": "Health AI",
    "sectors": [
