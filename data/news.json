@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-17T01:47:39.782588+00:00",
+ "updated": "2026-11-17T01:59:12.623101+00:00",
  "quotes": {
   "A": {
    "price": 172.92,
@@ -258,6 +258,10 @@
    "price": 145.29,
    "change_pct": -4.72
   },
+  "PRVA": {
+   "price": 25.26,
+   "change_pct": 2.89
+  },
   "REGN": {
    "price": 952.4,
    "change_pct": -0.32
@@ -317,10 +321,6 @@
   "VEEV": {
    "price": 299.28,
    "change_pct": -0.75
-  },
-  "VRTX": {
-   "price": 537.79,
-   "change_pct": -0.15
   }
  },
  "tickers": {
@@ -1035,7 +1035,8 @@
    "tickers": [
     "DVA",
     "EVH",
-    "HCA"
+    "HCA",
+    "PRVA"
    ],
    "tag": "News",
    "sectors": [
