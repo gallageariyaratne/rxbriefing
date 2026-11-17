@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-17T06:02:48.137479+00:00",
+ "updated": "2026-11-17T06:17:27.348265+00:00",
  "quotes": {
   "A": {
    "price": 172.92,
@@ -9,6 +9,10 @@
   "ABBV": {
    "price": 294.55,
    "change_pct": -0.16
+  },
+  "ABSI": {
+   "price": 7.47,
+   "change_pct": -11.54
   },
   "ABT": {
    "price": 107.45,
@@ -317,10 +321,6 @@
   "TEM": {
    "price": 64.76,
    "change_pct": -9.55
-  },
-  "THC": {
-   "price": 291.54,
-   "change_pct": 1.93
   }
  },
  "tickers": {
@@ -1081,6 +1081,21 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "635b005f137b",
+   "headline": "Absci Corp. (ABSI) Gets Downgraded. Here\u2019s How Much",
+   "summary": "Absci Corp. (NASDAQ:ABSI) is one of the 10 Stocks Investors Are Dumping Right Now. Absci Corp. dropped for a third straight day on Monday, slashing 11.54 percent to end at $7.48 apiece after receiving a price target cut for its stock. In\u2026",
+   "url": "https://finnhub.io/api/news?id=48b61cd8404b6ce0e72b18eae4885655ad74b91d43d0bb695d954d8915c7b523",
+   "source": "Yahoo",
+   "published": "2026-11-17T01:43:12+00:00",
+   "tickers": [
+    "ABSI"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "healthai"
    ]
   },
   {
@@ -35853,21 +35868,6 @@
     "ABBV"
    ],
    "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "95863ebed182",
-   "headline": "Is Early B Cell Cancer Data Altering The Investment Case For Nurix Therapeutics (NRIX)?",
-   "summary": "Nurix Therapeutics reported that Sanofi terminated the Phase 1 trial and broader SAR448272 STAT6 degrader program, while Nurix remains eligible for milestones and royalties from other partnered assets. Separately, Nurix highlighted new\u2026",
-   "url": "https://finnhub.io/api/news?id=c35c92b9509e9261cfacf18b611b93b8f493a862aedbc02217e1b524dec7baf5",
-   "source": "Yahoo",
-   "published": "2026-11-07T06:12:19+00:00",
-   "tickers": [
-    "SNY"
-   ],
-   "tag": "Clinical",
    "sectors": [
     "pharma"
    ]
