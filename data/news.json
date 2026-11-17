@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-17T09:17:51.415942+00:00",
+ "updated": "2026-11-17T09:32:32.353102+00:00",
  "quotes": {
   "A": {
    "price": 172.92,
@@ -206,10 +206,6 @@
    "price": 282.55,
    "change_pct": -1.12
   },
-  "LEGN": {
-   "price": 15.99,
-   "change_pct": -8.63
-  },
   "LH": {
    "price": 372.46,
    "change_pct": 0.53
@@ -321,6 +317,10 @@
   "TAK": {
    "price": 21.59,
    "change_pct": 0.75
+  },
+  "TEM": {
+   "price": 64.76,
+   "change_pct": -9.55
   }
  },
  "tickers": {
@@ -937,6 +937,50 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "ead9d5362967",
+   "headline": "STAT+: After death in gene therapy trial for a brain disease, progress is reported",
+   "summary": "An unexpected patient death rattled researchers who sought to pierce the blood-brain barrier. Now some think they have a better way of mitigating risks.",
+   "url": "https://www.statnews.com/2026/11/17/capsida-gene-therapy-trial-death-follow-up-investigation/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-11-17T09:30:00+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "5f5d17186731",
+   "headline": "Flavored nicotine tablets, the tobacco industry\u2019s latest product, worry public health advocates",
+   "summary": "The latest product from the tobacco industry is a flavorful nicotine tablet that melts in your mouth, allowing users to get a buzz as discreetly as popping a mint",
+   "url": "https://www.statnews.com/2026/11/17/zyn-melts-tobacco-firms-test-market-nicotine-pouch-alternatives/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-11-17T09:30:00+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "539ec4f615b4",
+   "headline": "Opinion: The problem with \u2018zero tolerance for bad behavior\u2019 signs at hospitals",
+   "summary": "\u201cHospitals do not have to choose between protecting hospital staff and preserving patient/family trust in the institution.\u201d",
+   "url": "https://www.statnews.com/2026/11/17/hospital-signs-violence-health-care-workers-research-stigma/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-11-17T09:30:00+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "6e838e2270c6",
+   "headline": "Faith-based addiction recovery groups don\u2019t often get federal funding. RFK Jr. wants to change that",
+   "summary": "As RFK Jr. pushes federal support for faith-based recovery groups, medical experts express concern over access to addiction medications.",
+   "url": "https://www.statnews.com/2026/11/17/rfk-jr-federal-funding-faith-based-recovery-groups/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-11-17T09:30:00+00:00",
+   "tickers": [],
+   "tag": "Policy",
+   "sectors": []
+  },
   {
    "id": "bef186ec3f64",
    "headline": "Insmed Sees BRINSUPRI Reaching $7 Billion in Peak Sales, Expects Cash-Flow Positive Year Ahead",
@@ -35692,85 +35736,6 @@
     "JNJ",
     "MDT",
     "SYK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "ec8ac211b6d7",
-   "headline": "Should You Buy Globus Medical Stock For Its Cash?",
-   "summary": "For questions about this article or underlying research, email help@trefis.com.",
-   "url": "https://finnhub.io/api/news?id=2fee9a8dc9a4d6612dfff696be8e2103f788455cc9fc62ced134fee22cac7aa5",
-   "source": "Yahoo",
-   "published": "2026-11-07T09:19:02+00:00",
-   "tickers": [
-    "GMED",
-    "JNJ",
-    "MDT",
-    "SYK",
-    "ZBH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "762298482c4b",
-   "headline": "Edwards Lifesciences Q3 Earnings Call Highlights",
-   "summary": "Edwards Lifesciences (NYSE:EW) raised its 2026 sales and earnings guidance after third-quarter results exceeded management\u2019s expectations, with growth across its heart-valve businesses and regions. The medical device maker reported sales\u2026",
-   "url": "https://finnhub.io/api/news?id=455cb1370d14cfac9e5e7c6580514eaebe38939798257d53add6d67740bdf6f9",
-   "source": "Yahoo",
-   "published": "2026-11-07T09:18:29+00:00",
-   "tickers": [
-    "EW"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "96ccca88f1f3",
-   "headline": "What Evolent Health (EVH) Said on Its Q3 Earnings Call",
-   "summary": "Evolent Health (NYSE:EVH) raised the lower end of its 2026 adjusted earnings outlook after third-quarter revenue and profitability improved from the preceding quarter, helped by growth in its Performance Suite business and favorable\u2026",
-   "url": "https://finnhub.io/api/news?id=44d79be20307f4454b1051d5dc1938cfbfae518cb1c1529260989403395b12c4",
-   "source": "Yahoo",
-   "published": "2026-11-07T09:17:53+00:00",
-   "tickers": [
-    "EVH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "89230be73b13",
-   "headline": "Novo Nordisk (CPSE:NOVO B) Shares In Focus After Fresh Wegovy MASH Data",
-   "summary": "Novo Nordisk (CPSE:NOVO B) reported new real world data on Wegovy in patients with MASH at a major liver disease conference in early November 2026. The findings provided clinical evidence on semaglutide use in a MASH population identified\u2026",
-   "url": "https://finnhub.io/api/news?id=e828f6c240a909292e2cfb4f1b92e5ca576ee63e0a3a94b8fe33544d18683a1c",
-   "source": "Yahoo",
-   "published": "2026-11-07T09:17:16+00:00",
-   "tickers": [
-    "NVO"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "36f216256eb9",
-   "headline": "iRhythm Holdings (IRTC) Stock Could Be A Bargain On Its 49% Slump",
-   "summary": "iRhythm Holdings shares have fallen sharply this year, and that kind of reset naturally raises a question for investors about how the current price lines up with the company\u2019s sales base. After a stretch of mixed headlines around product\u2026",
-   "url": "https://finnhub.io/api/news?id=b5646e56e7c2fd66c67fab4079503adf835185398d5eac95b4a02436ec4c1e32",
-   "source": "Yahoo",
-   "published": "2026-11-07T09:16:28+00:00",
-   "tickers": [
-    "IRTC"
    ],
    "tag": "News",
    "sectors": [
