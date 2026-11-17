@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-17T02:17:50.944285+00:00",
+ "updated": "2026-11-17T02:32:49.068575+00:00",
  "quotes": {
   "A": {
    "price": 172.92,
@@ -101,6 +101,10 @@
   "CYTK": {
    "price": 53.17,
    "change_pct": -5.27
+  },
+  "DH": {
+   "price": 1.26,
+   "change_pct": -3.82
   },
   "DHR": {
    "price": 229.91,
@@ -317,10 +321,6 @@
   "TWST": {
    "price": 105.04,
    "change_pct": -5.88
-  },
-  "TXG": {
-   "price": 54.99,
-   "change_pct": -5.5
   }
  },
  "tickers": {
@@ -986,6 +986,21 @@
    ]
   },
   {
+   "id": "1906bddac3f6",
+   "headline": "Vivos Therapeutics, Inc. (VVOS) Reports Q3 Loss, Beats Revenue Estimates",
+   "summary": "Vivos Therapeutics (VVOS) delivered earnings and revenue surprises of +76.67% and +17.15%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=c0cd449e8c6a5cf037d864e946b3d05856a361c297ca8e93950fb23b71a51494",
+   "source": "Yahoo",
+   "published": "2026-11-16T23:55:01+00:00",
+   "tickers": [
+    "VEEV"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "d576e8be8520",
    "headline": "STAT+: New Trump regulation promises to crush \u2018fraudsters.\u2019 All the savings come from Medicare Advantage",
    "summary": "New Trump regulation promises to crush \u2018fraudsters.\u2019 All the savings come from Medicare Advantage.",
@@ -1239,6 +1254,21 @@
    ]
   },
   {
+   "id": "3d3ec4a41a2c",
+   "headline": "How Investors Are Reacting To Novartis (SWX:NOVN) Drug Approval Progress",
+   "summary": "Novartis recently reported a positive CHMP opinion for Cosentyx in adolescents with moderate to severe hidradenitis suppurativa and 52 week Phase III data for Rhapsido in chronic inducible urticaria showing sustained efficacy and a\u2026",
+   "url": "https://finnhub.io/api/news?id=377ebbe09d32c38016743dfb11356e3c0344872a5d47f199914dbd23b71c9889",
+   "source": "Yahoo",
+   "published": "2026-11-16T21:17:42+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "08b23eae32f4",
    "headline": "Apple, OpenEvidence launch conversational health AI study and app",
    "summary": "The tech juggernaut and clinical AI company will research what drives consumer trust and the quality of health AI responses, among other areas. Apple could use the findings to inform product development.",
@@ -1448,6 +1478,21 @@
    ]
   },
   {
+   "id": "c76be2372395",
+   "headline": "Novartis (SWX:NOVN), What Is Behind The Fresh Attention?",
+   "summary": "Novartis (SWX:NOVN) is back in focus after a positive opinion from the European Medicines Agency\u2019s CHMP for Cosentyx in adolescent hidradenitis suppurativa, highlighting how new indications can shape sentiment around the share price. The\u2026",
+   "url": "https://finnhub.io/api/news?id=f63544b88a13596176433690b371942b5dfe598f11ead249f367cf28f329a898",
+   "source": "Yahoo",
+   "published": "2026-11-16T20:23:36+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "8ea2331fb7ed",
    "headline": "S&P 500 Top Movers: Gainers and Losers for Nov. 16, 2026",
    "summary": "S&P 500 top movers on Nov. 16, 2026 included TSN, CNC, TSCO, SNDK, LITE and CIEN, with sharp gains and declines across the index.",
@@ -1511,7 +1556,8 @@
     "AMGN",
     "LLY",
     "MDGL",
-    "PFE"
+    "PFE",
+    "VKTX"
    ],
    "tag": "News",
    "sectors": [
@@ -1605,6 +1651,21 @@
    ]
   },
   {
+   "id": "26ddd7390889",
+   "headline": "What Is Novartis (SWX:NOVN) Signaling With Its Latest Immunology Progress?",
+   "summary": "Novartis (SWX:NOVN) received a positive CHMP opinion for Cosentyx in adolescents with hidradenitis suppurativa in Europe. The decision positions Cosentyx as a potential first new biologic option in nearly ten years for adolescent HS\u2026",
+   "url": "https://finnhub.io/api/news?id=3e5665db4016ff7ca66bd1919b118189e0f5cc14f4d1b3469ce662e053f163c3",
+   "source": "Yahoo",
+   "published": "2026-11-16T19:18:08+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "6e0cf7fdc9e3",
    "headline": "CG preps new, expanded bladder cancer plans with FDA after ph. 3 win",
    "summary": "CG Oncology showed in a late-stage study that its immunotherapy cretostimogene reduced the risk of tumor recurrence in certain patients with non-muscle invasive bladder cancer following surgery.",
@@ -1673,6 +1734,21 @@
    ]
   },
   {
+   "id": "2954819547d5",
+   "headline": "Viking's Obesity Drug in Competitive Position Ahead of Phase 3 Readout, Oppenheimer Says",
+   "summary": "Viking Therapeutics' (VKTX) investigational obesity drug VK2735 has \"retatrutide-like efficacy and t",
+   "url": "https://finnhub.io/api/news?id=5266326331bbdf96f9f4df2a5bf4175205139392ef5a11cb52ce6503ead8686b",
+   "source": "Yahoo",
+   "published": "2026-11-16T18:55:17+00:00",
+   "tickers": [
+    "VKTX"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "ffbd3c66f6e3",
    "headline": "STAT+: In a win for MAHA, FDA creates new regulatory category for the supplement NAC",
    "summary": "The supplement NAC has been widely available for years, but exists in a legal grey area.",
@@ -1682,6 +1758,21 @@
    "tickers": [],
    "tag": "FDA",
    "sectors": []
+  },
+  {
+   "id": "e91aae981dc8",
+   "headline": "VKTX Stock Gives Back Buyout Speculation-Spurred Gains, Investors Continue To Await Key Obesity Trial Topline Data",
+   "summary": "For VKTX investors, the main focus is the expected VANQUISH trial topline data readout in 2027.",
+   "url": "https://finnhub.io/api/news?id=e2c8b0aadca5c801638414c76d76760fb4ab19db2d8cb6ccbae02126128dc988",
+   "source": "Yahoo",
+   "published": "2026-11-16T18:50:58+00:00",
+   "tickers": [
+    "VKTX"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "biotech"
+   ]
   },
   {
    "id": "b65de8861f2b",
@@ -2156,6 +2247,21 @@
    ]
   },
   {
+   "id": "80bf404741b0",
+   "headline": "Melexis: update on the share buy-back program",
+   "summary": "Press release - Regulated Information Melexis: update on the share buy-back program Ieper, Belgium \u2013 16 November 2026, 17.45 hrs CET Melexis reports the purchase of 36,700 Melexis shares on Euronext Brussels in the period from 9 November\u2026",
+   "url": "https://finnhub.io/api/news?id=d896e72d3d7a19df84527750b2f21881346c97c39a2b72884438c45b4c024374",
+   "source": "Yahoo",
+   "published": "2026-11-16T16:45:00+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "07c609c2f59c",
    "headline": "AstraZeneca Bet $2 Billion on Summit\u2019s Cancer Drug. The FDA Just Said Not Yet.",
    "summary": "Summit Therapeutics stock sinks as regulators decline to approve ivonescimab, a next-generation cancer therapy backed by AstraZeneca.",
@@ -2238,7 +2344,8 @@
    "published": "2026-11-16T16:20:00+00:00",
    "tickers": [
     "LLY",
-    "NVO"
+    "NVO",
+    "NVS"
    ],
    "tag": "FDA",
    "sectors": [
@@ -2520,6 +2627,21 @@
    ]
   },
   {
+   "id": "668faa09f8c8",
+   "headline": "Healthcare Leaders Turn Months-Long Analyses Into Minutes With AI-Powered Growth Intelligence Platform",
+   "summary": "Definitive Healthcare shares early-adopter findings for new AI-powered growth intelligence platform used to power critical healthcare decisions and commercial progressFRAMINGHAM, Mass., Nov. 16, 2026 (GLOBE NEWSWIRE) -- Definitive\u2026",
+   "url": "https://finnhub.io/api/news?id=e0e1dfc3eb96ae46402455c064915655cc70e708bacece88f2beac77bcf8699c",
+   "source": "Yahoo",
+   "published": "2026-11-16T15:45:00+00:00",
+   "tickers": [
+    "DH"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "82dc51367de1",
    "headline": "Rare Disease Clinical Trials - Global Strategic Business Report 2026: Capitalize on the $19.5 Billion Market as IQVIA, ICON, Parexel, and Labcorp Disrupt Trial Economics by 2032",
    "summary": "Boost trial ROI with AI-led recruitment, decentralized and adaptive designs, real-world evidence, regulatory incentives, and strategic partnerships.Dublin, Nov. 16, 2026 (GLOBE NEWSWIRE) -- \"Rare Disease Clinical Trials - Global Strategic\u2026",
@@ -2778,6 +2900,21 @@
    "tag": "GLP-1",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "decd06ac5318",
+   "headline": "Novartis' Cosentyx Gets Positive CHMP Opinion for Adolescents With HS",
+   "summary": "NVS' Cosentyx gains a positive CHMP recommendation for adolescents with moderate to severe HS, potentially expanding treatment options in Europe.",
+   "url": "https://finnhub.io/api/news?id=009eb2cfacf4129ee8a54066a42bf5bc37df4791e17e787e2d932bd36936be46",
+   "source": "Yahoo",
+   "published": "2026-11-16T15:03:00+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -3244,6 +3381,21 @@
     "LLY"
    ],
    "tag": "M&A",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "2221d1f583a0",
+   "headline": "Is Novartis (NVS) Outperforming Other Medical Stocks This Year?",
+   "summary": "Here is how Novartis (NVS) and Alpha Cognition Inc. (ACOG) have performed compared to their sector so far this year.",
+   "url": "https://finnhub.io/api/news?id=0de4c334f469e7de422936015038e2e70d5285d029c75a9841f204d01bf6f768",
+   "source": "Yahoo",
+   "published": "2026-11-16T13:40:03+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "News",
    "sectors": [
     "pharma"
    ]
@@ -4095,6 +4247,21 @@
    ]
   },
   {
+   "id": "f0b8a481bdcf",
+   "headline": "Oscar Health Expands its Board of Directors with Technology, Healthcare and Product Innovators to Advance Consumer Healthcare",
+   "summary": "NEW YORK, November 16, 2026--Oscar Health, Inc. announces the appointments of Tomer Cohen, Eric Larsen, and Rajat Taneja to its Board of Directors, effective November 13, 2026.",
+   "url": "https://finnhub.io/api/news?id=aeddf3a2f52c0c424282183e6a5b304264661e605ee84388238f10849cb9296b",
+   "source": "Yahoo",
+   "published": "2026-11-16T11:00:00+00:00",
+   "tickers": [
+    "OSCR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "bcb420b87203",
    "headline": "$1000 Invested In Edwards Lifesciences 20 Years Ago Would Be Worth This Much Today",
    "summary": "Edwards Lifesciences (NYSE:EW) has outperformed the market over the past 20 years by 9.5% on an annualized basis producing an average annual return of 18.23%. Currently, Edwards Lifesciences has a market capitalization",
@@ -4640,6 +4807,21 @@
    "tag": "Clinical",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "2ea083317d24",
+   "headline": "Best Growth Stocks to Buy for November 16th",
+   "summary": "HAS, MDB and OSCR made it to the Zacks Rank #1 (Strong Buy) growth stocks list on November 16th, 2026.",
+   "url": "https://finnhub.io/api/news?id=65e0f354c0c802475536096f80e558ec77ce9044031fe49c13d5713a65c9f1f0",
+   "source": "Yahoo",
+   "published": "2026-11-16T08:55:00+00:00",
+   "tickers": [
+    "OSCR"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "payers"
    ]
   },
   {
