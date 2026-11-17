@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-17T01:02:40.882580+00:00",
+ "updated": "2026-11-17T01:17:51.458507+00:00",
  "quotes": {
   "A": {
    "price": 172.92,
@@ -130,6 +130,10 @@
    "price": 67.1,
    "change_pct": -2.75
   },
+  "GDRX": {
+   "price": 3.51,
+   "change_pct": -1.4
+  },
   "GEHC": {
    "price": 82.96,
    "change_pct": -0.07
@@ -249,6 +253,10 @@
   "REGN": {
    "price": 952.4,
    "change_pct": -0.32
+  },
+  "RGEN": {
+   "price": 162.78,
+   "change_pct": -2.99
   },
   "ROIV": {
    "price": 38.61,
@@ -926,6 +934,21 @@
  },
  "stories": [
   {
+   "id": "9dbe39cf70bb",
+   "headline": "These 3 Dividend Stocks Have Crushed the Market This Year. Here\u2019s Why They Are Still Buys",
+   "summary": "They have excellent long-term prospects.",
+   "url": "https://finnhub.io/api/news?id=ac210978b138f764544d43bfbf8ad74914238794eb44dc45f509c31a7c1ae143",
+   "source": "Yahoo",
+   "published": "2026-11-17T00:00:02+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "d576e8be8520",
    "headline": "STAT+: New Trump regulation promises to crush \u2018fraudsters.\u2019 All the savings come from Medicare Advantage",
    "summary": "New Trump regulation promises to crush \u2018fraudsters.\u2019 All the savings come from Medicare Advantage.",
@@ -959,11 +982,27 @@
    "source": "Yahoo",
    "published": "2026-11-16T23:20:10+00:00",
    "tickers": [
-    "DXCM"
+    "DXCM",
+    "MDT"
    ],
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "b2857cd13852",
+   "headline": "Repligen (RGEN) Stock Looks Fairly Valued As Cash Flow Growth Matters",
+   "summary": "Repligen has had a mixed run, with the share price at US$162.78 after several years of uneven returns. This puts fresh focus on whether the current market value lines up with the cash the business can generate over time. For anyone\u2026",
+   "url": "https://finnhub.io/api/news?id=0817a582fca4e7900d965e6b06f280297e5e82f34687c43c08f998bce2f9e148",
+   "source": "Yahoo",
+   "published": "2026-11-16T23:19:06+00:00",
+   "tickers": [
+    "RGEN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -975,7 +1014,8 @@
    "published": "2026-11-16T23:13:39+00:00",
    "tickers": [
     "DVA",
-    "EVH"
+    "EVH",
+    "HCA"
    ],
    "tag": "News",
    "sectors": [
@@ -1025,6 +1065,21 @@
    ]
   },
   {
+   "id": "2a4a565f3ae4",
+   "headline": "AbCellera Biologics Targets 2027 Late-Stage Trial for Hot Flash Treatment",
+   "summary": "AbCellera Biologics (NASDAQ:ABCL) is preparing to advance its experimental hot flash treatment ABCL635 into late-stage studies, with a registrational trial potentially starting around the middle of 2027, Chief Executive Carl Hansen said\u2026",
+   "url": "https://finnhub.io/api/news?id=732d95cf9fbaa6973176a4eb85f183bd664de9c1fc219f115f89ef6af2421b50",
+   "source": "Yahoo",
+   "published": "2026-11-16T22:12:10+00:00",
+   "tickers": [
+    "ARGX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "96482b30b9f2",
    "headline": "Humana Announces Pricing Terms of Offers to Purchase for Cash Certain of its Outstanding Debt Securities",
    "summary": "LOUISVILLE, Ky., November 16, 2026--Humana Inc. (NYSE: HUM) (\"Humana\", \"we\", or \"our\") today announced the Reference Yield and Total Consideration (as set forth in the table below) to be paid in connection with its previously announced\u2026",
@@ -1037,6 +1092,21 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "a9293a985807",
+   "headline": "Novo presents preclinical and human data suggesting a role for amylin and calcitonin receptor activation in preserving bone during weight loss at ObesityWeek\u00ae",
+   "summary": "Today, Novo Nordisk presented new research at ObesityWeek\u00ae 2026 exploring biomarkers related to bone health across multiple investigational amylin-based medicines in its weight loss pipeline.\u00b9 The research builds on Novo's growing\u2026",
+   "url": "https://finnhub.io/api/news?id=399585468ba219c588f82162371d73c049c3822338079c7520ba118a0eacbc85",
+   "source": "Yahoo",
+   "published": "2026-11-16T22:00:00+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1156,6 +1226,21 @@
    ]
   },
   {
+   "id": "5600fd8a33cd",
+   "headline": "Enanta Pharmaceuticals (ENTA) Reports Q4 Loss, Misses Revenue Estimates",
+   "summary": "Enanta Pharmaceuticals (ENTA) delivered earnings and revenue surprises of +2.41% and -10.61%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=7d304a3b2f3997a8a063006920262e2824c3f4b930d4620f0689ae6d02829b48",
+   "source": "Yahoo",
+   "published": "2026-11-16T21:10:01+00:00",
+   "tickers": [
+    "GDRX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
+  {
    "id": "4b6ef68fbe2e",
    "headline": "10x Genomics Expands Global Research in Blood-Based Diagnostics for Autoimmune Disease with Two New Collaborations",
    "summary": "Collaborations with Charit\u00e9 and DRFZ, and with Seoul National University, aim to identify biomarkers of disease activity and treatment response using 10x's Flex Apex platform PLEASANTON, Calif., Nov. 16, 2026 /PRNewswire/ -- 10x Genomics,\u2026",
@@ -1269,7 +1354,8 @@
    "published": "2026-11-16T20:53:11+00:00",
    "tickers": [
     "JNJ",
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "News",
    "sectors": [
@@ -1890,6 +1976,21 @@
    ]
   },
   {
+   "id": "36b0b29b2414",
+   "headline": "European Stocks Close Mostly Lower in Monday Trading; Investors Parse Earnings, Look Ahead to Trilateral Summit",
+   "summary": "The European stock markets closed mostly lower in Monday trading as investors continued to parse ear",
+   "url": "https://finnhub.io/api/news?id=7314401725ea83864b339a9e89fb871c804d8fbc7caf4668eb1e8b935ba019b9",
+   "source": "Yahoo",
+   "published": "2026-11-16T16:56:51+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "5c07f66d52b6",
    "headline": "STAT+: Biotech\u2019s rebound isn\u2019t lifting all boats equally",
    "summary": "Biotech is having a good year, though you wouldn't necessarily know it from how investors are treating positive clinical data.",
@@ -1961,6 +2062,7 @@
    "source": "Yahoo",
    "published": "2026-11-16T16:37:00+00:00",
    "tickers": [
+    "AZN",
     "SMMT"
    ],
    "tag": "FDA",
@@ -2012,6 +2114,21 @@
    ]
   },
   {
+   "id": "e417d082e317",
+   "headline": "European Equities Traded in the US as American Depositary Receipts Kick Off Week Lower in Monday Trading",
+   "summary": "European equities traded in the US as American depositary receipts kicked off the week tracking lowe",
+   "url": "https://finnhub.io/api/news?id=6576b71d677815f2ba32890ad03418d3c999e644519f040be23a576f299a8c83",
+   "source": "Yahoo",
+   "published": "2026-11-16T16:21:36+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "5035c80e3b8b",
    "headline": "NVO's Hemophilia A Treatment Gets EC Nod, Data Presented on CagriSema",
    "summary": "Novo secures EC approval for Frehemgo while CagriSema delivers up to 21% weight loss, adding momentum to its turnaround efforts amid intensifying obesity drug competition.",
@@ -2019,7 +2136,8 @@
    "source": "Yahoo",
    "published": "2026-11-16T16:20:00+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "FDA",
    "sectors": [
@@ -2080,7 +2198,8 @@
    "published": "2026-11-16T16:06:31+00:00",
    "tickers": [
     "AMGN",
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -2096,6 +2215,8 @@
    "published": "2026-11-16T16:02:00+00:00",
    "tickers": [
     "AMGN",
+    "ARGX",
+    "AZN",
     "JNJ"
    ],
    "tag": "FDA",
@@ -2488,7 +2609,8 @@
    "published": "2026-11-16T15:11:08+00:00",
    "tickers": [
     "CVS",
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -2534,7 +2656,8 @@
    "published": "2026-11-16T15:05:49+00:00",
    "tickers": [
     "CVS",
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -2566,7 +2689,23 @@
    "tickers": [
     "AMGN",
     "LLY",
+    "NVO",
     "PFE"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "f1773277616c",
+   "headline": "Wegovy\u00ae resulted in a BMI reduction of 10% or more in almost 80% of children with obesity aged 6 to under 12, compared to 0% with placebo in STEP Young trial, published in The New England Journal of Medicine",
+   "summary": "Today, Novo Nordisk shared primary results from the phase 3 STEP Young trial evaluating the safety and efficacy of investigational once-weekly semaglutide injection, with a maximum dose of 1.7 mg or 2.4 mg based on baseline body weight,\u2026",
+   "url": "https://finnhub.io/api/news?id=aee9cf8832e0869501b65b262e33b5530f6d6e1fafcb00fd82642f415c101d27",
+   "source": "Yahoo",
+   "published": "2026-11-16T15:00:00+00:00",
+   "tickers": [
+    "NVO"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -2743,6 +2882,7 @@
    "published": "2026-11-16T14:16:51+00:00",
    "tickers": [
     "JNJ",
+    "NVO",
     "SMMT"
    ],
    "tag": "News",
@@ -2985,6 +3125,21 @@
    "sectors": []
   },
   {
+   "id": "6a35dfe5c76e",
+   "headline": "Novo Nordisk A/S - share repurchase programme",
+   "summary": "Novo Nordisk A/S \u2013 Share repurchase programme Bagsv\u00e6rd, Denmark, 16 November 2026 \u2013 On 6 May 2026, Novo Nordisk initiated a share repurchase programme in accordance with Article 5 of Regulation No 596/2014 of the European Parliament and\u2026",
+   "url": "https://finnhub.io/api/news?id=af421af5a38951894f34630cbf61a09a573e2a1e022718c5f8897cec4e62fa1a",
+   "source": "Yahoo",
+   "published": "2026-11-16T13:24:00+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "75e59d0348bc",
    "headline": "Are Wall Street Analysts Predicting Cencora Stock Will Climb or Sink?",
    "summary": "Cencora has lagged behind the broader market over the past year, yet analysts remain highly optimistic about the stock\u2019s prospects.",
@@ -3038,6 +3193,21 @@
    "tag": "M&A",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "19e452f3778e",
+   "headline": "Novo Nordisk (CPSE:NOVO B) Scores Phase 3 Win And EU Approval Across New Therapies",
+   "summary": "Novo Nordisk (CPSE:NOVO B) reported positive phase 3 results for its investigational obesity therapy CagriSema, supporting a future filing plan. The company received European Union approval for haemophilia A treatment FREHEMGO, with a\u2026",
+   "url": "https://finnhub.io/api/news?id=d5c944744bd66d738a74906aed1ec2f22e66b467c9c7e3d54fdfa356781994db",
+   "source": "Yahoo",
+   "published": "2026-11-16T13:11:09+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -3533,6 +3703,51 @@
     "LLY"
    ],
    "tag": "GLP-1",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "137181f77fd8",
+   "headline": "Novo Nordisk Stock in Focus as New Obesity Drug Shows Promise",
+   "summary": "Nearly 68% of Patients Lost Weight Quickly on Novo's CagriSema",
+   "url": "https://finnhub.io/api/news?id=c0e9b5df5bcc3d2b83187faa27c249895f7228961cdaab4538cc3c9fa34f753e",
+   "source": "Yahoo",
+   "published": "2026-11-16T11:13:13+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "09c045b24662",
+   "headline": "Novo Nordisk Shares Gain 2.4% Following Additional CagriSema Weight-Loss Trial Analyses",
+   "summary": "Novo Nordisk (NYSE:NVO) shares rose 2. 4% after the Danish pharmaceutical company presented additional findings from its REDEFINE 1 clinical trial, showing that participants who responded early to its experimental obesity treatment\u2026",
+   "url": "https://finnhub.io/api/news?id=c66e6991e39169d55dd8f46d9126937a73b773c1853f4cadb1b5ab8aa29a0964",
+   "source": "Yahoo",
+   "published": "2026-11-16T11:09:23+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "4540352e1cde",
+   "headline": "Novo Nordisk Stock Rises on Obesity Drug Breakthrough",
+   "summary": "Novo Nordisk Stock Gets a Boost From Obesity Drug Results and New European Approval",
+   "url": "https://finnhub.io/api/news?id=5815e4ad9586eb279d49bd7eb52bc153779e41a6a0bb6cca1b17b375bf72fc37",
+   "source": "Yahoo",
+   "published": "2026-11-16T11:06:46+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "FDA",
    "sectors": [
     "pharma"
    ]
@@ -35253,39 +35468,6 @@
    "tag": "News",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "b68b62803eea",
-   "headline": "How IDEXX Stock Is Engineered To Make Money For You",
-   "summary": "For questions about this article or underlying research, email help@trefis.com.",
-   "url": "https://finnhub.io/api/news?id=f2185fbd34780ef0d81b6874bb0bbd9146ec93f136cd1465aae2db25a7671145",
-   "source": "Yahoo",
-   "published": "2026-11-07T01:10:35+00:00",
-   "tickers": [
-    "HSIC",
-    "IDXX",
-    "TMO",
-    "ZTS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "b339d3ff5ac7",
-   "headline": "Natera, Inc. 2026 Q3 - Results - Earnings Call Presentation",
-   "summary": "2026-11-07. The following slide deck was published by Natera, Inc.",
-   "url": "https://finnhub.io/api/news?id=07f7eb62dd8930212b6fd466772179a96e2f769b577cc0e389eac5443e629525",
-   "source": "SeekingAlpha",
-   "published": "2026-11-07T01:01:51+00:00",
-   "tickers": [
-    "NTRA"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
    ]
   }
  ]
