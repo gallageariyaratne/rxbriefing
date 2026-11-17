@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-17T13:02:53.702014+00:00",
+ "updated": "2026-11-17T13:17:40.742755+00:00",
  "quotes": {
   "A": {
    "price": 172.92,
@@ -57,10 +57,6 @@
   "BIIB": {
    "price": 251.65,
    "change_pct": -0.69
-  },
-  "BMRN": {
-   "price": 57.99,
-   "change_pct": 1.33
   },
   "BSX": {
    "price": 43.69,
@@ -202,6 +198,10 @@
    "price": 282.55,
    "change_pct": -1.12
   },
+  "LFST": {
+   "price": 14.48,
+   "change_pct": 2.84
+  },
   "LH": {
    "price": 372.46,
    "change_pct": 0.53
@@ -317,10 +317,6 @@
   "TMO": {
    "price": 691.33,
    "change_pct": -1.27
-  },
-  "TWST": {
-   "price": 105.04,
-   "change_pct": -5.88
   }
  },
  "tickers": {
@@ -938,6 +934,92 @@
  },
  "stories": [
   {
+   "id": "fcdfff9c72b0",
+   "headline": "HHS finalizes updates to HIPAA privacy rule to ease patient access to health information",
+   "summary": "The Trump administration finalized a major update to the HIPAA Privacy Rule designed to give patients easier, faster access to their health records and streamline care coordination.",
+   "url": "https://www.fiercehealthcare.com/health-tech/hhs-finalizes-updates-hipaa-privacy-rule-ease-patient-access-health-information",
+   "source": "Fierce Healthcare",
+   "published": "2026-11-17T13:15:21.350742+00:00",
+   "tickers": [],
+   "tag": "Policy",
+   "sectors": []
+  },
+  {
+   "id": "5b10d2d1f8f1",
+   "headline": "HLTH 2026: GLP-1 costs remain a challenge. A new CVS study aims to identify the right price",
+   "summary": "Cost and access to GLP-1s remains a challenge, but the benefits of these drugs aren't in doubt. A new study from CVS Health aims to quantify at what price a GLP-1 drug has generated enough savings elsewhere through improved clinical\u2026",
+   "url": "https://www.fiercehealthcare.com/payers/hlth-2026-glp-1-costs-remain-challenge-new-cvs-study-aims-identify-right-price",
+   "source": "Fierce Healthcare",
+   "published": "2026-11-17T13:15:21.349338+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "58042a1b3a17",
+   "headline": "Humana launches national provider Gold Card program",
+   "summary": "Humana is continuing its push to reform prior authorization with the launch of a national provider gold card program, which will initially focus on MRI, CT and MRA imaging as well as physical and occupational therapy.",
+   "url": "https://www.fiercehealthcare.com/payers/humana-launches-provider-gold-card-program",
+   "source": "Fierce Healthcare",
+   "published": "2026-11-17T13:15:21.348155+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "03e373428019",
+   "headline": "Diabetes Leadership Council and Insulet Corporation Announce Launch of Multiyear Effort to Protect Access to Healthcare for People with Diabetes",
+   "summary": "Through its Patient Safety Net Protection Collaborative, DLC calls for organizations to protect the patient safety net for diabetes patients WASHINGTON, Nov. 17, 2026 /PRNewswire/ -- The Diabetes Leadership Council (DLC) and Insulet\u2026",
+   "url": "https://www.prnewswire.com/news-releases/diabetes-leadership-council-and-insulet-corporation-announce-launch-of-multiyear-effort-to-protect-access-to-healthcare-for-people-with-diabetes-302941207.html",
+   "source": "PR Newswire",
+   "published": "2026-11-17T13:00:00+00:00",
+   "tickers": [
+    "PODD"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "fff3d61cf220",
+   "headline": "Cradle's Antibody Discovery Platform for Autoimmune Diseases Supports Scientific Mission of argenx",
+   "summary": "Builds on successful results from initial discovery programs as argenx broadens use of Cradle's platform to more scientists and discovery programs AMSTERDAM, Nov. 17, 2026 /PRNewswire/ -- Cradle, today announced that argenx is expanding\u2026",
+   "url": "https://www.prnewswire.com/news-releases/cradles-antibody-discovery-platform-for-autoimmune-diseases-supports-scientific-mission-of-argenx-302941758.html",
+   "source": "PR Newswire",
+   "published": "2026-11-17T13:00:00+00:00",
+   "tickers": [
+    "ARGX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "18be0b01689d",
+   "headline": "Geneoscopy Resolves Patent and False Advertising Litigation with Exact Sciences Following a Series of Victories at the Patent Trial and Appeal Board",
+   "summary": "All pending Delaware litigation dismissed with no admission of liability or wrongdoing ST. LOUIS, Nov. 17, 2026 /PRNewswire/ -- Geneoscopy, Inc., a healthcare diagnostics company advancing the next generation of tools for gastrointestinal\u2026",
+   "url": "https://www.prnewswire.com/news-releases/geneoscopy-resolves-patent-and-false-advertising-litigation-with-exact-sciences-following-a-series-of-victories-at-the-patent-trial-and-appeal-board-302940655.html",
+   "source": "PR Newswire",
+   "published": "2026-11-17T13:00:00+00:00",
+   "tickers": [
+    "EXAS"
+   ],
+   "tag": "Legal",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "42ef2db13f72",
    "headline": "AriBio\u2019s oral Alzheimer\u2019s drug meets monotherapy goal in phase 3 as Fosun weighs licensing option",
    "summary": "AriBio\u2019s erectile dysfunction med-turned Alzheimer\u2019s disease candidate mirodenafil has delivered some mixed results from a global phase 3 trial. Fosun Pharma has an option to in-license the PDE5 inhibitor.",
@@ -1140,6 +1222,7 @@
     "AMGN",
     "GILD",
     "MRNA",
+    "REGN",
     "VRTX"
    ],
    "tag": "News",
@@ -1382,7 +1465,8 @@
    "source": "SeekingAlpha",
    "published": "2026-11-17T07:30:00+00:00",
    "tickers": [
-    "CNC"
+    "CNC",
+    "LFST"
    ],
    "tag": "News",
    "sectors": [
@@ -35957,23 +36041,6 @@
    "tag": "News",
    "sectors": [
     "medtech"
-   ]
-  },
-  {
-   "id": "01383910d25a",
-   "headline": "ELF Beauty, Palomar Lead Five Stocks Near Buy Points In Ailing, Volatile Market",
-   "summary": "In a difficult environment, investors should build up watchlists of stocks showing relative strength.",
-   "url": "https://finnhub.io/api/news?id=4c295c472c4ee004c57889434a255aa8822f6f1a0cf4bfb765d2ac829cbd2107",
-   "source": "Yahoo",
-   "published": "2026-11-07T13:07:30+00:00",
-   "tickers": [
-    "DGX",
-    "THC",
-    "VEEV"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
    ]
   }
  ]
