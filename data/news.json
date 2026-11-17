@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-17T12:47:41.818033+00:00",
+ "updated": "2026-11-17T13:02:53.702014+00:00",
  "quotes": {
   "A": {
    "price": 172.92,
@@ -222,10 +222,6 @@
    "price": 102.88,
    "change_pct": 0.02
   },
-  "MEDP": {
-   "price": 648.2,
-   "change_pct": -0.88
-  },
   "MOH": {
    "price": 233.09,
    "change_pct": 11.27
@@ -321,6 +317,10 @@
   "TMO": {
    "price": 691.33,
    "change_pct": -1.27
+  },
+  "TWST": {
+   "price": 105.04,
+   "change_pct": -5.88
   }
  },
  "tickers": {
@@ -1004,6 +1004,21 @@
    "sectors": []
   },
   {
+   "id": "9e0a7e34d370",
+   "headline": "Simple HealthKit Partners with Waters Corporation to Bring the Most Comprehensive FDA-Cleared At-Home HPV Cervical Cancer Screening Tool Available in the U.S. Today to Patients",
+   "summary": "Simple HealthKit today announced a partnership with Waters Corporation to expand access to at-home cervical cancer screening using the the most comprehensive at-home HPV cervical cancer screening tool available in the U.S. today, the\u2026",
+   "url": "https://finnhub.io/api/news?id=5953e45698f3fcdbe6c4725315cf4986f84a0cdb1801171852a79da006de54d9",
+   "source": "Yahoo",
+   "published": "2026-11-17T12:00:00+00:00",
+   "tickers": [
+    "WAT"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "90067d64dac6",
    "headline": "Johnson & Johnson vs. Novo Nordisk: Steady Uptrend vs. Flat Revenue",
    "summary": "Johnson & Johnson's revenue has climbed quarter after quarter, while Novo Nordisk's has stayed largely flat apart from one notable jump.",
@@ -1044,6 +1059,7 @@
     "CI",
     "CVS",
     "DGX",
+    "HIMS",
     "LH"
    ],
    "tag": "News",
@@ -1099,6 +1115,21 @@
    ]
   },
   {
+   "id": "e3d61def7bbe",
+   "headline": "Avantis U.S. Large Cap Value ETF (AVLV) Buys $18.4 Million More ELV on Nov. 13",
+   "summary": "The fund added $66.8 million in new positions across 163 holdings, led by a $18.4 million purchase of Elevance Health.",
+   "url": "https://finnhub.io/api/news?id=eb9615ee7da7d037a61655b983246bbcae47bc8887c0105a1cbdf3289f49c74d",
+   "source": "Yahoo",
+   "published": "2026-11-17T11:05:10+00:00",
+   "tickers": [
+    "ELV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "1a2751e36f3c",
    "headline": "What iShares Biotechnology ETF (IBB) Bought: Gilead Leads on Nov. 13",
    "summary": "The fund added $84.9 million in new buying across 232 positions, led by $7.7 million of Gilead Sciences.",
@@ -1107,6 +1138,8 @@
    "published": "2026-11-17T11:05:02+00:00",
    "tickers": [
     "AMGN",
+    "GILD",
+    "MRNA",
     "VRTX"
    ],
    "tag": "News",
@@ -1206,6 +1239,36 @@
    ]
   },
   {
+   "id": "8c6c978eb959",
+   "headline": "DaVita Expands Availability of Advanced Dialysis Therapy to Every U.S. Center",
+   "summary": "DaVita today announced a major milestone in kidney care: Expanded hemodialysis (Expanded HD) is now available at every DaVita center in the U.S., giving patients nationwide access to an advanced therapy that removes more of the larger\u2026",
+   "url": "https://finnhub.io/api/news?id=785391ca5a61c469799f9ec24af899354ecd04720c26197ec5ff1b648ff94972",
+   "source": "Yahoo",
+   "published": "2026-11-17T11:00:00+00:00",
+   "tickers": [
+    "DVA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "f8cd31f8fad8",
+   "headline": "Lilly agrees to acquire Calytrix Bio for $1.5bn",
+   "summary": "Calytrix Bio shareholders could receive an upfront payment followed by payouts contingent on reaching clinical and regulatory milestones.",
+   "url": "https://finnhub.io/api/news?id=27f60cddf523c968aa664e48451ef470a06e662336ab679790f36e08238d2a88",
+   "source": "Yahoo",
+   "published": "2026-11-17T10:52:24+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "4e30eeda8c94",
    "headline": "Lilly signs $5.9B deal with Stipple to unlock oncology targets",
    "summary": "Eli Lilly has struck a $5.9 billion deal to partner with Stipple Bio on oncology drug candidates that more precisely target tumor cells.",
@@ -1228,6 +1291,8 @@
    "source": "Yahoo",
    "published": "2026-11-17T10:38:56+00:00",
    "tickers": [
+    "ALNY",
+    "MRNA",
     "PFE"
    ],
    "tag": "News",
@@ -1307,6 +1372,21 @@
    "tag": "FDA",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "b3b964b43c88",
+   "headline": "Healthcare Stocks Overtake Tech: 5 Strong Buys Combining Growth And Value",
+   "summary": "",
+   "url": "https://finnhub.io/api/news?id=843bd3cce23afb56b3239bc568bcef788e33d88c28aab23e0322d5149079978d",
+   "source": "SeekingAlpha",
+   "published": "2026-11-17T07:30:00+00:00",
+   "tickers": [
+    "CNC"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -35894,42 +35974,6 @@
    "tag": "News",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "b96f7cadb3d5",
-   "headline": "What Is Behind The Rise In Moderna Stock?",
-   "summary": "For questions about this article or underlying research, email help@trefis.com.",
-   "url": "https://finnhub.io/api/news?id=5d460bb3fd6c4bc1e6081ce3c197bd8c7e36c397442457e3a7f46843b60cd1cb",
-   "source": "Yahoo",
-   "published": "2026-11-07T12:49:52+00:00",
-   "tickers": [
-    "ALNY",
-    "MRNA",
-    "PFE",
-    "SRPT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "e63524d275b8",
-   "headline": "What Is Behind The Move In DexCom Stock?",
-   "summary": "For questions about this article or underlying research, email help@trefis.com.",
-   "url": "https://finnhub.io/api/news?id=89f952525c33299c50a36cdb03d989e6f30152386d754930bf1407c52edeaf3c",
-   "source": "Yahoo",
-   "published": "2026-11-07T12:49:51+00:00",
-   "tickers": [
-    "ABT",
-    "DXCM",
-    "MDT",
-    "PODD"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
