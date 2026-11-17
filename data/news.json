@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-17T13:47:32.768816+00:00",
+ "updated": "2026-11-17T14:02:50.347292+00:00",
  "quotes": {
   "A": {
    "price": 172.92,
@@ -242,10 +242,6 @@
    "price": 31.71,
    "change_pct": 0.19
   },
-  "PACB": {
-   "price": 1.84,
-   "change_pct": -6.12
-  },
   "PFE": {
    "price": 28.86,
    "change_pct": -0.1
@@ -317,6 +313,10 @@
   "TXG": {
    "price": 54.99,
    "change_pct": -5.5
+  },
+  "UHS": {
+   "price": 197.8,
+   "change_pct": 1.92
   }
  },
  "tickers": {
@@ -1537,6 +1537,51 @@
    "tag": "FDA",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "4317fecd3694",
+   "headline": "Madrigal Pharmaceuticals, Inc. (MDGL) Presents at Jefferies Global Healthcare Conference 2026 Transcript",
+   "summary": "Madrigal Pharmaceuticals, Inc. (MDGL) Jefferies Global Healthcare Conference 2026 November 17, 2026 5:30 AM ESTCompany ParticipantsWilliam Sibold - CEO,...",
+   "url": "https://finnhub.io/api/news?id=d26dc5e522ed245c928059c194357cf6001695cf7de91618e4b637bd94ba019d",
+   "source": "SeekingAlpha",
+   "published": "2026-11-17T08:12:50+00:00",
+   "tickers": [
+    "MDGL"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "d63fa328c69f",
+   "headline": "Henry Schein, Inc. (HSIC) Presents at Jefferies Global Healthcare Conference 2026 Transcript",
+   "summary": "",
+   "url": "https://finnhub.io/api/news?id=0f519abb7e801e99f2d51a6bf92e3cacf0e4f0ff8f2447fb9b8fa158fafd0514",
+   "source": "SeekingAlpha",
+   "published": "2026-11-17T08:02:59+00:00",
+   "tickers": [
+    "HSIC"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
+  {
+   "id": "5beba63c400c",
+   "headline": "Centene: Medicare And Medicaid Noises Ahead - Multi-Year Recovery In Progress",
+   "summary": "Analyst rates CNC a Buy as margins improve, citing a 13.49x P/E and a $109 bull-case target that could mean over 50% upside.",
+   "url": "https://finnhub.io/api/news?id=32599e21cf33fbbdac2c4ffe472305e862102274e84ba472c44f042b67ebd3c2",
+   "source": "SeekingAlpha",
+   "published": "2026-11-17T07:55:14+00:00",
+   "tickers": [
+    "CNC"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -36089,40 +36134,6 @@
    "tag": "Analyst",
    "sectors": [
     "healthit"
-   ]
-  },
-  {
-   "id": "b30e9902dd6a",
-   "headline": "5 Best Stocks to Buy After Democrats\u2019 Midterm Election Victory",
-   "summary": "Investors are grappling with a fresh crash in AI stocks. The selloff has come as a surprise, as many were expecting markets to continue rising following the Democrats\u2019 victory in the midterm elections. Instead, some of the biggest\u2026",
-   "url": "https://finnhub.io/api/news?id=c3b59387cf8b3dc1085f5b73f2c619aa78bae9f7b0e329ae522e0f84f1d310a7",
-   "source": "Yahoo",
-   "published": "2026-11-07T13:55:33+00:00",
-   "tickers": [
-    "CNC",
-    "HCA",
-    "THC"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "807de72ae09c",
-   "headline": "3 Medical Device Stocks That Keep Raising Dividends. One Just Hit 55 Years",
-   "summary": "Hospitals reorder syringes, sensors, and implants whether the economy booms or stalls, and three device makers turn that habit into payouts that grow every year. Only one has a streak long enough to outlast most investors' careers, and\u2026",
-   "url": "https://finnhub.io/api/news?id=be4a6af9f59a1bae2156c66dd92452d32c9e32d685635a8b51257a827c7bb8b4",
-   "source": "Yahoo",
-   "published": "2026-11-07T13:47:01+00:00",
-   "tickers": [
-    "ABT",
-    "BDX",
-    "SYK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
