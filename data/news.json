@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-17T07:32:37.948208+00:00",
+ "updated": "2026-11-17T07:47:35.816772+00:00",
  "quotes": {
   "A": {
    "price": 172.92,
@@ -198,6 +198,10 @@
    "price": 120.27,
    "change_pct": -0.58
   },
+  "INSM": {
+   "price": 122.88,
+   "change_pct": 1.42
+  },
   "IONS": {
    "price": 28.01,
    "change_pct": -3.61
@@ -317,10 +321,6 @@
   "SYK": {
    "price": 310.72,
    "change_pct": 0.35
-  },
-  "TAK": {
-   "price": 21.59,
-   "change_pct": 0.75
   }
  },
  "tickers": {
@@ -937,6 +937,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "bef186ec3f64",
+   "headline": "Insmed Sees BRINSUPRI Reaching $7 Billion in Peak Sales, Expects Cash-Flow Positive Year Ahead",
+   "summary": "Insmed (NASDAQ:INSM) expects its bronchiectasis drug BRINSUPRI to generate $1.35 billion to $1.4 billion in its first full year of launch, Chief Executive Officer Will Lewis said, as the company looks to reach more patients and expand its\u2026",
+   "url": "https://finnhub.io/api/news?id=5db3d72b46e47ad639eb1198e8b95e08584720faa24ca1608e7e51a61847316b",
+   "source": "Yahoo",
+   "published": "2026-11-17T07:12:13+00:00",
+   "tickers": [
+    "INSM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
   {
    "id": "d3b16d290f04",
    "headline": "Most nonprofit hospitals' tax breaks outpaced their community spending in 2023: Lown Institute",
