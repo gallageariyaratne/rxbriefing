@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-17T22:02:52.500054+00:00",
+ "updated": "2026-11-17T22:18:17.477737+00:00",
  "quotes": {
   "A": {
    "price": 172.22,
@@ -238,6 +238,10 @@
    "price": 1415.55,
    "change_pct": -1.13
   },
+  "MCK": {
+   "price": 1091.67,
+   "change_pct": -1.21
+  },
   "MDGL": {
    "price": 421.99,
    "change_pct": -0.46
@@ -309,10 +313,6 @@
   "RVMD": {
    "price": 162.69,
    "change_pct": -2.5
-  },
-  "SMMT": {
-   "price": 10.67,
-   "change_pct": -9.73
   }
  },
  "tickers": {
@@ -960,11 +960,41 @@
    ]
   },
   {
+   "id": "82c483e83e9c",
+   "headline": "Eli Lilly vs. Novo Nordisk: Which GLP-1 Stock Is a Better Buy for 2027?",
+   "summary": "Lilly's revenue growth is turbocharged by its weight-loss pipeline, while Novo's global footprint and far lower valuation raise a tougher question about risk versus reward.",
+   "url": "https://finnhub.io/api/news?id=c3f15713639540b9e0f70e0c14898482513de2396a00964be0eb272d6a1359ba",
+   "source": "Yahoo",
+   "published": "2026-11-17T21:37:02+00:00",
+   "tickers": [
+    "MCK"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
+  {
    "id": "55dd6dcb18d5",
    "headline": "Labcorp to Expand Clinical Trial Operations in Brazil with Dedicated Kit Assembly and Future Laboratory Operations through Collaboration with Grupo Fleury",
    "summary": "Expansion will bring clinical trial services closer to research sites and patients while supporting global studies BURLINGTON, N.C., Nov. 17, 2026 /PRNewswire/ -- Labcorp (NYSE: LH), a global leader of innovative and comprehensive\u2026",
    "url": "https://www.prnewswire.com/news-releases/labcorp-to-expand-clinical-trial-operations-in-brazil-with-dedicated-kit-assembly-and-future-laboratory-operations-through-collaboration-with-grupo-fleury-302942468.html",
    "source": "PR Newswire",
+   "published": "2026-11-17T21:30:00+00:00",
+   "tickers": [
+    "LH"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "570b8af8a7d1",
+   "headline": "Labcorp to Expand Clinical Trial Operations in Brazil with Dedicated Kit Assembly and Future Laboratory Operations through Collaboration with Grupo Fleury",
+   "summary": "Labcorp (NYSE: LH), a global leader of innovative and comprehensive laboratory services, today announced a collaboration with Grupo Fleury, one of Brazil's leading healthcare and diagnostic groups, with extensive laboratory\u2026",
+   "url": "https://finnhub.io/api/news?id=552ddb223589251d40f810d4f6f4427d92492d58f278f1d0cbe85a4efe1fc9d2",
+   "source": "Yahoo",
    "published": "2026-11-17T21:30:00+00:00",
    "tickers": [
     "LH"
@@ -984,6 +1014,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "cccc18bc078e",
+   "headline": "CytomX Therapeutics Announces Milestone Achievement in Strategic Collaboration with Regeneron in the Field of Conditionally Activated Bispecifics",
+   "summary": "- CytomX to receive $5 million preclinical milestone payment - - The CytomX and Regeneron collaboration began in 2022 and was expanded in June 2026 - EMERYVILLE, Calif., Nov. 17, 2026 (GLOBE NEWSWIRE) -- CytomX Therapeutics, Inc. (Nasdaq:\u2026",
+   "url": "https://finnhub.io/api/news?id=20e5b349cf0833aabeb4b720cbb57d09cff89bd4a5c577377f446c850854ffcc",
+   "source": "Yahoo",
+   "published": "2026-11-17T21:15:00+00:00",
+   "tickers": [
+    "REGN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "89dc6204edf6",
@@ -1769,6 +1814,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "4dda4baa2783",
+   "headline": "Novo Nordisk: The Thesis Is Working, The Stock Just Hasn't Noticed Yet",
+   "summary": "Analyst maintains a Strong Buy rating on Novo Nordisk at 10.89x non-GAAP earnings as free cash flow guidance rises to DKK 60\u00e2\u0080\u009370 billion.",
+   "url": "https://finnhub.io/api/news?id=c00e568ab82bb6f0390cd0344b3213dd7f30c2f6daf3c7fb977f532d7bb918d9",
+   "source": "SeekingAlpha",
+   "published": "2026-11-17T16:06:15+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -38969,51 +39029,6 @@
    "tag": "Financing",
    "sectors": [
     "medtech"
-   ]
-  },
-  {
-   "id": "fcad7d8199c9",
-   "headline": "Did Strong Earnings Just Shift Align's (ALGN) Investment Narrative?",
-   "summary": "Align Technology reported third quarter 2026 sales of US$1,014.76 million and net income of US$135.04 million, alongside confirming fourth quarter and full year 2026 revenue and GAAP operating margin guidance, while detailing a planned\u2026",
-   "url": "https://finnhub.io/api/news?id=971dbf5a2fc3aa97c72461e62b575bd52e9c41ddca94a063db5bcfa8e22b8282",
-   "source": "Yahoo",
-   "published": "2026-11-07T22:14:52+00:00",
-   "tickers": [
-    "ALGN"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "0a73faf86ea1",
-   "headline": "Sarepta Therapeutics, Inc. (SRPT) Q3 2026 Earnings Call Transcript",
-   "summary": "Sarepta Therapeutics, Inc. (SRPT) Q3 2026 Earnings Call November 5, 2026 4:30 PM ESTCompany ParticipantsTamara Thornton - Director of Finance, Treasury...",
-   "url": "https://finnhub.io/api/news?id=6a6ae1fb6d5fa95d4f2be255abca179b9043f39422210d67a5c63a09201f73be",
-   "source": "SeekingAlpha",
-   "published": "2026-11-07T22:14:32+00:00",
-   "tickers": [
-    "SRPT"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "8ab34265fc77",
-   "headline": "3 British Biotech Stocks With P E Under 27 To Watch",
-   "summary": "The Bank of England has lifted interest rates for the first time in years, pushing up borrowing costs just as living expenses bite harder. Higher rates often squeeze highly indebted firms, which puts financially healthier British biotech\u2026",
-   "url": "https://finnhub.io/api/news?id=564cd6de46597444cd90e9293718eba59893fb13a5bd10511767390aa133d973",
-   "source": "Yahoo",
-   "published": "2026-11-07T22:13:24+00:00",
-   "tickers": [
-    "AZN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
