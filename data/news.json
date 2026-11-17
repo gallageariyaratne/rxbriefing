@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-17T13:17:40.742755+00:00",
+ "updated": "2026-11-17T13:32:41.528538+00:00",
  "quotes": {
   "A": {
    "price": 172.92,
@@ -73,10 +73,6 @@
   "CNC": {
    "price": 74.77,
    "change_pct": 4.91
-  },
-  "COR": {
-   "price": 356.94,
-   "change_pct": -0.58
   },
   "CRL": {
    "price": 335.52,
@@ -165,6 +161,10 @@
   "HQY": {
    "price": 104.58,
    "change_pct": 1.08
+  },
+  "HSIC": {
+   "price": 84.96,
+   "change_pct": -1.46
   },
   "HUM": {
    "price": 461.25,
@@ -933,6 +933,62 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "23af68db8e52",
+   "headline": "NIH\u2019s infectious disease unit has a new head at last",
+   "summary": "The NIH has been without a permanent director since 2025. Now officials announce that acting director John Powers III will take the helm.",
+   "url": "https://www.statnews.com/2026/11/17/health-news-nih-infectious-disease-unit-has-a-new-head-at-last/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-11-17T13:27:01+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "423579b4c301",
+   "headline": "TriNetX ernennt Carnell Elliott zum Chief Commercial Officer",
+   "summary": "Eine f\u00fchrende Pers\u00f6nlichkeit im Bereich Gesundheitstechnologie, die bei Henry Schein One und Change Healthcare Vertriebsteams aufgebaut hat, tritt dem F\u00fchrungsteam von TriNetX bei. CAMBRIDGE, Massachusetts, 17. November 2026 /PRNewswire/\u2026",
+   "url": "https://www.prnewswire.com/news-releases/trinetx-ernennt-carnell-elliott-zum-chief-commercial-officer-302941014.html",
+   "source": "PR Newswire",
+   "published": "2026-11-17T13:27:00+00:00",
+   "tickers": [
+    "HSIC"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
+  {
+   "id": "efd90ec3702b",
+   "headline": "TriNetX Names Carnell Elliott Chief Commercial Officer",
+   "summary": "Healthcare technology leader who scaled commercial teams at Henry Schein One and Change Healthcare joins TriNetX's executive team CAMBRIDGE, Mass., Nov. 17, 2026 /PRNewswire/ -- TriNetX\u00ae, the world's leading federated health data network,\u2026",
+   "url": "https://www.prnewswire.com/news-releases/trinetx-names-carnell-elliott-chief-commercial-officer-302940824.html",
+   "source": "PR Newswire",
+   "published": "2026-11-17T13:27:00+00:00",
+   "tickers": [
+    "HSIC"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
+  {
+   "id": "a467bba2879a",
+   "headline": "TriNetX nomme Carnell Elliott directeur commercial",
+   "summary": "Un leader des technologies de la sant\u00e9, ayant d\u00e9velopp\u00e9 des \u00e9quipes commerciales chez Henry Schein One et Change Healthcare, rejoint l'\u00e9quipe de direction de TriNetX. CAMBRIDGE, Mass., 17 novembre 2026 /PRNewswire/ -- TriNetX\u00ae, le premier\u2026",
+   "url": "https://www.prnewswire.com/news-releases/trinetx-nomme-carnell-elliott-directeur-commercial-302941009.html",
+   "source": "PR Newswire",
+   "published": "2026-11-17T13:27:00+00:00",
+   "tickers": [
+    "HSIC"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
   {
    "id": "fcdfff9c72b0",
    "headline": "HHS finalizes updates to HIPAA privacy rule to ease patient access to health information",
