@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-17T01:32:46.579820+00:00",
+ "updated": "2026-11-17T01:47:39.782588+00:00",
  "quotes": {
   "A": {
    "price": 172.92,
@@ -250,6 +250,10 @@
    "price": 28.86,
    "change_pct": -0.1
   },
+  "PHR": {
+   "price": 12.82,
+   "change_pct": 1.02
+  },
   "PODD": {
    "price": 145.29,
    "change_pct": -4.72
@@ -317,10 +321,6 @@
   "VRTX": {
    "price": 537.79,
    "change_pct": -0.15
-  },
-  "ZBH": {
-   "price": 101.41,
-   "change_pct": -1.74
   }
  },
  "tickers": {
@@ -1229,6 +1229,21 @@
    "tickers": [],
    "tag": "Health AI",
    "sectors": []
+  },
+  {
+   "id": "2fd7ef88eeb9",
+   "headline": "Dare Bioscience, Inc. (DARE) Reports Q3 Loss, Misses Revenue Estimates",
+   "summary": "Dare Bioscience (DARE) delivered earnings and revenue surprises of -38.46% and -99.19%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=9c75f9561bddff98cd1ac74253aac03ba6d81134c8f248c9188e612c4eda7345",
+   "source": "Yahoo",
+   "published": "2026-11-16T21:15:02+00:00",
+   "tickers": [
+    "PHR"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
+   ]
   },
   {
    "id": "18b19d61a196",
