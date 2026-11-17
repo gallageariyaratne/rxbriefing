@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-17T21:32:47.976069+00:00",
+ "updated": "2026-11-17T21:47:45.472925+00:00",
  "quotes": {
   "A": {
    "price": 172.22,
@@ -178,10 +178,6 @@
    "price": 17.55,
    "change_pct": -5.44
   },
-  "HQY": {
-   "price": 101.84,
-   "change_pct": -2.62
-  },
   "HSIC": {
    "price": 82.94,
    "change_pct": -2.38
@@ -313,6 +309,10 @@
   "RVMD": {
    "price": 162.69,
    "change_pct": -2.5
+  },
+  "SMMT": {
+   "price": 10.67,
+   "change_pct": -9.73
   }
  },
  "tickers": {
@@ -929,6 +929,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "55dd6dcb18d5",
+   "headline": "Labcorp to Expand Clinical Trial Operations in Brazil with Dedicated Kit Assembly and Future Laboratory Operations through Collaboration with Grupo Fleury",
+   "summary": "Expansion will bring clinical trial services closer to research sites and patients while supporting global studies BURLINGTON, N.C., Nov. 17, 2026 /PRNewswire/ -- Labcorp (NYSE: LH), a global leader of innovative and comprehensive\u2026",
+   "url": "https://www.prnewswire.com/news-releases/labcorp-to-expand-clinical-trial-operations-in-brazil-with-dedicated-kit-assembly-and-future-laboratory-operations-through-collaboration-with-grupo-fleury-302942468.html",
+   "source": "PR Newswire",
+   "published": "2026-11-17T21:30:00+00:00",
+   "tickers": [
+    "LH"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "payers"
+   ]
+  },
   {
    "id": "153e23bbac11",
    "headline": "HLTH 2026: American Hospital Association, West Health Institute announce new collaboration with BD",
@@ -38969,34 +38984,6 @@
    "tag": "Earnings",
    "sectors": [
     "healthai"
-   ]
-  },
-  {
-   "id": "811769905ce1",
-   "headline": "Lowering blood pressure after stroke or with diabetes poses challenges, in research and practice",
-   "summary": "High blood pressure is known as the silent killer. Researchers are finding new ways to fight back.",
-   "url": "https://www.statnews.com/2026/11/07/new-studies-on-blood-pressure-management-aha-conference-news/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-11-07T21:39:02+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "6a00c9070561",
-   "headline": "Forget Lilly and Novo: Pfizer Is Planning a Wave of Phase 3 Obesity Trials",
-   "summary": "Everyone is talking about the GLP-1 battle between Eli Lilly and Novo Nordisk, but Pfizer wants in on the fight, too.",
-   "url": "https://finnhub.io/api/news?id=43e5bf397156120dc656ba7ff4bdb3cf3c3b644a713b3b33a68658ebe00398a4",
-   "source": "Yahoo",
-   "published": "2026-11-07T21:35:00+00:00",
-   "tickers": [
-    "LLY",
-    "NVO",
-    "PFE"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
