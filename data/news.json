@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-18T09:08:55.122264+00:00",
+ "updated": "2026-11-18T09:17:34.553857+00:00",
  "quotes": {
   "A": {
    "price": 172.22,
@@ -101,10 +101,6 @@
   "CVS": {
    "price": 85.81,
    "change_pct": -3.14
-  },
-  "CYTK": {
-   "price": 51.65,
-   "change_pct": -2.86
   },
   "DGX": {
    "price": 256.35,
@@ -313,6 +309,10 @@
   "SYK": {
    "price": 317.54,
    "change_pct": 2.19
+  },
+  "TAK": {
+   "price": 21.64,
+   "change_pct": 0.23
   }
  },
  "tickers": {
@@ -1189,7 +1189,8 @@
    "source": "SeekingAlpha",
    "published": "2026-11-18T03:00:48+00:00",
    "tickers": [
-    "TWST"
+    "TWST",
+    "TXG"
    ],
    "tag": "News",
    "sectors": [
@@ -40037,21 +40038,6 @@
    "tickers": [],
    "tag": "Health AI",
    "sectors": []
-  },
-  {
-   "id": "23fd49dabde1",
-   "headline": "OHB (XTRA:OHB) Could Be 38% Undervalued On Astroscale Agreement",
-   "summary": "Why the new Astroscale agreement matters for OHB OHB (XTRA:OHB) just signed a Memorandum of Understanding with Astroscale Holdings that targets joint work in space security, space domain awareness, and in-orbit servicing across Europe,\u2026",
-   "url": "https://finnhub.io/api/news?id=effd8c98a4c2d15d6aecbfe9ee4bdd7db964da78d2933d5132f9c31377da0a1d",
-   "source": "Yahoo",
-   "published": "2026-11-08T09:10:33+00:00",
-   "tickers": [
-    "NVS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
   }
  ]
 }
