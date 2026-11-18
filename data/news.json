@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-18T13:47:40.547697+00:00",
+ "updated": "2026-11-18T14:07:49.605347+00:00",
  "quotes": {
   "A": {
    "price": 172.22,
@@ -17,10 +17,6 @@
   "ACAD": {
    "price": 18.32,
    "change_pct": -1.87
-  },
-  "ALGN": {
-   "price": 163.46,
-   "change_pct": -1.52
   },
   "ALNY": {
    "price": 156.5,
@@ -89,10 +85,6 @@
   "DHR": {
    "price": 225.77,
    "change_pct": -1.8
-  },
-  "DNLI": {
-   "price": 18,
-   "change_pct": -0.44
   },
   "DVA": {
    "price": 173,
@@ -317,6 +309,14 @@
   "WAT": {
    "price": 449.78,
    "change_pct": -0.8
+  },
+  "ZBH": {
+   "price": 102.09,
+   "change_pct": 0.67
+  },
+  "ZTS": {
+   "price": 83.48,
+   "change_pct": -1.08
   }
  },
  "tickers": {
@@ -1009,6 +1009,21 @@
    ]
   },
   {
+   "id": "c32e8ee17ae3",
+   "headline": "Have $1,000? This Beaten-Down Biotech Has 4 Phase 3 Obesity Trials Underway.",
+   "summary": "Even a small share of the massive market for weight loss drugs could lead to a significant increase in this company's share price.",
+   "url": "https://finnhub.io/api/news?id=2857179a2d52bbf3210f4719d7d83b134af1ff527af962ce8248f9806dbd2963",
+   "source": "Yahoo",
+   "published": "2026-11-18T13:20:02+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "e362e8211b6e",
    "headline": "3 High-Yield Dividend Stocks Down Nearly 30% or More in 5 Years",
    "summary": "Three famous dividend payers have lost a big chunk of their value since 2020, and two already slashed their payouts. Before chasing the fat yields, income investors should ask which of these beaten-down stocks still has a dividend worth\u2026",
@@ -1035,6 +1050,21 @@
    "sectors": []
   },
   {
+   "id": "324a1add1ed2",
+   "headline": "The Open Question In McKesson's Two New Deals",
+   "summary": "Today's big story: Anthropic IPO: Priced For 2031, Or 2036.",
+   "url": "https://finnhub.io/api/news?id=44e7c6f2d52e0aa93cf684f22919d1744510e7f834c53255f664108ca3a7502d",
+   "source": "Yahoo",
+   "published": "2026-11-18T13:01:56+00:00",
+   "tickers": [
+    "HSIC"
+   ],
+   "tag": "Financing",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
+  {
    "id": "5d8d4ff5f3c5",
    "headline": "Bristol Myers Stock's Dividends Couldn't Close The Gap",
    "summary": "Today's big story: Anthropic IPO: Priced For 2031, Or 2036.",
@@ -1042,6 +1072,7 @@
    "source": "Yahoo",
    "published": "2026-11-18T12:44:46+00:00",
    "tickers": [
+    "LLY",
     "PFE"
    ],
    "tag": "Financing",
@@ -1073,6 +1104,7 @@
    "published": "2026-11-18T12:28:09+00:00",
    "tickers": [
     "CNC",
+    "ELV",
     "HUM",
     "UNH"
    ],
