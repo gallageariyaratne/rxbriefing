@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-18T06:32:34.481397+00:00",
+ "updated": "2026-11-18T06:47:40.313063+00:00",
  "quotes": {
   "A": {
    "price": 172.22,
@@ -137,10 +137,6 @@
   "EW": {
    "price": 105.43,
    "change_pct": -1.57
-  },
-  "EXEL": {
-   "price": 68.5,
-   "change_pct": 2.09
   },
   "GEHC": {
    "price": 81.84,
@@ -313,6 +309,10 @@
   "REGN": {
    "price": 957.76,
    "change_pct": 0.56
+  },
+  "ROIV": {
+   "price": 38.71,
+   "change_pct": 0.26
   }
  },
  "tickers": {
@@ -1012,6 +1012,21 @@
    "sectors": []
   },
   {
+   "id": "4979ecb8a69b",
+   "headline": "Here Are the Current Berkshire Hathaway Stock Holdings",
+   "summary": "Berkshire Hathaway's holdings are a diverse set of blue chips and lesser-known growth bets. Here, we look at the stocks included in the equity portfolio.",
+   "url": "https://finnhub.io/api/news?id=82a448226b9f6c1ce8ac452726b4579d7ab0652b5ffdf8a02b9f361e708b6b8f",
+   "source": "Yahoo",
+   "published": "2026-11-18T03:13:25+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "30bdb17d98f2",
    "headline": "Vertex Pharmaceuticals (VRTX) Could Be 11% Undervalued On Late Stage Pipeline Focus",
    "summary": "Conference spotlight on Vertex Pharmaceuticals and a busy late stage pipeline Vertex Pharmaceuticals (VRTX) heads into back to back London conference appearances as investors watch for commentary on a November 30 U.S. regulatory decision\u2026",
@@ -1077,6 +1092,21 @@
    "tickers": [],
    "tag": "FDA",
    "sectors": []
+  },
+  {
+   "id": "ef3d67ac4443",
+   "headline": "Pfizer: Strong Growth Momentum And Attractive Valuation Support A Strong Buy",
+   "summary": "At 9.6 times guidance-midpoint earnings with a 5.95% dividend yield, Pfizer stock looks inexpensive.",
+   "url": "https://finnhub.io/api/news?id=c9bc249386296d12b8f664296ea231326bfd21ead027f305ba108f56ac62c3b6",
+   "source": "SeekingAlpha",
+   "published": "2026-11-18T01:15:33+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "ba308be51eba",
