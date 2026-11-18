@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-18T01:02:48.614766+00:00",
+ "updated": "2026-11-18T01:18:02.315539+00:00",
  "quotes": {
   "A": {
    "price": 172.22,
@@ -149,6 +149,10 @@
   "GEHC": {
    "price": 81.84,
    "change_pct": -1.35
+  },
+  "GH": {
+   "price": 143.28,
+   "change_pct": -0.52
   },
   "GILD": {
    "price": 170.26,
@@ -309,10 +313,6 @@
   "SRPT": {
    "price": 14.77,
    "change_pct": -2.38
-  },
-  "SYK": {
-   "price": 317.54,
-   "change_pct": 2.19
   }
  },
  "tickers": {
@@ -941,6 +941,21 @@
    "sectors": []
   },
   {
+   "id": "398fbf99dd30",
+   "headline": "Piper Sandler Upgrades Medtronic to Overweight from Neutral",
+   "summary": "",
+   "url": "https://finnhub.io/api/news?id=6268546b6715cad1070bb5517beb66031c5d718e150c9c20546c8315686de8a7",
+   "source": "Fintel",
+   "published": "2026-11-18T00:34:56+00:00",
+   "tickers": [
+    "MDT"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "4181529d5bb5",
    "headline": "Wells Fargo Upgrades Zimmer Biomet Holdings to Overweight from Equal-Weight",
    "summary": "",
@@ -1192,7 +1207,8 @@
     "CAH",
     "COR",
     "LLY",
-    "MCK"
+    "MCK",
+    "NVO"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -1895,6 +1911,21 @@
    ]
   },
   {
+   "id": "ea60f452da15",
+   "headline": "McKesson Stock Is a Triple Threat at New All-Time Highs. How to Trade It Here.",
+   "summary": "McKesson (MCK) combines robust momentum, solid profitability, and positive earnings revisions, but its valuation is pricey relative to modest growth. Shares are up nearly 30% over the past year. MCK maintains a 100% \u201cBuy\u201d technical\u2026",
+   "url": "https://finnhub.io/api/news?id=2ccc5e43398bbd79e92c41714d25bf761d5ca3d4b45002aabbdeabef0ef56e5a",
+   "source": "Yahoo",
+   "published": "2026-11-17T17:15:03+00:00",
+   "tickers": [
+    "MCK"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
+  {
    "id": "7707f27852c2",
    "headline": "Louisiana Appeals Court Upholds Millions in Damages in Mesothelioma Case Against Johnson & Johnson",
    "summary": "DALLAS, November 17, 2026--An appeals court in Louisiana has upheld a multimillion verdict against Johnson & Johnson, in which a jury found that talc in its baby powder caused a New Orlean's woman's mesothelioma and death.",
@@ -2162,6 +2193,21 @@
     "MRNA"
    ],
    "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "ce23f830dbbb",
+   "headline": "European Equities Traded in the US as American Depositary Receipts Tumble in Tuesday Trading",
+   "summary": "European equities traded in the US as American depositary receipts were tracking significanty lower",
+   "url": "https://finnhub.io/api/news?id=fdbe73d06a83639c3fc02331739f763d7c647025b45bdb023d170b6cfe2e6ef1",
+   "source": "Yahoo",
+   "published": "2026-11-17T16:20:06+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "News",
    "sectors": [
     "pharma"
    ]
@@ -3178,6 +3224,21 @@
    ]
   },
   {
+   "id": "1ff7b363d794",
+   "headline": "Acadia Pharmaceuticals Presents Additional Phase 2 RADIANT Study Results Evaluating Remlifanserin for the Treatment of Alzheimer's Disease Psychosis at the 2026 Clinical Trials on Alzheimer\u2019s Disease (CTAD) Conference",
+   "summary": "SAN DIEGO, November 17, 2026--Acadia Pharmaceuticals Inc. (Nasdaq: ACAD) today presented additional data from the Phase 2 RADIANT trial evaluating remlifanserin for the treatment of hallucinations and delusions associated with Alzheimer\u2019s\u2026",
+   "url": "https://finnhub.io/api/news?id=54ec36c3c17ecde3ad104fc7c4535f9ffb8a18da122bc14258d815d2d33637e5",
+   "source": "Yahoo",
+   "published": "2026-11-17T14:04:00+00:00",
+   "tickers": [
+    "ACAD"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "d3459826cef4",
    "headline": "United Therapeutics Corporation (UTHR) Presents at Jefferies Global Healthcare Conference 2026 Transcript",
    "summary": "United Therapeutics Corporation (UTHR) Jefferies Global Healthcare Conference 2026 November 17, 2026 9:00 AM ESTCompany ParticipantsJames Edgemond - CFO...",
@@ -3804,6 +3865,21 @@
    ]
   },
   {
+   "id": "502b8b31ac4d",
+   "headline": "Novo launches the new Novocare\u00ae: Free support program connects people with Wegovy\u00ae in addition to home delivery, everyday support, wellness partners and rewards",
+   "summary": "Novo Nordisk, the maker of Wegovy\u00ae (semaglutide) injection and tablets, today announced a reimagined consumer experience to help people get started and stay supported on Wegovy\u00ae. Novocare\u00ae brings together treatment and coverage\u2026",
+   "url": "https://finnhub.io/api/news?id=4c0b5b254eded7f854c780e6d6a100a17e7a6e0164fe52b584979225451603d6",
+   "source": "Yahoo",
+   "published": "2026-11-17T13:00:00+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "f5c5825b1988",
    "headline": "Want Rising Dividend Income? Invest in These 5 Dividend Growers Still Raising Payouts",
    "summary": "A stock yielding under 1% can eventually out-earn a fat static payout, but only if the raises keep coming. Five companies from five sectors claim they can deliver, though one of them just raised its dividend faster than its earnings can\u2026",
@@ -4142,7 +4218,8 @@
    "source": "Yahoo",
    "published": "2026-11-17T11:45:10+00:00",
    "tickers": [
-    "JNJ"
+    "JNJ",
+    "NVO"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -4192,6 +4269,7 @@
    "published": "2026-11-17T11:29:45+00:00",
    "tickers": [
     "DGX",
+    "GH",
     "ILMN",
     "LH"
    ],
@@ -9028,6 +9106,7 @@
    "source": "Yahoo",
    "published": "2026-11-16T11:42:12+00:00",
    "tickers": [
+    "ALT",
     "AMGN",
     "MDGL",
     "PFE"
@@ -39383,68 +39462,6 @@
    "tag": "Legal",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "ae6b59a10089",
-   "headline": "What Humana (HUM) Said on Its Q3 Earnings Call",
-   "summary": "Humana (NYSE:HUM) raised its full-year 2026 adjusted earnings outlook and said early Medicare Advantage enrollment trends point to membership growth in 2027, as executives described progress toward a longer-term margin recovery. The\u2026",
-   "url": "https://finnhub.io/api/news?id=b74a95933829cfda59beab351163cd5afe49792b4ba1440eacad19da316c0282",
-   "source": "Yahoo",
-   "published": "2026-11-08T01:14:14+00:00",
-   "tickers": [
-    "HUM",
-    "UNH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "b25c31fb86d7",
-   "headline": "Pfizer And 2 More AI Healthcare Stocks To Watch",
-   "summary": "The recent $3.2tn sell-off in AI related assets after the US midterm elections showed how quickly sentiment can flip when investors worry about slower AI spending and tighter rules. That kind of reset often leaves strong businesses\u2026",
-   "url": "https://finnhub.io/api/news?id=6e42f7a62b8f1e9c2424cafe2deaaedaec8242b71aebda903a0ea02b0a4aaf61",
-   "source": "Yahoo",
-   "published": "2026-11-08T01:13:39+00:00",
-   "tickers": [
-    "INSM",
-    "PFE"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "96c3eafefbd7",
-   "headline": "Webull And 2 Other Financially Strong Penny Stocks",
-   "summary": "The October jobs report showed 165,000 new roles added and economists described the labor market as strong and stable. When the economy keeps creating work, smaller listed businesses can sometimes gain fresh customers and easier access to\u2026",
-   "url": "https://finnhub.io/api/news?id=db01c1cf600a232916dc16e0f7bad3c6ad8849d66ef4872aa4891d9ea18b2373",
-   "source": "Yahoo",
-   "published": "2026-11-08T01:11:31+00:00",
-   "tickers": [
-    "CLOV"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "f988ebbbc5b8",
-   "headline": "Globus Medical Inc (GMED) Q3 2026 Earnings Call Highlights: Revenue Miss, Nevro Weakness and ...",
-   "summary": "Globus Medical Inc (GMED) trimmed its full-year 2026 revenue outlook to $3.09 billion despite record free cash flow and an eighth straight quarter of gross margin expansion.",
-   "url": "https://finnhub.io/api/news?id=3a7af25b85fe00bedfd7d6f39581fa0dc6ff712b8d3d68c7541cc585ba933703",
-   "source": "Yahoo",
-   "published": "2026-11-08T01:07:53+00:00",
-   "tickers": [
-    "GMED"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
