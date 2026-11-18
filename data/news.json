@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-18T11:02:51.593759+00:00",
+ "updated": "2026-11-18T11:17:42.217876+00:00",
  "quotes": {
   "A": {
    "price": 172.22,
@@ -37,10 +37,6 @@
   "ARWR": {
    "price": 42.99,
    "change_pct": -2.76
-  },
-  "ASND": {
-   "price": 271.19,
-   "change_pct": -0.2
   },
   "AZN": {
    "price": 182.27,
@@ -182,10 +178,6 @@
    "price": 26.96,
    "change_pct": -3.75
   },
-  "IQV": {
-   "price": 257.6,
-   "change_pct": -2.69
-  },
   "IRTC": {
    "price": 89.67,
    "change_pct": -1.28
@@ -241,10 +233,6 @@
   "NVS": {
    "price": 159.13,
    "change_pct": -0.67
-  },
-  "OPCH": {
-   "price": 31.63,
-   "change_pct": -0.25
   },
   "OSCR": {
    "price": 29.84,
@@ -313,6 +301,18 @@
   "TXG": {
    "price": 56.3,
    "change_pct": 2.38
+  },
+  "UNH": {
+   "price": 389.68,
+   "change_pct": -5.42
+  },
+  "UTHR": {
+   "price": 584.1,
+   "change_pct": -0.64
+  },
+  "VEEV": {
+   "price": 288.41,
+   "change_pct": -3.63
   }
  },
  "tickers": {
@@ -1042,6 +1042,21 @@
    ]
   },
   {
+   "id": "fd40a7e89846",
+   "headline": "Why Neurocrine Biosciences (NBIX) Could Be 20% Undervalued On INGREZZA Momentum",
+   "summary": "Neurocrine Biosciences (NBIX) is back in focus after new real world data on INGREZZA and a new KINECT PRO analysis highlighted patient reported improvements in tardive dyskinesia and Huntington related chorea. Those INGREZZA data points\u2026",
+   "url": "https://finnhub.io/api/news?id=3c725ca2e58bd54e4d227b71e666d5a9771a180c1fcbff30ab2c8834a7645deb",
+   "source": "Yahoo",
+   "published": "2026-11-18T09:10:58+00:00",
+   "tickers": [
+    "NBIX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "17fe26c99d65",
    "headline": "Merck axes $2.7B BTK inhibitor program after seeing phase 3 data",
    "summary": "Merck & Co. has stopped a trio of phase 3 blood cancer trials after one study suggested the benefits of the BTK inhibitor may fail to outweigh the risks, bringing the curtain down on a program stemming from a $2.7 billion takeover.",
@@ -1443,6 +1458,21 @@
    "tag": "Policy",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "f6affd51699a",
+   "headline": "ACADIA Pharmaceuticals Eyes Deals as DAYBUE Growth Fuels Revenue Surge",
+   "summary": "ACADIA Pharmaceuticals (NASDAQ:ACAD) is pursuing growth from its DAYBUE and NUPLAZID franchises while advancing neurological and psychiatric drug candidates and looking for external deals, CEO Catherine Owen Adams said at a UBS-hosted\u2026",
+   "url": "https://finnhub.io/api/news?id=980c2ede38490b988e7bd22653d4efa4cf5c9589080dbced15a6567a04186570",
+   "source": "Yahoo",
+   "published": "2026-11-18T03:12:27+00:00",
+   "tickers": [
+    "ACAD"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -40230,51 +40260,6 @@
    "tag": "Health AI",
    "sectors": [
     "healthit"
-   ]
-  },
-  {
-   "id": "b1d6ad1fbd2f",
-   "headline": "Spadel (ENXTBR:SPA) Stock Looks Overvalued Against Current Earnings Power",
-   "summary": "Spadel has delivered a strong share price run over the past few years, and that kind of move naturally raises a question for you as an investor. Is the current price around \u20ac340 really in line with what the company is earning today, or\u2026",
-   "url": "https://finnhub.io/api/news?id=88beef97f5f1f8d42ea7694294e6b8905a7aa3d127416a0aba0cf42051e2fe4e",
-   "source": "Yahoo",
-   "published": "2026-11-08T11:15:36+00:00",
-   "tickers": [
-    "NVS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "794723f76bef",
-   "headline": "Renalytix And 2 British AI Healthcare Stocks To Watch",
-   "summary": "Banks in the UK are already drawing hard lines around AI agents, with major lenders blocking automated tools from touching customer accounts. That kind of caution highlights how powerful these systems are becoming. For investors, the\u2026",
-   "url": "https://finnhub.io/api/news?id=b5489b9c72a0790bf1ace2e493330a54a80fea4c401cc7c2d1bc8def6624db54",
-   "source": "Yahoo",
-   "published": "2026-11-08T11:13:08+00:00",
-   "tickers": [
-    "AZN"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "c890b011f9cb",
-   "headline": "Two 70-Year-Olds Will Start the Same $12,272 Keytruda Qlex Cancer Injections. One With Medigap Plan G Will Owe $0 in Coinsurance After the Part B Deductible, While the Other Will Owe 20% With No Annual Cap",
-   "summary": "Two men start the same one-minute cancer shot on the same day, yet their Medicare bills will diverge sharply. A hidden enrollment deadline, likely missed years ago, may decide who pays and who doesn't.",
-   "url": "https://finnhub.io/api/news?id=a4df4a5903fe77a63b5db2252accaa72474ef5c6ec8b09a5d3e42ce4dc6a6b95",
-   "source": "Yahoo",
-   "published": "2026-11-08T11:08:23+00:00",
-   "tickers": [
-    "MRK"
-   ],
-   "tag": "Policy",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
