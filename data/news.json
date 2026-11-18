@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-18T00:47:47.152181+00:00",
+ "updated": "2026-11-18T01:02:48.614766+00:00",
  "quotes": {
   "A": {
    "price": 172.22,
@@ -97,6 +97,10 @@
   "CRL": {
    "price": 332.16,
    "change_pct": -1.0
+  },
+  "CRSP": {
+   "price": 40.15,
+   "change_pct": -0.55
   },
   "CVS": {
    "price": 85.81,
@@ -202,6 +206,10 @@
    "price": 257.6,
    "change_pct": -2.69
   },
+  "IRTC": {
+   "price": 89.67,
+   "change_pct": -1.28
+  },
   "ISRG": {
    "price": 430.53,
    "change_pct": -1.65
@@ -298,21 +306,13 @@
    "price": 10.67,
    "change_pct": -9.73
   },
+  "SRPT": {
+   "price": 14.77,
+   "change_pct": -2.38
+  },
   "SYK": {
    "price": 317.54,
    "change_pct": 2.19
-  },
-  "TAK": {
-   "price": 21.64,
-   "change_pct": 0.23
-  },
-  "TDOC": {
-   "price": 8.49,
-   "change_pct": -2.41
-  },
-  "THC": {
-   "price": 282.07,
-   "change_pct": -3.25
   }
  },
  "tickers": {
@@ -941,6 +941,21 @@
    "sectors": []
   },
   {
+   "id": "4181529d5bb5",
+   "headline": "Wells Fargo Upgrades Zimmer Biomet Holdings to Overweight from Equal-Weight",
+   "summary": "",
+   "url": "https://finnhub.io/api/news?id=edfe5383fa902348b35809860d68761bb01fbe2b7471555c4c934d78c52c82dd",
+   "source": "Fintel",
+   "published": "2026-11-18T00:21:53+00:00",
+   "tickers": [
+    "ZBH"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "5fadac1b24c7",
    "headline": "HLTH 2026: Teladoc Health's weight care program lets employers partially contribute to GLP-1 costs",
    "summary": "Through the new option, employers can offer employees partially comped access to the medications from Eli Lilly and Novo Nordisk alongside other benefits, like personalized lifestyle coaching.",
@@ -1016,6 +1031,21 @@
     "BIIB"
    ],
    "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "dc9d05f4f4fa",
+   "headline": "Eli Lilly Is Up 39% in a Year. Barclays Sees Another 9%",
+   "summary": "Key TakeawaysBarclays raised its Eli Lilly price target to $1,550 from $1,400 and kept its Overweight rating, with the stock close to a 52-week high. Lilly\u2019s third-quarter revenue rose 39% to $24.",
+   "url": "https://finnhub.io/api/news?id=86a90a07bfc4f6756592f50f187f69746952af76991c52f3b3e96c08e079815b",
+   "source": "Yahoo",
+   "published": "2026-11-17T22:53:58+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "Earnings",
    "sectors": [
     "pharma"
    ]
@@ -1167,6 +1197,21 @@
    "tag": "GLP-1",
    "sectors": [
     "pharmacy"
+   ]
+  },
+  {
+   "id": "95636be5c2a6",
+   "headline": "iRhythm Announces $100 Million Accelerated Share Repurchase Agreement",
+   "summary": "SAN FRANCISCO, Nov. 17, 2026 (GLOBE NEWSWIRE) -- iRhythm Holdings, Inc. (Nasdaq: IRTC), a leading digital health care company with a mission to create trusted solutions that detect, predict, and prevent disease, today announced that it\u2026",
+   "url": "https://finnhub.io/api/news?id=1defffeb3e2753fa3426dd90ac99ce6b4d8369599147e46fb66cfab1b32a85c9",
+   "source": "Yahoo",
+   "published": "2026-11-17T21:35:00+00:00",
+   "tickers": [
+    "IRTC"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -1333,6 +1378,7 @@
    "source": "Yahoo",
    "published": "2026-11-17T20:12:43+00:00",
    "tickers": [
+    "CRSP",
     "VRTX"
    ],
    "tag": "Policy",
@@ -3638,6 +3684,21 @@
    ]
   },
   {
+   "id": "495fcf9e872b",
+   "headline": "CRISPR Therapeutics AG (CRSP) is Attracting Investor Attention: Here is What You Should Know",
+   "summary": "Recently, Zacks.com users have been paying close attention to CRISPR Therapeutics (CRSP). This makes it worthwhile to examine what the stock has in store.",
+   "url": "https://finnhub.io/api/news?id=b01d3cc8535a3ec1d5695c47200ee6eb6c562205362e00122fe072e37b95915d",
+   "source": "Yahoo",
+   "published": "2026-11-17T13:00:02+00:00",
+   "tickers": [
+    "CRSP"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "03e373428019",
    "headline": "Diabetes Leadership Council and Insulet Corporation Announce Launch of Multiyear Effort to Protect Access to Healthcare for People with Diabetes",
    "summary": "Through its Patient Safety Net Protection Collaborative, DLC calls for organizations to protect the patient safety net for diabetes patients WASHINGTON, Nov. 17, 2026 /PRNewswire/ -- The Diabetes Leadership Council (DLC) and Insulet\u2026",
@@ -3890,6 +3951,7 @@
    "source": "Yahoo",
    "published": "2026-11-17T12:15:54+00:00",
    "tickers": [
+    "CRSP",
     "LLY"
    ],
    "tag": "News",
@@ -3918,6 +3980,21 @@
    "tickers": [],
    "tag": "Clinical",
    "sectors": []
+  },
+  {
+   "id": "db6964c1a398",
+   "headline": "CRISPR Therapeutics Eyes Late-Stage Trials as Key Data and CASGEVY Demand Build",
+   "summary": "CRISPR Therapeutics (NASDAQ:CRSP) is preparing to advance several experimental treatments toward late-stage trials, with executives pointing to upcoming data from its cardiovascular and cell therapy programs and growing demand for its\u2026",
+   "url": "https://finnhub.io/api/news?id=6abfd2cfb34aab3e23853bf0dea79907d2d5aef3330495cf70c892a0497506f0",
+   "source": "Yahoo",
+   "published": "2026-11-17T12:13:28+00:00",
+   "tickers": [
+    "CRSP"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
   },
   {
    "id": "e1ab7c72e048",
@@ -4473,7 +4550,8 @@
    "tickers": [
     "ALNY",
     "MRNA",
-    "PFE"
+    "PFE",
+    "SRPT"
    ],
    "tag": "News",
    "sectors": [
@@ -8951,6 +9029,7 @@
    "published": "2026-11-16T11:42:12+00:00",
    "tickers": [
     "AMGN",
+    "MDGL",
     "PFE"
    ],
    "tag": "News",
