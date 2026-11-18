@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-18T02:32:39.374513+00:00",
+ "updated": "2026-11-18T02:47:34.848493+00:00",
  "quotes": {
   "A": {
    "price": 172.22,
@@ -294,6 +294,10 @@
    "price": 28.47,
    "change_pct": -1.35
   },
+  "PHR": {
+   "price": 12.56,
+   "change_pct": -2.03
+  },
   "PODD": {
    "price": 145.34,
    "change_pct": 0.03
@@ -309,10 +313,6 @@
   "ROIV": {
    "price": 38.71,
    "change_pct": 0.26
-  },
-  "RVMD": {
-   "price": 162.69,
-   "change_pct": -2.5
   }
  },
  "tickers": {
@@ -1088,6 +1088,22 @@
    ]
   },
   {
+   "id": "192f87feca66",
+   "headline": "UnitedHealth (UNH) vs. Humana (HUM): Buy the Dip?",
+   "summary": "Renewed regulatory scrutiny has interrupted the recent rallies in UnitedHealth and Humana stock, but is the pullback a buying opportunity?",
+   "url": "https://finnhub.io/api/news?id=34b20e96c1ce170bedf2cfd711a0969c146bfb7d9d8308d1ef48c85ef6accdf9",
+   "source": "Yahoo",
+   "published": "2026-11-17T23:21:00+00:00",
+   "tickers": [
+    "HUM",
+    "UNH"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "c1cf311dc3e7",
    "headline": "Biogen Prepares Joint Lupus Trial Results as It Targets First Revenue Growth Since 2019",
    "summary": "Biogen (NASDAQ:BIIB) expects to announce results from two systemic lupus erythematosus trials together in a press release, as the company prepares for a series of pipeline readouts and seeks to return to revenue growth, President and Head\u2026",
@@ -1370,6 +1386,21 @@
    "tag": "News",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "4eda1033064e",
+   "headline": "Optum\u2019s CEO still works weekends as a pediatrician. What he sees \u2018should not happen in America, but it does every single day\u2019",
+   "summary": "Patrick Conway told the Fortune 500 Innovation Forum about a teen who called more than 100 people trying to get mental health care.",
+   "url": "https://finnhub.io/api/news?id=ff9cbad1b253fb7558ce2dc404d880775cd2ac359dd1d92500a8ff17397ff7eb",
+   "source": "Yahoo",
+   "published": "2026-11-17T21:27:51+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -2106,7 +2137,8 @@
    "source": "Yahoo",
    "published": "2026-11-17T17:13:00+00:00",
    "tickers": [
-    "BMY"
+    "BMY",
+    "SMMT"
    ],
    "tag": "FDA",
    "sectors": [
@@ -2586,6 +2618,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "993679557a6f",
+   "headline": "Valentine Joins Elevate As Head Of Digital, Creator Services",
+   "summary": "His focus is client relationships and new business development.",
+   "url": "https://finnhub.io/api/news?id=e683bdc0df4e05cd9b9fa3c99206e8a4ddd674dc070a3de8f786315a587cec5e",
+   "source": "Yahoo",
+   "published": "2026-11-17T16:00:00+00:00",
+   "tickers": [
+    "PHR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
    ]
   },
   {
@@ -4551,7 +4598,8 @@
    "source": "Yahoo",
    "published": "2026-11-17T11:14:19+00:00",
    "tickers": [
-    "AZN"
+    "AZN",
+    "SMMT"
    ],
    "tag": "Analyst",
    "sectors": [
@@ -39730,23 +39778,6 @@
    "tag": "Analyst",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "795e687fa0f7",
-   "headline": "Medicare Just Locked In Most of Your 2027 Costs. One Big Number Is Still Missing",
-   "summary": "Medicare open enrollment ends Dec. 7, and most 2027 costs are set: a $2,400 Part D cap, a $700 deductible and a 3.6% COLA. For a 72-year-old with one costly drug, the bill rises $300, her check nets about $76 more a month, and a plan\u2026",
-   "url": "https://finnhub.io/api/news?id=5daf9b2e9ca2bb1622ef2abf4ba4398347252551084497671144e85c091e32d2",
-   "source": "Yahoo",
-   "published": "2026-11-08T02:34:00+00:00",
-   "tickers": [
-    "CNC",
-    "CVS",
-    "HUM"
-   ],
-   "tag": "Policy",
-   "sectors": [
-    "payers"
    ]
   }
  ]
