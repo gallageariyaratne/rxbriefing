@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-18T07:02:58.760840+00:00",
+ "updated": "2026-11-18T07:17:58.220263+00:00",
  "quotes": {
   "A": {
    "price": 172.22,
@@ -190,10 +190,6 @@
    "price": 119.09,
    "change_pct": -0.98
   },
-  "INSM": {
-   "price": 121.86,
-   "change_pct": -0.83
-  },
   "IONS": {
    "price": 26.96,
    "change_pct": -3.75
@@ -313,6 +309,10 @@
   "ROIV": {
    "price": 38.71,
    "change_pct": 0.26
+  },
+  "RVMD": {
+   "price": 162.69,
+   "change_pct": -2.5
   }
  },
  "tickers": {
@@ -1101,6 +1101,7 @@
    "source": "SeekingAlpha",
    "published": "2026-11-18T01:15:33+00:00",
    "tickers": [
+    "NVO",
     "PFE"
    ],
    "tag": "Earnings",
