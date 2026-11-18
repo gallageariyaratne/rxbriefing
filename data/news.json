@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-18T00:02:52.695699+00:00",
+ "updated": "2026-11-18T00:17:40.675918+00:00",
  "quotes": {
   "A": {
    "price": 172.22,
@@ -278,10 +278,6 @@
    "price": 145.34,
    "change_pct": 0.03
   },
-  "PTCT": {
-   "price": 60.36,
-   "change_pct": -1.0
-  },
   "RARE": {
    "price": 16.7,
    "change_pct": 5.03
@@ -305,6 +301,10 @@
   "SYK": {
    "price": 317.54,
    "change_pct": 2.19
+  },
+  "TDOC": {
+   "price": 8.49,
+   "change_pct": -2.41
   },
   "THC": {
    "price": 282.07,
@@ -929,6 +929,39 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "5fadac1b24c7",
+   "headline": "HLTH 2026: Teladoc Health's weight care program lets employers partially contribute to GLP-1 costs",
+   "summary": "Through the new option, employers can offer employees partially comped access to the medications from Eli Lilly and Novo Nordisk alongside other benefits, like personalized lifestyle coaching.",
+   "url": "https://www.fiercehealthcare.com/health-tech/hlth-2026-teladoc-health-expands-weight-care-program-new-employer-offering",
+   "source": "Fierce Healthcare",
+   "published": "2026-11-18T00:15:20.811911+00:00",
+   "tickers": [
+    "LLY",
+    "NVO",
+    "TDOC"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "healthit",
+    "pharma"
+   ]
+  },
+  {
+   "id": "a162bf3540ef",
+   "headline": "Johnson & Johnson vs. Vertex Pharmaceuticals: Which Healthcare Stock Is a Better Buy for 2027?",
+   "summary": "Johnson & Johnson's diversified MedTech and pharma mix faces off against Vertex's cystic fibrosis dominance, but their valuation gap tells a story worth weighing.",
+   "url": "https://finnhub.io/api/news?id=827371972d261b4f3a9da2cb123267dcf0ecf42f9b6ae0b713fbaf1f8e8587a9",
+   "source": "Yahoo",
+   "published": "2026-11-17T23:47:02+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
   {
    "id": "87c9191d05fa",
    "headline": "Payer mix, non-labor expenses dragged hospital margins in September",
@@ -3121,7 +3154,8 @@
    "published": "2026-11-17T13:37:38+00:00",
    "tickers": [
     "CNC",
-    "ELV"
+    "ELV",
+    "MOH"
    ],
    "tag": "Earnings",
    "sectors": [
