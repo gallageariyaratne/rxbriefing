@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-18T22:47:38.770456+00:00",
+ "updated": "2026-11-18T23:02:51.902994+00:00",
  "quotes": {
   "A": {
    "price": 177.33,
@@ -89,6 +89,10 @@
   "DHR": {
    "price": 228.58,
    "change_pct": 1.24
+  },
+  "DVA": {
+   "price": 161.79,
+   "change_pct": -6.48
   },
   "DXCM": {
    "price": 82.52,
@@ -313,10 +317,6 @@
   "VEEV": {
    "price": 277.2,
    "change_pct": -3.89
-  },
-  "VKTX": {
-   "price": 26.17,
-   "change_pct": -2.64
   }
  },
  "tickers": {
@@ -945,6 +945,21 @@
    "sectors": []
   },
   {
+   "id": "5b10e7599c4a",
+   "headline": "The Case for Small-Cap and Value Stocks",
+   "summary": "The tech-heavy S&P 500 has underperformed small-cap value stocks this year. Given less tech exposure, cheaper valuations, and a higher yield, smaller stocks may deserve a bigger allocation in investor portfolios.",
+   "url": "https://finnhub.io/api/news?id=e58f1e5b529667c633a5f3f5b8eff20f62056bc3065cd6b057fe243a11dcd509",
+   "source": "Yahoo",
+   "published": "2026-11-18T21:22:00+00:00",
+   "tickers": [
+    "DVA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "46e1869ccd6c",
    "headline": "STAT+: Influential preventive services panel to meet for first time in over a year",
    "summary": "A task force, meeting after a long delay, will discuss coverage of treatments for cervical cancer, perinatal depression, and alcohol use.",
@@ -998,6 +1013,21 @@
    "tag": "News",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "bd1628bf90f3",
+   "headline": "Lilly Buying Spree Surpasses $32B",
+   "summary": "Bloomberg's Madison Muller joins Dani Burger on \"Bloomberg Deals.\" Eli Lilly agreed to buy closely held Calytrix Bio in a deal that could be worth up to $1.5 billion, the latest in the drugmaker's $32 billion wave of acquisitions in 2026\u2026",
+   "url": "https://finnhub.io/api/news?id=92d0c5202af75f0f1354fb82547b3e7873f1e550ea33e02b084ed394251b1232",
+   "source": "Yahoo",
+   "published": "2026-11-18T21:13:25+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1098,7 +1128,9 @@
    "published": "2026-11-18T20:29:45+00:00",
    "tickers": [
     "CI",
+    "CNC",
     "CVS",
+    "ELV",
     "HUM",
     "UNH"
    ],
@@ -1126,7 +1158,9 @@
    "source": "Yahoo",
    "published": "2026-11-18T20:27:00+00:00",
    "tickers": [
-    "GEHC"
+    "GEHC",
+    "IDXX",
+    "MRK"
    ],
    "tag": "News",
    "sectors": [
@@ -1374,6 +1408,21 @@
    ]
   },
   {
+   "id": "19ba81a076ec",
+   "headline": "Hims Is Getting into Peptides",
+   "summary": "Hims & Hers has announced yet another product for its growing subscriber base.",
+   "url": "https://finnhub.io/api/news?id=cc4fa3ea3e57a5f61af0a07d5330908d66c18fdcf7313444e7f157e5d50dfa8f",
+   "source": "Yahoo",
+   "published": "2026-11-18T17:43:16+00:00",
+   "tickers": [
+    "HIMS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "198ffa38c62d",
    "headline": "UnitedHealth and other insurance stocks drag down the Dow after CMS proposes new anti-fraud rule",
    "summary": "Healthcare stocks fell again on Wednesday after the Centers for Medicare & Medicaid Services (CMS) proposed a new rule that would toughen oversight of Medicare, Medicaid, the Children's Health Insurance Program (CHIP), and the health\u2026",
@@ -1589,6 +1638,8 @@
    "tickers": [
     "AZN",
     "BMY",
+    "LLY",
+    "MRK",
     "NVS"
    ],
    "tag": "FDA",
@@ -43317,22 +43368,6 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
-   ]
-  },
-  {
-   "id": "d2bc832bf9be",
-   "headline": "Amgen's new drug could mean fewer shots for obesity patients",
-   "summary": "An experimental drug from Amgen could reduce 52 injections to just four a year.",
-   "url": "https://finnhub.io/api/news?id=c2a3fcd86353563549164ee43e28757f54182bbf471b00b9a503631f745a6874",
-   "source": "Yahoo",
-   "published": "2026-11-08T22:47:00+00:00",
-   "tickers": [
-    "AMGN",
-    "NVO"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
