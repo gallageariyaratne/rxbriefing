@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-18T10:47:39.846826+00:00",
+ "updated": "2026-11-18T11:02:51.593759+00:00",
  "quotes": {
   "A": {
    "price": 172.22,
@@ -194,10 +194,6 @@
    "price": 430.53,
    "change_pct": -1.65
   },
-  "JAZZ": {
-   "price": 240.71,
-   "change_pct": 0.39
-  },
   "JNJ": {
    "price": 278.7,
    "change_pct": -1.36
@@ -313,6 +309,10 @@
   "TWST": {
    "price": 112,
    "change_pct": 6.63
+  },
+  "TXG": {
+   "price": 56.3,
+   "change_pct": 2.38
   }
  },
  "tickers": {
@@ -930,6 +930,21 @@
  },
  "stories": [
   {
+   "id": "ef80f4a98296",
+   "headline": "Eli Lilly (NYSE:LLY): Strong Growth Paired With a High-Quality Technical Setup",
+   "summary": "Eli Lilly pairs strong growth and profitability with a bullish technical setup, offering a defined breakout trigger for growth-focused investors.",
+   "url": "https://finnhub.io/api/news?id=fa93b2d36670d445e699ef9c3375331dd7941c4b8a5911cb56521563665ecfb2",
+   "source": "ChartMill",
+   "published": "2026-11-18T10:31:17+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "58d488ce93f6",
    "headline": "Priavoid\u2019s Alzheimer\u2019s pill fails to prove efficacy in phase 2 trial",
    "summary": "Priavoid\u2019s pill for Alzheimer's disease has failed to prove its effectiveness in a phase 2 dementia study, although the German biotech pointed to encouraging signs in the longer-term data.",
@@ -964,6 +979,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "5a82898bb3f3",
+   "headline": "Waters Corp (NYSE:WAT) Clears Minervini Trend Template as a Quality-Momentum Breakout Watch",
+   "summary": "Waters Corp clears Minervini trend and growth momentum screens, with strong relative strength and a breakout watchlist setup near 52-week highs.",
+   "url": "https://finnhub.io/api/news?id=91419de64d24d332ec7f02211cb097df66668e281c0764d5b85b546e57c8af26",
+   "source": "ChartMill",
+   "published": "2026-11-18T09:51:16+00:00",
+   "tickers": [
+    "WAT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -1057,7 +1087,8 @@
    "published": "2026-11-18T08:31:57+00:00",
    "tickers": [
     "AMGN",
-    "JNJ"
+    "JNJ",
+    "MRK"
    ],
    "tag": "News",
    "sectors": [
