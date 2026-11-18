@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-18T10:02:57.578047+00:00",
+ "updated": "2026-11-18T10:17:39.656265+00:00",
  "quotes": {
   "A": {
    "price": 172.22,
@@ -242,10 +242,6 @@
    "price": 165.92,
    "change_pct": 0.37
   },
-  "NTLA": {
-   "price": 9.78,
-   "change_pct": -0.81
-  },
   "NTRA": {
    "price": 287.47,
    "change_pct": -0.35
@@ -313,6 +309,10 @@
   "SYK": {
    "price": 317.54,
    "change_pct": 2.19
+  },
+  "TAK": {
+   "price": 21.64,
+   "change_pct": 0.23
   }
  },
  "tickers": {
@@ -930,6 +930,21 @@
  },
  "stories": [
   {
+   "id": "bf7b491a14e0",
+   "headline": "Vertex signs $220M deal with Genomics to re-up long-running discovery pact",
+   "summary": "Vertex Pharmaceuticals has re-upped its ties with sequencing specialist Genomics in a deal worth up to $220 million, signing on for an extra four years on top of the eight the companies have already worked together.",
+   "url": "https://www.fiercebiotech.com/biotech/vertex-signs-genomics-220m-4-more-years-long-time-discovery-pact",
+   "source": "Fierce Biotech",
+   "published": "2026-11-18T10:15:21.584856+00:00",
+   "tickers": [
+    "VRTX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "356ba36d3f1d",
    "headline": "Genomics Ltd. Announces Extension of Strategic Drug Discovery Collaboration with Vertex Pharmaceuticals",
    "summary": "The new agreement extends an existing 8-year collaboration between the companies OXFORD, England, Nov. 18, 2026 /PRNewswire/ -- Genomics, a science-led Techbio company using large-scale genetic information to develop innovative precision\u2026",
@@ -991,6 +1006,21 @@
    "tickers": [],
    "tag": "GLP-1",
    "sectors": []
+  },
+  {
+   "id": "7bacc19da067",
+   "headline": "Danaher Targets Faster Growth With Acquisitions, AI and a Diagnostics Push",
+   "summary": "Danaher (NYSE:DHR) is focusing on commercial execution, innovation and acquisitions as it seeks faster core growth and market-share gains, company leader Julie said during a discussion with Tycho Peterson of the Life Science team. Julie,\u2026",
+   "url": "https://finnhub.io/api/news?id=a9d9f00f020109637501b75cd2b62d891c58932acfb2402640f5a936225a0252",
+   "source": "Yahoo",
+   "published": "2026-11-18T08:12:31+00:00",
+   "tickers": [
+    "DHR"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "tools"
+   ]
   },
   {
    "id": "84cbc906cbed",
@@ -1055,6 +1085,21 @@
    ]
   },
   {
+   "id": "48b1a8bd3f39",
+   "headline": "Novo Nordisk (NVO) Stock May Be Undervalued On Raised 2026 Outlook",
+   "summary": "Novo Nordisk has seen its share price fall 57.9% over the past three years, even as its weight loss franchise remains central to the investment story. That slump now puts a sharper focus on whether the current price around US$40.70 can\u2026",
+   "url": "https://finnhub.io/api/news?id=2e5ef560e2a92e63fe83a9894f5ed9377ed3876fb49aa1a7d38c8bbf3fd9a8ff",
+   "source": "Yahoo",
+   "published": "2026-11-18T06:17:27+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "7a9bca692ead",
    "headline": "Regeneron Pharmaceuticals (REGN), Why Is The Market Taking A Closer Look?",
    "summary": "The fresh trigger for Regeneron Pharmaceuticals (REGN) is European Commission approval of a new, more flexible Libtayo dosing schedule across all six approved cancer uses in the EU, potentially supporting broader real world uptake.\u2026",
@@ -1080,6 +1125,21 @@
     "VRTX"
    ],
    "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "c5440aed26c5",
+   "headline": "Novo Nordisk (NVO) Could Be 47% Below Fair Value Following Its AI Push",
+   "summary": "Novo Nordisk (NYSE:NVO) is back in focus after its collaboration with Anthropic was highlighted as a driver of AI assisted drug discovery and software development. Investors are weighing what this partnership implies for long term R&D\u2026",
+   "url": "https://finnhub.io/api/news?id=16839b226014151f679049119f8ca79d809de0ef2a4a984d6bc782c998ef6c7d",
+   "source": "Yahoo",
+   "published": "2026-11-18T05:12:52+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "Health AI",
    "sectors": [
     "pharma"
    ]
