@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-18T21:32:50.765539+00:00",
+ "updated": "2026-11-18T21:47:38.353070+00:00",
  "quotes": {
   "A": {
    "price": 177.33,
@@ -94,6 +94,10 @@
    "price": 400.84,
    "change_pct": -7.63
   },
+  "ENSG": {
+   "price": 182.98,
+   "change_pct": -1.63
+  },
   "EW": {
    "price": 105.23,
    "change_pct": -0.19
@@ -157,10 +161,6 @@
   "IQV": {
    "price": 257.84,
    "change_pct": 0.09
-  },
-  "IRTC": {
-   "price": 94.87,
-   "change_pct": 5.8
   },
   "ISRG": {
    "price": 420.95,
@@ -934,6 +934,17 @@
  },
  "stories": [
   {
+   "id": "daef45dde71b",
+   "headline": "Department of Labor moves to end expedited green cards for nurses, physical therapists",
+   "summary": "The Trump administration proposed eliminating a longstanding exemption to the permanent labor certification program, the latest in a string of policies raising the bar for foreign-born healthcare workers seeking employer sponsorship.",
+   "url": "https://www.fiercehealthcare.com/regulatory/department-labor-moves-end-expedited-green-cards-nurses-physical-therapists",
+   "source": "Fierce Healthcare",
+   "published": "2026-11-18T21:45:20.472673+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
    "id": "46e1869ccd6c",
    "headline": "STAT+: Influential preventive services panel to meet for first time in over a year",
    "summary": "A task force, meeting after a long delay, will discuss coverage of treatments for cervical cancer, perinatal depression, and alcohol use.",
@@ -1579,6 +1590,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "fa4840c475e0",
+   "headline": "The Ensign Group, Inc. (ENSG) Presents at 2026 Stephens Annual Investment Conference | NASH2026 Transcript",
+   "summary": "The Ensign Group, Inc. (ENSG) 2026 Stephens Annual Investment Conference | NASH2026 November 18, 2026 12:45 PM ESTCompany ParticipantsBarry Port - CEO &...",
+   "url": "https://finnhub.io/api/news?id=57939a39acea5c136db093477289e80dc7dca6e04b352e86bf36189bdd19b3b1",
+   "source": "SeekingAlpha",
+   "published": "2026-11-18T15:43:00+00:00",
+   "tickers": [
+    "ENSG"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
   },
   {
    "id": "4ed4236770c7",
