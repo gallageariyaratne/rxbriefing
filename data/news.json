@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-18T00:17:40.675918+00:00",
+ "updated": "2026-11-18T00:32:49.925986+00:00",
  "quotes": {
   "A": {
    "price": 172.22,
@@ -302,6 +302,10 @@
    "price": 317.54,
    "change_pct": 2.19
   },
+  "TAK": {
+   "price": 21.64,
+   "change_pct": 0.23
+  },
   "TDOC": {
    "price": 8.49,
    "change_pct": -2.41
@@ -309,10 +313,6 @@
   "THC": {
    "price": 282.07,
    "change_pct": -3.25
-  },
-  "TMO": {
-   "price": 686.79,
-   "change_pct": -0.66
   }
  },
  "tickers": {
@@ -955,9 +955,41 @@
    "source": "Yahoo",
    "published": "2026-11-17T23:47:02+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "JNJ",
+    "VRTX"
    ],
    "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "9c03776cf1d9",
+   "headline": "2 of the Best Dividend Stocks to Buy With $5,000 in November",
+   "summary": "These two dividend stocks offer reliable raises year after year.",
+   "url": "https://finnhub.io/api/news?id=fdc7928ead9b94aae946e1a39915ccf7356a4024e0bb8ca7ba13a94a5e0bbd02",
+   "source": "Yahoo",
+   "published": "2026-11-17T23:46:02+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "dafaf6b205a2",
+   "headline": "Erasca Enters into Clinical Collaboration with Bristol Myers Squibb to Evaluate ERAS-0015 in Clinical Study with Navlimetostat",
+   "summary": "ERAS-0015 will be evaluated with PRMT5 inhibitor navlimetostat in MTAP-deleted pancreatic cancer in Phase 1/2 trial BMS will sponsor the clinical trial and Erasca will supply ERAS-0015 SAN DIEGO, Nov. 17, 2026 (GLOBE NEWSWIRE) -- Erasca,\u2026",
+   "url": "https://finnhub.io/api/news?id=122a33a11100d630e9327f73b015e034ef7171dffbf93527f90d7995f7e53d5a",
+   "source": "Yahoo",
+   "published": "2026-11-17T23:40:00+00:00",
+   "tickers": [
+    "BMY"
+   ],
+   "tag": "Clinical",
    "sectors": [
     "pharma"
    ]
@@ -1001,6 +1033,21 @@
    "tag": "FDA",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "669aae7924ae",
+   "headline": "Why Veeva Systems (VEEV) Dipped More Than Broader Market Today",
+   "summary": "In the latest trading session, Veeva Systems (VEEV) closed at $289.64, marking a -3.22% move from the previous day.",
+   "url": "https://finnhub.io/api/news?id=6a735ae96544a091d5ff3a28d80c8ef0774cccc8627b65dad0eb318a7d1872da",
+   "source": "Yahoo",
+   "published": "2026-11-17T21:45:02+00:00",
+   "tickers": [
+    "VEEV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
    ]
   },
   {
@@ -1160,7 +1207,8 @@
    "source": "Yahoo",
    "published": "2026-11-17T21:12:07+00:00",
    "tickers": [
-    "PFE"
+    "PFE",
+    "TAK"
    ],
    "tag": "News",
    "sectors": [
@@ -39261,36 +39309,6 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
-   ]
-  },
-  {
-   "id": "3c309e723aea",
-   "headline": "Did Raised Sales Guidance Just Shift Glaukos (GKOS) Investment Narrative?",
-   "summary": "Glaukos reported third quarter 2026 sales of US$211.03 million and returned to profitability, raised full year 2026 net sales guidance to US$775 million to US$785 million, and issued preliminary 2027 net sales guidance of US$1 billion,\u2026",
-   "url": "https://finnhub.io/api/news?id=4d81c10ad1ba085ad826acac3e0f334832e4e4c14c9c8dd35ea05f30758ba3a1",
-   "source": "Yahoo",
-   "published": "2026-11-08T00:25:40+00:00",
-   "tickers": [
-    "GKOS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "2d426a993030",
-   "headline": "Is Schr\u00f6dinger (SDGR) Still Below Fair Value After Strong Q3 Revenue Growth?",
-   "summary": "Schr\u00f6dinger (SDGR) has drawn fresh attention after reporting third quarter 2026 results that showed higher sales and revenue, along with a narrower net loss over the first nine months of the year. Investors have reacted quickly to the\u2026",
-   "url": "https://finnhub.io/api/news?id=f976be72a48f952deba79fd7a1b746677159c305325aba3dba1b3990957d0313",
-   "source": "Yahoo",
-   "published": "2026-11-08T00:20:33+00:00",
-   "tickers": [
-    "SDGR"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "healthai"
    ]
   }
  ]
