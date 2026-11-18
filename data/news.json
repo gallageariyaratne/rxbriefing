@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-18T14:07:49.605347+00:00",
+ "updated": "2026-11-18T14:17:32.630789+00:00",
  "quotes": {
   "A": {
    "price": 172.22,
@@ -141,14 +141,6 @@
   "IDXX": {
    "price": 690.24,
    "change_pct": -1.49
-  },
-  "ILMN": {
-   "price": 202.61,
-   "change_pct": 2.33
-  },
-  "INCY": {
-   "price": 119.09,
-   "change_pct": -0.98
   },
   "IONS": {
    "price": 26.96,
@@ -934,6 +926,28 @@
  },
  "stories": [
   {
+   "id": "d495088545f5",
+   "headline": "HLTH 2026: How Whoop aims to play a bigger role in healthcare",
+   "summary": "The company is positioning itself as a continuous health monitor that goes beyond fitness tracking. The device's 24/7 physiological data can function almost like an ongoing health check, becoming a bridge between everyday health and\u2026",
+   "url": "https://www.fiercehealthcare.com/health-tech/hlth-2026-how-whoop-aims-play-bigger-role-healthcare",
+   "source": "Fierce Healthcare",
+   "published": "2026-11-18T14:15:22.197019+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "3a16edb8157a",
+   "headline": "Clene Nanomedicine uses CRO Veristat\u2019s biostatistics platform for FDA submission",
+   "summary": "Clinical research organization Veristat has partnered with Clene Nanomedicine to accelerate data outputs for its FDA application for its ALS drug.",
+   "url": "https://www.fiercebiotech.com/cro/clene-nanomedicine-uses-cro-veristats-biostatistics-platform-fda-submission",
+   "source": "Fierce Biotech",
+   "published": "2026-11-18T14:15:21.986323+00:00",
+   "tickers": [],
+   "tag": "FDA",
+   "sectors": []
+  },
+  {
    "id": "7a2eb6497a3e",
    "headline": "Pfizer enters in vivo CAR-T space via 3-program, $2.6B deal with China\u2019s Starna",
    "summary": "Pfizer has decided to join the in vivo CAR-T race, penning a $2.6 billion deal for three preclinical candidates from China\u2019s Starna Therapeutics.",
@@ -1006,6 +1020,21 @@
    "tag": "FDA",
    "sectors": [
     "healthit"
+   ]
+  },
+  {
+   "id": "c07a614133b6",
+   "headline": "OTraces Selects Labcorp to Perform Biomarker Testing for Florida Department of Health\u2013Funded Prostate Cancer Study",
+   "summary": "Statewide clinical trial will use Labcorp assays to measure key serum biomarkers supporting the OTraces proteomic prostate cancer test OTraces Selects Labcorp OTraces Selects Labcorp DEERFIELD BEACH, Fla., Nov. 18, 2026 (GLOBE NEWSWIRE)\u2026",
+   "url": "https://finnhub.io/api/news?id=eee00a061c3463d93a3acf340dffc3cb18797879bc89efa63aac699c513d4f29",
+   "source": "Yahoo",
+   "published": "2026-11-18T13:30:00+00:00",
+   "tickers": [
+    "LH"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -1103,6 +1132,7 @@
    "source": "Yahoo",
    "published": "2026-11-18T12:28:09+00:00",
    "tickers": [
+    "CI",
     "CNC",
     "ELV",
     "HUM",
@@ -1456,6 +1486,21 @@
    ]
   },
   {
+   "id": "19100845d8f4",
+   "headline": "The Zacks Analyst Blog Highlights AstraZeneca, Linde, Eaton, Franklin and BV Financial",
+   "summary": "AstraZeneca, Linde, Eaton, Franklin and BV Financial are included in this Analyst Blog.",
+   "url": "https://finnhub.io/api/news?id=829d0e2438ebb05dc9b7749a3466048860b2d3d755682391a4d268f301e6c5ed",
+   "source": "Yahoo",
+   "published": "2026-11-18T10:43:00+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "ef80f4a98296",
    "headline": "Eli Lilly (NYSE:LLY): Strong Growth Paired With a High-Quality Technical Setup",
    "summary": "Eli Lilly pairs strong growth and profitability with a bullish technical setup, offering a defined breakout trigger for growth-focused investors.",
@@ -1627,6 +1672,21 @@
     "VRTX"
    ],
    "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "a1ee0af9ba91",
+   "headline": "Amazon, Marriott, Berkshire Hathaway And A Health Care Stock: CNBC\u2019s \u2018Final Trades\u2019",
+   "summary": "CNBC final trades feature Berkshire Hathaway, Amazon, AbbVie and Marriott, backed by analyst upgrades, strong earnings and growth plans.",
+   "url": "https://finnhub.io/api/news?id=73d9b50baf7027f3f9b324d4c5b511d2a91db1ef7d6475ab4f16a69402f95080",
+   "source": "Benzinga",
+   "published": "2026-11-18T09:31:47+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "Earnings",
    "sectors": [
     "pharma"
    ]
@@ -4037,6 +4097,21 @@
    ]
   },
   {
+   "id": "da515e837a40",
+   "headline": "Billionaire Daniel Loeb Swaps Amazon for Meta, Nvidia and Microsoft in Q3 \u2014 Meta Now Third Point's Top Holding",
+   "summary": "Daniel Loeb's Third Point added NVIDIA, Meta and Microsoft shares in Q3 while exiting Warner Bros and reducing several major technology holdings.",
+   "url": "https://finnhub.io/api/news?id=f3172637d1002ad98388a628be9c7f90787b10e142cc1d12c09d5404e9aa400c",
+   "source": "Benzinga",
+   "published": "2026-11-17T15:53:55+00:00",
+   "tickers": [
+    "DHR"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "d721d533c5bb",
    "headline": "\u2018Selling and marketing snake oil\u2019: The debate over compounded GLP-1s",
    "summary": "Proponents of compounding argue it increases access, lowers prices and helps patients who may need individualized versions of a drug. But there are serious concerns, experts said at the HLTH conference.",
@@ -4532,6 +4607,21 @@
     "UNH"
    ],
    "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "111ed91d2d20",
+   "headline": "Medicare, Medicaid Overhaul Targets Fraudulent Billing and Unauthorized Marketplace Enrollments",
+   "summary": "Federal regulators propose sweeping Medicare, Medicaid, and Marketplace anti-fraud reforms projected to save taxpayers nearly $90 billion.",
+   "url": "https://finnhub.io/api/news?id=b70f1f43d995cd5842c196ab71681a78d6ab2c8a258b221c098b012deef657cc",
+   "source": "Benzinga",
+   "published": "2026-11-17T14:34:57+00:00",
+   "tickers": [
+    "MOH"
+   ],
+   "tag": "Policy",
    "sectors": [
     "payers"
    ]
@@ -5593,6 +5683,21 @@
    ]
   },
   {
+   "id": "d0bb8d17634e",
+   "headline": "David Einhorn Bets on Aluminum in Q3: Here Are His New Stock Picks, Fund Changes",
+   "summary": "DME Capital Management reveals its new third-quarter stock picks. Here's what David Einhorn has been buying.",
+   "url": "https://finnhub.io/api/news?id=057303dc55091914e179f8c6a1bb75eda88a5caa90383662ee6da53089b7922b",
+   "source": "Benzinga",
+   "published": "2026-11-17T12:36:18+00:00",
+   "tickers": [
+    "IMVT"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "022567c087c3",
    "headline": "ISRG EPS Climbs 25% to $3: Is Innovation Driving Profitable Growth?",
    "summary": "Intuitive Surgical's adjusted EPS surged 25% as robotic platform adoption and AI innovation fueled growth, despite rising R&D costs and a litigation settlement.",
@@ -5744,6 +5849,21 @@
    ]
   },
   {
+   "id": "ae5d072caea8",
+   "headline": "Eli Lilly Short Interest Rises, Remains Below August Peak",
+   "summary": "Eli Lilly and Co. (NYSE:LLY) short sellers added to their positions, with the latest report following the company\u2019s Q3 2026 earnings release.Short interest rose 3.64% to 7.21 million shares as of the Oct. 30 settlement",
+   "url": "https://finnhub.io/api/news?id=4515057a72441859b8da01b0a56ca5d0d7c0f9bcb4d84463679de70d72203395",
+   "source": "Benzinga",
+   "published": "2026-11-17T12:00:13+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "04f491dd1a36",
    "headline": "Marrow sets out to challenge genetic medicines for severe blood diseases",
    "summary": "Armed with $173 million in venture funding, the startup is developing what it\u2019s positioning as a more accessible alternative to gene therapy and gene editing treatments for sickle cell and beta thalassemia.",
@@ -5850,6 +5970,23 @@
    "tag": "Earnings",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "e16ee6b86d6e",
+   "headline": "Reported November 16, U.S. CMS Issues Proposed Rule To Target Fraud Across Medicare, Medicaid/CHIP, And The Marketplace; Sees Possible Savings Of $90B Over Next 10 Years",
+   "summary": "The Centers for Medicare & Medicaid Services (CMS) today issued a proposed rule that could save taxpayers nearly $90 billion over the next 10 years and would strengthen program integrity (PI) oversight and the",
+   "url": "https://finnhub.io/api/news?id=972d329fb1bc1d51b800539fe00129a1b78fd89f9748bff719593fee834a06c2",
+   "source": "Benzinga",
+   "published": "2026-11-17T11:38:54+00:00",
+   "tickers": [
+    "CI",
+    "HCA",
+    "MOH"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -9981,6 +10118,7 @@
    "source": "Benzinga",
    "published": "2026-11-16T14:01:16+00:00",
    "tickers": [
+    "ABBV",
     "LLY"
    ],
    "tag": "News",
@@ -40928,36 +41066,6 @@
    "tag": "News",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "1dc32ed23469",
-   "headline": "Regeneron Pharmaceuticals (REGN) Extends BARDA Deal As Libtayo Long Term Data Holds Up",
-   "summary": "Regeneron Pharmaceuticals (NasdaqGS:REGN) reported new long-term Phase 3 data for Libtayo in high-risk cutaneous squamous cell carcinoma. The trial readout highlighted sustained disease-free and overall survival outcomes in patients\u2026",
-   "url": "https://finnhub.io/api/news?id=81af1d19f3a75ddb818ebfe482295df420a3a203405fbc9a825131fcae5b2ff0",
-   "source": "Yahoo",
-   "published": "2026-11-08T14:10:07+00:00",
-   "tickers": [
-    "REGN"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "fce1709dda39",
-   "headline": "Amgen\u2019s Dividend Has Grown 800% Since 2011. Here\u2019s What It Pays Today",
-   "summary": "Amgen has raised its payout every year since 2011, yet the pace of those raises is cooling just as patent cliffs and drug price controls close in. One number shows whether the next raise, due soon, will hold up.",
-   "url": "https://finnhub.io/api/news?id=a15532819d7b78ce266212d2302b5f255bc5f66d84e50488de2fa3f5388afcfe",
-   "source": "Yahoo",
-   "published": "2026-11-08T14:09:43+00:00",
-   "tickers": [
-    "AMGN"
-   ],
-   "tag": "Legal",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
