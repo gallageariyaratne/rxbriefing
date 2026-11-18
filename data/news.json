@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-18T09:47:30.926513+00:00",
+ "updated": "2026-11-18T10:02:57.578047+00:00",
  "quotes": {
   "A": {
    "price": 172.22,
@@ -294,6 +294,10 @@
    "price": 162.69,
    "change_pct": -2.5
   },
+  "RXRX": {
+   "price": 2.72,
+   "change_pct": -6.37
+  },
   "SMMT": {
    "price": 10.67,
    "change_pct": -9.73
@@ -309,10 +313,6 @@
   "SYK": {
    "price": 317.54,
    "change_pct": 2.19
-  },
-  "TAK": {
-   "price": 21.64,
-   "change_pct": 0.23
   }
  },
  "tickers": {
@@ -1112,6 +1112,21 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "4e35b807ae64",
+   "headline": "What Recursion Pharmaceuticals Investors Missed Before The Fall",
+   "summary": "If you picked Recursion Pharmaceuticals for its AI-first pitch and deep pharma ties, the past year has probably felt rough. Investors who held Recursion Pharmaceuticals from the start of the year are down 35.2%, including dividends. If\u2026",
+   "url": "https://finnhub.io/api/news?id=47d1f91da83ab006b0de7ef8ce42a642f172d4c12fdad657d034f2c090cc3570",
+   "source": "Yahoo",
+   "published": "2026-11-18T04:34:28+00:00",
+   "tickers": [
+    "RXRX"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "healthai"
    ]
   },
   {
