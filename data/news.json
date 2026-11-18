@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-18T02:03:50.597639+00:00",
+ "updated": "2026-11-18T02:17:43.534058+00:00",
  "quotes": {
   "A": {
    "price": 172.22,
@@ -266,6 +266,10 @@
    "price": 165.92,
    "change_pct": 0.37
   },
+  "NTLA": {
+   "price": 9.78,
+   "change_pct": -0.81
+  },
   "NTRA": {
    "price": 287.47,
    "change_pct": -0.35
@@ -309,10 +313,6 @@
   "RVMD": {
    "price": 162.69,
    "change_pct": -2.5
-  },
-  "SMMT": {
-   "price": 10.67,
-   "change_pct": -9.73
   }
  },
  "tickers": {
@@ -1814,6 +1814,21 @@
    "sectors": []
   },
   {
+   "id": "42887d05dbd8",
+   "headline": "Are Wall Street Analysts Predicting DexCom\u2019s Stock Will Climb or Sink?",
+   "summary": "Are analysts predicting CGM-maker DexCom to rise or fall?",
+   "url": "https://finnhub.io/api/news?id=26a171148e18a3ddfd108816bc359426dccd2bfe6f2ce5cd7d2b56e838545c3e",
+   "source": "Yahoo",
+   "published": "2026-11-17T18:13:32+00:00",
+   "tickers": [
+    "DXCM"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "6d3a6a9099d8",
    "headline": "Regeneron Pharmaceuticals Sees Growth Ahead, Eyes EYLEA HD Syringe Approval",
    "summary": "Regeneron Pharmaceuticals (NASDAQ:REGN) expects its three largest growth drivers to continue supporting revenue growth, while planning higher research and development spending and preparing for a specialty drug launch, executives said at\u2026",
@@ -2957,6 +2972,7 @@
    "source": "Yahoo",
    "published": "2026-11-17T14:58:00+00:00",
    "tickers": [
+    "AZN",
     "JNJ",
     "LLY",
     "MRK"
@@ -3146,6 +3162,7 @@
    "source": "Yahoo",
    "published": "2026-11-17T14:27:00+00:00",
    "tickers": [
+    "ARGX",
     "HALO",
     "JNJ"
    ],
@@ -4019,6 +4036,21 @@
    ]
   },
   {
+   "id": "ee547f10cf48",
+   "headline": "Cradle's Antibody Discovery Platform for Autoimmune Diseases Supports Scientific Mission of argenx",
+   "summary": "Cradle, today announced that argenx is expanding use of Cradle's end-to-end AI-driven protein engineering platform to more scientists and antibody discovery programs following successful results from its initial work.",
+   "url": "https://finnhub.io/api/news?id=59de639d525fdac6ec5ab4ad1f3117cd8afd1661cdb3b590a18f2dafc863efa9",
+   "source": "Yahoo",
+   "published": "2026-11-17T13:00:00+00:00",
+   "tickers": [
+    "ARGX"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "f5c5825b1988",
    "headline": "Want Rising Dividend Income? Invest in These 5 Dividend Growers Still Raising Payouts",
    "summary": "A stock yielding under 1% can eventually out-earn a fat static payout, but only if the raises keep coming. Five companies from five sectors claim they can deliver, though one of them just raised its dividend faster than its earnings can\u2026",
@@ -4475,6 +4507,21 @@
    "sectors": []
   },
   {
+   "id": "8c93dbca61b2",
+   "headline": "Summit Therapeutics (SMMT) Stock Sees Modest Fair Value Cut As Analysts Weigh Trial Risks",
+   "summary": "Summit Therapeutics has seen its modeled fair value per share edge down from US$30.07 to US$29.41, which gives you an updated reference point for where some analysts see long term worth. This subtle shift lines up with recent research\u2026",
+   "url": "https://finnhub.io/api/news?id=ddd40fa6e54a8a179aadcad2cc3767d68863268dcf9b1a4465b2d86a89e0162e",
+   "source": "Yahoo",
+   "published": "2026-11-17T11:14:19+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "66ccfcde5430",
    "headline": "Biogen Inc. (BIIB) Presents at Jefferies Global Healthcare Conference 2026 Transcript",
    "summary": "Biogen Inc. (BIIB) Jefferies Global Healthcare Conference 2026 November 17, 2026 8:30 AM ESTCompany ParticipantsAlisha Alaimo - President & Head of...",
@@ -4852,6 +4899,21 @@
    ]
   },
   {
+   "id": "dc95cce09192",
+   "headline": "Intellia Therapeutics (NTLA), Why Is It Back In The Spotlight?",
+   "summary": "MAGNITUDE-2 trial milestone puts Intellia Therapeutics in focus The trigger for fresh attention on Intellia Therapeutics (NTLA) is clear. The business has finished enrolling patients in MAGNITUDE-2, its Phase 3 trial of nex-z for\u2026",
+   "url": "https://finnhub.io/api/news?id=5c17110b30f71788b50e6a4a78899cf15b22f9eb048619b13d0b8c2c49ba5e2b",
+   "source": "Yahoo",
+   "published": "2026-11-17T10:10:02+00:00",
+   "tickers": [
+    "NTLA"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "d67dc0a89d61",
    "headline": "The Zacks Analyst Blog Highlights Taiwan, Johnson & Johnson, Palantir, Title and Altigen",
    "summary": "Taiwan, Johnson & Johnson, Palantir, Title and Altigen are included in this Analyst Blog.",
@@ -5201,6 +5263,21 @@
    "tag": "Analyst",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "6d8c4aed05dc",
+   "headline": "Ultragenyx Pharmaceutical Targets 2027 Profitability After Deep Cuts and Gene Therapy Launches",
+   "summary": "Ultragenyx Pharmaceutical (NASDAQ:RARE) expects to reach profitability in 2027 as it cuts spending, expands sales of existing rare-disease treatments and launches two gene therapies, executives said at the UBS Global Biopharma Conference.\u2026",
+   "url": "https://finnhub.io/api/news?id=0cc380eb619889df29b8de3a6c7ba2db6cb148a72e0833e53f8e52b5fd671845",
+   "source": "Yahoo",
+   "published": "2026-11-17T08:12:10+00:00",
+   "tickers": [
+    "RARE"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
