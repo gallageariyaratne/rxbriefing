@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-18T08:03:00.158739+00:00",
+ "updated": "2026-11-18T08:17:36.707738+00:00",
  "quotes": {
   "A": {
    "price": 172.22,
@@ -234,10 +234,6 @@
    "price": 1091.67,
    "change_pct": -1.21
   },
-  "MDGL": {
-   "price": 421.99,
-   "change_pct": -0.46
-  },
   "MDT": {
    "price": 102.32,
    "change_pct": -0.54
@@ -298,10 +294,6 @@
    "price": 145.34,
    "change_pct": 0.03
   },
-  "RARE": {
-   "price": 16.7,
-   "change_pct": 5.03
-  },
   "REGN": {
    "price": 957.76,
    "change_pct": 0.56
@@ -313,6 +305,14 @@
   "RVMD": {
    "price": 162.69,
    "change_pct": -2.5
+  },
+  "SMMT": {
+   "price": 10.67,
+   "change_pct": -9.73
+  },
+  "SNY": {
+   "price": 47.53,
+   "change_pct": -1.78
   }
  },
  "tickers": {
@@ -930,6 +930,17 @@
  },
  "stories": [
   {
+   "id": "463f48990e56",
+   "headline": "Novo expands DTC program Novocare to support Wegovy users through holistic health journey",
+   "summary": "Members who sign up for Novo's new Novocare can benefit from holistic health services meant to support Wegovy users throughout the entirety of their weight loss journey.",
+   "url": "https://www.fiercepharma.com/marketing/novo-expands-dtc-program-novocare-support-wegovy-users-through-holistic-health-journey",
+   "source": "Fierce Pharma",
+   "published": "2026-11-18T08:15:20.651265+00:00",
+   "tickers": [],
+   "tag": "GLP-1",
+   "sectors": []
+  },
+  {
    "id": "84cbc906cbed",
    "headline": "Medical costs are crushing insurers\u2014and lifting LivaNova stock",
    "summary": "Investing.com and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
@@ -937,11 +948,57 @@
    "source": "Yahoo",
    "published": "2026-11-18T07:24:07+00:00",
    "tickers": [
-    "ABT"
+    "ABT",
+    "MDT"
    ],
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "115cceb79ae1",
+   "headline": "DexCom Sees Record New Patients in 2026 as Medicare Coverage Decision Looms",
+   "summary": "DexCom (NASDAQ:DXCM) expects a record number of new patients in 2026 and is preparing for a potential expansion of Medicare coverage for continuous glucose monitoring, executives said during a discussion hosted by Jefferies. CEO Jake\u2026",
+   "url": "https://finnhub.io/api/news?id=4dd75820392b7f775c48bad5449fd903883d6263086bd2be94b1c89260b46902",
+   "source": "Yahoo",
+   "published": "2026-11-18T07:12:08+00:00",
+   "tickers": [
+    "DXCM"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "4442c46ef7d9",
+   "headline": "Does Flexible Libtayo Dosing Change The Bull Case For Regeneron Pharmaceuticals Stock?",
+   "summary": "Regeneron Pharmaceuticals reported that the European Commission has approved a new, flexible Libtayo dosing schedule across all existing EU cancer indications, including skin, lung and cervical cancers. The updated schedule introduces\u2026",
+   "url": "https://finnhub.io/api/news?id=47bb1019432726c8ac22a86350503b77922ef407f98687470e3b3c0df6b74d99",
+   "source": "Yahoo",
+   "published": "2026-11-18T07:08:23+00:00",
+   "tickers": [
+    "REGN"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "7a9bca692ead",
+   "headline": "Regeneron Pharmaceuticals (REGN), Why Is The Market Taking A Closer Look?",
+   "summary": "The fresh trigger for Regeneron Pharmaceuticals (REGN) is European Commission approval of a new, more flexible Libtayo dosing schedule across all six approved cancer uses in the EU, potentially supporting broader real world uptake.\u2026",
+   "url": "https://finnhub.io/api/news?id=a4e4f7d1b6be39fac34adcc57c92e9280e8b634a195eb658af30ca426d5582a7",
+   "source": "Yahoo",
+   "published": "2026-11-18T06:15:49+00:00",
+   "tickers": [
+    "REGN"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -39926,21 +39983,6 @@
    "tag": "News",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "f02e75ccfd3a",
-   "headline": "McKesson (MCK) Plans Medical Surgical Spin Off With $1.25 Billion Backing",
-   "summary": "McKesson (NYSE:MCK) plans to spin off its Medical-Surgical Solutions segment into a separate company, according to a recent announcement. Apollo affiliated investors agreed to invest US$1.25b in the new Medical-Surgical Solutions entity\u2026",
-   "url": "https://finnhub.io/api/news?id=3318d6893debe35096ae736a260874f928fb697dd9b77d80504c7833c679424a",
-   "source": "Yahoo",
-   "published": "2026-11-08T08:12:27+00:00",
-   "tickers": [
-    "MCK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharmacy"
    ]
   }
  ]
