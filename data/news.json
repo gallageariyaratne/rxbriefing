@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-18T10:32:38.041156+00:00",
+ "updated": "2026-11-18T10:47:39.846826+00:00",
  "quotes": {
   "A": {
    "price": 172.22,
@@ -54,10 +54,6 @@
    "price": 250.79,
    "change_pct": -0.34
   },
-  "BMRN": {
-   "price": 58.51,
-   "change_pct": 0.9
-  },
   "BMY": {
    "price": 61.35,
    "change_pct": -2.51
@@ -65,10 +61,6 @@
   "BNTX": {
    "price": 84.86,
    "change_pct": -0.47
-  },
-  "BRKR": {
-   "price": 61.36,
-   "change_pct": 1.22
   },
   "BSX": {
    "price": 43.03,
@@ -282,10 +274,6 @@
    "price": 957.76,
    "change_pct": 0.56
   },
-  "ROIV": {
-   "price": 38.71,
-   "change_pct": 0.26
-  },
   "RVMD": {
    "price": 162.69,
    "change_pct": -2.5
@@ -302,10 +290,6 @@
    "price": 47.53,
    "change_pct": -1.78
   },
-  "SRPT": {
-   "price": 14.77,
-   "change_pct": -2.38
-  },
   "SYK": {
    "price": 317.54,
    "change_pct": 2.19
@@ -313,6 +297,22 @@
   "TAK": {
    "price": 21.64,
    "change_pct": 0.23
+  },
+  "TDOC": {
+   "price": 8.49,
+   "change_pct": -2.41
+  },
+  "TGTX": {
+   "price": 62.71,
+   "change_pct": -0.08
+  },
+  "THC": {
+   "price": 282.07,
+   "change_pct": -3.25
+  },
+  "TWST": {
+   "price": 112,
+   "change_pct": 6.63
   }
  },
  "tickers": {
@@ -997,6 +997,21 @@
    ]
   },
   {
+   "id": "a404c417e778",
+   "headline": "Is Humana (HUM) Undervalued As Its Debt Buyback Reshapes The Story?",
+   "summary": "Humana (HUM) has just wrapped up a multi series bond buyback, confirming final results for up to US$1.5b of senior notes. That fresh liability mix now frames the latest read on the stock. Humana\u2019s recent bond repurchase sits against a\u2026",
+   "url": "https://finnhub.io/api/news?id=32feb5107c1e02d5d666be30693bd5e6873c02f68ec16ac752faea24673e86b1",
+   "source": "Yahoo",
+   "published": "2026-11-18T09:14:23+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "17fe26c99d65",
    "headline": "Merck axes $2.7B BTK inhibitor program after seeing phase 3 data",
    "summary": "Merck & Co. has stopped a trio of phase 3 blood cancer trials after one study suggested the benefits of the BTK inhibitor may fail to outweigh the risks, bringing the curtain down on a program stemming from a $2.7 billion takeover.",
@@ -1041,6 +1056,7 @@
    "source": "Yahoo",
    "published": "2026-11-18T08:31:57+00:00",
    "tickers": [
+    "AMGN",
     "JNJ"
    ],
    "tag": "News",
@@ -1058,6 +1074,21 @@
    "tickers": [],
    "tag": "GLP-1",
    "sectors": []
+  },
+  {
+   "id": "827122ae91ad",
+   "headline": "Cardinal Health (CAH) Is Facing Multiple Class I Medical Kit Recalls",
+   "summary": "Cardinal Health (NYSE:CAH) is facing multiple ongoing Class I recalls of Presource PBDS kits that contain BD Alaris Pump Infusion Sets due to reported performance issues. The affected recalls, classified by regulators as the most serious\u2026",
+   "url": "https://finnhub.io/api/news?id=baebfbab3f54cb535d2759586de53e10b21d27fc8d49b1c406ecec71714aaafb",
+   "source": "Yahoo",
+   "published": "2026-11-18T08:15:09+00:00",
+   "tickers": [
+    "CAH"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "pharmacy"
+   ]
   },
   {
    "id": "81bd89756673",
@@ -1254,6 +1285,21 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "3434222e35bd",
+   "headline": "Artisan Global Discovery Fund Q3 2026 Portfolio Activity",
+   "summary": "During the quarter, we initiated new positions in Manhattan Associates, Okta and Clean Harbors.",
+   "url": "https://finnhub.io/api/news?id=4f97526bab03032f3fbf08f91c7fee914d6440007e9fd2e7bf5d39db02682641",
+   "source": "SeekingAlpha",
+   "published": "2026-11-18T04:46:00+00:00",
+   "tickers": [
+    "TWST"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
    ]
   },
   {
