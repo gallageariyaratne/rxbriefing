@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-18T08:47:37.752989+00:00",
+ "updated": "2026-11-18T09:02:43.898326+00:00",
  "quotes": {
   "A": {
    "price": 172.22,
@@ -214,10 +214,6 @@
    "price": 278.7,
    "change_pct": -1.36
   },
-  "LEGN": {
-   "price": 16.11,
-   "change_pct": 0.75
-  },
   "LFST": {
    "price": 14.17,
    "change_pct": -2.14
@@ -313,6 +309,10 @@
   "SNY": {
    "price": 47.53,
    "change_pct": -1.78
+  },
+  "SRPT": {
+   "price": 14.77,
+   "change_pct": -2.38
   }
  },
  "tickers": {
@@ -929,6 +929,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "17fe26c99d65",
+   "headline": "Merck axes $2.7B BTK inhibitor program after seeing phase 3 data",
+   "summary": "Merck & Co. has stopped a trio of phase 3 blood cancer trials after one study suggested the benefits of the BTK inhibitor may fail to outweigh the risks, bringing the curtain down on a program stemming from a $2.7 billion takeover.",
+   "url": "https://www.fiercebiotech.com/biotech/merck-axes-27b-btk-inhibitor-program-after-seeing-phase-3-data",
+   "source": "Fierce Biotech",
+   "published": "2026-11-18T09:00:28.085928+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "pharma"
+   ]
+  },
   {
    "id": "223ab8ff8733",
    "headline": "Cognito phase 3 flops in light-and-sound Alzheimer's trial, but sees \u2018signal\u2019 for HOPE",
