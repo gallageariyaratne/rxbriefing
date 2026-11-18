@@ -1,13 +1,13 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-18T21:03:43.637214+00:00",
+ "updated": "2026-11-18T21:18:15.294199+00:00",
  "quotes": {
   "A": {
-   "price": 177.26,
-   "change_pct": 2.93
+   "price": 177.33,
+   "change_pct": 2.97
   },
   "ABBV": {
-   "price": 286,
+   "price": 286.01,
    "change_pct": -2.33
   },
   "ABT": {
@@ -63,8 +63,8 @@
    "change_pct": -2.96
   },
   "CNC": {
-   "price": 67.42,
-   "change_pct": -7.07
+   "price": 67.45,
+   "change_pct": -7.03
   },
   "COR": {
    "price": 348.31,
@@ -83,8 +83,8 @@
    "change_pct": -5.2
   },
   "DHR": {
-   "price": 228.41,
-   "change_pct": 1.17
+   "price": 228.58,
+   "change_pct": 1.24
   },
   "DXCM": {
    "price": 82.52,
@@ -135,8 +135,8 @@
    "change_pct": 3.32
   },
   "HUM": {
-   "price": 385.4,
-   "change_pct": -13.07
+   "price": 385.78,
+   "change_pct": -12.98
   },
   "IDXX": {
    "price": 698.47,
@@ -183,8 +183,8 @@
    "change_pct": 0.69
   },
   "LLY": {
-   "price": 1382.55,
-   "change_pct": -2.33
+   "price": 1382.75,
+   "change_pct": -2.32
   },
   "MCK": {
    "price": 1084.43,
@@ -207,8 +207,8 @@
    "change_pct": -6.62
   },
   "MRK": {
-   "price": 137.75,
-   "change_pct": -3.92
+   "price": 137.78,
+   "change_pct": -3.9
   },
   "MRNA": {
    "price": 196.79,
@@ -238,10 +238,6 @@
    "price": 27.57,
    "change_pct": -7.61
   },
-  "PACB": {
-   "price": 1.83,
-   "change_pct": 0.55
-  },
   "PFE": {
    "price": 28.06,
    "change_pct": -1.44
@@ -270,17 +266,9 @@
    "price": 10.5,
    "change_pct": -1.59
   },
-  "SNY": {
-   "price": 47.12,
-   "change_pct": -0.86
-  },
   "SYK": {
    "price": 318.15,
    "change_pct": 0.19
-  },
-  "TAK": {
-   "price": 21.27,
-   "change_pct": -1.71
   },
   "TDOC": {
    "price": 8.06,
@@ -317,6 +305,18 @@
   "VKTX": {
    "price": 26.17,
    "change_pct": -2.64
+  },
+  "VRTX": {
+   "price": 536.45,
+   "change_pct": 0.42
+  },
+  "WAT": {
+   "price": 466.1,
+   "change_pct": 3.63
+  },
+  "WAY": {
+   "price": 27.54,
+   "change_pct": -0.47
   }
  },
  "tickers": {
@@ -934,6 +934,21 @@
  },
  "stories": [
   {
+   "id": "d8a2d7ed720e",
+   "headline": "BMS' ph. 3 Alzheimer's psychosis teaser builds confidence in Cobenfy expansion plan",
+   "summary": "After delaying the phase 3 readout of its Alzheimer\u2019s psychosis program for Cobenfy earlier this year, Bristol Myers Squibb is offering an early peek that appears to bode well for the high-stakes data drops ahead, even as the fine details\u2026",
+   "url": "https://www.fiercepharma.com/pharma/bms-ph-3-alzheimers-agitation-teaser-builds-confidence-cobenfy-expansion-plan",
+   "source": "Fierce Pharma",
+   "published": "2026-11-18T21:15:23.314712+00:00",
+   "tickers": [
+    "BMY"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "b33bd2be79e2",
    "headline": "STAT+: NIH to move last group of its research chimps to a sanctuary",
    "summary": "The last chimpanzees owned by the U.S. government and still living in a laboratory will be moved to a sanctuary next year.",
@@ -1090,6 +1105,21 @@
     "MRK"
    ],
    "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "7f3b0ff4c951",
+   "headline": "Regeneron Wins EC Clearance for Libtayo Dosing Flexibility",
+   "summary": "REGN gains EC approval for flexible Libtayo dosing across six cancer indications, potentially improving patient convenience and strengthening its oncology business.",
+   "url": "https://finnhub.io/api/news?id=c89d274b329182f86668584d1fb0c98d5c72a55d89af43b3d367df3f0abe4f53",
+   "source": "Yahoo",
+   "published": "2026-11-18T18:10:00+00:00",
+   "tickers": [
+    "REGN"
+   ],
+   "tag": "FDA",
    "sectors": [
     "pharma"
    ]
@@ -43123,21 +43153,6 @@
    "tag": "Earnings",
    "sectors": [
     "pharmacy"
-   ]
-  },
-  {
-   "id": "21971c3700d2",
-   "headline": "The top 5 analyst questions from CVS Health\u2019s Q3 2026 earnings call",
-   "summary": "CVS Health\u2019s latest quarter saw the company deliver revenue and profit above Wall Street\u2019s expectations, but the market responded negatively. Management pointed to consistent gains in its core segments, driven by pharmacy strength and\u2026",
-   "url": "https://finnhub.io/api/news?id=cad7056f8af80516017f0472978bf32cce366fef86e00317fa78b8e81145ca7b",
-   "source": "Yahoo",
-   "published": "2026-11-08T21:09:36+00:00",
-   "tickers": [
-    "CVS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
    ]
   }
  ]
