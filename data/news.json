@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-18T01:47:40.434335+00:00",
+ "updated": "2026-11-18T02:03:50.597639+00:00",
  "quotes": {
   "A": {
    "price": 172.22,
@@ -158,6 +158,10 @@
    "price": 243.25,
    "change_pct": -0.67
   },
+  "GMED": {
+   "price": 69.99,
+   "change_pct": -0.72
+  },
   "GSK": {
    "price": 49.24,
    "change_pct": -2.32
@@ -262,6 +266,10 @@
    "price": 165.92,
    "change_pct": 0.37
   },
+  "NTRA": {
+   "price": 287.47,
+   "change_pct": -0.35
+  },
   "NVO": {
    "price": 40.7,
    "change_pct": -2.16
@@ -305,10 +313,6 @@
   "SMMT": {
    "price": 10.67,
    "change_pct": -9.73
-  },
-  "SRPT": {
-   "price": 14.77,
-   "change_pct": -2.38
   }
  },
  "tickers": {
@@ -1623,7 +1627,8 @@
    "source": "Yahoo",
    "published": "2026-11-17T19:13:00+00:00",
    "tickers": [
-    "IDXX"
+    "IDXX",
+    "TGTX"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -2176,6 +2181,21 @@
    "tag": "Policy",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "3d0150fa1f0f",
+   "headline": "HLTH 2026 Names Natera Best-in-Class Winner in Cancer, Screening & Early Detection",
+   "summary": "AUSTIN, Texas, November 17, 2026--Natera, Inc. (Nasdaq: NTRA), a global leader in cell-free DNA and precision medicine, today announced that it has been named the Best in Class winner in the Cancer, Screening & Early Detection category at\u2026",
+   "url": "https://finnhub.io/api/news?id=62ed5e811fc261d85ddaaaafddf128cb8a58a04cc44cecececf2bfd2447b047b",
+   "source": "Yahoo",
+   "published": "2026-11-17T16:45:00+00:00",
+   "tickers": [
+    "NTRA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -4390,7 +4410,8 @@
     "DGX",
     "GH",
     "ILMN",
-    "LH"
+    "LH",
+    "NTRA"
    ],
    "tag": "News",
    "sectors": [
