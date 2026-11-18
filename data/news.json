@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-18T01:38:08.672446+00:00",
+ "updated": "2026-11-18T01:47:40.434335+00:00",
  "quotes": {
   "A": {
    "price": 172.22,
@@ -9,10 +9,6 @@
   "ABBV": {
    "price": 292.82,
    "change_pct": -0.59
-  },
-  "ABSI": {
-   "price": 7.58,
-   "change_pct": 1.4
   },
   "ABT": {
    "price": 104.71,
@@ -162,10 +158,6 @@
    "price": 243.25,
    "change_pct": -0.67
   },
-  "GMED": {
-   "price": 69.99,
-   "change_pct": -0.72
-  },
   "GSK": {
    "price": 49.24,
    "change_pct": -2.32
@@ -313,6 +305,10 @@
   "SMMT": {
    "price": 10.67,
    "change_pct": -9.73
+  },
+  "SRPT": {
+   "price": 14.77,
+   "change_pct": -2.38
   }
  },
  "tickers": {
@@ -1182,6 +1178,21 @@
    ]
   },
   {
+   "id": "fd30bc5e685d",
+   "headline": "Nelkarmi (neladalkib) approved in the US for previously-treated advanced ALK-positive non-small cell lung cancer",
+   "summary": "PHILADELPHIA, November 17, 2026--Nelkarmi (neladalkib) approved in the US for previously-treated advanced ALK-positive non-small cell lung cancer",
+   "url": "https://finnhub.io/api/news?id=9efcf668c443c4269da55c58407ef8443d764c2e1a69c86fd39a1f67a967620c",
+   "source": "Yahoo",
+   "published": "2026-11-17T22:00:00+00:00",
+   "tickers": [
+    "GSK"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "669aae7924ae",
    "headline": "Why Veeva Systems (VEEV) Dipped More Than Broader Market Today",
    "summary": "In the latest trading session, Veeva Systems (VEEV) closed at $289.64, marking a -3.22% move from the previous day.",
@@ -1574,6 +1585,21 @@
     "PFE"
    ],
    "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "391291a31f88",
+   "headline": "GSK wins FDA approval for lung cancer drug Nelkarmi",
+   "summary": "Investing.com -- GSK Plc received US Food and Drug Administration approval for its lung cancer drug neladalkib, which will be marketed under the brand name Nelkarmi. The approval adds validation to the British drugmaker's acquisition of\u2026",
+   "url": "https://finnhub.io/api/news?id=8193477c2d4872fd16bbea832d8d5ed170a6009b17b7f1f885b9a3b391036c66",
+   "source": "Yahoo",
+   "published": "2026-11-17T19:18:19+00:00",
+   "tickers": [
+    "GSK"
+   ],
+   "tag": "FDA",
    "sectors": [
     "pharma"
    ]
@@ -4785,6 +4811,21 @@
     "NVS"
    ],
    "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "560ce1ea8cae",
+   "headline": "GSK Targets \u00a340 Billion in Sales as HIV Patent Cliff Looms",
+   "summary": "GSK (NYSE:GSK) expects to grow through the loss of patent protection for key HIV medicines, relying on a pipeline of new treatments, an expanding oncology business and continued dealmaking, President of Business Development David Redfern\u2026",
+   "url": "https://finnhub.io/api/news?id=12bcdc9aab277be474a7ef2d6da8bee464c6dfde82ce46034596f7a0290043c4",
+   "source": "Yahoo",
+   "published": "2026-11-17T10:12:09+00:00",
+   "tickers": [
+    "GSK"
+   ],
+   "tag": "Legal",
    "sectors": [
     "pharma"
    ]
