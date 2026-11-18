@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-18T02:47:34.848493+00:00",
+ "updated": "2026-11-18T03:02:44.587302+00:00",
  "quotes": {
   "A": {
    "price": 172.22,
@@ -290,6 +290,10 @@
    "price": 29.84,
    "change_pct": -4.76
   },
+  "PACB": {
+   "price": 1.82,
+   "change_pct": -1.09
+  },
   "PFE": {
    "price": 28.47,
    "change_pct": -1.35
@@ -309,10 +313,6 @@
   "REGN": {
    "price": 957.76,
    "change_pct": 0.56
-  },
-  "ROIV": {
-   "price": 38.71,
-   "change_pct": 0.26
   }
  },
  "tickers": {
@@ -1287,7 +1287,8 @@
    "source": "Yahoo",
    "published": "2026-11-17T21:45:00+00:00",
    "tickers": [
-    "BIIB"
+    "BIIB",
+    "IONS"
    ],
    "tag": "Clinical",
    "sectors": [
@@ -1453,11 +1454,27 @@
    "published": "2026-11-17T21:12:07+00:00",
    "tickers": [
     "PFE",
+    "SNY",
     "TAK"
    ],
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "948949deb84a",
+   "headline": "PacBio to Participate in the Piper Sandler 38th Annual Healthcare Conference",
+   "summary": "MENLO PARK, Calif., Nov. 17, 2026 (GLOBE NEWSWIRE) -- PacBio (NASDAQ: PACB), a leading developer of high-quality, highly accurate sequencing solutions, announced today that management will participate in a fireside chat at the Piper\u2026",
+   "url": "https://finnhub.io/api/news?id=0cd02558407fb8ece207f161a53a0f587d8691ed88ea94b1aec15976aad51b65",
+   "source": "Yahoo",
+   "published": "2026-11-17T21:05:00+00:00",
+   "tickers": [
+    "PACB"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -1597,6 +1614,7 @@
     "ALNY",
     "BIIB",
     "GILD",
+    "IONS",
     "REGN",
     "VRTX"
    ],
@@ -2138,6 +2156,7 @@
    "published": "2026-11-17T17:13:00+00:00",
    "tickers": [
     "BMY",
+    "RVMD",
     "SMMT"
    ],
    "tag": "FDA",
@@ -4283,7 +4302,8 @@
    "published": "2026-11-17T12:15:54+00:00",
    "tickers": [
     "CRSP",
-    "LLY"
+    "LLY",
+    "SNY"
    ],
    "tag": "News",
    "sectors": [
@@ -5408,6 +5428,21 @@
    "tag": "News",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "f77017eedc2b",
+   "headline": "TRYNGOLZA\u2122 (olezarsen) approved in the EU for severe hypertriglyceridemia (sHTG)",
+   "summary": "CARLSBAD, Calif., November 17, 2026--Ionis Pharmaceuticals, Inc. (Nasdaq: IONS) today announced that the European Commission (EC) has approved TRYNGOLZA\u2122 (olezarsen) as an adjunct to diet, in combination with other lipid-lowering\u2026",
+   "url": "https://finnhub.io/api/news?id=17f0a0a6102cb04c7ce1e8359b65825cf33a1273a3ac82372bec552679396415",
+   "source": "Yahoo",
+   "published": "2026-11-17T08:03:00+00:00",
+   "tickers": [
+    "IONS"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "biotech"
    ]
   },
   {
