@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-19T13:17:31.913482+00:00",
+ "updated": "2026-11-19T13:32:46.806924+00:00",
  "quotes": {
   "A": {
    "price": 177.33,
@@ -57,6 +57,10 @@
   "BMY": {
    "price": 59.56,
    "change_pct": -2.92
+  },
+  "BSX": {
+   "price": 43.64,
+   "change_pct": 1.42
   },
   "CAH": {
    "price": 278.32,
@@ -249,10 +253,6 @@
   "PODD": {
    "price": 139.98,
    "change_pct": -3.69
-  },
-  "PRVA": {
-   "price": 24.6,
-   "change_pct": -1.56
   },
   "REGN": {
    "price": 945.53,
@@ -934,6 +934,17 @@
  },
  "stories": [
   {
+   "id": "a6a2bd806880",
+   "headline": "Teva loses R&D head Eric Hughes amid push to grow innovative medicines business",
+   "summary": "Teva\u2019s R&D chief Eric Hughes, M.D., Ph.D., has resigned one week after the company showcased its push to grow its innovative medicines business.",
+   "url": "https://www.fiercebiotech.com/biotech/teva-loses-rd-head-eric-hughes-amid-push-grow-innovative-medicines-business",
+   "source": "Fierce Biotech",
+   "published": "2026-11-19T13:30:24.371634+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
    "id": "17cd804b7276",
    "headline": "Novartis CEO argues shareholders \u2018happy overall\u2019 with strategy, calls for COINS Act adjustment",
    "summary": "Despite a bumpy few months for Novartis that saw a couple of high-profile clinical setbacks, CEO Vas Narasimhan has told Fierce he believes most shareholders remain onside with the company\u2019s strategy.",
@@ -986,6 +997,51 @@
    "sectors": []
   },
   {
+   "id": "488049e4efd6",
+   "headline": "Why Is Humana Stock Falling?",
+   "summary": "Today's big story: Could Anthropic Stock Fall 25.",
+   "url": "https://finnhub.io/api/news?id=74e0213655199c09f318f0a8d1a4731db1f4b1dc7edace401bf6a564b66521d9",
+   "source": "Yahoo",
+   "published": "2026-11-19T12:41:40+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "784b32000852",
+   "headline": "Could Hims & Hers Stock Fall 63% Again?",
+   "summary": "Today's big story: Could Anthropic Stock Fall 25.",
+   "url": "https://finnhub.io/api/news?id=793910213d83e750ebc677e613312dbfa63e66590e4597409cb8d5ca79f114c6",
+   "source": "Yahoo",
+   "published": "2026-11-19T12:41:40+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "ad46282ac400",
+   "headline": "What Just Happened To UnitedHealth Stock?",
+   "summary": "Today's big story: Could Anthropic Stock Fall 25.",
+   "url": "https://finnhub.io/api/news?id=7299eb0c2b71b6741b409f5c5e076c4c0d67bf857294b5b54e405f2fc5f730b1",
+   "source": "Yahoo",
+   "published": "2026-11-19T12:37:19+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "892a72eaec3d",
    "headline": "UnitedHealth Shares Sink as New Federal Fraud Crackdown Sparks Healthcare Sell-Off",
    "summary": "UnitedHealth, Humana and CVS Tumble as Medicare Fraud Proposal Rattles Insurers",
@@ -993,7 +1049,8 @@
    "source": "Yahoo",
    "published": "2026-11-19T12:25:29+00:00",
    "tickers": [
-    "CI"
+    "CI",
+    "CVS"
    ],
    "tag": "Policy",
    "sectors": [
@@ -1008,6 +1065,7 @@
    "source": "Yahoo",
    "published": "2026-11-19T12:20:45+00:00",
    "tickers": [
+    "CVS",
     "MOH"
    ],
    "tag": "News",
@@ -1034,7 +1092,8 @@
    "source": "Yahoo",
    "published": "2026-11-19T12:12:25+00:00",
    "tickers": [
-    "CI"
+    "CI",
+    "CVS"
    ],
    "tag": "News",
    "sectors": [
@@ -1049,6 +1108,7 @@
    "source": "Yahoo",
    "published": "2026-11-19T12:08:04+00:00",
    "tickers": [
+    "BMY",
     "MRK"
    ],
    "tag": "News",
@@ -1118,6 +1178,36 @@
    ]
   },
   {
+   "id": "4001e12d22a0",
+   "headline": "Aetna Commits to Connecting 90% of Members to Essential, End-to-End Maternal and Infant Care by 2032 with Launch of the Aetna For You & Baby Initiative",
+   "summary": "Aetna\u00ae, a CVS Health\u00ae company (NYSE: CVS), today launched Aetna For You & Baby, a five-year initiative to connect 90% of Aetna's expecting mothers and their babies to essential, end-to-end care, representing a 30-percentage-point\u2026",
+   "url": "https://finnhub.io/api/news?id=d9bf10c63fe7e37d24d0462d4a4e1564e090c4fb2f9431181d16492c26309be4",
+   "source": "Yahoo",
+   "published": "2026-11-19T12:00:00+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "6dc286e3961a",
+   "headline": "Bristol Myers Squibb Demonstrates Breadth and Clinical Momentum Across Blood Cancers and Rare Hematologic Disorders at ASH 2026",
+   "summary": "PRINCETON, N.J., November 19, 2026--Bristol Myers Squibb Demonstrates Breadth and Clinical Momentum Across Blood Cancers and Rare Hematologic Disorders at ASH 2026",
+   "url": "https://finnhub.io/api/news?id=2d2b2afa524749b2257dbdedcede0b4767d0d4cb6768a935aaf36df8ebc1ac25",
+   "source": "Yahoo",
+   "published": "2026-11-19T11:59:00+00:00",
+   "tickers": [
+    "BMY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "cdcb0b1a3622",
    "headline": "If You Ran Abbott, What Would You Do?",
    "summary": "Today's big story: Could Anthropic Stock Fall 25.",
@@ -1125,6 +1215,7 @@
    "source": "Yahoo",
    "published": "2026-11-19T11:51:28+00:00",
    "tickers": [
+    "BSX",
     "TMO"
    ],
    "tag": "News",
@@ -42262,208 +42353,6 @@
    "tag": "Earnings",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "aeac9e4910ba",
-   "headline": "Premarket Movers on Nov. 9, 2026: Small-Cap Gainers and Losers",
-   "summary": "Premarket trading on Nov. 9, 2026 showed sharp two-way moves in small-cap stocks, led by JDZG, NWGL and GFR on the upside and ZURA, SOC and PLCE on the downside.",
-   "url": "https://finnhub.io/api/news?id=6335fe8fbec2565ee994c0a598dd2f30cec01fd4cf153566909117b91b663f0a",
-   "source": "ChartMill",
-   "published": "2026-11-09T13:30:49+00:00",
-   "tickers": [
-    "IONS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "732f6e904dba",
-   "headline": "Asking More of Science: How Daiichi Sankyo Is Challenging Assumptions About the Future of Cancer Care",
-   "summary": "See how Daiichi Sankyo is asking more of science to bring the next wave of innovation to patients.",
-   "url": "https://www.fiercepharma.com/sponsored/asking-more-science-how-daiichi-sankyo-challenging-assumptions-about-future-cancer-care",
-   "source": "Fierce Pharma",
-   "published": "2026-11-09T13:30:26.528209+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "b50a0941f56b",
-   "headline": "Agentic AI Is Rewriting The Pharma Marketing Playbook",
-   "summary": "AI is transforming how the pharma industry approaches drug development.",
-   "url": "https://www.fiercepharma.com/sponsored/agentic-ai-rewriting-pharma-marketing-playbook-0",
-   "source": "Fierce Pharma",
-   "published": "2026-11-09T13:30:26.527410+00:00",
-   "tickers": [],
-   "tag": "Health AI",
-   "sectors": []
-  },
-  {
-   "id": "9347533c0807",
-   "headline": "TG Therapeutics (TGTX) Reports Q3 Earnings: What Key Metrics Have to Say",
-   "summary": "The headline numbers for TG Therapeutics (TGTX) give insight into how the company performed in the quarter ended September 2026, but it may be worthwhile to compare some of its key metrics to Wall Street estimates and the year-ago actuals.",
-   "url": "https://finnhub.io/api/news?id=43a6d6e28da816c6e46b0dac1207340f186f0d563bcbb1b0f997ac912ee6d3ab",
-   "source": "Yahoo",
-   "published": "2026-11-09T13:30:04+00:00",
-   "tickers": [
-    "TGTX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "669ebb92f96a",
-   "headline": "Ionis Pharmaceuticals (IONS) Reports Q3 Earnings: What Key Metrics Have to Say",
-   "summary": "While the top- and bottom-line numbers for Ionis Pharmaceuticals (IONS) give a sense of how the business performed in the quarter ended September 2026, it could be worth looking at how some of its key metrics compare to Wall Street\u2026",
-   "url": "https://finnhub.io/api/news?id=05751340caa991c45aa82599c11b1c555bae6b223ce0c51ceb0aab6ce22a1186",
-   "source": "Yahoo",
-   "published": "2026-11-09T13:30:03+00:00",
-   "tickers": [
-    "IONS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "a783349a6d4a",
-   "headline": "TransMedics (TMDX) Recently Broke Out Above the 50-Day Moving Average",
-   "summary": "When a stock breaks out above the 50-Day simple moving average, good things could be on the horizon. How should investors react?",
-   "url": "https://finnhub.io/api/news?id=7faeb2125cdab0ecb8e8f4fd72cec7c5634043f930bf50baa89d2abc7316646e",
-   "source": "Yahoo",
-   "published": "2026-11-09T13:30:02+00:00",
-   "tickers": [
-    "TMDX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "f869023f5074",
-   "headline": "Eli Lilly Shares Rise 2.35% After Jefferies Raises Price Target to $1,700",
-   "summary": "Eli Lilly and Company (NYSE:LLY) shares advanced 2. 35% to $1,385.",
-   "url": "https://finnhub.io/api/news?id=9a8f9db71b481f3d5b4e0c77f3fb8c68740cf9b3183886370aacf804eb0d8b91",
-   "source": "Yahoo",
-   "published": "2026-11-09T13:29:19+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "5fb9a642dad1",
-   "headline": "Morgan Stanley Maintains Overweight on Celldex Therapeutics, Raises Price Target to $61",
-   "summary": "Morgan Stanley analyst Judah Frommer maintains Celldex Therapeutics (NASDAQ:CLDX) with a Overweight and raises the price target from $57 to $61.",
-   "url": "https://finnhub.io/api/news?id=315124a5cd59d7bb8b5bcf9ab6448fa032b416f936ed95c760181cde9ad901a4",
-   "source": "Benzinga",
-   "published": "2026-11-09T13:27:49+00:00",
-   "tickers": [
-    "CLDX"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "2d07150ae1c4",
-   "headline": "TG Therapeutics\u2019 CEO Sees Global Revenue Exceeding $1B In 2026 \u2013 BRIUMVI Drives Q3 Topline Beat",
-   "summary": "TG Therapeutics reported Q3 revenue of $259.9 million, beating Wall Street\u2019s estimate of $245.5 million, according to Fiscal.ai.",
-   "url": "https://finnhub.io/api/news?id=a3263f9ec04d70b858fe0f933285cffe24be3facfe694a8de48516b415e44779",
-   "source": "Yahoo",
-   "published": "2026-11-09T13:26:58+00:00",
-   "tickers": [
-    "TGTX"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "cf964e35e521",
-   "headline": "Immunovant Meets Primary Endpoint In Difficult-To-Treat Rheumatoid Arthritis Study",
-   "summary": "Immunovant reports positive trial results for IMVT-1402 in rheumatoid arthritis and plans FDA discussions on a registrational pathway.",
-   "url": "https://finnhub.io/api/news?id=79da0cf5272561ca2ae57c80bc61bc8005309e8a53dfa55c2c9589a9f7d25dee",
-   "source": "Benzinga",
-   "published": "2026-11-09T13:23:43+00:00",
-   "tickers": [
-    "IMVT"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "350d2ff9e795",
-   "headline": "Humana Commences Offers to Purchase for Cash Certain of its Outstanding Debt Securities",
-   "summary": "LOUISVILLE, Ky., November 09, 2026--Humana Inc. (NYSE: HUM) (\"Humana\", \"we\", or \"our\") today announced that it has commenced cash tender offers (collectively, the \"Offers\") to purchase the outstanding notes described below, in each case\u2026",
-   "url": "https://finnhub.io/api/news?id=3cd1b96082c7b9beb43a825a1a3fa6f36aaec93b222c57d46c8d5c4231b139c8",
-   "source": "Yahoo",
-   "published": "2026-11-09T13:23:00+00:00",
-   "tickers": [
-    "HUM"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "46d9c696f4b0",
-   "headline": "Charles River Laboratories to Acquire Frontage\u2019s Bioanalysis and DMPK Businesses",
-   "summary": "",
-   "url": "https://finnhub.io/api/news?id=c2e316794819ac03769e28ef710c29deb2aea8382e4cf7e7152342e5b616a3c7",
-   "source": "Fintel",
-   "published": "2026-11-09T13:22:46+00:00",
-   "tickers": [
-    "CRL"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "211e857e5088",
-   "headline": "Moderna Q3 Earnings Call Highlights Raised Outlook and Oncology",
-   "summary": "MRNA raises its 2026 revenue growth outlook after strong Q3 results, lower costs and respiratory vaccine gains, while advancing its oncology pipeline.",
-   "url": "https://finnhub.io/api/news?id=51670f9c7c24c76d7fbaad2d555e49d0b8f77c474c05c905738ec169e32e2f53",
-   "source": "Yahoo",
-   "published": "2026-11-09T13:20:00+00:00",
-   "tickers": [
-    "MRNA"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "18103d6c26be",
-   "headline": "Humana Analysts Raise Their Forecasts After Q3 Results",
-   "summary": "Humana beat Q3 loss and revenue estimates, raised 2026 EPS guidance, and saw analysts lift price targets to $495-$587.",
-   "url": "https://finnhub.io/api/news?id=2959b7325f1433f51a169b32cf2eec3af4d18aa830ac50f4cbf8fa16957eb9d7",
-   "source": "Benzinga",
-   "published": "2026-11-09T13:17:37+00:00",
-   "tickers": [
-    "HUM"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
    ]
   }
  ]
