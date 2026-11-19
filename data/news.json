@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-19T10:17:39.930159+00:00",
+ "updated": "2026-11-19T10:32:31.982705+00:00",
  "quotes": {
   "A": {
    "price": 177.33,
@@ -222,10 +222,6 @@
    "price": 646.87,
    "change_pct": -0.95
   },
-  "MOH": {
-   "price": 206.56,
-   "change_pct": -6.62
-  },
   "MRK": {
    "price": 137.78,
    "change_pct": -3.9
@@ -317,6 +313,10 @@
   "TWST": {
    "price": 116.35,
    "change_pct": 3.88
+  },
+  "TXG": {
+   "price": 57.07,
+   "change_pct": 1.37
   }
  },
  "tickers": {
@@ -934,6 +934,21 @@
  },
  "stories": [
   {
+   "id": "b20a8934bf24",
+   "headline": "Bristol-Myers Squibb (NYSE:BMY): Dividend Quality Screen Highlights Income Case and Sustainability Risk",
+   "summary": "BMY screens well for dividends with a 4.58% yield and strong profitability, but investors should watch payout sustainability and balance-sheet risks.",
+   "url": "https://finnhub.io/api/news?id=75ddbc2f22fc8d1da4723c554e03cd0cb8fe9fd271ed01fbc3330c22172b469b",
+   "source": "ChartMill",
+   "published": "2026-11-19T10:11:07+00:00",
+   "tickers": [
+    "BMY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "508808d66a0a",
    "headline": "AbbVie busts a move with Disco in $2.5B dance aimed at bispecific discovery",
    "summary": "AbbVie is twirling onto the dance floor with Disco Pharmaceuticals, offering up to $2.5 billion to work with the German platform company on cancer-targeted bispecific discovery.",
@@ -984,6 +999,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "356d213a6024",
+   "headline": "Evotec shares rise after second IND acceptance with Bristol Myers",
+   "summary": "Investing.com -- Evotec SE shares climbed 2% on Thursday after the company said that its protein degradation partnership with Bristol Myers Squibb received a second Investigational New Drug acceptance from the U.S. Food and Drug\u2026",
+   "url": "https://finnhub.io/api/news?id=b4b9af59e1c2af99cfe870464e7176f7e7f801cbca04b859e0243f9d02a3aeee",
+   "source": "Yahoo",
+   "published": "2026-11-19T09:10:58+00:00",
+   "tickers": [
+    "BMY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "5e80c97de345",
@@ -43109,114 +43139,6 @@
     "TGTX"
    ],
    "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "be73bff01e46",
-   "headline": "FDA Decision Watch: Summit\u2019s Lung Cancer Drug, Cytokinetics\u2019 Heart Therapy And Teva\u2019s Igalmi In Spotlight This Week",
-   "summary": "The FDA is set to announce its verdict on three closely watched therapies this week, ahead of a busy month which includes a decision on Capricor Therapeutics\u2019 Deramiocel.",
-   "url": "https://finnhub.io/api/news?id=89dc888c18ae70480a67f7948254d7afef7df00db0ecd9ed2a4d61e81ea88024",
-   "source": "Yahoo",
-   "published": "2026-11-09T10:23:04+00:00",
-   "tickers": [
-    "CYTK",
-    "JNJ",
-    "SMMT"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "2617bfd29d73",
-   "headline": "Company News for Nov 9, 2026",
-   "summary": "Companies In The News Are:FLY,ASTS,LRCX,HUM and BEN",
-   "url": "https://finnhub.io/api/news?id=057ad9137bad302b30892ee6500af2f0f35654171957d00302f21c676b54aeae",
-   "source": "Yahoo",
-   "published": "2026-11-09T10:21:00+00:00",
-   "tickers": [
-    "HUM"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "0eea01cecbfb",
-   "headline": "Truist Securities Maintains Buy on iRhythm Holdings, Lowers Price Target to $140",
-   "summary": "Truist Securities analyst Richard Newitter maintains iRhythm Holdings (NASDAQ:IRTC) with a Buy and lowers the price target from $168 to $140.",
-   "url": "https://finnhub.io/api/news?id=b7425cbe868730f068db0dfd05ce0d44e8cb98f921dcd13609e832a6923a9fcb",
-   "source": "Benzinga",
-   "published": "2026-11-09T10:20:13+00:00",
-   "tickers": [
-    "IRTC"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "a5b8b7776659",
-   "headline": "BioNTech vs. Moderna: The COVID Vaccine Giants Are Entering a New Era. One Stock Could Have the Edge for 2027",
-   "summary": "Five years after their pandemic-era success, BioNTech and Moderna are racing to transform promising medical breakthroughs into sustainable businesses.",
-   "url": "https://finnhub.io/api/news?id=2a1dc2337461e1a543773683ae563c3d165cfe913cacde307743988ddcb8e845",
-   "source": "Yahoo",
-   "published": "2026-11-09T10:20:02+00:00",
-   "tickers": [
-    "BMY",
-    "MRNA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "70df21de8dc4",
-   "headline": "Illumina Launches Early Access Program To Support Ultrasensitive Research Into Molecular Residual Disease And Tumor Evolution",
-   "summary": "Early access program launches to support ultrasensitive research into molecular residual disease and tumor evolution.New chemistry is optimized for highest possible accuracy, with reproducible detection of ctDNA at 2.5",
-   "url": "https://finnhub.io/api/news?id=e506fe3cc75e900f1df21ee8c0bea09fa339146aabc1f08f0a4dfd5961020da3",
-   "source": "Benzinga",
-   "published": "2026-11-09T10:19:47+00:00",
-   "tickers": [
-    "ILMN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "c5b5c6c2d24b",
-   "headline": "HEQ: Focus On Value Could Be Good For This Fund Right Now",
-   "summary": "Explore HEQ\u00e2\u0080\u0099s 8.85% yield, value-stock focus, and 9.31% NAV discount to see if this diversified income fund fits your portfolio now.",
-   "url": "https://finnhub.io/api/news?id=4e47b1f4c792cdac3ded3e9f302d29bdb99877996b9946bf83395cc735877394",
-   "source": "SeekingAlpha",
-   "published": "2026-11-09T10:19:32+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "38e100697714",
-   "headline": "CRISPR Therapeutics Reports 65% ANGPTL3 And 63% Triglyceride Reductions With CTX310 In Phase 1b Trial For Severe Hypertriglyceridemia; Well Tolerated, With No Treatment-Related Serious Adverse Events And No Clinically Relevant Elevations In Liver Transaminases",
-   "summary": "-Data presented in a late-breaking oral presentation at AHA--A single-course treatment with CTX310 produced a mean reduction from baseline of 65% in circulating ANGPTL3 and 63% in triglycerides (TG) at Day 30 in",
-   "url": "https://finnhub.io/api/news?id=1ba19fd2570707501612c51fca598c2a25a29913abf1d5fdbd905eb2010404c2",
-   "source": "Benzinga",
-   "published": "2026-11-09T10:17:51+00:00",
-   "tickers": [
-    "CRSP"
-   ],
-   "tag": "News",
    "sectors": [
     "biotech"
    ]
