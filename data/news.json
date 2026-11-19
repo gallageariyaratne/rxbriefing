@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-19T11:32:44.614911+00:00",
+ "updated": "2026-11-19T11:47:45.036965+00:00",
  "quotes": {
   "A": {
    "price": 177.33,
@@ -254,10 +254,6 @@
    "price": 945.53,
    "change_pct": -1.28
   },
-  "RGEN": {
-   "price": 172.67,
-   "change_pct": 6.47
-  },
   "RMD": {
    "price": 242.61,
    "change_pct": 2.0
@@ -317,6 +313,10 @@
   "UNH": {
    "price": 349.91,
    "change_pct": -10.21
+  },
+  "UTHR": {
+   "price": 577.34,
+   "change_pct": -1.16
   }
  },
  "tickers": {
@@ -933,6 +933,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "d8051f88f434",
+   "headline": "Merck, Isomorphic Labs partner to develop oncology drug candidates",
+   "summary": "Merck and Isomorphic Labs said they are entering into a research collaboration to discover small molecule candidates in oncology.",
+   "url": "https://www.statnews.com/2026/11/19/merck-isomorphic-labs-partner-to-develop-oncology-drug-candidates/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-11-19T11:45:00+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
   {
    "id": "a1731ddf79b4",
    "headline": "STAT+: In cancer drug development, the spotlight shifts onto Erasca\u2019s KRAS-targeted treatment",
@@ -42772,66 +42787,6 @@
    "tag": "Financing",
    "sectors": [
     "healthit"
-   ]
-  },
-  {
-   "id": "c9604c3c9c4c",
-   "headline": "Sanofi ADR (NASDAQ:SNY): Dividend Quality Just Clears the Bar",
-   "summary": "Quality-focused dividend screens highlight SANOFI-ADR\u2019s 4.12% yield, solid profitability, and health checks\u2014showing how to balance income with risk.",
-   "url": "https://finnhub.io/api/news?id=988b3f24deabb943dbfd24c392369b8768a7a46dc7d7b70aed484cdb0accfb72",
-   "source": "ChartMill",
-   "published": "2026-11-09T11:41:32+00:00",
-   "tickers": [
-    "SNY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "1bbfc887e303",
-   "headline": "Guggenheim Maintains Buy on Humana, Raises Price Target to $521",
-   "summary": "Guggenheim analyst Jason Cassorla maintains Humana (NYSE:HUM) with a Buy and raises the price target from $471 to $521.",
-   "url": "https://finnhub.io/api/news?id=7cba2e8471afa0888a526bd08f3d8591d1b90676a7586d14667543469dc57d8d",
-   "source": "Benzinga",
-   "published": "2026-11-09T11:39:47+00:00",
-   "tickers": [
-    "HUM"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "e1412482cfde",
-   "headline": "Barclays Maintains Overweight on Humana, Raises Price Target to $587",
-   "summary": "Barclays analyst Andrew Mok maintains Humana (NYSE:HUM) with a Overweight and raises the price target from $582 to $587.",
-   "url": "https://finnhub.io/api/news?id=60a38c3adfce1eb0beff53e9fdc9d1563c1bb93c33d7d9c75ea74950f0e4d479",
-   "source": "Benzinga",
-   "published": "2026-11-09T11:38:06+00:00",
-   "tickers": [
-    "HUM"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "fb639b22899b",
-   "headline": "Johnson & Johnson\u2019s ICOTYDE Meets Primary Endpoint in Phase 3 Psoriatic Arthritis Trial",
-   "summary": "Johnson & Johnson (NYSE:JNJ) announced that its investigational treatment ICOTYDE (icotrokinra) achieved the primary endpoint in a Phase 3 clinical trial involving adults with active psoriatic arthritis who had not previously received\u2026",
-   "url": "https://finnhub.io/api/news?id=db558aa75664f8a5b3437537f6311301fcc3b6d630d768037d30a0466486f8cb",
-   "source": "Yahoo",
-   "published": "2026-11-09T11:33:57+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
