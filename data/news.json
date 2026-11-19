@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-19T22:47:39.150665+00:00",
+ "updated": "2026-11-19T23:03:07.858360+00:00",
  "quotes": {
   "ABBV": {
    "price": 283.54,
@@ -25,6 +25,10 @@
   "AMGN": {
    "price": 438.82,
    "change_pct": -1.14
+  },
+  "AMWL": {
+   "price": 10.69,
+   "change_pct": -3.08
   },
   "ARGX": {
    "price": 942.04,
@@ -317,10 +321,6 @@
   "WAY": {
    "price": 27.09,
    "change_pct": -1.63
-  },
-  "ZBH": {
-   "price": 101.47,
-   "change_pct": -1.79
   }
  },
  "tickers": {
@@ -938,6 +938,17 @@
  },
  "stories": [
   {
+   "id": "d6ba2ff9d1a3",
+   "headline": "Opinion: The U.S. lost measles elimination status. The next Congress should help restore it",
+   "summary": "Infectious disease physician and STAT \u201cID Consult\u201d columnist Krutika Kuppalli offers Congress a must-do list on measles.",
+   "url": "https://www.statnews.com/2026/11/19/measles-elimination-status-congress-should-prioritize-restoration/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-11-19T22:55:19+00:00",
+   "tickers": [],
+   "tag": "Policy",
+   "sectors": []
+  },
+  {
    "id": "0fdbd45c4ba9",
    "headline": "Anthropic board director Vas Narasimhan bets AI can help Novartis solve \u2018biological latency\u2019",
    "summary": "On the same day Anthropic staged a record-shattering IPO on Nasdaq, the artificial intelligence tech giant\u2019s lone pharmaceutical board member, Novartis CEO Vas Narasimhan, was in London pitching investors on how the Swiss drugmaker is\u2026",
@@ -997,6 +1008,21 @@
    ]
   },
   {
+   "id": "ad6a6f717fd8",
+   "headline": "American Well Corporation Announces Termination of Chief Product and Technology Officer Dmitry Zamansky Effective November 22, 2026",
+   "summary": "",
+   "url": "https://finnhub.io/api/news?id=f2068c3ac8f9193ac9ff9a8e2280d5d6cc62fc02f32aa65506833b28670fef83",
+   "source": "Fintel",
+   "published": "2026-11-19T21:51:05+00:00",
+   "tickers": [
+    "AMWL"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "5b005dc7b0d3",
    "headline": "Consumers believe AI will be key in making healthcare simpler: survey",
    "summary": "Americans want a healthcare experience that's simpler and easier to understand, and artificial intelligence may be the key to getting there, a new survey shows.",
@@ -1020,6 +1046,21 @@
    "tag": "Earnings",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "c1a7f84cf5ca",
+   "headline": "Is Zimmer Biomet Holdings (ZBH) Fairly Valued After Its Surgeon Guided Autonomy Rollout?",
+   "summary": "Zimmer Biomet Holdings (ZBH) has put its new Surgeon-Guided Autonomy concept in orthopedics on center stage, with the rollout tied to a dedicated symposium at a major meeting of hip and knee surgeons. Zimmer Biomet Holdings has attracted\u2026",
+   "url": "https://finnhub.io/api/news?id=5857df64a028a78656565f7db89f6bc50b91dab0f7a32c9d2b9d86be7c01d88e",
+   "source": "Yahoo",
+   "published": "2026-11-19T21:13:27+00:00",
+   "tickers": [
+    "ZBH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -1083,6 +1124,22 @@
    ]
   },
   {
+   "id": "af4cf7616f01",
+   "headline": "Healthcare ETFs Shine as Investors Rotate Out of Tech",
+   "summary": "Many investors are moving money out of AI and technology and into defensive sectors.",
+   "url": "https://finnhub.io/api/news?id=bbbb6331adae3d0f2d378612fc20739d8394d0f1201fda41aabb435df9dbad31",
+   "source": "Yahoo",
+   "published": "2026-11-19T20:47:00+00:00",
+   "tickers": [
+    "LLY",
+    "MRNA"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "37a99d6ce098",
    "headline": "HLTH 2026: Elsevier upgrades ClinicalKey AI with full patient EHR context",
    "summary": "San Juan Regional Medical Center is using ClinicalKey AI to give clinicians faster access to evidence-based guidance combined with patient-specific EHR data, with the goal of improving care and easing workforce constraints.",
@@ -1136,6 +1193,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "d6786f5ef15d",
+   "headline": "Can Zimmer Biomet Holdings (ZBH) Stay Cheap If Cash Flow Delivers?",
+   "summary": "Zimmer Biomet Holdings has delivered a 16.7% gain over the past year, even as longer term returns have been weaker. This puts fresh attention on whether the current share price lines up with the cash the business can generate. With new\u2026",
+   "url": "https://finnhub.io/api/news?id=8a7fe789cb4e3f11ac8e8fdb71d8eec8e8edb125dd14f0d8fe282ac4a55959bc",
+   "source": "Yahoo",
+   "published": "2026-11-19T20:12:51+00:00",
+   "tickers": [
+    "ZBH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -1343,7 +1415,8 @@
    "source": "Yahoo",
    "published": "2026-11-19T18:46:25+00:00",
    "tickers": [
-    "JNJ"
+    "JNJ",
+    "LLY"
    ],
    "tag": "News",
    "sectors": [
