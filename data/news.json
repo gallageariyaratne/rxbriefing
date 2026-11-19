@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-19T01:03:04.266712+00:00",
+ "updated": "2026-11-19T01:17:45.316375+00:00",
  "quotes": {
   "A": {
    "price": 177.33,
@@ -9,6 +9,10 @@
   "ABBV": {
    "price": 286.01,
    "change_pct": -2.33
+  },
+  "ABSI": {
+   "price": 8.18,
+   "change_pct": 7.92
   },
   "ABT": {
    "price": 104.48,
@@ -313,10 +317,6 @@
   "TXG": {
    "price": 57.07,
    "change_pct": 1.37
-  },
-  "UHS": {
-   "price": 186.07,
-   "change_pct": -3.08
   }
  },
  "tickers": {
@@ -1071,6 +1071,21 @@
    ]
   },
   {
+   "id": "690ee445a254",
+   "headline": "Livsayis\u2122 (cemdisiran) Approved by the FDA as First and Only siRNA Therapy in Generalized Myasthenia Gravis and Only Treatment with Four-Times-a-Year Subcutaneous Dosing",
+   "summary": "Approval based on Phase 3 NIMBLE results demonstrating rapid, deep and sustained disease control that is maintained throughout three-month dosing intervals Livsayis is Regeneron's first approved siRNA therapy and neurology medicine\u2026",
+   "url": "https://finnhub.io/api/news?id=c25cc0663f867525f28089b75b4b9f836265d8eaa158e6cb6fcaf1be1a3feec7",
+   "source": "Yahoo",
+   "published": "2026-11-18T23:03:00+00:00",
+   "tickers": [
+    "REGN"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "4cd3587abecb",
    "headline": "Stock Market Today, Nov. 18: S&P 500 Breaks Key Support as Fed Minutes Signal More Rate Hikes Ahead",
    "summary": "Wall Street's troubles are mounting as expectations for further interest rate hikes overshadow strong corporate earnings and threaten to undermine the market's long-term upward trend.",
@@ -1795,7 +1810,9 @@
    "source": "Yahoo",
    "published": "2026-11-18T17:31:03+00:00",
    "tickers": [
-    "TWST"
+    "ABSI",
+    "TWST",
+    "TXG"
    ],
    "tag": "News",
    "sectors": [
@@ -2293,6 +2310,21 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "a6cb6bde7896",
+   "headline": "AstraZeneca gets Jefferies backing as broker sees $80bn sales target within reach",
+   "summary": "AstraZeneca PLC (LSE:AZN, NYSE:AZN), the FTSE 100 pharmaceuticals group, has received fresh backing from Jefferies, which believes its ambition to reach $80 billion in annual revenue by 2030 is increasingly achievable through its existing\u2026",
+   "url": "https://finnhub.io/api/news?id=1d3eb0fd6f7705b3cf8bc599041e806859b00b6053a259a838e3a399e7eabc06",
+   "source": "Yahoo",
+   "published": "2026-11-18T15:30:00+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -2887,6 +2919,7 @@
    "source": "Yahoo",
    "published": "2026-11-18T14:21:00+00:00",
    "tickers": [
+    "AZN",
     "BIIB",
     "LLY",
     "SMMT"
