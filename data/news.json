@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-19T09:47:33.311598+00:00",
+ "updated": "2026-11-19T10:02:53.691023+00:00",
  "quotes": {
   "A": {
    "price": 177.33,
@@ -198,10 +198,6 @@
    "price": 272.7,
    "change_pct": -2.15
   },
-  "LEGN": {
-   "price": 16.25,
-   "change_pct": 0.87
-  },
   "LH": {
    "price": 370.78,
    "change_pct": 0.69
@@ -317,6 +313,10 @@
   "TGTX": {
    "price": 66.12,
    "change_pct": 5.44
+  },
+  "TMO": {
+   "price": 692.74,
+   "change_pct": 0.87
   }
  },
  "tickers": {
@@ -934,6 +934,21 @@
  },
  "stories": [
   {
+   "id": "508808d66a0a",
+   "headline": "AbbVie busts a move with Disco in $2.5B dance aimed at bispecific discovery",
+   "summary": "AbbVie is twirling onto the dance floor with Disco Pharmaceuticals, offering up to $2.5 billion to work with the German platform company on cancer-targeted bispecific discovery.",
+   "url": "https://www.fiercebiotech.com/biotech/abbvie-busts-move-disco-25b-pact-aimed-bispecific-discovery",
+   "source": "Fierce Biotech",
+   "published": "2026-11-19T10:00:29.410055+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "faae97d5da52",
    "headline": "STAT+: Before midterm losses, MAHA spent on itself instead of candidates",
    "summary": "MAHA PAC spent more at a D.C. steakhouse than it did on the House race of a key ally.",
@@ -1164,6 +1179,21 @@
    "tag": "Financing",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "fe9191ac0c40",
+   "headline": "Eli Lilly: Everyone Losing Weight, But Lilly Keeps Gaining (Initiating With A Buy)",
+   "summary": "Eli Lilly and Company (LLY) stock earns a buy rating at a $1,600 target as volume growth outweighs pricing pressure and the pipeline advances.",
+   "url": "https://finnhub.io/api/news?id=eb9c6d9946fc7a4cdaea9266a91342c9e001f4cdbac7278515ef4ea8d6ae1d10",
+   "source": "SeekingAlpha",
+   "published": "2026-11-19T04:11:00+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -43295,94 +43325,6 @@
    "sectors": [
     "biotech"
    ]
-  },
-  {
-   "id": "c845bd57ed92",
-   "headline": "Valneva sees LimmaTech vaccine reduce Shigella infections in phase 2 test",
-   "summary": "Valneva\u2019s Shigella vaccine has been shown to reduce cases of intestinal infection, hitting the key endpoint of a phase 2 trial.",
-   "url": "https://www.fiercebiotech.com/biotech/valneva-sees-limmatech-vaccine-reduce-shigella-infections-phase-2-test",
-   "source": "Fierce Biotech",
-   "published": "2026-11-09T10:00:29.134969+00:00",
-   "tickers": [],
-   "tag": "Clinical",
-   "sectors": []
-  },
-  {
-   "id": "dc7235b28288",
-   "headline": "State incentives for commercial-stage life sciences companies",
-   "summary": "Factor incentives into expansion plans early to improve site decisions, manage commitments and free capital for what comes next.",
-   "url": "https://www.biopharmadive.com/spons/state-incentives-for-commercial-stage-life-sciences-companies/873753/",
-   "source": "BioPharma Dive",
-   "published": "2026-11-09T10:00:00+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "0e6209e39ca2",
-   "headline": "Translating Phase II success into Phase III readiness takes more than scale",
-   "summary": "The move from Phase II to Phase III is often treated as a clinical milestone, when it is actually a development-wide transition.",
-   "url": "https://www.biopharmadive.com/spons/translating-phase-ii-success-into-phase-iii-readiness-takes-more-than-scale/833059/",
-   "source": "BioPharma Dive",
-   "published": "2026-11-09T10:00:00+00:00",
-   "tickers": [],
-   "tag": "Clinical",
-   "sectors": []
-  },
-  {
-   "id": "ffca9f08d0df",
-   "headline": "Making the \u2018impossible\u2019 executable in life sciences construction",
-   "summary": "Why early technical expertise matters when complex life sciences projects challenge convention.",
-   "url": "https://www.biopharmadive.com/spons/making-the-impossible-executable-in-life-sciences-construction/873537/",
-   "source": "BioPharma Dive",
-   "published": "2026-11-09T10:00:00+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "e412e0cd6c89",
-   "headline": "Find opportunity in a shifting life sciences market",
-   "summary": "See where capital and deal activity are moving, with insights to inform stronger investment, growth and strategic decisions.",
-   "url": "https://www.medtechdive.com/spons/find-opportunity-in-a-shifting-life-sciences-market/873662/",
-   "source": "MedTech Dive",
-   "published": "2026-11-09T10:00:00+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "dbfe23ecd430",
-   "headline": "What does AI governance really mean in healthcare?",
-   "summary": "AI governance doesn't stop at launch. Here are the five must-ask questions.",
-   "url": "https://www.healthcaredive.com/spons/what-does-ai-governance-really-mean-in-healthcare/873027/",
-   "source": "Healthcare Dive",
-   "published": "2026-11-09T10:00:00+00:00",
-   "tickers": [],
-   "tag": "Health AI",
-   "sectors": []
-  },
-  {
-   "id": "4071010caa56",
-   "headline": "More AI won\u2019t fix healthcare\u2019s revenue cycle. Orchestration will.",
-   "summary": "Most providers automate revenue with AI. Only 4% have connected it. Orchestration is what comes next.",
-   "url": "https://www.healthcaredive.com/spons/more-ai-wont-fix-healthcares-revenue-cycle-orchestration-will/873614/",
-   "source": "Healthcare Dive",
-   "published": "2026-11-09T10:00:00+00:00",
-   "tickers": [],
-   "tag": "Earnings",
-   "sectors": []
-  },
-  {
-   "id": "f83c31af166c",
-   "headline": "How rural healthcare organizations are turning AI investments into measurable performance improvements",
-   "summary": "Better data, stronger governance and targeted use cases are driving results in rural healthcare.",
-   "url": "https://www.healthcaredive.com/spons/how-rural-healthcare-organizations-are-turning-ai-investments-into-measurab/873543/",
-   "source": "Healthcare Dive",
-   "published": "2026-11-09T10:00:00+00:00",
-   "tickers": [],
-   "tag": "Health AI",
-   "sectors": []
   }
  ]
 }
