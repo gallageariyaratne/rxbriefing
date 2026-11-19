@@ -1,39 +1,7 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-19T12:17:33.350297+00:00",
+ "updated": "2026-11-19T12:32:50.963700+00:00",
  "quotes": {
-  "A": {
-   "price": 177.33,
-   "change_pct": 2.97
-  },
-  "ABBV": {
-   "price": 286.01,
-   "change_pct": -2.33
-  },
-  "ABSI": {
-   "price": 8.18,
-   "change_pct": 7.92
-  },
-  "ABT": {
-   "price": 104.48,
-   "change_pct": -0.22
-  },
-  "ALGN": {
-   "price": 163.96,
-   "change_pct": 0.31
-  },
-  "ALNY": {
-   "price": 149.4,
-   "change_pct": -4.54
-  },
-  "AMGN": {
-   "price": 443.89,
-   "change_pct": -3.07
-  },
-  "AZN": {
-   "price": 178.76,
-   "change_pct": -1.93
-  },
   "BDX": {
    "price": 216.08,
    "change_pct": 0.31
@@ -286,10 +254,6 @@
    "price": 63.62,
    "change_pct": 0.3
   },
-  "TGTX": {
-   "price": 66.12,
-   "change_pct": 5.44
-  },
   "TMO": {
    "price": 692.74,
    "change_pct": 0.87
@@ -310,13 +274,13 @@
    "price": 349.91,
    "change_pct": -10.21
   },
+  "UTHR": {
+   "price": 577.34,
+   "change_pct": -1.16
+  },
   "VEEV": {
    "price": 277.2,
    "change_pct": -3.89
-  },
-  "VKTX": {
-   "price": 26.17,
-   "change_pct": -2.64
   }
  },
  "tickers": {
@@ -960,6 +924,21 @@
    ]
   },
   {
+   "id": "a12609744d9a",
+   "headline": "Axsome Therapeutics to Participate in Upcoming Investor Conferences",
+   "summary": "NEW YORK, Nov. 19, 2026 (GLOBE NEWSWIRE) -- Axsome Therapeutics, Inc. (NASDAQ: AXSM), a biopharmaceutical company leading a new era in the treatment of central nervous system (CNS) disorders, today announced that it will participate in\u2026",
+   "url": "https://finnhub.io/api/news?id=831edffd32e905ef06a3f4481fd1073dd30988a2019183ff166eb5a61b314f5e",
+   "source": "Yahoo",
+   "published": "2026-11-19T12:00:00+00:00",
+   "tickers": [
+    "AXSM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "09aa5577cc87",
    "headline": "AstraZeneca PLC (NYSE:AZN) as a GARP Case Study: Growth at a Reasonable Price",
    "summary": "AstraZeneca passes Peter Lynch GARP screens with steady EPS growth, a PEG near 1, strong ROE, but narrow liquidity and limited leverage headroom.",
@@ -1005,6 +984,36 @@
    ]
   },
   {
+   "id": "89e5652c052e",
+   "headline": "Should You Buy Exelixis Stock For Its Cash?",
+   "summary": "Today's big story: Could Anthropic Stock Fall 25.",
+   "url": "https://finnhub.io/api/news?id=287afcf1b441b1fc8c430e99ab7921a1764942cd3b8f179bb327f13add6f60ae",
+   "source": "Yahoo",
+   "published": "2026-11-19T11:43:10+00:00",
+   "tickers": [
+    "BMY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "7f1baddb3065",
+   "headline": "Where Could Gilead's Next Growth Come From?",
+   "summary": "Today's big story: Could Anthropic Stock Fall 25.",
+   "url": "https://finnhub.io/api/news?id=4301741239599621ae7f861318189ba6f34562e8ba173079466ffc19e9893ac8",
+   "source": "Yahoo",
+   "published": "2026-11-19T11:43:10+00:00",
+   "tickers": [
+    "BMY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "e452a7537ecd",
    "headline": "Should Biogen Stock Holders Look At Amgen Instead?",
    "summary": "Today's big story: Could Anthropic Stock Fall 25.",
@@ -1012,7 +1021,9 @@
    "source": "Yahoo",
    "published": "2026-11-19T11:30:44+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "BMY",
+    "JNJ"
    ],
    "tag": "News",
    "sectors": [
@@ -1027,7 +1038,8 @@
    "source": "Yahoo",
    "published": "2026-11-19T11:30:44+00:00",
    "tickers": [
-    "CI"
+    "CI",
+    "CVS"
    ],
    "tag": "News",
    "sectors": [
@@ -1072,7 +1084,8 @@
    "source": "Yahoo",
    "published": "2026-11-19T11:08:59+00:00",
    "tickers": [
-    "CI"
+    "CI",
+    "CVS"
    ],
    "tag": "News",
    "sectors": [
@@ -1087,7 +1100,8 @@
    "source": "Yahoo",
    "published": "2026-11-19T11:05:08+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "JNJ"
    ],
    "tag": "News",
    "sectors": [
@@ -1102,11 +1116,27 @@
    "source": "Yahoo",
    "published": "2026-11-19T11:04:38+00:00",
    "tickers": [
-    "CI"
+    "CI",
+    "CVS"
    ],
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "2c99040a2a8e",
+   "headline": "iShares Core S&P Mid-Cap (IJH) Adds Chime Financial on Tuesday",
+   "summary": "The fund bought $268.1 million of Chime Financial Class A stock while trimming 399 positions and selling $1.9 million each of United Therapeutics, Equitable Holdings and TechnipFMC.",
+   "url": "https://finnhub.io/api/news?id=16a09e1db7cb022e5aae745666b6a047687bbaf051ef2357353efb080fac84d7",
+   "source": "Yahoo",
+   "published": "2026-11-19T11:04:26+00:00",
+   "tickers": [
+    "UTHR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -1137,6 +1167,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "f2582e7c590a",
+   "headline": "Genomics, Vertex extend drug discovery alliance in $220m deal",
+   "summary": "The renewed collaboration focuses on applying human genetics to discover and validate new drug targets for precision medicines.",
+   "url": "https://finnhub.io/api/news?id=d6dcebcbcdf3663cc79f494adf2a136a45a21750c8e0c16f1f16b8913b70e9f2",
+   "source": "Yahoo",
+   "published": "2026-11-19T10:53:16+00:00",
+   "tickers": [
+    "VRTX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -42463,158 +42508,6 @@
    "tag": "Analyst",
    "sectors": [
     "healthit"
-   ]
-  },
-  {
-   "id": "2d0e993a0eea",
-   "headline": "Zimmer Biomet to Present at the Annual Jefferies Global Healthcare Conference in London",
-   "summary": "WARSAW, Ind., Nov. 9, 2026 /PRNewswire/ -- Zimmer Biomet Holdings, Inc. (NYSE and SIX: ZBH), a global medical technology leader, today announced that members of the Zimmer Biomet management team will be presenting at the Annual Jefferies\u2026",
-   "url": "https://www.prnewswire.com/news-releases/zimmer-biomet-to-present-at-the-annual-jefferies-global-healthcare-conference-in-london-302931217.html",
-   "source": "PR Newswire",
-   "published": "2026-11-09T12:30:00+00:00",
-   "tickers": [
-    "ZBH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "88a0b49fb15d",
-   "headline": "Cytokinetics Announces Additional Data Related to Aficamten Presented at the Hypertrophic Cardiomyopathy Medical Society (HCMS) Scientific Sessions Held in Collaboration with the American Heart Association Scientific Sessions 2026",
-   "summary": "New Analyses Across Obstructive and Non-obstructive HCM Expand Clinical Evidence for Aficamten SOUTH SAN FRANCISCO, Calif., Nov. 09, 2026 (GLOBE NEWSWIRE) -- Cytokinetics, Incorporated (Nasdaq: CYTK) today announced that new data related\u2026",
-   "url": "https://finnhub.io/api/news?id=5b387f23e8145adec91f9463aa7c4e56d3f58b2e6f30b403fbb16a50f33ca753",
-   "source": "Yahoo",
-   "published": "2026-11-09T12:30:00+00:00",
-   "tickers": [
-    "CYTK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "1770b80c4616",
-   "headline": "Zimmer Biomet to Present at the Annual Jefferies Global Healthcare Conference in London",
-   "summary": "Zimmer Biomet Holdings, Inc. (NYSE and SIX: ZBH), a global medical technology leader, today announced that members of the Zimmer Biomet management team will be presenting at the Annual Jefferies Global Healthcare Conference in London on\u2026",
-   "url": "https://finnhub.io/api/news?id=7fe3a7092778cb49c431db9828b275ceff1eb382045d25e0a9cf39b223ea6828",
-   "source": "Yahoo",
-   "published": "2026-11-09T12:30:00+00:00",
-   "tickers": [
-    "ZBH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "5459bf102de2",
-   "headline": "Medicus Pharma to Highlight Rationale for CD228V Co-Development and License Agreement",
-   "summary": "Capital efficiency strategy prioritizes CD228V development while seeking separate public listing for SkinJect\u00ae and partners to advance Teverelix\u00aePHILADELPHIA, PA / ACCESS Newswire / November 9, 2026 / . (NASDAQ:MDCX) (\"Medicus\" or the\u2026",
-   "url": "https://finnhub.io/api/news?id=220778f9448b6adaad1b31cb9b493d98589ff8fa8caaa8e3bd297aa48cb98c65",
-   "source": "Yahoo",
-   "published": "2026-11-09T12:30:00+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "50f21bb41739",
-   "headline": "Novo Nordisk A/S - share repurchase programme",
-   "summary": "Bagsv\u00e6rd, Denmark, 9 November 2026 \u2013 On 6 May 2026, Novo Nordisk initiated a share repurchase programme in accordance with Article 5 of Regulation No 596/2014 of the European Parliament and Council of 16 April 2014 (MAR) and the\u2026",
-   "url": "https://finnhub.io/api/news?id=59dc3cc5bc9af4fd0f73e9374ecebc4f0333459aab86c63e1e28c2a432b44bdb",
-   "source": "Yahoo",
-   "published": "2026-11-09T12:29:00+00:00",
-   "tickers": [
-    "NVO"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "9159103db129",
-   "headline": "CRAI Q3 Earnings & Revenues Surpass Estimates, Stock Barely Moves",
-   "summary": "Charles River Associates beats Q3 earnings and revenue estimates, raises its 2026 revenue outlook and hikes its dividend, yet shares remain largely unchanged.",
-   "url": "https://finnhub.io/api/news?id=5105766062df28105ae6eaf2ab6005e7573784b731bbde8114a457e729d88e4e",
-   "source": "Yahoo",
-   "published": "2026-11-09T12:27:00+00:00",
-   "tickers": [
-    "CRL"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "5ae2c462960a",
-   "headline": "TG Therapeutics (TGTX) Beats Q3 Earnings and Revenue Estimates",
-   "summary": "TG Therapeutics (TGTX) delivered earnings and revenue surprises of +25.00% and +5.17%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
-   "url": "https://finnhub.io/api/news?id=9ed36bf43da61228bf10cd5c07c7f099d7282cfc6f60486d20ade6e36ac13e6e",
-   "source": "Yahoo",
-   "published": "2026-11-09T12:25:02+00:00",
-   "tickers": [
-    "TGTX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "949da4fc6f8c",
-   "headline": "Ionis Pharmaceuticals (IONS) Reports Q3 Loss, Beats Revenue Estimates",
-   "summary": "Ionis Pharmaceuticals (IONS) delivered earnings and revenue surprises of +60.00% and +35.81%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
-   "url": "https://finnhub.io/api/news?id=a9851df8b34e58f64bb238db05180384affb97673aa48db99f3c1432f669d3f7",
-   "source": "Yahoo",
-   "published": "2026-11-09T12:25:02+00:00",
-   "tickers": [
-    "IONS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "bbc19a1b96c1",
-   "headline": "Should You Continue to Hold TMO Stock in Your Portfolio?",
-   "summary": "Thermo Fisher's accelerating organic growth, rising bioproduction demand and strong capital returns support its outlook, but macroeconomic risks and competition remain concerns.",
-   "url": "https://finnhub.io/api/news?id=4df6f474dad38217cb52ef098a4b11c8e2f77db9657eccc349dacf5eb5129b95",
-   "source": "Yahoo",
-   "published": "2026-11-09T12:20:00+00:00",
-   "tickers": [
-    "GMED",
-    "IDXX",
-    "TMO"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "c1d70c23db6f",
-   "headline": "Medicus Pharma Unveils Capital Strategy Centered On Novel Cancer Pipeline",
-   "summary": "On Monday, Medicus Pharma Ltd. (NASDAQ:MDCX) executive leadership outlined a strategic realignment during its third-quarter 2026 financial and business update, prioritizing precision oncology and disciplined capital allocation. Executive\u2026",
-   "url": "https://finnhub.io/api/news?id=35a5d71d863c7e6dc02a281cc165fe18dcc7ea01d4cf0107ceba47358adb7229",
-   "source": "Yahoo",
-   "published": "2026-11-09T12:19:50+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
