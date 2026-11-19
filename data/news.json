@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-19T02:32:58.292849+00:00",
+ "updated": "2026-11-19T02:47:38.897894+00:00",
  "quotes": {
   "A": {
    "price": 177.33,
@@ -274,6 +274,10 @@
    "price": 139.98,
    "change_pct": -3.69
   },
+  "PRVA": {
+   "price": 24.6,
+   "change_pct": -1.56
+  },
   "REGN": {
    "price": 945.53,
    "change_pct": -1.28
@@ -313,10 +317,6 @@
   "TEM": {
    "price": 63.62,
    "change_pct": 0.3
-  },
-  "TGTX": {
-   "price": 66.12,
-   "change_pct": 5.44
   }
  },
  "tickers": {
@@ -1712,6 +1712,7 @@
    "published": "2026-11-18T18:30:00+00:00",
    "tickers": [
     "CAH",
+    "GSK",
     "JAZZ",
     "NVS"
    ],
@@ -2462,6 +2463,21 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "7af84500152f",
+   "headline": "GSK Wins FDA Approval for Nuvalent-Acquired Nelkarmi in Lung Cancer",
+   "summary": "GSK gains FDA accelerated approval for Nelkarmi in advanced ALK-positive lung cancer, strengthening its oncology portfolio.",
+   "url": "https://finnhub.io/api/news?id=15ded919a2aea357618d4392ec697342de1bc0d856c346abe92c4b0e867a44a1",
+   "source": "Yahoo",
+   "published": "2026-11-18T15:35:00+00:00",
+   "tickers": [
+    "GSK"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -3544,6 +3560,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "5e0dd1a1fa33",
+   "headline": "Privia Health Reports Strong Results in the 2025 Performance Year of the Medicare Shared Savings Program",
+   "summary": "Privia Health\u2019s Ten ACOs Delivered $374 Million in Total Medicare Savings Company Increases Full-Year 2026 Financial Guidance a ARLINGTON, Va., Nov. 18, 2026 (GLOBE NEWSWIRE) -- Privia Health Group, Inc. (Nasdaq: PRVA) today announced\u2026",
+   "url": "https://finnhub.io/api/news?id=73bdf213827d62a165a0819ac1b2d21a5c76c73a8359e24b582b4ee40e723671",
+   "source": "Yahoo",
+   "published": "2026-11-18T13:30:00+00:00",
+   "tickers": [
+    "PRVA"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
    ]
   },
   {
@@ -43829,36 +43860,6 @@
    "tag": "Clinical",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "2e9c81c12349",
-   "headline": "This cancer-testing stock is BTIG\u2019s top pick after another major earnings beat",
-   "summary": "Investing.com -- BTIG has reaffirmed its bullish stance on Guardant Health (BIT:1GH), naming the cancer diagnostics company its \"2026 Top Pick\" after another quarterly revenue beat and an upgrade to its full-year outlook.",
-   "url": "https://finnhub.io/api/news?id=131b6172460e44528b8c4d8389daa018acc8b299abb81f1b54a2fba24f1f7ff6",
-   "source": "Yahoo",
-   "published": "2026-11-09T02:38:17+00:00",
-   "tickers": [
-    "GH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "6f9331ecb6ff",
-   "headline": "Argenx To Acquire Unnatural Products For Up To ~$1.15B Including $550M Upfront And Up To $595M In Milestones, Adding Peptide Discovery Engine",
-   "summary": "Pairs Unnatural Products\u2019 (UNP) peptide expertise with argenx's antibody engineering, expanding the ways to target novel biology Extends argenx\u2019s immunology innovation to more patients, with the potential for oral",
-   "url": "https://finnhub.io/api/news?id=7465658682e3f8e9bf1470b543cac65b22da31461c85791a535d2173b81c26ff",
-   "source": "Benzinga",
-   "published": "2026-11-09T02:35:51+00:00",
-   "tickers": [
-    "ARGX"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "biotech"
    ]
   }
  ]
