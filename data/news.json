@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-19T22:32:37.757614+00:00",
+ "updated": "2026-11-19T22:47:39.150665+00:00",
  "quotes": {
   "ABBV": {
    "price": 283.54,
@@ -258,14 +258,6 @@
    "price": 159.43,
    "change_pct": -0.24
   },
-  "RXRX": {
-   "price": 2.72,
-   "change_pct": -3.72
-  },
-  "SDGR": {
-   "price": 26.34,
-   "change_pct": -3.16
-  },
   "SMMT": {
    "price": 10.57,
    "change_pct": 0.67
@@ -321,6 +313,14 @@
   "VRTX": {
    "price": 520.66,
    "change_pct": -2.94
+  },
+  "WAY": {
+   "price": 27.09,
+   "change_pct": -1.63
+  },
+  "ZBH": {
+   "price": 101.47,
+   "change_pct": -1.79
   }
  },
  "tickers": {
@@ -938,6 +938,21 @@
  },
  "stories": [
   {
+   "id": "0fdbd45c4ba9",
+   "headline": "Anthropic board director Vas Narasimhan bets AI can help Novartis solve \u2018biological latency\u2019",
+   "summary": "On the same day Anthropic staged a record-shattering IPO on Nasdaq, the artificial intelligence tech giant\u2019s lone pharmaceutical board member, Novartis CEO Vas Narasimhan, was in London pitching investors on how the Swiss drugmaker is\u2026",
+   "url": "https://www.fiercebiotech.com/biotech/anthropic-board-director-vas-narasimhan-bets-ai-can-help-novartis-solve-biological-latency",
+   "source": "Fierce Biotech",
+   "published": "2026-11-19T22:45:22.390065+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "Financing",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "04a96699c599",
    "headline": "Study raises doubts about combining vaccine, monoclonal antibody to protect against malaria",
    "summary": "A monoclonal antibody holds promise in preventing malaria, but researchers found it interfered with a new vaccine when used in babies.",
@@ -972,7 +987,9 @@
    "published": "2026-11-19T21:54:00+00:00",
    "tickers": [
     "CI",
-    "CVS"
+    "CVS",
+    "HUM",
+    "UNH"
    ],
    "tag": "Policy",
    "sectors": [
@@ -991,6 +1008,21 @@
    "sectors": []
   },
   {
+   "id": "1ce9470dfc0c",
+   "headline": "Exelixis (EXEL) Trades 11% Above Fair Value As Pipeline Hopes Build",
+   "summary": "Fresh preclinical data on Exelixis (EXEL) candidate EXEL-1855, which suppressed tumor growth in cancer models, has sharpened investor focus on how this early-stage asset might influence the company\u2019s earnings power over time. The latest\u2026",
+   "url": "https://finnhub.io/api/news?id=4bd66898e7d8df120bd182e70a0dbc94cbfa386050e40a6a57d3ed5be87c03f0",
+   "source": "Yahoo",
+   "published": "2026-11-19T21:16:52+00:00",
+   "tickers": [
+    "EXEL"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "3e6dea8a1b47",
    "headline": "Senate Nears a Vote on a Landmark Permitting Bill. Here\u2019s Who Could Benefit.",
    "summary": "The bill could speed up pipeline and transmission projects. For electric utilities, the outlook is more mixed.",
@@ -1001,6 +1033,36 @@
     "ABBV"
    ],
    "tag": "Policy",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "6c275e6e3d36",
+   "headline": "3 Dividend Kings to Buy in November and Never Sell",
+   "summary": "Recent developments could drive strong total returns for these three Dividend Kings.",
+   "url": "https://finnhub.io/api/news?id=2c1c47febc37a2b256632c935566f448d974a7ec3efc1b6b222d1c69da3f9b55",
+   "source": "Yahoo",
+   "published": "2026-11-19T21:05:02+00:00",
+   "tickers": [
+    "ABT"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "f59d8eb7f5dc",
+   "headline": "Pfizer Is Shopping for China\u2019s Biotech Breakthroughs",
+   "summary": "The agreement with Starna Therapeutics gives Pfizer access to a new generation of cancer-inspired immune therapies",
+   "url": "https://finnhub.io/api/news?id=23b2a5b0526be1efdb1d16ccab683991f84c918dd387d321f8bf95cd9398b812",
+   "source": "Yahoo",
+   "published": "2026-11-19T20:56:55+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "News",
    "sectors": [
     "pharma"
    ]
@@ -1047,6 +1109,21 @@
    ]
   },
   {
+   "id": "3191a91c09cd",
+   "headline": "Poultry Vaccine License Could Change The Case For Zoetis Stock",
+   "summary": "Zoetis received a U.S. Department of Agriculture license for Poulvac Procerta HVT-ND-ILT, a vector vaccine for chickens that targets Marek\u2019s disease, Newcastle disease and infectious laryngotracheitis, with administration at hatch or in\u2026",
+   "url": "https://finnhub.io/api/news?id=ca83a952bca92a79b6043a48c181ff7095e2232038ec80434d02f36affacca90",
+   "source": "Yahoo",
+   "published": "2026-11-19T20:17:29+00:00",
+   "tickers": [
+    "ZTS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "84249678ce0e",
    "headline": "Biogen unblurs life with Friedreich ataxia in patient-centered Skyclarys campaign",
    "summary": "The company\u2019s visual-forward campaign depicts real Friedreich ataxia patients enjoying some favorite activities while fast-moving life blurs around them, reminding prospective Skyclarys users that while \u201clife moves fast, progression\u2026",
@@ -1057,6 +1134,21 @@
     "BIIB"
    ],
    "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "7eb23af748d7",
+   "headline": "Insmed Stock Is a Winner With or Without a Sanofi Buyout, Analysts Say",
+   "summary": "Insmed stock jumps following a report saying Sanofi is eyeing a takeover of the biopharma company.",
+   "url": "https://finnhub.io/api/news?id=5501d84b7d32c96242bce8886251a1afde01266fc7372b2232ba95df7bb14e6e",
+   "source": "Yahoo",
+   "published": "2026-11-19T20:12:00+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "M&A",
    "sectors": [
     "pharma"
    ]
@@ -42666,47 +42758,6 @@
    "tag": "News",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "c5107df454b4",
-   "headline": "HIMS Stock Tumbles After-Hours On Surprise Q3 Loss And Cut Profit Outlook: Retail Demands Answers",
-   "summary": "The company now expects full-year 2026 revenue of $3.13 billion\u2013$3.15 billion and lowered adjusted core profit expectations to $257 million\u2013$277 million.",
-   "url": "https://finnhub.io/api/news?id=37237394cfea469afc28d2bd4402ba9d2f2b37e8844635aadc4e4ab43936e1ea",
-   "source": "Yahoo",
-   "published": "2026-11-09T22:42:24+00:00",
-   "tickers": [
-    "HIMS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "5e5a91a6c6f4",
-   "headline": "Bayer wins FDA nod for a new kind of blood thinner",
-   "summary": "Sunharbo\u2019s U.S. approval is the first for a \u201cFactor XIa\u201d inhibitor, an anticipated class of medicines seen as a possible step forward in stroke prevention.",
-   "url": "https://www.biopharmadive.com/news/bayer-sunharbo-asundexian-fda-approve-stroke-factor-xi/872837/",
-   "source": "BioPharma Dive",
-   "published": "2026-11-09T22:40:00+00:00",
-   "tickers": [],
-   "tag": "FDA",
-   "sectors": []
-  },
-  {
-   "id": "144cae89c62a",
-   "headline": "Myomo, Inc. (MYO) Reports Q3 Loss, Beats Revenue Estimates",
-   "summary": "Myomo (MYO) delivered earnings and revenue surprises of +12.50% and +9.12%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
-   "url": "https://finnhub.io/api/news?id=f7db084e6a0a4bb76849b8170eb05c01cb30df0d2f2ded439f682030dc0ee852",
-   "source": "Yahoo",
-   "published": "2026-11-09T22:35:06+00:00",
-   "tickers": [
-    "MDT"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
