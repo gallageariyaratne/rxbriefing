@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-19T01:32:44.764876+00:00",
+ "updated": "2026-11-19T01:47:41.584399+00:00",
  "quotes": {
   "A": {
    "price": 177.33,
@@ -290,6 +290,10 @@
    "price": 2.83,
    "change_pct": 3.86
   },
+  "SDGR": {
+   "price": 27.2,
+   "change_pct": 6.0
+  },
   "SMMT": {
    "price": 10.5,
    "change_pct": -1.59
@@ -313,10 +317,6 @@
   "TWST": {
    "price": 116.35,
    "change_pct": 3.88
-  },
-  "TXG": {
-   "price": 57.07,
-   "change_pct": 1.37
   }
  },
  "tickers": {
@@ -1099,6 +1099,21 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "eba2a3070197",
+   "headline": "Stock Market Today, Nov. 18: Recursion Pharmaceuticals Rises 4% on FDA Alignment for REC-4881 Phase 3 Design",
+   "summary": "On Nov. 18, 2026, Recursion shares climbed after regulators aligned on its lead familial adenomatous polyposis trial, though investors are watching for more detail.",
+   "url": "https://finnhub.io/api/news?id=1b1a064b132eadb0c4b102c2f69ad0c0c8ddaa3be017162ec69b0692ecd75283",
+   "source": "Yahoo",
+   "published": "2026-11-18T22:40:39+00:00",
+   "tickers": [
+    "SDGR"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "healthai"
    ]
   },
   {
@@ -1890,6 +1905,21 @@
    "tag": "Health AI",
    "sectors": [
     "healthit"
+   ]
+  },
+  {
+   "id": "2f4708439e4f",
+   "headline": "Cathie Wood Was Right About These 5 Stocks",
+   "summary": "Cathie Wood became one of Wall Street\u2019s best-known fund managers during the pandemic rally, but her flagship ARK Innovation ETF (BATS:ARKK) fell sharply in 2022 and has trailed the market since. As of mid-November, ARKK is down about 4%\u2026",
+   "url": "https://finnhub.io/api/news?id=86369434f5f8cfec98ce45e8d8bea9c06765b6a5412240b4278c7aaa44cbda30",
+   "source": "Yahoo",
+   "published": "2026-11-18T17:16:22+00:00",
+   "tickers": [
+    "SDGR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthai"
    ]
   },
   {
