@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-19T12:47:38.254208+00:00",
+ "updated": "2026-11-19T13:03:02.120855+00:00",
  "quotes": {
   "A": {
    "price": 177.33,
@@ -178,6 +178,10 @@
    "price": 27.39,
    "change_pct": 1.59
   },
+  "IQV": {
+   "price": 257.84,
+   "change_pct": 0.09
+  },
   "ISRG": {
    "price": 420.95,
    "change_pct": -2.23
@@ -189,6 +193,10 @@
   "JNJ": {
    "price": 272.7,
    "change_pct": -2.15
+  },
+  "LEGN": {
+   "price": 16.25,
+   "change_pct": 0.87
   },
   "LH": {
    "price": 370.78,
@@ -309,14 +317,6 @@
   "UNH": {
    "price": 349.91,
    "change_pct": -10.21
-  },
-  "UTHR": {
-   "price": 577.34,
-   "change_pct": -1.16
-  },
-  "VEEV": {
-   "price": 277.2,
-   "change_pct": -3.89
   }
  },
  "tickers": {
@@ -934,6 +934,17 @@
  },
  "stories": [
   {
+   "id": "9d9ee8b9be67",
+   "headline": "Sanders\u2019 \u2018Medicare for All\u2019 plan accrues more liberate and moderate support in Congress",
+   "summary": "Sen. Bernie Sanders pushed back on assumptions that Trump would veto an expanded Medicare plan. \u201cI am not absolutely certain that Trump would not sign it,\u201d he said.",
+   "url": "https://www.statnews.com/2026/11/19/health-news-sanders-medicare-for-all-plan-accrues-more-support-in-congress/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-11-19T12:59:54+00:00",
+   "tickers": [],
+   "tag": "Policy",
+   "sectors": []
+  },
+  {
    "id": "aa1dde488e18",
    "headline": "Aetna unveils new program aimed at offering end-to-end support for moms and babies",
    "summary": "Aetna is rolling out a new program that aims to provide key end-to-end care for pregnant women, new mothers and infants.",
@@ -943,6 +954,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "d2c235306daf",
+   "headline": "Which Dates Could Move Bristol Myers Squibb Stock Most?",
+   "summary": "Today's big story: Could Anthropic Stock Fall 25.",
+   "url": "https://finnhub.io/api/news?id=adb0e9141f536effdd12b620e75f1d3c2dd010ab089e9b0720a82567d4a3504d",
+   "source": "Yahoo",
+   "published": "2026-11-19T12:08:04+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "ae9454734e7b",
@@ -972,6 +998,36 @@
    "tag": "News",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "62a6ee3ac48a",
+   "headline": "Alnylam Collaborator Regeneron Secures FDA Approval of Livsayis\u2122 (cemdisiran), the Seventh FDA-Approved Therapeutic from Alnylam's RNAi Platform in Less Than Nine Years",
+   "summary": "CAMBRIDGE, Mass., November 19, 2026--Alnylam Pharmaceuticals, Inc. (Nasdaq: ALNY), the leading RNAi therapeutics company, announced that the U.S. Food and Drug Administration (FDA) has approved Livsayis\u2122 (cemdisiran), an\u2026",
+   "url": "https://finnhub.io/api/news?id=c964281093d2672097240da1b7450283a3e4c65dd0258ec36dec5989cdc5923b",
+   "source": "Yahoo",
+   "published": "2026-11-19T12:00:00+00:00",
+   "tickers": [
+    "ALNY"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "cdcb0b1a3622",
+   "headline": "If You Ran Abbott, What Would You Do?",
+   "summary": "Today's big story: Could Anthropic Stock Fall 25.",
+   "url": "https://finnhub.io/api/news?id=c26e1c63cb339ddf11eb960410abfbc9877a7f14a78cebca3e32e6c927fd55ef",
+   "source": "Yahoo",
+   "published": "2026-11-19T11:51:28+00:00",
+   "tickers": [
+    "TMO"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -1020,6 +1076,21 @@
    ]
   },
   {
+   "id": "8b73da3ed89b",
+   "headline": "Merck and Isomorphic Labs Enter Strategic Research Collaboration",
+   "summary": "RAHWAY, N.J., November 19, 2026--Merck (NYSE: MRK), known as MSD outside of the United States and Canada, and Isomorphic Labs, an AI-first drug design and development company, today announced a research collaboration that brings together\u2026",
+   "url": "https://finnhub.io/api/news?id=b121a3bdd1b0852860d2e0359aebe7de97406bb0379422c3d9ab9afc5234ec31",
+   "source": "Yahoo",
+   "published": "2026-11-19T11:45:00+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "89e5652c052e",
    "headline": "Should You Buy Exelixis Stock For Its Cash?",
    "summary": "Today's big story: Could Anthropic Stock Fall 25.",
@@ -1029,7 +1100,8 @@
    "tickers": [
     "AMGN",
     "BMY",
-    "EXEL"
+    "EXEL",
+    "MRK"
    ],
    "tag": "News",
    "sectors": [
@@ -1044,7 +1116,9 @@
    "source": "Yahoo",
    "published": "2026-11-19T11:43:10+00:00",
    "tickers": [
-    "BMY"
+    "BMY",
+    "GILD",
+    "MRK"
    ],
    "tag": "News",
    "sectors": [
@@ -1074,7 +1148,8 @@
    "source": "Yahoo",
    "published": "2026-11-19T11:34:52+00:00",
    "tickers": [
-    "ILMN"
+    "ILMN",
+    "IQV"
    ],
    "tag": "Health AI",
    "sectors": [
@@ -1093,7 +1168,9 @@
     "AMGN",
     "BIIB",
     "BMY",
-    "JNJ"
+    "JNJ",
+    "LLY",
+    "MRK"
    ],
    "tag": "News",
    "sectors": [
@@ -1109,7 +1186,9 @@
    "published": "2026-11-19T11:30:44+00:00",
    "tickers": [
     "CI",
+    "CNC",
     "CVS",
+    "ELV",
     "HUM",
     "UNH"
    ],
@@ -1149,6 +1228,21 @@
    ]
   },
   {
+   "id": "50d842826d34",
+   "headline": "Sanofi (ENXTPA:SAN) Could Be 19% Overvalued As VaxRabeo Wins EU Approval",
+   "summary": "Sanofi (ENXTPA:SAN) has received European Commission approval for VaxRabeo, a next generation rabies vaccine for both pre exposure and post exposure use across all age groups in the EU. The latest VaxRabeo approval comes after a busy\u2026",
+   "url": "https://finnhub.io/api/news?id=7a233edd4e7422e7aabbfb2caba4a8fc490cefe268aee92c31d74bad0cf90d64",
+   "source": "Yahoo",
+   "published": "2026-11-19T11:16:05+00:00",
+   "tickers": [
+    "SNY"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "edba1dda9de4",
    "headline": "Why Is Intuitive Surgical (ISRG) At The Center Of The Robotics Boom?",
    "summary": "Intuitive Surgical (NasdaqGS:ISRG) is highlighted in new industry research as a primary beneficiary of accelerating surgical robotics adoption. Reports point to rapid expansion in global robotic procedure volumes, with strong traction for\u2026",
@@ -1164,6 +1258,21 @@
    ]
   },
   {
+   "id": "5b0e9f7d61b8",
+   "headline": "Erasca (ERAS) Stock Fair Value Edges Higher After ERAS 0015 Analyst Optimism",
+   "summary": "Erasca is back on investor radars after fresh research highlighted a US$35 price target that anchors the latest analyst narrative for the stock. That figure is tied closely to views on ERAS-0015, including how its drug profile, trial\u2026",
+   "url": "https://finnhub.io/api/news?id=a652bf81f8877fdb4ab0c2a4ae56770ed7e895fac5c14f4383653cfc7ebe6d73",
+   "source": "Yahoo",
+   "published": "2026-11-19T11:10:01+00:00",
+   "tickers": [
+    "RVMD"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "f8022763a463",
    "headline": "Should I Buy Humana Stock Now?",
    "summary": "Today's big story: Could Anthropic Stock Fall 25.",
@@ -1172,7 +1281,9 @@
    "published": "2026-11-19T11:08:59+00:00",
    "tickers": [
     "CI",
+    "CNC",
     "CVS",
+    "ELV",
     "HUM",
     "UNH"
    ],
@@ -1206,6 +1317,8 @@
    "tickers": [
     "ABBV",
     "JNJ",
+    "LLY",
+    "MRK",
     "UNH"
    ],
    "tag": "News",
@@ -1237,7 +1350,9 @@
    "published": "2026-11-19T11:04:38+00:00",
    "tickers": [
     "CI",
+    "CNC",
     "CVS",
+    "ELV",
     "HUM",
     "UNH"
    ],
@@ -1449,6 +1564,21 @@
    ]
   },
   {
+   "id": "7efa0e04fda5",
+   "headline": "Sanofi Receives FDA Approval for Type 3 Gaucher Disease Drug",
+   "summary": "Sanofi (SNY) said late Wednesday that the US Food and Drug Administration, or FDA, approved its expe",
+   "url": "https://finnhub.io/api/news?id=3905c55eefde24b1effb13dfc59e291417924d61df86a9958d760564bf217523",
+   "source": "Yahoo",
+   "published": "2026-11-19T09:23:07+00:00",
+   "tickers": [
+    "SNY"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "23023d931608",
    "headline": "Moderna (MRNA) Dropped, So What Is Behind The Latest Attention?",
    "summary": "Moderna (MRNA) just reworked its debt deal, cutting interest margins on existing and delayed draw term loans by 0.75 percentage points, and pushing key maturities and borrowing availability further into the next decade. Moderna sits at\u2026",
@@ -1472,6 +1602,21 @@
    "published": "2026-11-19T09:10:58+00:00",
    "tickers": [
     "BMY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "9ada61bda843",
+   "headline": "Jacobs selected by Sanofi to deliver new insulin manufacturing facility in Germany",
+   "summary": "DALLAS, November 19, 2026--Jacobs selected by Sanofi as the EPCM partner for a new insulin manufacturing facility in Frankfurt, Germany.",
+   "url": "https://finnhub.io/api/news?id=05cd7c8cf38dd0e61a423753d1ba9571c49b02ba466de23ceff1f535468268ba",
+   "source": "Yahoo",
+   "published": "2026-11-19T08:30:00+00:00",
+   "tickers": [
+    "SNY"
    ],
    "tag": "News",
    "sectors": [
@@ -1615,6 +1760,21 @@
    ]
   },
   {
+   "id": "d6e09a2a7049",
+   "headline": "Sanofi (ENXTPA:SAN) Wins FDA Approval For First Type 3 Gaucher Brain Therapy",
+   "summary": "Sanofi (ENXTPA:SAN) received US FDA approval for Infilbray as the first treatment for neurological symptoms of Type 3 Gaucher disease. The authorization follows positive Phase 3 trial data in patients with this rare, progressive condition\u2026",
+   "url": "https://finnhub.io/api/news?id=8f79828440fa666025b3c8c6f021814b131bc79fc2d0c27214c3fdc34155efd4",
+   "source": "Yahoo",
+   "published": "2026-11-19T06:15:32+00:00",
+   "tickers": [
+    "SNY"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "4c2325bcf3b1",
    "headline": "Stryker (SYK) Could Be 2% Above Fair Value After Third Quarter EPS Growth",
    "summary": "Stryker (SYK) is back in focus after third quarter adjusted EPS growth, supported by wider margins and solid contributions from Endoscopy, Medical and the Mako robotic orthopaedics franchise. Stryker\u2019s recent third quarter update and\u2026",
@@ -1642,6 +1802,21 @@
    "tag": "Earnings",
    "sectors": [
     "healthit"
+   ]
+  },
+  {
+   "id": "c357eddde4f8",
+   "headline": "Press Release: Sanofi\u2019s next-generation rabies vaccine, VaxRabeo, approved in the EU for all ages",
+   "summary": "Sanofi\u2019s next-generation rabies vaccine, VaxRabeo, approved in the EU for all ages Paris, November 19, 2026. Sanofi announced today that the European Commission has approved VaxRabeo (rabies virus inactivated strain Wistar) for\u2026",
+   "url": "https://finnhub.io/api/news?id=1964ab65f117813c7cfc75d866b00a9a465bc3ccbb21275ce987eb5bb365621b",
+   "source": "Yahoo",
+   "published": "2026-11-19T06:00:00+00:00",
+   "tickers": [
+    "SNY"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1687,6 +1862,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "a00e0abfa198",
+   "headline": "Is Return To Profit Altering The Investment Case For Legend Biotech (LEGN)?",
+   "summary": "Legend Biotech reported third quarter 2026 revenue of US$359.5 million and net income of US$51.7 million, compared with revenue of US$272.4 million and a net loss of US$39.6 million in the same period a year earlier. The shift to positive\u2026",
+   "url": "https://finnhub.io/api/news?id=a437662a3a8cd3157d3b54b358b95a191cec22ad1dfcae66c9c67b72f6d0bee4",
+   "source": "Yahoo",
+   "published": "2026-11-19T04:29:01+00:00",
+   "tickers": [
+    "LEGN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -42350,223 +42540,6 @@
    "tag": "Earnings",
    "sectors": [
     "healthit"
-   ]
-  },
-  {
-   "id": "00fc63915462",
-   "headline": "Pfizer Inc. (PFE) is Attracting Investor Attention: Here is What You Should Know",
-   "summary": "Zacks.com users have recently been watching Pfizer (PFE) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
-   "url": "https://finnhub.io/api/news?id=98ed65b897ded5e2b33b5145e3160ce46a392300b79f823665b2b3f40a1b7bac",
-   "source": "Yahoo",
-   "published": "2026-11-09T13:00:04+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "bd068b44c71e",
-   "headline": "Here is What to Know Beyond Why Amgen Inc. (AMGN) is a Trending Stock",
-   "summary": "Amgen (AMGN) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
-   "url": "https://finnhub.io/api/news?id=10703e2502e9da0bb885485b55fadd14902bcc00915ea337a633114c5b7a69da",
-   "source": "Yahoo",
-   "published": "2026-11-09T13:00:02+00:00",
-   "tickers": [
-    "AMGN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "85fb7e5f5fb8",
-   "headline": "Mereo BioPharma Reports Third Quarter 2026 Financial Results",
-   "summary": "Ongoing regulatory interactions in collaboration with Ultragenyx on potential path forward for setrusumab in osteogenesis imperfecta (OI)",
-   "url": "https://www.globenewswire.com/news-release/2026/11/09/3398354/0/en/mereo-biopharma-reports-third-quarter-2026-financial-results.html",
-   "source": "GlobeNewswire",
-   "published": "2026-11-09T13:00:00+00:00",
-   "tickers": [
-    "RARE"
-   ],
-   "tag": "Policy",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "eb3601afeadc",
-   "headline": "Gabelli Releases Agenda for 8th Annual Healthcare Symposium",
-   "summary": "PALM BEACH, Florida, Nov. 09, 2026 (GLOBE NEWSWIRE) -- Gabelli today released the agenda for its 8th Annual Healthcare Symposium to be held this Friday, November 13 in conjunction with Columbia Business School at the Paley Center for\u2026",
-   "url": "https://finnhub.io/api/news?id=2c1c0efdd4060cf92bbf7275d89e7bd8928526271b7c816d4dde9afc1c61a043",
-   "source": "Yahoo",
-   "published": "2026-11-09T13:00:00+00:00",
-   "tickers": [
-    "AZN",
-    "GILD",
-    "LEGN",
-    "LLY",
-    "MCK",
-    "TDOC",
-    "UNH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "6cb61fa5e024",
-   "headline": "Mereo BioPharma Reports Third Quarter 2026 Financial Results",
-   "summary": "Ongoing regulatory interactions in collaboration with Ultragenyx on potential path forward for setrusumab in osteogenesis imperfecta (OI) Ongoing FDA interactions in collaboration with Sentynl Therapeutics to refine Phase 3 trial design\u2026",
-   "url": "https://finnhub.io/api/news?id=00f3fe46fb6665ae70fee8a334c05a7ada0484d51ecf81c598474ce9dec142d5",
-   "source": "Yahoo",
-   "published": "2026-11-09T13:00:00+00:00",
-   "tickers": [
-    "RARE"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "8b28765ea2ce",
-   "headline": "Twist Bioscience to Present at Upcoming Investor Conferences",
-   "summary": "SOUTH SAN FRANCISCO, Calif., November 09, 2026--Twist Bioscience Corporation (NASDAQ: TWST), a mid-cap growth and value healthcare company, today announced that Emily M. Leproust, Ph.D., CEO and co-founder of Twist Bioscience, and Adam\u2026",
-   "url": "https://finnhub.io/api/news?id=3ca29858b69b504388a5346fcad5a0585af6be48fdeab474059493920abc3402",
-   "source": "Yahoo",
-   "published": "2026-11-09T13:00:00+00:00",
-   "tickers": [
-    "TWST"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "d8f7888db6b4",
-   "headline": "STAT+: A new rule to prevent the spread of bioweapons",
-   "summary": "AI makes it easier for people to come up with new potential medicines, but may also increase the possibility of bad actors creating new bioweapons. New guidelines from Trump officials\u2026",
-   "url": "https://www.statnews.com/2026/11/09/health-news-new-rule-to-prevent-bioweapon-spread/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-11-09T12:55:07+00:00",
-   "tickers": [],
-   "tag": "Health AI",
-   "sectors": []
-  },
-  {
-   "id": "f8c89bd37280",
-   "headline": "Hims-Eli Lilly GLP-1 Deal Meets Summit\u2019s FDA Gamble: Which Biotech ETFs Stand to Gain?",
-   "summary": "Biotech ETFs face key FDA catalysts as Summit Therapeutics' decision and the Hims-Lilly GLP-1 deal put XLV, IBB and XBI in focus.",
-   "url": "https://finnhub.io/api/news?id=b3df94d3aa5fe2cc3b56807ab9fae07783eb529469ed10ff651eea49dbb17a26",
-   "source": "Benzinga",
-   "published": "2026-11-09T12:51:46+00:00",
-   "tickers": [
-    "ABBV",
-    "AMGN",
-    "ARWR",
-    "GILD",
-    "HIMS",
-    "JNJ",
-    "LLY",
-    "MRNA",
-    "REGN",
-    "SMMT",
-    "TGTX",
-    "VRTX"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "6b97d52730c6",
-   "headline": "Will Bristol Myers' Growth Brands Offset Eliquis Headwinds?",
-   "summary": "Bristol Myers' Growth Portfolio drives 57% of revenues, with key brands gaining traction to offset legacy drug declines and support growth.",
-   "url": "https://finnhub.io/api/news?id=6539c446c6f48c9a320374d470d8213f86dbd33bbd2d3ed746f49d021eeea315",
-   "source": "Yahoo",
-   "published": "2026-11-09T12:51:00+00:00",
-   "tickers": [
-    "BMY",
-    "MRK",
-    "PFE"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "4e4acd05c869",
-   "headline": "Novo Up 4% in a Month: How Should Investors Approach the Stock Now?",
-   "summary": "NVO gains 4% in a month on strong Q3 Wegovy pill sales and raised guidance, but intensifying competition and pricing pressures cloud its growth outlook.",
-   "url": "https://finnhub.io/api/news?id=9dc0bd359c895e50318d1633fd8fd81f5825c81dce3c4fb86d689222cb4ce384",
-   "source": "Yahoo",
-   "published": "2026-11-09T12:51:00+00:00",
-   "tickers": [
-    "LLY",
-    "NVO",
-    "VKTX"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "5e8edf0e0b6c",
-   "headline": "CNH Industrial, Planet Labs, Ferguson Enterprises And Other Big Stocks Moving Higher On Monday",
-   "summary": "U.S. stocks rallied Monday; CNH surged 13.5% after strong Q3 results and raised guidance, while several stocks posted double-digit gains.",
-   "url": "https://finnhub.io/api/news?id=c5c43c478f284b0d1910391866174b8f5eee07897f485616afc1512f6c2f67b9",
-   "source": "Benzinga",
-   "published": "2026-11-09T12:50:24+00:00",
-   "tickers": [
-    "TEM"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "healthai"
-   ]
-  },
-  {
-   "id": "98c092eb0f79",
-   "headline": "TECH Q1 Earnings & Revenues Beat, Merck KGaA Merger Deal Advances",
-   "summary": "Bio-Techne's Q1 fiscal 2027 earnings and revenues beat estimates, driven by Protein Sciences growth, as its merger with Merck KGaA moves closer to completion.",
-   "url": "https://finnhub.io/api/news?id=959ccc9928a7eaad70f6b76033f477950a932fba10e1657f5fcf93bbd33932f9",
-   "source": "Yahoo",
-   "published": "2026-11-09T12:50:00+00:00",
-   "tickers": [
-    "GEHC",
-    "ISRG",
-    "MEDP",
-    "TECH"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "e29cb49f72c3",
-   "headline": "MRK's 2027 Outlook Challenging, Long-Term Prospects Promising",
-   "summary": "Merck's 2027 growth faces generic pressures, vaccine weakness and Keytruda slowdown, but its expanding pipeline offers promising long-term potential.",
-   "url": "https://finnhub.io/api/news?id=fc1c421dcf026b168b548e7f5ee646291ddd3e3f68810ef48f87932ed2a5b0ed",
-   "source": "Yahoo",
-   "published": "2026-11-09T12:48:00+00:00",
-   "tickers": [
-    "AZN",
-    "BMY",
-    "MRK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
