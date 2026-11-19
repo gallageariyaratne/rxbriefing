@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-19T10:02:53.691023+00:00",
+ "updated": "2026-11-19T10:17:39.930159+00:00",
  "quotes": {
   "A": {
    "price": 177.33,
@@ -17,10 +17,6 @@
   "ABT": {
    "price": 104.48,
    "change_pct": -0.22
-  },
-  "ACAD": {
-   "price": 17.83,
-   "change_pct": -2.67
   },
   "ALGN": {
    "price": 163.96,
@@ -97,6 +93,10 @@
   "DGX": {
    "price": 259.69,
    "change_pct": 1.3
+  },
+  "DHR": {
+   "price": 228.58,
+   "change_pct": 1.24
   },
   "DVA": {
    "price": 161.79,
@@ -234,10 +234,6 @@
    "price": 196.79,
    "change_pct": -4.84
   },
-  "NBIX": {
-   "price": 162.86,
-   "change_pct": -1.84
-  },
   "NTRA": {
    "price": 289.5,
    "change_pct": 0.71
@@ -317,6 +313,10 @@
   "TMO": {
    "price": 692.74,
    "change_pct": 0.87
+  },
+  "TWST": {
+   "price": 116.35,
+   "change_pct": 3.88
   }
  },
  "tickers": {
@@ -946,6 +946,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "c0643d58f104",
+   "headline": "FDA clears Masimo\u2019s brain function monitor",
+   "summary": "To facilitate clinical evaluation, the system utilises DSA features and computes a PSi metric by analysing EEG power.",
+   "url": "https://finnhub.io/api/news?id=a7c0d6e17f0b6fcd2317295c93c2aa4a3e8af0c4cf7605ba3a5878e89c5fefad",
+   "source": "Yahoo",
+   "published": "2026-11-19T09:31:33+00:00",
+   "tickers": [
+    "DHR"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -43200,126 +43215,6 @@
    "published": "2026-11-09T10:17:51+00:00",
    "tickers": [
     "CRSP"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "e676a167c196",
-   "headline": "Truist Securities Maintains Buy on Veeva Systems, Raises Price Target to $360",
-   "summary": "Truist Securities analyst Jailendra Singh maintains Veeva Systems (NYSE:VEEV) with a Buy and raises the price target from $305 to $360.",
-   "url": "https://finnhub.io/api/news?id=12e4c7db40420312738d14343df18c1638eaf27b0346d207fe15248db49c4459",
-   "source": "Benzinga",
-   "published": "2026-11-09T10:15:25+00:00",
-   "tickers": [
-    "VEEV"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "c87d7041e36b",
-   "headline": "Truist Securities Reiterates Hold on Insulet, Raises Price Target to $160",
-   "summary": "Truist Securities analyst Richard Newitter reiterates Insulet (NASDAQ:PODD) with a Hold and raises the price target from $153 to $160.",
-   "url": "https://finnhub.io/api/news?id=83daa1cfae70fe9cf57f28996c361ffc5d6c8f0b800324d83dc50f8d884d565d",
-   "source": "Benzinga",
-   "published": "2026-11-09T10:11:10+00:00",
-   "tickers": [
-    "PODD"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "ccc19623094a",
-   "headline": "Roivant Sciences Q2 2027 Earnings Call Transcript",
-   "summary": "Roivant Sciences (NASDAQ:ROIV) reported second-quarter financial results on Monday. The transcript from the company\u2019s second-quarter earnings call has been provided below.This transcript is brought to you by Benzinga",
-   "url": "https://finnhub.io/api/news?id=3122573f9d15b079f445501ac6f512688b3d9dfb2d2057529d8e3338ee6f3447",
-   "source": "Benzinga",
-   "published": "2026-11-09T10:08:59+00:00",
-   "tickers": [
-    "ROIV"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "841a39f6181f",
-   "headline": "LifeStance Health Group Prices Secondary Offering Of 45M Common shares At $13.12 Per Share",
-   "summary": "LifeStance Health Group, Inc. (\"LifeStance\" or the \"Company\") (Nasdaq: LFST), one of the nation\u2019s largest providers of virtual and in-person outpatient mental health care, today announced the pricing of",
-   "url": "https://finnhub.io/api/news?id=ca98f2e9629bb285476a201e77fd7999c1a5b254d20c06981a097d8bf2b9681f",
-   "source": "Benzinga",
-   "published": "2026-11-09T10:07:30+00:00",
-   "tickers": [
-    "LFST"
-   ],
-   "tag": "News",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "e0542336b542",
-   "headline": "Is Merck (MRK) Undervalued After Its Cancer Trial Wins?",
-   "summary": "Merck has quietly turned into one of the market\u2019s stronger long term performers, and the recent share price level raises a straightforward question for investors who focus on what the business can earn and return in cash. After such a\u2026",
-   "url": "https://finnhub.io/api/news?id=74fb081218ba39ce5afc53664d6462b78bbe1457fd5bba246aec5b6606e45573",
-   "source": "Yahoo",
-   "published": "2026-11-09T10:07:04+00:00",
-   "tickers": [
-    "MRK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "a7bce2e6a1b2",
-   "headline": "GH Q3 2026 deep dive: new product launches and coverage wins drive growth, but market cautious on profitability",
-   "summary": "Diagnostics company Guardant Health (NASDAQ:GH) reported Q3 2026 results exceeding the market\u2019s revenue expectations, with sales up 36.1% year on year to $361 million. The company expects the full year\u2019s revenue to be around $1.37\u2026",
-   "url": "https://finnhub.io/api/news?id=bfa82a855645255930694a758c9e8907a222892abe955fc16b606220d8f1bcde",
-   "source": "Yahoo",
-   "published": "2026-11-09T10:05:36+00:00",
-   "tickers": [
-    "GH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "2f7470f857ba",
-   "headline": "Truist Securities Maintains Buy on Globus Medical, Lowers Price Target to $90",
-   "summary": "Truist Securities analyst Richard Newitter maintains Globus Medical (NYSE:GMED) with a Buy and lowers the price target from $100 to $90.",
-   "url": "https://finnhub.io/api/news?id=72c03e6257559b14cd5a5b8fc7b24c28b62c869e0daa9dc15eae95d5c46baa99",
-   "source": "Benzinga",
-   "published": "2026-11-09T10:04:49+00:00",
-   "tickers": [
-    "GMED"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "0465aeaed267",
-   "headline": "3 Reasons Argenx Could Be a Top Biotech Stock for the Next Decade",
-   "summary": "Here's why Argenx could keep winning.",
-   "url": "https://finnhub.io/api/news?id=ba071c25afdc331fd852c9fdd12a8409236ad036640abde60378e9c4766700fd",
-   "source": "Yahoo",
-   "published": "2026-11-09T10:04:00+00:00",
-   "tickers": [
-    "ARGX"
    ],
    "tag": "News",
    "sectors": [
