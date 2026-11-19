@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-19T13:03:02.120855+00:00",
+ "updated": "2026-11-19T13:17:31.913482+00:00",
  "quotes": {
   "A": {
    "price": 177.33,
@@ -65,10 +65,6 @@
   "CI": {
    "price": 285.37,
    "change_pct": -2.96
-  },
-  "CLOV": {
-   "price": 4.17,
-   "change_pct": -11.84
   },
   "CNC": {
    "price": 67.45,
@@ -222,6 +218,10 @@
    "price": 646.87,
    "change_pct": -0.95
   },
+  "MOH": {
+   "price": 206.56,
+   "change_pct": -6.62
+  },
   "MRK": {
    "price": 137.78,
    "change_pct": -3.9
@@ -237,10 +237,6 @@
   "NVS": {
    "price": 155.21,
    "change_pct": -2.46
-  },
-  "OPCH": {
-   "price": 31.71,
-   "change_pct": 0.25
   },
   "OSCR": {
    "price": 27.57,
@@ -317,6 +313,10 @@
   "UNH": {
    "price": 349.91,
    "change_pct": -10.21
+  },
+  "UTHR": {
+   "price": 577.34,
+   "change_pct": -1.16
   }
  },
  "tickers": {
@@ -934,6 +934,47 @@
  },
  "stories": [
   {
+   "id": "17cd804b7276",
+   "headline": "Novartis CEO argues shareholders \u2018happy overall\u2019 with strategy, calls for COINS Act adjustment",
+   "summary": "Despite a bumpy few months for Novartis that saw a couple of high-profile clinical setbacks, CEO Vas Narasimhan has told Fierce he believes most shareholders remain onside with the company\u2019s strategy.",
+   "url": "https://www.fiercepharma.com/biotech/novartis-ceo-argues-shareholders-happy-overall-calls-coins-act-adjustment",
+   "source": "Fierce Pharma",
+   "published": "2026-11-19T13:15:20.353699+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "028fa0b99cbe",
+   "headline": "AI\u2019s Real Prize: Building Tomorrow\u2019s CI Capability",
+   "summary": "AI is becoming a commodity. Javier Vega explains why the next advantage in competitive intelligence comes from people, judgment and scale.",
+   "url": "https://www.fiercepharma.com/sponsored/ais-real-prize-building-tomorrows-ci-capability",
+   "source": "Fierce Pharma",
+   "published": "2026-11-19T13:15:20.352656+00:00",
+   "tickers": [],
+   "tag": "Health AI",
+   "sectors": []
+  },
+  {
+   "id": "d1366746b088",
+   "headline": "Johnson & Johnson Seeks U.S. FDA Approval for CAPLYTA in Bipolar Mania, Marking Fifth Potential Indication",
+   "summary": "Two positive Phase 3 studies showed CAPLYTA significantly reduced manic symptoms versus placebo as early as Day 3, with improvement sustained through Week 3 As the first and only FDA-approved treatment for both bipolar I and II depression\u2026",
+   "url": "https://www.prnewswire.com/news-releases/johnson--johnson-seeks-us-fda-approval-for-caplyta-in-bipolar-mania-marking-fifth-potential-indication-302945475.html",
+   "source": "PR Newswire",
+   "published": "2026-11-19T13:01:00+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "9d9ee8b9be67",
    "headline": "Sanders\u2019 \u2018Medicare for All\u2019 plan accrues more liberate and moderate support in Congress",
    "summary": "Sen. Bernie Sanders pushed back on assumptions that Trump would veto an expanded Medicare plan. \u201cI am not absolutely certain that Trump would not sign it,\u201d he said.",
@@ -945,6 +986,36 @@
    "sectors": []
   },
   {
+   "id": "892a72eaec3d",
+   "headline": "UnitedHealth Shares Sink as New Federal Fraud Crackdown Sparks Healthcare Sell-Off",
+   "summary": "UnitedHealth, Humana and CVS Tumble as Medicare Fraud Proposal Rattles Insurers",
+   "url": "https://finnhub.io/api/news?id=305e41acfbe2744357c246a66fa7fb520c7c9608419e56e7230b4bbc7fcf31f4",
+   "source": "Yahoo",
+   "published": "2026-11-19T12:25:29+00:00",
+   "tickers": [
+    "CI"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "c328ced5f64d",
+   "headline": "What Triggered The Move In Centene Stock?",
+   "summary": "Today's big story: Could Anthropic Stock Fall 25.",
+   "url": "https://finnhub.io/api/news?id=6cb21490c506404e1401eae4e33d60271f2de2a8186963f45e67b7bbb0b66551",
+   "source": "Yahoo",
+   "published": "2026-11-19T12:20:45+00:00",
+   "tickers": [
+    "MOH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "aa1dde488e18",
    "headline": "Aetna unveils new program aimed at offering end-to-end support for moms and babies",
    "summary": "Aetna is rolling out a new program that aims to provide key end-to-end care for pregnant women, new mothers and infants.",
@@ -954,6 +1025,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "eb097e3a367d",
+   "headline": "What Is Behind The Move In Elevance Health Stock?",
+   "summary": "Today's big story: Could Anthropic Stock Fall 25.",
+   "url": "https://finnhub.io/api/news?id=0c7bfa893866d54df857d53eac82ba2bc4a7b6b7660ef6fd68555bf630a2c7b6",
+   "source": "Yahoo",
+   "published": "2026-11-19T12:12:25+00:00",
+   "tickers": [
+    "CI"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
   },
   {
    "id": "d2c235306daf",
@@ -1008,11 +1094,27 @@
    "source": "Yahoo",
    "published": "2026-11-19T12:00:00+00:00",
    "tickers": [
-    "ALNY"
+    "ALNY",
+    "REGN"
    ],
    "tag": "FDA",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "22c5073fb7ee",
+   "headline": "Regeneron Highlights New Data Across Malignant and Classical Hematology Programs at American Society of Hematology (ASH)",
+   "summary": "Primary analysis from a potentially pivotal trial of Ordspono\u00ae (odronextamab) in patients with R/R marginal zone lymphoma (MZL) to be shared in an oral presentation, part of a clinical development program evaluating Ordspono across a\u2026",
+   "url": "https://finnhub.io/api/news?id=fa2ac28d4999d3baa15d94cd8fae45c7d5d0e11fa7ca3110433b5f6517fa5a7b",
+   "source": "Yahoo",
+   "published": "2026-11-19T12:00:00+00:00",
+   "tickers": [
+    "REGN"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1149,7 +1251,8 @@
    "published": "2026-11-19T11:34:52+00:00",
    "tickers": [
     "ILMN",
-    "IQV"
+    "IQV",
+    "TEM"
    ],
    "tag": "Health AI",
    "sectors": [
@@ -1741,6 +1844,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "fa4dee099c03",
+   "headline": "Tempus AI: 3 Key Takeaways for Long-Term Investors",
+   "summary": "Positive adjusted EBITDA signals the diagnostic platform has crossed a profitability threshold where test volume growth flows directly to earnings.",
+   "url": "https://finnhub.io/api/news?id=1b346f80946454321e6d9d6beddc81f21d099fe24162f54a02cd6d8030129aac",
+   "source": "Yahoo",
+   "published": "2026-11-19T06:55:01+00:00",
+   "tickers": [
+    "TEM"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthai"
    ]
   },
   {
@@ -42346,200 +42464,6 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "8b365cda67e1",
-   "headline": "Kyorin pens $140M deal for Japan rights to Edesa\u2019s phase 3 respiratory drug",
-   "summary": "Kyorin Pharmaceutical is paying $12 million upfront for the Japan rights to Edesa Biotech\u2019s anti-TLR4 antibody to treat acute respiratory distress syndrome.",
-   "url": "https://www.fiercebiotech.com/biotech/kyorin-pens-140m-deal-japan-rights-edesas-phase-3-stage-respiratory-drug",
-   "source": "Fierce Biotech",
-   "published": "2026-11-09T13:15:21.359890+00:00",
-   "tickers": [],
-   "tag": "Clinical",
-   "sectors": []
-  },
-  {
-   "id": "ff9354728128",
-   "headline": "Advanced Analytics Help Reduce Control Animal Use While Preserving Scientific Rigor",
-   "summary": "Advanced analytics leverage curated historical controls on new studies, supporting fewer animals while preserving scientific rigor.",
-   "url": "https://www.fiercebiotech.com/sponsored/advanced-analytics-help-reduce-control-animal-use-while-preserving-scientific-rigor",
-   "source": "Fierce Biotech",
-   "published": "2026-11-09T13:15:21.358898+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "6c751d11974f",
-   "headline": "Use Kidney Genetics to Strengthen Clinical Trial Design",
-   "summary": "Listen to the podcast to learn how genotype-defined kidney disease data can inform trial populations, endpoints and enrollment strategy.",
-   "url": "https://www.fiercebiotech.com/sponsored/use-kidney-genetics-strengthen-clinical-trial-design",
-   "source": "Fierce Biotech",
-   "published": "2026-11-09T13:15:21.357879+00:00",
-   "tickers": [],
-   "tag": "Clinical",
-   "sectors": []
-  },
-  {
-   "id": "c1213fb12936",
-   "headline": "Looking Beyond the First Answer Towards Delivering Impact",
-   "summary": "Science rarely moves in a straight line. Philippe Lopes-Fernandes explores how an unexpected turn can reveal a credible path to progress.",
-   "url": "https://www.fiercebiotech.com/sponsored/philippe-lopes-fernandes-executive-vice-president-chief-business-officer-ipsen",
-   "source": "Fierce Biotech",
-   "published": "2026-11-09T13:15:21.356884+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "dd07fd546a2b",
-   "headline": "Unlocking Charles River (CRL) International Revenues: Trends, Surprises, and Prospects",
-   "summary": "Explore how Charles River's (CRL) revenue from international markets is changing and the resulting impact on Wall Street's predictions and the stock's prospects.",
-   "url": "https://finnhub.io/api/news?id=5efc779a269729992c6a83c6f72c644bb15fd4553a0815e83c9307c16aacd991",
-   "source": "Yahoo",
-   "published": "2026-11-09T13:15:07+00:00",
-   "tickers": [
-    "CRL"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "57888f3ded80",
-   "headline": "Don't Overlook Jazz (JAZZ) International Revenue Trends While Assessing the Stock",
-   "summary": "Review Jazz's (JAZZ) international revenue performance and how it affects the predictions of financial analysts on Wall Street and the future prospects for the stock.",
-   "url": "https://finnhub.io/api/news?id=4f2e8b01e94126defb11089af688f59badc445f0aa7c84340331df2702191f41",
-   "source": "Yahoo",
-   "published": "2026-11-09T13:15:06+00:00",
-   "tickers": [
-    "JAZZ"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "086c780dc384",
-   "headline": "Piper Sandler Reiterates Overweight on Moderna, Raises Price Target to $305",
-   "summary": "Piper Sandler analyst Edward Tenthoff reiterates Moderna (NASDAQ:MRNA) with a Overweight and raises the price target from $230 to $305.",
-   "url": "https://finnhub.io/api/news?id=2f4ba376751c415f45943532c45e747d92b1e9be9978392b15925503e6259027",
-   "source": "Benzinga",
-   "published": "2026-11-09T13:13:15+00:00",
-   "tickers": [
-    "MRNA"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "418e796d5a0e",
-   "headline": "Piper Sandler Maintains Overweight on Humana, Raises Price Target to $526",
-   "summary": "Piper Sandler analyst Jessica Tassan maintains Humana (NYSE:HUM) with a Overweight and raises the price target from $463 to $526.",
-   "url": "https://finnhub.io/api/news?id=966683d7663e7023ecd1859e587efc2a29f9d4156037acf728b328b9fd64b1c7",
-   "source": "Benzinga",
-   "published": "2026-11-09T13:12:04+00:00",
-   "tickers": [
-    "HUM"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "a48546a37f1a",
-   "headline": "US Stock Market Today: S&P 500 Futures Nudge Higher On Jobs Strength Fed Uncertainty",
-   "summary": "The Morning Bull - US Market Morning Update Monday, Nov, 9 2026 US stocks are set for a mildly positive open, with sentiment driven almost entirely by a stronger than expected October labor report. Investors are reading the combination of\u2026",
-   "url": "https://finnhub.io/api/news?id=b4133e9c6cce8313fd82eeee4318d3236ccbbcb7bfca234a09c3502986924842",
-   "source": "Yahoo",
-   "published": "2026-11-09T13:09:35+00:00",
-   "tickers": [
-    "NTRA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "95d20edfba06",
-   "headline": "Can IBM's Latest Quantum System Boost Illinois' Innovation Future?",
-   "summary": "IBM has launched its first quantum computer in Illinois, advancing research partnerships, industry applications and plans to create 750 technology jobs.",
-   "url": "https://finnhub.io/api/news?id=44f73d7b94e152abff5bd221bf594bbf1827ea62553280b18d4ce4b7da2cdb6a",
-   "source": "Yahoo",
-   "published": "2026-11-09T13:09:00+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "ed598efaedd0",
-   "headline": "Globus Medical (GMED) Stock Gets Fair Value Trim After Mixed Analyst Revisions",
-   "summary": "Globus Medical has seen its assessed fair value trimmed from US$100.92 to US$96.54, signalling a modest reset in the price target that investors may want to understand in context. Street research links this change to a mixed setup, with\u2026",
-   "url": "https://finnhub.io/api/news?id=40c437af3c1e52941ce59e47af9aa439d9fde2787544ccc2660f55fbeb00adc1",
-   "source": "Yahoo",
-   "published": "2026-11-09T13:08:42+00:00",
-   "tickers": [
-    "GMED"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "8c290fca2174",
-   "headline": "Piper Sandler Reiterates Overweight on Biogen, Raises Price Target to $305",
-   "summary": "Piper Sandler analyst David Amsellem reiterates Biogen (NASDAQ:BIIB) with a Overweight and raises the price target from $245 to $305.",
-   "url": "https://finnhub.io/api/news?id=58c44ea47253875af618840f6274b9c72f81aab71e88076be9961e3fd66b8b15",
-   "source": "Benzinga",
-   "published": "2026-11-09T13:08:08+00:00",
-   "tickers": [
-    "BIIB"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "db8ff87610ee",
-   "headline": "12 Health Care Stocks Moving In Monday's Intraday Session",
-   "summary": "Gainers Edesa Biotech (NASDAQ:EDSA) stock moved upwards by 39.0% to $2.98 during Monday's regular session. The market value of their outstanding shares is at $20.6 million. Heron Therapeutics (NASDAQ:HRTX) stock",
-   "url": "https://finnhub.io/api/news?id=b5791fb0c4d1f7bb15be47dc7397fbb44d44212e1ff3a8c83946df85da628f92",
-   "source": "Benzinga",
-   "published": "2026-11-09T13:05:34+00:00",
-   "tickers": [
-    "IONS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "1c88437d509c",
-   "headline": "EVH Q3 2026 deep dive: ongoing AI investment and customer expansion shape outlook",
-   "summary": "Healthcare solutions company Evolent Health (NYSE:EVH) met Wall Street\u2019s revenue expectations in Q3 2026, with sales up 51.3% year on year to $725.4 million. The company\u2019s full-year revenue guidance of $2.65 billion at the midpoint came\u2026",
-   "url": "https://finnhub.io/api/news?id=1399667584e87b8d55f7399b85781f48706023461336df48f9d19b788af751bf",
-   "source": "Yahoo",
-   "published": "2026-11-09T13:01:36+00:00",
-   "tickers": [
-    "EVH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "healthit"
    ]
   }
  ]
