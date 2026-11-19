@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-19T11:02:45.772992+00:00",
+ "updated": "2026-11-19T11:17:31.887939+00:00",
  "quotes": {
   "A": {
    "price": 177.33,
@@ -29,10 +29,6 @@
   "AMGN": {
    "price": 443.89,
    "change_pct": -3.07
-  },
-  "ARWR": {
-   "price": 43.11,
-   "change_pct": 0.28
   },
   "AZN": {
    "price": 178.76,
@@ -81,10 +77,6 @@
   "CRL": {
    "price": 333.25,
    "change_pct": 0.33
-  },
-  "CRSP": {
-   "price": 40.19,
-   "change_pct": 0.1
   },
   "CVS": {
    "price": 81.35,
@@ -181,10 +173,6 @@
   "IONS": {
    "price": 27.39,
    "change_pct": 1.59
-  },
-  "IQV": {
-   "price": 257.84,
-   "change_pct": 0.09
   },
   "ISRG": {
    "price": 420.95,
@@ -317,6 +305,18 @@
   "TXG": {
    "price": 57.07,
    "change_pct": 1.37
+  },
+  "UHS": {
+   "price": 186.07,
+   "change_pct": -3.08
+  },
+  "UNH": {
+   "price": 349.91,
+   "change_pct": -10.21
+  },
+  "UTHR": {
+   "price": 577.34,
+   "change_pct": -1.16
   }
  },
  "tickers": {
@@ -42876,269 +42876,6 @@
     "TXG"
    ],
    "tag": "Analyst",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "eb6c50608756",
-   "headline": "FDA Requires Safety Labeling Changes for Glucagon-Like Peptide-1 Receptor Agonists Due to Potential Increased Risk of Rare But Serious Eye Condition",
-   "summary": "https://www.fda.gov/drugs/drug-safety-communications/fda-requires-safety-labeling-changes-glucagon-peptide-1-receptor-agonists-glp-1-ras-due-potential",
-   "url": "https://finnhub.io/api/news?id=fe7ac2b3fa6573a28bf5b390e0504d568dc967ff8c2a9de67638ff96f3c3f84a",
-   "source": "Benzinga",
-   "published": "2026-11-09T11:13:25+00:00",
-   "tickers": [
-    "LLY",
-    "NVO"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "28a7fe32d564",
-   "headline": "Eli Lilly Gains After Jefferies Raises Price Target to Wall Street-High $1,700",
-   "summary": "Eli Lilly is rising Monday after Jefferies raised its price target to $1,700, the highest target on Wall Street, according to Investing.com.",
-   "url": "https://finnhub.io/api/news?id=23cd9dbd6e28b80746f3797c6c0c2836de29dc039a0964e61fc95e2548ddbb7b",
-   "source": "Benzinga",
-   "published": "2026-11-09T11:12:36+00:00",
-   "tickers": [
-    "LLY",
-    "NVO"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "f2fcc16bdf5a",
-   "headline": "Johnson & Johnson Says Icotyde in Psoriatic Arthritis Disease Meets Primary Endpoint in Phase 3 Study",
-   "summary": "Johnson & Johnson (JNJ) said Saturday Icotyde, a targeted oral peptide that blocks the IL-23 recepto",
-   "url": "https://finnhub.io/api/news?id=83996a09bdac6df0e7c5c9ae1df1dd1121f590885db501733b7558e0c1af1be7",
-   "source": "Yahoo",
-   "published": "2026-11-09T11:11:22+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "c0fcc310edf4",
-   "headline": "Charles River Laboratories to Acquire Frontage\u2019s Bioanalysis and DMPK Businesses",
-   "summary": "WILMINGTON, Mass., November 09, 2026--Charles River Laboratories to Acquire Frontage's Bioanalysis and DMPK Businesses",
-   "url": "https://finnhub.io/api/news?id=2289dc383a5683940372acf5a6ca8d949fbf273760192deae16ccd599f96d499",
-   "source": "Yahoo",
-   "published": "2026-11-09T11:10:00+00:00",
-   "tickers": [
-    "CRL"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "1d9538dfc724",
-   "headline": "Merck (MRK) Starts ENHANCE 3 COPD Trial As Cancer Drug Review Nears",
-   "summary": "Merck (NYSE:MRK) has begun the ENHANCE-3 Phase 3 trial to study OHTUVAYRE as a maintenance treatment for COPD. OHTUVAYRE recently received U.S. approval as the first new inhaled COPD maintenance option with dual bronchodilatory and\u2026",
-   "url": "https://finnhub.io/api/news?id=e05e6675d34d66a55665d78885b44ef93c2f0fd0acaeea3d43e253b907e4d34f",
-   "source": "Yahoo",
-   "published": "2026-11-09T11:07:04+00:00",
-   "tickers": [
-    "MRK"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "5916554e4714",
-   "headline": "What State Street Health Care SPDR (XLV) Sold: Eli Lilly Leads on Nov. 5",
-   "summary": "The fund sold $212.6 million of stock, cutting all 60 of its positions and buying nothing.",
-   "url": "https://finnhub.io/api/news?id=6869290493b43806a3bd3ff01a635782486c9a891f4f63e40546c6a201197258",
-   "source": "Yahoo",
-   "published": "2026-11-09T11:06:30+00:00",
-   "tickers": [
-    "ABBV",
-    "JNJ",
-    "LLY",
-    "MRK",
-    "UNH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "4a38f29d81fc",
-   "headline": "Dimensional U.S. Small Cap ETF (DFAS) Sells $24.2 Million of Charles River on Nov. 5",
-   "summary": "The fund traded $229.7 million gross and posted a net outflow of $92.0 million, with 475 positions increased and 29 decreased.",
-   "url": "https://finnhub.io/api/news?id=b26c364839f13bf8eaea44dee22bac8458a1443815b07981ee35ba6ae13aa9f4",
-   "source": "Yahoo",
-   "published": "2026-11-09T11:06:16+00:00",
-   "tickers": [
-    "CRL"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "cd56118353c6",
-   "headline": "Shionogi & Co.: Will Inorganic Growth Hurt Or Help Their 'Zoom Out Pivot'?",
-   "summary": "",
-   "url": "https://finnhub.io/api/news?id=33ac1e05d3a1480abf0f3fb569e4617ed91f372578fb19fdb21ae5881f87a704",
-   "source": "SeekingAlpha",
-   "published": "2026-11-09T11:06:13+00:00",
-   "tickers": [
-    "GSK",
-    "PFE"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "a4173fd1bafe",
-   "headline": "ViiV Healthcare Presents Real-World HIV Data Showing Higher Adherence and Treatment Persistence With Long-Acting Cabotegravir/Rilpivirine Injections",
-   "summary": "https://viivhealthcare.com/hiv-news-and-media/news/press-releases/2026/november/daily-oral-therapy-in-a-us-real-world-study/",
-   "url": "https://finnhub.io/api/news?id=9aab27b6badc2b90621c9482f2a6a0a7ebf9fc614778468c563dc3d834787e82",
-   "source": "Benzinga",
-   "published": "2026-11-09T11:05:53+00:00",
-   "tickers": [
-    "GSK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "aff34212af43",
-   "headline": "What iShares Russell 2000 Index Fund (IWM) Bought: Jackson Leads on Nov. 5",
-   "summary": "The ETF added $500.0 million in net buys across 1,847 increased positions while trimming just one holding.",
-   "url": "https://finnhub.io/api/news?id=0e3b26c635dfebbdc18e22a5a290b60164b82785972d5d759c034385033077c3",
-   "source": "Yahoo",
-   "published": "2026-11-09T11:05:20+00:00",
-   "tickers": [
-    "GKOS",
-    "RGEN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "3aab724c9c37",
-   "headline": "Invesco S&P 500 Equal Weight (RSP) Adds Vylor and Moderna on Nov. 5",
-   "summary": "The $101.82 billion fund bought $976.9 million of stock on Thursday, adding 503 positions and selling none.",
-   "url": "https://finnhub.io/api/news?id=0bda31c4db5aa3e66c7213b9a1a7fb7040ca081a93516b681502909ee5b849f5",
-   "source": "Yahoo",
-   "published": "2026-11-09T11:04:53+00:00",
-   "tickers": [
-    "MRNA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "a19ad1949498",
-   "headline": "What SPDR Dow Jones Industrial Avg ETF (DIA) Sold: Goldman Leads on Nov. 5",
-   "summary": "The fund sold $1.08 billion of stock on Thursday, cutting all 30 positions and buying nothing.",
-   "url": "https://finnhub.io/api/news?id=fbf8d9598f5d872f1ff9150966f3d222d0944601bb18ebb7e005e8ba1831d3bc",
-   "source": "Yahoo",
-   "published": "2026-11-09T11:04:45+00:00",
-   "tickers": [
-    "AMGN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "02ac34fb7adb",
-   "headline": "ETFs Are Net Sellers of Johnson & Johnson (JNJ) on Nov. 5",
-   "summary": "ETFs sold a net $68.4 million of Johnson & Johnson stock on Nov. 5.",
-   "url": "https://finnhub.io/api/news?id=ae9c5c30e0b9bfcd6e6ce72d74f40db4dce0dce33e4b9823971d4406ef09dfde",
-   "source": "Yahoo",
-   "published": "2026-11-09T11:03:43+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "1b1ebbf894cc",
-   "headline": "ETFs Are Net Sellers of Amgen (AMGN) on Nov. 5",
-   "summary": "ETFs sold a net $68.5 million of Amgen on Thursday, Nov. 5, with 51 funds buying and 20 selling.",
-   "url": "https://finnhub.io/api/news?id=48f45713f39f41ba1a4439531fde5cbb2ef2c98f680ffbcd3155097383d05756",
-   "source": "Yahoo",
-   "published": "2026-11-09T11:03:39+00:00",
-   "tickers": [
-    "AMGN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "f5cd7394ff6b",
-   "headline": "Take the Zacks Approach to Beat the Markets: Ulta Beauty, Accenture, HCA in Focus",
-   "summary": "Zacks highlights how its research strategies have delivered strong returns, with ACN, HCA and ULTA among the standout performers.",
-   "url": "https://finnhub.io/api/news?id=f7c19770c6b39343435143fdc85bcace975150f75826ef34ccbfba7c8d31f0db",
-   "source": "Yahoo",
-   "published": "2026-11-09T11:03:00+00:00",
-   "tickers": [
-    "HCA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "46bddc3b7a7c",
-   "headline": "Roivant Sciences Ltd. 2026 Q2 - Results - Earnings Call Presentation",
-   "summary": "2026-11-09. The following slide deck was published by Roivant Sciences Ltd.",
-   "url": "https://finnhub.io/api/news?id=df388cfe14a5eb433d79b13211a08473c266589a4d11627a64bd78d714d9f249",
-   "source": "SeekingAlpha",
-   "published": "2026-11-09T11:02:39+00:00",
-   "tickers": [
-    "ROIV"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "ca47ff428371",
-   "headline": "NTRA Q3 2026 deep dive: management transition and pharma business investments offset margin gains",
-   "summary": "Genetic testing company Natera (NASDAQ:NTRA) reported Q3 2026 results beating Wall Street\u2019s revenue expectations, with sales up 34.1% year on year to $794 million. The company\u2019s full-year revenue guidance of $3.02 billion at the midpoint\u2026",
-   "url": "https://finnhub.io/api/news?id=5764dc1d89198c4ba096e969c55d55a71d88e7f62362b4908edfe74e926145d9",
-   "source": "Yahoo",
-   "published": "2026-11-09T11:01:36+00:00",
-   "tickers": [
-    "NTRA"
-   ],
-   "tag": "Earnings",
    "sectors": [
     "tools"
    ]
