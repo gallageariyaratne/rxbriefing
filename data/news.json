@@ -1,7 +1,43 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-19T12:32:50.963700+00:00",
+ "updated": "2026-11-19T12:47:38.254208+00:00",
  "quotes": {
+  "A": {
+   "price": 177.33,
+   "change_pct": 2.97
+  },
+  "ABBV": {
+   "price": 286.01,
+   "change_pct": -2.33
+  },
+  "ABSI": {
+   "price": 8.18,
+   "change_pct": 7.92
+  },
+  "ABT": {
+   "price": 104.48,
+   "change_pct": -0.22
+  },
+  "ALGN": {
+   "price": 163.96,
+   "change_pct": 0.31
+  },
+  "ALNY": {
+   "price": 149.4,
+   "change_pct": -4.54
+  },
+  "AMGN": {
+   "price": 443.89,
+   "change_pct": -3.07
+  },
+  "AXSM": {
+   "price": 134,
+   "change_pct": -1.43
+  },
+  "AZN": {
+   "price": 178.76,
+   "change_pct": -1.93
+  },
   "BDX": {
    "price": 216.08,
    "change_pct": 0.31
@@ -991,7 +1027,9 @@
    "source": "Yahoo",
    "published": "2026-11-19T11:43:10+00:00",
    "tickers": [
-    "BMY"
+    "AMGN",
+    "BMY",
+    "EXEL"
    ],
    "tag": "News",
    "sectors": [
@@ -1014,6 +1052,36 @@
    ]
   },
   {
+   "id": "e51f7b842e8d",
+   "headline": "Dow Jones Futures Rise, Techs Jump 2%: Anthropic To Debut After Strong IPO; Palo Alto, Everpure Rally On Earnings",
+   "summary": "Tech futures jumped on Palo Alto, Everpure and a strong Anthropic IPO , which will start trading as ANT. Walmart looms.",
+   "url": "https://finnhub.io/api/news?id=83f837c7c398382d2c98327698cd4d84f6b0e1a187afd7f899d2a41f00896332",
+   "source": "Yahoo",
+   "published": "2026-11-19T11:43:04+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "618a195bca7c",
+   "headline": "What's Going To Happen With Tempus AI Stock Soon?",
+   "summary": "Today's big story: Could Anthropic Stock Fall 25.",
+   "url": "https://finnhub.io/api/news?id=529d90903382fbfb98e18f25ca0ef37a79fea049cdd158dd5eeda8aaba4dcb93",
+   "source": "Yahoo",
+   "published": "2026-11-19T11:34:52+00:00",
+   "tickers": [
+    "ILMN"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "e452a7537ecd",
    "headline": "Should Biogen Stock Holders Look At Amgen Instead?",
    "summary": "Today's big story: Could Anthropic Stock Fall 25.",
@@ -1022,6 +1090,8 @@
    "published": "2026-11-19T11:30:44+00:00",
    "tickers": [
     "ABBV",
+    "AMGN",
+    "BIIB",
     "BMY",
     "JNJ"
    ],
@@ -1039,7 +1109,9 @@
    "published": "2026-11-19T11:30:44+00:00",
    "tickers": [
     "CI",
-    "CVS"
+    "CVS",
+    "HUM",
+    "UNH"
    ],
    "tag": "News",
    "sectors": [
@@ -1077,6 +1149,21 @@
    ]
   },
   {
+   "id": "edba1dda9de4",
+   "headline": "Why Is Intuitive Surgical (ISRG) At The Center Of The Robotics Boom?",
+   "summary": "Intuitive Surgical (NasdaqGS:ISRG) is highlighted in new industry research as a primary beneficiary of accelerating surgical robotics adoption. Reports point to rapid expansion in global robotic procedure volumes, with strong traction for\u2026",
+   "url": "https://finnhub.io/api/news?id=538ea3f4384f38737545be1a16c210b2079ca545d704aaeadf54df708dc2a564",
+   "source": "Yahoo",
+   "published": "2026-11-19T11:14:28+00:00",
+   "tickers": [
+    "ISRG"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "f8022763a463",
    "headline": "Should I Buy Humana Stock Now?",
    "summary": "Today's big story: Could Anthropic Stock Fall 25.",
@@ -1085,11 +1172,28 @@
    "published": "2026-11-19T11:08:59+00:00",
    "tickers": [
     "CI",
-    "CVS"
+    "CVS",
+    "HUM",
+    "UNH"
    ],
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "2b54c2dacca5",
+   "headline": "Invesco S&P 500 Equal Weight (RSP) Buys $0.6 Million More AppLovin on Nov. 17",
+   "summary": "The fund added $212.6 million across all 503 holdings, with AppLovin, Viatris and Fiserv each drawing about $0.6 million.",
+   "url": "https://finnhub.io/api/news?id=edb74f0d69e333823012ee7bb4e6e425dc055b407c6fd492ad14f0bac310ea71",
+   "source": "Yahoo",
+   "published": "2026-11-19T11:05:38+00:00",
+   "tickers": [
+    "CRL"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -1101,11 +1205,27 @@
    "published": "2026-11-19T11:05:08+00:00",
    "tickers": [
     "ABBV",
-    "JNJ"
+    "JNJ",
+    "UNH"
    ],
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "d56eb52e3158",
+   "headline": "iShares Russell 2000 (IWM) Buys $1.4 Million More Glaukos on Tuesday",
+   "summary": "The fund added $261.7 million in new exposure across 1,870 positions, led by Glaukos, BrightSpring Health, JFrog, Bright Horizon Energy and UMB Financial.",
+   "url": "https://finnhub.io/api/news?id=6915d5cf61422fa9128e67a8ee7a4120752e6c2fb809deed6bcbcd84ebc1cba3",
+   "source": "Yahoo",
+   "published": "2026-11-19T11:04:57+00:00",
+   "tickers": [
+    "GKOS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -1117,11 +1237,28 @@
    "published": "2026-11-19T11:04:38+00:00",
    "tickers": [
     "CI",
-    "CVS"
+    "CVS",
+    "HUM",
+    "UNH"
    ],
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "52f50563219b",
+   "headline": "What SPDR Dow Jones Industrial Avg ETF (DIA) Bought: Goldman Sachs Leads on Nov. 17",
+   "summary": "The fund added $481.4 million across all 30 holdings, with Goldman Sachs Group leading the buys at $49.5 million.",
+   "url": "https://finnhub.io/api/news?id=6c278aed0ae01f6a8aff767f4ee7e40c283eefdf107db0bfb14f72ebb87ede76",
+   "source": "Yahoo",
+   "published": "2026-11-19T11:04:33+00:00",
+   "tickers": [
+    "AMGN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1137,6 +1274,21 @@
    "tag": "News",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "0412684f530b",
+   "headline": "41 ETFs Add to UnitedHealth (UNH) Holdings on Nov. 17",
+   "summary": "ETFs bought a net $42.3 million of UnitedHealth stock, with 41 buyers against 15 sellers.",
+   "url": "https://finnhub.io/api/news?id=219407e0050e9fbdafd130a883c8109d1fd22f79b870ebdd5c5e01f58ef5c191",
+   "source": "Yahoo",
+   "published": "2026-11-19T11:01:55+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -1200,6 +1352,21 @@
    ]
   },
   {
+   "id": "7e48a03c6699",
+   "headline": "Pfizer Will Pay Its 352nd Straight Quarterly Dividend on Dec. 7. Here's What It Would Take to Break the Streak.",
+   "summary": "Pfizer's dividend streak spans 88 years, and it would take a perfect storm to end it.",
+   "url": "https://finnhub.io/api/news?id=816a80bdb30f9efa8caea3c027d94c5a47826c151e65b2e40e3649325e2c6a60",
+   "source": "Yahoo",
+   "published": "2026-11-19T10:04:00+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "508808d66a0a",
    "headline": "AbbVie busts a move with Disco in $2.5B dance aimed at bispecific discovery",
    "summary": "AbbVie is twirling onto the dance floor with Disco Pharmaceuticals, offering up to $2.5 billion to work with the German platform company on cancer-targeted bispecific discovery.",
@@ -1210,6 +1377,21 @@
     "ABBV"
    ],
    "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "406edaf10bcc",
+   "headline": "Biogen reports two-year Phase II data for diranersen in Alzheimer\u2019s",
+   "summary": "The trial evaluated diranersen in 416 patients with mild cognitive impairment or mild dementia due to Alzheimer's.",
+   "url": "https://finnhub.io/api/news?id=9c9c0e77735192dd1a869653c05a6059e2592843475e4e3f20b0b1ee85ef93f5",
+   "source": "Yahoo",
+   "published": "2026-11-19T09:59:10+00:00",
+   "tickers": [
+    "BIIB"
+   ],
+   "tag": "Clinical",
    "sectors": [
     "pharma"
    ]
@@ -42385,129 +42567,6 @@
    "tag": "News",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "ae32bf103972",
-   "headline": "What Happens To Pfizer Stock If Patent Losses Outpace New Drugs?",
-   "summary": "For questions about this article or underlying research, email help@trefis.com.",
-   "url": "https://finnhub.io/api/news?id=895c30a604c642d18adc2ca87464c2cbaadd23a49ebbd1555a7b2fbae9351dbd",
-   "source": "Yahoo",
-   "published": "2026-11-09T12:45:56+00:00",
-   "tickers": [
-    "ABBV",
-    "BMY",
-    "JNJ",
-    "LLY",
-    "MRK",
-    "PFE"
-   ],
-   "tag": "Legal",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "a4b4e3e318bb",
-   "headline": "OSCR Q3 2026 deep dive: management credits pricing discipline and technology for margin gains",
-   "summary": "Health insurance company Oscar Health (NYSE:OSCR) beat Wall Street\u2019s revenue expectations in Q3 2026, with sales up 72.1% year on year to $5.14 billion. The company\u2019s full-year revenue guidance of $19.15 billion at the midpoint came in\u2026",
-   "url": "https://finnhub.io/api/news?id=78059f37145731c7fb8ab00cc8fc2154c3665b2295120227dacc0223c826cbf2",
-   "source": "Yahoo",
-   "published": "2026-11-09T12:45:36+00:00",
-   "tickers": [
-    "OSCR"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "3e64b8d8ed08",
-   "headline": "Faeth\u2019s phase 2 data power oral combo forward in cancer targeted by ADC heavyweights",
-   "summary": "Faeth Therapeutics\u2019 endometrial cancer prospect has cleared the phase 2 efficacy bar, emboldening the biotech to forge ahead with efforts to establish the oral therapy in a field dominated by injectables.",
-   "url": "https://www.fiercebiotech.com/biotech/faeths-phase-2-data-power-oral-combo-forward-cancer-targeted-adc-heavyweights",
-   "source": "Fierce Biotech",
-   "published": "2026-11-09T12:45:20.642135+00:00",
-   "tickers": [],
-   "tag": "Clinical",
-   "sectors": []
-  },
-  {
-   "id": "a19f403b6330",
-   "headline": "3 Large-Cap Stocks to Watch as Drug & Biotech Sector Rebounds in 2026",
-   "summary": "In the Large-Cap Pharmaceuticals industry, LLY, NVS and BAYRY are worth watching as the industry shows a strong recovery.",
-   "url": "https://finnhub.io/api/news?id=d4fb35728b136ce39c05324d9b26a26484846b6c535544040b9361e7f363cd78",
-   "source": "Yahoo",
-   "published": "2026-11-09T12:43:00+00:00",
-   "tickers": [
-    "LLY",
-    "NVS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "990522950719",
-   "headline": "Buy, Sell, or Hold? Monday\u2019s Top Upgrades and Downgrades: Advanced Micro Devices, Airbnb, DraftKings, L3 Harris Technologies, Molson-Coors, Nvidia, Take-Two Interactive, Uber Technologies, and More",
-   "summary": "Pre-Market Stock Futures: Futures are trading higher after a wild week that saw stocks rally after the election, then the Nasdaq post its biggest loss in 18 months on Thursday before rebounding Friday to close up over 1% at 24,579, while\u2026",
-   "url": "https://finnhub.io/api/news?id=a3fcbc84839c478f1ba4900cbbf785a8e3317742321e16cb107cea57beefd5c9",
-   "source": "Yahoo",
-   "published": "2026-11-09T12:40:17+00:00",
-   "tickers": [
-    "UTHR"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "4615adbccb60",
-   "headline": "Roivant Sciences Ltd. (ROIV) Reports Q2 Loss, Tops Revenue Estimates",
-   "summary": "Montes Archimedes Acquisition (ROIV) delivered earnings and revenue surprises of +53.66% and +1,252.37%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
-   "url": "https://finnhub.io/api/news?id=b0fb0f2ecd22495ddcdc387d326f2f99ac8fb003fdab58d1be49173962ae0b52",
-   "source": "Yahoo",
-   "published": "2026-11-09T12:40:03+00:00",
-   "tickers": [
-    "ROIV",
-    "TECH"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "79247421f2ee",
-   "headline": "ADC Therapeutics SA (ADCT) Reports Q3 Loss, Tops Revenue Estimates",
-   "summary": "ADC Therapeutics (ADCT) delivered earnings and revenue surprises of +23.81% and +5.67%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
-   "url": "https://finnhub.io/api/news?id=1978d1c91324c1b53f6e69b42a8486ddb2f02dad4025be43ea82508caadbe5a9",
-   "source": "Yahoo",
-   "published": "2026-11-09T12:40:02+00:00",
-   "tickers": [
-    "TWST"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "683ddc6f33ca",
-   "headline": "TD Cowen Maintains Hold on Teladoc Health, Raises Price Target to $8",
-   "summary": "TD Cowen analyst Charles Rhyee maintains Teladoc Health (NYSE:TDOC) with a Hold and raises the price target from $6 to $8.",
-   "url": "https://finnhub.io/api/news?id=2e654d199abd4a732ac8c06b49d1b601c13ae735196e1db0652378822675e10c",
-   "source": "Benzinga",
-   "published": "2026-11-09T12:36:06+00:00",
-   "tickers": [
-    "TDOC"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "healthit"
    ]
   }
  ]
