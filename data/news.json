@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-19T02:02:47.183458+00:00",
+ "updated": "2026-11-19T02:18:00.756734+00:00",
  "quotes": {
   "A": {
    "price": 177.33,
@@ -310,13 +310,13 @@
    "price": 8.06,
    "change_pct": -5.06
   },
+  "TEM": {
+   "price": 63.62,
+   "change_pct": 0.3
+  },
   "TGTX": {
    "price": 66.12,
    "change_pct": 5.44
-  },
-  "TMO": {
-   "price": 692.74,
-   "change_pct": 0.87
   }
  },
  "tickers": {
@@ -933,6 +933,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "538c9d24b3a0",
+   "headline": "Stable US Large Cap Stocks to Watch as Recession Risks Rise",
+   "summary": "Markets look calm on the surface, yet warnings about a harsher future recession, heavy AI-related borrowing and a softer labor backdrop suggest this comfort may not last. That mix can reward investors who focus on sturdier large caps,\u2026",
+   "url": "https://finnhub.io/api/news?id=61ad48bf8b61083508e1890280d80f28e7071ec602dc28d14ceeca504dac8bb4",
+   "source": "Yahoo",
+   "published": "2026-11-19T01:13:53+00:00",
+   "tickers": [
+    "CI"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "payers"
+   ]
+  },
   {
    "id": "05f1c8b4fb53",
    "headline": "UnitedHealthcare's new care model leans on community pharmacies",
@@ -2404,6 +2419,21 @@
    "tag": "Earnings",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "e7bb6a9af5b8",
+   "headline": "AI in Clinical Trials - Global Strategic Business Report 2026: Secure Share of a US$4.1 Billion Market by 2032 with IQVIA, Microsoft, Tempus AI, and Saama",
+   "summary": "Dublin, Nov. 18, 2026 (GLOBE NEWSWIRE) -- \"AI in Clinical Trials - Global Strategic Business Report 2026\" has been added to ResearchAndMarkets.com's offering. The global artificial intelligence (AI) in clinical trials market was valued at\u2026",
+   "url": "https://finnhub.io/api/news?id=69410a36b271cc8c35a2698fd25380b7ed66e14124242c3f22bda346529629be",
+   "source": "Yahoo",
+   "published": "2026-11-18T15:37:00+00:00",
+   "tickers": [
+    "TEM"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "healthai"
    ]
   },
   {
