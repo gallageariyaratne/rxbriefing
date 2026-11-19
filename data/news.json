@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-19T12:02:47.182502+00:00",
+ "updated": "2026-11-19T12:17:33.350297+00:00",
  "quotes": {
   "A": {
    "price": 177.33,
@@ -310,13 +310,13 @@
    "price": 349.91,
    "change_pct": -10.21
   },
-  "UTHR": {
-   "price": 577.34,
-   "change_pct": -1.16
-  },
   "VEEV": {
    "price": 277.2,
    "change_pct": -3.89
+  },
+  "VKTX": {
+   "price": 26.17,
+   "change_pct": -2.64
   }
  },
  "tickers": {
@@ -934,6 +934,47 @@
  },
  "stories": [
   {
+   "id": "aa1dde488e18",
+   "headline": "Aetna unveils new program aimed at offering end-to-end support for moms and babies",
+   "summary": "Aetna is rolling out a new program that aims to provide key end-to-end care for pregnant women, new mothers and infants.",
+   "url": "https://www.fiercehealthcare.com/payers/aetna-unveils-new-program-aimed-offering-end-end-support-moms-and-babies",
+   "source": "Fierce Healthcare",
+   "published": "2026-11-19T12:15:20.247331+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "ae9454734e7b",
+   "headline": "Innovative Health Receives FDA Clearance to Reprocess OCTARAY Mapping Catheter",
+   "summary": "Company becomes the only reprocessor cleared to reprocess the advanced mapping catheter from Johnson & Johnson MedTech SCOTTSDALE, Ariz., Nov. 19, 2026 /PRNewswire/ -- Innovative Health, Inc. today announced that it has received its 52nd\u2026",
+   "url": "https://www.prnewswire.com/news-releases/innovative-health-receives-fda-clearance-to-reprocess-octaray-mapping-catheter-302944723.html",
+   "source": "PR Newswire",
+   "published": "2026-11-19T12:05:00+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "09aa5577cc87",
+   "headline": "AstraZeneca PLC (NYSE:AZN) as a GARP Case Study: Growth at a Reasonable Price",
+   "summary": "AstraZeneca passes Peter Lynch GARP screens with steady EPS growth, a PEG near 1, strong ROE, but narrow liquidity and limited leverage headroom.",
+   "url": "https://finnhub.io/api/news?id=d339767e3ee50348bb8431684a53c4e037d1a5596a2685ad0962f424d8684c2b",
+   "source": "ChartMill",
+   "published": "2026-11-19T11:50:47+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "d8051f88f434",
    "headline": "Merck, Isomorphic Labs partner to develop oncology drug candidates",
    "summary": "Merck and Isomorphic Labs said they are entering into a research collaboration to discover small molecule candidates in oncology.",
@@ -964,6 +1005,36 @@
    ]
   },
   {
+   "id": "e452a7537ecd",
+   "headline": "Should Biogen Stock Holders Look At Amgen Instead?",
+   "summary": "Today's big story: Could Anthropic Stock Fall 25.",
+   "url": "https://finnhub.io/api/news?id=ed494b7858dafa5485ab5d9561bf8a6cce20d3df43128501617a00efa63da5b1",
+   "source": "Yahoo",
+   "published": "2026-11-19T11:30:44+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "d19599e737f1",
+   "headline": "Is Cigna Stock A Real Bargain?",
+   "summary": "Today's big story: Could Anthropic Stock Fall 25.",
+   "url": "https://finnhub.io/api/news?id=e79708b986176d7704bb1613b2dc89ae2e429a4371616cfc869a9c05b820bf95",
+   "source": "Yahoo",
+   "published": "2026-11-19T11:30:44+00:00",
+   "tickers": [
+    "CI"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "a1731ddf79b4",
    "headline": "STAT+: In cancer drug development, the spotlight shifts onto Erasca\u2019s KRAS-targeted treatment",
    "summary": "Did the biotech company Erasca find a more potent, better-tolerated pan-RAS cancer drug than Revolution Medicines?",
@@ -979,6 +1050,66 @@
    ]
   },
   {
+   "id": "a3fb7ec090cc",
+   "headline": "Parker Hannifin Stock Is Waiting On One Answer",
+   "summary": "Today's big story: Could Anthropic Stock Fall 25.",
+   "url": "https://finnhub.io/api/news?id=1906beb9bdf4dd2029f08a8dabd66d0876bc5482d813e2906f7f5392e5b03652",
+   "source": "Yahoo",
+   "published": "2026-11-19T11:18:20+00:00",
+   "tickers": [
+    "DHR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "f8022763a463",
+   "headline": "Should I Buy Humana Stock Now?",
+   "summary": "Today's big story: Could Anthropic Stock Fall 25.",
+   "url": "https://finnhub.io/api/news?id=7d58bbce69bdb39a841085c49743bcf2cce13d666aa0a8e73d7b54ad3fe624d8",
+   "source": "Yahoo",
+   "published": "2026-11-19T11:08:59+00:00",
+   "tickers": [
+    "CI"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "7c598e4216fb",
+   "headline": "What State Street Health Care SPDR (XLV) Sold: Eli Lilly Leads on Nov. 17",
+   "summary": "The fund cut all 60 of its positions, selling $250.1 million of stock, led by Eli Lilly at $42.3 million.",
+   "url": "https://finnhub.io/api/news?id=eb1a3fb0872a9a6aacd2538f704bb952971e19bf9730b85afdd3232dbbf4dbe6",
+   "source": "Yahoo",
+   "published": "2026-11-19T11:05:08+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "20b5ae62b07c",
+   "headline": "Should You Buy UnitedHealth Group Stock For Its Cash?",
+   "summary": "Today's big story: Could Anthropic Stock Fall 25.",
+   "url": "https://finnhub.io/api/news?id=0593548be2d0750d9f2b4cda4144d4a71923b59f12063e5619687c61888ddc4b",
+   "source": "Yahoo",
+   "published": "2026-11-19T11:04:38+00:00",
+   "tickers": [
+    "CI"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "5b4ded5b2fb6",
    "headline": "Novartis CEO argues shareholders \u2018happy overall\u2019 with strategy, calls for COINS Act adjustment",
    "summary": "Despite a bumpy few months for Novartis that saw a couple of high-profile clinical setbacks, CEO Vas Narasimhan has told Fierce he believes most shareholders remain onside with the company\u2019s strategy.",
@@ -991,6 +1122,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "d45c9aac3464",
+   "headline": "BD Named to TIME's 2027 List of America's Top Manufacturers",
+   "summary": "BD (Becton, Dickinson and Company) (NYSE: BDX), a leading global medical technology company, has been named to TIME's 2027 list of America's Top Manufacturers based on an independent evaluation of the company's financial performance,\u2026",
+   "url": "https://finnhub.io/api/news?id=b1ca0a6a185e973dc94acc600c3b64922995278913cd8174ea76f5738665ca49",
+   "source": "Yahoo",
+   "published": "2026-11-19T11:00:00+00:00",
+   "tickers": [
+    "BDX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -42469,81 +42615,6 @@
    "tag": "News",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "ade2da405e42",
-   "headline": "Doximity expands clinical AI footprint to more than 190 health systems",
-   "summary": "Doximity is rapidly expanding its clinical AI footprint with health systems. The company is also making clinical reliability a major part of its competitive positioning, launching DoseCheck and a partnership with Wolters Kluwer's UpToDate.",
-   "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/doximity-expands-clinical-ai-footprint-more-190-health-systems",
-   "source": "Fierce Healthcare",
-   "published": "2026-11-09T12:15:23.523592+00:00",
-   "tickers": [
-    "DOCS"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "533edbb83865",
-   "headline": "TG Therapeutics: Q3 Earnings Snapshot",
-   "summary": "(TGTX) on Monday reported third-quarter earnings of $55.On a per-share basis, the Morrisville, North Carolina-based company said it had net income of 35 cents.",
-   "url": "https://finnhub.io/api/news?id=026b11736e601d9d5c55d1774377fdb1797b1644ccab07d04e083d45690e1771",
-   "source": "Yahoo",
-   "published": "2026-11-09T12:11:41+00:00",
-   "tickers": [
-    "TGTX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "08ff66963305",
-   "headline": "Ionis Pharmaceuticals: Q3 Earnings Snapshot",
-   "summary": "(AP) \u2014 Ionis Pharmaceuticals Inc. (IONS) on Monday reported a loss of $110 million in its third quarter.",
-   "url": "https://finnhub.io/api/news?id=dedaf0b43a0ab1c3b0fbee11fd48d9f85c861fbe7b1d9f70879d0fd42b9265ed",
-   "source": "Yahoo",
-   "published": "2026-11-09T12:11:38+00:00",
-   "tickers": [
-    "IONS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "397df057bac3",
-   "headline": "Viking Therapeutics Announces Two Poster Presentations at ObesityWeek\u00ae 2026",
-   "summary": "Poster Presentations Highlight Baseline Characteristics from the Phase 3 VANQUISH-2 Trial of Subcutaneous VK2735 and the Impact of VK2735 on Obesity Severity and Cardiometabolic Parameters in the Phase 2 VENTURE Study SAN DIEGO, Nov. 9,\u2026",
-   "url": "https://www.prnewswire.com/news-releases/viking-therapeutics-announces-two-poster-presentations-at-obesityweek-2026-302932884.html",
-   "source": "PR Newswire",
-   "published": "2026-11-09T12:05:00+00:00",
-   "tickers": [
-    "VKTX"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "6a7571f9b75e",
-   "headline": "Viking Therapeutics Announces Two Poster Presentations at ObesityWeek\u00ae 2026",
-   "summary": "Viking Therapeutics, Inc. (\"Viking\") (NASDAQ: VKTX), a clinical-stage biopharmaceutical company focused on the development of novel therapies for metabolic and endocrine disorders, today announced that it will present two posters\u2026",
-   "url": "https://finnhub.io/api/news?id=6f15fb3af8e7753b9d0250459014cf86fbdec3183e0c14bc2142005b242b0bcf",
-   "source": "Yahoo",
-   "published": "2026-11-09T12:05:00+00:00",
-   "tickers": [
-    "VKTX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
    ]
   }
  ]
