@@ -1,18 +1,14 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-19T21:03:07.423662+00:00",
+ "updated": "2026-11-19T21:17:44.237417+00:00",
  "quotes": {
-  "A": {
-   "price": 175.35,
-   "change_pct": -1.12
-  },
   "ABBV": {
-   "price": 283.44,
-   "change_pct": -0.9
+   "price": 283.54,
+   "change_pct": -0.86
   },
   "ABT": {
-   "price": 103.97,
-   "change_pct": -0.49
+   "price": 103.87,
+   "change_pct": -0.58
   },
   "ALGN": {
    "price": 159.68,
@@ -91,12 +87,12 @@
    "change_pct": -1.61
   },
   "DGX": {
-   "price": 259.02,
-   "change_pct": -0.26
+   "price": 259.09,
+   "change_pct": -0.23
   },
   "DHR": {
-   "price": 227.39,
-   "change_pct": -0.52
+   "price": 227.56,
+   "change_pct": -0.45
   },
   "DVA": {
    "price": 156.34,
@@ -167,8 +163,8 @@
    "change_pct": -1.04
   },
   "HUM": {
-   "price": 380.2,
-   "change_pct": -1.45
+   "price": 380,
+   "change_pct": -1.5
   },
   "IDXX": {
    "price": 689.65,
@@ -187,8 +183,8 @@
    "change_pct": 20.58
   },
   "IQV": {
-   "price": 250.45,
-   "change_pct": -2.87
+   "price": 250.55,
+   "change_pct": -2.83
   },
   "ISRG": {
    "price": 407.24,
@@ -207,8 +203,8 @@
    "change_pct": -0.51
   },
   "LLY": {
-   "price": 1351.65,
-   "change_pct": -2.25
+   "price": 1351.12,
+   "change_pct": -2.29
   },
   "MCK": {
    "price": 1062.16,
@@ -227,8 +223,8 @@
    "change_pct": -1.56
   },
   "MRK": {
-   "price": 132.72,
-   "change_pct": -3.67
+   "price": 132.81,
+   "change_pct": -3.61
   },
   "MRNA": {
    "price": 199.33,
@@ -321,6 +317,10 @@
   "UNH": {
    "price": 330.48,
    "change_pct": -5.55
+  },
+  "UTHR": {
+   "price": 559.1,
+   "change_pct": -3.16
   }
  },
  "tickers": {
@@ -1216,7 +1216,8 @@
    "source": "Yahoo",
    "published": "2026-11-19T18:17:49+00:00",
    "tickers": [
-    "ALNY"
+    "ALNY",
+    "REGN"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -1291,6 +1292,7 @@
    "source": "Yahoo",
    "published": "2026-11-19T18:03:02+00:00",
    "tickers": [
+    "REGN",
     "VRTX"
    ],
    "tag": "M&A",
@@ -42853,182 +42855,6 @@
    "tag": "News",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "3dd298289b13",
-   "headline": "Merck\u2019s MASH hopeful efinopegdutide wins in mid-stage study",
-   "summary": "Merck & Co. revealed results from a mid-stage clinical trial showing its GLP-1 and glucagon receptor co-agonist efinopegdutide resolved cases of MASH compared with placebo without worsening liver fibrosis.",
-   "url": "https://www.fiercebiotech.com/biotech/mercks-mash-hopeful-efinopegdutide-wins-mid-stage-study",
-   "source": "Fierce Biotech",
-   "published": "2026-11-09T21:15:24.286963+00:00",
-   "tickers": [
-    "MRK"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "d82d82f73b05",
-   "headline": "Four states sue HHS to stop Medicaid work requirements",
-   "summary": "Four states have filed a lawsuit asking the court to delay implementation of Medicaid work requirements less than 60 days ahead of the implementation deadline.",
-   "url": "https://www.healthcaredive.com/news/four-states-sue-hhs-to-stop-medicaid-work-requirements/874191/",
-   "source": "Healthcare Dive",
-   "published": "2026-11-09T21:12:31+00:00",
-   "tickers": [],
-   "tag": "Legal",
-   "sectors": []
-  },
-  {
-   "id": "9e38d5932c69",
-   "headline": "4 states sue HHS to stop Medicaid work requirements",
-   "summary": "Four states have filed a lawsuit asking the court to delay implementation of Medicaid work requirements less than 60 days ahead of the implementation deadline.",
-   "url": "https://www.healthcaredive.com/news/4-states-sue-hhs-to-stop-medicaid-work-requirements/874191/",
-   "source": "Healthcare Dive",
-   "published": "2026-11-09T21:12:31+00:00",
-   "tickers": [],
-   "tag": "Legal",
-   "sectors": []
-  },
-  {
-   "id": "122a68bfef4f",
-   "headline": "Pfizer (PFE) Stock Looks Overvalued On Its 29% One Year Gain",
-   "summary": "Pfizer has quietly delivered a 28.6% gain over the past year, helped by stronger earnings and a busy pipeline. This puts a sharper spotlight on whether the current share price around US$29.39 is in step with what the business is actually\u2026",
-   "url": "https://finnhub.io/api/news?id=dbbd99ad82c44f3ed04021c2c2ecd4cc92d552d5038649ce5c6cc7ec0340d9db",
-   "source": "Yahoo",
-   "published": "2026-11-09T21:09:22+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "e135eb94761e",
-   "headline": "What GSK (LSE:GSK)'s Cancer And HIV Trial Wins Mean For Shareholders",
-   "summary": "GSK has recently reported multiple clinical updates, including strong phase II rectal cancer data for Jemperli, durable phase I responses for Mo Rez in ovarian and endometrial cancers, and real world adherence benefits from ViiV\u2026",
-   "url": "https://finnhub.io/api/news?id=a6fa7b5bef1902e91e021556f0fbf68ca29a99dc8f612e3080170765ea2f2af5",
-   "source": "Yahoo",
-   "published": "2026-11-09T21:08:08+00:00",
-   "tickers": [
-    "GSK"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "37d61ccd93ed",
-   "headline": "TG Therapeutics Inc (TGTX) (Q3 2026) Earnings Call Highlights: Revenue Jumps 61% as Guidance ...",
-   "summary": "TG Therapeutics Inc (TGTX) posted $260 million in quarterly revenue, notched its 14th straight quarter of BRIUMVI growth, and raised full-year 2026 guidance to roughly $1 billion.",
-   "url": "https://finnhub.io/api/news?id=843e6485cd44e751dfd58af29f13d2d254097553e4d0560ce23d53b99a07289e",
-   "source": "Yahoo",
-   "published": "2026-11-09T21:07:32+00:00",
-   "tickers": [
-    "TGTX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "734c97566302",
-   "headline": "Mid-cap biotech catalysts: FDA dates, earnings, and pipeline data to watch",
-   "summary": "Investing.com -- Five US-listed biotechs in the roughly $3.7B\u2013$7.7B market-cap range came out of the screen. Only two have a hard date in the sources found. The other three have news-driven or undated catalysts. Prices are as of Nov 9,\u2026",
-   "url": "https://finnhub.io/api/news?id=0e3561af24adcd585cddd1e8c5efc128841ab6362eaa4a2f52ff9f910e667afe",
-   "source": "Yahoo",
-   "published": "2026-11-09T21:06:12+00:00",
-   "tickers": [
-    "ARWR",
-    "CRSP",
-    "CYTK",
-    "IONS"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "b6b07e9c5c78",
-   "headline": "Stryker announces intention to nominate Jim Davis to board of directors",
-   "summary": "Portage, MI, Nov. 09, 2026 (GLOBE NEWSWIRE) -- Stryker announces intention to nominate Jim Davis to board of directors Stryker (NYSE:SYK) announced that its board of directors has nominated Jim Davis for election to the company\u2019s board,\u2026",
-   "url": "https://finnhub.io/api/news?id=f5b15e378377bc7fad97c229997e712df01059743a952a7cae6cb85e6126c4b4",
-   "source": "Yahoo",
-   "published": "2026-11-09T21:05:00+00:00",
-   "tickers": [
-    "DGX",
-    "SYK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "d6c73d6e26b5",
-   "headline": "Hims & Hers Health, Inc. Reports Third Quarter 2026 Financial Results",
-   "summary": "SAN FRANCISCO, November 09, 2026--Hims & Hers Health, Inc. (\"Hims & Hers\" or the \"Company\", NYSE: HIMS), the leading global health and wellness platform, today announced financial results for the third quarter ended September 30, 2026.",
-   "url": "https://finnhub.io/api/news?id=b845c11ab1d94bf3fa13c8df7eafd109c4a0a186ab7dd539f74174a61c206814",
-   "source": "Yahoo",
-   "published": "2026-11-09T21:05:00+00:00",
-   "tickers": [
-    "HIMS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "f6f3737e9583",
-   "headline": "Dr. Andrew Huberman Joins Hims & Hers Board of Directors",
-   "summary": "SAN FRANCISCO, November 09, 2026--Hims & Hers Health, Inc. (\"Hims & Hers\", NYSE: HIMS), the leading global health and wellness platform, announced the appointment of Andrew Huberman, Ph.D., to the company\u2019s Board of Directors.",
-   "url": "https://finnhub.io/api/news?id=2f0a64d05f499053ffc6b6cd364fb024fb8c346b4ec00eefa595df56336976c1",
-   "source": "Yahoo",
-   "published": "2026-11-09T21:05:00+00:00",
-   "tickers": [
-    "HIMS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "c53e358a6e3c",
-   "headline": "Acadia Pharmaceuticals to Present Remlifanserin Data at the 2026 Clinical Trials on Alzheimer's Disease (CTAD) Conference",
-   "summary": "SAN DIEGO, Calif., November 09, 2026--Acadia Pharmaceuticals Inc. (Nasdaq: ACAD) today announced that it will present two data presentations related to Alzheimer's disease psychosis (ADP) and remlifanserin at the 2026 Clinical Trials on\u2026",
-   "url": "https://finnhub.io/api/news?id=03102dea60f3baf682900384733cfdd7b53999ff9202a7d74b6d0bc4c1eeabaa",
-   "source": "Yahoo",
-   "published": "2026-11-09T21:05:00+00:00",
-   "tickers": [
-    "ACAD"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "528b6b5314a9",
-   "headline": "Globus Medical to Participate in Jefferies Global Healthcare Conference",
-   "summary": "AUDUBON, Pa., Nov. 09, 2026 (GLOBE NEWSWIRE) -- Globus Medical, Inc. (NYSE: GMED), a leading musculoskeletal technology company, today announced it is scheduled to participate in the Jefferies Global Healthcare Conference in London.\u2026",
-   "url": "https://finnhub.io/api/news?id=8312cf28189909e3dcc748239cd295ac94864124a75361ba6427f785a7a6d185",
-   "source": "Yahoo",
-   "published": "2026-11-09T21:02:00+00:00",
-   "tickers": [
-    "GMED"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
