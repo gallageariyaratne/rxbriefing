@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-19T11:17:31.887939+00:00",
+ "updated": "2026-11-19T11:32:44.614911+00:00",
  "quotes": {
   "A": {
    "price": 177.33,
@@ -262,6 +262,10 @@
    "price": 242.61,
    "change_pct": 2.0
   },
+  "RVMD": {
+   "price": 159.82,
+   "change_pct": -1.76
+  },
   "RXRX": {
    "price": 2.83,
    "change_pct": 3.86
@@ -313,10 +317,6 @@
   "UNH": {
    "price": 349.91,
    "change_pct": -10.21
-  },
-  "UTHR": {
-   "price": 577.34,
-   "change_pct": -1.16
   }
  },
  "tickers": {
@@ -934,6 +934,21 @@
  },
  "stories": [
   {
+   "id": "a1731ddf79b4",
+   "headline": "STAT+: In cancer drug development, the spotlight shifts onto Erasca\u2019s KRAS-targeted treatment",
+   "summary": "Did the biotech company Erasca find a more potent, better-tolerated pan-RAS cancer drug than Revolution Medicines?",
+   "url": "https://www.statnews.com/2026/11/19/erasca-kras-targeted-treatment-new-data-pancreatic-cancer/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-11-19T11:30:00+00:00",
+   "tickers": [
+    "RVMD"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "5b4ded5b2fb6",
    "headline": "Novartis CEO argues shareholders \u2018happy overall\u2019 with strategy, calls for COINS Act adjustment",
    "summary": "Despite a bumpy few months for Novartis that saw a couple of high-profile clinical setbacks, CEO Vas Narasimhan has told Fierce he believes most shareholders remain onside with the company\u2019s strategy.",
@@ -1224,6 +1239,21 @@
    "tag": "Earnings",
    "sectors": [
     "healthit"
+   ]
+  },
+  {
+   "id": "f3efd332cd7a",
+   "headline": "Novartis AG (NVS) Meet Management: Growth Outlook, Cash Flow and R&D Pipeline - Slideshow",
+   "summary": "2026-11-19. The following slide deck was published by Novartis AG in conjunction with this event.",
+   "url": "https://finnhub.io/api/news?id=1ea70923f5cd8d22db8ea99134b376e9e763f846b0e9d23e1be7dce053a2c6ac",
+   "source": "SeekingAlpha",
+   "published": "2026-11-19T05:43:32+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -42802,82 +42832,6 @@
    "tag": "Clinical",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "647de12bddd5",
-   "headline": "Vir\u2019s phase 3 hepatitis delta win fuels push to eclipse Gilead",
-   "summary": "Vir Biotechnology\u2019s phase 3 trial in chronic hepatitis delta has hit its primary endpoint, giving the biotech the first piece of the package it needs to file for FDA approval next year.",
-   "url": "https://www.fiercebiotech.com/biotech/virs-phase-3-hepatitis-delta-win-fuels-push-eclipse-gilead",
-   "source": "Fierce Biotech",
-   "published": "2026-11-09T11:30:24.127824+00:00",
-   "tickers": [
-    "GILD"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "20329286edd8",
-   "headline": "Eli Lilly Is Now Worth Nearly 9 Novo Nordisks. Here's How the Gap Got So Wide.",
-   "summary": "The companies are competing in the weight loss drug market.",
-   "url": "https://finnhub.io/api/news?id=a551440a7a5d198843a39f86be08213a0226817285f8ee76d9ee27fe3279c167",
-   "source": "Yahoo",
-   "published": "2026-11-09T11:30:00+00:00",
-   "tickers": [
-    "LLY",
-    "NVO"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "d3d54f3028c4",
-   "headline": "Barclays Maintains Equal-Weight on Cigna Group, Raises Price Target to $320",
-   "summary": "Barclays analyst Andrew Mok maintains Cigna Group (NYSE:CI) with a Equal-Weight and raises the price target from $310 to $320.",
-   "url": "https://finnhub.io/api/news?id=3c83e547e1b5a4555475f3943a139e694068ebda11aaf9d9f24862a65cbdc7ec",
-   "source": "Benzinga",
-   "published": "2026-11-09T11:28:20+00:00",
-   "tickers": [
-    "CI"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "ccb375b9968e",
-   "headline": "Gilead Highlights Strong Trial Results in HIV Prevention and Liver Disease",
-   "summary": "Gilead reports high persistence for twice-yearly HIV shot lenacapavir and strong Phase 3 Livdelzi response in primary biliary cholangitis.",
-   "url": "https://finnhub.io/api/news?id=dd216ffb749760a714661cb961cfd12594b11e53078c8ca8ee1edcac265fc2c5",
-   "source": "Benzinga",
-   "published": "2026-11-09T11:24:12+00:00",
-   "tickers": [
-    "GILD"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "8ebea6a42dee",
-   "headline": "Barclays Maintains Overweight on 10x Genomics, Lowers Price Target to $70",
-   "summary": "Barclays analyst Luke Sergott maintains 10x Genomics (NASDAQ:TXG) with a Overweight and lowers the price target from $110 to $70.",
-   "url": "https://finnhub.io/api/news?id=0928f1c99934f5769969f3710373cee8b59596df9c4658bcdb9ee54464fdcfbe",
-   "source": "Benzinga",
-   "published": "2026-11-09T11:18:35+00:00",
-   "tickers": [
-    "TXG"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "tools"
    ]
   }
  ]
