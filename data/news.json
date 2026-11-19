@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-19T00:17:58.207213+00:00",
+ "updated": "2026-11-19T00:32:51.950014+00:00",
  "quotes": {
   "A": {
    "price": 177.33,
@@ -85,6 +85,10 @@
   "CVS": {
    "price": 81.35,
    "change_pct": -5.2
+  },
+  "DGX": {
+   "price": 259.69,
+   "change_pct": 1.3
   },
   "DHR": {
    "price": 228.58,
@@ -313,10 +317,6 @@
   "VEEV": {
    "price": 277.2,
    "change_pct": -3.89
-  },
-  "VKTX": {
-   "price": 26.17,
-   "change_pct": -2.64
   }
  },
  "tickers": {
@@ -952,6 +952,7 @@
    "source": "Yahoo",
    "published": "2026-11-18T23:48:38+00:00",
    "tickers": [
+    "DGX",
     "LH"
    ],
    "tag": "News",
@@ -971,6 +972,21 @@
    "sectors": []
   },
   {
+   "id": "6b117a67a39f",
+   "headline": "How Investors Are Reacting To BioMarin (BMRN) Acquired Drug Growth Prospects",
+   "summary": "BioMarin Pharmaceutical scheduled three investor conference appearances in November 2026 in New York and London, highlighting its rare-disease portfolio and development pipeline to a global healthcare audience. Management highlighted up\u2026",
+   "url": "https://finnhub.io/api/news?id=b741520e757abb92ed5e274f1954b22fa0e36ff8633acc80dcac688c45e75458",
+   "source": "Yahoo",
+   "published": "2026-11-18T23:18:31+00:00",
+   "tickers": [
+    "BMRN"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "cb8ca386d2c6",
    "headline": "STAT+: Epic Systems defends competitive practices, promises to let AI access its records",
    "summary": "Executives from Epic, the largest electronics health records vendor, defended its competitive practices during a panel discussion at HLTH.",
@@ -982,6 +998,21 @@
    "sectors": []
   },
   {
+   "id": "6fe66303753a",
+   "headline": "Hy-Vee Health with Oscar Expands Across Iowa, Into Kansas City and Omaha for 2027 Open Enrollment",
+   "summary": "DES MOINES, Iowa, November 18, 2026--Hy-Vee, Inc. (\"Hy-Vee\"), a leading grocery store in the Midwest, and Oscar, one of the fastest-growing insurers in the individual market and part of Oscar Health (NYSE: OSCR), today announced that\u2026",
+   "url": "https://finnhub.io/api/news?id=3eaee0ab6da7eddca959b1d0e46ffa8ce43878e91f40e901fc5461dda92e8c00",
+   "source": "Yahoo",
+   "published": "2026-11-18T23:03:00+00:00",
+   "tickers": [
+    "OSCR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "fbce198a41f0",
    "headline": "Ken Griffin Dumps SpaceX, Amazon; Buys ARKK and Bets Big on Marvell",
    "summary": "Ken Griffin\u2019s Citadel reshaped its $900 billion portfolio in the third quarter. It added 2,490 positions and fully exited 2,219 across 13,843 holdings, according to its latest 13F filing. The firm cut Space Exploration Technologies Corp.\u2026",
@@ -990,6 +1021,21 @@
    "published": "2026-11-18T22:30:05+00:00",
    "tickers": [
     "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "74a59e251427",
+   "headline": "Aviation Capital Group Delivers First of Four Boeing 737-8 to Norwegian",
+   "summary": "Aviation Capital Group LLC (\"ACG\"), a premier global full-service aircraft asset manager, today announced the delivery of a Boeing 737-8 aircraft to Norwegian Air Shuttle (\"Norwegian\").",
+   "url": "https://finnhub.io/api/news?id=326544f8ae717cd34afc548d5376b5da2abaf118e97142e64a3c08d6f59e2ea5",
+   "source": "Yahoo",
+   "published": "2026-11-18T22:00:00+00:00",
+   "tickers": [
+    "NVS"
    ],
    "tag": "News",
    "sectors": [
@@ -1439,7 +1485,8 @@
    "published": "2026-11-18T18:30:00+00:00",
    "tickers": [
     "CAH",
-    "JAZZ"
+    "JAZZ",
+    "NVS"
    ],
    "tag": "Policy",
    "sectors": [
@@ -2372,6 +2419,21 @@
    ]
   },
   {
+   "id": "c67992315072",
+   "headline": "NVS Gets FDA Nod for Cosentyx in Adults With Polymyalgia Rheumatica",
+   "summary": "Novartis wins FDA approval for Cosentyx in adults with PMR, backed by phase III data showing sustained remission and steroid-sparing benefits.",
+   "url": "https://finnhub.io/api/news?id=3d0b2b807fed7a85a029e46320fc41c253b78ec2f730c5f983fdc6eeace24806",
+   "source": "Yahoo",
+   "published": "2026-11-18T14:45:00+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "78421f43398a",
    "headline": "Fidelis Care Awards $140,000 in Here for Your Health Maternal Health Grants",
    "summary": "Fidelis Care, a statewide health plan with more than 2 million members in New York State and a Centene Corporation company, has awarded $140,000 in Here for Your Health maternal health grants. The grants aim to support healthcare\u2026",
@@ -2512,7 +2574,8 @@
    "published": "2026-11-18T14:35:00+00:00",
    "tickers": [
     "JNJ",
-    "MRK"
+    "MRK",
+    "NVS"
    ],
    "tag": "Clinical",
    "sectors": [
