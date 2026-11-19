@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-19T00:47:36.509321+00:00",
+ "updated": "2026-11-19T01:03:04.266712+00:00",
  "quotes": {
   "A": {
    "price": 177.33,
@@ -69,6 +69,10 @@
   "CI": {
    "price": 285.37,
    "change_pct": -2.96
+  },
+  "CLOV": {
+   "price": 4.17,
+   "change_pct": -11.84
   },
   "CNC": {
    "price": 67.45,
@@ -313,10 +317,6 @@
   "UHS": {
    "price": 186.07,
    "change_pct": -3.08
-  },
-  "UNH": {
-   "price": 349.91,
-   "change_pct": -10.21
   }
  },
  "tickers": {
@@ -965,7 +965,8 @@
    "tickers": [
     "DGX",
     "ILMN",
-    "LH"
+    "LH",
+    "NTRA"
    ],
    "tag": "News",
    "sectors": [
@@ -996,6 +997,21 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "2e8b8481afdc",
+   "headline": "Cleaner Earnings Guidance Could Be Material For Henry Schein Stock (HSIC)",
+   "summary": "Henry Schein updated its fiscal 2026 non-GAAP diluted EPS guidance after deciding to exclude acquisition-related remeasurement gains from adjusted results, recasting prior years to align with the new approach. This accounting shift places\u2026",
+   "url": "https://finnhub.io/api/news?id=8363e11b69974a76553c8d32d94816c7b172436b4d9bb72caf9d638f25e57f87",
+   "source": "Yahoo",
+   "published": "2026-11-18T23:22:18+00:00",
+   "tickers": [
+    "HSIC"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "pharmacy"
    ]
   },
   {
@@ -1084,6 +1100,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "f688d3b9a23d",
+   "headline": "Henry Schein (HSIC) Launches BRIDGE Health Network, Is The 16% Undervaluation Convincing?",
+   "summary": "Henry Schein (HSIC) is back in focus after launching the BRIDGE Health Network with CareQuest Institute for Oral Health, a pilot effort that ties dental visits to broader preventive medical screening in everyday practice workflows. Recent\u2026",
+   "url": "https://finnhub.io/api/news?id=553f7320d3b9b76de07fd147fae0f384fad025aec9884afa0711e090e01b1450",
+   "source": "Yahoo",
+   "published": "2026-11-18T22:15:20+00:00",
+   "tickers": [
+    "HSIC"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharmacy"
    ]
   },
   {
@@ -1991,6 +2022,21 @@
    "tag": "Clinical",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "43017388d412",
+   "headline": "Ionis' Tryngolza Gets EU Approval for Severe Hypertriglyceridemia",
+   "summary": "IONS expands Tryngolza's European reach as the EU approves its use for sHTG, marking a first for RNA-targeted therapies in this patient population.",
+   "url": "https://finnhub.io/api/news?id=a0948fce3c0dcc5788fd75487115668428ce01556060631725f3d540d81a1724",
+   "source": "Yahoo",
+   "published": "2026-11-18T16:34:00+00:00",
+   "tickers": [
+    "IONS"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -3402,6 +3448,21 @@
    "tag": "Clinical",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "af1c6755523b",
+   "headline": "3 Penny Stocks With Revenue Growth Up To 70%",
+   "summary": "Fed Governor Christopher Waller is warning that interest rates may need a sharp half point jump to hit inflation targets, which keeps money markets on edge and many investors hunting for pockets of resilience. That kind of backdrop can\u2026",
+   "url": "https://finnhub.io/api/news?id=a645d4dac2978474f666cc1e649e219b7bafc52a91461a00bee42dab28ec47b0",
+   "source": "Yahoo",
+   "published": "2026-11-18T13:11:48+00:00",
+   "tickers": [
+    "CLOV"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -43656,21 +43717,6 @@
     "TGTX"
    ],
    "tag": "FDA",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "de9dc28525d1",
-   "headline": "DOCS Q3 CY2026 deep dive: AI-driven product expansion meets margin compression",
-   "summary": "Medical professional network Doximity (NYSE:DOCS) reported calendar Q3 2026 (fiscal Q2 2027) results beating Wall Street\u2019s revenue expectations, with sales up 3.6% year on year to $174.5 million. The company expects next quarter\u2019s revenue\u2026",
-   "url": "https://finnhub.io/api/news?id=20c6f0c99e99ab4e538583eaba1224ad8d3c1e37393a3b1dca0d341a00092b3f",
-   "source": "Yahoo",
-   "published": "2026-11-09T00:53:36+00:00",
-   "tickers": [
-    "DOCS"
-   ],
-   "tag": "Earnings",
    "sectors": [
     "healthit"
    ]
