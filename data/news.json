@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-19T07:20:13.583330+00:00",
+ "updated": "2026-11-19T07:32:33.687242+00:00",
  "quotes": {
   "A": {
    "price": 177.33,
@@ -61,10 +61,6 @@
   "BMY": {
    "price": 59.56,
    "change_pct": -2.92
-  },
-  "BSX": {
-   "price": 43.64,
-   "change_pct": 1.42
   },
   "CAH": {
    "price": 278.32,
@@ -317,6 +313,10 @@
   "TDOC": {
    "price": 8.06,
    "change_pct": -5.06
+  },
+  "TEM": {
+   "price": 63.62,
+   "change_pct": 0.3
   }
  },
  "tickers": {
@@ -43669,51 +43669,6 @@
    "tag": "Analyst",
    "sectors": [
     "tools"
-   ]
-  },
-  {
-   "id": "b96c2d965a17",
-   "headline": "5 Stock Picks Last Week From Wall Street's Most Accurate Analysts",
-   "summary": "U.S. stocks ended mixed; Nasdaq rose 1% after losses. Benzinga highlights top analyst picks from five highly accurate Wall Street analysts.",
-   "url": "https://finnhub.io/api/news?id=869fe1cf8b4dec31989efb189df078aca8421d7bdba9b0d3d3a98c629fd1a086",
-   "source": "Benzinga",
-   "published": "2026-11-09T07:25:06+00:00",
-   "tickers": [
-    "HALO"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "7a92723b2905",
-   "headline": "Charles River Laboratories To Acquire Frontage Holdings Corporation\u2019s Bioanalysis And DMPK Operations In Pennsylvania For ~$470M In Cash Plus Additional Payments Of Up To $75M",
-   "summary": "The transaction is expected to close during the first half of 2027, subject to required shareholder and regulatory approvals, and other customary closing conditions. Frontage\u2019s laboratory testing sites that will be",
-   "url": "https://finnhub.io/api/news?id=aa91bf4beb4194a3324be22d372fea5b679ddce3a158e50281b8d7db3fb65d10",
-   "source": "Benzinga",
-   "published": "2026-11-09T07:19:26+00:00",
-   "tickers": [
-    "CRL"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "56b02a8ba66f",
-   "headline": "HC Wainwright & Co. Assumes United Therapeutics at Buy, Announces Price Target of $660",
-   "summary": "HC Wainwright & Co. analyst Matthew Caufield assumes United Therapeutics (NASDAQ:UTHR) with a Buy rating and announces Price Target of $660.",
-   "url": "https://finnhub.io/api/news?id=b440538c39f8090029a59b10204e3fd64fb643be9c424fa1763acc13a4fed502",
-   "source": "Benzinga",
-   "published": "2026-11-09T07:19:23+00:00",
-   "tickers": [
-    "UTHR"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
    ]
   }
  ]
