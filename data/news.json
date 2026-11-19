@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-19T13:47:41.764014+00:00",
+ "updated": "2026-11-19T14:03:03.306500+00:00",
  "quotes": {
   "A": {
    "price": 177.33,
@@ -1034,7 +1034,8 @@
    "source": "Yahoo",
    "published": "2026-11-19T12:41:40+00:00",
    "tickers": [
-    "CVS"
+    "CVS",
+    "ELV"
    ],
    "tag": "News",
    "sectors": [
@@ -1079,7 +1080,8 @@
    "source": "Yahoo",
    "published": "2026-11-19T12:37:19+00:00",
    "tickers": [
-    "CVS"
+    "CVS",
+    "ELV"
    ],
    "tag": "News",
    "sectors": [
@@ -1126,11 +1128,27 @@
    "published": "2026-11-19T12:20:45+00:00",
    "tickers": [
     "CVS",
+    "ELV",
     "MOH"
    ],
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "6cb1816af187",
+   "headline": "Eli Lilly (LLY) Expands Its Oncology Research Platform",
+   "summary": "Eli Lilly (NYSE: LLY) has agreed to acquire Calytrix Bio to add rare blood cancer programs to its oncology pipeline. The firm also announced a multi-target oncology collaboration with Stipple Bio focused on precision cancer therapies for\u2026",
+   "url": "https://finnhub.io/api/news?id=376769994fc27552ec7b3227323d800820c6d484ee96558684ff3ad2db9da915",
+   "source": "Yahoo",
+   "published": "2026-11-19T12:20:29+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1168,7 +1186,8 @@
    "published": "2026-11-19T12:12:25+00:00",
    "tickers": [
     "CI",
-    "CVS"
+    "CVS",
+    "ELV"
    ],
    "tag": "News",
    "sectors": [
@@ -1199,6 +1218,7 @@
    "published": "2026-11-19T12:08:04+00:00",
    "tickers": [
     "BMY",
+    "LLY",
     "MRK",
     "PFE"
    ],
@@ -1223,6 +1243,21 @@
    ]
   },
   {
+   "id": "e506c4ca9877",
+   "headline": "Anaconda Biomed Names Omar Azanki Chief Technology Officer",
+   "summary": "BARCELONA, Spain & MARIN, Calif., November 19, 2026--Anaconda Biomed, a medical technology company developing a next-generation portfolio of novel thrombectomy catheters based on its core funnel catheter technology platform, has announced\u2026",
+   "url": "https://finnhub.io/api/news?id=b06289976d34b19b1692a8dfc0a338928f67088642158f412ebd474f7873c7c8",
+   "source": "Yahoo",
+   "published": "2026-11-19T12:05:00+00:00",
+   "tickers": [
+    "EW"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "28465f0d8402",
    "headline": "How Much Did Medtronic Stock Really Pay Its Holders?",
    "summary": "Today's big story: Could Anthropic Stock Fall 25.",
@@ -1230,7 +1265,8 @@
    "source": "Yahoo",
    "published": "2026-11-19T12:03:57+00:00",
    "tickers": [
-    "ISRG"
+    "ISRG",
+    "SYK"
    ],
    "tag": "News",
    "sectors": [
@@ -1430,6 +1466,7 @@
     "AMGN",
     "BMY",
     "EXEL",
+    "GILD",
     "MRK",
     "PFE"
    ],
@@ -1941,6 +1978,21 @@
    ]
   },
   {
+   "id": "3acdf8b34eaa",
+   "headline": "Regeneron Wins FDA Nod For Livsayis, 4x-Year GMG Shot",
+   "summary": "The FDA approves Regeneron's Livsayis as the first siRNA therapy for adults with generalized myasthenia gravis, requiring four annual doses.",
+   "url": "https://finnhub.io/api/news?id=2805418f3c61a03165a260dfc54363e4479aeef964c1a1994c2ad5dbec7d5eb7",
+   "source": "Benzinga",
+   "published": "2026-11-19T09:10:41+00:00",
+   "tickers": [
+    "ALNY"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "9ada61bda843",
    "headline": "Jacobs selected by Sanofi to deliver new insulin manufacturing facility in Germany",
    "summary": "DALLAS, November 19, 2026--Jacobs selected by Sanofi as the EPCM partner for a new insulin manufacturing facility in Frankfurt, Germany.",
@@ -2149,6 +2201,21 @@
    "tag": "FDA",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "3a8b81e8ecdb",
+   "headline": "Stryker Stock Outlook: Is Wall Street Bullish or Bearish?",
+   "summary": "Medtech company Stryker's shares have trailed the broader market over the past year, but Wall Street isn\u2019t giving up just yet, with analysts still leaning moderately bullish.",
+   "url": "https://finnhub.io/api/news?id=a56d961bbae83cc90cb8ae26c30a5b04332e3d0cc5d1083a031b695dc6bab2e4",
+   "source": "Yahoo",
+   "published": "2026-11-19T06:12:03+00:00",
+   "tickers": [
+    "SYK"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -4795,6 +4862,22 @@
    "tag": "News",
    "sectors": [
     "healthit"
+   ]
+  },
+  {
+   "id": "2ad5b4d21d95",
+   "headline": "BillionToOne Faces Short Report Alleging Kickbacks, Flawed Diagnostic Tests",
+   "summary": "Short seller Fuzzy Panda accuses BillionToOne of undisclosed Medicaid fraud, illegal kickbacks, and flawed tests in a scathing new report.",
+   "url": "https://finnhub.io/api/news?id=b520fa64af06b5730f9a6c928dbe4a641a41b27b66a8d4764def01cff7e48bf6",
+   "source": "Benzinga",
+   "published": "2026-11-18T13:53:27+00:00",
+   "tickers": [
+    "ELV",
+    "NTRA"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -42188,172 +42271,6 @@
    "tag": "Analyst",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "279e334a2407",
-   "headline": "Danaher Corporation (DHR) Presents at 2026 UBS Global Healthcare Conference Transcript",
-   "summary": "Danaher Corporation (DHR) 2026 UBS Global Healthcare Conference November 9, 2026 11:45 AM ESTCompany ParticipantsJulie Montgomery - President, CEO &...",
-   "url": "https://finnhub.io/api/news?id=2fc39df6a634ea556181f71ae3f66b8283b2beab1c77728851563739e3e2d3a5",
-   "source": "SeekingAlpha",
-   "published": "2026-11-09T14:01:27+00:00",
-   "tickers": [
-    "DHR"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "bdfab103dfef",
-   "headline": "Michael Phelps Shares the Mental Health Habits That Changed His Life",
-   "summary": "As part of Talkspace's new \"Rewriting the Rules\" campaign for Men's Mental Health Awareness Month, longtime ambassador Michael Phelps shares the strategies that have helped him most. NEW YORK, Nov. 9, 2026 /PRNewswire/ -- This Men's\u2026",
-   "url": "https://www.prnewswire.com/news-releases/michael-phelps-shares-the-mental-health-habits-that-changed-his-life-302928537.html",
-   "source": "PR Newswire",
-   "published": "2026-11-09T14:00:00+00:00",
-   "tickers": [
-    "TALK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "635a4ea8cf89",
-   "headline": "CVS Pharmacy\u00ae makes holiday shopping easier with gifts for every list, budget and celebration",
-   "summary": "WOONSOCKET, R.I., Nov. 9, 2026 /PRNewswire/ -- CVS Pharmacy\u00ae, the retail division of CVS Health\u00ae (NYSE: CVS), is helping shoppers take on the holidays with gifts, d\u00e9cor, stocking stuffers, personalized photo favorites and festive\u2026",
-   "url": "https://www.prnewswire.com/news-releases/cvs-pharmacy-makes-holiday-shopping-easier-with-gifts-for-every-list-budget-and-celebration-302932711.html",
-   "source": "PR Newswire",
-   "published": "2026-11-09T14:00:00+00:00",
-   "tickers": [
-    "CVS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "6bdad1040ef4",
-   "headline": "Advancing type 1 diabetes care during pregnancy: a Canadian first",
-   "summary": "Health Canada has approved the use of the Dexcom G7 Continuous Glucose Monitoring System with myLoop, powered by CamAPS FX, making it the only automated insulin delivery (AID) system in Canada approved specifically for use during\u2026",
-   "url": "https://finnhub.io/api/news?id=9dfd5d24e1104efd8a7f6737ba4169d009aafc5a06498275569c9728764950fe",
-   "source": "Yahoo",
-   "published": "2026-11-09T14:00:00+00:00",
-   "tickers": [
-    "DXCM"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "cff73bfe7b56",
-   "headline": "ZTS Q3 Earnings Call Highlights Competitive Pressures and Outlook",
-   "summary": "Zoetis beats Q3 earnings estimates despite revenue weakness, as competitive pressures, targeted promotions and product innovation shape its cautious 2027 outlook.",
-   "url": "https://finnhub.io/api/news?id=27f301916427a41671464334f59c7d433b6130357a09e486ecf8e99fcedaf410",
-   "source": "Yahoo",
-   "published": "2026-11-09T14:00:00+00:00",
-   "tickers": [
-    "ZTS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "37351285583f",
-   "headline": "LifeStance Health Group Announces Pricing of Secondary Public Offering",
-   "summary": "SCOTTSDALE, Ariz., Nov. 09, 2026 (GLOBE NEWSWIRE) -- LifeStance Health Group, Inc. (\u201cLifeStance\u201d or the \u201cCompany\u201d) (Nasdaq: LFST), one of the nation\u2019s largest providers of virtual and in-person outpatient mental health care, today\u2026",
-   "url": "https://finnhub.io/api/news?id=e88f611ad8bfc51dd628b4bbffc242ff4d631df0e197fda6c2e46a525c52a6f0",
-   "source": "Yahoo",
-   "published": "2026-11-09T14:00:00+00:00",
-   "tickers": [
-    "LFST"
-   ],
-   "tag": "Financing",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "0395b70952a4",
-   "headline": "Nasdaq 100 Jumps 3% as Chips Rebound; Nvidia Lags Most Since DeepSeek: Stock Market Today",
-   "summary": "Wall Street rebounds from last week's rout as SOXX jumps 7%, while Nvidia slides on a CEO probe for its worst day versus the S&P 500 since DeepSeek.",
-   "url": "https://finnhub.io/api/news?id=e5f18be27789a1d087919d59ab45049f964f33c1a8d24505ec02d79e31c7abba",
-   "source": "Benzinga",
-   "published": "2026-11-09T13:59:58+00:00",
-   "tickers": [
-    "ARWR",
-    "IONS"
-   ],
-   "tag": "Legal",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "6fc0b1541a32",
-   "headline": "Do Options Traders Know Something About UHS Stock We Don't?",
-   "summary": "Investors need to pay close attention to Universal Health Services stock based on the movements in the options market lately.",
-   "url": "https://finnhub.io/api/news?id=e4dbf3ea952426b0a9f3b214d018310d56afedebdc4866c29d46fae04a6d404f",
-   "source": "Yahoo",
-   "published": "2026-11-09T13:57:00+00:00",
-   "tickers": [
-    "UHS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "850498913091",
-   "headline": "Wall Street Analysts See a 25.53% Upside in Neurocrine (NBIX): Can the Stock Really Move This High?",
-   "summary": "The average of price targets set by Wall Street analysts indicates a potential upside of 25.5% in Neurocrine (NBIX). While the effectiveness of this highly sought-after metric is questionable, the positive trend in earnings estimate\u2026",
-   "url": "https://finnhub.io/api/news?id=3318d1ceddda9186e14c61fc2088b5361efb32c9c3927afeeff007e075aadcde",
-   "source": "Yahoo",
-   "published": "2026-11-09T13:55:02+00:00",
-   "tickers": [
-    "NBIX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "1ecce45a49ef",
-   "headline": "Johnson & Johnson (NYSE:JNJ): A Dividend Quality Case Study for Income Investors",
-   "summary": "JNJ passes ChartMill\u2019s Best Dividend Stocks screen with strong dividend and profitability ratings, offering income investors quality-backed yield.",
-   "url": "https://finnhub.io/api/news?id=649a63acd007ebfb910353cbab25ff1cd800e4d3359325e313e8b049599acc6a",
-   "source": "ChartMill",
-   "published": "2026-11-09T13:51:54+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "845d75a05e2e",
-   "headline": "Goldman Sachs Maintains Neutral on Moderna, Raises Price Target to $195",
-   "summary": "Goldman Sachs analyst Salveen Richter maintains Moderna (NASDAQ:MRNA) with a Neutral and raises the price target from $137 to $195.",
-   "url": "https://finnhub.io/api/news?id=aa1470d345312031583ac5882eb8dfb9a28cf0f3a68f43d71558e57a0590a31a",
-   "source": "Benzinga",
-   "published": "2026-11-09T13:48:37+00:00",
-   "tickers": [
-    "MRNA"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
