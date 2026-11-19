@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-19T23:16:45.898558+00:00",
+ "updated": "2026-11-19T23:32:58.766734+00:00",
  "quotes": {
   "ABBV": {
    "price": 283.54,
@@ -45,10 +45,6 @@
   "BDX": {
    "price": 212.68,
    "change_pct": -1.57
-  },
-  "BEAM": {
-   "price": 20.94,
-   "change_pct": -0.33
   },
   "BIIB": {
    "price": 247.13,
@@ -321,6 +317,10 @@
   "WAY": {
    "price": 27.09,
    "change_pct": -1.63
+  },
+  "ZBH": {
+   "price": 101.47,
+   "change_pct": -1.79
   }
  },
  "tickers": {
@@ -1241,6 +1241,21 @@
    ]
   },
   {
+   "id": "1a10e3b977c8",
+   "headline": "Dow Jones Losers Today: NIKE and UnitedHealth Lead Declines",
+   "summary": "Dow Jones losers in today's session were led by NIKE and UnitedHealth, with all ten decliners down between 2.21% and 5.77%.",
+   "url": "https://finnhub.io/api/news?id=764a49d7747e3d89111c720cc2e3ed6b4fcd0e72e6268381837376f4b640bb41",
+   "source": "ChartMill",
+   "published": "2026-11-19T20:10:56+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "935ef8376272",
    "headline": "Natera vs. Tempus AI: Which Blood Test Pioneer Has the Better Stock Buy for 2027?",
    "summary": "Natera's revenue growth tops 37%, but Tempus AI trades at a lower forward multiple, and the balance sheets and cash flow stories diverge sharply.",
@@ -1651,6 +1666,21 @@
     "BMY"
    ],
    "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "919762b74a04",
+   "headline": "Dow Jones Decliners: UNH, NKE, CAT Lead Today's Session",
+   "summary": "Dow Jones decliners in today's session include UnitedHealth, Nike, Caterpillar, Merck, Visa, Coca-Cola, Goldman Sachs, Honeywell and Johnson & Johnson, down roughly 2% to 5%.",
+   "url": "https://finnhub.io/api/news?id=b6162d886ac583e3fa73417f71ed6a81fb35f3b2fc24e5365a930308760a2b6d",
+   "source": "ChartMill",
+   "published": "2026-11-19T17:41:08+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "News",
    "sectors": [
     "pharma"
    ]
@@ -42771,66 +42801,6 @@
    "tag": "Earnings",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "da44bfd4cb8b",
-   "headline": "Retirees With These Medicare Advantage Plans Can't Keep Them In 2027",
-   "summary": "The U.S. health insurance industry greatly fluctuated in 2026, and seniors with certain Medicare Advantage plans will lose their coverage in 2027.",
-   "url": "https://finnhub.io/api/news?id=43734e2da9312dc161e85aace5f106c59c7665bbcaaf9b92dd7296e4d9062525",
-   "source": "Yahoo",
-   "published": "2026-11-09T23:30:00+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "tag": "Policy",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "941fa170a0e5",
-   "headline": "Dow Jones Soars 1,132 Points As Amazon, Tesla Rally, But Nvidia Dives; CPI Inflation Report Next",
-   "summary": "Dow Jones futures were in focus after soaring 1,132 points ahead of the CPI inflation report. Amazon and Tesla rallied, but Nvidia dived.",
-   "url": "https://finnhub.io/api/news?id=d2812e27adcfde2a66b4303816dad8cacbaffcbaf4ea051663063ac89dc1e645",
-   "source": "Yahoo",
-   "published": "2026-11-09T23:27:00+00:00",
-   "tickers": [
-    "HIMS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "43821b285e0f",
-   "headline": "Immunovant Stock What Changed After Arthritis Trial Success",
-   "summary": "Immunovant reported past second quarter and six month results to 30 September 2026 with continued net losses alongside reduced loss per share, and paired this with a broad shelf registration and a planned US$150 million at the market\u2026",
-   "url": "https://finnhub.io/api/news?id=3a4eb8436c23145b60965f932f58c655a58ce147b2b04fd16309664cf6a860bd",
-   "source": "Yahoo",
-   "published": "2026-11-09T23:23:53+00:00",
-   "tickers": [
-    "IMVT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "e6a4d1e3eb43",
-   "headline": "3 Defensive Dividend Stocks For Higher Rates and Sticky Inflation",
-   "summary": "Fed officials are again putting inflation and higher for longer rates back in the spotlight, and that reshapes where reliable dividends and value pricing might matter most. Investors who ignore this shift risk missing income opportunities\u2026",
-   "url": "https://finnhub.io/api/news?id=feda2a18efee05d50b62a418b38be55b9515729441cba884f4306ff378484f93",
-   "source": "Yahoo",
-   "published": "2026-11-09T23:17:17+00:00",
-   "tickers": [
-    "DGX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
    ]
   }
  ]
