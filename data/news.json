@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-19T23:32:58.766734+00:00",
+ "updated": "2026-11-19T23:47:42.250867+00:00",
  "quotes": {
   "ABBV": {
    "price": 283.54,
@@ -298,6 +298,10 @@
    "price": 111.62,
    "change_pct": -4.07
   },
+  "UHS": {
+   "price": 174.98,
+   "change_pct": -5.96
+  },
   "UNH": {
    "price": 330.48,
    "change_pct": -5.55
@@ -317,10 +321,6 @@
   "WAY": {
    "price": 27.09,
    "change_pct": -1.63
-  },
-  "ZBH": {
-   "price": 101.47,
-   "change_pct": -1.79
   }
  },
  "tickers": {
@@ -975,6 +975,21 @@
    "sectors": []
   },
   {
+   "id": "4a9ca10d05cb",
+   "headline": "S&P 500 After-Hours Movers: Nov. 19, 2026",
+   "summary": "After the Nov. 19, 2026 close, S&P 500 after-hours gainers included Accenture, Smurfit Westrock and Centene, while Monolithic Power Systems and Intuit led losses.",
+   "url": "https://finnhub.io/api/news?id=b9f888aa18dd7a712a02e6811bca564412934f2a6eba2c8270b95ecc1743e291",
+   "source": "ChartMill",
+   "published": "2026-11-19T22:06:09+00:00",
+   "tickers": [
+    "ABT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "ad51357ef9d5",
    "headline": "Tenet Reports CAD$66.0M in Revenue for the Third Quarter and Revises Full-Year 2026 Revenue Guidance to CAD$190.0M",
    "summary": "Toronto, Ontario--(Newsfile Corp. - November 19, 2026) - Tenet Fintech Group Inc. (CSE: PKK) (OTCQB: PKKFF) (FSE: P0T) (\"Tenet\" or the \"Company\"), an innovative analytics service provider, owner and operator of the Cubeler Business Hub,\u2026",
@@ -1248,11 +1263,28 @@
    "source": "ChartMill",
    "published": "2026-11-19T20:10:56+00:00",
    "tickers": [
-    "JNJ"
+    "JNJ",
+    "UNH"
    ],
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "ef8046e61b85",
+   "headline": "S&P 500 Top Movers: Gainers and Losers Today",
+   "summary": "S&P 500 top movers today include Williams-Sonoma as the largest decliner at 15.64% and Everpure as the top gainer at 7.53%, based on percentage change.",
+   "url": "https://finnhub.io/api/news?id=73102896dfce0d758ab6d7d074ae4353ca7cd484765354ede458640651daee15",
+   "source": "ChartMill",
+   "published": "2026-11-19T20:06:06+00:00",
+   "tickers": [
+    "UHS",
+    "UNH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -1371,6 +1403,21 @@
    "published": "2026-11-19T19:13:51+00:00",
    "tickers": [
     "ZTS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "1a1188d98447",
+   "headline": "Most-Active S&P 500 Stocks: Ford, Super Micro, Pfizer Lead Session Volume",
+   "summary": "Ford, Super Micro Computer and Pfizer led S&P 500 volume as most active names closed lower; AES ended flat.",
+   "url": "https://finnhub.io/api/news?id=57ace738ee9013b49dac801de5d3489eae89e39e87a2953122373ec19c2c0eb3",
+   "source": "ChartMill",
+   "published": "2026-11-19T19:05:54+00:00",
+   "tickers": [
+    "PFE"
    ],
    "tag": "News",
    "sectors": [
@@ -1593,6 +1640,21 @@
    ]
   },
   {
+   "id": "08787484e584",
+   "headline": "S&P 500 Unusual Volume Movers for Nov. 19, 2026",
+   "summary": "S&P 500 unusual volume on Nov. 19, 2026: AES, TTWO, UNH and WSM traded above average volume, with price moves from a slight gain to a sharp decline.",
+   "url": "https://finnhub.io/api/news?id=6f0860b66dfca3675047e5b2ae727534759a3f05989e0929caec9be7adf5f767",
+   "source": "ChartMill",
+   "published": "2026-11-19T18:05:52+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "1c7d9cec68b0",
    "headline": "2 Growth Stocks to Buy in November Without Any Hesitation",
    "summary": "Vertex and Regeneron started 2026 slowly, but blockbuster results and deep pipelines have both stocks climbing again.",
@@ -1678,7 +1740,8 @@
    "source": "ChartMill",
    "published": "2026-11-19T17:41:08+00:00",
    "tickers": [
-    "JNJ"
+    "JNJ",
+    "UNH"
    ],
    "tag": "News",
    "sectors": [
@@ -1698,6 +1761,22 @@
     "UNH"
    ],
    "tag": "Policy",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "4e233d0420c7",
+   "headline": "S&P 500 Top Movers for Today's Session",
+   "summary": "S&P 500 top movers for today's session: P leads gainers at 9.37%, while WSM leads losers with a 13.74% decline.",
+   "url": "https://finnhub.io/api/news?id=50172c170a8d8ba6ea09444a9f4ef6c675d51557ea1668c565cce1e833e4cbd8",
+   "source": "ChartMill",
+   "published": "2026-11-19T17:36:10+00:00",
+   "tickers": [
+    "UHS",
+    "UNH"
+   ],
+   "tag": "News",
    "sectors": [
     "payers"
    ]
@@ -2272,6 +2351,21 @@
     "ELV"
    ],
    "tag": "Analyst",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "24821fcccbf5",
+   "headline": "S&P 500 Gap Movers: Today's Gap-Up and Gap-Down Stocks",
+   "summary": "Today's S&P 500 gap movers include gap-up stocks COHR, OKTA, STX and WDC, plus gap-down names WSM, DVA and UHS.",
+   "url": "https://finnhub.io/api/news?id=9f289cc70a4a85f3e440df1ce4f2085447eda8fe2bc8573fff8f871763a21cd8",
+   "source": "ChartMill",
+   "published": "2026-11-19T15:36:04+00:00",
+   "tickers": [
+    "UHS"
+   ],
+   "tag": "News",
    "sectors": [
     "payers"
    ]
@@ -42786,21 +42880,6 @@
    "tag": "Earnings",
    "sectors": [
     "healthit"
-   ]
-  },
-  {
-   "id": "b423d11110f4",
-   "headline": "Ionis (IONS) Q3 2026 Earnings Call Transcript",
-   "summary": "Launch ramp slows and cash flow breakeven shifts a year to 2029.",
-   "url": "https://finnhub.io/api/news?id=a141204c90411f06319eb9bdad7590023aef603f3f3bb5d7f9ed3e54d0bfbe53",
-   "source": "Yahoo",
-   "published": "2026-11-09T23:44:39+00:00",
-   "tickers": [
-    "IONS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
    ]
   }
  ]
