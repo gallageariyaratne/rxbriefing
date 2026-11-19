@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-19T08:02:43.106304+00:00",
+ "updated": "2026-11-19T08:17:36.125197+00:00",
  "quotes": {
   "A": {
    "price": 177.33,
@@ -97,10 +97,6 @@
   "DGX": {
    "price": 259.69,
    "change_pct": 1.3
-  },
-  "DHR": {
-   "price": 228.58,
-   "change_pct": 1.24
   },
   "DVA": {
    "price": 161.79,
@@ -317,6 +313,10 @@
   "TEM": {
    "price": 63.62,
    "change_pct": 0.3
+  },
+  "TGTX": {
+   "price": 66.12,
+   "change_pct": 5.44
   }
  },
  "tickers": {
@@ -934,6 +934,21 @@
  },
  "stories": [
   {
+   "id": "5e80c97de345",
+   "headline": "Dexcom Marks Athenry Opening With Celebration of Commercial Production Milestone",
+   "summary": "ATHENRY, Ireland, November 19, 2026--DexCom, Inc. (Nasdaq: DXCM), a global leader in continuous glucose monitoring, today officially opened its state-of-the-art manufacturing facility in Athenry, County Galway, marking a major milestone\u2026",
+   "url": "https://finnhub.io/api/news?id=eabe0d47ab30ed5e3df114cadd796b8b760ebbeb3dff3647afc724e5b9a93128",
+   "source": "Yahoo",
+   "published": "2026-11-19T07:30:00+00:00",
+   "tickers": [
+    "DXCM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "2fbd31731ebd",
    "headline": "Thomas H. Glocer to Retire from Merck & Co., Inc. Board of Directors in May 2027",
    "summary": "",
@@ -959,6 +974,21 @@
     "BMY"
    ],
    "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "cb622a61603c",
+   "headline": "DISCO Pharmaceuticals Announces Strategic Collaboration with AbbVie to Advance Next-Generation AND-Gated Bispecific Therapeutics for Solid Tumors",
+   "summary": "The collaboration leverages DISCO\u2019s proprietary DISCOtech\u00ae surfaceome mapping platform and AND-gated bispecific discovery approach together with AbbVie\u2019s global oncology research and development expertise to identify and potentially\u2026",
+   "url": "https://finnhub.io/api/news?id=421e9c488a3963f1a44fb83cc0145c3e0de740de9ee3b243c9ba9394b1bd5c47",
+   "source": "Yahoo",
+   "published": "2026-11-19T07:00:00+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
    "sectors": [
     "pharma"
    ]
@@ -43549,111 +43579,6 @@
    "tag": "Analyst",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "7ad7083ee472",
-   "headline": "Cantor Fitzgerald Maintains Overweight on Humana, Raises Price Target to $495",
-   "summary": "Cantor Fitzgerald analyst Sarah James maintains Humana (NYSE:HUM) with a Overweight and raises the price target from $460 to $495.",
-   "url": "https://finnhub.io/api/news?id=08302f4579d3a47ce6276f12108dc085c4abb18c11db8e4a59cb30ca029f91ab",
-   "source": "Benzinga",
-   "published": "2026-11-09T08:08:30+00:00",
-   "tickers": [
-    "HUM"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "1f3973004cbe",
-   "headline": "Argenx to acquire biotech firm Unnatural Products for $1.15 billion",
-   "summary": "Investing.com -- Argenx SE announced Monday it will acquire biotech firm Unnatural Products for $550 million upfront plus contingent value rights tied to development and regulatory milestones, bringing the total potential value to\u2026",
-   "url": "https://finnhub.io/api/news?id=90199dfd1a49b5ff136c63e59bb78cdaeba24be66dbc11246a7ccc2510493875",
-   "source": "Yahoo",
-   "published": "2026-11-09T08:06:57+00:00",
-   "tickers": [
-    "ARGX"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "eedcd11ff2d3",
-   "headline": "Ionis Pharmaceuticals Q3 Adj. EPS $(0.40) Beats $(1.21) Estimate, Sales $243.000M Beat $182.117M Estimate",
-   "summary": "Ionis Pharmaceuticals (NASDAQ:IONS) reported quarterly losses of $(0.40) per share which beat the analyst consensus estimate of $(1.21) by 66.94 percent. This is a 34.43 percent increase over losses of $(0.61) per share",
-   "url": "https://finnhub.io/api/news?id=63062a3ab3ea8f414e51e2952d2803009219c4d8116ba3c0ca189837e5126324",
-   "source": "Benzinga",
-   "published": "2026-11-09T08:04:05+00:00",
-   "tickers": [
-    "IONS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "86ec94c5d953",
-   "headline": "TG Therapeutics Raises FY2026 Sales Guidance from $950.000M to $1.000B vs $960.306M Est",
-   "summary": "TG Therapeutics (NASDAQ:TGTX) raises FY2026 sales outlook from $950.000 million to $1.000 billion vs $960.306 million estimate.",
-   "url": "https://finnhub.io/api/news?id=11471dd32ac451c312deb069cb400f11d9891e30e72008fa1d8b700d34e8bda1",
-   "source": "Benzinga",
-   "published": "2026-11-09T08:03:07+00:00",
-   "tickers": [
-    "TGTX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "a2f81ba1adfa",
-   "headline": "TG Therapeutics Q3 EPS $0.35 Beats $0.34 Estimate, Sales $259.936M Beat $245.475M Estimate",
-   "summary": "TG Therapeutics (NASDAQ:TGTX) reported quarterly earnings of $0.35 per share which beat the analyst consensus estimate of $0.34 by 2.94 percent. This is a 85.6 percent decrease over earnings of $2.43 per share from the",
-   "url": "https://finnhub.io/api/news?id=132d8ba752d7073f40b218eb25a19dd617ec4c2ecce077b3b69c6d3d34071546",
-   "source": "Benzinga",
-   "published": "2026-11-09T08:02:39+00:00",
-   "tickers": [
-    "TGTX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "9dfed42e3c2c",
-   "headline": "Ionis Pharmaceuticals Affirms FY2026 Sales Guidance of $875.000M-$900.000M vs $916.396M Est",
-   "summary": "Ionis Pharmaceuticals (NASDAQ:IONS) affirms FY2026 sales outlook from $875.000 million-$900.000 million to $875.000 million-$900.000 million vs $916.396 million estimate.",
-   "url": "https://finnhub.io/api/news?id=a7b52b654b01e4572ed1fd7241ac7837207316cd1dfe1b36eb30e2d720f5a0a7",
-   "source": "Benzinga",
-   "published": "2026-11-09T08:02:09+00:00",
-   "tickers": [
-    "IONS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "a25df3628406",
-   "headline": "Roviant Sciences Subsidiary, Genevant Sciences, And Arbutus Biopharma File Five International Patent Infringement Enforcement Actions Against Moderna",
-   "summary": "",
-   "url": "https://finnhub.io/api/news?id=6a3b019ac0c151f369fe4f2a3035e8a3c36efb1ea00d9a8df5298a02a8d81156",
-   "source": "Benzinga",
-   "published": "2026-11-09T08:01:20+00:00",
-   "tickers": [
-    "IMVT"
-   ],
-   "tag": "Legal",
-   "sectors": [
-    "biotech"
    ]
   }
  ]
