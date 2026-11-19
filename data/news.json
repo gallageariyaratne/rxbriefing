@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-19T01:47:41.584399+00:00",
+ "updated": "2026-11-19T02:02:47.183458+00:00",
  "quotes": {
   "A": {
    "price": 177.33,
@@ -298,6 +298,10 @@
    "price": 10.5,
    "change_pct": -1.59
   },
+  "SNY": {
+   "price": 47.12,
+   "change_pct": -0.86
+  },
   "SYK": {
    "price": 318.15,
    "change_pct": 0.19
@@ -313,10 +317,6 @@
   "TMO": {
    "price": 692.74,
    "change_pct": 0.87
-  },
-  "TWST": {
-   "price": 116.35,
-   "change_pct": 3.88
   }
  },
  "tickers": {
@@ -945,6 +945,21 @@
    "sectors": []
   },
   {
+   "id": "8009264656ac",
+   "headline": "What Does Merck (MRK) Losing Nemtabrutinib Mean For Its Blood Cancer Pipeline?",
+   "summary": "Merck (NYSE:MRK) has halted clinical development of its blood cancer drug candidate nemtabrutinib after a recent internal review. The decision ends all Phase 3 BELLWAVE program studies after data indicated the benefit to risk profile did\u2026",
+   "url": "https://finnhub.io/api/news?id=02c647ff0e5541e5f1901899a3972e3b204649f8543816ba9c6cf167fbeb8ffa",
+   "source": "Yahoo",
+   "published": "2026-11-19T00:14:52+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "650208ebcbf6",
    "headline": "Restoring trust: Embattled CDC, HHS officials on their priorities for 2027",
    "summary": "CDC Director Erica Schwartz, M.D., and HHS Secretary Robert F. Kennedy, Jr., spoke at the Milken Institute\u2019s Future of Health Summit last week in Washington, D.C.",
@@ -1109,6 +1124,7 @@
    "source": "Yahoo",
    "published": "2026-11-18T22:40:39+00:00",
    "tickers": [
+    "RXRX",
     "SDGR"
    ],
    "tag": "FDA",
@@ -1128,6 +1144,21 @@
     "ABT"
    ],
    "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "22c638015ad1",
+   "headline": "Press Release: Sanofi\u2019s Infilbray approved in the US as the first medicine to treat neurological manifestations of Type 3 Gaucher disease",
+   "summary": "Sanofi\u2019s Infilbray approved in the US as the first medicine to treat neurological manifestations of Type 3 Gaucher disease Infilbray is a once-daily oral medicine that acts across the blood-brain barrier, targeting devastating\u2026",
+   "url": "https://finnhub.io/api/news?id=826a824a992cdccaf80aaa0e6d3e2fb5972264c2b9e3d0501d0ae78835ae4009",
+   "source": "Yahoo",
+   "published": "2026-11-18T22:19:00+00:00",
+   "tickers": [
+    "SNY"
+   ],
+   "tag": "FDA",
    "sectors": [
     "pharma"
    ]
@@ -1349,6 +1380,21 @@
    "tag": "Policy",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "0f471143d8ed",
+   "headline": "Madrigal Pharmaceuticals Announces Grants of Inducement Awards under Nasdaq Listing Rule 5635(c)(4)",
+   "summary": "CONSHOHOCKEN, Pa., Nov. 18, 2026 (GLOBE NEWSWIRE) -- Madrigal Pharmaceuticals, Inc. (NASDAQ:MDGL), a biopharmaceutical company focused on delivering novel therapeutics for metabolic dysfunction-associated steatohepatitis (MASH), today\u2026",
+   "url": "https://finnhub.io/api/news?id=77dcb1cfff019133fcc5b06455c208b231991d84bf84623476ce4d50f0aba742",
+   "source": "Yahoo",
+   "published": "2026-11-18T21:04:00+00:00",
+   "tickers": [
+    "MDGL"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -1713,7 +1759,8 @@
    "source": "Yahoo",
    "published": "2026-11-18T18:10:00+00:00",
    "tickers": [
-    "REGN"
+    "REGN",
+    "SNY"
    ],
    "tag": "FDA",
    "sectors": [
@@ -1879,6 +1926,21 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "a3a914e7153f",
+   "headline": "Why Recursion Pharmaceuticals Stock Is Up Today",
+   "summary": "This pharmaceutical-development technology company continues to demonstrate that its testing platform has real potential.",
+   "url": "https://finnhub.io/api/news?id=6de3d68815e774ea4d098ecabd177e5dc1557a27c51d031ab8de82c84c427f78",
+   "source": "Yahoo",
+   "published": "2026-11-18T17:23:01+00:00",
+   "tickers": [
+    "RXRX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthai"
    ]
   },
   {
@@ -2781,7 +2843,8 @@
    "published": "2026-11-18T14:36:00+00:00",
    "tickers": [
     "MRNA",
-    "PFE"
+    "PFE",
+    "SNY"
    ],
    "tag": "Health AI",
    "sectors": [
@@ -2833,7 +2896,8 @@
    "tickers": [
     "JNJ",
     "MRK",
-    "NVS"
+    "NVS",
+    "SNY"
    ],
    "tag": "Clinical",
    "sectors": [
@@ -43765,21 +43829,6 @@
    "tag": "M&A",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "f791a99c6e97",
-   "headline": "The 5 most interesting analyst questions from Bruker\u2019s Q3 2026 earnings call",
-   "summary": "Bruker\u2019s third quarter drew a positive response from the market, as the company delivered a notable step-up in profitability despite only modest topline growth. Management attributed the margin expansion to the combination of disciplined\u2026",
-   "url": "https://finnhub.io/api/news?id=9758ae1b85bc89d29ef89e87cfb4f07e3c50d5be7ee3f0fcb014987c1ae0abeb",
-   "source": "Yahoo",
-   "published": "2026-11-09T01:57:36+00:00",
-   "tickers": [
-    "BRKR"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "tools"
    ]
   }
  ]
