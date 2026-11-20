@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-20T02:17:52.897590+00:00",
+ "updated": "2026-11-20T02:32:37.193036+00:00",
  "quotes": {
   "ABBV": {
    "price": 283.54,
@@ -194,6 +194,10 @@
    "price": 407.24,
    "change_pct": -3.26
   },
+  "JAZZ": {
+   "price": 236.45,
+   "change_pct": -4.57
+  },
   "JNJ": {
    "price": 267.14,
    "change_pct": -2.04
@@ -274,6 +278,10 @@
    "price": 159.43,
    "change_pct": -0.24
   },
+  "RXST": {
+   "price": 4.61,
+   "change_pct": -7.98
+  },
   "SMMT": {
    "price": 10.57,
    "change_pct": 0.67
@@ -285,6 +293,10 @@
   "SYK": {
    "price": 313.08,
    "change_pct": -1.59
+  },
+  "TAK": {
+   "price": 21.41,
+   "change_pct": 0.66
   },
   "TDOC": {
    "price": 7.79,
@@ -309,18 +321,6 @@
   "TMO": {
    "price": 688.75,
    "change_pct": -0.58
-  },
-  "TWST": {
-   "price": 111.62,
-   "change_pct": -4.07
-  },
-  "UHS": {
-   "price": 174.98,
-   "change_pct": -5.96
-  },
-  "UNH": {
-   "price": 330.48,
-   "change_pct": -5.55
   }
  },
  "tickers": {
@@ -964,6 +964,21 @@
    ]
   },
   {
+   "id": "58753ff1312b",
+   "headline": "Boston Scientific announces pricing of $3.0 billion and \u20ac4.25 billion offerings of senior notes",
+   "summary": "Boston Scientific Corporation (the \"Company\") (NYSE: BSX) announced today that it haspriced a public offering of $3,000,000,000 aggregate principal amount of U.S. dollar-denominated notes (the \"USD Offering\"), consisting of $1,000,000,000\u2026",
+   "url": "https://finnhub.io/api/news?id=0a9a1247cef72d6810b2dcb1c1006260d349c04697e401e7244d1bedde94540c",
+   "source": "Yahoo",
+   "published": "2026-11-20T01:45:00+00:00",
+   "tickers": [
+    "BSX"
+   ],
+   "tag": "Financing",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "b64052a283d0",
    "headline": "Illumina Wins Virtual Cell Challenge, Powered by Billion Cell Atlas",
    "summary": "The unique biological dataset combined with a new CellularAI algorithm wins Illumina a first-place finish in the 2026 Virtual Cell Challenge, hosted by Arc Institute SAN DIEGO, Nov. 19, 2026 /PRNewswire/ -- Illumina, Inc. (NASDAQ: ILMN)\u2026",
@@ -994,6 +1009,21 @@
    ]
   },
   {
+   "id": "b6d0826c1e13",
+   "headline": "Is Globus Medical (GMED) Still Undervalued Following Its Jefferies London Healthcare Conference Update?",
+   "summary": "Globus Medical (GMED) is back in the spotlight after presenting at the Jefferies London Healthcare Conference on 18 November 2026. The event put its robotic and musculoskeletal portfolio in front of a global investor audience. Over the\u2026",
+   "url": "https://finnhub.io/api/news?id=afd7c86acfe47f5cd929699ec18632d62348ce4f6a54d4c120be3da9ddc433d6",
+   "source": "Yahoo",
+   "published": "2026-11-20T00:22:02+00:00",
+   "tickers": [
+    "GMED"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "2dbbfa6b2a4e",
    "headline": "Leerink Partners Upgrades Abbott Laboratories to Outperform from Market Perform",
    "summary": "",
@@ -1006,6 +1036,51 @@
    "tag": "Analyst",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "51d38c9ae0b0",
+   "headline": "Recall And Debt Build Might Change The Case For Investing In Boston Scientific (BSX)",
+   "summary": "Boston Scientific recently announced a fixed income offering of senior, unsecured, callable fixed rate notes and is also managing a voluntary Class II FDA recall of 134 Nalu Neurostimulation System components initiated in September 2026.\u2026",
+   "url": "https://finnhub.io/api/news?id=76f2828081bb51c1e71bdb3486d4af7be3527ef403ace241780207c862aa977c",
+   "source": "Yahoo",
+   "published": "2026-11-20T00:17:00+00:00",
+   "tickers": [
+    "BSX"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "3013f52c77ad",
+   "headline": "Stock Screening Made Simple: A Closer Look",
+   "summary": "Stock screening is commonly deployed by investors to 'cut through the noise.' The approach is especially useful when you're choosing from thousands of options, which can often overwhelm investors.",
+   "url": "https://finnhub.io/api/news?id=7b77e9ca4ef79b8c9bc0aea68c0eec8bbad6322981f229145e8a56b40936a8f7",
+   "source": "Yahoo",
+   "published": "2026-11-20T00:08:00+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "6b39c8b7ad82",
+   "headline": "Johnson & Johnson Delivered 'Immaculate' Prostate Cancer Data at ESMO. Here's Why Investors Should Care",
+   "summary": "Johnson & Johnson's $3.05 billion Halda bet is already paying off in the clinic.",
+   "url": "https://finnhub.io/api/news?id=0278945ce74d73a6c4332a188184624ec6f582d790f00a9613f6bb94e646dd1a",
+   "source": "Yahoo",
+   "published": "2026-11-20T00:05:00+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1047,6 +1122,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "5683bfe03502",
+   "headline": "What Is Novartis (SWX:NOVN) Gaining From Its PMR Approval And ADC Deal?",
+   "summary": "Novartis (SWX:NOVN) reported US FDA approval of Cosentyx as the first anti IL 17 biologic for polymyalgia rheumatica. The new Cosentyx indication targets patients with polymyalgia rheumatica who currently rely heavily on long term steroid\u2026",
+   "url": "https://finnhub.io/api/news?id=3c1574fe3c20bb5482e028f57cd5806175f25aa0ab504ad531d9da6bb7de2947",
+   "source": "Yahoo",
+   "published": "2026-11-19T23:21:35+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1191,6 +1281,21 @@
    "tag": "News",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "f59ec8b23afb",
+   "headline": "Caltagirone (BIT:CALT) Stock Trades At A Discount On Its 167% Five Year Run",
+   "summary": "Caltagirone has quietly turned a long holding period into a strong result, which naturally raises the question of whether the current share price still lines up with the earnings behind it. With the stock most recently closing at \u20ac9.46,\u2026",
+   "url": "https://finnhub.io/api/news?id=bee328e6f03a46ed88aa2f9c01d8aea0080281e80373a8fa7a9fef1fb1de89f8",
+   "source": "Yahoo",
+   "published": "2026-11-19T22:14:12+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1392,6 +1497,21 @@
    ]
   },
   {
+   "id": "7f5b5036f193",
+   "headline": "Novartis Reaffirms Sales Targets as Drug Trial Results and FDA Talks Loom",
+   "summary": "Novartis (NYSE:NVS) executives outlined a slate of upcoming drug-trial results and regulatory discussions across immunology, cardiovascular disease, oncology and neuroscience, while reiterating sales ambitions for several established\u2026",
+   "url": "https://finnhub.io/api/news?id=84aedd103a17de3cb5084eba30524ffb716e6780a804d6b1d7cbdfea7740e733",
+   "source": "Yahoo",
+   "published": "2026-11-19T21:12:18+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "3e6dea8a1b47",
    "headline": "Senate Nears a Vote on a Landmark Permitting Bill. Here\u2019s Who Could Benefit.",
    "summary": "The bill could speed up pipeline and transmission projects. For electric utilities, the outlook is more mixed.",
@@ -1417,6 +1537,21 @@
     "ABT"
    ],
    "tag": "M&A",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "a2b59d00c391",
+   "headline": "RxSight, Inc. to Present at the Piper Sandler Healthcare Conference",
+   "summary": "ALISO VIEJO, Calif., Nov. 19, 2026 (GLOBE NEWSWIRE) -- RxSight, Inc. (NASDAQ: RXST) today announced that management is scheduled to present at the Piper Sandler 38th Annual Healthcare Conference on Tuesday, December 1, 2026, at 4:00 p.m.\u2026",
+   "url": "https://finnhub.io/api/news?id=ebf04836649a17e885a16dbcd52f7ef6fdd30a1b10dc2d6f598cf647a82630ce",
+   "source": "Yahoo",
+   "published": "2026-11-19T21:05:00+00:00",
+   "tickers": [
+    "RXST"
+   ],
+   "tag": "News",
    "sectors": [
     "medtech"
    ]
@@ -1502,6 +1637,8 @@
    "source": "SeekingAlpha",
    "published": "2026-11-19T20:24:48+00:00",
    "tickers": [
+    "JAZZ",
+    "JNJ",
     "LLY",
     "ZTS"
    ],
@@ -1568,6 +1705,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "316d890c7c33",
+   "headline": "Novartis Says AI Is Speeding Drug Discovery and Trials, but Clinical Payoff Remains Unproven",
+   "summary": "Novartis (NYSE:NVS) is applying artificial intelligence across drug research and clinical development, with executives reporting faster trial enrollment and drug candidate selection while cautioning that evidence of improved clinical\u2026",
+   "url": "https://finnhub.io/api/news?id=c17bc19b5d3ff82741a21dd93cbe32f4acaef58cfa3e4ffbd097532323b7c2d2",
+   "source": "Yahoo",
+   "published": "2026-11-19T20:12:11+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1932,6 +2084,21 @@
    ]
   },
   {
+   "id": "cafed1943b02",
+   "headline": "Novartis Has Bigger Blockbusters but a Smaller Growth Story",
+   "summary": "Novartis is raising expectations for some of its most important medicines, but investors are more interested in the hole those drugs will eventually have to fill",
+   "url": "https://finnhub.io/api/news?id=7eb0dd4f74e50f2f887f0b5e612d140e278ad0208ed7b382a001a8ebd49ee53b",
+   "source": "Yahoo",
+   "published": "2026-11-19T18:19:22+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "2001488b57ad",
    "headline": "Eli Lilly (LLY) \u2013 The Only Healthcare Name in Ken Fisher\u2019s Fastest-Growing Top Positions",
    "summary": "Eli Lilly and Company (NYSE:LLY) rounds out our list of the Top 10 Stocks to Buy According to Billionaire Ken Fisher at number 10. Ken Fisher has spent more than four decades betting that big, globally dominant companies keep winning, and\u2026",
@@ -1971,6 +2138,21 @@
    "published": "2026-11-19T18:17:41+00:00",
    "tickers": [
     "LLY"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "15d611979a2f",
+   "headline": "Takeda (TSE:4502) Stock May Look Reasonable Despite Its ORZEYFUL Launch",
+   "summary": "Takeda Pharmaceutical has delivered a powerful share price run in recent years, which naturally raises a simple question for you as an investor: Is the current valuation of the stock adequately supported by its sales base and the revenue\u2026",
+   "url": "https://finnhub.io/api/news?id=2c2d1ce918fc9e6df076ba892003fa580441e6f7fc0cafb098be7fbd42112436",
+   "source": "Yahoo",
+   "published": "2026-11-19T18:16:56+00:00",
+   "tickers": [
+    "TAK"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -2139,6 +2321,7 @@
    "published": "2026-11-19T17:47:44+00:00",
    "tickers": [
     "BMY",
+    "NVS",
     "SNY"
    ],
    "tag": "Earnings",
@@ -2396,6 +2579,21 @@
    ]
   },
   {
+   "id": "6524590037d5",
+   "headline": "NKT AS (NRKBF) (Q3 2026) Earnings Call Highlights: Margin Strength and Record Backlog Offset ...",
+   "summary": "NKT AS (NRKBF) holds its full-year EBITDA outlook at the upper end despite a 7% organic revenue decline, as Transmission margins expand and a EUR12.4 billion order backlog underpins future growth.",
+   "url": "https://finnhub.io/api/news?id=45251b5d1e4ee0f9eba70232a200a94ef4c4b3c85e3ceeab762f925fd915257f",
+   "source": "Yahoo",
+   "published": "2026-11-19T17:02:10+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "26187737c172",
    "headline": "Insmed Soars 18% on Report That Sanofi Is Weighing a Takeover",
    "summary": "Key TakeawaysInsmed shares jumped 18% after Bloomberg reported that Sanofi is weighing an acquisition of the company. Sanofi is looking for growth to replace Dupixent, and Insmed\u2019s Brinsupri is tracking to $1.",
@@ -2576,6 +2774,21 @@
    "tickers": [],
    "tag": "FDA",
    "sectors": []
+  },
+  {
+   "id": "36c57db5f45f",
+   "headline": "Novartis Targets 5% Annual Sales Growth Through 2031 Despite Patent Expirations",
+   "summary": "Novartis (NYSE:NVS) expects annual sales growth of 5% from 2026 through 2031 and average mid-single-digit growth into the mid-2030s, as the drugmaker looks to offset patent expirations with newer medicines and its development pipeline.\u2026",
+   "url": "https://finnhub.io/api/news?id=74f6a9a4f9e6821621804c02b00d41f575a14725e566a9d6b4c77e28b2f21a3d",
+   "source": "Yahoo",
+   "published": "2026-11-19T16:16:28+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "Legal",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "09661c7e442c",
@@ -3250,6 +3463,21 @@
    "sectors": []
   },
   {
+   "id": "3aae8c7aea32",
+   "headline": "AB Artea bankas signed an Agreement with the EIB for the Third Multi-Apartment Building Modernization Fund",
+   "summary": "On 18 November 2026, AB Artea bankas signed an agreement with the European Investment Bank (EIB) to establish and manage its third fund dedicated to the modernization of multi-apartment buildings in Lithuania. The agreement follows Artea\u2026",
+   "url": "https://finnhub.io/api/news?id=2e70374a974df9cf26f786a55915d91391b180644cb83c26e47bd50b89b337b3",
+   "source": "Yahoo",
+   "published": "2026-11-19T15:00:00+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "1da5baf447c8",
    "headline": "Nerve Repair and Regeneration Devices - Global Strategic Business Report: Secure Share of a $17.6B Market by 2030 as Abbott, Boston Scientific, Collagen Matrix and Inspire Medical Accelerate",
    "summary": "Identify revenue opportunities with insights into tariffs, regional shifts, competitive positioning, and innovations in biomaterials, stem cells, and 3D printing.Dublin, Nov. 19, 2026 (GLOBE NEWSWIRE) -- \"Nerve Repair and Regeneration\u2026",
@@ -3581,6 +3809,21 @@
     "LLY"
    ],
    "tag": "GLP-1",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "86505dd9f6c1",
+   "headline": "Dormakaba Holding (SWX:DOKA) Stock Looks Overvalued As Its 57% Run Continues",
+   "summary": "dormakaba Holding has delivered a solid share price run in recent years, which puts a spotlight on what investors are now paying for its earnings. With the stock changing hands at CHF 69.50 after a series of positive return periods, the\u2026",
+   "url": "https://finnhub.io/api/news?id=acbb83981984d30a991c4fbf4e93a7148dc25fcd04b9229ee16767be25a55b98",
+   "source": "Yahoo",
+   "published": "2026-11-19T14:19:45+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "Earnings",
    "sectors": [
     "pharma"
    ]
@@ -4030,7 +4273,8 @@
    "tickers": [
     "ABBV",
     "JNJ",
-    "LLY"
+    "LLY",
+    "NVS"
    ],
    "tag": "News",
    "sectors": [
@@ -43246,21 +43490,6 @@
    "tag": "FDA",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "95a8322bd609",
-   "headline": "Ionis Pharmaceuticals, Inc. Q3 2026 Earnings Call Summary",
-   "summary": "Moby summary of Ionis Pharmaceuticals, Inc.'s Q3 2026 earnings call",
-   "url": "https://finnhub.io/api/news?id=ed31d6c8b3b972309ac6edf51241e81e4df48bb939bb34ee297a2aacbfbeeee3",
-   "source": "Yahoo",
-   "published": "2026-11-10T02:20:34+00:00",
-   "tickers": [
-    "IONS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
    ]
   }
  ]
