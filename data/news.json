@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-20T02:32:37.193036+00:00",
+ "updated": "2026-11-20T02:47:30.444013+00:00",
  "quotes": {
   "ABBV": {
    "price": 283.54,
@@ -73,6 +73,10 @@
   "CI": {
    "price": 273.04,
    "change_pct": -4.32
+  },
+  "CLDX": {
+   "price": 27.96,
+   "change_pct": 1.49
   },
   "CLOV": {
    "price": 3.77,
@@ -250,6 +254,10 @@
    "price": 151.22,
    "change_pct": -2.57
   },
+  "OMCL": {
+   "price": 33.18,
+   "change_pct": -4.27
+  },
   "OSCR": {
    "price": 26.17,
    "change_pct": -5.08
@@ -261,6 +269,10 @@
   "PODD": {
    "price": 137.23,
    "change_pct": -1.96
+  },
+  "PRVA": {
+   "price": 24.69,
+   "change_pct": 0.37
   },
   "REGN": {
    "price": 923.34,
@@ -309,18 +321,6 @@
   "TEM": {
    "price": 59.61,
    "change_pct": -6.3
-  },
-  "TGTX": {
-   "price": 64.88,
-   "change_pct": -1.88
-  },
-  "THC": {
-   "price": 263.59,
-   "change_pct": -2.86
-  },
-  "TMO": {
-   "price": 688.75,
-   "change_pct": -0.58
   }
  },
  "tickers": {
@@ -1306,6 +1306,7 @@
    "source": "Yahoo",
    "published": "2026-11-19T22:10:02+00:00",
    "tickers": [
+    "INSM",
     "SNY"
    ],
    "tag": "News",
@@ -1557,6 +1558,21 @@
    ]
   },
   {
+   "id": "4e4846eff057",
+   "headline": "Celldex Reports Results from Phase 2 Study of Barzolvolimab in Atopic Dermatitis",
+   "summary": "Study did not meet key efficacy measures or internal hurdle rate for continued development Systemic mast cell depletion observed, consistent with prior studies, as evidenced by significant reduction in serum tryptase Favorable safety and\u2026",
+   "url": "https://finnhub.io/api/news?id=4d856c95d7f3218250490affa21a45ba3feff70c28c32e067615ac87808e45be",
+   "source": "Yahoo",
+   "published": "2026-11-19T21:01:00+00:00",
+   "tickers": [
+    "CLDX"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "f59d8eb7f5dc",
    "headline": "Pfizer Is Shopping for China\u2019s Biotech Breakthroughs",
    "summary": "The agreement with Starna Therapeutics gives Pfizer access to a new generation of cancer-inspired immune therapies",
@@ -1579,6 +1595,7 @@
    "source": "Yahoo",
    "published": "2026-11-19T20:51:59+00:00",
    "tickers": [
+    "INSM",
     "JNJ",
     "SNY"
    ],
@@ -1730,6 +1747,7 @@
    "source": "Yahoo",
    "published": "2026-11-19T20:12:00+00:00",
    "tickers": [
+    "INSM",
     "PFE",
     "SNY"
    ],
@@ -1948,6 +1966,7 @@
    "source": "Yahoo",
    "published": "2026-11-19T19:02:01+00:00",
    "tickers": [
+    "INSM",
     "PFE",
     "SNY"
    ],
@@ -2074,6 +2093,7 @@
    "published": "2026-11-19T18:32:11+00:00",
    "tickers": [
     "HALO",
+    "INSM",
     "JNJ",
     "MRK",
     "SNY"
@@ -2452,6 +2472,7 @@
    "source": "Yahoo",
    "published": "2026-11-19T17:19:03+00:00",
    "tickers": [
+    "INSM",
     "SNY"
    ],
    "tag": "M&A",
@@ -2544,6 +2565,7 @@
    "source": "Yahoo",
    "published": "2026-11-19T17:07:00+00:00",
    "tickers": [
+    "INSM",
     "SNY"
    ],
    "tag": "M&A",
@@ -2601,6 +2623,7 @@
    "source": "Yahoo",
    "published": "2026-11-19T17:00:34+00:00",
    "tickers": [
+    "INSM",
     "SNY"
    ],
    "tag": "M&A",
@@ -2774,6 +2797,21 @@
    "tickers": [],
    "tag": "FDA",
    "sectors": []
+  },
+  {
+   "id": "31ee3dba7cf8",
+   "headline": "Can Privia Health (PRVA) Run Higher on Rising Earnings Estimates?",
+   "summary": "Privia Health (PRVA) shares have started gaining and might continue moving higher in the near term, as indicated by solid earnings estimate revisions.",
+   "url": "https://finnhub.io/api/news?id=6a266ac11ec76bfbc7ccc994c589aabed8e3b3ecb3c8861fd5d74039b18ef459",
+   "source": "Yahoo",
+   "published": "2026-11-19T16:20:02+00:00",
+   "tickers": [
+    "PRVA"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
+   ]
   },
   {
    "id": "36c57db5f45f",
@@ -3054,6 +3092,7 @@
    "source": "Yahoo",
    "published": "2026-11-19T15:43:24+00:00",
    "tickers": [
+    "INSM",
     "SNY"
    ],
    "tag": "M&A",
@@ -3148,6 +3187,7 @@
    "source": "Yahoo",
    "published": "2026-11-19T15:25:06+00:00",
    "tickers": [
+    "INSM",
     "RVMD"
    ],
    "tag": "Health AI",
@@ -3387,6 +3427,7 @@
    "source": "Yahoo",
    "published": "2026-11-19T15:05:37+00:00",
    "tickers": [
+    "INSM",
     "SNY"
    ],
    "tag": "M&A",
@@ -4992,6 +5033,7 @@
    "published": "2026-11-19T12:02:00+00:00",
    "tickers": [
     "IDXX",
+    "OMCL",
     "PODD"
    ],
    "tag": "News",
