@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-20T02:03:05.411450+00:00",
+ "updated": "2026-11-20T02:17:52.897590+00:00",
  "quotes": {
   "ABBV": {
    "price": 283.54,
@@ -49,6 +49,10 @@
   "BDX": {
    "price": 212.68,
    "change_pct": -1.57
+  },
+  "BIIB": {
+   "price": 247.13,
+   "change_pct": -1.7
   },
   "BMRN": {
    "price": 61.42,
@@ -161,10 +165,6 @@
   "HQY": {
    "price": 97.38,
    "change_pct": 0.07
-  },
-  "HSIC": {
-   "price": 84.8,
-   "change_pct": -1.04
   },
   "HUM": {
    "price": 380,
@@ -317,6 +317,10 @@
   "UHS": {
    "price": 174.98,
    "change_pct": -5.96
+  },
+  "UNH": {
+   "price": 330.48,
+   "change_pct": -5.55
   }
  },
  "tickers": {
@@ -934,6 +938,17 @@
  },
  "stories": [
   {
+   "id": "4ab01b323cad",
+   "headline": "Crown Biosciences stays put as $204M Adicon deal falls through",
+   "summary": "Crown Biosciences looks destined to go unworn for a while longer after its planned $204 million acquisition by China's Adicon fell through.",
+   "url": "https://www.fiercebiotech.com/cro/crown-stays-put-204m-adicon-deal-collapses",
+   "source": "Fierce Biotech",
+   "published": "2026-11-20T02:15:25.140194+00:00",
+   "tickers": [],
+   "tag": "M&A",
+   "sectors": []
+  },
+  {
    "id": "96b7fa0497ef",
    "headline": "Boston Scientific announces pricing of $3.0 billion and \u20ac4.25 billion offerings of senior notes",
    "summary": "MARLBOROUGH, Mass., Nov. 19, 2026 /PRNewswire/ -- Boston Scientific Corporation (the \"Company\") (NYSE: BSX) announced today that it has priced a public offering of $3,000,000,000 aggregate principal amount of U.S. dollar-denominated notes\u2026",
@@ -1291,6 +1306,21 @@
    ]
   },
   {
+   "id": "d685384430af",
+   "headline": "Guardant Health Launches Guardant Reveal\u00ae Ultra to Deliver Leading Sensitivity in MRD Testing",
+   "summary": "PALO ALTO, Calif., November 19, 2026--Guardant Health, Inc. (Nasdaq: GH), a leading precision oncology company, today announced the U.S. clinical launch of Guardant Reveal\u00ae Ultra, a new molecular residual disease (MRD) platform for solid\u2026",
+   "url": "https://finnhub.io/api/news?id=74ee718b78e0de371760de4a1c5d081406e33b5f315772898747f87e6e9e9ea4",
+   "source": "Yahoo",
+   "published": "2026-11-19T21:42:00+00:00",
+   "tickers": [
+    "GH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "5b005dc7b0d3",
    "headline": "Consumers believe AI will be key in making healthcare simpler: survey",
    "summary": "Americans want a healthcare experience that's simpler and easier to understand, and artificial intelligence may be the key to getting there, a new survey shows.",
@@ -1613,7 +1643,8 @@
    "published": "2026-11-19T19:40:02+00:00",
    "tickers": [
     "ILMN",
-    "NTRA"
+    "NTRA",
+    "TEM"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -1725,6 +1756,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "b6fff8a7e1dc",
+   "headline": "28% Below Fair Value Guardant Health (GH) On Its $500 Million Bond Deal",
+   "summary": "Why a fresh US$500 million bond deal matters for Guardant Health Guardant Health (GH) has just completed a US$500 million zero coupon convertible note issue due 2032, a funding move that sits alongside recent product updates and raised\u2026",
+   "url": "https://finnhub.io/api/news?id=be059afecd8e8b8192a1d649dc348144b57a0c38285dfc1b07a5d2a580d3c08b",
+   "source": "Yahoo",
+   "published": "2026-11-19T19:09:30+00:00",
+   "tickers": [
+    "GH"
+   ],
+   "tag": "Financing",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -1947,6 +1993,21 @@
    ]
   },
   {
+   "id": "a5cae511af9d",
+   "headline": "What Guardant Health (GH)'s Raised Guidance Means For Shareholders",
+   "summary": "Guardant Health reported third quarter 2026 revenue of US$360.98 million and a net loss of US$124.36 million, then raised its full year 2026 revenue outlook to US$1.36 to US$1.37 billion. The company also completed a US$500 million zero\u2026",
+   "url": "https://finnhub.io/api/news?id=ecfbcedf72f03f99253a1be28a2d3421d7ee9c43a14fd1a746d8bea805debe54",
+   "source": "Yahoo",
+   "published": "2026-11-19T18:13:42+00:00",
+   "tickers": [
+    "GH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "41ad7f135d7d",
    "headline": "How Investors Are Reacting To Zimmer Biomet Stock After Earnings Beat",
    "summary": "Zimmer Biomet Holdings announced its Surgeon-Guided Autonomy concept and related Surgeon-Guided AutonoMe campaign, outlining a Predict, Perform, Recover framework that links pre operative planning, intra operative execution and post\u2026",
@@ -2136,6 +2197,21 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "c783d4262958",
+   "headline": "Grail vs. Tempus AI: Which Healthcare Stock Is a Better Buy for 2027?",
+   "summary": "Grail's cancer blood test faces a setback in a major UK trial, while Tempus AI's data business is growing fast but still losing money. The two carry very different risk profiles.",
+   "url": "https://finnhub.io/api/news?id=3d4f435aad971b43ba0c8e0e205cc2318040030f6bf3a75849407d61390bc200",
+   "source": "Yahoo",
+   "published": "2026-11-19T17:33:02+00:00",
+   "tickers": [
+    "TEM"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "healthai"
    ]
   },
   {
@@ -3046,6 +3122,7 @@
    "published": "2026-11-19T15:10:00+00:00",
    "tickers": [
     "ALNY",
+    "ARGX",
     "AZN",
     "REGN"
    ],
@@ -4400,6 +4477,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "dbbcffcdcaf3",
+   "headline": "Tempus to Present 16 Abstracts at the 2026 San Antonio Breast Cancer Symposium",
+   "summary": "CHICAGO, November 19, 2026--Tempus today announced that 16 abstracts leveraging its diagnostic capabilities and extensive multimodal database will be presented at SABCS.",
+   "url": "https://finnhub.io/api/news?id=fa2330159c22af76a035eb7e2b6edb84ee446368269055831074336c35bfd58e",
+   "source": "Yahoo",
+   "published": "2026-11-19T12:30:00+00:00",
+   "tickers": [
+    "TEM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthai"
    ]
   },
   {
@@ -43169,107 +43261,6 @@
    "tag": "Earnings",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "bb508d3394b0",
-   "headline": "Bayer brings factor XIa to US stroke prevention with FDA nod for 1st-in-class asundexian",
-   "summary": "Shortly after locking down a world-first approval in China, Bayer is bringing its groundbreaking stroke prevention drug stateside, with an FDA green light that honors the German drugmaker\u2019s cardiovascular heritage and signals the sort of\u2026",
-   "url": "https://www.fiercepharma.com/pharma/bayer-brings-factor-xia-us-stroke-prevention-fda-nod-1st-class-asundexian",
-   "source": "Fierce Pharma",
-   "published": "2026-11-10T02:15:20.714799+00:00",
-   "tickers": [],
-   "tag": "FDA",
-   "sectors": []
-  },
-  {
-   "id": "cdf0d0f43334",
-   "headline": "What AbCellera Biologics (ABCL) Said on Its Q3 Earnings Call",
-   "summary": "AbCellera Biologics (NASDAQ:ABCL) plans to advance its experimental hot flash treatment ABCL635 into late-stage development in 2027 after reporting positive mid-stage results, while shelving further development of a separate antibody\u2026",
-   "url": "https://finnhub.io/api/news?id=cae35b55cfed1ab9f8b8fe151826fc66923ce6ec20d304dc5d89374e811f2589",
-   "source": "Yahoo",
-   "published": "2026-11-10T02:14:34+00:00",
-   "tickers": [
-    "ARGX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "95587e36650a",
-   "headline": "Ionis Stock In Focus After Revenue Beat And Reaffirmed 2026 Outlook",
-   "summary": "Ionis Pharmaceuticals reported third quarter 2026 revenue of US$243 million compared with US$157 million a year earlier, with the quarterly net loss narrowing to US$110 million and full year 2026 revenue guidance reaffirmed at US$875\u2026",
-   "url": "https://finnhub.io/api/news?id=ef0fd01fb31877ba54535dd4a63426205d5fadc25f17ac162c18ff51301fea74",
-   "source": "Yahoo",
-   "published": "2026-11-10T02:13:07+00:00",
-   "tickers": [
-    "IONS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "cea4765c2fb6",
-   "headline": "Integra LifeSciences Holdings Corporation (IART) Presents at 2026 UBS Global Healthcare Conference Transcript",
-   "summary": "Integra LifeSciences Holdings Corporation (IART) 2026 UBS Global Healthcare Conference November 9, 2026 2:45 PM ESTCompany ParticipantsLea Knight -...",
-   "url": "https://finnhub.io/api/news?id=fbf4e2fc1fcd23e8b6304619ca3aac77d7c02a54652c1de2e9b46f64f6ab8600",
-   "source": "SeekingAlpha",
-   "published": "2026-11-10T02:11:00+00:00",
-   "tickers": [
-    "IART"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "afaeed833f35",
-   "headline": "TG Therapeutics (TGTX) Q3 2026 Earnings Call Transcript",
-   "summary": "Hospital uptake peaked as a subcutaneous version moves toward quarterly dosing.",
-   "url": "https://finnhub.io/api/news?id=c0009c20a415e67a697f25d6e0eff754be0713202cffbf4847270a6f7aacc9f7",
-   "source": "Yahoo",
-   "published": "2026-11-10T02:03:28+00:00",
-   "tickers": [
-    "TGTX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "4d1d3efba9af",
-   "headline": "Immunovant (IMVT) Q2 2027 Earnings Call Transcript",
-   "summary": "Immunovant drops Sj\u00f6gren's and points to 2027 readouts.",
-   "url": "https://finnhub.io/api/news?id=e1a39da8a519ceda97dde03813ee12d50b262ad7b429f1b7715795087a79640b",
-   "source": "Yahoo",
-   "published": "2026-11-10T02:03:28+00:00",
-   "tickers": [
-    "IMVT"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "a63748988e87",
-   "headline": "Hims & Hers Health misses revenue estimates and misses earnings estimates in Third Quarter 2026",
-   "summary": "",
-   "url": "https://finnhub.io/api/news?id=5ae831a27ee84a66e298e13cc97eaaa87e9828379e3488c31de416547ffe5c7b",
-   "source": "Fintel",
-   "published": "2026-11-10T02:01:21+00:00",
-   "tickers": [
-    "HIMS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "healthit"
    ]
   }
  ]
