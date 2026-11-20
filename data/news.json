@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-20T21:17:45.264179+00:00",
+ "updated": "2026-11-20T21:32:43.824773+00:00",
  "quotes": {
   "A": {
    "price": 170.38,
@@ -113,10 +113,6 @@
   "EW": {
    "price": 101.85,
    "change_pct": -1.95
-  },
-  "EXEL": {
-   "price": 64.63,
-   "change_pct": -1.82
   },
   "GEHC": {
    "price": 80.64,
@@ -321,6 +317,10 @@
   "ZBH": {
    "price": 101.1,
    "change_pct": -0.36
+  },
+  "ZTS": {
+   "price": 79.11,
+   "change_pct": -2.08
   }
  },
  "tickers": {
@@ -937,6 +937,17 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "0ecdb55a1bdc",
+   "headline": "ICE detention of Princeton scientist rattles academia",
+   "summary": "A graduate student who is a scientific researcher at Princeton was detained by ICE while traveling home after presenting research at a neuroscience conference.",
+   "url": "https://www.statnews.com/2026/11/20/princeton-researcher-eva-yi-xie-ice-detention-rattles-interational-scholars/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-11-20T21:19:27+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
   {
    "id": "e5850dfd0eb2",
    "headline": "STAT+: Is MAHA\u2019s think tank in the tank? Tax filings show low reserves",
@@ -41240,21 +41251,6 @@
    "tag": "News",
    "sectors": [
     "medtech"
-   ]
-  },
-  {
-   "id": "ca9c88b09e7c",
-   "headline": "Hims & Hers reports $890.4M Q3 revenue, tightens 2026 outlook",
-   "summary": "Net loss for the digital health and wellness company was $33 million, compared to $15.8 million in profit during the same quarter a year ago.",
-   "url": "https://www.fiercehealthcare.com/finance/hims-hers-reports-8904m-q3-revenue-tightens-2026-outlook",
-   "source": "Fierce Healthcare",
-   "published": "2026-11-10T21:30:24.977879+00:00",
-   "tickers": [
-    "HIMS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "healthit"
    ]
   }
  ]
