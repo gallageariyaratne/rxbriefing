@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-20T13:17:40.472599+00:00",
+ "updated": "2026-11-20T13:32:40.808545+00:00",
  "quotes": {
   "ABBV": {
    "price": 283.54,
@@ -57,10 +57,6 @@
   "BSX": {
    "price": 42.99,
    "change_pct": -1.49
-  },
-  "CAH": {
-   "price": 272.34,
-   "change_pct": -2.15
   },
   "CI": {
    "price": 273.04,
@@ -177,10 +173,6 @@
   "JNJ": {
    "price": 267.14,
    "change_pct": -2.04
-  },
-  "LEGN": {
-   "price": 16.1,
-   "change_pct": -0.92
   },
   "LLY": {
    "price": 1351.12,
@@ -1422,7 +1414,8 @@
    "published": "2026-11-20T07:21:05+00:00",
    "tickers": [
     "CRSP",
-    "PFE"
+    "PFE",
+    "VRTX"
    ],
    "tag": "FDA",
    "sectors": [
@@ -41325,111 +41318,6 @@
    "tag": "Legal",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "0dfb4ec66b2a",
-   "headline": "TransMedics (TMDX) Just Reclaimed the 200-Day Moving Average",
-   "summary": "When a stock breaks out above the 200-day simple moving average, good things could be on the horizon. How should investors react?",
-   "url": "https://finnhub.io/api/news?id=1265c36baffbe1f869f392c9ec21d14c4a4eba3ac1f08569d57f933ff2dea82d",
-   "source": "Yahoo",
-   "published": "2026-11-10T13:30:02+00:00",
-   "tickers": [
-    "TMDX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "7701ab73446c",
-   "headline": "Wall Street Analysts Look Bullish on Boston Scientific (BSX): Should You Buy?",
-   "summary": "Based on the average brokerage recommendation (ABR), Boston Scientific (BSX) should be added to one's portfolio. Wall Street analysts' overly optimistic recommendations cast doubt on the effectiveness of this highly sought-after metric.\u2026",
-   "url": "https://finnhub.io/api/news?id=2eacc894ce2f36339fd7243b8fa43d4e8835116be28c92fc3800670b018b1d25",
-   "source": "Yahoo",
-   "published": "2026-11-10T13:30:01+00:00",
-   "tickers": [
-    "BSX"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "02c3e393f5dc",
-   "headline": "CytoDyn and QLHC Advance Leronlimab into Two New PRE-I-SPY Studies in Metastatic Triple-Negative Breast Cancer",
-   "summary": "VANCOUVER, Washington, Nov. 10, 2026 (GLOBE NEWSWIRE) -- CytoDyn Inc. (OTCQB: CYDY) (\"CytoDyn\" or the \"Company\"), a clinical-stage oncology company advancing leronlimab, a first-in-class humanized monoclonal antibody targeting the CCR5\u2026",
-   "url": "https://finnhub.io/api/news?id=98205075d64d5e46c0c6b2dddc485c3fca4189cd101cf1a425655610810b7546",
-   "source": "Yahoo",
-   "published": "2026-11-10T13:30:00+00:00",
-   "tickers": [
-    "MRK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "3ce7e4a83f4d",
-   "headline": "CRISPR Therapeutics to Present at the 2026 Jefferies Global Healthcare Conference",
-   "summary": "ZUG, Switzerland and BOSTON, Nov. 10, 2026 (GLOBE NEWSWIRE) -- CRISPR Therapeutics (Nasdaq: CRSP) today announced that members of its senior management team will participate in a fireside chat at the 2026 Jefferies Global Healthcare\u2026",
-   "url": "https://finnhub.io/api/news?id=f08d5d23af83272b5d36f740648b29569fb99b6b2d8c7e187d049ef6ce5b1406",
-   "source": "Yahoo",
-   "published": "2026-11-10T13:30:00+00:00",
-   "tickers": [
-    "CRSP"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "38edad977f95",
-   "headline": "Goldman Sachs Maintains Neutral on Ionis Pharmaceuticals, Lowers Price Target to $41",
-   "summary": "Goldman Sachs analyst Salveen Richter maintains Ionis Pharmaceuticals (NASDAQ:IONS) with a Neutral and lowers the price target from $58 to $41.",
-   "url": "https://finnhub.io/api/news?id=27c9b5155d925df2690b90147f6ec17812ee4844a1d9a7b0a7f6c632661befb2",
-   "source": "Benzinga",
-   "published": "2026-11-10T13:28:36+00:00",
-   "tickers": [
-    "IONS"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "d3867e8b33e2",
-   "headline": "Exelixis, Inc. (EXEL) Presents at 3rd Annual Guggenheim Healthcare Innovation Conference Transcript",
-   "summary": "Exelixis, Inc. (EXEL) 3rd Annual Guggenheim Healthcare Innovation Conference November 10, 2026 9:30 AM ESTCompany ParticipantsAndrew Peters - Senior Vice...",
-   "url": "https://finnhub.io/api/news?id=fa6b293c6a4317118728d3f9deac19f44ca3ab2a8170170672717b5bb1ddc071",
-   "source": "SeekingAlpha",
-   "published": "2026-11-10T13:20:55+00:00",
-   "tickers": [
-    "EXEL"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "56b8d054a3c1",
-   "headline": "CRMD to Acquire HRTX Assets for $223M Upfront to Expand Portfolio",
-   "summary": "CorMedix is set to acquire HRTX's commercial assets for $223 million upfront, adding four products, expanding its hospital reach and targeting significant cost synergies.",
-   "url": "https://finnhub.io/api/news?id=6fa7ef68e943bbc93e86ecb9334a20d868a358d2946cdb3d5e85f2c399c0e5e6",
-   "source": "Yahoo",
-   "published": "2026-11-10T13:17:00+00:00",
-   "tickers": [
-    "TGTX"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "biotech"
    ]
   }
  ]
