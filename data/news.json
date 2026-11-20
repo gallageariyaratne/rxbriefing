@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-20T12:47:36.744322+00:00",
+ "updated": "2026-11-20T13:02:55.820665+00:00",
  "quotes": {
   "ABBV": {
    "price": 283.54,
@@ -17,10 +17,6 @@
   "ALNY": {
    "price": 147.82,
    "change_pct": -1.06
-  },
-  "ALT": {
-   "price": 1.41,
-   "change_pct": 1.44
   },
   "AMGN": {
    "price": 438.82,
@@ -81,6 +77,10 @@
   "COR": {
    "price": 341.25,
    "change_pct": -2.03
+  },
+  "CRSP": {
+   "price": 38.93,
+   "change_pct": -3.14
   },
   "CVS": {
    "price": 80.04,
@@ -158,6 +158,10 @@
    "price": 380,
    "change_pct": -1.5
   },
+  "IDXX": {
+   "price": 689.65,
+   "change_pct": -1.26
+  },
   "ILMN": {
    "price": 200.66,
    "change_pct": -4.45
@@ -193,10 +197,6 @@
   "MCK": {
    "price": 1062.16,
    "change_pct": -2.05
-  },
-  "MDGL": {
-   "price": 396.74,
-   "change_pct": -0.34
   },
   "MDT": {
    "price": 100.61,
@@ -994,6 +994,21 @@
    ]
   },
   {
+   "id": "b4e22756fd06",
+   "headline": "Merck Announces TroFuse-015 Trial Evaluating Sacituzumab Tirumotecan (Sac-TMT) Met Primary Endpoint of Overall Survival (OS) in Third-Line or Later Locally Advanced Unresectable or Metastatic Gastroesophageal Adenocarcinoma",
+   "summary": "RAHWAY, N.J., November 20, 2026--TroFuse-015 Evaluating Sac-TMT Met Primary Endpoint of OS in 3rd-Line or Later Locally Adv. Unresectable or Metastatic Gastroesophageal Adenocarcinoma",
+   "url": "https://finnhub.io/api/news?id=190115b574441038e7ccba7c45bce1bc8cb741db289da9cbfbd13a83c65b9afa",
+   "source": "Yahoo",
+   "published": "2026-11-20T11:45:00+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "699966b2892d",
    "headline": "TD Cowen Names UnitedHealth Its 2027 Best Idea \u2014 Why Analyst Sees Mid-To-High-Teens EPS Growth For UNH Stock",
    "summary": "TD Cowen even raised its price target on the stock to $455 from $402, according to TheFly.",
@@ -1017,6 +1032,8 @@
    "source": "Yahoo",
    "published": "2026-11-20T11:09:42+00:00",
    "tickers": [
+    "CNC",
+    "ELV",
     "HUM",
     "UNH"
    ],
@@ -1033,6 +1050,7 @@
    "source": "Yahoo",
    "published": "2026-11-20T11:05:30+00:00",
    "tickers": [
+    "DVA",
     "HCA"
    ],
    "tag": "News",
@@ -1050,6 +1068,8 @@
    "tickers": [
     "ABBV",
     "JNJ",
+    "LLY",
+    "MRK",
     "UNH"
    ],
    "tag": "News",
@@ -1065,11 +1085,28 @@
    "source": "Yahoo",
    "published": "2026-11-20T11:05:16+00:00",
    "tickers": [
-    "GEHC"
+    "GEHC",
+    "IDXX",
+    "LLY"
    ],
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "15ec9049d5ce",
+   "headline": "What Avantis U.S. Large Cap Value ETF (AVLV) Bought: Elevance Leads on Nov. 18",
+   "summary": "The fund bought $173.7 million and sold $69.9 million in Qualcomm, lifting 164 positions while trimming just one.",
+   "url": "https://finnhub.io/api/news?id=6f3305701edc04feb5ca243eddb1b1c4439c1a20c5471e31fe01de6d2c23a887",
+   "source": "Yahoo",
+   "published": "2026-11-20T11:04:51+00:00",
+   "tickers": [
+    "ELV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -1097,6 +1134,8 @@
    "tickers": [
     "ABBV",
     "JNJ",
+    "LLY",
+    "MRK",
     "UNH"
    ],
    "tag": "News",
@@ -1143,6 +1182,21 @@
    "published": "2026-11-20T11:03:03+00:00",
    "tickers": [
     "JNJ"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "d97465f63f74",
+   "headline": "ETFs Are Net Sellers of Eli Lilly (LLY) on Nov. 18",
+   "summary": "ETFs sold $252.2 million of Eli Lilly (LLY) on Wednesday, with 39 buying and 20 selling.",
+   "url": "https://finnhub.io/api/news?id=15dce13857c0eb539065beff434b5411c648f95bd2f3bc3c6399bdfd47ace1cf",
+   "source": "Yahoo",
+   "published": "2026-11-20T11:02:21+00:00",
+   "tickers": [
+    "LLY"
    ],
    "tag": "News",
    "sectors": [
@@ -1326,6 +1380,7 @@
    "source": "SeekingAlpha",
    "published": "2026-11-20T07:21:05+00:00",
    "tickers": [
+    "CRSP",
     "PFE"
    ],
    "tag": "FDA",
@@ -41538,343 +41593,6 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "e2d8c00c976a",
-   "headline": "Incyte Corporation (INCY) Presents at 8th Annual Wolfe Research Healthcare Conference Transcript",
-   "summary": "Incyte Corporation (INCY) 8th Annual Wolfe Research Healthcare Conference November 10, 2026 10:00 AM ESTCompany ParticipantsWilliam Meury - CEO &...",
-   "url": "https://finnhub.io/api/news?id=1cc6782aee9e2efda7cce72ccbfcf3bf9f29f91275b1b9b53f0ce481845a6afe",
-   "source": "SeekingAlpha",
-   "published": "2026-11-10T13:00:59+00:00",
-   "tickers": [
-    "INCY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "a15ad92554a8",
-   "headline": "Investors Heavily Search Novo Nordisk A/S (NVO): Here is What You Need to Know",
-   "summary": "Novo Nordisk (NVO) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
-   "url": "https://finnhub.io/api/news?id=b1a01ad72bfe59e30715c3f18e0b06252fa7b4e0d0d747833fd201ac3c2c4e9e",
-   "source": "Yahoo",
-   "published": "2026-11-10T13:00:03+00:00",
-   "tickers": [
-    "NVO"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "00de77b288f3",
-   "headline": "Philip Seo, MD, Named Editor-in-Chief of The Merck Manuals",
-   "summary": "RAHWAY, N.J., Nov. 10, 2026 /PRNewswire/ -- Merck Manuals, a comprehensive digital health resource, announced today that Philip Seo, MD, has been named Editor-in-Chief. In this role, Dr. Seo will lead the next chapter of this long-trusted\u2026",
-   "url": "https://www.prnewswire.com/news-releases/philip-seo-md-named-editor-in-chief-of-the-merck-manuals-302933666.html",
-   "source": "PR Newswire",
-   "published": "2026-11-10T13:00:00+00:00",
-   "tickers": [
-    "MRK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "860a9ebeb33e",
-   "headline": "STAT+: Pharma is a \u2018mixed bag\u2019 when providing drug access to low- and middle-income countries, analysis finds",
-   "summary": "Many large pharmaceutical companies are taking steps to improve access to their medicines in low- and middle-income countries, but progress has been mixed.",
-   "url": "https://www.statnews.com/pharmalot/2026/11/10/access-to-key-drugs-mixed-in-poor-countries-cancer-diabetes/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-11-10T13:00:00+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "b15e47b3d81b",
-   "headline": "Johnson & Johnson Announces CAPLYTA (lumateperone) Shows Significant and Rapid Improvement in Bipolar Mania in Second Pivotal Phase 3 Study",
-   "summary": "Johnson & Johnson (NYSE: JNJ) today announced that Study 452, the second pivotal Phase 3 study evaluating CAPLYTA (lumateperone) for the treatment of manic episodes with or without mixed features in adults with bipolar I disorder, met its\u2026",
-   "url": "https://finnhub.io/api/news?id=5c8c2750ff2cf72178f7337d599ab77c8d5ea7a8f46c78be30acb1818c2ea1fd",
-   "source": "Yahoo",
-   "published": "2026-11-10T13:00:00+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "8c6d1370d23b",
-   "headline": "Vortex Energy Mobilizes Field Crews and Commences Ground Gravity Survey at Robinsons River Salt Project",
-   "summary": "Survey to add new gravity measurements west of the Cloverleaf target and within the eastern block ahead of 3D inversion and 2D seismic-profile modellingVANCOUVER, British Columbia, Nov. 10, 2026 (GLOBE NEWSWIRE) -- Vortex Energy Corp.\u2026",
-   "url": "https://finnhub.io/api/news?id=be2d4bf253082f0bc97d86340027801153aa108f682727fbe2660cccdd0bfb93",
-   "source": "Yahoo",
-   "published": "2026-11-10T13:00:00+00:00",
-   "tickers": [
-    "VRTX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "bbcd92b3501a",
-   "headline": "Agilent Expands Tumor Profiling Portfolio with SureSelect Cancer Research Pan Heme",
-   "summary": "SANTA CLARA, Calif., November 10, 2026--Agilent Technologies Inc. (NYSE: A) today announced the SureSelect Cancer Research Pan Heme, a hybrid capture-based next-generation sequencing (NGS) research solution for comprehensive genomic\u2026",
-   "url": "https://finnhub.io/api/news?id=aa2fcd4085c9f68e0ee8e7694d20cfb2e8d1040f09b2e4ee6f319e39912224ea",
-   "source": "Yahoo",
-   "published": "2026-11-10T13:00:00+00:00",
-   "tickers": [
-    "A"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "3b701037121e",
-   "headline": "GE HealthCare announces intent to establish MAGNUS Neuro Alliance to unlock new possibilities in MRI for neuroscience",
-   "summary": "CHICAGO, November 10, 2026--GE HealthCare (Nasdaq: GEHC) today announced the intent to establish a collaborative research network focused on advancing neuroscience research leveraging an ultra high-gradient head-only 3.0T MR system1. The\u2026",
-   "url": "https://finnhub.io/api/news?id=a9527c67a8540c01dd3125686899574faa3da1118afe326096d37ad6af37c22a",
-   "source": "Yahoo",
-   "published": "2026-11-10T13:00:00+00:00",
-   "tickers": [
-    "GEHC"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "62f9c9749cd6",
-   "headline": "Life doesn't slow down, and Foundayo\u2122 (orforglipron) patient Leanne Morgan is done waiting",
-   "summary": "Eli Lilly and Company (NYSE: LLY) and partner Leanne Morgan today announced the launch of Life Doesn't Slow Down, a new campaign for Lilly's Foundayo\u2122 (orforglipron), a once-daily prescription GLP-1 pill proven to help adults with\u2026",
-   "url": "https://finnhub.io/api/news?id=5abfd42db1f54e69b6c6b84f28dadd996fdec2bb0eb8e5d22414a46c34e6b3d4",
-   "source": "Yahoo",
-   "published": "2026-11-10T13:00:00+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "92d412a78d09",
-   "headline": "Waters Achieves FDA 510(k) Clearance for Ready-to-Use Flow Cytometry Clinical Tests for Leukemia and Lymphoma",
-   "summary": "Waters Corporation (NYSE: WAT) today announced that the BD OneFlow LST Test and BD OneFlow B-CLPD T1 Test have received U.S. Food and Drug Administration (FDA) 510(k) clearance. This clearance enables commercialization in the U.S. and\u2026",
-   "url": "https://finnhub.io/api/news?id=1f94abaf9d6c7b674c3a9690adf88776e7bc973f88aa8eb1f9a3d1f6d5921644",
-   "source": "Yahoo",
-   "published": "2026-11-10T13:00:00+00:00",
-   "tickers": [
-    "WAT"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "b950d1d10e78",
-   "headline": "Krystal Biotech to Present at Upcoming Investor Conferences",
-   "summary": "PITTSBURGH, Nov. 10, 2026 (GLOBE NEWSWIRE) -- Krystal Biotech, Inc. (the \u201cCompany\u201d) (NASDAQ: KRYS) today announced that management will take part in fireside chats and host investor meetings at the following conferences: Jefferies Global\u2026",
-   "url": "https://finnhub.io/api/news?id=7e3fa1f70e4bed4658fddc50f99aa6b07d9635fe37e1a03ab22112dcfe032b0f",
-   "source": "Yahoo",
-   "published": "2026-11-10T13:00:00+00:00",
-   "tickers": [
-    "KRYS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "f5109fd3261e",
-   "headline": "Google launches Gemini for Healthcare, and hospitals like Northwell hope it brings down your medical bill",
-   "summary": "Northwell CEO John D\u2019Angelo says scattered records lead to repeat scans and wasted spending. Google says its AI can connect them.",
-   "url": "https://finnhub.io/api/news?id=6b70eb79448439d87aaf607763a37d00d8cc56d3986998b85d835596ffb78fd5",
-   "source": "Yahoo",
-   "published": "2026-11-10T13:00:00+00:00",
-   "tickers": [
-    "HCA"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "6660a5adfdcc",
-   "headline": "Novartis ranks first place in 2026 Access to Medicine Index",
-   "summary": "Novartis retains first place ranking among 20 sector peers for efforts to improve access to medicinesFirst company to achieve No. 1 rank across all Technical Areas since Index began in 2008, achieving R&D score almost twice the sector\u2026",
-   "url": "https://finnhub.io/api/news?id=9e5320e3bf3ae00624a49eee922fbefd251115183eea7aabc65c718a21c93527",
-   "source": "Yahoo",
-   "published": "2026-11-10T13:00:00+00:00",
-   "tickers": [
-    "NVS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "010e66b2a3f6",
-   "headline": "Omniose Announces Its Acquisition by AstraZeneca",
-   "summary": "ST. LOUIS, November 10, 2026--Omniose, a preclinical biotechnology company, today announced that it has been acquired by AstraZeneca. The acquisition follows a productive three-year exclusive research collaboration with AstraZeneca.",
-   "url": "https://finnhub.io/api/news?id=cd714d230fda0e31ae6e8670c3267cfb4fbc8caf10c65e13fc7a82764dceb0c2",
-   "source": "Yahoo",
-   "published": "2026-11-10T13:00:00+00:00",
-   "tickers": [
-    "AZN"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "d7845c514329",
-   "headline": "Intellia Therapeutics to Present at Jefferies Global Healthcare Conference in London",
-   "summary": "CAMBRIDGE, Mass., Nov. 10, 2026 (GLOBE NEWSWIRE) -- Intellia Therapeutics, Inc. (Nasdaq: NTLA), a leading biopharmaceutical company focused on revolutionizing medicine leveraging CRISPR gene editing and other core technologies, today\u2026",
-   "url": "https://finnhub.io/api/news?id=7559cbb92b82bdb45dbebf92a2e193a2d66c2fa2b91e87b739ecb9bf4e63b020",
-   "source": "Yahoo",
-   "published": "2026-11-10T13:00:00+00:00",
-   "tickers": [
-    "NTLA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "bb9e41f92bf1",
-   "headline": "Survey Suggests a Simple Beverage Swap Can Inspire Healthier Habits Among Seniors",
-   "summary": "A survey of Alignment Health Plan members found that a healthier everyday alternative increased motivation to make positive lifestyle choices and left members feeling cared for by their health planORANGE, Calif., Nov. 10, 2026 (GLOBE\u2026",
-   "url": "https://finnhub.io/api/news?id=953289741a1fffd2f3f7cadd8010df2750128bba0419bd38138e2ab870612fb3",
-   "source": "Yahoo",
-   "published": "2026-11-10T13:00:00+00:00",
-   "tickers": [
-    "ALHC"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "2bc98e38f3bc",
-   "headline": "Amwell Will Support New Federally Funded Research to Improve Engagement and Outcomes in Mental Health Care for Veterans and Service Members",
-   "summary": "Two major federal awards totaling nearly $16.8 million will support research over a period of up to five years, including research examining how SilverCloud by Amwell, the digital cognitive behavioral therapy program on the Amwell\u2026",
-   "url": "https://finnhub.io/api/news?id=3b32c841e70d5c74d630a3bd2d053f0a99917b7e47cb3914188842f61666d7e6",
-   "source": "Yahoo",
-   "published": "2026-11-10T13:00:00+00:00",
-   "tickers": [
-    "AMWL"
-   ],
-   "tag": "News",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "c9cc13ddc8e7",
-   "headline": "American Well (AMWL) Shows Fast-paced Momentum But Is Still a Bargain Stock",
-   "summary": "American Well (AMWL) could be a great choice for investors looking to buy stocks that have gained strong momentum recently but are still trading at reasonable prices. It is one of the several stocks that made it through our 'Fast-Paced\u2026",
-   "url": "https://finnhub.io/api/news?id=411a0d5f8bec8dba74be7a21d02d904ae1f98e8b55f9e650339d8064f4e58068",
-   "source": "Yahoo",
-   "published": "2026-11-10T12:55:01+00:00",
-   "tickers": [
-    "AMWL"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "6c2b18d69665",
-   "headline": "Schr\u00f6dinger, Inc. (SDGR) Presents at 2026 UBS Global Healthcare Conference Transcript",
-   "summary": "Schr\u00c3\u00b6dinger, Inc. (SDGR) 2026 UBS Global Healthcare Conference November 10, 2026 9:30 AM ESTCompany ParticipantsRichie Jain - Executive VP, CFO &...",
-   "url": "https://finnhub.io/api/news?id=76713e8a955629d7e69716a54111e4e8391f6b7bab0d2a6d71ba99fcca88cee5",
-   "source": "SeekingAlpha",
-   "published": "2026-11-10T12:51:07+00:00",
-   "tickers": [
-    "SDGR"
-   ],
-   "tag": "News",
-   "sectors": [
-    "healthai"
-   ]
-  },
-  {
-   "id": "248e6cd86338",
-   "headline": "TD Cowen Maintains Buy on Ionis Pharmaceuticals, Lowers Price Target to $53",
-   "summary": "TD Cowen analyst Yaron Werber maintains Ionis Pharmaceuticals (NASDAQ:IONS) with a Buy and lowers the price target from $84 to $53.",
-   "url": "https://finnhub.io/api/news?id=946b359e5e1a288b7473b7f5ac75b6a57f5a23f20fc3777951ce75398486e511",
-   "source": "Benzinga",
-   "published": "2026-11-10T12:50:56+00:00",
-   "tickers": [
-    "IONS"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "2b10040e6d79",
-   "headline": "Why this year\u2019s flu season could be hitting teens and young adults hard",
-   "summary": "At least 1.7 million cases of flu have been reported so far this year. Here's what experts are expecting for the rest of flu season:",
-   "url": "https://www.statnews.com/2026/11/10/health-news-why-flu-season-could-hit-teens-and-young-adults-hard/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-11-10T12:49:35+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "26963ca9ab14",
-   "headline": "Oppenheimer Maintains Outperform on Ionis Pharmaceuticals, Lowers Price Target to $70",
-   "summary": "Oppenheimer analyst Jay Olson maintains Ionis Pharmaceuticals (NASDAQ:IONS) with a Outperform and lowers the price target from $85 to $70.",
-   "url": "https://finnhub.io/api/news?id=81a2c7cbe6ff0a3aeb94b9ddd532ce7d9d1c98b5d4d999785765400e91f3d0d5",
-   "source": "Benzinga",
-   "published": "2026-11-10T12:47:37+00:00",
-   "tickers": [
-    "IONS"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "65fd7af72167",
-   "headline": "Buy, Sell, or Hold? Tuesday\u2019s Top Upgrades and Downgrades: Cloudflare, Deckers Outdoors, DraftKings, MongoDB, Nike, Oneok, Philip Morris International, Riot Platforms, Wix.com, and More",
-   "summary": "A two-day rally built partly on short covering faces its first real test when October inflation data lands at 8:30 ET. Meanwhile, analysts flipped hard on Wix and DraftKings, while a surprise double upgrade lifted a bitcoin miner's target.",
-   "url": "https://finnhub.io/api/news?id=8c0e403d54f13a81bd3be0149efab9164e3023c1700591c38884145142a2219c",
-   "source": "Yahoo",
-   "published": "2026-11-10T12:47:06+00:00",
-   "tickers": [
-    "SRPT"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
    ]
   }
  ]
