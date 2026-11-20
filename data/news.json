@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-20T10:32:38.946407+00:00",
+ "updated": "2026-11-20T10:47:31.017686+00:00",
  "quotes": {
   "ABBV": {
    "price": 283.54,
@@ -266,6 +266,10 @@
    "price": 26.17,
    "change_pct": -5.08
   },
+  "PEN": {
+   "price": 320.01,
+   "change_pct": -0.18
+  },
   "PFE": {
    "price": 27.54,
    "change_pct": -1.85
@@ -317,10 +321,6 @@
   "TEM": {
    "price": 59.61,
    "change_pct": -6.3
-  },
-  "TGTX": {
-   "price": 64.88,
-   "change_pct": -1.88
   }
  },
  "tickers": {
@@ -1004,7 +1004,8 @@
    "source": "Yahoo",
    "published": "2026-11-20T09:03:26+00:00",
    "tickers": [
-    "BSX"
+    "BSX",
+    "PEN"
    ],
    "tag": "M&A",
    "sectors": [
@@ -1144,6 +1145,21 @@
    "tag": "News",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "1ba171beea9b",
+   "headline": "Omnicell: Turning A Net Cash Balance Sheet Into A Weapon Against Pyxis",
+   "summary": "Omnicell's Q3 2026 revenue and EBITDA beat guidance, and full-year non-GAAP EBITDA guidance rose to $187-193 million while revenue held flat.",
+   "url": "https://finnhub.io/api/news?id=e7f40f551bcc17e22f730c7cb0a837a50342cb1ebcfbab7275830ea48a790b3e",
+   "source": "SeekingAlpha",
+   "published": "2026-11-20T05:14:37+00:00",
+   "tickers": [
+    "OMCL"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
    ]
   },
   {
@@ -42512,66 +42528,6 @@
    "tag": "M&A",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "546a249dc9a4",
-   "headline": "Charles River agrees $470m deal for Frontage assets",
-   "summary": "The transaction includes two testing sites in Exton, employing roughly 340 staff, and a CLIA-certified central laboratory.",
-   "url": "https://finnhub.io/api/news?id=354e3674f9a768df85bf070fd92dba96d5c965ae1ad700b313d00bd21b1da100",
-   "source": "Yahoo",
-   "published": "2026-11-10T10:41:03+00:00",
-   "tickers": [
-    "CRL"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "a7c5ec4274c3",
-   "headline": "Barclays Maintains Underweight on Becton Dickinson, Raises Price Target to $195",
-   "summary": "Barclays analyst Christopher Pasquale maintains Becton Dickinson (NYSE:BDX) with a Underweight and raises the price target from $165 to $195.",
-   "url": "https://finnhub.io/api/news?id=6a14bfcc1e30aa87d862aea1ca2137e709ff5d0a733fec1cabb53262cd951593",
-   "source": "Benzinga",
-   "published": "2026-11-10T10:39:00+00:00",
-   "tickers": [
-    "BDX"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "d545c38c3d84",
-   "headline": "Regeneron Pharmaceuticals, Inc. (REGN) Discusses Genetic Center and CIDEB siRNA Development for MASH - Slideshow",
-   "summary": "2026-11-10. The following slide deck was published by Regeneron Pharmaceuticals, Inc.",
-   "url": "https://finnhub.io/api/news?id=0817781b89426e0f7ab31c5c131e5fe023db8d56cdee298f09bd858b0fe7cd3b",
-   "source": "SeekingAlpha",
-   "published": "2026-11-10T10:34:33+00:00",
-   "tickers": [
-    "REGN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "1fbda19c88fd",
-   "headline": "This Wix.com Analyst Turns Bearish; Here Are Top 5 Downgrades For Tuesday",
-   "summary": "Analysts downgraded Wix, DraftKings, Carlyle, Peabody Energy and Trex, cutting ratings and/or price targets.",
-   "url": "https://finnhub.io/api/news?id=bb000e5f0173584cc5bfc3be0409722a78ba6d5006991e993764c791bd6475b2",
-   "source": "Benzinga",
-   "published": "2026-11-10T10:33:06+00:00",
-   "tickers": [
-    "GMED"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
