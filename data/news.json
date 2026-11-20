@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-20T01:17:41.995070+00:00",
+ "updated": "2026-11-20T01:32:37.178788+00:00",
  "quotes": {
   "ABBV": {
    "price": 283.54,
@@ -266,6 +266,10 @@
    "price": 923.34,
    "change_pct": -2.35
   },
+  "RMD": {
+   "price": 236.88,
+   "change_pct": -2.36
+  },
   "ROIV": {
    "price": 38.96,
    "change_pct": 0.59
@@ -317,10 +321,6 @@
   "UHS": {
    "price": 174.98,
    "change_pct": -5.96
-  },
-  "UNH": {
-   "price": 330.48,
-   "change_pct": -5.55
   }
  },
  "tickers": {
@@ -962,6 +962,21 @@
    "tickers": [],
    "tag": "Clinical",
    "sectors": []
+  },
+  {
+   "id": "73242b4c91e4",
+   "headline": "ResMed Inc. Reduces Board Size to ten (10) and Approves Fiscal Year 2027 PSU Award Design",
+   "summary": "",
+   "url": "https://finnhub.io/api/news?id=5746f9401241632aea69d0dfd29f4ed5ee0a2ea50e6035645fa5c2764a7d3e3d",
+   "source": "Fintel",
+   "published": "2026-11-19T23:51:26+00:00",
+   "tickers": [
+    "RMD"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "medtech"
+   ]
   },
   {
    "id": "05860881bd2a",
@@ -43152,21 +43167,6 @@
    "tag": "News",
    "sectors": [
     "tools"
-   ]
-  },
-  {
-   "id": "3e21a88acc6f",
-   "headline": "Acadia Pharmaceuticals (ACAD) Cuts 2026 R And D Guidance, Is It Still 46% Undervalued?",
-   "summary": "Acadia Pharmaceuticals (ACAD) just paired fresh quarterly results with a guidance tweak and new Alzheimer\u2019s trial data, giving investors several moving parts to assess at the same time. The reaction has been harsh. Acadia Pharmaceuticals\u2019\u2026",
-   "url": "https://finnhub.io/api/news?id=b9e6ba16fb56efb1ed6e535c8ae28e5f1ce5e517e253bcc027873925114989c8",
-   "source": "Yahoo",
-   "published": "2026-11-10T01:17:14+00:00",
-   "tickers": [
-    "ACAD"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "biotech"
    ]
   }
  ]
