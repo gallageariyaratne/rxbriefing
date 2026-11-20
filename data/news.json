@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-20T00:17:49.033768+00:00",
+ "updated": "2026-11-20T00:32:37.268563+00:00",
  "quotes": {
   "ABBV": {
    "price": 283.54,
@@ -77,6 +77,10 @@
   "CNC": {
    "price": 65.58,
    "change_pct": -2.77
+  },
+  "COR": {
+   "price": 341.25,
+   "change_pct": -2.03
   },
   "CRL": {
    "price": 327.93,
@@ -317,10 +321,6 @@
   "UTHR": {
    "price": 559.1,
    "change_pct": -3.16
-  },
-  "VEEV": {
-   "price": 262.92,
-   "change_pct": -5.15
   }
  },
  "tickers": {
@@ -987,6 +987,36 @@
    "tag": "Financing",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "3f3e73fa6c53",
+   "headline": "Bernstein\u2019s $500 Target Says UnitedHealth\u2019s Selloff Went Too Far",
+   "summary": "Key TakeawaysUnitedHealth Group is 28% below its 52-week high after a federal plan to widen Medicare Advantage audits, and Bernstein reiterated its $500 price target on Nov. 19, 51% above the price.",
+   "url": "https://finnhub.io/api/news?id=344325c6d9ca90facc6349f73e8de561b8c76e484570de58b9066d9b821f91f6",
+   "source": "Yahoo",
+   "published": "2026-11-19T22:37:37+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "07917c40b797",
+   "headline": "Was There Any Sign Solstice Stock Would Run?",
+   "summary": "Today\u2019s big story: Could Anthropic Stock Fall 25.",
+   "url": "https://finnhub.io/api/news?id=49d75794613d93fac010d2b519582fb19033ddb0fe327ecf77a905573da575ed",
+   "source": "Yahoo",
+   "published": "2026-11-19T22:28:20+00:00",
+   "tickers": [
+    "COR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharmacy"
    ]
   },
   {
@@ -42868,21 +42898,6 @@
    "published": "2026-11-10T00:50:50+00:00",
    "tickers": [
     "IONS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "035a217221ea",
-   "headline": "Summit Therapeutics (SMMT) Stock Looks Richly Priced On Its 7x Run",
-   "summary": "Summit Therapeutics has been on a remarkable multi year run, yet with the stock recently closing at US$17.84 the real puzzle for investors is whether that price still lines up with its book value. A sharp move backed by high profile drug\u2026",
-   "url": "https://finnhub.io/api/news?id=1f05b963dc077dc475d18417144abc51c9ce8b3727f127f408a378005622f0d6",
-   "source": "Yahoo",
-   "published": "2026-11-10T00:21:23+00:00",
-   "tickers": [
-    "SMMT"
    ],
    "tag": "News",
    "sectors": [
