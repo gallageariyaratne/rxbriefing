@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-20T13:02:55.820665+00:00",
+ "updated": "2026-11-20T13:17:40.472599+00:00",
  "quotes": {
   "ABBV": {
    "price": 283.54,
@@ -122,10 +122,6 @@
    "price": 145.59,
    "change_pct": 0.31
   },
-  "GILD": {
-   "price": 166.53,
-   "change_pct": -1.45
-  },
   "GKOS": {
    "price": 238.1,
    "change_pct": 2.15
@@ -185,10 +181,6 @@
   "LEGN": {
    "price": 16.1,
    "change_pct": -0.92
-  },
-  "LH": {
-   "price": 368.88,
-   "change_pct": -0.51
   },
   "LLY": {
    "price": 1351.12,
@@ -321,6 +313,10 @@
   "ZBH": {
    "price": 101.47,
    "change_pct": -1.79
+  },
+  "ZTS": {
+   "price": 80.79,
+   "change_pct": -5.59
   }
  },
  "tickers": {
@@ -938,6 +934,36 @@
  },
  "stories": [
   {
+   "id": "a720d16c7229",
+   "headline": "AbbVie to Present at the Piper Sandler 38th Annual Healthcare Conference",
+   "summary": "NORTH CHICAGO, Ill., Nov. 20, 2026 /PRNewswire/ -- AbbVie (NYSE: ABBV) will participate in the Piper Sandler 38th Annual Healthcare Conference on Wednesday, December 2, 2026. Management will participate in a fireside chat at 7:30 a.m.\u2026",
+   "url": "https://www.prnewswire.com/news-releases/abbvie-to-present-at-the-piper-sandler-38th-annual-healthcare-conference-302944450.html",
+   "source": "PR Newswire",
+   "published": "2026-11-20T13:00:00+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "270f4273c9d3",
+   "headline": "Johnson & Johnson data in psoriatic arthritis (PsA) shows TREMFYA (guselkumab) is the only advanced therapy to demonstrate MRI-confirmed improvements in spinal pain and stiffness",
+   "summary": "TREMFYA showed statistically significant improvement in disease activity on the BASDAI score versus placebo, reflecting meaningful reductions in pain, stiffness, swelling and fatigue in a Phase 4 study TREMFYA demonstrated more than 2\u2026",
+   "url": "https://www.prnewswire.com/news-releases/johnson--johnson-data-in-psoriatic-arthritis-psa-shows-tremfya-guselkumab-is-the-only-advanced-therapy-to-demonstrate-mri-confirmed-improvements-in-spinal-pain-and-stiffness-302946249.html",
+   "source": "PR Newswire",
+   "published": "2026-11-20T13:00:00+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "c889fd9cccb5",
    "headline": "Danaher Collaborates with Microsoft to Make Scientific Instruments Agentically Connected and Laboratories More Intelligent",
    "summary": "Advancing autonomous science through smart scientific instruments and an interoperable agentic ecosystem WASHINGTON, Nov. 20, 2026 /PRNewswire/ -- Danaher Corporation (NYSE: DHR) today announced a strategic partnership with Microsoft to\u2026",
@@ -1216,6 +1242,21 @@
    "tag": "Clinical",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "ebf64e7dc526",
+   "headline": "Medtronic (MDT) Won FDA Clearance For Hugo In 3.5 Million US Surgeries",
+   "summary": "Medtronic (NYSE:MDT) received FDA clearance for its Hugo robotic-assisted surgery system for general surgery procedures in the U.S. The authorization expands Hugo's approved use beyond urologic surgery to a broader range of abdominal and\u2026",
+   "url": "https://finnhub.io/api/news?id=4e5f26ab639075bf6eb76d9615a8ebae11d5c6c93f478280589d4aa34d55c497",
+   "source": "Yahoo",
+   "published": "2026-11-20T10:13:15+00:00",
+   "tickers": [
+    "MDT"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -41389,210 +41430,6 @@
    "tag": "M&A",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "187dbcaf23a4",
-   "headline": "Vertex lays off 78 Crinetics staffers amid $10B integration",
-   "summary": "Vertex has decided to lay off 78 employees at Crinetics Pharmaceuticals following its $10 billion acquisition of the endocrine disease drug developer.",
-   "url": "https://www.fiercepharma.com/pharma/vertex-lays-78-crinetics-staffers-amid-10b-integration",
-   "source": "Fierce Pharma",
-   "published": "2026-11-10T13:15:24.192359+00:00",
-   "tickers": [
-    "VRTX"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "b828a77a6d23",
-   "headline": "Phillips Medisize strikes deal to expand UK inhalation production",
-   "summary": "Phillips Medisize, a Molex subsidiary CDMO that focuses on inhalation products and other medical and diagnostic products, is growing its manufacturing footprint in the U.K.",
-   "url": "https://www.fiercepharma.com/manufacturing/phillips-medisize-expands-uk-inhalation-production-footprint-deal",
-   "source": "Fierce Pharma",
-   "published": "2026-11-10T13:15:24.190482+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "c8271e675a0e",
-   "headline": "Adaptive Biotechnologies Corporation (ADPT) Hits Fresh High: Is There Still Room to Run?",
-   "summary": "Adaptive Biotechnologies (ADPT) is at a 52-week high, but can investors hope for more gains in the future? We take a look at the company's fundamentals for clues.",
-   "url": "https://finnhub.io/api/news?id=fe0b128e9df29184444014ebe3ebeef3a8306d10e64fbed2e9f95f01783b6baa",
-   "source": "Yahoo",
-   "published": "2026-11-10T13:15:02+00:00",
-   "tickers": [
-    "REGN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "7fef86b3f3df",
-   "headline": "4 Commercial-Stage Biotechs Poised for Sustained Revenue Growth",
-   "summary": "TGTX, BCRX, INSM and MDGL are expanding product sales through rising demand, broader patient access and new market opportunities.",
-   "url": "https://finnhub.io/api/news?id=541dbe469dc3a0d7a4ed4ce543bad807371706d13f215dd4dbc49e347f574e47",
-   "source": "Yahoo",
-   "published": "2026-11-10T13:13:00+00:00",
-   "tickers": [
-    "INSM",
-    "MDGL",
-    "TGTX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "9e4afbdda2b3",
-   "headline": "Molina Healthcare Sees Path to $9.50 EPS in 2027, but Medicaid Risks Remain",
-   "summary": "Molina Healthcare (NYSE:MOH) is approaching 2027 with cautious optimism about a recovery in earnings, but uncertainty remains around Medicaid enrollment and whether payment rates will keep pace with medical costs, Chief Financial Officer\u2026",
-   "url": "https://finnhub.io/api/news?id=0ba208b857bc041b40f99226670b982bdf1ac578fb726fb1105bc2bb54e57b10",
-   "source": "Yahoo",
-   "published": "2026-11-10T13:12:26+00:00",
-   "tickers": [
-    "MOH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "db337f3845d3",
-   "headline": "Can Cardinal Health Stock Repeat Its Last Five Years?",
-   "summary": "For questions about this article or underlying research, email help@trefis.com.",
-   "url": "https://finnhub.io/api/news?id=5d07a6ebbe04b39fe4ff35b44c0fc06e9073d402ae7d06a86ee9892b48a7b5c8",
-   "source": "Yahoo",
-   "published": "2026-11-10T13:11:29+00:00",
-   "tickers": [
-    "BDX",
-    "CAH",
-    "COR",
-    "CVS",
-    "HSIC",
-    "MCK",
-    "MDT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "aa03fdc40ebd",
-   "headline": "Can You Still Buy Merck Stock Today?",
-   "summary": "For questions about this article or underlying research, email help@trefis.com.",
-   "url": "https://finnhub.io/api/news?id=92157bceddaffe1cf14d9ce78b9bc6ead3f63fa2a1ab784479d88acdb1080496",
-   "source": "Yahoo",
-   "published": "2026-11-10T13:11:28+00:00",
-   "tickers": [
-    "ABBV",
-    "BMY",
-    "JNJ",
-    "LLY",
-    "MRK",
-    "PFE"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "92c0ac7a87f6",
-   "headline": "IRTC Q3 2026 deep dive: market reacts to cautious outlook after VitalConnect acquisition",
-   "summary": "Medical technology company iRhythm Technologies (NASDAQ:IRTC) met Wall Street\u2019s revenue expectations in Q3 2026, with sales up 14.9% year on year to $221.6 million. On the other hand, the company\u2019s full-year revenue guidance of $892.5\u2026",
-   "url": "https://finnhub.io/api/news?id=aae5c31244d894acb2f95668d0576293ad67b4f48157cfd227277f67b54fbe3c",
-   "source": "Yahoo",
-   "published": "2026-11-10T13:09:36+00:00",
-   "tickers": [
-    "IRTC"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "c91dcf8d9d76",
-   "headline": "GoodRx Brings Prescription Pricing Intelligence to Google Cloud\u2019s Gemini for Healthcare",
-   "summary": "SANTA MONICA, Calif., November 10, 2026--GoodRx (Nasdaq: GDRX), the trusted platform for prescription access and affordability in the U.S., today announced it is a launch partner for Google Cloud\u2019s Gemini for healthcare. Through the\u2026",
-   "url": "https://finnhub.io/api/news?id=c5273c8b8f867d3edcfae903041f11d475604fb45e62cf3fe6dfb950f185c3d8",
-   "source": "Yahoo",
-   "published": "2026-11-10T13:05:00+00:00",
-   "tickers": [
-    "GDRX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharmacy"
-   ]
-  },
-  {
-   "id": "3781331f85c7",
-   "headline": "Morgan Stanley Maintains Overweight on Ionis Pharmaceuticals, Lowers Price Target to $75",
-   "summary": "Morgan Stanley analyst Michael Ulz maintains Ionis Pharmaceuticals (NASDAQ:IONS) with a Overweight and lowers the price target from $104 to $75.",
-   "url": "https://finnhub.io/api/news?id=86f5703c506c369fd28a065bdc53e7f99ffdbb9b6db408f5e78e8c15b1ca0f2c",
-   "source": "Benzinga",
-   "published": "2026-11-10T13:04:52+00:00",
-   "tickers": [
-    "IONS"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "dc3517f90d1b",
-   "headline": "Premarket movers: Sanmina, AAON surge; Hims & Hers, Rocket Lab fall",
-   "summary": "Investing.com - U.S. stock index futures were mixed on Tuesday, with Nasdaq 100 futures under pressure as investors assessed fresh developments surrounding Nvidia Chief Executive Jensen Huang and details of Anthropic\u2019s initial public\u2026",
-   "url": "https://finnhub.io/api/news?id=0c2d50283756dc1dfc638f9c73569cf14cb42426797b2bd701d6f1d42c3ee282",
-   "source": "Yahoo",
-   "published": "2026-11-10T13:04:16+00:00",
-   "tickers": [
-    "HIMS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "fbcdbf2e811d",
-   "headline": "Morgan Stanley Maintains Equal-Weight on Hims & Hers Health, Lowers Price Target to $25",
-   "summary": "Morgan Stanley analyst Craig Hettenbach maintains Hims & Hers Health (NYSE:HIMS) with a Equal-Weight and lowers the price target from $28 to $25.",
-   "url": "https://finnhub.io/api/news?id=29c089a5cde2e429c7fc12c44ff86d58024281a2d8579d40d921572067e77460",
-   "source": "Benzinga",
-   "published": "2026-11-10T13:04:09+00:00",
-   "tickers": [
-    "HIMS"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "8181423f49e0",
-   "headline": "NVAX Q3 2026 deep dive: Sanofi milestone and cost controls shape outlook",
-   "summary": "Vaccine biotechnology company Novavax (NASDAQ:NVAX) reported revenue ahead of Wall Street\u2019s expectations in Q3 2026, but sales fell by 3% year on year to $68.3 million. The company\u2019s full-year revenue guidance of $400 million at the\u2026",
-   "url": "https://finnhub.io/api/news?id=18b45cc95eaa3a8475368cc4502c8af064ce3a2c59cc77f32ef48230e9e2496e",
-   "source": "Yahoo",
-   "published": "2026-11-10T13:01:36+00:00",
-   "tickers": [
-    "SNY"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
