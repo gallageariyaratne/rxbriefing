@@ -1,7 +1,23 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-20T12:32:39.051555+00:00",
+ "updated": "2026-11-20T12:40:17.444485+00:00",
  "quotes": {
+  "ABBV": {
+   "price": 283.54,
+   "change_pct": -0.86
+  },
+  "ABT": {
+   "price": 103.87,
+   "change_pct": -0.58
+  },
+  "ALHC": {
+   "price": 6.5,
+   "change_pct": -3.27
+  },
+  "ALNY": {
+   "price": 147.82,
+   "change_pct": -1.06
+  },
   "ALT": {
    "price": 1.41,
    "change_pct": 1.44
@@ -270,10 +286,6 @@
    "price": 59.61,
    "change_pct": -6.3
   },
-  "TGTX": {
-   "price": 64.88,
-   "change_pct": -1.88
-  },
   "THC": {
    "price": 263.59,
    "change_pct": -2.86
@@ -305,6 +317,10 @@
   "VRTX": {
    "price": 520.66,
    "change_pct": -2.94
+  },
+  "WAY": {
+   "price": 27.09,
+   "change_pct": -1.63
   }
  },
  "tickers": {
@@ -921,6 +937,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "c889fd9cccb5",
+   "headline": "Danaher Collaborates with Microsoft to Make Scientific Instruments Agentically Connected and Laboratories More Intelligent",
+   "summary": "Advancing autonomous science through smart scientific instruments and an interoperable agentic ecosystem WASHINGTON, Nov. 20, 2026 /PRNewswire/ -- Danaher Corporation (NYSE: DHR) today announced a strategic partnership with Microsoft to\u2026",
+   "url": "https://www.prnewswire.com/news-releases/danaher-collaborates-with-microsoft-to-make-scientific-instruments-agentically-connected-and-laboratories-more-intelligent-302946263.html",
+   "source": "PR Newswire",
+   "published": "2026-11-20T12:30:00+00:00",
+   "tickers": [
+    "DHR"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "tools"
+   ]
+  },
   {
    "id": "3e87809e534a",
    "headline": "This week in charts: Biotech investors\u2019 China bets are already paying off",
@@ -41806,36 +41837,6 @@
    "published": "2026-11-10T12:40:21+00:00",
    "tickers": [
     "COR"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharmacy"
-   ]
-  },
-  {
-   "id": "97e78a50cbd7",
-   "headline": "Tenet Sets Dates for Annual General Meeting of Shareholders and Filing of Third Quarter 2026 Financial Results",
-   "summary": "Toronto, Ontario--(Newsfile Corp. - November 10, 2026) - Tenet Fintech Group Inc. (CSE: PKK) (OTCQB: PKKFF) (FSE: P0T) (\"Tenet\" or the \"Company\"), an innovative analytics service provider, owner and operator of the Cubeler Business Hub,\u2026",
-   "url": "https://finnhub.io/api/news?id=f06c3a1a1a58f354351afd9fd69fc8e74b5438764932b68fb56bdf975f793fdf",
-   "source": "Yahoo",
-   "published": "2026-11-10T12:37:00+00:00",
-   "tickers": [
-    "THC"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "4edb89cec8b0",
-   "headline": "JP Morgan Maintains Neutral on Cardinal Health, Raises Price Target to $286",
-   "summary": "JP Morgan analyst Lisa Gill maintains Cardinal Health (NYSE:CAH) with a Neutral and raises the price target from $260 to $286.",
-   "url": "https://finnhub.io/api/news?id=ee1bc395c6e7c15d5784cdcf53541dd7ea0112f185e0b360ea79612866960397",
-   "source": "Benzinga",
-   "published": "2026-11-10T12:33:12+00:00",
-   "tickers": [
-    "CAH"
    ],
    "tag": "Analyst",
    "sectors": [
