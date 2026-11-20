@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-20T03:02:58.289985+00:00",
+ "updated": "2026-11-20T03:17:30.972206+00:00",
  "quotes": {
   "ABBV": {
    "price": 283.54,
@@ -61,6 +61,10 @@
   "BMY": {
    "price": 58.34,
    "change_pct": -2.05
+  },
+  "BNTX": {
+   "price": 81.38,
+   "change_pct": -2.26
   },
   "BSX": {
    "price": 42.99,
@@ -317,10 +321,6 @@
   "TECH": {
    "price": 72.7,
    "change_pct": -0.07
-  },
-  "TEM": {
-   "price": 59.61,
-   "change_pct": -6.3
   }
  },
  "tickers": {
@@ -2172,7 +2172,8 @@
    "source": "Yahoo",
    "published": "2026-11-19T18:17:41+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -2518,6 +2519,7 @@
    "source": "Yahoo",
    "published": "2026-11-19T17:17:00+00:00",
    "tickers": [
+    "BNTX",
     "MRK",
     "MRNA",
     "PFE"
@@ -3862,7 +3864,8 @@
    "published": "2026-11-19T14:19:53+00:00",
    "tickers": [
     "AMGN",
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -3893,6 +3896,7 @@
    "published": "2026-11-19T14:18:00+00:00",
    "tickers": [
     "LLY",
+    "NVO",
     "PFE"
    ],
    "tag": "News",
@@ -43487,66 +43491,6 @@
    "tag": "News",
    "sectors": [
     "medtech"
-   ]
-  },
-  {
-   "id": "ab2ac9e7f133",
-   "headline": "Xenon Pharmaceuticals Q3 Earnings Call Highlights",
-   "summary": "Xenon Pharmaceuticals (NASDAQ:XENE) expects pivotal depression study results in December, earlier than previously projected, while preparing for a potential U.S. launch of its lead epilepsy drug and advancing two pain treatments into\u2026",
-   "url": "https://finnhub.io/api/news?id=327333ef730f551cc26b8ff69ab2fcf5242c0e6de7a6ff007c489ff2eb0b028a",
-   "source": "Yahoo",
-   "published": "2026-11-10T03:14:34+00:00",
-   "tickers": [
-    "BMY"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "c081e25796db",
-   "headline": "Liquidia (LQDA) Stock Looks Rich Relative To Its Earnings Power",
-   "summary": "Liquidia has delivered a very strong share price run in recent years, and with the stock last closing at US$47.87 the key question is whether that price can be explained by the company\u2019s earnings power. After such a move, you need to ask\u2026",
-   "url": "https://finnhub.io/api/news?id=715e99bba84870107f21e4314dd945cd069247c5caf0451cfd6e86168da720d7",
-   "source": "Yahoo",
-   "published": "2026-11-10T03:11:54+00:00",
-   "tickers": [
-    "UTHR"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "2a23e3a59e9d",
-   "headline": "TG Therapeutics, Inc. Q3 2026 Earnings Call Summary",
-   "summary": "Moby summary of TG Therapeutics, Inc.'s Q3 2026 earnings call",
-   "url": "https://finnhub.io/api/news?id=6e41d5f1ab165be4fdde32f2b919901ded33dbbbb5c7be97e0a4a070d1dae1ec",
-   "source": "Yahoo",
-   "published": "2026-11-10T03:11:53+00:00",
-   "tickers": [
-    "TGTX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "e2b5aefb6022",
-   "headline": "Is Arrowhead Pharmaceuticals (ARWR) Worth Its Price After UK Approval?",
-   "summary": "Arrowhead Pharmaceuticals has had a bumpy share price journey lately, which puts a fresh spotlight on one simple question for investors who follow drug developers that rely heavily on future product uptake: is today\u2019s valuation supported\u2026",
-   "url": "https://finnhub.io/api/news?id=315592d264d0ae0784601eeba95a7eb8eebb0a957747715c139665b92c27bcb3",
-   "source": "Yahoo",
-   "published": "2026-11-10T03:11:21+00:00",
-   "tickers": [
-    "ARWR"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "biotech"
    ]
   }
  ]
