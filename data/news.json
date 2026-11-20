@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-20T01:47:35.041017+00:00",
+ "updated": "2026-11-20T02:03:05.411450+00:00",
  "quotes": {
   "ABBV": {
    "price": 283.54,
@@ -49,10 +49,6 @@
   "BDX": {
    "price": 212.68,
    "change_pct": -1.57
-  },
-  "BIIB": {
-   "price": 247.13,
-   "change_pct": -1.7
   },
   "BMRN": {
    "price": 61.42,
@@ -938,6 +934,21 @@
  },
  "stories": [
   {
+   "id": "96b7fa0497ef",
+   "headline": "Boston Scientific announces pricing of $3.0 billion and \u20ac4.25 billion offerings of senior notes",
+   "summary": "MARLBOROUGH, Mass., Nov. 19, 2026 /PRNewswire/ -- Boston Scientific Corporation (the \"Company\") (NYSE: BSX) announced today that it has priced a public offering of $3,000,000,000 aggregate principal amount of U.S. dollar-denominated notes\u2026",
+   "url": "https://www.prnewswire.com/news-releases/boston-scientific-announces-pricing-of-3-0-billion-and-4-25-billion-offerings-of-senior-notes-302946308.html",
+   "source": "PR Newswire",
+   "published": "2026-11-20T01:45:00+00:00",
+   "tickers": [
+    "BSX"
+   ],
+   "tag": "Financing",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "b64052a283d0",
    "headline": "Illumina Wins Virtual Cell Challenge, Powered by Billion Cell Atlas",
    "summary": "The unique biological dataset combined with a new CellularAI algorithm wins Illumina a first-place finish in the 2026 Virtual Cell Challenge, hosted by Arc Institute SAN DIEGO, Nov. 19, 2026 /PRNewswire/ -- Illumina, Inc. (NASDAQ: ILMN)\u2026",
@@ -1021,6 +1032,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "145f17a49046",
+   "headline": "Revolution Medicines Presents Updated Phase 1/2 Data for RASONQUE\u00ae (daraxonrasib) Plus Chemotherapy in First-Line Metastatic Pancreatic Cancer at ENA 2026",
+   "summary": "With additional patients and longer follow-up, the combination of RASONQUE plus gemcitabine and nab-paclitaxel demonstrated deep and durable responses in the first-line treatment setting Results support the ongoing Phase 3 RASolute 303\u2026",
+   "url": "https://finnhub.io/api/news?id=71bbef6b490678b676eb0ef72df57494a21534e8547001290f79aa3f2450284b",
+   "source": "Yahoo",
+   "published": "2026-11-19T23:05:00+00:00",
+   "tickers": [
+    "RVMD"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -1446,6 +1472,7 @@
    "source": "SeekingAlpha",
    "published": "2026-11-19T20:24:48+00:00",
    "tickers": [
+    "LLY",
     "ZTS"
    ],
    "tag": "Earnings",
@@ -1585,7 +1612,8 @@
    "source": "Yahoo",
    "published": "2026-11-19T19:40:02+00:00",
    "tickers": [
-    "ILMN"
+    "ILMN",
+    "NTRA"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -2824,6 +2852,21 @@
    ]
   },
   {
+   "id": "f195ef9e7e87",
+   "headline": "Billionaire Druckenmiller\u2019s New AI Warning and Top 10 Stock Picks",
+   "summary": "Billionaire Stanley Druckenmiller\u2019s latest stock portfolio is out, but it\u2019s his explosive new prediction about artificial intelligence that is sending shockwaves through Wall Street. Druckenmiller Says He\u2019s \u201cNot Playing\u201d in the Stock\u2026",
+   "url": "https://finnhub.io/api/news?id=00ada86e8ccc5d565f1ddb91c53ebe31af3dec8e307cc546b16811746ec3ac5b",
+   "source": "Yahoo",
+   "published": "2026-11-19T15:25:06+00:00",
+   "tickers": [
+    "RVMD"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "7ff2ad5f5461",
    "headline": "Philips Unveils Skylight Device Manager to Boost Ultrasound Efficiency",
    "summary": "PHG launches cloud-based Skylight Device Manager to optimize ultrasound fleet management, boost equipment utilization and streamline healthcare operations.",
@@ -3482,6 +3525,21 @@
    ]
   },
   {
+   "id": "258b5780ce43",
+   "headline": "Billionaire Stanley Druckenmiller\u2019s New AI Warning and Top 5 Stock Picks",
+   "summary": "Billionaire Stanley Druckenmiller\u2019s latest stock portfolio is out, but it\u2019s his explosive new prediction about artificial intelligence that is sending shockwaves through Wall Street. Druckenmiller Says He\u2019s \u201cNot Playing\u201d in the Stock\u2026",
+   "url": "https://finnhub.io/api/news?id=12a6a2f473b041b39321c3b8c35925b2d62ccd18a7443a3ae5f88539c56402e4",
+   "source": "Yahoo",
+   "published": "2026-11-19T14:17:48+00:00",
+   "tickers": [
+    "NTRA"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "fcc95a0f9456",
    "headline": "CDMO Lotte inks commercial production deal as work on South Korean plant wraps",
    "summary": "Lotte Biologics, which was established in 2022, inked a major manufacturing deal with an unnamed pharmaceutical company as the South Korean CDMO gears up for commercial production at its new multi-billion-dollar Songdo Bio Campus near\u2026",
@@ -3581,6 +3639,21 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "3df11e51bc5a",
+   "headline": "West Virginia University Health System Selects Waystar's AI-Powered Platform to Transform End-to-End Revenue Cycle Operations",
+   "summary": "Waystar (Nasdaq: WAY), a leading provider of healthcare payment software, today announced that West Virginia University Health System, which operates as WVU Medicine and is one of the nation's leading academic health systems, has selected\u2026",
+   "url": "https://finnhub.io/api/news?id=3c1d35a7fbb8f96a5adda0bd0ea6554bed8834dca4a455eb73d121f8b65fc2ae",
+   "source": "Yahoo",
+   "published": "2026-11-19T14:00:00+00:00",
+   "tickers": [
+    "WAY"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
    ]
   },
   {
@@ -43197,36 +43270,6 @@
    "tag": "Earnings",
    "sectors": [
     "healthit"
-   ]
-  },
-  {
-   "id": "78605ffc6d78",
-   "headline": "Immunovant, Inc. Q2 2027 Earnings Call Summary",
-   "summary": "Moby summary of Immunovant, Inc.'s Q2 2027 earnings call",
-   "url": "https://finnhub.io/api/news?id=192b2123cc61ae3399c8c3c7ef3eaaab4756a919aec175e9b38d96d2bc16af80",
-   "source": "Yahoo",
-   "published": "2026-11-10T01:55:37+00:00",
-   "tickers": [
-    "IMVT"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "5f940255a72c",
-   "headline": "IQVIA: 3 Key Takeaways for Long-Term Investors",
-   "summary": "Margin expansion despite cost headwinds reveals how operational discipline is fueling profitability gains.",
-   "url": "https://finnhub.io/api/news?id=52803b999a075bcd995a2f2af305e7993dc8b66ae52541b175b88e5cc82b3eda",
-   "source": "Yahoo",
-   "published": "2026-11-10T01:52:04+00:00",
-   "tickers": [
-    "IQV"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
    ]
   }
  ]
