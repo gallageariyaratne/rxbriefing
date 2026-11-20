@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-20T00:02:48.411217+00:00",
+ "updated": "2026-11-20T00:17:49.033768+00:00",
  "quotes": {
   "ABBV": {
    "price": 283.54,
@@ -234,6 +234,10 @@
    "price": 289.92,
    "change_pct": 0.15
   },
+  "NVO": {
+   "price": 38.87,
+   "change_pct": -1.42
+  },
   "NVS": {
    "price": 151.22,
    "change_pct": -2.57
@@ -317,10 +321,6 @@
   "VEEV": {
    "price": 262.92,
    "change_pct": -5.15
-  },
-  "VRTX": {
-   "price": 520.66,
-   "change_pct": -2.94
   }
  },
  "tickers": {
@@ -938,6 +938,17 @@
  },
  "stories": [
   {
+   "id": "9f136b80d7db",
+   "headline": "STAT+: Big drugmakers tell House committee they will halt clinical trials at some hospitals in China",
+   "summary": "Big drugmakers tell U.S. House committee they will halt clinical trials at some hospitals in China.",
+   "url": "https://www.statnews.com/pharmalot/2026/11/19/china-pharma-biotech-clinical-trials-security-risk-patents-drug-development/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-11-20T00:00:00+00:00",
+   "tickers": [],
+   "tag": "Clinical",
+   "sectors": []
+  },
+  {
    "id": "05860881bd2a",
    "headline": "Edwards Lifesciences Corporation Enters into $750 million Amended and Restated Credit Agreement",
    "summary": "",
@@ -998,7 +1009,8 @@
    "published": "2026-11-19T22:06:09+00:00",
    "tickers": [
     "ABT",
-    "CNC"
+    "CNC",
+    "DXCM"
    ],
    "tag": "News",
    "sectors": [
@@ -1541,6 +1553,7 @@
    "published": "2026-11-19T18:41:34+00:00",
    "tickers": [
     "LLY",
+    "NVO",
     "SNY"
    ],
    "tag": "Analyst",
@@ -1822,6 +1835,7 @@
    "source": "ChartMill",
    "published": "2026-11-19T17:36:10+00:00",
    "tickers": [
+    "CI",
     "CNC",
     "DVA",
     "UHS",
@@ -2414,6 +2428,7 @@
    "source": "ChartMill",
    "published": "2026-11-19T15:36:04+00:00",
    "tickers": [
+    "CI",
     "CNC",
     "DVA",
     "UHS"
@@ -42872,67 +42887,6 @@
    "tag": "News",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "608d9a6b8376",
-   "headline": "Danaher CEO Sees Faster Growth Ahead, With AI and Acquisitions in Focus",
-   "summary": "Danaher (NYSE:DHR) President and CEO Julie Sawyer Montgomery said the company is aiming for faster core growth and market share gains through stronger commercial execution, innovation and acquisitions, as it pursues a leadership position\u2026",
-   "url": "https://finnhub.io/api/news?id=ec0dc56310611c72080e4b11ba67bb53dae7059daee83e0559c84cc8ee0b63ad",
-   "source": "Yahoo",
-   "published": "2026-11-10T00:14:33+00:00",
-   "tickers": [
-    "DHR"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "47192caa378f",
-   "headline": "Ionis: 3 Key Takeaways for Long-Term Investors",
-   "summary": "Ionis's $1.9 billion cash pile buys time, but it is still to be seen whether patient switches to DAWNZERA can offset a slower TRYNGOLZA launch.",
-   "url": "https://finnhub.io/api/news?id=218097abae598ceb325de45a5f77dacb177ef107f0eeba67da3ae3c58f258054",
-   "source": "Yahoo",
-   "published": "2026-11-10T00:13:38+00:00",
-   "tickers": [
-    "IONS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "7a208892392f",
-   "headline": "Q3 Earnings Season Winners: 3 Companies Raising Guidance",
-   "summary": "Raised guidance is always a welcome development for investors, reflecting improving business trends and management confidence in the outlook.",
-   "url": "https://finnhub.io/api/news?id=c2c9c97ba3ef1e5de2ace6c004b19a2003bddd434a163484a9df1ce37fa4bbb2",
-   "source": "Yahoo",
-   "published": "2026-11-10T00:12:00+00:00",
-   "tickers": [
-    "JNJ",
-    "UNH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "6b63b9cc86df",
-   "headline": "Hims & Hers Health, Inc. (HIMS) Q3 2026 Earnings Call Transcript",
-   "summary": "Hims & Hers Health, Inc. (HIMS) Q3 2026 Earnings Call November 9, 2026 5:00 PM ESTCompany ParticipantsWilliam Newby - Senior Director of Investor...",
-   "url": "https://finnhub.io/api/news?id=3ece43169e68f791ec071a5089137949f479b491d5d9d18b3b14a5f3b82e4cc5",
-   "source": "SeekingAlpha",
-   "published": "2026-11-10T00:04:02+00:00",
-   "tickers": [
-    "HIMS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "healthit"
    ]
   }
  ]
