@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-20T11:02:54.979096+00:00",
+ "updated": "2026-11-20T11:17:45.148709+00:00",
  "quotes": {
   "ABBV": {
    "price": 283.54,
@@ -94,10 +94,6 @@
    "price": 341.25,
    "change_pct": -2.03
   },
-  "CRL": {
-   "price": 327.93,
-   "change_pct": -1.6
-  },
   "CVS": {
    "price": 80.04,
    "change_pct": -1.61
@@ -185,10 +181,6 @@
   "ILMN": {
    "price": 200.66,
    "change_pct": -4.45
-  },
-  "INCY": {
-   "price": 115.87,
-   "change_pct": -1.64
   },
   "INSM": {
    "price": 144.46,
@@ -321,6 +313,14 @@
   "TEM": {
    "price": 59.61,
    "change_pct": -6.3
+  },
+  "TGTX": {
+   "price": 64.88,
+   "change_pct": -1.88
+  },
+  "THC": {
+   "price": 263.59,
+   "change_pct": -2.86
   }
  },
  "tickers": {
@@ -950,6 +950,21 @@
    "tag": "Clinical",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "f55f4c040a53",
+   "headline": "AbbVie Is Near Its High. Piper Sandler Sees Another 23%",
+   "summary": "Key TakeawaysPiper Sandler raised its AbbVie price target to $349 from $303 and kept its Overweight rating, 23% above the Nov. 19 close of $283.",
+   "url": "https://finnhub.io/api/news?id=a69fc3bb5645414440b561e7b2dfa47e539dea5a4ecd7737e0301d0af67072dd",
+   "source": "Yahoo",
+   "published": "2026-11-20T09:37:50+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -42195,280 +42210,6 @@
    "tag": "Earnings",
    "sectors": [
     "healthit"
-   ]
-  },
-  {
-   "id": "14837f613276",
-   "headline": "Hims & Hers Plans November Launch of Peptide Treatments as Higher Costs Weigh on Profit Outlook",
-   "summary": "Hims & Hers Health (NYSE:HIMS) announced plans to introduce additional peptide-based treatments in November following changes to US regulatory restrictions, while also reducing its full-year core profit forecast as higher operating costs\u2026",
-   "url": "https://finnhub.io/api/news?id=6b978e3c6713f0c6efbb9ebe56b5a16d63e4659beebeb6a7a11093d8907a0eb8",
-   "source": "Yahoo",
-   "published": "2026-11-10T11:16:11+00:00",
-   "tickers": [
-    "HIMS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "e2122eab47e6",
-   "headline": "What Does Novo Nordisk (CPSE:NOVO B) FDA Vision Warning Mean For Investors?",
-   "summary": "Novo Nordisk (CPSE:NOVO B) faces a new US FDA safety warning on Wegovy and other GLP-1 drugs over rare vision loss risk. The FDA is asking all GLP-1 manufacturers to add label warnings about nonarteritic anterior ischemic optic\u2026",
-   "url": "https://finnhub.io/api/news?id=23c9b4f2eceb3623d75fb2ed1be6250e91cb0319a2e01e75996059c8d0117447",
-   "source": "Yahoo",
-   "published": "2026-11-10T11:13:36+00:00",
-   "tickers": [
-    "NVO"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "cb99c0e48da7",
-   "headline": "Wells Fargo Maintains Overweight on Ionis Pharmaceuticals, Lowers Price Target to $80",
-   "summary": "Wells Fargo analyst Yanan Zhu maintains Ionis Pharmaceuticals (NASDAQ:IONS) with a Overweight and lowers the price target from $95 to $80.",
-   "url": "https://finnhub.io/api/news?id=fd94ad298ddb5e1907f2b3bc4c85d86e14448dd75219d6dfa88930bae998a41c",
-   "source": "Benzinga",
-   "published": "2026-11-10T11:12:03+00:00",
-   "tickers": [
-    "IONS"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "bba5035c323c",
-   "headline": "CI Q3 2026 deep dive: specialty pharmacy, cost initiatives, and model transition shape outlook",
-   "summary": "Health insurance company Cigna (NYSE:CI) reported Q3 2026 results topping the market\u2019s revenue expectations, with sales up 6.1% year on year to $73.79 billion. Its non-GAAP profit of $7.98 per share was 6.3% above analysts\u2019 consensus\u2026",
-   "url": "https://finnhub.io/api/news?id=6046812b68a8b8f04f45ced5310698d707b622f92e00c30de91f61a003540c48",
-   "source": "Yahoo",
-   "published": "2026-11-10T11:09:36+00:00",
-   "tickers": [
-    "CI"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "042757b1b081",
-   "headline": "Gilead Sciences Stock Hits a New All-Time High: Is it Still a Good Buy?",
-   "summary": "The healthcare stock has soared past the S&P 500 this year as its results have been strong in recent quarters.",
-   "url": "https://finnhub.io/api/news?id=404199c9437d3ae77da507c13be20776715fd15bfe8152a4d1251c61c309b56e",
-   "source": "Yahoo",
-   "published": "2026-11-10T11:09:02+00:00",
-   "tickers": [
-    "GILD",
-    "LLY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "dcbdeb2c175b",
-   "headline": "New Abbott Panbio\u2122 COVID-19/Flu A&B Self-Test Helps Canadian Families Make Informed Decisions During Respiratory Illness Season",
-   "summary": "As respiratory viruses begin circulating across Canada, many families are left wondering what to do when illness strikes at home. To help provide greater clarity, Abbott (NYSE: ABT) today announced availability of its Panbio\u2122 COVID-19/Flu\u2026",
-   "url": "https://finnhub.io/api/news?id=403e0a225c7d396925590917ec234bcd1971ab62fb61d85b9742cdc2b55f1f66",
-   "source": "Yahoo",
-   "published": "2026-11-10T11:08:00+00:00",
-   "tickers": [
-    "ABT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "d32fccd5e938",
-   "headline": "iShares MSCI USA Momentum Factor ETF (MTUM) Adds AMD and Micron on Nov. 6",
-   "summary": "The fund bought $178.4 million more than it sold, lifting 123 positions and trimming one.",
-   "url": "https://finnhub.io/api/news?id=0f4b38adc06171cde41e699ffcc63088c03ebe2fe9c7b069e93f9404191f5bac",
-   "source": "Yahoo",
-   "published": "2026-11-10T11:06:06+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "41cf39dc75e5",
-   "headline": "What State Street SPDR S&P MidCap 400 ETF (MDY) Sold: TechnipFMC Leads on Friday",
-   "summary": "The fund sold $228.5 million of stock on Friday, trimming 399 positions and adding to none.",
-   "url": "https://finnhub.io/api/news?id=4cd6af11947c245ec68f5ecddd72e95d4d07d1deed5282a031aaa5f51b604b1d",
-   "source": "Yahoo",
-   "published": "2026-11-10T11:05:57+00:00",
-   "tickers": [
-    "THC",
-    "UTHR"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "1a55e8b3511d",
-   "headline": "What Invesco S&P 500 Equal Weight ETF (RSP) Bought: Moderna Leads on Nov. 6",
-   "summary": "The fund added $291.5 million in gross purchases on Friday, increasing all 503 positions and selling nothing.",
-   "url": "https://finnhub.io/api/news?id=79e6c963eac81d33c75424bc85a72408ccc9b9611730e2a21e893c9b0ff3287e",
-   "source": "Yahoo",
-   "published": "2026-11-10T11:05:32+00:00",
-   "tickers": [
-    "MRNA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "c7145ca36f1d",
-   "headline": "Spdr Dow Jones Industrial Average ETF (DIA) Buys $36 Million More GS on Friday",
-   "summary": "The fund added $358.4 million across all 30 holdings, with Goldman Sachs its largest purchase at $36.0 million.",
-   "url": "https://finnhub.io/api/news?id=de9ee641492486ee72d144c5b24e232ed1622ba8d9dfad7f46506b2b93fb172e",
-   "source": "Yahoo",
-   "published": "2026-11-10T11:05:30+00:00",
-   "tickers": [
-    "AMGN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "e81296f22c21",
-   "headline": "iShares Russell Mid-Cap (IWR) Adds Fox and Marathon Petroleum on Nov. 6",
-   "summary": "The fund bought $273.2 million of stock and sold nothing, lifting 796 positions, with Fox Class A the largest addition at $36.3 million.",
-   "url": "https://finnhub.io/api/news?id=a35d2e2b7c0a42bcdb27f9cc7671c1a4ed2e2772e9307c953953d8265c6232a6",
-   "source": "Yahoo",
-   "published": "2026-11-10T11:05:26+00:00",
-   "tickers": [
-    "MRNA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "94baa58e0f17",
-   "headline": "What iShares Russell 2000 Index Fund (IWM) Sold: Glaukos Leads on Nov. 6",
-   "summary": "The fund sold $1.02 billion more than it bought, cutting 1,860 positions and adding to just one.",
-   "url": "https://finnhub.io/api/news?id=cccd017c6f0b52875cdecb64cc3b7f583506c98e4d1c89daee5169123b8db0b5",
-   "source": "Yahoo",
-   "published": "2026-11-10T11:04:41+00:00",
-   "tickers": [
-    "GKOS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "27dfc71f56fa",
-   "headline": "Humana Partners With Evolent Health, American Oncology Network To Introduce New Cancel Care Model In 8 U.S. States",
-   "summary": "Humana Inc., in collaboration with Evolent Health, Inc. and American Oncology Network (AON), today announced the launch of a new cancer care model designed to improve the quality, timeliness and affordability of cancer",
-   "url": "https://finnhub.io/api/news?id=468dd166f6b3f19394e9cb031025d530b5855b2580d7b6b50e4734f821225054",
-   "source": "Benzinga",
-   "published": "2026-11-10T11:03:33+00:00",
-   "tickers": [
-    "EVH",
-    "HUM"
-   ],
-   "tag": "News",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "13b0b297a409",
-   "headline": "Alnylam And Regeneron Says Data Published In The The New England Journal Of Medicine, Reports Up To 80% Reduction In Liver Fat Sustained For 36 Weeks After Single CIDEBsiRNA Dose In MASLD Patients",
-   "summary": "Single administration of CIDEBsiRNA resulted in rapid, deep and durable reductions in liver fat by up to 80% that were sustained through 36 weeksData shared in oral presentation at AASLD The Liver Meeting\u00ae and",
-   "url": "https://finnhub.io/api/news?id=a4275a3b2d471e34a3ccaa0db1c9df6f83f0eec99212dd4c43744588ebdbb518",
-   "source": "Benzinga",
-   "published": "2026-11-10T11:02:41+00:00",
-   "tickers": [
-    "ALNY",
-    "REGN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "3e9b9ac5e3ae",
-   "headline": "Ronda E Stryker Executes Sell Order: Offloads $178.92M In Stryker Stock",
-   "summary": "On November 9, a recent SEC filing unveiled that Ronda E Stryker, Director at Stryker (NYSE:SYK) made an insider sell. What Happened: A Form 4 filing from the U.S. Securities and Exchange Commission on Monday showed",
-   "url": "https://finnhub.io/api/news?id=73d4d377fde15befe9eaf20a013ea0a3fceb0d1c3738703b7e6b658f75ee0e72",
-   "source": "Benzinga",
-   "published": "2026-11-10T11:02:06+00:00",
-   "tickers": [
-    "SYK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "b19320617498",
-   "headline": "Ionis Pharmaceuticals Inc (IONS) (Q3 2026) Earnings Call Highlights: DAWNZERA Momentum and ...",
-   "summary": "Ionis Pharmaceuticals Inc (IONS) posted 55% Q3 revenue growth on DAWNZERA strength and pipeline wins, but a slower TRYNGOLZA launch trimmed guidance and pushed cash flow breakeven to 2029.",
-   "url": "https://finnhub.io/api/news?id=7409b5635b828c66ee9c6ce9beeb0f6fb946bf5434327f2511fa9d39f0cc4b5d",
-   "source": "Yahoo",
-   "published": "2026-11-10T11:02:01+00:00",
-   "tickers": [
-    "IONS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "872537fe48c2",
-   "headline": "CAH Q3 CY2026 deep dive: specialty growth and contract renewals drive guidance increase",
-   "summary": "Healthcare distributor and services company Cardinal Health (NYSE:CAH) reported calendar Q3 2026 (fiscal Q1 2027) results topping the market\u2019s revenue expectations, with sales up 5.5% year on year to $67.51 billion. Its non-GAAP profit of\u2026",
-   "url": "https://finnhub.io/api/news?id=bd7111ed7a1e5273c38d8b6a95698aefd531c5773062a75846be5b242db5e6dd",
-   "source": "Yahoo",
-   "published": "2026-11-10T11:01:36+00:00",
-   "tickers": [
-    "CAH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharmacy"
-   ]
-  },
-  {
-   "id": "31307457db53",
-   "headline": "DaVita Inc. (DVA) Presents at 8th Annual Wolfe Research Healthcare Conference Transcript",
-   "summary": "DaVita Inc. (DVA) 8th Annual Wolfe Research Healthcare Conference November 10, 2026 8:40 AM ESTCompany ParticipantsJoel Ackerman - CFO &...",
-   "url": "https://finnhub.io/api/news?id=01dc74d765b0cb32a8a7d0571a6ced767af338375c47adf0409a422f1f89e80f",
-   "source": "SeekingAlpha",
-   "published": "2026-11-10T11:01:29+00:00",
-   "tickers": [
-    "DVA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
    ]
   }
  ]
