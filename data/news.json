@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-20T11:32:38.609811+00:00",
+ "updated": "2026-11-20T11:47:43.862002+00:00",
  "quotes": {
   "ABBV": {
    "price": 283.54,
@@ -9,6 +9,10 @@
   "ABT": {
    "price": 103.87,
    "change_pct": -0.58
+  },
+  "ALHC": {
+   "price": 6.5,
+   "change_pct": -3.27
   },
   "ALNY": {
    "price": 147.82,
@@ -177,10 +181,6 @@
   "INSM": {
    "price": 144.46,
    "change_pct": 20.58
-  },
-  "IQV": {
-   "price": 250.55,
-   "change_pct": -2.83
   },
   "ISRG": {
    "price": 407.24,
@@ -950,6 +950,21 @@
    "tag": "Clinical",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "ec4f2f3446b6",
+   "headline": "Forget UnitedHealth: Humana Has More to Lose From CMS\u2019s Medicare Advantage Audit Crackdown",
+   "summary": "Key TakeawaysUnitedHealth fell 5% on Tuesday after CMS proposed applying Medicare Advantage audit findings to whole contracts, going back to payment year 2018. Humana and CVS Health fell with it, and Humana dropped another 13% on Wednesday.",
+   "url": "https://finnhub.io/api/news?id=3ae616607580bc984f6a969ef11aa61ebfb2ca4b796fe9431ac2a919227b80ce",
+   "source": "Yahoo",
+   "published": "2026-11-20T09:45:57+00:00",
+   "tickers": [
+    "ALHC"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -42105,21 +42120,6 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "8551fd7e76ea",
-   "headline": "PRVA Q3 2026 deep dive: acquisitions and provider growth drive expansion, profitability lags expectations",
-   "summary": "Healthcare tech company Privia Health Group (NASDAQ:PRVA) reported Q3 2026 results beating Wall Street\u2019s revenue expectations, with sales up 13.2% year on year to $657 million. The company\u2019s full-year revenue guidance of $2.53 billion at\u2026",
-   "url": "https://finnhub.io/api/news?id=bf1f6d060420eca92244884983622c907c16581028c872f65f97a4270104e28f",
-   "source": "Yahoo",
-   "published": "2026-11-10T11:41:36+00:00",
-   "tickers": [
-    "PRVA"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "healthit"
    ]
   }
  ]
