@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-20T12:40:17.444485+00:00",
+ "updated": "2026-11-20T12:47:36.744322+00:00",
  "quotes": {
   "ABBV": {
    "price": 283.54,
@@ -85,10 +85,6 @@
   "CVS": {
    "price": 80.04,
    "change_pct": -1.61
-  },
-  "DGX": {
-   "price": 259.09,
-   "change_pct": -0.23
   },
   "DHR": {
    "price": 227.56,
@@ -321,6 +317,10 @@
   "WAY": {
    "price": 27.09,
    "change_pct": -1.63
+  },
+  "ZBH": {
+   "price": 101.47,
+   "change_pct": -1.79
   }
  },
  "tickers": {
@@ -994,6 +994,38 @@
    ]
   },
   {
+   "id": "699966b2892d",
+   "headline": "TD Cowen Names UnitedHealth Its 2027 Best Idea \u2014 Why Analyst Sees Mid-To-High-Teens EPS Growth For UNH Stock",
+   "summary": "TD Cowen even raised its price target on the stock to $455 from $402, according to TheFly.",
+   "url": "https://finnhub.io/api/news?id=8ade82e307a319140969a398a20eef7f24ec585deb604d9e717905282704498a",
+   "source": "Yahoo",
+   "published": "2026-11-20T11:37:53+00:00",
+   "tickers": [
+    "HUM",
+    "UNH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "c4536d9a43dd",
+   "headline": "Can UnitedHealth Group Stock Rally 50% After This Dip?",
+   "summary": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks.",
+   "url": "https://finnhub.io/api/news?id=39673e0bd6f2bfb2237f3296bbf5cc67e962c4ef6ac7122ba712ac3e0f9e8898",
+   "source": "Yahoo",
+   "published": "2026-11-20T11:09:42+00:00",
+   "tickers": [
+    "HUM",
+    "UNH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "6d558b3937a9",
    "headline": "Do You Like Cash? Consider DaVita Stock",
    "summary": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks.",
@@ -1017,11 +1049,42 @@
    "published": "2026-11-20T11:05:27+00:00",
    "tickers": [
     "ABBV",
-    "JNJ"
+    "JNJ",
+    "UNH"
    ],
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "4aaca87c772f",
+   "headline": "Invesco S&P 500 Equal Weight (RSP) Sells $0.4 Million of NVR on Nov. 18",
+   "summary": "The $102.85 billion fund sold $136.0 million of stock and bought nothing, trimming 502 positions.",
+   "url": "https://finnhub.io/api/news?id=745063346f55b2b7e268bb161d13c50e97a158d99f2c46a7395c765fb477a9dd",
+   "source": "Yahoo",
+   "published": "2026-11-20T11:05:16+00:00",
+   "tickers": [
+    "GEHC"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "a01f9aa35e47",
+   "headline": "What iShares Russell 2000 (IWM) Sold: Glaukos Leads on Wednesday",
+   "summary": "The fund sold $187.7 million of stock on Wednesday, trimming 1,874 positions and adding none.",
+   "url": "https://finnhub.io/api/news?id=06065e4de25e8f2ad67eb885fb6a88d812568ac9f15c7bfffb390133c99692be",
+   "source": "Yahoo",
+   "published": "2026-11-20T11:04:36+00:00",
+   "tickers": [
+    "GKOS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -1033,7 +1096,23 @@
    "published": "2026-11-20T11:04:15+00:00",
    "tickers": [
     "ABBV",
-    "JNJ"
+    "JNJ",
+    "UNH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "f0231db47139",
+   "headline": "What SPDR Dow Jones Industrial Avg ETF (DIA) Bought: Goldman Leads on Nov. 18",
+   "summary": "The fund added $536.8 million in new buying across 29 positions, led by a $57.0 million purchase of Goldman Sachs.",
+   "url": "https://finnhub.io/api/news?id=0d0b01b866e6da4e3cfbc0f4e9db5dc722cf4bded58c96dc683a8dd18e2e2855",
+   "source": "Yahoo",
+   "published": "2026-11-20T11:03:57+00:00",
+   "tickers": [
+    "AMGN"
    ],
    "tag": "News",
    "sectors": [
@@ -1094,7 +1173,9 @@
    "published": "2026-11-20T09:45:57+00:00",
    "tickers": [
     "ALHC",
-    "CVS"
+    "CVS",
+    "HUM",
+    "UNH"
    ],
    "tag": "Policy",
    "sectors": [
@@ -1235,6 +1316,21 @@
    "tag": "Analyst",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "0fd0fec6d1c2",
+   "headline": "Vertex Pharmaceuticals: Look For Povetacicept Approval In 2 Weeks As Next Catalyst",
+   "summary": "Analyst rates Vertex Pharmaceuticals Incorporated a Buy: CF is an estimated 60% of market value, and its pipeline could support long-term market outperformance.",
+   "url": "https://finnhub.io/api/news?id=4e14bdd5c328ef8e07a89d1f02bf29b7641e7212018e3e47b4052612a9bd6aa4",
+   "source": "SeekingAlpha",
+   "published": "2026-11-20T07:21:05+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -41779,68 +41875,6 @@
    "tag": "Analyst",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "1efc01382857",
-   "headline": "JP Morgan Maintains Overweight on McKesson, Raises Price Target to $1255",
-   "summary": "JP Morgan analyst Lisa Gill maintains McKesson (NYSE:MCK) with a Overweight and raises the price target from $1042 to $1255.",
-   "url": "https://finnhub.io/api/news?id=cd3a30eb3e08d0a13d2f8bf856e29ab2d6385fc8eea26640afb60782c7079afb",
-   "source": "Benzinga",
-   "published": "2026-11-10T12:44:56+00:00",
-   "tickers": [
-    "MCK"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharmacy"
-   ]
-  },
-  {
-   "id": "8d947151644c",
-   "headline": "JP Morgan Maintains Neutral on Humana, Raises Price Target to $484",
-   "summary": "JP Morgan analyst Lisa Gill maintains Humana (NYSE:HUM) with a Neutral and raises the price target from $393 to $484.",
-   "url": "https://finnhub.io/api/news?id=a7e5fa2a45a1775012bf13de318a74d30a3dc0108576e110d26e1309a3ffa58c",
-   "source": "Benzinga",
-   "published": "2026-11-10T12:43:59+00:00",
-   "tickers": [
-    "HUM"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "cc8f0efc08bf",
-   "headline": "The FDA Ordered GLP-1 Vision-Loss Warnings For Some Products. Shares of Eli Lilly and Novo Nordisk Were Unfazed.",
-   "summary": "The updated labeling covers Mounjaro, Zepbound, Ozempic and Wegovy.",
-   "url": "https://finnhub.io/api/news?id=f42a54cd55a595edb261e44212b431cb5b51d5a17b71026dd21bd4ef51519b00",
-   "source": "Yahoo",
-   "published": "2026-11-10T12:41:02+00:00",
-   "tickers": [
-    "LLY",
-    "NVO",
-    "VKTX"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "27c785cdf9a2",
-   "headline": "JP Morgan Maintains Overweight on Cencora, Raises Price Target to $413",
-   "summary": "JP Morgan analyst Lisa Gill maintains Cencora (NYSE:COR) with a Overweight and raises the price target from $390 to $413.",
-   "url": "https://finnhub.io/api/news?id=845cf10bb0220595a6a946079095a22cdd8092e8827ea6d3d0a9aee26b499284",
-   "source": "Benzinga",
-   "published": "2026-11-10T12:40:21+00:00",
-   "tickers": [
-    "COR"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharmacy"
    ]
   }
  ]
