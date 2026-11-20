@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-20T10:02:57.881063+00:00",
+ "updated": "2026-11-20T10:17:40.237429+00:00",
  "quotes": {
   "ABBV": {
    "price": 283.54,
@@ -286,10 +286,6 @@
    "price": 236.88,
    "change_pct": -2.36
   },
-  "ROIV": {
-   "price": 38.96,
-   "change_pct": 0.59
-  },
   "RVMD": {
    "price": 159.43,
    "change_pct": -0.24
@@ -321,6 +317,10 @@
   "TEM": {
    "price": 59.61,
    "change_pct": -6.3
+  },
+  "TGTX": {
+   "price": 64.88,
+   "change_pct": -1.88
   }
  },
  "tickers": {
@@ -42570,111 +42570,6 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "ee89576e6313",
-   "headline": "Stock Market Today: Nvidia Board Opens Probe Into Jensen Huang as Wall Street Licks Its AI Wounds",
-   "summary": "The Nasdaq jumped 2.7% as bargain hunters returned to AI chip stocks, while Nvidia fell on concerns over CEO Jensen Huang. Anthropic starts its IPO roadshow at a lower valuation, oil slides, and Hims & Hers and Skydance report.",
-   "url": "https://finnhub.io/api/news?id=c7b58852fe9a39b1e586871347531e3bfead8b29b4b84f72295d9e1f127fc156",
-   "source": "ChartMill",
-   "published": "2026-11-10T10:15:02+00:00",
-   "tickers": [
-    "HIMS"
-   ],
-   "tag": "Legal",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "98a9308da714",
-   "headline": "Evercore ISI Group Maintains Outperform on TG Therapeutics, Lowers Price Target to $71",
-   "summary": "Evercore ISI Group analyst Michael DiFiore maintains TG Therapeutics (NASDAQ:TGTX) with a Outperform and lowers the price target from $73 to $71.",
-   "url": "https://finnhub.io/api/news?id=44830bd0d8db4394543c020e5b10ef8db52cfb35bf1bedc73d2e5f5cf5427f53",
-   "source": "Benzinga",
-   "published": "2026-11-10T10:12:47+00:00",
-   "tickers": [
-    "TGTX"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "62dcf1a92761",
-   "headline": "DaVita Sees Growth and Drug Savings Offsetting 2027 Reimbursement Pressure",
-   "summary": "DaVita (NYSE:DVA) expects stronger dialysis treatment growth and pharmaceutical cost savings to help offset reimbursement pressures in 2027, though Chief Financial Officer Joel Ackerman said changes in patients\u2019 insurance coverage will\u2026",
-   "url": "https://finnhub.io/api/news?id=34eb0ab95399ea87a2271ccb9f98b11f3ddcb5734db36b9d3428f026005f5e44",
-   "source": "Yahoo",
-   "published": "2026-11-10T10:12:19+00:00",
-   "tickers": [
-    "DVA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "c6b642e1db23",
-   "headline": "Legend Biotech Q3 2026 Earnings Call Transcript",
-   "summary": "Legend Biotech (NASDAQ:LEGN) reported third-quarter financial results on Tuesday. The transcript from the company\u2019s third-quarter earnings call has been provided below.This transcript is brought to you by Benzinga APIs.",
-   "url": "https://finnhub.io/api/news?id=a07eabd08147b8d5d5a65a93b2a3c5824938458247ffde537b73ff962592497c",
-   "source": "Benzinga",
-   "published": "2026-11-10T10:11:34+00:00",
-   "tickers": [
-    "LEGN"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "11396cf3983b",
-   "headline": "10x Genomics' Xenium Platform To Be Deployed By Fudan University Shanghai Cancer Center, Shanghai Precision Diagnostics In 24-Month Trial",
-   "summary": "10x Genomics, Inc. (Nasdaq: TXG), the life science technology leader focused on accelerating science and advancing human health, today announced that Fudan University Shanghai Cancer Center (FUSCC) and Shanghai",
-   "url": "https://finnhub.io/api/news?id=29ba96403c6f7616b042b8613a5ccc76adc659f1ac70208cc64f92cfe139b4a2",
-   "source": "Benzinga",
-   "published": "2026-11-10T10:07:12+00:00",
-   "tickers": [
-    "TXG"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "8b0e69f0e301",
-   "headline": "Tempus\u2019 Partner Blood Cancer United Launches Dare To Dream REALworld: AML, Patient-Centered Initiative Co-Founded With Rally Foundation For Childhood Cancer Research",
-   "summary": "Dare to Dream Project will build a real-world data set that can inform pediatric AML research and future clinical trials while helping families better understand their health informationWASHINGTON, Nov. 10, 2026",
-   "url": "https://finnhub.io/api/news?id=7f952a603a1b840c875b9164f6256f48d63462f79a37dfd0a86ef6f91a5008a6",
-   "source": "Benzinga",
-   "published": "2026-11-10T10:07:12+00:00",
-   "tickers": [
-    "TEM"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "healthai"
-   ]
-  },
-  {
-   "id": "a43d595b7c98",
-   "headline": "Company News for Nov 10, 2026",
-   "summary": "Companies In The Article Are:KKR,NRG,TGTX,AMG",
-   "url": "https://finnhub.io/api/news?id=f247a8413f2a406b175f2eff0e74b93f97b0cc9d9c17b16d27dcefcd0d2064ad",
-   "source": "Yahoo",
-   "published": "2026-11-10T10:02:00+00:00",
-   "tickers": [
-    "TGTX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
    ]
   }
  ]
