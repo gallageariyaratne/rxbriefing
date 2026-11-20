@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-20T01:02:53.422661+00:00",
+ "updated": "2026-11-20T01:17:41.995070+00:00",
  "quotes": {
   "ABBV": {
    "price": 283.54,
@@ -21,6 +21,10 @@
   "ALNY": {
    "price": 147.82,
    "change_pct": -1.06
+  },
+  "ALT": {
+   "price": 1.41,
+   "change_pct": 1.44
   },
   "AMGN": {
    "price": 438.82,
@@ -317,10 +321,6 @@
   "UNH": {
    "price": 330.48,
    "change_pct": -5.55
-  },
-  "UTHR": {
-   "price": 559.1,
-   "change_pct": -3.16
   }
  },
  "tickers": {
@@ -938,6 +938,21 @@
  },
  "stories": [
   {
+   "id": "b64052a283d0",
+   "headline": "Illumina Wins Virtual Cell Challenge, Powered by Billion Cell Atlas",
+   "summary": "The unique biological dataset combined with a new CellularAI algorithm wins Illumina a first-place finish in the 2026 Virtual Cell Challenge, hosted by Arc Institute SAN DIEGO, Nov. 19, 2026 /PRNewswire/ -- Illumina, Inc. (NASDAQ: ILMN)\u2026",
+   "url": "https://www.prnewswire.com/news-releases/illumina-wins-virtual-cell-challenge-powered-by-billion-cell-atlas-302946270.html",
+   "source": "PR Newswire",
+   "published": "2026-11-20T01:00:00+00:00",
+   "tickers": [
+    "ILMN"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "9f136b80d7db",
    "headline": "STAT+: Big drugmakers tell House committee they will halt clinical trials at some hospitals in China",
    "summary": "Big drugmakers tell U.S. House committee they will halt clinical trials at some hospitals in China.",
@@ -1034,6 +1049,21 @@
    "tag": "Analyst",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "6a2f731ee1af",
+   "headline": "Two Deals and a Higher Target: UBS\u2019s Call on McKesson (MCK)",
+   "summary": "We just published a list of the Morgan Stanley\u2019s Vintage Values 2027: 10 Stocks Analysts See Climbing Further and McKesson (NYSE:MCK) ranked 9th on this list. Bloomberg reported on November 13, 2026, that one bank\u2019s strategists expect the\u2026",
+   "url": "https://finnhub.io/api/news?id=595c385fcdf58e62b0c490d2fa1a834160303a1c4fa8c9da1020aff723eb4ff2",
+   "source": "Yahoo",
+   "published": "2026-11-19T22:33:31+00:00",
+   "tickers": [
+    "MCK"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "pharmacy"
    ]
   },
   {
@@ -1166,6 +1196,7 @@
    "published": "2026-11-19T21:52:13+00:00",
    "tickers": [
     "LLY",
+    "REGN",
     "SNY"
    ],
    "tag": "News",
@@ -2450,6 +2481,21 @@
    ]
   },
   {
+   "id": "8d08e7c0424a",
+   "headline": "Why AstraZeneca Could Make Sense Through ETFs Now",
+   "summary": "Owning AstraZeneca directly means your results lean heavily on what happens to that single business. Simply Wall St highlights that the group has a high level of debt, and that late stage research such as the large transthyretin\u2026",
+   "url": "https://finnhub.io/api/news?id=55c4318bcb63205e9b3838288aded4e9fcff6eea0bbc180e5236b0d072631b91",
+   "source": "Yahoo",
+   "published": "2026-11-19T16:09:04+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "6c5e697e6dec",
    "headline": "Alnylam Pharmaceuticals (ALNY) Stock Dropped, So What Is Driving Attention Now?",
    "summary": "Alnylam Pharmaceuticals (ALNY) just achieved a new regulatory milestone, with the FDA approving Livsayis for generalized myasthenia gravis. This approval triggers a US$25 million payment and future royalties from Regeneron. Even with the\u2026",
@@ -2882,6 +2928,7 @@
    "published": "2026-11-19T15:10:00+00:00",
    "tickers": [
     "ALNY",
+    "AZN",
     "REGN"
    ],
    "tag": "FDA",
@@ -4030,6 +4077,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "98cdd95a988f",
+   "headline": "Altimmune to Participate in the 9th Annual Evercore Healthcare Conference",
+   "summary": "MORRISTOWN, N.J., Nov. 19, 2026 (GLOBE NEWSWIRE) -- Altimmune, Inc. (Nasdaq: ALT), a biopharmaceutical company advancing pemvidutide, an investigational balanced 1:1 glucagon/GLP-1 dual receptor agonist, in serious liver diseases, today\u2026",
+   "url": "https://finnhub.io/api/news?id=80564aa00c63f8dc2bbe288b42d869983cbe68f21714e3719743c03a60b384ca",
+   "source": "Yahoo",
+   "published": "2026-11-19T13:00:00+00:00",
+   "tickers": [
+    "ALT"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -43105,52 +43167,6 @@
    "tag": "Clinical",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "58268ea92b8f",
-   "headline": "Clover Health Investments Sees 2027 Growth as Rival Exits New Jersey",
-   "summary": "Clover Health Investments (NASDAQ:CLOV) expects another year of strong membership growth in 2027, aided by a competitor\u2019s exit from its core New Jersey market and what it sees as favorable positioning for its Medicare Advantage plans,\u2026",
-   "url": "https://finnhub.io/api/news?id=7c23fc562fad341a806197963c2b90606d82494c98c3e8a850d8530c0d3ab94e",
-   "source": "Yahoo",
-   "published": "2026-11-10T01:14:46+00:00",
-   "tickers": [
-    "CLOV"
-   ],
-   "tag": "Policy",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "ac4316431958",
-   "headline": "Doximity: 3 Key Takeaways for Long-Term Investors",
-   "summary": "Compute cost discipline, not just user growth, is what lets Doximity scale AI without eroding margins as usage climbs.",
-   "url": "https://finnhub.io/api/news?id=d3d57defcbb400f4515f6b1d8e7596b5ccb9153bfaa5701ddc587766c5ab579c",
-   "source": "Yahoo",
-   "published": "2026-11-10T01:11:49+00:00",
-   "tickers": [
-    "DOCS"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "82da2eb8c70e",
-   "headline": "Baron International Growth Fund Q3 2026 New Investments",
-   "summary": "Explore portfolio changes from the Baron International Growth Fund Q3 2026 letter. Discover top international holdings and stock additions today.",
-   "url": "https://finnhub.io/api/news?id=41814f0a51a1adc3b93f83ab0cb0fc094bde2b2d60aa25c01907d713e34ffd9d",
-   "source": "SeekingAlpha",
-   "published": "2026-11-10T01:10:00+00:00",
-   "tickers": [
-    "LLY",
-    "NVO"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
