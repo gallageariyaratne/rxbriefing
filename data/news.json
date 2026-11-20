@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-20T11:17:45.148709+00:00",
+ "updated": "2026-11-20T11:32:38.609811+00:00",
  "quotes": {
   "ABBV": {
    "price": 283.54,
@@ -9,10 +9,6 @@
   "ABT": {
    "price": 103.87,
    "change_pct": -0.58
-  },
-  "ALHC": {
-   "price": 6.5,
-   "change_pct": -3.27
   },
   "ALNY": {
    "price": 147.82,
@@ -81,10 +77,6 @@
   "CLDX": {
    "price": 27.96,
    "change_pct": 1.49
-  },
-  "CLOV": {
-   "price": 3.77,
-   "change_pct": -9.59
   },
   "CNC": {
    "price": 65.58,
@@ -254,10 +246,6 @@
    "price": 33.18,
    "change_pct": -4.27
   },
-  "OSCR": {
-   "price": 26.17,
-   "change_pct": -5.08
-  },
   "PEN": {
    "price": 320.01,
    "change_pct": -0.18
@@ -321,6 +309,18 @@
   "THC": {
    "price": 263.59,
    "change_pct": -2.86
+  },
+  "TMO": {
+   "price": 688.75,
+   "change_pct": -0.58
+  },
+  "TWST": {
+   "price": 111.62,
+   "change_pct": -4.07
+  },
+  "UHS": {
+   "price": 174.98,
+   "change_pct": -5.96
   }
  },
  "tickers": {
@@ -42116,96 +42116,6 @@
    "published": "2026-11-10T11:41:36+00:00",
    "tickers": [
     "PRVA"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "b8068eefe502",
-   "headline": "Illumina Exec Says 2027 Is On Track For High-Single-Digit Revenue Growth And At Least A 25.5% Operating Margin As A Starting Point, But It Is Not Giving 2027 Forecast",
-   "summary": "https://event.webcasts.com/starthere.jsp?ei=1780182&tp_key=4108913894&tp_special=8",
-   "url": "https://finnhub.io/api/news?id=2ae995146604847f8793c6ad5593fb80a15b3abf0915ddf16fdc4f53fab7db77",
-   "source": "Benzinga",
-   "published": "2026-11-10T11:30:59+00:00",
-   "tickers": [
-    "ILMN"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "78bfcd555b63",
-   "headline": "Liquidia Corporation Reports Third Quarter 2026 Financial Results",
-   "summary": "YUTREPIA\u00ae (treprostinil) inhalation powder net product sales of $222.7 million in the third quarter of 2026, up 31% from the second quarter of 2026October 2026 total patient shipments reached their highest monthly level since\u2026",
-   "url": "https://finnhub.io/api/news?id=3bd7b0e9fedfbdd4fc94adbcca7738502a65339a9189b269b5aabb4149bbf3f2",
-   "source": "Yahoo",
-   "published": "2026-11-10T11:30:00+00:00",
-   "tickers": [
-    "UTHR"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "b7a7c7026de8",
-   "headline": "These Analysts Revise Their Forecasts On Hims & Hers Health After Q3 Results",
-   "summary": "Hims & Hers missed Q3 FY26 earnings and revenue estimates, cut guidance, and shares fell 13%; analysts revised price targets.",
-   "url": "https://finnhub.io/api/news?id=3581f83df066d82dbf78fb9729d1ccea4131ee44ebf94148b363318ea1f0fd8a",
-   "source": "Benzinga",
-   "published": "2026-11-10T11:28:38+00:00",
-   "tickers": [
-    "HIMS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "410103e73562",
-   "headline": "Nvidia, Hims & Hers, JBS, Take-Two, and More Stocks That Explain Today\u2019s Market",
-   "summary": "Hims extends a recent slump after a third-quarter loss, while JBS sinks as Chinese beef import quotas hit the meatpacking business.",
-   "url": "https://finnhub.io/api/news?id=e38ae08d54f5dab48a688bb59bfd8e8355cc89c2954e44d7b9550fdcd0e29772",
-   "source": "Yahoo",
-   "published": "2026-11-10T11:24:00+00:00",
-   "tickers": [
-    "HIMS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "178233a5c001",
-   "headline": "Pfizer Hits a New 52-Week High. Here's Why It's Not Too Late to Buy the Stock",
-   "summary": "This surprising healthcare stock has been outperforming the markets this year.",
-   "url": "https://finnhub.io/api/news?id=9fd9088b7a6fe41dd9739e1e989addb7ed39b912e9aa3a4c64d265e2a854199e",
-   "source": "Yahoo",
-   "published": "2026-11-10T11:20:02+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "aebbc4e767c2",
-   "headline": "Hims & Hers Stock Drops After It Cuts EBITDA Outlook",
-   "summary": "Monthly revenue per average subscriber rose 30% to $105",
-   "url": "https://finnhub.io/api/news?id=c3c3c667ea83494e671c0dbc61686c185c7d63e7eea8487b6911d0cc68abf143",
-   "source": "Yahoo",
-   "published": "2026-11-10T11:18:33+00:00",
-   "tickers": [
-    "HIMS"
    ],
    "tag": "Earnings",
    "sectors": [
