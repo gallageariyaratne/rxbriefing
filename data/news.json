@@ -1,23 +1,7 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-20T12:17:32.374079+00:00",
+ "updated": "2026-11-20T12:32:39.051555+00:00",
  "quotes": {
-  "ABBV": {
-   "price": 283.54,
-   "change_pct": -0.86
-  },
-  "ABT": {
-   "price": 103.87,
-   "change_pct": -0.58
-  },
-  "ALHC": {
-   "price": 6.5,
-   "change_pct": -3.27
-  },
-  "ALNY": {
-   "price": 147.82,
-   "change_pct": -1.06
-  },
   "ALT": {
    "price": 1.41,
    "change_pct": 1.44
@@ -162,10 +146,6 @@
    "price": 380,
    "change_pct": -1.5
   },
-  "IDXX": {
-   "price": 689.65,
-   "change_pct": -1.26
-  },
   "ILMN": {
    "price": 200.66,
    "change_pct": -4.45
@@ -209,10 +189,6 @@
   "MDT": {
    "price": 100.61,
    "change_pct": -0.11
-  },
-  "MOH": {
-   "price": 203.34,
-   "change_pct": -1.56
   },
   "MRK": {
    "price": 132.81,
@@ -318,9 +294,17 @@
    "price": 330.48,
    "change_pct": -5.55
   },
+  "UTHR": {
+   "price": 559.1,
+   "change_pct": -3.16
+  },
   "VEEV": {
    "price": 262.92,
    "change_pct": -5.15
+  },
+  "VRTX": {
+   "price": 520.66,
+   "change_pct": -2.94
   }
  },
  "tickers": {
@@ -949,6 +933,36 @@
    "sectors": []
   },
   {
+   "id": "7a4e07b2f6b4",
+   "headline": "United Therapeutics Corporation Announces First Transplant in EXTEND Clinical Trial of UThymoKidney\u2122 in Patients with End-Stage Renal Disease",
+   "summary": "SILVER SPRING, Md. & RESEARCH TRIANGLE PARK, N.C., November 20, 2026--United Therapeutics Corporation (Nasdaq: UTHR), a public benefit corporation, today announced the first clinical xenotransplant in its EXTEND study of the UThymoKidney\u2122\u2026",
+   "url": "https://finnhub.io/api/news?id=87108fa0fb0442d4e10fdd7414940b498dfae331386e7b14fb665bd95c940635",
+   "source": "Yahoo",
+   "published": "2026-11-20T12:00:00+00:00",
+   "tickers": [
+    "UTHR"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "3f662ae23bfa",
+   "headline": "What Is Behind The Move In Insmed Stock?",
+   "summary": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks.",
+   "url": "https://finnhub.io/api/news?id=7eb1605bbf9d6670b079aa0a773998588cb91a3cfeb6ba86b9ca3a5e29e1f27f",
+   "source": "Yahoo",
+   "published": "2026-11-20T11:53:30+00:00",
+   "tickers": [
+    "UTHR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "6d558b3937a9",
    "headline": "Do You Like Cash? Consider DaVita Stock",
    "summary": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks.",
@@ -971,7 +985,8 @@
    "source": "Yahoo",
    "published": "2026-11-20T11:05:27+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "JNJ"
    ],
    "tag": "News",
    "sectors": [
@@ -986,7 +1001,8 @@
    "source": "Yahoo",
    "published": "2026-11-20T11:04:15+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "JNJ"
    ],
    "tag": "News",
    "sectors": [
@@ -1002,6 +1018,21 @@
    "published": "2026-11-20T11:03:19+00:00",
    "tickers": [
     "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "bf36faf49740",
+   "headline": "ETFs Are Net Sellers of Johnson & Johnson (JNJ) on Wednesday",
+   "summary": "ETFs sold a net $144.2 million of Johnson & Johnson on Wednesday, Nov. 18.",
+   "url": "https://finnhub.io/api/news?id=fb6734f78032c54e34d78179c6df89ebe226ebb333ffbb2b559a1a8d6c339be4",
+   "source": "Yahoo",
+   "published": "2026-11-20T11:03:03+00:00",
+   "tickers": [
+    "JNJ"
    ],
    "tag": "News",
    "sectors": [
@@ -1031,7 +1062,8 @@
    "source": "Yahoo",
    "published": "2026-11-20T09:45:57+00:00",
    "tickers": [
-    "ALHC"
+    "ALHC",
+    "CVS"
    ],
    "tag": "Policy",
    "sectors": [
@@ -1046,7 +1078,8 @@
    "source": "Yahoo",
    "published": "2026-11-20T09:37:50+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "JNJ"
    ],
    "tag": "Analyst",
    "sectors": [
@@ -41807,96 +41840,6 @@
    "tag": "Analyst",
    "sectors": [
     "pharmacy"
-   ]
-  },
-  {
-   "id": "920ca5f6cd73",
-   "headline": "Arbutus Reports Third Quarter 2026 Financial Results and Provides Corporate Update",
-   "summary": "Maintained strong financial position with cash, cash equivalents and marketable securities of $337.5M as of September 30, 2026, including receipt of cash dividend of $67.3M from Genevant Successfully returned $230M of capital to\u2026",
-   "url": "https://finnhub.io/api/news?id=0629d1830c8676397025cfad4ed6280e2108ce7ba55dabbe9fd8f6e40e178b3e",
-   "source": "Yahoo",
-   "published": "2026-11-10T12:30:00+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "c219725d4d9e",
-   "headline": "Zoetis to Participate in the Jefferies Global Healthcare Conference in London",
-   "summary": "PARSIPPANY, N.J., November 10, 2026--Zoetis Inc. (NYSE:ZTS) today announced that Jay Saccaro, EVP, Chief Financial Officer and Chief Operating Officer, will participate in a fireside chat at the Jefferies Global Healthcare Conference in\u2026",
-   "url": "https://finnhub.io/api/news?id=a5f4e838d963028ff408ad94a9696dd6d95307254d9859d793891f4d14b71a5a",
-   "source": "Yahoo",
-   "published": "2026-11-10T12:30:00+00:00",
-   "tickers": [
-    "ZTS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "9ebbaa54545f",
-   "headline": "Nasdaq-100 Correction: 2 Proven Winners That Can Buck Historic Volatility",
-   "summary": "Two non-tech stocks are the perfect buys amid a 15% correction in the Nasdaq-100.",
-   "url": "https://finnhub.io/api/news?id=9b03a498425f0d2644a6ebe56322a5094919b704a20460fabc3c50851e6d2c0c",
-   "source": "Yahoo",
-   "published": "2026-11-10T12:26:03+00:00",
-   "tickers": [
-    "ISRG"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "a0cfff12d2a8",
-   "headline": "Hims & Hers Just Warned Investors for the Third Time This Year. CEO Andrew Dudum Calls the Subscriber Losses a Trade He\u2019ll Make \u2018Every Time\u2019",
-   "summary": "Hims & Hers cut its 2026 adjusted EBITDA outlook for the third time this year, to $257 million to $277 million from February's $300 million to $375 million, posted a surprise $33 million loss, and CEO Andrew Dudum called the subscriber\u2026",
-   "url": "https://finnhub.io/api/news?id=8bd5a66502124df361aea76a8098bb23bdd5bc2f521d90561688bd186b2a4e08",
-   "source": "Yahoo",
-   "published": "2026-11-10T12:25:52+00:00",
-   "tickers": [
-    "HIMS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "b375fd7a8fb7",
-   "headline": "Hims & Hers: 3 Key Takeaways for Long-Term Investors",
-   "summary": "Management is betting that a lighter marketing push now sets Hims & Hers up for the January weight-loss surge, but it's unclear whether lost subscribers will return.",
-   "url": "https://finnhub.io/api/news?id=69073296a560e74d8fe659ceba0e0035688b3e7e8c68470d0abd4a722e604f1d",
-   "source": "Yahoo",
-   "published": "2026-11-10T12:21:52+00:00",
-   "tickers": [
-    "HIMS"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "fa77a5c12775",
-   "headline": "Mark Cuban Says the CVS Breakup Is \u2018Great for Shareholders.\u2019 Here\u2019s What It Means for a 67-Year-Old Who Bought 1,000 Shares the Day the Aetna Deal Closed",
-   "summary": "Mark Cuban wrote on X that CVS Health's planned 2028 breakup is \"great for shareholders\" and \"changes nothing for patients.\" On the day it was announced the stock fell 12.5%, about $15 billion of market value. For a retiree holding 1,000\u2026",
-   "url": "https://finnhub.io/api/news?id=385b112212134aff5780d4733e2c424f839373a022280c7a3748d28284cc7b17",
-   "source": "Yahoo",
-   "published": "2026-11-10T12:16:17+00:00",
-   "tickers": [
-    "CVS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
    ]
   }
  ]
