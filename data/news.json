@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-20T22:32:42.071149+00:00",
+ "updated": "2026-11-20T22:47:40.381949+00:00",
  "quotes": {
   "A": {
    "price": 170.38,
@@ -926,6 +926,21 @@
  },
  "stories": [
   {
+   "id": "7ab95c8ee4dd",
+   "headline": "Dow Jones Futures: Market Has Worst Week Since Covid Amid Nvidia, Anthropic. Does Fear Gauge Offer Hope?",
+   "summary": "The Dow Jones and Nasdaq had their worst week since March 2020, fueled by Nvidia and Anthropic. A fear gauge is soaring. Good news?",
+   "url": "https://finnhub.io/api/news?id=a461bf9206b72f4ed5bbda580ba12f32748c5dc1fc3ce52df1fae999182f1a09",
+   "source": "Yahoo",
+   "published": "2026-11-20T21:49:14+00:00",
+   "tickers": [
+    "GKOS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "0ecdb55a1bdc",
    "headline": "ICE detention of Princeton scientist rattles academia",
    "summary": "A graduate student who is a scientific researcher at Princeton was detained by ICE while traveling home after presenting research at a neuroscience conference.",
@@ -935,6 +950,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "0dbf6679382d",
+   "headline": "TD Cowen names UnitedHealth its 2027 best idea, upgrades shares",
+   "summary": "Investing.com -- TD Cowen upgraded UnitedHealth Group to Buy from Hold on Friday, naming the health insurer its Best Idea for 2027, citing an improving earnings outlook driven by a recovery in its Optum Health business and stronger\u2026",
+   "url": "https://finnhub.io/api/news?id=28867eb3beb614ed8e3799c3c33131910bdda434acdfebaf57d58f4b85c8d064",
+   "source": "Yahoo",
+   "published": "2026-11-20T21:08:35+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "payers"
+   ]
   },
   {
    "id": "5f5bc5750339",
@@ -959,7 +989,8 @@
    "source": "Yahoo",
    "published": "2026-11-20T21:02:24+00:00",
    "tickers": [
-    "JNJ"
+    "JNJ",
+    "UNH"
    ],
    "tag": "News",
    "sectors": [
@@ -974,7 +1005,8 @@
    "source": "Yahoo",
    "published": "2026-11-20T20:42:00+00:00",
    "tickers": [
-    "MDT"
+    "MDT",
+    "UNH"
    ],
    "tag": "News",
    "sectors": [
@@ -1020,6 +1052,21 @@
    "tag": "News",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "537789835105",
+   "headline": "Illumina (ILMN) Stock May Be A Bargain Despite Singapore Genome Win",
+   "summary": "Illumina has seen its stock swing sharply in recent years, and with cash flows sitting at the center of the story, the question now is whether the current price lines up with what the business is likely to generate over time. Over the\u2026",
+   "url": "https://finnhub.io/api/news?id=f6643d381132f8c9660f919a8d849069eefef0047dd490671605f36f82888d13",
+   "source": "Yahoo",
+   "published": "2026-11-20T20:10:47+00:00",
+   "tickers": [
+    "ILMN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -2472,6 +2519,21 @@
     "VRTX"
    ],
    "tag": "M&A",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "385c14e8e126",
+   "headline": "Are Wall Street Analysts Predicting Biogen Stock Will Climb or Sink?",
+   "summary": "Biogen has outpaced the broader benchmarks over the past year, and analysts remain moderately upbeat about the stock\u2019s prospects.",
+   "url": "https://finnhub.io/api/news?id=0e2232f59f24857b20284aece68197cc3c858dfce789e9cf8a653bef1388635a",
+   "source": "Yahoo",
+   "published": "2026-11-20T14:21:00+00:00",
+   "tickers": [
+    "BIIB"
+   ],
+   "tag": "Analyst",
    "sectors": [
     "pharma"
    ]
