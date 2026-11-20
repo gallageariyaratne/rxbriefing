@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-20T11:47:43.862002+00:00",
+ "updated": "2026-11-20T12:02:54.146234+00:00",
  "quotes": {
   "ABBV": {
    "price": 283.54,
@@ -36,10 +36,6 @@
   },
   "ARWR": {
    "price": 43.65,
-   "change_pct": 1.25
-  },
-  "AXSM": {
-   "price": 135.68,
    "change_pct": 1.25
   },
   "AZN": {
@@ -321,6 +317,10 @@
   "UHS": {
    "price": 174.98,
    "change_pct": -5.96
+  },
+  "UNH": {
+   "price": 330.48,
+   "change_pct": -5.55
   }
  },
  "tickers": {
@@ -41923,203 +41923,6 @@
    "tag": "News",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "a97d1b5f338d",
-   "headline": "Oscar Grows Across Ohio to Serve Nearly the Entire State for 2027 Open Enrollment",
-   "summary": "COLUMBUS, Ohio, November 10, 2026--Oscar Grows Across Ohio to Serve Nearly the Entire State for 2027 Open Enrollment",
-   "url": "https://finnhub.io/api/news?id=6af3db3d0d638ec5c3f75b686f31d9d4e1a5361b4c9f9546c1092be74bdafae1",
-   "source": "Yahoo",
-   "published": "2026-11-10T12:01:00+00:00",
-   "tickers": [
-    "OSCR"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "25f23822d2c9",
-   "headline": "Intuitive Surgical (NASDAQ:ISRG): Strong Growth Meets a Constructive Technical Setup",
-   "summary": "Intuitive Surgical pairs strong growth, high margins and a debt-free balance sheet with a tight technical setup near resistance, though valuation risk remains.",
-   "url": "https://finnhub.io/api/news?id=b11ef7bad2b87b46ca290d8c606c013f259eb64d810cb1fc653466cb7941fe1b",
-   "source": "ChartMill",
-   "published": "2026-11-10T12:00:56+00:00",
-   "tickers": [
-    "ISRG"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "f7727cc9b119",
-   "headline": "Here's How Much $100 Invested In HCA Healthcare 15 Years Ago Would Be Worth Today",
-   "summary": "HCA Healthcare (NYSE:HCA) has outperformed the market over the past 15 years by 9.26% on an annualized basis producing an average annual return of 21.98%. Currently, HCA Healthcare has a market capitalization of $105.47",
-   "url": "https://finnhub.io/api/news?id=b317ddc1c44261b3868940441ce821b2934a6fc9eb91d14c2f1830aa45b9fd16",
-   "source": "Benzinga",
-   "published": "2026-11-10T12:00:20+00:00",
-   "tickers": [
-    "HCA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "97a1bbdc6bce",
-   "headline": "Legend Biotech Reports Third Quarter 2026 Results and Recent Highlights",
-   "summary": "BRIDGEWATER, N.J., Nov. 10, 2026 (GLOBE NEWSWIRE) -- Legend Biotech Corporation (NASDAQ: LEGN) (Legend Biotech), a global leader in cell therapy, today reported its third quarter 2026 unaudited financial results and recent highlights.",
-   "url": "https://www.globenewswire.com/news-release/2026/11/10/3399316/0/en/legend-biotech-reports-third-quarter-2026-results-and-recent-highlights.html",
-   "source": "GlobeNewswire",
-   "published": "2026-11-10T12:00:00+00:00",
-   "tickers": [
-    "LEGN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "0c14bdee120f",
-   "headline": "Natera Announces Clinical Collaboration with Incyte on Interventional Phase II Study in Colorectal Cancer",
-   "summary": "AUSTIN, Texas, November 10, 2026--Natera, Inc. (Nasdaq:NTRA), a global leader in cell-free DNA and precision medicine, today announced that it has entered into a clinical collaboration agreement with Incyte (Nasdaq:INCY) for a new phase\u2026",
-   "url": "https://finnhub.io/api/news?id=596b494fb0e743c6eac0079be2a6f5bbd4345c3b7562698b91789d7dd36ee7d3",
-   "source": "Yahoo",
-   "published": "2026-11-10T12:00:00+00:00",
-   "tickers": [
-    "INCY",
-    "NTRA"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "c9a5325439d8",
-   "headline": "Moderna to Present at Upcoming Conference in November 2026",
-   "summary": "CAMBRIDGE, MA / ACCESS Newswire / November 10, 2026 / (Nasdaq:MRNA), today announced its participation in the following upcoming investor conference:Jefferies Global Health Care Conference, on Wednesday, November 18th 11:00am GMTA live\u2026",
-   "url": "https://finnhub.io/api/news?id=404ee1d46ec66c17967028f40c87e8ebb2a14af8b46f52e2356c4ef29a43d05d",
-   "source": "Yahoo",
-   "published": "2026-11-10T12:00:00+00:00",
-   "tickers": [
-    "MRNA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "87402194a40d",
-   "headline": "Soleo Health Selected as a Specialty Pharmacy Partner for Pasatru\u2122, a New Treatment in Adults with Fibrodysplasia Ossificans Progressiva",
-   "summary": "FRISCO, Texas, Nov. 10, 2026 (GLOBE NEWSWIRE) -- Soleo Health, an innovative leader and national provider of complex specialty pharmacy services, announced today that it was selected as a specialty pharmacy partner for Pasatru\u2122\u2026",
-   "url": "https://finnhub.io/api/news?id=0b508a590938e28547396cbdd60b7cf4de533faaa4d934c23990ce7e400fc0cb",
-   "source": "Yahoo",
-   "published": "2026-11-10T12:00:00+00:00",
-   "tickers": [
-    "REGN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "942072d3bc47",
-   "headline": "Legend Biotech Reports Third Quarter 2026 Results and Recent Highlights",
-   "summary": "CARVYKTI\u00ae (ciltacabtagene autoleucel; cilta-cel) net trade sales increased 36% versus third quarter of 2025 to approximately $710 million Half of CARTITUDE-2 Cohort A patients remained alive and progression-free without further\u2026",
-   "url": "https://finnhub.io/api/news?id=e997168cba83b3cfba64103d3e1414be48c2f6c064c8ff2d233f84a2ebf5c418",
-   "source": "Yahoo",
-   "published": "2026-11-10T12:00:00+00:00",
-   "tickers": [
-    "LEGN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "e4758ca2ab22",
-   "headline": "Beam Therapeutics Announces Positive Topline Pivotal Data from BEACON Phase 1/2 Trial of Risto-cel in Patients with Sickle Cell Disease",
-   "summary": "BEACON Trial Achieved Primary Efficacy Endpoint of Freedom from Severe Vaso-occlusive Crises (VOCs) for at Least 12 Consecutive Months, Based on Independently Adjudicated Results, and Met All Primary Safety Endpoints at the Prespecified\u2026",
-   "url": "https://finnhub.io/api/news?id=6f24080aba8aa97c615de9fb4473ba1551447a8aed79fad9a372791898cccc8f",
-   "source": "Yahoo",
-   "published": "2026-11-10T12:00:00+00:00",
-   "tickers": [
-    "BEAM"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "ac4366639f9e",
-   "headline": "RBC Capital Maintains Outperform on Ionis Pharmaceuticals, Lowers Price Target to $60",
-   "summary": "RBC Capital analyst Luca Issi maintains Ionis Pharmaceuticals (NASDAQ:IONS) with a Outperform and lowers the price target from $85 to $60.",
-   "url": "https://finnhub.io/api/news?id=a67c19f3472217664ea7433ff7802711bcd40f8adc7932195176a16b0d4a97d5",
-   "source": "Benzinga",
-   "published": "2026-11-10T11:53:42+00:00",
-   "tickers": [
-    "IONS"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "55af84ba1d46",
-   "headline": "Truist Securities Maintains Hold on Immunovant, Raises Price Target to $33",
-   "summary": "Truist Securities analyst Danielle Brill maintains Immunovant (NASDAQ:IMVT) with a Hold and raises the price target from $30 to $33.",
-   "url": "https://finnhub.io/api/news?id=5ae2d0f714e17e422fc9dfcff1628864da6309ba35db4c2e7d8462be0b0a8d8d",
-   "source": "Benzinga",
-   "published": "2026-11-10T11:51:55+00:00",
-   "tickers": [
-    "IMVT"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "e8a32af4330d",
-   "headline": "HALO Q3 2026 deep dive: royalty expansion and next-gen platform investments drive outlook update",
-   "summary": "Biopharmaceutical drug delivery company Halozyme Therapeutics (NASDAQ:HALO) beat Wall Street\u2019s revenue expectations in Q3 2026, with sales up 39.2% year on year to $493 million. The company\u2019s full-year revenue guidance of $1.89 billion at\u2026",
-   "url": "https://finnhub.io/api/news?id=3e4cd707cec68a873cc2b5f823e0b3baf09ed378efa5fb55c6ac7f40fb6c8c61",
-   "source": "Yahoo",
-   "published": "2026-11-10T11:49:36+00:00",
-   "tickers": [
-    "HALO"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "6480fbe0f533",
-   "headline": "Compugen: COM701 Data On Track And Continued Bispecific Rilvegostomig Development",
-   "summary": "Compugen is rated a Buy, as COM701 targets Q1 2027 results and $117.5 million supporting operations into 2029. Click to read more about CGEN.",
-   "url": "https://finnhub.io/api/news?id=c00ac598cf414e6fe202e1e8a8ed9ac2fd1bf37bbeb1d19d3e756fc48cb48e95",
-   "source": "SeekingAlpha",
-   "published": "2026-11-10T11:49:25+00:00",
-   "tickers": [
-    "AZN",
-    "GILD"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
