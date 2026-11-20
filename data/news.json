@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-20T08:17:27.744821+00:00",
+ "updated": "2026-11-20T08:32:40.206539+00:00",
  "quotes": {
   "ABBV": {
    "price": 283.54,
@@ -33,6 +33,10 @@
   "ARGX": {
    "price": 942.04,
    "change_pct": 0.08
+  },
+  "ARWR": {
+   "price": 43.65,
+   "change_pct": 1.25
   },
   "AXSM": {
    "price": 135.68,
@@ -317,10 +321,6 @@
   "TECH": {
    "price": 72.7,
    "change_pct": -0.07
-  },
-  "TEM": {
-   "price": 59.61,
-   "change_pct": -6.3
   }
  },
  "tickers": {
@@ -980,6 +980,36 @@
    "tag": "Analyst",
    "sectors": [
     "pharmacy"
+   ]
+  },
+  {
+   "id": "c37a947e1c0a",
+   "headline": "Arrowhead Pharmaceuticals Eyes $3 Billion REDEMPLO Opportunity as FDA Review Looms",
+   "summary": "Arrowhead Pharmaceuticals (NASDAQ:ARWR) is preparing for a potential expansion of its recently launched drug REDEMPLO into severe hypertriglyceridemia, while advancing experimental treatments for mixed hyperlipidemia, neurological\u2026",
+   "url": "https://finnhub.io/api/news?id=239e931e12529c04cbd81327d4bb45817037e24073d1b8328296790f19822c4b",
+   "source": "Yahoo",
+   "published": "2026-11-20T06:12:11+00:00",
+   "tickers": [
+    "ARWR"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "df37d255f1ff",
+   "headline": "Is Bristol-Myers Squibb (BMY) Fully Valued Following Its Hematology Data Update?",
+   "summary": "Bristol-Myers Squibb (BMY) just put its hematology franchise in the spotlight, unveiling more than 90 data updates at the 68th American Society of Hematology meeting in New Orleans. Despite the busy news flow around Bristol-Myers Squibb's\u2026",
+   "url": "https://finnhub.io/api/news?id=a6569b045ba1c2186a0a04eda6434ceb2f60a3e1fde7ddb543142441047ecc28",
+   "source": "Yahoo",
+   "published": "2026-11-20T06:11:09+00:00",
+   "tickers": [
+    "BMY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
