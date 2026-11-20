@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-20T12:02:54.146234+00:00",
+ "updated": "2026-11-20T12:17:32.374079+00:00",
  "quotes": {
   "ABBV": {
    "price": 283.54,
@@ -49,10 +49,6 @@
   "BIIB": {
    "price": 247.13,
    "change_pct": -1.7
-  },
-  "BMRN": {
-   "price": 61.42,
-   "change_pct": -0.02
   },
   "BMY": {
    "price": 58.34,
@@ -226,6 +222,10 @@
    "price": 199.33,
    "change_pct": 1.29
   },
+  "NTLA": {
+   "price": 9.52,
+   "change_pct": -2.56
+  },
   "NTRA": {
    "price": 289.92,
    "change_pct": 0.15
@@ -290,10 +290,6 @@
    "price": 21.41,
    "change_pct": 0.66
   },
-  "TECH": {
-   "price": 72.7,
-   "change_pct": -0.07
-  },
   "TEM": {
    "price": 59.61,
    "change_pct": -6.3
@@ -321,6 +317,10 @@
   "UNH": {
    "price": 330.48,
    "change_pct": -5.55
+  },
+  "VEEV": {
+   "price": 262.92,
+   "change_pct": -5.15
   }
  },
  "tickers": {
@@ -938,6 +938,77 @@
  },
  "stories": [
   {
+   "id": "3e87809e534a",
+   "headline": "This week in charts: Biotech investors\u2019 China bets are already paying off",
+   "summary": "This year, companies built around medicines from China have sped toward acquisitions or IPOs. Meanwhile, Summit is no longer the Wall Street darling it was in 2024.",
+   "url": "https://www.biopharmadive.com/news/biotech-china-deals-venture-returns-summit-stock/874912/",
+   "source": "BioPharma Dive",
+   "published": "2026-11-20T12:00:00+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "6d558b3937a9",
+   "headline": "Do You Like Cash? Consider DaVita Stock",
+   "summary": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks.",
+   "url": "https://finnhub.io/api/news?id=73117a9c7810671424b495c4b7f7f90938dc7a462cca902836642bf3117fd094",
+   "source": "Yahoo",
+   "published": "2026-11-20T11:05:30+00:00",
+   "tickers": [
+    "HCA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "5a47b75ad17a",
+   "headline": "iShares U.S. Healthcare ETF (IYH) Sells $17.4 Million of Eli Lilly on Wednesday",
+   "summary": "The fund sold $105.9 million of stock and bought nothing, cutting all 99 of its positions.",
+   "url": "https://finnhub.io/api/news?id=f2e0e25049116fccea09389371dca32d3b1e7762504800d8e60577a886bda945",
+   "source": "Yahoo",
+   "published": "2026-11-20T11:05:27+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "d7c3ea45a831",
+   "headline": "What State Street Health Care SPDR (XLV) Sold: Eli Lilly Leads on Wednesday",
+   "summary": "The fund sold $335.2 million of stock on Wednesday, Nov. 18, cutting all 60 of its positions and buying nothing.",
+   "url": "https://finnhub.io/api/news?id=23da82f2a909f14c53b5c6e14e28b8d7ab82a9def500902adde2e7a393096fb3",
+   "source": "Yahoo",
+   "published": "2026-11-20T11:04:15+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "2f8b96b3f33f",
+   "headline": "ETFs Are Net Sellers of AbbVie (ABBV) on Nov. 18",
+   "summary": "AbbVie drew $124.5 million in net ETF selling on Nov. 18.",
+   "url": "https://finnhub.io/api/news?id=05fa02ba56a7413f16352354233d2c7abc8ad1b72a063792af118b0460380d5e",
+   "source": "Yahoo",
+   "published": "2026-11-20T11:03:19+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "fd508915f3e8",
    "headline": "Bausch + Lomb and Celldex rocked by respective phase 2 flops",
    "summary": "Bausch + Lomb and Celldex have independently reported phase 2 flops. While Celldex ended work in the indication in response to the setback, Bausch + Lomb noted numerical improvements and exploratory analyses to make the case for talks\u2026",
@@ -1039,6 +1110,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "cd8b69946d7f",
+   "headline": "Intellia Therapeutics Preps Gene-Editing Launch as FDA Review Advances",
+   "summary": "Intellia Therapeutics (NASDAQ:NTLA) is preparing for a potential U.S. launch of its hereditary angioedema gene-editing therapy, lonvo-z, while advancing late-stage studies in transthyretin amyloidosis, company executives said during a\u2026",
+   "url": "https://finnhub.io/api/news?id=5547bdf89ab926e13bc6f2de011ad20529c0f602c75c7cb7709740a44f08550b",
+   "source": "Yahoo",
+   "published": "2026-11-20T09:13:07+00:00",
+   "tickers": [
+    "NTLA"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -41807,118 +41893,6 @@
    "published": "2026-11-10T12:16:17+00:00",
    "tickers": [
     "CVS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "6f267b43aff2",
-   "headline": "Personify Health launches updated wellbeing platform experience with 2 new capabilities",
-   "summary": "The updated platform experience features two new capabilities: adherence and digital navigation.",
-   "url": "https://www.fiercehealthcare.com/digital-health/personify-health-launches-updated-wellbeing-platform-experience-2-new-capabilities",
-   "source": "Fierce Healthcare",
-   "published": "2026-11-10T12:15:37.311958+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "01461d0ace9e",
-   "headline": "Insulet, Marvel Comics smash diabetes stigma with new Omnipod-powered superhero",
-   "summary": "Insulet's newest Marvel Comics collab looks to empower people with diabetes by representing the community through a new diabetes superhero, Gluconaut in \"Gluconaut: Strength of Stars.\"",
-   "url": "https://www.fiercepharma.com/marketing/insulet-marvel-comics-smash-diabetes-stigma-new-omnipod-powered-superhero",
-   "source": "Fierce Pharma",
-   "published": "2026-11-10T12:15:37.109401+00:00",
-   "tickers": [
-    "PODD"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "cb2ba847f776",
-   "headline": "Humacyte, Inc. (HUMA) Reports Q3 Loss, Tops Revenue Estimates",
-   "summary": "Humacyte, Inc. (HUMA) delivered earnings and revenue surprises of +22.22% and +19.54%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
-   "url": "https://finnhub.io/api/news?id=8f6b9eaaee99270f0aeaf0c53229eeb0509d20e7904be2c0793a7f855278f6ae",
-   "source": "Yahoo",
-   "published": "2026-11-10T12:15:01+00:00",
-   "tickers": [
-    "TECH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "f183ddd709bd",
-   "headline": "Cepheid obtiene la marca CE conforme al IVDR para el panel respiratorio Xpert\u00ae",
-   "summary": "Una prueba de PCR conforme al IVDR detecta 13 pat\u00f3genos respiratorios comunes a partir de una \u00fanica muestra. SUNNYVALE, California, 10 de noviembre de 2026 /PRNewswire/ -- Cepheid, una empresa de Danaher, ha anunciado hoy la obtenci\u00f3n de\u2026",
-   "url": "https://www.prnewswire.com/news-releases/cepheid-obtiene-la-marca-ce-conforme-al-ivdr-para-el-panel-respiratorio-xpert-302934855.html",
-   "source": "PR Newswire",
-   "published": "2026-11-10T12:13:00+00:00",
-   "tickers": [
-    "DHR"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "8e250ca03d50",
-   "headline": "Scholar Rock Holding Corporation (SRRK) Reports Q3 Loss, Beats Revenue Estimates",
-   "summary": "Scholar Rock (SRRK) delivered earnings and revenue surprises of +6.90% and +119.23%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
-   "url": "https://finnhub.io/api/news?id=a5b47991465131f390d84502ccaf13b8f930913d5fa071faf41c16d26020ab92",
-   "source": "Yahoo",
-   "published": "2026-11-10T12:05:02+00:00",
-   "tickers": [
-    "ABSI"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "healthai"
-   ]
-  },
-  {
-   "id": "3cd2730db831",
-   "headline": "STAT+: PepGen says early trial for muscular dystrophy drug looks promising",
-   "summary": "PepGen says its candidate is correcting more of the genetic stutter found in myotonic dystrophy type 1.",
-   "url": "https://www.statnews.com/2026/11/10/muscular-dystrophy-dm1-pepgen-pgn-edodm1-early-results/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-11-10T12:05:00+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "e45010ba40be",
-   "headline": "Ionis to present at upcoming investor conferences",
-   "summary": "CARLSBAD, Calif., November 10, 2026--Ionis Pharmaceuticals, Inc. (Nasdaq: IONS) today announced that management will participate in fireside chats at the following investor conferences:",
-   "url": "https://finnhub.io/api/news?id=3ae94c6f987c5d130cbd69c5d43c9f2a48d266babad907bf726b269543db94b2",
-   "source": "Yahoo",
-   "published": "2026-11-10T12:05:00+00:00",
-   "tickers": [
-    "IONS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "d841fcd5fb76",
-   "headline": "Oscar Launches New Wave of Consumer Health Insurance Products to South Carolina Individuals and Families",
-   "summary": "CHARLESTON, S.C., November 10, 2026--Oscar introduces its affordable, tech-powered consumer health products across South Carolina on the ACA marketplace for 2027 Open Enrollment.",
-   "url": "https://finnhub.io/api/news?id=2a6c4f2f42f1318495f6882ee9c8998b3c5ffa2fd6d207376849309158e8d110",
-   "source": "Yahoo",
-   "published": "2026-11-10T12:03:00+00:00",
-   "tickers": [
-    "OSCR"
    ],
    "tag": "News",
    "sectors": [
