@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-21T16:02:26.646685+00:00",
+ "updated": "2026-11-21T16:17:00.671183+00:00",
  "quotes": {
   "A": {
    "price": 170.38,
@@ -45,10 +45,6 @@
   "CAH": {
    "price": 272.81,
    "change_pct": 0.17
-  },
-  "CI": {
-   "price": 270.9,
-   "change_pct": -0.78
   },
   "CNC": {
    "price": 63.78,
@@ -125,10 +121,6 @@
   "INSM": {
    "price": 141.33,
    "change_pct": -2.17
-  },
-  "IQV": {
-   "price": 245.82,
-   "change_pct": -1.89
   },
   "JAZZ": {
    "price": 230.26,
@@ -230,17 +222,9 @@
    "price": 266.22,
    "change_pct": 1.26
   },
-  "WAT": {
-   "price": 440.45,
-   "change_pct": -3.51
-  },
   "ZBH": {
    "price": 101.1,
    "change_pct": -0.36
-  },
-  "ZTS": {
-   "price": 79.11,
-   "change_pct": -2.08
   }
  },
  "tickers": {
@@ -857,6 +841,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "7c7f72168625",
+   "headline": "A $12 Billion Fund Just Bought These 3 Stocks",
+   "summary": "Key TakeawaysCastle Hook Partners, a $12 billion fund, opened a new stake in Microsoft and added heavily to Danaher and Thermo Fisher Scientific in the third quarter, per its 13F filed Nov. 16.",
+   "url": "https://finnhub.io/api/news?id=dccb2f35c5372dcbccf0f25011f81071a10a430f5ddc33fa8f62b17b22b0d68d",
+   "source": "Yahoo",
+   "published": "2026-11-21T14:51:03+00:00",
+   "tickers": [
+    "DHR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
   {
    "id": "da76cfe1ea58",
    "headline": "AbbVie (ABBV) Stock Just Got a 5.2% Dividend Increase. Here's How Many Shares You Need to Generate $1,000 a Year.",
@@ -39750,158 +39749,6 @@
    "tag": "News",
    "sectors": [
     "medtech"
-   ]
-  },
-  {
-   "id": "7dfe3911c1fa",
-   "headline": "Halozyme Therapeutics' Current Royalty Portfolio Expected to Peak in 2029, Morgan Stanley Says",
-   "summary": "Halozyme Therapeutics' (HALO) current royalty portfolio is expected to peak in 2029 as scheduled roy",
-   "url": "https://finnhub.io/api/news?id=2e345a7ad6ee579dc6c025f6782fc1d6dc845ef6626c3a15d6fc6d12d7307d5d",
-   "source": "Yahoo",
-   "published": "2026-11-11T16:11:58+00:00",
-   "tickers": [
-    "HALO"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "823c76e1e9ff",
-   "headline": "Boston Scientific (BSX) Stock May Be 38% Undervalued Following WATCHMAN Trial News",
-   "summary": "Boston Scientific has seen its share price fall sharply over the past year, which puts a spotlight on a simple question for anyone looking at the stock today: Do the cash flows that the business can generate justify where the market is\u2026",
-   "url": "https://finnhub.io/api/news?id=22e156679a87fede7e845baf3366fc5c231bb2084290747291bdf8bf766ab5e8",
-   "source": "Yahoo",
-   "published": "2026-11-11T16:11:41+00:00",
-   "tickers": [
-    "BSX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "54cc575dd012",
-   "headline": "Drug price hikes in Germany could push US costs higher, study says",
-   "summary": "The report comes amid escalating tensions between the U.S. and Germany over drug prices, with several large pharmaceutical companies responding by scaling back investments in the country.",
-   "url": "https://www.biopharmadive.com/news/germany-us-drug-price-study-healthcare-costs/874360/",
-   "source": "BioPharma Dive",
-   "published": "2026-11-11T16:11:00+00:00",
-   "tickers": [],
-   "tag": "Policy",
-   "sectors": []
-  },
-  {
-   "id": "da5f75108d15",
-   "headline": "Will HALO's Partner Royalties Drive Growth for the Rest of 2026?",
-   "summary": "Halozyme's royalty revenues surged 45.8% in the first nine months of 2026, prompting higher guidance.",
-   "url": "https://finnhub.io/api/news?id=77398607eef2aa44d8a073ee57a0ac66c3fe5113d8344c0f827e005e0e68b405",
-   "source": "Yahoo",
-   "published": "2026-11-11T16:11:00+00:00",
-   "tickers": [
-    "ARGX",
-    "HALO",
-    "JNJ"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "4b98ab6e3d9e",
-   "headline": "Amgen (AMGN) Stock Looks Cheap Based On Future Cash Flow",
-   "summary": "Amgen has delivered a powerful run in recent years. After that climb, the key question is whether the current share price is still in line with the cash the business can generate. With the stock now reflecting years of strong performance\u2026",
-   "url": "https://finnhub.io/api/news?id=66f32deb1d972cb5d1cf48168e3cc14b76881ebf5f9769470b6b4bb442365a54",
-   "source": "Yahoo",
-   "published": "2026-11-11T16:10:04+00:00",
-   "tickers": [
-    "AMGN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "c8b24b15592d",
-   "headline": "Moderna Announces JAMA Network Open Publication of Real-World Comparative Effectiveness Data for mNEXSPIKE (COVID-19 Vaccine, mRNA) in Adults Aged 65 Years and Older",
-   "summary": "Real-world analysis of more than 294,000 U. Veterans aged 65 and older found mNEXSPIKE was associated with a 35.",
-   "url": "https://finnhub.io/api/news?id=267f8cb3d6f293f350823880da231c98da18e8c89c7dfbcc58bda3e36203c8aa",
-   "source": "Yahoo",
-   "published": "2026-11-11T16:10:00+00:00",
-   "tickers": [
-    "MRNA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "a4f346948e16",
-   "headline": "Waters Gains FDA Clearance for Flow Cytometry Tests for Blood Cancers",
-   "summary": "WAT gains FDA clearance for two blood cancer diagnostic tests, advancing standardized testing and expanding its clinical diagnostics portfolio.",
-   "url": "https://finnhub.io/api/news?id=c5ef3b29d01ab23185db6db132d0a555f672c0716a9f2ef9a974906eaec1906e",
-   "source": "Yahoo",
-   "published": "2026-11-11T16:09:00+00:00",
-   "tickers": [
-    "GKOS",
-    "ISRG",
-    "WAT"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "41fa14b4185b",
-   "headline": "Is Jim Cramer-backed Cardinal Health\u2019s Dividend Safe?",
-   "summary": "We just published the list of Jim Cramer\u2019s Top 10 Dividend Stocks for Safe, Consistent Returns, and Cardinal Health, Inc. (NYSE:CAH) ranked 9th on this list. From 2000 through 2009, dividends earned S&P 500 investors an annualized 1.8%,\u2026",
-   "url": "https://finnhub.io/api/news?id=0d386d8c4598a5454bbc75bb276737832d9f0fc273c3dd50fd226dea463144f1",
-   "source": "Yahoo",
-   "published": "2026-11-11T16:08:07+00:00",
-   "tickers": [
-    "CAH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharmacy"
-   ]
-  },
-  {
-   "id": "cd24b453c696",
-   "headline": "The Fund Exited Natera (NTRA) on Valuation Concerns Despite Strong Fundamentals",
-   "summary": "Baron Capital, an investment management company, released its third-quarter 2026 investor letter for its \u201cBaron SMID Cap ETF\u201d. The letter can be downloaded here. The Baron SMID Cap ETF showed a solid rebound in Q3, declining 2.87% (NAV)\u2026",
-   "url": "https://finnhub.io/api/news?id=d3ec368b4397fd0591cc03abbdb95e2e83fdbe32a7e00b71a502703c5ad1f3ac",
-   "source": "Yahoo",
-   "published": "2026-11-11T16:04:12+00:00",
-   "tickers": [
-    "NTRA"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "7866082a01c5",
-   "headline": "Here's Why Ionis Pharmaceuticals' Stock is Down 28.5% Post Q3 Earnings",
-   "summary": "IONS plunges as slower Tryngolza sales, reduced guidance and disappointing Wainua royalties rattle investors.",
-   "url": "https://finnhub.io/api/news?id=8ea3c841456554d7d730074f221ee9d81535263dadc84dd277f35797816153c3",
-   "source": "Yahoo",
-   "published": "2026-11-11T16:02:00+00:00",
-   "tickers": [
-    "ALNY",
-    "AZN",
-    "IONS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
    ]
   }
  ]
