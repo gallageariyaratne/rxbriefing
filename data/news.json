@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-21T01:02:45.815348+00:00",
+ "updated": "2026-11-21T01:17:34.510118+00:00",
  "quotes": {
   "A": {
    "price": 170.38,
@@ -29,6 +29,10 @@
   "ARWR": {
    "price": 41.37,
    "change_pct": -5.22
+  },
+  "AZN": {
+   "price": 174.35,
+   "change_pct": -0.6
   },
   "BDX": {
    "price": 212.78,
@@ -178,6 +182,10 @@
    "price": 270.47,
    "change_pct": 1.25
   },
+  "LFST": {
+   "price": 13.82,
+   "change_pct": 3.6
+  },
   "LLY": {
    "price": 1347.11,
    "change_pct": -0.3
@@ -313,14 +321,6 @@
   "WAT": {
    "price": 440.45,
    "change_pct": -3.51
-  },
-  "ZBH": {
-   "price": 101.1,
-   "change_pct": -0.36
-  },
-  "ZTS": {
-   "price": 79.11,
-   "change_pct": -2.08
   }
  },
  "tickers": {
@@ -1452,6 +1452,21 @@
    ]
   },
   {
+   "id": "22172313e053",
+   "headline": "Novo Gets FDA Approval For First-Of-Its-Kind Weekly Growth Hormone Treatment For Children With Turner Syndrome",
+   "summary": "The approval was supported by Novo\u2019s Phase 3 Real8 trial involving 105 children with Turner syndrome.",
+   "url": "https://finnhub.io/api/news?id=bf02f8db62bfde4396f1dba9785265923a96348b0f9693e0e289cf85c7c6a91e",
+   "source": "Yahoo",
+   "published": "2026-11-20T18:06:17+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "c72a696860e0",
    "headline": "Dividend Champion, Contender, And Challenger Highlights: Week Of November 22",
    "summary": "A weekly summary of dividend activity for Dividend Champions, Contenders, and Challengers.",
@@ -1729,6 +1744,21 @@
    ]
   },
   {
+   "id": "a6ad49d0a63b",
+   "headline": "Novo's Sogroya\u00ae receives FDA approval as the first and only once-weekly, long-acting growth hormone for children with Turner Syndrome (TS)",
+   "summary": "Novo Nordisk today announced that the US Food and Drug Administration (FDA) approved once-weekly Sogroya\u00ae (somapacitan-beco) injection (5 mg, 10 mg, or 15 mg) for children aged 2.5 years and older with growth failure associated with\u2026",
+   "url": "https://finnhub.io/api/news?id=f737818b932d2fc0910828f49ab440e6bebaf2aba163bb8ec019a2f2c25af981",
+   "source": "Yahoo",
+   "published": "2026-11-20T16:47:00+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "76aaff30a779",
    "headline": "Zimmer submits Monogram robot to FDA",
    "summary": "The company is targeting Food and Drug Administration clearance next year for an autonomous orthopedic robot.",
@@ -1809,6 +1839,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "e3351a5ad6d1",
+   "headline": "AstraZeneca leads European big pharma on growth, pipeline depth",
+   "summary": "Investing.com -- AstraZeneca PLC (AZN) is the strongest all-round European big pharma candidate: 22.",
+   "url": "https://finnhub.io/api/news?id=3276bae02f90043e61da556b0b7ac333a3ff4e0a5f610ec20e4acb76584d7970",
+   "source": "Yahoo",
+   "published": "2026-11-20T16:25:00+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "68c30852845d",
@@ -2418,6 +2463,21 @@
    ]
   },
   {
+   "id": "750c58a60c12",
+   "headline": "FDA Grants Priority Tag to AZN's BLA Filing for Gastric Cancer Drug",
+   "summary": "AstraZeneca gains FDA priority review for its Sone-Ve cancer drug application, with a regulatory decision expected in Q2 2027.",
+   "url": "https://finnhub.io/api/news?id=c9bd8ee50cac74319f23637e07d93c0bb8626d1ae983a07a3bcfdf1091e4cce8",
+   "source": "Yahoo",
+   "published": "2026-11-20T15:13:00+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "bd734612bd90",
    "headline": "Oncology Clinical Trials - Global Strategic Business Report 2026: Secure Share of a $6 Billion Revenue Surge by 2032 as AbbVie, AstraZeneca, ICON, Merck, and Roche Accelerate AI-Led Trials",
    "summary": "Dublin, Nov. 20, 2026 (GLOBE NEWSWIRE) -- \"Oncology Clinical Trials - Global Strategic Business Report 2026\" has been added to ResearchAndMarkets.com's offering. The global oncology clinical trials market was valued at US$11.2 billion in\u2026",
@@ -2426,6 +2486,7 @@
    "published": "2026-11-20T15:01:00+00:00",
    "tickers": [
     "ABBV",
+    "AZN",
     "MRK"
    ],
    "tag": "Clinical",
@@ -2666,6 +2727,7 @@
    "published": "2026-11-20T14:39:00+00:00",
    "tickers": [
     "LLY",
+    "NVO",
     "PFE"
    ],
    "tag": "News",
@@ -2896,6 +2958,21 @@
    ]
   },
   {
+   "id": "9f3b3a3935bb",
+   "headline": "Does LifeStance Health (LFST) Have the Potential to Rally 25.94% as Wall Street Analysts Expect?",
+   "summary": "The consensus price target hints at a 25.9% upside potential for LifeStance Health (LFST). While empirical research shows that this sought-after metric is hardly effective, an upward trend in earnings estimate revisions could mean that\u2026",
+   "url": "https://finnhub.io/api/news?id=bb1dd06d7a6e39e125e00932dd7fd2977510ce94353e75b6307e95aed149a948",
+   "source": "Yahoo",
+   "published": "2026-11-20T13:55:02+00:00",
+   "tickers": [
+    "LFST"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "89f3d4bf770d",
    "headline": "Researchers explore possibility of a CTE blood test",
    "summary": "21 football players donated blood while they were alive and then gave their brains to CTE research after death. Here's what scientists found.",
@@ -2936,6 +3013,21 @@
    "tag": "Health AI",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "969904873012",
+   "headline": "Forget the Headlines: Novo Nordisk's (NVO) 4.6% Dividend Yield Is the Real Story for Patient Investors",
+   "summary": "The dividend is hefty -- and it's been growing briskly, too.",
+   "url": "https://finnhub.io/api/news?id=10dffbb7cbd20e57ee0978c154a13a08a86b1955827f1c0eec8176cb48aa1cc4",
+   "source": "Yahoo",
+   "published": "2026-11-20T13:49:00+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -4115,6 +4207,21 @@
     "SNY"
    ],
    "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "4b74d88612ec",
+   "headline": "European shares tumble again as Anthropic debut fails to halt tech rout",
+   "summary": "Investing.com - European equities posted a brutal end to the trading week on Friday, sinking to a month-long low and heading to their worst weekly performance since March 2025, as the market debut of artificial intelligence-bellwether\u2026",
+   "url": "https://finnhub.io/api/news?id=c9649761acc85305d6b561023541b9222d3881bfd2cefca005cb062e24ed4f6c",
+   "source": "Yahoo",
+   "published": "2026-11-20T08:36:02+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "Health AI",
    "sectors": [
     "pharma"
    ]
@@ -41344,52 +41451,6 @@
    "tag": "News",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "3e13de9e40d7",
-   "headline": "Hims & Hers (HIMS) Stock Price Faces Q3 Results Margin Reckoning",
-   "summary": "Hims & Hers Health just watched its stock get hit hard. The shares closed at US$22.94 before the Q3 2026 report and now trade around US$19.13, a drop of about 17% as investors react to the latest numbers. The selloff focuses on a fresh\u2026",
-   "url": "https://finnhub.io/api/news?id=5c6e1ef7178485b80dbc7a69165103be74f76b23cd8f307e407d56f972a3cbac",
-   "source": "Yahoo",
-   "published": "2026-11-11T01:10:02+00:00",
-   "tickers": [
-    "HIMS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "0d6394ab9270",
-   "headline": "Recursion Pharmaceuticals Inc (RXRX) Q3 2026 Earnings Call Highlights: Durable FAP Data, Early ...",
-   "summary": "Recursion Pharmaceuticals Inc (RXRX) showcased durable REC-481 polyp reductions, early REC-1245 activity, over $535 million in partnership inflows and a lowered expense outlook.",
-   "url": "https://finnhub.io/api/news?id=3d4e7caca7854df3600c1c78b973e2319926d3a424e4d9c535c7107eb755f2ad",
-   "source": "Yahoo",
-   "published": "2026-11-11T01:07:35+00:00",
-   "tickers": [
-    "RXRX",
-    "SNY"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "d17ada8b4fec",
-   "headline": "Two Neighbors Will Start Leqembi, Listed at $28,270 a Year. One With Medigap Plan G Will Owe $0 in Coinsurance After the Part B Deductible, While the Other Will Owe 20% of Medicare-Approved Infusion Costs",
-   "summary": "Two neighbors get the same Alzheimer's diagnosis and the same prescription, yet only one can count on a manageable bill. A missed registry rule and a closed enrollment window could decide who pays, and the clock runs out December 7.",
-   "url": "https://finnhub.io/api/news?id=a1850751bda7cdba7a00f33cde5775b63f596857044383d2834f18a5830bd607",
-   "source": "Yahoo",
-   "published": "2026-11-11T01:03:24+00:00",
-   "tickers": [
-    "BIIB"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
