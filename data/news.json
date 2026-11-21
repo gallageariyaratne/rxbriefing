@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-21T13:32:42.731396+00:00",
+ "updated": "2026-11-21T13:47:27.840703+00:00",
  "quotes": {
   "A": {
    "price": 170.38,
@@ -166,10 +166,6 @@
    "price": 141.33,
    "change_pct": -2.17
   },
-  "IONS": {
-   "price": 26.58,
-   "change_pct": -2.35
-  },
   "IQV": {
    "price": 245.82,
    "change_pct": -1.89
@@ -250,10 +246,6 @@
    "price": 133.17,
    "change_pct": -2.96
   },
-  "PTCT": {
-   "price": 56.42,
-   "change_pct": -3.27
-  },
   "RMD": {
    "price": 235.63,
    "change_pct": -0.53
@@ -294,10 +286,6 @@
    "price": 54.04,
    "change_pct": -9.34
   },
-  "TGTX": {
-   "price": 63.34,
-   "change_pct": -2.37
-  },
   "TMO": {
    "price": 669.54,
    "change_pct": -2.79
@@ -321,6 +309,18 @@
   "VRTX": {
    "price": 515.02,
    "change_pct": -1.08
+  },
+  "WAT": {
+   "price": 440.45,
+   "change_pct": -3.51
+  },
+  "ZBH": {
+   "price": 101.1,
+   "change_pct": -0.36
+  },
+  "ZTS": {
+   "price": 79.11,
+   "change_pct": -2.08
   }
  },
  "tickers": {
@@ -40518,128 +40518,6 @@
    "tag": "News",
    "sectors": [
     "tools"
-   ]
-  },
-  {
-   "id": "9530570f0d57",
-   "headline": "AstraZeneca buys vaccine startup; FDA issues GLP-1 safety warning",
-   "summary": "The deal gives AstraZeneca a simpler way to make conjugate vaccines. Elsewhere, a psychedelic depression drug was submitted to the FDA and an autoimmune disease-focused biotech\u2019s shares collapsed.",
-   "url": "https://www.biopharmadive.com/news/glp1-naion-compass-zura-abeona/874076/",
-   "source": "BioPharma Dive",
-   "published": "2026-11-11T13:42:00+00:00",
-   "tickers": [
-    "AZN"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "745f61bcff32",
-   "headline": "AstraZeneca buys vaccine startup; FDA issues GLP-1 safety warning",
-   "summary": "The deal gives AstraZeneca a simpler way to make conjugate vaccines. Elsewhere, a psychedelic depression drug was submitted to the FDA and an autoimmune disease-focused biotech\u2019s shares collapsed.",
-   "url": "https://finnhub.io/api/news?id=3167292450607a6a64d0b0f8f6a56143254aafdd449892f67c8b23e72c399300",
-   "source": "Yahoo",
-   "published": "2026-11-11T13:42:00+00:00",
-   "tickers": [
-    "AZN"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "0d6fd32491d6",
-   "headline": "Polymedco, LLC awarded National Group Purchasing Agreement with Premier, Inc.",
-   "summary": "CORTLANDT MANOR, N.Y., November 11, 2026--Polymedco, LLC has been awarded a national group purchasing agreement for National Group Purchasing Agreement with Premier, Inc. Effective November 1, 2026, the new agreement allows Premier\u2026",
-   "url": "https://finnhub.io/api/news?id=c0f56309642be7e1df53bbc333e67e06ae744bb626987a0f7bef2abf05da99ab",
-   "source": "Yahoo",
-   "published": "2026-11-11T13:41:00+00:00",
-   "tickers": [
-    "PINC"
-   ],
-   "tag": "News",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "153030726cc1",
-   "headline": "Moderna Stock Jumped 10% in 5 Sessions: Take Profits, or Buy More?",
-   "summary": "Key TakeawaysModerna (MRNA) stock gained approximately 9. 8% over five trading sessions, closing at $250.",
-   "url": "https://finnhub.io/api/news?id=11aba682d9ab5a03f6cdafab85683a7128c3d39a58d8cb1c7ffc7a2be07ee483",
-   "source": "Yahoo",
-   "published": "2026-11-11T13:39:53+00:00",
-   "tickers": [
-    "MRNA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "9990ea6eaa12",
-   "headline": "Hims & Hers Health: The Thesis Is Getting Shaky (Rating Downgrade)",
-   "summary": "Hims & Hers Health, Inc., is a Hold: Q3 growth excluding Eucalyptus was 26%. Click for this HIMS stock earnings update and see if it is right for you.",
-   "url": "https://finnhub.io/api/news?id=ed8299f01d4edb7920e3124abe8b8ba4ceb8fbdb94e9991c02e9e7f0f8634450",
-   "source": "SeekingAlpha",
-   "published": "2026-11-11T13:39:08+00:00",
-   "tickers": [
-    "HIMS",
-    "LLY",
-    "NVO"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "87c0c5fd9d70",
-   "headline": "Natera, Inc. (NTRA) Presents at 2026 UBS Global Healthcare Conference Transcript",
-   "summary": "Natera, Inc. (NTRA) 2026 UBS Global Healthcare Conference November 9, 2026 8:00 AM ESTCompany ParticipantsMike Brophy - Chief Financial OfficerConference...",
-   "url": "https://finnhub.io/api/news?id=3fc7ab4da6f6b23310e506b23858b6c43dae36c3d345c0342d06d3a18d300b60",
-   "source": "SeekingAlpha",
-   "published": "2026-11-11T13:39:00+00:00",
-   "tickers": [
-    "NTRA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "a03bea32bcd3",
-   "headline": "S&P 500 Premarket Movers: Gainers and Losers Ahead of the Open",
-   "summary": "S&P 500 premarket movers: COHR, LITE, STX, MRVL and WDC lead gainers, while ACGL, CLX, ABNB and REGN slip ahead of the opening bell.",
-   "url": "https://finnhub.io/api/news?id=0218f22724d9afec1d16c9c7b82b38e00deb15f27da4d17f2a66eeda38bb8166",
-   "source": "ChartMill",
-   "published": "2026-11-11T13:36:12+00:00",
-   "tickers": [
-    "REGN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "c5873e8e2938",
-   "headline": "BioNTech pays $205M for FDA voucher to speed up \u2018late-stage oncology pipeline\u2019",
-   "summary": "BioNTech has agreed to pay $205 million to purchase an FDA priority review voucher to support a future filing of a drug in its \u201clate-stage oncology pipeline.\u201d Fierce breaks down which candidate is most likely to claim the regulatory\u2026",
-   "url": "https://www.fiercepharma.com/pharma/biontech-pays-205m-fda-voucher-speed-late-stage-oncology-pipeline",
-   "source": "Fierce Pharma",
-   "published": "2026-11-11T13:34:00.251026+00:00",
-   "tickers": [
-    "BNTX"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
