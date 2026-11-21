@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-21T16:47:06.002201+00:00",
+ "updated": "2026-11-21T17:02:04.496300+00:00",
  "quotes": {
   "A": {
    "price": 170.38,
@@ -50,10 +50,6 @@
    "price": 339.09,
    "change_pct": -0.63
   },
-  "CRL": {
-   "price": 314.32,
-   "change_pct": -4.15
-  },
   "CVS": {
    "price": 80.84,
    "change_pct": 1.0
@@ -61,10 +57,6 @@
   "DHR": {
    "price": 220.36,
    "change_pct": -3.16
-  },
-  "DOCS": {
-   "price": 28.73,
-   "change_pct": -2.97
   },
   "DVA": {
    "price": 161.03,
@@ -101,10 +93,6 @@
   "ICLR": {
    "price": 186.71,
    "change_pct": -1.92
-  },
-  "IDXX": {
-   "price": 676.21,
-   "change_pct": -1.95
   },
   "ILMN": {
    "price": 192.82,
@@ -178,10 +166,6 @@
    "price": 133.17,
    "change_pct": -2.96
   },
-  "RMD": {
-   "price": 235.63,
-   "change_pct": -0.53
-  },
   "RVMD": {
    "price": 161.2,
    "change_pct": 1.11
@@ -201,6 +185,10 @@
   "SYK": {
    "price": 310,
    "change_pct": -0.98
+  },
+  "TMO": {
+   "price": 669.54,
+   "change_pct": -2.79
   },
   "TXG": {
    "price": 51.8,
@@ -875,11 +863,42 @@
    "source": "Yahoo",
    "published": "2026-11-21T14:51:03+00:00",
    "tickers": [
-    "DHR"
+    "DHR",
+    "TMO"
    ],
    "tag": "News",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "bfa8f89cdb17",
+   "headline": "British American Tobacco vs. Merck: Which Dividend Stock Pays You More in 10 Years?",
+   "summary": "Key TakeawaysBritish American Tobacco yields 5. 3% and Merck yields 2.",
+   "url": "https://finnhub.io/api/news?id=825bb5110a1907f5ea8532193a97fe511e967262158969f0314ee9806c5183be",
+   "source": "Yahoo",
+   "published": "2026-11-21T14:35:27+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "6d2900d71db7",
+   "headline": "Eli Lilly Is Near Its High. Bank of America Sees Another 19%",
+   "summary": "Key TakeawaysBank of America raised its Eli Lilly price target to $1,600 from $1,557 on Nov. 19 and kept its Buy rating.",
+   "url": "https://finnhub.io/api/news?id=fb6d3882da5f01e49b6b105ed87d00585fbb1a51a73aaade7dbe5bfab56ffb85",
+   "source": "Yahoo",
+   "published": "2026-11-21T14:09:54+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -39549,21 +39568,6 @@
    "tag": "FDA",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "787ccaec359a",
-   "headline": "Sales of Pharmaceuticals, GLP-1s Send McKesson Shares to New Highs",
-   "summary": "McKesson Corporation (MCK) shares up over 235% since May 2022 thanks to institutional support.",
-   "url": "https://finnhub.io/api/news?id=518a5b94b7d31b5b2049c0b5f19ed80f79e1924c58704a18fe50c554ef62e58e",
-   "source": "Yahoo",
-   "published": "2026-11-11T16:49:40+00:00",
-   "tickers": [
-    "MCK"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharmacy"
    ]
   }
  ]
