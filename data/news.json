@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-21T02:47:40.470730+00:00",
+ "updated": "2026-11-21T03:02:51.512689+00:00",
  "quotes": {
   "A": {
    "price": 170.38,
@@ -206,6 +206,10 @@
    "price": 270.47,
    "change_pct": 1.25
   },
+  "LEGN": {
+   "price": 15.25,
+   "change_pct": -5.28
+  },
   "LFST": {
    "price": 13.82,
    "change_pct": 3.6
@@ -266,6 +270,10 @@
    "price": 32.51,
    "change_pct": -2.02
   },
+  "OPCH": {
+   "price": 31.59,
+   "change_pct": -0.06
+  },
   "OSCR": {
    "price": 24.73,
    "change_pct": -5.5
@@ -313,14 +321,6 @@
   "SMMT": {
    "price": 9.95,
    "change_pct": -5.87
-  },
-  "SNY": {
-   "price": 46.52,
-   "change_pct": 1.0
-  },
-  "SYK": {
-   "price": 310,
-   "change_pct": -0.98
   }
  },
  "tickers": {
@@ -986,7 +986,8 @@
    "source": "Yahoo",
    "published": "2026-11-21T00:15:17+00:00",
    "tickers": [
-    "MCK"
+    "MCK",
+    "OPCH"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -1119,6 +1120,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "a4e9a3386bdc",
+   "headline": "Jacobs (J) Stock May Be A Bargain Despite Fresh Airport Upgrade Wins",
+   "summary": "Jacobs Solutions has put in a solid share price run in recent years, and the question now is whether the current US$154.58 level is supported by the cash the business can generate. With investors digesting a string of fresh contract wins,\u2026",
+   "url": "https://finnhub.io/api/news?id=f8bac29276c63429aabed210f671e673574bb95e25d31158951fea12b4b94a93",
+   "source": "Yahoo",
+   "published": "2026-11-20T21:17:34+00:00",
+   "tickers": [
+    "SNY"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "87b0f80636bb",
@@ -1282,6 +1298,21 @@
    "tag": "News",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "f0505f2ae42a",
+   "headline": "Jacobs Solutions (J) Lands Sanofi Project Following Questions Over Whether Shares Are Fully Valued",
+   "summary": "Jacobs Solutions (J) just landed a fresh mandate with Sanofi, taking on Engineering, Procurement and Construction Management for a new insulin facility in Frankfurt that aims to support multiple products and supply reliability. Jacobs\u2026",
+   "url": "https://finnhub.io/api/news?id=53b1c77f8298a93081062762807ff7932c06fa123e8f10549ff46f0bd06300c6",
+   "source": "Yahoo",
+   "published": "2026-11-20T20:11:19+00:00",
+   "tickers": [
+    "SNY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1533,7 +1564,8 @@
    "published": "2026-11-20T18:29:25+00:00",
    "tickers": [
     "MRK",
-    "MRNA"
+    "MRNA",
+    "SRPT"
    ],
    "tag": "News",
    "sectors": [
@@ -1551,6 +1583,21 @@
     "BMY"
    ],
    "tag": "Analyst",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "d7f2b765577e",
+   "headline": "3 Pharma Stocks Using AI To Reshape Drug Discovery And R&D Spending",
+   "summary": "AI is creeping into drug discovery labs, and that quiet shift is starting to matter for portfolios as much as it does for patients. Rapid gains in computing power and model quality are helping large pharmaceutical groups test ideas faster\u2026",
+   "url": "https://finnhub.io/api/news?id=dec8bef00cad8946f49a9c0701c66ba1fbadfd752d1e90c4f2b49e982fc68c87",
+   "source": "Yahoo",
+   "published": "2026-11-20T18:12:39+00:00",
+   "tickers": [
+    "SNY"
+   ],
+   "tag": "Health AI",
    "sectors": [
     "pharma"
    ]
@@ -1968,7 +2015,8 @@
    "published": "2026-11-20T16:25:00+00:00",
    "tickers": [
     "AZN",
-    "NVS"
+    "NVS",
+    "SNY"
    ],
    "tag": "News",
    "sectors": [
@@ -2052,6 +2100,21 @@
    "tickers": [],
    "tag": "GLP-1",
    "sectors": []
+  },
+  {
+   "id": "d3978e5bdd72",
+   "headline": "European Equities Traded in the US as American Depositary Receipts Track Lower in Friday Trading; Down More Than 7% for Week",
+   "summary": "European equities traded in the US as American depositary receipts were tracking lower late Friday m",
+   "url": "https://finnhub.io/api/news?id=b07107863e29ddee5c9c4b920b629f94e1a2eebab70324766539c4b3574f6477",
+   "source": "Yahoo",
+   "published": "2026-11-20T16:15:43+00:00",
+   "tickers": [
+    "SNY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "94e8ebc0ac20",
@@ -2708,6 +2771,21 @@
    ]
   },
   {
+   "id": "4bec4ac612dc",
+   "headline": "A $1.5 Billion Hedge Fund Just Bought These 3 Stocks",
+   "summary": "Key TakeawaysHHLR Advisors, part of Hillhouse, added to PDD Holdings, Alibaba and Legend Biotech last quarter, and together they\u2019re now just over half of its US stock portfolio. PDD and Alibaba both reported strong September quarters on\u2026",
+   "url": "https://finnhub.io/api/news?id=dd6137f89f5b693096879759869e2280d7a4621d183587a69f852fc512eb253e",
+   "source": "Yahoo",
+   "published": "2026-11-20T14:57:59+00:00",
+   "tickers": [
+    "LEGN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "4202350b7453",
    "headline": "A $6.4 Billion Hedge Fund Just Bought These 3 Stocks",
    "summary": "Key TakeawaysLarry Robbins\u2019 Glenview Capital, a hedge fund firm managing $6. 37 billion, made Meta Platforms, Advanced Micro Devices and Humana its three biggest additions of the third quarter, per its 13F filed Nov.",
@@ -2781,7 +2859,8 @@
    "source": "Yahoo",
    "published": "2026-11-20T14:48:08+00:00",
    "tickers": [
-    "INSM"
+    "INSM",
+    "SNY"
    ],
    "tag": "M&A",
    "sectors": [
@@ -3099,6 +3178,21 @@
    ]
   },
   {
+   "id": "e7943508a013",
+   "headline": "Sanofi Maps Vaccine Pipeline With Flu-COVID and Pneumococcal Trial Results Ahead",
+   "summary": "Sanofi (NASDAQ:SNY) is advancing a slate of vaccine candidates targeting respiratory infections, pneumococcal disease and acne, with several clinical readouts expected over the next 18 months, according to its head of vaccines research\u2026",
+   "url": "https://finnhub.io/api/news?id=c756204dd6481e8c370fdf61b4a3820dc84556b0d9aa89f4769feeffc9ea0f65",
+   "source": "Yahoo",
+   "published": "2026-11-20T14:12:27+00:00",
+   "tickers": [
+    "SNY"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "de34e1eae03a",
    "headline": "HALO Faces Legal Setback in Germany Over MRK's Keytruda SC, Stock Down",
    "summary": "Halozyme faces a legal setback in Germany as a court overturns an injunction against Merck's Keytruda SC, prompting a new patent lawsuit.",
@@ -3413,6 +3507,21 @@
    ]
   },
   {
+   "id": "055c0ef84800",
+   "headline": "Ionis Pharmaceuticals Pushes TRYNGOLZA Access as Insurer Requirements Slow Launch",
+   "summary": "Ionis Pharmaceuticals (NASDAQ:IONS) is working to accelerate prescriptions for TRYNGOLZA as physicians gain experience with the drug and patients navigate insurance requirements, CEO Brett Monia said at the Jefferies Global Healthcare\u2026",
+   "url": "https://finnhub.io/api/news?id=e177381a53d49ee706ccd9e37ada0c60121f1a23ecf3c120d7fc8ea3afc8d93c",
+   "source": "Yahoo",
+   "published": "2026-11-20T13:12:10+00:00",
+   "tickers": [
+    "IONS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "b0dfcd4bcd1e",
    "headline": "US Stock Market Today: S&P 500 Futures Slip As Hawkish Fed And Strong Dollar Bite",
    "summary": "The Morning Bull - US Market Morning Update Friday, Nov, 20 2026 US stocks look set to open weaker, with the Fed\u2019s hawkish message and a stronger dollar setting the tone. Futures selling points to risk appetite being reined in as\u2026",
@@ -3693,7 +3802,8 @@
    "published": "2026-11-20T12:28:52+00:00",
    "tickers": [
     "INSM",
-    "PFE"
+    "PFE",
+    "SNY"
    ],
    "tag": "M&A",
    "sectors": [
@@ -3872,6 +3982,7 @@
    "published": "2026-11-20T11:53:30+00:00",
    "tickers": [
     "INSM",
+    "SNY",
     "UTHR"
    ],
    "tag": "News",
