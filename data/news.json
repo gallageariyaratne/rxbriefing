@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-21T22:16:46.293250+00:00",
+ "updated": "2026-11-21T22:31:49.987623+00:00",
  "quotes": {
   "A": {
    "price": 170.38,
@@ -25,10 +25,6 @@
   "BMY": {
    "price": 58.8,
    "change_pct": 0.79
-  },
-  "BSX": {
-   "price": 41.98,
-   "change_pct": -2.35
   },
   "CVS": {
    "price": 80.84,
@@ -125,6 +121,10 @@
   "PODD": {
    "price": 133.17,
    "change_pct": -2.96
+  },
+  "RMD": {
+   "price": 235.63,
+   "change_pct": -0.53
   },
   "RVMD": {
    "price": 161.2,
@@ -769,6 +769,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "fc08c782601e",
+   "headline": "Top 3 Undervalued Stocks To Watch In November 2026",
+   "summary": "AI stocks have just suffered a sharp rout, wiping out the Nasdaq\u2019s gains for the year and shaking confidence in high\u2011growth stories. When sentiment swings this hard, solid businesses that quietly generate cash can get marked down with\u2026",
+   "url": "https://finnhub.io/api/news?id=e6759e844ba379d67508dfa71300c52f985db3b6685c1d5a89012842882df918",
+   "source": "Yahoo",
+   "published": "2026-11-21T21:10:41+00:00",
+   "tickers": [
+    "RMD"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "medtech"
+   ]
+  },
   {
    "id": "43e4e6bbe3b0",
    "headline": "FDA again turns back Capricor Duchenne cell therapy",
@@ -3535,6 +3550,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "904029ed52b3",
+   "headline": "Mondelez vs. CVS: Which Dividend Stock Pays You More in 10 Years?",
+   "summary": "Key TakeawaysCVS Health beat estimates and raised its guidance on Nov. 4, and it plans to split into two companies by the first half of 2028.",
+   "url": "https://finnhub.io/api/news?id=de039bbabee097ee6902eef3ef62b159788738df8699944c84fdfc5d2f933676",
+   "source": "Yahoo",
+   "published": "2026-11-20T14:59:03+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -38664,21 +38694,6 @@
    "tag": "GLP-1",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "dc9f6c191193",
-   "headline": "GE HealthCare: 3 Key Takeaways for Long-Term Investors",
-   "summary": "Multiyear supply contracts and higher-margin product launches may help position the company to sustain margin expansion amid industry chip shortages.",
-   "url": "https://finnhub.io/api/news?id=9be243cb5bf7ca67e4314143d94c56520c957f2bcc065f963ee6a0d62c07ba3e",
-   "source": "Yahoo",
-   "published": "2026-11-11T22:20:02+00:00",
-   "tickers": [
-    "GEHC"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
