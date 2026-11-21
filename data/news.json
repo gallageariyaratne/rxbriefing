@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-21T12:02:39.236740+00:00",
+ "updated": "2026-11-21T12:17:26.679842+00:00",
  "quotes": {
   "A": {
    "price": 170.38,
@@ -129,10 +129,6 @@
   "GKOS": {
    "price": 237.31,
    "change_pct": -0.33
-  },
-  "GMED": {
-   "price": 66.89,
-   "change_pct": -2.49
   },
   "HALO": {
    "price": 91.35,
@@ -321,6 +317,10 @@
   "UNH": {
    "price": 339.85,
    "change_pct": 2.84
+  },
+  "UTHR": {
+   "price": 554.73,
+   "change_pct": -0.78
   }
  },
  "tickers": {
@@ -41071,32 +41071,6 @@
    "tag": "FDA",
    "sectors": [
     "tools"
-   ]
-  },
-  {
-   "id": "35d2b1914631",
-   "headline": "Amazon Web Services commits $100M to AI, cloud tech health initiatives over next 5 years",
-   "summary": "The funds are part of the AWS Health Impact Initiative, a five-year program, announced Monday.",
-   "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/amazon-web-services-commits-100m-ai-cloud-tech-initiatives-over-next-5",
-   "source": "Fierce Healthcare",
-   "published": "2026-11-11T12:15:21.859782+00:00",
-   "tickers": [],
-   "tag": "Health AI",
-   "sectors": []
-  },
-  {
-   "id": "feb16206f7cb",
-   "headline": "Moderna Highlights JAMA Publication Of Real-World Comparative Effectiveness Data For COVID-19 Vaccine Adults Aged 65 Years and Older",
-   "summary": "Real-world analysis of more than 294,000 U.S. Veterans aged 65 and older found mNEXSPIKE was associated with a 35.9% lower risk of medically attended COVID-19 and a 47% lower risk of COVID-19-associated hospitalization",
-   "url": "https://finnhub.io/api/news?id=0179199c366e494e2da31d4cf1d4231d0d6bfcee44a6e3b13647380b5e6a8e1f",
-   "source": "Benzinga",
-   "published": "2026-11-11T12:13:21+00:00",
-   "tickers": [
-    "MRNA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
