@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-21T20:01:58.881041+00:00",
+ "updated": "2026-11-21T20:16:52.852205+00:00",
  "quotes": {
   "A": {
    "price": 170.38,
@@ -21,10 +21,6 @@
   "ALNY": {
    "price": 143.82,
    "change_pct": -2.71
-  },
-  "ASND": {
-   "price": 252.73,
-   "change_pct": -1.26
   },
   "BMY": {
    "price": 58.8,
@@ -69,10 +65,6 @@
   "HUM": {
    "price": 390,
    "change_pct": 2.63
-  },
-  "ILMN": {
-   "price": 192.82,
-   "change_pct": -3.9
   },
   "INCY": {
    "price": 114.62,
@@ -161,10 +153,6 @@
   "UNH": {
    "price": 339.85,
    "change_pct": 2.84
-  },
-  "UTHR": {
-   "price": 554.73,
-   "change_pct": -0.78
   },
   "VEEV": {
    "price": 266.22,
@@ -789,6 +777,36 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "2558b57c0f6d",
+   "headline": "Medtronic Is About to Report Its First Earnings Since Spinning Off MiniMed. Should You Buy the Stock Before Nov. 24?",
+   "summary": "The medical device giant is expected to post another quarter of stabilizing sales.",
+   "url": "https://finnhub.io/api/news?id=8c00c73c393a6d1e5241fbce92169a35921408d9e9b7d04726cd36790c7e965c",
+   "source": "Yahoo",
+   "published": "2026-11-21T19:27:02+00:00",
+   "tickers": [
+    "MDT"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "8555e86b75bc",
+   "headline": "$500,000 in AbbVie and Gilead Could Pay More Than $11,000 a Year in Dividends",
+   "summary": "One drugmaker's earnings look broken on paper, while the other carries negative equity and a mountain of new debt. Both still hand retirees raises every year, so why would anyone trust them with half a million dollars?",
+   "url": "https://finnhub.io/api/news?id=d7774d671334567d8c634de1ea7e800f91d4cd4e82d880128917acc53c42e014",
+   "source": "Yahoo",
+   "published": "2026-11-21T18:07:46+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
   {
    "id": "b20ca0104225",
    "headline": "Eli Lilly's Next Big Growth Opportunity Could Be Hiding in Plain Sight",
@@ -39025,82 +39043,6 @@
    "tag": "News",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "67147adc98c0",
-   "headline": "Cigna (CI) Recently Broke Out Above the 20-Day Moving Average",
-   "summary": "Should investors be excited or worried when a stock crosses above the 20-day simple moving average?",
-   "url": "https://finnhub.io/api/news?id=f577baa242b6e09efd3af951040b1468a145ed8e5aab1500a5e4a95107bc3429",
-   "source": "Yahoo",
-   "published": "2026-11-11T20:12:54+00:00",
-   "tickers": [
-    "CI"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "0af2d2c3ec3e",
-   "headline": "Is Novartis (SWX:NOVN) A Bargain Or Fully Priced Now?",
-   "summary": "Novartis has delivered strong multi year gains for shareholders, yet the recent run leaves a clear question on the table about whether the current share price is still aligned with what its earnings can support. With new clinical data,\u2026",
-   "url": "https://finnhub.io/api/news?id=855488b423620dfa0e40d5e3c94e7fc20599b9b2c4e56b35866ed9b8c9d572a7",
-   "source": "Yahoo",
-   "published": "2026-11-11T20:12:21+00:00",
-   "tickers": [
-    "NVS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "ae0d4a6ee868",
-   "headline": "Top Analyst Reports for NVIDIA, Walmart & AbbVie",
-   "summary": "Today's Research Daily features new research reports on 16 major stocks, including NVIDIA Corp. (NVDA), Walmart Inc. (WMT), AbbVie Inc. (ABBV) as well as two micro-cap stocks, Pioneer Bancorp, Inc. (PBFS) and Aspira Women's Health Inc.\u2026",
-   "url": "https://finnhub.io/api/news?id=1213af9ba9007b307d694ffa3ff4a314ab7b7339bda9f6ed6119393103dd7c0b",
-   "source": "Yahoo",
-   "published": "2026-11-11T20:08:00+00:00",
-   "tickers": [
-    "ABBV",
-    "CVS"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "30e4171ac8f5",
-   "headline": "Are Medical Stocks Lagging Alector (ALEC) This Year?",
-   "summary": "Here is how Alector (ALEC) and CVS Health (CVS) have performed compared to their sector so far this year.",
-   "url": "https://finnhub.io/api/news?id=536be60ada4fb7edbddc76ad68167ad9f5a32d0391d0cb847dcb690641617464",
-   "source": "Yahoo",
-   "published": "2026-11-11T20:07:11+00:00",
-   "tickers": [
-    "CVS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "df46d218529c",
-   "headline": "What Is Medtronic (MDT) Facing After Two Class II Cardiac Device Recalls?",
-   "summary": "Medtronic (NYSE:MDT) initiated two Class II device recalls in November 2026 covering cardiac products used in implantable therapies. The OmniaSecure Model 3930M cardiac lead recall cites product performance concerns, including\u2026",
-   "url": "https://finnhub.io/api/news?id=d503b5e1080ef26a9fd0fcfa36509392b6c6df634fc8facba3c70608fa530837",
-   "source": "Yahoo",
-   "published": "2026-11-11T20:06:50+00:00",
-   "tickers": [
-    "MDT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
