@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-21T20:46:51.401493+00:00",
+ "updated": "2026-11-21T21:01:58.246664+00:00",
  "quotes": {
   "A": {
    "price": 170.38,
@@ -45,6 +45,10 @@
   "ELV": {
    "price": 394.48,
    "change_pct": 1.11
+  },
+  "GILD": {
+   "price": 166.43,
+   "change_pct": -0.06
   },
   "GKOS": {
    "price": 237.31,
@@ -793,6 +797,21 @@
    ]
   },
   {
+   "id": "3a2771de4f93",
+   "headline": "Clorox vs. Merck: 49 and 15 Straight Years of Raises. Which Dividend Pays You More in 10 Years?",
+   "summary": "Key TakeawaysClorox yields 4. 6%, twice Merck\u2019s 2.",
+   "url": "https://finnhub.io/api/news?id=3bc168178e3c51609a9ef3e32297203298cacb7ac2f31d42877d3c52beae89b8",
+   "source": "Yahoo",
+   "published": "2026-11-21T18:35:27+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "8555e86b75bc",
    "headline": "$500,000 in AbbVie and Gilead Could Pay More Than $11,000 a Year in Dividends",
    "summary": "One drugmaker's earnings look broken on paper, while the other carries negative equity and a mountain of new debt. Both still hand retirees raises every year, so why would anyone trust them with half a million dollars?",
@@ -800,7 +819,8 @@
    "source": "Yahoo",
    "published": "2026-11-21T18:07:46+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "GILD"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -38914,40 +38934,6 @@
    "tickers": [
     "ABBV",
     "MRK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "52d8f3dbc9cd",
-   "headline": "BioNTech vs. Vertex Pharmaceuticals: Which Healthcare Stock Is a Better Buy for 2027?",
-   "summary": "Vertex Pharmaceuticals earns steady profits from its cystic fibrosis medicines while expanding into new diseases. BioNTech has a large cash cushion and a growing cancer pipeline, but its COVID vaccine sales are fading.",
-   "url": "https://finnhub.io/api/news?id=83f95a3ccd49f03904dd6d5487f01421b4b74ae5244f1c16e53b135d34d4ef9a",
-   "source": "Yahoo",
-   "published": "2026-11-11T21:00:32+00:00",
-   "tickers": [
-    "VRTX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "1f1ede16d67c",
-   "headline": "Can You Make Money Off Halozyme Stock Now?",
-   "summary": "For questions about this article or underlying research, email help@trefis.com.",
-   "url": "https://finnhub.io/api/news?id=37cc490fb6ba1e93ad44e5138cbc02e07f65cf1e32bfe667a1b281b488d8bba4",
-   "source": "Yahoo",
-   "published": "2026-11-11T20:55:46+00:00",
-   "tickers": [
-    "ABBV",
-    "BDX",
-    "HALO",
-    "MRK",
-    "PFE"
    ],
    "tag": "News",
    "sectors": [
