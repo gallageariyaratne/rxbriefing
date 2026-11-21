@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-21T15:02:31.936149+00:00",
+ "updated": "2026-11-21T15:17:26.243901+00:00",
  "quotes": {
   "A": {
    "price": 170.38,
@@ -241,10 +241,6 @@
   "RXRX": {
    "price": 2.45,
    "change_pct": -9.93
-  },
-  "SMMT": {
-   "price": 9.95,
-   "change_pct": -5.87
   },
   "SNY": {
    "price": 46.52,
@@ -914,6 +910,21 @@
  },
  "stories": [
   {
+   "id": "da76cfe1ea58",
+   "headline": "AbbVie (ABBV) Stock Just Got a 5.2% Dividend Increase. Here's How Many Shares You Need to Generate $1,000 a Year.",
+   "summary": "This pharmaceutical giant has hiked its payout for 53 years in a row, so it's likely to keep doing so.",
+   "url": "https://finnhub.io/api/news?id=a2eb3fd016729c1b32fb2fd2567229c3bfd9573b2bad4ab47b9852f87e45fd0c",
+   "source": "Yahoo",
+   "published": "2026-11-21T13:30:02+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "08b5d2df70c0",
    "headline": "5 Dividend Kings to Buy for Lifelong Income Before the End of November",
    "summary": "A fat yield means nothing if the cash behind it dries up. Five companies with 50-plus years of dividend raises put safety ahead of income, yet one of them leaves almost no room for error.",
@@ -1031,6 +1042,21 @@
    ]
   },
   {
+   "id": "a5c2b24b9386",
+   "headline": "A $4.3 Billion Fund Dumps These 3 Stocks",
+   "summary": "Key TakeawaysPrana Capital Management, which manages $4. 31 billion, sold all of its HCA Healthcare, Berkshire Hathaway and PulteGroup stock in the third quarter.",
+   "url": "https://finnhub.io/api/news?id=b3e4b90326fd628bac64a9d0ef53cfeacb825483de24a6fc884df9af70683ec6",
+   "source": "Yahoo",
+   "published": "2026-11-21T10:43:58+00:00",
+   "tickers": [
+    "HCA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "e6e4f7b514df",
    "headline": "A $5.5 Billion Fund Dumps These 3 Stocks",
    "summary": "Key TakeawaysVestal Point Capital, a firm managing $5. 47 billion, held none of its Abbott Laboratories, Revolution Medicines or BioCryst Pharmaceuticals shares by Sept.",
@@ -1039,6 +1065,7 @@
    "published": "2026-11-21T10:43:24+00:00",
    "tickers": [
     "ABT",
+    "NBIX",
     "RVMD"
    ],
    "tag": "News",
@@ -2131,6 +2158,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "105b1e7007ce",
+   "headline": "Intellia Therapeutics Files Shelf Prospectus For Offering; Size Not Disclosed",
+   "summary": "https://www.sec.gov/Archives/edgar/data/1652130/000119312526470525/d150437ds3asr.htm",
+   "url": "https://finnhub.io/api/news?id=635a7e2315ae8b05c1c13aa0725748cae687ace8866fab5a12466d3f2531b19b",
+   "source": "Benzinga",
+   "published": "2026-11-20T18:30:16+00:00",
+   "tickers": [
+    "NTLA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -3963,6 +4005,21 @@
    "sectors": []
   },
   {
+   "id": "7f27776d5e62",
+   "headline": "JP Morgan Maintains Overweight on Cytokinetics, Lowers Price Target to $100",
+   "summary": "JP Morgan analyst Tessa Romero maintains Cytokinetics (NASDAQ:CYTK) with a Overweight and lowers the price target from $103 to $100.",
+   "url": "https://finnhub.io/api/news?id=2b0094d86ebec7724e8b6ddce4118a9c9a0d499dcb246967f1296afe0d64b4f4",
+   "source": "Benzinga",
+   "published": "2026-11-20T13:52:52+00:00",
+   "tickers": [
+    "CYTK"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "c23648690ffe",
    "headline": "Quest Diagnostics Stock Gains 49.3% YTD: What's Behind the Rally?",
    "summary": "DGX rises 49.3% YTD, fueled by strong physician and hospital revenues, expanding diagnostics services, strategic acquisitions and higher earnings guidance.",
@@ -4314,6 +4371,21 @@
    ]
   },
   {
+   "id": "622e9dda30ec",
+   "headline": "12 Health Care Stocks Moving In Friday's Intraday Session",
+   "summary": "Gainers DataMEDS AI (NASDAQ:MEDS) shares increased by 44.3% to $1.05 during Friday's regular session. The market value of their outstanding shares is at $4.1 million. Akanda (NASDAQ:AKAN) stock moved upwards by",
+   "url": "https://finnhub.io/api/news?id=76be48bbd257e97aca4373a8872091c199c0d7e00d996099b7225572406fa0a6",
+   "source": "Benzinga",
+   "published": "2026-11-20T13:05:33+00:00",
+   "tickers": [
+    "EVH"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "62cc11b18b97",
    "headline": "Celldex drug stumbles in eczema; Epigenetic editing startup cuts staff",
    "summary": "Wall Street analysts rushed to Celldex\u2019s defense following the setback. Elsewhere, Isomorphic Labs cut a cancer-focused deal with Merck and Teva\u2019s research chief accepted a new job.",
@@ -4506,6 +4578,21 @@
     "NTRA"
    ],
    "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "5b03741dda81",
+   "headline": "Danaher Unveils Microsoft AI Partnership to Accelerate Scientific Experiments",
+   "summary": "Danaher partners with Microsoft to build AI scientific instruments on Azure and Foundry, cutting lab experiment times by up to 83%.",
+   "url": "https://finnhub.io/api/news?id=99afd6d802e4ad8ab5968afcea366b39b300ac4ab643582bd8caa91bf6ccbf0f",
+   "source": "Benzinga",
+   "published": "2026-11-20T12:45:39+00:00",
+   "tickers": [
+    "DHR"
+   ],
+   "tag": "Health AI",
    "sectors": [
     "tools"
    ]
@@ -40247,47 +40334,6 @@
    "sectors": [
     "pharma"
    ]
-  },
-  {
-   "id": "e148a83d3e17",
-   "headline": "Boston Scientific Targets Long-Term Growth as Key Businesses Face Pressure Through 2027",
-   "summary": "Boston Scientific (NYSE:BSX) executives said they expect durable growth across the company\u2019s interventional portfolio, while acknowledging that its pulsed field ablation and WATCHMAN businesses face competitive challenges through 2027.\u2026",
-   "url": "https://finnhub.io/api/news?id=30b4fa6f03c09f9673a8207d2d41a47dd1a758096459f423bf7df0bab09280c2",
-   "source": "Yahoo",
-   "published": "2026-11-11T15:15:16+00:00",
-   "tickers": [
-    "BSX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "9374539d0cfb",
-   "headline": "Gilead (GILD) Stock Still Looks Undervalued On Its 205% Run",
-   "summary": "Gilead Sciences has ridden a powerful run in recent years, with the stock now trading near US$170.87, so the key question is whether that share price still matches what its cash flows can support. With major HIV and liver disease programs\u2026",
-   "url": "https://finnhub.io/api/news?id=7fa6bbdb5cfec89ec7e20c7275833348a772adb1bb4e0fccfae9161ff58f5c92",
-   "source": "Yahoo",
-   "published": "2026-11-11T15:10:17+00:00",
-   "tickers": [
-    "GILD"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "49d53e1b283f",
-   "headline": "STAT+: Senate health committee schedules vote on FDA commissioner nominee Overton",
-   "summary": "Key GOP lawmakers have yet to express support for Heidi Overton to lead the FDA.",
-   "url": "https://www.statnews.com/2026/11/11/fda-commissioner-nominee-heidi-overton-senate-committee-vote/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-11-11T15:07:28+00:00",
-   "tickers": [],
-   "tag": "FDA",
-   "sectors": []
   }
  ]
 }
