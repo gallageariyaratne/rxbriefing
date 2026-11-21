@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-21T11:32:44.144219+00:00",
+ "updated": "2026-11-21T11:47:25.774558+00:00",
  "quotes": {
   "A": {
    "price": 170.38,
@@ -145,10 +145,6 @@
   "HIMS": {
    "price": 14.6,
    "change_pct": -8.86
-  },
-  "HSIC": {
-   "price": 83.52,
-   "change_pct": -1.51
   },
   "HUM": {
    "price": 390,
@@ -321,6 +317,10 @@
   "TMO": {
    "price": 669.54,
    "change_pct": -2.79
+  },
+  "UNH": {
+   "price": 339.85,
+   "change_pct": 2.84
   }
  },
  "tickers": {
@@ -41118,51 +41118,6 @@
    "tag": "News",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "957d0450b663",
-   "headline": "KeyBanc Waits for a Growth Inflection at Hims & Hers",
-   "summary": "The firm kept a Sector Weight rating, saying it wants more signs of a growth inflection",
-   "url": "https://finnhub.io/api/news?id=32bf447a75ea658d90aff4fe2e01a956070f69cda6a71ed5ed5958ec1358d0c0",
-   "source": "Yahoo",
-   "published": "2026-11-11T11:40:37+00:00",
-   "tickers": [
-    "HIMS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "924ee3124d15",
-   "headline": "Insulet: Rivals Are Building Patch Pumps, But Insulet Already Owns The Pharmacy Counter",
-   "summary": "The bull case for Insulet: its sub-median valuation looks attractive as 74.2% gross margins and 21%-22% 2026 revenue growth show operating leverage.",
-   "url": "https://finnhub.io/api/news?id=9d6e2dab767b53c3fc25b9e7c7522d2d1c511a8abe6e718e418d6c2982b1069d",
-   "source": "SeekingAlpha",
-   "published": "2026-11-11T11:39:45+00:00",
-   "tickers": [
-    "PODD"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "6b906f5a03b9",
-   "headline": "Boston Scientific Corporation (BSX) Presents at Stifel 2026 Healthcare Conference 2026 Transcript",
-   "summary": "Boston Scientific Corporation (BSX) Stifel 2026 Healthcare Conference 2026 November 11, 2026 8:00 AM ESTCompany ParticipantsLauren Tengler - Director of...",
-   "url": "https://finnhub.io/api/news?id=cd9d039fb47a44c91664ad40466ce39f0a6397102e66b4c6a21b6ccb77600bb5",
-   "source": "SeekingAlpha",
-   "published": "2026-11-11T11:39:06+00:00",
-   "tickers": [
-    "BSX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
