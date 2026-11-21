@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-21T04:32:39.835572+00:00",
+ "updated": "2026-11-21T04:47:36.203420+00:00",
  "quotes": {
   "A": {
    "price": 170.38,
@@ -182,6 +182,10 @@
    "price": 192.82,
    "change_pct": -3.9
   },
+  "INCY": {
+   "price": 114.62,
+   "change_pct": -1.07
+  },
   "INSM": {
    "price": 141.33,
    "change_pct": -2.17
@@ -317,10 +321,6 @@
   "RXRX": {
    "price": 2.45,
    "change_pct": -9.93
-  },
-  "SMMT": {
-   "price": 9.95,
-   "change_pct": -5.87
   }
  },
  "tickers": {
@@ -995,6 +995,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "b26eb0c3f623",
+   "headline": "Incyte Maps Post-JAKAFI Growth as Key Drug Data and 2027 Launch Loom",
+   "summary": "Incyte (NASDAQ:INCY) is counting on growth from its existing medicines and a pipeline of late-stage treatments to support the company after JAKAFI loses exclusivity at the end of 2028, executives said at the UBS Global Biopharma\u2026",
+   "url": "https://finnhub.io/api/news?id=dce005d06f0fa27eae19d88cb5d6bb51bb59ab1e02a344a039f634dc78379154",
+   "source": "Yahoo",
+   "published": "2026-11-21T02:12:06+00:00",
+   "tickers": [
+    "INCY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -41763,21 +41778,6 @@
    "tag": "News",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "b0a9d7317e9a",
-   "headline": "Merck Shares Rose Even As Profit Fell",
-   "summary": "If you had bought Merck on 10 November 2025, you might now be replaying that choice. For Merck shareholders, the return over the past year was 67.6%, including dividends. That gain landed after a year when some analysts focused on a\u2026",
-   "url": "https://finnhub.io/api/news?id=4a75a2d684f173c1a637da180dca2f6980f8f8554b979d1b13d1e0cc4816665b",
-   "source": "Yahoo",
-   "published": "2026-11-11T04:35:42+00:00",
-   "tickers": [
-    "MRK"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
