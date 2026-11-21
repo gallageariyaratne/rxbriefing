@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-21T17:47:00.400656+00:00",
+ "updated": "2026-11-21T18:02:10.082081+00:00",
  "quotes": {
   "A": {
    "price": 170.38,
@@ -38,10 +38,6 @@
    "price": 41.98,
    "change_pct": -2.35
   },
-  "CNC": {
-   "price": 63.78,
-   "change_pct": -2.74
-  },
   "COR": {
    "price": 339.09,
    "change_pct": -0.63
@@ -61,6 +57,10 @@
   "ELV": {
    "price": 394.48,
    "change_pct": 1.11
+  },
+  "GILD": {
+   "price": 166.43,
+   "change_pct": -0.06
   },
   "GKOS": {
    "price": 237.31,
@@ -2235,6 +2235,21 @@
    "tag": "News",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "a24e6ea2dcb7",
+   "headline": "Final Trade: GILD, QQQ, RSP, NVDA",
+   "summary": "The final trades of the day with CNBC's Melissa Lee and the 'Fast Money' traders.",
+   "url": "https://finnhub.io/api/news?id=e97cca6ecf37bb1875f7b6f93826d1158fcceb89e7c67a47ab72fd262c40849a",
+   "source": "CNBC",
+   "published": "2026-11-20T18:07:04+00:00",
+   "tickers": [
+    "GILD"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -39367,34 +39382,6 @@
    "sectors": [
     "pharma"
    ]
-  },
-  {
-   "id": "4d1c6eeaad74",
-   "headline": "Hims & Hers Climbs 6% Despite Five States Joining FTC Suit; Eli Lilly Dips, Novo Nordisk Holds Steady",
-   "summary": "Hims & Hers is bouncing back after a brutal selloff, yet the legal heat keeps rising and its two biggest drug suppliers are sitting out the rally. What does the market see that the lawsuit headlines don't?",
-   "url": "https://finnhub.io/api/news?id=913257bca8970a49b5dce5e1df17194cafe1bd5feeeb2d40dc68f633c8ffd826",
-   "source": "Yahoo",
-   "published": "2026-11-11T17:55:41+00:00",
-   "tickers": [
-    "HIMS",
-    "LLY",
-    "NVO"
-   ],
-   "tag": "Legal",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "8ee1f7ae6f60",
-   "headline": "Opinion: What MAHA\u2019s support for Russell Brand tells us about the movement",
-   "summary": "\u201cThe alliance between MAHA and Russell Brand is not an aberration,\u201d writes Gavin Yamey.",
-   "url": "https://www.statnews.com/2026/11/11/maha-russell-brand-conviction-violence-rfk-jr/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-11-11T17:47:53+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
   }
  ]
 }
