@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-21T13:02:43.299274+00:00",
+ "updated": "2026-11-21T13:17:35.676109+00:00",
  "quotes": {
   "A": {
    "price": 170.38,
@@ -25,10 +25,6 @@
   "ALNY": {
    "price": 143.82,
    "change_pct": -2.71
-  },
-  "AMGN": {
-   "price": 435.64,
-   "change_pct": -0.72
   },
   "ARGX": {
    "price": 925.7,
@@ -69,10 +65,6 @@
   "CI": {
    "price": 270.9,
    "change_pct": -0.78
-  },
-  "CLDX": {
-   "price": 27.42,
-   "change_pct": -1.93
   },
   "CNC": {
    "price": 63.78,
@@ -310,6 +302,10 @@
    "price": 669.54,
    "change_pct": -2.79
   },
+  "TXG": {
+   "price": 51.8,
+   "change_pct": -9.72
+  },
   "UNH": {
    "price": 339.85,
    "change_pct": 2.84
@@ -321,6 +317,10 @@
   "VEEV": {
    "price": 266.22,
    "change_pct": 1.26
+  },
+  "VRTX": {
+   "price": 515.02,
+   "change_pct": -1.08
   }
  },
  "tickers": {
@@ -1051,6 +1051,21 @@
    "tag": "M&A",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "783c9c47d3ca",
+   "headline": "10x Genomics Stock Gets A Diagnostics Push From New Research Deals",
+   "summary": "10x Genomics reported new research partnerships with Charit\u00e9, DRFZ and Seoul National University, plus a Xenium deployment in a 500 patient breast cancer study in Shanghai, all centered on single cell and spatial tools for biomarker\u2026",
+   "url": "https://finnhub.io/api/news?id=4ea6fd840caf249c59ded58a663958f1e218e45ebc4e19a00343d3c7ac28d4ef",
+   "source": "Yahoo",
+   "published": "2026-11-21T07:12:26+00:00",
+   "tickers": [
+    "TXG"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -40669,145 +40684,6 @@
     "CI"
    ],
    "tag": "Analyst",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "6dd73733a7d5",
-   "headline": "Aurobindo unit Eugia recalls antibiotic lot, citing glass particle concerns",
-   "summary": "Eugia, a unit of Aurobindo, issued a voluntary recall for one lot of the antibiotic vancomycin hydrochloride for injection, citing the possible presence of glass particles in the vials.",
-   "url": "https://www.fiercepharma.com/manufacturing/aurobindo-unit-eugia-recalls-one-lot-antibiotic-injectables-glass-particles",
-   "source": "Fierce Pharma",
-   "published": "2026-11-11T13:15:24.858910+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "7ef90733f454",
-   "headline": "Amgen builds Sj\u00f6gren\u2019s case with detailed phase 3 data ahead of Novartis showdown",
-   "summary": "Amgen has shared more data from a phase 3 Sj\u00f6gren\u2019s disease trial that dazzled analysts, digging into the details that could shape its showdown with Novartis.",
-   "url": "https://www.fiercebiotech.com/biotech/amgen-builds-sjogrens-case-detailed-phase-3-data-ahead-novartis-showdown",
-   "source": "Fierce Biotech",
-   "published": "2026-11-11T13:15:24.735033+00:00",
-   "tickers": [
-    "AMGN",
-    "NVS"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "2751fbe2024d",
-   "headline": "Hims & Hers Under Fire: Five More States Join Federal Crackdown Over Alleged Privacy Violations",
-   "summary": "The FTC and seven states expanded their lawsuit against Hims & Hers over deceptive recurring subscriptions and sensitive health data leaks.",
-   "url": "https://finnhub.io/api/news?id=a1644eceb9ff2a74cb31efaf69969df82b95b72936c25bb8d3207453f84ec3d5",
-   "source": "Benzinga",
-   "published": "2026-11-11T13:14:32+00:00",
-   "tickers": [
-    "HIMS"
-   ],
-   "tag": "Legal",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "9c14d949d343",
-   "headline": "US Stock Market Today: S&P 500 Futures Rebound On Stubborn Inflation Higher-For-Longer Risk",
-   "summary": "The Morning Bull - US Market Morning Update Wednesday, Nov, 11 2026 US equities are set for a cautious but firmer open, with sentiment driven almost entirely by another hot inflation print. Investors are reading the rebound in futures as\u2026",
-   "url": "https://finnhub.io/api/news?id=b859772ba7cc493e51e197b517255981eff5e3fa754f13ecf56f403b5dc3fc1f",
-   "source": "Yahoo",
-   "published": "2026-11-11T13:14:16+00:00",
-   "tickers": [
-    "MRNA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "49490572fc28",
-   "headline": "Incyte Maps Post-Jakafi Growth, Targeting Up to $4 Billion in Other Sales by 2030",
-   "summary": "Incyte (NASDAQ:INCY) is preparing for a transition away from its JAKAFI business, with Chief Executive Officer Bill Meury pointing to product launches and a pipeline of late-stage drug candidates as potential sources of growth after 2029.\u2026",
-   "url": "https://finnhub.io/api/news?id=c6ac0a00001d07ada2d654af650b007e8925018e958c035ae43e4ba33f347402",
-   "source": "Yahoo",
-   "published": "2026-11-11T13:12:13+00:00",
-   "tickers": [
-    "INCY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "a12b99302665",
-   "headline": "4 Dividend Stocks That Can Thrive Under a Democratic Congress",
-   "summary": "Washington is split, gridlock looms, and income investors need payouts that survive without help from Congress. One chipmaker, one chemicals company that already cut its dividend, and two household names make the case, but each carries a\u2026",
-   "url": "https://finnhub.io/api/news?id=36ba844e9a4f078c884ea9dedef5081b0479b16cb513e7784fe2866cdea6e478",
-   "source": "Yahoo",
-   "published": "2026-11-11T13:11:38+00:00",
-   "tickers": [
-    "MDT"
-   ],
-   "tag": "Policy",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "0c3d553bd8b4",
-   "headline": "Gilead Sciences (GILD) After Trial Wins And Raised Guidance Looks Fully Valued",
-   "summary": "Fresh data from Gilead Sciences (GILD) on its HIV and liver disease franchises has reset the conversation. The PURPOSE 5 and IDEAL trial readouts, paired with raised full year guidance, now frame how investors assess the stock. That\u2026",
-   "url": "https://finnhub.io/api/news?id=c699da62c771e87b5d5401c6f9d518a7b17f8ab8a7ef933a1ae1f4c586dc8e30",
-   "source": "Yahoo",
-   "published": "2026-11-11T13:11:05+00:00",
-   "tickers": [
-    "GILD"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "05f22a80c908",
-   "headline": "The AI Debt Bill Is Coming Due, But Biotech Has Revenue to Show for the Boom",
-   "summary": "AI infrastructure is being funded with debt and stock sales while biotech companies applying AI are booking revenue, led by Tempus AI, Recursion and iShares Biotechnology",
-   "url": "https://finnhub.io/api/news?id=6ba4e6ff1ac5e71eb8182da0126c4fae0aafa66dbbeb699edb52151b2c949191",
-   "source": "Yahoo",
-   "published": "2026-11-11T13:10:00+00:00",
-   "tickers": [
-    "AMGN",
-    "BMY",
-    "GILD",
-    "MRK",
-    "MRNA",
-    "RXRX",
-    "TEM",
-    "VRTX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "064f0b1ee9d2",
-   "headline": "UnitedHealth Just Raised Guidance for the Third Time This Year. Where Will the Stock Be in 3 Years?",
-   "summary": "The health insurer's turnaround is lifting earnings. Here's what annual growth between 13% and 16% could mean for its stock by 2029.",
-   "url": "https://finnhub.io/api/news?id=a07d73b8f6860161282e6ea68c26cb43432ecfad2591e094bc3ea9dff5f19594",
-   "source": "Yahoo",
-   "published": "2026-11-11T13:05:00+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "tag": "Earnings",
    "sectors": [
     "payers"
    ]
