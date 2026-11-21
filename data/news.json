@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-21T02:17:42.941964+00:00",
+ "updated": "2026-11-21T02:32:39.739317+00:00",
  "quotes": {
   "A": {
    "price": 170.38,
@@ -38,6 +38,10 @@
    "price": 252.73,
    "change_pct": -1.26
   },
+  "AXSM": {
+   "price": 129.36,
+   "change_pct": -4.66
+  },
   "AZN": {
    "price": 174.35,
    "change_pct": -0.6
@@ -61,6 +65,10 @@
   "CAH": {
    "price": 272.81,
    "change_pct": 0.17
+  },
+  "CERT": {
+   "price": 10.55,
+   "change_pct": -1.22
   },
   "CI": {
    "price": 270.9,
@@ -158,6 +166,10 @@
    "price": 390,
    "change_pct": 2.63
   },
+  "IART": {
+   "price": 13.25,
+   "change_pct": -2.21
+  },
   "ICLR": {
    "price": 186.71,
    "change_pct": -1.92
@@ -254,6 +266,10 @@
    "price": 32.51,
    "change_pct": -2.02
   },
+  "OSCR": {
+   "price": 24.73,
+   "change_pct": -5.5
+  },
   "PEN": {
    "price": 319.12,
    "change_pct": -0.28
@@ -305,22 +321,6 @@
   "SYK": {
    "price": 310,
    "change_pct": -0.98
-  },
-  "TAK": {
-   "price": 21.77,
-   "change_pct": 1.68
-  },
-  "TEM": {
-   "price": 54.04,
-   "change_pct": -9.34
-  },
-  "TGTX": {
-   "price": 63.34,
-   "change_pct": -2.37
-  },
-  "TMDX": {
-   "price": 85.25,
-   "change_pct": -9.33
   }
  },
  "tickers": {
@@ -947,6 +947,21 @@
    "tickers": [],
    "tag": "Policy",
    "sectors": []
+  },
+  {
+   "id": "586a362e6db7",
+   "headline": "Bristol Myers Squibb's Growth Portfolio Just Hit $7.7 Billion. Is This Cheap Pharma Stock a No-Brainer Buy?",
+   "summary": "The good news is that Bristol Myers Squibb's new drugs are growing; the bad news is that one old drug is nearing its patent expiration.",
+   "url": "https://finnhub.io/api/news?id=513d34b2c89b8d84ce8772af872b13867647822d0f21c5106091e93dff57fe03",
+   "source": "Yahoo",
+   "published": "2026-11-21T00:35:02+00:00",
+   "tickers": [
+    "BMY"
+   ],
+   "tag": "Legal",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "41f6adb91ba7",
@@ -2287,6 +2302,21 @@
    ]
   },
   {
+   "id": "15fd71dcf0f2",
+   "headline": "OSCR or ZURVY: Which Is the Better Value Stock Right Now?",
+   "summary": "OSCR vs. ZURVY: Which Stock Is the Better Value Option?",
+   "url": "https://finnhub.io/api/news?id=a3315a333fa7d37682f672d12f44925c7e323a1d88c9575c0ce4b504a4b23574",
+   "source": "Yahoo",
+   "published": "2026-11-20T15:40:02+00:00",
+   "tickers": [
+    "OSCR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "6bad4a79c6fb",
    "headline": "GEHC Advances Manganese-Based MRI Agent to Phase 3 After Positive Data",
    "summary": "GE HealthCare advances manganese-based MRI agent to Phase 3 after positive trial data, potentially expanding its imaging portfolio and addressing gadolinium-related concerns.",
@@ -2375,6 +2405,21 @@
    ]
   },
   {
+   "id": "225837fbb38a",
+   "headline": "Integra (IART) Up 9.9% Since Last Earnings Report: Can It Continue?",
+   "summary": "Integra (IART) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
+   "url": "https://finnhub.io/api/news?id=98d439136491d7519866d87b4540970d97122ad8bb3faf8dd0cd0dfd42d5bbe0",
+   "source": "Yahoo",
+   "published": "2026-11-20T15:30:06+00:00",
+   "tickers": [
+    "IART"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "e51218708ddb",
    "headline": "Danaher (DHR) Down 1% Since Last Earnings Report: Can It Rebound?",
    "summary": "Danaher (DHR) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
@@ -2446,6 +2491,7 @@
    "published": "2026-11-20T15:27:44+00:00",
    "tickers": [
     "ABBV",
+    "AXSM",
     "BIIB",
     "JAZZ",
     "NBIX"
@@ -4376,6 +4422,21 @@
    "tag": "FDA",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "259193c7c734",
+   "headline": "Certara (CERT) Stock May Be Near Fair Value After A 63% Slump",
+   "summary": "Certara has delivered a mixed ride for shareholders, with the share price at US$10.68 after a long stretch that includes sharp gains and heavy declines. With the story now turning back to the cash the business can generate, the open\u2026",
+   "url": "https://finnhub.io/api/news?id=d6d2ccc46330beb4b2a3f0d18cb1700777b0c0bc90be0b4519543294542b4b37",
+   "source": "Yahoo",
+   "published": "2026-11-20T09:11:59+00:00",
+   "tickers": [
+    "CERT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthai"
    ]
   },
   {
@@ -41622,51 +41683,6 @@
    "tag": "News",
    "sectors": [
     "healthit"
-   ]
-  },
-  {
-   "id": "2af81e9d2201",
-   "headline": "TG Therapeutics (TGTX) Stock Stays Hard To Justify Despite Raised Revenue Guidance",
-   "summary": "TG Therapeutics has been on a remarkable multi year run, and with earnings now firmly in focus, the key issue is whether that performance still lines up with what the underlying business is generating today. The share price story is\u2026",
-   "url": "https://finnhub.io/api/news?id=bc1a9af2247a56399b6dac0aaf24ea44dfe07b6257af7d08711c3ff63be4b5b5",
-   "source": "Yahoo",
-   "published": "2026-11-11T02:20:55+00:00",
-   "tickers": [
-    "TGTX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "72265e172b30",
-   "headline": "Stock Market: Will S&P 500 Open Up or Down Today?",
-   "summary": "Will S&P 500 open higher? Polymarket odds hit 83% as Wall Street rides a massive tech rally, weighs Iran diplomacy, and eyes a Fed rate hike.",
-   "url": "https://finnhub.io/api/news?id=7c609f42b1829b87c3d3142ab741580f45a3afd62868716ef3fadbedca58d5dd",
-   "source": "Benzinga",
-   "published": "2026-11-11T02:19:23+00:00",
-   "tickers": [
-    "TECH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "28a38045e032",
-   "headline": "Thermo Fisher Scientific (TMO) Is A Key Supplier In Cell Sheet Gene Therapy",
-   "summary": "Thermo Fisher Scientific (NYSE:TMO) is emerging as a key supplier in the global cell sheet-based gene therapy market, which is gaining attention in regenerative medicine in 2026. Sector milestones in cell sheet-based therapies for tissue\u2026",
-   "url": "https://finnhub.io/api/news?id=d88926f0441d1716cbeb63cd604d9d7bcbae0721dd2e3c64a4dfddbd39d0dea6",
-   "source": "Yahoo",
-   "published": "2026-11-11T02:16:58+00:00",
-   "tickers": [
-    "TMO"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
    ]
   }
  ]
