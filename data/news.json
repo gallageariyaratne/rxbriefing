@@ -1,7 +1,27 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-21T12:32:39.035198+00:00",
+ "updated": "2026-11-21T12:47:38.376998+00:00",
  "quotes": {
+  "A": {
+   "price": 170.38,
+   "change_pct": -2.83
+  },
+  "ABBV": {
+   "price": 286.2,
+   "change_pct": 0.94
+  },
+  "ABSI": {
+   "price": 7.51,
+   "change_pct": -7.97
+  },
+  "ABT": {
+   "price": 103,
+   "change_pct": -0.84
+  },
+  "ALHC": {
+   "price": 6.37,
+   "change_pct": -2
+  },
   "ALNY": {
    "price": 143.82,
    "change_pct": -2.71
@@ -944,6 +964,21 @@
    ]
   },
   {
+   "id": "32e1044050d4",
+   "headline": "What Could Natera (NTRA) Gain From Its New Colorectal Cancer Trial Collaboration?",
+   "summary": "Natera (NasdaqGS:NTRA) entered a new clinical collaboration agreement with Incyte for a phase II colorectal cancer study using Signatera. The agreement incorporates Natera's Signatera molecular residual disease technology into Incyte's\u2026",
+   "url": "https://finnhub.io/api/news?id=507830b4040a7d36dbe68f981ef76a668d8e33831accc54419aec9b0a5881ebe",
+   "source": "Yahoo",
+   "published": "2026-11-21T11:07:23+00:00",
+   "tickers": [
+    "INCY"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "05de153bd0f3",
    "headline": "Merck Sinks 9.5% in a Week as It Scraps a Blood Cancer Drug and Healthcare Sells Off. Time to Buy?",
    "summary": "Key TakeawaysMerck stock fell 9. 5% in the week ended Nov.",
@@ -992,7 +1027,8 @@
    "source": "Yahoo",
    "published": "2026-11-21T07:13:20+00:00",
    "tickers": [
-    "HUM"
+    "HUM",
+    "UNH"
    ],
    "tag": "M&A",
    "sectors": [
@@ -40964,63 +41000,6 @@
    "tag": "Analyst",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "233c6e7d3173",
-   "headline": "UCB continues reign as largest drug ad spender as Bimzelx once again tops the ranks",
-   "summary": "UCB\u2019s immunology drug Bimzelx has topped the pharma drug ad spending charts for the third month in a row.",
-   "url": "https://www.fiercepharma.com/marketing/ucb-continues-reign-largest-drug-ad-spender-bimzelx-once-again-tops-ranks",
-   "source": "Fierce Pharma",
-   "published": "2026-11-11T12:45:22.097139+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "331bfa0c60e4",
-   "headline": "Short Interest Powder Kegs: 10 Stocks Bears Cannot Quit Buying",
-   "summary": "Venture Global tops heavily shorted stocks at 90.11% of float, with Sunrun, Ondas, Kohl's and Under Armour also on the list.",
-   "url": "https://finnhub.io/api/news?id=0367921b38b0885e0050afbcca4e98722cbe3206a50a514f97f71625f17522d2",
-   "source": "Benzinga",
-   "published": "2026-11-11T12:44:41+00:00",
-   "tickers": [
-    "BEAM",
-    "MDT"
-   ],
-   "tag": "Financing",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "5072365226f2",
-   "headline": "Hims & Hers Faces A \u2018Transition Year\u2019 Amid Increasing AI Investments, Says KeyBanc \u2013 Expects Lower Pricing To Weigh On FY2027-2028 Earnings Outlook",
-   "summary": "Analyst Justin Patterson said Hims & Hers\u2019 focus on lower treatment prices could eventually attract more subscribers and increase the number of treatments per customer.",
-   "url": "https://finnhub.io/api/news?id=fc5292d37679b06bbe737bfb7ee403f419d821c5c8b2cd76525a2be6edc451a9",
-   "source": "Yahoo",
-   "published": "2026-11-11T12:44:16+00:00",
-   "tickers": [
-    "HIMS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "9bd2b5416a01",
-   "headline": "TD Cowen Maintains Buy on Edwards Lifesciences, Raises Price Target to $121",
-   "summary": "TD Cowen analyst Joshua Jennings maintains Edwards Lifesciences (NYSE:EW) with a Buy and raises the price target from $117 to $121.",
-   "url": "https://finnhub.io/api/news?id=b69c9eb07980a00b8270d539be3b02d1d56827869cfe63e6c5974ad8d135be76",
-   "source": "Benzinga",
-   "published": "2026-11-11T12:42:53+00:00",
-   "tickers": [
-    "EW"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
