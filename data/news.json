@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-21T09:02:30.860710+00:00",
+ "updated": "2026-11-21T09:17:25.258347+00:00",
  "quotes": {
   "A": {
    "price": 170.38,
@@ -9,6 +9,10 @@
   "ABBV": {
    "price": 286.2,
    "change_pct": 0.94
+  },
+  "ABSI": {
+   "price": 7.51,
+   "change_pct": -7.97
   },
   "ABT": {
    "price": 103,
@@ -61,10 +65,6 @@
   "CAH": {
    "price": 272.81,
    "change_pct": 0.17
-  },
-  "CERT": {
-   "price": 10.55,
-   "change_pct": -1.22
   },
   "CI": {
    "price": 270.9,
@@ -242,10 +242,6 @@
    "price": 150.57,
    "change_pct": -3.84
   },
-  "NTLA": {
-   "price": 10,
-   "change_pct": 5.04
-  },
   "NTRA": {
    "price": 273.4,
    "change_pct": -5.7
@@ -269,10 +265,6 @@
   "OSCR": {
    "price": 24.73,
    "change_pct": -5.5
-  },
-  "PEN": {
-   "price": 319.12,
-   "change_pct": -0.28
   },
   "PFE": {
    "price": 27.4,
@@ -321,6 +313,14 @@
   "SRPT": {
    "price": 13.33,
    "change_pct": -5.93
+  },
+  "SYK": {
+   "price": 310,
+   "change_pct": -0.98
+  },
+  "TAK": {
+   "price": 21.77,
+   "change_pct": 1.68
   }
  },
  "tickers": {
@@ -1188,6 +1188,21 @@
    "tickers": [],
    "tag": "Policy",
    "sectors": []
+  },
+  {
+   "id": "4ef7d7134576",
+   "headline": "Absci Stock In Focus After Earnings Report And Commercial Chief Hire",
+   "summary": "Absci reported a net loss of US$33.3 million for Q3 2026 and US$96.11 million for the first nine months, and appointed industry veteran Gerry Muhle as Chief Commercial Officer to lead commercialization of ABS-201 and the broader pipeline.\u2026",
+   "url": "https://finnhub.io/api/news?id=28ab0ad7c17063899f83a81c835e60eddab12525727b14900e6532ca9c2d9ad3",
+   "source": "Yahoo",
+   "published": "2026-11-21T01:09:54+00:00",
+   "tickers": [
+    "ABSI"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthai"
+   ]
   },
   {
    "id": "586a362e6db7",
@@ -41653,96 +41668,6 @@
     "PFE"
    ],
    "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "32df4fd0ecf1",
-   "headline": "Intuitive Surgical (ISRG) Dropped, So What Is Driving Attention Now?",
-   "summary": "Intuitive Surgical (ISRG) is back in focus after fresh quarterly results showed 22% revenue growth, rising use of its da Vinci 5 and Ion systems, and a sizable US$450 million antitrust settlement charge. The share price reaction has been\u2026",
-   "url": "https://finnhub.io/api/news?id=b6bcd60aee0e4aafad1ff2be9ef23ec6fb1e8ec7c3684dd362fd6c43a251b136",
-   "source": "Yahoo",
-   "published": "2026-11-11T09:15:23+00:00",
-   "tickers": [
-    "ISRG"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "da621ec30188",
-   "headline": "JP Morgan Downgrades Phreesia to Underweight, Announces $13 Price Target",
-   "summary": "JP Morgan analyst Alexei Gogolev downgrades Phreesia (NYSE:PHR) from Neutral to Underweight and announces $13 price target.",
-   "url": "https://finnhub.io/api/news?id=694bcf13da5061e417ab60a4e7f70793307e690befdfda7f7fa4cc8fe9c3de2b",
-   "source": "Benzinga",
-   "published": "2026-11-11T09:14:38+00:00",
-   "tickers": [
-    "PHR"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "8a53002629e4",
-   "headline": "Nuvation Bio And 2 More Penny Stocks To Watch",
-   "summary": "Hotter than expected US inflation has traders bracing for more Federal Reserve rate hikes, and that kind of backdrop often punishes unprofitable high flyers while rewarding cleaner balance sheets. This is where lower priced stocks with\u2026",
-   "url": "https://finnhub.io/api/news?id=b8ab5972553a3ce06d4c5e2dc41f1092292fc9a5b2935e67ef27136da5720f79",
-   "source": "Yahoo",
-   "published": "2026-11-11T09:13:26+00:00",
-   "tickers": [
-    "CLOV"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "26c5b8617249",
-   "headline": "Missed Illumina's 76% Run? Here Is What Holders Saw",
-   "summary": "If Illumina sat on your watchlist instead of in your portfolio, the past year might feel like a missed shot. Investors who held Illumina over the past year are up 76.2%, including dividends. That outcome arrived alongside headlines about\u2026",
-   "url": "https://finnhub.io/api/news?id=063a3b5d89f25b4873a5130edbe73d2403420bf0fcd68feb979abce7d0a5a347",
-   "source": "Yahoo",
-   "published": "2026-11-11T09:12:48+00:00",
-   "tickers": [
-    "ILMN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "4e0026690edb",
-   "headline": "Brightview Posts Downbeat Q4 Results, Joins Astronics, Spire Global And Other Big Stocks Moving Lower In Wednesday\u2019s Pre-Market Session",
-   "summary": "U.S. futures rose, but BrightView plunged 17.7% after missing earnings and sales estimates; Lightwave Logic and others also fell premarket.",
-   "url": "https://finnhub.io/api/news?id=1aacd2f18877f0888d7621eb717ef592c141177921840287452b94d27143a3c8",
-   "source": "Benzinga",
-   "published": "2026-11-11T09:02:06+00:00",
-   "tickers": [
-    "REGN"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "58f7edaeb9ae",
-   "headline": "Amgen Says Dazodalibep Met Primary Endpoint At Week 48",
-   "summary": "In the randomized, double-blind, placebo-controlled OASIZ-301 study, patients had a mean baseline score of 10.2 on the European Alliance of Associations for Rheumatology Sj\u00f6gren's Syndrome Disease Activity Index",
-   "url": "https://finnhub.io/api/news?id=96b07ba355dfd5598bc868624760ecb49c7a7e94851ebdba4d9958ae252d72e2",
-   "source": "Benzinga",
-   "published": "2026-11-11T09:01:54+00:00",
-   "tickers": [
-    "AMGN"
-   ],
-   "tag": "Clinical",
    "sectors": [
     "pharma"
    ]
