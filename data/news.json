@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-21T00:32:35.408890+00:00",
+ "updated": "2026-11-21T00:47:49.022149+00:00",
  "quotes": {
   "A": {
    "price": 170.38,
@@ -241,6 +241,10 @@
   "PODD": {
    "price": 133.17,
    "change_pct": -2.96
+  },
+  "PRVA": {
+   "price": 25.05,
+   "change_pct": 1.46
   },
   "PTCT": {
    "price": 56.42,
@@ -964,6 +968,36 @@
    "tag": "FDA",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "005f2e1c5a5c",
+   "headline": "Stock Market Today, Nov. 20: Stocks Plunge as AI Trade Unwinds",
+   "summary": "Wall Street's worst stretch of the year deepened as AI-linked names sold off while defensive sectors drew buyers, today, Nov. 20, 2026.",
+   "url": "https://finnhub.io/api/news?id=6db0b5ea38168b31537fe8795759a1dfa1bd385ef3ac42934f57f320fe7e3418",
+   "source": "Yahoo",
+   "published": "2026-11-20T22:35:13+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "7a530c97408c",
+   "headline": "Pfizer's Launched and Acquired Drugs Grew 32% in Q3 \u2014 and 3 Other Reasons to Buy the Stock Before 2027",
+   "summary": "Pfizer remains deeply unloved on Wall Street, but it is slowly turning a corner.",
+   "url": "https://finnhub.io/api/news?id=59fce92694f7d71947633e95b2bd74445393f9fa632f2ab6031bfb4ae3843778",
+   "source": "Yahoo",
+   "published": "2026-11-20T22:35:02+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -3021,6 +3055,21 @@
    ]
   },
   {
+   "id": "c032f82a7b6c",
+   "headline": "Celldex drug stumbles in eczema; Epigenetic editing startup cuts staff",
+   "summary": "Wall Street analysts rushed to Celldex\u2019s defense following the setback. Elsewhere, Isomorphic Labs cut a cancer-focused deal with Merck and Teva\u2019s research chief accepted a new job.",
+   "url": "https://finnhub.io/api/news?id=85f6b53a10c762fd916dbfb3aee053180d1d02ea05fddbd63916dbe9e3121f88",
+   "source": "Yahoo",
+   "published": "2026-11-20T13:03:00+00:00",
+   "tickers": [
+    "CLDX"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "5565e607d946",
    "headline": "Want Reliable Dividend Passive Income? These 5 Stocks Raise Their Payouts Year After Year",
    "summary": "Your dividends can buy more shares, but they also send a tax bill for cash you never touched. Two simple tools show whether your income is truly compounding, and five payers put them to the test.",
@@ -3436,7 +3485,8 @@
    "published": "2026-11-20T11:05:30+00:00",
    "tickers": [
     "DVA",
-    "HCA"
+    "HCA",
+    "PRVA"
    ],
    "tag": "News",
    "sectors": [
@@ -41224,22 +41274,6 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
-  },
-  {
-   "id": "e72d86e29184",
-   "headline": "Moat Stocks Rebound As Tech Retreats",
-   "summary": "",
-   "url": "https://finnhub.io/api/news?id=b8e75a5f7e03cbcab16edf1449365f2ccb2392f260f9f625c7df68094140d699",
-   "source": "SeekingAlpha",
-   "published": "2026-11-11T00:45:00+00:00",
-   "tickers": [
-    "GEHC",
-    "RGEN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
   }
  ]
 }
