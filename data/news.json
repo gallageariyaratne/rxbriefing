@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-21T01:32:37.996838+00:00",
+ "updated": "2026-11-21T01:47:40.007273+00:00",
  "quotes": {
   "A": {
    "price": 170.38,
@@ -290,6 +290,10 @@
    "price": 2.45,
    "change_pct": -9.93
   },
+  "SMMT": {
+   "price": 9.95,
+   "change_pct": -5.87
+  },
   "SNY": {
    "price": 46.52,
    "change_pct": 1.0
@@ -317,10 +321,6 @@
   "UNH": {
    "price": 339.85,
    "change_pct": 2.84
-  },
-  "UTHR": {
-   "price": 554.73,
-   "change_pct": -0.78
   }
  },
  "tickers": {
@@ -938,6 +938,17 @@
  },
  "stories": [
   {
+   "id": "9bbc14d97c7a",
+   "headline": "CMS issues Medicare Advantage proposals aimed at boosting competition",
+   "summary": "The Trump administration has proposed a slew of changes to Medicare Advantage and Part D designed to \"revitalize care\" in these markets.",
+   "url": "https://www.fiercehealthcare.com/regulatory/cms-issues-medicare-advantage-proposals-aimed-boosting-competition",
+   "source": "Fierce Healthcare",
+   "published": "2026-11-21T01:45:21.177559+00:00",
+   "tickers": [],
+   "tag": "Policy",
+   "sectors": []
+  },
+  {
    "id": "41f6adb91ba7",
    "headline": "Agilent Technologies, Inc. Announces Retirement of Board Member George A. Scangos, Ph.D.",
    "summary": "",
@@ -1292,6 +1303,7 @@
    "source": "SeekingAlpha",
    "published": "2026-11-20T19:31:15+00:00",
    "tickers": [
+    "INSM",
     "SNY"
    ],
    "tag": "M&A",
@@ -1330,6 +1342,21 @@
    "sectors": [
     "biotech",
     "pharma"
+   ]
+  },
+  {
+   "id": "1b3f502bdf20",
+   "headline": "Alignment Healthcare (ALHC) Stock Looks Reasonable Following CMS Bonus Eligibility Scrutiny",
+   "summary": "Alignment Healthcare has seen its share price come under heavy pressure this year, and that kind of slide naturally raises a simple earnings question. At today's level, the issue is whether the current stock price lines up with what the\u2026",
+   "url": "https://finnhub.io/api/news?id=026bb4113ec33738c46949f9d4ebf4418b7d5ce4f1ff9a82aebe2eea52229bf3",
+   "source": "Yahoo",
+   "published": "2026-11-20T19:11:27+00:00",
+   "tickers": [
+    "ALHC"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -2533,7 +2560,8 @@
    "source": "Yahoo",
    "published": "2026-11-20T15:13:00+00:00",
    "tickers": [
-    "AZN"
+    "AZN",
+    "SMMT"
    ],
    "tag": "FDA",
    "sectors": [
@@ -2666,6 +2694,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "9f3100983728",
+   "headline": "Sanofi Lines Up Takeover Target to Fix Pharma\u2019s Lowest Valuation",
+   "summary": "To understand why Sanofi is pursuing what would be the biggest takeover in the pharmaceutical industry in years, look no further than one number.",
+   "url": "https://finnhub.io/api/news?id=3f04d2816e4b15f0c0350d112bfef8d23327eac51f2cb44769cee5f411b63e53",
+   "source": "Yahoo",
+   "published": "2026-11-20T14:48:08+00:00",
+   "tickers": [
+    "INSM"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -2876,6 +2919,7 @@
    "published": "2026-11-20T14:29:01+00:00",
    "tickers": [
     "GILD",
+    "INSM",
     "UTHR",
     "VRTX"
    ],
@@ -3291,6 +3335,21 @@
    ]
   },
   {
+   "id": "b0dfcd4bcd1e",
+   "headline": "US Stock Market Today: S&P 500 Futures Slip As Hawkish Fed And Strong Dollar Bite",
+   "summary": "The Morning Bull - US Market Morning Update Friday, Nov, 20 2026 US stocks look set to open weaker, with the Fed\u2019s hawkish message and a stronger dollar setting the tone. Futures selling points to risk appetite being reined in as\u2026",
+   "url": "https://finnhub.io/api/news?id=74983902ec1ef715243aeab2083312188acba90889955a5a0d417a2c61b8c389",
+   "source": "Yahoo",
+   "published": "2026-11-20T13:10:41+00:00",
+   "tickers": [
+    "INSM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "90431ef110a7",
    "headline": "Which Merck ETF Best Balances Its Drug Upside And Risks?",
    "summary": "Owning Merck stock outright means you feel every bump in its specific issues yourself. Simply Wall St flags that Merck\u2019s profit margins of 3.6% are far lower than last year\u2019s 29.6%, and it notes the risk that blockbuster cancer drug\u2026",
@@ -3555,6 +3614,7 @@
    "source": "Yahoo",
    "published": "2026-11-20T12:28:52+00:00",
    "tickers": [
+    "INSM",
     "PFE"
    ],
    "tag": "M&A",
@@ -3711,6 +3771,21 @@
    ]
   },
   {
+   "id": "de5d71c593cc",
+   "headline": "This week in charts: Biotech investors\u2019 China bets are already paying off",
+   "summary": "This year, companies built around medicines from China have sped toward acquisitions or IPOs. Meanwhile, Summit is no longer the Wall Street darling it was in 2024.",
+   "url": "https://finnhub.io/api/news?id=66d67850e5c360c3b8f261c328204efdf794095b8dfbf7e91a180e95bb7a6e18",
+   "source": "Yahoo",
+   "published": "2026-11-20T12:00:00+00:00",
+   "tickers": [
+    "SMMT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "3f662ae23bfa",
    "headline": "What Is Behind The Move In Insmed Stock?",
    "summary": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks.",
@@ -3718,6 +3793,7 @@
    "source": "Yahoo",
    "published": "2026-11-20T11:53:30+00:00",
    "tickers": [
+    "INSM",
     "UTHR"
    ],
    "tag": "News",
@@ -3782,6 +3858,21 @@
     "VEEV"
    ],
    "tag": "Analyst",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
+   "id": "c83b59283445",
+   "headline": "Is Omnicell (OMCL) Reasonable Based On Its Future Cash Flow?",
+   "summary": "Omnicell has seen its share price under pressure in recent years, and that kind of drawdown naturally raises a basic question for anyone looking at the stock today. Is the current valuation still supported by the cash the business can\u2026",
+   "url": "https://finnhub.io/api/news?id=b2b82e766030f68ff618c6d257f641ff77a7dd6f282b81c0b052c5d514612092",
+   "source": "Yahoo",
+   "published": "2026-11-20T11:14:12+00:00",
+   "tickers": [
+    "OMCL"
+   ],
+   "tag": "News",
    "sectors": [
     "healthit"
    ]
@@ -4055,6 +4146,21 @@
    "tag": "Analyst",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "6ee53115230c",
+   "headline": "Wall Street Wrap: ASTS, BE, MDB Stocks Win Bullish Calls As PEP, USAR, SMMT Face Downgrades",
+   "summary": "Analysts showed more confidence in growth stocks while turning cautious on companies facing execution challenges.",
+   "url": "https://finnhub.io/api/news?id=3aecd58546fd78360f762e25aabf173c6936d134c42d4c4737bc0c0a8aab4c0f",
+   "source": "Yahoo",
+   "published": "2026-11-20T10:14:50+00:00",
+   "tickers": [
+    "SMMT"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -41529,21 +41635,6 @@
    "tag": "M&A",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "49d4e5366661",
-   "headline": "Ingersoll Rand Vs Hubbell: Which Stock Is The Better Buy?",
-   "summary": "For questions about this article or underlying research, email help@trefis.com.",
-   "url": "https://finnhub.io/api/news?id=1350b6212f6d3880965f44c99af0fe53ed40d9f0e072563d0f71fae92924f24b",
-   "source": "Yahoo",
-   "published": "2026-11-11T01:40:04+00:00",
-   "tickers": [
-    "TMO"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
    ]
   }
  ]
