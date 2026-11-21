@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-21T12:47:38.376998+00:00",
+ "updated": "2026-11-21T13:02:43.299274+00:00",
  "quotes": {
   "A": {
    "price": 170.38,
@@ -234,10 +234,6 @@
    "price": 150.57,
    "change_pct": -3.84
   },
-  "NTRA": {
-   "price": 273.4,
-   "change_pct": -5.7
-  },
   "NVO": {
    "price": 37.82,
    "change_pct": -2.7
@@ -321,6 +317,10 @@
   "UTHR": {
    "price": 554.73,
    "change_pct": -0.78
+  },
+  "VEEV": {
+   "price": 266.22,
+   "change_pct": 1.26
   }
  },
  "tickers": {
@@ -938,6 +938,21 @@
  },
  "stories": [
   {
+   "id": "7c99d357132c",
+   "headline": "Alnylam Pharmaceuticals (NASDAQ:ALNY) Screens as a Balanced Affordable Growth Candidate",
+   "summary": "ALNY is an affordable growth biotech with strong revenue and EPS expansion, a low P/E versus peers, and adequate financial health and profitability.",
+   "url": "https://finnhub.io/api/news?id=ebd1c8bab4eefaa8660080fcfc5f16b5b602658c1b4f2b0b7d3e4e2d19893379",
+   "source": "ChartMill",
+   "published": "2026-11-21T12:21:06+00:00",
+   "tickers": [
+    "ALNY"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "5da827f3cf5b",
    "headline": "Opinion: When should medical school start?",
    "summary": "STAT readers weigh in on shortening medical school, fixing pediatric emergency care, and more.",
@@ -986,7 +1001,9 @@
    "source": "Yahoo",
    "published": "2026-11-21T10:15:40+00:00",
    "tickers": [
-    "HALO"
+    "HALO",
+    "LLY",
+    "MRK"
    ],
    "tag": "M&A",
    "sectors": [
@@ -1027,6 +1044,7 @@
    "source": "Yahoo",
    "published": "2026-11-21T07:13:20+00:00",
    "tickers": [
+    "ELV",
     "HUM",
     "UNH"
    ],
@@ -40790,214 +40808,6 @@
     "UNH"
    ],
    "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "1c6ba79c277c",
-   "headline": "Amgen, In A Buy Zone, Unveils Highly Anticipated Novartis-Rivaling Sjogren's Data",
-   "summary": "Amgen unveiled test results Wednesday that suggest it could have one of the first immune-modulating treatments for Sjogren's disease.",
-   "url": "https://finnhub.io/api/news?id=169b4e53bbe873fe1b974efeb2bcd762f7f1b54d2ef42159633ec04e177ecb98",
-   "source": "Yahoo",
-   "published": "2026-11-11T13:00:17+00:00",
-   "tickers": [
-    "AMGN",
-    "NVS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "efdcb1e4a391",
-   "headline": "AMGEN ANNOUNCES POSITIVE PHASE 3 RESULTS FOR DAZODALIBEP IN SJ\u00d6GREN'S DISEASE",
-   "summary": "Only Global Phase 3 Trial to Show Clinically Meaningful Improvements in Systemic Disease Activity and Patient-Reported Symptoms of Sj\u00f6gren's Disease THOUSAND OAKS, Calif., Nov. 11, 2026 /PRNewswire/ -- Amgen (NASDAQ: AMGN) today announced\u2026",
-   "url": "https://www.prnewswire.com/news-releases/amgen-announces-positive-phase-3-results-for-dazodalibep-in-sjogrens-disease-302935991.html",
-   "source": "PR Newswire",
-   "published": "2026-11-11T13:00:00+00:00",
-   "tickers": [
-    "AMGN"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "ce77ec1b67de",
-   "headline": "Rod O'Reilly Joins Sirona Medical's Board of Directors",
-   "summary": "Former Change Healthcare and McKesson Imaging leader joins to help Sirona scale beyond 12 million contracted exams a year and onboard more than 1,000 additional radiologists in 2027. SAN FRANCISCO, Nov. 11, 2026 /PRNewswire/ -- Sirona\u2026",
-   "url": "https://www.prnewswire.com/news-releases/rod-oreilly-joins-sirona-medicals-board-of-directors-302935659.html",
-   "source": "PR Newswire",
-   "published": "2026-11-11T13:00:00+00:00",
-   "tickers": [
-    "MCK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharmacy"
-   ]
-  },
-  {
-   "id": "070dc75aad68",
-   "headline": "Rod O'Reilly Joins Sirona Medical's Board of Directors",
-   "summary": "Sirona Medical, Inc. (\"Sirona\"), the market leader in cloud-native radiology software, today announced that Rod O'Reilly has joined its Board of Directors. He brings more than 25 years of executive leadership in healthcare technology and\u2026",
-   "url": "https://finnhub.io/api/news?id=648d3021818e4553765eff7f78f823de48e7d20d9d78e42917d887b682196c96",
-   "source": "Yahoo",
-   "published": "2026-11-11T13:00:00+00:00",
-   "tickers": [
-    "MCK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharmacy"
-   ]
-  },
-  {
-   "id": "b77980c1039b",
-   "headline": "Six Flags Names Adam Boal Chief Procurement Officer",
-   "summary": "ARLINGTON, Texas, November 11, 2026--Six Flags Names Adam Boal Chief Procurement Officer",
-   "url": "https://finnhub.io/api/news?id=8d0ed9ec8ad8caf798c2dbe26ba1ece3201a81e19261f4a3f899ccc261652856",
-   "source": "Yahoo",
-   "published": "2026-11-11T13:00:00+00:00",
-   "tickers": [
-    "AMGN",
-    "AZN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "5d25133fb72d",
-   "headline": "AMGEN ANNOUNCES POSITIVE PHASE 3 RESULTS FOR DAZODALIBEP IN SJ\u00d6GREN'S DISEASE",
-   "summary": "Amgen (NASDAQ: AMGN) today announced results from the Phase 3 OASIZ-301 study of dazodalibep, the only global Phase 3 trial to demonstrate clinically meaningful improvements in systemic disease activity and symptoms in patients with\u2026",
-   "url": "https://finnhub.io/api/news?id=9ea2e08ffc97ffe351061b02203aa4a75379d3622068afc31f2b1060a86e45ec",
-   "source": "Yahoo",
-   "published": "2026-11-11T13:00:00+00:00",
-   "tickers": [
-    "AMGN"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "e02af315ca76",
-   "headline": "VectorY Therapeutics Raises \u20ac74.5 Million ($83.5 Million) to Advance Clinical and Preclinical Neurodegenerative Disease Pipeline",
-   "summary": "AMSTERDAM & BOSTON, November 11, 2026--VectorY Therapeutics (\"VectorY\"), a clinical-stage biotechnology company pioneering vectorized antibody therapies for neurodegenerative diseases, today announced \u20ac74.5 million ($83.5 million) in new\u2026",
-   "url": "https://finnhub.io/api/news?id=c260091030bf1f0560a0ab31aa46cff40a2c0576a0caa75340fc32fdab9969b6",
-   "source": "Yahoo",
-   "published": "2026-11-11T13:00:00+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "4dd23dc29601",
-   "headline": "Fauna Bio Announces Second Target Designation in Obesity Discovery Collaboration with Lilly",
-   "summary": "NEWARK, Calif., November 11, 2026--Fauna Bio, a biotechnology company pioneering the use of extreme mammal biology, comparative genomics and AI to discover new medicines, today announced the designation of a second target from a different\u2026",
-   "url": "https://finnhub.io/api/news?id=5869167f2e10c63294e144e04f0836a3a01b65d26cfffed731c866fa59a5b7c0",
-   "source": "Yahoo",
-   "published": "2026-11-11T13:00:00+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "1564b29894cb",
-   "headline": "10 Stocks Rode Trump Era \u2014 What Happens As MAGA 'Disintegrates'?",
-   "summary": "How fast U.S. politics change. Just months ago S&P 500 tech bigwigs elbowed each other for a spot next to President Trump. And now MAGA is disintegrating.",
-   "url": "https://finnhub.io/api/news?id=f7b70b0c15bcf264c6883ba3467a27807030bc3c9deb0cb96b7ccc441f70b699",
-   "source": "Yahoo",
-   "published": "2026-11-11T13:00:00+00:00",
-   "tickers": [
-    "MRNA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "daba0575bcea",
-   "headline": "Twist Bioscience Corporation Announces Inducement Grants under NASDAQ Listing Rule 5635(c)(4)",
-   "summary": "SOUTH SAN FRANCISCO, Calif., November 11, 2026--As required by the rules of the Nasdaq Stock Market, Twist Bioscience Corporation (NASDAQ: TWST) (\"Twist\" or the \"Company\"), a mid-cap growth and value healthcare company, today announced\u2026",
-   "url": "https://finnhub.io/api/news?id=bd0c6b2a7091a4b3bb97d4a76c4170f07c21c4b688a531222525e9c2a1352da5",
-   "source": "Yahoo",
-   "published": "2026-11-11T13:00:00+00:00",
-   "tickers": [
-    "TWST"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "209b423acdc9",
-   "headline": "Recursion to Participate in Upcoming Investor Conferences",
-   "summary": "Salt Lake City, UT, Nov. 11, 2026 (GLOBE NEWSWIRE) -- Recursion (Nasdaq: RXRX), a leading clinical-stage company pioneering AI-enabled drug discovery and development, today announced its participation in the following upcoming investor\u2026",
-   "url": "https://finnhub.io/api/news?id=3affde44ecf65f32f45e7f0e44cfb72715a63e7143891da24db2660d70fc8ce6",
-   "source": "Yahoo",
-   "published": "2026-11-11T13:00:00+00:00",
-   "tickers": [
-    "RXRX"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "healthai"
-   ]
-  },
-  {
-   "id": "6615d0a45593",
-   "headline": "Buy, Sell, or Hold? Wednesday\u2019s Top Upgrades and Downgrades: Akamai Technologies, Apple, BILL Holdings, Corning, Form Factor, Guidewire Software, NVIDIA, Riot Platforms, Toast, and More",
-   "summary": "Hot inflation data rattled Tuesday's close, and now one chip giant faces a Baird downgrade tied to concerns about its CEO. Which analyst calls, from Apple's upgrade to a steep Akamai cut, deserve your attention before the bell?",
-   "url": "https://finnhub.io/api/news?id=7cdf40837326d672aab7d0eada0eb35580bdf7937b88127cfefe5e202c35ae1b",
-   "source": "Yahoo",
-   "published": "2026-11-11T12:57:12+00:00",
-   "tickers": [
-    "HALO"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "c2cd9f3c4fb8",
-   "headline": "The U.S. may soon lose measles elimination status",
-   "summary": "A regional WHO body will hold a four-day meeting determining whether the U.S. has maintained measles elimination. All signs point to no:",
-   "url": "https://www.statnews.com/2026/11/11/health-news-us-may-soon-lose-measles-elimination-status/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-11-11T12:56:13+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "c98f637a4fa4",
-   "headline": "TD Cowen Maintains Hold on Humana, Raises Price Target to $430",
-   "summary": "TD Cowen analyst Ryan Langston maintains Humana (NYSE:HUM) with a Hold and raises the price target from $370 to $430.",
-   "url": "https://finnhub.io/api/news?id=ba306e4ec77f410f514f675ac64d5f191a9aad3e8d5216e02f6ca704874db397",
-   "source": "Benzinga",
-   "published": "2026-11-11T12:50:38+00:00",
-   "tickers": [
-    "HUM"
-   ],
-   "tag": "Analyst",
    "sectors": [
     "payers"
    ]
