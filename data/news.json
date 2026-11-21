@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-21T14:47:29.650711+00:00",
+ "updated": "2026-11-21T15:02:31.936149+00:00",
  "quotes": {
   "A": {
    "price": 170.38,
@@ -162,10 +162,6 @@
    "price": 270.47,
    "change_pct": 1.25
   },
-  "LEGN": {
-   "price": 15.25,
-   "change_pct": -5.28
-  },
   "LLY": {
    "price": 1347.11,
    "change_pct": -0.3
@@ -201,6 +197,10 @@
   "NTLA": {
    "price": 10,
    "change_pct": 5.04
+  },
+  "NTRA": {
+   "price": 273.4,
+   "change_pct": -5.7
   },
   "NVO": {
    "price": 37.82,
@@ -1022,7 +1022,8 @@
    "source": "Yahoo",
    "published": "2026-11-21T11:07:23+00:00",
    "tickers": [
-    "INCY"
+    "INCY",
+    "NTRA"
    ],
    "tag": "Clinical",
    "sectors": [
@@ -1037,7 +1038,8 @@
    "source": "Yahoo",
    "published": "2026-11-21T10:43:24+00:00",
    "tickers": [
-    "ABT"
+    "ABT",
+    "RVMD"
    ],
    "tag": "News",
    "sectors": [
@@ -1080,7 +1082,8 @@
    "source": "Benzinga",
    "published": "2026-11-21T09:11:41+00:00",
    "tickers": [
-    "JNJ"
+    "JNJ",
+    "RVMD"
    ],
    "tag": "News",
    "sectors": [
@@ -1445,6 +1448,21 @@
    "tickers": [],
    "tag": "Policy",
    "sectors": []
+  },
+  {
+   "id": "74622bff3efa",
+   "headline": "Revolution Medicines (RVMD) Stock Looks Stretched After Its 7x Run",
+   "summary": "Revolution Medicines has delivered very strong multi year gains, yet the latest pullback raises a simple question for investors who care about balance sheet support. Is the current share price still in step with what the company\u2019s book\u2026",
+   "url": "https://finnhub.io/api/news?id=30e287ee851764193cb2f464a5a522b81ed562f3bda6ce849f40b4a709fe1195",
+   "source": "Yahoo",
+   "published": "2026-11-21T01:13:14+00:00",
+   "tickers": [
+    "RVMD"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
   },
   {
    "id": "4ef7d7134576",
@@ -2218,7 +2236,8 @@
    "source": "Benzinga",
    "published": "2026-11-20T18:05:07+00:00",
    "tickers": [
-    "JNJ"
+    "JNJ",
+    "SYK"
    ],
    "tag": "Policy",
    "sectors": [
@@ -2835,6 +2854,21 @@
    "tag": "Earnings",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "402c8bfc2f1e",
+   "headline": "Here\u2019s How Much You Would Have Made Owning Stryker Stock In The Last 20 Years",
+   "summary": "Stryker (NYSE:SYK) has outperformed the market over the past 20 years by 1.05% on an annualized basis producing an average annual return of 9.43%. Currently, Stryker has a market capitalization of $119.90 billion.",
+   "url": "https://finnhub.io/api/news?id=664a4d258bdf755d8e099d0050f01f5f46e43b5906c32fb37643f29d37791986",
+   "source": "Benzinga",
+   "published": "2026-11-20T16:00:24+00:00",
+   "tickers": [
+    "SYK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -4113,6 +4147,21 @@
    ]
   },
   {
+   "id": "0b951771b3aa",
+   "headline": "B of A Securities Maintains Neutral on Hims & Hers Health, Lowers Price Target to $21",
+   "summary": "B of A Securities analyst Allen Lutz maintains Hims & Hers Health (NYSE:HIMS) with a Neutral and lowers the price target from $26 to $21.",
+   "url": "https://finnhub.io/api/news?id=ae47e185b2031685ee2216f0d59449d54a4fe78997d9acdc60415972b0d2c807",
+   "source": "Benzinga",
+   "published": "2026-11-20T13:36:25+00:00",
+   "tickers": [
+    "HIMS"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
    "id": "4996fd96f6cc",
    "headline": "S&P 500 Premarket Movers Friday: Gainers and Losers",
    "summary": "S&P 500 premarket movers Friday: Take-Two, Erie Indemnity, Cardinal Health and Humana gain, while Intuit, Bloom Energy, AMD, Ross Stores and Lumentum decline.",
@@ -4181,7 +4230,8 @@
    "source": "Benzinga",
    "published": "2026-11-20T13:14:18+00:00",
    "tickers": [
-    "INSM"
+    "INSM",
+    "SNY"
    ],
    "tag": "M&A",
    "sectors": [
@@ -4554,6 +4604,21 @@
    ]
   },
   {
+   "id": "b07b2d4ed6cc",
+   "headline": "Merck Reports Positive Survival Data For Investigational Therapy for Advanced Gastric Cancer",
+   "summary": "Merck's Phase 3 TroFuse-015 trial of sacituzumab tirumotecan met its primary overall survival endpoint in advanced gastroesophageal cancer.",
+   "url": "https://finnhub.io/api/news?id=14156da69466aa09c6574a9e09e7eb65775f516a5a946185738a0b5071be5e81",
+   "source": "Benzinga",
+   "published": "2026-11-20T12:25:39+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "9bc8e13292d6",
    "headline": "My Top Dividend Growth Picks In Each GICS Sector (November 2026)",
    "summary": "The bull case for dividend growth picks: sector winners would have returned 144% in five years vs.",
@@ -4585,6 +4650,21 @@
    ]
   },
   {
+   "id": "47a579decd95",
+   "headline": "BMO Capital Maintains Outperform on Alnylam Pharmaceuticals, Raises Price Target to $293",
+   "summary": "BMO Capital analyst David Lebowitz maintains Alnylam Pharmaceuticals (NASDAQ:ALNY) with a Outperform and raises the price target from $292 to $293.",
+   "url": "https://finnhub.io/api/news?id=db8125e22d4f62f932b57679f960d8bde5e84509fc83aab01049e5a2c5d4cc24",
+   "source": "Benzinga",
+   "published": "2026-11-20T12:22:18+00:00",
+   "tickers": [
+    "ALNY"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "e64bce308e75",
    "headline": "Insmed Stock Rises: What's Going On?",
    "summary": "Insmed Inc. (NASDAQ: INSM) shares are rising. A report surfaced that Sanofi is exploring an offer for the rare-disease drug developer.",
@@ -4592,7 +4672,8 @@
    "source": "Benzinga",
    "published": "2026-11-20T12:21:19+00:00",
    "tickers": [
-    "INSM"
+    "INSM",
+    "SNY"
    ],
    "tag": "News",
    "sectors": [
@@ -4699,6 +4780,7 @@
    "published": "2026-11-20T12:00:22+00:00",
    "tickers": [
     "JNJ",
+    "MRK",
     "UNH"
    ],
    "tag": "News",
@@ -4762,6 +4844,21 @@
    "tag": "News",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "d4ab1cc5954f",
+   "headline": "Here\u2019s How Much You Would Have Made Owning Centene Stock In The Last 20 Years",
+   "summary": "Centene (NYSE:CNC) has outperformed the market over the past 20 years by 3.86% on an annualized basis producing an average annual return of 12.36%. Currently, Centene has a market capitalization of $32.47 billion.",
+   "url": "https://finnhub.io/api/news?id=2eab14077a370cd2128fe8574278f6b495573b77c863b045d301f9c6d577f304",
+   "source": "Benzinga",
+   "published": "2026-11-20T11:46:04+00:00",
+   "tickers": [
+    "CNC"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -5034,6 +5131,21 @@
    "tag": "Analyst",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "4f715187b0ee",
+   "headline": "RBC Capital Maintains Sector Perform on Centene, Raises Price Target to $73",
+   "summary": "RBC Capital analyst Ben Hendrix maintains Centene (NYSE:CNC) with a Sector Perform and raises the price target from $71 to $73.",
+   "url": "https://finnhub.io/api/news?id=d2506cf877d74135ce5651e7667c98ab4b535c3c2d13254b1d579ab4fb04b7a6",
+   "source": "Benzinga",
+   "published": "2026-11-20T10:53:54+00:00",
+   "tickers": [
+    "CNC"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -40175,58 +40287,6 @@
    "published": "2026-11-11T15:07:28+00:00",
    "tickers": [],
    "tag": "FDA",
-   "sectors": []
-  },
-  {
-   "id": "4311c148a692",
-   "headline": "Valo and Montai become one as the Flagship AI-based biotechs tie the knot",
-   "summary": "Two Flagship Pioneering-founded AI drug discovery and development biotechs, Valo Health and Montai Therapeutics, will join forces in a merger that aims to advance Montai\u2019s early-stage and preclinical pipeline as well as continue a series\u2026",
-   "url": "https://www.fiercebiotech.com/biotech/flagship-ai-based-biotechs-valo-montai-tie-knot",
-   "source": "Fierce Biotech",
-   "published": "2026-11-11T15:00:29.587389+00:00",
-   "tickers": [],
-   "tag": "M&A",
-   "sectors": []
-  },
-  {
-   "id": "3ef10595a49a",
-   "headline": "PGA Tour Taps Rolex, Amazon as Sponsorships Surpass $1 Billion",
-   "summary": "The PGA Tour continued to show how much it\u2019s rebounded from the threat posed by LIV Golf as it approaches a record haul in sponsorships.",
-   "url": "https://finnhub.io/api/news?id=782a35bba5b46ab372712c1236f9eb30149f61974235f715ff0d2a56c0d9f5e3",
-   "source": "Yahoo",
-   "published": "2026-11-11T15:00:00+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "6553b021783d",
-   "headline": "De' Longhi Group: Record Results for the Quarter, With Revenue Growing by 7.7% and Net Profit Pertaining to the Group Progressing Significantly by 19%",
-   "summary": "TREVISO, Italy, November 11, 2026--The Board of Directors of De' Longhi S.p.A. approved the consolidated results1 for the nine months of 2026.",
-   "url": "https://finnhub.io/api/news?id=0ee4ccdefbe1861eab7d768279071c286e0860ee0c13f40e97c61a5b55dc251c",
-   "source": "Yahoo",
-   "published": "2026-11-11T14:58:00+00:00",
-   "tickers": [
-    "NVS"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "0f556bc1abcc",
-   "headline": "Google Cloud debuts Gemini for healthcare",
-   "summary": "Google is the latest big tech company to launch a healthcare-specific agentic AI platform. The company touts the platform\u2019s ability to integrate with third-party tools and automate clinical and administrative tasks.",
-   "url": "https://www.healthcaredive.com/news/google-cloud-debuts-gemini-for-healthcare/874371/",
-   "source": "Healthcare Dive",
-   "published": "2026-11-11T14:55:28+00:00",
-   "tickers": [],
-   "tag": "Health AI",
    "sectors": []
   }
  ]
