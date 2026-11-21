@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-21T01:17:34.510118+00:00",
+ "updated": "2026-11-21T01:32:37.996838+00:00",
  "quotes": {
   "A": {
    "price": 170.38,
@@ -29,6 +29,10 @@
   "ARWR": {
    "price": 41.37,
    "change_pct": -5.22
+  },
+  "ASND": {
+   "price": 252.73,
+   "change_pct": -1.26
   },
   "AZN": {
    "price": 174.35,
@@ -149,6 +153,10 @@
   "HUM": {
    "price": 390,
    "change_pct": 2.63
+  },
+  "ICLR": {
+   "price": 186.71,
+   "change_pct": -1.92
   },
   "IDXX": {
    "price": 676.21,
@@ -290,6 +298,10 @@
    "price": 310,
    "change_pct": -0.98
   },
+  "TAK": {
+   "price": 21.77,
+   "change_pct": 1.68
+  },
   "TGTX": {
    "price": 63.34,
    "change_pct": -2.37
@@ -309,18 +321,6 @@
   "UTHR": {
    "price": 554.73,
    "change_pct": -0.78
-  },
-  "VEEV": {
-   "price": 266.22,
-   "change_pct": 1.26
-  },
-  "VRTX": {
-   "price": 515.02,
-   "change_pct": -1.08
-  },
-  "WAT": {
-   "price": 440.45,
-   "change_pct": -3.51
   }
  },
  "tickers": {
@@ -938,6 +938,21 @@
  },
  "stories": [
   {
+   "id": "41f6adb91ba7",
+   "headline": "Agilent Technologies, Inc. Announces Retirement of Board Member George A. Scangos, Ph.D.",
+   "summary": "",
+   "url": "https://finnhub.io/api/news?id=03d91f988b1b2c3f2ebc542cdaf2fa412aa2d4b920e7927f1bd3d404648b2c2d",
+   "source": "Fintel",
+   "published": "2026-11-21T00:20:07+00:00",
+   "tickers": [
+    "A"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "669060195736",
    "headline": "STAT+: FDA rejects Capricor Therapeutics\u2019 Duchenne therapy, a decision that was a long time coming",
    "summary": "The FDA said it had rejected a cell therapy intended for patients with Duchenne muscular dystrophy developed by Capricor Therapeutics.",
@@ -1103,6 +1118,7 @@
    "published": "2026-11-20T21:02:24+00:00",
    "tickers": [
     "JNJ",
+    "NVS",
     "UNH"
    ],
    "tag": "News",
@@ -1228,6 +1244,21 @@
    ]
   },
   {
+   "id": "2d01298ae389",
+   "headline": "Why You Shouldn't Forget This Biotech Despite Sell Signal",
+   "summary": "On the most recent earnings call, CEO Jan Mikkelsen said the company plans to expand beyond just rare endocrine diseases.",
+   "url": "https://finnhub.io/api/news?id=f033630b98fb6d85d1aa948da4b29ec7a18208c38476bee438c9dea7b2eaafa1",
+   "source": "Yahoo",
+   "published": "2026-11-20T20:06:31+00:00",
+   "tickers": [
+    "ASND"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "5f0987b3e9fa",
    "headline": "Will the first approved psychedelic become a blockbuster?",
    "summary": "Compass and Usona are vying for an FDA first, but pricing, payer coverage and patient access could determine the commercial winner.",
@@ -1299,6 +1330,21 @@
    "sectors": [
     "biotech",
     "pharma"
+   ]
+  },
+  {
+   "id": "d283e4c46f56",
+   "headline": "ICON (ICLR) Stock May Be 25% Undervalued Following Weak Quarterly Results",
+   "summary": "ICON has climbed over the past year but is still down sharply over a five year stretch, which puts a spotlight on whether the current US$190.36 share price is properly anchored to the cash the business can produce. With investors\u2026",
+   "url": "https://finnhub.io/api/news?id=44a381ef5252a0c1fec700cd8263b2f70f38e32d15d8a7af7095c42bdea3dffd",
+   "source": "Yahoo",
+   "published": "2026-11-20T19:10:37+00:00",
+   "tickers": [
+    "ICLR"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -1398,7 +1444,8 @@
    "source": "Yahoo",
    "published": "2026-11-20T18:42:28+00:00",
    "tickers": [
-    "JNJ"
+    "JNJ",
+    "NVS"
    ],
    "tag": "News",
    "sectors": [
@@ -1848,7 +1895,8 @@
    "source": "Yahoo",
    "published": "2026-11-20T16:25:00+00:00",
    "tickers": [
-    "AZN"
+    "AZN",
+    "NVS"
    ],
    "tag": "News",
    "sectors": [
@@ -2149,6 +2197,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "a868c23a7dec",
+   "headline": "Asian Equities Traded in the US as American Depositary Receipts Decline in Friday Trading; Tumble 7% for Week",
+   "summary": "Asian equities traded in the US as American depositary receipts were heading sharply lower Friday mo",
+   "url": "https://finnhub.io/api/news?id=685848c39346cf0b49b8faae8c0f31a3f75e958ac5d096d24e0e7405c3660c76",
+   "source": "Yahoo",
+   "published": "2026-11-20T15:40:56+00:00",
+   "tickers": [
+    "TAK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -2719,6 +2782,21 @@
    ]
   },
   {
+   "id": "438eada7bee9",
+   "headline": "Market Chatter: Novartis CEO Says US Limits on China Biotech Investment May Hurt Drug Development",
+   "summary": "Novartis (NVS) CEO Vas Narasimhan said planned US restrictions on biotech investments in China may h",
+   "url": "https://finnhub.io/api/news?id=14551bd5e82c9be3c1c15b5ea072060b7b5279db280aa9c95244ac72a1559600",
+   "source": "Yahoo",
+   "published": "2026-11-20T14:39:36+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "4969563cc228",
    "headline": "Lilly vs. Pfizer: Which Drugmaker Has Stronger Growth Prospects?",
    "summary": "Lilly and Pfizer offer contrasting growth stories driven by blockbuster drugs, expanding pipelines and strategic investments.",
@@ -2912,6 +2990,21 @@
     "MRK"
    ],
    "tag": "Legal",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "6fba6b60f8a8",
+   "headline": "Novartis CEO: AI Could Cut Drug Development Time by Years",
+   "summary": "Novartis CEO Vasant Narasimhan says artificial intelligence could help cut drug-development times from 12 years to eight and significantly improve the odds of bringing new medicines to market. Narasimhan, who also sits on Anthropic's\u2026",
+   "url": "https://finnhub.io/api/news?id=99a22cf2f21ee4a633bb83e2e17441a08951a98763f9329d4c73222e726cd234",
+   "source": "Yahoo",
+   "published": "2026-11-20T14:04:14+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "Health AI",
    "sectors": [
     "pharma"
    ]
@@ -3407,6 +3500,21 @@
    "tag": "News",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "5bbbfec10856",
+   "headline": "Novartis CEO leans on surge of pipeline readouts to quell growth fears",
+   "summary": "Novartis has earmarked pipeline assets with multi-billion-dollar sale peaks as it tackles a wave of patent expirations.",
+   "url": "https://finnhub.io/api/news?id=81a5fdd9c7fdfe3882fe6f5117f911cfb4a42920183dc5275e35af2b02ec760a",
+   "source": "Yahoo",
+   "published": "2026-11-20T12:37:45+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "Legal",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -41436,21 +41544,6 @@
    "tag": "News",
    "sectors": [
     "tools"
-   ]
-  },
-  {
-   "id": "27a775126acb",
-   "headline": "Labcorp Holdings Inc. (LH) Presents at 2026 UBS Global Healthcare Conference Transcript",
-   "summary": "Labcorp Holdings Inc. (LH) 2026 UBS Global Healthcare Conference November 10, 2026 8:44 AM ESTCompany ParticipantsJulia Wang - Executive VP &...",
-   "url": "https://finnhub.io/api/news?id=f0e2b057456c837a9066175785b38d8d9e5f247785c1eb6df95ec67cea94e1a5",
-   "source": "SeekingAlpha",
-   "published": "2026-11-11T01:30:56+00:00",
-   "tickers": [
-    "LH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
    ]
   }
  ]
