@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-21T02:02:49.062576+00:00",
+ "updated": "2026-11-21T02:17:42.941964+00:00",
  "quotes": {
   "A": {
    "price": 170.38,
@@ -25,6 +25,10 @@
   "AMGN": {
    "price": 435.64,
    "change_pct": -0.72
+  },
+  "ARGX": {
+   "price": 925.7,
+   "change_pct": -1.73
   },
   "ARWR": {
    "price": 41.37,
@@ -306,6 +310,10 @@
    "price": 21.77,
    "change_pct": 1.68
   },
+  "TEM": {
+   "price": 54.04,
+   "change_pct": -9.34
+  },
   "TGTX": {
    "price": 63.34,
    "change_pct": -2.37
@@ -313,14 +321,6 @@
   "TMDX": {
    "price": 85.25,
    "change_pct": -9.33
-  },
-  "TMO": {
-   "price": 669.54,
-   "change_pct": -2.79
-  },
-  "UNH": {
-   "price": 339.85,
-   "change_pct": 2.84
   }
  },
  "tickers": {
@@ -961,6 +961,36 @@
    "tag": "News",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "80e2afd962db",
+   "headline": "Earnings Beat Might Change The Case For Investing In McKesson Stock (MCK)",
+   "summary": "McKesson reported Q2 fiscal 2027 results with revenue up 8% and adjusted earnings per share up 18%, led by oncology and multispecialty services, and supported by recent acquisitions such as Precision Medicine Group and a minority stake in\u2026",
+   "url": "https://finnhub.io/api/news?id=d79dc8d8ae62c7f5396f36f2f7c4899fa85504c0918978810c3502a5544793f5",
+   "source": "Yahoo",
+   "published": "2026-11-21T00:15:17+00:00",
+   "tickers": [
+    "MCK"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
+  {
+   "id": "c66946f0aff9",
+   "headline": "Is Solid Tumor Partnership Altering The Investment Case For AbbVie (ABBV)?",
+   "summary": "AbbVie and German biotech Disco Pharmaceuticals announced a collaboration to co-develop AND gated bispecific therapies for solid tumors, with Disco receiving US$40 million upfront and eligibility for up to US$2.5 billion in milestones\u2026",
+   "url": "https://finnhub.io/api/news?id=f97354cc64e479d85a58c7682068ecb197f291b3c75ba1f10a8bcce0008f541c",
+   "source": "Yahoo",
+   "published": "2026-11-21T00:12:36+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -2433,7 +2463,8 @@
    "source": "Yahoo",
    "published": "2026-11-20T15:24:00+00:00",
    "tickers": [
-    "ILMN"
+    "ILMN",
+    "TEM"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -3029,6 +3060,7 @@
    "source": "Yahoo",
    "published": "2026-11-20T14:10:00+00:00",
    "tickers": [
+    "ARGX",
     "HALO",
     "JNJ",
     "MRK"
@@ -4468,6 +4500,21 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "2ecead91580a",
+   "headline": "Guardant Health (GH) Brings Reveal Ultra To U.S. Clinics With 1 Part Per Million Detection",
+   "summary": "Guardant Health (NasdaqGS:GH) has launched Guardant Reveal Ultra in the U.S. as a clinical molecular residual disease platform for solid tumors. The new assay is described as ultra sensitive, with reported detection capability down to 1\u2026",
+   "url": "https://finnhub.io/api/news?id=d03591cf30ba8f54454d0ab8bab6a8ca732c7908a5ac2cf0421505b7d120e8dc",
+   "source": "Yahoo",
+   "published": "2026-11-20T08:11:15+00:00",
+   "tickers": [
+    "GH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
    ]
   },
   {
