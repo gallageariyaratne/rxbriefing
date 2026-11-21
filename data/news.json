@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-21T15:17:26.243901+00:00",
+ "updated": "2026-11-21T15:32:23.038886+00:00",
  "quotes": {
   "A": {
    "price": 170.38,
@@ -30,17 +30,9 @@
    "price": 252.73,
    "change_pct": -1.26
   },
-  "AXSM": {
-   "price": 129.36,
-   "change_pct": -4.66
-  },
   "AZN": {
    "price": 174.35,
    "change_pct": -0.6
-  },
-  "BIIB": {
-   "price": 249.59,
-   "change_pct": 1.0
   },
   "BMY": {
    "price": 58.8,
@@ -98,10 +90,6 @@
    "price": 80.64,
    "change_pct": -1.53
   },
-  "GILD": {
-   "price": 166.43,
-   "change_pct": -0.06
-  },
   "GKOS": {
    "price": 237.31,
    "change_pct": -0.33
@@ -121,10 +109,6 @@
   "HUM": {
    "price": 390,
    "change_pct": 2.63
-  },
-  "IART": {
-   "price": 13.25,
-   "change_pct": -2.21
   },
   "ICLR": {
    "price": 186.71,
@@ -173,14 +157,6 @@
   "MDT": {
    "price": 99.94,
    "change_pct": -0.67
-  },
-  "MEDP": {
-   "price": 610.54,
-   "change_pct": -3.7
-  },
-  "MOH": {
-   "price": 198.39,
-   "change_pct": -2.43
   },
   "MRK": {
    "price": 133.72,
@@ -257,10 +233,6 @@
   "TAK": {
    "price": 21.77,
    "change_pct": 1.68
-  },
-  "TEM": {
-   "price": 54.04,
-   "change_pct": -9.34
   },
   "TMO": {
    "price": 669.54,
@@ -4232,6 +4204,21 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "2e78f1904631",
+   "headline": "JP Morgan Maintains Neutral on Halozyme Therapeutics, Raises Price Target to $81",
+   "summary": "JP Morgan analyst Jessica Fye maintains Halozyme Therapeutics (NASDAQ:HALO) with a Neutral and raises the price target from $79 to $81.",
+   "url": "https://finnhub.io/api/news?id=8432530fa9ba05afd7c78f403ceb50040a24b36a812ae0479ff2b213991e918d",
+   "source": "Benzinga",
+   "published": "2026-11-20T13:35:46+00:00",
+   "tickers": [
+    "HALO"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -40255,84 +40242,6 @@
    "tag": "News",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "b26d41b9f312",
-   "headline": "Is Illumina Stock Worth The Wait?",
-   "summary": "For questions about this article or underlying research, email help@trefis.com.",
-   "url": "https://finnhub.io/api/news?id=4ec8deaa8dfbac1e8488c67e0cfe1652924129ccdb386d4f289abba0000b8c56",
-   "source": "Yahoo",
-   "published": "2026-11-11T15:29:43+00:00",
-   "tickers": [
-    "A",
-    "BRKR",
-    "DHR",
-    "ILMN",
-    "TMO"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "d4b65732e0d4",
-   "headline": "Amgen Reports Phase 3 Dazodalibep Trial Meets Primary Endpoint in Sj\u00f6gren\u2019s Disease",
-   "summary": "Amgen (NASDAQ:AMGN) announced that its investigational treatment dazodalibep met the primary endpoint in the Phase 3 OASIZ-301 clinical trial, demonstrating statistically significant reductions in systemic disease activity among patients\u2026",
-   "url": "https://finnhub.io/api/news?id=6b643fbde95e21b0862f57b91ef21b94da6a4402ce1db1a41fdab0e3f2ddc418",
-   "source": "Yahoo",
-   "published": "2026-11-11T15:24:56+00:00",
-   "tickers": [
-    "AMGN"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "40876fedae21",
-   "headline": "STAT+: Why this former ER doc thinks giving AI less information is sometimes better",
-   "summary": "In this edition of AI Prognosis: A conversation with Graham Walker, co-founder of MDCalc, about the company's new AI tool.",
-   "url": "https://www.statnews.com/2026/11/11/mdcalc-cofounder-graham-walker-on-crosscover-ai-prognosis/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-11-11T15:20:23+00:00",
-   "tickers": [],
-   "tag": "Health AI",
-   "sectors": []
-  },
-  {
-   "id": "b0db9e2e3271",
-   "headline": "SGOV Yields 3.63%. Can Johnson & Johnson or Verizon Pay Retirees More?",
-   "summary": "One income stream resets every time the Fed moves, while two others depend on a board's vote and a balance sheet. Which payout holds up best over a long retirement, and why might taxes change the answer?",
-   "url": "https://finnhub.io/api/news?id=0a9df32793bed9efbc031774655ee6c5577981c0238f16a46b4c140f4362ceb9",
-   "source": "Yahoo",
-   "published": "2026-11-11T15:17:54+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "6c01b9b547ae",
-   "headline": "3 Legacy Health Care Dividend Stocks That Never Go Out of Style",
-   "summary": "Three health care giants have raised dividends for decades, yet each hides a catch that could shrink or stall a retiree's income. One faces lawsuits, one plans a spinoff, and one raises its payout by a single cent.",
-   "url": "https://finnhub.io/api/news?id=610d544468e43edbc232b094b76da67585dd9e35b77e9b9c3913f554e4c0c9a0",
-   "source": "Yahoo",
-   "published": "2026-11-11T15:17:53+00:00",
-   "tickers": [
-    "ABBV",
-    "ABT",
-    "JNJ",
-    "MDT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
