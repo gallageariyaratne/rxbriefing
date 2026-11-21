@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-21T14:32:37.115314+00:00",
+ "updated": "2026-11-21T14:47:29.650711+00:00",
  "quotes": {
   "A": {
    "price": 170.38,
@@ -37,10 +37,6 @@
   "AZN": {
    "price": 174.35,
    "change_pct": -0.6
-  },
-  "BDX": {
-   "price": 212.78,
-   "change_pct": 0.05
   },
   "BIIB": {
    "price": 249.59,
@@ -98,10 +94,6 @@
    "price": 3.9,
    "change_pct": 13.7
   },
-  "EW": {
-   "price": 101.85,
-   "change_pct": -1.95
-  },
   "GEHC": {
    "price": 80.64,
    "change_pct": -1.53
@@ -125,10 +117,6 @@
   "HCA": {
    "price": 475.57,
    "change_pct": 3.31
-  },
-  "HIMS": {
-   "price": 14.6,
-   "change_pct": -8.86
   },
   "HUM": {
    "price": 390,
@@ -1039,6 +1027,21 @@
    "tag": "Clinical",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "e6e4f7b514df",
+   "headline": "A $5.5 Billion Fund Dumps These 3 Stocks",
+   "summary": "Key TakeawaysVestal Point Capital, a firm managing $5. 47 billion, held none of its Abbott Laboratories, Revolution Medicines or BioCryst Pharmaceuticals shares by Sept.",
+   "url": "https://finnhub.io/api/news?id=b581996b61b53b1603b79364671e2b76cbc6e64c538b8fba03e4df008266fd75",
+   "source": "Yahoo",
+   "published": "2026-11-21T10:43:24+00:00",
+   "tickers": [
+    "ABT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -2709,6 +2712,21 @@
    ]
   },
   {
+   "id": "8235543dad28",
+   "headline": "Michael Burry Halves SMH, Nvidia Puts but Keeps Nasdaq 100 Bet",
+   "summary": "Michael Burry cut his bearish bets on SMH and Nvidia by half but holds his April 2027 Nasdaq 100 puts. What does it mean for chip and tech ETFs?",
+   "url": "https://finnhub.io/api/news?id=e4f34dff5a42063a76d47f358b873d290efc64df8662c65c633daadba78de73c",
+   "source": "Benzinga",
+   "published": "2026-11-20T16:15:57+00:00",
+   "tickers": [
+    "ZTS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "4951b6cfd9b3",
    "headline": "AI and affordability steal the show: 6 takeaways from HLTH",
    "summary": "From agentic AI to GLP-1s, HLTH 2026 made one thing clear: The path from technological promise to affordable access is still a work in progress.",
@@ -3984,6 +4002,22 @@
    "sectors": []
   },
   {
+   "id": "68055e2f03a9",
+   "headline": "Nasdaq 100 Tumbles Over 3% Amid Tech Bloodbath, Nvidia Sinks 7% on 7th Straight Weekly Loss: Stock Market Today",
+   "summary": "Wall Street sold off as Nvidia fell for a seventh session and chipmakers sank. SMH lost 8%, Treasuries rallied and staples led as investors sought shelter.",
+   "url": "https://finnhub.io/api/news?id=a58aaed7446e6d4c0abf65ef3222b678c4ef20c707e35bbc269fc87440a6a73b",
+   "source": "Benzinga",
+   "published": "2026-11-20T13:43:34+00:00",
+   "tickers": [
+    "HUM",
+    "UNH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "4530bbfe2115",
    "headline": "Biogen: Why I'm Still Bullish Despite Market Turmoil",
    "summary": "Biogen Inc. is rated a Buy, as Leqembi Q3 sales rise 66.9% year over year to $202 million and progression risk falls 49% versus ADNI.",
@@ -4110,6 +4144,21 @@
    ]
   },
   {
+   "id": "18dfef72f9e0",
+   "headline": "UnitedHealth Stock Rebounds After TD Cowen Buy Upgrade: What to Know",
+   "summary": "UnitedHealth Group Inc. (NYSE: UNH) shares are trading higher Friday after a recent pullback. Here's what investors need to know.",
+   "url": "https://finnhub.io/api/news?id=4ee207487feca035be5ea6bfe34c41a43b0bf2461c1a27f56a3f495979f881cc",
+   "source": "Benzinga",
+   "published": "2026-11-20T13:21:10+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "80a45d6a491b",
    "headline": "5 Best AI Penny Stocks To Buy After the AI Crash",
    "summary": "The artificial intelligence (AI) stock sell-off has created fresh uncertainty across the technology sector. Several companies have experienced sharp declines following the US mid-term elections after an extended rally fueled by enthusiasm\u2026",
@@ -4122,6 +4171,21 @@
    "tag": "M&A",
    "sectors": [
     "healthai"
+   ]
+  },
+  {
+   "id": "cc41bdd2a450",
+   "headline": "Potential Sanofi-Insmed Deal: Analysts Split on Financial Strain Versus Pipeline Gains",
+   "summary": "Sanofi weighs potential Insmed acquisition to offset Dupixent patent loss, prompting analysts to weigh respiratory synergy against deal cost and capacity.",
+   "url": "https://finnhub.io/api/news?id=2087169d1412914cc0aebff8e269d043a84c36b6c3eca5719e24e641a2c61abf",
+   "source": "Benzinga",
+   "published": "2026-11-20T13:14:18+00:00",
+   "tickers": [
+    "INSM"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -4397,6 +4461,21 @@
    ]
   },
   {
+   "id": "9de06bdfe84a",
+   "headline": "This STMicroelectronics Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Friday",
+   "summary": "Analysts initiated coverage: Neutral on Anthropic; Buy on Praxis ($713) and STMicro ($58); Overweight MSG Rangers ($310); Sector Perform Bruker ($66).",
+   "url": "https://finnhub.io/api/news?id=e1f3084cc019a629010f9acf504d2ca358ec07c98f618a520bdf54f38a0dd235",
+   "source": "Benzinga",
+   "published": "2026-11-20T12:38:10+00:00",
+   "tickers": [
+    "BRKR"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "5bbbfec10856",
    "headline": "Novartis CEO leans on surge of pipeline readouts to quell growth fears",
    "summary": "Novartis has earmarked pipeline assets with multi-billion-dollar sale peaks as it tackles a wave of patent expirations.",
@@ -4506,6 +4585,21 @@
    ]
   },
   {
+   "id": "e64bce308e75",
+   "headline": "Insmed Stock Rises: What's Going On?",
+   "summary": "Insmed Inc. (NASDAQ: INSM) shares are rising. A report surfaced that Sanofi is exploring an offer for the rare-disease drug developer.",
+   "url": "https://finnhub.io/api/news?id=f2a51d07a590cdd41fec44897c0bd47d95901c37a89bb4a92ba3a8f5a275c602",
+   "source": "Benzinga",
+   "published": "2026-11-20T12:21:19+00:00",
+   "tickers": [
+    "INSM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "b27857cabcd5",
    "headline": "Medical Properties Trust Yields 22%, but Its Stock Has Crashed 65%",
    "summary": "A soaring yield can signal danger rather than a bargain. We tested five dividend payers against the same coverage and debt checks, and one household name in this group is already showing the warning signs that preceded a slashed payout.",
@@ -4604,7 +4698,8 @@
    "source": "Benzinga",
    "published": "2026-11-20T12:00:22+00:00",
    "tickers": [
-    "JNJ"
+    "JNJ",
+    "UNH"
    ],
    "tag": "News",
    "sectors": [
@@ -4927,6 +5022,21 @@
    ]
   },
   {
+   "id": "66d059221469",
+   "headline": "Barclays Maintains Overweight on Celldex Therapeutics, Lowers Price Target to $50",
+   "summary": "Barclays analyst Etzer Darout maintains Celldex Therapeutics (NASDAQ:CLDX) with a Overweight and lowers the price target from $53 to $50.",
+   "url": "https://finnhub.io/api/news?id=a84252cacc09851ddfeae21817e3dd12bf9a59afc3f69fa2f1c2cb40a90f05bc",
+   "source": "Benzinga",
+   "published": "2026-11-20T10:53:59+00:00",
+   "tickers": [
+    "CLDX"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "a00b7b7bf0f9",
    "headline": "Erasca: 'Buy' On Expanded KRAS Targeting ERAS-4001 And Bristol-Myers Squibb Collaboration Tie-Up",
    "summary": "Analyst rates Erasca a Buy as ERAS-0015 shows unconfirmed 50% pancreatic and 64% lung responses; Erasca targets three registrational trials for 2027\u00e2\u0080\u00932028.",
@@ -4940,6 +5050,36 @@
    "tag": "Analyst",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "682946c1e9ec",
+   "headline": "RBC Capital Initiates Coverage On Bruker with Sector Perform Rating, Announces Price Target of $66",
+   "summary": "RBC Capital analyst Dan Leonard initiates coverage on Bruker (NASDAQ:BRKR) with a Sector Perform rating and announces Price Target of $66.",
+   "url": "https://finnhub.io/api/news?id=9f5554020b8608c0ad2b97ff2a5b6f081cf8e7c188e918bb80f383fda81d3ba9",
+   "source": "Benzinga",
+   "published": "2026-11-20T10:51:26+00:00",
+   "tickers": [
+    "BRKR"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "be393d7eab40",
+   "headline": "Celldex Drops Atopic Dermatitis Study Following Weak Phase 2 Pruritus Data",
+   "summary": "Celldex halts barzolvolimab development in atopic dermatitis after Phase 2 trial misses primary itch reduction goals despite strong safety.",
+   "url": "https://finnhub.io/api/news?id=93081351307d9559b848e451ec76d222c75079030ce92351a1ce19d36ac8b583",
+   "source": "Benzinga",
+   "published": "2026-11-20T10:33:49+00:00",
+   "tickers": [
+    "CLDX"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -40087,97 +40227,6 @@
    "published": "2026-11-11T14:55:28+00:00",
    "tickers": [],
    "tag": "Health AI",
-   "sectors": []
-  },
-  {
-   "id": "0fb5663ec5d2",
-   "headline": "Nvidia downgraded, Mercury Systems upgraded: Wall Street's top analyst calls",
-   "summary": "Nvidia downgraded, Mercury Systems upgraded: Wall Street's top analyst calls",
-   "url": "https://finnhub.io/api/news?id=7e69a5c463c97c69772e844c9f12728ba0efc01ff829364bbbb479093921d9aa",
-   "source": "Yahoo",
-   "published": "2026-11-11T14:45:30+00:00",
-   "tickers": [
-    "HALO",
-    "UTHR"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "7d69050bb2e6",
-   "headline": "New Phase 3b data on Lilly's Taltz (ixekizumab) and Zepbound (tirzepatide) used together showed improved and durable efficacy, patient-reported and metabolic outcomes at one year in adults with psoriatic arthritis and obesity",
-   "summary": "Nearly three times as many patients taking Taltz and Zepbound achieved \u226550% reduction in psoriatic arthritis disease activity (ACR50) at one year compared to Taltz alone in first-of-its-kind TOGETHER-PsA study Improvements in disease\u2026",
-   "url": "https://www.prnewswire.com/news-releases/new-phase-3b-data-on-lillys-taltz-ixekizumab-and-zepbound-tirzepatide-used-together-showed-improved-and-durable-efficacy-patient-reported-and-metabolic-outcomes-at-one-year-in-adults-with-psoriatic-arthritis-and-obesity-302935708.html",
-   "source": "PR Newswire",
-   "published": "2026-11-11T14:45:00+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "0c38ce1439dd",
-   "headline": "New Phase 3b data on Lilly's Taltz (ixekizumab) and Zepbound (tirzepatide) used together showed improved and durable efficacy, patient-reported and metabolic outcomes at one year in adults with psoriatic arthritis and obesity",
-   "summary": "Eli Lilly and Company (NYSE: LLY) today announced detailed 52-week results showing improved and durable efficacy from the TOGETHER-PsA Phase 3b open-label clinical trial evaluating the concomitant use of Taltz (ixekizumab) and Zepbound\u2026",
-   "url": "https://finnhub.io/api/news?id=84f009b79119517defe8793290b97b16fec476759a7b927bb0af63db5e16607e",
-   "source": "Yahoo",
-   "published": "2026-11-11T14:45:00+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "44d0187aef26",
-   "headline": "Global Biotechnology Market to Reach $5 Trillion by 2032, Driven by Biopharmaceuticals, Gene Editing and Sustainable Innovation | Features Profiles of Danaher, Roche, Illumina, Merck, Thermo Fisher and More",
-   "summary": "Target biopharma, gene editing and sustainable agriculture; leverage regional and competitive insights to uncover revenue opportunities and guide R&D investmentDublin, Nov. 11, 2026 (GLOBE NEWSWIRE) -- \"Biotechnology - Global Strategic\u2026",
-   "url": "https://finnhub.io/api/news?id=ec034891e9f3df9dbc34b29e564b4397f63bf0c4f764cb06f3ce61dcaa2ec38d",
-   "source": "Yahoo",
-   "published": "2026-11-11T14:44:00+00:00",
-   "tickers": [
-    "DHR",
-    "ILMN",
-    "MRK",
-    "TMO"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "7bb0a34c8c57",
-   "headline": "Mass Spectrometry - Global Strategic Business Report 2026-2032 Featuring Thermo Fisher, Agilent, Bruker, Shimadzu, Waters and More",
-   "summary": "Capitalize on demand for high-sensitivity MS, hybrid LC-MS/GC-MS platforms, and software-led services across biopharma, diagnostics, food safety and environmental testingDublin, Nov. 11, 2026 (GLOBE NEWSWIRE) -- \"Mass Spectrometry -\u2026",
-   "url": "https://finnhub.io/api/news?id=2c409e0d9873ffff56b80ce3284d1e0d88bdbca358f190cfe4e1a8a003f49288",
-   "source": "Yahoo",
-   "published": "2026-11-11T14:42:00+00:00",
-   "tickers": [
-    "A",
-    "TMO"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "77b03383f4b0",
-   "headline": "STAT+: Pharmalittle: We\u2019re reading about Dems eyeing Trump MFN deals, fewer drug launches in Europe, and more",
-   "summary": "Incoming Democratic chairs of key congressional committees have taken a new step toward investigating most-favored nation drug pricing agreements",
-   "url": "https://www.statnews.com/pharmalot/2026/11/11/dems-eye-trump-mfn-deals-fewer-drug-launches-in-europe/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-11-11T14:34:28+00:00",
-   "tickers": [],
-   "tag": "Policy",
    "sectors": []
   }
  ]
