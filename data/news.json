@@ -1,11 +1,7 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-22T00:16:52.904828+00:00",
+ "updated": "2026-11-22T00:31:42.532200+00:00",
  "quotes": {
-  "A": {
-   "price": 170.38,
-   "change_pct": -2.83
-  },
   "ABBV": {
    "price": 286.2,
    "change_pct": 0.94
@@ -21,6 +17,10 @@
   "ALNY": {
    "price": 143.82,
    "change_pct": -2.71
+  },
+  "BMRN": {
+   "price": 60.41,
+   "change_pct": -1.64
   },
   "BMY": {
    "price": 58.8,
@@ -811,6 +811,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "17128459d832",
+   "headline": "BioMarin Pharmaceutical Inc. (BMRN) Presents at Jefferies London Healthcare Conference - Slideshow",
+   "summary": "2026-11-21. The following slide deck was published by BioMarin Pharmaceutical Inc.",
+   "url": "https://finnhub.io/api/news?id=4574a3514e6afa33df66c3ff636b750dc2a68aebdd2dac49870edc2e38e5c072",
+   "source": "SeekingAlpha",
+   "published": "2026-11-21T18:18:29+00:00",
+   "tickers": [
+    "BMRN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -38604,21 +38619,6 @@
     "NVS"
    ],
    "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "1554d0e1ea46",
-   "headline": "Novo Nordisk (CPSE:NOVO B) Stock Still Looks Undervalued As Shares Fell 56%",
-   "summary": "Novo Nordisk has had a rough three years in the market, even as interest in its GLP-1 obesity and diabetes treatments has grown. This puts an unusual spotlight on what investors are actually paying for its earnings today. With the share\u2026",
-   "url": "https://finnhub.io/api/news?id=e200efa1718cccde65269e15ee4bb1d015f33e744046b4a7b276684249efe723",
-   "source": "Yahoo",
-   "published": "2026-11-12T00:24:21+00:00",
-   "tickers": [
-    "NVO"
-   ],
-   "tag": "GLP-1",
    "sectors": [
     "pharma"
    ]
