@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-22T18:31:40.999412+00:00",
+ "updated": "2026-11-22T18:46:32.833051+00:00",
  "quotes": {
   "ABBV": {
    "price": 286.2,
@@ -58,10 +58,6 @@
    "price": 99.94,
    "change_pct": -0.67
   },
-  "MRK": {
-   "price": 133.72,
-   "change_pct": 0.69
-  },
   "NBIX": {
    "price": 150.57,
    "change_pct": -3.84
@@ -89,6 +85,10 @@
   "TMO": {
    "price": 669.54,
    "change_pct": -2.79
+  },
+  "UNH": {
+   "price": 339.85,
+   "change_pct": 2.84
   },
   "VRTX": {
    "price": 515.02,
@@ -880,6 +880,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "f768814dbda2",
+   "headline": "A $2.1 Billion Fund Just Bought These 3 Stocks",
+   "summary": "Key TakeawaysDistillate Capital Partners, which manages $2. 11 billion, added to UnitedHealth, Booking Holdings and T-Mobile US in the third quarter, its latest 13F shows.",
+   "url": "https://finnhub.io/api/news?id=f47550eb27b48c8cc063d7a70150e2d95bc93b382a78ab96c8e706ec7ae59306",
+   "source": "Yahoo",
+   "published": "2026-11-22T11:15:44+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -4026,6 +4041,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "046167feb198",
+   "headline": "Pfizer or NextEra Energy: I Can Only Pick One Dividend Stock for the Next 10 Years. Here\u2019s Mine",
+   "summary": "Key TakeawaysPfizer yields 6. 1% and NextEra Energy yields 3.",
+   "url": "https://finnhub.io/api/news?id=3c0a809beec1f2067e02d6cd7f375e23ec822561ebb698bc8d36a001f97ff70e",
+   "source": "Yahoo",
+   "published": "2026-11-20T14:59:48+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -34780,36 +34810,6 @@
    "tickers": [],
    "tag": "Health AI",
    "sectors": []
-  },
-  {
-   "id": "aa7303a57b8b",
-   "headline": "Jensen Huang Says AI's 'Most Profound Impact' Will Be in Life Sciences -- and Eli Lilly Is Already Building on It",
-   "summary": "The world's largest healthcare company is making shrewd investments in its future.",
-   "url": "https://finnhub.io/api/news?id=6fb4fa2d385dd40b2eaea9fbbe6f31490ffd854e2629663f0e06b22ca5d2eb1e",
-   "source": "Yahoo",
-   "published": "2026-11-12T18:36:00+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "6cdaeed02acd",
-   "headline": "ICON: 3 Key Takeaways for Long-Term Investors",
-   "summary": "AI-driven efficiency gains and debt refinancing position the company to convert record bookings into margin expansion.",
-   "url": "https://finnhub.io/api/news?id=8f828a80e18ae8bc012b6fec65d97160fd9cf7c95fc8fed9e2d1ee9188fa428e",
-   "source": "Yahoo",
-   "published": "2026-11-12T18:35:02+00:00",
-   "tickers": [
-    "ICLR"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "tools"
-   ]
   }
  ]
 }
