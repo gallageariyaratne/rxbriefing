@@ -1,14 +1,10 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-22T01:01:50.322984+00:00",
+ "updated": "2026-11-22T01:16:40.465373+00:00",
  "quotes": {
   "ABBV": {
    "price": 286.2,
    "change_pct": 0.94
-  },
-  "ABSI": {
-   "price": 7.51,
-   "change_pct": -7.97
   },
   "ABT": {
    "price": 103,
@@ -17,6 +13,10 @@
   "ALNY": {
    "price": 143.82,
    "change_pct": -2.71
+  },
+  "AZN": {
+   "price": 174.35,
+   "change_pct": -0.6
   },
   "BMRN": {
    "price": 60.41,
@@ -912,6 +912,21 @@
     "JNJ"
    ],
    "tag": "Policy",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "ebf420694ef1",
+   "headline": "3 British Stocks Trading Up To 43% Below Cash Flow Value",
+   "summary": "With the Nasdaq sliding into correction territory after an AI driven selloff, many popular momentum stocks now look far less certain. That kind of shakeout often leaves quieter cash generators in the shadows, even when their future cash\u2026",
+   "url": "https://finnhub.io/api/news?id=21fd263c4f3e41be56f552346eaa8d5ac1a5d972d17ed4a49f40bda6443ccb50",
+   "source": "Yahoo",
+   "published": "2026-11-21T15:09:17+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "Health AI",
    "sectors": [
     "pharma"
    ]
@@ -38585,51 +38600,6 @@
     "LLY"
    ],
    "tag": "GLP-1",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "88c9d3a853e7",
-   "headline": "3 Penny Stocks With Revenue Up To 34 Billion",
-   "summary": "Global power grids are being expanded at record speed, with new transmission lines jumping 50% last year as governments push hard on electrification and energy security. That kind of big spending often starts with large contractors but\u2026",
-   "url": "https://finnhub.io/api/news?id=1a30023bf58fe0700a90d6dcfba8d68d482b53f790e5e37814047600bd5a84b4",
-   "source": "Yahoo",
-   "published": "2026-11-12T01:15:14+00:00",
-   "tickers": [
-    "CLOV"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "a249d109db51",
-   "headline": "BioMarin Pharmaceutical Hits $1 Billion Revenue Milestone, Advances Rare-Disease Pipeline",
-   "summary": "BioMarin Pharmaceutical (NASDAQ:BMRN) is advancing a group of newly acquired rare-disease drug candidates while integrating Amicus Therapeutics and working to reduce debt, executives said during a company discussion. Chief Financial\u2026",
-   "url": "https://finnhub.io/api/news?id=24e496e3f4b4d52ab04c359a85d2753b7a462ee5912c07c9b797e5edca843a45",
-   "source": "Yahoo",
-   "published": "2026-11-12T01:12:39+00:00",
-   "tickers": [
-    "BMRN"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "b745e815c391",
-   "headline": "OTP Bank PLC (OTPBF) Q3 2026 Earnings Call Highlights: Strong Organic Growth and Capital ...",
-   "summary": "OTP Bank PLC (OTPBF) delivered 12% organic loan growth, a 4.6% net interest margin, and a 17.8% CET1 ratio, but one-off provisions, rising costs, and special taxes weighed on profit growth.",
-   "url": "https://finnhub.io/api/news?id=5473bc4e448e82b82bc398ad7656bc0ddfb81c089553f8f43ad71f7b0c20523d",
-   "source": "Yahoo",
-   "published": "2026-11-12T01:05:24+00:00",
-   "tickers": [
-    "NVS"
-   ],
-   "tag": "Earnings",
    "sectors": [
     "pharma"
    ]
