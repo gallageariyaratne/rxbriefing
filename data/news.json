@@ -1,14 +1,10 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-22T10:31:43.171932+00:00",
+ "updated": "2026-11-22T10:46:31.417185+00:00",
  "quotes": {
   "ABBV": {
    "price": 286.2,
    "change_pct": 0.94
-  },
-  "ABT": {
-   "price": 103,
-   "change_pct": -0.84
   },
   "ALNY": {
    "price": 143.82,
@@ -38,6 +34,10 @@
    "price": 220.36,
    "change_pct": -3.16
   },
+  "DOCS": {
+   "price": 28.73,
+   "change_pct": -2.97
+  },
   "GILD": {
    "price": 166.43,
    "change_pct": -0.06
@@ -49,10 +49,6 @@
   "GMED": {
    "price": 66.89,
    "change_pct": -2.49
-  },
-  "HCA": {
-   "price": 475.57,
-   "change_pct": 3.31
   },
   "INCY": {
    "price": 114.62,
@@ -82,10 +78,6 @@
    "price": 133.72,
    "change_pct": 0.69
   },
-  "NBIX": {
-   "price": 150.57,
-   "change_pct": -3.84
-  },
   "NTRA": {
    "price": 273.4,
    "change_pct": -5.7
@@ -105,10 +97,6 @@
   "RMD": {
    "price": 235.63,
    "change_pct": -0.53
-  },
-  "RVMD": {
-   "price": 161.2,
-   "change_pct": 1.11
   },
   "RXST": {
    "price": 4.47,
@@ -749,6 +737,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "c5b370373111",
+   "headline": "3 AI Healthcare Stocks To Own In November 2026",
+   "summary": "Goldman Sachs is flagging an AI focused sell off that has dragged major indexes into correction territory, which is shaking out weaker hands but also resetting expectations. That kind of reset can be fertile ground for investors watching\u2026",
+   "url": "https://finnhub.io/api/news?id=d5aba32af8ec3ea6d8484ee0b6a2d49fa309ba607ce51924c36d3fc212626d0b",
+   "source": "Yahoo",
+   "published": "2026-11-22T09:09:31+00:00",
+   "tickers": [
+    "DOCS"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "healthit"
+   ]
+  },
   {
    "id": "0f72ebb7fb82",
    "headline": "Danaher teams up with Microsoft to boost \u2018experimental execution\u2019",
@@ -37775,38 +37778,6 @@
    "tag": "Earnings",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "759a6565fa0c",
-   "headline": "JP Morgan Maintains Neutral on LifeStance Health Gr, Raises Price Target to $15",
-   "summary": "JP Morgan analyst Lisa Gill maintains LifeStance Health Gr (NASDAQ:LFST) with a Neutral and raises the price target from $13 to $15.",
-   "url": "https://finnhub.io/api/news?id=ad1084eadb622e86e7ad64844de80270f0474c658305269313d74a918540dc82",
-   "source": "Benzinga",
-   "published": "2026-11-12T10:43:21+00:00",
-   "tickers": [
-    "LFST"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "c755ab36e264",
-   "headline": "Eli Lilly stock rises after China approves weight-loss pill",
-   "summary": "Investing.com -- Eli Lilly shares gained 2.8% premarket Thursday after China's medicine regulator approved the company's weight-loss pill orforglipron.",
-   "url": "https://finnhub.io/api/news?id=0ffd02aadac67ecc34c9ec79ce0608f44af3a040d7d82b4a15b67e4a28229ae2",
-   "source": "Yahoo",
-   "published": "2026-11-12T10:37:09+00:00",
-   "tickers": [
-    "LLY",
-    "NVO",
-    "PFE"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
