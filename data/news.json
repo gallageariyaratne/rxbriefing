@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-22T20:16:35.096428+00:00",
+ "updated": "2026-11-22T20:31:39.239670+00:00",
  "quotes": {
   "ABBV": {
    "price": 286.2,
@@ -13,6 +13,10 @@
   "AMGN": {
    "price": 435.64,
    "change_pct": -0.72
+  },
+  "BMY": {
+   "price": 58.8,
+   "change_pct": 0.79
   },
   "CI": {
    "price": 270.9,
@@ -713,6 +717,22 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "4e9689664e4b",
+   "headline": "Bristol Myers Squibb vs. Novo Nordisk: Which Healthcare Stock Is a Better Buy for 2027?",
+   "summary": "Novo Nordisk's profit margins are running far above Bristol Myers, yet the cheaper valuation tells a different story about where the value sits.",
+   "url": "https://finnhub.io/api/news?id=e9a54a049612f69215bea0295e83460667598fe59e69aa9120d2e941f427be2f",
+   "source": "Yahoo",
+   "published": "2026-11-22T18:04:01+00:00",
+   "tickers": [
+    "BMY",
+    "JNJ"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
   {
    "id": "a545259d254a",
    "headline": "Is Microsoft (MSFT) Building A Bigger AI Role In Scientific Labs?",
@@ -34531,58 +34551,6 @@
    "tag": "Earnings",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "dce040c66a00",
-   "headline": "Texas AG narrows lawsuit against Epic, dropping claims over parental access settings",
-   "summary": "The case will unfold under new state leadership, with Democrat Nathan Johnson set to replace Ken Paxton as Texas attorney general and Democrat Katherine Kim replacing the Republican incumbent as the presiding judge.",
-   "url": "https://www.fiercehealthcare.com/health-tech/texas-ag-drops-allegations-epic-restricts-parents-access-health-data-antitrust-lawsuit",
-   "source": "Fierce Healthcare",
-   "published": "2026-11-12T20:30:29.262107+00:00",
-   "tickers": [],
-   "tag": "Legal",
-   "sectors": []
-  },
-  {
-   "id": "67e16e374893",
-   "headline": "ARPA-H bets $4.9 million on ibogaine for PTSD treatment in veterans",
-   "summary": "The U.S. department of health and human services announced a $4.9 million bet to advance the development of ibogaine for post-traumatic stress disorder (PTSD).",
-   "url": "https://www.fiercebiotech.com/biotech/arpa-h-bets-49-million-ibogaine-ptsd-treatment-veterans",
-   "source": "Fierce Biotech",
-   "published": "2026-11-12T20:30:26.545767+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "c53b423be6d7",
-   "headline": "Lilly breaks ground in Pennsylvania's Lehigh Valley on a $3.5 billion site to make next-generation obesity medicines, the latest of 10 new U.S. sites since 2020",
-   "summary": "Facility will manufacture injectable medicines, including retatrutide Site will create 850 high-wage jobs and 2,000 construction jobs INDIANAPOLIS, Nov. 12, 2026 /PRNewswire/ -- Eli Lilly and Company (NYSE: LLY) today broke ground on a\u2026",
-   "url": "https://www.prnewswire.com/news-releases/lilly-breaks-ground-in-pennsylvanias-lehigh-valley-on-a-3-5-billion-site-to-make-next-generation-obesity-medicines-the-latest-of-10-new-us-sites-since-2020--302938234.html",
-   "source": "PR Newswire",
-   "published": "2026-11-12T20:30:00+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "ab6c7305b69f",
-   "headline": "Lilly breaks ground in Pennsylvania's Lehigh Valley on a $3.5 billion site to make next-generation obesity medicines, the latest of 10 new U.S. sites since 2020",
-   "summary": "Eli Lilly and Company (NYSE: LLY) today broke ground on a $3.5 billion manufacturing facility in Pennsylvania's Lehigh Valley. The site is one of 10 new U.S. manufacturing sites announced since 2020 and one of four among them dedicated to\u2026",
-   "url": "https://finnhub.io/api/news?id=921acab5e07b2496030232adc50f0c0dc89b3d55e9abc06ed8acd36f7ccad8f7",
-   "source": "Yahoo",
-   "published": "2026-11-12T20:30:00+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
