@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-22T06:16:46.013496+00:00",
+ "updated": "2026-11-22T06:31:49.860139+00:00",
  "quotes": {
   "ABBV": {
    "price": 286.2,
@@ -29,6 +29,10 @@
   "CVS": {
    "price": 80.84,
    "change_pct": 1.0
+  },
+  "DGX": {
+   "price": 258.28,
+   "change_pct": -0.31
   },
   "DHR": {
    "price": 220.36,
@@ -765,6 +769,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "6f0f4f4cfec8",
+   "headline": "Quest Diagnostics Sees Hospital Deal Growth as 2027 Medicare Cuts Loom",
+   "summary": "Quest Diagnostics (NYSE:DGX) expects continued strength in testing demand and its hospital partnerships, while preparing for a potential revenue hit in 2027 if Medicare laboratory payment cuts take effect, a company representative said\u2026",
+   "url": "https://finnhub.io/api/news?id=4ce64149217524a45bbd69533debb50a58392d9dae8b8b3784ab1a791e64c6f0",
+   "source": "Yahoo",
+   "published": "2026-11-22T04:12:10+00:00",
+   "tickers": [
+    "DGX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
   {
    "id": "567348872e52",
    "headline": "Lakefront Biotherapeutics Eyes 2027 Trials for Autoimmune Drug, Backed by \u20ac2.2 Billion in Cash",
@@ -38472,22 +38491,6 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "e8581eb883dc",
-   "headline": "SCHD-Inspired 4-Factor Dividend Growth Strategy Selections For November 2026",
-   "summary": "",
-   "url": "https://finnhub.io/api/news?id=20b6be766f3483b48e3e9d0d50803e9a759c61e626600f95f4e0bc5c3dabec7f",
-   "source": "SeekingAlpha",
-   "published": "2026-11-12T06:29:46+00:00",
-   "tickers": [
-    "NVO",
-    "ZTS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
