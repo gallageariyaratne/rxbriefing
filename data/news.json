@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-22T18:16:32.869546+00:00",
+ "updated": "2026-11-22T18:31:40.999412+00:00",
  "quotes": {
   "ABBV": {
    "price": 286.2,
@@ -13,10 +13,6 @@
   "AMGN": {
    "price": 435.64,
    "change_pct": -0.72
-  },
-  "BMRN": {
-   "price": 60.41,
-   "change_pct": -1.64
   },
   "CI": {
    "price": 270.9,
@@ -93,6 +89,10 @@
   "TMO": {
    "price": 669.54,
    "change_pct": -2.79
+  },
+  "VRTX": {
+   "price": 515.02,
+   "change_pct": -1.08
   },
   "ZBH": {
    "price": 101.1,
@@ -729,6 +729,21 @@
    ]
   },
   {
+   "id": "298d0b1acefe",
+   "headline": "Johnson & Johnson (JNJ) Posts Phase 4 STAR Win In Psoriatic Arthritis",
+   "summary": "Johnson & Johnson (NYSE:JNJ) reported new Phase 4 STAR trial results for TREMFYA in psoriatic arthritis with axial involvement. The Phase 4 data showed statistically significant improvements in MRI confirmed spinal inflammation for adults\u2026",
+   "url": "https://finnhub.io/api/news?id=f1c75d7b2f03c6941aef849963df2e2f44597e9b396ad42fe48271087c466032",
+   "source": "Yahoo",
+   "published": "2026-11-22T16:06:03+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "44f3647be09d",
    "headline": "Gilead Sciences Has Raised Its Dividend for 11 Straight Years. Here\u2019s Why the Streak Looks Safe.",
    "summary": "Gilead's consistent cash flows from HIV therapies help sustain its dividend.",
@@ -801,6 +816,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "4fb26be74401",
+   "headline": "Vertex\u2019s executive chairman: Here\u2019s how we got our drug-trial success rate over 70% when the industry\u2019s is 10% to 20%",
+   "summary": "More bets don\u2019t necessarily produce more successes",
+   "url": "https://finnhub.io/api/news?id=285214f9dba309dbaa3f945b6632e58dcb8f54f487eb1a977401ba9e8d174904",
+   "source": "Yahoo",
+   "published": "2026-11-22T13:30:00+00:00",
+   "tickers": [
+    "VRTX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -34779,36 +34809,6 @@
    "tag": "Health AI",
    "sectors": [
     "tools"
-   ]
-  },
-  {
-   "id": "b8cef0d7b300",
-   "headline": "Hims & Hers Health, Inc. 2026 Q3 - Results - Earnings Call Presentation",
-   "summary": "2026-11-12. The following slide deck was published by Hims & Hers Health, Inc.",
-   "url": "https://finnhub.io/api/news?id=d91ca364c277d674e07903daa08b7005041aba53e454fb77518d081fc666d1ba",
-   "source": "SeekingAlpha",
-   "published": "2026-11-12T18:20:56+00:00",
-   "tickers": [
-    "HIMS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "942c0fbe9249",
-   "headline": "A $400,000 Portfolio in UPS, Enterprise Products and Pfizer Pays $23,577 a Year in Dividends. Here\u2019s What Happens if One Cuts",
-   "summary": "Key TakeawaysA $400,000 portfolio split evenly across UPS, Enterprise Products Partners and Pfizer pays about $1,960 a month in dividends at today\u2019s prices. Enterprise Products Partners has the most room behind its payout, with\u2026",
-   "url": "https://finnhub.io/api/news?id=e09b0f9f51581f210491cff7055a18b99a3477e8f3a791aef5ae9d91016f5f95",
-   "source": "Yahoo",
-   "published": "2026-11-12T18:20:33+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
