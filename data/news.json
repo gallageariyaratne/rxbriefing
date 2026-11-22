@@ -1,10 +1,18 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-22T14:31:42.003413+00:00",
+ "updated": "2026-11-22T14:46:37.539498+00:00",
  "quotes": {
   "ABBV": {
    "price": 286.2,
    "change_pct": 0.94
+  },
+  "ABT": {
+   "price": 103,
+   "change_pct": -0.84
+  },
+  "AMGN": {
+   "price": 435.64,
+   "change_pct": -0.72
   },
   "AZN": {
    "price": 174.35,
@@ -726,6 +734,21 @@
  },
  "stories": [
   {
+   "id": "347177f15d3d",
+   "headline": "Dow Jones Futures Due After Market's Worst Week Since Covid; What To Do Now",
+   "summary": "The Dow Jones and Nasdaq had their worst week since March 2020, fueled by Nvidia and Anthropic. A fear gauge is soaring. Good news?",
+   "url": "https://finnhub.io/api/news?id=29af45e7e1bc998b59c58dc2c8dae7435ee065f49a831cbd9973a937d6a9055e",
+   "source": "Yahoo",
+   "published": "2026-11-22T13:52:44+00:00",
+   "tickers": [
+    "GKOS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "7ea98f85effb",
    "headline": "Johnson & Johnson vs. Pfizer: Which Healthcare Stock Is a Better Buy for 2027?",
    "summary": "Johnson & Johnson's drug-and-device product mix faces off against Pfizer's high-stakes oncology and obesity bets, with a valuation gap that may sway your choice.",
@@ -734,7 +757,8 @@
    "published": "2026-11-22T13:25:02+00:00",
    "tickers": [
     "ABBV",
-    "JNJ"
+    "JNJ",
+    "PFE"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -749,12 +773,28 @@
    "source": "Yahoo",
    "published": "2026-11-22T13:07:50+00:00",
    "tickers": [
+    "ABT",
     "CI",
     "MDT"
    ],
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "4861c22e87b6",
+   "headline": "Invest $225,000 in These 4 Dividend Stocks and Collect Quarterly Income in Retirement",
+   "summary": "Retirement turns portfolio math into a question about electric bills and property taxes. Four dividend payers from banking, biotech, staples and utilities promise a paycheck every three months, but one of them carries a thinner safety\u2026",
+   "url": "https://finnhub.io/api/news?id=5201d2c79a3dd0e1b0c44ee5ddbf037c19836a574426c91e96a6a8a522107d9e",
+   "source": "Yahoo",
+   "published": "2026-11-22T12:30:55+00:00",
+   "tickers": [
+    "AMGN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -36286,66 +36326,6 @@
    "tag": "News",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "e2695f678915",
-   "headline": "REPL Stock Up 80% in a Month on Tudriqev Launch & Pipeline Progress",
-   "summary": "Replimune shares surge 80% as Tudriqev's commercial launch gains traction, earnings beat expectations and pipeline progress strengthens growth prospects.",
-   "url": "https://finnhub.io/api/news?id=4fa6ea318e39105b2c95e82efed76cc828f60da898d0966e15becd4687c1daac",
-   "source": "Yahoo",
-   "published": "2026-11-12T14:44:00+00:00",
-   "tickers": [
-    "BMY"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "420830d20b58",
-   "headline": "Why Pfizer Is Tapping Private Equity to Back Its Once-Monthly Weight-Loss Drug",
-   "summary": "Blackstone Life Sciences agrees to pay $1.5 billion in development costs for Pfizer\u2019s berobenatide through 2028 in exchange for milestone-based payments.",
-   "url": "https://finnhub.io/api/news?id=64e8ddee772d01a60c455d1b928cffd82712031b3ac4dda618e2eac729989daa",
-   "source": "Yahoo",
-   "published": "2026-11-12T14:42:00+00:00",
-   "tickers": [
-    "BMY",
-    "JNJ",
-    "LLY",
-    "MRK",
-    "PFE"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "f127afcf5ba1",
-   "headline": "The FDA has over 1k open jobs \u2014 and the staffing shortage is hitting pharma",
-   "summary": "The agency is still recovering from a mass staff exodus last year that left it shorthanded. Here\u2019s what it means for the industry.",
-   "url": "https://www.biopharmadive.com/news/fda-staffing-shortages-drug-reviews-pharma/874480/",
-   "source": "BioPharma Dive",
-   "published": "2026-11-12T14:38:00+00:00",
-   "tickers": [],
-   "tag": "FDA",
-   "sectors": []
-  },
-  {
-   "id": "89287f5778ea",
-   "headline": "Intuitive Surgical: Why I Remain Bullish Despite Cutting My Price Target",
-   "summary": "Intuitive Surgical stock delivered strong Q3 2026 results with 22% revenue growth, 84% recurring revenue, and robust system placements.",
-   "url": "https://finnhub.io/api/news?id=47de07d775da88f201f76395eb8898254ee8648785a27687d7f2dbf58e7df469",
-   "source": "SeekingAlpha",
-   "published": "2026-11-12T14:37:49+00:00",
-   "tickers": [
-    "ISRG"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
