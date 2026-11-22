@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-22T12:01:44.726317+00:00",
+ "updated": "2026-11-22T12:16:28.660566+00:00",
  "quotes": {
   "ABBV": {
    "price": 286.2,
@@ -46,10 +46,6 @@
    "price": 237.31,
    "change_pct": -0.33
   },
-  "JAZZ": {
-   "price": 230.26,
-   "change_pct": -2.62
-  },
   "JNJ": {
    "price": 270.47,
    "change_pct": 1.25
@@ -77,10 +73,6 @@
   "PFE": {
    "price": 27.4,
    "change_pct": -0.51
-  },
-  "PODD": {
-   "price": 133.17,
-   "change_pct": -2.96
   },
   "RMD": {
    "price": 235.63,
@@ -726,6 +718,21 @@
  },
  "stories": [
   {
+   "id": "dc7ee3d95228",
+   "headline": "Stanley Druckenmiller and 25 Other Big Funds Sold Thermo Fisher Scientific Last Quarter, While 15 Bought. Who\u2019s Right?",
+   "summary": "Key TakeawaysOf 460 big funds that have filed 13Fs for the quarter ended Sept. 30, 2026, 26 sold Thermo Fisher Scientific, including Stanley Druckenmiller\u2019s Duquesne Family Office, and 15 bought it.",
+   "url": "https://finnhub.io/api/news?id=9df0538a669edc9633ccb15851c4907a5fd83dcf332a91b7dec1c1e202c4a39b",
+   "source": "Yahoo",
+   "published": "2026-11-22T10:21:48+00:00",
+   "tickers": [
+    "DHR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "59041162dd9b",
    "headline": "$1,000 Invested in Eli Lilly 5 Years Ago Is Now Worth Over $5,000. Could It Soar That Much Again by 2031?",
    "summary": "The pharma giant offers investors a mix of safety and growth.",
@@ -768,6 +775,21 @@
    "tag": "Health AI",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "c61dd3e3c6a2",
+   "headline": "Wall Street Week Ahead",
+   "summary": "U.S. markets enter Thanksgiving week after the Nasdaq fell 10% and S&P 500 8.6%; investors watch Dell AI results and core PCE, expected at 3.2%.",
+   "url": "https://finnhub.io/api/news?id=73075644b4c52a99e1ccd18926f08be8a08baa4ac6ad570d7ec4a1d5c17ffde9",
+   "source": "SeekingAlpha",
+   "published": "2026-11-22T06:21:37+00:00",
+   "tickers": [
+    "MDT"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -37106,111 +37128,6 @@
    "tag": "FDA",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "412087440873",
-   "headline": "Aveanna Healthcare (AVAH) Q3 Earnings and Revenues Beat Estimates",
-   "summary": "Aveanna (AVAH) delivered earnings and revenue surprises of +15.00% and +1.81%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
-   "url": "https://finnhub.io/api/news?id=7838c8a8fbada1cd9f9d7af6f03cebab6a9482c41dfb5b7307e09c77e7886254",
-   "source": "Yahoo",
-   "published": "2026-11-12T12:15:02+00:00",
-   "tickers": [
-    "A"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "5f2e4c44032a",
-   "headline": "Twist Bioscience Announces Fiscal 2026 Fourth Quarter and Full Year Financial Results",
-   "summary": "SOUTH SAN FRANCISCO, Calif., November 12, 2026--Twist Bioscience Corporation (NASDAQ: TWST), a mid-cap growth and value healthcare company, today announced financial results and business highlights for the fourth quarter and full year\u2026",
-   "url": "https://finnhub.io/api/news?id=399c523209be30472a6cd4e025e413bd941a1aadd6dec370e081a2a40257b427",
-   "source": "Yahoo",
-   "published": "2026-11-12T12:15:00+00:00",
-   "tickers": [
-    "TWST"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "daaf39e7e4b6",
-   "headline": "Altimmune Announces Publication of IMPACT Phase 2b 48-Week Data in MASH in The Lancet Gastroenterology & Hepatology",
-   "summary": "Significant reductions across non-invasive measures of liver fat, inflammation and fibrosis observed at 48 weeks of pemvidutide treatment, with generally favorable tolerability profile Publication of results provides further validation\u2026",
-   "url": "https://finnhub.io/api/news?id=7331dcc2d3e9443163722197f3fb78c8402ee077003f5e4ec728f66919127a9d",
-   "source": "Yahoo",
-   "published": "2026-11-12T12:15:00+00:00",
-   "tickers": [
-    "ALT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "3c88b0dbabc6",
-   "headline": "AstraZeneca And 2 Other British Undervalued Stocks To Own",
-   "summary": "UK GDP just climbed 0.7% in the third quarter, helped by heavy spending on artificial intelligence and cloud computing. That kind of targeted investment can pull attention away from quieter opportunities in the background. For patient\u2026",
-   "url": "https://finnhub.io/api/news?id=ec3a1de034f919d4c058c079ea9d586c9feba6004a312d7e251e41e91b07f6d4",
-   "source": "Yahoo",
-   "published": "2026-11-12T12:14:30+00:00",
-   "tickers": [
-    "AZN"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "f89692cfc3cc",
-   "headline": "Halozyme Therapeutics (HALO) Stock Gets Fair Value Boost After Q3 Analyst Revisions",
-   "summary": "Halozyme Therapeutics just saw its modeled fair value move from about US$108.78 to roughly US$119.44, signaling an updated price target range in recent research. Analysts link this shift to Q3 2026 results, the latest ENHANZE driven\u2026",
-   "url": "https://finnhub.io/api/news?id=a4985b54546820104360f4c12da4d24b3f8d476e56b3da82eb9eaa046b3687d4",
-   "source": "Yahoo",
-   "published": "2026-11-12T12:13:49+00:00",
-   "tickers": [
-    "HALO"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "0987ae6c7901",
-   "headline": "Absci Reports Business Updates and Third Quarter 2026 Financial and Operating Results",
-   "summary": "ABS-201\u2122 HEADLINE\u2122 trial progressing on track; 13-week interim proof-of-concept data for pattern hair loss (PHL) anticipated next month",
-   "url": "https://www.globenewswire.com/news-release/2026/11/12/3401436/0/en/absci-reports-business-updates-and-third-quarter-2026-financial-and-operating-results.html",
-   "source": "GlobeNewswire",
-   "published": "2026-11-12T12:05:00+00:00",
-   "tickers": [
-    "ABSI"
-   ],
-   "tag": "News",
-   "sectors": [
-    "healthai"
-   ]
-  },
-  {
-   "id": "addf7d12f7dd",
-   "headline": "Absci Reports Business Updates and Third Quarter 2026 Financial and Operating Results",
-   "summary": "ABS-201\u2122 HEADLINE\u2122 trial progressing on track; 13-week interim proof-of-concept data for pattern hair loss (PHL) anticipated next month Announced preliminary details for Phase 2 STORYLINE\u2122 trial of ABS-201 for endometriosis Appointed\u2026",
-   "url": "https://finnhub.io/api/news?id=5bd06178ec99abf92a9c99e142b769f2b04ec9eef40f2a6bb1dff0ba07169814",
-   "source": "Yahoo",
-   "published": "2026-11-12T12:05:00+00:00",
-   "tickers": [
-    "ABSI"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "healthai"
    ]
   }
  ]
