@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-22T20:46:30.462787+00:00",
+ "updated": "2026-11-22T21:01:49.953728+00:00",
  "quotes": {
   "ABBV": {
    "price": 286.2,
@@ -61,6 +61,10 @@
   "MDT": {
    "price": 99.94,
    "change_pct": -0.67
+  },
+  "MRK": {
+   "price": 133.72,
+   "change_pct": 0.69
   },
   "NBIX": {
    "price": 150.57,
@@ -718,6 +722,21 @@
  },
  "stories": [
   {
+   "id": "e13a6ba82cac",
+   "headline": "Eli Lilly's Obesity Pipeline Is Getting Crowded. That's Great News for Investors",
+   "summary": "Eli Lilly's pipeline could help it survive a slew of brand-new launches in the weight loss drug market.",
+   "url": "https://finnhub.io/api/news?id=78fc2646a19aaa258d6270d88dde2b418e1a727385e4d1df1251414c4347bfce",
+   "source": "Yahoo",
+   "published": "2026-11-22T18:23:02+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "88f74de0f878",
    "headline": "Merck Just Raised Its Dividend. These 3 Dow Healthcare Giants Are Paying More",
    "summary": "Three Dow healthcare stalwarts just handed shareholders a raise, yet each one faces a threat that could slow the next. Which payout has the strongest backing, and where are the cracks hiding for retirees counting on that check?",
@@ -726,6 +745,7 @@
    "published": "2026-11-22T18:07:43+00:00",
    "tickers": [
     "AMGN",
+    "MRK",
     "UNH"
    ],
    "tag": "News",
@@ -742,7 +762,8 @@
    "published": "2026-11-22T18:04:01+00:00",
    "tickers": [
     "BMY",
-    "JNJ"
+    "JNJ",
+    "MRK"
    ],
    "tag": "News",
    "sectors": [
@@ -34492,81 +34513,6 @@
    "tag": "Clinical",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "d8c61289142a",
-   "headline": "Arrowhead Pharmaceuticals Reports 2026 Fiscal Year-End Results",
-   "summary": "PASADENA, Calif., November 12, 2026--Arrowhead Pharmaceuticals, Inc. (NASDAQ: ARWR) today announced financial results for its 2026 fiscal year ended September 30, 2026. The Company is hosting a conference call today, November 12, 2026, at\u2026",
-   "url": "https://finnhub.io/api/news?id=0640fce9750a5f1127ab420b8729ca42523834fcc9213f9585159e4f3256678a",
-   "source": "Yahoo",
-   "published": "2026-11-12T21:01:00+00:00",
-   "tickers": [
-    "ARWR"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "20d852f14e86",
-   "headline": "The Ensign Group to Present at the Stephens Annual Investment Conference on November 18, 2026",
-   "summary": "SAN JUAN CAPISTRANO, Calif., Nov. 12, 2026 (GLOBE NEWSWIRE) -- The Ensign Group, Inc. (Nasdaq: ENSG), the parent company of the EnsignTM group of companies, which invest in and provide skilled nursing and senior living services, physical,\u2026",
-   "url": "https://finnhub.io/api/news?id=e68c87f86c3fbb0dd339dd8f7700fec2b2930bc27447bb8b465e5308915ee59e",
-   "source": "Yahoo",
-   "published": "2026-11-12T21:01:00+00:00",
-   "tickers": [
-    "ENSG"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "267a532e5873",
-   "headline": "Assembly Biosciences Reports Third Quarter 2026 Financial Results and Recent Updates",
-   "summary": "\u2013 Initiated Phase 2 clinical study of ABI-6250 in patients with chronic hepatitis delta virus infection \u2013 \u2013 Exercised 40% U.S. Profit-Share option for the HSV helicase primase inhibitor program \u2013 \u2013 Received first $75 million collaboration\u2026",
-   "url": "https://finnhub.io/api/news?id=10413f4460358186b18b249b5eb380949ee7902ca4941cd1fb382045029989fc",
-   "source": "Yahoo",
-   "published": "2026-11-12T21:00:00+00:00",
-   "tickers": [
-    "GILD"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "90251291eddb",
-   "headline": "Twist Bioscience earnings analysis: questions answered and next catalysts",
-   "summary": "Investing.com -- Twist Bioscience Corp (TWST) beat on every headline number in its FY2026 Q4 report on Nov 12, 2026, yet the stock fell. Shares trade at $112.91 (-7.90%) as of Nov 12, 3:15 PM EST. Pre-market, they had been down as much as\u2026",
-   "url": "https://finnhub.io/api/news?id=96c5ed405e05c31b49314137af3f4391f6e751405d0508a60bc6a169294fea90",
-   "source": "Yahoo",
-   "published": "2026-11-12T20:59:56+00:00",
-   "tickers": [
-    "TWST"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "797c4016d680",
-   "headline": "Ascendis Pharma earnings analysis: questions answered and next catalysts",
-   "summary": "Investing.com -- Ascendis Pharma AS ADR (ASND) reported Q3 2026 on Nov 12, 2026. It beat on both lines, and the stock is $266.88 (+2.93%) as of Nov 12, 3:14 PM EST, near its 52-week high of $282.15. Market cap is about $17.03B.",
-   "url": "https://finnhub.io/api/news?id=f272e6402a79948690d8f3e8815dc7521553644026fb8e5f6d39664d40874f3b",
-   "source": "Yahoo",
-   "published": "2026-11-12T20:55:12+00:00",
-   "tickers": [
-    "ASND"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
    ]
   }
  ]
