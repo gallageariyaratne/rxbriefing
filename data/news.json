@@ -1,23 +1,7 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-22T12:16:28.660566+00:00",
+ "updated": "2026-11-22T12:31:40.423397+00:00",
  "quotes": {
-  "ABBV": {
-   "price": 286.2,
-   "change_pct": 0.94
-  },
-  "ALNY": {
-   "price": 143.82,
-   "change_pct": -2.71
-  },
-  "AZN": {
-   "price": 174.35,
-   "change_pct": -0.6
-  },
-  "BMRN": {
-   "price": 60.41,
-   "change_pct": -1.64
-  },
   "CLOV": {
    "price": 3.73,
    "change_pct": -1.06
@@ -69,6 +53,10 @@
   "NVO": {
    "price": 37.82,
    "change_pct": -2.7
+  },
+  "NVS": {
+   "price": 150.47,
+   "change_pct": -0.5
   },
   "PFE": {
    "price": 27.4,
@@ -743,6 +731,21 @@
     "LLY"
    ],
    "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "39caad6cc355",
+   "headline": "3 Stocks Riding The AI Power Grid Buildout",
+   "summary": "AI data centers are hungry for electricity, and that power has to move through grids, substations, and high voltage links that are already under strain. That creates a moment where plumbing of the digital economy, the transmission and\u2026",
+   "url": "https://finnhub.io/api/news?id=a3eae3c4a958d0995ca339cf9978d44f99b2c6b920b77de2185adadd7dc53adc",
+   "source": "Yahoo",
+   "published": "2026-11-22T09:10:01+00:00",
+   "tickers": [
+    "NVS"
+   ],
+   "tag": "Health AI",
    "sectors": [
     "pharma"
    ]
@@ -3785,6 +3788,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "d8118239db10",
+   "headline": "Better Dividend Stock: Eversource vs. CVS",
+   "summary": "Key TakeawaysEversource Energy yields 4. 6% and raised its dividend every fiscal year from 2016 to 2025.",
+   "url": "https://finnhub.io/api/news?id=e89d0fc81d736ae5bca1fa6210c047ee5f209936f734c7ef2e20379f8bcc40ba",
+   "source": "Yahoo",
+   "published": "2026-11-20T14:59:09+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -37024,111 +37042,6 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
-  },
-  {
-   "id": "ca443f7801d0",
-   "headline": "Quest Diagnostics (NYSE:DGX): A Quality Dividend Stock for Income Investors",
-   "summary": "Quest Diagnostics (DGX) earns a 7/10 ChartMill Dividend Rating, backed by a sustainable payout, solid profitability, and healthy financials.",
-   "url": "https://finnhub.io/api/news?id=fc72a44f106fb747d16523bf941fc49b3f9269426dfeafc37727725a86f4a256",
-   "source": "ChartMill",
-   "published": "2026-11-12T12:30:36+00:00",
-   "tickers": [
-    "DGX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "2007451dfe08",
-   "headline": "Here's How Much $1000 Invested In Revolution Medicines 5 Years Ago Would Be Worth Today",
-   "summary": "Revolution Medicines (NASDAQ:RVMD) has outperformed the market over the past 5 years by 30.9% on an annualized basis producing an average annual return of 41.09%. Currently, Revolution Medicines has a market",
-   "url": "https://finnhub.io/api/news?id=3e5020377a1eb52b71b9c67814986c97aa4989008566b8b093fdc4310f51e102",
-   "source": "Benzinga",
-   "published": "2026-11-12T12:30:20+00:00",
-   "tickers": [
-    "RVMD"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "623558a0f33c",
-   "headline": "Altimmune Announces Third Quarter 2026 Financial Results and Business Update",
-   "summary": "Global PERFORMA Phase 3 trial in MASH progressing as planned",
-   "url": "https://www.globenewswire.com/news-release/2026/11/12/3401460/0/en/altimmune-announces-third-quarter-2026-financial-results-and-business-update.html",
-   "source": "GlobeNewswire",
-   "published": "2026-11-12T12:30:00+00:00",
-   "tickers": [
-    "ALT"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "adaad265e222",
-   "headline": "Ascendis Pharma Reports Third Quarter 2026 Financial Results",
-   "summary": "COPENHAGEN, Denmark, Nov. 12, 2026 (GLOBE NEWSWIRE) -- Ascendis Pharma A/S (Nasdaq: ASND) today announced financial results for the third quarter ended September 30, 2026, and provided a business update.",
-   "url": "https://www.globenewswire.com/news-release/2026/11/12/3401477/0/en/ascendis-pharma-reports-third-quarter-2026-financial-results.html",
-   "source": "GlobeNewswire",
-   "published": "2026-11-12T12:30:00+00:00",
-   "tickers": [
-    "ASND"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "cdf82bd58e21",
-   "headline": "Altimmune Announces Third Quarter 2026 Financial Results and Business Update",
-   "summary": "Global PERFORMA Phase 3 trial in MASH progressing as planned Positive RECLAIM Phase 2 data in AUD highlighted in a late-breaking oral presentation at AASLD The Liver Meeting\u00ae 2026 End-of-Phase 2 meeting with FDA for AUD program scheduled\u2026",
-   "url": "https://finnhub.io/api/news?id=046de813347c063a9ed3220e7c1343d99dd8c29579947c2fec10433b51191221",
-   "source": "Yahoo",
-   "published": "2026-11-12T12:30:00+00:00",
-   "tickers": [
-    "ALT"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "515e416af904",
-   "headline": "Ascendis Pharma Reports Third Quarter 2026 Financial Results",
-   "summary": "Q3 2026 product revenue of \u20ac366 million (+89% Y/Y), comprising \u20ac291 million for YORVIPATH\u00ae, \u20ac59 million for SKYTROFA\u00ae, and \u20ac16 million for YUVIWEL\u00aeReceived positive CHMP and COMP opinions recommending EU marketing authorization and\u2026",
-   "url": "https://finnhub.io/api/news?id=a6af4f4d2a27755047633bc58ab444daa3dbecb018e20314f6398292dedd382b",
-   "source": "Yahoo",
-   "published": "2026-11-12T12:30:00+00:00",
-   "tickers": [
-    "ASND"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "74a7a1abf325",
-   "headline": "Premarket movers: Nvidia sinks; Lilly gains on China approval",
-   "summary": "Invesitng.com - U.S. stock index futures were mixed on Thursday, with Nasdaq 100 futures leading declines as reports that Nvidia\u2019s board was weighing the future of Chief Executive Jensen Huang rattled sentiment toward artificial\u2026",
-   "url": "https://finnhub.io/api/news?id=8323de4a92386483a45df7cf230d781629640d903d10bf727726240a3a67580f",
-   "source": "Yahoo",
-   "published": "2026-11-12T12:18:33+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
   }
  ]
 }
