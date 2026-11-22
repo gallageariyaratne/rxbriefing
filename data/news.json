@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-22T14:04:41.339479+00:00",
+ "updated": "2026-11-22T14:16:31.910827+00:00",
  "quotes": {
   "ABBV": {
    "price": 286.2,
@@ -13,6 +13,10 @@
   "BMRN": {
    "price": 60.41,
    "change_pct": -1.64
+  },
+  "CI": {
+   "price": 270.9,
+   "change_pct": -0.78
   },
   "CLOV": {
    "price": 3.73,
@@ -33,6 +37,10 @@
   "DOCS": {
    "price": 28.73,
    "change_pct": -2.97
+  },
+  "GH": {
+   "price": 145.83,
+   "change_pct": 0.16
   },
   "GILD": {
    "price": 166.43,
@@ -81,10 +89,6 @@
   "RMD": {
    "price": 235.63,
    "change_pct": -0.53
-  },
-  "RXST": {
-   "price": 4.47,
-   "change_pct": -3.04
   },
   "SDGR": {
    "price": 22.93,
@@ -721,6 +725,52 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "7ea98f85effb",
+   "headline": "Johnson & Johnson vs. Pfizer: Which Healthcare Stock Is a Better Buy for 2027?",
+   "summary": "Johnson & Johnson's drug-and-device product mix faces off against Pfizer's high-stakes oncology and obesity bets, with a valuation gap that may sway your choice.",
+   "url": "https://finnhub.io/api/news?id=324b17f0f88a9751b09c4059f0598bc16c23dc03d13a11ab26a7e387f316d1a0",
+   "source": "Yahoo",
+   "published": "2026-11-22T13:25:02+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "1c3010e6d47a",
+   "headline": "Abbott Has Raised Its Dividend for 54 Years. These 3 Healthcare Stocks Keep Paying More",
+   "summary": "One dividend streak spans five decades, another company barely paid anything until 2021, and a third pays out a fraction of its earnings. Three healthcare payers raised income this year, but their safety margins look very different.",
+   "url": "https://finnhub.io/api/news?id=c1ef33dc42b53e278c272fed2513a6aa28abeccb77a968db24891128bf02f227",
+   "source": "Yahoo",
+   "published": "2026-11-22T13:07:50+00:00",
+   "tickers": [
+    "CI",
+    "MDT"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "db59fadaa8ce",
+   "headline": "Guardant Health Sees Shield Coverage Boost in 2027, Holds Cash Flow Break-Even Target",
+   "summary": "Guardant Health (NASDAQ:GH) expects expanded insurance coverage for its Shield screening test and continued growth in its cancer testing portfolio to support its business in 2027, while maintaining a target of reaching free cash flow\u2026",
+   "url": "https://finnhub.io/api/news?id=5b5ba6fc5aeb56e7701f98304dd157cc3541594f664a391468fddcddfa619e09",
+   "source": "Yahoo",
+   "published": "2026-11-22T11:12:04+00:00",
+   "tickers": [
+    "GH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
   {
    "id": "dc7ee3d95228",
    "headline": "Stanley Druckenmiller and 25 Other Big Funds Sold Thermo Fisher Scientific Last Quarter, While 15 Bought. Who\u2019s Right?",
@@ -36310,137 +36360,6 @@
    "tag": "Analyst",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "0f0481ce3244",
-   "headline": "Duet nabs $15M series A, plans to launch first NP-led ACO in 2027",
-   "summary": "Alongside the funding round, Duet announced it plans to launch the first-ever NP-led Medicare Accountable Care Organization in 2027.",
-   "url": "https://www.fiercehealthcare.com/finance/duet-nabs-15m-series-plans-launch-first-np-led-aco-2027",
-   "source": "Fierce Healthcare",
-   "published": "2026-11-12T14:15:24.871431+00:00",
-   "tickers": [],
-   "tag": "Policy",
-   "sectors": []
-  },
-  {
-   "id": "91592a4276bd",
-   "headline": "BMS reunites R&D divisions under Cristian Massacesi, while Robert Plenge departs",
-   "summary": "Bristol Myers Squibb is merging its research and development divisions under the leadership of Cristian Massacesi, M.D.",
-   "url": "https://www.fiercepharma.com/biotech/bristol-myers-reunites-rd-divisions-under-cristian-massacesi",
-   "source": "Fierce Pharma",
-   "published": "2026-11-12T14:15:24.686824+00:00",
-   "tickers": [
-    "BMY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "c50db8b41a53",
-   "headline": "STAT+: Pharmalittle: We\u2019re reading about FDA shelving fast-track review, a Canadian importer arrested, and more",
-   "summary": "The FDA has shelved the fast-track drug review initiative launched in June 2025 by former Commissioner Marty Makary",
-   "url": "https://www.statnews.com/pharmalot/2026/11/12/fda-fast-track-review-shelved-canadian-importer-arrested/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-11-12T14:14:55+00:00",
-   "tickers": [],
-   "tag": "FDA",
-   "sectors": []
-  },
-  {
-   "id": "3337e7da589f",
-   "headline": "Beyond GLP-1RA\u2019s: Novel mechanisms and combos to shape future of obesity market",
-   "summary": "Emerging mechanisms and combinatorial approaches are redefining the obesity space as the outcome focus shifts away from weight loss alone.",
-   "url": "https://finnhub.io/api/news?id=58f8544edfcda311e904bffa8e9e027788b094bdd3de0a3214a966db4209e2a4",
-   "source": "Yahoo",
-   "published": "2026-11-12T14:11:19+00:00",
-   "tickers": [
-    "LLY",
-    "NVO"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "ad4ad88bf7ad",
-   "headline": "Is Abbott Laboratories (ABT) Undervalued On New Device And Test Launches?",
-   "summary": "Abbott Laboratories (ABT) has been back in focus after two health focused product milestones. The firm secured FDA and CE approvals for its UltiSynq defibrillation lead and launched the Panbio COVID-19/Flu A&B Self-Test in Canada. Despite\u2026",
-   "url": "https://finnhub.io/api/news?id=47f8f2674e450fbacb9c31b6553f359f271292cdbc1d213d847d676c0aadf196",
-   "source": "Yahoo",
-   "published": "2026-11-12T14:10:34+00:00",
-   "tickers": [
-    "ABT"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "32379542975c",
-   "headline": "Ambetter from Meridian Returns to Metro Detroit for 2027 Marketplace Open Enrollment",
-   "summary": "Ambetter from Meridian today announced its return to the Health Insurance Marketplace in Wayne, Oakland, Monroe and Macomb counties, giving individuals and families in Metro Detroit another option as they shop for health insurance\u2026",
-   "url": "https://finnhub.io/api/news?id=f29678a88ad5ccd007879051cc1925f8d24472a3bf541c371ecea31f13a0d1a4",
-   "source": "Yahoo",
-   "published": "2026-11-12T14:07:00+00:00",
-   "tickers": [
-    "CNC"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "6a11253de988",
-   "headline": "FDA Reportedly Shelves Fast-Track Drug Review Pilot Program During Leadership Vacuum: Report",
-   "summary": "The FDA reportedly shelves its fast-track drug voucher pilot amid internal chaos, returning review oversight to career scientists.",
-   "url": "https://finnhub.io/api/news?id=9d0ab2e3afe0422be371c7b3c90b55fa703d163e6f9bd775b441420b02dccb88",
-   "source": "Benzinga",
-   "published": "2026-11-12T14:06:09+00:00",
-   "tickers": [
-    "MRK",
-    "RVMD"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "188f117c003b",
-   "headline": "RNA Interference (RNAi) - Global Strategic Business Report: Capture the US$8 Billion 2032 Market as Alnylam Pharmaceuticals, Ionis Pharmaceuticals, Qiagen, Benitec BioPharma, and Silence Therapeutics",
-   "summary": "RNAi adoption accelerates through precision targeting, improved delivery, personalized medicine, agricultural innovation, regulatory approvals and robust funding.Dublin, Nov. 12, 2026 (GLOBE NEWSWIRE) -- \"RNA Interference (RNAi) - Global\u2026",
-   "url": "https://finnhub.io/api/news?id=b9e8b7011296923c3c271245ed9143b29267f6b29c0fe395105deca485d4713c",
-   "source": "Yahoo",
-   "published": "2026-11-12T14:06:00+00:00",
-   "tickers": [
-    "ALNY",
-    "IONS",
-    "QGEN"
-   ],
-   "tag": "Policy",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "17d69fe49071",
-   "headline": "The Post-Midterm Rally Clock Is Ticking\u2014and These 3 AI Stocks Stand Out",
-   "summary": "Chaikin Money Flow shows smart money buying Shopify, Veeva Systems, and Zscaler in the post-midterm rout, and past 4% S&P 500 drops led to bigger three-month gains.",
-   "url": "https://finnhub.io/api/news?id=415c71c6725369cad57f1d66198c796e9782f7c0abca8e957b4095c73ce0efe3",
-   "source": "Yahoo",
-   "published": "2026-11-12T14:05:00+00:00",
-   "tickers": [
-    "VEEV"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "healthit"
    ]
   }
  ]
