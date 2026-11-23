@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-23T22:32:22.465588+00:00",
+ "updated": "2026-11-23T22:47:25.463660+00:00",
  "quotes": {
   "A": {
    "price": 176.04,
@@ -13,6 +13,10 @@
   "ABT": {
    "price": 103.32,
    "change_pct": 0.31
+  },
+  "ALGN": {
+   "price": 162.35,
+   "change_pct": 4.63
   },
   "ALNY": {
    "price": 155.98,
@@ -89,6 +93,10 @@
   "EW": {
    "price": 105.06,
    "change_pct": 3.15
+  },
+  "EXEL": {
+   "price": 66.82,
+   "change_pct": 3.39
   },
   "GEHC": {
    "price": 81.31,
@@ -205,6 +213,10 @@
   "RXRX": {
    "price": 2.67,
    "change_pct": 8.78
+  },
+  "SMMT": {
+   "price": 10.32,
+   "change_pct": 3.72
   },
   "SNY": {
    "price": 46.77,
@@ -895,7 +907,9 @@
    "source": "Yahoo",
    "published": "2026-11-23T21:35:40+00:00",
    "tickers": [
-    "CVS"
+    "CVS",
+    "HUM",
+    "UNH"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -960,6 +974,21 @@
    ]
   },
   {
+   "id": "bdfcd22b44fd",
+   "headline": "AMGEN TO PRESENT AT CITI'S 2026 GLOBAL HEALTHCARE CONFERENCE",
+   "summary": "Amgen (NASDAQ: AMGN) will present at Citi's 2026 Global Healthcare Conference at 3:00 p.m. ET on December 1, 2026. Thomas Dittrich, executive vice president and chief financial officer at Amgen, and Murdo Gordon, executive vice president\u2026",
+   "url": "https://finnhub.io/api/news?id=8840784e5b2ce782021964ce0324eea73600e2129cb87c419c124786aa492c40",
+   "source": "Yahoo",
+   "published": "2026-11-23T21:30:00+00:00",
+   "tickers": [
+    "AMGN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "babb31044ab4",
    "headline": "STAT+: Limb girdle muscular dystrophy gets its first FDA-approved drug, from BridgeBio",
    "summary": "A type of muscular dystrophy that was long ignored has its first drug \u2014 and it could earn BridgeBio a billion dollars a year.",
@@ -1004,11 +1033,29 @@
    "source": "Yahoo",
    "published": "2026-11-23T21:14:01+00:00",
    "tickers": [
-    "BMY"
+    "AMGN",
+    "BMY",
+    "EXEL",
+    "PFE"
    ],
    "tag": "Legal",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "fa1a2d4e6416",
+   "headline": "Align: 3 Key Takeaways for Long-Term Investors",
+   "summary": "Operational efficiencies are lifting margins even without consumer spending recovery, potentially creating a profitability floor independent of macro conditions.",
+   "url": "https://finnhub.io/api/news?id=1d93ad15dabf06053c9bb0fa204d33238f499792887ed2f740ffad54f6c06c33",
+   "source": "Yahoo",
+   "published": "2026-11-23T21:05:02+00:00",
+   "tickers": [
+    "ALGN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -1032,6 +1079,21 @@
    "summary": "THOUSAND OAKS, Calif., Nov. 23, 2026 /PRNewswire/ -- Amgen (NASDAQ: AMGN) will present at the 9th annual Evercore ISI HealthCONx Conference at 10:50 a.m. ET on December 1, 2026. Thomas Dittrich, executive vice president and chief\u2026",
    "url": "https://www.prnewswire.com/news-releases/amgen-to-present-at-the-9th-annual-evercore-isi-healthconx-conference-302948634.html",
    "source": "PR Newswire",
+   "published": "2026-11-23T21:01:00+00:00",
+   "tickers": [
+    "AMGN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "c27b85b0088f",
+   "headline": "AMGEN TO PRESENT AT THE 9TH ANNUAL EVERCORE ISI HEALTHCONX CONFERENCE",
+   "summary": "Amgen (NASDAQ: AMGN) will present at the 9th annual Evercore ISI HealthCONx Conference at 10:50 a.m. ET on December 1, 2026. Thomas Dittrich, executive vice president and chief financial officer at Amgen, and Murdo Gordon, executive vice\u2026",
+   "url": "https://finnhub.io/api/news?id=fc59d78eb0d6ebe27916f2dacbcfedf103a7a7b01e310b8fb60418619daf2140",
+   "source": "Yahoo",
    "published": "2026-11-23T21:01:00+00:00",
    "tickers": [
     "AMGN"
@@ -1079,6 +1141,7 @@
    "source": "Yahoo",
    "published": "2026-11-23T20:47:26+00:00",
    "tickers": [
+    "ABT",
     "BDX",
     "CVS",
     "MCK"
@@ -1098,6 +1161,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "2b9710f54be7",
+   "headline": "Why Walmart and Other Defensive Stocks Are Losing Their Luster",
+   "summary": "The stock market surge thanks to Jensen Huang\u2019s return as CEO of Nvidia is great news for tech. But not for defensive consumer stocks.",
+   "url": "https://finnhub.io/api/news?id=06a39e92264bc417e743ffb248c3dfbcf1478d6db9e4cbacc2c0d440f4b6b343",
+   "source": "Yahoo",
+   "published": "2026-11-23T20:37:00+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
   },
   {
    "id": "df792482b4df",
@@ -1394,7 +1472,8 @@
    "source": "SeekingAlpha",
    "published": "2026-11-23T17:02:58+00:00",
    "tickers": [
-    "BMY"
+    "BMY",
+    "SMMT"
    ],
    "tag": "M&A",
    "sectors": [
@@ -33162,22 +33241,6 @@
    "published": "2026-11-13T23:00:31.366438+00:00",
    "tickers": [
     "AZN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "166f36c5a7ff",
-   "headline": "AZ keeps pressure on Keytruda with Imfinzi expansion in chemo-ineligible bladder cancer",
-   "summary": "Looking to challenge a preeminent Keytruda cocktail in cisplatin-ineligible muscle-invasive bladder cancer (MIBC), AstraZeneca has crossed the finish line with its own doublet wedding Pfizer and Astellas\u2019 Padcev with its PD-L1 inhibitor\u2026",
-   "url": "https://www.fiercepharma.com/pharma/az-keeps-pressure-keytruda-imfinzi-expansion-chemo-ineligible-bladder-cancer",
-   "source": "Fierce Pharma",
-   "published": "2026-11-13T22:45:22.123626+00:00",
-   "tickers": [
-    "AZN",
-    "PFE"
    ],
    "tag": "News",
    "sectors": [
