@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-23T09:01:44.703172+00:00",
+ "updated": "2026-11-23T09:16:40.334076+00:00",
  "quotes": {
   "A": {
    "price": 170.38,
@@ -21,6 +21,10 @@
   "AMGN": {
    "price": 435.64,
    "change_pct": -0.72
+  },
+  "ARGX": {
+   "price": 925.7,
+   "change_pct": -1.73
   },
   "BEAM": {
    "price": 20.9,
@@ -45,10 +49,6 @@
   "DHR": {
    "price": 220.36,
    "change_pct": -3.16
-  },
-  "DOCS": {
-   "price": 28.73,
-   "change_pct": -2.97
   },
   "GH": {
    "price": 145.83,
@@ -738,6 +738,17 @@
  },
  "stories": [
   {
+   "id": "2a867e9caa3f",
+   "headline": "Capricor weathers second DMD cell therapy snub as FDA alleges 'serious' data integrity concerns",
+   "summary": "Contrasting with the blunt release of the complete response letter that heralded the initial rejection of deramiocel last summer, the FDA appeared mindful of the optics Friday as it sought to explain why it turned down Capricor\u2026",
+   "url": "https://www.fiercebiotech.com/biotech/capricor-weathers-second-dmd-cell-therapy-snub-fda-alleges-serious-data-integrity-concerns",
+   "source": "Fierce Biotech",
+   "published": "2026-11-23T09:15:22.157670+00:00",
+   "tickers": [],
+   "tag": "FDA",
+   "sectors": []
+  },
+  {
    "id": "6cea6059b763",
    "headline": "Twice-yearly* Leqvio\u00ae (inclisiran) reduced cardiovascular event risk in first outcomes study of an siRNA therapy in ASCVD",
    "summary": "ORION-4 met its primary endpoint, with Leqvio\u00ae demonstrating a statistically significant and clinically meaningful reduction in major adverse cardiovascular events (MACE) when added to standard-of-care1ORION-4 and ongoing VICTORION-2\u2026",
@@ -780,6 +791,21 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "d8e0ab5b9f7f",
+   "headline": "Argenx Wins Its Myositis Trial and Posts $1.7 Billion in Quarterly Sales",
+   "summary": "We just published our list of the 10 Best High-Growth Stocks to Diversify Away From Big Tech, andArgenx SE ranked 10th on the list. The S&P 500 has grown notably top-heavy. The 10 largest companies currently make up about 40% of its\u2026",
+   "url": "https://finnhub.io/api/news?id=aee500fcee8dc599fc541d202afd5017f0171785b93fab087affaa1eff53d330",
+   "source": "Yahoo",
+   "published": "2026-11-23T03:31:01+00:00",
+   "tickers": [
+    "ARGX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -33668,66 +33694,6 @@
    "tag": "News",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "868bcdee3350",
-   "headline": "Regeneron posts positive phase 2 data for baloncibart in nervous system disorder, eyes pivotal trial",
-   "summary": "Regeneron has posted positive phase 2 data on baloncibart in postural orthostatic tachycardia syndrome, teeing the biotech up to start a potentially pivotal trial in the first half of 2027.",
-   "url": "https://www.fiercebiotech.com/biotech/regeneron-posts-positive-phase-2-pots-data-baloncibart-eyes-pivotal-trial",
-   "source": "Fierce Biotech",
-   "published": "2026-11-13T09:15:21.935855+00:00",
-   "tickers": [
-    "REGN"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "d38a970c7f59",
-   "headline": "BioNTech (BNTX) Dropped, So What Is Driving Attention Now?",
-   "summary": "BioNTech (NasdaqGS:BNTX) is back in focus after Arbutus Biopharma and Genevant expanded their patent enforcement campaign by filing new lawsuits in Japan and updating an existing Canadian case tied to mRNA lipid nanoparticle technology.\u2026",
-   "url": "https://finnhub.io/api/news?id=e7868389a3999c56bc0e8973a271d326487f3ad0efb0203bfe79322275db3bb8",
-   "source": "Yahoo",
-   "published": "2026-11-13T09:11:32+00:00",
-   "tickers": [
-    "BNTX"
-   ],
-   "tag": "Legal",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "3f15f800983d",
-   "headline": "Cantor Fitzgerald Maintains Overweight on Ascendis Pharma, Raises Price Target to $315",
-   "summary": "Cantor Fitzgerald analyst Li Watsek maintains Ascendis Pharma (NASDAQ:ASND) with a Overweight and raises the price target from $300 to $315.",
-   "url": "https://finnhub.io/api/news?id=9333bb515285331cea769df9771366b593bae26fad15c96bd6742a8c7102cc28",
-   "source": "Benzinga",
-   "published": "2026-11-13T09:10:24+00:00",
-   "tickers": [
-    "ASND"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "28107ad06120",
-   "headline": "Wells Fargo Initiates Coverage On Denali Therapeutics with Overweight Rating, Announces Price Target of $35",
-   "summary": "Wells Fargo analyst Benjamin Burnett initiates coverage on Denali Therapeutics (NASDAQ:DNLI) with a Overweight rating and announces Price Target of $35.",
-   "url": "https://finnhub.io/api/news?id=816645bd9825c170fb257bf964316fe4983c2482761ab3c9c44f93d44133020a",
-   "source": "Benzinga",
-   "published": "2026-11-13T09:06:10+00:00",
-   "tickers": [
-    "DNLI"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
    ]
   }
  ]
