@@ -1,7 +1,11 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-23T00:16:27.979221+00:00",
+ "updated": "2026-11-23T00:31:42.933614+00:00",
  "quotes": {
+  "A": {
+   "price": 170.38,
+   "change_pct": -2.83
+  },
   "ABBV": {
    "price": 286.2,
    "change_pct": 0.94
@@ -713,6 +717,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "d425d3c8974b",
+   "headline": "Inflation, Best Buy, Zoom, Dell, Deere, and More to Watch This Week",
+   "summary": "Thanksgiving week will bring the personal consumption expenditures index, and earnings from Agilent, Hewlett, Dick\u2019s, and more.",
+   "url": "https://finnhub.io/api/news?id=e7e9b35190cfd545668136649c1e68d2dd6aff19376ff60aea512937b3f9b918",
+   "source": "Yahoo",
+   "published": "2026-11-22T19:00:00+00:00",
+   "tickers": [
+    "A"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
   {
    "id": "e13a6ba82cac",
    "headline": "Eli Lilly's Obesity Pipeline Is Getting Crowded. That's Great News for Investors",
@@ -33960,36 +33979,6 @@
    "tag": "Policy",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "a56f9a8dc65b",
-   "headline": "Elevance Health (ELV) In Focus On AM Best Rating Action And A Fair Value Debate",
-   "summary": "Credit Rating Action Puts Elevance Health In Focus AM Best\u2019s new indicative credit ratings on Elevance Health (ELV) shelf registrations, paired with a stable outlook, give investors a fresh lens on the insurer\u2019s balance sheet strength and\u2026",
-   "url": "https://finnhub.io/api/news?id=08cf590c31d79857f50d6a9cdf92d4f622e7e20c6d2ea2b20c8c6106a875602b",
-   "source": "Yahoo",
-   "published": "2026-11-13T00:24:32+00:00",
-   "tickers": [
-    "ELV"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "5defed8ef367",
-   "headline": "Is GSK (LSE:GSK) A Bargain Following Its New Alamar Collaboration?",
-   "summary": "How GSK\u2019s new Alamar collaboration reshapes the research story GSK (LSE:GSK) just linked up with Alamar Biosciences on a large proteomics study that aims to match circulating protein patterns with how complex diseases develop and respond\u2026",
-   "url": "https://finnhub.io/api/news?id=140cfdc88471f1e9874febeb4a027dbcfd11ce58de910afef72c37adbd5829d3",
-   "source": "Yahoo",
-   "published": "2026-11-13T00:18:10+00:00",
-   "tickers": [
-    "GSK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
