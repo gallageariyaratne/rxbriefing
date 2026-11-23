@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-23T09:46:39.311634+00:00",
+ "updated": "2026-11-23T10:01:51.556407+00:00",
  "quotes": {
   "A": {
    "price": 170.38,
@@ -121,6 +121,10 @@
   "VRTX": {
    "price": 515.02,
    "change_pct": -1.08
+  },
+  "WAY": {
+   "price": 26.52,
+   "change_pct": -2.1
   }
  },
  "tickers": {
@@ -791,6 +795,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "d6c874dac84d",
+   "headline": "Waystar Holding Corp (NASDAQ:WAY): An Undervalued Value Stock",
+   "summary": "Waystar (NASDAQ: WAY) screens as a decent value stock, combining cheap valuation with solid profitability, financial health, and growth.",
+   "url": "https://finnhub.io/api/news?id=3062fc8e16c2a6f1ca0b31653aedcbff2a133e56a912cef999117777d112b323",
+   "source": "ChartMill",
+   "published": "2026-11-23T09:20:50+00:00",
+   "tickers": [
+    "WAY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
+   ]
   },
   {
    "id": "2a867e9caa3f",
@@ -33615,36 +33634,6 @@
    "tag": "News",
    "sectors": [
     "pharmacy"
-   ]
-  },
-  {
-   "id": "542f2c06a156",
-   "headline": "Evercore ISI Group Maintains Outperform on Ascendis Pharma, Raises Price Target to $356",
-   "summary": "Evercore ISI Group analyst Josh Schimmer maintains Ascendis Pharma (NASDAQ:ASND) with a Outperform and raises the price target from $326 to $356.",
-   "url": "https://finnhub.io/api/news?id=e02700954a352374e77d27f998bf15b4ca8d1b2a0d1613dfca0024dcc94e2a0f",
-   "source": "Benzinga",
-   "published": "2026-11-13T09:53:39+00:00",
-   "tickers": [
-    "ASND"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "1608feaa2131",
-   "headline": "Humana (NYSE:HUM) Nears Breakout With Perfect Technical and Setup Scores",
-   "summary": "Humana (HUM) scores perfect 10 technical and setup ratings, trades near 52-week highs, and eyes a breakout above 451.01 with defined support risk.",
-   "url": "https://finnhub.io/api/news?id=e86f48ee807ee4c7915ea32609e9896683ac4efd8a5c9a677b138e6d28d83844",
-   "source": "ChartMill",
-   "published": "2026-11-13T09:50:45+00:00",
-   "tickers": [
-    "HUM"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
    ]
   }
  ]
