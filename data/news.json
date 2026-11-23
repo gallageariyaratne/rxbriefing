@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-23T01:01:45.759763+00:00",
+ "updated": "2026-11-23T01:16:38.807221+00:00",
  "quotes": {
   "A": {
    "price": 170.38,
@@ -78,6 +78,10 @@
    "price": 150.57,
    "change_pct": -3.84
   },
+  "NTLA": {
+   "price": 10,
+   "change_pct": 5.04
+  },
   "NVO": {
    "price": 37.82,
    "change_pct": -2.7
@@ -90,9 +94,9 @@
    "price": 27.4,
    "change_pct": -0.51
   },
-  "SDGR": {
-   "price": 22.93,
-   "change_pct": -12.95
+  "TEM": {
+   "price": 54.04,
+   "change_pct": -9.34
   },
   "TMO": {
    "price": 669.54,
@@ -721,6 +725,22 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "d31d0085c853",
+   "headline": "Tracking Cathie Wood's ARK Invest 13F Portfolio - Q3 2026 Update",
+   "summary": "ARK Invest's Q3 2026 13F portfolio rose from $15.40B to $17.37B as holdings fell to 182; Tesla and NVIDIA stakes both grew.",
+   "url": "https://finnhub.io/api/news?id=dab64c9b423438e8f1ead9360722ec081b1a3e98bcbf9874fb403d9971127eb0",
+   "source": "SeekingAlpha",
+   "published": "2026-11-22T19:43:56+00:00",
+   "tickers": [
+    "NTLA",
+    "TEM"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
   {
    "id": "dbe7ff4983b0",
    "headline": "Clover Health Investments (CLOV) Returns To Profit, Is The Stock Still Trading At A Discount?",
@@ -33963,39 +33983,6 @@
     "PFE"
    ],
    "tag": "Legal",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "c814751556c6",
-   "headline": "Elevance Health (ELV) Stock Looks Reasonable After Raised Earnings Outlook",
-   "summary": "Elevance Health has delivered a strong run over the past year, which puts fresh focus on whether the current share price lines up with what its earnings can reasonably support. With the stock now well above where it traded a few years\u2026",
-   "url": "https://finnhub.io/api/news?id=d6269dd1b254c7ae7b7f9d537cd400e74d3a1b5666b1961dd1835fc67e176924",
-   "source": "Yahoo",
-   "published": "2026-11-13T01:14:22+00:00",
-   "tickers": [
-    "ELV"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "9e9a67970d4f",
-   "headline": "BioNTech May Be the Next Moderna. Even if it Isn\u2019t, the Stock Is a Buy.",
-   "summary": "BioNTech has multiple catalysts that could generate a rally of 35% for the stock.",
-   "url": "https://finnhub.io/api/news?id=88213bd6e5fb61a3e271bee3ab89cc61c8c8425d7dd346595eaa2deaa4763419",
-   "source": "Yahoo",
-   "published": "2026-11-13T01:02:00+00:00",
-   "tickers": [
-    "BMY",
-    "BNTX",
-    "MRNA",
-    "PFE"
-   ],
-   "tag": "News",
    "sectors": [
     "pharma"
    ]
