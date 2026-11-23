@@ -1,7 +1,27 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-23T12:31:45.878092+00:00",
+ "updated": "2026-11-23T12:46:55.127067+00:00",
  "quotes": {
+  "A": {
+   "price": 170.38,
+   "change_pct": -2.83
+  },
+  "ABBV": {
+   "price": 286.2,
+   "change_pct": 0.94
+  },
+  "ABT": {
+   "price": 103,
+   "change_pct": -0.84
+  },
+  "ALNY": {
+   "price": 143.82,
+   "change_pct": -2.71
+  },
+  "AMGN": {
+   "price": 435.64,
+   "change_pct": -0.72
+  },
   "ARGX": {
    "price": 925.7,
    "change_pct": -1.73
@@ -37,6 +57,10 @@
   "DNLI": {
    "price": 18.45,
    "change_pct": 1.37
+  },
+  "GEHC": {
+   "price": 80.64,
+   "change_pct": -1.53
   },
   "GILD": {
    "price": 166.43,
@@ -113,6 +137,10 @@
   "WAY": {
    "price": 26.52,
    "change_pct": -2.1
+  },
+  "ZTS": {
+   "price": 79.11,
+   "change_pct": -2.08
   }
  },
  "tickers": {
@@ -763,6 +791,21 @@
    "sectors": []
   },
   {
+   "id": "5904cdea6465",
+   "headline": "Why Is Everyone Ignoring Zoetis Stock's High Cash Yield?",
+   "summary": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://finnhub.io/api/news?id=7c46297f1038ddc062905a6528e9a1e2c7bf42d8592b24ca69d6e896092d687b",
+   "source": "Yahoo",
+   "published": "2026-11-23T11:31:09+00:00",
+   "tickers": [
+    "ZTS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "206dccb91ac1",
    "headline": "3Shape and Henry Schein One connect digital workflows with AI-assisted diagnostics",
    "summary": "New integration brings patient information, diagnosis, and practice management together in Dentrix, Ascend by Dentrix, and Dentally COPENHAGEN, Denmark, Nov. 23, 2026 /PRNewswire/ -- 3Shape today announced a workflow integration between\u2026",
@@ -793,6 +836,21 @@
    ]
   },
   {
+   "id": "0c3f2b37fed2",
+   "headline": "Invesco S&P 500 Eq Wt Health Care (RSPH) Adds Moderna, Mettler-Toledo on Nov. 19",
+   "summary": "The fund bought $198.4 million of stock, lifting all 60 positions and selling nothing.",
+   "url": "https://finnhub.io/api/news?id=9521481ad0408b34717ca18b93b1b8b3e5596c65e3cb09dd88a1804a8d043c5e",
+   "source": "Yahoo",
+   "published": "2026-11-23T11:05:52+00:00",
+   "tickers": [
+    "GEHC"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "44328d1f98de",
    "headline": "What State Street Health Care SPDR (XLV) Sold: Eli Lilly Leads on Nov. 19",
    "summary": "The $46.92 billion fund sold $275.1 million of stock, trimming all 60 holdings and buying nothing.",
@@ -802,11 +860,27 @@
    "tickers": [
     "ABBV",
     "JNJ",
-    "LLY"
+    "LLY",
+    "UNH"
    ],
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "77936071dfc5",
+   "headline": "iShares Russell 2000 (IWM) Adds Glaukos and JFrog on Thursday",
+   "summary": "The ETF added $404.7 million in net new positions, lifting 1,872 holdings and trimming none.",
+   "url": "https://finnhub.io/api/news?id=a7f5ed452af5bb6cfeeb460199ab140f96a0e378a0cdc4929a06c05b01dd12af",
+   "source": "Yahoo",
+   "published": "2026-11-23T11:04:51+00:00",
+   "tickers": [
+    "GKOS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -33001,36 +33075,6 @@
    "tag": "Analyst",
    "sectors": [
     "tools"
-   ]
-  },
-  {
-   "id": "6958aca75feb",
-   "headline": "UBS Maintains Buy on Ascendis Pharma, Raises Price Target to $315",
-   "summary": "UBS analyst Joon Lee maintains Ascendis Pharma (NASDAQ:ASND) with a Buy and raises the price target from $269 to $315.",
-   "url": "https://finnhub.io/api/news?id=5b6caa9d057f8b1fe303f6cd664e45bc7601fac0e3645ad0faf4eb3eb80773cb",
-   "source": "Benzinga",
-   "published": "2026-11-13T12:42:40+00:00",
-   "tickers": [
-    "ASND"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "c661a1ddefce",
-   "headline": "How Much Does a 69-Year-Old Need Invested in Dividend Stocks to Collect $3,000 a Month?",
-   "summary": "The price tag for $3,000 a month in dividends swings by more than a million dollars depending on which stocks you pick. One popular income pick looks cheapest to start and may cost the most by age 79.",
-   "url": "https://finnhub.io/api/news?id=6dcba3ce9d12fdeb48bbe2545162f87d2b83f8478ece9378bdac7e091032edcf",
-   "source": "Yahoo",
-   "published": "2026-11-13T12:32:22+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
