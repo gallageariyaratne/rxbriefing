@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-23T06:46:35.412524+00:00",
+ "updated": "2026-11-23T07:01:44.617345+00:00",
  "quotes": {
   "A": {
    "price": 170.38,
@@ -101,6 +101,10 @@
   "PFE": {
    "price": 27.4,
    "change_pct": -0.51
+  },
+  "SNY": {
+   "price": 46.52,
+   "change_pct": 1.0
   },
   "TEM": {
    "price": 54.04,
@@ -733,6 +737,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "ec5d366f9d5a",
+   "headline": "Insmed Inc. (INSM) is Giving Investors More to Celebrate",
+   "summary": "Insmed Inc. (NASDAQ:INSM) is one of the 10 Stocks Showing Remarkable Resilience in a Volatile Market. Shares of Insmed Inc. (NASDAQ: INSM) rallied by 16.6 percent week-on-week, defying a broader market bloodbath, as investors gobbled up\u2026",
+   "url": "https://finnhub.io/api/news?id=ce1598d46b708a3f8779f5a096557e4ccc0a22e905318cb6b5bf17690f8abf97",
+   "source": "Yahoo",
+   "published": "2026-11-23T04:44:46+00:00",
+   "tickers": [
+    "SNY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
   {
    "id": "56a5412b54d9",
    "headline": "Pfizer or Kinder Morgan: The One Dividend Stock I\u2019d Hold for the Next 10 Years",
@@ -33823,21 +33842,6 @@
     "NVO"
    ],
    "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "34405e88dcea",
-   "headline": "The Zacks Analyst Blog Highlights Home Depot, Gilead Sciences, TotalEnergies, Key Tronic and iPower",
-   "summary": "HD, GILD and TTE headline Zacks' latest research picks, with strong business drivers offset by industry pressures, while KTCC and IPW face financial and execution challenges.",
-   "url": "https://finnhub.io/api/news?id=0f19fa00c39b198ff4be9f21c5e7c1326f6b909ce910fd6f6ef8f39cfd6eac8a",
-   "source": "Yahoo",
-   "published": "2026-11-13T06:51:00+00:00",
-   "tickers": [
-    "GILD"
-   ],
-   "tag": "Analyst",
    "sectors": [
     "pharma"
    ]
