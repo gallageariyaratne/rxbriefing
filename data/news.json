@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-23T11:48:39.685879+00:00",
+ "updated": "2026-11-23T12:01:51.405223+00:00",
  "quotes": {
   "A": {
    "price": 170.38,
@@ -53,6 +53,10 @@
   "DHR": {
    "price": 220.36,
    "change_pct": -3.16
+  },
+  "DNLI": {
+   "price": 18.45,
+   "change_pct": 1.37
   },
   "GILD": {
    "price": 166.43,
@@ -746,6 +750,17 @@
  },
  "stories": [
   {
+   "id": "9487bcec0fb1",
+   "headline": "STAT+: Kymera Therapeutics reports mid-stage eczema trial success for would-be Dupixent rival",
+   "summary": "Kymera Therapeutics announced on Monday that its experimental therapy effectively and safely treated eczema patients\u2019 itchy, inflamed skin.",
+   "url": "https://www.statnews.com/2026/11/23/kymera-therapeutics-eczema-trial-success-potential-dupixent-rival/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-11-23T12:00:00+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
    "id": "206dccb91ac1",
    "headline": "3Shape and Henry Schein One connect digital workflows with AI-assisted diagnostics",
    "summary": "New integration brings patient information, diagnosis, and practice management together in Dentrix, Ascend by Dentrix, and Dentally COPENHAGEN, Denmark, Nov. 23, 2026 /PRNewswire/ -- 3Shape today announced a workflow integration between\u2026",
@@ -773,6 +788,36 @@
    "tag": "Health AI",
    "sectors": [
     "pharmacy"
+   ]
+  },
+  {
+   "id": "44328d1f98de",
+   "headline": "What State Street Health Care SPDR (XLV) Sold: Eli Lilly Leads on Nov. 19",
+   "summary": "The $46.92 billion fund sold $275.1 million of stock, trimming all 60 holdings and buying nothing.",
+   "url": "https://finnhub.io/api/news?id=40087aa9468c5b9f049881afe20172617d71b58d01ee66804f93ac392f2f8ec4",
+   "source": "Yahoo",
+   "published": "2026-11-23T11:05:13+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "4b58c070864e",
+   "headline": "Eli Lilly (LLY) Sees $329.4 Million in Net ETF Selling on Thursday",
+   "summary": "ETFs sold $329.4 million in Eli Lilly (LLY) shares on Thursday, with 44 funds buying and 17 selling.",
+   "url": "https://finnhub.io/api/news?id=b2536915527ffe0cab27d12d2c53dc74d8afa3f36e65b9f227f057d08d2c161e",
+   "source": "Yahoo",
+   "published": "2026-11-23T11:02:19+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -979,6 +1024,21 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "47c002724fee",
+   "headline": "Denali Therapeutics Targets AVLAYAH Expansion, Key Alzheimer\u2019s Data in 2027",
+   "summary": "Denali Therapeutics (NASDAQ:DNLI) executives outlined plans to expand the reach of its Hunter syndrome treatment AVLAYAH and advance a pipeline of therapies for rare diseases and Alzheimer\u2019s, with several data releases expected in 2027.\u2026",
+   "url": "https://finnhub.io/api/news?id=f336c84fc618c29991271fad28e3dfe1ecb734a5039882bdc44ccd714419a86b",
+   "source": "Yahoo",
+   "published": "2026-11-23T04:12:15+00:00",
+   "tickers": [
+    "DNLI"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -33197,41 +33257,6 @@
    "tag": "Clinical",
    "sectors": [
     "tools"
-   ]
-  },
-  {
-   "id": "db6854840f0d",
-   "headline": "While AI hogged the headlines, 1 overlooked sector beat the S&P 500 \u2014 and its top stock is up 700%+ this year",
-   "summary": "A Goldman Sachs exec now says it\u2019s the next leg of the AI trade.",
-   "url": "https://finnhub.io/api/news?id=39efc3e3702f69802d1b8c3ab4dac907a623122dc31a754ce051f76f3a2d47b0",
-   "source": "Yahoo",
-   "published": "2026-11-13T12:00:00+00:00",
-   "tickers": [
-    "ABBV",
-    "JNJ",
-    "LLY",
-    "MRNA"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "b504e1c36cc1",
-   "headline": "Eli Lilly Stocks Rise as China Approves Orforglipron Weight-Loss Pill",
-   "summary": "Lilly's oral obesity drug wins Chinese approval, setting up a fight with Novo Nordisk, Pfizer and Innovent in a vast market.",
-   "url": "https://finnhub.io/api/news?id=76e326926b0e97436797da33eedf0ab0f57fc2716ad9e466a43ef19ae5db55f1",
-   "source": "Yahoo",
-   "published": "2026-11-13T11:57:04+00:00",
-   "tickers": [
-    "LLY",
-    "NVO",
-    "PFE"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
