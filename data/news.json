@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-23T12:46:55.127067+00:00",
+ "updated": "2026-11-23T13:02:08.245152+00:00",
  "quotes": {
   "A": {
    "price": 170.38,
@@ -74,9 +74,17 @@
    "price": 83.52,
    "change_pct": -1.51
   },
+  "IDXX": {
+   "price": 676.21,
+   "change_pct": -1.95
+  },
   "INSM": {
    "price": 141.33,
    "change_pct": -2.17
+  },
+  "IQV": {
+   "price": 245.82,
+   "change_pct": -1.89
   },
   "JNJ": {
    "price": 270.47,
@@ -93,6 +101,10 @@
   "MRK": {
    "price": 133.72,
    "change_pct": 0.69
+  },
+  "MRNA": {
+   "price": 195,
+   "change_pct": -2.17
   },
   "NBIX": {
    "price": 150.57,
@@ -791,6 +803,36 @@
    "sectors": []
   },
   {
+   "id": "86763a9e5052",
+   "headline": "Moderna to Present at Upcoming Conferences in December 2026",
+   "summary": "CAMBRIDGE, MA / ACCESS Newswire / November 23, 2026 / (Nasdaq:MRNA), today announced its participation in the following upcoming investor conferences: * UBS Global Technology and AI Conference, on Wednesday, December 2 at 11:35am MT *\u2026",
+   "url": "https://finnhub.io/api/news?id=c61b8c86c890ca8d13b614fabb1321df01d40133502d0d8443bfab5892c8fc6e",
+   "source": "Yahoo",
+   "published": "2026-11-23T12:00:00+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "98669dd56550",
+   "headline": "IQVIA Announces Acquisition of Quotient Sciences",
+   "summary": "RESEARCH TRIANGLE PARK, N.C., November 23, 2026--IQVIA Holdings Inc. (\"IQVIA\") (NYSE: IQV), a leading global provider of clinical research services, commercial insights and healthcare intelligence to the life sciences and healthcare\u2026",
+   "url": "https://finnhub.io/api/news?id=f1d0b3808c465dbb25a15640e64bc0f1300d7f1e0cf8af42b9c57b3108641473",
+   "source": "Yahoo",
+   "published": "2026-11-23T12:00:00+00:00",
+   "tickers": [
+    "IQV"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "5904cdea6465",
    "headline": "Why Is Everyone Ignoring Zoetis Stock's High Cash Yield?",
    "summary": "For questions about this article or underlying research, email help@trefis.com.",
@@ -798,6 +840,8 @@
    "source": "Yahoo",
    "published": "2026-11-23T11:31:09+00:00",
    "tickers": [
+    "IDXX",
+    "MRK",
     "ZTS"
    ],
    "tag": "News",
@@ -843,7 +887,9 @@
    "source": "Yahoo",
    "published": "2026-11-23T11:05:52+00:00",
    "tickers": [
-    "GEHC"
+    "GEHC",
+    "IDXX",
+    "MRNA"
    ],
    "tag": "News",
    "sectors": [
@@ -861,6 +907,7 @@
     "ABBV",
     "JNJ",
     "LLY",
+    "MRK",
     "UNH"
    ],
    "tag": "News",
@@ -32937,144 +32984,6 @@
    "tag": "News",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "0a9b6b6fc2db",
-   "headline": "LifeStance, Private Equity Rollup Turned Organic Growth Stock, Targets A Profound Void",
-   "summary": "LifeStance stock has doubled this year and analysts foresee big time earnings growth. But \"the bar is higher\" now.",
-   "url": "https://finnhub.io/api/news?id=74caaeeceac66d6877c8706fc2816721b7f5fed77cabd619f25fe28410eae4d0",
-   "source": "Yahoo",
-   "published": "2026-11-13T13:00:17+00:00",
-   "tickers": [
-    "DOCS",
-    "HIMS",
-    "LFST",
-    "TDOC"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "33d2e41da94c",
-   "headline": "Hims & Hers Health, Inc. (HIMS) Is a Trending Stock: Facts to Know Before Betting on It",
-   "summary": "Hims & Hers Health (HIMS) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
-   "url": "https://finnhub.io/api/news?id=2f625e3632edcd69fcd4f7fcb7348a62a9bcd2f165616be07daa1bce1ff96d4a",
-   "source": "Yahoo",
-   "published": "2026-11-13T13:00:03+00:00",
-   "tickers": [
-    "HIMS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "53e8c006bf57",
-   "headline": "GH Research Reports Third Quarter 2026 Financial Results and Provides Business Update",
-   "summary": "Novel GH001 Aerosol Delivery System (ADS) device: final results of the GH001-HV-106 trial support going from 3 \u2192 1 doses per treatment visitTRD pivotal program \u2014 positive initial feedback from FDA, End-of-Phase 2 meeting expected in Q1\u2026",
-   "url": "https://finnhub.io/api/news?id=508034d8d965ede930bebd578a10273faccec0e5c30848ede8078fe26096dc96",
-   "source": "Yahoo",
-   "published": "2026-11-13T13:00:00+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "8ef66bad6aab",
-   "headline": "Madrigal Pharmaceuticals Announces Participation at Three Upcoming Investor Conferences",
-   "summary": "CONSHOHOCKEN, Pa., Nov. 13, 2026 (GLOBE NEWSWIRE) -- Madrigal Pharmaceuticals, Inc. (NASDAQ: MDGL) today announced that the company will participate in fireside chats at three upcoming investor conferences: The fireside chats will be\u2026",
-   "url": "https://finnhub.io/api/news?id=e12c0a11186d2ceaa00a1a668e4d7343423b8c3e871c3e970c206219bb366c0a",
-   "source": "Yahoo",
-   "published": "2026-11-13T13:00:00+00:00",
-   "tickers": [
-    "MDGL"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "c73ba4de81a1",
-   "headline": "Zimmer Biomet Holdings, Inc. Completes Offerings of \u20ac500.0 million 4.375% notes due 2033 and $500.0 million 5.850% notes due 2036",
-   "summary": "",
-   "url": "https://finnhub.io/api/news?id=ab7d7113efceabca351d0ff4a5133ce2eff972d93e9a2cd822fd30018cd353a5",
-   "source": "Fintel",
-   "published": "2026-11-13T12:58:47+00:00",
-   "tickers": [
-    "ZBH"
-   ],
-   "tag": "Financing",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "f75ec074f708",
-   "headline": "'AstraZeneca Cuts 600 US Sales Staff as Savings Drive Kicks In'- Bloomberg",
-   "summary": "https://www.bloomberg.com/news/articles/2026-11-13/astrazeneca-cuts-600-us-sales-staff-as-savings-drive-kicks-in",
-   "url": "https://finnhub.io/api/news?id=60f566261c2d4769eac62b066c2244ede9babffca22e739ba4f0d10957eaf2ba",
-   "source": "Benzinga",
-   "published": "2026-11-13T12:55:43+00:00",
-   "tickers": [
-    "AZN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "e734209402aa",
-   "headline": "GH Research Announces Appointment of Vanina Popova, MD, as Chief Development Officer",
-   "summary": "Dr. Popova will lead the clinical development of GH001 as the company advances toward pivotal programs in TRD and PPDBrings more than 20 years of global pharmaceutical R&D experience at Johnson & Johnson across clinical operations,\u2026",
-   "url": "https://finnhub.io/api/news?id=8a5a9c45ea162f01289f60a2306d55525f365696e4cef95cb6d90c4472bd85ca",
-   "source": "Yahoo",
-   "published": "2026-11-13T12:55:00+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "5ea935ee84b5",
-   "headline": "Novo Nordisk Seeks FDA, EMA Approval For Sickle Cell Disease Treatment \u2013 Here Are The Key Takeaways",
-   "summary": "Novo Nordisk said etavopivat could offer a new disease-modifying treatment option for people living with sickle cell disease if approved.",
-   "url": "https://finnhub.io/api/news?id=057c1b7aa8293126b0897b09cefd60b0bd2a8b02c38bf68dc36bfa8e5de71098",
-   "source": "Yahoo",
-   "published": "2026-11-13T12:54:44+00:00",
-   "tickers": [
-    "NVO"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "8ab97d310b03",
-   "headline": "UBS Maintains Neutral on Qiagen, Raises Price Target to $50",
-   "summary": "UBS analyst Dan Leonard maintains Qiagen (NYSE:QGEN) with a Neutral and raises the price target from $48 to $50.",
-   "url": "https://finnhub.io/api/news?id=3183e700f4e95e703feb56fb58b8841d772babde8541b7b27bf8bf42209882f2",
-   "source": "Benzinga",
-   "published": "2026-11-13T12:47:07+00:00",
-   "tickers": [
-    "QGEN"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "tools"
    ]
   }
  ]
