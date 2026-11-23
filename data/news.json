@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-23T10:16:47.324815+00:00",
+ "updated": "2026-11-23T10:31:43.370745+00:00",
  "quotes": {
   "A": {
    "price": 170.38,
@@ -106,13 +106,13 @@
    "price": 54.04,
    "change_pct": -9.34
   },
-  "TMO": {
-   "price": 669.54,
-   "change_pct": -2.79
-  },
   "UNH": {
    "price": 339.85,
    "change_pct": 2.84
+  },
+  "UTHR": {
+   "price": 554.73,
+   "change_pct": -0.78
   },
   "VRTX": {
    "price": 515.02,
@@ -738,6 +738,21 @@
  },
  "stories": [
   {
+   "id": "17889d68391c",
+   "headline": "Lilly buys preclinical LoQus23 in $725M deal to zero in on Huntington\u2019s target",
+   "summary": "Eli Lilly has struck a deal to buy preclinical Huntington\u2019s disease biotech LoQus23 Therapeutics for up to $725 million.",
+   "url": "https://www.fiercebiotech.com/biotech/eli-lilly-inks-725m-loqus23-deal-zero-huntingtons-target",
+   "source": "Fierce Biotech",
+   "published": "2026-11-23T10:30:24.862340+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "2ad9d3cf0815",
    "headline": "Why today\u2019s leading drug developers are fine-tuning open models on their own data",
    "summary": "Open or proprietary AI models? What drug developers should weigh before they fine-tune.",
@@ -850,6 +865,21 @@
    "tickers": [],
    "tag": "FDA",
    "sectors": []
+  },
+  {
+   "id": "1d6ec4dbfb8f",
+   "headline": "Insmed's Stock Rises 21% on Reports of Buyout Interest From Sanofi",
+   "summary": "INSM's stock jumps on reported buyout interest from Sanofi, as its marketed respiratory drugs and late-stage pipeline strengthen its strategic appeal.",
+   "url": "https://finnhub.io/api/news?id=3552eb114ba23de3bfb415ef9cbe9f55b82ff83ba1b1fda7dd757222dbdc8db1",
+   "source": "Yahoo",
+   "published": "2026-11-23T07:13:00+00:00",
+   "tickers": [
+    "UTHR"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "biotech"
+   ]
   },
   {
    "id": "6cea6059b763",
@@ -33572,51 +33602,6 @@
    "tag": "News",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "b4025a1a4817",
-   "headline": "If You Invested $100 In Intuitive Surgical Stock 20 Years Ago, You Would Have This Much Today",
-   "summary": "Intuitive Surgical (NASDAQ:ISRG) has outperformed the market over the past 20 years by 11.51% on an annualized basis producing an average annual return of 20.31%. Currently, Intuitive Surgical has a market",
-   "url": "https://finnhub.io/api/news?id=aeb11106ceb75cbeb46a9570d1d317d9a0aba730c32f6f22832772e5c3b5fdbe",
-   "source": "Benzinga",
-   "published": "2026-11-13T10:30:16+00:00",
-   "tickers": [
-    "ISRG"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "f9fd6858a803",
-   "headline": "Bear of the Day: Boston Scientific (BSX)",
-   "summary": "BSX growth continues to flatline but expects 2027 to mark cycle's trough, 2028 recovery driven by new launches",
-   "url": "https://finnhub.io/api/news?id=0077e2d95175cde2a6c3311a32f1b8dd4dd13de0c622f917789e6bac293091a2",
-   "source": "Yahoo",
-   "published": "2026-11-13T10:20:00+00:00",
-   "tickers": [
-    "BSX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "984eed8f1e19",
-   "headline": "B. Riley Securities Reiterates Buy on Altimmune, Lowers Price Target to $11",
-   "summary": "B. Riley Securities analyst William Woods reiterates Altimmune (NASDAQ:ALT) with a Buy and lowers the price target from $13 to $11.",
-   "url": "https://finnhub.io/api/news?id=c5468431a49ef1a76257a0b08da6be9580d26c643631c188db94d5ac96e369c9",
-   "source": "Benzinga",
-   "published": "2026-11-13T10:19:18+00:00",
-   "tickers": [
-    "ALT"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
    ]
   }
  ]
