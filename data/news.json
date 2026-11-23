@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-23T04:46:30.943082+00:00",
+ "updated": "2026-11-23T05:01:54.046067+00:00",
  "quotes": {
   "A": {
    "price": 170.38,
@@ -13,6 +13,10 @@
   "ABT": {
    "price": 103,
    "change_pct": -0.84
+  },
+  "ALNY": {
+   "price": 143.82,
+   "change_pct": -2.71
   },
   "AMGN": {
    "price": 435.64,
@@ -730,6 +734,21 @@
  },
  "stories": [
   {
+   "id": "195082c732fb",
+   "headline": "5 Best High-Growth Stocks to Diversify Away From Big Tech",
+   "summary": "The S&P 500 has grown notably top-heavy. The 10 largest companies currently make up about 40% of its value, compared to 20% to 25% for the most of the period since 1980, while technology accounts for nearly 40% of the standard index but\u2026",
+   "url": "https://finnhub.io/api/news?id=17c04dbc657bca30ec198da5a938d716148392d338f307f6ee87bc372433a5a2",
+   "source": "Yahoo",
+   "published": "2026-11-23T03:26:41+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "3e30b0916226",
    "headline": "Biotech Funds Slide Into Thanksgiving Week \u2014 Capricor\u2019s FDA Fight And Back-To-Back Drug Decisions Top Watchlist",
    "summary": "Capricor will face investors on Monday after the FDA rejected its Duchenne therapy, citing concerns about the reliability of its trial data.",
@@ -753,6 +772,7 @@
    "source": "Yahoo",
    "published": "2026-11-23T03:01:39+00:00",
    "tickers": [
+    "ALNY",
     "JNJ"
    ],
    "tag": "Health AI",
