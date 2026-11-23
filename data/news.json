@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-23T13:46:49.765715+00:00",
+ "updated": "2026-11-23T14:02:02.901120+00:00",
  "quotes": {
   "A": {
    "price": 170.38,
@@ -49,6 +49,10 @@
   "DNLI": {
    "price": 18.45,
    "change_pct": 1.37
+  },
+  "ELV": {
+   "price": 394.48,
+   "change_pct": 1.11
   },
   "GEHC": {
    "price": 80.64,
@@ -762,6 +766,32 @@
  },
  "stories": [
   {
+   "id": "640082fa8cfa",
+   "headline": "Photon pharmacy marketplace integrated with ChatGPT for clinicians",
+   "summary": "The patient experience remains the same through Photon. What is new is where the clinician can write a prescription. Clinicians with a Photon account can draft, review and send prescriptions without leaving ChatGPT.",
+   "url": "https://www.fiercehealthcare.com/health-tech/photon-pharmacy-marketplace-integrated-chatgpt-clinicians",
+   "source": "Fierce Healthcare",
+   "published": "2026-11-23T14:00:30.256877+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "2e1ffa288ef2",
+   "headline": "Premarket Movers: Nvidia, Dell, HPE Gain; CrowdStrike, UnitedHealth Slide",
+   "summary": "Premarket movers: Nvidia rose 8.66%, Dell 8.27%, and HPE 7.46%, while CrowdStrike fell 6.76% and UnitedHealth 6.28%.",
+   "url": "https://finnhub.io/api/news?id=ec07e5dc041b7fa4bdae54192db66181218072d0d93055406ae6bcae196b1f42",
+   "source": "ChartMill",
+   "published": "2026-11-23T13:36:23+00:00",
+   "tickers": [
+    "ELV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "37fbaad811b3",
    "headline": "At first preventive services panel meeting in more than a year, votes are cast in private",
    "summary": "In its first meeting since 2025, an influential panel of doctors evaluating preventive medical care grappled with the ways RFK Jr. has upended science and medicine:",
@@ -785,6 +815,21 @@
    "tag": "Earnings",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "be5834d3ecbb",
+   "headline": "Eli Lilly & Co. (NYSE:LLY): Affordable Growth With Valuation as the Main Trade-Off",
+   "summary": "Eli Lilly fits the Affordable Growth screen with 9/10 growth and profitability, but valuation and balance-sheet health remain key trade-offs.",
+   "url": "https://finnhub.io/api/news?id=7a20259fc97a4824be6c3d432c8656cf034a2886704656d518a357087c96d2cc",
+   "source": "ChartMill",
+   "published": "2026-11-23T12:40:43+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -32579,211 +32624,6 @@
    "tag": "FDA",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "981a2fcb6b02",
-   "headline": "Regeneron Drug Lowers Standing Heart Rate And Improves Symptoms In Heart Disease Study",
-   "summary": "Regeneron reports Phase 2 PINNACLE trial data showing baloncibart reduces standing heart rate and improves symptoms in adults with POTS.",
-   "url": "https://finnhub.io/api/news?id=77bde6c2f9fb75c54067a28004db2353af36bb31a6a0cde00a11b3d171c1c274",
-   "source": "Benzinga",
-   "published": "2026-11-13T14:01:01+00:00",
-   "tickers": [
-    "REGN"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "2ea842bd9c73",
-   "headline": "STAT+: Senators introduce bill to curb conflicts of interest on preventive care panel",
-   "summary": "Some of the panel's members could benefit financially from the decisions they make, STAT's reporting showed.",
-   "url": "https://www.statnews.com/2026/11/13/uspstf-preventive-care-panel-senators-target-conflicts-of-interest/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-11-13T14:00:00+00:00",
-   "tickers": [],
-   "tag": "Policy",
-   "sectors": []
-  },
-  {
-   "id": "ffc2f73b0257",
-   "headline": "This week in charts: Brain drugs are back on venture\u2019s minds",
-   "summary": "Five neurology-focused startups have together raised around $450 million in the last few weeks. Elsewhere, investors had a muted response to the latest cell therapy research.",
-   "url": "https://www.biopharmadive.com/news/charts-venture-neuroscience-oyster-vectory-acr-cell-therapy/874570/",
-   "source": "BioPharma Dive",
-   "published": "2026-11-13T14:00:00+00:00",
-   "tickers": [],
-   "tag": "Financing",
-   "sectors": []
-  },
-  {
-   "id": "da9fcb61b6a6",
-   "headline": "Doximity to Provide New Clinical AI Tools Across NewYork-Presbyterian, Columbia University and Weill Cornell Medicine",
-   "summary": "NEW YORK & SAN FRANCISCO, November 13, 2026--Doximity, the leading digital platform for U.S. medical professionals, NewYork-Presbyterian, Columbia University and Weill Cornell Medicine today announced that Doximity will provide clinical\u2026",
-   "url": "https://finnhub.io/api/news?id=b00a621ce988431ae292183d3ec76869a1c592cfc3f2fd2acbbd8433dec8aa3e",
-   "source": "Yahoo",
-   "published": "2026-11-13T14:00:00+00:00",
-   "tickers": [
-    "DOCS"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "63775f5ab120",
-   "headline": "Morgan Stanley Maintains Equal-Weight on Exelixis, Lowers Price Target to $57",
-   "summary": "Morgan Stanley analyst Sean Laaman maintains Exelixis (NASDAQ:EXEL) with a Equal-Weight and lowers the price target from $60 to $57.",
-   "url": "https://finnhub.io/api/news?id=9de7a0f708b18b619e2f252d04c5a799e9f8e00efe87b59f1213279b81e59ce8",
-   "source": "Benzinga",
-   "published": "2026-11-13T13:59:14+00:00",
-   "tickers": [
-    "EXEL"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "7aae03d1840a",
-   "headline": "Morgan Stanley Maintains Equal-Weight on Axsome Therapeutics, Lowers Price Target to $223",
-   "summary": "Morgan Stanley analyst Sean Laaman maintains Axsome Therapeutics (NASDAQ:AXSM) with a Equal-Weight and lowers the price target from $249 to $223.",
-   "url": "https://finnhub.io/api/news?id=7f161c65be42c8008e9ff7149269fd146887cfa0bbdafc770558879526ac26ab",
-   "source": "Benzinga",
-   "published": "2026-11-13T13:55:19+00:00",
-   "tickers": [
-    "AXSM"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "b2b8df2d70a2",
-   "headline": "Morgan Stanley Maintains Overweight on argenx, Lowers Price Target to $1130",
-   "summary": "Morgan Stanley analyst Sean Laaman maintains argenx (NASDAQ:ARGX) with a Overweight and lowers the price target from $1190 to $1130.",
-   "url": "https://finnhub.io/api/news?id=b319c89092a7ab426be8f33fac26d71369f5794680c67ba5f2db222adc90fc3b",
-   "source": "Benzinga",
-   "published": "2026-11-13T13:53:01+00:00",
-   "tickers": [
-    "ARGX"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "955ae23a3664",
-   "headline": "Novo Nordisk Submits Sickle Cell Disease Treatment Etavopivat for US and European Regulatory Approval",
-   "summary": "Novo Nordisk (NYSE:NVO) has submitted regulatory applications in the United States and Europe seeking approval for etavopivat, an investigational oral treatment for sickle cell disease in patients aged 12 years and older. The\u2026",
-   "url": "https://finnhub.io/api/news?id=851d82101233966834487b149671db15e2cd77edc8614e85903d92411b545a9c",
-   "source": "Yahoo",
-   "published": "2026-11-13T13:52:12+00:00",
-   "tickers": [
-    "NVO"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "f82a44adb32f",
-   "headline": "Morgan Stanley Maintains Overweight on Jazz Pharmaceuticals, Raises Price Target to $324",
-   "summary": "Morgan Stanley analyst Jeffrey Hung maintains Jazz Pharmaceuticals (NASDAQ:JAZZ) with a Overweight and raises the price target from $319 to $324.",
-   "url": "https://finnhub.io/api/news?id=f5b6e42d7ca9c2bc2309e6acb76633cbc10ab15e879b6e90fd15dc6614db475a",
-   "source": "Benzinga",
-   "published": "2026-11-13T13:51:30+00:00",
-   "tickers": [
-    "JAZZ"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "8a8e6d897d38",
-   "headline": "Morgan Stanley Maintains Equal-Weight on Neurocrine Biosciences, Raises Price Target to $191",
-   "summary": "Morgan Stanley analyst Jeffrey Hung maintains Neurocrine Biosciences (NASDAQ:NBIX) with a Equal-Weight and raises the price target from $185 to $191.",
-   "url": "https://finnhub.io/api/news?id=46523a281a6d355fac5c6e4c84ad41ef8c9c12bbda97a978bf809b8a195b0fcf",
-   "source": "Benzinga",
-   "published": "2026-11-13T13:50:35+00:00",
-   "tickers": [
-    "NBIX"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "36b192695cec",
-   "headline": "Morgan Stanley Maintains Overweight on Denali Therapeutics, Lowers Price Target to $37",
-   "summary": "Morgan Stanley analyst Matthew Harrison maintains Denali Therapeutics (NASDAQ:DNLI) with a Overweight and lowers the price target from $42 to $37.",
-   "url": "https://finnhub.io/api/news?id=48afd436aca78f181aed4bc6b434de8db74b569e85be422369b20ba521f5e676",
-   "source": "Benzinga",
-   "published": "2026-11-13T13:48:39+00:00",
-   "tickers": [
-    "DNLI"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "f3ab4567fbd3",
-   "headline": "Morgan Stanley Maintains Overweight on BioMarin Pharmaceutical, Lowers Price Target to $103",
-   "summary": "Morgan Stanley analyst Matthew Harrison maintains BioMarin Pharmaceutical (NASDAQ:BMRN) with a Overweight and lowers the price target from $119 to $103.",
-   "url": "https://finnhub.io/api/news?id=67df32123bdad091708e43428dea1c222e24a3bd9675fcb10ae66dcfdb0bce0f",
-   "source": "Benzinga",
-   "published": "2026-11-13T13:47:40+00:00",
-   "tickers": [
-    "BMRN"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "0a3ef4219ce8",
-   "headline": "Moderna Issues Cost Outlook Amid Revenue Uncertainty, Stock Falls",
-   "summary": "MRNA shares fall as 2027 cost projections raise concerns, while limited visibility into future revenue growth weighs on investor sentiment.",
-   "url": "https://finnhub.io/api/news?id=3b9e93b12d17cb775e0f5408b6cb0ae8ed64fe7c2de0b552c3eda5f7a523eb33",
-   "source": "Yahoo",
-   "published": "2026-11-13T13:47:00+00:00",
-   "tickers": [
-    "MRK",
-    "MRNA",
-    "PFE",
-    "SNY"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "8ffe37e303a6",
-   "headline": "Morgan Stanley Maintains Equal-Weight on Acadia Pharmaceuticals, Lowers Price Target to $24",
-   "summary": "Morgan Stanley analyst Jeffrey Hung maintains Acadia Pharmaceuticals (NASDAQ:ACAD) with a Equal-Weight and lowers the price target from $28 to $24.",
-   "url": "https://finnhub.io/api/news?id=853a36f1be9bff832dd6c7b88838b56b3ff6c1031b5a70d9f196c9e617cc0b9d",
-   "source": "Benzinga",
-   "published": "2026-11-13T13:46:26+00:00",
-   "tickers": [
-    "ACAD"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
    ]
   }
  ]
