@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-24T03:02:48.694915+00:00",
+ "updated": "2026-11-24T03:17:41.958086+00:00",
  "quotes": {
   "A": {
    "price": 176.04,
@@ -178,6 +178,10 @@
    "price": 270.05,
    "change_pct": -0.16
   },
+  "KRYS": {
+   "price": 321.26,
+   "change_pct": 4.0
+  },
   "LLY": {
    "price": 1364.6,
    "change_pct": 1.3
@@ -294,6 +298,10 @@
    "price": 111.35,
    "change_pct": 7.77
   },
+  "TXG": {
+   "price": 57.65,
+   "change_pct": 11.29
+  },
   "UNH": {
    "price": 336.08,
    "change_pct": -1.11
@@ -313,14 +321,6 @@
   "WAY": {
    "price": 26.17,
    "change_pct": -1.32
-  },
-  "ZBH": {
-   "price": 105.98,
-   "change_pct": 4.83
-  },
-  "ZTS": {
-   "price": 79.94,
-   "change_pct": 1.05
   }
  },
  "tickers": {
@@ -995,6 +995,21 @@
    "tickers": [],
    "tag": "Policy",
    "sectors": []
+  },
+  {
+   "id": "9c2843a4a806",
+   "headline": "3 Founder Led Stocks With Earnings Growth Up To 36%",
+   "summary": "When a single executive change at Nvidia helps trigger the best day for US stocks since 2025, founder leadership clearly still commands the market\u2019s attention. Investors are rewarding companies where the person in charge has real skin in\u2026",
+   "url": "https://finnhub.io/api/news?id=cb5ad89975f3da3e1db3286b938078a640740d34e1e5c083ed1976e7aebd3d62",
+   "source": "Yahoo",
+   "published": "2026-11-24T00:19:08+00:00",
+   "tickers": [
+    "KRYS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
   },
   {
    "id": "e69eb82b4b75",
@@ -1994,6 +2009,21 @@
    "sectors": []
   },
   {
+   "id": "460d7f40345b",
+   "headline": "Novo Nordisk (CPSE:NOVO B) Wins FDA Nod For First Weekly Turner Syndrome Therapy",
+   "summary": "Novo Nordisk (CPSE:NOVO B) received FDA approval for Sogroya as a once-weekly growth hormone treatment for children with Turner Syndrome. The authorization makes Sogroya the first long-acting, once-weekly growth hormone cleared in the\u2026",
+   "url": "https://finnhub.io/api/news?id=9c54afbc1dfbdacb71f36fbc310ed5b722805d7946ae04d7237fd027f731db98",
+   "source": "Yahoo",
+   "published": "2026-11-23T18:11:55+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "3ca49e3f5cc9",
    "headline": "S&P 500 Unusual Volume Session: Dell, IBM, UNH, TPL",
    "summary": "S&P 500 unusual volume: Dell gained 21.46% as UNH, IBM and TPL also traded above their 50-day average volume.",
@@ -2188,7 +2218,8 @@
    "published": "2026-11-23T17:14:15+00:00",
    "tickers": [
     "ILMN",
-    "TWST"
+    "TWST",
+    "TXG"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -2529,6 +2560,21 @@
     "MRK"
    ],
    "tag": "Health AI",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "1371b80b6da7",
+   "headline": "Novo's Sogroya Gets FDA Label Expansion for Pediatric Turner Syndrome",
+   "summary": "NVO's Sogroya wins FDA label expansion for pediatric Turner syndrome, becoming the first once-weekly growth hormone approved for this condition in the United States.",
+   "url": "https://finnhub.io/api/news?id=1512615aec91523515a750bf4b5af6dee8fc72102f5b9ca5b357d450ea172a18",
+   "source": "Yahoo",
+   "published": "2026-11-23T16:06:00+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "FDA",
    "sectors": [
     "pharma"
    ]
@@ -3339,6 +3385,21 @@
     "PFE"
    ],
    "tag": "Legal",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "bfebb9fdc9c3",
+   "headline": "Novo Nordisk A/S - share repurchase programme",
+   "summary": "Novo Nordisk A/S \u2013 Share repurchase programme Bagsv\u00e6rd, Denmark, 23 November 2026 \u2013 On 6 May 2026, Novo Nordisk initiated a share repurchase programme in accordance with Article 5 of Regulation No 596/2014 of the European Parliament and\u2026",
+   "url": "https://finnhub.io/api/news?id=f97a7ff62cf69c202b2498323d215ea1ee2d82e8a659566dfdd2785e6273a12a",
+   "source": "Yahoo",
+   "published": "2026-11-23T13:46:00+00:00",
+   "tickers": [
+    "NVO"
+   ],
+   "tag": "News",
    "sectors": [
     "pharma"
    ]
@@ -33894,66 +33955,6 @@
    "tag": "Health AI",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "3eabb00c6c1c",
-   "headline": "AbbVie (ABBV) Stock Looks Below Fair Value After Strong Cash Flow Growth",
-   "summary": "AbbVie has delivered a strong share price run in recent years, and with the stock around US$295 the key question is how firmly its current market value rests on the cash it can generate over time. The stock has returned 203.1% over 5\u2026",
-   "url": "https://finnhub.io/api/news?id=480e4ec1e10b69c8a749ff63b4954c3c98c976dd6c19e82cf342bde61fff1842",
-   "source": "Yahoo",
-   "published": "2026-11-14T03:15:16+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "26b0a937497a",
-   "headline": "3 Defensive Dividend Stocks Retail Investors Are Watching For Reliable Income",
-   "summary": "With the Fed leaning hard on inflation data and keeping the door open to more rate hikes, many investors are wondering whether to stay in the market or sit on their hands. Higher-for-longer rates can punish some stocks yet create rare\u2026",
-   "url": "https://finnhub.io/api/news?id=3313c94a7a115ea14660bfeba3f34b5bc598cb29323d76ac54081e2ff245874e",
-   "source": "Yahoo",
-   "published": "2026-11-14T03:13:58+00:00",
-   "tickers": [
-    "MDT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "fbe6bbbbb740",
-   "headline": "Glaukos (GKOS) Stock Fair Value Rises After Analysts Lift Targets On Strong Q3",
-   "summary": "Glaukos is back on investor radar after analysts lifted their price targets into a range of about US$225 to US$248 per share. Those higher targets are tied to what research desks describe as strong Q3 2026 execution, raised sales\u2026",
-   "url": "https://finnhub.io/api/news?id=e7ea296761e79e780a73facc4b1095d3c320e17efc2b90519d2ae112cda47675",
-   "source": "Yahoo",
-   "published": "2026-11-14T03:13:38+00:00",
-   "tickers": [
-    "GKOS"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "78790644dc29",
-   "headline": "3 British Healthcare Stocks With Revenue Growth Up To 13%",
-   "summary": "AI related risks have just climbed to the top of the Federal Reserve\u2019s financial stability worries, with a surge in complex debt tied to data centres and chip infrastructure. That kind of concentrated enthusiasm can leave investors\u2026",
-   "url": "https://finnhub.io/api/news?id=c433f66ab610df0c5c93b9218f7c58cc142eba22b5c782083e3b0eced6fe0dae",
-   "source": "Yahoo",
-   "published": "2026-11-14T03:12:25+00:00",
-   "tickers": [
-    "AZN"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
