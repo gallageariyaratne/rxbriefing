@@ -1,26 +1,22 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-24T21:02:53.266575+00:00",
+ "updated": "2026-11-24T21:17:43.890531+00:00",
  "quotes": {
   "A": {
-   "price": 183.65,
-   "change_pct": 4.32
+   "price": 183.52,
+   "change_pct": 4.25
   },
   "ABBV": {
-   "price": 300.47,
-   "change_pct": 4.17
+   "price": 300.28,
+   "change_pct": 4.1
   },
   "ABSI": {
    "price": 9.17,
    "change_pct": 8.14
   },
   "ABT": {
-   "price": 105.45,
-   "change_pct": 2.06
-  },
-  "ALGN": {
-   "price": 164.91,
-   "change_pct": 1.58
+   "price": 105.39,
+   "change_pct": 2.0
   },
   "ALT": {
    "price": 1.38,
@@ -31,8 +27,8 @@
    "change_pct": 5.54
   },
   "AZN": {
-   "price": 183.14,
-   "change_pct": 3.46
+   "price": 183.2,
+   "change_pct": 3.49
   },
   "BDX": {
    "price": 220,
@@ -67,8 +63,8 @@
    "change_pct": 1.68
   },
   "CNC": {
-   "price": 64.36,
-   "change_pct": 1.64
+   "price": 64.35,
+   "change_pct": 1.63
   },
   "COR": {
    "price": 349.68,
@@ -83,12 +79,12 @@
    "change_pct": 11.36
   },
   "DGX": {
-   "price": 265.77,
-   "change_pct": 1.01
+   "price": 265.61,
+   "change_pct": 0.95
   },
   "DHR": {
-   "price": 229.16,
-   "change_pct": 1.55
+   "price": 229.09,
+   "change_pct": 1.52
   },
   "DVA": {
    "price": 164.17,
@@ -105,10 +101,6 @@
   "ENSG": {
    "price": 179.64,
    "change_pct": 1.05
-  },
-  "EXEL": {
-   "price": 67.45,
-   "change_pct": 0.94
   },
   "GDRX": {
    "price": 3,
@@ -147,8 +139,8 @@
    "change_pct": 2.75
   },
   "HUM": {
-   "price": 403,
-   "change_pct": 5.04
+   "price": 402.72,
+   "change_pct": 4.96
   },
   "IDXX": {
    "price": 712.08,
@@ -191,8 +183,8 @@
    "change_pct": 0.95
   },
   "LLY": {
-   "price": 1410.69,
-   "change_pct": 3.38
+   "price": 1407.59,
+   "change_pct": 3.15
   },
   "MDGL": {
    "price": 429.8,
@@ -211,8 +203,8 @@
    "change_pct": 2.31
   },
   "MRK": {
-   "price": 141.65,
-   "change_pct": 4.56
+   "price": 141.57,
+   "change_pct": 4.5
   },
   "MRNA": {
    "price": 227.38,
@@ -321,6 +313,14 @@
   "VRTX": {
    "price": 563.92,
    "change_pct": 4.71
+  },
+  "WAY": {
+   "price": 27.02,
+   "change_pct": 3.25
+  },
+  "ZBH": {
+   "price": 108.99,
+   "change_pct": 2.84
   }
  },
  "tickers": {
@@ -938,6 +938,22 @@
  },
  "stories": [
   {
+   "id": "5df454670022",
+   "headline": "AMGEN SECURES PATHWAY FOR U.S. LAUNCH OF BIOSIMILAR TO OPDIVO\u00ae FOLLOWING SETTLEMENT AGREEMENT",
+   "summary": "Subject to FDA Approval, Amgen Will Launch ABP 206 in the U.S. on October 1, 2028 THOUSAND OAKS, Calif., Nov. 24, 2026 /PRNewswire/ -- Amgen (NASDAQ: AMGN) today announced that it has reached a settlement agreement with Bristol-Myers\u2026",
+   "url": "https://www.prnewswire.com/news-releases/amgen-secures-pathway-for-us-launch-of-biosimilar-to-opdivo-following-settlement-agreement-302949586.html",
+   "source": "PR Newswire",
+   "published": "2026-11-24T21:01:00+00:00",
+   "tickers": [
+    "BMY",
+    "AMGN"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "cc7801c5dadd",
    "headline": "Orca deploys undisclosed number of layoffs amid focus on Tregzi launch",
    "summary": "Orca Bio is making cuts to its workforce just months after launching its first FDA-approved therapy, Tregzi.",
@@ -1062,6 +1078,21 @@
    ]
   },
   {
+   "id": "1faf513f816a",
+   "headline": "Medtronic earnings analysis: questions answered and next catalysts",
+   "summary": "Investing.com -- Medtronic PLC (MDT) reported FY2027 Q2 on Nov 24, 2026. Adjusted EPS was $1.34 vs $1.33 expected, but revenue of $9.40B missed the $9.48B estimate. The stock was $97.30 (-3.4%) as of 12:56 PM EST, after a pre-market print\u2026",
+   "url": "https://finnhub.io/api/news?id=29cec4ff85812ed541e55af7cdacc728beb83916f90b5cb5ff8f709d7553c485",
+   "source": "Yahoo",
+   "published": "2026-11-24T18:30:34+00:00",
+   "tickers": [
+    "MDT"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "a8e9f2956152",
    "headline": "Agilent earnings analysis: questions answered and next catalysts",
    "summary": "Investing.com -- Agilent Technologies Inc (A) reported FY2026 Q4 on Nov 23, 2026 and beat on every key line. The bigger signal is that FY2027 guidance landed above consensus.",
@@ -1131,7 +1162,8 @@
    "published": "2026-11-24T18:20:30+00:00",
    "tickers": [
     "ABT",
-    "BSX"
+    "BSX",
+    "MDT"
    ],
    "tag": "News",
    "sectors": [
@@ -1240,7 +1272,8 @@
    "source": "Yahoo",
    "published": "2026-11-24T18:00:00+00:00",
    "tickers": [
-    "ISRG"
+    "ISRG",
+    "MDT"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -1256,7 +1289,8 @@
    "published": "2026-11-24T17:48:39+00:00",
    "tickers": [
     "ABBV",
-    "ABT"
+    "ABT",
+    "MDT"
    ],
    "tag": "M&A",
    "sectors": [
@@ -37677,21 +37711,6 @@
    "tag": "M&A",
    "sectors": [
     "medtech"
-   ]
-  },
-  {
-   "id": "3ca103dcd846",
-   "headline": "Schr\u00f6dinger (SDGR) Stock Could Be Undervalued On Its 67% Run",
-   "summary": "Schr\u00f6dinger has had a sharp reset over the past year, and the rally puts a spotlight on a simple question for anyone looking at the stock today. Do the company\u2019s actual and potential cash flows justify where the share price now sits? The\u2026",
-   "url": "https://finnhub.io/api/news?id=83ea27b06f44630dedc53b65dde32cc0efd0ed3d33f9e281195dcd697917308e",
-   "source": "Yahoo",
-   "published": "2026-11-14T21:06:57+00:00",
-   "tickers": [
-    "SDGR"
-   ],
-   "tag": "News",
-   "sectors": [
-    "healthai"
    ]
   }
  ]
