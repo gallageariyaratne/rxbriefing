@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-24T00:17:37.373196+00:00",
+ "updated": "2026-11-24T00:32:41.294307+00:00",
  "quotes": {
   "A": {
    "price": 176.04,
@@ -241,10 +241,6 @@
   "TECH": {
    "price": 72.8,
    "change_pct": 0.18
-  },
-  "TMO": {
-   "price": 688.08,
-   "change_pct": 2.77
   },
   "UNH": {
    "price": 336.08,
@@ -886,6 +882,17 @@
  },
  "stories": [
   {
+   "id": "1b7820af89f5",
+   "headline": "STAT+: Medicare estimates $9.2 billion in savings from third round of negotiated drug prices",
+   "summary": "The Trump administration said that the federal government will save $9.2 billion on drugs purchased through Medicare next year as a result of price negotiations.",
+   "url": "https://www.statnews.com/2026/11/23/medicare-drug-price-negotiations-announcement-third-round/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-11-24T00:19:48+00:00",
+   "tickers": [],
+   "tag": "Policy",
+   "sectors": []
+  },
+  {
    "id": "23c450951c86",
    "headline": "GoodRx Announces Date for Third Quarter 2026 Earnings Release and Conference Call",
    "summary": "SANTA MONICA, Calif., November 23, 2026--GoodRx Holdings, Inc. (Nasdaq: GDRX) (\"GoodRx\" or the \"Company\"), the trusted platform for prescription access and affordability in the U.S., today announced it will release its third quarter 2026\u2026",
@@ -923,7 +930,8 @@
    "source": "Yahoo",
    "published": "2026-11-23T22:02:04+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "JNJ"
    ],
    "tag": "Legal",
    "sectors": [
@@ -941,6 +949,21 @@
     "A"
    ],
    "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "2f598f154a62",
+   "headline": "Agilent (A) Q4 Earnings: Taking a Look at Key Metrics Versus Estimates",
+   "summary": "Although the revenue and EPS for Agilent (A) give a sense of how its business performed in the quarter ended October 2026, it might be worth considering how some key metrics compare with Wall Street estimates and the year-ago numbers.",
+   "url": "https://finnhub.io/api/news?id=cf8803bf33281f0bc6604cbf2669f352be7b664f10aba21710d3392f083a3a5b",
+   "source": "Yahoo",
+   "published": "2026-11-23T22:00:02+00:00",
+   "tickers": [
+    "A"
+   ],
+   "tag": "Earnings",
    "sectors": [
     "tools"
    ]
@@ -1097,6 +1120,21 @@
    "tickers": [],
    "tag": "Legal",
    "sectors": []
+  },
+  {
+   "id": "b14d9821bf11",
+   "headline": "Agilent Technologies (A) Tops Q4 Earnings and Revenue Estimates",
+   "summary": "Agilent (A) delivered earnings and revenue surprises of +8.14% and +2.77%, respectively, for the quarter ended October 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=1e13384bd459a6b03bac71109076cac95e4aac2fe28ade1876a9c4cc3ba638e4",
+   "source": "Yahoo",
+   "published": "2026-11-23T21:15:01+00:00",
+   "tickers": [
+    "A"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
   },
   {
    "id": "0d2e66a0703f",
@@ -33406,36 +33444,6 @@
     "PFE"
    ],
    "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "e017a0cbd1ba",
-   "headline": "AstraZeneca (LSE:AZN) Will Transfer Its Primary Listing To The NYSE In 2026",
-   "summary": "AstraZeneca (LSE:AZN) plans to transfer its primary stock listing to the New York Stock Exchange in 2026. The pharmaceutical group will move as part of a cohort of nine large companies with a combined value near $500b. The shift to the\u2026",
-   "url": "https://finnhub.io/api/news?id=1ed3907f2fc3ca9151bcf40fe544df43e9ea9f151aae9410781e89b5a4450e78",
-   "source": "Yahoo",
-   "published": "2026-11-14T00:24:38+00:00",
-   "tickers": [
-    "AZN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "363567c015d2",
-   "headline": "Pfizer (PFE) Secures $1.5 Billion For Berobenatide Development",
-   "summary": "Pfizer (NYSE:PFE) announced a partnership with Blackstone Life Sciences to co-fund late stage development of berobenatide, its GLP-1 obesity drug candidate. The arrangement provides up to $1.5b in development funding for berobenatide,\u2026",
-   "url": "https://finnhub.io/api/news?id=6e6efdb257d6100529c45cea6694fa06ed185687ffaca43ca427d9910e5043a6",
-   "source": "Yahoo",
-   "published": "2026-11-14T00:19:37+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "GLP-1",
    "sectors": [
     "pharma"
    ]
