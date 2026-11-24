@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-24T01:02:35.411900+00:00",
+ "updated": "2026-11-24T01:17:22.191453+00:00",
  "quotes": {
   "A": {
    "price": 176.04,
@@ -33,6 +33,10 @@
   "ASND": {
    "price": 265.72,
    "change_pct": 5.14
+  },
+  "AZN": {
+   "price": 177.02,
+   "change_pct": 1.53
   },
   "BDX": {
    "price": 215.44,
@@ -146,6 +150,10 @@
    "price": 205.28,
    "change_pct": 6.46
   },
+  "IMVT": {
+   "price": 33.24,
+   "change_pct": 4.63
+  },
   "INCY": {
    "price": 117.35,
    "change_pct": 2.38
@@ -245,6 +253,10 @@
   "TECH": {
    "price": 72.8,
    "change_pct": 0.18
+  },
+  "TEM": {
+   "price": 57.04,
+   "change_pct": 5.55
   },
   "TMO": {
    "price": 688.08,
@@ -890,6 +902,17 @@
  },
  "stories": [
   {
+   "id": "ee7deb9d778e",
+   "headline": "HHS: Medicaid state-directed payment savings 'primarily' stem from slowing growth",
+   "summary": "A policy analysis and commentary from the department showed an estimated 7.8% of all state-directed payment spending went to rural hospitals in FY2025, and that 92.1% of estimated savings from industry-opposed statutory rate limits\u2026",
+   "url": "https://www.fiercehealthcare.com/providers/hhs-medicaid-state-directed-payment-savings-primarily-stem-slowing-growth",
+   "source": "Fierce Healthcare",
+   "published": "2026-11-24T01:15:20.553493+00:00",
+   "tickers": [],
+   "tag": "Policy",
+   "sectors": []
+  },
+  {
    "id": "1b7820af89f5",
    "headline": "STAT+: Medicare estimates $9.2 billion in savings from third round of negotiated drug prices",
    "summary": "The Trump administration said that the federal government will save $9.2 billion on drugs purchased through Medicare next year as a result of price negotiations.",
@@ -1072,6 +1095,7 @@
    "source": "Yahoo",
    "published": "2026-11-23T21:30:00+00:00",
    "tickers": [
+    "AZN",
     "BMY",
     "JNJ"
    ],
@@ -1155,7 +1179,8 @@
    "source": "Yahoo",
    "published": "2026-11-23T21:15:01+00:00",
    "tickers": [
-    "A"
+    "A",
+    "MDT"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -1712,6 +1737,21 @@
    ]
   },
   {
+   "id": "0fda166b6a94",
+   "headline": "The 5 Best Stocks in SoftBank\u2019s Portfolio",
+   "summary": "Key TakeawaysSoftBank\u2019s 13F for the quarter ended Sept. 30 shows $16.",
+   "url": "https://finnhub.io/api/news?id=797be95e4e022c15f0701e5e99f23de496f9dc4fd999b69f7b015eeaf308cfd9",
+   "source": "Yahoo",
+   "published": "2026-11-23T17:37:26+00:00",
+   "tickers": [
+    "TEM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthai"
+   ]
+  },
+  {
    "id": "29fb592a145f",
    "headline": "S&P 500 Top Movers for Nov. 23, 2026: Gainers and Losers",
    "summary": "S&P 500 top movers on Nov. 23, 2026 included NVIDIA, Dell, Micron and Bloom Energy among gainers, while CrowdStrike led declines.",
@@ -1752,6 +1792,21 @@
    "tickers": [],
    "tag": "FDA",
    "sectors": []
+  },
+  {
+   "id": "376d3b6343f3",
+   "headline": "Cathie Wood Just Sold $12 Million of Natera",
+   "summary": "Key TakeawaysCathie Wood\u2019s ARK Invest sold 44,899 shares of Natera from the ARK Innovation ETF on Friday, worth about $12 million at Friday\u2019s close. Natera grew third-quarter revenue 34.",
+   "url": "https://finnhub.io/api/news?id=ce566ac56fcb1815657643d358517cdcdde2e2ee442e3a23517f18fc577a3bc3",
+   "source": "Yahoo",
+   "published": "2026-11-23T17:25:52+00:00",
+   "tickers": [
+    "TEM"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthai"
+   ]
   },
   {
    "id": "31ad69bcc8ff",
@@ -2847,6 +2902,7 @@
    "published": "2026-11-23T13:41:00+00:00",
    "tickers": [
     "ABBV",
+    "AZN",
     "JNJ",
     "MRK"
    ],
@@ -2994,6 +3050,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "4cd5e517f583",
+   "headline": "5 Biotech Stocks Investors Can Consider Adding to Their Portfolio",
+   "summary": "New drug approvals and encouraging pipeline progress should maintain momentum in the Zacks Biomedical and Genetics industry despite the volatile macroeconomic environment. A strong portfolio and solid pipeline progress position RVMD,\u2026",
+   "url": "https://finnhub.io/api/news?id=2990b03a81e738d1c042e863e5e919eb04cdc8ca96a35da6c212331919823b74",
+   "source": "Yahoo",
+   "published": "2026-11-23T12:53:00+00:00",
+   "tickers": [
+    "IMVT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -33374,65 +33445,6 @@
    "tag": "News",
    "sectors": [
     "medtech"
-   ]
-  },
-  {
-   "id": "6e06a35aa1c6",
-   "headline": "Patient experience has improved across the healthcare industry. Now comes consistency",
-   "summary": "As metrics like patients' average likelihood to recommend reach or surpass pre-pandemic levels, inconsistency and operational friction are the next hurdles for providers to surmount, according to a new report pulling data from 43.1\u2026",
-   "url": "https://www.fiercehealthcare.com/providers/patient-experience-has-improved-across-healthcare-industry-now-comes-consistency",
-   "source": "Fierce Healthcare",
-   "published": "2026-11-14T01:15:23.093910+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "613f5bf606c7",
-   "headline": "What Eli Lilly Doubters Overlooked",
-   "summary": "If you only glanced at Eli Lilly\u2019s headlines this year, the drumbeat of new GLP-1 data, obesity trial wins, and fresh acquisitions might feel almost routine. Investors who held Eli Lilly over the past year are up 41.6%, including\u2026",
-   "url": "https://finnhub.io/api/news?id=53509fbe19c5c07c62e5aa7eb908ec84ca67ffadf7a1e7eb184b06d477535590",
-   "source": "Yahoo",
-   "published": "2026-11-14T01:11:12+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "f69b62895a33",
-   "headline": "Is AstraZeneca (LSE:AZN) Reasonable After Its Oncology Led Cash Flow Push?",
-   "summary": "AstraZeneca has delivered a strong multi year share price performance, and the question now is whether today\u2019s valuation is supported by the cash the business is expected to generate. With fresh oncology milestones, targeted acquisitions\u2026",
-   "url": "https://finnhub.io/api/news?id=3d58985ae4585698736da63e977eb6fe0eb1edcdec471ae3715fdcbf6e250f1c",
-   "source": "Yahoo",
-   "published": "2026-11-14T01:11:02+00:00",
-   "tickers": [
-    "AZN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "4cffd79b3abc",
-   "headline": "Could You Have Held Glaukos Stock Through Its Falls?",
-   "summary": "For questions about this article or underlying research, email help@trefis.com.",
-   "url": "https://finnhub.io/api/news?id=8642e566d4081c771ff854b5351a351f860fb7000bf19a78682552f6828f61ad",
-   "source": "Yahoo",
-   "published": "2026-11-14T01:08:04+00:00",
-   "tickers": [
-    "ABBV",
-    "GKOS",
-    "JNJ",
-    "REGN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
