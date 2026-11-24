@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-24T23:32:52.071893+00:00",
+ "updated": "2026-11-24T23:47:31.909695+00:00",
  "quotes": {
   "A": {
    "price": 183.52,
@@ -1736,7 +1736,9 @@
    "source": "ChartMill",
    "published": "2026-11-24T20:10:53+00:00",
    "tickers": [
-    "JNJ"
+    "AMGN",
+    "JNJ",
+    "UNH"
    ],
    "tag": "News",
    "sectors": [
@@ -1752,6 +1754,22 @@
    "published": "2026-11-24T20:08:56+00:00",
    "tickers": [
     "JNJ"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "ddaddc17517b",
+   "headline": "S&P 500 Top Movers: Nov. 24, 2026 Gainers and Losers",
+   "summary": "S&P 500 top movers on Nov. 24, 2026: Dollar Tree gained 10.88% and Hewlett Packard Enterprise fell 16.97% among session leaders.",
+   "url": "https://finnhub.io/api/news?id=67d0435c0c1f6f61820e32d786bdf00d8019a87cf56a6ebc2ed9e282bdf479fe",
+   "source": "ChartMill",
+   "published": "2026-11-24T20:06:13+00:00",
+   "tickers": [
+    "AMGN",
+    "HUM"
    ],
    "tag": "News",
    "sectors": [
@@ -1812,6 +1830,21 @@
    "tag": "News",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "2756427ae80e",
+   "headline": "S&P 500 Most Active Stocks for Nov. 24, 2026",
+   "summary": "S&P 500 most-active stocks on Nov. 24, 2026, including Ford, HPE, Super Micro, Netflix, Nike, Bank of America, Alphabet, AT&T, Marvell and Pfizer.",
+   "url": "https://finnhub.io/api/news?id=714287aa0ad1dff9a762cf4f5839c2b109eba6074c93d68db52b5df53ca38897",
+   "source": "ChartMill",
+   "published": "2026-11-24T19:05:58+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -2120,11 +2153,28 @@
    "source": "ChartMill",
    "published": "2026-11-24T17:41:01+00:00",
    "tickers": [
-    "JNJ"
+    "AMGN",
+    "JNJ",
+    "UNH"
    ],
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "b315eb4e82ff",
+   "headline": "S&P 500 Top Movers: Gainers and Losers on Nov. 24, 2026",
+   "summary": "S&P 500 top movers for Nov. 24, 2026: Dollar Tree led gainers at +12.26%, while Analog Devices led losers at -18.07%.",
+   "url": "https://finnhub.io/api/news?id=d4984627f91677c04e56fdb503f758e4e277c9342b531eb3f84175afc740c4a4",
+   "source": "ChartMill",
+   "published": "2026-11-24T17:36:25+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
    ]
   },
   {
