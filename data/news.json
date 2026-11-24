@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-24T06:02:53.614727+00:00",
+ "updated": "2026-11-24T06:17:46.383439+00:00",
  "quotes": {
   "A": {
    "price": 176.04,
@@ -57,6 +57,10 @@
   "CAH": {
    "price": 271.97,
    "change_pct": -0.31
+  },
+  "CI": {
+   "price": 270.46,
+   "change_pct": -0.16
   },
   "CNC": {
    "price": 63.32,
@@ -177,6 +181,10 @@
   "KRYS": {
    "price": 321.26,
    "change_pct": 4.0
+  },
+  "LH": {
+   "price": 372.56,
+   "change_pct": 1.48
   },
   "LLY": {
    "price": 1364.6,
@@ -313,14 +321,6 @@
   "VKTX": {
    "price": 27.69,
    "change_pct": 11.79
-  },
-  "VRTX": {
-   "price": 538.54,
-   "change_pct": 4.57
-  },
-  "WAY": {
-   "price": 26.17,
-   "change_pct": -1.32
   }
  },
  "tickers": {
@@ -938,6 +938,38 @@
  },
  "stories": [
   {
+   "id": "8f847ea2c38e",
+   "headline": "Can Sales Abroad Lift Hims & Hers Stock?",
+   "summary": "Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92.",
+   "url": "https://finnhub.io/api/news?id=92e182abc0307d0f0c530e02b8f31dd11fe4cd13726a18950014894e99d315ee",
+   "source": "Yahoo",
+   "published": "2026-11-24T05:06:42+00:00",
+   "tickers": [
+    "CI",
+    "LH"
+   ],
+   "tag": "Legal",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "d20577701cf9",
+   "headline": "What Is Kymera and Why Did an Eczema Pill Outperform All AI Stocks on Monday?",
+   "summary": "Kymera stock jumped 30% in regular trading and passed Nvidia and other AI stocks after hours. Here is what Kymera is and why.",
+   "url": "https://finnhub.io/api/news?id=a178a3ddc196c36534fddea5caab6de89c076894d6b648906d233413cb67d80a",
+   "source": "Yahoo",
+   "published": "2026-11-24T04:30:00+00:00",
+   "tickers": [
+    "ABBV",
+    "REGN"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "151090fb27f7",
    "headline": "Globus Medical Bets on Custom Spine Implants and Nevro Recovery for Growth",
    "summary": "Globus Medical (NYSE:GMED) is banking on patient-specific spinal implants, expanded use of its surgical technology and a recovery in its Nevro pain business to support growth, Chief Financial Officer Kyle Kline said during a Jefferies\u2026",
@@ -975,6 +1007,21 @@
    "sectors": []
   },
   {
+   "id": "7d63f972377b",
+   "headline": "Tempus AI Stock Gets $200 Million AstraZeneca Commitment",
+   "summary": "Tempus AI disclosed that AstraZeneca entered a Fifth Amendment to their Master Services Agreement, extending the partnership through at least 2031 and adding a new five-year period with a US$200 million aggregate fee commitment and a\u2026",
+   "url": "https://finnhub.io/api/news?id=dfb51020c2c8615591254ecfb5f558cb8c4405a828617c82cf04a907268504f8",
+   "source": "Yahoo",
+   "published": "2026-11-24T01:19:28+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "ee7deb9d778e",
    "headline": "HHS: Medicaid state-directed payment savings 'primarily' stem from slowing growth",
    "summary": "A policy analysis and commentary from the department showed an estimated 7.8% of all state-directed payment spending went to rural hospitals in FY2025, and that 92.1% of estimated savings from industry-opposed statutory rate limits\u2026",
@@ -998,6 +1045,21 @@
    "tag": "Earnings",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "75cd64d38301",
+   "headline": "ValuEngine Weekly Market Commentary: Bear Market For Nasdaq-100 Headlines Historic Weekly Meltdown",
+   "summary": "U.S. equity markets experienced a sharp and broad-based selloff this week, with all major ETFs and sector benchmarks posting significant declines.",
+   "url": "https://finnhub.io/api/news?id=369b3937d721260ebe6829513943004ecdbe129e99c74ee587455a53ac8ff1ad",
+   "source": "SeekingAlpha",
+   "published": "2026-11-24T00:35:00+00:00",
+   "tickers": [
+    "REGN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -33939,23 +34001,6 @@
    "tag": "News",
    "sectors": [
     "healthit"
-   ]
-  },
-  {
-   "id": "74cf86f4e638",
-   "headline": "3 Biotech Stocks With Revenue Up To 11%",
-   "summary": "AI related risks just jumped to the top of the Federal Reserve\u2019s financial stability worries, with a surge in complex debt tied to AI infrastructure. That kind of boom and scrutiny can push investors to look at other cutting edge areas.\u2026",
-   "url": "https://finnhub.io/api/news?id=400918f39daba7f909e22d9f5d1f6dbf44cf68ed87523a8cd43a2d162770d012",
-   "source": "Yahoo",
-   "published": "2026-11-14T06:15:42+00:00",
-   "tickers": [
-    "AMGN",
-    "JNJ",
-    "VRTX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
