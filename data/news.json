@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-24T00:32:41.294307+00:00",
+ "updated": "2026-11-24T00:47:26.053323+00:00",
  "quotes": {
   "A": {
    "price": 176.04,
@@ -241,6 +241,10 @@
   "TECH": {
    "price": 72.8,
    "change_pct": 0.18
+  },
+  "TMO": {
+   "price": 688.08,
+   "change_pct": 2.77
   },
   "UNH": {
    "price": 336.08,
@@ -931,7 +935,8 @@
    "published": "2026-11-23T22:02:04+00:00",
    "tickers": [
     "ABBV",
-    "JNJ"
+    "JNJ",
+    "PFE"
    ],
    "tag": "Legal",
    "sectors": [
@@ -1097,6 +1102,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "da26c32cc764",
+   "headline": "Nvidia, Dell, Micron, Anthropic, CrowdStrike, UnitedHealth, and More Stocks That Explain Today\u2019s Market",
+   "summary": "Nvidia surges after saying it will reinstate Jensen Huang as CEO.",
+   "url": "https://finnhub.io/api/news?id=09cf19af0fe9a0487238ba27a10caf366fe163161448fa75ad70d74e6b741720",
+   "source": "Yahoo",
+   "published": "2026-11-23T21:27:00+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -1386,6 +1406,21 @@
    "tickers": [],
    "tag": "Legal",
    "sectors": []
+  },
+  {
+   "id": "8d9598e0b808",
+   "headline": "15 of the Highest-Yielding Dividend Stocks in the S&P 500",
+   "summary": "Conagra, General Mills and Campbell's lead the list of the highest-yielding dividend stocks in the S&P 500. Some of the other names might surprise you.",
+   "url": "https://finnhub.io/api/news?id=eff949c65f376f12ac6451d6ba2b90c9c0b67770aa2d08164a5c3edae247c49a",
+   "source": "Yahoo",
+   "published": "2026-11-23T20:25:53+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "fbeca17ce59a",
@@ -33410,37 +33445,6 @@
    "published": "2026-11-14T00:54:06+00:00",
    "tickers": [
     "ARGX",
-    "PFE"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "880c86e667aa",
-   "headline": "Trump administration delays enforcement of Medicaid work requirements for six months",
-   "summary": "CMS is offering states an optional six-month enforcement grace period for new Medicaid work requirements, allowing them to test and improve eligibility systems without denying or terminating otherwise eligible beneficiaries for\u2026",
-   "url": "https://www.fiercehealthcare.com/regulatory/trump-administration-delays-enforcement-medicaid-work-requirements-six-months",
-   "source": "Fierce Healthcare",
-   "published": "2026-11-14T00:37:34.454478+00:00",
-   "tickers": [],
-   "tag": "Policy",
-   "sectors": []
-  },
-  {
-   "id": "43c96556aaae",
-   "headline": "What Is The Market Seeing In Eli Lilly Stock?",
-   "summary": "For questions about this article or underlying research, email help@trefis.com.",
-   "url": "https://finnhub.io/api/news?id=161ffa515e4b9631668d921851801b971be9f4158a836c4958b602a74de5d96a",
-   "source": "Yahoo",
-   "published": "2026-11-14T00:33:08+00:00",
-   "tickers": [
-    "ABBV",
-    "AMGN",
-    "JNJ",
-    "LLY",
-    "MRK",
     "PFE"
    ],
    "tag": "News",
