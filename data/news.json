@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-24T22:17:38.155072+00:00",
+ "updated": "2026-11-24T22:32:46.082325+00:00",
  "quotes": {
   "A": {
    "price": 183.52,
@@ -25,6 +25,10 @@
   "AMGN": {
    "price": 473.94,
    "change_pct": 5.54
+  },
+  "ARWR": {
+   "price": 48.33,
+   "change_pct": 9.74
   },
   "AZN": {
    "price": 183.2,
@@ -317,10 +321,6 @@
   "WAY": {
    "price": 27.02,
    "change_pct": 3.25
-  },
-  "ZBH": {
-   "price": 108.99,
-   "change_pct": 2.84
   }
  },
  "tickers": {
@@ -956,11 +956,27 @@
    "source": "Yahoo",
    "published": "2026-11-24T21:11:59+00:00",
    "tickers": [
-    "CI"
+    "CI",
+    "CVS"
    ],
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "97faf869d261",
+   "headline": "Alkermes (ALKS) Stock Is Up 7.9% Today Without Company News",
+   "summary": "On Tuesday, Nov. 24, the shares rose 7.9% without company-specific news",
+   "url": "https://finnhub.io/api/news?id=0bf803170d7f790b250717ce8228760bd1762cb4d61054951b243a3fb84ae2ef",
+   "source": "Yahoo",
+   "published": "2026-11-24T21:01:07+00:00",
+   "tickers": [
+    "UTHR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -980,6 +996,51 @@
    ]
   },
   {
+   "id": "fb82408cfaae",
+   "headline": "AMGEN SECURES PATHWAY FOR U.S. LAUNCH OF BIOSIMILAR TO OPDIVO\u00ae FOLLOWING SETTLEMENT AGREEMENT",
+   "summary": "Amgen (NASDAQ: AMGN) today announced that it has reached a settlement agreement with Bristol-Myers Squibb Company, E. R. Squibb & Sons, L.L.C., and Ono Pharmaceutical Co., Ltd. (collectively, \"BMS\") to resolve the existing U.S. patent\u2026",
+   "url": "https://finnhub.io/api/news?id=ab8391bed38719361d7485ef9c29631f912e0e70bfdcb1e2883c60bbe938e187",
+   "source": "Yahoo",
+   "published": "2026-11-24T21:01:00+00:00",
+   "tickers": [
+    "BMY"
+   ],
+   "tag": "Legal",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "3bfcff6547e7",
+   "headline": "Xenon (XENE) Stock Is Up 6.2% Today in Biotech Rally",
+   "summary": "Xenon Pharmaceuticals rose 6.2% on Tuesday, Nov. 24, without company-specific news, as health care and biotech stocks rallied while the S&P 500 fell.",
+   "url": "https://finnhub.io/api/news?id=d9e4f5a21a89a895b36d11566db8b1ff21f2db3c63895a33ffb5a680d5689f6b",
+   "source": "Yahoo",
+   "published": "2026-11-24T21:00:54+00:00",
+   "tickers": [
+    "VRTX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "159982646ab4",
+   "headline": "Why Agios (AGIO) Stock Is Up Today: Biotech Rally After Insmed Deal",
+   "summary": "Agios shares rose 7.5% on Tuesday, Nov. 24, as biotech stocks rallied and no company news explained the move.",
+   "url": "https://finnhub.io/api/news?id=a6a991ccbd3a7e16703aec65988b933c41174b2a17b35e8de3d511e4e1d2cb11",
+   "source": "Yahoo",
+   "published": "2026-11-24T21:00:51+00:00",
+   "tickers": [
+    "VRTX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "5ca5d794a2a0",
    "headline": "Why Is AbbVie (ABBV) Stock Up Today? Health Care Rally as Tech Slides",
    "summary": "AbbVie shares rose 4.2% on Tuesday, Nov. 24, alongside a health care sector rally, a day after news of an FDA nod for Rinvoq in vitiligo.",
@@ -987,9 +1048,25 @@
    "source": "Yahoo",
    "published": "2026-11-24T21:00:38+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "JNJ"
    ],
    "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "68fa9d85e3be",
+   "headline": "Protagonist Therapeutics (PTGX) Stock Is Up 8.9% Today Without Company News",
+   "summary": "On Tuesday, Nov. 24, the shares rose 8.9% without company-specific news, as biotech peers and health care stocks gained",
+   "url": "https://finnhub.io/api/news?id=5e81c23c13f2dc65e8eda2e97ea7388f8f3d9bf48b5056fef328d0ca80a15ab0",
+   "source": "Yahoo",
+   "published": "2026-11-24T21:00:35+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "News",
    "sectors": [
     "pharma"
    ]
@@ -1021,6 +1098,51 @@
    ]
   },
   {
+   "id": "0421d4a2f138",
+   "headline": "Kardigan (KARD) Stock Is Up 12.2% Today as Health Care Stocks Rally",
+   "summary": "Kardigan shares rose 12.2% on Tuesday, Nov. 24, without company-specific news, as health care and biotech stocks rallied while the S&P 500 fell.",
+   "url": "https://finnhub.io/api/news?id=4a7cda0c043b1eb2cb8053610d756af0142df7f332470b6a5684e6563d4b2d05",
+   "source": "Yahoo",
+   "published": "2026-11-24T20:46:29+00:00",
+   "tickers": [
+    "VRTX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "d7e11aca2a02",
+   "headline": "Why Medtronic (MDT) Stock Is Down Today: Q2 Revenue Miss",
+   "summary": "Medtronic shares fell on Tuesday, Nov. 24, after a second-quarter revenue miss, while the health care sector rose 3.0%.",
+   "url": "https://finnhub.io/api/news?id=bddd224c0f5c4407067d299a0b1f7b5daf3e2e731b0c33d903d63704d0111c53",
+   "source": "Yahoo",
+   "published": "2026-11-24T20:46:04+00:00",
+   "tickers": [
+    "BSX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "5d0e3d738d19",
+   "headline": "Why Is MoonLake (MLTX) Stock Up Today? Rides a Biotech Sector Rally",
+   "summary": "MoonLake Immunotherapeutics rose 9.1% on Tuesday, Nov. 24, along with a broad biotech rally and without company-specific news.",
+   "url": "https://finnhub.io/api/news?id=81f4f0631e0eb76f0337fb6f1940e16c966c5d090392af03e647238168573d81",
+   "source": "Yahoo",
+   "published": "2026-11-24T20:45:59+00:00",
+   "tickers": [
+    "VRTX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "cf4705314ef8",
    "headline": "Why Gilead (GILD) Stock Is Up Today: Health Care Rally and New Rating",
    "summary": "Gilead shares rose 4.8% on Tuesday, Nov. 24, as health care stocks gained 3.0% and a new Outperform rating was set.",
@@ -1031,6 +1153,51 @@
     "ABBV"
    ],
    "tag": "Analyst",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "fa283a031348",
+   "headline": "Arrowhead Pharmaceuticals (ARWR) Stock Is Up 9.2% Today Without Company News",
+   "summary": "On Tuesday, Nov. 24, the shares rose 9.2% without company-specific news",
+   "url": "https://finnhub.io/api/news?id=84872909541f715dd31cdcac19afc06dbcba813944cd3aaa32c62fc44cc3ec29",
+   "source": "Yahoo",
+   "published": "2026-11-24T20:45:35+00:00",
+   "tickers": [
+    "ARWR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "4b8068491316",
+   "headline": "OPKO Health (OPK) Stock Is Up 6.2% Today as Health Care Stocks Rally",
+   "summary": "OPKO Health shares rose 6.2% on Tuesday, Nov. 24, without company-specific news, as health care stocks gained while the S&P 500 fell.",
+   "url": "https://finnhub.io/api/news?id=2136d7bbc064f393562fb1ef59935b392e1132231b9572828466b092c0324b5b",
+   "source": "Yahoo",
+   "published": "2026-11-24T20:45:35+00:00",
+   "tickers": [
+    "A"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "7397e9a7fc00",
+   "headline": "Dianthus (DNTH) Stock Is Up 9.1% Today as Biotech Stocks Rally",
+   "summary": "Dianthus Therapeutics shares rose 9.1% on Tuesday, Nov. 24, without company-specific news, as health care and biotech stocks rallied.",
+   "url": "https://finnhub.io/api/news?id=3b18a6d22ccffd815fe774c55cb476118be5a34a61d331584be93c56408bfb94",
+   "source": "Yahoo",
+   "published": "2026-11-24T20:31:03+00:00",
+   "tickers": [
+    "VRTX"
+   ],
+   "tag": "News",
    "sectors": [
     "pharma"
    ]
@@ -1051,6 +1218,21 @@
    ]
   },
   {
+   "id": "3d15a7191593",
+   "headline": "Mentari Therapeutics (MTRI) Stock Is Up 12.3% Today Without Company News",
+   "summary": "On Tuesday, Nov. 24, the shares rose 12.3% without company-specific news",
+   "url": "https://finnhub.io/api/news?id=8bc54daede8a4bc08a8da6e419723d07f6ea8a8b330ef71cc2342c987454eebc",
+   "source": "Yahoo",
+   "published": "2026-11-24T20:30:31+00:00",
+   "tickers": [
+    "UTHR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "004056a2ddeb",
    "headline": "CMS touts nearly $10B in savings potential as latest round of Medicare negotiated prices unveiled",
    "summary": "In its third round of negotiations, CMS achieved lower prices for 13 drugs under Medicare Part B and Part D. The price changes could have saved Medicare some $9.2 billion had they been in place in 2025, reflecting savings of 45%, the\u2026",
@@ -1060,6 +1242,21 @@
    "tickers": [],
    "tag": "Policy",
    "sectors": []
+  },
+  {
+   "id": "c685b3f7e7df",
+   "headline": "Johnson & Johnson (JNJ) Stock May Still Trade Below Fair Value Despite TREMFYA Trial News",
+   "summary": "Johnson & Johnson has ridden a powerful multi year run in its share price, and the question now is how well the current valuation lines up with the cash the healthcare group is expected to generate. A string of late stage drug updates,\u2026",
+   "url": "https://finnhub.io/api/news?id=c06764b2717fb3fb181665bc2b5e4e3d781a318fe9b90f8abf1e1b5dcf4af9a3",
+   "source": "Yahoo",
+   "published": "2026-11-24T20:08:56+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "d83b0b031086",
