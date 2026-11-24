@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-24T01:32:43.522670+00:00",
+ "updated": "2026-11-24T01:47:28.231584+00:00",
  "quotes": {
   "A": {
    "price": 176.04,
@@ -265,6 +265,10 @@
   "TMO": {
    "price": 688.08,
    "change_pct": 2.77
+  },
+  "TWST": {
+   "price": 111.35,
+   "change_pct": 7.77
   },
   "UNH": {
    "price": 336.08,
@@ -910,6 +914,17 @@
  },
  "stories": [
   {
+   "id": "6cf4037d2703",
+   "headline": "How messaging could be the next source of clinician burnout",
+   "summary": "Leaders at health communications platform TigerConnect spoke with Fierce about the trend and potential solutions for health leaders.",
+   "url": "https://www.fiercehealthcare.com/providers/how-messaging-could-be-next-source-clinician-burnout",
+   "source": "Fierce Healthcare",
+   "published": "2026-11-24T01:45:22.302811+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
    "id": "34fce8a8a1ef",
    "headline": "BridgeBio breaks ground in inherited muscle disorder as first of 3 hoped-for FDA approvals arrives",
    "summary": "The first drug in BridgeBio\u2019s hoped-for troika of new approvals has arrived, with the FDA on Monday giving the all-clear to ribitol, now christened Welgemda, as a targeted treatment for adults and kids with the rare genetic muscle disease\u2026",
@@ -1257,6 +1272,21 @@
    ]
   },
   {
+   "id": "a07e1afefa4d",
+   "headline": "Insmed (INSM) Could Be 28% Below Fair Value On Takeover Interest",
+   "summary": "Insmed (INSM) jumped into focus after a Bloomberg report on 19 November 2026 said Sanofi is evaluating a possible acquisition, which sent the rare disease specialist\u2019s shares sharply higher. That takeover chatter lands on top of a sharp\u2026",
+   "url": "https://finnhub.io/api/news?id=b5339db65b4665069f4e4ac9e38cb11c77375f2dbcfd49d6d8be4c48e6cd13af",
+   "source": "Yahoo",
+   "published": "2026-11-23T21:13:20+00:00",
+   "tickers": [
+    "INSM"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "1290397b79b4",
    "headline": "Navigator (ENXTLS:NVG) Stock May Look Reasonable Given Its Cash Flow",
    "summary": "Navigator Company has delivered a 34.0% gain over the past 5 years, which puts fresh focus on whether its current share price lines up with the cash the business can generate. With the stock recently closing at \u20ac2.93, the key issue now is\u2026",
@@ -1500,6 +1530,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "6dd8d0e135b8",
+   "headline": "Insmed (INSM) Stock May Be Fully Priced As Takeover Interest Emerges",
+   "summary": "Insmed has packed a lot of drama into a short window, with the share price swinging sharply and fresh takeover headlines. The obvious question now is whether the current valuation can be explained by the revenue the business actually\u2026",
+   "url": "https://finnhub.io/api/news?id=d03423383e4d608a26b9be6c4c3cac00065852db7767db9507023926593dbf76",
+   "source": "Yahoo",
+   "published": "2026-11-23T20:06:11+00:00",
+   "tickers": [
+    "INSM"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -1748,6 +1793,7 @@
    "source": "Yahoo",
    "published": "2026-11-23T18:01:00+00:00",
    "tickers": [
+    "INSM",
     "MRNA"
    ],
    "tag": "News",
@@ -1838,6 +1884,7 @@
    "source": "Yahoo",
    "published": "2026-11-23T17:31:04+00:00",
    "tickers": [
+    "INSM",
     "MRNA",
     "REGN",
     "VKTX"
@@ -1874,6 +1921,21 @@
    ]
   },
   {
+   "id": "722ca953d0a7",
+   "headline": "A $1.5 Billion Fund Is Betting Big on Brookfield",
+   "summary": "Key TakeawaysA $1. 5 billion fund raised its Brookfield stake 28% in the third quarter, making it 10.",
+   "url": "https://finnhub.io/api/news?id=58b94a20ef46e1b7ae10e2aa47a816fb3fb03d02103a2307f230b8d4351911a2",
+   "source": "Yahoo",
+   "published": "2026-11-23T17:24:51+00:00",
+   "tickers": [
+    "INSM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "31ad69bcc8ff",
    "headline": "Cathie Wood Just Bought $10 Million of Twist Bioscience Across 2 ARK Funds",
    "summary": "Key TakeawaysCathie Wood\u2019s ARK Invest bought 97,284 shares of Twist Bioscience on Friday across two ETFs, worth about $10 million at Friday\u2019s close. Twist trades 53% below its 52-week high, but it just guided to 21% revenue growth for\u2026",
@@ -1881,7 +1943,8 @@
    "source": "Yahoo",
    "published": "2026-11-23T17:14:15+00:00",
    "tickers": [
-    "ILMN"
+    "ILMN",
+    "TWST"
    ],
    "tag": "Earnings",
    "sectors": [
