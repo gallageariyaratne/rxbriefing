@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-24T05:47:33.453535+00:00",
+ "updated": "2026-11-24T06:02:53.614727+00:00",
  "quotes": {
   "A": {
    "price": 176.04,
@@ -286,6 +286,10 @@
    "price": 57.04,
    "change_pct": 5.55
   },
+  "TGTX": {
+   "price": 63.99,
+   "change_pct": 1.03
+  },
   "TMO": {
    "price": 688.08,
    "change_pct": 2.77
@@ -317,10 +321,6 @@
   "WAY": {
    "price": 26.17,
    "change_pct": -1.32
-  },
-  "ZBH": {
-   "price": 105.98,
-   "change_pct": 4.83
   }
  },
  "tickers": {
@@ -1064,7 +1064,8 @@
    "source": "Yahoo",
    "published": "2026-11-24T00:02:00+00:00",
    "tickers": [
-    "IDXX"
+    "IDXX",
+    "TGTX"
    ],
    "tag": "Earnings",
    "sectors": [
