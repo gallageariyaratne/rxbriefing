@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-24T07:32:38.586557+00:00",
+ "updated": "2026-11-24T07:47:35.776955+00:00",
  "quotes": {
   "A": {
    "price": 176.04,
@@ -266,6 +266,10 @@
    "price": 168.66,
    "change_pct": 2.96
   },
+  "ROIV": {
+   "price": 39.63,
+   "change_pct": 2.52
+  },
   "RVMD": {
    "price": 168.19,
    "change_pct": 4.34
@@ -317,10 +321,6 @@
   "TXG": {
    "price": 57.65,
    "change_pct": 11.29
-  },
-  "UNH": {
-   "price": 336.08,
-   "change_pct": -1.11
   }
  },
  "tickers": {
@@ -938,6 +938,21 @@
  },
  "stories": [
   {
+   "id": "2c9abe8a7151",
+   "headline": "Bristol Myers looks within for new CFO as David Elkins plots pivot to Coca-Cola",
+   "summary": "Following some seven years as Bristol Myers Squibb\u2019s chief financial officer, plus many more before that in the life sciences industry more broadly, David Elkins is trading the allure of Big Pharma for just about the biggest name there is\u2026",
+   "url": "https://www.fiercepharma.com/pharma/bristol-myers-looks-within-new-cfo-david-elkins-plots-pivot-coca-cola",
+   "source": "Fierce Pharma",
+   "published": "2026-11-24T07:45:21.528144+00:00",
+   "tickers": [
+    "BMY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "44a3124f1b91",
    "headline": "Ramsay Health Care shareholders approve the distribution of the stake of Ramsay Health Care in Ramsay Sant\u00e9",
    "summary": "PRESS RELEASE Paris, 24 November 2026 Ramsay Health Care shareholders approve the distribution of the stake of Ramsay Health Care in Ramsay Sant\u00e9 Ramsay G\u00e9n\u00e9rale de Sant\u00e9 (\u201cRamsay Sant\u00e9\u201d) today announces a significant milestone in its\u2026",
@@ -967,6 +982,36 @@
    "sectors": [
     "biotech",
     "pharma"
+   ]
+  },
+  {
+   "id": "bf16dd6638fa",
+   "headline": "Press Release: Sanofi to acquire Insmed in strategic step that strengthens long-term future",
+   "summary": "Sanofi to acquire Insmed in strategic step that strengthens long-term future Insmed is a transformative acquisition providing strong strategic fit that complements Sanofi's immunology and rare disease portfolioSanofi will gain access to\u2026",
+   "url": "https://finnhub.io/api/news?id=8bd2ca98aba9d81ec87ffbb462c5507a9ee01966b1add7c1f881f837f31e1668",
+   "source": "Yahoo",
+   "published": "2026-11-24T06:30:00+00:00",
+   "tickers": [
+    "INSM"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "c3fcd4f977e6",
+   "headline": "Sanofi to Acquire Insmed in Strategic Step that Strengthens Long-Term Future",
+   "summary": "Sanofi today announced an agreement to acquire Insmed (Nasdaq: INSM), a publicly traded, U.S.-based global biopharmaceutical company with two commercialized medicines and a promising, innovative pipeline. The transaction is intended to\u2026",
+   "url": "https://finnhub.io/api/news?id=f32e10f51ff5bfdd9f3b33cb2c1cc994df790c2d27efacc46cea5a708e4a60a6",
+   "source": "Yahoo",
+   "published": "2026-11-24T06:30:00+00:00",
+   "tickers": [
+    "INSM"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -1018,6 +1063,21 @@
    "tag": "Clinical",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "c50f250f7f57",
+   "headline": "Analysts Raise Sales Outlook For Roivant's Brepocitinib After Trial Success",
+   "summary": "Roivant Sciences Ltd. has received a boost to the outlook for brepocitinib after the drug met its primary and key secondary endpoints in two Phase 3 trials",
+   "url": "https://finnhub.io/api/news?id=f51f0447414d18ecf3c0fcc13d7514d54770bc89042d58a8047ffaf921e1334f",
+   "source": "SeekingAlpha",
+   "published": "2026-11-24T02:15:00+00:00",
+   "tickers": [
+    "ROIV"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
    ]
   },
   {
