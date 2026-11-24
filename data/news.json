@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-24T12:47:34.874325+00:00",
+ "updated": "2026-11-24T13:02:48.686408+00:00",
  "quotes": {
   "A": {
    "price": 176.04,
@@ -33,10 +33,6 @@
   "BEAM": {
    "price": 22.86,
    "change_pct": 9.38
-  },
-  "BIIB": {
-   "price": 256.71,
-   "change_pct": 2.85
   },
   "BMY": {
    "price": 59.84,
@@ -142,10 +138,6 @@
    "price": 205.28,
    "change_pct": 6.46
   },
-  "IMVT": {
-   "price": 33.24,
-   "change_pct": 4.63
-  },
   "INCY": {
    "price": 117.35,
    "change_pct": 2.38
@@ -201,10 +193,6 @@
   "MRNA": {
    "price": 212.08,
    "change_pct": 8.76
-  },
-  "NBIX": {
-   "price": 158.08,
-   "change_pct": 4.99
   },
   "NTLA": {
    "price": 10.15,
@@ -321,6 +309,18 @@
   "VKTX": {
    "price": 27.69,
    "change_pct": 11.79
+  },
+  "VRTX": {
+   "price": 538.54,
+   "change_pct": 4.57
+  },
+  "ZBH": {
+   "price": 105.98,
+   "change_pct": 4.83
+  },
+  "ZTS": {
+   "price": 79.94,
+   "change_pct": 1.05
   }
  },
  "tickers": {
@@ -979,6 +979,21 @@
    ]
   },
   {
+   "id": "142876a1d24a",
+   "headline": "Merck to Participate in the 9th Annual Evercore Healthcare Conference",
+   "summary": "RAHWAY, N.J., November 24, 2026--Merck to Participate in the 9th Annual Evercore Healthcare Conference",
+   "url": "https://finnhub.io/api/news?id=cbfee5aa73389e625f3ff5356610a249402b6c089413ab1d627525f4bb3f2a8a",
+   "source": "Yahoo",
+   "published": "2026-11-24T11:45:00+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "8d75ed86f417",
    "headline": "Medtronic reports second quarter fiscal 2027 results; performance reflects consistent execution across the portfolio",
    "summary": "Strong performance in the company's core franchises, scaling growth platforms and recent portfolio actions, strengthens the foundation for sustained long-term growth GALWAY, Ireland, Nov. 24, 2026 /PRNewswire/ -- Medtronic plc (NYSE:\u2026",
@@ -1070,6 +1085,21 @@
    ]
   },
   {
+   "id": "957dcdde25af",
+   "headline": "Tesla Leads Goldman's Hedge Fund Short List With $26.4 Billion in Bearish Bets",
+   "summary": "Palantir and Walmart follow as Goldman identifies the largest short positions among S&P 500 companies.",
+   "url": "https://finnhub.io/api/news?id=a6675af294f06b6a01bf0ffa495822b88499d3f756dde70235c39b7bc0b1aa5c",
+   "source": "Yahoo",
+   "published": "2026-11-24T11:04:29+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "10a529efc7ea",
    "headline": "State Street Health Care SPDR (XLV) Sells Eli Lilly and J&J on Friday",
    "summary": "The fund sold $283.4 million of stock, cutting all 60 positions and adding nothing, led by a $47.7 million reduction in Eli Lilly.",
@@ -1079,6 +1109,8 @@
    "tickers": [
     "ABBV",
     "JNJ",
+    "LLY",
+    "MRK",
     "UNH"
    ],
    "tag": "News",
@@ -1114,6 +1146,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "681ee83dcc15",
+   "headline": "Invesco S&P 500 Equal Weight (RSP) Sells PTC and Moderna on Friday",
+   "summary": "The $98.53 billion fund sold $490.6 million of stock, trimming 502 positions and adding none.",
+   "url": "https://finnhub.io/api/news?id=7f28d7c07c4ea1a428c71631999cad257a00bde84e23189bf8346f29984765c1",
+   "source": "Yahoo",
+   "published": "2026-11-24T11:03:26+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1776,6 +1823,22 @@
     "MRK"
    ],
    "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "20312f54a94f",
+   "headline": "Hims & Hers Sinks 17% in a Week as BofA Cuts Its Target to $21. Is It Time to Load Up?",
+   "summary": "Key TakeawaysHims & Hers shares fell 17% in a week as Bank of America cut its target to $21 after Kentucky refused to allow compounding of six peptides. Growth runs through Eli Lilly\u2019s and Novo Nordisk\u2019s branded weight-loss drugs, which\u2026",
+   "url": "https://finnhub.io/api/news?id=2bdd7cbc8253a4399a38e12529913ae092bf075f398b18781798e09276acc7ac",
+   "source": "Yahoo",
+   "published": "2026-11-24T00:22:10+00:00",
+   "tickers": [
+    "HIMS",
+    "LLY"
+   ],
+   "tag": "GLP-1",
    "sectors": [
     "pharma"
    ]
