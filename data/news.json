@@ -1,23 +1,7 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-24T12:17:40.976817+00:00",
+ "updated": "2026-11-24T12:32:40.589011+00:00",
  "quotes": {
-  "A": {
-   "price": 176.04,
-   "change_pct": 3.32
-  },
-  "ABBV": {
-   "price": 288.45,
-   "change_pct": 0.79
-  },
-  "ABT": {
-   "price": 103.32,
-   "change_pct": 0.31
-  },
-  "ALGN": {
-   "price": 162.35,
-   "change_pct": 4.63
-  },
   "AMGN": {
    "price": 449.04,
    "change_pct": 3.08
@@ -117,10 +101,6 @@
   "GMED": {
    "price": 69.03,
    "change_pct": 3.2
-  },
-  "HALO": {
-   "price": 94.07,
-   "change_pct": 2.98
   },
   "HCA": {
    "price": 479.96,
@@ -233,6 +213,10 @@
   "OPCH": {
    "price": 31.64,
    "change_pct": 0.16
+  },
+  "OSCR": {
+   "price": 25.79,
+   "change_pct": 4.29
   },
   "PFE": {
    "price": 27.4,
@@ -938,6 +922,21 @@
  },
  "stories": [
   {
+   "id": "68294054c6a2",
+   "headline": "Insulet Appoints Todd Trapp Chief Financial Officer",
+   "summary": "ACTON, Mass., November 24, 2026--Insulet Corporation (NASDAQ: PODD) (Insulet or the Company), the global leader in tubeless insulin pump technology with its Omnipod\u00ae brand, today announced that Todd Trapp has been appointed Executive Vice\u2026",
+   "url": "https://finnhub.io/api/news?id=6f03bc613b1557ea83d731bab977d467fddc444b83167ec68cefc5e225957373",
+   "source": "Yahoo",
+   "published": "2026-11-24T12:00:00+00:00",
+   "tickers": [
+    "PODD"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "8d75ed86f417",
    "headline": "Medtronic reports second quarter fiscal 2027 results; performance reflects consistent execution across the portfolio",
    "summary": "Strong performance in the company's core franchises, scaling growth platforms and recent portfolio actions, strengthens the foundation for sustained long-term growth GALWAY, Ireland, Nov. 24, 2026 /PRNewswire/ -- Medtronic plc (NYSE:\u2026",
@@ -1021,7 +1020,8 @@
    "source": "Yahoo",
    "published": "2026-11-24T11:04:02+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "JNJ"
    ],
    "tag": "News",
    "sectors": [
@@ -1200,6 +1200,7 @@
    "source": "Yahoo",
    "published": "2026-11-24T09:20:45+00:00",
    "tickers": [
+    "CVS",
     "UNH"
    ],
    "tag": "Legal",
@@ -1343,6 +1344,21 @@
    ]
   },
   {
+   "id": "b874a05c2737",
+   "headline": "Oscar Healthcare: A Compelling Growth Story At A Great Price, Reiterating Buy",
+   "summary": "The bull case for Oscar Health: ACA growth could expand its TAM fivefold over the next decade, making shares 32% below their $38.50 high a buying...",
+   "url": "https://finnhub.io/api/news?id=582ded9bb1ddbd281f169e32a56e2822a49ecabe1274ce4178cb2f4dc24cead8",
+   "source": "SeekingAlpha",
+   "published": "2026-11-24T06:41:55+00:00",
+   "tickers": [
+    "OSCR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "e686b4e44a33",
    "headline": "Sanofi to Acquire Insmed in Strategic Step that Strengthens Long-Term Future",
    "summary": "Insmed is a transformative acquisition providing strong strategic fit that complements Sanofi's immunology and rare disease portfolio Sanofi will gain access to two first-in-disease commercialized products and pipeline assets,\u2026",
@@ -1400,7 +1416,8 @@
    "published": "2026-11-24T06:24:48+00:00",
    "tickers": [
     "CNC",
-    "MOH"
+    "MOH",
+    "OSCR"
    ],
    "tag": "Analyst",
    "sectors": [
@@ -34461,21 +34478,6 @@
     "BMY"
    ],
    "tag": "Legal",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "d7ab9391b6c6",
-   "headline": "Regeneron Has $16 Billion in Net Cash and Trades Near 20 Times Earnings. Is It the Cheapest Big Biotech?",
-   "summary": "The stock has climbed more than 40% in one year.",
-   "url": "https://finnhub.io/api/news?id=ab3a9eb88d5c35f3698647ac1cd70a009ea751ddfa88ceb2cb66a63b1555ce00",
-   "source": "Yahoo",
-   "published": "2026-11-14T12:25:00+00:00",
-   "tickers": [
-    "REGN"
-   ],
-   "tag": "Earnings",
    "sectors": [
     "pharma"
    ]
