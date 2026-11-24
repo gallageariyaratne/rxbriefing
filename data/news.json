@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-24T00:47:26.053323+00:00",
+ "updated": "2026-11-24T01:02:35.411900+00:00",
  "quotes": {
   "A": {
    "price": 176.04,
@@ -173,6 +173,10 @@
   "MCK": {
    "price": 1048.42,
    "change_pct": -1.96
+  },
+  "MDGL": {
+   "price": 398.87,
+   "change_pct": 5.21
   },
   "MDT": {
    "price": 100.72,
@@ -936,6 +940,8 @@
    "tickers": [
     "ABBV",
     "JNJ",
+    "LLY",
+    "MRK",
     "PFE"
    ],
    "tag": "Legal",
@@ -2007,6 +2013,21 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "7f81c69e367b",
+   "headline": "Madrigal Pharmaceuticals Sees Rezdiffra Growth Runway, Plans New MASH Study",
+   "summary": "Madrigal Pharmaceuticals (NASDAQ:MDGL) executives highlighted the growth of Rezdiffra and outlined plans for additional studies in patients with MASH at the Jefferies Healthcare Conference in London. CEO Bill Sibold said the company\u2026",
+   "url": "https://finnhub.io/api/news?id=c1ea0a266334cdd20cc97ec7fd89a58eed7bb33d20c848b8b709fa09214192f1",
+   "source": "Yahoo",
+   "published": "2026-11-23T16:12:47+00:00",
+   "tickers": [
+    "MDGL"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -33408,44 +33429,6 @@
     "GKOS",
     "JNJ",
     "REGN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "5f9fd7774f39",
-   "headline": "Plan sponsor expectations, policy shifts set to pressure payers in 2027",
-   "summary": "2027 is shaping up to be a complex year for health plans, as demands from clients to demonstrate value get louder, according to a new report.",
-   "url": "https://www.fiercehealthcare.com/payers/plan-sponsor-expectations-policy-shifts-set-pressure-payers-2027",
-   "source": "Fierce Healthcare",
-   "published": "2026-11-14T01:00:29.150613+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "443c72177a0c",
-   "headline": "CommonSpirit Health logs $544M operating loss to begin its FY2027",
-   "summary": "The major Catholic nonprofit system said its strong volumes and efficiency gains were hamstrung by weakened payer mix and rising costs.",
-   "url": "https://www.fiercehealthcare.com/providers/commonspirit-health-logs-544m-operating-loss-begin-its-fy2027",
-   "source": "Fierce Healthcare",
-   "published": "2026-11-14T01:00:29.150124+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "66dc2d86b3d6",
-   "headline": "Biotech Dealmaker: Early-Stage Platforms And Tools Draw Capital As Full Buyouts Remain On The Sidelines This Week",
-   "summary": "Large drugmakers and specialized investors continued to favor targeted capability additions, asset purchases, and co-funding arrangements over outright buyouts of late-stage biotechs this week.",
-   "url": "https://finnhub.io/api/news?id=a652856e17f329907a5f9633baffe3e0dc96ee03abec63ec9e86e229c53e2778",
-   "source": "Yahoo",
-   "published": "2026-11-14T00:54:06+00:00",
-   "tickers": [
-    "ARGX",
-    "PFE"
    ],
    "tag": "News",
    "sectors": [
