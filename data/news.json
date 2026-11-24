@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-24T11:32:36.871477+00:00",
+ "updated": "2026-11-24T11:47:37.521670+00:00",
  "quotes": {
   "A": {
    "price": 176.04,
@@ -29,6 +29,10 @@
   "BDX": {
    "price": 215.44,
    "change_pct": 1.25
+  },
+  "BEAM": {
+   "price": 22.86,
+   "change_pct": 9.38
   },
   "BIIB": {
    "price": 256.71,
@@ -317,10 +321,6 @@
   "ZBH": {
    "price": 105.98,
    "change_pct": 4.83
-  },
-  "ZTS": {
-   "price": 79.94,
-   "change_pct": 1.05
   }
  },
  "tickers": {
@@ -938,6 +938,21 @@
  },
  "stories": [
   {
+   "id": "8d75ed86f417",
+   "headline": "Medtronic reports second quarter fiscal 2027 results; performance reflects consistent execution across the portfolio",
+   "summary": "Strong performance in the company's core franchises, scaling growth platforms and recent portfolio actions, strengthens the foundation for sustained long-term growth GALWAY, Ireland, Nov. 24, 2026 /PRNewswire/ -- Medtronic plc (NYSE:\u2026",
+   "url": "https://www.prnewswire.com/news-releases/medtronic-reports-second-quarter-fiscal-2027-results-performance-reflects-consistent-execution-across-the-portfolio-302948866.html",
+   "source": "PR Newswire",
+   "published": "2026-11-24T11:30:00+00:00",
+   "tickers": [
+    "MDT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "25d2b8c53330",
    "headline": "FDA signs off on Siemens Healthineers next gen multiple sclerosis blood test",
    "summary": "The FDA has given de novo marketing authorization for Siemens Healthineers\u2019 Atellica IM Neurofilament Light Chain (NfL) assay.",
@@ -1055,6 +1070,21 @@
    "tickers": [],
    "tag": "Health AI",
    "sectors": []
+  },
+  {
+   "id": "c7193e6f18d8",
+   "headline": "UnitedHealth Sues Trump\u2019s Medicare Agency Over Star Ratings. Stephanie Link Calls It \u201cNumber One on Sale\u201d",
+   "summary": "Key TakeawaysUnitedHealth sued CMS over its 2027 Medicare Advantage star ratings, saying 45 of its contracts should rate 0. 5 to 1.",
+   "url": "https://finnhub.io/api/news?id=74ca8be922660d7c26794888c3f3e8986718575eb61e0ebe22f10c8cbb7a60b4",
+   "source": "Yahoo",
+   "published": "2026-11-24T09:20:45+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "tag": "Legal",
+   "sectors": [
+    "payers"
+   ]
   },
   {
    "id": "08873c06648b",
@@ -1248,6 +1278,7 @@
    "source": "SeekingAlpha",
    "published": "2026-11-24T05:56:16+00:00",
    "tickers": [
+    "INCY",
     "NVS"
    ],
    "tag": "News",
@@ -1444,6 +1475,21 @@
    "tickers": [],
    "tag": "Policy",
    "sectors": []
+  },
+  {
+   "id": "184c1161e30c",
+   "headline": "Beam Therapeutics Targets December Sickle Cell Filing as Alpha-1 Trial Advances",
+   "summary": "Beam Therapeutics (NASDAQ:BEAM) is preparing a potential December application for its sickle cell therapy while advancing a 50-patient study of its gene-editing treatment for alpha-1 antitrypsin deficiency, executives said during a\u2026",
+   "url": "https://finnhub.io/api/news?id=7ae3e8560563c4bd84b3d91bdce74e23563dfde70f9de80adf986af2a1780c6f",
+   "source": "Yahoo",
+   "published": "2026-11-24T01:13:27+00:00",
+   "tickers": [
+    "BEAM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
   },
   {
    "id": "5319a0ce298e",
