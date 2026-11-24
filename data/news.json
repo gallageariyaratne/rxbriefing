@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-24T13:02:48.686408+00:00",
+ "updated": "2026-11-24T13:17:39.493711+00:00",
  "quotes": {
   "A": {
    "price": 176.04,
@@ -9,6 +9,10 @@
   "ABBV": {
    "price": 288.45,
    "change_pct": 0.79
+  },
+  "ABSI": {
+   "price": 8.48,
+   "change_pct": 12.92
   },
   "ABT": {
    "price": 103.32,
@@ -317,10 +321,6 @@
   "ZBH": {
    "price": 105.98,
    "change_pct": 4.83
-  },
-  "ZTS": {
-   "price": 79.94,
-   "change_pct": 1.05
   }
  },
  "tickers": {
@@ -938,6 +938,21 @@
  },
  "stories": [
   {
+   "id": "182d5234cf59",
+   "headline": "Merck Manuals Shares What Patients Should Expect During a Neurologic Exam",
+   "summary": "RAHWAY, N.J., Nov. 24, 2026 /PRNewswire/ -- A neurologic exam can help identify and diagnose a wide range of disorders affecting the brain, spinal cord, or nerves. Many of these conditions are complex and difficult to diagnose. Yet a\u2026",
+   "url": "https://www.prnewswire.com/news-releases/merck-manuals-shares-what-patients-should-expect-during-a-neurologic-exam-302948854.html",
+   "source": "PR Newswire",
+   "published": "2026-11-24T13:00:00+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "09762fde5b0b",
    "headline": "\u2018We\u2019ve been a quiet company\u2019: Why viral biotech Vyriad attracts Big Pharmas despite low profile",
    "summary": "Vyriad's leadership may describe the biotech as a \u201cvery quiet company\u201d when compared to some of its more buzzy peers, but the drug developer's partnerships speak for themselves.",
@@ -947,6 +962,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "186ada83fd08",
+   "headline": "Medtronic (NYSE:MDT) Q2 Fiscal 2027 Revenue Slightly Misses as EPS Holds In Line",
+   "summary": "Medtronic Q2 FY2027 revenue missed consensus while EPS was in line, with shares slightly lower premarket as investors weigh top-line execution.",
+   "url": "https://finnhub.io/api/news?id=f9385737388c5671c2b0592ebb0186f567efa147b37bcff33426bbb6420cea38",
+   "source": "ChartMill",
+   "published": "2026-11-24T12:23:46+00:00",
+   "tickers": [
+    "MDT"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "medtech"
+   ]
   },
   {
    "id": "68294054c6a2",
@@ -1049,6 +1079,21 @@
     "ABBV"
    ],
    "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "b0c51ccc0a24",
+   "headline": "Regeneron Pharmaceuticals (REGN) Lands First SiRNA MG Therapy With More Cancer Data Ahead",
+   "summary": "Regeneron Pharmaceuticals (NasdaqGS:REGN) received FDA approval for Livsayis (cemdisiran), the first siRNA therapy for generalized myasthenia gravis. Livsayis is cleared for adult patients with generalized myasthenia gravis and is\u2026",
+   "url": "https://finnhub.io/api/news?id=66cfd9b0de23771ae4287a14254991b9de5c8b64b7b628e5e87528b4e448ca40",
+   "source": "Yahoo",
+   "published": "2026-11-24T11:17:42+00:00",
+   "tickers": [
+    "REGN"
+   ],
+   "tag": "FDA",
    "sectors": [
     "pharma"
    ]
@@ -1415,6 +1460,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "5bd165e72278",
+   "headline": "Absci: ABS-201 Is A Neurotoxin-Style Franchise Hiding Inside An AI Stock",
+   "summary": "Absci (ABSI) stock is a speculative buy, due to the ABS-201 bet: $1.12B EV implies 9% odds, while December data could support hair loss and endometriosis.",
+   "url": "https://finnhub.io/api/news?id=33fa1281e816eda28817ab5c1c3782b8bb54dd6319afc6d1ea0a3a0677dbacbb",
+   "source": "SeekingAlpha",
+   "published": "2026-11-24T07:32:10+00:00",
+   "tickers": [
+    "ABSI"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "healthai"
    ]
   },
   {
