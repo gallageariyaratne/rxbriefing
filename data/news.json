@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-24T04:17:43.219285+00:00",
+ "updated": "2026-11-24T04:32:29.575206+00:00",
  "quotes": {
   "A": {
    "price": 176.04,
@@ -117,6 +117,10 @@
   "GKOS": {
    "price": 249.59,
    "change_pct": 5.17
+  },
+  "GMED": {
+   "price": 69.03,
+   "change_pct": 3.2
   },
   "HALO": {
    "price": 94.07,
@@ -317,10 +321,6 @@
   "ZBH": {
    "price": 105.98,
    "change_pct": 4.83
-  },
-  "ZTS": {
-   "price": 79.94,
-   "change_pct": 1.05
   }
  },
  "tickers": {
@@ -937,6 +937,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "151090fb27f7",
+   "headline": "Globus Medical Bets on Custom Spine Implants and Nevro Recovery for Growth",
+   "summary": "Globus Medical (NYSE:GMED) is banking on patient-specific spinal implants, expanded use of its surgical technology and a recovery in its Nevro pain business to support growth, Chief Financial Officer Kyle Kline said during a Jefferies\u2026",
+   "url": "https://finnhub.io/api/news?id=c6567b7d91eb0686e2ce791f40129a9a947954e9fa927d93189cfb1ba2bf53e4",
+   "source": "Yahoo",
+   "published": "2026-11-24T02:12:29+00:00",
+   "tickers": [
+    "GMED"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
   {
    "id": "6cf4037d2703",
    "headline": "How messaging could be the next source of clinician burnout",
