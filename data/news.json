@@ -1,7 +1,23 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-24T12:32:40.589011+00:00",
+ "updated": "2026-11-24T12:47:34.874325+00:00",
  "quotes": {
+  "A": {
+   "price": 176.04,
+   "change_pct": 3.32
+  },
+  "ABBV": {
+   "price": 288.45,
+   "change_pct": 0.79
+  },
+  "ABT": {
+   "price": 103.32,
+   "change_pct": 0.31
+  },
+  "ALGN": {
+   "price": 162.35,
+   "change_pct": 4.63
+  },
   "AMGN": {
    "price": 449.04,
    "change_pct": 3.08
@@ -226,6 +242,10 @@
    "price": 133.79,
    "change_pct": 0.47
   },
+  "PRVA": {
+   "price": 24.71,
+   "change_pct": -1.36
+  },
   "REGN": {
    "price": 942.24,
    "change_pct": 2.34
@@ -301,10 +321,6 @@
   "VKTX": {
    "price": 27.69,
    "change_pct": 11.79
-  },
-  "VRTX": {
-   "price": 538.54,
-   "change_pct": 4.57
   }
  },
  "tickers": {
@@ -922,6 +938,17 @@
  },
  "stories": [
   {
+   "id": "09762fde5b0b",
+   "headline": "\u2018We\u2019ve been a quiet company\u2019: Why viral biotech Vyriad attracts Big Pharmas despite low profile",
+   "summary": "Vyriad's leadership may describe the biotech as a \u201cvery quiet company\u201d when compared to some of its more buzzy peers, but the drug developer's partnerships speak for themselves.",
+   "url": "https://www.fiercebiotech.com/biotech/vyriad-tells-fierce-how-it-manages-quietly-attract-big-pharmas",
+   "source": "Fierce Biotech",
+   "published": "2026-11-24T12:45:21.723463+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
    "id": "68294054c6a2",
    "headline": "Insulet Appoints Todd Trapp Chief Financial Officer",
    "summary": "ACTON, Mass., November 24, 2026--Insulet Corporation (NASDAQ: PODD) (Insulet or the Company), the global leader in tubeless insulin pump technology with its Omnipod\u00ae brand, today announced that Todd Trapp has been appointed Executive Vice\u2026",
@@ -934,6 +961,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "b7c02c4acf9b",
+   "headline": "Privia Health Group (NASDAQ:PRVA) Combines High Growth Momentum With a Breakout Setup",
+   "summary": "PRVA pairs strong earnings momentum with a bullish chart setup and technical strength, flagging a potential breakout for growth investors.",
+   "url": "https://finnhub.io/api/news?id=a2c71ba31c9c09e031dfbc0c9ec78ef2285aeac00096fd15ac36d89c8aef3dab",
+   "source": "ChartMill",
+   "published": "2026-11-24T11:50:58+00:00",
+   "tickers": [
+    "PRVA"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
    ]
   },
   {
@@ -964,6 +1006,21 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "c2571b509eba",
+   "headline": "Humana Will Exceed Its FY2028 Earnings Target, Says Keybanc \u2013 Sees Nearly 30% Upside In HUM Stock",
+   "summary": "KeyBanc said Humana\u2019s valuation is attractive following the recent selloff over Medicare policy concerns",
+   "url": "https://finnhub.io/api/news?id=6011e6450076a08dab2fc1b11e59346fb650de59bf3bc0724910b0d112dccc3b",
+   "source": "Yahoo",
+   "published": "2026-11-24T11:28:38+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -1021,7 +1078,8 @@
    "published": "2026-11-24T11:04:02+00:00",
    "tickers": [
     "ABBV",
-    "JNJ"
+    "JNJ",
+    "UNH"
    ],
    "tag": "News",
    "sectors": [
@@ -1037,6 +1095,36 @@
    "published": "2026-11-24T11:03:55+00:00",
    "tickers": [
     "BDX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "132bd8f8216c",
+   "headline": "Franklin Systematic Style Premia (FLSP) Adds Costco and Apple on Nov. 20",
+   "summary": "The fund bought $423.9 million of stock and sold none, lifting 161 positions while its assets stood at $1.25 billion.",
+   "url": "https://finnhub.io/api/news?id=810f5e9253e28439ca2144f59e6023ec0b4504d55d6e30f819fec27f8a3102ce",
+   "source": "Yahoo",
+   "published": "2026-11-24T11:03:40+00:00",
+   "tickers": [
+    "ABT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "c79889a6c116",
+   "headline": "iShares Russell 2000 (IWM) Adds Glaukos and Jackson Financial on Nov. 20",
+   "summary": "The fund bought $1.66 billion of stock and sold nothing, lifting 1,877 positions.",
+   "url": "https://finnhub.io/api/news?id=b2aff0d57167c9b77d3cd2bc1946872402ef589d5778f8f5e5dc699be90996ea",
+   "source": "Yahoo",
+   "published": "2026-11-24T11:02:58+00:00",
+   "tickers": [
+    "GKOS"
    ],
    "tag": "News",
    "sectors": [
@@ -1201,6 +1289,7 @@
    "published": "2026-11-24T09:20:45+00:00",
    "tickers": [
     "CVS",
+    "HUM",
     "UNH"
    ],
    "tag": "Legal",
