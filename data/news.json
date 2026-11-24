@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-24T12:02:44.186349+00:00",
+ "updated": "2026-11-24T12:17:40.976817+00:00",
  "quotes": {
   "A": {
    "price": 176.04,
@@ -210,6 +210,10 @@
    "price": 158.08,
    "change_pct": 4.99
   },
+  "NTLA": {
+   "price": 10.15,
+   "change_pct": 1.5
+  },
   "NTRA": {
    "price": 292.39,
    "change_pct": 6.95
@@ -317,10 +321,6 @@
   "VRTX": {
    "price": 538.54,
    "change_pct": 4.57
-  },
-  "ZBH": {
-   "price": 105.98,
-   "change_pct": 4.83
   }
  },
  "tickers": {
@@ -953,6 +953,112 @@
    ]
   },
   {
+   "id": "1998c96e5da8",
+   "headline": "Medtronic reports second quarter fiscal 2027 results; performance reflects consistent execution across the portfolio",
+   "summary": "Medtronic plc (NYSE: MDT), a global leader in healthcare technology, today announced financial results for its second quarter (Q2) of fiscal year 2027 (FY27), which ended October 30, 2026.",
+   "url": "https://finnhub.io/api/news?id=660ab1e77bc1ff7dff4741b1a8d455c5099bc913c40c4e89ca14b68ea4cc9433",
+   "source": "Yahoo",
+   "published": "2026-11-24T11:30:00+00:00",
+   "tickers": [
+    "MDT"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "d4f62fc39732",
+   "headline": "These 3 Stocks Have Raised Their Dividends Annually for at Least 49 Years. Should you Buy Them?",
+   "summary": "One of their annual raise streaks stands at 64.",
+   "url": "https://finnhub.io/api/news?id=a1d2c8367cb50fb05bbb72ef3ca3d16a9db1bb2596448659c790815b7e7cb8a0",
+   "source": "Yahoo",
+   "published": "2026-11-24T11:18:02+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "e1f55e5c7273",
+   "headline": "Can Medtronic (MDT) Justify A Premium On Future Cash Flow?",
+   "summary": "Medtronic has quietly delivered a 40.7% gain over the past three years, while rolling out new technologies in areas like robotic surgery and vascular care. With the share price near US$100.72 and fresh product and acquisition news in\u2026",
+   "url": "https://finnhub.io/api/news?id=0cc2b32464c180ae26f72a06530cb9794032b1dc2d81d7476ddb13c95af21ead",
+   "source": "Yahoo",
+   "published": "2026-11-24T11:10:43+00:00",
+   "tickers": [
+    "MDT"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "86d332a701d2",
+   "headline": "Is Krystal Biotech Stock's Market Price Justified?",
+   "summary": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://finnhub.io/api/news?id=5bbb51041afbf9cab29ca3c2456e70f30018ad9ad6671884f4355d76722133df",
+   "source": "Yahoo",
+   "published": "2026-11-24T11:05:33+00:00",
+   "tickers": [
+    "KRYS",
+    "NTLA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "10a529efc7ea",
+   "headline": "State Street Health Care SPDR (XLV) Sells Eli Lilly and J&J on Friday",
+   "summary": "The fund sold $283.4 million of stock, cutting all 60 positions and adding nothing, led by a $47.7 million reduction in Eli Lilly.",
+   "url": "https://finnhub.io/api/news?id=11c430bec13e1cd6c8ee0c7cc56858346fbcae7a8245dca76b766ae72eaf7dfa",
+   "source": "Yahoo",
+   "published": "2026-11-24T11:04:02+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "b19c7d3df6bc",
+   "headline": "FT Vest Dividend Aristocrats Target Income (KNG) Buys $9.3 Million More BDX on Nov. 20",
+   "summary": "The fund added $315.2 million net across 47 increased positions while trimming 21 holdings, with Becton Dickinson its largest buy at $9.3 million.",
+   "url": "https://finnhub.io/api/news?id=6aab2cfe14206ee3b9d304aa35918242278e67f49588852ea1edf9e490db6ca7",
+   "source": "Yahoo",
+   "published": "2026-11-24T11:03:55+00:00",
+   "tickers": [
+    "BDX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "e8616febd2a0",
+   "headline": "ETFs Are Net Sellers of Cigna (CI) on Nov. 20",
+   "summary": "Cigna (CI) drew $15.6 million in net ETF selling last Friday, with 35 funds buying and 21 selling.",
+   "url": "https://finnhub.io/api/news?id=55436f8851b2b44d6890536cdecac59608a64f9e4fe8e15bfa203cd20606919a",
+   "source": "Yahoo",
+   "published": "2026-11-24T11:02:38+00:00",
+   "tickers": [
+    "CI"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "25d2b8c53330",
    "headline": "FDA signs off on Siemens Healthineers next gen multiple sclerosis blood test",
    "summary": "The FDA has given de novo marketing authorization for Siemens Healthineers\u2019 Atellica IM Neurofilament Light Chain (NfL) assay.",
@@ -972,6 +1078,21 @@
    "published": "2026-11-24T10:30:22.543940+00:00",
    "tickers": [
     "GEHC"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "fac16396e537",
+   "headline": "What Is Medtronic (MDT) Saying About Its Cardiac Device Programming Recall?",
+   "summary": "Medtronic (NYSE:MDT) initiated a voluntary Class II recall of Bluetooth connected cardiac device programming hardware after identifying programming risks. The recall covers tens of thousands of device manager tablets, programmers, and RF\u2026",
+   "url": "https://finnhub.io/api/news?id=77291d8dd73a589f0ea866ebd77c2e3be6b6c50cf4651111f3ed09a474f208e0",
+   "source": "Yahoo",
+   "published": "2026-11-24T10:12:25+00:00",
+   "tickers": [
+    "MDT"
    ],
    "tag": "News",
    "sectors": [
@@ -1278,7 +1399,8 @@
    "source": "SeekingAlpha",
    "published": "2026-11-24T06:24:48+00:00",
    "tickers": [
-    "CNC"
+    "CNC",
+    "MOH"
    ],
    "tag": "Analyst",
    "sectors": [
@@ -1458,7 +1580,8 @@
    "source": "Yahoo",
    "published": "2026-11-24T01:19:28+00:00",
    "tickers": [
-    "AZN"
+    "AZN",
+    "TEM"
    ],
    "tag": "Health AI",
    "sectors": [
