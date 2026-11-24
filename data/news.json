@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-24T06:17:46.383439+00:00",
+ "updated": "2026-11-24T06:32:31.961909+00:00",
  "quotes": {
   "A": {
    "price": 176.04,
@@ -73,6 +73,10 @@
   "CVS": {
    "price": 79.65,
    "change_pct": -1.47
+  },
+  "DGX": {
+   "price": 263.12,
+   "change_pct": 1.87
   },
   "DHR": {
    "price": 225.66,
@@ -317,10 +321,6 @@
   "UTHR": {
    "price": 559.32,
    "change_pct": 0.83
-  },
-  "VKTX": {
-   "price": 27.69,
-   "change_pct": 11.79
   }
  },
  "tickers": {
@@ -946,6 +946,8 @@
    "published": "2026-11-24T05:06:42+00:00",
    "tickers": [
     "CI",
+    "CVS",
+    "DGX",
     "LH"
    ],
    "tag": "Legal",
