@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-24T06:58:49.629395+00:00",
+ "updated": "2026-11-24T07:02:36.855455+00:00",
  "quotes": {
   "A": {
    "price": 176.04,
@@ -141,6 +141,10 @@
   "HCAT": {
    "price": 1.3,
    "change_pct": -0.76
+  },
+  "HIMS": {
+   "price": 15.06,
+   "change_pct": 3.15
   },
   "HSIC": {
    "price": 85.17,
@@ -317,10 +321,6 @@
   "UNH": {
    "price": 336.08,
    "change_pct": -1.11
-  },
-  "UTHR": {
-   "price": 559.32,
-   "change_pct": 0.83
   }
  },
  "tickers": {
@@ -965,6 +965,7 @@
     "CI",
     "CVS",
     "DGX",
+    "HIMS",
     "LH"
    ],
    "tag": "Legal",
@@ -1025,6 +1026,21 @@
    "tickers": [],
    "tag": "FDA",
    "sectors": []
+  },
+  {
+   "id": "0c8e74a5ed34",
+   "headline": "Allspring Premier Large Company Growth Fund Q3 2026 Contributors And Detractors",
+   "summary": "Allspring Premier Large Company Growth Fund Q3 2026 commentary highlights top AI contributors and detractors. Read the full portfolio review.",
+   "url": "https://finnhub.io/api/news?id=076090d4ca4a0bd9312d14d2b32f7a072f4d390f3d72cde6555c5c651f666ef2",
+   "source": "SeekingAlpha",
+   "published": "2026-11-24T01:25:00+00:00",
+   "tickers": [
+    "NTRA"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
   },
   {
    "id": "7d63f972377b",
