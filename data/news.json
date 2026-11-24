@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-24T09:32:42.948206+00:00",
+ "updated": "2026-11-24T09:47:37.321143+00:00",
  "quotes": {
   "A": {
    "price": 176.04,
@@ -17,10 +17,6 @@
   "ALGN": {
    "price": 162.35,
    "change_pct": 4.63
-  },
-  "ALNY": {
-   "price": 155.98,
-   "change_pct": 8.46
   },
   "AMGN": {
    "price": 449.04,
@@ -137,10 +133,6 @@
   "HCA": {
    "price": 479.96,
    "change_pct": 0.92
-  },
-  "HCAT": {
-   "price": 1.3,
-   "change_pct": -0.76
   },
   "HIMS": {
    "price": 15.06,
@@ -321,6 +313,14 @@
   "UNH": {
    "price": 336.08,
    "change_pct": -1.11
+  },
+  "UTHR": {
+   "price": 559.32,
+   "change_pct": 0.83
+  },
+  "VKTX": {
+   "price": 27.69,
+   "change_pct": 11.79
   }
  },
  "tickers": {
@@ -938,6 +938,23 @@
  },
  "stories": [
   {
+   "id": "d2c9e4df78a1",
+   "headline": "Sanofi inks massive $41B Insmed buyout for post-Dupixent growth drivers",
+   "summary": "Sanofi has struck a deal to acquire Insmed for $41 billion, securing three commercial and late-phase respiratory assets to offset Dupixent\u2019s looming loss of exclusivity.",
+   "url": "https://www.fiercebiotech.com/pharma/sanofi-inks-41b-insmed-buyout-post-dupixent-growth-drivers",
+   "source": "Fierce Biotech",
+   "published": "2026-11-24T09:45:22.468262+00:00",
+   "tickers": [
+    "SNY",
+    "INSM"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "biotech",
+    "pharma"
+   ]
+  },
+  {
    "id": "2c9478fe9756",
    "headline": "Sanofi inks massive $41B Insmed buyout for post-Dupixent growth drivers",
    "summary": "Sanofi has struck a deal to acquire Insmed for $41 billion, securing three commercial and late-phase respiratory assets to offset Dupixent\u2019s looming loss of exclusivity.",
@@ -945,8 +962,8 @@
    "source": "Fierce Pharma",
    "published": "2026-11-24T09:30:26.771367+00:00",
    "tickers": [
-    "SNY",
-    "INSM"
+    "INSM",
+    "SNY"
    ],
    "tag": "M&A",
    "sectors": [
