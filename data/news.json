@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-24T09:17:46.100195+00:00",
+ "updated": "2026-11-24T09:32:42.948206+00:00",
  "quotes": {
   "A": {
    "price": 176.04,
@@ -246,10 +246,6 @@
    "price": 31.64,
    "change_pct": 0.16
   },
-  "OSCR": {
-   "price": 25.79,
-   "change_pct": 4.29
-  },
   "PFE": {
    "price": 27.4,
    "change_pct": 0
@@ -321,6 +317,10 @@
   "TXG": {
    "price": 57.65,
    "change_pct": 11.29
+  },
+  "UNH": {
+   "price": 336.08,
+   "change_pct": -1.11
   }
  },
  "tickers": {
@@ -938,6 +938,67 @@
  },
  "stories": [
   {
+   "id": "2c9478fe9756",
+   "headline": "Sanofi inks massive $41B Insmed buyout for post-Dupixent growth drivers",
+   "summary": "Sanofi has struck a deal to acquire Insmed for $41 billion, securing three commercial and late-phase respiratory assets to offset Dupixent\u2019s looming loss of exclusivity.",
+   "url": "https://www.fiercepharma.com/pharma/sanofi-inks-41b-insmed-buyout-post-dupixent-growth-drivers",
+   "source": "Fierce Pharma",
+   "published": "2026-11-24T09:30:26.771367+00:00",
+   "tickers": [
+    "SNY",
+    "INSM"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "biotech",
+    "pharma"
+   ]
+  },
+  {
+   "id": "1ededa0df980",
+   "headline": "STAT+: AI can analyze X-rays and CT scans to draft radiology reports. Will it make care better, safer?",
+   "summary": "As the Radiological Society of North America meets in Chicago, industry insiders are expected to debate if AI draft reporting will improve care.",
+   "url": "https://www.statnews.com/2026/11/24/does-radiology-ai-draft-reports-make-care-better-safer-rsna/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-11-24T09:30:00+00:00",
+   "tickers": [],
+   "tag": "Health AI",
+   "sectors": []
+  },
+  {
+   "id": "1267ac5ae652",
+   "headline": "Opinion: Why medical students should keep going to class",
+   "summary": "\u201cAttending lectures in person has become \u2026 the most powerful way I take care of my mental health,\u201d medical student Brian Zhang writes.",
+   "url": "https://www.statnews.com/2026/11/24/medical-school-class-attendance-why-i-keep-going/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-11-24T09:30:00+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "32a1310a2cd1",
+   "headline": "Opinion: Genomic testing is too fragmented. Instead, we should test once and evaluate often",
+   "summary": "\u201cIt\u2019s time to consolidate testing by sequencing genomes once and reevaluating them when needed,\u201d a genetic counselor writes.",
+   "url": "https://www.statnews.com/2026/11/24/genomic-testing-sequenced-once-tested-often/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-11-24T09:30:00+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "68bc788e1329",
+   "headline": "How artificial intelligence is offering new hope for stroke patients in the Last Frontier",
+   "summary": "In Alaska, a small network of hospitals is betting on AI tools to triage stroke patients and get them to the right care, faster.",
+   "url": "https://www.statnews.com/2026/11/24/alaskan-hospitals-artificial-intelligence-bet-improve-stroke-care/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-11-24T09:30:00+00:00",
+   "tickers": [],
+   "tag": "Health AI",
+   "sectors": []
+  },
+  {
    "id": "9b90902c465d",
    "headline": "Exicure expands work into Parkinson\u2019s with X-CUE smart glasses",
    "summary": "Exicure is partnering with NeuroQ Biologics and the South Korean medtech company Laonz to expand its business into medical device technologies designed to assist patients with Parkinson\u2019s disease.",
@@ -1348,6 +1409,21 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "305caab14008",
+   "headline": "UnitedHealth Sinks 18% in a Week on Washington\u2019s Medicare Advantage Crackdown. Is It \u201cNumber One on Sale\u201d?",
+   "summary": "Key TakeawaysUnitedHealth fell 18% in a week after CMS proposed tougher Medicare Advantage audits and a star-ratings overhaul it says would cut payments by about $107 billion through 2037. Humana and CVS Health fell on the same proposals,\u2026",
+   "url": "https://finnhub.io/api/news?id=d7041cdfe7872bdc53520ca689f33981ef47dbf41b6c65819ecc131c608dcab1",
+   "source": "Yahoo",
+   "published": "2026-11-23T23:23:28+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "payers"
    ]
   },
   {
