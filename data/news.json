@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-24T14:03:05.968023+00:00",
+ "updated": "2026-11-24T14:18:00.923408+00:00",
  "quotes": {
   "A": {
    "price": 176.04,
@@ -81,6 +81,10 @@
   "DVA": {
    "price": 159.76,
    "change_pct": -0.79
+  },
+  "DXCM": {
+   "price": 82.42,
+   "change_pct": 3.91
   },
   "ELV": {
    "price": 379.55,
@@ -317,10 +321,6 @@
   "VRTX": {
    "price": 538.54,
    "change_pct": 4.57
-  },
-  "WAY": {
-   "price": 26.17,
-   "change_pct": -1.32
   }
  },
  "tickers": {
@@ -938,6 +938,17 @@
  },
  "stories": [
   {
+   "id": "c6fd6123a90d",
+   "headline": "Menopause hormone therapy med popularity increases 141% compared to previous years",
+   "summary": "In June 2026, 4.9M menopause hormone therapy medications were dispensed to cisgender women in the U.S. between the ages of 40 and 74.",
+   "url": "https://www.statnews.com/2026/11/24/health-news-menopause-hormone-therapy-med-popularity-increases-141-percent/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-11-24T14:15:03+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
    "id": "699aeaa9ff49",
    "headline": "After the Signature: What Determines Whether a Post-Acute Partnership Delivers",
    "summary": "For Medicare Advantage plans, choosing a post-acute care partner is a major decision, but it is only the first one.",
@@ -947,6 +958,21 @@
    "tickers": [],
    "tag": "Policy",
    "sectors": []
+  },
+  {
+   "id": "87e38e06f9cb",
+   "headline": "IQVIA Receives the 2026 Global Competitive Strategy Leadership Recognition in AI-Enabled Quality and Regulatory Platforms for Life Sciences",
+   "summary": "The company is recognized for its unified platform that advances cost-effective compliance, operational efficiency, and patient safety across pharmaceutical and medtech quality and regulatory operations. SAN ANTONIO, Nov. 24, 2026\u2026",
+   "url": "https://www.prnewswire.com/news-releases/iqvia-receives-the-2026-global-competitive-strategy-leadership-recognition-in-ai-enabled-quality-and-regulatory-platforms-for-life-sciences-302947458.html",
+   "source": "PR Newswire",
+   "published": "2026-11-24T14:00:00+00:00",
+   "tickers": [
+    "IQV"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "tools"
+   ]
   },
   {
    "id": "9a906ecc4715",
@@ -1001,6 +1027,21 @@
    ]
   },
   {
+   "id": "1b0d70a44aef",
+   "headline": "Dexcom Announces Upcoming Conference Presentation",
+   "summary": "SAN DIEGO, November 24, 2026--DexCom, Inc. (NASDAQ:DXCM) today announced that management will present an update on the company at the Piper Sandler 38th Annual Healthcare Conference on Tuesday, December 1, 2026.",
+   "url": "https://finnhub.io/api/news?id=89328ea9f7d87e1c5a716e6a5b5f21365cfec27e469296f406e8d5cb0a4257b9",
+   "source": "Yahoo",
+   "published": "2026-11-24T13:30:00+00:00",
+   "tickers": [
+    "DXCM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "182d5234cf59",
    "headline": "Merck Manuals Shares What Patients Should Expect During a Neurologic Exam",
    "summary": "RAHWAY, N.J., Nov. 24, 2026 /PRNewswire/ -- A neurologic exam can help identify and diagnose a wide range of disorders affecting the brain, spinal cord, or nerves. Many of these conditions are complex and difficult to diagnose. Yet a\u2026",
@@ -1013,6 +1054,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "c8008a2ed5f9",
+   "headline": "Medtronic reports second quarter fiscal 2027 results; performance reflects consistent execution across the portfolio",
+   "summary": "",
+   "url": "https://finnhub.io/api/news?id=9879a4e14a3a1fdb853b2488784d769fa949f573559f4af6803e7ba6949952b6",
+   "source": "Fintel",
+   "published": "2026-11-24T12:49:58+00:00",
+   "tickers": [
+    "MDT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -1453,6 +1509,21 @@
    ]
   },
   {
+   "id": "5bb3c8d7b6b9",
+   "headline": "Jim Cramer: Vertex Pharmaceuticals Is \u2018Sensational\u2019, Recommends Buying This Tech Stock",
+   "summary": "Jim Cramer favors Applied Materials and biotech leaders Vertex, Amgen and Regeneron, but says Robinhood is overpriced and should retreat.",
+   "url": "https://finnhub.io/api/news?id=4293121d75ba56dc7ed22febc9e0a593ef2777fcacad2560f1e40490001415bf",
+   "source": "Benzinga",
+   "published": "2026-11-24T09:09:41+00:00",
+   "tickers": [
+    "REGN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "08873c06648b",
    "headline": "Hims Brings Testosterone Care to the UK as Hims & Hers Accelerates International Growth",
    "summary": "Hims & Hers Health, Inc. (NYSE: HIMS), the leading global health and wellness platform, today announced the launch of testosterone care in the United Kingdom through its Hims brand. Clinically eligible men can now check their testosterone\u2026",
@@ -1583,6 +1654,21 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "b3b214c4df59",
+   "headline": "Needham Reiterates Buy on Absci, Maintains $15 Price Target",
+   "summary": "Needham analyst Gil Blum reiterates Absci (NASDAQ:ABSI) with a Buy and maintains $15 price target.",
+   "url": "https://finnhub.io/api/news?id=6c081c1b07ea4ea85e09e77bddec6bf7d7a121e70a3b358419ffebbea0492508",
+   "source": "Benzinga",
+   "published": "2026-11-24T06:49:13+00:00",
+   "tickers": [
+    "ABSI"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "healthai"
    ]
   },
   {
@@ -1807,6 +1893,21 @@
     "GMED"
    ],
    "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "b84ff7dda3e4",
+   "headline": "Stock Market: Will S&P 500 Open Up or Down Today?",
+   "summary": "Will the S&P 500 open higher? Polymarket odds hit 62% as Wall Street rides Nvidia's CEO comeback rally and awaits Dell earnings.",
+   "url": "https://finnhub.io/api/news?id=272c44a25f129e499af724f12ef1cca78ea77888229734151d60bc1563ad1f06",
+   "source": "Benzinga",
+   "published": "2026-11-24T02:10:37+00:00",
+   "tickers": [
+    "MDT"
+   ],
+   "tag": "Earnings",
    "sectors": [
     "medtech"
    ]
@@ -3448,6 +3549,21 @@
    ]
   },
   {
+   "id": "7fb4523a8c60",
+   "headline": "Dell, Analog Devices On Deck Tuesday As AI Demand And Guidance Face Test",
+   "summary": "Dell Technologies and Analog Devices headline Tuesday\u2019s reports, with investors looking for evidence that AI infrastructure demand can withstand a sharp reset in Dell\u2019s stock and sustain Analog Devices\u2019 growth.",
+   "url": "https://finnhub.io/api/news?id=e8369be065001d47b1cee2ba11b47a7ed2006e20635abd6f81861b03ebb8c371",
+   "source": "Benzinga",
+   "published": "2026-11-23T16:30:22+00:00",
+   "tickers": [
+    "MDT"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "3ff9ca0ff2a9",
    "headline": "Smith + Nephew names new CFO",
    "summary": "Nick Alexos will join the orthopedics company later this month after holding CFO roles at Univar Solutions and Dentsply Sirona.",
@@ -4663,6 +4779,21 @@
    "tickers": [],
    "tag": "Analyst",
    "sectors": []
+  },
+  {
+   "id": "f0f463fc8944",
+   "headline": "Why Pfizer's $330 Million Deal Could Matter More Than Its Price Tag",
+   "summary": "Pfizer's $330 million upfront Starna Therapeutics licensing deal expands its autoimmune CAR-T pipeline, a capital-efficient move supporting its dividend as it navigates its 2026-2028 patent cliff.",
+   "url": "https://finnhub.io/api/news?id=2f2f4c70e477ffa822ef4b1809806809cd4ab21cd7f0ed3d4edf239b5f61d24a",
+   "source": "Yahoo",
+   "published": "2026-11-23T12:35:00+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "Legal",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "ae2c2f2af8f1",
@@ -34725,21 +34856,6 @@
    "tag": "News",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "815b26aa5e9d",
-   "headline": "Labcorp (LH) Stock Sees Fair Value Lift After Q3 Analyst Target Increases",
-   "summary": "Labcorp Holdings is back in focus after analysts lifted fair value estimates from about US$354.50 to roughly US$390.06, a change of around 10% in updated models. Recent Q3 2026 results and guidance, plus M&A activity and product updates,\u2026",
-   "url": "https://finnhub.io/api/news?id=ec5e8876af599e086e2884687db810f6585aca475559089240b1957aab00c925",
-   "source": "Yahoo",
-   "published": "2026-11-14T14:11:01+00:00",
-   "tickers": [
-    "LH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
    ]
   }
  ]
