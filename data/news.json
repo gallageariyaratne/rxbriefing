@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-24T22:32:46.082325+00:00",
+ "updated": "2026-11-24T22:47:38.984597+00:00",
  "quotes": {
   "A": {
    "price": 183.52,
@@ -105,6 +105,10 @@
   "ENSG": {
    "price": 179.64,
    "change_pct": 1.05
+  },
+  "EXEL": {
+   "price": 67.45,
+   "change_pct": 0.94
   },
   "GDRX": {
    "price": 3,
@@ -317,10 +321,6 @@
   "VRTX": {
    "price": 563.92,
    "change_pct": 4.71
-  },
-  "WAY": {
-   "price": 27.02,
-   "change_pct": 3.25
   }
  },
  "tickers": {
@@ -957,11 +957,42 @@
    "published": "2026-11-24T21:11:59+00:00",
    "tickers": [
     "CI",
-    "CVS"
+    "CVS",
+    "UNH"
    ],
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "146f52f6c8cd",
+   "headline": "Sanofi Makes $41 Billion Bet On US Drugmaker Insmed. Biggest Pharma Deal In Three Years Sends Shares Soaring.",
+   "summary": "Sanofi has agreed to buy Insmed for about $41 billion, gaining marketed and experimental respiratory medicines as it seeks growth beyond Dupixent ahead of future patent expirations.",
+   "url": "https://finnhub.io/api/news?id=236d392ce915447306c950eeb523dd0c7d517e678bef8fe12d00b1a903ca0635",
+   "source": "Yahoo",
+   "published": "2026-11-24T21:08:06+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "78b329b75f62",
+   "headline": "Exelixis to Participate in the Citi 2026 Global Healthcare Conference",
+   "summary": "ALAMEDA, Calif., November 24, 2026--Exelixis, Inc. (Nasdaq: EXEL) today announced that company management will participate in a fireside chat at the Citi 2026 Global Healthcare Conference on Tuesday, December 1 at 1:00 p.m. ET / 10:00\u2026",
+   "url": "https://finnhub.io/api/news?id=6f8454a6a31c4fee68dd81037b8d6a18d760f96873f73cc2f57ac939c9b4098c",
+   "source": "Yahoo",
+   "published": "2026-11-24T21:05:00+00:00",
+   "tickers": [
+    "EXEL"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -1003,6 +1034,7 @@
    "source": "Yahoo",
    "published": "2026-11-24T21:01:00+00:00",
    "tickers": [
+    "AMGN",
     "BMY"
    ],
    "tag": "Legal",
@@ -1049,7 +1081,9 @@
    "published": "2026-11-24T21:00:38+00:00",
    "tickers": [
     "ABBV",
-    "JNJ"
+    "AMGN",
+    "JNJ",
+    "PFE"
    ],
    "tag": "FDA",
    "sectors": [
@@ -1081,6 +1115,36 @@
    "tickers": [],
    "tag": "FDA",
    "sectors": []
+  },
+  {
+   "id": "65279a9ef8a8",
+   "headline": "Where Does Texas' Data Center Boom Go From Here?",
+   "summary": "Texas paused data center permits, then resumed them. With Hinojosa next, here is where the Abilene-area buildout stands.",
+   "url": "https://finnhub.io/api/news?id=329ee2a0d87db82f7b3824469e34e35de695fa6ddc9050c21b42a83881143967",
+   "source": "Yahoo",
+   "published": "2026-11-24T21:00:00+00:00",
+   "tickers": [
+    "ABT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "69441ee7cea4",
+   "headline": "Sector Update: Healthcare Stocks Gain Late Afternoon",
+   "summary": "Healthcare stocks rose late Tuesday afternoon with the NYSE Healthcare Index adding 2.6% and the Sta",
+   "url": "https://finnhub.io/api/news?id=04810e369f019ab2311da9b42da6650e34ec7540fd7e2bb9252da5f4d817edf7",
+   "source": "Yahoo",
+   "published": "2026-11-24T20:59:50+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
   },
   {
    "id": "7ef688fbbeeb",
@@ -1120,6 +1184,7 @@
    "source": "Yahoo",
    "published": "2026-11-24T20:46:04+00:00",
    "tickers": [
+    "ABT",
     "BSX"
    ],
    "tag": "Earnings",
@@ -1150,7 +1215,9 @@
    "source": "Yahoo",
    "published": "2026-11-24T20:45:51+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "AMGN",
+    "PFE"
    ],
    "tag": "Analyst",
    "sectors": [
@@ -1210,11 +1277,28 @@
    "source": "Yahoo",
    "published": "2026-11-24T20:30:40+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "AMGN",
+    "PFE"
    ],
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "d2a787f03481",
+   "headline": "Incyte (INCY) Stock Is Up 5.1% Today as Health Care Stocks Rally",
+   "summary": "Incyte shares rose 5.1% on Tuesday, Nov. 24, along with health care stocks and without company-specific news, as the S&P 500 fell.",
+   "url": "https://finnhub.io/api/news?id=79d15dbdd7bb49306975da481f20178a3fe07991123a106e12ef31e4704821d9",
+   "source": "Yahoo",
+   "published": "2026-11-24T20:30:38+00:00",
+   "tickers": [
+    "INCY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -1242,6 +1326,21 @@
    "tickers": [],
    "tag": "Policy",
    "sectors": []
+  },
+  {
+   "id": "83e8d90808a9",
+   "headline": "What Is GE HealthCare Technologies (GEHC) Signaling With Its RSNA 2026 AI Push?",
+   "summary": "GE HealthCare Technologies (NasdaqGS:GEHC) used RSNA 2026 to unveil a slate of AI, imaging, and workflow products. The business introduced ViewPoint Ultra, an enterprise-wide ultrasound reporting and analytics platform aimed at\u2026",
+   "url": "https://finnhub.io/api/news?id=7ccb2dfb0cf10bca44d1b816bfe4ae4efff85fb542e4a54a766bc4fda8b5958d",
+   "source": "Yahoo",
+   "published": "2026-11-24T20:12:48+00:00",
+   "tickers": [
+    "GEHC"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "medtech"
+   ]
   },
   {
    "id": "c685b3f7e7df",
