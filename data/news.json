@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-24T10:17:50.921044+00:00",
+ "updated": "2026-11-24T10:32:30.562505+00:00",
  "quotes": {
   "A": {
    "price": 176.04,
@@ -89,10 +89,6 @@
   "ENSG": {
    "price": 177.78,
    "change_pct": 0.83
-  },
-  "EW": {
-   "price": 105.06,
-   "change_pct": 3.15
   },
   "EXEL": {
    "price": 66.82,
@@ -321,6 +317,10 @@
   "VRTX": {
    "price": 538.54,
    "change_pct": 4.57
+  },
+  "ZBH": {
+   "price": 105.98,
+   "change_pct": 4.83
   }
  },
  "tickers": {
@@ -938,6 +938,36 @@
  },
  "stories": [
   {
+   "id": "a75d61dcd450",
+   "headline": "GE HealthCare launches ViewPoint Ultra to simplify ultrasound workflows",
+   "summary": "GE HealthCare has launched ViewPoint Ultra, an ultrasound workflow solution designed to help health systems standardize clinical documentation and reporting across sites and departments while supporting specialized individual care needs.",
+   "url": "https://www.fiercebiotech.com/medtech/ge-healthcare-launches-viewpoint-ultra-simplify-ultrasound-workflows",
+   "source": "Fierce Biotech",
+   "published": "2026-11-24T10:30:22.543940+00:00",
+   "tickers": [
+    "GEHC"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "2736d5deea49",
+   "headline": "CVS Has Beaten Earnings Estimates 6 Quarters Straight. Why Is the Stock Under $90?",
+   "summary": "CVS's breakup plan introduces new uncertainty for shareholders.",
+   "url": "https://finnhub.io/api/news?id=5579104aad6944105e319cf49346398a819c03f70a87ad71c7b4b9565f0c1af7",
+   "source": "Yahoo",
+   "published": "2026-11-24T09:50:02+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "d2c9e4df78a1",
    "headline": "Sanofi inks massive $41B Insmed buyout for post-Dupixent growth drivers",
    "summary": "Sanofi has struck a deal to acquire Insmed for $41 billion, securing three commercial and late-phase respiratory assets to offset Dupixent\u2019s looming loss of exclusivity.",
@@ -1201,6 +1231,21 @@
    "tag": "Legal",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "2a04bb248497",
+   "headline": "Agilent: 3 Growth Drivers Could Keep This Rally Going",
+   "summary": "Agilent Technologies remains a Buy, supported by broadening pharma, biotech, China, and applied-market demand, alongside improving operating leverage.",
+   "url": "https://finnhub.io/api/news?id=7f23a6544982e632c8ce0e740e0bb6eebd533e03ebab768062d1340f16656160",
+   "source": "SeekingAlpha",
+   "published": "2026-11-24T04:45:42+00:00",
+   "tickers": [
+    "A"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
    ]
   },
   {
