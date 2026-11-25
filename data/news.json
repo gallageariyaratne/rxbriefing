@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-25T14:02:59.104443+00:00",
+ "updated": "2026-11-25T14:17:44.949139+00:00",
  "quotes": {
   "A": {
    "price": 183.52,
@@ -149,6 +149,10 @@
   "GSK": {
    "price": 50.07,
    "change_pct": 3.09
+  },
+  "HCA": {
+   "price": 481.77,
+   "change_pct": 0.38
   },
   "HIMS": {
    "price": 14.74,
@@ -317,10 +321,6 @@
   "UNH": {
    "price": 341.88,
    "change_pct": 1.73
-  },
-  "UTHR": {
-   "price": 585.25,
-   "change_pct": 4.64
   }
  },
  "tickers": {
@@ -938,6 +938,17 @@
  },
  "stories": [
   {
+   "id": "a8090533df1f",
+   "headline": "Bayer to pull kidney blockbuster Kerendia in Germany amid reimbursement dispute",
+   "summary": "After a reimbursement dispute with German health regulators, Bayer is pulling its kidney disease and heart failure blockbuster Kerendia from the market there.",
+   "url": "https://www.fiercepharma.com/pharma/bayer-pulls-kidney-blockbuster-kerendia-german-health-system-amid-pricing-dispute",
+   "source": "Fierce Pharma",
+   "published": "2026-11-25T14:15:26.452616+00:00",
+   "tickers": [],
+   "tag": "Policy",
+   "sectors": []
+  },
+  {
    "id": "3f14121a0a13",
    "headline": "Finnish biotech delivers durable symptom relief in phase 2 birch pollen allergy trial",
    "summary": "A phase 2 trial of Desentum\u2019s birch pollen allergen immunotherapy has hit its primary endpoint, teeing up further study of a short-course medication that could provide a persistent effect.",
@@ -967,8 +978,8 @@
    "source": "STAT",
    "published": "2026-11-25T13:55:58+00:00",
    "tickers": [
-    "GSK",
-    "BNTX"
+    "BNTX",
+    "GSK"
    ],
    "tag": "News",
    "sectors": [
@@ -1013,6 +1024,21 @@
    ]
   },
   {
+   "id": "75ee99b7146b",
+   "headline": "A $41 Billion Deal and Three New Approvals Fill Biotech's Holiday Week",
+   "summary": "Biotech Today News Commentary - Thanksgiving week has brought a burst of good news for drug developers, with a $41.0 billion acquisition, three new U.S. approvals announced by the companies involved, and fresh mid-stage data, all in the\u2026",
+   "url": "https://finnhub.io/api/news?id=ab986b0b80537cc9cc677a63982b6c6e90fdd9f280788d8e40e8b9f0a7bc0ebc",
+   "source": "Yahoo",
+   "published": "2026-11-25T12:45:00+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "622768a34b14",
    "headline": "TG Therapeutics (NASDAQ:TGTX): An Affordable Growth Stock With a Growth-at-a-Reasonable-Price Case",
    "summary": "TG Therapeutics (TGTX) fits an Affordable Growth screen with strong revenue/EPS growth, solid margins, and forward valuation support.",
@@ -1038,6 +1064,36 @@
     "GSK"
    ],
    "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "51a38097dab9",
+   "headline": "If You Invested $1000 in HCA Healthcare 10 Years Ago, This Is How Much You'd Have Now",
+   "summary": "Why investing for the long run, especially if you buy certain popular stocks, could reap huge rewards.",
+   "url": "https://finnhub.io/api/news?id=924fa6087f0b1ce0508a7990b00777925b0e2b06cc296da33dc21bd417ee0c28",
+   "source": "Yahoo",
+   "published": "2026-11-25T12:30:02+00:00",
+   "tickers": [
+    "HCA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "e13c74e6d8e9",
+   "headline": "What Could Still Lift AbbVie Stock?",
+   "summary": "Today's big story: Anthropic Below Its IPO Price: Do Giants Come Back.",
+   "url": "https://finnhub.io/api/news?id=48a875ba9d36253a38c05fa6703bdff15fc1589e528269be05e9d750a9fde0d9",
+   "source": "Yahoo",
+   "published": "2026-11-25T11:57:04+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "Financing",
    "sectors": [
     "pharma"
    ]
@@ -1346,6 +1402,21 @@
    ]
   },
   {
+   "id": "a718e1bcd649",
+   "headline": "Barclays Maintains Equal-Weight on Medtronic, Raises Price Target to $100",
+   "summary": "Barclays analyst Christopher Pasquale maintains Medtronic (NYSE:MDT) with a Equal-Weight and raises the price target from $95 to $100.",
+   "url": "https://finnhub.io/api/news?id=5204fc5719836d1ce7be2dcd4f4d940a7b33b226f94133cc8b7bcdd617f9d651",
+   "source": "Benzinga",
+   "published": "2026-11-25T09:56:00+00:00",
+   "tickers": [
+    "MDT"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "9a5d9f66a2d4",
    "headline": "\u2018The potential is there\u2019: BetterLife\u2019s LSD cousin mirrors neuroplasticity in mice without the hallucinations",
    "summary": "With the boom in researching psychedelics for the treatment of neurological conditions, scientists have begun to explore ways to alter these drugs to remove the hallucinogenic effects while salvaging the neuroplastic tendencies of these\u2026",
@@ -1355,6 +1426,22 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "b4aee6d88aea",
+   "headline": "Tempus Wins 5-Year Extension Of Strategic Oncology Collaboration With AstraZeneca",
+   "summary": "Under the renewed agreement, Tempus and AstraZeneca will extend their collaboration, leveraging de-identified multimodal data, integrated scientific intelligence, clinical trial network access and strategic initiatives",
+   "url": "https://finnhub.io/api/news?id=134584466a882ce020ba91b4d968cbd66ba01259e29a6f1ab9d6b70162f0fd58",
+   "source": "Benzinga",
+   "published": "2026-11-25T09:31:48+00:00",
+   "tickers": [
+    "AZN",
+    "TEM"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "05ed79556b1d",
@@ -1424,6 +1511,21 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "17282554aee3",
+   "headline": "12 Health Care Stocks Moving In Wednesday's Pre-Market Session",
+   "summary": "Gainers NewGenIvf Group (NASDAQ:NIVF) stock rose 58.8% to $0.03 during Wednesday's pre-market session. Apimeds Pharmaceuticals (AMEX:APUS) shares moved upwards by 22.83% to $2.84. The market value of their",
+   "url": "https://finnhub.io/api/news?id=af901392c8a42784e7ec043a4f2663ff90bfe8232804740e679aa77d6db53453",
+   "source": "Benzinga",
+   "published": "2026-11-25T08:05:29+00:00",
+   "tickers": [
+    "GDRX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharmacy"
    ]
   },
   {
@@ -1845,6 +1947,17 @@
    "published": "2026-11-24T23:00:31.129283+00:00",
    "tickers": [],
    "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "050f50930628",
+   "headline": "Rural health orgs keep pace with chronic care demand, but Medicaid cuts could change that",
+   "summary": "While rural healthcare providers are managing to meet the rising demand for chronic care, upcoming Medicaid cuts could complicate matters.",
+   "url": "https://www.healthcaredive.com/news/rural-health-orgs-keep-pace-with-chronic-care-demand-but-medicaid-cuts-cou/875567/",
+   "source": "Healthcare Dive",
+   "published": "2026-11-24T22:44:14+00:00",
+   "tickers": [],
+   "tag": "Policy",
    "sectors": []
   },
   {
@@ -3614,6 +3727,21 @@
    ]
   },
   {
+   "id": "dcea5a9efafe",
+   "headline": "GoodRx Holdings Raises FY2026 Sales Guidance from $790.000M-$805.000M to $844.000M-$850.000M vs $798.291M Est",
+   "summary": "GoodRx Holdings (NASDAQ:GDRX) raises FY2026 sales outlook from $790.000 million-$805.000 million to $844.000 million-$850.000 million vs $798.291 million estimate.",
+   "url": "https://finnhub.io/api/news?id=5fb2199bfc6ad412e8e0665b5f7431728328e353d2e6dc2d907fdac1973a442d",
+   "source": "Benzinga",
+   "published": "2026-11-24T17:20:43+00:00",
+   "tickers": [
+    "GDRX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
+  {
    "id": "9a916ed98772",
    "headline": "What Could Humana (HUM) Cancer Care Model Mean For Patients And Costs?",
    "summary": "Humana (NYSE:HUM) has launched a new cancer care model in partnership with Evolent Health and American Oncology Network. The collaboration focuses on reducing prior authorization barriers for oncology treatments to streamline access for\u2026",
@@ -4668,6 +4796,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "ed4661cfa7b2",
+   "headline": "BTIG Maintains Buy on Medtronic, Lowers Price Target to $108",
+   "summary": "BTIG analyst Ryan Zimmerman maintains Medtronic (NYSE:MDT) with a Buy and lowers the price target from $109 to $108.",
+   "url": "https://finnhub.io/api/news?id=bc10688097299ff7e2fee9635ccd0e86069e9ee3a249912fdc2895ba2a17486e",
+   "source": "Benzinga",
+   "published": "2026-11-24T14:50:20+00:00",
+   "tickers": [
+    "MDT"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -5732,6 +5875,21 @@
    ]
   },
   {
+   "id": "ee08abd7e708",
+   "headline": "8 Of 11 Sectors Rise Tuesday As Defensives Lead",
+   "summary": "Tuesday's regular session has eight sectors higher and three lower, with defensive sectors holding the top two positions. The leaders are separated rather than clustered, with Health Care and Consumer Staples ahead of the rest of the table.",
+   "url": "https://finnhub.io/api/news?id=37dd8624437c8b63ae7f493f24a751f8b16d32426983b4e2362706aec7cd3525",
+   "source": "Benzinga",
+   "published": "2026-11-24T12:00:22+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "68294054c6a2",
    "headline": "Insulet Appoints Todd Trapp Chief Financial Officer",
    "summary": "ACTON, Mass., November 24, 2026--Insulet Corporation (NASDAQ: PODD) (Insulet or the Company), the global leader in tubeless insulin pump technology with its Omnipod\u00ae brand, today announced that Todd Trapp has been appointed Executive Vice\u2026",
@@ -6078,6 +6236,36 @@
    "url": "https://finnhub.io/api/news?id=116d61b02ffbfab873122c1da9c59d44be3021cabc6a3818f985f37f9a7416f7",
    "source": "SeekingAlpha",
    "published": "2026-11-24T11:01:17+00:00",
+   "tickers": [
+    "MDT"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "070e4f92f07f",
+   "headline": "AbbVie Wins Landmark FDA Nod for Rinvoq for Common Form Of Vitiligo",
+   "summary": "FDA approved AbbVie's daily oral drug Rinvoq as the first systemic therapy for adults and adolescents with nonsegmental vitiligo.",
+   "url": "https://finnhub.io/api/news?id=ed2cec2289cc49aa7d541eee91983c0bdc1e909f0ebf8956244a4a71b47ddf8e",
+   "source": "Benzinga",
+   "published": "2026-11-24T10:59:49+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "7ed8908e3c62",
+   "headline": "Medtronic Reaffirms Fiscal 2027 Outlook While Warning of Harder Second-Half Comparisons and China Pressures",
+   "summary": "Medtronic stock drops after Q2 fiscal 2027 earnings beat estimates at $1.34 per share while $9.364 billion revenue misses forecasts amid MiniMed split.",
+   "url": "https://finnhub.io/api/news?id=47a1f1262f1d805f5a60e85c9918a22f43eac75b4efe9a068fb46ba2d13eba5b",
+   "source": "Benzinga",
+   "published": "2026-11-24T10:55:09+00:00",
    "tickers": [
     "MDT"
    ],
@@ -39850,21 +40038,6 @@
    "tag": "GLP-1",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "566d04c8869f",
-   "headline": "3 British AI Stocks With Revenue Up To \u00a34.7b",
-   "summary": "Artificial intelligence in healthcare is drawing fresh attention as geopolitical risks push global companies to rethink supply chains and lean harder on automation and AI for resilience. That shift shines a light on British AI healthcare\u2026",
-   "url": "https://finnhub.io/api/news?id=21bf4a8a4f0c382e765b422ab7959f5af5e14c5f37a3224152e258cc1610dcdc",
-   "source": "Yahoo",
-   "published": "2026-11-15T14:09:43+00:00",
-   "tickers": [
-    "AZN"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
