@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-25T01:32:55.243692+00:00",
+ "updated": "2026-11-25T01:47:34.571608+00:00",
  "quotes": {
   "A": {
    "price": 183.52,
@@ -69,6 +69,10 @@
   "CI": {
    "price": 275,
    "change_pct": 1.68
+  },
+  "CLDX": {
+   "price": 31.23,
+   "change_pct": 7.73
   },
   "CNC": {
    "price": 64.35,
@@ -294,6 +298,10 @@
    "price": 22.6,
    "change_pct": 2.4
   },
+  "TDOC": {
+   "price": 7.52,
+   "change_pct": -2.08
+  },
   "TGTX": {
    "price": 70.13,
    "change_pct": 9.6
@@ -313,14 +321,6 @@
   "UTHR": {
    "price": 585.25,
    "change_pct": 4.64
-  },
-  "VEEV": {
-   "price": 273.62,
-   "change_pct": 1.85
-  },
-  "VRTX": {
-   "price": 563.92,
-   "change_pct": 4.71
   }
  },
  "tickers": {
@@ -1702,6 +1702,7 @@
    "source": "Yahoo",
    "published": "2026-11-24T20:45:49+00:00",
    "tickers": [
+    "CLDX",
     "REGN",
     "SNY"
    ],
@@ -3370,6 +3371,21 @@
    "tag": "FDA",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "6344b179340b",
+   "headline": "Teladoc Health (TDOC) Stock Still Looks Cheap Following Its 93% Slump",
+   "summary": "Teladoc Health has seen its share price move through a sharp reset over recent years, which puts fresh focus on a simple question. Are the cash flows the business can reasonably generate enough to support where the stock trades today?\u2026",
+   "url": "https://finnhub.io/api/news?id=d46494c553739a5557d2efcfc7a4eb5895575337916c7cee5df62712c0e8a950",
+   "source": "Yahoo",
+   "published": "2026-11-24T15:12:21+00:00",
+   "tickers": [
+    "TDOC"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
    ]
   },
   {
