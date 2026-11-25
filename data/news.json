@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-25T21:17:30.604546+00:00",
+ "updated": "2026-11-25T21:32:46.459869+00:00",
  "quotes": {
   "A": {
    "price": 178.44,
@@ -230,13 +230,13 @@
    "price": 54.39,
    "change_pct": 4.8
   },
-  "SRPT": {
-   "price": 14.96,
-   "change_pct": -0.86
-  },
   "SYK": {
    "price": 332.9,
    "change_pct": 2.72
+  },
+  "TAK": {
+   "price": 23.01,
+   "change_pct": 1.81
   },
   "TEM": {
    "price": 54.74,
@@ -897,6 +897,17 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "e0e914f70865",
+   "headline": "Why Medicare\u2019s 2027 physician pay changes worry some specialists",
+   "summary": "Cuts to Medicare physician payment rates for certain same-day services could impact some specialists more than others.",
+   "url": "https://www.statnews.com/2026/11/25/medicare-physician-fee-schedule-change-worry-some-specialists/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-11-25T21:28:53+00:00",
+   "tickers": [],
+   "tag": "Policy",
+   "sectors": []
+  },
   {
    "id": "0c2c9ae8f644",
    "headline": "STAT+: FDA approves Cogent\u2019s drug for rare stomach cancer",
@@ -1712,6 +1723,7 @@
    "published": "2026-11-25T15:25:01+00:00",
    "tickers": [
     "AZN",
+    "BMY",
     "GSK"
    ],
    "tag": "FDA",
@@ -1729,7 +1741,8 @@
    "tickers": [
     "ABBV",
     "ARGX",
-    "AZN"
+    "AZN",
+    "TAK"
    ],
    "tag": "News",
    "sectors": [
@@ -42348,21 +42361,6 @@
    "tag": "News",
    "sectors": [
     "medtech"
-   ]
-  },
-  {
-   "id": "65e44355847c",
-   "headline": "Financial Times Reported Sunday J&J In Talks to Buy Eye Disease Biotech Co Ollin For Up To $3.4B",
-   "summary": "https://www.ft.com/content/450100ba-074c-46a6-b962-89dbef146135?FTCamp=engage/CAPI/app/Channel_Refinitiv//B2B",
-   "url": "https://finnhub.io/api/news?id=2182ce438e63d7ec5efa4026bba6ec91b8a5f534360bbd96a80e1b1f2e9ba43a",
-   "source": "Benzinga",
-   "published": "2026-11-15T21:22:31+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
