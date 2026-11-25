@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-25T13:47:35.477621+00:00",
+ "updated": "2026-11-25T14:02:59.104443+00:00",
  "quotes": {
   "A": {
    "price": 183.52,
@@ -61,6 +61,10 @@
   "BMY": {
    "price": 62.02,
    "change_pct": 3.64
+  },
+  "BNTX": {
+   "price": 89.32,
+   "change_pct": 5.32
   },
   "BSX": {
    "price": 44.14,
@@ -209,10 +213,6 @@
   "LLY": {
    "price": 1407.59,
    "change_pct": 3.15
-  },
-  "MCK": {
-   "price": 1078.09,
-   "change_pct": 2.83
   },
   "MDGL": {
    "price": 429.8,
@@ -938,6 +938,55 @@
  },
  "stories": [
   {
+   "id": "3f14121a0a13",
+   "headline": "Finnish biotech delivers durable symptom relief in phase 2 birch pollen allergy trial",
+   "summary": "A phase 2 trial of Desentum\u2019s birch pollen allergen immunotherapy has hit its primary endpoint, teeing up further study of a short-course medication that could provide a persistent effect.",
+   "url": "https://www.fiercebiotech.com/biotech/desentum-delivers-durable-symptom-relief-phase-2-birch-pollen-allergy-trial",
+   "source": "Fierce Biotech",
+   "published": "2026-11-25T14:00:33.458332+00:00",
+   "tickers": [],
+   "tag": "Clinical",
+   "sectors": []
+  },
+  {
+   "id": "b038fe50f359",
+   "headline": "FDA issues noncompliance letters to 2 biotechs over lack of trial data reporting",
+   "summary": "The FDA has issued two biotechs with noncompliance letters for failure to report clinical trial results.",
+   "url": "https://www.fiercebiotech.com/biotech/fda-issues-noncompliance-letters-biotechs-over-lack-trial-data-reporting",
+   "source": "Fierce Biotech",
+   "published": "2026-11-25T14:00:33.457343+00:00",
+   "tickers": [],
+   "tag": "FDA",
+   "sectors": []
+  },
+  {
+   "id": "5b3722e87e48",
+   "headline": "STAT+: We\u2019re reading about BioNTech founders\u2019 oncology startup, a long-acting GSK drug, and more",
+   "summary": "The cofounders of BioNTech are in talks to raise about $1 billion for a new oncology company",
+   "url": "https://www.statnews.com/pharmalot/2026/11/25/biontech-founders-oncology-startup-gsk-egpa-drug-exdensur/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-11-25T13:55:58+00:00",
+   "tickers": [
+    "GSK",
+    "BNTX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "64699b074425",
+   "headline": "Inside HLTH 2026",
+   "summary": "From care delivery to costs, AI is reshaping every corner of healthcare. Healthcare Dive's reporters break down the biggest questions and takeaways from this year's HLTH.",
+   "url": "https://www.healthcaredive.com/news/inside-hlth-conference-2026/875665/",
+   "source": "Healthcare Dive",
+   "published": "2026-11-25T13:54:48+00:00",
+   "tickers": [],
+   "tag": "Health AI",
+   "sectors": []
+  },
+  {
    "id": "97a7a867ea7b",
    "headline": "RFK Jr. weighs in on plan to detonate toxic material in Iowa",
    "summary": "This morning, the Army plans to detonate a cache of \u201cdangerously degraded\u201d toxic material in Iowa, with experts warning of dangerous health consequences:",
@@ -947,6 +996,21 @@
    "tickers": [],
    "tag": "Policy",
    "sectors": []
+  },
+  {
+   "id": "1211ec5b43f6",
+   "headline": "Eli Lilly (NYSE:LLY): High Growth Momentum With a Breakout Setup",
+   "summary": "Eli Lilly clears a ChartMill screen combining strong growth momentum, technical strength, and a solid setup\u2014key metrics and risks for growth investors.",
+   "url": "https://finnhub.io/api/news?id=310a8520e5a765ea13b29945c4b247d0d2679fb3a8eabc863d0778a70608f40d",
+   "source": "ChartMill",
+   "published": "2026-11-25T13:00:56+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "622768a34b14",
@@ -1341,6 +1405,23 @@
     "MRNA"
    ],
    "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "a1f14f6f42a2",
+   "headline": "Novartis: Strong Kesimpta Sales, Higher Guidance, And More Upside",
+   "summary": "The bull case for Novartis AG: Q3 Kesimpta sales rose 21.4% year over year, and 2026 core operating income guidance is flat to low-single-digit growth.",
+   "url": "https://finnhub.io/api/news?id=49ecf0437d31a4937fa0a999ffd163e0a0d1ab5ea7b489048904d37529275cc3",
+   "source": "SeekingAlpha",
+   "published": "2026-11-25T08:37:11+00:00",
+   "tickers": [
+    "ALNY",
+    "LLY",
+    "MRK"
+   ],
+   "tag": "Earnings",
    "sectors": [
     "pharma"
    ]
@@ -39782,21 +39863,6 @@
     "AZN"
    ],
    "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "38ca6a5c929d",
-   "headline": "How Much Does a 65-Year-Old Need Invested in Dividend Stocks to Collect $2,000 a Month?",
-   "summary": "Three popular high-yield stocks promise a steady retirement paycheck, but one has a thin cash cushion and another has slashed its payout before. Which one could quietly shrink your monthly income when you can least afford it?",
-   "url": "https://finnhub.io/api/news?id=c291965015c77592880430d1a1635a04be4fd90dcb449e5b1bc4801100db6468",
-   "source": "Yahoo",
-   "published": "2026-11-15T13:47:05+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "News",
    "sectors": [
     "pharma"
    ]
