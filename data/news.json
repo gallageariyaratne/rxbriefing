@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-25T13:32:51.761063+00:00",
+ "updated": "2026-11-25T13:47:35.477621+00:00",
  "quotes": {
   "A": {
    "price": 183.52,
@@ -222,10 +222,6 @@
    "price": 96.13,
    "change_pct": -4.56
   },
-  "MEDP": {
-   "price": 631.4,
-   "change_pct": -0.5
-  },
   "MOH": {
    "price": 201.79,
    "change_pct": 2.31
@@ -321,6 +317,10 @@
   "UNH": {
    "price": 341.88,
    "change_pct": 1.73
+  },
+  "UTHR": {
+   "price": 585.25,
+   "change_pct": 4.64
   }
  },
  "tickers": {
@@ -1357,6 +1357,22 @@
     "SNY"
    ],
    "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "c05e500357e0",
+   "headline": "VFLO Vs. MOAT: MOAT For 2027, VFLO For The Long Run",
+   "summary": "Analyst rates VFLO a Strong Buy and MOAT a Buy; 4.29% overlap lets them complement each other, while VFLO's 24.2% energy stake may pressure near-term...",
+   "url": "https://finnhub.io/api/news?id=207185fa35bf76731b0c50c2f9b86c82cab9cc32bc91ca6ff30779aa57aba0b7",
+   "source": "SeekingAlpha",
+   "published": "2026-11-25T08:00:00+00:00",
+   "tickers": [
+    "GEHC",
+    "ZTS"
+   ],
+   "tag": "Analyst",
    "sectors": [
     "pharma"
    ]
