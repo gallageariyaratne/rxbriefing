@@ -1,7 +1,11 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-25T12:32:47.713025+00:00",
+ "updated": "2026-11-25T12:49:10.607155+00:00",
  "quotes": {
+  "A": {
+   "price": 183.52,
+   "change_pct": 4.25
+  },
   "ABBV": {
    "price": 300.28,
    "change_pct": 4.1
@@ -964,6 +968,66 @@
    ]
   },
   {
+   "id": "ba641bbfa9cd",
+   "headline": "How Much Could You Lose In UNH Stock?",
+   "summary": "UnitedHealth Group closed at $341.88 on Tuesday, November 24. That is 21.2% below its highest close of the past year, on July 21, once that close is adjusted for dividends paid since. If the whole market turns, how far could the stock\u2026",
+   "url": "https://finnhub.io/api/news?id=c54818db6d00bba7875a708bcd0f23905088943954b718d67d6158272dc0efb7",
+   "source": "Yahoo",
+   "published": "2026-11-25T11:21:10+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "a068667f6e91",
+   "headline": "Can One-Drug Exelixis Stock Compound Your Money?",
+   "summary": "Exelixis stock closed at $67.45 on Tuesday, Nov 24. Its total return over the past year was 58.7%, against 10.3% for the S&P 500. Over three years, the company cut its diluted share count by 19.9%. So each share now owns a bigger slice of\u2026",
+   "url": "https://finnhub.io/api/news?id=838d27971a74e56fffcf2fbfd2f5758430a8484b11a46982d8cd04889d965672",
+   "source": "Yahoo",
+   "published": "2026-11-25T11:16:58+00:00",
+   "tickers": [
+    "EXEL"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "15d367697c3b",
+   "headline": "Is Intuitive Surgical (ISRG) Fairly Valued After Fresh Optimism Around Procedure Growth?",
+   "summary": "Event-driven focus on Intuitive Surgical Intuitive Surgical (ISRG) is back in focus after new commentary highlighted its expanding installed base, rising procedure volumes, and growing contribution from the Ion diagnostic system alongside\u2026",
+   "url": "https://finnhub.io/api/news?id=9b133560e3ad5fc0acfbb082f2ba40caf48a5764e208931349dc341c2b1598ad",
+   "source": "Yahoo",
+   "published": "2026-11-25T11:13:04+00:00",
+   "tickers": [
+    "ISRG"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "684471567d0d",
+   "headline": "Is Intuitive Surgical Stock Worth 33 Times 2027 Profit?",
+   "summary": "For questions about this article or underlying research, email help@trefis.com.",
+   "url": "https://finnhub.io/api/news?id=d536a93495d079fa9979f15b5125bbcb6280f5c4e8240d651d57f822ffab6120",
+   "source": "Yahoo",
+   "published": "2026-11-25T11:10:43+00:00",
+   "tickers": [
+    "ISRG"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "4e9d7c75500f",
    "headline": "What FT Vest Dividend Aristocrats Target Income (KNG) Sold: BDX Leads on Nov. 23",
    "summary": "The fund sold $358.7 million of stock and bought nothing on Monday, cutting 50 positions.",
@@ -976,6 +1040,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "fa2971e42e51",
+   "headline": "What Invesco S&P 500 Low Volatility ETF (SPLV) Bought: Everest Leads on Nov. 23",
+   "summary": "The fund bought $71.9 million of Everest Group and $66.3 million each of Pfizer and Extra Space Storage, while selling $86.3 million of Veralto.",
+   "url": "https://finnhub.io/api/news?id=9c30b86ead10a4f16b0ef412e7331fcf2335b191235329c5a83c75c5e926b78f",
+   "source": "Yahoo",
+   "published": "2026-11-25T11:04:05+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1024,6 +1103,21 @@
    ]
   },
   {
+   "id": "276f3f6e8570",
+   "headline": "32 ETFs Add to Pfizer (PFE) Holdings on Monday",
+   "summary": "ETFs bought $80.2 million of Pfizer stock on Monday, with 32 buyers against 20 sellers.",
+   "url": "https://finnhub.io/api/news?id=e6d38abeafc99642c7c7ce78ca43381c168fd084a416f5444c00f86589a7591a",
+   "source": "Yahoo",
+   "published": "2026-11-25T11:01:27+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "2ee2aa25c9f3",
    "headline": "Vertex Could Land Its Fifth Franchise on Nov. 30. Should You Buy Before the FDA Decides?",
    "summary": "Buy Vertex stock now, buy later, or hold off altogether?",
@@ -1046,7 +1140,8 @@
    "source": "Yahoo",
    "published": "2026-11-25T10:39:48+00:00",
    "tickers": [
-    "BMY"
+    "BMY",
+    "PFE"
    ],
    "tag": "News",
    "sectors": [
@@ -1081,6 +1176,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "0962952de58b",
+   "headline": "Tagomics secures $13m to advance LiquiPath platform",
+   "summary": "LiquiPath is structured for use across both preclinical and clinical phases of therapeutic development.",
+   "url": "https://finnhub.io/api/news?id=970ba7db9b945b9653f23b7abd6f66f3dd544fcdd69ccdc020902e1a705b9615",
+   "source": "Yahoo",
+   "published": "2026-11-25T10:06:56+00:00",
+   "tickers": [
+    "ILMN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -1217,6 +1327,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "0c9128411f39",
+   "headline": "Humana Stock: Analyst Estimates & Ratings",
+   "summary": "Humana stock has outpaced the broader market this year, and analysts are fairly bullish about its prospects.",
+   "url": "https://finnhub.io/api/news?id=c4b5c82b2ae2b799f59fbcfc60cb8cdd22de25f3f653689a48e5f937051cdf02",
+   "source": "Yahoo",
+   "published": "2026-11-25T05:41:11+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "payers"
    ]
   },
   {
