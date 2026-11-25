@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-25T00:02:58.330801+00:00",
+ "updated": "2026-11-25T00:17:30.285494+00:00",
  "quotes": {
   "A": {
    "price": 183.52,
@@ -109,6 +109,10 @@
   "EXEL": {
    "price": 67.45,
    "change_pct": 0.94
+  },
+  "GDRX": {
+   "price": 3,
+   "change_pct": -0.99
   },
   "GEHC": {
    "price": 82.52,
@@ -317,10 +321,6 @@
   "VRTX": {
    "price": 563.92,
    "change_pct": 4.71
-  },
-  "WAY": {
-   "price": 27.02,
-   "change_pct": 3.25
   }
  },
  "tickers": {
@@ -947,6 +947,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "1e6dff199d3d",
+   "headline": "After-Hours Market Movers: Top Gainers and Losers",
+   "summary": "After-hours trading produced sharp moves both ways, led by SVRE, CNTY, FCHL, SEZL, AMBA and RMSG. See the top gainers and losers from the session.",
+   "url": "https://finnhub.io/api/news?id=7339795c94dcec7c95e750742e120a9841f314df16b850fe6bde56dbf0c9a652",
+   "source": "ChartMill",
+   "published": "2026-11-24T22:00:37+00:00",
+   "tickers": [
+    "GDRX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharmacy"
+   ]
   },
   {
    "id": "5519930aba67",
@@ -2033,6 +2048,21 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "fb88aa8b674b",
+   "headline": "Embecta Surges 40% On Q4 Earnings, I'm Less Enthusiastic",
+   "summary": "Embecta's $5.75-to-$8 jump is considered excessive, as the Q4 beat benefited from acquisitions and a tax benefit, while FY27 guidance disappoints.",
+   "url": "https://finnhub.io/api/news?id=bd64faed791e0b459135af72c280f6e27c44ee08621572a705ee7ee3db07fe15",
+   "source": "SeekingAlpha",
+   "published": "2026-11-24T18:13:03+00:00",
+   "tickers": [
+    "BDX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
    ]
   },
   {
