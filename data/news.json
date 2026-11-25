@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-25T11:02:43.916380+00:00",
+ "updated": "2026-11-25T11:17:35.971498+00:00",
  "quotes": {
   "A": {
    "price": 183.52,
@@ -250,10 +250,6 @@
    "price": 163.47,
    "change_pct": 3.41
   },
-  "NTLA": {
-   "price": 10.52,
-   "change_pct": 3.65
-  },
   "NVO": {
    "price": 40.31,
    "change_pct": 2.99
@@ -321,6 +317,10 @@
   "TEM": {
    "price": 54.83,
    "change_pct": -3.87
+  },
+  "TGTX": {
+   "price": 70.13,
+   "change_pct": 9.6
   }
  },
  "tickers": {
@@ -1224,6 +1224,21 @@
    "tag": "M&A",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "f44c095a70aa",
+   "headline": "GoodRx Q3 Earnings Call Highlights",
+   "summary": "GoodRx (NASDAQ:GDRX) reported third-quarter revenue of $218.4 million, driven by growth in its PharmaDirect and subscription businesses, but said total revenue growth in 2027 is unlikely as prescription transaction sales decline and\u2026",
+   "url": "https://finnhub.io/api/news?id=95498c3996408aadf8fadf780713c429d4441c7f8266023ba4324e4a8571980d",
+   "source": "Yahoo",
+   "published": "2026-11-25T01:13:15+00:00",
+   "tickers": [
+    "GDRX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharmacy"
    ]
   },
   {
