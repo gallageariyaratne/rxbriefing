@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-25T03:02:48.163715+00:00",
+ "updated": "2026-11-25T03:17:30.160658+00:00",
  "quotes": {
   "A": {
    "price": 183.52,
@@ -141,6 +141,10 @@
   "GEHC": {
    "price": 82.52,
    "change_pct": 1.49
+  },
+  "GH": {
+   "price": 158,
+   "change_pct": 2.48
   },
   "GILD": {
    "price": 178.29,
@@ -317,10 +321,6 @@
   "TAK": {
    "price": 22.6,
    "change_pct": 2.4
-  },
-  "TDOC": {
-   "price": 7.52,
-   "change_pct": -2.08
   }
  },
  "tickers": {
@@ -1275,7 +1275,9 @@
    "source": "SeekingAlpha",
    "published": "2026-11-24T21:12:54+00:00",
    "tickers": [
-    "ABT"
+    "ABBV",
+    "ABT",
+    "BDX"
    ],
    "tag": "News",
    "sectors": [
@@ -1326,6 +1328,21 @@
    "published": "2026-11-24T21:05:00+00:00",
    "tickers": [
     "EXEL"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "4949b659a4ec",
+   "headline": "Ultragenyx to Participate at Investor Conferences in December",
+   "summary": "NOVATO, Calif., Nov. 24, 2026 (GLOBE NEWSWIRE) -- Ultragenyx Pharmaceutical Inc. (NASDAQ: RARE), a biopharmaceutical company focused on the development and commercialization of novel therapies for serious rare and ultra-rare genetic\u2026",
+   "url": "https://finnhub.io/api/news?id=1319c6595e928bc84d9796278f19a8557ae4d8cf3a1fa31e13bcca94986ea39b",
+   "source": "Yahoo",
+   "published": "2026-11-24T21:05:00+00:00",
+   "tickers": [
+    "RARE"
    ],
    "tag": "News",
    "sectors": [
@@ -3121,6 +3138,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "d9b584fcf9ee",
+   "headline": "How Long Can GRAIL's Cash Last?",
+   "summary": "Today's big story: Nvidia Added $954 Billion In A Day. Is Jensen Huang Too Big To Fire.",
+   "url": "https://finnhub.io/api/news?id=05d048718bc49331659d03bd857048fe4ea2d53d2a2e8cdc7bbb1bc4fc08e2fc",
+   "source": "Yahoo",
+   "published": "2026-11-24T16:28:23+00:00",
+   "tickers": [
+    "GH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -5067,6 +5099,7 @@
    "tickers": [
     "KRYS",
     "NTLA",
+    "RARE",
     "SRPT"
    ],
    "tag": "News",
@@ -39160,37 +39193,6 @@
    "tag": "News",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "49069e82ede9",
-   "headline": "3 Space Stocks To Watch As Cheaper Launches Reshape Satellite Economics",
-   "summary": "SpaceX\u2019s latest Starship flight turned what sounded like science fiction into a live demo of cheaper, higher capacity access to orbit, and that ripples far beyond one private company. Lower launch costs can reshape the economics of\u2026",
-   "url": "https://finnhub.io/api/news?id=00bce05efa116c301dd529180b17a0268ee6955cf26cb523d454bf167e16abf5",
-   "source": "Yahoo",
-   "published": "2026-11-15T03:14:08+00:00",
-   "tickers": [
-    "NVS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "278a61eed3cf",
-   "headline": "LifeMD: 3 Key Takeaways for Long-Term Investors",
-   "summary": "Lower acquisition costs and flat overhead could let LifeMD keep more of each subscriber's revenue as patient volume grows.",
-   "url": "https://finnhub.io/api/news?id=ad5aa3191e87527576fc5388341ea0152c2d055a3b89e1afb427d5b7be6d73c8",
-   "source": "Yahoo",
-   "published": "2026-11-15T03:06:04+00:00",
-   "tickers": [
-    "LLY",
-    "NVO"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
