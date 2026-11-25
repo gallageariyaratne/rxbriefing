@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-25T01:47:34.571608+00:00",
+ "updated": "2026-11-25T02:02:50.652538+00:00",
  "quotes": {
   "A": {
    "price": 183.52,
@@ -17,6 +17,10 @@
   "ABT": {
    "price": 105.39,
    "change_pct": 2.0
+  },
+  "ALNY": {
+   "price": 164.61,
+   "change_pct": 5.53
   },
   "ALT": {
    "price": 1.38,
@@ -290,6 +294,10 @@
    "price": 51.9,
    "change_pct": 10.97
   },
+  "SOPH": {
+   "price": 6.56,
+   "change_pct": 1.39
+  },
   "SYK": {
    "price": 324.08,
    "change_pct": 2.51
@@ -313,14 +321,6 @@
   "TMO": {
    "price": 695.62,
    "change_pct": 1.1
-  },
-  "UNH": {
-   "price": 341.88,
-   "change_pct": 1.73
-  },
-  "UTHR": {
-   "price": 585.25,
-   "change_pct": 4.64
   }
  },
  "tickers": {
@@ -953,6 +953,21 @@
    ]
   },
   {
+   "id": "3d733c6d3705",
+   "headline": "Alnylam: 3 Key Takeaways for Long-Term Investors",
+   "summary": "Slower prescription conversion and Medicare policy uncertainty are, in part, forcing management to delay 2027 guidance, testing whether field expansion can sustain growth.",
+   "url": "https://finnhub.io/api/news?id=b1e3e3ed510d533314073d285813242ea907d195bef188bf7cc5304101a5d20f",
+   "source": "Yahoo",
+   "published": "2026-11-24T23:42:01+00:00",
+   "tickers": [
+    "ALNY"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "6c2e4c3d3199",
    "headline": "Fewer choices available to enrollees on ACA exchanges: RWJF",
    "summary": "The number of regions where patients have limited choices for Affordable Care Act plans is on the rise, according to a new analysis.",
@@ -1168,7 +1183,8 @@
    "source": "Yahoo",
    "published": "2026-11-24T21:01:19+00:00",
    "tickers": [
-    "MRNA"
+    "MRNA",
+    "RVMD"
    ],
    "tag": "News",
    "sectors": [
@@ -1246,7 +1262,8 @@
    "source": "Yahoo",
    "published": "2026-11-24T21:00:58+00:00",
    "tickers": [
-    "MRNA"
+    "MRNA",
+    "RVMD"
    ],
    "tag": "News",
    "sectors": [
@@ -1261,7 +1278,8 @@
    "source": "Yahoo",
    "published": "2026-11-24T21:00:58+00:00",
    "tickers": [
-    "MRNA"
+    "MRNA",
+    "RVMD"
    ],
    "tag": "News",
    "sectors": [
@@ -1276,7 +1294,8 @@
    "source": "Yahoo",
    "published": "2026-11-24T21:00:55+00:00",
    "tickers": [
-    "MRNA"
+    "MRNA",
+    "RVMD"
    ],
    "tag": "News",
    "sectors": [
@@ -1293,6 +1312,7 @@
    "tickers": [
     "MRNA",
     "REGN",
+    "RVMD",
     "SNY",
     "VRTX"
    ],
@@ -1311,6 +1331,7 @@
    "tickers": [
     "MRNA",
     "REGN",
+    "RVMD",
     "SNY"
    ],
    "tag": "News",
@@ -1328,6 +1349,7 @@
    "tickers": [
     "MRNA",
     "REGN",
+    "RVMD",
     "SNY",
     "VRTX"
    ],
@@ -1366,6 +1388,7 @@
    "published": "2026-11-24T21:00:36+00:00",
    "tickers": [
     "MRNA",
+    "RVMD",
     "SNY"
    ],
    "tag": "News",
@@ -1382,7 +1405,8 @@
    "published": "2026-11-24T21:00:35+00:00",
    "tickers": [
     "JNJ",
-    "MRNA"
+    "MRNA",
+    "RVMD"
    ],
    "tag": "News",
    "sectors": [
@@ -1399,6 +1423,7 @@
    "tickers": [
     "MRNA",
     "REGN",
+    "RVMD",
     "SNY"
    ],
    "tag": "News",
@@ -1426,6 +1451,7 @@
    "published": "2026-11-24T21:00:17+00:00",
    "tickers": [
     "MRNA",
+    "RVMD",
     "SNY"
    ],
    "tag": "News",
@@ -1534,6 +1560,7 @@
    "tickers": [
     "MRNA",
     "REGN",
+    "RVMD",
     "SNY"
    ],
    "tag": "News",
@@ -1551,6 +1578,7 @@
    "tickers": [
     "MRNA",
     "REGN",
+    "RVMD",
     "SNY",
     "VRTX"
    ],
@@ -1569,6 +1597,7 @@
    "tickers": [
     "MRNA",
     "REGN",
+    "RVMD",
     "SNY"
    ],
    "tag": "News",
@@ -1584,7 +1613,8 @@
    "source": "Yahoo",
    "published": "2026-11-24T20:46:12+00:00",
    "tickers": [
-    "MRNA"
+    "MRNA",
+    "RVMD"
    ],
    "tag": "News",
    "sectors": [
@@ -1601,6 +1631,7 @@
    "tickers": [
     "MRNA",
     "REGN",
+    "RVMD",
     "SNY"
    ],
    "tag": "News",
@@ -1617,6 +1648,7 @@
    "published": "2026-11-24T20:46:06+00:00",
    "tickers": [
     "MRNA",
+    "RVMD",
     "SNY"
    ],
    "tag": "News",
@@ -1651,6 +1683,7 @@
    "tickers": [
     "MRNA",
     "REGN",
+    "RVMD",
     "SNY",
     "VRTX"
    ],
@@ -1667,7 +1700,8 @@
    "source": "Yahoo",
    "published": "2026-11-24T20:45:57+00:00",
    "tickers": [
-    "MRNA"
+    "MRNA",
+    "RVMD"
    ],
    "tag": "News",
    "sectors": [
@@ -1704,6 +1738,7 @@
    "tickers": [
     "CLDX",
     "REGN",
+    "RVMD",
     "SNY"
    ],
    "tag": "News",
@@ -1975,6 +2010,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "13d7e3e1fd88",
+   "headline": "Tracking Al Gore's Generation Investment Management Portfolio - Q3 2026 Update",
+   "summary": "Generation Investment Management's 13F portfolio fell to $9.39 billion from $10.29 billion, while Synopsys became its largest new stake at 4.10%.",
+   "url": "https://finnhub.io/api/news?id=a7efbbaf7e2ef617fe0d553aff642b9c2bf0fe2a1d735012ef72718afb55d6cf",
+   "source": "SeekingAlpha",
+   "published": "2026-11-24T19:59:04+00:00",
+   "tickers": [
+    "SOPH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthai"
    ]
   },
   {
