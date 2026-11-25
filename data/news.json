@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-25T12:49:10.607155+00:00",
+ "updated": "2026-11-25T13:02:51.616178+00:00",
  "quotes": {
   "A": {
    "price": 183.52,
@@ -85,10 +85,6 @@
   "CNC": {
    "price": 64.35,
    "change_pct": 1.63
-  },
-  "COR": {
-   "price": 349.68,
-   "change_pct": 3.44
   },
   "CRSP": {
    "price": 44.1,
@@ -321,6 +317,10 @@
   "TEM": {
    "price": 54.83,
    "change_pct": -3.87
+  },
+  "TGTX": {
+   "price": 70.13,
+   "change_pct": 9.6
   }
  },
  "tickers": {
@@ -938,6 +938,21 @@
  },
  "stories": [
   {
+   "id": "622768a34b14",
+   "headline": "TG Therapeutics (NASDAQ:TGTX): An Affordable Growth Stock With a Growth-at-a-Reasonable-Price Case",
+   "summary": "TG Therapeutics (TGTX) fits an Affordable Growth screen with strong revenue/EPS growth, solid margins, and forward valuation support.",
+   "url": "https://finnhub.io/api/news?id=080aac50dd97dca0c8eea2814da1b455939f52b068a695e2dcb394fcac1fe2d2",
+   "source": "ChartMill",
+   "published": "2026-11-25T12:30:48+00:00",
+   "tickers": [
+    "TGTX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "ecd5a9460578",
    "headline": "GSK eyes approval filings after asthma med Exdensur scores in rare vascular disease",
    "summary": "Approaching one year since the medicine\u2019s FDA approval, GSK is bolstering the case for its ultra-long-acting biologic Exdensur to help patients beyond its inaugural indication in severe asthma.",
@@ -948,6 +963,36 @@
     "GSK"
    ],
    "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "5b994d50491c",
+   "headline": "What Could Lift Hims & Hers Stock From Here?",
+   "summary": "Today's big story: Anthropic Below Its IPO Price: Do Giants Come Back.",
+   "url": "https://finnhub.io/api/news?id=5af24cd64450536326422b42a9f5315183264bcaa7e19bda2dcc203fdb34cc20",
+   "source": "Yahoo",
+   "published": "2026-11-25T11:54:58+00:00",
+   "tickers": [
+    "HIMS"
+   ],
+   "tag": "Financing",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
+   "id": "97b30e0d5218",
+   "headline": "Merck to Participate in the Citi 2026 Global Healthcare Conference",
+   "summary": "RAHWAY, N.J., November 25, 2026--Merck to Participate in the Citi 2026 Global Healthcare Conference",
+   "url": "https://finnhub.io/api/news?id=c3c0c527d94e461f7d80b5ae72de568cf88546dae1cce346ddcd89b122e37f2b",
+   "source": "Yahoo",
+   "published": "2026-11-25T11:45:00+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "News",
    "sectors": [
     "pharma"
    ]
@@ -1028,6 +1073,21 @@
    ]
   },
   {
+   "id": "87f25f5159a1",
+   "headline": "Invesco S&P 500 High Beta (SPHB) Buys $13.4 Million More Bloom Energy on Monday",
+   "summary": "The fund bought $13.4 million of Bloom Energy and $9.5 million of Everpure, while selling $18.0 million of Moderna.",
+   "url": "https://finnhub.io/api/news?id=9c9895fb6d6469f397f40ca677aeb6c0ba40c2776f466144c2282906386c887a",
+   "source": "Yahoo",
+   "published": "2026-11-25T11:05:39+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "4e9d7c75500f",
    "headline": "What FT Vest Dividend Aristocrats Target Income (KNG) Sold: BDX Leads on Nov. 23",
    "summary": "The fund sold $358.7 million of stock and bought nothing on Monday, cutting 50 positions.",
@@ -1040,6 +1100,22 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "c4c8023abe5c",
+   "headline": "What Invesco S&P 500 Equal Weight ETF (RSP) Sold: Moderna Leads on Nov. 23",
+   "summary": "The fund sold $550.0 million of stock on Monday, Nov. 23, trimming all 503 of its positions and buying nothing.",
+   "url": "https://finnhub.io/api/news?id=f27e67d4ccaaf3b6888418dfc61c27ddec230d0d824d73cb7b1500a220cf2a58",
+   "source": "Yahoo",
+   "published": "2026-11-25T11:04:43+00:00",
+   "tickers": [
+    "IDXX",
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1065,7 +1141,8 @@
    "source": "Yahoo",
    "published": "2026-11-25T11:03:37+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "MRK"
    ],
    "tag": "News",
    "sectors": [
@@ -39695,70 +39772,6 @@
    "tag": "News",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "7caddd570a50",
-   "headline": "FDA rejects Summit\u2019s ivonescimab, derailing US arrival of much-hyped PD-1xVEGF class",
-   "summary": "The FDA has issued a complete response letter to Summit Therapeutics, derailing the immediate U.S. launch of a drug class that many industry heavyweights believe could eventually dethrone Merck & Co.\u2019s Keytruda.",
-   "url": "https://www.fiercepharma.com/pharma/fda-rejects-summit-therapeutics-pd-1-vegf-ivonescimab-nsclc",
-   "source": "Fierce Pharma",
-   "published": "2026-11-15T13:00:28.426596+00:00",
-   "tickers": [
-    "MRK",
-    "SMMT"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "biotech",
-    "pharma"
-   ]
-  },
-  {
-   "id": "93fbc7f9ae64",
-   "headline": "FDA rejects Summit\u2019s ivonescimab, derailing US arrival of much-hyped PD-1xVEGF class",
-   "summary": "The FDA has issued a complete response letter to Summit Therapeutics, derailing the immediate U.S. launch of a drug class that many industry heavyweights believe could eventually dethrone Merck & Co.\u2019s Keytruda.",
-   "url": "https://www.fiercebiotech.com/pharma/fda-rejects-summit-therapeutics-pd-1-vegf-ivonescimab-nsclc",
-   "source": "Fierce Biotech",
-   "published": "2026-11-15T13:00:28.276377+00:00",
-   "tickers": [
-    "MRK",
-    "SMMT"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "biotech",
-    "pharma"
-   ]
-  },
-  {
-   "id": "88176d8d6dae",
-   "headline": "A $5.9 Billion Fund Bought These 3 Stocks",
-   "summary": "Key TakeawaysA $5. 9 billion fund more than tripled its Alphabet stake and added heavily to Danaher and Visa in the quarter ended June 30.",
-   "url": "https://finnhub.io/api/news?id=426d8359ec3218ecab8060ad8f058b9abbae82a771f8a4224287f7618a9ef1a2",
-   "source": "Yahoo",
-   "published": "2026-11-15T12:52:32+00:00",
-   "tickers": [
-    "DHR"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "b69c03e4cfc4",
-   "headline": "A $22 Billion Fund Bought These 3 Stocks",
-   "summary": "Key TakeawaysDarsana Capital Partners, a $22 billion fund, made SpaceX, Amazon and HCA Healthcare its three biggest new or added positions in its latest 13F, for the quarter ended June 30. SpaceX alone was nearly 78% of its 13F stocks,\u2026",
-   "url": "https://finnhub.io/api/news?id=c7ba769cb71ff7cd0a015706fa98f3c0b9cfc165d46c6ba1b210ff191f783552",
-   "source": "Yahoo",
-   "published": "2026-11-15T12:51:19+00:00",
-   "tickers": [
-    "HCA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
    ]
   }
  ]
