@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-25T05:02:44.673117+00:00",
+ "updated": "2026-11-25T05:17:28.542845+00:00",
  "quotes": {
   "A": {
    "price": 183.52,
@@ -214,10 +214,6 @@
    "price": 14.16,
    "change_pct": -1.94
   },
-  "LH": {
-   "price": 376.11,
-   "change_pct": 0.95
-  },
   "LLY": {
    "price": 1407.59,
    "change_pct": 3.15
@@ -321,6 +317,10 @@
   "TAK": {
    "price": 22.6,
    "change_pct": 2.4
+  },
+  "TDOC": {
+   "price": 7.52,
+   "change_pct": -2.08
   }
  },
  "tickers": {
@@ -938,6 +938,17 @@
  },
  "stories": [
   {
+   "id": "0a8894ac9db7",
+   "headline": "Centralized platform for submitting, managing out-of-network billing disputes launches",
+   "summary": "The IDR Gateway replaces the web forms providers, payers and other parties previously used to trigger and pursue payment arbitration under the Independent Dispute Resolution process.",
+   "url": "https://www.fiercehealthcare.com/payers/centralized-platform-submitting-managing-out-network-billing-disputes-launches",
+   "source": "Fierce Healthcare",
+   "published": "2026-11-25T05:15:19.477720+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
    "id": "2de022b5563d",
    "headline": "Academic hospital heads petition Congress for 2-year delay to CMS' 340B cuts",
    "summary": "A reimbursement change finalized this month would hit 340B hospitals for nearly $5.5 billion, with academic institutions shouldering more than half of the impact, 95 executives of academic institutions wrote to congressional leaders.",
@@ -1062,6 +1073,21 @@
    "tag": "Policy",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "e5549c5c53cb",
+   "headline": "GoodRx Holdings, Inc. (GDRX) Q3 2026 Earnings Call Transcript",
+   "summary": "GoodRx Holdings, Inc. (GDRX) Q3 2026 Earnings Call November 24, 2026 5:30 PM ESTCompany ParticipantsAubrey Reynolds - Director of Investor RelationsWendy...",
+   "url": "https://finnhub.io/api/news?id=69c4b3528795ee118ab0ba686ed5c2c29e8d6a1d4c27ad482f6119a73810129c",
+   "source": "SeekingAlpha",
+   "published": "2026-11-24T23:21:19+00:00",
+   "tickers": [
+    "GDRX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharmacy"
    ]
   },
   {
