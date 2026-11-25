@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-25T02:02:50.652538+00:00",
+ "updated": "2026-11-25T02:17:35.927078+00:00",
  "quotes": {
   "A": {
    "price": 183.52,
@@ -102,6 +102,10 @@
    "price": 265.61,
    "change_pct": 0.95
   },
+  "DHR": {
+   "price": 229.09,
+   "change_pct": 1.52
+  },
   "DVA": {
    "price": 164.17,
    "change_pct": 2.76
@@ -141,10 +145,6 @@
   "GKOS": {
    "price": 256.98,
    "change_pct": 2.96
-  },
-  "GMED": {
-   "price": 70.55,
-   "change_pct": 2.2
   },
   "HALO": {
    "price": 94.99,
@@ -201,6 +201,10 @@
   "KRYS": {
    "price": 344.42,
    "change_pct": 7.21
+  },
+  "LFST": {
+   "price": 14.16,
+   "change_pct": -1.94
   },
   "LH": {
    "price": 376.11,
@@ -310,17 +314,13 @@
    "price": 7.52,
    "change_pct": -2.08
   },
+  "TEM": {
+   "price": 54.83,
+   "change_pct": -3.87
+  },
   "TGTX": {
    "price": 70.13,
    "change_pct": 9.6
-  },
-  "THC": {
-   "price": 275.09,
-   "change_pct": 0.77
-  },
-  "TMO": {
-   "price": 695.62,
-   "change_pct": 1.1
   }
  },
  "tickers": {
@@ -1001,6 +1001,7 @@
    "source": "Yahoo",
    "published": "2026-11-24T22:00:46+00:00",
    "tickers": [
+    "MDT",
     "SNY"
    ],
    "tag": "News",
@@ -1124,6 +1125,21 @@
    "tag": "News",
    "sectors": [
     "pharmacy"
+   ]
+  },
+  {
+   "id": "9bcde54f5756",
+   "headline": "Top 3 Insider Owned Growth Stocks To Watch In November 2026",
+   "summary": "When Nvidia\u2019s board brought Jensen Huang back into the CEO seat and AI related stocks suddenly lifted global indices, it showed how quickly confidence can return to growth stories that investors think still have room to run. That kind of\u2026",
+   "url": "https://finnhub.io/api/news?id=63e7be30fa48ec082dc67948b4a76b1fd6945819fbad56dc3f7db5f5497d177d",
+   "source": "Yahoo",
+   "published": "2026-11-24T21:13:23+00:00",
+   "tickers": [
+    "TEM"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "healthai"
    ]
   },
   {
@@ -1528,7 +1544,8 @@
    "source": "Yahoo",
    "published": "2026-11-24T20:50:02+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -2020,6 +2037,7 @@
    "source": "SeekingAlpha",
    "published": "2026-11-24T19:59:04+00:00",
    "tickers": [
+    "DHR",
     "SOPH"
    ],
    "tag": "Earnings",
@@ -2955,7 +2973,8 @@
    "source": "Yahoo",
    "published": "2026-11-24T16:23:00+00:00",
    "tickers": [
-    "DVA"
+    "DVA",
+    "LFST"
    ],
    "tag": "Health AI",
    "sectors": [
@@ -2971,7 +2990,8 @@
    "published": "2026-11-24T16:21:00+00:00",
    "tickers": [
     "AMGN",
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -4194,6 +4214,21 @@
     "MRK",
     "MRNA",
     "PFE"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "d0b0793f21cd",
+   "headline": "Novo Nordisk A/S (NVO) Is a Trending Stock: Facts to Know Before Betting on It",
+   "summary": "Novo Nordisk (NVO) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
+   "url": "https://finnhub.io/api/news?id=a5108d86c78020f43f8ce04645d488445b50be1054b695493766c1d9291562ef",
+   "source": "Yahoo",
+   "published": "2026-11-24T13:00:04+00:00",
+   "tickers": [
+    "NVO"
    ],
    "tag": "News",
    "sectors": [
@@ -5958,7 +5993,8 @@
    "published": "2026-11-24T00:22:10+00:00",
    "tickers": [
     "HIMS",
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "GLP-1",
    "sectors": [
