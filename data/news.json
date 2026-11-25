@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-25T01:17:41.315308+00:00",
+ "updated": "2026-11-25T01:32:55.243692+00:00",
  "quotes": {
   "A": {
    "price": 183.52,
@@ -33,6 +33,10 @@
   "ARWR": {
    "price": 48.33,
    "change_pct": 9.74
+  },
+  "AXSM": {
+   "price": 147.01,
+   "change_pct": 5.55
   },
   "AZN": {
    "price": 183.2,
@@ -234,10 +238,6 @@
    "price": 10.52,
    "change_pct": 3.65
   },
-  "NTRA": {
-   "price": 298.83,
-   "change_pct": 2.2
-  },
   "NVO": {
    "price": 40.31,
    "change_pct": 2.99
@@ -294,10 +294,6 @@
    "price": 22.6,
    "change_pct": 2.4
   },
-  "TEM": {
-   "price": 54.83,
-   "change_pct": -3.87
-  },
   "TGTX": {
    "price": 70.13,
    "change_pct": 9.6
@@ -321,6 +317,10 @@
   "VEEV": {
    "price": 273.62,
    "change_pct": 1.85
+  },
+  "VRTX": {
+   "price": 563.92,
+   "change_pct": 4.71
   }
  },
  "tickers": {
@@ -2266,6 +2266,21 @@
    ]
   },
   {
+   "id": "a240661723d4",
+   "headline": "Axsome Just Crossed a $1 Billion Revenue Run Rate, but Its Stock Hit a 52-Week Low. Is Wall Street Missing Something?",
+   "summary": "The numbers suggest Axsome stock may be undervalued.",
+   "url": "https://finnhub.io/api/news?id=a57ed5dddeddc49e8e81dfbcab9bebf2dd44eaefd36b02de4b33c59ad2c6cd66",
+   "source": "Yahoo",
+   "published": "2026-11-24T18:03:01+00:00",
+   "tickers": [
+    "AXSM"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "f0f6f55f5933",
    "headline": "Parabilis Medicines (PBLS) Stock Is Up 12.2% Today Without Company News",
    "summary": "On Tuesday, Nov. 24, the shares rose 12.2% without company-specific news",
@@ -2402,6 +2417,7 @@
    "source": "Yahoo",
    "published": "2026-11-24T17:30:50+00:00",
    "tickers": [
+    "AXSM",
     "REGN"
    ],
    "tag": "News",
@@ -3215,6 +3231,21 @@
    "published": "2026-11-24T15:33:15+00:00",
    "tickers": [
     "LLY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "170941af2b7e",
+   "headline": "Immune Thrombocytopenic Purpura Market Set for Sustained Growth at a CAGR of 2.7% During the Forecast Period (2026-2036), Driven by the Growing Focus on Advanced Therapies | DelveInsight",
+   "summary": "The United States accounted for approximately 69% of the total 7MM ITP market in 2025. The estimated ITP patient population across these markets was approximately 224,600 prevalent cases, including cases progressing from the acute to\u2026",
+   "url": "https://finnhub.io/api/news?id=700dc4573a1104ac1fdc6eb3a536a27b13b4db8c1e34f5f29242aaf83f94844b",
+   "source": "Yahoo",
+   "published": "2026-11-24T15:31:00+00:00",
+   "tickers": [
+    "TAK"
    ],
    "tag": "News",
    "sectors": [
