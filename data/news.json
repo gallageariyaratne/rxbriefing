@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-25T01:03:03.484379+00:00",
+ "updated": "2026-11-25T01:17:41.315308+00:00",
  "quotes": {
   "A": {
    "price": 183.52,
@@ -26,6 +26,10 @@
    "price": 473.94,
    "change_pct": 5.54
   },
+  "ARGX": {
+   "price": 986.35,
+   "change_pct": 4.54
+  },
   "ARWR": {
    "price": 48.33,
    "change_pct": 9.74
@@ -37,10 +41,6 @@
   "BDX": {
    "price": 220,
    "change_pct": 2.12
-  },
-  "BEAM": {
-   "price": 24.26,
-   "change_pct": 6.12
   },
   "BIIB": {
    "price": 269.11,
@@ -106,6 +106,10 @@
    "price": 179.64,
    "change_pct": 1.05
   },
+  "EVH": {
+   "price": 3.9,
+   "change_pct": 6.27
+  },
   "EXEL": {
    "price": 67.45,
    "change_pct": 0.94
@@ -133,10 +137,6 @@
   "HALO": {
    "price": 94.99,
    "change_pct": 0.98
-  },
-  "HCA": {
-   "price": 481.77,
-   "change_pct": 0.38
   },
   "HIMS": {
    "price": 14.74,
@@ -938,6 +938,21 @@
  },
  "stories": [
   {
+   "id": "13148108a348",
+   "headline": "Molina Healthcare (MOH) Stock May Still Be A Bargain On Sales",
+   "summary": "Molina Healthcare has delivered a mix of strong shorter term gains and longer term declines. This puts the spotlight squarely on one question for investors who focus on fundamentals: Is the current share price sensibly aligned with what\u2026",
+   "url": "https://finnhub.io/api/news?id=9ed3b36f6d5851a73a6ae83c6feb2c16487928e24fa912367319d382048c8387",
+   "source": "Yahoo",
+   "published": "2026-11-25T00:20:33+00:00",
+   "tickers": [
+    "MOH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "6c2e4c3d3199",
    "headline": "Fewer choices available to enrollees on ACA exchanges: RWJF",
    "summary": "The number of regions where patients have limited choices for Affordable Care Act plans is on the rise, according to a new analysis.",
@@ -947,6 +962,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "979c2edc19e4",
+   "headline": "What Regeneron Pharmaceuticals Doubters Overlooked",
+   "summary": "If Regeneron Pharmaceuticals was on your watchlist rather than in your portfolio, the return may sting. For Regeneron Pharmaceuticals shareholders, the return over the past year was 24.3%, including dividends. That outcome landed between\u2026",
+   "url": "https://finnhub.io/api/news?id=c85d8d41b0421530bad70a272f8edd2f4e3a9301068bf4bb162e1e65b0bfe848",
+   "source": "Yahoo",
+   "published": "2026-11-24T22:17:22+00:00",
+   "tickers": [
+    "REGN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
   },
   {
    "id": "f132d0924785",
@@ -974,6 +1004,21 @@
     "GDRX"
    ],
    "tag": "News",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
+  {
+   "id": "1071f9204b19",
+   "headline": "Here's What Key Metrics Tell Us About GoodRx (GDRX) Q3 Earnings",
+   "summary": "The headline numbers for GoodRx (GDRX) give insight into how the company performed in the quarter ended September 2026, but it may be worthwhile to compare some of its key metrics to Wall Street estimates and the year-ago actuals.",
+   "url": "https://finnhub.io/api/news?id=13641a04a93d6183366c814b77142adcf4b1fa56682f8b003ed4bb5c4c8216a2",
+   "source": "Yahoo",
+   "published": "2026-11-24T22:00:01+00:00",
+   "tickers": [
+    "GDRX"
+   ],
+   "tag": "Earnings",
    "sectors": [
     "pharmacy"
    ]
@@ -1028,6 +1073,7 @@
    "source": "Yahoo",
    "published": "2026-11-24T21:35:01+00:00",
    "tickers": [
+    "GDRX",
     "HQY"
    ],
    "tag": "Earnings",
@@ -1048,6 +1094,21 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "bc539ab1cb5b",
+   "headline": "GoodRx Reports Third Quarter 2026 Results and Provides Update on Compliance With Nasdaq Listing Requirements",
+   "summary": "SANTA MONICA, Calif., November 24, 2026--GoodRx Holdings, Inc. (Nasdaq: GDRX) (\"we,\" \"us,\" \"our,\" \"GoodRx,\" or the \"Company\"), the trusted platform for prescription access and affordability in the U.S., has released its financial results\u2026",
+   "url": "https://finnhub.io/api/news?id=977ed0657f4f48a06ef6ba020b3160a2924409f0f4988125e833922d4920c817",
+   "source": "Yahoo",
+   "published": "2026-11-24T21:15:00+00:00",
+   "tickers": [
+    "GDRX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharmacy"
    ]
   },
   {
@@ -2418,6 +2479,7 @@
    "source": "Yahoo",
    "published": "2026-11-24T17:18:54+00:00",
    "tickers": [
+    "EVH",
     "HUM"
    ],
    "tag": "News",
@@ -2862,6 +2924,22 @@
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "0d233c0d3d71",
+   "headline": "European Equities Traded in the US as American Depositary Receipts Slip in Tuesday Trading",
+   "summary": "European equities traded in the US as American depositary receipts were tracking slightly lower late",
+   "url": "https://finnhub.io/api/news?id=53e497c35c71744e93da034f64bd6adf6a4d7042bc9ce4802c6cf8a06c44273f",
+   "source": "Yahoo",
+   "published": "2026-11-24T16:16:35+00:00",
+   "tickers": [
+    "ARGX",
+    "AZN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -4014,6 +4092,7 @@
    "source": "Yahoo",
    "published": "2026-11-24T13:01:37+00:00",
    "tickers": [
+    "AZN",
     "LLY",
     "MRK",
     "MRNA",
