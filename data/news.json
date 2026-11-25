@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-25T10:02:52.667618+00:00",
+ "updated": "2026-11-25T10:17:35.112563+00:00",
  "quotes": {
   "A": {
    "price": 183.52,
@@ -9,6 +9,10 @@
   "ABBV": {
    "price": 300.28,
    "change_pct": 4.1
+  },
+  "ABSI": {
+   "price": 9.17,
+   "change_pct": 8.14
   },
   "ABT": {
    "price": 105.39,
@@ -317,10 +321,6 @@
   "TEM": {
    "price": 54.83,
    "change_pct": -3.87
-  },
-  "TGTX": {
-   "price": 70.13,
-   "change_pct": 9.6
   }
  },
  "tickers": {
@@ -1080,6 +1080,21 @@
    "tag": "FDA",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "17ee30715156",
+   "headline": "Absci Corporation (ABSI) Presents at Jefferies London Healthcare Conference Transcript",
+   "summary": "Absci Corporation (ABSI) Jefferies London Healthcare Conference November 18, 2026 10:00 AM ESTCompany ParticipantsSean McClain - Founder, CEO, President...",
+   "url": "https://finnhub.io/api/news?id=19dbe0a9e2f3a629cc75aded3198c44c83aadb7ee4dc9ce8b3270ce8379e0637",
+   "source": "SeekingAlpha",
+   "published": "2026-11-25T04:31:31+00:00",
+   "tickers": [
+    "ABSI"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthai"
    ]
   },
   {
