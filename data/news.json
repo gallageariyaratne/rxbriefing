@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-25T02:33:24.538647+00:00",
+ "updated": "2026-11-25T02:47:43.565691+00:00",
  "quotes": {
   "A": {
    "price": 183.52,
@@ -49,6 +49,10 @@
   "BDX": {
    "price": 220,
    "change_pct": 2.12
+  },
+  "BEAM": {
+   "price": 24.26,
+   "change_pct": 6.12
   },
   "BIIB": {
    "price": 269.11,
@@ -317,10 +321,6 @@
   "TEM": {
    "price": 54.83,
    "change_pct": -3.87
-  },
-  "TGTX": {
-   "price": 70.13,
-   "change_pct": 9.6
   }
  },
  "tickers": {
@@ -938,6 +938,66 @@
  },
  "stories": [
   {
+   "id": "07ff410a942c",
+   "headline": "Universal Health Services, Inc. to Sell Aiken Regional Medical Centers for Approximately $500 Million",
+   "summary": "",
+   "url": "https://finnhub.io/api/news?id=026a2eb9295f1f70d713be4dbbdb024749e9f25704856a5a80392167aa44f794",
+   "source": "Fintel",
+   "published": "2026-11-25T01:39:20+00:00",
+   "tickers": [
+    "UHS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "6d3c345ca2c4",
+   "headline": "Sanofi (SNY) Just Hit New Heights. Investors Love This Billion-Dollar Move",
+   "summary": "Sanofi (NASDAQ:SNY) is one of the 10 Stocks With Easy Double-Digit Gains. French pharmaceutical giant Sanofi climbed to a new 52-week high on Tuesday, as investors gobbled up its shares after confirming its acquisition of US-based Insmed\u2026",
+   "url": "https://finnhub.io/api/news?id=0a32b56f1c467e1a479d5380c58f3557032078c6fa67c4353c0217f368a6695d",
+   "source": "Yahoo",
+   "published": "2026-11-25T01:37:41+00:00",
+   "tickers": [
+    "INSM"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "187b24892332",
+   "headline": "How Investors May Respond To Abbott (ABT) TAVI Trial Launch",
+   "summary": "Abbott Laboratories has begun the VOYAGER CE clinical trial of its investigational Encantor software guided balloon expandable TAVI system, enrolling up to 300 patients in Europe and Australia with symptomatic severe aortic stenosis. The\u2026",
+   "url": "https://finnhub.io/api/news?id=3473b823163bb8d23aca81bb50ccf25f2f02281dcc3858ddc2c1adf116473138",
+   "source": "Yahoo",
+   "published": "2026-11-25T01:10:40+00:00",
+   "tickers": [
+    "ABT"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "dc7e9548857a",
+   "headline": "Keybanc Upgrades Humana to Overweight from Sector Weight",
+   "summary": "",
+   "url": "https://finnhub.io/api/news?id=b6e4f704a5981ffdda566cd98d3c7f37c1bb8d3355a5117f95f5345917360720",
+   "source": "Fintel",
+   "published": "2026-11-25T00:58:34+00:00",
+   "tickers": [
+    "HUM"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "13148108a348",
    "headline": "Molina Healthcare (MOH) Stock May Still Be A Bargain On Sales",
    "summary": "Molina Healthcare has delivered a mix of strong shorter term gains and longer term declines. This puts the spotlight squarely on one question for investors who focus on fundamentals: Is the current share price sensibly aligned with what\u2026",
@@ -1002,6 +1062,7 @@
    "published": "2026-11-24T22:00:46+00:00",
    "tickers": [
     "A",
+    "INSM",
     "MDT",
     "SNY"
    ],
@@ -1048,8 +1109,10 @@
    "source": "Yahoo",
    "published": "2026-11-24T21:45:58+00:00",
    "tickers": [
+    "AMGN",
     "LLY",
-    "MRK"
+    "MRK",
+    "PFE"
    ],
    "tag": "Financing",
    "sectors": [
@@ -1099,6 +1162,21 @@
    ]
   },
   {
+   "id": "5a626f1bfc1e",
+   "headline": "Nvidia, Anthropic, Micron, HPE, Analog Devices, Insmed, and More Stocks That Explain Today\u2019s Market",
+   "summary": "AMD, Anthropic, Intel, Marvell, Nvidia, and other AI stocks struggle as the euphoria from Monday fades.",
+   "url": "https://finnhub.io/api/news?id=56456bd48e3055a43da37df3744398a0ace0b186ad4bc75a7d04037491d43891",
+   "source": "Yahoo",
+   "published": "2026-11-24T21:33:00+00:00",
+   "tickers": [
+    "INSM"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "5dbbdfd76692",
    "headline": "Molina Healthcare Announces Fourth Quarter and Year-End 2026 Earnings Release and Conference Call Dates",
    "summary": "LONG BEACH, Calif., November 24, 2026--Molina Healthcare, Inc. (NYSE: MOH) today announced it will issue its earnings release for the fourth quarter and year ending December 31, 2026, after the market closes on Tuesday, February 2, 2027,\u2026",
@@ -1144,6 +1222,21 @@
    ]
   },
   {
+   "id": "628f723ad38f",
+   "headline": "Best Dividend Kings: November 2026",
+   "summary": "The bull case for Dividend Kings: 26 appear undervalued and could deliver annualized returns above 10%; Gorman-Rupp leads at 19.6%.",
+   "url": "https://finnhub.io/api/news?id=dca74df97a8326e1faf36c3b8f635c4fe210ddc22d70a6c363c6c3718d6fcc30",
+   "source": "SeekingAlpha",
+   "published": "2026-11-24T21:12:54+00:00",
+   "tickers": [
+    "ABT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "2a316f33663d",
    "headline": "How Much Could You Lose In UnitedHealth Stock?",
    "summary": "Today's big story: Nvidia Added $954 Billion In A Day. Is Jensen Huang Too Big To Fire.",
@@ -1169,6 +1262,7 @@
    "source": "Yahoo",
    "published": "2026-11-24T21:08:06+00:00",
    "tickers": [
+    "INSM",
     "PFE",
     "SNY"
    ],
@@ -1200,6 +1294,7 @@
    "source": "Yahoo",
    "published": "2026-11-24T21:01:19+00:00",
    "tickers": [
+    "INSM",
     "MRNA",
     "RVMD"
    ],
@@ -1327,6 +1422,7 @@
    "source": "Yahoo",
    "published": "2026-11-24T21:00:54+00:00",
    "tickers": [
+    "INSM",
     "MRNA",
     "REGN",
     "RVMD",
@@ -1346,6 +1442,7 @@
    "source": "Yahoo",
    "published": "2026-11-24T21:00:52+00:00",
    "tickers": [
+    "INSM",
     "MRNA",
     "REGN",
     "RVMD",
@@ -1364,6 +1461,7 @@
    "source": "Yahoo",
    "published": "2026-11-24T21:00:51+00:00",
    "tickers": [
+    "INSM",
     "MRNA",
     "REGN",
     "RVMD",
@@ -1404,6 +1502,7 @@
    "source": "Yahoo",
    "published": "2026-11-24T21:00:36+00:00",
    "tickers": [
+    "INSM",
     "MRNA",
     "RVMD",
     "SNY"
@@ -1438,6 +1537,7 @@
    "source": "Yahoo",
    "published": "2026-11-24T21:00:29+00:00",
    "tickers": [
+    "INSM",
     "MRNA",
     "REGN",
     "RVMD",
@@ -1467,6 +1567,7 @@
    "source": "Yahoo",
    "published": "2026-11-24T21:00:17+00:00",
    "tickers": [
+    "INSM",
     "MRNA",
     "RVMD",
     "SNY"
@@ -1515,6 +1616,7 @@
    "published": "2026-11-24T20:59:50+00:00",
    "tickers": [
     "HUM",
+    "INSM",
     "SNY"
    ],
    "tag": "News",
@@ -1561,6 +1663,7 @@
    "source": "Yahoo",
    "published": "2026-11-24T20:48:05+00:00",
    "tickers": [
+    "INSM",
     "SNY"
    ],
    "tag": "News",
@@ -1576,6 +1679,7 @@
    "source": "Yahoo",
    "published": "2026-11-24T20:46:54+00:00",
    "tickers": [
+    "INSM",
     "MRNA",
     "REGN",
     "RVMD",
@@ -1594,6 +1698,7 @@
    "source": "Yahoo",
    "published": "2026-11-24T20:46:29+00:00",
    "tickers": [
+    "INSM",
     "MRNA",
     "REGN",
     "RVMD",
@@ -1613,6 +1718,7 @@
    "source": "Yahoo",
    "published": "2026-11-24T20:46:13+00:00",
    "tickers": [
+    "INSM",
     "MRNA",
     "REGN",
     "RVMD",
@@ -1647,6 +1753,7 @@
    "source": "Yahoo",
    "published": "2026-11-24T20:46:11+00:00",
    "tickers": [
+    "INSM",
     "MRNA",
     "REGN",
     "RVMD",
@@ -1665,6 +1772,7 @@
    "source": "Yahoo",
    "published": "2026-11-24T20:46:06+00:00",
    "tickers": [
+    "INSM",
     "MRNA",
     "RVMD",
     "SNY"
@@ -2728,6 +2836,21 @@
    ]
   },
   {
+   "id": "6c45e1d29992",
+   "headline": "The 3 Highest-Yielding Dividend Stocks Among Ken Griffin\u2019s Top Holdings",
+   "summary": "Key TakeawaysKen Griffin\u2019s Citadel added to AT&T, UnitedHealth and Sysco in the third quarter. They\u2019re the three highest-yielding dividend stocks among its largest positions.",
+   "url": "https://finnhub.io/api/news?id=4cc816dbf534f81819dda7e52cd856d372cfe18f36f6addd8b6cabb60786fb35",
+   "source": "Yahoo",
+   "published": "2026-11-24T16:59:58+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "daef92e7df79",
    "headline": "13 Big Funds Bought Johnson & Johnson Last Quarter, While 14 Sold. Who\u2019s Right?",
    "summary": "Key TakeawaysOf the 460 big funds that have filed 13Fs for the quarter ended Sept. 30, 13 bought Johnson & Johnson and 14 sold it.",
@@ -3301,6 +3424,7 @@
    "source": "Yahoo",
    "published": "2026-11-24T15:34:42+00:00",
    "tickers": [
+    "INSM",
     "PFE",
     "REGN",
     "SNY"
@@ -4212,6 +4336,21 @@
     "CRSP"
    ],
    "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "f0ca54287b7e",
+   "headline": "Beam Therapeutics Targets Sickle Cell Filing as Early as December, Advances Gene-Editing Pipeline",
+   "summary": "Beam Therapeutics (NASDAQ:BEAM) expects to seek U.S. approval for its sickle cell disease treatment as early as December, while advancing a pivotal trial for its alpha-1 antitrypsin deficiency program, Chief Executive Officer John Evans\u2026",
+   "url": "https://finnhub.io/api/news?id=da0246af3463837b21ec20bd3f3f4b4e41cf5089347b343b05a5991efb625969",
+   "source": "Yahoo",
+   "published": "2026-11-24T13:13:04+00:00",
+   "tickers": [
+    "BEAM"
+   ],
+   "tag": "FDA",
    "sectors": [
     "biotech"
    ]
@@ -38945,21 +39084,6 @@
    "tag": "M&A",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "2a1a74ce46ce",
-   "headline": "TG Therapeutics: 3 Key Takeaways for Long-Term Investors",
-   "summary": "Single-dose IV initiation could remove a second clinic visit, but it remains to be seen whether that convenience translates into demand before 2027.",
-   "url": "https://finnhub.io/api/news?id=f22a93348b968ec1aa74268ed43ee7c6c54a1d4deba08a3669afe6fa9ef05d3e",
-   "source": "Yahoo",
-   "published": "2026-11-15T02:32:43+00:00",
-   "tickers": [
-    "TGTX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
    ]
   }
  ]
