@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-25T00:47:31.572004+00:00",
+ "updated": "2026-11-25T01:03:03.484379+00:00",
  "quotes": {
   "A": {
    "price": 183.52,
@@ -74,6 +74,10 @@
    "price": 349.68,
    "change_pct": 3.44
   },
+  "CRSP": {
+   "price": 44.1,
+   "change_pct": 1.89
+  },
   "CVS": {
    "price": 80.69,
    "change_pct": 1.31
@@ -137,6 +141,10 @@
   "HIMS": {
    "price": 14.74,
    "change_pct": -2.12
+  },
+  "HQY": {
+   "price": 95.59,
+   "change_pct": 1.65
   },
   "HSIC": {
    "price": 87.51,
@@ -313,14 +321,6 @@
   "VEEV": {
    "price": 273.62,
    "change_pct": 1.85
-  },
-  "VRTX": {
-   "price": 563.92,
-   "change_pct": 4.71
-  },
-  "WAY": {
-   "price": 27.02,
-   "change_pct": 3.25
   }
  },
  "tickers": {
@@ -949,6 +949,21 @@
    "sectors": []
   },
   {
+   "id": "f132d0924785",
+   "headline": "Morning Movers: Dick\u2019s Sporting and Dollar Tree gain following quarterly reports",
+   "summary": "Stock futures are lower as investors take profits following Monday\u2019s powerful technology-led rebound. The retreat follows a historic rally in which the S&P 500 gained 4.7%, the Nasdaq jumped 6.5% and the Dow advanced 3%, ending a\u2026",
+   "url": "https://finnhub.io/api/news?id=1c8e7e79d0f3c6c1a65c3155e09689a87698b220be964ee9a232d42883e51098",
+   "source": "Yahoo",
+   "published": "2026-11-24T22:00:46+00:00",
+   "tickers": [
+    "SNY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "1e6dff199d3d",
    "headline": "After-Hours Market Movers: Top Gainers and Losers",
    "summary": "After-hours trading produced sharp moves both ways, led by SVRE, CNTY, FCHL, SEZL, AMBA and RMSG. See the top gainers and losers from the session.",
@@ -961,6 +976,22 @@
    "tag": "News",
    "sectors": [
     "pharmacy"
+   ]
+  },
+  {
+   "id": "f788b2b58c42",
+   "headline": "Anthropic falls below IPO price as Nvidia gives back gains",
+   "summary": "In this edition of Sozzi Unleashed: At The Close, Brian Sozzi sorts through \"reality trading\" as Nvidia slides nearly 7% after Monday's 31% surge and Anthropic falls below its $83 IPO price less than a week after the biggest offering in\u2026",
+   "url": "https://finnhub.io/api/news?id=759bc355e994966eb62eb48ab98f3b7176c8854ca7156174c4dd065d2ae8930b",
+   "source": "Yahoo",
+   "published": "2026-11-24T21:45:58+00:00",
+   "tickers": [
+    "LLY",
+    "MRK"
+   ],
+   "tag": "Financing",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -985,6 +1016,21 @@
     "VEEV"
    ],
    "tag": "News",
+   "sectors": [
+    "healthit"
+   ]
+  },
+  {
+   "id": "3d4e311dfebf",
+   "headline": "GoodRx Holdings, Inc. (GDRX) Surpasses Q3 Earnings and Revenue Estimates",
+   "summary": "GoodRx (GDRX) delivered earnings and revenue surprises of +25.00% and +7.86%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
+   "url": "https://finnhub.io/api/news?id=a1f8f36ecbc7ce69993874b2d728d0cd6bff9d84082b160a0ee33622936b3818",
+   "source": "Yahoo",
+   "published": "2026-11-24T21:35:01+00:00",
+   "tickers": [
+    "HQY"
+   ],
+   "tag": "Earnings",
    "sectors": [
     "healthit"
    ]
@@ -1030,7 +1076,8 @@
    "source": "Yahoo",
    "published": "2026-11-24T21:08:06+00:00",
    "tickers": [
-    "PFE"
+    "PFE",
+    "SNY"
    ],
    "tag": "M&A",
    "sectors": [
@@ -1185,6 +1232,7 @@
    "tickers": [
     "MRNA",
     "REGN",
+    "SNY",
     "VRTX"
    ],
    "tag": "News",
@@ -1201,7 +1249,8 @@
    "published": "2026-11-24T21:00:52+00:00",
    "tickers": [
     "MRNA",
-    "REGN"
+    "REGN",
+    "SNY"
    ],
    "tag": "News",
    "sectors": [
@@ -1218,6 +1267,7 @@
    "tickers": [
     "MRNA",
     "REGN",
+    "SNY",
     "VRTX"
    ],
    "tag": "News",
@@ -1254,7 +1304,8 @@
    "source": "Yahoo",
    "published": "2026-11-24T21:00:36+00:00",
    "tickers": [
-    "MRNA"
+    "MRNA",
+    "SNY"
    ],
    "tag": "News",
    "sectors": [
@@ -1286,7 +1337,8 @@
    "published": "2026-11-24T21:00:29+00:00",
    "tickers": [
     "MRNA",
-    "REGN"
+    "REGN",
+    "SNY"
    ],
    "tag": "News",
    "sectors": [
@@ -1312,7 +1364,8 @@
    "source": "Yahoo",
    "published": "2026-11-24T21:00:17+00:00",
    "tickers": [
-    "MRNA"
+    "MRNA",
+    "SNY"
    ],
    "tag": "News",
    "sectors": [
@@ -1357,7 +1410,8 @@
    "source": "Yahoo",
    "published": "2026-11-24T20:59:50+00:00",
    "tickers": [
-    "HUM"
+    "HUM",
+    "SNY"
    ],
    "tag": "News",
    "sectors": [
@@ -1395,6 +1449,21 @@
    ]
   },
   {
+   "id": "76faaf389369",
+   "headline": "Moody\u2019s affirms Sanofi\u2019s Aa3 rating, shifts outlook to negative on Insmed deal",
+   "summary": "Investing.com -- Moody\u2019s Ratings affirmed Sanofi's (NASDAQ:SNY) Aa3 long-term issuer and senior unsecured ratings while revising its outlook to negative from stable, signaling heightened scrutiny over the pharmaceutical giant\u2019s balance\u2026",
+   "url": "https://finnhub.io/api/news?id=fe6a406068fe64ae155c6a21d20b479b12d22773019629b3e85a741c2e32b969",
+   "source": "Yahoo",
+   "published": "2026-11-24T20:48:05+00:00",
+   "tickers": [
+    "SNY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "e3dbee21b231",
    "headline": "Why Is Geron (GERN) Stock Up Today? Biotech Stocks Rally",
    "summary": "Geron shares rose 12.1% on Tuesday, Nov. 24, without company-specific news, as health care and biotech stocks rallied while the broader market fell.",
@@ -1403,7 +1472,8 @@
    "published": "2026-11-24T20:46:54+00:00",
    "tickers": [
     "MRNA",
-    "REGN"
+    "REGN",
+    "SNY"
    ],
    "tag": "News",
    "sectors": [
@@ -1420,6 +1490,7 @@
    "tickers": [
     "MRNA",
     "REGN",
+    "SNY",
     "VRTX"
    ],
    "tag": "News",
@@ -1436,7 +1507,8 @@
    "published": "2026-11-24T20:46:13+00:00",
    "tickers": [
     "MRNA",
-    "REGN"
+    "REGN",
+    "SNY"
    ],
    "tag": "News",
    "sectors": [
@@ -1467,7 +1539,8 @@
    "published": "2026-11-24T20:46:11+00:00",
    "tickers": [
     "MRNA",
-    "REGN"
+    "REGN",
+    "SNY"
    ],
    "tag": "News",
    "sectors": [
@@ -1482,7 +1555,8 @@
    "source": "Yahoo",
    "published": "2026-11-24T20:46:06+00:00",
    "tickers": [
-    "MRNA"
+    "MRNA",
+    "SNY"
    ],
    "tag": "News",
    "sectors": [
@@ -1516,6 +1590,7 @@
    "tickers": [
     "MRNA",
     "REGN",
+    "SNY",
     "VRTX"
    ],
    "tag": "News",
@@ -1566,7 +1641,8 @@
    "source": "Yahoo",
    "published": "2026-11-24T20:45:49+00:00",
    "tickers": [
-    "REGN"
+    "REGN",
+    "SNY"
    ],
    "tag": "News",
    "sectors": [
@@ -1613,7 +1689,8 @@
    "source": "Yahoo",
    "published": "2026-11-24T20:45:35+00:00",
    "tickers": [
-    "REGN"
+    "REGN",
+    "SNY"
    ],
    "tag": "M&A",
    "sectors": [
@@ -1633,6 +1710,21 @@
    "tag": "GLP-1",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "bf4af0cd26f1",
+   "headline": "TGTX Stock Hits Fresh All-Time High As FDA Reviews Easier Briumvi Launch Dose",
+   "summary": "The supplemental biologics license application asks the FDA to approve a consolidated initiation schedule for Briumvi that would replace the current two-infusion start with one 600 mg infusion on Day 1.",
+   "url": "https://finnhub.io/api/news?id=9bddffe814fa26c99bded0950b4e7d1aac862221caa05f849c5f6f2f3c5fa4f4",
+   "source": "Yahoo",
+   "published": "2026-11-24T20:31:07+00:00",
+   "tickers": [
+    "TGTX"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -1677,6 +1769,21 @@
     "KRYS"
    ],
    "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "fb98400fc67b",
+   "headline": "TG Therapeutics (TGTX) Stock Is Up 9.2% Today: FDA Accepts Briumvi Filing",
+   "summary": "TG Therapeutics shares rose 9.2% on Tuesday, Nov. 24, after the company announced FDA acceptance of a supplemental application for a Briumvi dosing schedule.",
+   "url": "https://finnhub.io/api/news?id=30ad8b76e3791a8eb3d01e9e0381767dd5d83ef6db6c7a2854271851f5b8d13c",
+   "source": "Yahoo",
+   "published": "2026-11-24T20:30:57+00:00",
+   "tickers": [
+    "TGTX"
+   ],
+   "tag": "FDA",
    "sectors": [
     "biotech"
    ]
@@ -2998,7 +3105,8 @@
    "published": "2026-11-24T15:34:42+00:00",
    "tickers": [
     "PFE",
-    "REGN"
+    "REGN",
+    "SNY"
    ],
    "tag": "M&A",
    "sectors": [
@@ -3275,6 +3383,21 @@
    "tag": "M&A",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "ed58fd5aa35f",
+   "headline": "How Did Cathie Wood Play The Market Crash And Snapback?",
+   "summary": "Cathie Wood's ARK Invest made major purchases of SpaceX and Anthropic, while shedding Nvidia stock right before CEO Jensen Huang's dramatic return.",
+   "url": "https://finnhub.io/api/news?id=00fcf014b0ca9f46f613870fb2ffe8dce302198217773200a983ed942dfd9bdb",
+   "source": "Yahoo",
+   "published": "2026-11-24T14:49:26+00:00",
+   "tickers": [
+    "CRSP"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -3836,6 +3959,21 @@
    ]
   },
   {
+   "id": "7b5d12b550be",
+   "headline": "CRISPR Therapeutics to Present at Upcoming Investor Conferences",
+   "summary": "ZUG, Switzerland and BOSTON, Nov. 24, 2026 (GLOBE NEWSWIRE) -- CRISPR Therapeutics (Nasdaq: CRSP) today announced that it will participate in the following investor conferences: Piper Sandler 38th Annual Healthcare ConferenceDate:\u2026",
+   "url": "https://finnhub.io/api/news?id=dd0a0e5ed3ed2f2562c34fc86228999e90379e7418f95d9878915aef9e10d192",
+   "source": "Yahoo",
+   "published": "2026-11-24T13:30:00+00:00",
+   "tickers": [
+    "CRSP"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "56704117aff0",
    "headline": "Medtronic (MDT) Nears Q2 Results After Hugo Clearance, Is It Still A Bargain?",
    "summary": "Medtronic (MDT) heads into its fiscal second quarter earnings with attention fixed on three fronts: organic revenue trends, margin resilience, and management\u2019s updated view on fiscal 2027. The recent share price move tells you sentiment\u2026",
@@ -4110,6 +4248,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "24f42b899105",
+   "headline": "TG Therapeutics Announces FDA Acceptance of Supplemental Biologics License Application for BRIUMVI Single Dose Initiation Schedule",
+   "summary": "NEW YORK, November 24, 2026--TG Therapeutics, Inc. (NASDAQ: TGTX), today announced the U.S. Food and Drug Administration (FDA) has accepted the supplemental Biologics License Application (sBLA) requesting approval of a BRIUMVI\u00ae\u2026",
+   "url": "https://finnhub.io/api/news?id=6ad814468273e0296c775cf19f31b6c7631e790002a1f16da54e25a6d31e0fd1",
+   "source": "Yahoo",
+   "published": "2026-11-24T12:30:00+00:00",
+   "tickers": [
+    "TGTX"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -8540,7 +8693,8 @@
     "ABBV",
     "BMY",
     "JNJ",
-    "PFE"
+    "PFE",
+    "TRXB"
    ],
    "tag": "Legal",
    "sectors": [
