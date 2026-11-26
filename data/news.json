@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-26T14:02:52.612438+00:00",
+ "updated": "2026-11-26T14:17:24.638440+00:00",
  "quotes": {
   "A": {
    "price": 178.44,
@@ -61,10 +61,6 @@
   "CLOV": {
    "price": 3.76,
    "change_pct": 1.35
-  },
-  "COR": {
-   "price": 354.05,
-   "change_pct": 1.25
   },
   "CVS": {
    "price": 81.06,
@@ -174,6 +170,10 @@
    "price": 96.06,
    "change_pct": -0.07
   },
+  "MOH": {
+   "price": 205.63,
+   "change_pct": 1.9
+  },
   "MRK": {
    "price": 140.29,
    "change_pct": -0.9
@@ -213,10 +213,6 @@
   "REGN": {
    "price": 981.87,
    "change_pct": -0.53
-  },
-  "RGEN": {
-   "price": 168.13,
-   "change_pct": -0.17
   },
   "RVMD": {
    "price": 175.67,
@@ -897,6 +893,36 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "7576a22e096b",
+   "headline": "Is HCA Healthcare (HCA) Fairly Valued After The Argus Downgrade On Margin Pressure?",
+   "summary": "Argus cut its rating on HCA Healthcare (HCA) from Buy to Sell, flagging rising concern around margins as patient volumes, labor costs, reimbursement dynamics, and broader operating expenses become more of a focal point for investors.\u2026",
+   "url": "https://finnhub.io/api/news?id=f79d72787ec2be3c4dbdadb1a37108226af207d73fc05ccea50427106b4294fb",
+   "source": "Yahoo",
+   "published": "2026-11-26T13:09:59+00:00",
+   "tickers": [
+    "HCA"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "b2490c2a3ad3",
+   "headline": "Is AbbVie (ABBV) Undervalued After Rinvoq Won FDA Approval For Vitiligo?",
+   "summary": "AbbVie (ABBV) just secured U.S. approval for Rinvoq as the first systemic treatment for nonsegmental vitiligo. This expands its immunology footprint and gives investors fresh information to weigh around the stock\u2019s recent move. Rinvoq\u2019s\u2026",
+   "url": "https://finnhub.io/api/news?id=0034e10f68cb4783105899485e5bf887585ad4c97850826f94d3a5f576da26f0",
+   "source": "Yahoo",
+   "published": "2026-11-26T12:11:20+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
   {
    "id": "caccca95b105",
    "headline": "STAT+: The grueling struggle to find a primary care doctor in the \u2018medical capital\u2019 of America",
@@ -2537,6 +2563,22 @@
    ]
   },
   {
+   "id": "b29ec06f6795",
+   "headline": "Michael Burry Is \u2018Temporarily' Bullish: What His Latest Bets Reveal About the Market",
+   "summary": "Michael Burry is temporarily bullish after the selloff, but keeps Palantir and MetLife puts and plans to short Nvidia near $200.",
+   "url": "https://finnhub.io/api/news?id=67f6cd8c99cd38e15bb58db9d5764f5e223d3726999f0ae6f996bdf8177e2e7a",
+   "source": "Benzinga",
+   "published": "2026-11-25T16:18:14+00:00",
+   "tickers": [
+    "HCA",
+    "MOH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "8e3fa17b5718",
    "headline": "AGIO Stock Rises 8.4%: Is a Buyout on the Cards Post SNY/INSM Deal?",
    "summary": "Agios shares jump 8.4% amid renewed biotech M&A optimism, as its rare disease portfolio and mitapivat opportunity draw potential buyer interest.",
@@ -3775,6 +3817,21 @@
    ]
   },
   {
+   "id": "20c27220dafb",
+   "headline": "12 Health Care Stocks Moving In Wednesday's Intraday Session",
+   "summary": "Gainers NeuroSense Therapeutics (NASDAQ:NRSN) shares rose 81.8% to $2.0 during Wednesday's regular session. The market value of their outstanding shares is at $2.7 million. Aligos Therapeutics (NASDAQ:ALGS) stock",
+   "url": "https://finnhub.io/api/news?id=1f15e9860abd3879889bbd5f87bce3c70fbd42a81d419f7096a7bade5bfded73",
+   "source": "Benzinga",
+   "published": "2026-11-25T13:05:33+00:00",
+   "tickers": [
+    "GDRX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
+  {
    "id": "9d9a142eb9aa",
    "headline": "Update: Market Chatter: Anthropic Expanding in Zurich to Advance AI Research",
    "summary": "(Updates with Anthropic's response in the fourth paragraph and most recent stock move in the last pa",
@@ -4196,6 +4253,21 @@
     "GILD"
    ],
    "tag": "Financing",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "127c693e1b8c",
+   "headline": "Johnson & Johnson Short Interest Rises As Shorts Stay Below Peak",
+   "summary": "Johnson & Johnson (NYSE:JNJ) short sellers added to their positions, according to the latest FINRA report.Short interest rose 5.20% to 17.96 million shares as of the Nov. 13 settlement date, from 17.07 million at",
+   "url": "https://finnhub.io/api/news?id=1ccb9e96f8743b27c68515f45f8924dd2f0c989a00e862b6713a965f45e100eb",
+   "source": "Benzinga",
+   "published": "2026-11-25T12:00:17+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "Legal",
    "sectors": [
     "pharma"
    ]
@@ -41235,188 +41307,6 @@
    "sectors": [
     "pharma"
    ]
-  },
-  {
-   "id": "f943400a2061",
-   "headline": "How the eClinicalWorks AI-Native Hospital EHR Is Advancing the Next Frontier of Patient Care",
-   "summary": "Discover how the eClinicalWorks AI-native hospital EHR uses embedded AI, automation, and connected workflows to boost efficiency and care.",
-   "url": "https://www.fiercehealthcare.com/sponsored/how-eclinicalworks-ai-native-hospital-ehr-advancing-next-frontier-patient-care",
-   "source": "Fierce Healthcare",
-   "published": "2026-11-16T14:15:24.200819+00:00",
-   "tickers": [],
-   "tag": "Health AI",
-   "sectors": []
-  },
-  {
-   "id": "78aca4552da8",
-   "headline": "Moving healthcare AI from pilot to practice",
-   "summary": "Healthcare still relies on fax machines, yet it\u2019s leaning into AI. Here\u2019s what it takes to move from promising pilots to enterprise-wide deployment.",
-   "url": "https://www.fiercehealthcare.com/sponsored/moving-healthcare-ai-pilot-practice",
-   "source": "Fierce Healthcare",
-   "published": "2026-11-16T14:15:24.200077+00:00",
-   "tickers": [],
-   "tag": "Health AI",
-   "sectors": []
-  },
-  {
-   "id": "d7bb65f3cf8a",
-   "headline": "How Smarter Healthcare Environments Improve Patient Experience",
-   "summary": "Connected facilities, data and technology can reduce friction for patients and support overburdened caregivers",
-   "url": "https://www.fiercehealthcare.com/sponsored/how-smarter-healthcare-environments-improve-patient-experience",
-   "source": "Fierce Healthcare",
-   "published": "2026-11-16T14:15:24.199416+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "db5e7244002b",
-   "headline": "Engaging Medicaid\u2019s Hardest-to-Reach Members Helps Plans Control Medical Spend",
-   "summary": "Medicaid\u2019s hardest-to-reach members are often among the costliest. Here\u2019s how plans can engage them, improve care and reduce avoidable spending.",
-   "url": "https://www.fiercehealthcare.com/sponsored/engaging-medicaids-hardest-reach-members-helps-plans-control-medical-spend",
-   "source": "Fierce Healthcare",
-   "published": "2026-11-16T14:15:24.198605+00:00",
-   "tickers": [],
-   "tag": "Policy",
-   "sectors": []
-  },
-  {
-   "id": "c6827ffb2bce",
-   "headline": "HLTH26: Calibrate, Withings study finds wraparound care boosts GLP-1 weight loss by more than 60%",
-   "summary": "A two-year real-world study from Withings Health Solutions and Calibrate Health suggests that pairing GLP-1 medications with Calibrate\u2019s integrated obesity care program produced substantially greater weight loss than GLP-1 treatment alone.",
-   "url": "https://www.fiercehealthcare.com/payers/calibrate-health-withings-glp-1-study",
-   "source": "Fierce Healthcare",
-   "published": "2026-11-16T14:15:24.197518+00:00",
-   "tickers": [],
-   "tag": "GLP-1",
-   "sectors": []
-  },
-  {
-   "id": "e5153db49e76",
-   "headline": "HLTH26: Suki unveils agentic OS to automate complex healthcare workflows",
-   "summary": "Executives say Suki OS is built on three pillars: unified AI agents, a partner ecosystem and performance guarantee.",
-   "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/suki-launches-agentic-operating-system",
-   "source": "Fierce Healthcare",
-   "published": "2026-11-16T14:15:24.196804+00:00",
-   "tickers": [],
-   "tag": "Health AI",
-   "sectors": []
-  },
-  {
-   "id": "9acce221b8c7",
-   "headline": "HLTH26: Viz.ai, Wolters Kluwer partner on platform integration",
-   "summary": "The companies say it is the first integration to bring UpToDate into AI-driven care coordination workflows.",
-   "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/vizai-wolters-kluwer-partner-platform-integration",
-   "source": "Fierce Healthcare",
-   "published": "2026-11-16T14:15:24.196141+00:00",
-   "tickers": [],
-   "tag": "Health AI",
-   "sectors": []
-  },
-  {
-   "id": "832557835ece",
-   "headline": "HLTH26: CVS Health, Cigna and Abridge collaborating with OpenAI to test computer-use agents",
-   "summary": "OpenAI is expanding computer-use agents for healthcare, enabling AI to navigate electronic health record systems, payer portals and other software to tackle repetitive and manual tasks.",
-   "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/hlth26-cvs-health-cigna-and-ambience-collaborating-openai-test-computer-use",
-   "source": "Fierce Healthcare",
-   "published": "2026-11-16T14:15:24.195179+00:00",
-   "tickers": [
-    "CI",
-    "CVS"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "94a3dae595c0",
-   "headline": "Sanofi and the pan-Canadian Pharmaceutical Alliance sign Letter of Intent for Sarclisa\u00ae(isatuximab), a step toward public access for newly diagnosed, transplant-ineligible multiple myeloma patients",
-   "summary": "Sanofi today announced the successful completion of negotiations with the pan-Canadian Pharmaceutical Alliance (pCPA), marked by a signed Letter of Intent (LOI) for Sarclisa\u00ae (isatuximab) intravenous (IV) in combination with bortezomib,\u2026",
-   "url": "https://finnhub.io/api/news?id=b5a6e96a8f8f0b4840e1034118070bb4412449d63744b627ac0086f595e53b11",
-   "source": "Yahoo",
-   "published": "2026-11-16T14:15:00+00:00",
-   "tickers": [
-    "SNY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "7a34590927c7",
-   "headline": "Axsome Therapeutics Sees AUVELITY Prescription Surge After Alzheimer\u2019s Agitation Launch",
-   "summary": "Axsome Therapeutics (NASDAQ:AXSM) executives said growth in new prescriptions for AUVELITY and an expanded sales team are positioning the company for further growth following the drug\u2019s launch for Alzheimer\u2019s disease agitation. Speaking\u2026",
-   "url": "https://finnhub.io/api/news?id=7e321fdc42ac024f12652e16858229f60a81b6923bff31692ab5e1f9dd3c2608",
-   "source": "Yahoo",
-   "published": "2026-11-16T14:13:08+00:00",
-   "tickers": [
-    "AXSM"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "91a2b6f2cc7a",
-   "headline": "Here's Why You Should Retain PHG Stock in Your Portfolio for Now",
-   "summary": "Philips' strong order momentum, market share gains and expanding service revenue support growth, despite manufacturing delays and pricing pressures.",
-   "url": "https://finnhub.io/api/news?id=5ff484cda3b072cc7fc798424f5c41fcf2007d3c9790ce55ef9b2feb77edacd3",
-   "source": "Yahoo",
-   "published": "2026-11-16T14:13:00+00:00",
-   "tickers": [
-    "GKOS",
-    "ISRG"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "721de265e8d9",
-   "headline": "Should You Book Profits or Hold BSX Stock Post-Q3 Earnings?",
-   "summary": "Boston Scientific's weak WATCHMAN demand, EP market share losses and lowered 2026 outlook raise concerns over its growth prospects. Is it time to exit?",
-   "url": "https://finnhub.io/api/news?id=eadf327cf96d3a07327f0ee6c578658a7240cb70baba228578b44648f1a935cd",
-   "source": "Yahoo",
-   "published": "2026-11-16T14:07:00+00:00",
-   "tickers": [
-    "BDX",
-    "BSX",
-    "EW"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "c457a061a975",
-   "headline": "Acadia Pharmaceuticals Enters Exclusive Distribution Agreement with KYORIN Pharmaceutical for DAYBUE\u00ae STIX (trofinetide) in Japan",
-   "summary": "SAN DIEGO, November 16, 2026--Acadia Pharmaceuticals Inc. (Nasdaq: ACAD), today announced that it has entered into an exclusive distribution agreement with KYORIN Pharmaceutical Co., Ltd. (TSE: 4569), for the commercialization of DAYBUE\u00ae\u2026",
-   "url": "https://finnhub.io/api/news?id=a3aeabf6b09407f99e84a86dce200b973423cfc669237ddd469b442bef87e9c7",
-   "source": "Yahoo",
-   "published": "2026-11-16T14:04:00+00:00",
-   "tickers": [
-    "ACAD"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "fdb2fac66e16",
-   "headline": "Healthcare struggles to scale AI past pilot stage: Google report",
-   "summary": "Healthcare bet big on AI pilots. Now, unpredictable costs and mounting technical complexity are threatening to prevent organizations from scaling the tech, according to Google Cloud\u2019s Aashima Gupta.",
-   "url": "https://www.healthcaredive.com/news/healthcare-struggles-to-scale-ai-past-pilot-stage-google-report/874609/",
-   "source": "Healthcare Dive",
-   "published": "2026-11-16T14:03:00+00:00",
-   "tickers": [],
-   "tag": "Health AI",
-   "sectors": []
   }
  ]
 }
