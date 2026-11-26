@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-26T01:32:33.349521+00:00",
+ "updated": "2026-11-26T01:47:26.680960+00:00",
  "quotes": {
   "A": {
    "price": 178.44,
@@ -213,6 +213,10 @@
   "PFE": {
    "price": 28.46,
    "change_pct": 0
+  },
+  "PHR": {
+   "price": 12.09,
+   "change_pct": 0.08
   },
   "PODD": {
    "price": 142.68,
@@ -910,6 +914,36 @@
  },
  "stories": [
   {
+   "id": "88703627a2b2",
+   "headline": "Dow Jones Futures Rise; Market Goes On Wild Ride As Nasdaq Slashes Losses",
+   "summary": "The market went on a wild ride before Thanksgiving, but the Dow and Anthropic reversed higher while the Nasdaq and Nvidia came well off lows.",
+   "url": "https://finnhub.io/api/news?id=44a96bba1bfc393fcabed4ca3666db1b64e5fa8d9c85f7a1ac35285748b71fbf",
+   "source": "Yahoo",
+   "published": "2026-11-26T01:22:35+00:00",
+   "tickers": [
+    "EXEL"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "86311d0a11af",
+   "headline": "Insmed (INSM) Boards Back $39.1 Billion All Cash Deal and Set 2027 Timeline",
+   "summary": "Sanofi agreed to acquire Insmed (NasdaqGS: INSM) in an all cash deal valued at US$39.1b. The transaction has been approved by the boards of both companies, according to the joint announcement. Terms outline a full cash consideration to\u2026",
+   "url": "https://finnhub.io/api/news?id=b79e2406a9e06f5a656d8e3a7310fb2b3b0c400aa344404f7e716d2c0c69c2b2",
+   "source": "Yahoo",
+   "published": "2026-11-26T01:17:32+00:00",
+   "tickers": [
+    "INSM"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "e97574089aa3",
    "headline": "What Sent Moderna Stock Higher?",
    "summary": "Today's big story: Anthropic Below Its IPO Price: Do Giants Come Back.",
@@ -1217,6 +1251,7 @@
    "source": "Yahoo",
    "published": "2026-11-25T20:45:25+00:00",
    "tickers": [
+    "INSM",
     "MRNA",
     "REGN",
     "RVMD"
@@ -1361,6 +1396,7 @@
    "published": "2026-11-25T19:15:17+00:00",
    "tickers": [
     "BMRN",
+    "INSM",
     "MRNA",
     "REGN",
     "RVMD"
@@ -1466,6 +1502,7 @@
    "source": "Yahoo",
    "published": "2026-11-25T18:38:01+00:00",
    "tickers": [
+    "INSM",
     "PFE"
    ],
    "tag": "Earnings",
@@ -1863,6 +1900,21 @@
    ]
   },
   {
+   "id": "8e3fa17b5718",
+   "headline": "AGIO Stock Rises 8.4%: Is a Buyout on the Cards Post SNY/INSM Deal?",
+   "summary": "Agios shares jump 8.4% amid renewed biotech M&A optimism, as its rare disease portfolio and mitapivat opportunity draw potential buyer interest.",
+   "url": "https://finnhub.io/api/news?id=50e2e5ac0ad99c069dc6ba2fe208fc414121101636d135a58cde65a9376b4312",
+   "source": "Yahoo",
+   "published": "2026-11-25T16:18:00+00:00",
+   "tickers": [
+    "INSM"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "fd65494ef9c5",
    "headline": "Cogent secures 2nd-line approval in rare GI cancer, the first in 20 years",
    "summary": "Cogent Biosciences\u2019 kinase inhibitor secured FDA approval as a second-line treatment for patients with advanced gastrointestinal stromal tumors who have previously received imatinib. It\u2019s the first new second-line treatment option in two\u2026",
@@ -1976,6 +2028,21 @@
    ]
   },
   {
+   "id": "13f09c169b4e",
+   "headline": "Sanofi's Insmed Acquisition Provides Growth Visibility Beyond Dupixent, RBC Says",
+   "summary": "Sanofi's (SNY) planned acquisition of Insmed (INSM) provides visibility into its potential growth af",
+   "url": "https://finnhub.io/api/news?id=493f055b9e69dbe95627b26f4375d060520169174d704a9db3fd49aa166f19cc",
+   "source": "Yahoo",
+   "published": "2026-11-25T16:04:26+00:00",
+   "tickers": [
+    "INSM"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "acb084bf33c8",
    "headline": "Zacks Industry Outlook Highlights DaVita, RadNet, LifeStance Health and U.S. Physical Therapy",
    "summary": "DaVita, RadNet, LifeStance Health and U.S. Physical Therapy stand to benefit from rising outpatient care demand, AI adoption and a shift toward value-based care.",
@@ -1998,6 +2065,7 @@
    "source": "Yahoo",
    "published": "2026-11-25T15:56:38+00:00",
    "tickers": [
+    "INSM",
     "REGN"
    ],
    "tag": "M&A",
@@ -2123,6 +2191,7 @@
    "source": "Yahoo",
    "published": "2026-11-25T15:31:00+00:00",
    "tickers": [
+    "INSM",
     "RVMD"
    ],
    "tag": "M&A",
@@ -2304,6 +2373,21 @@
    ]
   },
   {
+   "id": "d593267e9dfc",
+   "headline": "At 72, She Will Be Prescribed the First Pill for Her Lung Disease, Listed at About $88,000 a Year. Medicare Part D Will Cap What She Pays, but Nearly the Whole Cap Will Land in January",
+   "summary": "Medicare's new out-of-pocket cap sounds like protection, but a pricey new lung pill can drain almost all of it at a single pharmacy counter. One little-known, free option changes when she pays, and when she signs up matters.",
+   "url": "https://finnhub.io/api/news?id=947e43cdfb4dd35fcd6f51928c2a3aa214b8ff68f813264fc32c8cea0615ccdd",
+   "source": "Yahoo",
+   "published": "2026-11-25T15:02:58+00:00",
+   "tickers": [
+    "INSM"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "b23ae94d026c",
    "headline": "Turn $100,000 Into Lifetime Paychecks With These \u201cForever\u201d Passive Income Dividend Stocks",
    "summary": "Four blue-chip dividend payers, from a drugmaker to an oil giant, promise income that grows while you never add a dollar. One of them yields more than double the others, and the reason behind that gap might surprise you.",
@@ -2371,7 +2455,8 @@
    "tickers": [
     "GDRX",
     "HCA",
-    "ICLR"
+    "ICLR",
+    "INSM"
    ],
    "tag": "Analyst",
    "sectors": [
@@ -2560,6 +2645,21 @@
    "tag": "Earnings",
    "sectors": [
     "pharmacy"
+   ]
+  },
+  {
+   "id": "387f77d56330",
+   "headline": "Phreesia (PHR) Reports Next Week: Wall Street Expects Earnings Growth",
+   "summary": "Phreesia (PHR) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+   "url": "https://finnhub.io/api/news?id=318926310e9f2d15d7afe7d4196d3972e48531521c49ca0f14501345fd428156",
+   "source": "Yahoo",
+   "published": "2026-11-25T14:00:03+00:00",
+   "tickers": [
+    "PHR"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
    ]
   },
   {
@@ -3139,11 +3239,27 @@
    "source": "Yahoo",
    "published": "2026-11-25T12:45:00+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "INSM"
    ],
    "tag": "M&A",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "3d43f251cd1c",
+   "headline": "Sanofi upgraded by BofA and Barclays after $41 billion Insmed deal",
+   "summary": "Investing.com -- Bank of America and Barclays have both upgraded Sanofi after it agreed to buy Insmed for about $41 billion, saying the deal helps offset the looming loss of patent protection for its blockbuster drug Dupixent.",
+   "url": "https://finnhub.io/api/news?id=1f8523d3c4c87cbda23bc06241abef2dc5713e38bb4280e8d43198709a0bacd5",
+   "source": "Yahoo",
+   "published": "2026-11-25T12:39:12+00:00",
+   "tickers": [
+    "INSM"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -3264,6 +3380,21 @@
    "tag": "News",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "bdae3f3aad5c",
+   "headline": "Why Is Insmed Stock Going Up?",
+   "summary": "Today's big story: Anthropic Below Its IPO Price: Do Giants Come Back.",
+   "url": "https://finnhub.io/api/news?id=fdd43dd45e34b498db8c5f7607b89e4d976fe5f714d7a5bd0f697eb86b80a4ac",
+   "source": "Yahoo",
+   "published": "2026-11-25T12:12:17+00:00",
+   "tickers": [
+    "INSM"
+   ],
+   "tag": "Financing",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -3683,6 +3814,7 @@
    "source": "Yahoo",
    "published": "2026-11-25T10:50:25+00:00",
    "tickers": [
+    "INSM",
     "PFE"
    ],
    "tag": "M&A",
@@ -4252,6 +4384,21 @@
     "ARWR"
    ],
    "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "c5c6c969d4f3",
+   "headline": "Sanofi Makes Huge Play to Avoid Patent Cliff",
+   "summary": "On Tuesday, French pharma giant Sanofi said it had agreed to acquire respiratory drugmaker Insmed for $41 billion.",
+   "url": "https://finnhub.io/api/news?id=6902e5df263a9360b420094e297f645f15120125f3b4d383d9d218b32f4d9893",
+   "source": "Yahoo",
+   "published": "2026-11-25T05:01:00+00:00",
+   "tickers": [
+    "INSM"
+   ],
+   "tag": "M&A",
    "sectors": [
     "biotech"
    ]
@@ -42892,17 +43039,6 @@
    "url": "https://www.healthcaredive.com/news/apple-openevidence-conversational-health-ai-study-app/874714/",
    "source": "Healthcare Dive",
    "published": "2026-11-16T01:47:23+00:00",
-   "tickers": [],
-   "tag": "Health AI",
-   "sectors": []
-  },
-  {
-   "id": "72295d55221e",
-   "headline": "HLTH26: Apple launches 200K-person study to examine how consumers use health AI",
-   "summary": "Apple launched the Apple Health AI Usage Study today with plans to recruit 200,000 participants in the U.S. to gain a better understanding of how people interact with conversational health AI tools.",
-   "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/hlth26-apple-kicks-new-study-examine-use-ai-chatbots-health",
-   "source": "Fierce Healthcare",
-   "published": "2026-11-16T01:45:19.490263+00:00",
    "tickers": [],
    "tag": "Health AI",
    "sectors": []
