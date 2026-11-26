@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-26T20:17:20.510719+00:00",
+ "updated": "2026-11-26T20:32:32.977403+00:00",
  "quotes": {
   "A": {
    "price": 178.47,
@@ -25,6 +25,10 @@
   "AMGN": {
    "price": 469.28,
    "change_pct": -0.98
+  },
+  "ARWR": {
+   "price": 49.61,
+   "change_pct": 2.65
   },
   "BDX": {
    "price": 221.28,
@@ -882,6 +886,21 @@
  },
  "stories": [
   {
+   "id": "466072015272",
+   "headline": "The Buffett Indicator Is Flashing Red. These 2 Dividend Stocks Could Be Safe Havens.",
+   "summary": "The Buffett indicator is well above its long-term average, so you may want to consider buying stocks of companies that sell things people don't want to live without.",
+   "url": "https://finnhub.io/api/news?id=e91ad80ce9e2e2dd78689b26b880581186c71552e0aabfda2f642e40a41e7a4a",
+   "source": "Yahoo",
+   "published": "2026-11-26T19:25:02+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "99ba11f282c8",
    "headline": "In a fertility advance, engineered molecular glue stabilizes chromosomes in aging eggs",
    "summary": "Researchers engineered a protein system capable of restoring normal chromosome connections in aging mouse eggs, raising hopes of one day improving IVF outcomes",
@@ -891,6 +910,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "7f4b9da7fd23",
+   "headline": "Arrowhead: 3 Key Takeaways for Long-Term Investors",
+   "summary": "Its $3 billion to $4 billion sHTG sales target rests on a nearly 1 million patient population, making the commercial ramp the central test for long-term holders.",
+   "url": "https://finnhub.io/api/news?id=01bcef4a33cc9e5f0adb286f91145da4fcd6a9f4baa129a93f7204053c843bab",
+   "source": "Yahoo",
+   "published": "2026-11-26T18:59:27+00:00",
+   "tickers": [
+    "ARWR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
   },
   {
    "id": "cecadf2a1d57",
@@ -920,6 +954,36 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "a6a7adbacf73",
+   "headline": "Can ISRG's XiR Drive Growth as Ambulatory Surgery Center Expands?",
+   "summary": "XiR could help Intuitive Surgical tap the expanding ASC market, but adoption remains a multiyear growth opportunity rather than an immediate revenue driver.",
+   "url": "https://finnhub.io/api/news?id=749ce37d9b681ce051fa47330fe2a66731bd67d541c6c88a16073a7332fe4a35",
+   "source": "Yahoo",
+   "published": "2026-11-26T17:07:00+00:00",
+   "tickers": [
+    "BSX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "5f1ac9b4a237",
+   "headline": "Bristol Myers' Sotyktu Delivers Mixed Phase III Lupus Study Results",
+   "summary": "Bristol Myers' Sotyktu delivers mixed phase III lupus results, with one trial meeting its primary endpoint and another missing, complicating its expansion prospects.",
+   "url": "https://finnhub.io/api/news?id=af4c79b2703bbe4879e4f9de38a3b0735a3baa5a17369d1f6e93725f7485e750",
+   "source": "Yahoo",
+   "published": "2026-11-26T17:06:00+00:00",
+   "tickers": [
+    "BMY"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -40848,21 +40912,6 @@
     "UNH"
    ],
    "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "c76be2372395",
-   "headline": "Novartis (SWX:NOVN), What Is Behind The Fresh Attention?",
-   "summary": "Novartis (SWX:NOVN) is back in focus after a positive opinion from the European Medicines Agency\u2019s CHMP for Cosentyx in adolescent hidradenitis suppurativa, highlighting how new indications can shape sentiment around the share price. The\u2026",
-   "url": "https://finnhub.io/api/news?id=f63544b88a13596176433690b371942b5dfe598f11ead249f367cf28f329a898",
-   "source": "Yahoo",
-   "published": "2026-11-16T20:23:36+00:00",
-   "tickers": [
-    "NVS"
-   ],
-   "tag": "FDA",
    "sectors": [
     "pharma"
    ]
