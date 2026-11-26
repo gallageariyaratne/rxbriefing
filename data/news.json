@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-26T20:32:32.977403+00:00",
+ "updated": "2026-11-26T20:47:30.589694+00:00",
  "quotes": {
   "A": {
    "price": 178.47,
@@ -61,6 +61,10 @@
   "CNC": {
    "price": 64.76,
    "change_pct": 0.64
+  },
+  "CRL": {
+   "price": 332.12,
+   "change_pct": -1.19
   },
   "CVS": {
    "price": 81.08,
@@ -141,10 +145,6 @@
   "INSM": {
    "price": 170.34,
    "change_pct": 0.11
-  },
-  "IONS": {
-   "price": 29.98,
-   "change_pct": 0.6
   },
   "IQV": {
    "price": 251.16,
@@ -964,7 +964,9 @@
    "source": "Yahoo",
    "published": "2026-11-26T17:07:00+00:00",
    "tickers": [
-    "BSX"
+    "BSX",
+    "GEHC",
+    "ISRG"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -1688,6 +1690,21 @@
    "tag": "Analyst",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "3a59f92c4e29",
+   "headline": "Are Wall Street Analysts Predicting Charles River Laboratories Stock Will Climb or Sink?",
+   "summary": "Charles River Laboratories has significantly outperformed the market, while raised guidance, earnings growth, and bullish analyst sentiment support continued optimism.",
+   "url": "https://finnhub.io/api/news?id=fb6f5742877b66d9a375b339db210309cc7639159e043bbba0505f3384e28863",
+   "source": "Yahoo",
+   "published": "2026-11-26T13:21:30+00:00",
+   "tickers": [
+    "CRL"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -40892,24 +40909,6 @@
     "JNJ",
     "LLY",
     "NVO"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "7fe4ce246734",
-   "headline": "The Winners Inside SCHD - November 2026",
-   "summary": "The bull case for SCHD: 34 holdings screen at least 10% undervalued, with expected long-term returns above 10%; its YTD lead over SPY tops 20%.",
-   "url": "https://finnhub.io/api/news?id=c073735c337135254275f5275d9ff4c0cb3f56e0208a335369f819a0db8f5c97",
-   "source": "SeekingAlpha",
-   "published": "2026-11-16T20:36:40+00:00",
-   "tickers": [
-    "ABT",
-    "AMGN",
-    "MRK",
-    "UNH"
    ],
    "tag": "News",
    "sectors": [
