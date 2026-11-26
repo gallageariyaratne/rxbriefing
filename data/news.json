@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-26T00:17:22.246404+00:00",
+ "updated": "2026-11-26T00:32:27.892817+00:00",
  "quotes": {
   "A": {
    "price": 178.44,
@@ -146,6 +146,10 @@
    "price": 406.51,
    "change_pct": 0.94
   },
+  "ICLR": {
+   "price": 198.78,
+   "change_pct": 0.26
+  },
   "IDXX": {
    "price": 709.46,
    "change_pct": -0.37
@@ -185,10 +189,6 @@
   "MDT": {
    "price": 96.06,
    "change_pct": -0.07
-  },
-  "MOH": {
-   "price": 205.63,
-   "change_pct": 1.9
   },
   "MRK": {
    "price": 140.29,
@@ -902,6 +902,21 @@
  },
  "stories": [
   {
+   "id": "ffa4aa29c599",
+   "headline": "What Could Johnson & Johnson (JNJ) FDA Cancer Approval Change For Investors?",
+   "summary": "Johnson & Johnson (NYSE:JNJ) received FDA accelerated approval for RYBREVANT FASPRO for advanced head and neck cancer in adults. The therapy is cleared for recurrent or metastatic head and neck squamous cell carcinoma after platinum\u2026",
+   "url": "https://finnhub.io/api/news?id=ffdee7482fab9b66c1dc88580c966fce48ac5690a88a2117ff952f75678ea804",
+   "source": "Yahoo",
+   "published": "2026-11-25T23:16:50+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "3afe42a09edf",
    "headline": "5 Best Healthcare Stocks To Buy for 2027",
    "summary": "The healthcare sector is emerging as an attractive investment opportunity heading into 2027, supported by rising demand for medical services, pharmaceutical innovation, and advances in biotechnology. Growing investment in treatments for\u2026",
@@ -914,6 +929,21 @@
    "tag": "M&A",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "64c1863abfaa",
+   "headline": "VRTX Tumbles After-Hours As FDA Delays Kidney Drug Decision; Rival VERA Surges",
+   "summary": "Vertex said the FDA informed it on Tuesday that the deadline for deciding on its application seeking approval for its drug povetacicept in IgA nephropathy would be extended by up to three months.",
+   "url": "https://finnhub.io/api/news?id=a202495cb78a7849036abb4b33e72ffe7f3b386c192c1e7eaf0f802ed21cc714",
+   "source": "Yahoo",
+   "published": "2026-11-25T22:34:19+00:00",
+   "tickers": [
+    "VRTX"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1198,6 +1228,21 @@
    "tag": "Clinical",
    "sectors": [
     "healthit"
+   ]
+  },
+  {
+   "id": "c799fbe17508",
+   "headline": "Axsome Therapeutics (AXSM) Revenue Surges 52%, But Rising Costs Remain a Concern",
+   "summary": "We just published our list of the 10 Fastest Growing Mid Cap Stocks to Buy According to Hedge Funds and Axsome Therapeutics, Inc. (NASDAQ:AXSM) ranked 6th on this list. According to the Federal Reserve\u2019s October 2026 meeting minutes,\u2026",
+   "url": "https://finnhub.io/api/news?id=23b52ee745921d79194c10720a410fd4ff29219cabcdf12f9a9cf568d17d0edb",
+   "source": "Yahoo",
+   "published": "2026-11-25T19:21:37+00:00",
+   "tickers": [
+    "AXSM"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -2138,7 +2183,8 @@
    "source": "Yahoo",
    "published": "2026-11-25T14:40:25+00:00",
    "tickers": [
-    "HCA"
+    "HCA",
+    "ICLR"
    ],
    "tag": "Analyst",
    "sectors": [
