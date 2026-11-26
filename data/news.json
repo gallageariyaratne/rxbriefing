@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-26T11:02:40.904523+00:00",
+ "updated": "2026-11-26T11:17:24.730803+00:00",
  "quotes": {
   "A": {
    "price": 178.44,
@@ -170,10 +170,6 @@
    "price": 14.48,
    "change_pct": 2.26
   },
-  "LH": {
-   "price": 368.95,
-   "change_pct": -1.9
-  },
   "LLY": {
    "price": 1392.22,
    "change_pct": -1.09
@@ -237,10 +233,6 @@
   "RVMD": {
    "price": 175.67,
    "change_pct": -3.04
-  },
-  "RXRX": {
-   "price": 2.63,
-   "change_pct": -1.68
   },
   "SDGR": {
    "price": 24.38,
@@ -977,6 +969,21 @@
     "BDX"
    ],
    "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "7ede63fdaadc",
+   "headline": "Becton, Dickinson: The Valuation Still Makes It A Buy",
+   "summary": "Analyst rates Becton Dickinson a Buy: at about $220, shares trade 8% below $240 fair value, with expected long-term returns near 10%.",
+   "url": "https://finnhub.io/api/news?id=ae152de2ff73539740a90d998d439e3a55cafcb5efbc825e1ba1d3b6985bd4ac",
+   "source": "SeekingAlpha",
+   "published": "2026-11-26T05:53:09+00:00",
+   "tickers": [
+    "BDX"
+   ],
+   "tag": "Analyst",
    "sectors": [
     "medtech"
    ]
@@ -42088,235 +42095,6 @@
     "LLY"
    ],
    "tag": "Analyst",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "6184a4934a55",
-   "headline": "What Does Eli Lilly (LLY) Reveal At ObesityWeek 2026 About Its Growth Path?",
-   "summary": "Eli Lilly (NYSE:LLY) released new clinical data at ObesityWeek 2026 on Zepbound, Foundayo, EloraTZP, and retatrutide. The update included late-stage obesity and cardiometabolic results that covered weight loss, metabolic markers, and\u2026",
-   "url": "https://finnhub.io/api/news?id=437c794fcc96a71a2403923f7a5e0688b63f743b5943b8327fbdc8f174604e8d",
-   "source": "Yahoo",
-   "published": "2026-11-16T11:13:39+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "137181f77fd8",
-   "headline": "Novo Nordisk Stock in Focus as New Obesity Drug Shows Promise",
-   "summary": "Nearly 68% of Patients Lost Weight Quickly on Novo's CagriSema",
-   "url": "https://finnhub.io/api/news?id=c0e9b5df5bcc3d2b83187faa27c249895f7228961cdaab4538cc3c9fa34f753e",
-   "source": "Yahoo",
-   "published": "2026-11-16T11:13:13+00:00",
-   "tickers": [
-    "NVO"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "09c045b24662",
-   "headline": "Novo Nordisk Shares Gain 2.4% Following Additional CagriSema Weight-Loss Trial Analyses",
-   "summary": "Novo Nordisk (NYSE:NVO) shares rose 2. 4% after the Danish pharmaceutical company presented additional findings from its REDEFINE 1 clinical trial, showing that participants who responded early to its experimental obesity treatment\u2026",
-   "url": "https://finnhub.io/api/news?id=c66e6991e39169d55dd8f46d9126937a73b773c1853f4cadb1b5ab8aa29a0964",
-   "source": "Yahoo",
-   "published": "2026-11-16T11:09:23+00:00",
-   "tickers": [
-    "NVO"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "9dd321d8e482",
-   "headline": "RBC Capital Maintains Outperform on CVS Health, Lowers Price Target to $108",
-   "summary": "RBC Capital analyst Ben Hendrix maintains CVS Health (NYSE:CVS) with a Outperform and lowers the price target from $113 to $108.",
-   "url": "https://finnhub.io/api/news?id=468cfbd8a6f45e8d3dc040ea8d0ef40a823cbea4c29577192d5186f1451f4c8b",
-   "source": "Benzinga",
-   "published": "2026-11-16T11:08:32+00:00",
-   "tickers": [
-    "CVS"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "0a539e1adb3b",
-   "headline": "Barclays Maintains Overweight on Ascendis Pharma, Raises Price Target to $341",
-   "summary": "Barclays analyst Eliana Merle maintains Ascendis Pharma (NASDAQ:ASND) with a Overweight and raises the price target from $329 to $341.",
-   "url": "https://finnhub.io/api/news?id=07a124d27499df8900273ada8e4167b6c1ed4f655ffb466b07d34b7d76269cae",
-   "source": "Benzinga",
-   "published": "2026-11-16T11:07:34+00:00",
-   "tickers": [
-    "ASND"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "4540352e1cde",
-   "headline": "Novo Nordisk Stock Rises on Obesity Drug Breakthrough",
-   "summary": "Novo Nordisk Stock Gets a Boost From Obesity Drug Results and New European Approval",
-   "url": "https://finnhub.io/api/news?id=5815e4ad9586eb279d49bd7eb52bc153779e41a6a0bb6cca1b17b375bf72fc37",
-   "source": "Yahoo",
-   "published": "2026-11-16T11:06:46+00:00",
-   "tickers": [
-    "NVO"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "ae29e8c1bb52",
-   "headline": "iShares Core S&P Mid-Cap (IJH) Sells ATI and TechnipFMC on Nov. 12",
-   "summary": "The fund sold $182.6 million of stock and bought nothing, cutting 387 positions while adding none.",
-   "url": "https://finnhub.io/api/news?id=d04dd92f36e8997781b987a9bc2f91ba0d0660b229bee0a1d7603fc127148386",
-   "source": "Yahoo",
-   "published": "2026-11-16T11:05:48+00:00",
-   "tickers": [
-    "UTHR"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "8902d2f83e36",
-   "headline": "Proshares Trust (TQQQ) Buys $72.9 Million More Moderna on Nov. 12",
-   "summary": "The 3x leveraged Nasdaq-100 fund added a $72.9 million Moderna stake while trimming 100 positions and net selling $101.1 million.",
-   "url": "https://finnhub.io/api/news?id=3bf5846e13d0959f330730005428fd8412ac8e7dfc8b4f9d11de060149640c28",
-   "source": "Yahoo",
-   "published": "2026-11-16T11:05:23+00:00",
-   "tickers": [
-    "MRNA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "4d02ad41b0c1",
-   "headline": "State Street Health Care SPDR (XLV) Sells Eli Lilly and J&J on Nov. 12",
-   "summary": "The fund sold $300.3 million of stock, cutting all 60 positions and adding nothing, as its assets stood at $50.56 billion.",
-   "url": "https://finnhub.io/api/news?id=1e5ea54a71786e13c716eef77924bb1ddd53a30d211471c9040f69863e9e1752",
-   "source": "Yahoo",
-   "published": "2026-11-16T11:05:10+00:00",
-   "tickers": [
-    "ABBV",
-    "JNJ",
-    "LLY",
-    "MRK",
-    "UNH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "2ce57203c94f",
-   "headline": "What Invesco S&P 500 Equal Weight ETF (RSP) Bought: Moderna Leads on Nov. 12",
-   "summary": "The fund added $319.5 million in gross purchases, lifting all 503 positions and making no sales.",
-   "url": "https://finnhub.io/api/news?id=372849855454ba43706f8d1e2f075d88fcced76e25b8fa1afc98e90c25c10afe",
-   "source": "Yahoo",
-   "published": "2026-11-16T11:05:06+00:00",
-   "tickers": [
-    "MRNA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "83500a5c5af5",
-   "headline": "Avantis U.S. Large Cap Value (AVLV) Adds AT&T and Micron on Thursday",
-   "summary": "The fund sold $332.8 million more than it bought, with Eli Lilly and Accenture its largest sales.",
-   "url": "https://finnhub.io/api/news?id=25c1c1fe2c743cd718d4a5417913d7f2593c37bb3202343b1b6a9872260a542e",
-   "source": "Yahoo",
-   "published": "2026-11-16T11:04:32+00:00",
-   "tickers": [
-    "ELV"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "704f95223b9e",
-   "headline": "iShares Russell 2000 (IWM) Buys $56.7 Million More Teekay Tankers on Thursday",
-   "summary": "The fund added $497.4 million in net new positions, led by a $56.7 million stake in Teekay Tankers, while selling just $0.2 million of First Bancorp.",
-   "url": "https://finnhub.io/api/news?id=908744847d4d6a9becea1a35952dc2d46d66036c0f66794ef49e2d933ad69eb0",
-   "source": "Yahoo",
-   "published": "2026-11-16T11:04:21+00:00",
-   "tickers": [
-    "GKOS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "ac5ce7342b2d",
-   "headline": "ETFs Are Net Sellers of AbbVie (ABBV) on Nov. 12",
-   "summary": "ETFs sold a net $62.0 million of AbbVie on Thursday, with 40 funds buying and 16 selling.",
-   "url": "https://finnhub.io/api/news?id=9e5351d71e07a7197996cfe4aa6266afdb147d9099f2e4f37ac562131f96fff7",
-   "source": "Yahoo",
-   "published": "2026-11-16T11:03:13+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "b3d5997443e1",
-   "headline": "ETFs Are Net Sellers of Johnson & Johnson (JNJ) on Thursday",
-   "summary": "Johnson & Johnson saw $72.5 million in net ETF selling on Thursday.",
-   "url": "https://finnhub.io/api/news?id=02d1d194b8b7d7863d3e6322f72d9596719343fcfefef306aafed298d4463429",
-   "source": "Yahoo",
-   "published": "2026-11-16T11:03:07+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "ad93ed7dffde",
-   "headline": "ETFs Are Net Sellers of Eli Lilly (LLY) on Nov. 12",
-   "summary": "Eli Lilly (LLY) drew $300.9 million in net ETF selling Thursday.",
-   "url": "https://finnhub.io/api/news?id=62962070cabe525a439d4271470ae1150f4787d0b14ecf664d17a2447434adfd",
-   "source": "Yahoo",
-   "published": "2026-11-16T11:02:17+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "News",
    "sectors": [
     "pharma"
    ]
