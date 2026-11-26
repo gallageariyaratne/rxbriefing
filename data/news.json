@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-26T12:59:32.913001+00:00",
+ "updated": "2026-11-26T13:02:46.293843+00:00",
  "quotes": {
   "A": {
    "price": 178.44,
@@ -94,6 +94,10 @@
    "price": 84.84,
    "change_pct": 0.24
   },
+  "EW": {
+   "price": 106.36,
+   "change_pct": 0.23
+  },
   "EXEL": {
    "price": 67.25,
    "change_pct": -0.3
@@ -174,10 +178,6 @@
    "price": 1392.22,
    "change_pct": -1.09
   },
-  "MCK": {
-   "price": 1077.32,
-   "change_pct": -0.07
-  },
   "MDT": {
    "price": 96.06,
    "change_pct": -0.07
@@ -201,6 +201,10 @@
   "NVS": {
    "price": 155.29,
    "change_pct": 0.57
+  },
+  "OPCH": {
+   "price": 31.64,
+   "change_pct": 0.16
   },
   "PEN": {
    "price": 323.55,
@@ -921,6 +925,21 @@
    "sectors": []
   },
   {
+   "id": "684d0a68081d",
+   "headline": "Option Care Health (NASDAQ:OPCH) Screens as a Quality Stock on Strong Cash Conversion",
+   "summary": "Option Care Health clears key quality-screen metrics on growth, ROIC, cash conversion and leverage, though risks and valuation warrant closer research.",
+   "url": "https://finnhub.io/api/news?id=0018523bdd58559da3dd1d4f87e96d2c3973cdc14e603be14bd6246edbd61acc",
+   "source": "ChartMill",
+   "published": "2026-11-26T11:50:44+00:00",
+   "tickers": [
+    "OPCH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "1c1fe029dc4f",
    "headline": "Retiring Healthy: A Sensor Or A Weight-Loss Drug? Investors Price Them The Same",
    "summary": "Today's big story: Anthropic Broke Its $83 IPO Price. What Did Facebook Do Next.",
@@ -929,7 +948,8 @@
    "published": "2026-11-26T11:42:33+00:00",
    "tickers": [
     "ABT",
-    "DXCM"
+    "DXCM",
+    "LLY"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -953,6 +973,21 @@
    ]
   },
   {
+   "id": "79e5b3cf1416",
+   "headline": "iShares Russell Mid-Cap (IWR) Adds Marathon Petroleum and Phillips 66 on Tuesday",
+   "summary": "The $57.02 billion fund bought $203.1 million of stock in Tuesday's session, lifting 800 positions and trimming none.",
+   "url": "https://finnhub.io/api/news?id=b6884b9c9a0ea3ddc6ed48b1e3dd5a230bb49b4fccc8d7e40c633215dec97dc1",
+   "source": "Yahoo",
+   "published": "2026-11-26T11:05:35+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "01c33d6d1c19",
    "headline": "iShares U.S. Medical Devices (IHI) Sells $39.2 Million of Abbott on Nov. 24",
    "summary": "The fund sold $229.5 million of stock and bought nothing on Tuesday, trimming all 47 of its positions.",
@@ -961,12 +996,31 @@
    "published": "2026-11-26T11:05:10+00:00",
    "tickers": [
     "ABT",
+    "EW",
+    "IDXX",
     "ISRG",
     "MDT"
    ],
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "31a7b6455965",
+   "headline": "Invesco S&P 500 Equal Weight (RSP) Sells Moderna and PTC on Nov. 24",
+   "summary": "The $100.70 billion fund sold $364.2 million of stock across all 503 positions, with no buys.",
+   "url": "https://finnhub.io/api/news?id=607dd62629963a584d01be3cd1d6ff4b7862eff62edd96dde78bd260e0b0ef67",
+   "source": "Yahoo",
+   "published": "2026-11-26T11:04:38+00:00",
+   "tickers": [
+    "IDXX",
+    "LLY",
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -979,11 +1033,28 @@
    "tickers": [
     "ABBV",
     "JNJ",
+    "LLY",
+    "MRK",
     "UNH"
    ],
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "da2cfafd1388",
+   "headline": "ETFs Are Net Sellers of Thermo Fisher (TMO) on Nov. 24",
+   "summary": "ETFs sold a net $34.9 million of Thermo Fisher on Tuesday, with 46 funds buying and 10 selling.",
+   "url": "https://finnhub.io/api/news?id=85d5e34ebcdb928b06096f8ad932fd7c276fe12dbf1ee28ecd9f632ec7940b38",
+   "source": "Yahoo",
+   "published": "2026-11-26T11:03:36+00:00",
+   "tickers": [
+    "TMO"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
    ]
   },
   {
@@ -1014,6 +1085,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "0802e5a267d3",
+   "headline": "ETFs Are Net Sellers of Merck (MRK) on Nov. 24",
+   "summary": "ETFs sold $40.2 million of Merck (MRK) in Tuesday's session.",
+   "url": "https://finnhub.io/api/news?id=52df82ac3f55ce407ef0bd1cf6f308d6ad8c411b9081639d1e535964db8000e2",
+   "source": "Yahoo",
+   "published": "2026-11-26T11:03:25+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -1077,6 +1163,36 @@
    ]
   },
   {
+   "id": "d4ba313bdd94",
+   "headline": "ETFs Are Net Sellers of Lilly (Eli) & Co (LLY) on Nov. 24",
+   "summary": "ETFs sold $189.9 million of Eli Lilly (LLY) on Tuesday.",
+   "url": "https://finnhub.io/api/news?id=5d97d105374950e6ab0020031f3bcbfe16e498df863e46750fe9fdf6ea47b9e4",
+   "source": "Yahoo",
+   "published": "2026-11-26T11:02:15+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "a1f6d37931c5",
+   "headline": "Thermo Fisher Scientific (TMO) Wins Wider FDA Clearance For Blood Cancer Monitoring",
+   "summary": "Thermo Fisher Scientific (NYSE:TMO) received expanded FDA clearance for its EXENT Analyser with the Immunoglobulin Isotypes (GAM) Assay. The decision covers use in monitoring multiple myeloma and Waldenstr\u00f6m's macroglobulinemia,\u2026",
+   "url": "https://finnhub.io/api/news?id=7cdc853b1e6dfc2632ef0a4af8cfbfcf12340f96b65a33e329234908a59c2095",
+   "source": "Yahoo",
+   "published": "2026-11-26T10:12:12+00:00",
+   "tickers": [
+    "TMO"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "3616d85feba7",
    "headline": "TG Therapeutics (TGTX) Stock Sees Fair Value Cut As Briumvi Risks Temper Analyst Optimism",
    "summary": "The fair value estimate for TG Therapeutics has moved from US$77.83 to US$69.43 per share, a reduction of about 10.8% in the latest model update. Analysts link this change to refreshed assumptions around Briumvi, where optimism about\u2026",
@@ -1104,6 +1220,21 @@
    "tag": "Earnings",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "5eeec19a2c31",
+   "headline": "Sanofi: Insmed And Dupixent Could Fuel More Upside",
+   "summary": "Sanofi (SNY) stock is a buy as its risk/reward remains attractive as Dupixent sales rose 10.3% quarter over quarter to \u00e2\u0082\u00ac5.69 billion.",
+   "url": "https://finnhub.io/api/news?id=09a02cad29d9b5d85ef7efe162611baf9aff9c7565e3f4e18cebe70623569133",
+   "source": "SeekingAlpha",
+   "published": "2026-11-26T07:39:16+00:00",
+   "tickers": [
+    "SNY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -41630,123 +41761,6 @@
    "tag": "News",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "eb35a158fa33",
-   "headline": "How Retirees Can Turn $50,000 Into Passive Income With These 4 Dividend Stocks",
-   "summary": "Selling shares in a down market can lock in losses just when retirees need cash most. Four dividend payers from telecom, asset management, biopharma and pizza offer another route, though one of them already cut its payout once.",
-   "url": "https://finnhub.io/api/news?id=7ee443cb3e2755a02080769c2c6309eb3217419e8814190c5368c4ea7dbdb00f",
-   "source": "Yahoo",
-   "published": "2026-11-16T13:00:58+00:00",
-   "tickers": [
-    "GILD"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "c682037dca00",
-   "headline": "Eli Lilly and Company (LLY) is Attracting Investor Attention: Here is What You Should Know",
-   "summary": "Lilly (LLY) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
-   "url": "https://finnhub.io/api/news?id=e90f02f1f9cb298e28a51e1da6eebc78f99e9519a493d1421284bf1c5411889c",
-   "source": "Yahoo",
-   "published": "2026-11-16T13:00:05+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "391c90667cf0",
-   "headline": "STAT+: Bladder cancer immunotherapy from CG Oncology reduced risk of tumor recurrence",
-   "summary": "CG Oncology's bladder cancer immunotherapy reduced risk of tumor recurrence by 68% \u2014 results that may change how physicians treat certain patients.",
-   "url": "https://www.statnews.com/2026/11/16/bladder-cancer-immunotherapy-reduced-tumor-recurrence-cg-oncology/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-11-16T13:00:00+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "e6fbb45501e8",
-   "headline": "Iambic Provides Business Updates and Third Quarter 2026 Financial Results",
-   "summary": "Launched Enchant\u00ae v3, a 41-billion-parameter transformer model for drug discovery and development, to drive decisions across our internal and partnership activitiesSigned AI discovery collaborations with Bayer and AbbVie; eight total\u2026",
-   "url": "https://finnhub.io/api/news?id=dc4af56c9ab5fda5bcf8f905d45c8426b745241fa2cdb77e35d1a32a0faff84e",
-   "source": "Yahoo",
-   "published": "2026-11-16T13:00:00+00:00",
-   "tickers": [
-    "ABBV",
-    "TAK"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "787d3d15b686",
-   "headline": "Johnson & Johnson to acquire Ollin Biosciences and late-stage bispecific antibody with best-in-class potential in ophthalmology",
-   "summary": "NEW BRUNSWICK, N.J., November 16, 2026--Johnson & Johnson (NYSE: JNJ) today announced it has entered into a definitive agreement to acquire Ollin Biosciences, Inc., (\"Ollin\") a clinical-stage biopharmaceutical company developing therapies\u2026",
-   "url": "https://finnhub.io/api/news?id=0fb855a39209b2072b51c5cc94a4d566e3912716134cdd7af4323e7540b0b0ec",
-   "source": "Yahoo",
-   "published": "2026-11-16T13:00:00+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "37651e96c5ff",
-   "headline": "GE HealthCare expands global collaborations to help define the future of photon-counting CT with Photonova\u2122 Spectra",
-   "summary": "CHICAGO, November 16, 2026--GE HealthCare (Nasdaq: GEHC) today announced an expansion of its global clinical and research collaborations to advance Photonova Spectra,i the company's next-generation photon-counting CT system. Following\u2026",
-   "url": "https://finnhub.io/api/news?id=6b004334ecefb45a6f25a58c9b1281c8ce8ae4f14b13a6dbe33f70d7f0392021",
-   "source": "Yahoo",
-   "published": "2026-11-16T13:00:00+00:00",
-   "tickers": [
-    "GEHC"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "94c2c6c81790",
-   "headline": "Dr. Robert Langer, Co-Founder of Moderna, Joins PolarityBio\u2019s Board of Directors",
-   "summary": "Renowned biotechnology pioneer brings expertise in tissue engineering, regenerative medicine and translating scientific discoveries into commercial therapies to PolarityBio SkinTE\u00ae granted FDA Priority Review with PDUFA target action date\u2026",
-   "url": "https://finnhub.io/api/news?id=632f19c40dba0c1a0cdce406ab3098e8e4130232278f4fd683125a284a698756",
-   "source": "Yahoo",
-   "published": "2026-11-16T13:00:00+00:00",
-   "tickers": [
-    "MRNA"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "a1eb141a26bd",
-   "headline": "Commure Acquires Elaborate to Cure the Clinician Inbox",
-   "summary": "Brings protocol-driven inbox AI to Commure\u2019s platform, giving clinicians back the hours the inbox takes after every visitMOUNTAIN VIEW, Calif., Nov. 16, 2026 (GLOBE NEWSWIRE) -- Commure, the agentic platform for healthcare, today\u2026",
-   "url": "https://finnhub.io/api/news?id=918cfe090b5b29796b0806854fd7c8910421d9f380878bc4565ab6291b1cde1f",
-   "source": "Yahoo",
-   "published": "2026-11-16T13:00:00+00:00",
-   "tickers": [
-    "HCA"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "payers"
    ]
   }
  ]
