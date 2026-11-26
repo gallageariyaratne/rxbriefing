@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-26T18:32:18.735848+00:00",
+ "updated": "2026-11-26T18:47:11.146977+00:00",
  "quotes": {
   "A": {
    "price": 178.47,
@@ -54,6 +54,10 @@
    "price": 45.13,
    "change_pct": 2.24
   },
+  "CAH": {
+   "price": 282.95,
+   "change_pct": 1.18
+  },
   "CLOV": {
    "price": 3.78,
    "change_pct": 1.89
@@ -77,6 +81,10 @@
   "ELV": {
    "price": 389.74,
    "change_pct": -0.37
+  },
+  "ENSG": {
+   "price": 182.04,
+   "change_pct": 1.34
   },
   "EW": {
    "price": 106.39,
@@ -225,6 +233,10 @@
   "TMO": {
    "price": 685.56,
    "change_pct": -1.45
+  },
+  "UHS": {
+   "price": 190.6,
+   "change_pct": 4.04
   },
   "UNH": {
    "price": 346.23,
@@ -862,6 +874,21 @@
  },
  "stories": [
   {
+   "id": "7f7996c01d34",
+   "headline": "Billionaire Nelson Peltz\u2019s Trian Has Nearly Half of Its $2.6 Billion Stock Portfolio in GE Aerospace",
+   "summary": "Nelson Peltz's firm bets big on a tiny list of stocks, and one name towers over the rest. Before copying that conviction, retirement savers should weigh what an activist's mandate does not share with their income needs.",
+   "url": "https://finnhub.io/api/news?id=ee7dfb775cd3d81c15b4ffb06c49b2b83999877d7f8daa262ca4c907dd64d37d",
+   "source": "Yahoo",
+   "published": "2026-11-26T17:09:54+00:00",
+   "tickers": [
+    "GEHC"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "2b584694c24a",
    "headline": "What\u2019s the Tax Bill on $7,125 a Month in Dividend Income? The Taxable Account vs. Roth IRA Math",
    "summary": "Two retirees can collect the same $85,500 in dividends and face wildly different tax bills. The gap comes down to what the 1099 calls each dollar, and one fund's payout could quietly change the whole picture.",
@@ -892,6 +919,21 @@
    ]
   },
   {
+   "id": "505e4677de93",
+   "headline": "Is Cardinal (CAH) a Solid Growth Stock? 3 Reasons to Think \"Yes\"",
+   "summary": "Cardinal (CAH) is well positioned to outperform the market, as it exhibits above-average growth in financials.",
+   "url": "https://finnhub.io/api/news?id=7ddd7c2c225812cf1f88499f9a9fd909a78de819f9e984acc540c70f4023b837",
+   "source": "Yahoo",
+   "published": "2026-11-26T16:45:02+00:00",
+   "tickers": [
+    "CAH"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "pharmacy"
+   ]
+  },
+  {
    "id": "a47f559f9fa5",
    "headline": "Measles update: First death in Virginia, ninth in Pennsylvania",
    "summary": "Experts have pointed to sagging vaccination rates and friction between federal health leadership and the broader public health community as contributors to this year\u2019s outbreaks of the vaccine-preventable disease.",
@@ -910,7 +952,8 @@
    "source": "Yahoo",
    "published": "2026-11-26T16:22:36+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "AMGN"
    ],
    "tag": "News",
    "sectors": [
@@ -933,6 +976,22 @@
    ]
   },
   {
+   "id": "f3e3be2816ec",
+   "headline": "Smith+Nephew's TENDON SEAM Shows Superior Rotator Cuff Repair Strength",
+   "summary": "SNN's TENDON SEAM demonstrates superior rotator cuff repair strength and stability, potentially unlocking new growth opportunities in sports medicine.",
+   "url": "https://finnhub.io/api/news?id=66bf569f2f1718b3788632de4716809161beec1c5d5a013650f76a8cf0044525",
+   "source": "Yahoo",
+   "published": "2026-11-26T16:17:00+00:00",
+   "tickers": [
+    "GKOS",
+    "ISRG"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "677ffa7c6518",
    "headline": "Segment-Specific Concerns Dragged CVS Health Corporation (CVS) in Q3",
    "summary": "Pzena Investment Management recently released its third-quarter 2026 commentary for \u201cPzena Focused Value Strategy.\u201d The letter can be downloaded here. Broad market indices showed modest gains in the third quarter despite global conflicts,\u2026",
@@ -945,6 +1004,21 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "25283ddc95f4",
+   "headline": "Moderna vs. Pfizer: Which Vaccine Stock Offers More Upside?",
+   "summary": "MRNA's expanding oncology pipeline and promising cancer therapy could drive further upside, but its significant valuation premium remains a key consideration.",
+   "url": "https://finnhub.io/api/news?id=35b49f6632a4e506021a85df13a0d89bd554a9fd5dd1a264cb675fc334e80637",
+   "source": "Yahoo",
+   "published": "2026-11-26T15:46:00+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -978,6 +1052,21 @@
    ]
   },
   {
+   "id": "ba745c4be770",
+   "headline": "Universal Health Services (UHS) Up 10.7% Since Last Earnings Report: Can It Continue?",
+   "summary": "Universal Health Services (UHS) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
+   "url": "https://finnhub.io/api/news?id=31080d8c5ca5b35cf6d751cbfc675c6404db3e5a541cb36e6dd26a09d5e655ba",
+   "source": "Yahoo",
+   "published": "2026-11-26T15:30:18+00:00",
+   "tickers": [
+    "UHS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "9604d9e30517",
    "headline": "Why Is HCA (HCA) Up 6% Since Last Earnings Report?",
    "summary": "HCA (HCA) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
@@ -986,6 +1075,21 @@
    "published": "2026-11-26T15:30:12+00:00",
    "tickers": [
     "HCA"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "2b6bdbad331e",
+   "headline": "Why Is Ensign Group (ENSG) Down 1.1% Since Last Earnings Report?",
+   "summary": "Ensign Group (ENSG) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
+   "url": "https://finnhub.io/api/news?id=79e6dd079830f3ee650ace8b6bedfe8a165a564e2a9fdf6444a96bbfa5f072ef",
+   "source": "Yahoo",
+   "published": "2026-11-26T15:30:10+00:00",
+   "tickers": [
+    "ENSG"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -40901,21 +41005,6 @@
    "tag": "M&A",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "b65de8861f2b",
-   "headline": "How Much Does a 56-Year-Old Need Invested to Replace a $145,000 Salary With Dividends?",
-   "summary": "Replacing a paycheck with dividends sounds simple until you see the price tag at different yields. Then a few overlooked details, from taxes to payroll deductions, quietly shrink the target, and one risky shortcut could cost you the most.",
-   "url": "https://finnhub.io/api/news?id=bd77485db3169e7700e8646ba9e69a9e2872b49e27d6ac7add68afa0a1d9f042",
-   "source": "Yahoo",
-   "published": "2026-11-16T18:39:59+00:00",
-   "tickers": [
-    "MRK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
