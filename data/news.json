@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-26T12:02:39.461466+00:00",
+ "updated": "2026-11-26T12:17:23.202106+00:00",
  "quotes": {
   "A": {
    "price": 178.44,
@@ -89,6 +89,10 @@
   "DVA": {
    "price": 162.77,
    "change_pct": -0.85
+  },
+  "DXCM": {
+   "price": 84.84,
+   "change_pct": 0.24
   },
   "EXEL": {
    "price": 67.25,
@@ -901,6 +905,107 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "caccca95b105",
+   "headline": "STAT+: The grueling struggle to find a primary care doctor in the \u2018medical capital\u2019 of America",
+   "summary": "Boston is supposed to be the medical capital of America. Yet many don\u2019t have primary care access, hurting their ability to get treatments, screenings, and medical advice.",
+   "url": "https://www.statnews.com/2026/11/26/primary-care-appointment-times-doctor-shortage/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-11-26T12:00:00+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "1c1fe029dc4f",
+   "headline": "Retiring Healthy: A Sensor Or A Weight-Loss Drug? Investors Price Them The Same",
+   "summary": "Today's big story: Anthropic Broke Its $83 IPO Price. What Did Facebook Do Next.",
+   "url": "https://finnhub.io/api/news?id=2d68d518a5b34a39d403bf803d16306540d15c2feea1e1427f398ee48de529ce",
+   "source": "Yahoo",
+   "published": "2026-11-26T11:42:33+00:00",
+   "tickers": [
+    "DXCM"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "665c5fcc3b54",
+   "headline": "If You Ran Revvity, What Would You Fix?",
+   "summary": "If you own Revvity, the last five years have been hard to watch. The shares returned -18.5% in that time, counting dividends. The S&P 500 returned 64.5%. A 50.3% gain over the past year has not closed that gap.",
+   "url": "https://finnhub.io/api/news?id=0bdeaec6b10ff73f4389e986eb4d1c6a77113d443773aa34079455afeed31c20",
+   "source": "Yahoo",
+   "published": "2026-11-26T11:36:14+00:00",
+   "tickers": [
+    "DHR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "01c33d6d1c19",
+   "headline": "iShares U.S. Medical Devices (IHI) Sells $39.2 Million of Abbott on Nov. 24",
+   "summary": "The fund sold $229.5 million of stock and bought nothing on Tuesday, trimming all 47 of its positions.",
+   "url": "https://finnhub.io/api/news?id=4f0bfce7180487bb67f9dbd7732b3a93b9c966b3a3f4bd376a8def79b49bca15",
+   "source": "Yahoo",
+   "published": "2026-11-26T11:05:10+00:00",
+   "tickers": [
+    "MDT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "7f52ba7c4f7e",
+   "headline": "State Street Health Care Select Sector SPDR (XLV) Sells LLY and JNJ on Nov. 24",
+   "summary": "The $48.52 billion fund sold $627.4 million of stock, cutting all 60 positions and adding none.",
+   "url": "https://finnhub.io/api/news?id=7a38e9445bbffc8f3c2782c4261f88adaaedd011d4f511fe2eb7ae4f64d28551",
+   "source": "Yahoo",
+   "published": "2026-11-26T11:04:18+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "e11b74aa65bd",
+   "headline": "ETFs Are Net Sellers of Medtronic (MDT) on Tuesday",
+   "summary": "ETFs sold $39.4 million of Medtronic stock on Tuesday, with 44 funds buying and 13 selling.",
+   "url": "https://finnhub.io/api/news?id=dc4bfcd5e90e07f170e6e7009d5e223ed14ee14c7fae6e55d8e8d84a699f0d9a",
+   "source": "Yahoo",
+   "published": "2026-11-26T11:03:31+00:00",
+   "tickers": [
+    "MDT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "2c15eb7d6e7c",
+   "headline": "ETFs Are Net Sellers of AbbVie (ABBV) on Nov. 24",
+   "summary": "AbbVie (ABBV) drew $67.9 million in net ETF selling on Tuesday, Nov. 24.",
+   "url": "https://finnhub.io/api/news?id=3426097d4daff03e7a71c788059917d18788a46b02729d0a5bba1a461d41c39d",
+   "source": "Yahoo",
+   "published": "2026-11-26T11:02:41+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
   {
    "id": "3616d85feba7",
    "headline": "TG Therapeutics (TGTX) Stock Sees Fair Value Cut As Briumvi Risks Temper Analyst Optimism",
@@ -41692,47 +41797,6 @@
    "tag": "FDA",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "9759d64dad5a",
-   "headline": "Here's How Much $1000 Invested In McKesson 15 Years Ago Would Be Worth Today",
-   "summary": "McKesson (NYSE:MCK) has outperformed the market over the past 15 years by 6.37% on an annualized basis producing an average annual return of 19.38%. Currently, McKesson has a market capitalization of $128.58 billion.",
-   "url": "https://finnhub.io/api/news?id=a05cc658f22e232a128e89ed9565ec5ef2587c3929eb696330736825a4f57e2f",
-   "source": "Benzinga",
-   "published": "2026-11-16T12:15:25+00:00",
-   "tickers": [
-    "MCK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharmacy"
-   ]
-  },
-  {
-   "id": "f3098b837631",
-   "headline": "HLTH26: Noom pushes deeper into connected health with new wearable, Noom Band",
-   "summary": "The device, called Noom Band, will be bundled into Noom\u2019s existing enterprise partnerships at no additional upfront cost, starting in early 2027. The wearable is also free for Noom Health employer and health plan customers.",
-   "url": "https://www.fiercehealthcare.com/health-tech/hlth26-noom-expands-metabolic-health-strategy-new-wearable-noom-band",
-   "source": "Fierce Healthcare",
-   "published": "2026-11-16T12:15:21.721691+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "019796a068c5",
-   "headline": "Vertex Pharmaceuticals Prepares for Key Kidney Drug Decision as Pipeline Readouts Loom",
-   "summary": "Vertex Pharmaceuticals (NASDAQ:VRTX) is preparing for a Nov. 30 U.S. regulatory decision on its kidney disease treatment povetacicept, while awaiting clinical results across kidney disease, chronic pain and other conditions, company\u2026",
-   "url": "https://finnhub.io/api/news?id=6be456b8405cc7ad0f0b8da807ace76a0a0d1e2155e96d8d99e6518ef5f4c9a7",
-   "source": "Yahoo",
-   "published": "2026-11-16T12:12:30+00:00",
-   "tickers": [
-    "VRTX"
-   ],
-   "tag": "Policy",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
