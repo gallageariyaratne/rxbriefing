@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-26T14:47:21.298093+00:00",
+ "updated": "2026-11-26T15:02:49.322281+00:00",
  "quotes": {
   "A": {
    "price": 178.47,
@@ -81,6 +81,10 @@
   "DXCM": {
    "price": 84.86,
    "change_pct": 0.26
+  },
+  "ELV": {
+   "price": 389.74,
+   "change_pct": -0.37
   },
   "EW": {
    "price": 106.39,
@@ -903,9 +907,10 @@
    "summary": "Futures are rising with U.S. markets shut after a wild session in which the Nasdaq rallied off lows while the Dow Jones and Anthropic reversed higher.",
    "url": "https://finnhub.io/api/news?id=25e251e96603bf647960d91d405b09b6ec8a41ac3646bcf46669b4eecc0a2efd",
    "source": "Yahoo",
-   "published": "2026-11-26T13:56:56+00:00",
+   "published": "2026-11-26T13:47:33+00:00",
    "tickers": [
-    "EXEL"
+    "EXEL",
+    "LLY"
    ],
    "tag": "News",
    "sectors": [
@@ -995,7 +1000,8 @@
    "source": "Yahoo",
    "published": "2026-11-26T12:30:00+00:00",
    "tickers": [
-    "ABT"
+    "ABT",
+    "TMO"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -1067,6 +1073,7 @@
    "published": "2026-11-26T11:56:00+00:00",
    "tickers": [
     "JNJ",
+    "LLY",
     "PFE"
    ],
    "tag": "News",
@@ -1130,6 +1137,7 @@
    "source": "Yahoo",
    "published": "2026-11-26T11:06:00+00:00",
    "tickers": [
+    "ELV",
     "HUM",
     "UNH"
    ],
@@ -1339,6 +1347,21 @@
     "LLY"
    ],
    "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "f485f99790f2",
+   "headline": "Lilly, Novo Supplier Bachem Hit by Share Drop After Growth Plans Disappoint",
+   "summary": "Bachem Holding shares fell after the Swiss peptide maker, a supplier to both Novo Nordisk and Eli Lilly, outlined plans to boost spending and issued new targets that analysts saw as weaker than anticipated.",
+   "url": "https://finnhub.io/api/news?id=48120977c6e604b6c1861a7065a4318de54783463a28aa64470861d436698b24",
+   "source": "Yahoo",
+   "published": "2026-11-26T10:55:00+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "Analyst",
    "sectors": [
     "pharma"
    ]
@@ -4279,6 +4302,22 @@
    ]
   },
   {
+   "id": "20ea524a0efe",
+   "headline": "This Argan Analyst Turns Bullish; Here Are Top 3 Upgrades For Wednesday",
+   "summary": "Analysts upgraded Sanofi, Adecoagro and Argan; AGRO\u2019s target fell to $9.75, while AGX\u2019s rose to $274.",
+   "url": "https://finnhub.io/api/news?id=faaf21346cd3c6192ac36e147ee65c130529339b4e366731e44e6e35bbba9b70",
+   "source": "Benzinga",
+   "published": "2026-11-25T12:52:04+00:00",
+   "tickers": [
+    "SNY",
+    "ZBH"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "e810c964edc9",
    "headline": "Raymond James Downgrades Insmed to Market Perform",
    "summary": "Raymond James analyst Tiago Fauth downgrades Insmed (NASDAQ:INSM) from Outperform to Market Perform.",
@@ -4577,6 +4616,8 @@
    "tickers": [
     "AZN",
     "JNJ",
+    "LLY",
+    "MRK",
     "NVS"
    ],
    "tag": "Legal",
@@ -4669,6 +4710,21 @@
    "published": "2026-11-25T11:50:32+00:00",
    "tickers": [
     "PFE"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "ed944c672b02",
+   "headline": "75% of Stocks Failed To Beat The Market Over 35 Years. New Vanguard Research Shows Why Picking Winners Is Harder Than Most Investors Think",
+   "summary": "Quick Read Vanguard studied nearly 12,500 U.S. stocks from 1990 through 2025 and found that 75% underperformed the broader market. Just 10 companies generated more than 31% of total stock market wealth, while the",
+   "url": "https://finnhub.io/api/news?id=4154ead9d56f830e7d7ee0bbf01073ea54aec411a98564d4547dbfa45e32e937",
+   "source": "Benzinga",
+   "published": "2026-11-25T11:50:16+00:00",
+   "tickers": [
+    "LLY"
    ],
    "tag": "News",
    "sectors": [
@@ -4990,6 +5046,21 @@
    "tickers": [
     "BMY",
     "PFE"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "efe0514f1a57",
+   "headline": "How Eli Lilly Stacks Up Against Johnson & Johnson, And Merck & Co, And The Rest Of The Pharmaceuticals Sector.",
+   "summary": "Eli Lilly and Co (NYSE:LLY) is a pharmaceutical company competing with drug manufacturers, generic-drug companies, animal-health businesses, royalty firms and clinical-stage biopharmaceutical companies. Eli Lilly",
+   "url": "https://finnhub.io/api/news?id=09b19faef1c44ee09ed5dd0ef0dbe7d8c84719d6cf5416257fd2a81e48048176",
+   "source": "Benzinga",
+   "published": "2026-11-25T10:32:28+00:00",
+   "tickers": [
+    "LLY"
    ],
    "tag": "News",
    "sectors": [
@@ -41362,160 +41433,6 @@
    "tag": "FDA",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "5339724283ee",
-   "headline": "Lilly secures another myelofibrosis option via $1.5B deal for JPM-founded Calytrix",
-   "summary": "Eli Lilly has added another myelofibrosis prospect to its pipeline courtesy of a $1.5 billion deal for Massachusetts biotech Calytrix Bio.",
-   "url": "https://www.fiercebiotech.com/biotech/lilly-secures-another-myelofibrosis-option-15b-deal-jpm-founded-calytrix",
-   "source": "Fierce Biotech",
-   "published": "2026-11-16T15:00:38.076836+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "2fb64e6da4c8",
-   "headline": "Anti-Obesity Drugs Market Companies Analysis 2027: Eli Lilly and Novo Nordisk Lead as Pfizer, Roche and Amgen Invest Billions to Challenge Them in a Market Headed for USD 64.96 Billion by 2035",
-   "summary": "Lilly's Mounjaro and Zepbound Earn USD 16.1 Billion in One Quarter, Novo's Obesity Sales Rise 22% and Oral GLP-1 Pills Open a New Front: Precedence Research Company Intelligence on Leaders, Pipelines, Investments and DealsOttawa, Nov. 16,\u2026",
-   "url": "https://finnhub.io/api/news?id=1ea6d3582d4561141ec2ec03de12b44d583058d90b3b537c52ad2e2cabc70db6",
-   "source": "Yahoo",
-   "published": "2026-11-16T15:00:00+00:00",
-   "tickers": [
-    "AMGN",
-    "LLY",
-    "NVO",
-    "PFE"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "f1773277616c",
-   "headline": "Wegovy\u00ae resulted in a BMI reduction of 10% or more in almost 80% of children with obesity aged 6 to under 12, compared to 0% with placebo in STEP Young trial, published in The New England Journal of Medicine",
-   "summary": "Today, Novo Nordisk shared primary results from the phase 3 STEP Young trial evaluating the safety and efficacy of investigational once-weekly semaglutide injection, with a maximum dose of 1.7 mg or 2.4 mg based on baseline body weight,\u2026",
-   "url": "https://finnhub.io/api/news?id=aee9cf8832e0869501b65b262e33b5530f6d6e1fafcb00fd82642f415c101d27",
-   "source": "Yahoo",
-   "published": "2026-11-16T15:00:00+00:00",
-   "tickers": [
-    "NVO"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "e4916e801f36",
-   "headline": "Summit Crumbles After FDA Rejects Merck-Rivaling Lung Cancer Drug",
-   "summary": "Summit Therapeutics stock crashed Monday after the Food and Drug Administration rejected its Merck-rivaling lung cancer drug, ivonescimab.",
-   "url": "https://finnhub.io/api/news?id=a715be8da7b96d28b083b8d1e42076274508013e64da871207d545daaed2d2e8",
-   "source": "Yahoo",
-   "published": "2026-11-16T14:57:55+00:00",
-   "tickers": [
-    "MRK",
-    "SMMT"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "f3e9b63e409b",
-   "headline": "CVS or British American Tobacco: The One Dividend Stock I\u2019d Hold for the Next 10 Years",
-   "summary": "Key TakeawaysCVS Health plans to split into two companies by the first half of 2028 and hasn\u2019t said how its $2. 66-a-share dividend will be divided between them.",
-   "url": "https://finnhub.io/api/news?id=6f96a43eb6b04dc948e5394ba221cb39ed76f2bfa2801c8d20329898300c61ec",
-   "source": "Yahoo",
-   "published": "2026-11-16T14:57:51+00:00",
-   "tickers": [
-    "CVS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "4d7c80517ba9",
-   "headline": "Shell or Merck: I Can Only Pick One Dividend Stock for the Next 10 Years. Here\u2019s Mine",
-   "summary": "Key TakeawaysShell held its quarterly dividend at $0. 3906 per ordinary share in October, up from $0.",
-   "url": "https://finnhub.io/api/news?id=b89e08308497135e29d809661ecedfecbdac9518b55a0b0008fa35bd8924fcfb",
-   "source": "Yahoo",
-   "published": "2026-11-16T14:56:46+00:00",
-   "tickers": [
-    "MRK"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "3f6a5a207dc2",
-   "headline": "Lilly to acquire Calytrix Bio in deal worth up to $1.5 billion",
-   "summary": "Eli Lilly and Co (NYSE:LLY) has agreed to acquire privately held biotechnology company Calytrix Bio for up to $1.5 billion in cash, expanding its efforts to develop treatments for rare blood disorders and strengthen its presence in\u2026",
-   "url": "https://finnhub.io/api/news?id=c7283421ff23832738c1805a014f0911f05cc0c6c1d201ce48a9aea7470d84ac",
-   "source": "Yahoo",
-   "published": "2026-11-16T14:55:00+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "627350d273a1",
-   "headline": "Citigroup Maintains Buy on Summit Therapeutics, Lowers Price Target to $42",
-   "summary": "Citigroup analyst Yigal Nochomovitz maintains Summit Therapeutics (NASDAQ:SMMT) with a Buy and lowers the price target from $43 to $42.",
-   "url": "https://finnhub.io/api/news?id=332c93b25b9552937149572f49dfe3ad02c25f43e3ecf5d701ed0f1955d4f36a",
-   "source": "Benzinga",
-   "published": "2026-11-16T14:53:32+00:00",
-   "tickers": [
-    "SMMT"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "7bcf232fa8ba",
-   "headline": "Airbnb upgraded, Zscaler downgraded: Wall Street's top analyst calls",
-   "summary": "Airbnb upgraded, Zscaler downgraded: Wall Street's top analyst calls",
-   "url": "https://finnhub.io/api/news?id=272e7a6098ebd7fbb6bf854362273b58af3a077e1518ddcdf442288e59af7132",
-   "source": "Yahoo",
-   "published": "2026-11-16T14:53:03+00:00",
-   "tickers": [
-    "HUM"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "9b74542004b5",
-   "headline": "3 Dividend Stocks That Don\u2019t Need a Booming Economy to Keep Paying",
-   "summary": "A heart device maker, a bomber builder, and a garbage hauler all raised their payouts in 2020, when the economy stalled. Their yields look small, but the cash behind them tells a bigger story about what recessions can't touch.",
-   "url": "https://finnhub.io/api/news?id=91bd22dc07c3134ec517825e93e8addd18e2561bae76b707c938827686622242",
-   "source": "Yahoo",
-   "published": "2026-11-16T14:47:07+00:00",
-   "tickers": [
-    "MDT"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
