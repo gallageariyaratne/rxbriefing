@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-26T19:02:22.401393+00:00",
+ "updated": "2026-11-26T19:17:20.017024+00:00",
  "quotes": {
   "A": {
    "price": 178.47,
@@ -37,10 +37,6 @@
   "BIIB": {
    "price": 261.48,
    "change_pct": -2.84
-  },
-  "BMRN": {
-   "price": 68.88,
-   "change_pct": 3.8
   },
   "BMY": {
    "price": 61.58,
@@ -174,6 +170,10 @@
    "price": 96.08,
    "change_pct": -0.05
   },
+  "MOH": {
+   "price": 205.67,
+   "change_pct": 1.92
+  },
   "MRK": {
    "price": 140.32,
    "change_pct": -0.88
@@ -209,6 +209,10 @@
   "REGN": {
    "price": 981.91,
    "change_pct": -0.52
+  },
+  "RGEN": {
+   "price": 168.16,
+   "change_pct": -0.15
   },
   "RVMD": {
    "price": 175.7,
@@ -882,6 +886,17 @@
  },
  "stories": [
   {
+   "id": "99ba11f282c8",
+   "headline": "In a fertility advance, engineered molecular glue stabilizes chromosomes in aging eggs",
+   "summary": "Researchers engineered a protein system capable of restoring normal chromosome connections in aging mouse eggs, raising hopes of one day improving IVF outcomes",
+   "url": "https://www.statnews.com/2026/11/26/fertility-advance-engineered-protein-stabilizes-chromosomes-in-aging-eggs/?utm_campaign=rss",
+   "source": "STAT",
+   "published": "2026-11-26T19:00:00+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
    "id": "cecadf2a1d57",
    "headline": "Thermo Fisher Scientific (TMO) Is Back In The Spotlight, What Is Driving Attention Now?",
    "summary": "Thermo Fisher Scientific (TMO) is back in focus after expanded FDA clearance for its EXENT Analyser with the EXENT GAM Assay, broadening its role in monitoring complex blood cancers. Thermo Fisher Scientific\u2019s recent catalysts, including\u2026",
@@ -1154,6 +1169,21 @@
    ]
   },
   {
+   "id": "ddd63a095243",
+   "headline": "Repligen (RGEN) Down 9% Since Last Earnings Report: Can It Rebound?",
+   "summary": "Repligen (RGEN) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
+   "url": "https://finnhub.io/api/news?id=f54d5b91df15c65531ebbe7a8394ce45ac12b2deacd0ce40868b4625c565c98f",
+   "source": "Yahoo",
+   "published": "2026-11-26T15:30:16+00:00",
+   "tickers": [
+    "RGEN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "2b2e99a30e1a",
    "headline": "IQVIA (IQV) Down 10% Since Last Earnings Report: Can It Rebound?",
    "summary": "IQVIA (IQV) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
@@ -1221,7 +1251,8 @@
    "source": "Yahoo",
    "published": "2026-11-26T15:30:08+00:00",
    "tickers": [
-    "CNC"
+    "CNC",
+    "MOH"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -41011,48 +41042,6 @@
     "NVS"
    ],
    "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "6e0cf7fdc9e3",
-   "headline": "CG preps new, expanded bladder cancer plans with FDA after ph. 3 win",
-   "summary": "CG Oncology showed in a late-stage study that its immunotherapy cretostimogene reduced the risk of tumor recurrence in certain patients with non-muscle invasive bladder cancer following surgery.",
-   "url": "https://www.fiercebiotech.com/biotech/cgs-newest-late-stage-bladder-cancer-results-broaden-clinical-potential",
-   "source": "Fierce Biotech",
-   "published": "2026-11-16T19:15:21.579818+00:00",
-   "tickers": [],
-   "tag": "FDA",
-   "sectors": []
-  },
-  {
-   "id": "fc262e52d60a",
-   "headline": "Tyson, Starbucks Lead The S&P 500, Nasdaq 100 As Investors Play Defense",
-   "summary": "The AI sell-off steepened on Monday. Defensive stocks made strides amid rotation out of tech. Starbucks jumped on the Nasdaq-100.",
-   "url": "https://finnhub.io/api/news?id=dc2208e230d05662b12e205bb097d39ae563cc4855fb9bab4036495f8e4f6e14",
-   "source": "Yahoo",
-   "published": "2026-11-16T19:11:23+00:00",
-   "tickers": [
-    "CNC",
-    "GILD"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "56346211614e",
-   "headline": "Today's Most-Active S&P 500 Stocks: Ford Leads Volume as SMCI and Micron Fall",
-   "summary": "Most-active S&P 500 stocks today: Ford led volume at 23.55M shares and slipped 2.73%, while Super Micro fell 5.9% and Micron dropped 6.43%.",
-   "url": "https://finnhub.io/api/news?id=01f1922f0a9dc7c676415a493fb9c6b2b050afe2f2482528748570223291c332",
-   "source": "ChartMill",
-   "published": "2026-11-16T19:06:03+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "News",
    "sectors": [
     "pharma"
    ]
