@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-26T18:47:11.146977+00:00",
+ "updated": "2026-11-26T19:02:22.401393+00:00",
  "quotes": {
   "A": {
    "price": 178.47,
@@ -61,6 +61,10 @@
   "CLOV": {
    "price": 3.78,
    "change_pct": 1.89
+  },
+  "CNC": {
+   "price": 64.76,
+   "change_pct": 0.64
   },
   "CVS": {
    "price": 81.08,
@@ -145,6 +149,10 @@
   "IONS": {
    "price": 29.98,
    "change_pct": 0.6
+  },
+  "IQV": {
+   "price": 251.16,
+   "change_pct": -0.34
   },
   "ISRG": {
    "price": 427.22,
@@ -874,6 +882,21 @@
  },
  "stories": [
   {
+   "id": "cecadf2a1d57",
+   "headline": "Thermo Fisher Scientific (TMO) Is Back In The Spotlight, What Is Driving Attention Now?",
+   "summary": "Thermo Fisher Scientific (TMO) is back in focus after expanded FDA clearance for its EXENT Analyser with the EXENT GAM Assay, broadening its role in monitoring complex blood cancers. Thermo Fisher Scientific\u2019s recent catalysts, including\u2026",
+   "url": "https://finnhub.io/api/news?id=c9b66e0d519d12d8225c84d7240f5756a3fe5a91ad4e82e7e9d15feb336740f5",
+   "source": "Yahoo",
+   "published": "2026-11-26T17:12:02+00:00",
+   "tickers": [
+    "TMO"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "7f7996c01d34",
    "headline": "Billionaire Nelson Peltz\u2019s Trian Has Nearly Half of Its $2.6 Billion Stock Portfolio in GE Aerospace",
    "summary": "Nelson Peltz's firm bets big on a tiny list of stocks, and one name towers over the rest. Before copying that conviction, retirement savers should weigh what an activist's mandate does not share with their income needs.",
@@ -934,6 +957,36 @@
    ]
   },
   {
+   "id": "4ccb4e9732fc",
+   "headline": "Eli Lilly Stock Is Up 64% Since April. Is It Time to Take Profits?",
+   "summary": "Lilly is selling far more doses at far lower prices, and a rival is about to cut even deeper. Before Innovation Day on December 7, one number in the latest quarter shows how long this growth can last.",
+   "url": "https://finnhub.io/api/news?id=b1eef0a6803af6e171720402035b2988062ca4fae5cdb972a89cb2c671315033",
+   "source": "Yahoo",
+   "published": "2026-11-26T16:43:04+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "239689fd11ae",
+   "headline": "Eli Lilly Is Now Worth 7 Novo Nordisks. Here\u2019s How the Gap Got So Wide.",
+   "summary": "Eli Lilly's GLP-1 weight-loss drugs continue to grow at a rapid clip.",
+   "url": "https://finnhub.io/api/news?id=1c03c875f6439ef9617866d22830d715c1dad83dc29a5711f3769881a246f197",
+   "source": "Yahoo",
+   "published": "2026-11-26T16:40:02+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "a47f559f9fa5",
    "headline": "Measles update: First death in Virginia, ninth in Pennsylvania",
    "summary": "Experts have pointed to sagging vaccination rates and friction between federal health leadership and the broader public health community as contributors to this year\u2019s outbreaks of the vaccine-preventable disease.",
@@ -953,7 +1006,8 @@
    "published": "2026-11-26T16:22:36+00:00",
    "tickers": [
     "ABBV",
-    "AMGN"
+    "AMGN",
+    "GILD"
    ],
    "tag": "News",
    "sectors": [
@@ -992,6 +1046,37 @@
    ]
   },
   {
+   "id": "473893fc2e2e",
+   "headline": "$1,000 in Moderna Stock on Jan. 1 Is Worth About $7,500 Today",
+   "summary": "A single melanoma trial turned a fading vaccine maker into a cancer contender, but the business behind the rally still burns cash. What does the market now assume must go right, and what could prove it wrong?",
+   "url": "https://finnhub.io/api/news?id=ef1d7563b339bb39adeb6ed4103747f46efb3253e63119e70a6a864c99773a69",
+   "source": "Yahoo",
+   "published": "2026-11-26T16:12:36+00:00",
+   "tickers": [
+    "MRK",
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "aef50ebec3a1",
+   "headline": "Can Zenagamtide Bolster NVO's Next-Generation Obesity Drug Pipeline?",
+   "summary": "Novo's zenagamtide advances into phase III with promising early weight-loss results, while rival amylin-based obesity drugs intensify competition.",
+   "url": "https://finnhub.io/api/news?id=cd52f1f615d366b11a697137dfcb16490491421234021943459f7303f6b7f00c",
+   "source": "Yahoo",
+   "published": "2026-11-26T16:11:00+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "GLP-1",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "677ffa7c6518",
    "headline": "Segment-Specific Concerns Dragged CVS Health Corporation (CVS) in Q3",
    "summary": "Pzena Investment Management recently released its third-quarter 2026 commentary for \u201cPzena Focused Value Strategy.\u201d The letter can be downloaded here. Broad market indices showed modest gains in the third quarter despite global conflicts,\u2026",
@@ -1014,6 +1099,8 @@
    "source": "Yahoo",
    "published": "2026-11-26T15:46:00+00:00",
    "tickers": [
+    "MRK",
+    "MRNA",
     "PFE"
    ],
    "tag": "News",
@@ -1067,6 +1154,21 @@
    ]
   },
   {
+   "id": "2b2e99a30e1a",
+   "headline": "IQVIA (IQV) Down 10% Since Last Earnings Report: Can It Rebound?",
+   "summary": "IQVIA (IQV) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
+   "url": "https://finnhub.io/api/news?id=9f18b68f3f6ad437d0a68e4f6e3e091e0dae52e8d20fd34585a273d28a9e10a4",
+   "source": "Yahoo",
+   "published": "2026-11-26T15:30:13+00:00",
+   "tickers": [
+    "IQV"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "9604d9e30517",
    "headline": "Why Is HCA (HCA) Up 6% Since Last Earnings Report?",
    "summary": "HCA (HCA) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
@@ -1105,6 +1207,21 @@
    "published": "2026-11-26T15:30:08+00:00",
    "tickers": [
     "DGX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "71cc38bc9448",
+   "headline": "Centene (CNC) Down 3.5% Since Last Earnings Report: Can It Rebound?",
+   "summary": "Centene (CNC) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
+   "url": "https://finnhub.io/api/news?id=3915cdebeed393626876d19a8ad79498e38622388650ce946402346c2778d5e3",
+   "source": "Yahoo",
+   "published": "2026-11-26T15:30:08+00:00",
+   "tickers": [
+    "CNC"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -40938,73 +41055,6 @@
    "tag": "News",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "eccfb8eea5bb",
-   "headline": "The Permanente Medical Group launches tech incubation company",
-   "summary": "Kaiser Permanente's 10,000-strong physician group will codevelop, validate and help launch home-grown and partner health technologies via Permanentech, a new wholly owned subsidiary.",
-   "url": "https://www.fiercehealthcare.com/health-tech/permanente-medical-group-launches-tech-incubation-company",
-   "source": "Fierce Healthcare",
-   "published": "2026-11-16T19:00:29.286816+00:00",
-   "tickers": [],
-   "tag": "News",
-   "sectors": []
-  },
-  {
-   "id": "d9bda66d4501",
-   "headline": "Hims & Hers Health Stock Crashes After Earnings: Is Now the Time to Buy?",
-   "summary": "The company generated strong growth last quarter, but its bottom line didn't look nearly as impressive.",
-   "url": "https://finnhub.io/api/news?id=f7cbf2079d793b4f843f296f820183e43a5ce83b603e57fe0fc912a734993b1c",
-   "source": "Yahoo",
-   "published": "2026-11-16T18:56:02+00:00",
-   "tickers": [
-    "HIMS"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "healthit"
-   ]
-  },
-  {
-   "id": "2954819547d5",
-   "headline": "Viking's Obesity Drug in Competitive Position Ahead of Phase 3 Readout, Oppenheimer Says",
-   "summary": "Viking Therapeutics' (VKTX) investigational obesity drug VK2735 has \"retatrutide-like efficacy and t",
-   "url": "https://finnhub.io/api/news?id=5266326331bbdf96f9f4df2a5bf4175205139392ef5a11cb52ce6503ead8686b",
-   "source": "Yahoo",
-   "published": "2026-11-16T18:55:17+00:00",
-   "tickers": [
-    "VKTX"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "ffbd3c66f6e3",
-   "headline": "STAT+: In a win for MAHA, FDA creates new regulatory category for the supplement NAC",
-   "summary": "The supplement NAC has been widely available for years, but exists in a legal grey area.",
-   "url": "https://www.statnews.com/2026/11/16/fda-proposes-new-category-supplement-nac/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-11-16T18:54:06+00:00",
-   "tickers": [],
-   "tag": "FDA",
-   "sectors": []
-  },
-  {
-   "id": "e91aae981dc8",
-   "headline": "VKTX Stock Gives Back Buyout Speculation-Spurred Gains, Investors Continue To Await Key Obesity Trial Topline Data",
-   "summary": "For VKTX investors, the main focus is the expected VANQUISH trial topline data readout in 2027.",
-   "url": "https://finnhub.io/api/news?id=e2c8b0aadca5c801638414c76d76760fb4ab19db2d8cb6ccbae02126128dc988",
-   "source": "Yahoo",
-   "published": "2026-11-16T18:50:58+00:00",
-   "tickers": [
-    "VKTX"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "biotech"
    ]
   }
  ]
