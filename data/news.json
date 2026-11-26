@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-26T18:17:18.249996+00:00",
+ "updated": "2026-11-26T18:32:18.735848+00:00",
  "quotes": {
   "A": {
    "price": 178.47,
@@ -25,10 +25,6 @@
   "AMGN": {
    "price": 469.28,
    "change_pct": -0.98
-  },
-  "ARWR": {
-   "price": 49.61,
-   "change_pct": 2.65
   },
   "AXSM": {
    "price": 148.34,
@@ -206,10 +202,6 @@
    "price": 24.4,
    "change_pct": -2.36
   },
-  "SMMT": {
-   "price": 10.61,
-   "change_pct": 1.05
-  },
   "SNY": {
    "price": 54.41,
    "change_pct": 4.84
@@ -237,10 +229,6 @@
   "UNH": {
    "price": 346.23,
    "change_pct": 1.27
-  },
-  "UTHR": {
-   "price": 590.71,
-   "change_pct": 0.93
   },
   "VEEV": {
    "price": 271.94,
@@ -874,6 +862,21 @@
  },
  "stories": [
   {
+   "id": "2b584694c24a",
+   "headline": "What\u2019s the Tax Bill on $7,125 a Month in Dividend Income? The Taxable Account vs. Roth IRA Math",
+   "summary": "Two retirees can collect the same $85,500 in dividends and face wildly different tax bills. The gap comes down to what the 1099 calls each dollar, and one fund's payout could quietly change the whole picture.",
+   "url": "https://finnhub.io/api/news?id=f79548de6e5b72e9e2b8ce960ae34a2d25b3308b24a122177afcbd218dfd02fa",
+   "source": "Yahoo",
+   "published": "2026-11-26T17:03:26+00:00",
+   "tickers": [
+    "BMY"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "0a004e883135",
    "headline": "Is McKesson (MCK) a Solid Growth Stock? 3 Reasons to Think \"Yes\"",
    "summary": "McKesson (MCK) possesses solid growth attributes, which could help it handily outperform the market.",
@@ -983,6 +986,21 @@
    "published": "2026-11-26T15:30:12+00:00",
    "tickers": [
     "HCA"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "0884b312069b",
+   "headline": "Why Is Chemed (CHE) Up 5.6% Since Last Earnings Report?",
+   "summary": "Chemed (CHE) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
+   "url": "https://finnhub.io/api/news?id=baf997ecf8087a2d88f4cdee5ffcfd0148bdcc32d437d22dda4bee048c9127e5",
+   "source": "Yahoo",
+   "published": "2026-11-26T15:30:08+00:00",
+   "tickers": [
+    "DGX"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -40896,47 +40914,6 @@
     "MRK"
    ],
    "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "3f386e7931f7",
-   "headline": "2 Stocks With Dividend Yields of 4% or More to Buy in November",
-   "summary": "These two stocks can provide reliable income for your portfolio for years to come.",
-   "url": "https://finnhub.io/api/news?id=92aac89bfcb180ba9d2f68ebf3d437e7df5792124545500089bf7bc72b31ae18",
-   "source": "Yahoo",
-   "published": "2026-11-16T18:20:02+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "4e0ebd7e3e7a",
-   "headline": "STAT+: Expert warns of battleground over global access to newer GLP-1 drugs for obesity",
-   "summary": "How obesity medications may become the next big battleground over access to medicines in lower-income countries.",
-   "url": "https://www.statnews.com/pharmalot/2026/11/16/semaglutide-obesity-glp1-access-medicines-low-income-countries/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-11-16T18:18:25+00:00",
-   "tickers": [],
-   "tag": "GLP-1",
-   "sectors": []
-  },
-  {
-   "id": "213811ce59d4",
-   "headline": "AbbVie (ABBV) Expands Its Pipeline With New AI Drug Discovery Partnerships",
-   "summary": "AbbVie (NYSE:ABBV) has entered a new AI-driven drug discovery collaboration with Iambic to support its research pipeline. The pharmaceutical group is advancing its partnership with Brise Pharmaceuticals, gaining global development and\u2026",
-   "url": "https://finnhub.io/api/news?id=890583dfcf9729eb1c23e3a94fee7352acbee9eebc14d5cb91f6bc9e086bba1f",
-   "source": "Yahoo",
-   "published": "2026-11-16T18:16:57+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "Health AI",
    "sectors": [
     "pharma"
    ]
