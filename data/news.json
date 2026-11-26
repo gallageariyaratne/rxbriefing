@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-26T02:32:41.261315+00:00",
+ "updated": "2026-11-26T02:47:33.170742+00:00",
  "quotes": {
   "A": {
    "price": 178.44,
@@ -257,6 +257,10 @@
   "SDGR": {
    "price": 24.38,
    "change_pct": -2.44
+  },
+  "SMMT": {
+   "price": 10.59,
+   "change_pct": 0.86
   },
   "SNY": {
    "price": 54.39,
@@ -1009,6 +1013,21 @@
    ]
   },
   {
+   "id": "5b569f64960a",
+   "headline": "Schr\u00f6dinger (SDGR) Stock Sees Fair Value Lift As Analysts Raise Software Growth Views",
+   "summary": "Schr\u00f6dinger\u2019s updated framework now points to a fair value move from US$31.14 to US$33.57 per share, which feeds into a higher implied pricing range for the stock. Recent analyst commentary links these shifts to stronger software contract\u2026",
+   "url": "https://finnhub.io/api/news?id=5b525edefaab92036dfed11a666ea1bc449fb2f830263f0be68425c1a52f98d1",
+   "source": "Yahoo",
+   "published": "2026-11-25T23:17:41+00:00",
+   "tickers": [
+    "SDGR"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "healthai"
+   ]
+  },
+  {
    "id": "ffa4aa29c599",
    "headline": "What Could Johnson & Johnson (JNJ) FDA Cancer Approval Change For Investors?",
    "summary": "Johnson & Johnson (NYSE:JNJ) received FDA accelerated approval for RYBREVANT FASPRO for advanced head and neck cancer in adults. The therapy is cleared for recurrent or metastatic head and neck squamous cell carcinoma after platinum\u2026",
@@ -1621,6 +1640,7 @@
    "published": "2026-11-25T18:16:41+00:00",
    "tickers": [
     "ARWR",
+    "SMMT",
     "UTHR"
    ],
    "tag": "Analyst",
@@ -2311,6 +2331,7 @@
    "published": "2026-11-25T15:27:46+00:00",
    "tickers": [
     "ARWR",
+    "SMMT",
     "UTHR"
    ],
    "tag": "News",
@@ -2814,6 +2835,21 @@
    ]
   },
   {
+   "id": "1c8bcadae4fc",
+   "headline": "GSK Bolsters Ultra-Long-Acting Biologic Portfolio With Encouraging Trial Win",
+   "summary": "GSK Plc (NYSE:GSK) on Wednesday released topline data from a late-stage study evaluating its twice-yearly biologic, depemokimab. Ultra-Long-Acting Biologic Matches Monthly Standard The drug met the primary goal in a late-stage study for\u2026",
+   "url": "https://finnhub.io/api/news?id=a491bf7a4068cd67209e69f6c198c4ae7553f11054fe13500eac1621bbae011c",
+   "source": "Yahoo",
+   "published": "2026-11-25T13:55:16+00:00",
+   "tickers": [
+    "GSK"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "64699b074425",
    "headline": "Inside HLTH 2026",
    "summary": "From care delivery to costs, AI is reshaping every corner of healthcare. Healthcare Dive's reporters break down the biggest questions and takeaways from this year's HLTH.",
@@ -2965,6 +3001,7 @@
    "published": "2026-11-25T13:29:00+00:00",
    "tickers": [
     "GILD",
+    "GSK",
     "MRK"
    ],
    "tag": "News",
@@ -3080,6 +3117,21 @@
    ]
   },
   {
+   "id": "695884918cec",
+   "headline": "Schr\u00f6dinger Acquires ENPICOM to Establish End-to-End Computational Platform for Biologics Discovery",
+   "summary": "NEW YORK, November 25, 2026--Schr\u00f6dinger, Inc. (Nasdaq: SDGR) today announced the acquisition of ENPICOM B.V., a privately held company that provides a specialized bioinformatics software platform for early-stage biologics discovery.",
+   "url": "https://finnhub.io/api/news?id=7edf7bb1ed05d8c39b7df8a2469554a591e13e4520a711ff00a2c6e4ee0aa292",
+   "source": "Yahoo",
+   "published": "2026-11-25T13:15:00+00:00",
+   "tickers": [
+    "SDGR"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "healthai"
+   ]
+  },
+  {
    "id": "e78e99f5967c",
    "headline": "Does In Vivo CAR T Deal Change The Bull Case For Pfizer (PFE)?",
    "summary": "Pfizer announced an exclusive licensing deal with Starna Therapeutics for three pre-IND in vivo CAR-T programs for autoimmune disease, paying US$330 million upfront with up to US$2.3b in potential milestones and gaining broad rights to\u2026",
@@ -3107,6 +3159,21 @@
    "tag": "Earnings",
    "sectors": [
     "pharmacy"
+   ]
+  },
+  {
+   "id": "4d462a74936c",
+   "headline": "Should Trial Match Require Action From GSK (LSE:GSK) Investors?",
+   "summary": "GSK reported that its twice yearly biologic Exdensur matched its approved drug Nucala in a phase III trial for eosinophilic granulomatosis with polyangiitis and plans to seek approvals for depemokimab in EGPA in the first half of 2027.\u2026",
+   "url": "https://finnhub.io/api/news?id=88053080c6fd4f7adcd4c5c144f866f0cbbef8447d601096c893809610364020",
+   "source": "Yahoo",
+   "published": "2026-11-25T13:12:16+00:00",
+   "tickers": [
+    "GSK"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -3483,6 +3550,21 @@
    "published": "2026-11-25T12:11:21+00:00",
    "tickers": [
     "NVS"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "ed310b5d9462",
+   "headline": "GSK (LSE:GSK) Faces A New Risk As Its AI Supplier Turns Drug Rival",
+   "summary": "GSK (LSE:GSK) is collaborating with Anthropic, the developer of Claude AI, to support parts of its drug discovery work. Anthropic is also building internal drug development programs that could compete directly with therapies GSK aims to\u2026",
+   "url": "https://finnhub.io/api/news?id=8ba00fb4b1524b565db5c2a5fdeb46793425f2212206578dc79d5690c4c85b4a",
+   "source": "Yahoo",
+   "published": "2026-11-25T12:10:53+00:00",
+   "tickers": [
+    "GSK"
    ],
    "tag": "Health AI",
    "sectors": [
@@ -43046,36 +43128,6 @@
     "GSK"
    ],
    "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "33154ff2f2c9",
-   "headline": "Reported Saturday, Lilly Presents Eloralintide Phase 2 Exit Interview Results, With 74% Reporting Fewer Cravings, 52% Less Food Noise, Alongside EloraTZP, Retatrutide, Zepbound And Foundayo Data At ObesityWeek 2026",
-   "summary": "Phase 2 results showed EloraTZP, an investigational combination of eloralintide and tirzepatide, delivered substantial weight loss and A1C improvements in participants with obesity and type 2 diabetesResults from",
-   "url": "https://finnhub.io/api/news?id=d3579618c24e19af2e762f6ef147eaac48be4d92ff81b78f41794ce7dd2e4724",
-   "source": "Benzinga",
-   "published": "2026-11-16T02:41:47+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "703a68305f5b",
-   "headline": "Reported Sunday, Novo Presents Two REDEFINE 1 Post Hoc Analyses Of CagriSema At ObesityWeek: 25.4% Mean Weight Loss In Early Responders, 73.1% Versus 49.1% Placebo Meaningful Physical Function Improvement",
-   "summary": "In a post hoc analysis of the phase 3 REDEFINE 1 trial, 67.8% of adults treated with investigational CagriSema 2.4 mg / 2.4 mg were early responders, achieving at least 5% weight loss by week 81Women were more likely to",
-   "url": "https://finnhub.io/api/news?id=2fa352ecd1c61014745203ea57b659aca2bb0d2a3bdd0d8aa3920cb2426c70a0",
-   "source": "Benzinga",
-   "published": "2026-11-16T02:38:04+00:00",
-   "tickers": [
-    "NVO"
-   ],
-   "tag": "GLP-1",
    "sectors": [
     "pharma"
    ]
