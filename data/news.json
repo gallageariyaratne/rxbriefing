@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-26T16:17:28.540278+00:00",
+ "updated": "2026-11-26T16:32:18.728767+00:00",
  "quotes": {
   "A": {
    "price": 178.47,
@@ -57,6 +57,10 @@
   "CLOV": {
    "price": 3.78,
    "change_pct": 1.89
+  },
+  "CVS": {
+   "price": 81.08,
+   "change_pct": 0.48
   },
   "DGX": {
    "price": 265.68,
@@ -145,10 +149,6 @@
   "MDT": {
    "price": 96.08,
    "change_pct": -0.05
-  },
-  "MOH": {
-   "price": 205.67,
-   "change_pct": 1.92
   },
   "MRK": {
    "price": 140.32,
@@ -870,6 +870,47 @@
  },
  "stories": [
   {
+   "id": "a47f559f9fa5",
+   "headline": "Measles update: First death in Virginia, ninth in Pennsylvania",
+   "summary": "Experts have pointed to sagging vaccination rates and friction between federal health leadership and the broader public health community as contributors to this year\u2019s outbreaks of the vaccine-preventable disease.",
+   "url": "https://www.fiercehealthcare.com/providers/measles-update-us-passes-4000-cases-pennsylvania-reports-sixth-death",
+   "source": "Fierce Healthcare",
+   "published": "2026-11-26T16:30:26.334342+00:00",
+   "tickers": [],
+   "tag": "News",
+   "sectors": []
+  },
+  {
+   "id": "677ffa7c6518",
+   "headline": "Segment-Specific Concerns Dragged CVS Health Corporation (CVS) in Q3",
+   "summary": "Pzena Investment Management recently released its third-quarter 2026 commentary for \u201cPzena Focused Value Strategy.\u201d The letter can be downloaded here. Broad market indices showed modest gains in the third quarter despite global conflicts,\u2026",
+   "url": "https://finnhub.io/api/news?id=3a52a1759622cf452d3472ef46d6c94885836ba564b1726f49fb33c93baa97bd",
+   "source": "Yahoo",
+   "published": "2026-11-26T15:55:53+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "2454c2b97bdf",
+   "headline": "CVS is open on Thanksgiving, but customers should check one important detail",
+   "summary": "The pharmacy chain confirmed its holiday plans to TheStreet as Walmart, Target and other major retailers remain closed.",
+   "url": "https://finnhub.io/api/news?id=f0c4b9c72edcd0b2231bb10f0e5f612b1aa11707638fa96ccf68d38cdd3f08d9",
+   "source": "Yahoo",
+   "published": "2026-11-26T15:17:00+00:00",
+   "tickers": [
+    "CVS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "85a3bdb1f323",
    "headline": "Neurology Clinical Trials - Global Strategic Business Report 2026: Capitalize on the Surge to $7.9 Billion by 2032 as IQVIA, ICON, Biogen, AbbVie, and Eisai Vie for Share",
    "summary": "Dublin, Nov. 26, 2026 (GLOBE NEWSWIRE) -- \"Neurology Clinical Trials - Global Strategic Business Report 2026\" has been added to ResearchAndMarkets.com's offering. The global neurology clinical trials market was valued at US$5.7 billion in\u2026",
@@ -900,6 +941,51 @@
    ]
   },
   {
+   "id": "2aff04449fe1",
+   "headline": "Is MMSI Worth Buying as Growth Improves but Valuation Stays Balanced?",
+   "summary": "MMSI's improving earnings momentum and therapeutic portfolio expansion strengthen its outlook, but fair valuation and execution risks warrant a patient stance.",
+   "url": "https://finnhub.io/api/news?id=187f8d8bdd62e5920f0071c49bfa8ac4fbe5779fc21d02d060428c1c552ae4eb",
+   "source": "Yahoo",
+   "published": "2026-11-26T14:41:00+00:00",
+   "tickers": [
+    "BSX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "84810c679e69",
+   "headline": "Minimally Invasive Medical Robots Global Market Report 2026 | Capitalize on AI Surgery as Market Hits $65.25B by 2030: Intuitive Surgical, Johnson & Johnson, Medtronic, Stryker",
+   "summary": "Boost ROI via AI-guided precision, real-time imaging, connected robotics, miniaturized tools, clinical training and strategic acquisitions.Dublin, Nov. 26, 2026 (GLOBE NEWSWIRE) -- \"Minimally Invasive Medical Robots Market Global Report\u2026",
+   "url": "https://finnhub.io/api/news?id=e3fe13f9ba4ab2c69a4930f16a4f0d9ab6e97e06de6eefce851b36f800589537",
+   "source": "Yahoo",
+   "published": "2026-11-26T14:23:00+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "cbae7d736e28",
+   "headline": "A $1,500,000 Portfolio in McCormick, PepsiCo and Bristol Myers Squibb Pays $61,489 a Year in Dividends. Here\u2019s What Happens if One Cuts",
+   "summary": "Key TakeawaysA $1,500,000 portfolio split evenly across McCormick, PepsiCo and Bristol Myers Squibb pays about $61,500 a year in dividends at today\u2019s prices, or about $5,120 a month. McCormick and Bristol Myers Squibb each paid out 55% of\u2026",
+   "url": "https://finnhub.io/api/news?id=0326ecf5de19fa2d60e699c6a161dda1ec6ea95e9089fba7b5665557ac8fd5a4",
+   "source": "Yahoo",
+   "published": "2026-11-26T14:20:40+00:00",
+   "tickers": [
+    "BMY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "d63d810b9f57",
    "headline": "Global Wearable Healthcare Devices Market Report 2026 | Capitalize on 24.9% CAGR Through 2030 as Apple, Abbott, Medtronic and Dexcom Scale AI and Remote Monitoring",
    "summary": "Profiles Apple, Samsung, Huawei, Abbott and Medtronic, covering wearable healthcare devices for monitoring, connected care and disease management.Dublin, Nov. 26, 2026 (GLOBE NEWSWIRE) -- \"Wearable Healthcare Devices Market Global Report\u2026",
@@ -912,6 +998,21 @@
    "tag": "Health AI",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "ebfa4a434ea0",
+   "headline": "VRTX Down as FDA Extends Review Timeline for Povetacicept BLA",
+   "summary": "Vertex shares fell 7.3% after the FDA extended its povetacicept review by three months, delaying a key approval decision to February 2027.",
+   "url": "https://finnhub.io/api/news?id=207f1f6dd9cabe3ff418201cdc0473e515997fe9c94bcb32be31b3cde604fda6",
+   "source": "Yahoo",
+   "published": "2026-11-26T14:15:00+00:00",
+   "tickers": [
+    "VRTX"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -958,6 +1059,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "d1bc22c93e8e",
+   "headline": "Should You Invest in Boston Scientific (BSX) Based on Bullish Wall Street Views?",
+   "summary": "Based on the average brokerage recommendation (ABR), Boston Scientific (BSX) should be added to one's portfolio. Wall Street analysts' overly optimistic recommendations cast doubt on the effectiveness of this highly sought-after metric.\u2026",
+   "url": "https://finnhub.io/api/news?id=351a316d554157fddcef0d313e16f35a76b6a565892d5e6e88953909565fe0a1",
+   "source": "Yahoo",
+   "published": "2026-11-26T13:30:02+00:00",
+   "tickers": [
+    "BSX"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -1018,6 +1134,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "e8f478543368",
+   "headline": "Is Trending Stock Veeva Systems Inc. (VEEV) a Buy Now?",
+   "summary": "Zacks.com users have recently been watching Veeva (VEEV) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
+   "url": "https://finnhub.io/api/news?id=8d308ee304ade202fda36f813609cc3990cc6e41e56dec70ca204f7b8bec4a81",
+   "source": "Yahoo",
+   "published": "2026-11-26T13:00:05+00:00",
+   "tickers": [
+    "VEEV"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthit"
    ]
   },
   {
@@ -41028,85 +41159,6 @@
    "tickers": [],
    "tag": "FDA",
    "sectors": []
-  },
-  {
-   "id": "bce10b1d195e",
-   "headline": "4D Molecular Therapeutics May Benefit From Upcoming Wet AMD Gene Therapy Data, RBC Says",
-   "summary": "4D Molecular Therapeutics (FDMT) may benefit from upcoming phase 3 data for a competing gene therapy",
-   "url": "https://finnhub.io/api/news?id=0425bd5e1c6355435621e7ab424ed1610bf04d069e4e6194b84d5d3c76cd40dc",
-   "source": "Yahoo",
-   "published": "2026-11-16T16:30:58+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "dfe08d49bff4",
-   "headline": "DOCS Expands Clinical AI Tools Across Three Major U.S. Health Systems",
-   "summary": "Doximity expands its AI tools across three major healthcare institutions, bringing clinical decision support and documentation into existing workflows.",
-   "url": "https://finnhub.io/api/news?id=a7f2213e5ad6e0cdfedd5e023eafea09b43dd13d771b44293604959618c1966e",
-   "source": "Yahoo",
-   "published": "2026-11-16T16:27:00+00:00",
-   "tickers": [
-    "DOCS",
-    "GKOS",
-    "ISRG"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "e417d082e317",
-   "headline": "European Equities Traded in the US as American Depositary Receipts Kick Off Week Lower in Monday Trading",
-   "summary": "European equities traded in the US as American depositary receipts kicked off the week tracking lowe",
-   "url": "https://finnhub.io/api/news?id=6576b71d677815f2ba32890ad03418d3c999e644519f040be23a576f299a8c83",
-   "source": "Yahoo",
-   "published": "2026-11-16T16:21:36+00:00",
-   "tickers": [
-    "AZN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "5035c80e3b8b",
-   "headline": "NVO's Hemophilia A Treatment Gets EC Nod, Data Presented on CagriSema",
-   "summary": "Novo secures EC approval for Frehemgo while CagriSema delivers up to 21% weight loss, adding momentum to its turnaround efforts amid intensifying obesity drug competition.",
-   "url": "https://finnhub.io/api/news?id=b674e79adffbace51ecbea8394d405d0a9005368b1b022e4f2689c5019ae678c",
-   "source": "Yahoo",
-   "published": "2026-11-16T16:20:00+00:00",
-   "tickers": [
-    "LLY",
-    "NVO",
-    "NVS"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "a2ba00e5f1d1",
-   "headline": "Treasury Yields Just Hit 4.88%, Changing the Math for Dividend Investors",
-   "summary": "A short-term bond fund and a 64-year dividend streak both promise income, but one can shrink when the Fed moves and the other can fall harder in a bad year. Taxes may decide which one actually pays you more.",
-   "url": "https://finnhub.io/api/news?id=ee0a93b45a932621128d1500a6b70243569d1d8fb70f31a3979e38aa0cb155b0",
-   "source": "Yahoo",
-   "published": "2026-11-16T16:17:22+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
   }
  ]
 }
