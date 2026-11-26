@@ -1,7 +1,15 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-26T12:32:36.206699+00:00",
+ "updated": "2026-11-26T12:47:27.330502+00:00",
  "quotes": {
+  "A": {
+   "price": 178.44,
+   "change_pct": -2.77
+  },
+  "ABBV": {
+   "price": 294.48,
+   "change_pct": -1.93
+  },
   "ABT": {
    "price": 108,
    "change_pct": 2.48
@@ -137,6 +145,10 @@
   "IDXX": {
    "price": 709.46,
    "change_pct": -0.37
+  },
+  "ILMN": {
+   "price": 200.39,
+   "change_pct": -2.02
   },
   "INSM": {
    "price": 170.31,
@@ -916,6 +928,7 @@
    "source": "Yahoo",
    "published": "2026-11-26T11:42:33+00:00",
    "tickers": [
+    "ABT",
     "DXCM"
    ],
    "tag": "GLP-1",
@@ -931,7 +944,8 @@
    "source": "Yahoo",
    "published": "2026-11-26T11:36:14+00:00",
    "tickers": [
-    "DHR"
+    "DHR",
+    "ILMN"
    ],
    "tag": "News",
    "sectors": [
@@ -946,6 +960,8 @@
    "source": "Yahoo",
    "published": "2026-11-26T11:05:10+00:00",
    "tickers": [
+    "ABT",
+    "ISRG",
     "MDT"
    ],
    "tag": "News",
@@ -962,11 +978,27 @@
    "published": "2026-11-26T11:04:18+00:00",
    "tickers": [
     "ABBV",
-    "JNJ"
+    "JNJ",
+    "UNH"
    ],
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "027af49aee77",
+   "headline": "ETFs Are Net Sellers of Intuitive Surgical (ISRG) on Nov. 24",
+   "summary": "ETFs sold $38.8 million of Intuitive Surgical stock on Tuesday, with 36 funds buying and 14 selling.",
+   "url": "https://finnhub.io/api/news?id=7f49104c2ad276359c8826e2b0a0389c8d2e5b56d52dcf4274928a7993a36788",
+   "source": "Yahoo",
+   "published": "2026-11-26T11:03:34+00:00",
+   "tickers": [
+    "ISRG"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -978,6 +1010,36 @@
    "published": "2026-11-26T11:03:31+00:00",
    "tickers": [
     "MDT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "867a213d88ec",
+   "headline": "ETFs Are Net Sellers of UnitedHealth (UNH) on Nov. 24",
+   "summary": "UnitedHealth (UNH) saw $42.2 million in net ETF selling on Tuesday, Nov. 24.",
+   "url": "https://finnhub.io/api/news?id=67d61e37665f6aec8ac1a60278ce36e3827c3a5055176c43393d9906ba54aebf",
+   "source": "Yahoo",
+   "published": "2026-11-26T11:03:21+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "cf52d57dad82",
+   "headline": "ETFs Are Net Sellers of Abbott Laboratories (ABT) on Tuesday",
+   "summary": "ETFs sold a net $56.9 million of Abbott Laboratories on Tuesday.",
+   "url": "https://finnhub.io/api/news?id=6e8a78eaa6993b143afc3a3f84ad9f798d0682fe23c9952f61893406dfcc23dd",
+   "source": "Yahoo",
+   "published": "2026-11-26T11:03:04+00:00",
+   "tickers": [
+    "ABT"
    ],
    "tag": "News",
    "sectors": [
@@ -41715,51 +41777,6 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "db4c7384c198",
-   "headline": "Lilly adds to buyout streak with $1.5B purchase of startup Calytrix",
-   "summary": "Lilly\u2019s 15th announced company acquisition this year \u2014 by far the most in the biopharmaceutical sector \u2014 centers around a precision therapy for rare blood disorders known as myeloproliferative neoplasms.",
-   "url": "https://www.biopharmadive.com/news/lilly-calytrix-bio-acquire-deal-myelofibrosis-essential-thrombocythemiaenial-/874719/",
-   "source": "BioPharma Dive",
-   "published": "2026-11-16T12:44:00+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "c0711b448610",
-   "headline": "Lilly adds to buyout streak with $1.5B purchase of startup Calytrix",
-   "summary": "Lilly\u2019s 15th announced company acquisition this year \u2014 by far the most in the biopharmaceutical sector \u2014 centers around a precision therapy for rare blood disorders known as myeloproliferative neoplasms.",
-   "url": "https://finnhub.io/api/news?id=a9f7d2395de3d815417c7428c7bc2d40360d056bc5648257e4bf4317d99551d7",
-   "source": "Yahoo",
-   "published": "2026-11-16T12:44:00+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "454ee1f62f4b",
-   "headline": "FitLife Brands Inc. (FTLF) Q3 Earnings and Revenues Lag Estimates",
-   "summary": "FitLife Brands (FTLF) delivered earnings and revenue surprises of -24.00% and -5.46%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
-   "url": "https://finnhub.io/api/news?id=f0f12317ade97dcffdc0558bd2a4c8b7a9c9484a0e699cf8a26b4c623ea12624",
-   "source": "Yahoo",
-   "published": "2026-11-16T12:40:01+00:00",
-   "tickers": [
-    "MDT"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
