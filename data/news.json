@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-26T14:32:39.315379+00:00",
+ "updated": "2026-11-26T14:47:21.298093+00:00",
  "quotes": {
   "A": {
    "price": 178.47,
@@ -13,6 +13,10 @@
   "ABT": {
    "price": 108.03,
    "change_pct": 2.5
+  },
+  "ALGN": {
+   "price": 165.43,
+   "change_pct": 0.32
   },
   "ALNY": {
    "price": 164.76,
@@ -61,10 +65,6 @@
   "CLOV": {
    "price": 3.78,
    "change_pct": 1.89
-  },
-  "CVS": {
-   "price": 81.08,
-   "change_pct": 0.48
   },
   "DGX": {
    "price": 265.68,
@@ -130,10 +130,6 @@
    "price": 406.55,
    "change_pct": 0.95
   },
-  "ICLR": {
-   "price": 198.81,
-   "change_pct": 0.27
-  },
   "IDXX": {
    "price": 709.5,
    "change_pct": -0.36
@@ -141,6 +137,10 @@
   "ILMN": {
    "price": 200.43,
    "change_pct": -2.0
+  },
+  "INCY": {
+   "price": 122.38,
+   "change_pct": -1.0
   },
   "INSM": {
    "price": 170.34,
@@ -898,6 +898,21 @@
  },
  "stories": [
   {
+   "id": "a5c358516871",
+   "headline": "Dow Jones Futures Rise With U.S. Markets Shut; Look For This Bullish Signal",
+   "summary": "Futures are rising with U.S. markets shut after a wild session in which the Nasdaq rallied off lows while the Dow Jones and Anthropic reversed higher.",
+   "url": "https://finnhub.io/api/news?id=25e251e96603bf647960d91d405b09b6ec8a41ac3646bcf46669b4eecc0a2efd",
+   "source": "Yahoo",
+   "published": "2026-11-26T13:56:56+00:00",
+   "tickers": [
+    "EXEL"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "d7dd843ecc91",
    "headline": "3 Dividend Kings Retirees Can Own for the Rest of Their Lives",
    "summary": "Nearly two centuries of combined dividend raises sit behind three household names, yet each one carries a catch that could trim your future payouts. Which risk matters most, and which stock asks you to pay a record price for safety?",
@@ -973,6 +988,36 @@
    ]
   },
   {
+   "id": "630d5efa449f",
+   "headline": "ABT vs. TMO: Which Clinical Diagnostics Stock Is the Better Bet Now?",
+   "summary": "Thermo Fisher outperforms Abbott in stock gains and earnings estimates, while bioproduction growth and strategic acquisitions strengthen its investment case.",
+   "url": "https://finnhub.io/api/news?id=848d37702964ff8ad339d71092dee2bf152b87a0f2dbe279c0397b5e9c71ab0b",
+   "source": "Yahoo",
+   "published": "2026-11-26T12:30:00+00:00",
+   "tickers": [
+    "ABT"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "4ddc9f2bd0a4",
+   "headline": "GE HealthCare introduces new CT platforms and workflow enhancements",
+   "summary": "The new CT scanners and tools are intended to give clinicians the ability to uncover more detailed imaging insights while streamlining image acquisition protocols.",
+   "url": "https://finnhub.io/api/news?id=20359eed8dc48d78c884f0cf60a394f42c32997f931fe982bf868b0cc2195854",
+   "source": "Yahoo",
+   "published": "2026-11-26T12:28:21+00:00",
+   "tickers": [
+    "GEHC"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "acf60f1471cf",
    "headline": "Vera Therapeutics Stock Soars After Hours as the FDA Delays Vertex\u2019s Rival Kidney Drug",
    "summary": "A regulatory delay handed Vera Therapeutics a three-month head start on a $143 billion rival, and traders rushed in. But the bigger threat to Vera's drug has nothing to do with the calendar, and one February deadline could undo the rally.",
@@ -1021,7 +1066,8 @@
    "source": "Yahoo",
    "published": "2026-11-26T11:56:00+00:00",
    "tickers": [
-    "JNJ"
+    "JNJ",
+    "PFE"
    ],
    "tag": "News",
    "sectors": [
@@ -1074,6 +1120,22 @@
    "tag": "News",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "a67aba897135",
+   "headline": "Could CMS' Proposed Star Ratings Changes Slow ELV's MA Recovery?",
+   "summary": "CMS' proposed Star Ratings changes could challenge Elevance's Medicare Advantage margin recovery by reducing quality bonus funding and pressuring benefits.",
+   "url": "https://finnhub.io/api/news?id=428726356a9305dca141345a877dcec0d625d7d743c532a893d355dbd193855b",
+   "source": "Yahoo",
+   "published": "2026-11-26T11:06:00+00:00",
+   "tickers": [
+    "HUM",
+    "UNH"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -1312,6 +1374,36 @@
    ]
   },
   {
+   "id": "2538d0d35499",
+   "headline": "BCP Holdings Mozart Manager Unloads $822M of Medline Stock After Run-Up",
+   "summary": "BCP Holdings Mozart Manager LLC sold 23,436,534 shares of Medline Inc. (NASDAQ:MDLN) for $821.6 million on Nov. 23, reducing its holdings by 75.89% and leaving it with 7,446,162 shares.Medline gained 13.02% in the month",
+   "url": "https://finnhub.io/api/news?id=e886732e426c778f2e07ce06489250d3aadb92f2b037546859bf680ef5588b25",
+   "source": "Benzinga",
+   "published": "2026-11-26T09:05:14+00:00",
+   "tickers": [
+    "ALGN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "fd5190891464",
+   "headline": "BrightSpring: Consolidation, Inflation, And 'Complex Conditions' Not Fully Priced In",
+   "summary": "Analyst rates BrightSpring Health Services a Buy as 2027 Medicare payments support growth; management expects material LEAD economics by 2028.",
+   "url": "https://finnhub.io/api/news?id=ef9caeacdd283d3220fc70c5586deea13922754e71fa36224611677fa85822c5",
+   "source": "SeekingAlpha",
+   "published": "2026-11-26T08:56:33+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "9d6bdd329dcf",
    "headline": "Prelude: POC KAT6A Degrader Effect And Selective PRT12396, Initiating With A 'Hold'",
    "summary": "Prelude Therapeutics is rated \"Hold,\" awaiting PRT13722 proof-of-concept data after at least six program discontinuations since its IPO.",
@@ -1319,7 +1411,9 @@
    "source": "SeekingAlpha",
    "published": "2026-11-26T08:31:44+00:00",
    "tickers": [
-    "LLY"
+    "INCY",
+    "LLY",
+    "PFE"
    ],
    "tag": "Financing",
    "sectors": [
@@ -2160,6 +2254,21 @@
    ]
   },
   {
+   "id": "f5f109c811ca",
+   "headline": "Here's How Much $100 Invested In Intuitive Surgical 10 Years Ago Would Be Worth Today",
+   "summary": "Intuitive Surgical (NASDAQ:ISRG) has outperformed the market over the past 10 years by 6.96% on an annualized basis producing an average annual return of 19.45%. Currently, Intuitive Surgical has a market capitalization",
+   "url": "https://finnhub.io/api/news?id=18f99a961b67d06239b9ec026b0be98d73378ef248e5e672c436501c4f0967fc",
+   "source": "Benzinga",
+   "published": "2026-11-25T19:00:14+00:00",
+   "tickers": [
+    "ISRG"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "4dd99d170a9e",
    "headline": "Dan Ives Says Nvidia\u2019s Jensen Huang Worth At Least $8 Trillion To US Economy, Calls Sell-Off A \u2018Gut Check Moment\u2019",
    "summary": "In an interview with Bloomberg, Ives said that the demand-to-supply ratio for Nvidia chips remains 10-to-1 even if China and other Asian markets were removed from the equation.",
@@ -2487,6 +2596,21 @@
    ]
   },
   {
+   "id": "de928c34e870",
+   "headline": "EXCLUSIVE: Market Expert Likes What Greg Abel is Doing at Berkshire \u2013 \u2018Alphabet Investment is Going to Pay Big Dividends\u2019",
+   "summary": "Market expert Jay Woods is impressed with what Greg Abel has done at Berkshire Hathaway, particularly one investment.",
+   "url": "https://finnhub.io/api/news?id=179f3681587f6a3e3915642c579eb6b050b11e22ae7712e5ecc3d6f62397d531",
+   "source": "Benzinga",
+   "published": "2026-11-25T17:08:47+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "1348620f1ccc",
    "headline": "12 Health Care Stocks Moving In Wednesday's After-Market Session",
    "summary": "Gainers Vera Therapeutics (NASDAQ:VERA) shares increased by 20.3% to $35.5 during Wednesday's after-market session. The company's market cap stands at $2.0 billion. Pomdoctor (NASDAQ:POM) stock rose 13.66% to",
@@ -2681,7 +2805,8 @@
    "tickers": [
     "HCA",
     "MOH",
-    "VEEV"
+    "VEEV",
+    "ZTS"
    ],
    "tag": "News",
    "sectors": [
@@ -3837,6 +3962,21 @@
    ]
   },
   {
+   "id": "722f7ba05a05",
+   "headline": "RBC Capital Downgrades Insmed to Sector Perform, Lowers Price Target to $175",
+   "summary": "RBC Capital analyst Leonid Timashev downgrades Insmed (NASDAQ:INSM) from Outperform to Sector Perform and lowers the price target from $195 to $175.",
+   "url": "https://finnhub.io/api/news?id=4291e2e43e0901b41ca886cc7c73f5d201ea84ef61b09c3c94ee2ceb4b8f2dce",
+   "source": "Benzinga",
+   "published": "2026-11-25T13:20:52+00:00",
+   "tickers": [
+    "INSM"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "ca7981f2ef8c",
    "headline": "GoodRx Shares Plunge 13.3% Following Raymond James Downgrade and Concerns Over 2027 Revenue Outlook",
    "summary": "GoodRx Holdings Inc (NASDAQ:GDRX) shares fell 13. 3% to $2.",
@@ -4139,6 +4279,21 @@
    ]
   },
   {
+   "id": "e810c964edc9",
+   "headline": "Raymond James Downgrades Insmed to Market Perform",
+   "summary": "Raymond James analyst Tiago Fauth downgrades Insmed (NASDAQ:INSM) from Outperform to Market Perform.",
+   "url": "https://finnhub.io/api/news?id=ada592346cb315a5757bb5a74735567f62e40ac615406039ddc0281ce4a2a5bb",
+   "source": "Benzinga",
+   "published": "2026-11-25T12:51:06+00:00",
+   "tickers": [
+    "INSM"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "75ee99b7146b",
    "headline": "A $41 Billion Deal and Three New Approvals Fill Biotech's Holiday Week",
    "summary": "Biotech Today News Commentary - Thanksgiving week has brought a burst of good news for drug developers, with a $41.0 billion acquisition, three new U.S. approvals announced by the companies involved, and fresh mid-stage data, all in the\u2026",
@@ -4153,6 +4308,36 @@
    "tag": "M&A",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "6c9cbc3a3902",
+   "headline": "Mizuho Downgrades Insmed to Neutral, Raises Price Target to $175",
+   "summary": "Mizuho analyst Graig Suvannavejh downgrades Insmed (NASDAQ:INSM) from Outperform to Neutral and raises the price target from $158 to $175.",
+   "url": "https://finnhub.io/api/news?id=3b48264e9b1f249f01299c00a54f4da46cb8d604812e07a1663cc2b9a54501da",
+   "source": "Benzinga",
+   "published": "2026-11-25T12:42:08+00:00",
+   "tickers": [
+    "INSM"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
+   "id": "03b9a0eccdc0",
+   "headline": "Guggenheim Downgrades Insmed to Neutral, Lowers Price Target to $175",
+   "summary": "Guggenheim analyst Vamil Divan downgrades Insmed (NASDAQ:INSM) from Buy to Neutral and lowers the price target from $201 to $175.",
+   "url": "https://finnhub.io/api/news?id=9723df75f73920e2f153fa9d1374a9525ba726b3d17c725fcf217cd29617a741",
+   "source": "Benzinga",
+   "published": "2026-11-25T12:41:50+00:00",
+   "tickers": [
+    "INSM"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -4521,6 +4706,21 @@
    ]
   },
   {
+   "id": "7b0f5d0fe00c",
+   "headline": "Morgan Stanley Downgrades Insmed to Equal-Weight, Lowers Price Target to $175",
+   "summary": "Morgan Stanley analyst Matthew Harrison downgrades Insmed (NASDAQ:INSM) from Overweight to Equal-Weight and lowers the price target from $213 to $175.",
+   "url": "https://finnhub.io/api/news?id=af61a8b47c679debb98357d4a1b00d50306812977d100e12354884f882c75782",
+   "source": "Benzinga",
+   "published": "2026-11-25T11:43:08+00:00",
+   "tickers": [
+    "INSM"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "4fd8ccba369c",
    "headline": "Medtronic reports 4.5% YoY profit rise in Q2 yet maintains prior FY27 outlook",
    "summary": "While reporting a 4.5% YoY profit rise in Q2 of FY27, Medtronic\u2019s stock fell by around the same percentage, with its maintained full-year outlook a likely contributor.",
@@ -4794,6 +4994,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "cfde5c4f6707",
+   "headline": "This Anheuser-Busch Inbev Analyst Is No Longer Bullish; Here Are Top 4 Downgrades For Wednesday",
+   "summary": "Analysts downgraded Insmed, Anheuser-Busch InBev and Abercrombie & Fitch, with mixed price-target changes.",
+   "url": "https://finnhub.io/api/news?id=de3ad79c32ad15d1990e8389c55b736a819666ea4ddfbbe5f05e170ff61226dc",
+   "source": "Benzinga",
+   "published": "2026-11-25T10:31:15+00:00",
+   "tickers": [
+    "INSM"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -41301,78 +41516,6 @@
    "tag": "News",
    "sectors": [
     "medtech"
-   ]
-  },
-  {
-   "id": "386c28872809",
-   "headline": "HLTH 2026 Daily Tracker: Health tech\u2019s \u2018AI-powered\u2019 pitch is falling flat, survey finds; Vynca expands into four states",
-   "summary": "The Fierce Healthcare team is on the ground at HLTH 2026. Stick with this news tracker to catch all the highlights from the show floor, and click here for additional coverage from the conference.",
-   "url": "https://www.fiercehealthcare.com/health-tech/hlth26-daily-tracker-health-techs-ai-powered-pitch-falling-flat-survey-finds-vynca",
-   "source": "Fierce Healthcare",
-   "published": "2026-11-16T14:45:22.065403+00:00",
-   "tickers": [],
-   "tag": "Health AI",
-   "sectors": []
-  },
-  {
-   "id": "6e30317a4c86",
-   "headline": "J&J pays $2.2B upfront for Ollin to challenge Roche\u2019s Vabysmo with phase 3 bispecific",
-   "summary": "Johnson & Johnson has struck a deal to buy Ollin Biosciences for $2.2 billion upfront, establishing itself as a threat to Roche\u2019s blockbuster eye disease drug Vabysmo.",
-   "url": "https://www.fiercebiotech.com/biotech/jj-pays-22b-upfront-ollin-challenge-roches-vabysmo",
-   "source": "Fierce Biotech",
-   "published": "2026-11-16T14:45:21.775520+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "d1bb79b54b9d",
-   "headline": "A $2.1 Billion Fund Just Bought These 3 Stocks",
-   "summary": "Key TakeawaysMizuho Markets Cayman LP\u2019s latest 13F shows new stakes in Target and AbbVie and an 85% bigger stake in Synopsys by Sept. 30.",
-   "url": "https://finnhub.io/api/news?id=21528f9b17821dc33490a203dc90d2186a3eb9e2442a6860df066427da996a20",
-   "source": "Yahoo",
-   "published": "2026-11-16T14:38:00+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "a3b38a975756",
-   "headline": "J&J Stock Rallies More Than 10% in a Month: Time to Buy, Sell or Hold?",
-   "summary": "JNJ's rally reflects stronger earnings and promising drug launches, but MedTech weakness, patent losses and litigation risks remain.",
-   "url": "https://finnhub.io/api/news?id=b175f07931ad1c6ad9741cfce2c0ea40b7bb15248908063d3d7b9053bcfb79ad",
-   "source": "Yahoo",
-   "published": "2026-11-16T14:35:00+00:00",
-   "tickers": [
-    "JNJ",
-    "LLY"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "c31350120dc6",
-   "headline": "JP Morgan Maintains Overweight on Recursion Pharmaceuticals, Lowers Price Target to $7",
-   "summary": "JP Morgan analyst Priyanka Grover maintains Recursion Pharmaceuticals (NASDAQ:RXRX) with a Overweight and lowers the price target from $10 to $7.",
-   "url": "https://finnhub.io/api/news?id=56301695bfa900f6eea5b236958077b6c9d81cf27216fac44279bd3c20a4ac86",
-   "source": "Benzinga",
-   "published": "2026-11-16T14:32:44+00:00",
-   "tickers": [
-    "RXRX"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "healthai"
    ]
   }
  ]
