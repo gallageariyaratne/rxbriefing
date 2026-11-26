@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-26T00:47:28.248423+00:00",
+ "updated": "2026-11-26T01:02:35.821952+00:00",
  "quotes": {
   "A": {
    "price": 178.44,
@@ -73,6 +73,10 @@
   "CI": {
    "price": 271.42,
    "change_pct": -1.3
+  },
+  "CLOV": {
+   "price": 3.76,
+   "change_pct": 1.35
   },
   "CNC": {
    "price": 64.74,
@@ -225,6 +229,10 @@
   "RMD": {
    "price": 245.7,
    "change_pct": 0.93
+  },
+  "RVMD": {
+   "price": 175.67,
+   "change_pct": -3.04
   },
   "RXRX": {
    "price": 2.63,
@@ -909,6 +917,8 @@
    "source": "Yahoo",
    "published": "2026-11-25T23:36:21+00:00",
    "tickers": [
+    "ALNY",
+    "MRNA",
     "PFE"
    ],
    "tag": "Financing",
@@ -940,6 +950,9 @@
    "published": "2026-11-25T22:45:26+00:00",
    "tickers": [
     "DHR",
+    "LLY",
+    "MRK",
+    "TMO",
     "UNH"
    ],
    "tag": "M&A",
@@ -989,6 +1002,21 @@
    ]
   },
   {
+   "id": "49e431310457",
+   "headline": "Revolution Medicines (RVMD) Stock Gets Fair Value Bump After Rasonque Launch Praise",
+   "summary": "Revolution Medicines has seen its modeled fair value move from US$261.47 to US$274.68, a shift that puts fresh attention on what is driving analyst pricing work. Much of the recent discussion ties that change to strong enthusiasm for the\u2026",
+   "url": "https://finnhub.io/api/news?id=827b6a1bef09a11d8bfc1d485b00c33b2029c64e39da418c547e36653a377f42",
+   "source": "Yahoo",
+   "published": "2026-11-25T22:08:05+00:00",
+   "tickers": [
+    "RVMD"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "775da416b36f",
    "headline": "Dow Jones Futures: Market Goes On Wild Ride. Nasdaq, Nvidia Slash Losses While Anthropic Reverses Higher.",
    "summary": "The market went on a wild ride before Thanksgiving, but the Dow and Anthropic reversed higher while the Nasdaq and Nvidia came well off lows.",
@@ -996,7 +1024,8 @@
    "source": "Yahoo",
    "published": "2026-11-25T22:07:20+00:00",
    "tickers": [
-    "EXEL"
+    "EXEL",
+    "LLY"
    ],
    "tag": "News",
    "sectors": [
@@ -1075,6 +1104,21 @@
    ]
   },
   {
+   "id": "8c9fd1bce874",
+   "headline": "How Investors May Respond To Revolution Medicines Stock As Pancreatic Cancer Data Impresses",
+   "summary": "Revolution Medicines reported updated Phase 1/2 data showing that RASONQUE plus gemcitabine and nab-paclitaxel produced a 60.7% confirmed response rate and 90.2% disease control in first-line metastatic pancreatic adenocarcinoma, with\u2026",
+   "url": "https://finnhub.io/api/news?id=34cd41d68427d77c3b811c9ca2824daa547781dc5e460df0ff26d1d6833c0975",
+   "source": "Yahoo",
+   "published": "2026-11-25T21:12:32+00:00",
+   "tickers": [
+    "RVMD"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "3a29b301da09",
    "headline": "Vertex Announces Extension of PDUFA Target Action Date by up to Three Months as FDA Completes Review of the Biologics License Application for Povetacicept in IgA Nephropathy",
    "summary": "BOSTON, November 25, 2026--Vertex Pharmaceuticals Incorporated (Nasdaq: VRTX) today announced that the U.S. Food and Drug Administration (FDA) informed the company on November 24, 2026 of an extension to the Prescription Drug User Fee Act\u2026",
@@ -1143,7 +1187,8 @@
    "published": "2026-11-25T20:45:25+00:00",
    "tickers": [
     "MRNA",
-    "REGN"
+    "REGN",
+    "RVMD"
    ],
    "tag": "News",
    "sectors": [
@@ -1286,7 +1331,8 @@
    "tickers": [
     "BMRN",
     "MRNA",
-    "REGN"
+    "REGN",
+    "RVMD"
    ],
    "tag": "News",
    "sectors": [
@@ -1587,6 +1633,21 @@
    ]
   },
   {
+   "id": "fb9b8992892f",
+   "headline": "Revolution Medicines (RVMD) On Fresh RASONQUE Data And A Narrative Of Undervaluation",
+   "summary": "Revolution Medicines (RVMD) is back in focus after releasing updated Phase 1/2 data on RASONQUE combined with chemotherapy as a potential first-line option for metastatic pancreatic adenocarcinoma, which is sharpening attention on the\u2026",
+   "url": "https://finnhub.io/api/news?id=409b936a24b4331dcb9bfc3b17a05f7653f763727f8ad4b397bbca56df46644e",
+   "source": "Yahoo",
+   "published": "2026-11-25T17:11:30+00:00",
+   "tickers": [
+    "RVMD"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "c0cd2fc2cbb2",
    "headline": "3 ETFs For Owning Gilead Without Making It The Whole Bet",
    "summary": "If you like Gilead Sciences for its role in HIV and other hard to treat illnesses, owning the stock directly means living with its specific risks. Simply Wall St flags that the dividend is not well covered by earnings and that Gilead\u2026",
@@ -1815,6 +1876,7 @@
    "source": "Yahoo",
    "published": "2026-11-25T16:12:00+00:00",
    "tickers": [
+    "CLOV",
     "UNH"
    ],
    "tag": "Policy",
@@ -1922,7 +1984,8 @@
    "source": "Yahoo",
    "published": "2026-11-25T15:45:22+00:00",
    "tickers": [
-    "AMGN"
+    "AMGN",
+    "RVMD"
    ],
    "tag": "Financing",
    "sectors": [
@@ -1977,6 +2040,21 @@
    ]
   },
   {
+   "id": "884b31acedbf",
+   "headline": "5 Biotech Stocks to Watch as $41B Sanofi/Insmed Deal Revives M&A Hopes",
+   "summary": "Sanofi's $41B Insmed deal revives biotech M&A hopes, putting VERA, BBIO, RVMD, AGIO and STOK in focus as potential takeover targets.",
+   "url": "https://finnhub.io/api/news?id=a414f92fa984131554e6cba31d17d0ef306f08b20e73a7641813e65b219f666d",
+   "source": "Yahoo",
+   "published": "2026-11-25T15:31:00+00:00",
+   "tickers": [
+    "RVMD"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "555c9937b736",
    "headline": "Bristol Myers' Sotyktu posts a hit and a miss in pair of ph. 3 lupus trials",
    "summary": "Results came across both good and less-so in topline readouts from two phase 3 Sotyktu trials in systemic lupus erythematosus Wednesday, with Bristol Myers Squibb offering a mixed outlook on its TYK2 inhibitor\u2019s expansion prospects\u2026",
@@ -1999,7 +2077,8 @@
    "source": "Yahoo",
    "published": "2026-11-25T15:30:18+00:00",
    "tickers": [
-    "MRNA"
+    "MRNA",
+    "RVMD"
    ],
    "tag": "News",
    "sectors": [
@@ -2307,6 +2386,21 @@
    "tag": "Health AI",
    "sectors": [
     "pharmacy"
+   ]
+  },
+  {
+   "id": "e15099319cc5",
+   "headline": "TGTX Rises as FDA Accepts sBLA for Simplified Briumvi Dosing Schedule",
+   "summary": "TG Therapeutics jumps as the FDA accepts its sBLA for a simplified Briumvi dosing schedule, with a regulatory decision expected in July 2027.",
+   "url": "https://finnhub.io/api/news?id=030f09c064678c632f0bc934d00f9b8f5542a4cfffb6fc249f3b2c32b8b5bc29",
+   "source": "Yahoo",
+   "published": "2026-11-25T14:15:00+00:00",
+   "tickers": [
+    "TGTX"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -2946,6 +3040,21 @@
    ]
   },
   {
+   "id": "32873e76cd17",
+   "headline": "TG Therapeutics to Participate in the 9th Annual Evercore Healthcare Conference",
+   "summary": "NEW YORK, November 25, 2026--TG Therapeutics, Inc. (NASDAQ: TGTX) today announced that Michael S. Weiss, the Company\u2019s Chairman and Chief Executive Officer, will participate in the 9th Annual Evercore Healthcare Conference, which is\u2026",
+   "url": "https://finnhub.io/api/news?id=cd72f4e01a89d2a7357a771c3fb73c3d6d9f0a37cc157e20435dee39b74937a4",
+   "source": "Yahoo",
+   "published": "2026-11-25T12:30:00+00:00",
+   "tickers": [
+    "TGTX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "2b4b84e8a7f5",
    "headline": "Vertex Shares Have The Bull Case Changed After Drug Discovery Deal Renewal",
    "summary": "Genomics Limited has extended its drug target discovery and validation alliance with Vertex Pharmaceuticals for four more years, a deal that can reach over US$220m in milestone payments plus potential tiered royalties on any resulting\u2026",
@@ -2958,6 +3067,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "d5dbbc818278",
+   "headline": "Was TG Therapeutics Stock's Run Hiding In Plain Sight?",
+   "summary": "Today's big story: Anthropic Below Its IPO Price: Do Giants Come Back.",
+   "url": "https://finnhub.io/api/news?id=c7a92a55b7f1832ddc96dba629909cc2f0f943862458ad69650086a71d271534",
+   "source": "Yahoo",
+   "published": "2026-11-25T12:23:00+00:00",
+   "tickers": [
+    "TGTX"
+   ],
+   "tag": "Financing",
+   "sectors": [
+    "biotech"
    ]
   },
   {
