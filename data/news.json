@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-26T20:02:27.744069+00:00",
+ "updated": "2026-11-26T20:17:20.510719+00:00",
  "quotes": {
   "A": {
    "price": 178.47,
@@ -153,6 +153,10 @@
   "JNJ": {
    "price": 273.98,
    "change_pct": -0.9
+  },
+  "LH": {
+   "price": 368.99,
+   "change_pct": -1.89
   },
   "LLY": {
    "price": 1392.26,
@@ -1713,6 +1717,21 @@
    ]
   },
   {
+   "id": "556dd8f00db6",
+   "headline": "Is Wall Street Bullish or Bearish on Labcorp Holdings Stock?",
+   "summary": "Labcorp Holdings has outpaced the broader market over the past year, yet analysts remain highly optimistic about the stock\u2019s prospects.",
+   "url": "https://finnhub.io/api/news?id=bb8d76d62fec4d9fffe41c6087df5c80533a14f48e1089af144691906d29086f",
+   "source": "Yahoo",
+   "published": "2026-11-26T12:38:41+00:00",
+   "tickers": [
+    "LH"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "630d5efa449f",
    "headline": "ABT vs. TMO: Which Clinical Diagnostics Stock Is the Better Bet Now?",
    "summary": "Thermo Fisher outperforms Abbott in stock gains and earnings estimates, while bioproduction growth and strategic acquisitions strengthen its investment case.",
@@ -1769,6 +1788,21 @@
     "ABBV"
    ],
    "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "67e7fda13ce4",
+   "headline": "Do Wall Street Analysts Like Regeneron Pharmaceuticals Stock?",
+   "summary": "Regeneron Pharmaceuticals has outperformed the broader market over the past year, and analysts are cautiously optimistic about the stock\u2019s prospects.",
+   "url": "https://finnhub.io/api/news?id=bcf374c26ead2eaef6fdd122588c798a4fe555216b84366d25b81192ee76483b",
+   "source": "Yahoo",
+   "published": "2026-11-26T12:07:17+00:00",
+   "tickers": [
+    "REGN"
+   ],
+   "tag": "Analyst",
    "sectors": [
     "pharma"
    ]
@@ -40831,37 +40865,6 @@
    "tag": "FDA",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "8ea2331fb7ed",
-   "headline": "S&P 500 Top Movers: Gainers and Losers for Nov. 16, 2026",
-   "summary": "S&P 500 top movers on Nov. 16, 2026 included TSN, CNC, TSCO, SNDK, LITE and CIEN, with sharp gains and declines across the index.",
-   "url": "https://finnhub.io/api/news?id=643fd1d4c5d1bf6eff8aea504dc0b40993044b4a0d5cfdb8e997baf62d02def9",
-   "source": "ChartMill",
-   "published": "2026-11-16T20:05:54+00:00",
-   "tickers": [
-    "CNC",
-    "ELV"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "3a10bdb7fa25",
-   "headline": "Tracking Berkshire Hathaway Portfolio - Q3 2026 Update",
-   "summary": "",
-   "url": "https://finnhub.io/api/news?id=95d9a6ac6eef0f7eb7484508feaadcd29cb4d205079b1a1a02c56667cf00aca7",
-   "source": "SeekingAlpha",
-   "published": "2026-11-16T20:01:28+00:00",
-   "tickers": [
-    "DVA"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
    ]
   }
  ]
