@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-26T04:17:40.629918+00:00",
+ "updated": "2026-11-26T04:32:52.231805+00:00",
  "quotes": {
   "A": {
    "price": 178.44,
@@ -170,10 +170,6 @@
    "price": 29.96,
    "change_pct": 0.54
   },
-  "IQV": {
-   "price": 251.12,
-   "change_pct": -0.35
-  },
   "ISRG": {
    "price": 427.18,
    "change_pct": -1.68
@@ -321,6 +317,10 @@
   "WAY": {
    "price": 27.7,
    "change_pct": 2.52
+  },
+  "ZTS": {
+   "price": 82.6,
+   "change_pct": 1.39
   }
  },
  "tickers": {
@@ -937,6 +937,36 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "da6c3f3c0c70",
+   "headline": "Dow, S&P 500, Nasdaq Futures Edge Higher As Tech Rebounds After Selloff: DIS, VRTX, DE, CHTR In Focus",
+   "summary": "U.S. stock markets closed another volatile session on Wednesday as technology stocks sold off amid declines in Nvidia and Anthropic shares, though both recovered overnight.",
+   "url": "https://finnhub.io/api/news?id=3dcd38dfa3a2ba0cf30169687699626e23d870d0a056c3a707273462043d1a4d",
+   "source": "Yahoo",
+   "published": "2026-11-26T03:14:36+00:00",
+   "tickers": [
+    "VRTX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "92bd02dacbe9",
+   "headline": "Agilent and Chulalongkorn University Open First Experience Center in Thailand",
+   "summary": "Agilent Technologies Inc. (NYSE: A) and Chulalongkorn University (Chula), through its Scientific and Technological Research Equipment Centre (STREC), today opened the STREC-Chula-Agilent Experience Center in Bangkok. The center is\u2026",
+   "url": "https://finnhub.io/api/news?id=f905937ed72b21add1ce0a8c427d5478693922c10bac468b4dbbb4f1266dc807",
+   "source": "Yahoo",
+   "published": "2026-11-26T02:30:00+00:00",
+   "tickers": [
+    "A"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
   {
    "id": "88703627a2b2",
    "headline": "Dow Jones Futures Rise; Market Goes On Wild Ride As Nasdaq Slashes Losses",
