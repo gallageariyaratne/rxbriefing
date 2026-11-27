@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-27T18:02:18.067778+00:00",
+ "updated": "2026-11-27T18:17:04.250288+00:00",
  "quotes": {
   "ABBV": {
    "price": 291.92,
@@ -45,6 +45,10 @@
   "CAH": {
    "price": 282.9,
    "change_pct": -0.0
+  },
+  "CI": {
+   "price": 272.16,
+   "change_pct": 0.27
   },
   "COR": {
    "price": 354.38,
@@ -135,8 +139,8 @@
    "change_pct": 0.41
   },
   "LLY": {
-   "price": 1396.37,
-   "change_pct": 0.3
+   "price": 1392.42,
+   "change_pct": 0.01
   },
   "MDT": {
    "price": 95.43,
@@ -147,8 +151,8 @@
    "change_pct": -1.32
   },
   "MRK": {
-   "price": 141.46,
-   "change_pct": 0.83
+   "price": 141.35,
+   "change_pct": 0.76
   },
   "MRNA": {
    "price": 228.68,
@@ -163,8 +167,8 @@
    "change_pct": -0.76
   },
   "PFE": {
-   "price": 28.56,
-   "change_pct": 0.35
+   "price": 28.53,
+   "change_pct": 0.25
   },
   "PODD": {
    "price": 138.93,
@@ -834,6 +838,66 @@
  },
  "stories": [
   {
+   "id": "cab0cbe2dc7a",
+   "headline": "Trump Opens Door to Universal Healthcare. Could \u201cTrumpcare\u201d Reshape America\u2019s $5.3 Trillion Healthcare System?",
+   "summary": "Trump has flirted with universal healthcare since 1999, and now he is willing to talk with a Michigan Democrat about it. Whoever wins the fight over private insurance could decide which healthcare giants keep their profits.",
+   "url": "https://finnhub.io/api/news?id=b3c0b39fd6038f247897416d954ad4da0a984a42d4484f7dee7fa1133795b63b",
+   "source": "Yahoo",
+   "published": "2026-11-27T16:52:45+00:00",
+   "tickers": [
+    "HCA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "c95ad4f2906b",
+   "headline": "GMAB Stock Soars 71% in 3 Months on Pipeline Progress & Sales Growth",
+   "summary": "Genmab shares surge 71% as promising late-stage cancer trial results, rising Epkinly sales and 22% revenue growth strengthen its growth outlook.",
+   "url": "https://finnhub.io/api/news?id=58db23f53e90ffbaec63837863ca35da74be4e2399f76b51070e121ae799d2c0",
+   "source": "Yahoo",
+   "published": "2026-11-27T16:08:00+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "47f4df7b2af4",
+   "headline": "Down 15% in November, Is It Time to Buy the UnitedHealth Stock Dip?",
+   "summary": "UnitedHealth's earnings rebound was supposed to define the year, until three brutal sessions erased billions in value. Behind the Medicare for All noise sits a quieter threat that hits revenue the company already collects, and it may\u2026",
+   "url": "https://finnhub.io/api/news?id=d50e7646f65a08424bf95eb2a31d7c8499ad6481ce9f9b5c8c0564ab34e09f98",
+   "source": "Yahoo",
+   "published": "2026-11-27T16:07:26+00:00",
+   "tickers": [
+    "CI"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "425c69ce137d",
+   "headline": "What Led ABBV's Oncology Franchise to Return to Growth in Q3?",
+   "summary": "AbbVie's oncology franchise returned to growth in Q3 as strong Venclexta, Elahere and Epkinly sales offset continued Imbruvica declines.",
+   "url": "https://finnhub.io/api/news?id=743181ddbaa0deb96c2c3912fb2ddf18cf401395459258991b45ebe847bdb198",
+   "source": "Yahoo",
+   "published": "2026-11-27T16:04:00+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "aa1ae8a767b8",
    "headline": "STAT+: FDA extends assessment of experimental Vertex kidney drug",
    "summary": "The FDA is extending its assessment of Vertex's investigational kidney drug, as the company faces questions about potential safety concerns.",
@@ -918,6 +982,22 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "c1873c25a0b0",
+   "headline": "Why Is Labcorp (LH) Up 0.2% Since Last Earnings Report?",
+   "summary": "Labcorp (LH) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
+   "url": "https://finnhub.io/api/news?id=0811513d63692d78c25eb84d3eb7031ee62ee1d6af165b81988aee9d8815c6ab",
+   "source": "Yahoo",
+   "published": "2026-11-27T15:30:10+00:00",
+   "tickers": [
+    "HCA",
+    "LH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
    ]
   },
   {
@@ -1445,6 +1525,7 @@
    "published": "2026-11-27T12:38:00+00:00",
    "tickers": [
     "ELV",
+    "HCA",
     "TMO"
    ],
    "tag": "Earnings",
@@ -37692,77 +37773,6 @@
    "tickers": [],
    "tag": "Financing",
    "sectors": []
-  },
-  {
-   "id": "0512938cee05",
-   "headline": "Here's How Much $1000 Invested In DexCom 10 Years Ago Would Be Worth Today",
-   "summary": "DexCom (NASDAQ:DXCM) has outperformed the market over the past 10 years by 3.92% on an annualized basis producing an average annual return of 16.67%. Currently, DexCom has a market capitalization of $30.44 billion.",
-   "url": "https://finnhub.io/api/news?id=46ec601b6c386a1b11c24a1aa68068f06df79d2076dd2279b28e275ced4ada00",
-   "source": "Benzinga",
-   "published": "2026-11-17T18:15:50+00:00",
-   "tickers": [
-    "DXCM"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "84271186bc73",
-   "headline": "STAT+: GOP, MAHA leaders clash over FDA nominee\u2019s record on vapes",
-   "summary": "Heidi Overton is facing an uphill climb to become the next FDA commissioner. The latest challenge is her work on vaping.",
-   "url": "https://www.statnews.com/2026/11/17/heidi-overton-fda-commissioner-nomination-vote-vaping-controversy/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-11-17T18:14:50+00:00",
-   "tickers": [],
-   "tag": "FDA",
-   "sectors": []
-  },
-  {
-   "id": "42887d05dbd8",
-   "headline": "Are Wall Street Analysts Predicting DexCom\u2019s Stock Will Climb or Sink?",
-   "summary": "Are analysts predicting CGM-maker DexCom to rise or fall?",
-   "url": "https://finnhub.io/api/news?id=26a171148e18a3ddfd108816bc359426dccd2bfe6f2ce5cd7d2b56e838545c3e",
-   "source": "Yahoo",
-   "published": "2026-11-17T18:13:32+00:00",
-   "tickers": [
-    "DXCM"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "6d3a6a9099d8",
-   "headline": "Regeneron Pharmaceuticals Sees Growth Ahead, Eyes EYLEA HD Syringe Approval",
-   "summary": "Regeneron Pharmaceuticals (NASDAQ:REGN) expects its three largest growth drivers to continue supporting revenue growth, while planning higher research and development spending and preparing for a specialty drug launch, executives said at\u2026",
-   "url": "https://finnhub.io/api/news?id=9837790f05ce7fd702e2fff22ad1e2f070b5112d457b9942ffb5481e3607f522",
-   "source": "Yahoo",
-   "published": "2026-11-17T18:13:27+00:00",
-   "tickers": [
-    "REGN"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "a0ab0191996c",
-   "headline": "Abbott (ABT) Stock May Be 28% Undervalued Despite AI Testing Expansion",
-   "summary": "Abbott Laboratories has seen its share price under pressure over the past year, which puts fresh attention on what investors are really paying for in terms of its future cash flows. With the stock closing at US$107.45 most recently, the\u2026",
-   "url": "https://finnhub.io/api/news?id=1611fa1ff853758f2a63539aebae6b8f038c238922a0c456fc831c7c76a13b3a",
-   "source": "Yahoo",
-   "published": "2026-11-17T18:08:42+00:00",
-   "tickers": [
-    "ABT"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "medtech"
-   ]
   }
  ]
 }
