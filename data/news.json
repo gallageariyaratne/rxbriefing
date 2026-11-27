@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-27T02:32:29.057730+00:00",
+ "updated": "2026-11-27T02:47:24.386321+00:00",
  "quotes": {
   "ABBV": {
    "price": 294.48,
@@ -249,6 +249,10 @@
   "SYK": {
    "price": 332.9,
    "change_pct": 2.72
+  },
+  "TDOC": {
+   "price": 7.62,
+   "change_pct": 1.33
   },
   "TGTX": {
    "price": 68.37,
@@ -1209,7 +1213,8 @@
    "published": "2026-11-26T18:38:14+00:00",
    "tickers": [
     "HIMS",
-    "LLY"
+    "LLY",
+    "TDOC"
    ],
    "tag": "M&A",
    "sectors": [
@@ -2420,6 +2425,7 @@
    "source": "Yahoo",
    "published": "2026-11-26T11:40:27+00:00",
    "tickers": [
+    "INSM",
     "SNY"
    ],
    "tag": "Financing",
@@ -2787,6 +2793,21 @@
    ]
   },
   {
+   "id": "b27ceb943b0c",
+   "headline": "Nvidia Wins Back Wall Street Backing As Jensen Huang Returns; CRWD, LI Stocks Score Upgrades While DKNG, AMBA Face Pressure",
+   "summary": "Wall Street analysts upgraded Nvidia, CrowdStrike and Li Auto on leadership stability, AI growth and strong earnings.",
+   "url": "https://finnhub.io/api/news?id=b9be9151e09e73bc6fe03b0d88bd71e854ac561fef9ed19ef32f23f1c0a577f8",
+   "source": "Yahoo",
+   "published": "2026-11-26T08:43:12+00:00",
+   "tickers": [
+    "INSM"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "9d6bdd329dcf",
    "headline": "Prelude: POC KAT6A Degrader Effect And Selective PRT12396, Initiating With A 'Hold'",
    "summary": "Prelude Therapeutics is rated \"Hold,\" awaiting PRT13722 proof-of-concept data after at least six program discontinuations since its IPO.",
@@ -3028,6 +3049,21 @@
    "tag": "News",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "fce2ccab579c",
+   "headline": "Beam Therapeutics (BEAM) Could Be 84% Undervalued After Regulatory Timelines Sharpened",
+   "summary": "Beam Therapeutics (BEAM) is back in focus after management outlined a packed regulatory calendar, including a planned biologics license application for its sickle cell therapy in December and faster than expected enrollment in its\u2026",
+   "url": "https://finnhub.io/api/news?id=5a02d4dba4afe7f550732ff141c58832fdd5a8453d206be1bd6c4e51e7df78e9",
+   "source": "Yahoo",
+   "published": "2026-11-26T02:15:13+00:00",
+   "tickers": [
+    "BEAM"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -40701,21 +40737,6 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
-  },
-  {
-   "id": "7ecab3c5a68e",
-   "headline": "Novartis Cosentyx\u00ae becomes first and only FDA-approved anti-IL-17 biologic for people with polymyalgia rheumatica (PMR)",
-   "summary": "Cosentyx\u00ae (secukinumab) doubled sustained remission rates and demonstrated steroid-sparing effects vs placebo in Phase III trial\u00b9Approval marks 11th US indication for Cosentyx, building on its decade-long established efficacy and safety\u2026",
-   "url": "https://finnhub.io/api/news?id=5cd5479ceeb80cce26ccfecb42e1b01ff8069596a0b9fe9f753c93cf63c2638c",
-   "source": "Yahoo",
-   "published": "2026-11-17T02:43:00+00:00",
-   "tickers": [
-    "NVS"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
   }
  ]
 }
