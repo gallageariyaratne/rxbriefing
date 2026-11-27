@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-27T19:02:29.199097+00:00",
+ "updated": "2026-11-27T19:17:10.574934+00:00",
  "quotes": {
   "ABBV": {
    "price": 291.92,
@@ -13,10 +13,6 @@
   "ALGN": {
    "price": 166,
    "change_pct": 0.36
-  },
-  "ALNY": {
-   "price": 162.73,
-   "change_pct": -1.21
   },
   "AMGN": {
    "price": 474.12,
@@ -173,6 +169,10 @@
   "MRNA": {
    "price": 228.68,
    "change_pct": 3.55
+  },
+  "NBIX": {
+   "price": 165.21,
+   "change_pct": -0.48
   },
   "NVS": {
    "price": 154.11,
@@ -925,6 +925,7 @@
    "source": "Yahoo",
    "published": "2026-11-27T16:45:26+00:00",
    "tickers": [
+    "NBIX",
     "ZTS"
    ],
    "tag": "News",
@@ -1754,6 +1755,21 @@
    "tag": "Legal",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "05e9ed616c80",
+   "headline": "Medtronic: Pick Up This Dividend Aristocrat On Sale Now",
+   "summary": "The bull case for Medtronic: shares are 12% below fair value and could deliver 16% total returns by end-October 2027 and 10%+ annually through FY 2032.",
+   "url": "https://finnhub.io/api/news?id=ba3b4d8020fa84bd59d7ad264e7082299bc0df26b16e469bf445b7ce0973c756",
+   "source": "SeekingAlpha",
+   "published": "2026-11-27T13:09:54+00:00",
+   "tickers": [
+    "MDT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -37895,109 +37911,6 @@
    "tag": "FDA",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "6a738b763f3f",
-   "headline": "FDA Approves First Drug Shown to Help Patients with Infantile-Onset Niemann-Pick Disease Type C Live Longer",
-   "summary": "FDA approved Lembaz (adrabetadex) injection, the first treatment shown to help people with a severe form of Niemann-Pick disease type C (NPC) live longer.",
-   "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-shown-help-patients-infantile-onset-niemann-pick-disease-type-c-live-longer",
-   "source": "FDA",
-   "published": "2026-11-17T19:15:22+00:00",
-   "tickers": [],
-   "tag": "FDA",
-   "sectors": []
-  },
-  {
-   "id": "6599457062c1",
-   "headline": "3 Stocks Rallying After Strong Q3 Earnings and Raised Guidance",
-   "summary": "The Q3 earnings season has delivered several big winners, with Hasbro (HAS), IDEXX Laboratories (IDXX), and TG Therapeutics (TGTX) all posting strong results that have helped drive relative strength over the last month, with each raising\u2026",
-   "url": "https://finnhub.io/api/news?id=4f49790b675206ad6a3fd9a7fc30b84fed6c2b534ce307615649ffa56b500293",
-   "source": "Yahoo",
-   "published": "2026-11-17T19:13:00+00:00",
-   "tickers": [
-    "IDXX",
-    "TGTX"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "559102a78406",
-   "headline": "Positive Trial Results Could Be A Big Moment For Eli Lilly Stock",
-   "summary": "Eli Lilly used ObesityWeek 2026 to share late-stage data on EloraTZP, retatrutide and Foundayo, showing strong effects on weight, A1C, sleep apnea severity and knee osteoarthritis pain in adults with obesity and related conditions. The\u2026",
-   "url": "https://finnhub.io/api/news?id=258190ed1d0a99b9b37d9756f4be3bfa374c0c8acebdd62f9bd3aa81beb3b911",
-   "source": "Yahoo",
-   "published": "2026-11-17T19:11:44+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "510e00658283",
-   "headline": "Cosentyx bags FDA nod for 11th indication as Novartis looks to buffer 2029 patent cliff",
-   "summary": "Cosentyx's latest FDA approval marks the aging biologic's 11th indication and the first of the anti-IL-17 class to be approved for polymyalgia rheumatica.",
-   "url": "https://www.fiercepharma.com/pharma/cosentyx-bags-fda-nod-11th-indication-novartis-looks-2029-patent-cliff",
-   "source": "Fierce Pharma",
-   "published": "2026-11-17T19:09:53.278683+00:00",
-   "tickers": [
-    "NVS"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "0b373b073b6e",
-   "headline": "Is UnitedHealth Group (UNH) Cheap As Board Changes Put Valuation Back In Focus?",
-   "summary": "UnitedHealth Group (UNH) is back in focus after appointing longtime health care executive Madeline S. Bell to its board of directors, giving investors a fresh lens on governance and long term capital allocation. Recent trading has been\u2026",
-   "url": "https://finnhub.io/api/news?id=b144e3976aed59bfc4a3a86b35375df5a8d4b2b18bc777091850ba8420c24662",
-   "source": "Yahoo",
-   "published": "2026-11-17T19:09:08+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "1e28d36ae8a1",
-   "headline": "S&P 500 Most Active Stocks for Nov. 17, 2026",
-   "summary": "S&P 500 most active stocks for Nov. 17, 2026: NIKE, Super Micro, Ford and Netflix led volume as most names in the group declined.",
-   "url": "https://finnhub.io/api/news?id=a4e4d66ea5c1ef63284ff1b414d3469a4c72686a0b34ea09961919fdfb5ad2b6",
-   "source": "ChartMill",
-   "published": "2026-11-17T19:06:08+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "3b4693424b11",
-   "headline": "A $2.4 Billion Fund Dumps These 3 Stocks",
-   "summary": "Key TakeawaysMeridiem Capital Partners sold all of its UnitedHealth, Charles River Laboratories and Alphabet shares in the third quarter, its latest 13F shows. By Sept.",
-   "url": "https://finnhub.io/api/news?id=087737fc6333c2c5adb72dd8180529e532914e3471e44ba3af63ab1858bb003d",
-   "source": "Yahoo",
-   "published": "2026-11-17T19:05:52+00:00",
-   "tickers": [
-    "CRL",
-    "UNH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
    ]
   }
  ]
