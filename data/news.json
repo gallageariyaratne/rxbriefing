@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-27T08:32:22.209194+00:00",
+ "updated": "2026-11-27T08:47:22.372932+00:00",
  "quotes": {
   "ABBV": {
    "price": 294.48,
@@ -153,10 +153,6 @@
   "ILMN": {
    "price": 200.39,
    "change_pct": -2.02
-  },
-  "INCY": {
-   "price": 122.35,
-   "change_pct": -1.02
   },
   "INSM": {
    "price": 170.31,
@@ -909,11 +905,27 @@
    "source": "Yahoo",
    "published": "2026-11-27T06:48:00+00:00",
    "tickers": [
+    "ISRG",
     "MDT"
    ],
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "5bd419554541",
+   "headline": "Allspring Special Mid Cap Value Fund Q3 2026 Performance And Attribution",
+   "summary": "Contributors include Valero Energy, Charles River Laboratories International, Okta, Revvity and Labcorp Holdings.",
+   "url": "https://finnhub.io/api/news?id=16a06982579601d66a296e812d78398b01acae25520c1a04a7c51ef34b9cf54e",
+   "source": "SeekingAlpha",
+   "published": "2026-11-27T03:00:00+00:00",
+   "tickers": [
+    "CRL"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
    ]
   },
   {
