@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-27T12:47:28.450721+00:00",
+ "updated": "2026-11-27T13:02:36.051393+00:00",
  "quotes": {
   "ABBV": {
    "price": 294.48,
@@ -81,6 +81,10 @@
   "ENSG": {
    "price": 182.0,
    "change_pct": 1.32
+  },
+  "EW": {
+   "price": 106.36,
+   "change_pct": 0.23
   },
   "EXEL": {
    "price": 67.25,
@@ -241,10 +245,6 @@
   "UTHR": {
    "price": 590.67,
    "change_pct": 0.93
-  },
-  "VEEV": {
-   "price": 271.9,
-   "change_pct": -0.63
   },
   "VRTX": {
    "price": 564.12,
@@ -889,6 +889,22 @@
    ]
   },
   {
+   "id": "d950015cc392",
+   "headline": "Direxion NASDAQ-100 Equal Weighted (QQQE) Adds IDEXX and Walmart on Nov. 25",
+   "summary": "The $1.46 billion fund bought $87.9 million of stock and sold nothing, lifting all 101 positions.",
+   "url": "https://finnhub.io/api/news?id=ef09d4b33f26208647c273cb8d7c1660989e18d1c888c59dd31e77d927676d4e",
+   "source": "Yahoo",
+   "published": "2026-11-27T11:05:09+00:00",
+   "tickers": [
+    "IDXX",
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "0d0ceef11fe4",
    "headline": "iShares U.S. Medical Devices (IHI) Buys $18.6 Million More ABT on Nov. 25",
    "summary": "The fund added $106.9 million across all 47 of its positions, led by an $18.6 million increase in Abbott Laboratories.",
@@ -897,12 +913,29 @@
    "published": "2026-11-27T11:05:00+00:00",
    "tickers": [
     "ABT",
+    "EW",
+    "IDXX",
     "ISRG",
     "MDT"
    ],
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "4535bf0c52c8",
+   "headline": "iShares Paris-Aligned Climate (PABU) Buys $9.4 Million More Apple on Wednesday",
+   "summary": "The ETF added $106.5 million in net new positions, lifting 85 holdings while trimming just one, in a session with $108.4 million in gross trades.",
+   "url": "https://finnhub.io/api/news?id=797a664fbb09caf7838c216b97e0e739ba6ef8984d18bfe3e3ad3ba00323f0e7",
+   "source": "Yahoo",
+   "published": "2026-11-27T11:04:55+00:00",
+   "tickers": [
+    "LLY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -914,6 +947,8 @@
    "published": "2026-11-27T11:04:51+00:00",
    "tickers": [
     "AMGN",
+    "GILD",
+    "MRNA",
     "VRTX"
    ],
    "tag": "News",
@@ -969,6 +1004,22 @@
    ]
   },
   {
+   "id": "11d275190f51",
+   "headline": "Invesco S&P 500 Equal Weight (RSP) Buys $2.7 Million More Moderna on Nov. 25",
+   "summary": "The fund added $817.9 million across all 503 positions, led by a $2.7 million purchase of Moderna.",
+   "url": "https://finnhub.io/api/news?id=ea02e07757e0368b8d91ec8d23e925c8a915343a9d8ad94cd780c79e89a630f7",
+   "source": "Yahoo",
+   "published": "2026-11-27T11:03:41+00:00",
+   "tickers": [
+    "IDXX",
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "ff49e406f551",
    "headline": "ETFs Are Net Sellers of HCA Healthcare (HCA) on Wednesday",
    "summary": "ETFs sold a net $25.9 million of HCA Healthcare on Wednesday, with 12 sellers against 24 buyers.",
@@ -999,6 +1050,21 @@
    ]
   },
   {
+   "id": "b2123ae2f60a",
+   "headline": "ETFs Bought $58.9 Million of Gilead Sciences (GILD) on Wednesday",
+   "summary": "Forty-one ETFs bought Gilead shares while 16 sold, for a net inflow of $58.9 million.",
+   "url": "https://finnhub.io/api/news?id=36ba94dd5840f5311aa4edc7e2c38c0f0759154d6717678f550516f2c456a5eb",
+   "source": "Yahoo",
+   "published": "2026-11-27T11:01:49+00:00",
+   "tickers": [
+    "GILD"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "5cba326f41e4",
    "headline": "45 ETFs Add to Amgen (AMGN) Holdings on Nov. 25",
    "summary": "ETFs bought $74.0 million of Amgen stock on a net basis.",
@@ -1007,6 +1073,51 @@
    "published": "2026-11-27T11:01:36+00:00",
    "tickers": [
     "AMGN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "52b02b99aa98",
+   "headline": "Health Care Beat Tech This Fall. 2000 Or 2008?",
+   "summary": "Today's big story: Chip Stocks Jumped 15% In A Day. Now What.",
+   "url": "https://finnhub.io/api/news?id=9096e6b269d5a384e12b1487cef2f9d11cd284b8f01301ae0416ccd405ad4ef1",
+   "source": "Yahoo",
+   "published": "2026-11-27T11:00:13+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "af9d0b0cbfaf",
+   "headline": "Nvidia Lost $1.7 Trillion This Fall. Who Won?",
+   "summary": "Today's big story: Chip Stocks Jumped 15% In A Day. Now What.",
+   "url": "https://finnhub.io/api/news?id=5eed2dfd6373ac2f031ef00f11965b33674ebd1baa6dbb3e804a38420220a61d",
+   "source": "Yahoo",
+   "published": "2026-11-27T11:00:13+00:00",
+   "tickers": [
+    "MRNA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "7a4840e6219b",
+   "headline": "Hetero starts lenacapavir rollout for HIV prevention in Africa",
+   "summary": "Hetero plans to release the generic oral initiation tablets by January 2027 to provide the full regimen alongside the injection.",
+   "url": "https://finnhub.io/api/news?id=d200fb8835c49c689c2404d9d72d1968f6eb995aadad2f1b0f8ec2823185efe5",
+   "source": "Yahoo",
+   "published": "2026-11-27T10:46:05+00:00",
+   "tickers": [
+    "GILD"
    ],
    "tag": "News",
    "sectors": [
@@ -38890,310 +39001,6 @@
    "tag": "Analyst",
    "sectors": [
     "medtech"
-   ]
-  },
-  {
-   "id": "508948819055",
-   "headline": "Natera Short Interest Rises As Bets Remain Near September Peak",
-   "summary": "Natera Inc. (NASDAQ:NTRA) short sellers added to their positions as of the latest settlement date.Short interest rose 3.77% to 6.07 million shares as of the Oct. 30 settlement date, from 5.85 million at the Oct. 15",
-   "url": "https://finnhub.io/api/news?id=a22def5d2727de22315c44832b1c8fb2bd25a486c0a37068ddf5feafc1442b43",
-   "source": "Benzinga",
-   "published": "2026-11-17T13:00:13+00:00",
-   "tickers": [
-    "ABBV",
-    "AMGN",
-    "GILD",
-    "NTRA",
-    "VRTX"
-   ],
-   "tag": "Legal",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "6afab2e26c39",
-   "headline": "Here is What to Know Beyond Why Johnson & Johnson (JNJ) is a Trending Stock",
-   "summary": "Johnson & Johnson (JNJ) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
-   "url": "https://finnhub.io/api/news?id=76cfd3de3a42ccf092002a337013e5a9460f3df1c81cc7c7d7cda4947d1e0177",
-   "source": "Yahoo",
-   "published": "2026-11-17T13:00:06+00:00",
-   "tickers": [
-    "JNJ"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "9a76b1064503",
-   "headline": "Here is What to Know Beyond Why Bristol Myers Squibb Company (BMY) is a Trending Stock",
-   "summary": "Recently, Zacks.com users have been paying close attention to Bristol Myers (BMY). This makes it worthwhile to examine what the stock has in store.",
-   "url": "https://finnhub.io/api/news?id=e75280d77eb20215f3c12ec80bc603f7deb0cdc9c3f6febb10217cb66621f6aa",
-   "source": "Yahoo",
-   "published": "2026-11-17T13:00:04+00:00",
-   "tickers": [
-    "BMY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "3381fb843545",
-   "headline": "Here is What to Know Beyond Why AbbVie Inc. (ABBV) is a Trending Stock",
-   "summary": "AbbVie (ABBV) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
-   "url": "https://finnhub.io/api/news?id=45231fd99e4352c94e94bc7be1ace7ea947c4414c2f4bf9871b879963f4b0355",
-   "source": "Yahoo",
-   "published": "2026-11-17T13:00:03+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "dc7471cd4244",
-   "headline": "Investors Heavily Search Intuitive Surgical, Inc. (ISRG): Here is What You Need to Know",
-   "summary": "Intuitive Surgical (ISRG) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
-   "url": "https://finnhub.io/api/news?id=6b7634bb98ddca043077f1c9456876bbf9b3d8b36869f63f9e993baf2f4d9ef7",
-   "source": "Yahoo",
-   "published": "2026-11-17T13:00:03+00:00",
-   "tickers": [
-    "ISRG"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "495fcf9e872b",
-   "headline": "CRISPR Therapeutics AG (CRSP) is Attracting Investor Attention: Here is What You Should Know",
-   "summary": "Recently, Zacks.com users have been paying close attention to CRISPR Therapeutics (CRSP). This makes it worthwhile to examine what the stock has in store.",
-   "url": "https://finnhub.io/api/news?id=b01d3cc8535a3ec1d5695c47200ee6eb6c562205362e00122fe072e37b95915d",
-   "source": "Yahoo",
-   "published": "2026-11-17T13:00:02+00:00",
-   "tickers": [
-    "CRSP"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "03e373428019",
-   "headline": "Diabetes Leadership Council and Insulet Corporation Announce Launch of Multiyear Effort to Protect Access to Healthcare for People with Diabetes",
-   "summary": "Through its Patient Safety Net Protection Collaborative, DLC calls for organizations to protect the patient safety net for diabetes patients WASHINGTON, Nov. 17, 2026 /PRNewswire/ -- The Diabetes Leadership Council (DLC) and Insulet\u2026",
-   "url": "https://www.prnewswire.com/news-releases/diabetes-leadership-council-and-insulet-corporation-announce-launch-of-multiyear-effort-to-protect-access-to-healthcare-for-people-with-diabetes-302941207.html",
-   "source": "PR Newswire",
-   "published": "2026-11-17T13:00:00+00:00",
-   "tickers": [
-    "PODD"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "fff3d61cf220",
-   "headline": "Cradle's Antibody Discovery Platform for Autoimmune Diseases Supports Scientific Mission of argenx",
-   "summary": "Builds on successful results from initial discovery programs as argenx broadens use of Cradle's platform to more scientists and discovery programs AMSTERDAM, Nov. 17, 2026 /PRNewswire/ -- Cradle, today announced that argenx is expanding\u2026",
-   "url": "https://www.prnewswire.com/news-releases/cradles-antibody-discovery-platform-for-autoimmune-diseases-supports-scientific-mission-of-argenx-302941758.html",
-   "source": "PR Newswire",
-   "published": "2026-11-17T13:00:00+00:00",
-   "tickers": [
-    "ARGX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "18be0b01689d",
-   "headline": "Geneoscopy Resolves Patent and False Advertising Litigation with Exact Sciences Following a Series of Victories at the Patent Trial and Appeal Board",
-   "summary": "All pending Delaware litigation dismissed with no admission of liability or wrongdoing ST. LOUIS, Nov. 17, 2026 /PRNewswire/ -- Geneoscopy, Inc., a healthcare diagnostics company advancing the next generation of tools for gastrointestinal\u2026",
-   "url": "https://www.prnewswire.com/news-releases/geneoscopy-resolves-patent-and-false-advertising-litigation-with-exact-sciences-following-a-series-of-victories-at-the-patent-trial-and-appeal-board-302940655.html",
-   "source": "PR Newswire",
-   "published": "2026-11-17T13:00:00+00:00",
-   "tickers": [
-    "EXAS"
-   ],
-   "tag": "Legal",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "3bd9165bd5ad",
-   "headline": "GE HealthCare\u2019s Critical Care Suite 3.0 brings first on-device AI for feeding tube detection to X-ray imaging in adult and pediatric care",
-   "summary": "CHICAGO, November 17, 2026--GE HealthCare today announced it has received 510(k) clearance from the United States Food and Drug Administration (FDA) for Critical Care Suite 3.0, an AI-enabled software designed to automatically detect\u2026",
-   "url": "https://finnhub.io/api/news?id=215afba9058eb7b421057369b8618a3f0de0d865462f9477bfd327b3da5f74d5",
-   "source": "Yahoo",
-   "published": "2026-11-17T13:00:00+00:00",
-   "tickers": [
-    "GEHC"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "93377bc6e54a",
-   "headline": "Trumid and Charles River Expand Fixed Income Integration with FVMP\u2122 Predictive Bond Pricing",
-   "summary": "Trumid, a financial technology company and leading fixed income electronic trading platform, today announced an expansion of its connectivity relationship with Charles River Development, a State Street company, providing shared clients\u2026",
-   "url": "https://finnhub.io/api/news?id=9320bdb25f24b5fefd982ec0529b5ee78bdf1e8ee919734be84ee70c5adf233c",
-   "source": "Yahoo",
-   "published": "2026-11-17T13:00:00+00:00",
-   "tickers": [
-    "CRL"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "0da9d8cade9e",
-   "headline": "Humana to Launch National Gold Card Program to Reduce Prior Authorization Requirements",
-   "summary": "LOUISVILLE, Ky., November 17, 2026--Humana Inc. (NYSE: HUM) today announced the launch of its national Gold Card program on December 1, a key milestone in the company\u2019s ongoing public commitment to reduce the need for prior authorization,\u2026",
-   "url": "https://finnhub.io/api/news?id=dd1bf4dccdfb04b71146b2d7d8f0020ac562c2066ee3620bf907b93fbe14691e",
-   "source": "Yahoo",
-   "published": "2026-11-17T13:00:00+00:00",
-   "tickers": [
-    "HUM"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "d8583f82c630",
-   "headline": "From Confusion to Clarity: Consumers See a Role for AI in Simplifying Healthcare, Elevance Health/Harris Poll Survey Finds",
-   "summary": "INDIANAPOLIS, November 17, 2026--Americans want healthcare to be easier to understand, more personalized and less frustrating, according to a national survey conducted by The Harris Poll and commissioned by Elevance Health. The survey\u2026",
-   "url": "https://finnhub.io/api/news?id=864d35f55b536eeeccc95a91443435a40fa374315a04610b3d7772f8cfd16116",
-   "source": "Yahoo",
-   "published": "2026-11-17T13:00:00+00:00",
-   "tickers": [
-    "ELV"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "502b8b31ac4d",
-   "headline": "Novo launches the new Novocare\u00ae: Free support program connects people with Wegovy\u00ae in addition to home delivery, everyday support, wellness partners and rewards",
-   "summary": "Novo Nordisk, the maker of Wegovy\u00ae (semaglutide) injection and tablets, today announced a reimagined consumer experience to help people get started and stay supported on Wegovy\u00ae. Novocare\u00ae brings together treatment and coverage\u2026",
-   "url": "https://finnhub.io/api/news?id=4c0b5b254eded7f854c780e6d6a100a17e7a6e0164fe52b584979225451603d6",
-   "source": "Yahoo",
-   "published": "2026-11-17T13:00:00+00:00",
-   "tickers": [
-    "NVO"
-   ],
-   "tag": "GLP-1",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "ee547f10cf48",
-   "headline": "Cradle's Antibody Discovery Platform for Autoimmune Diseases Supports Scientific Mission of argenx",
-   "summary": "Cradle, today announced that argenx is expanding use of Cradle's end-to-end AI-driven protein engineering platform to more scientists and antibody discovery programs following successful results from its initial work.",
-   "url": "https://finnhub.io/api/news?id=59de639d525fdac6ec5ab4ad1f3117cd8afd1661cdb3b590a18f2dafc863efa9",
-   "source": "Yahoo",
-   "published": "2026-11-17T13:00:00+00:00",
-   "tickers": [
-    "ARGX"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "f5c5825b1988",
-   "headline": "Want Rising Dividend Income? Invest in These 5 Dividend Growers Still Raising Payouts",
-   "summary": "A stock yielding under 1% can eventually out-earn a fat static payout, but only if the raises keep coming. Five companies from five sectors claim they can deliver, though one of them just raised its dividend faster than its earnings can\u2026",
-   "url": "https://finnhub.io/api/news?id=f2ec0c6ff9e9af6b75b85b7da14605358a0f99952c1d9f7baa88178eb07cdef8",
-   "source": "Yahoo",
-   "published": "2026-11-17T12:55:31+00:00",
-   "tickers": [
-    "UNH"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "f82f7cab3ae6",
-   "headline": "5 Huge Dividend Payers the IRS Leaves Alone Inside a Roth",
-   "summary": "Two investors can hold the exact same five blue chip dividend stocks and still walk away with very different paychecks. The difference comes down to one account choice, and over 20 years it snowballs into a six-figure surprise.",
-   "url": "https://finnhub.io/api/news?id=95e0c024ccb9c0a5cd08e69b23b3d698a609e61e306565be3c53726e5032a18a",
-   "source": "Yahoo",
-   "published": "2026-11-17T12:54:50+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "d0a78cf6cbc3",
-   "headline": "Goldman Sachs Raises Its Merck Target to $165. Is It Still Too Low?",
-   "summary": "Key TakeawaysGoldman Sachs raised its Merck price target to $165 from $155 on Oct. 30 and kept its Buy rating.",
-   "url": "https://finnhub.io/api/news?id=d995fb6e747b7eeb9a7f0e6f2c0dff743f45358a98c7134d33175c34f166663a",
-   "source": "Yahoo",
-   "published": "2026-11-17T12:54:40+00:00",
-   "tickers": [
-    "MRK"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "8d6a62b37e67",
-   "headline": "AbbVie Is Up 27% in a Year. Barclays Sees Another 14%",
-   "summary": "Key TakeawaysBarclays raised its AbbVie price target to $335 from $325 on Nov. 16 and kept its Overweight rating, after a run that has the stock up 27% in a year.",
-   "url": "https://finnhub.io/api/news?id=41da6f7adeb1ab0cfa6522504de0974fecff8912df494c4bc11950f3b4b21aea",
-   "source": "Yahoo",
-   "published": "2026-11-17T12:53:17+00:00",
-   "tickers": [
-    "ABBV"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "f1f20b39d2c1",
-   "headline": "Acadia Pharmaceuticals Inc. (ACAD) Presents at UBS Global Biopharma Conference 2026 Transcript",
-   "summary": "Acadia Pharmaceuticals Inc. (ACAD) UBS Global Biopharma Conference 2026 November 17, 2026 7:40 AM ESTCompany ParticipantsCatherine Owen Adams - CEO &...",
-   "url": "https://finnhub.io/api/news?id=f413ccf00fb7b674855d5082eb5e808b0c904bdd736fa50c0cc19978cfac46b2",
-   "source": "SeekingAlpha",
-   "published": "2026-11-17T12:52:45+00:00",
-   "tickers": [
-    "ACAD"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
    ]
   }
  ]
