@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-27T12:02:32.889246+00:00",
+ "updated": "2026-11-27T12:17:19.200407+00:00",
  "quotes": {
   "ABBV": {
    "price": 294.48,
@@ -85,10 +85,6 @@
   "EXEL": {
    "price": 67.25,
    "change_pct": -0.3
-  },
-  "GDRX": {
-   "price": 2.38,
-   "change_pct": -20.67
   },
   "GEHC": {
    "price": 83.33,
@@ -870,6 +866,36 @@
  },
  "stories": [
   {
+   "id": "0d0ceef11fe4",
+   "headline": "iShares U.S. Medical Devices (IHI) Buys $18.6 Million More ABT on Nov. 25",
+   "summary": "The fund added $106.9 million across all 47 of its positions, led by an $18.6 million increase in Abbott Laboratories.",
+   "url": "https://finnhub.io/api/news?id=c055f99a2a3d179072beec891e1a95629f5b0f0a5d8c628fb294c6716b4887c9",
+   "source": "Yahoo",
+   "published": "2026-11-27T11:05:00+00:00",
+   "tickers": [
+    "MDT"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "ff49e406f551",
+   "headline": "ETFs Are Net Sellers of HCA Healthcare (HCA) on Wednesday",
+   "summary": "ETFs sold a net $25.9 million of HCA Healthcare on Wednesday, with 12 sellers against 24 buyers.",
+   "url": "https://finnhub.io/api/news?id=b79d11013cf3eea6e46eebdd1e9f72c81e237cf0c14e980fe264ddb7885839ad",
+   "source": "Yahoo",
+   "published": "2026-11-27T11:02:46+00:00",
+   "tickers": [
+    "HCA"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "a088a1f649c7",
    "headline": "Pregnancy is the \u2018perfect storm\u2019 for eating disorders, but doctors keep missing them",
    "summary": "Many women struggle with eating disorders before and after childbirth, but they often slip through the cracks of the U.S. health care system.",
@@ -932,6 +958,7 @@
    "published": "2026-11-27T06:00:00+00:00",
    "tickers": [
     "BSX",
+    "MOH",
     "PODD"
    ],
    "tag": "News",
@@ -39131,135 +39158,6 @@
    "tag": "News",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "656a08845f29",
-   "headline": "Seawolf Therapeutics and Sanofi agree $1.2bn drug deal",
-   "summary": "The alliance coincides with Seawolf emerging from stealth mode with $100m to advance its pipeline of DNA-based medicines.",
-   "url": "https://finnhub.io/api/news?id=935d9b099ec2304693262928e8c17154eb7ebb39812fca6d6676832dae1df67b",
-   "source": "Yahoo",
-   "published": "2026-11-17T12:15:54+00:00",
-   "tickers": [
-    "CRSP",
-    "LLY",
-    "SNY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "c560619cc4a0",
-   "headline": "Marrow extracts $120M series B to advance preclinical blood disease therapy",
-   "summary": "A new biotech targeting blood disorders, aptly called Marrow Therapeutics, has launched with $173 million in combined funding and a preclinical lead program aimed at sickle cell disease and beta thalassemia.",
-   "url": "https://www.fiercebiotech.com/biotech/marrow-kicks-173m-and-preclinical-blood-disease-therapy",
-   "source": "Fierce Biotech",
-   "published": "2026-11-17T12:15:23.429792+00:00",
-   "tickers": [],
-   "tag": "Financing",
-   "sectors": []
-  },
-  {
-   "id": "eb0bf545437a",
-   "headline": "Sellas marks 9-month survival benefit in late-stage leukemia vaccine study",
-   "summary": "Sellas Life Sciences\u2019 cancer vaccine for acute myeloid leukemia has passed a phase 3 test with a more than nine-month improvement in overall survival.",
-   "url": "https://www.fiercebiotech.com/biotech/sellas-marks-nine-month-survival-benefit-late-stage-leukemia-vaccine-study",
-   "source": "Fierce Biotech",
-   "published": "2026-11-17T12:15:23.428764+00:00",
-   "tickers": [],
-   "tag": "Clinical",
-   "sectors": []
-  },
-  {
-   "id": "db6964c1a398",
-   "headline": "CRISPR Therapeutics Eyes Late-Stage Trials as Key Data and CASGEVY Demand Build",
-   "summary": "CRISPR Therapeutics (NASDAQ:CRSP) is preparing to advance several experimental treatments toward late-stage trials, with executives pointing to upcoming data from its cardiovascular and cell therapy programs and growing demand for its\u2026",
-   "url": "https://finnhub.io/api/news?id=6abfd2cfb34aab3e23853bf0dea79907d2d5aef3330495cf70c892a0497506f0",
-   "source": "Yahoo",
-   "published": "2026-11-17T12:13:28+00:00",
-   "tickers": [
-    "CRSP"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "e1ab7c72e048",
-   "headline": "Regeneron Pharmaceuticals, Inc. (REGN) Presents at Jefferies Global Healthcare Conference 2026 Transcript",
-   "summary": "Regeneron Pharmaceuticals, Inc. (REGN) Jefferies Global Healthcare Conference 2026 November 17, 2026 9:00 AM ESTCompany ParticipantsRyan Crowe - Senior Vice...",
-   "url": "https://finnhub.io/api/news?id=17c7023a55ea0ae4175d094bcd738e2aa29a655b479269c9a5879322d9aae364",
-   "source": "SeekingAlpha",
-   "published": "2026-11-17T12:13:16+00:00",
-   "tickers": [
-    "REGN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "7931a5fd8701",
-   "headline": "Citigroup Maintains Buy on Arrowhead Pharmaceuticals, Lowers Price Target to $105",
-   "summary": "Citigroup analyst Eric Joseph maintains Arrowhead Pharmaceuticals (NASDAQ:ARWR) with a Buy and lowers the price target from $108 to $105.",
-   "url": "https://finnhub.io/api/news?id=a36b5a95ecfc38041f53713937d33d597b11ef684e41cf07c46506d027ae3b1e",
-   "source": "Benzinga",
-   "published": "2026-11-17T12:12:58+00:00",
-   "tickers": [
-    "ARWR"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "37b2ea2140c1",
-   "headline": "Align Technology, Inc. (ALGN) Presents at Jefferies Global Healthcare Conference 2026 Transcript",
-   "summary": "Align Technology, Inc. (ALGN) Jefferies Global Healthcare Conference 2026 November 17, 2026 3:30 AM ESTCompany ParticipantsJoseph Hogan - President, CEO...",
-   "url": "https://finnhub.io/api/news?id=d053e639beb6c0cf4f642279920af8693f5b1f71f2251bee35790d4b1ab1ad31",
-   "source": "SeekingAlpha",
-   "published": "2026-11-17T12:12:48+00:00",
-   "tickers": [
-    "ALGN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "8b48ecbd9df2",
-   "headline": "MDT Q2 Earnings Preview: Will Cardiovascular Performance Lift Results?",
-   "summary": "Medtronic's Q2 results may benefit from strong Cardiovascular performance, led by cardiac ablation momentum, while Neuroscience and Diabetes add growth.",
-   "url": "https://finnhub.io/api/news?id=819ac9151af332942a98ef19c129f1575063f1179ddd162fe06c8fed0280e2db",
-   "source": "Yahoo",
-   "published": "2026-11-17T12:03:00+00:00",
-   "tickers": [
-    "MDT"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "785afd63d445",
-   "headline": "Mammogen Launches Leadership Council to Unite Industry Experts and Survivors, Names Former Quest Diagnostics CMO Dr. Yuri Fesko as Founding Member",
-   "summary": "New council will help shape clinical adoption, strategic partnerships and patient access as Mammogen advances its genTRU-breast\u2122 diagnostic through prospective clinical validation NEWPORT BEACH, Calif., Nov. 17, 2026 (GLOBE NEWSWIRE) --\u2026",
-   "url": "https://finnhub.io/api/news?id=30cb490390fb1858227a4e1ce4f0d2e6684d18482ff89e0e1a3e4b91e5b30f33",
-   "source": "Yahoo",
-   "published": "2026-11-17T12:02:00+00:00",
-   "tickers": [
-    "DGX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
    ]
   }
  ]
