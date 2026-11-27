@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-27T18:32:16.038978+00:00",
+ "updated": "2026-11-27T18:47:18.047813+00:00",
  "quotes": {
   "ABBV": {
    "price": 291.92,
@@ -9,6 +9,10 @@
   "ABT": {
    "price": 108.1,
    "change_pct": 0.09
+  },
+  "ALGN": {
+   "price": 166,
+   "change_pct": 0.36
   },
   "ALNY": {
    "price": 162.73,
@@ -29,6 +33,10 @@
   "AZN": {
    "price": 183.72,
    "change_pct": -0.27
+  },
+  "BIIB": {
+   "price": 264.24,
+   "change_pct": 1.07
   },
   "BMRN": {
    "price": 67.96,
@@ -118,6 +126,10 @@
    "price": 15.01,
    "change_pct": 2.46
   },
+  "HUM": {
+   "price": 405.5,
+   "change_pct": -0.25
+  },
   "IDXX": {
    "price": 719.27,
    "change_pct": 1.38
@@ -125,6 +137,10 @@
   "ILMN": {
    "price": 205.78,
    "change_pct": 2.69
+  },
+  "INCY": {
+   "price": 122.66,
+   "change_pct": 0.25
   },
   "ISRG": {
    "price": 430.22,
@@ -202,10 +218,6 @@
    "price": 23.03,
    "change_pct": 0.09
   },
-  "TDOC": {
-   "price": 8.01,
-   "change_pct": 5.12
-  },
   "THC": {
    "price": 286.33,
    "change_pct": 2.02
@@ -213,6 +225,10 @@
   "TMO": {
    "price": 683.08,
    "change_pct": -0.36
+  },
+  "UHS": {
+   "price": 192.99,
+   "change_pct": 1.27
   },
   "UNH": {
    "price": 351.45,
@@ -865,6 +881,21 @@
    ]
   },
   {
+   "id": "92c701a32d88",
+   "headline": "Can Incyte Stock Fall 30% Again?",
+   "summary": "Today's big story: Anthropic Broke Its $83 IPO Price. What Did Facebook Do Next.",
+   "url": "https://finnhub.io/api/news?id=fa74f929856fdecf5adce19c3f90cd550bb2e992c52832741d6a61cb8e37dca2",
+   "source": "Yahoo",
+   "published": "2026-11-27T16:56:34+00:00",
+   "tickers": [
+    "INCY"
+   ],
+   "tag": "Financing",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "b3a6dfc0bd11",
    "headline": "Is it Apt to Hold Haemonetics Stock in Your Portfolio for Now?",
    "summary": "HAE's expanding MedSurg business and strong NexSys PCS adoption fuel growth prospects, but competitive pressures and currency headwinds remain concerns.",
@@ -889,11 +920,43 @@
    "tickers": [
     "CVS",
     "HCA",
-    "THC"
+    "HUM",
+    "THC",
+    "UNH"
    ],
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "90358eaaabfe",
+   "headline": "Mentari Therapeutics (MTRI) Stock Is Up 11.2% Today Without Company News",
+   "summary": "Mentari Therapeutics shares rose 11.2% on Friday, Nov. 27, without company-specific news, as the S&P 500 gained 1.2%.",
+   "url": "https://finnhub.io/api/news?id=68192c1fdf7ee7014dda7d9150e4273e124f287c12ac5b065b27b1030252964e",
+   "source": "Yahoo",
+   "published": "2026-11-27T16:45:26+00:00",
+   "tickers": [
+    "ZTS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "d333789f48df",
+   "headline": "3 Reasons Why Growth Investors Shouldn't Overlook Intuitive Surgical (ISRG)",
+   "summary": "Intuitive Surgical (ISRG) is well positioned to outperform the market, as it exhibits above-average growth in financials.",
+   "url": "https://finnhub.io/api/news?id=519c6737b4a875ee25c41c08728e51a42d086e8e7c65971b6555fc46ccb180a4",
+   "source": "Yahoo",
+   "published": "2026-11-27T16:45:03+00:00",
+   "tickers": [
+    "ISRG"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -905,6 +968,7 @@
    "published": "2026-11-27T16:08:00+00:00",
    "tickers": [
     "ABBV",
+    "INCY",
     "JNJ"
    ],
    "tag": "Clinical",
@@ -920,7 +984,8 @@
    "source": "Yahoo",
    "published": "2026-11-27T16:07:26+00:00",
    "tickers": [
-    "CI"
+    "CI",
+    "UNH"
    ],
    "tag": "M&A",
    "sectors": [
@@ -950,9 +1015,26 @@
    "source": "Yahoo",
    "published": "2026-11-27T16:04:00+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "PFE"
    ],
    "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "5bcf81de512a",
+   "headline": "The Anti-obesity Medication Market 2026-2033 | GLP-1 Innovation Drives 31.7% CAGR, Unlocking a $176.4 Billion Market by 2033 | Features Profiles of Novo Nordisk, Lilly USA, Amgen, Pfizer, Viking Therapeutics and More",
+   "summary": "Dublin, Nov. 27, 2026 (GLOBE NEWSWIRE) -- \"Anti-obesity Medication Market Size, Share & Trends Analysis Report 2026-2033\" has been added to ResearchAndMarkets.com's offering. The global anti-obesity medication market was valued at USD\u2026",
+   "url": "https://finnhub.io/api/news?id=37a8f9b33446d2e1f498530a3e9184372d6ceadc36b609de18381139ce32dae9",
+   "source": "Yahoo",
+   "published": "2026-11-27T16:02:00+00:00",
+   "tickers": [
+    "AMGN",
+    "PFE"
+   ],
+   "tag": "GLP-1",
    "sectors": [
     "pharma"
    ]
@@ -997,6 +1079,38 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "a37d494eb709",
+   "headline": "BTSG Stock Climbs 71.6% Year to Date: What's Driving the Rally?",
+   "summary": "BrightSpring's shares surge 71.6% year to date on robust pharmacy and provider growth, rising profitability and an upbeat 2026 outlook.",
+   "url": "https://finnhub.io/api/news?id=442dfd0fbf5a4acda7cd7c7eed1291b25cfd5d71b6885283a9b3e9da070911aa",
+   "source": "Yahoo",
+   "published": "2026-11-27T15:48:00+00:00",
+   "tickers": [
+    "GKOS",
+    "ISRG"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "798b57a1b7e2",
+   "headline": "Philips Advances AI Imaging Workflows With New Cloud-Based Solution",
+   "summary": "PHG launches a cloud-based platform combining AI tools and advanced visualization, potentially strengthening its position in the medical imaging market.",
+   "url": "https://finnhub.io/api/news?id=b397e319740ee50be7bb721e0c6de01cb63b518b8a0990c84251d306404f26f4",
+   "source": "Yahoo",
+   "published": "2026-11-27T15:47:00+00:00",
+   "tickers": [
+    "GKOS",
+    "ISRG"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "medtech"
+   ]
   },
   {
    "id": "537ced5437f3",
@@ -1045,6 +1159,67 @@
    ]
   },
   {
+   "id": "fa4959abbd50",
+   "headline": "GE HealthCare (GEHC) Up 9% Since Last Earnings Report: Can It Continue?",
+   "summary": "GE HealthCare (GEHC) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
+   "url": "https://finnhub.io/api/news?id=dd05a9201ed0aea2eaffe4205f66a07a63860174188a1322b15598e228f9345e",
+   "source": "Yahoo",
+   "published": "2026-11-27T15:30:26+00:00",
+   "tickers": [
+    "ABT",
+    "GEHC"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "89cfee9490e8",
+   "headline": "Why Is Glaukos (GKOS) Up 7.2% Since Last Earnings Report?",
+   "summary": "Glaukos (GKOS) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
+   "url": "https://finnhub.io/api/news?id=d51f6ec53c7ecf141c8ecaa2931739a583fb5247fbed54326b8413289c615c2a",
+   "source": "Yahoo",
+   "published": "2026-11-27T15:30:26+00:00",
+   "tickers": [
+    "GKOS"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "e9e92047e714",
+   "headline": "Biogen (BIIB) Up 4.7% Since Last Earnings Report: Can It Continue?",
+   "summary": "Biogen (BIIB) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
+   "url": "https://finnhub.io/api/news?id=c1dcbbb46fce452730a01f5de13f1e42774df82516393129a9f08d9e616c86a6",
+   "source": "Yahoo",
+   "published": "2026-11-27T15:30:21+00:00",
+   "tickers": [
+    "BIIB"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "c02edcf9c018",
+   "headline": "Why Is Align Technology (ALGN) Up 7.6% Since Last Earnings Report?",
+   "summary": "Align Technology (ALGN) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
+   "url": "https://finnhub.io/api/news?id=d5bcf758723f228a6b427cabd54d42ab003c1f6b8fbc152a2f6b48545804a562",
+   "source": "Yahoo",
+   "published": "2026-11-27T15:30:21+00:00",
+   "tickers": [
+    "ALGN"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "931ac5ad14d5",
    "headline": "Why Is Boston Scientific (BSX) Up 5.7% Since Last Earnings Report?",
    "summary": "Boston Scientific (BSX) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
@@ -1069,6 +1244,21 @@
    "tickers": [
     "HCA",
     "LH"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
+   "id": "ae4dd227a51b",
+   "headline": "Community Health Systems (CYH) Down 24.9% Since Last Earnings Report: Can It Rebound?",
+   "summary": "Community Health Systems (CYH) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
+   "url": "https://finnhub.io/api/news?id=b1a6f88dee43a1788f80e4b1f968c7b241fd817563ce9b64d290771579894e75",
+   "source": "Yahoo",
+   "published": "2026-11-27T15:30:09+00:00",
+   "tickers": [
+    "UHS"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -37788,55 +37978,6 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "5972d72477d9",
-   "headline": "GSK scores FDA approval for Nelkarmi, its 2nd lung cancer drug from Nuvalent deal",
-   "summary": "On a hot streak, GSK has won a third high-profile FDA approval in recent weeks, this time for the second lung cancer drug from the British pharma\u2019s $10.6 billion acquisition of Nuvalent earlier this year.",
-   "url": "https://www.fiercepharma.com/pharma/gsk-scores-fda-approval-nelkarmi-2nd-lung-cancer-drug-nuvalent-deal",
-   "source": "Fierce Pharma",
-   "published": "2026-11-17T18:45:23.723132+00:00",
-   "tickers": [
-    "GSK",
-    "NUVL"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "biotech",
-    "pharma"
-   ]
-  },
-  {
-   "id": "e683510623d1",
-   "headline": "UnitedHealth Stocks Fall 4.62% as CMS Proposes Wider Medicare Advantage Audits",
-   "summary": "The CRUSH rule would extrapolate audit findings from payment year 2018 and recover about $9 billion a year in overpayments.",
-   "url": "https://finnhub.io/api/news?id=05b7fc343d4957ed28aeae92c2c4236158d10335d0b928bde42c85a812973bf1",
-   "source": "Yahoo",
-   "published": "2026-11-17T18:37:58+00:00",
-   "tickers": [
-    "CVS",
-    "HUM",
-    "UNH"
-   ],
-   "tag": "Policy",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "efb252c0b97f",
-   "headline": "Humana Stocks Fall 4.24% as CMS Targets $9 Billion Yearly in Overpayments",
-   "summary": "The proposed CRUSH rule would extrapolate Medicare Advantage audit findings back to payment year 2018, with comments due January 19.",
-   "url": "https://finnhub.io/api/news?id=b860b8b71bb105f46fb757e9c6f5189ec62702ddf640d157ad534d78a04c1372",
-   "source": "Yahoo",
-   "published": "2026-11-17T18:36:28+00:00",
-   "tickers": [
-    "HUM"
-   ],
-   "tag": "Policy",
-   "sectors": [
-    "payers"
    ]
   }
  ]
