@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-27T01:02:25.754302+00:00",
+ "updated": "2026-11-27T01:17:17.905605+00:00",
  "quotes": {
   "A": {
    "price": 178.44,
@@ -189,6 +189,10 @@
   "NTRA": {
    "price": 301.33,
    "change_pct": 0.84
+  },
+  "NVO": {
+   "price": 40.97,
+   "change_pct": 1.64
   },
   "OPCH": {
    "price": 31.64,
@@ -1237,7 +1241,8 @@
    "source": "Yahoo",
    "published": "2026-11-26T16:43:04+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "News",
    "sectors": [
@@ -1252,7 +1257,8 @@
    "source": "Yahoo",
    "published": "2026-11-26T16:40:02+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -1342,7 +1348,8 @@
    "source": "Yahoo",
    "published": "2026-11-26T16:11:00+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -1570,7 +1577,8 @@
    "source": "Yahoo",
    "published": "2026-11-26T15:10:36+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "FDA",
    "sectors": [
@@ -2481,7 +2489,8 @@
    "source": "Yahoo",
    "published": "2026-11-26T10:55:00+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "Analyst",
    "sectors": [
@@ -40552,36 +40561,6 @@
    "tag": "Analyst",
    "sectors": [
     "healthai"
-   ]
-  },
-  {
-   "id": "4cbc9bc85fc2",
-   "headline": "Pfizer (PFE) Re Enters Obesity Drugs With Metsera Acquisition",
-   "summary": "Pfizer (NYSE:PFE) has closed its acquisition of Metsera, marking a re-entry into the obesity drug market focused on injectables. The deal gives Pfizer control of Metsera's portfolio of long-acting obesity drug candidates targeting chronic\u2026",
-   "url": "https://finnhub.io/api/news?id=e0b1c9534474ca4ec874167933887d0468a8f903463c7a4f0020a6527e2d1140",
-   "source": "Yahoo",
-   "published": "2026-11-17T01:07:25+00:00",
-   "tickers": [
-    "PFE"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "2e03705a0047",
-   "headline": "Gilead Sciences (GILD) Grants Royalty Free Ebola Drug Licenses For Lower Income Countries",
-   "summary": "Gilead Sciences (NasdaqGS:GILD) announced royalty-free licensing deals for its investigational Ebola treatment obeldesivir in low and lower-middle-income countries. The agreements aim to widen future access to obeldesivir through local\u2026",
-   "url": "https://finnhub.io/api/news?id=c6a31172ae827b30e62b0b985c2a67acfb4e8bec98508c265ffe2443e1e91c25",
-   "source": "Yahoo",
-   "published": "2026-11-17T01:06:43+00:00",
-   "tickers": [
-    "GILD"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
