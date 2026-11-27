@@ -1,10 +1,14 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-27T14:02:32.281540+00:00",
+ "updated": "2026-11-27T14:17:20.498338+00:00",
  "quotes": {
   "ABBV": {
    "price": 294.48,
    "change_pct": -1.93
+  },
+  "ABSI": {
+   "price": 9,
+   "change_pct": -1.85
   },
   "ABT": {
    "price": 108,
@@ -73,6 +77,10 @@
   "DGX": {
    "price": 265.64,
    "change_pct": 0.01
+  },
+  "DHR": {
+   "price": 227.35,
+   "change_pct": -0.76
   },
   "DXCM": {
    "price": 84.84,
@@ -210,10 +218,6 @@
    "price": 42.2,
    "change_pct": -0.33
   },
-  "SNY": {
-   "price": 54.39,
-   "change_pct": 4.8
-  },
   "SYK": {
    "price": 332.9,
    "change_pct": 2.72
@@ -241,10 +245,6 @@
   "VRTX": {
    "price": 564.12,
    "change_pct": 0.04
-  },
-  "WAT": {
-   "price": 454.93,
-   "change_pct": -1.57
   },
   "ZTS": {
    "price": 82.6,
@@ -881,6 +881,21 @@
    ]
   },
   {
+   "id": "e98bab3e3ec0",
+   "headline": "Dexcom Or Abbott: Which Sensor Stock Is Better?",
+   "summary": "Today's big story: How Much Of Big Tech's AI Spending Reaches Nvidia.",
+   "url": "https://finnhub.io/api/news?id=b72753c2becc5f592e9eb969f93ae3d8cc2f553451bc4a13909a474f63550f2a",
+   "source": "Yahoo",
+   "published": "2026-11-27T11:54:57+00:00",
+   "tickers": [
+    "DXCM"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "8c8f969d2299",
    "headline": "Zoetis Inc (NYSE:ZTS): Dividend Quality for Income Investors",
    "summary": "Zoetis fits a quality dividend screen with strong profitability and payout coverage, though leverage and slowing growth warrant monitoring.",
@@ -1149,6 +1164,21 @@
    ]
   },
   {
+   "id": "44ae81010ac3",
+   "headline": "Medicare Expands Drug Price Negotiations to Part B, Sets New Prices for 2028",
+   "summary": "Medicare projects $9.2 billion in net savings by slashing prices 45% on 13 high-cost Part B and D drugs starting January 1, 2028.",
+   "url": "https://finnhub.io/api/news?id=b211a4f6d5dbed2436244f975b404d6b8c405d9e7751d4fb9ac86d105b95e522",
+   "source": "Benzinga",
+   "published": "2026-11-27T09:55:15+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "Policy",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "a088a1f649c7",
    "headline": "Pregnancy is the \u2018perfect storm\u2019 for eating disorders, but doctors keep missing them",
    "summary": "Many women struggle with eating disorders before and after childbirth, but they often slip through the cracks of the U.S. health care system.",
@@ -1169,6 +1199,21 @@
    "tickers": [],
    "tag": "News",
    "sectors": []
+  },
+  {
+   "id": "accaabd5508e",
+   "headline": "Cathie Wood Just Bought $7 Million of Twist Bioscience Across 2 ARK Funds",
+   "summary": "Key TakeawaysCathie Wood\u2019s ARK Invest bought 60,076 shares of Twist Bioscience (TWST:NASDAQ) on Tuesday in its ARKK and ARKG funds, about $6. 5 million at Tuesday\u2019s close.",
+   "url": "https://finnhub.io/api/news?id=12a346a4afae12a6e66f325a01c77939cce1e7b67c13670245238a0d93486a28",
+   "source": "Yahoo",
+   "published": "2026-11-27T08:14:07+00:00",
+   "tickers": [
+    "DHR"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
   },
   {
    "id": "4729a24ded46",
@@ -2216,6 +2261,21 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "e42baf3d03f5",
+   "headline": "Cathie Wood Says AI Could Cut Drug Costs by $1.8 Billion. These 5 ARK-Backed Biotech Stocks Could Benefit",
+   "summary": "Cathie Wood sees AI cutting drug development costs by $1.8 billion. These five ARK-backed biotech stocks could benefit.",
+   "url": "https://finnhub.io/api/news?id=eefce86af6f2e48a5e5b0faa6d6347c018a5b074cacf17bceaef2788a5403f7b",
+   "source": "Benzinga",
+   "published": "2026-11-26T14:45:07+00:00",
+   "tickers": [
+    "ABSI"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "healthai"
    ]
   },
   {
@@ -38292,218 +38352,6 @@
    "tag": "M&A",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "50110fab7bda",
-   "headline": "Forget SCHD: 4 Dividend Stocks Retirees Should Own Instead",
-   "summary": "SCHD protects retirees from any single dividend cut, but its income has barely moved while living costs climb. Four blue-chip payers raise checks faster, and each one carries a risk that could undercut the pitch.",
-   "url": "https://finnhub.io/api/news?id=ef861551bd5105a1bd2927cf849864516304f8a31d7a51ed62d49cae14cc34c0",
-   "source": "Yahoo",
-   "published": "2026-11-17T14:15:50+00:00",
-   "tickers": [
-    "ABBV",
-    "JNJ"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "23e421aae1ec",
-   "headline": "USV chided by FDA over contamination risks at India site",
-   "summary": "Indian drug manufacturer USV was hit with a warning letter from the FDA that outlined three major violations. The observations largely centered on a lack of procedures that could lead to microbial and particulate contamination.",
-   "url": "https://www.fiercepharma.com/manufacturing/usv-private-hit-fda-warning-letter-potential-contamination-issues",
-   "source": "Fierce Pharma",
-   "published": "2026-11-17T14:15:23.233328+00:00",
-   "tickers": [],
-   "tag": "FDA",
-   "sectors": []
-  },
-  {
-   "id": "3a2968f09290",
-   "headline": "Can Regeneron Stock Hit $1,400?",
-   "summary": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
-   "url": "https://finnhub.io/api/news?id=47caeb09c3274548716f38b0f3b71837d3a307862c4d2e0438f7c2089bbf240f",
-   "source": "Yahoo",
-   "published": "2026-11-17T14:13:44+00:00",
-   "tickers": [
-    "ABBV",
-    "AMGN",
-    "BMY",
-    "MRK",
-    "PFE",
-    "REGN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "4da25c12f652",
-   "headline": "Does Molina Healthcare Stock's Run Make Any Sense?",
-   "summary": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
-   "url": "https://finnhub.io/api/news?id=28c4e7fed8698853b1949909f39fb237de087e9cd38f5d5fb7974a502af84c49",
-   "source": "Yahoo",
-   "published": "2026-11-17T14:13:41+00:00",
-   "tickers": [
-    "CNC",
-    "CVS",
-    "ELV",
-    "HUM",
-    "MOH",
-    "UNH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "3d99a9132e37",
-   "headline": "Should You Buy Pfizer Stock For Its Cash?",
-   "summary": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
-   "url": "https://finnhub.io/api/news?id=c9257373b28e5ffad36e2b2c12aa9642f465206b5d161e3749c32e731fda467a",
-   "source": "Yahoo",
-   "published": "2026-11-17T14:13:40+00:00",
-   "tickers": [
-    "ABBV",
-    "BMY",
-    "JNJ",
-    "LLY",
-    "MRK",
-    "PFE"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "fda4ac911296",
-   "headline": "Can Globus Medical Stock Rally 30% After This Dip?",
-   "summary": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
-   "url": "https://finnhub.io/api/news?id=60d507a4820e9e61d3f541a6842efd1ae2b85efc7ed1b63bdda0964a593811ad",
-   "source": "Yahoo",
-   "published": "2026-11-17T14:13:40+00:00",
-   "tickers": [
-    "GMED",
-    "JNJ",
-    "MDT",
-    "SYK",
-    "ZBH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "bde0731afde8",
-   "headline": "Illumina Sees Strong Clinical Demand, but Research Recovery Remains in Question",
-   "summary": "Illumina (NASDAQ:ILMN) is seeing strong demand for its sequencing instruments from clinical customers, while remaining cautious about a recovery in research spending, Chief Financial Officer Ankur Dhingra said at a company news event.\u2026",
-   "url": "https://finnhub.io/api/news?id=9b0a032cea2ecd4cb1386c36ede74b856a28c29b54ddc7e2d41da5b4e1f167a3",
-   "source": "Yahoo",
-   "published": "2026-11-17T14:13:10+00:00",
-   "tickers": [
-    "ILMN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "2f20098c399f",
-   "headline": "INCY Wins European Commission Nod For Skin Disease Drug",
-   "summary": "Incyte secures EC approval for Povofortay, the first once-daily oral HS treatment in the EU, opening a new growth opportunity backed by strong clinical results.",
-   "url": "https://finnhub.io/api/news?id=c447097e147b8c9b2ee06910852ca8c01daacb071861e042ea3812f28d5e5b4b",
-   "source": "Yahoo",
-   "published": "2026-11-17T14:13:00+00:00",
-   "tickers": [
-    "INCY",
-    "NVS"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "bf8258433671",
-   "headline": "Here's where Hennessy Funds' Neil Hennessy sees quality apart from the AI trade",
-   "summary": "Neil Hennessy, chief market strategist at Hennessy Funds, joins 'The Exchange' to discuss his favorite stock picks, the state of the AI trade, and more.",
-   "url": "https://finnhub.io/api/news?id=df5fddd9b880a08daba9db5232fffd55f799ffebdc218ab3b29fa0db6ad388af",
-   "source": "CNBC",
-   "published": "2026-11-17T14:11:08+00:00",
-   "tickers": [
-    "HSIC"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "pharmacy"
-   ]
-  },
-  {
-   "id": "d2af26674ff1",
-   "headline": "RHHBY Secures FDA Approval for Breast Cancer Treatment",
-   "summary": "Roche wins FDA approval for Wilserdly plus everolimus, offering an all-oral treatment option for advanced breast cancer and strengthening its oncology portfolio.",
-   "url": "https://finnhub.io/api/news?id=20cf17644c1f582c59d5cd9f47b0313994112ae1d10f57561395ad72a7becbe8",
-   "source": "Yahoo",
-   "published": "2026-11-17T14:08:00+00:00",
-   "tickers": [
-    "NVS"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "c2bfc38f8767",
-   "headline": "Why Is Omeros Stock Trading Lower Tuesday?",
-   "summary": "Omeros shares slide after mixed Q3 results\u2014Yartemlea sales jump 26% sequentially, but revenue misses and EU setbacks weigh.",
-   "url": "https://finnhub.io/api/news?id=548ebab2b9101c94829aa5af514f38c52f9715ce47ed613eb28ad96bbcf0c478",
-   "source": "Benzinga",
-   "published": "2026-11-17T14:05:18+00:00",
-   "tickers": [
-    "NVO"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "1ff7b363d794",
-   "headline": "Acadia Pharmaceuticals Presents Additional Phase 2 RADIANT Study Results Evaluating Remlifanserin for the Treatment of Alzheimer's Disease Psychosis at the 2026 Clinical Trials on Alzheimer\u2019s Disease (CTAD) Conference",
-   "summary": "SAN DIEGO, November 17, 2026--Acadia Pharmaceuticals Inc. (Nasdaq: ACAD) today presented additional data from the Phase 2 RADIANT trial evaluating remlifanserin for the treatment of hallucinations and delusions associated with Alzheimer\u2019s\u2026",
-   "url": "https://finnhub.io/api/news?id=54ec36c3c17ecde3ad104fc7c4535f9ffb8a18da122bc14258d815d2d33637e5",
-   "source": "Yahoo",
-   "published": "2026-11-17T14:04:00+00:00",
-   "tickers": [
-    "ACAD"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "d3459826cef4",
-   "headline": "United Therapeutics Corporation (UTHR) Presents at Jefferies Global Healthcare Conference 2026 Transcript",
-   "summary": "United Therapeutics Corporation (UTHR) Jefferies Global Healthcare Conference 2026 November 17, 2026 9:00 AM ESTCompany ParticipantsJames Edgemond - CFO...",
-   "url": "https://finnhub.io/api/news?id=607a453f5605c27b9863af21424b6f46670400eba85adb25c2747a7ca6bb095b",
-   "source": "SeekingAlpha",
-   "published": "2026-11-17T14:03:20+00:00",
-   "tickers": [
-    "UTHR"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
    ]
   }
  ]
