@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-27T11:17:22.729767+00:00",
+ "updated": "2026-11-27T11:32:19.505405+00:00",
  "quotes": {
   "ABBV": {
    "price": 294.48,
@@ -209,6 +209,10 @@
   "PFE": {
    "price": 28.46,
    "change_pct": 0
+  },
+  "PODD": {
+   "price": 142.68,
+   "change_pct": 1.46
   },
   "REGN": {
    "price": 981.87,
@@ -925,6 +929,22 @@
     "ISRG",
     "MDT",
     "SYK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "914b3069bd0e",
+   "headline": "The S&P 500's 2025 Thanksgiving Leftovers One Year Later",
+   "summary": "The market cap-weighted version of our Thanksgiving Leftover stock index performed more poorly than the equal-weighted version.",
+   "url": "https://finnhub.io/api/news?id=7581fc9f80237733f03bf24d0d278bd3cc9b750ce58d9a521c23359ec71f61a9",
+   "source": "SeekingAlpha",
+   "published": "2026-11-27T06:00:00+00:00",
+   "tickers": [
+    "BSX",
+    "PODD"
    ],
    "tag": "News",
    "sectors": [
@@ -39440,100 +39460,6 @@
    "sectors": [
     "payers"
    ]
-  },
-  {
-   "id": "8a1f9dc79be4",
-   "headline": "Hims & Hers Stock Fell 32% As Profit Slipped",
-   "summary": "For questions about this article or underlying research, email help@trefis.com.",
-   "url": "https://finnhub.io/api/news?id=fd67a2154a4c0ebb942a4a9fba2f9c5ac1e77f402b28e8c9725896ac27374977",
-   "source": "Yahoo",
-   "published": "2026-11-17T11:29:45+00:00",
-   "tickers": [
-    "CI",
-    "CVS",
-    "DGX",
-    "HIMS",
-    "LH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "75a27fce1657",
-   "headline": "Why Is Natera Stock Up Nearly 41% Since May?",
-   "summary": "For questions about this article or underlying research, email help@trefis.com.",
-   "url": "https://finnhub.io/api/news?id=284ed67e1850e4e6c2c9beb1e395d17366415a79654f31869b0b3c16979ab0d8",
-   "source": "Yahoo",
-   "published": "2026-11-17T11:29:45+00:00",
-   "tickers": [
-    "DGX",
-    "GH",
-    "ILMN",
-    "LH",
-    "NTRA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "dda9f7aedfe1",
-   "headline": "Roche Secures FDA Approval for Wilserdly in Advanced Breast Cancer Treatment",
-   "summary": "Roche Holding (USOTC:RHHBY) has received approval from the US Food and Drug Administration (FDA) for Wilserdly (giredestrant), an oral treatment for certain forms of advanced or metastatic breast cancer. The Swiss pharmaceutical company\u2026",
-   "url": "https://finnhub.io/api/news?id=fea83d2949cbf9f4ab81ef6871a8eec82ecc0cc25f7f91766d4901ec66a282a7",
-   "source": "Yahoo",
-   "published": "2026-11-17T11:26:43+00:00",
-   "tickers": [
-    "NVS"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "aad46f0b09ed",
-   "headline": "Gilead Sciences, Inc. (GILD) Presents at UBS Global Biopharma Conference 2026 Transcript",
-   "summary": "Gilead Sciences, Inc. (GILD) UBS Global Biopharma Conference 2026 November 17, 2026 5:00 AM ESTCompany ParticipantsAndrew Dickinson - Executive VP &...",
-   "url": "https://finnhub.io/api/news?id=95e28421e461cffff3d6a61f00c821400dce0ceea3a13cc90369cc630e9be7ee",
-   "source": "SeekingAlpha",
-   "published": "2026-11-17T11:22:46+00:00",
-   "tickers": [
-    "GILD"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "e841c4139151",
-   "headline": "Novartis Receives FDA Approval for Cosentyx in Polymyalgia Rheumatica",
-   "summary": "Novartis (NYSE:NVS) announced on Tuesday, November 17, 2026, that the US Food and Drug Administration (FDA) had approved Cosentyx (secukinumab) for adults with polymyalgia rheumatica (PMR) who have experienced an inadequate response to\u2026",
-   "url": "https://finnhub.io/api/news?id=f31f12d16b3fa1b4099df422dae93e49243dc7999dc2e59338625a1a65f34f90",
-   "source": "Yahoo",
-   "published": "2026-11-17T11:22:46+00:00",
-   "tickers": [
-    "NVS"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "5ca2563b50ec",
-   "headline": "Galvanize raises $130M to advance pulsed electric field ablation",
-   "summary": "The Series D round will support commercialization of Galvanize\u2019s soft-tissue ablation platform and development of a chronic bronchitis device.",
-   "url": "https://www.medtechdive.com/news/galvanize-raises-130m-to-advance-pulsed-electric-field-ablation/874861/",
-   "source": "MedTech Dive",
-   "published": "2026-11-17T11:21:54+00:00",
-   "tickers": [],
-   "tag": "Financing",
-   "sectors": []
   }
  ]
 }
