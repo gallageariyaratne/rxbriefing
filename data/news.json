@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-27T18:47:18.047813+00:00",
+ "updated": "2026-11-27T19:02:29.199097+00:00",
  "quotes": {
   "ABBV": {
    "price": 291.92,
@@ -21,10 +21,6 @@
   "AMGN": {
    "price": 474.12,
    "change_pct": 1.04
-  },
-  "ARWR": {
-   "price": 49.97,
-   "change_pct": 0.77
   },
   "ASND": {
    "price": 279.52,
@@ -93,10 +89,6 @@
   "GEHC": {
    "price": 84.64,
    "change_pct": 1.57
-  },
-  "GH": {
-   "price": 156.07,
-   "change_pct": 1.77
   },
   "GILD": {
    "price": 177.03,
@@ -181,10 +173,6 @@
   "MRNA": {
    "price": 228.68,
    "change_pct": 3.55
-  },
-  "NTRA": {
-   "price": 304.07,
-   "change_pct": 0.91
   },
   "NVS": {
    "price": 154.11,
@@ -960,6 +948,21 @@
    ]
   },
   {
+   "id": "e60e1c9795c1",
+   "headline": "Lupin Announces U.S. FDA Approval and Launch of Sitagliptin Tablets, USP in the United States",
+   "summary": "Global pharmaceutical leader Lupin Limited (Lupin) (BSE: 500257) (NSE: LUPIN) (REUTERS: LUPIN.BO) (BLOOMBERG: LPCIN) today announced that following the approval from the U.S. Food and Drug Administration (U.S. FDA) for its Abbreviated New\u2026",
+   "url": "https://finnhub.io/api/news?id=08e8fd6cc6e2de6e9e5b0a59a32b2dea2cd107a324f853e48b485499a636370f",
+   "source": "Yahoo",
+   "published": "2026-11-27T16:34:00+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "c95ad4f2906b",
    "headline": "GMAB Stock Soars 71% in 3 Months on Pipeline Progress & Sales Growth",
    "summary": "Genmab shares surge 71% as promising late-stage cancer trial results, rising Epkinly sales and 22% revenue growth strengthen its growth outlook.",
@@ -969,7 +972,8 @@
    "tickers": [
     "ABBV",
     "INCY",
-    "JNJ"
+    "JNJ",
+    "MRK"
    ],
    "tag": "Clinical",
    "sectors": [
@@ -985,6 +989,7 @@
    "published": "2026-11-27T16:07:26+00:00",
    "tickers": [
     "CI",
+    "ELV",
     "UNH"
    ],
    "tag": "M&A",
@@ -1016,6 +1021,7 @@
    "published": "2026-11-27T16:04:00+00:00",
    "tickers": [
     "ABBV",
+    "MRK",
     "PFE"
    ],
    "tag": "Earnings",
@@ -1050,6 +1056,21 @@
     "VRTX"
    ],
    "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "687d884c4906",
+   "headline": "Why this portfolio manager says investors should 'avoid the neoclouds'",
+   "summary": "Washington Crossing Advisors senior portfolio manager Chad Morganlander chats with Yahoo Finance Executive Editor Brian Sozzi about how investors should be approaching dip buying, the AI trade, and more.",
+   "url": "https://finnhub.io/api/news?id=039f4ca01959c5cd73b2ae333284ca592163b1df958ccfd78a8d21ee74d54942",
+   "source": "Yahoo",
+   "published": "2026-11-27T16:00:03+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "Health AI",
    "sectors": [
     "pharma"
    ]
@@ -1126,6 +1147,21 @@
    "tag": "News",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "74e36a3aaf11",
+   "headline": "PacSun CEO talks brand resurgence, holiday shopping season boom",
+   "summary": "Yahoo Finance Executive Editor Brian Sozzi is joined on Sozzi Unleashed by PacSun CEO Brianne Olsen to discuss the brand's resurgence and what to expect from the holiday shopping season.",
+   "url": "https://finnhub.io/api/news?id=19491bf73f5090008d42f1520818da9477529b0febec064ec809e573737ce6a0",
+   "source": "Yahoo",
+   "published": "2026-11-27T15:43:16+00:00",
+   "tickers": [
+    "MRK"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -37962,22 +37998,6 @@
    "tag": "News",
    "sectors": [
     "tools"
-   ]
-  },
-  {
-   "id": "844c189a64c7",
-   "headline": "Johnson & Johnson vs. Pfizer: Consistency vs. Volatility in Revenue",
-   "summary": "J&J's quarterly sales have climbed with few setbacks, while Pfizer's have swung between $13.7 billion and $17.8 billion over eight quarters.",
-   "url": "https://finnhub.io/api/news?id=611dba471b1b8b171743376b7613a92374cae21e7a95040f0770acc77b6e9812",
-   "source": "Yahoo",
-   "published": "2026-11-17T18:50:02+00:00",
-   "tickers": [
-    "JNJ",
-    "PFE"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
