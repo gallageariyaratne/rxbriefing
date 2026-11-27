@@ -1,7 +1,51 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-27T12:32:19.826787+00:00",
+ "updated": "2026-11-27T12:47:28.450721+00:00",
  "quotes": {
+  "ABBV": {
+   "price": 294.48,
+   "change_pct": -1.93
+  },
+  "ABT": {
+   "price": 108,
+   "change_pct": 2.48
+  },
+  "ALNY": {
+   "price": 164.73,
+   "change_pct": 0.07
+  },
+  "AMGN": {
+   "price": 469.24,
+   "change_pct": -0.99
+  },
+  "ARWR": {
+   "price": 49.59,
+   "change_pct": 2.61
+  },
+  "ASND": {
+   "price": 276.8,
+   "change_pct": 0.8
+  },
+  "AZN": {
+   "price": 184.21,
+   "change_pct": 0.55
+  },
+  "BIIB": {
+   "price": 261.44,
+   "change_pct": -2.85
+  },
+  "BMRN": {
+   "price": 68.86,
+   "change_pct": 3.77
+  },
+  "BMY": {
+   "price": 61.56,
+   "change_pct": -0.74
+  },
+  "BRKR": {
+   "price": 56.64,
+   "change_pct": -4.47
+  },
   "BSX": {
    "price": 45.12,
    "change_pct": 2.22
@@ -161,6 +205,10 @@
   "RGEN": {
    "price": 168.13,
    "change_pct": -0.17
+  },
+  "ROIV": {
+   "price": 42.2,
+   "change_pct": -0.33
   },
   "SNY": {
    "price": 54.39,
@@ -826,6 +874,21 @@
  },
  "stories": [
   {
+   "id": "8c8f969d2299",
+   "headline": "Zoetis Inc (NYSE:ZTS): Dividend Quality for Income Investors",
+   "summary": "Zoetis fits a quality dividend screen with strong profitability and payout coverage, though leverage and slowing growth warrant monitoring.",
+   "url": "https://finnhub.io/api/news?id=41ea1843ca0ec462160119f61a6ca12fead09a369f88083b460c6d7c130377f4",
+   "source": "ChartMill",
+   "published": "2026-11-27T11:51:00+00:00",
+   "tickers": [
+    "ZTS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "0d0ceef11fe4",
    "headline": "iShares U.S. Medical Devices (IHI) Buys $18.6 Million More ABT on Nov. 25",
    "summary": "The fund added $106.9 million across all 47 of its positions, led by an $18.6 million increase in Abbott Laboratories.",
@@ -833,6 +896,8 @@
    "source": "Yahoo",
    "published": "2026-11-27T11:05:00+00:00",
    "tickers": [
+    "ABT",
+    "ISRG",
     "MDT"
    ],
    "tag": "News",
@@ -848,6 +913,7 @@
    "source": "Yahoo",
    "published": "2026-11-27T11:04:51+00:00",
    "tickers": [
+    "AMGN",
     "VRTX"
    ],
    "tag": "News",
@@ -863,6 +929,7 @@
    "source": "Yahoo",
    "published": "2026-11-27T11:04:43+00:00",
    "tickers": [
+    "ROIV",
     "UTHR"
    ],
    "tag": "News",
@@ -878,6 +945,7 @@
    "source": "Yahoo",
    "published": "2026-11-27T11:04:35+00:00",
    "tickers": [
+    "ROIV",
     "UTHR"
    ],
    "tag": "News",
@@ -913,6 +981,36 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "4daf5a7af795",
+   "headline": "Glaukos Stock Is Up 45% This Fall. Too Far?",
+   "summary": "Today's big story: How Much Of Big Tech's AI Spending Reaches Nvidia.",
+   "url": "https://finnhub.io/api/news?id=f013e8cad5e937349f7e4ba51f0fd553afc820dad37469c0bb06111b54b35deb",
+   "source": "Yahoo",
+   "published": "2026-11-27T11:02:18+00:00",
+   "tickers": [
+    "GKOS"
+   ],
+   "tag": "Health AI",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "5cba326f41e4",
+   "headline": "45 ETFs Add to Amgen (AMGN) Holdings on Nov. 25",
+   "summary": "ETFs bought $74.0 million of Amgen stock on a net basis.",
+   "url": "https://finnhub.io/api/news?id=fd61fe23210cd54ece895c1767cdf4c04a0fb7fea03561d31f012fdeaf875b74",
+   "source": "Yahoo",
+   "published": "2026-11-27T11:01:36+00:00",
+   "tickers": [
+    "AMGN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -39096,68 +39194,6 @@
    "tag": "News",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "42ef2db13f72",
-   "headline": "AriBio\u2019s oral Alzheimer\u2019s drug meets monotherapy goal in phase 3 as Fosun weighs licensing option",
-   "summary": "AriBio\u2019s erectile dysfunction med-turned Alzheimer\u2019s disease candidate mirodenafil has delivered some mixed results from a global phase 3 trial. Fosun Pharma has an option to in-license the PDE5 inhibitor.",
-   "url": "https://www.fiercepharma.com/pharma/aribio-oral-alzheimers-drug-meets-monotherapy-goal-phase-3-fosun-weighs-licensing-option",
-   "source": "Fierce Pharma",
-   "published": "2026-11-17T12:45:27.349481+00:00",
-   "tickers": [],
-   "tag": "Clinical",
-   "sectors": []
-  },
-  {
-   "id": "fdd73eeceb07",
-   "headline": "Here's Why You Should Add GEHC Stock to Your Portfolio Right Now",
-   "summary": "GE HealthCare's record backlog, strong Pharmaceutical Diagnostics growth and AI-powered innovations position it for long-term growth despite inflation and tariff risks.",
-   "url": "https://finnhub.io/api/news?id=1b5d5006c6c182b935b2dc1801773abbffc2144fd1d320966e6b0205642a761d",
-   "source": "Yahoo",
-   "published": "2026-11-17T12:37:00+00:00",
-   "tickers": [
-    "GEHC",
-    "GKOS",
-    "ISRG"
-   ],
-   "tag": "Policy",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "d0bb8d17634e",
-   "headline": "David Einhorn Bets on Aluminum in Q3: Here Are His New Stock Picks, Fund Changes",
-   "summary": "DME Capital Management reveals its new third-quarter stock picks. Here's what David Einhorn has been buying.",
-   "url": "https://finnhub.io/api/news?id=057303dc55091914e179f8c6a1bb75eda88a5caa90383662ee6da53089b7922b",
-   "source": "Benzinga",
-   "published": "2026-11-17T12:36:18+00:00",
-   "tickers": [
-    "CNC",
-    "IMVT",
-    "ROIV"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "022567c087c3",
-   "headline": "ISRG EPS Climbs 25% to $3: Is Innovation Driving Profitable Growth?",
-   "summary": "Intuitive Surgical's adjusted EPS surged 25% as robotic platform adoption and AI innovation fueled growth, despite rising R&D costs and a litigation settlement.",
-   "url": "https://finnhub.io/api/news?id=8eabf6b12e08cd8bb09e9088342108dbf379a0f018888c35ac084909f09d2ff4",
-   "source": "Yahoo",
-   "published": "2026-11-17T12:35:00+00:00",
-   "tickers": [
-    "ISRG",
-    "MDT",
-    "SYK"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
