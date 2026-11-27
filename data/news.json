@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-27T00:17:15.398748+00:00",
+ "updated": "2026-11-27T00:32:17.988558+00:00",
  "quotes": {
   "A": {
    "price": 178.44,
@@ -125,6 +125,10 @@
   "HUM": {
    "price": 406.51,
    "change_pct": 0.94
+  },
+  "ICLR": {
+   "price": 198.78,
+   "change_pct": 0.26
   },
   "IDXX": {
    "price": 709.46,
@@ -1431,6 +1435,21 @@
    "published": "2026-11-26T15:30:13+00:00",
    "tickers": [
     "IQV"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
+   "id": "c5b55bfb9e6b",
+   "headline": "Icon PLC (ICLR) Down 7.2% Since Last Earnings Report: Can It Rebound?",
+   "summary": "Icon PLC (ICLR) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
+   "url": "https://finnhub.io/api/news?id=a3f1d809f79157edc53b5bb9c201e5de1006d6ae1906bf0d84c888d4d07936f7",
+   "source": "Yahoo",
+   "published": "2026-11-26T15:30:13+00:00",
+   "tickers": [
+    "ICLR"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -40520,21 +40539,6 @@
    "tag": "News",
    "sectors": [
     "tools"
-   ]
-  },
-  {
-   "id": "17bd46272467",
-   "headline": "Stocks Carry Weekly Gains Into a Wall of Chart Resistance as Volatility Cools",
-   "summary": "Stock Preachers News Commentary - Wall Street heads into the new week with solid weekly gains behind it, even after Friday's pullback. The Dow Jones Industrial Average, S&P 500, Nasdaq Composite and Russell 2000 all closed the week\u2026",
-   "url": "https://finnhub.io/api/news?id=6ccb3e0ea3073bfed2c5826ab1fc8ada066508c6f33b68a29382585a28fbb364",
-   "source": "Yahoo",
-   "published": "2026-11-17T00:23:00+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
