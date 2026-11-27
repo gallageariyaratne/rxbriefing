@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-27T00:32:17.988558+00:00",
+ "updated": "2026-11-27T00:47:13.734209+00:00",
  "quotes": {
   "A": {
    "price": 178.44,
@@ -53,10 +53,6 @@
   "CAH": {
    "price": 282.91,
    "change_pct": 1.17
-  },
-  "CLOV": {
-   "price": 3.76,
-   "change_pct": 1.35
   },
   "CNC": {
    "price": 64.74,
@@ -113,6 +109,10 @@
   "GKOS": {
    "price": 259.9,
    "change_pct": 1.14
+  },
+  "GSK": {
+   "price": 50.76,
+   "change_pct": 1.38
   },
   "HCA": {
    "price": 491.01,
@@ -874,6 +874,21 @@
  },
  "stories": [
   {
+   "id": "77e81632d1bd",
+   "headline": "A $600,000 Portfolio in EPR Properties, Pfizer and Park Hotels & Resorts Pays $36,967 a Year in Dividends. Here\u2019s What Happens if One Cuts",
+   "summary": "Key TakeawaysA $600,000 portfolio split evenly across EPR Properties, Pfizer and Park Hotels & Resorts pays about $3,080 a month in dividends at today\u2019s prices, a 6. 2% yield.",
+   "url": "https://finnhub.io/api/news?id=a641fe043c9a4c9fe9cc0bba77a8feb79316debe3299c5268c6ba49a261d7ecd",
+   "source": "Yahoo",
+   "published": "2026-11-26T23:20:21+00:00",
+   "tickers": [
+    "PFE"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "156fd3faffe6",
    "headline": "The Nasdaq Composite Is in a Correction, but These 3 Dividend Stocks Are Near 52-Week Highs. Here's Why They're Still Worth Buying Right Now.",
    "summary": "Johnson & Johnson, Visa, and Coca-Cola have held up during the market's recent turbulence.",
@@ -1394,6 +1409,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "52621e7b97b0",
+   "headline": "GSK's Twice-Yearly Exdensur Outshines Monthly Nucala in EGPA Study",
+   "summary": "GSK's Exdensur meets the primary endpoint in a phase III EGPA study, paving the way for potential regulatory filings in 2027.",
+   "url": "https://finnhub.io/api/news?id=a010c3d30919bb780c2e383ab37a6904fc0723c614481baecb0e75e0e7e7882d",
+   "source": "Yahoo",
+   "published": "2026-11-26T15:38:00+00:00",
+   "tickers": [
+    "GSK"
+   ],
+   "tag": "Clinical",
+   "sectors": [
+    "pharma"
    ]
   },
   {
