@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-27T04:17:28.580347+00:00",
+ "updated": "2026-11-27T04:32:29.564992+00:00",
  "quotes": {
   "ABBV": {
    "price": 294.48,
@@ -41,6 +41,10 @@
   "BIIB": {
    "price": 261.44,
    "change_pct": -2.85
+  },
+  "BMRN": {
+   "price": 68.86,
+   "change_pct": 3.77
   },
   "BMY": {
    "price": 61.56,
@@ -909,6 +913,21 @@
   "etf": "ETFs"
  },
  "stories": [
+  {
+   "id": "dbd3edcbbad8",
+   "headline": "BioMarin (BMRN) Stock Still Looks Like A Bargain After A 24% Jump",
+   "summary": "BioMarin Pharmaceutical has climbed sharply in recent weeks, which puts fresh focus on whether the current share price lines up with what its sales performance can reasonably support. For investors watching the rare disease specialist,\u2026",
+   "url": "https://finnhub.io/api/news?id=6971da123e8d34cea1e8b979350dc86c06fc29c5759231427fd984003b20d9a9",
+   "source": "Yahoo",
+   "published": "2026-11-27T02:12:59+00:00",
+   "tickers": [
+    "BMRN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
   {
    "id": "77e81632d1bd",
    "headline": "A $600,000 Portfolio in EPR Properties, Pfizer and Park Hotels & Resorts Pays $36,967 a Year in Dividends. Here\u2019s What Happens if One Cuts",
@@ -40618,23 +40637,6 @@
    "tag": "M&A",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "8f99b7b4c2e7",
-   "headline": "Boston Scientific: A Longer Road To Recovery (Rating Downgrade)",
-   "summary": "Analyst rates Boston Scientific a Hold: EP and WATCHMAN sales fell 5.3% and 5.9% in Q3, and recovery remains uncertain with 2027 expected to be the trough.",
-   "url": "https://finnhub.io/api/news?id=41ac1783e20bd74ec8818b0b13da75dbba2df89b96557216b88dec8cbe29aa19",
-   "source": "SeekingAlpha",
-   "published": "2026-11-17T04:19:36+00:00",
-   "tickers": [
-    "BSX",
-    "EW",
-    "MDT"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
