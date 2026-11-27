@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-27T18:17:04.250288+00:00",
+ "updated": "2026-11-27T18:32:16.038978+00:00",
  "quotes": {
   "ABBV": {
    "price": 291.92,
@@ -58,6 +58,10 @@
    "price": 337.43,
    "change_pct": 1.61
   },
+  "CVS": {
+   "price": 82.63,
+   "change_pct": 1.94
+  },
   "DHR": {
    "price": 228.93,
    "change_pct": 0.69
@@ -101,6 +105,10 @@
   "GSK": {
    "price": 50.97,
    "change_pct": 0.41
+  },
+  "HALO": {
+   "price": 94.82,
+   "change_pct": -0.3
   },
   "HCA": {
    "price": 501.01,
@@ -197,6 +205,10 @@
   "TDOC": {
    "price": 8.01,
    "change_pct": 5.12
+  },
+  "THC": {
+   "price": 286.33,
+   "change_pct": 2.02
   },
   "TMO": {
    "price": 683.08,
@@ -838,6 +850,36 @@
  },
  "stories": [
   {
+   "id": "ef03c1919a18",
+   "headline": "Sector Update: Healthcare Stocks Edge Higher Friday Afternoon",
+   "summary": "Healthcare stocks were slightly higher in Friday afternoon trading, with the NYSE Healthcare Index a",
+   "url": "https://finnhub.io/api/news?id=7e11eced7f25ce5837501e21ccb12284e9cc179ac478214a7a5aeff9877dd7ad",
+   "source": "Yahoo",
+   "published": "2026-11-27T17:19:48+00:00",
+   "tickers": [
+    "JNJ"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "b3a6dfc0bd11",
+   "headline": "Is it Apt to Hold Haemonetics Stock in Your Portfolio for Now?",
+   "summary": "HAE's expanding MedSurg business and strong NexSys PCS adoption fuel growth prospects, but competitive pressures and currency headwinds remain concerns.",
+   "url": "https://finnhub.io/api/news?id=b53c3e2f8e4d81536e817e169dae1e98b6d2dbabbe9cec799ebd419508ad9d40",
+   "source": "Yahoo",
+   "published": "2026-11-27T16:54:00+00:00",
+   "tickers": [
+    "PODD"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "cab0cbe2dc7a",
    "headline": "Trump Opens Door to Universal Healthcare. Could \u201cTrumpcare\u201d Reshape America\u2019s $5.3 Trillion Healthcare System?",
    "summary": "Trump has flirted with universal healthcare since 1999, and now he is willing to talk with a Michigan Democrat about it. Whoever wins the fight over private insurance could decide which healthcare giants keep their profits.",
@@ -845,7 +887,9 @@
    "source": "Yahoo",
    "published": "2026-11-27T16:52:45+00:00",
    "tickers": [
-    "HCA"
+    "CVS",
+    "HCA",
+    "THC"
    ],
    "tag": "News",
    "sectors": [
@@ -860,7 +904,8 @@
    "source": "Yahoo",
    "published": "2026-11-27T16:08:00+00:00",
    "tickers": [
-    "ABBV"
+    "ABBV",
+    "JNJ"
    ],
    "tag": "Clinical",
    "sectors": [
@@ -880,6 +925,21 @@
    "tag": "M&A",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "ab9e80f7f8ee",
+   "headline": "Vertex shares drop after FDA delays kidney drug decision",
+   "summary": "Investing.com -- Vertex Pharmaceuticals shares fell 7% Friday morning in New York after the U.S. Food and Drug Administration pushed back its decision on the company's chronic kidney disease treatment by up to three months.",
+   "url": "https://finnhub.io/api/news?id=86ff809a87d757c9fbdc6638f2f64f3fabf766e176216c675445622475eff7b0",
+   "source": "Yahoo",
+   "published": "2026-11-27T16:04:50+00:00",
+   "tickers": [
+    "VRTX"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
    ]
   },
   {
@@ -985,6 +1045,21 @@
    ]
   },
   {
+   "id": "931ac5ad14d5",
+   "headline": "Why Is Boston Scientific (BSX) Up 5.7% Since Last Earnings Report?",
+   "summary": "Boston Scientific (BSX) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
+   "url": "https://finnhub.io/api/news?id=05d23882ad9a5f47d774e8d28a04459e3802092f4411b4b91e6e7918dc28f485",
+   "source": "Yahoo",
+   "published": "2026-11-27T15:30:13+00:00",
+   "tickers": [
+    "BSX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
    "id": "c1873c25a0b0",
    "headline": "Why Is Labcorp (LH) Up 0.2% Since Last Earnings Report?",
    "summary": "Labcorp (LH) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
@@ -1041,6 +1116,22 @@
     "MRNA",
     "REGN",
     "VRTX"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "4df50cd0f6a2",
+   "headline": "HALO vs. PBYI: Which Oncology-Focused Biotech Stock Is the Better Buy?",
+   "summary": "With contrasting business models and growth prospects, Halozyme and Puma Biotechnology present investors with two distinct opportunities in the oncology market.",
+   "url": "https://finnhub.io/api/news?id=14e8c4648307c321766e4bebd13a396c9f2238b1d682249db14d5522205bcef5",
+   "source": "Yahoo",
+   "published": "2026-11-27T15:15:00+00:00",
+   "tickers": [
+    "HALO",
+    "JNJ"
    ],
    "tag": "News",
    "sectors": [
@@ -37747,32 +37838,6 @@
    "sectors": [
     "payers"
    ]
-  },
-  {
-   "id": "fdb5a70dceaa",
-   "headline": "CVS Health Stocks Fall 3.12% as Aetna Faces Tougher Medicare Advantage Audit Rules",
-   "summary": "A proposed CMS rule would extrapolate audit findings and require plans to report suspected fraud, with nearly $90 billion in projected savings.",
-   "url": "https://finnhub.io/api/news?id=3de1293090b5b762709b8462f195980df7d0ea2a9784d30328b9725b9d179836",
-   "source": "Yahoo",
-   "published": "2026-11-17T18:31:01+00:00",
-   "tickers": [
-    "CVS"
-   ],
-   "tag": "Policy",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "94e71ae2762b",
-   "headline": "Fierce Healthcare Fundraising Tracker '26: Aevius launches with $22M for clinical insights; Abby Care secures $82M for family-led care",
-   "summary": "Keep up with all the venture capital dollars being funneled into the health tech and digital health industries.",
-   "url": "https://www.fiercehealthcare.com/health-tech/fierce-healthcare-fundraising-tracker-26",
-   "source": "Fierce Healthcare",
-   "published": "2026-11-17T18:30:34.201565+00:00",
-   "tickers": [],
-   "tag": "Financing",
-   "sectors": []
   }
  ]
 }
