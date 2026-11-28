@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-28T01:47:18.914916+00:00",
+ "updated": "2026-11-28T02:02:35.088093+00:00",
  "quotes": {
   "ABBV": {
    "price": 291.88,
@@ -170,6 +170,10 @@
    "price": 1392.38,
    "change_pct": 0.01
   },
+  "MDGL": {
+   "price": 431.06,
+   "change_pct": 0.3
+  },
   "MDT": {
    "price": 95.41,
    "change_pct": -0.68
@@ -202,6 +206,10 @@
    "price": 27.06,
    "change_pct": -0.22
   },
+  "PACB": {
+   "price": 1.59,
+   "change_pct": 0.63
+  },
   "PFE": {
    "price": 28.52,
    "change_pct": 0.21
@@ -217,6 +225,10 @@
   "ROIV": {
    "price": 43.25,
    "change_pct": 2.49
+  },
+  "RVMD": {
+   "price": 173.98,
+   "change_pct": -0.96
   },
   "SNY": {
    "price": 53.34,
@@ -928,7 +940,8 @@
    "published": "2026-11-28T00:10:23+00:00",
    "tickers": [
     "ABBV",
-    "INSM"
+    "INSM",
+    "SNY"
    ],
    "tag": "M&A",
    "sectors": [
@@ -1472,6 +1485,21 @@
    ]
   },
   {
+   "id": "0f3966917cb9",
+   "headline": "European Equities Traded in the US as American Depositary Receipts Rise in Friday Trading",
+   "summary": "European equities traded in the US as American depositary receipts were tracking higher late Friday",
+   "url": "https://finnhub.io/api/news?id=f43d275d3bd9a7cdf770a56f84a8f05ab1d7c391d6260bb31db39d61a7a43939",
+   "source": "Yahoo",
+   "published": "2026-11-27T16:16:13+00:00",
+   "tickers": [
+    "SNY"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "316b307a598c",
    "headline": "Here's Why Investors Should Stay Neutral on AON Stock for Now",
    "summary": "Aon's organic growth, strategic acquisitions and strong cash flows support its prospects, but softening insurance pricing and high debt warrant caution.",
@@ -1484,6 +1512,21 @@
    "tag": "News",
    "sectors": [
     "payers"
+   ]
+  },
+  {
+   "id": "24e7c5cff599",
+   "headline": "Madrigal's Rezdiffra Sales Top $1B: Can Patient Uptake Drive Growth?",
+   "summary": "MDGL drives Rezdiffra growth with $1.1 billion in nine-month sales, rising patient adoption and sustained treatment persistence despite MASH competition.",
+   "url": "https://finnhub.io/api/news?id=2fd97e8fb19aa1ff682b3a926f623a1d41be0650ae9074b111156a96d1855942",
+   "source": "Yahoo",
+   "published": "2026-11-27T16:09:00+00:00",
+   "tickers": [
+    "MDGL"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -1936,6 +1979,21 @@
    ]
   },
   {
+   "id": "ea63f5e34e93",
+   "headline": "Why Pacific Biosciences Bears Were Right Before The Drop",
+   "summary": "If you had paused on Pacific Biosciences of California in late November 2025, unsure whether the Vega rollout and multi-omics story justified the bullish forecasts, the eventual outcome would have stung. Investors who held Pacific\u2026",
+   "url": "https://finnhub.io/api/news?id=6d1574c82d8a0eaf34cc8c2946205cb84024b92eecb54638df1d52281fc6f7bc",
+   "source": "Yahoo",
+   "published": "2026-11-27T15:09:48+00:00",
+   "tickers": [
+    "PACB"
+   ],
+   "tag": "News",
+   "sectors": [
+    "tools"
+   ]
+  },
+  {
    "id": "cab93453af15",
    "headline": "Rapid Micro Biosystems (RPID) Stock Sees Fair Value Cut After Merck Deal Reframes Analyst Views",
    "summary": "Rapid Micro Biosystems has seen its assessed fair value fall from US$5.75 to US$3.17 per share as updated models sit closer to the US$0.75 per share cash offer from Merck KGaA. Analysts now frame that shift mainly around deal completion\u2026",
@@ -1976,6 +2034,21 @@
     "MRK"
    ],
    "tag": "Analyst",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "df434fa15fb0",
+   "headline": "Sanofi (SNY) Added for High Cash Flow Yield and Pipeline Rebuilding",
+   "summary": "Pzena Investment Management recently released its third-quarter 2026 commentary for \u201cPzena Focused Value Strategy.\u201d The letter can be downloaded here. Broad market indices showed modest gains in the third quarter despite global conflicts,\u2026",
+   "url": "https://finnhub.io/api/news?id=e7dfc0a9eae20ef5dc10d9956a6017b84c0271baeabec5d324f5b654e26dfad2",
+   "source": "Yahoo",
+   "published": "2026-11-27T14:59:52+00:00",
+   "tickers": [
+    "SNY"
+   ],
+   "tag": "News",
    "sectors": [
     "pharma"
    ]
@@ -2091,6 +2164,7 @@
    "tickers": [
     "BMRN",
     "INSM",
+    "SNY",
     "UTHR",
     "VRTX"
    ],
@@ -2586,7 +2660,8 @@
    "published": "2026-11-27T12:06:00+00:00",
    "tickers": [
     "INSM",
-    "REGN"
+    "REGN",
+    "SNY"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -2647,7 +2722,8 @@
    "source": "Yahoo",
    "published": "2026-11-27T11:33:24+00:00",
    "tickers": [
-    "INSM"
+    "INSM",
+    "SNY"
    ],
    "tag": "M&A",
    "sectors": [
@@ -3160,7 +3236,9 @@
    "source": "Yahoo",
    "published": "2026-11-27T06:44:00+00:00",
    "tickers": [
-    "INSM"
+    "INSM",
+    "RVMD",
+    "SNY"
    ],
    "tag": "M&A",
    "sectors": [
