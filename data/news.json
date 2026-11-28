@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-28T00:32:15.261698+00:00",
+ "updated": "2026-11-28T00:47:13.530061+00:00",
  "quotes": {
   "ABBV": {
    "price": 291.88,
@@ -134,6 +134,10 @@
    "price": 122.63,
    "change_pct": 0.23
   },
+  "INSM": {
+   "price": 170.44,
+   "change_pct": 0.08
+  },
   "ISRG": {
    "price": 430.18,
    "change_pct": 0.7
@@ -206,6 +210,10 @@
    "price": 23.02,
    "change_pct": 0.04
   },
+  "TDOC": {
+   "price": 8,
+   "change_pct": 4.99
+  },
   "THC": {
    "price": 286.29,
    "change_pct": 2.01
@@ -213,6 +221,10 @@
   "TMO": {
    "price": 683.04,
    "change_pct": -0.36
+  },
+  "TWST": {
+   "price": 109.88,
+   "change_pct": 1.67
   },
   "UHS": {
    "price": 192.96,
@@ -858,6 +870,21 @@
  },
  "stories": [
   {
+   "id": "a3d55bffdc8e",
+   "headline": "Stocktwits Biotech Dealmaker: Sanofi\u2019s $41B Insmed Buyout Anchors Holiday Week As Lilly Continues Buying Spree",
+   "summary": "This week witnessed the biggest biotech deal announcement by value year-to-date.",
+   "url": "https://finnhub.io/api/news?id=989e160efd9f9f3157ad1fc454cd1549788d89b1af5996a9d472c6a7558ab85b",
+   "source": "Yahoo",
+   "published": "2026-11-28T00:10:23+00:00",
+   "tickers": [
+    "INSM"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "bb7b90fb2f44",
    "headline": "Could Biosimilar Delay Alter The Investment Case For Johnson & Johnson (JNJ)?",
    "summary": "Johnson & Johnson recently secured a preliminary U.S. court injunction delaying Alvotech's AVT05 biosimilar to Simponi and Simponi Aria, and gained FDA accelerated approval for RYBREVANT FASPRO for certain adults with advanced head and\u2026",
@@ -885,6 +912,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "00779a98fe94",
+   "headline": "Baycurrent And 2 Other High Growth Stocks",
+   "summary": "Trump\u2019s renewed tariff push is shaking global trade again, which puts a premium on companies that can grow from their own earnings power rather than relying on smooth cross border flows. That is where financially solid businesses with\u2026",
+   "url": "https://finnhub.io/api/news?id=894c3120ac2ceb0efae1f045809d1e0fc8f5dd9f2ef99968f3b976b208f6327e",
+   "source": "Yahoo",
+   "published": "2026-11-27T21:14:56+00:00",
+   "tickers": [
+    "INSM"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -1158,6 +1200,21 @@
    ]
   },
   {
+   "id": "e319a8283bf1",
+   "headline": "Is UnitedHealth Group Stock Underperforming the S&P 500?",
+   "summary": "UnitedHealth has underperformed the S&P 500 index over the past three months.",
+   "url": "https://finnhub.io/api/news?id=7b5809c7ace8395e7be238de5fd258bc0f33818a84613bfc0f10841c30533f83",
+   "source": "Yahoo",
+   "published": "2026-11-27T18:00:52+00:00",
+   "tickers": [
+    "UNH"
+   ],
+   "tag": "News",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "ef03c1919a18",
    "headline": "Sector Update: Healthcare Stocks Edge Higher Friday Afternoon",
    "summary": "Healthcare stocks were slightly higher in Friday afternoon trading, with the NYSE Healthcare Index a",
@@ -1296,6 +1353,21 @@
    "published": "2026-11-27T16:45:03+00:00",
    "tickers": [
     "ISRG"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "medtech"
+   ]
+  },
+  {
+   "id": "bc675546b30a",
+   "headline": "Is Wall Street Bullish or Bearish on Align Technology Stock?",
+   "summary": "Despite Align Technology's outperformance relative to the SPX over the past year, Wall Street analysts maintain a cautiously optimistic outlook on the stock\u2019s prospects.",
+   "url": "https://finnhub.io/api/news?id=26d8c95d9d2e5981be7ed0a943ac0df7ea3a9033d3c8d98dc555fef5d9eff0cf",
+   "source": "Yahoo",
+   "published": "2026-11-27T16:37:42+00:00",
+   "tickers": [
+    "ALGN"
    ],
    "tag": "Analyst",
    "sectors": [
@@ -1548,6 +1620,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "a3695f0d8f0b",
+   "headline": "Teladoc (TDOC) Down 12.7% Since Last Earnings Report: Can It Rebound?",
+   "summary": "Teladoc (TDOC) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
+   "url": "https://finnhub.io/api/news?id=a7a37b48520916795cceb65e18cb8f5e2fc57de09d24006c9ea6781ffb769c2e",
+   "source": "Yahoo",
+   "published": "2026-11-27T15:30:28+00:00",
+   "tickers": [
+    "TDOC"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "healthit"
    ]
   },
   {
@@ -1875,6 +1962,7 @@
    "published": "2026-11-27T14:47:35+00:00",
    "tickers": [
     "BMRN",
+    "INSM",
     "UTHR",
     "VRTX"
    ],
@@ -2089,6 +2177,7 @@
    "source": "Yahoo",
    "published": "2026-11-27T13:30:18+00:00",
    "tickers": [
+    "INSM",
     "MRNA",
     "VRTX"
    ],
@@ -2322,6 +2411,7 @@
    "published": "2026-11-27T12:15:33+00:00",
    "tickers": [
     "MRNA",
+    "TWST",
     "VRTX"
    ],
    "tag": "News",
@@ -2352,6 +2442,7 @@
    "source": "Yahoo",
    "published": "2026-11-27T12:06:00+00:00",
    "tickers": [
+    "INSM",
     "REGN"
    ],
    "tag": "Earnings",
@@ -2403,6 +2494,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "35c0d5f2945e",
+   "headline": "Sanofi Stock Surges 26% as $41 Billion Insmed Deal Boosts Confidence",
+   "summary": "CEO Belen Garijo began pursuing the acquisition immediately after taking office in May to strengthen Sanofi's drug pipeline.",
+   "url": "https://finnhub.io/api/news?id=6c604339b037aa42c1922b768896b7b33d1d4ea82d6576a4445c484b72b8ce97",
+   "source": "Yahoo",
+   "published": "2026-11-27T11:33:24+00:00",
+   "tickers": [
+    "INSM"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -2817,7 +2923,8 @@
    "published": "2026-11-27T08:14:07+00:00",
    "tickers": [
     "DHR",
-    "ILMN"
+    "ILMN",
+    "TWST"
    ],
    "tag": "News",
    "sectors": [
@@ -2884,6 +2991,21 @@
    "tag": "News",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "1dc6f05ebceb",
+   "headline": "The Zacks Analyst Blog Highlights Vera Therapeutics, BridgeBio Pharma, Revolution Medicines, Agios Pharmaceuticals and Stoke Therapeutics",
+   "summary": "Sanofi's $41B Insmed deal reignites biotech M&A hopes, putting five stocks with differentiated medicines and promising pipelines in the takeover spotlight.",
+   "url": "https://finnhub.io/api/news?id=95784e2c4a4c2736898ee80adf67d378277a4627d558ba80a7cae99ce0d6ba56",
+   "source": "Yahoo",
+   "published": "2026-11-27T06:44:00+00:00",
+   "tickers": [
+    "INSM"
+   ],
+   "tag": "M&A",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -37583,32 +37705,6 @@
    "tag": "Clinical",
    "sectors": [
     "biotech"
-   ]
-  },
-  {
-   "id": "cb8f6cc6ddd5",
-   "headline": "STAT+: White House pulls nomination of Heidi Overton to lead FDA",
-   "summary": "BREAKING: The White House is pulling its nominee to be commissioner of the FDA, Heidi Overton.",
-   "url": "https://www.statnews.com/2026/11/17/heidi-overton-fda-commissioner-nomination-withdrawn/?utm_campaign=rss",
-   "source": "STAT",
-   "published": "2026-11-18T00:44:05+00:00",
-   "tickers": [],
-   "tag": "FDA",
-   "sectors": []
-  },
-  {
-   "id": "398fbf99dd30",
-   "headline": "Piper Sandler Upgrades Medtronic to Overweight from Neutral",
-   "summary": "",
-   "url": "https://finnhub.io/api/news?id=6268546b6715cad1070bb5517beb66031c5d718e150c9c20546c8315686de8a7",
-   "source": "Fintel",
-   "published": "2026-11-18T00:34:56+00:00",
-   "tickers": [
-    "MDT"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "medtech"
    ]
   }
  ]
