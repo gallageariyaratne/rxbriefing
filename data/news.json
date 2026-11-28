@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-28T02:17:41.307928+00:00",
+ "updated": "2026-11-28T02:32:52.202614+00:00",
  "quotes": {
   "ABBV": {
    "price": 291.88,
@@ -133,6 +133,10 @@
   "HUM": {
    "price": 405.46,
    "change_pct": -0.26
+  },
+  "IART": {
+   "price": 14.22,
+   "change_pct": 1.43
   },
   "IDXX": {
    "price": 719.23,
@@ -281,6 +285,10 @@
   "UTHR": {
    "price": 597.72,
    "change_pct": 1.19
+  },
+  "VKTX": {
+   "price": 31.41,
+   "change_pct": 0.1
   },
   "VRTX": {
    "price": 534.57,
@@ -914,6 +922,21 @@
  },
  "stories": [
   {
+   "id": "14c88fb39e4b",
+   "headline": "Tenet Publishes Q3-2026 Financial Results Q&A Transcript",
+   "summary": "Toronto, Ontario--(Newsfile Corp. - November 27, 2026) - Tenet Fintech Group Inc. (CSE: PKK) (OTCQB: PKKFF) (FSE: P0T) (\"Tenet\" or the \"Company\"), an innovative analytics service provider, owner and operator of the Cubeler Business Hub,\u2026",
+   "url": "https://finnhub.io/api/news?id=bc9ff64133d49ed97005850da77c952be386d2f95edbd70d2bf485f84701a979",
+   "source": "Yahoo",
+   "published": "2026-11-28T00:23:00+00:00",
+   "tickers": [
+    "THC"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "payers"
+   ]
+  },
+  {
    "id": "466c936681fe",
    "headline": "Legend Biotech (LEGN) Stock Trades At A Discount On A 70% Three Year Slide",
    "summary": "Legend Biotech has seen its share price fall over a multi year stretch, yet the recent bounce has put fresh attention on whether the current US$18.17 level lines up with what its sales can reasonably support. For anyone tracking the\u2026",
@@ -999,6 +1022,21 @@
    "published": "2026-11-27T21:51:00+00:00",
    "tickers": [
     "NVS"
+   ],
+   "tag": "News",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
+   "id": "c534e2c91642",
+   "headline": "A $400,000 Portfolio in Bristol Myers Squibb, HP and KeyCorp Pays $15,806 a Year in Dividends. Here\u2019s What Happens if One Cuts",
+   "summary": "Key TakeawaysA $400,000 portfolio split evenly across Bristol Myers Squibb, HP and KeyCorp pays about $15,800 a year in dividends, or about $1,320 a month. None of the three dividends looks at risk today, but Bristol Myers Squibb\u2019s is the\u2026",
+   "url": "https://finnhub.io/api/news?id=f01e05293a27dd2e0495aa7056db9ff293625527053cb3dcbe800523e245bc53",
+   "source": "Yahoo",
+   "published": "2026-11-27T21:20:24+00:00",
+   "tickers": [
+    "BMY"
    ],
    "tag": "News",
    "sectors": [
@@ -1638,7 +1676,8 @@
    "tickers": [
     "AMGN",
     "NVO",
-    "PFE"
+    "PFE",
+    "VKTX"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -1834,11 +1873,27 @@
    "source": "Yahoo",
    "published": "2026-11-27T15:30:26+00:00",
    "tickers": [
-    "GKOS"
+    "GKOS",
+    "IART"
    ],
    "tag": "Earnings",
    "sectors": [
     "medtech"
+   ]
+  },
+  {
+   "id": "a752065278dd",
+   "headline": "Viking Therapeutics (VKTX) Up 16.8% Since Last Earnings Report: Can It Continue?",
+   "summary": "Viking Therapeutics (VKTX) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
+   "url": "https://finnhub.io/api/news?id=91c9a837f4c2dfed67ead500591d6d7189538a1db8a54ba229970fb06a63f628",
+   "source": "Yahoo",
+   "published": "2026-11-27T15:30:25+00:00",
+   "tickers": [
+    "VKTX"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -37925,28 +37980,6 @@
    "sectors": [
     "pharma"
    ]
-  },
-  {
-   "id": "9410aa3f4440",
-   "headline": "Heidi Overton\u2019s FDA nomination pulled by White House: reports",
-   "summary": "The White House is reportedly pulling Heidi Overton\u2019s nomination to lead the FDA just hours before the Senate was scheduled to vote on her confirmation.",
-   "url": "https://www.fiercepharma.com/pharma/overtons-fda-nomination-has-been-pulled-white-house",
-   "source": "Fierce Pharma",
-   "published": "2026-11-18T02:30:25.728020+00:00",
-   "tickers": [],
-   "tag": "FDA",
-   "sectors": []
-  },
-  {
-   "id": "4c0e1583c24a",
-   "headline": "Heidi Overton\u2019s FDA nomination pulled by White House: reports",
-   "summary": "The White House is reportedly pulling Heidi Overton\u2019s nomination to lead the FDA just hours before the Senate was scheduled to vote on her confirmation.",
-   "url": "https://www.fiercebiotech.com/pharma/overtons-fda-nomination-has-been-pulled-white-house",
-   "source": "Fierce Biotech",
-   "published": "2026-11-18T02:30:25.557373+00:00",
-   "tickers": [],
-   "tag": "FDA",
-   "sectors": []
   }
  ]
 }
