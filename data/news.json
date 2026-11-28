@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-28T02:02:35.088093+00:00",
+ "updated": "2026-11-28T02:17:41.307928+00:00",
  "quotes": {
   "ABBV": {
    "price": 291.88,
@@ -25,6 +25,10 @@
   "ASND": {
    "price": 279.48,
    "change_pct": 0.97
+  },
+  "AZN": {
+   "price": 183.69,
+   "change_pct": -0.28
   },
   "BIIB": {
    "price": 264.2,
@@ -138,6 +142,10 @@
    "price": 205.74,
    "change_pct": 2.67
   },
+  "IMVT": {
+   "price": 36.95,
+   "change_pct": 3.18
+  },
   "INCY": {
    "price": 122.63,
    "change_pct": 0.23
@@ -197,6 +205,10 @@
   "NTRA": {
    "price": 304.03,
    "change_pct": 0.9
+  },
+  "NVO": {
+   "price": 41.07,
+   "change_pct": 0.24
   },
   "NVS": {
    "price": 154.08,
@@ -1175,6 +1187,21 @@
    ]
   },
   {
+   "id": "c3fe55ae182b",
+   "headline": "AstraZeneca (LSE:AZN) Could Be 15% Undervalued After Fresh Drug Approval Wins",
+   "summary": "AstraZeneca (LSE:AZN) has just packed several regulatory milestones into a short window, including a US Priority Review for gastric cancer drug Sone Ve and fresh approvals across oncology, neurology and cardiovascular disease. These\u2026",
+   "url": "https://finnhub.io/api/news?id=e3d5cf53a06cbb42dfb5327ce56374f790dfa159907489573fc02aa25bb98199",
+   "source": "Yahoo",
+   "published": "2026-11-27T19:09:31+00:00",
+   "tickers": [
+    "AZN"
+   ],
+   "tag": "FDA",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "91bce09b1782",
    "headline": "3 Stocks With Rising Earnings Estimates to Buy Before 2027",
    "summary": "Three stocks across energy, banking and healthcare are seeing rising earnings estimates, backed by strong results and growth opportunities heading into 2027.",
@@ -1302,7 +1329,8 @@
    "source": "Yahoo",
    "published": "2026-11-27T17:19:48+00:00",
    "tickers": [
-    "JNJ"
+    "JNJ",
+    "NVO"
    ],
    "tag": "News",
    "sectors": [
@@ -1365,6 +1393,7 @@
    "source": "Yahoo",
    "published": "2026-11-27T16:55:00+00:00",
    "tickers": [
+    "AZN",
     "GILD",
     "MRK"
    ],
@@ -1522,7 +1551,8 @@
    "source": "Yahoo",
    "published": "2026-11-27T16:09:00+00:00",
    "tickers": [
-    "MDGL"
+    "MDGL",
+    "NVO"
    ],
    "tag": "News",
    "sectors": [
@@ -1589,6 +1619,7 @@
    "published": "2026-11-27T16:04:00+00:00",
    "tickers": [
     "ABBV",
+    "AZN",
     "MRK",
     "PFE"
    ],
@@ -1606,6 +1637,7 @@
    "published": "2026-11-27T16:02:00+00:00",
    "tickers": [
     "AMGN",
+    "NVO",
     "PFE"
    ],
    "tag": "GLP-1",
@@ -2273,6 +2305,7 @@
    "source": "Yahoo",
    "published": "2026-11-27T14:16:14+00:00",
    "tickers": [
+    "AZN",
     "JNJ",
     "VRTX"
    ],
@@ -2339,6 +2372,21 @@
    "tag": "News",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "07fd0f1a55b6",
+   "headline": "Wall Street Analysts Believe Immunovant (IMVT) Could Rally 30.63%: Here's is How to Trade",
+   "summary": "The average of price targets set by Wall Street analysts indicates a potential upside of 30.6% in Immunovant (IMVT). While the effectiveness of this highly sought-after metric is questionable, the positive trend in earnings estimate\u2026",
+   "url": "https://finnhub.io/api/news?id=70eb96e45d8fa3c86326d34d7f70cb4458b50d27232ea2280ea361f4045bfd8f",
+   "source": "Yahoo",
+   "published": "2026-11-27T13:55:02+00:00",
+   "tickers": [
+    "IMVT"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "biotech"
    ]
   },
   {
@@ -2472,7 +2520,8 @@
    "source": "Yahoo",
    "published": "2026-11-27T13:03:42+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "Earnings",
    "sectors": [
@@ -2644,7 +2693,8 @@
    "source": "Yahoo",
    "published": "2026-11-27T12:09:46+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "News",
    "sectors": [
@@ -37897,21 +37947,6 @@
    "tickers": [],
    "tag": "FDA",
    "sectors": []
-  },
-  {
-   "id": "2b0f1bf2204a",
-   "headline": "GSK CFO Points to Cancer Drugs to Bridge \u00a33.4 Billion Sales Forecast Gap",
-   "summary": "GSK (NYSE:GSK) Chief Financial Officer Julie Brown said oncology products could help close the gap between analysts\u2019 sales expectations and the company\u2019s target of more than \u00a340 billion in annual sales by 2031, as it accelerates drug\u2026",
-   "url": "https://finnhub.io/api/news?id=91c173629acc5b597d720b8addde68e001a7647bb3d1b8d746526f54770cd965",
-   "source": "Yahoo",
-   "published": "2026-11-18T02:12:07+00:00",
-   "tickers": [
-    "GSK"
-   ],
-   "tag": "Analyst",
-   "sectors": [
-    "pharma"
-   ]
   }
  ]
 }
