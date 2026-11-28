@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-28T00:47:13.530061+00:00",
+ "updated": "2026-11-28T01:02:30.326420+00:00",
  "quotes": {
   "ABBV": {
    "price": 291.88,
@@ -53,6 +53,10 @@
   "CRL": {
    "price": 337.39,
    "change_pct": 1.6
+  },
+  "CRSP": {
+   "price": 42.37,
+   "change_pct": -0.45
   },
   "CVS": {
    "price": 82.61,
@@ -150,6 +154,10 @@
    "price": 275.51,
    "change_pct": 0.57
   },
+  "LEGN": {
+   "price": 18.11,
+   "change_pct": 2.66
+  },
   "LH": {
    "price": 370.42,
    "change_pct": 0.4
@@ -177,6 +185,10 @@
   "NBIX": {
    "price": 165.18,
    "change_pct": -0.49
+  },
+  "NTRA": {
+   "price": 304.03,
+   "change_pct": 0.9
   },
   "NVS": {
    "price": 154.08,
@@ -870,6 +882,21 @@
  },
  "stories": [
   {
+   "id": "466c936681fe",
+   "headline": "Legend Biotech (LEGN) Stock Trades At A Discount On A 70% Three Year Slide",
+   "summary": "Legend Biotech has seen its share price fall over a multi year stretch, yet the recent bounce has put fresh attention on whether the current US$18.17 level lines up with what its sales can reasonably support. For anyone tracking the\u2026",
+   "url": "https://finnhub.io/api/news?id=2b82557c9ceea0085f94734aa9f73654cdbed01373d499466ded5c304b022dd5",
+   "source": "Yahoo",
+   "published": "2026-11-28T00:14:03+00:00",
+   "tickers": [
+    "LEGN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "a3d55bffdc8e",
    "headline": "Stocktwits Biotech Dealmaker: Sanofi\u2019s $41B Insmed Buyout Anchors Holiday Week As Lilly Continues Buying Spree",
    "summary": "This week witnessed the biggest biotech deal announcement by value year-to-date.",
@@ -897,6 +924,21 @@
    "tag": "FDA",
    "sectors": [
     "pharma"
+   ]
+  },
+  {
+   "id": "bd84cbbda644",
+   "headline": "Edwards Lifesciences (EW) Stock Still Looks Reasonable On Cash Flow",
+   "summary": "Edwards Lifesciences has delivered a strong share price run in recent years, and that climb naturally raises a simple question for you as an investor. Is the current US$106.00 price broadly aligned with the cash flows the business can\u2026",
+   "url": "https://finnhub.io/api/news?id=3b5e7c1ec8efba7a72c91de5dd0ae5fd5d3552fe5a7329641a9736e427524310",
+   "source": "Yahoo",
+   "published": "2026-11-27T22:12:00+00:00",
+   "tickers": [
+    "EW"
+   ],
+   "tag": "News",
+   "sectors": [
+    "medtech"
    ]
   },
   {
@@ -1570,6 +1612,7 @@
    "published": "2026-11-27T15:45:14+00:00",
    "tickers": [
     "DHR",
+    "NTRA",
     "TMO"
    ],
    "tag": "News",
@@ -2293,6 +2336,21 @@
    ]
   },
   {
+   "id": "a858931a051f",
+   "headline": "Legend Biotech to Host Investor Event During the 68th American Society of Hematology Annual Meeting and Exposition",
+   "summary": "BRIDGEWATER, N.J., Nov. 27, 2026 (GLOBE NEWSWIRE) -- Legend Biotech Corporation (NASDAQ: LEGN) (Legend Biotech), a global leader in cell therapy, will host a live webcast event for investors on Sunday, December 13, 2026, at 8:00 p.m. CT\u2026",
+   "url": "https://finnhub.io/api/news?id=10c73111ab4f5cf50740679bd045b1fa7fef613ff97120f832e6995322f76814",
+   "source": "Yahoo",
+   "published": "2026-11-27T13:00:00+00:00",
+   "tickers": [
+    "LEGN"
+   ],
+   "tag": "News",
+   "sectors": [
+    "biotech"
+   ]
+  },
+  {
    "id": "1d681e94b8e8",
    "headline": "Is One Drug Reason Enough To Own Exelixis Stock?",
    "summary": "Today's big story: Anthropic Broke Its $83 IPO Price. What Did Facebook Do Next.",
@@ -2939,6 +2997,7 @@
    "source": "Yahoo",
    "published": "2026-11-27T08:13:15+00:00",
    "tickers": [
+    "CRSP",
     "VRTX"
    ],
    "tag": "News",
