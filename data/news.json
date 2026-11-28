@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-28T01:02:30.326420+00:00",
+ "updated": "2026-11-28T01:17:19.031418+00:00",
  "quotes": {
   "ABBV": {
    "price": 291.88,
@@ -17,6 +17,10 @@
   "AMGN": {
    "price": 474.08,
    "change_pct": 1.03
+  },
+  "ARGX": {
+   "price": 994.54,
+   "change_pct": 1.38
   },
   "ASND": {
    "price": 279.48,
@@ -904,6 +908,7 @@
    "source": "Yahoo",
    "published": "2026-11-28T00:10:23+00:00",
    "tickers": [
+    "ABBV",
     "INSM"
    ],
    "tag": "M&A",
@@ -1069,6 +1074,7 @@
    "source": "Yahoo",
    "published": "2026-11-27T19:18:18+00:00",
    "tickers": [
+    "ARGX",
     "LLY"
    ],
    "tag": "Earnings",
@@ -37733,37 +37739,6 @@
    "tag": "Analyst",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "ef3d67ac4443",
-   "headline": "Pfizer: Strong Growth Momentum And Attractive Valuation Support A Strong Buy",
-   "summary": "At 9.6 times guidance-midpoint earnings with a 5.95% dividend yield, Pfizer stock looks inexpensive.",
-   "url": "https://finnhub.io/api/news?id=c9bc249386296d12b8f664296ea231326bfd21ead027f305ba108f56ac62c3b6",
-   "source": "SeekingAlpha",
-   "published": "2026-11-18T01:15:33+00:00",
-   "tickers": [
-    "NVO",
-    "PFE"
-   ],
-   "tag": "Earnings",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "ba308be51eba",
-   "headline": "Could RNAi Trial Data Alter The Investment Case For Arrowhead Pharmaceuticals (ARWR)?",
-   "summary": "Arrowhead Pharmaceuticals reported full year 2026 revenue of US$450.82 million, down sharply from US$829.45 million, alongside a widened net loss of US$724.21 million and new cardiometabolic RNAi data showing large triglyceride and acute\u2026",
-   "url": "https://finnhub.io/api/news?id=fbb813e7dd85e5516fec84d3c0d663cd19eb4872869c841c3907e1b8968722ca",
-   "source": "Yahoo",
-   "published": "2026-11-18T01:10:37+00:00",
-   "tickers": [
-    "ARWR"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "biotech"
    ]
   }
  ]
