@@ -1,10 +1,14 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-28T08:02:40.745261+00:00",
+ "updated": "2026-11-28T08:17:30.887257+00:00",
  "quotes": {
   "ABBV": {
    "price": 291.88,
    "change_pct": -0.88
+  },
+  "ABSI": {
+   "price": 9.56,
+   "change_pct": 6.28
   },
   "ABT": {
    "price": 108.07,
@@ -57,10 +61,6 @@
   "CRL": {
    "price": 337.39,
    "change_pct": 1.6
-  },
-  "CRSP": {
-   "price": 42.37,
-   "change_pct": -0.45
   },
   "CVS": {
    "price": 82.61,
@@ -941,6 +941,21 @@
    "tag": "News",
    "sectors": [
     "tools"
+   ]
+  },
+  {
+   "id": "fb00f448b8e5",
+   "headline": "Is Absci (ABSI) Priced Too Richly Against Its Book Value?",
+   "summary": "Absci has seen its share price move sharply in recent years, which raises a simple question for you as an investor. Is the current market price still grounded in what the business is worth on paper, specifically its book value, or has\u2026",
+   "url": "https://finnhub.io/api/news?id=5625cf290e1596c30730297e24d437dc61e8d06f4fa0cb56a906ced94d6b99da",
+   "source": "Yahoo",
+   "published": "2026-11-28T04:11:56+00:00",
+   "tickers": [
+    "ABSI"
+   ],
+   "tag": "News",
+   "sectors": [
+    "healthai"
    ]
   },
   {
@@ -37580,77 +37595,6 @@
    "tag": "News",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "463f48990e56",
-   "headline": "Novo expands DTC program Novocare to support Wegovy users through holistic health journey",
-   "summary": "Members who sign up for Novo's new Novocare can benefit from holistic health services meant to support Wegovy users throughout the entirety of their weight loss journey.",
-   "url": "https://www.fiercepharma.com/marketing/novo-expands-dtc-program-novocare-support-wegovy-users-through-holistic-health-journey",
-   "source": "Fierce Pharma",
-   "published": "2026-11-18T08:15:20.651265+00:00",
-   "tickers": [],
-   "tag": "GLP-1",
-   "sectors": []
-  },
-  {
-   "id": "827122ae91ad",
-   "headline": "Cardinal Health (CAH) Is Facing Multiple Class I Medical Kit Recalls",
-   "summary": "Cardinal Health (NYSE:CAH) is facing multiple ongoing Class I recalls of Presource PBDS kits that contain BD Alaris Pump Infusion Sets due to reported performance issues. The affected recalls, classified by regulators as the most serious\u2026",
-   "url": "https://finnhub.io/api/news?id=baebfbab3f54cb535d2759586de53e10b21d27fc8d49b1c406ecec71714aaafb",
-   "source": "Yahoo",
-   "published": "2026-11-18T08:15:09+00:00",
-   "tickers": [
-    "CAH"
-   ],
-   "tag": "Policy",
-   "sectors": [
-    "pharmacy"
-   ]
-  },
-  {
-   "id": "81bd89756673",
-   "headline": "Best Growth Stocks to Buy for November 18th",
-   "summary": "HAS, JBL and OSCR made it to the Zacks Rank #1 (Strong Buy) growth stocks list on November 18th, 2026.",
-   "url": "https://finnhub.io/api/news?id=a44896868d3c8939325c235f9338147eca6cac310652ee2a1e43e2a1b9cfc7bd",
-   "source": "Yahoo",
-   "published": "2026-11-18T08:15:00+00:00",
-   "tickers": [
-    "OSCR"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "03fc36b7d253",
-   "headline": "Globus Medical, Inc. (GMED) Presents at Jefferies Global Healthcare Conference 2026 Transcript",
-   "summary": "Globus Medical, Inc. (GMED) Jefferies Global Healthcare Conference 2026 November 18, 2026 6:30 AM ESTCompany ParticipantsKyle Kline - Senior VP &...",
-   "url": "https://finnhub.io/api/news?id=47eb9f63507b464bf219e307bcfb8f520788f465919bd57fa7db7d934bf86f4a",
-   "source": "SeekingAlpha",
-   "published": "2026-11-18T08:12:48+00:00",
-   "tickers": [
-    "GMED"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "7bacc19da067",
-   "headline": "Danaher Targets Faster Growth With Acquisitions, AI and a Diagnostics Push",
-   "summary": "Danaher (NYSE:DHR) is focusing on commercial execution, innovation and acquisitions as it seeks faster core growth and market-share gains, company leader Julie said during a discussion with Tycho Peterson of the Life Science team. Julie,\u2026",
-   "url": "https://finnhub.io/api/news?id=a9d9f00f020109637501b75cd2b62d891c58932acfb2402640f5a936225a0252",
-   "source": "Yahoo",
-   "published": "2026-11-18T08:12:31+00:00",
-   "tickers": [
-    "DHR"
-   ],
-   "tag": "Health AI",
-   "sectors": [
-    "tools"
    ]
   }
  ]
