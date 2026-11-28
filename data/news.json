@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-28T11:02:45.673300+00:00",
+ "updated": "2026-11-28T11:17:18.138334+00:00",
  "quotes": {
   "ABBV": {
    "price": 291.88,
@@ -53,10 +53,6 @@
   "CI": {
    "price": 272.12,
    "change_pct": 0.26
-  },
-  "COR": {
-   "price": 354.34,
-   "change_pct": 0.08
   },
   "CRL": {
    "price": 337.39,
@@ -233,10 +229,6 @@
   "REGN": {
    "price": 992.14,
    "change_pct": 1.05
-  },
-  "ROIV": {
-   "price": 43.25,
-   "change_pct": 2.49
   },
   "SNY": {
    "price": 53.34,
@@ -955,6 +947,21 @@
    ]
   },
   {
+   "id": "30097f8a779b",
+   "headline": "AbbVie: Strong Core Growth, Long-Term Plan Tracks Well Into 2027",
+   "summary": "AbbVie (ABBV) stock is a buy, as the 20x estimated 2027 EPS of $16.22 supports a $324 valuation, leaving shares modestly undervalued.",
+   "url": "https://finnhub.io/api/news?id=7f3be7bed7bbf11c700f453a5bc6076851c5964936cca138de14628d76b82b4e",
+   "source": "SeekingAlpha",
+   "published": "2026-11-28T05:09:36+00:00",
+   "tickers": [
+    "ABBV"
+   ],
+   "tag": "Earnings",
+   "sectors": [
+    "pharma"
+   ]
+  },
+  {
    "id": "4b4c451af3e2",
    "headline": "Cathie Wood-Led Ark Invest Loads Up On SPCX, CRSP And TEM \u2014 But Sells SHOP, ILMN, BYD",
    "summary": "Ark\u2019s trading activity on Friday covered a mix of technology, biotechnology and electric vehicle-related stocks.",
@@ -1082,7 +1089,8 @@
    "source": "Yahoo",
    "published": "2026-11-28T02:09:16+00:00",
    "tickers": [
-    "LLY"
+    "LLY",
+    "NVO"
    ],
    "tag": "GLP-1",
    "sectors": [
@@ -36736,221 +36744,6 @@
    "tag": "Earnings",
    "sectors": [
     "pharma"
-   ]
-  },
-  {
-   "id": "e82a785f21b7",
-   "headline": "Here's How Much $100 Invested In IDEXX Laboratories 20 Years Ago Would Be Worth Today",
-   "summary": "IDEXX Laboratories (NASDAQ:IDXX) has outperformed the market over the past 20 years by 2.39% on an annualized basis producing an average annual return of 11.1%. Currently, IDEXX Laboratories has a market capitalization",
-   "url": "https://finnhub.io/api/news?id=f5e31f94e994f1bf158600685bd40d83ce76c344bd5477e24331623dffb7f843",
-   "source": "Benzinga",
-   "published": "2026-11-18T11:15:29+00:00",
-   "tickers": [
-    "IDXX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "86eb13bbb950",
-   "headline": "Regeneron Pharmaceuticals (NASDAQ:REGN) Combines High Growth Momentum With a Breakout Setup",
-   "summary": "Regeneron clears ChartMill's high growth momentum screen with strong technical and setup ratings, signaling a potential stock breakout opportunity.",
-   "url": "https://finnhub.io/api/news?id=4b9af040cf4684ec03049686d4a0dc02bf5c94cd22d25379648a5fe4c0b4e433",
-   "source": "ChartMill",
-   "published": "2026-11-18T11:10:59+00:00",
-   "tickers": [
-    "REGN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "dfeea6aae8ae",
-   "headline": "Argus Research Upgrades Elevance Health to Buy, Announces $510 Price Target",
-   "summary": "Argus Research analyst David Toung upgrades Elevance Health (NYSE:ELV) from Hold to Buy and announces $510 price target.",
-   "url": "https://finnhub.io/api/news?id=013662d85d7979e2cf612d0ec73ded4acd0c7c3734533cef9e415248838da08d",
-   "source": "Benzinga",
-   "published": "2026-11-18T11:10:00+00:00",
-   "tickers": [
-    "ELV"
-   ],
-   "tag": "M&A",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "220f08e4480e",
-   "headline": "Is CRISPR Therapeutics (CRSP) Undervalued As CTX310 Data Meets a Share Price Slide?",
-   "summary": "CRISPR Therapeutics (CRSP) is back in focus after fresh Phase 1b data on CTX310, its in vivo CRISPR therapy for severe hypertriglyceridemia, highlighted meaningful triglyceride and ANGPTL3 reductions with a generally manageable safety\u2026",
-   "url": "https://finnhub.io/api/news?id=b8712bc4bc3a40be4242571a7f40c5ee9cafadaf8181b0966941b6699af8c7a8",
-   "source": "Yahoo",
-   "published": "2026-11-18T11:09:49+00:00",
-   "tickers": [
-    "CRSP"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "3c05c38d482c",
-   "headline": "U.S. Targeted Value Portfolio-ETF (DFAT) Adds Coeur Mining and Option Care on Nov. 16",
-   "summary": "The fund bought $101.3 million of stock, lifted 295 positions and trimmed 37, for net buying of $71.6 million.",
-   "url": "https://finnhub.io/api/news?id=4f862605c1ea4ea77c199be453c65af8cdcec7d4c4b1977ef2cecd0e10e70cf5",
-   "source": "Yahoo",
-   "published": "2026-11-18T11:06:04+00:00",
-   "tickers": [
-    "OPCH"
-   ],
-   "tag": "News",
-   "sectors": [
-    "payers"
-   ]
-  },
-  {
-   "id": "76f2e4e1aff0",
-   "headline": "iShares Biotechnology ETF (IBB) Buys $16.2 Million More Gilead on Nov. 16",
-   "summary": "The fund added $176.7 million of stock in Monday's session, increasing 233 positions and trimming none.",
-   "url": "https://finnhub.io/api/news?id=54513825af945a04a966b729aac9e927b94f45595918677fc6f9008296313587",
-   "source": "Yahoo",
-   "published": "2026-11-18T11:05:32+00:00",
-   "tickers": [
-    "AMGN",
-    "GILD",
-    "MRNA",
-    "REGN",
-    "VRTX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "27614bb611fc",
-   "headline": "Capital Group Growth (CGGR) Buys $56.4 Million More Cloudflare on Nov. 16",
-   "summary": "The $25.18 billion ETF bought $189.7 million of stock and sold positions in 8 names, adding $56.4 million of Cloudflare and $37.9 million of Rocket Cos.",
-   "url": "https://finnhub.io/api/news?id=58fb9fc4d3f5c5a67d9859d373acf9a5d0125ac884c66bf9d0cfe3a90df4e2a9",
-   "source": "Yahoo",
-   "published": "2026-11-18T11:05:28+00:00",
-   "tickers": [
-    "VRTX"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "e1f35b440e3f",
-   "headline": "Invesco S&P 500 Equal Weight (RSP) Buys $0.7 Million More PTC on Nov. 16",
-   "summary": "The $104.44 billion fund bought $195.6 million of stock and sold nothing, lifting all 503 positions.",
-   "url": "https://finnhub.io/api/news?id=924d8fc409d4ff6f5a938585d445fc98827b742590675e78302fb8b50a6d7f6d",
-   "source": "Yahoo",
-   "published": "2026-11-18T11:05:24+00:00",
-   "tickers": [
-    "IDXX",
-    "MRNA"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "3c8497a37f67",
-   "headline": "What iShares Russell 2000 Index Fund (IWM) Bought: First Advantage Leads on Nov. 16",
-   "summary": "The fund added $169.6 million in new buying across 1,868 positions, led by a $5.9 million purchase of First Advantage.",
-   "url": "https://finnhub.io/api/news?id=c16b5ac27380594b35a5a713caafd524291ece9e8b1216cdaf072f6e39124dc9",
-   "source": "Yahoo",
-   "published": "2026-11-18T11:05:00+00:00",
-   "tickers": [
-    "GKOS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "ce3fcbdd41cc",
-   "headline": "What iShares A.I. Innovation ETF (BAI) Bought: CoreWeave Leads on Nov. 16",
-   "summary": "The fund bought $25.2 million of CoreWeave and $23.5 million of IQVIA while selling $64.4 million of Sandisk.",
-   "url": "https://finnhub.io/api/news?id=1d6bb11ef40b68675d1cc07ff4cc42bf28712a545d68027f6414ce60a82daf26",
-   "source": "Yahoo",
-   "published": "2026-11-18T11:04:49+00:00",
-   "tickers": [
-    "IQV"
-   ],
-   "tag": "News",
-   "sectors": [
-    "tools"
-   ]
-  },
-  {
-   "id": "28e877530052",
-   "headline": "Spdr Dow Jones (DIA) Sells Goldman Sachs and Caterpillar on Nov. 16",
-   "summary": "The fund sold $721.3 million of stock, trimming all 30 positions and adding nothing new.",
-   "url": "https://finnhub.io/api/news?id=d6ab19870dd3d05d376d228b05c75f6f7f5f6f7705728a8434202a26ce711455",
-   "source": "Yahoo",
-   "published": "2026-11-18T11:04:21+00:00",
-   "tickers": [
-    "AMGN"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "59ace5f01faa",
-   "headline": "ETFs Are Net Sellers of Zoetis (ZTS) on Monday",
-   "summary": "Zoetis (ZTS) saw $21.7 million in net ETF selling on Monday, with 29 funds buying and 10 selling.",
-   "url": "https://finnhub.io/api/news?id=a01633645fb71337fdc8b0245d5bf7ca663a97a77405a3cd8f765484d73b9d79",
-   "source": "Yahoo",
-   "published": "2026-11-18T11:03:35+00:00",
-   "tickers": [
-    "ZTS"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "c0c75492caaf",
-   "headline": "48 ETFs Add to Lilly (LLY) Holdings on Nov. 16",
-   "summary": "ETFs bought $141.8 million of Eli Lilly (LLY) shares on Monday.",
-   "url": "https://finnhub.io/api/news?id=768e01525e01ea9620b16956dc372941fbc9f8b691b031009ca7e8435a916eb2",
-   "source": "Yahoo",
-   "published": "2026-11-18T11:02:14+00:00",
-   "tickers": [
-    "LLY"
-   ],
-   "tag": "News",
-   "sectors": [
-    "pharma"
-   ]
-  },
-  {
-   "id": "93b450f5f6ee",
-   "headline": "ARWR: Commercial Momentum Builds Ahead of Potential Expansion into sHTG Market",
-   "summary": "By David Bautz, PhD NASDAQ: ARWR READ THE FULL ARWR RESEARCH REPORT Business Update Update on REDEMPLO Launch Arrowhead Pharmaceuticals, Inc. (NASDAQ: ARWR) reported encouraging progress with the U.S. launch of REDEMPLO for familial\u2026",
-   "url": "https://finnhub.io/api/news?id=58ed4c91ace748e53ee9d83f4c151e1cf138aed444b2e71aa5c6cab10a83746d",
-   "source": "Yahoo",
-   "published": "2026-11-18T11:02:00+00:00",
-   "tickers": [
-    "ARWR"
-   ],
-   "tag": "News",
-   "sectors": [
-    "biotech"
    ]
   }
  ]
