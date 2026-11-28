@@ -1,6 +1,6 @@
 {
  "site": "RxBriefing",
- "updated": "2026-11-28T07:02:35.928217+00:00",
+ "updated": "2026-11-28T07:17:24.130383+00:00",
  "quotes": {
   "ABBV": {
    "price": 291.88,
@@ -89,6 +89,10 @@
   "EXEL": {
    "price": 67.61,
    "change_pct": 0.54
+  },
+  "GDRX": {
+   "price": 2.4,
+   "change_pct": 0.84
   },
   "GEHC": {
    "price": 84.62,
@@ -1012,6 +1016,21 @@
    "tag": "FDA",
    "sectors": [
     "biotech"
+   ]
+  },
+  {
+   "id": "787470b3a96c",
+   "headline": "GoodRx (GDRX) Stock Fair Value Falls As Analysts Cut Growth Expectations",
+   "summary": "The fair value estimate for GoodRx Holdings has been trimmed from US$3.95 to US$3.63 per share, which lines up with updated analyst price targets clustering in the US$2.50 to US$3.50 range. Recent commentary reflects a balance of cautious\u2026",
+   "url": "https://finnhub.io/api/news?id=0d9e51115d4d9c4e685fc457fed56d196f5a7198c812c5b6ebf047f2c1b5224d",
+   "source": "Yahoo",
+   "published": "2026-11-28T03:12:11+00:00",
+   "tickers": [
+    "GDRX"
+   ],
+   "tag": "Analyst",
+   "sectors": [
+    "pharmacy"
    ]
   },
   {
@@ -37709,66 +37728,6 @@
    "tag": "Earnings",
    "sectors": [
     "payers"
-   ]
-  },
-  {
-   "id": "115cceb79ae1",
-   "headline": "DexCom Sees Record New Patients in 2026 as Medicare Coverage Decision Looms",
-   "summary": "DexCom (NASDAQ:DXCM) expects a record number of new patients in 2026 and is preparing for a potential expansion of Medicare coverage for continuous glucose monitoring, executives said during a discussion hosted by Jefferies. CEO Jake\u2026",
-   "url": "https://finnhub.io/api/news?id=4dd75820392b7f775c48bad5449fd903883d6263086bd2be94b1c89260b46902",
-   "source": "Yahoo",
-   "published": "2026-11-18T07:12:08+00:00",
-   "tickers": [
-    "DXCM"
-   ],
-   "tag": "Policy",
-   "sectors": [
-    "medtech"
-   ]
-  },
-  {
-   "id": "52524b04432f",
-   "headline": "Summit Therapeutics Initiates Global Phase III Clinical Trial Of Ivonescimab In Non-Small Cell Lung Cancer; Expects Global Clinical Trial Site Activations For HARMONi-10 To Begin In Q4 2026",
-   "summary": "The study, HARMONi-10, will evaluate ivonescimab compared with durvalumab as consolidation therapy in patients with locally advanced, unresectable Stage III NSCLC who have not experienced disease progression following",
-   "url": "https://finnhub.io/api/news?id=18af5bf49e4f22630d655acef72bc9c719e2cfc80c33655a439424f5a562c4da",
-   "source": "Benzinga",
-   "published": "2026-11-18T07:12:02+00:00",
-   "tickers": [
-    "SMMT"
-   ],
-   "tag": "Clinical",
-   "sectors": [
-    "biotech"
-   ]
-  },
-  {
-   "id": "addcb969a9e0",
-   "headline": "Recursion Has Aligned With the FDA on Its Registrational Phase 3 Trial of Rec-4881 for Familial Adenomatous Polyposis; Trial on Track to Begin in 2H of 2027",
-   "summary": "REC-4881 is among the first AI-enabled programs to advance a registrational Phase 3 trial design for a disease with no approved pharmacologic therapies. Its potential as a first-in-class oral therapy for FAP was",
-   "url": "https://finnhub.io/api/news?id=a65ad174367b7d2b7db52018ef0476eb4e6a9a4bd81ed7b67a5f2fedcd07d696",
-   "source": "Benzinga",
-   "published": "2026-11-18T07:10:07+00:00",
-   "tickers": [
-    "RXRX"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "healthai"
-   ]
-  },
-  {
-   "id": "4442c46ef7d9",
-   "headline": "Does Flexible Libtayo Dosing Change The Bull Case For Regeneron Pharmaceuticals Stock?",
-   "summary": "Regeneron Pharmaceuticals reported that the European Commission has approved a new, flexible Libtayo dosing schedule across all existing EU cancer indications, including skin, lung and cervical cancers. The updated schedule introduces\u2026",
-   "url": "https://finnhub.io/api/news?id=47bb1019432726c8ac22a86350503b77922ef407f98687470e3b3c0df6b74d99",
-   "source": "Yahoo",
-   "published": "2026-11-18T07:08:23+00:00",
-   "tickers": [
-    "REGN"
-   ],
-   "tag": "FDA",
-   "sectors": [
-    "pharma"
    ]
   }
  ]
